@@ -741,7 +741,7 @@ From the merged map's section 3, group 3 (people, incentives and culture), with 
 ## Q6 — WHAT WILL THEY DO WITH THE MONEY AND WITH THE OWNERS? WEIGHING.
 
 **The question in the speakers' words.** The 1993 letter names it as a factor of its own, split off from the manager's
-ability to run the business:
+ability to run the business **[L1993-020]**:
 
 > "2) The certainty with which management can be evaluated, both as to its ability to realize the full potential of the business and to wisely employ its cash flows; 3) The certainty with which management can be counted on to channel the rewards from the business to the shareholders rather than to itself" **[L1993-020]** (1993)
 
@@ -1116,7 +1116,7 @@ The industry matters only as evidence about the cash **[M1998-149]**, and growth
 
 > "The moat and the management are part of the valuation process, in that they enter into our thinking as to **the degree of certainty** that we attribute to the stream of income — stream of cash, actually — that we expect in the future and the amount of it." — **[M1999-104]**, 1999 meeting
 
-In 2019 the bush gains a fourth and fifth question, who will try to take it and what the worst case is:
+In 2019 the bush gains a fourth and fifth question, who will try to take it and what the worst case is **[M2019-023]**:
 
 > "how certain he is that he’s going to get to the bush, you know, and then **who else is going to come and try and take the bush away** [...] And your success in investing depends on how well you were able to figure out how certain that bush is, how far away it is, and **what the worst case is**" — **[M2019-023]**, 2019 meeting
 
@@ -1132,7 +1132,7 @@ Value comes from what the asset produces. Money expected from what someone else 
 
 > "I mean, **the yardstick for me is always the U.S. Treasury**." — **[M2020-006]**, 2020 meeting
 
-**No risk premium is stacked into the rate.** The rows state this most firmly in 1996 and 1998, in the words the merged map flags:
+**No risk premium is stacked into the rate.** The rows state this most firmly in 1996 and 1998 **[M1996-024]**, **[M1996-025]**, **[M1998-151]**, in the words the merged map flags:
 
 > "But **we don’t put the risk factor in, per se**, because essentially, the purity of the idea is that you’re discounting future cash. And it doesn’t make any difference whether cash comes from a risky business or a safe business — so-called safe business." — **[M1996-024]**, 1996 meeting
 
