@@ -1,0 +1,301 @@
+ticker,cik,name,venue,cap_m,band,worst5_ni_m,yld,passed
+LADR,1577670,Ladder Capital Corp,NYSE,57,micro,56.9,0.99788,True
+HOVVB,357294,HOVNANIAN ENTERPRISES INC,OTC Markets OTCPK,79,micro,63.9,0.80603,True
+SITC,894315,SITE Centers Corp.,NYSE,157,micro,124.9,0.79494,True
+HOV,357294,HOVNANIAN ENTERPRISES INC,NYSE,93,micro,63.9,0.68324,True
+EMBC,1872789,Embecta Corp.,NasdaqGS,286,micro,70.4,0.24604,True
+CUBB,1488813,"Customers Bancorp, Inc.",NYSE,740,smallmid,181.5,0.24527,True
+MBINN,1629019,Merchants Bancorp,NasdaqCM,914,smallmid,218.8,0.23931,True
+MBINL,1629019,Merchants Bancorp,NasdaqCM,1151,smallmid,218.8,0.19001,True
+MBINM,1629019,Merchants Bancorp,NasdaqCM,1176,smallmid,218.8,0.18603,True
+BCSF,1655050,"Bain Capital Specialty Finance, Inc.",NYSE,774,smallmid,98.8,0.12761,True
+SD,1349436,SANDRIDGE ENERGY INC,NYSE,515,smallmid,60.9,0.11817,True
+ASIX,1673985,AdvanSix Inc.,NYSE,446,smallmid,44.1,0.09898,True
+NEWT,1587987,"NewtekOne, Inc.",NasdaqGM,344,smallmid,32.3,0.09392,True
+CPSS,889609,"CONSUMER PORTFOLIO SERVICES, INC.",NasdaqGM,205,micro,19.2,0.09378,True
+CGBD,1544206,"Carlyle Secured Lending, Inc.",NasdaqGS,811,smallmid,70.0,0.08633,True
+ETD,896156,ETHAN ALLEN INTERIORS INC,NYSE,598,smallmid,51.6,0.08632,True
+CASH,907471,"PATHWARD FINANCIAL, INC.",NasdaqGS,1689,smallmid,141.7,0.0839,True
+UBCP,731653,UNITED BANCORP INC /OH/,NasdaqCM,90,micro,7.4,0.08215,True
+SGU,1002590,"STAR GROUP, L.P.",NYSE,418,smallmid,31.9,0.07651,True
+CCS,1576940,"Century Communities, Inc.",NYSE,1958,smallmid,147.6,0.0754,True
+SNFCA,318673,SECURITY NATIONAL FINANCIAL CORP,NasdaqGM,199,micro,14.5,0.07301,True
+SBSI,705432,SOUTHSIDE BANCSHARES INC,NYSE,952,smallmid,69.2,0.07273,True
+AMPH,1297184,"Amphastar Pharmaceuticals, Inc.",NasdaqGS,938,smallmid,62.1,0.06619,True
+PCB,1423869,PCB BANCORP,NasdaqGS,390,smallmid,25.8,0.06618,True
+FINW,1856365,Finwise Bancorp,NasdaqGM,196,micro,12.7,0.06505,True
+PEBK,1093672,PEOPLES BANCORP OF NORTH CAROLINA INC,NasdaqGM,239,micro,15.1,0.06325,True
+HBCP,1436425,"HOME BANCORP, INC.",NasdaqGS,548,smallmid,34.1,0.06214,True
+UVSP,102212,UNIVEST FINANCIAL Corp,NasdaqGS,1149,smallmid,71.1,0.06189,True
+UNTY,920427,UNITY BANCORP INC /NJ/,NasdaqGM,589,smallmid,36.1,0.06127,True
+TSLX,1508655,"Sixth Street Specialty Lending, Inc.",NYSE,1787,smallmid,108.1,0.06048,True
+RMR,1644378,RMR GROUP INC.,NasdaqCM,292,micro,17.6,0.06019,True
+KOP,1315257,Koppers Holdings Inc.,NYSE,879,smallmid,52.4,0.0596,True
+SCM,1551901,Stellus Capital Investment Corp,NYSE,249,micro,14.5,0.05829,True
+OVLY,1431567,Oak Valley Bancorp,NasdaqCM,288,micro,16.3,0.05668,True
+FLO,1128928,FLOWERS FOODS INC,NYSE,1496,smallmid,83.8,0.05603,True
+FCAP,1070296,FIRST CAPITAL INC,NasdaqCM,207,micro,11.4,0.05527,True
+PROV,1010470,PROVIDENT FINANCIAL HOLDINGS INC,NasdaqGS,115,micro,6.3,0.05451,True
+AXR,6207,AMREP CORP.,NYSE,124,micro,6.7,0.05385,True
+MCB,1476034,Metropolitan Bank Holding Corp.,NYSE,1137,smallmid,59.4,0.05228,True
+BFST,1624322,"Business First Bancshares, Inc.",NasdaqGS,1021,smallmid,52.1,0.05106,False
+OLP,712770,ONE LIBERTY PROPERTIES INC,NYSE,527,smallmid,25.5,0.04835,False
+GSBD,1572694,"Goldman Sachs BDC, Inc.",NYSE,1140,smallmid,55.0,0.04823,False
+WEYS,106532,WEYCO GROUP INC,NasdaqGS,433,smallmid,20.6,0.04751,False
+HBIA,732417,HILLS BANCORPORATION,OTC Markets OTCID,816,smallmid,38.2,0.04678,False
+NEWTH,1587987,"NewtekOne, Inc.",NasdaqGM,727,smallmid,32.3,0.04442,False
+NEWTP,1587987,"NewtekOne, Inc.",NasdaqGM,729,smallmid,32.3,0.0443,False
+CRCT,1828962,"Cricut, Inc.",NasdaqGS,1214,smallmid,53.6,0.04417,False
+NEWTI,1587987,"NewtekOne, Inc.",NasdaqGM,742,smallmid,32.3,0.04356,False
+NEWTG,1587987,"NewtekOne, Inc.",NasdaqGM,744,smallmid,32.3,0.04342,False
+NEWTO,1587987,"NewtekOne, Inc.",NasdaqGM,751,smallmid,32.3,0.04302,False
+SMPL,1702744,Simply Good Foods Co,NasdaqCM,967,smallmid,40.9,0.04228,False
+VEL,1692376,"Velocity Financial, Inc.",NYSE,711,smallmid,29.2,0.0411,False
+USNA,896264,USANA HEALTH SCIENCES INC,NYSE,263,micro,10.8,0.04084,False
+ALG,897077,ALAMO GROUP INC,NYSE,1996,smallmid,80.2,0.0402,False
+ICFI,1362004,"ICF International, Inc.",NasdaqGS,1619,smallmid,64.2,0.03968,False
+MSDL,1782524,Morgan Stanley Direct Lending Fund,NYSE,1277,smallmid,48.5,0.03802,False
+FCCO,932781,FIRST COMMUNITY CORP /SC/,NasdaqCM,317,smallmid,11.8,0.03733,False
+OPHC,1288855,"OptimumBank Holdings, Inc.",NYSE American,110,micro,4.0,0.03664,False
+EFSI,880641,EAGLE FINANCIAL SERVICES INC,NasdaqCM,225,micro,8.2,0.03657,False
+CCB,1437958,COASTAL FINANCIAL CORP,NasdaqGS,741,smallmid,27.0,0.03644,False
+CLB,1958086,Core Laboratories Inc. /DE/,NYSE,567,smallmid,19.5,0.0343,False
+PEBO,318300,PEOPLES BANCORP INC,NasdaqGS,1428,smallmid,47.6,0.03331,False
+IIIN,764401,INSTEEL INDUSTRIES INC,NYSE,588,smallmid,19.3,0.0328,False
+NGVC,1547459,"Natural Grocers by Vitamin Cottage, Inc.",NYSE,638,smallmid,20.6,0.03225,False
+MSEX,66004,MIDDLESEX WATER CO,NasdaqGS,1100,smallmid,31.5,0.02866,False
+NCDL,1737924,Nuveen Churchill Direct Lending Corp.,NYSE,608,smallmid,17.3,0.02843,False
+GRNT,1928446,"Granite Ridge Resources, Inc.",NYSE,667,smallmid,18.8,0.02811,False
+UHT,798783,UNIVERSAL HEALTH REALTY INCOME TRUST,NYSE,576,smallmid,15.4,0.02672,False
+WFCF,1360565,"Where Food Comes From, Inc.",NasdaqCM,62,micro,1.5,0.02468,False
+WRLD,108385,WORLD ACCEPTANCE CORP,NasdaqGS,885,smallmid,21.2,0.024,False
+BRBR,1772016,"BELLRING BRANDS, INC.",NYSE,1243,smallmid,27.6,0.0222,False
+ALX,3499,ALEXANDERS INC,NYSE,1384,smallmid,28.2,0.02039,False
+ISTR,1602658,Investar Holding Corp,NasdaqGM,418,smallmid,8.0,0.01915,False
+FRD,39092,FRIEDMAN INDUSTRIES INC,NasdaqGS,319,smallmid,6.1,0.01909,False
+OPXS,1397016,Optex Systems Holdings Inc,NasdaqCM,70,micro,1.3,0.01825,False
+LOVE,1701758,Lovesac Co,NasdaqGM,234,micro,4.1,0.01737,False
+TRS,842633,TRIMAS CORP,NasdaqGS,1422,smallmid,24.2,0.01705,False
+BUKS,15847,BUTLER NATIONAL CORP,OTC Markets OTCQX,272,micro,4.5,0.01658,False
+NSSC,69633,"NAPCO SECURITY TECHNOLOGIES, INC",NasdaqGS,1270,smallmid,19.6,0.01543,False
+AUBN,750574,"AUBURN NATIONAL BANCORPORATION, INC",NasdaqGM,92,micro,1.4,0.01521,False
+MRTN,799167,MARTEN TRANSPORT LTD,NasdaqGS,1171,smallmid,17.4,0.0149,False
+GOLD,1591588,"Gold.com, Inc.",NYSE,1295,smallmid,17.3,0.01338,False
+FC,886206,FRANKLIN COVEY CO,NYSE,231,micro,3.1,0.01331,False
+LINC,1286613,LINCOLN EDUCATIONAL SERVICES CORP,NasdaqGS,782,smallmid,9.9,0.01265,False
+SODI,91668,SOLITRON DEVICES INC,OTC Markets OTCPK,68,micro,0.8,0.0119,False
+UTGN,832480,UTG INC,OTC Markets OTCPK,170,micro,2.0,0.01153,False
+III,1371489,Information Services Group Inc.,NasdaqGM,249,micro,2.8,0.0114,False
+GWRS,1434728,"Global Water Resources, Inc.",NasdaqGM,261,micro,3.0,0.01131,False
+FSI,1069394,FLEXIBLE SOLUTIONS INTERNATIONAL INC,NYSE American,74,micro,0.8,0.01058,False
+PDEX,788920,PRO DEX INC,NasdaqCM,202,micro,2.1,0.01054,False
+CRTO,1576427,Criteo S.A.,NasdaqGS,865,smallmid,9.0,0.01035,False
+ALNT,46129,ALLIENT INC,NasdaqGM,1597,smallmid,13.2,0.00824,False
+EPAC,6955,ENERPAC TOOL GROUP CORP,NYSE,1923,smallmid,15.7,0.00816,False
+LYTS,763532,LSI INDUSTRIES INC,NasdaqGS,726,smallmid,5.9,0.00808,False
+SMID,924719,SMITH MIDLAND CORP,NasdaqCM,134,micro,0.8,0.00591,False
+AVNW,1377789,"AVIAT NETWORKS, INC.",NasdaqGS,261,micro,1.3,0.00515,False
+FREVS,36840,FIRST REAL ESTATE INVESTMENT TRUST OF NE,OTC Markets OTCPK,159,micro,0.8,0.00478,False
+BBDC,1379785,"Barings BDC, Inc.",NYSE,979,smallmid,4.7,0.00478,False
+HWBK,893847,"HAWTHORN BANCSHARES, INC.",NasdaqGS,271,micro,1.0,0.00353,False
+RDVT,1720116,"Red Violet, Inc.",NasdaqCM,1176,smallmid,0.6,0.00052,False
+ANVI,1570132,"ANVI GLOBAL HOLDINGS, INC.",OTC Markets OTCQB,295,micro,-0.2,-0.00078,False
+SGLA,1433551,Sino Green Land Corp.,OTC Markets OTCID,1963,smallmid,-1.8,-0.00092,False
+APHD,1490054,"VERDE BIO HOLDINGS, INC.",OTC Markets OTCID,1071,smallmid,-3.4,-0.00321,False
+SDCO,1331421,"SDR Drone, Inc.",OTC Markets OTCID,87,micro,-0.3,-0.00332,False
+FXA,1353614,Invesco CurrencyShares Australian Dollar,NYSEArca,103,micro,-0.5,-0.00533,False
+INOD,903651,INNODATA INC,NasdaqGM,1944,smallmid,-11.9,-0.00614,False
+FCCN,1131903,SPECTRAL CAPITAL Corp,OTC Markets OTCQB,526,smallmid,-3.3,-0.00622,False
+BV,1734713,"BrightView Holdings, Inc.",NYSE,1039,smallmid,-7.7,-0.00741,False
+DMC,1047340,DEL MONTE CORP,NYSE,1500,smallmid,-11.4,-0.0076,False
+GHM,716314,GRAHAM CORP,NYSE,1022,smallmid,-8.8,-0.00859,False
+THM,1134115,INTERNATIONAL TOWER HILL MINES LTD,NYSE American,682,smallmid,-6.0,-0.00877,False
+BWMN,1847590,Bowman Consulting Group Ltd.,NasdaqGM,738,smallmid,-6.6,-0.00897,False
+HCIL,1086303,"Hongchang International Co., Ltd",OTC Markets OTCPK,61,micro,-0.5,-0.00903,False
+FXC,1353612,Invesco CurrencyShares Canadian Dollar T,NYSEArca,77,micro,-0.7,-0.00923,False
+CVU,889348,CPI AEROSTRUCTURES INC,NYSE American,71,micro,-0.8,-0.01188,False
+VTOL,1525221,Bristow Group Inc.,NYSE,1296,smallmid,-15.8,-0.01218,False
+MNRO,876427,"MONRO, INC.",NasdaqGS,397,smallmid,-5.2,-0.01307,False
+GWLL,1800373,"GOLDENWELL BIOTECH, INC.",OTC Markets OTCQB,69,micro,-1.0,-0.01421,False
+TRIN,1786108,Trinity Capital Inc.,NYSE,1758,smallmid,-30.4,-0.01728,False
+UVE,891166,"UNIVERSAL INSURANCE HOLDINGS, INC.",NYSE,1208,smallmid,-22.3,-0.01843,False
+UFCS,101199,UNITED FIRE GROUP INC,NasdaqGS,1385,smallmid,-29.7,-0.02145,False
+ALMU,1828805,"Aeluma, Inc.",NasdaqCM,241,micro,-5.4,-0.02237,False
+COBA,1727255,Chilean Cobalt Corp.,OTC Markets OTCQB,138,micro,-3.3,-0.02361,False
+WHG,1165002,WESTWOOD HOLDINGS GROUP INC,NYSE,185,micro,-4.6,-0.025,False
+INSP,1609550,"Inspire Medical Systems, Inc.",NYSE,1778,smallmid,-44.9,-0.02525,False
+XIFR,1603145,"XPLR Infrastructure, LP",NYSE,1108,smallmid,-28.0,-0.02528,False
+HLMN,1822492,Hillman Solutions Corp.,NasdaqGM,1512,smallmid,-38.3,-0.02536,False
+AMSC,880807,AMERICAN SUPERCONDUCTOR CORP /DE/,NasdaqGS,1377,smallmid,-35.0,-0.02544,False
+VTS,1944558,"Vitesse Energy, Inc.",NYSE,724,smallmid,-19.7,-0.02728,False
+INNV,1834376,InnovAge Holding Corp.,NasdaqGS,1474,smallmid,-44.0,-0.02984,False
+AGNT,1495932,"AGNT, Inc.",NasdaqGM,709,smallmid,-22.7,-0.03202,False
+BBCP,1703956,"Concrete Pumping Holdings, Inc.",NasdaqCM,464,smallmid,-15.1,-0.03248,False
+SONO,1314727,Sonos Inc,NasdaqGS,1825,smallmid,-61.1,-0.03351,False
+CIA,24090,"CITIZENS, INC.",NYSE,198,micro,-6.6,-0.03361,False
+OCC,1000230,OPTICAL CABLE CORP,NasdaqGM,121,micro,-4.2,-0.03471,False
+AEAE,1852016,AltEnergy Acquisition Corp,OTC Markets OTCPK,75,micro,-2.7,-0.03585,False
+FRST,1325670,Primis Financial Corp.,NasdaqGM,400,smallmid,-16.2,-0.04056,False
+FBRX,1419041,"Forte Biosciences, Inc.",NasdaqCM,1634,smallmid,-69.4,-0.04245,False
+BNC,1482541,CEA Industries Inc.,NasdaqCM,125,micro,-5.5,-0.04404,False
+TTSH,1552800,"TILE SHOP HOLDINGS, INC.",OTC Markets OTCPK,102,micro,-4.5,-0.04426,False
+MDXG,1376339,"MIMEDX GROUP, INC.",NasdaqCM,657,smallmid,-30.2,-0.04599,False
+ORN,1402829,Orion Group Holdings Inc,NYSE,376,smallmid,-17.9,-0.04753,False
+OXM,75288,OXFORD INDUSTRIES INC,NYSE,572,smallmid,-27.9,-0.04876,False
+NUVR,71557,"Nuvera Communications, Inc.",OTC Markets OTCQB,90,micro,-4.4,-0.04909,False
+QNRX,1671502,"Quoin Pharmaceuticals, Ltd.",NasdaqCM,430,smallmid,-21.5,-0.04989,False
+UDN,1383149,INVESCO DB US DOLLAR INDEX BEARISH FUND,NYSEArca,109,micro,-5.5,-0.05082,False
+LIFX,1581760,"Life360, Inc.",OTC Markets OTCPK,1801,smallmid,-91.6,-0.05088,False
+MNSBP,1693577,"MainStreet Bancshares, Inc.",NasdaqCM,184,micro,-10.0,-0.05422,False
+PRLB,1443669,Proto Labs Inc,NYSE,1889,smallmid,-103.5,-0.05477,False
+RCAT,748268,"Red Cat Holdings, Inc.",NasdaqCM,1299,smallmid,-72.1,-0.05549,False
+HTLD,799233,HEARTLAND EXPRESS INC,NasdaqGS,943,smallmid,-52.5,-0.0556,False
+MNSB,1693577,"MainStreet Bancshares, Inc.",NasdaqCM,179,micro,-10.0,-0.05572,False
+RIGL,1034842,RIGEL PHARMACEUTICALS INC,NasdaqGS,866,smallmid,-58.6,-0.06765,False
+LTBR,1084554,LIGHTBRIDGE Corp,NasdaqCM,282,micro,-19.6,-0.06933,False
+PZG,1629210,Paramount Gold Nevada Corp.,NYSE American,126,micro,-9.1,-0.07202,False
+ABUS,1447028,Arbutus Biopharma Corp,NasdaqGS,1011,smallmid,-76.2,-0.07542,False
+ABSI,1672688,Absci Corp,NasdaqGS,1495,smallmid,-115.2,-0.07706,False
+MHH,1437226,"Mastech Digital, Inc.",NYSE American,89,micro,-7.1,-0.08063,False
+DTCX,1853825,"Datacentrex, Inc.",NasdaqCM,104,micro,-8.5,-0.08147,False
+JYNT,1612630,JOINT Corp,NasdaqCM,119,micro,-9.8,-0.08189,False
+DJCO,783412,DAILY JOURNAL CORP,NasdaqCM,862,smallmid,-75.6,-0.08774,False
+GECCH,1675033,Great Elm Capital Corp.,NasdaqGM,352,smallmid,-31.8,-0.09039,False
+GECCI,1675033,Great Elm Capital Corp.,NasdaqGM,351,smallmid,-31.8,-0.0906,False
+GECCG,1675033,Great Elm Capital Corp.,NasdaqGM,344,smallmid,-31.8,-0.09243,False
+NPCE,1528287,NeuroPace Inc,NasdaqGM,495,smallmid,-47.1,-0.09519,False
+OVID,1636651,Ovid Therapeutics Inc.,NasdaqCM,546,smallmid,-54.2,-0.09924,False
+OABI,1846253,"OmniAb, Inc.",NasdaqGM,650,smallmid,-64.8,-0.09968,False
+CERS,1020214,CERUS CORP,NasdaqGM,537,smallmid,-54.4,-0.10124,False
+ULCC,1670076,"Frontier Group Holdings, Inc.",NasdaqGS,1342,smallmid,-137.0,-0.10209,False
+STRS,885508,STRATUS PROPERTIES INC,OTC Markets OTCPK,152,micro,-16.5,-0.10868,False
+MGTX,1735438,MeiraGTx Holdings plc,NasdaqGS,1327,smallmid,-147.8,-0.11135,False
+KVHI,1007587,KVH INDUSTRIES INC \DE\,NasdaqGS,136,micro,-15.4,-0.11358,False
+ZCSH,1720265,Zcash ETF,OTC Markets OTCQX,309,smallmid,-36.2,-0.11691,False
+GPRE,1309402,Green Plains Inc.,NasdaqGS,1029,smallmid,-127.2,-0.12363,False
+BAFN,1649739,BayFirst Financial Corp.,NasdaqCM,178,micro,-22.9,-0.1287,False
+FSEA,1943802,"First Seacoast Bancorp, Inc.",NasdaqCM,81,micro,-10.7,-0.13181,False
+IPWR,1507957,Ideal Power Inc.,NasdaqCM,78,micro,-10.6,-0.13637,False
+AEVA,1789029,"Aeva Technologies, Inc.",NasdaqGS,1090,smallmid,-152.3,-0.13975,False
+BLMN,1546417,"Bloomin' Brands, Inc.",NasdaqGS,903,smallmid,-128.0,-0.14179,False
+CXM,1569345,"Sprinklr, Inc.",NYSE,779,smallmid,-111.5,-0.14311,False
+IKT,1750149,"Inhibikase Therapeutics, Inc.",NasdaqCM,336,smallmid,-48.3,-0.14351,False
+TDAY,1579684,"USA TODAY Co., Inc.",NYSE,936,smallmid,-135.0,-0.1442,False
+BRBS,842717,"BLUE RIDGE BANKSHARES, INC.",NYSE American,352,smallmid,-51.8,-0.14688,False
+FET,1401257,"FORUM ENERGY TECHNOLOGIES, INC.",NYSE,909,smallmid,-135.3,-0.14895,False
+ACRE,1529377,Ares Commercial Real Estate Corp,NYSE,258,micro,-38.9,-0.15049,False
+FCEL,886128,FUELCELL ENERGY INC,NasdaqGM,1198,smallmid,-187.9,-0.1568,False
+AEYE,1362190,AUDIOEYE INC,NasdaqCM,90,micro,-14.2,-0.15766,False
+ANIP,1023024,ANI PHARMACEUTICALS INC,NasdaqGM,298,micro,-47.9,-0.16062,False
+SGC,95574,"SUPERIOR GROUP OF COMPANIES, INC.",NasdaqGM,196,micro,-32.0,-0.16321,False
+STXS,1289340,"Stereotaxis, Inc.",NYSE American,147,micro,-24.0,-0.1638,False
+RZLT,1509261,"Rezolute, Inc.",NasdaqCM,443,smallmid,-74.4,-0.16799,False
+HUN,1307954,Huntsman CORP,NYSE,1670,smallmid,-284.0,-0.17004,False
+TECX,1681087,"Tectonic Therapeutic, Inc.",NasdaqGM,696,smallmid,-119.1,-0.17107,False
+SGHT,1531177,"Sight Sciences, Inc.",NasdaqGS,471,smallmid,-86.2,-0.1831,False
+OEC,1609804,Orion S.A.,NYSE,358,smallmid,-70.1,-0.19562,False
+TLSI,1826667,"TriSalus Life Sciences, Inc.",NasdaqGM,297,micro,-59.0,-0.19851,False
+JBGS,1689796,JBG SMITH Properties,NYSE,723,smallmid,-143.5,-0.19862,False
+NCMI,1377630,"National CineMedia, Inc.",NasdaqGS,242,micro,-48.7,-0.20105,False
+ZUMZ,1318008,Zumiez Inc,NasdaqGS,309,smallmid,-62.6,-0.20245,False
+WVE,1631574,"Wave Life Sciences, Inc.",NasdaqGM,1005,smallmid,-204.4,-0.20337,False
+NRGV,1828536,"Energy Vault Holdings, Inc.",NYSE,644,smallmid,-135.8,-0.21089,False
+BCIC,1372807,BCP Investment Corp,NasdaqGS,96,micro,-21.0,-0.21793,False
+LSAK,1041514,LESAKA TECHNOLOGIES INC,NasdaqGS,394,smallmid,-87.5,-0.22236,False
+TBPH,1583107,"Theravance Biopharma, Inc.",NasdaqGM,885,smallmid,-199.4,-0.22535,False
+BDSX,1439725,BIODESIX INC,NasdaqGM,283,micro,-65.4,-0.23119,False
+SERV,1832483,Serve Robotics Inc. /DE/,NasdaqCM,436,smallmid,-101.4,-0.23241,False
+PHR,1412408,"Phreesia, Inc.",NYSE,751,smallmid,-176.1,-0.23454,False
+GEVO,1392380,"Gevo, Inc.",NasdaqCM,417,smallmid,-98.0,-0.23526,False
+BNED,1634117,"Barnes & Noble Education, Inc.",NYSE,420,smallmid,-101.9,-0.2423,False
+KURA,1422143,"Kura Oncology, Inc.",NasdaqGS,1130,smallmid,-278.7,-0.24665,False
+AFCG,1822523,Advanced Flower Capital Inc.,NasdaqGM,82,micro,-20.7,-0.25329,False
+JACK,807882,JACK IN THE BOX INC,NasdaqGS,311,smallmid,-80.7,-0.25931,False
+RWT,930236,REDWOOD TRUST INC,NYSE,580,smallmid,-163.5,-0.28177,False
+SEAT,1856031,Vivid Seats Inc.,NasdaqGS,68,micro,-19.1,-0.28267,False
+NTLA,1652130,"Intellia Therapeutics, Inc.",NasdaqGM,1813,smallmid,-519.0,-0.28635,False
+FLNC,1868941,"Fluence Energy, Inc.",NasdaqGS,560,smallmid,-162.0,-0.28913,False
+ANIK,898437,"Anika Therapeutics, Inc.",NasdaqGS,285,micro,-82.7,-0.28987,False
+TARA,1359931,"Protara Therapeutics, Inc.",NasdaqGM,226,micro,-66.0,-0.29215,False
+MGPI,835011,MGP INGREDIENTS INC,NasdaqGS,362,smallmid,-107.8,-0.2977,False
+GRPN,1490281,"Groupon, Inc.",NasdaqGS,791,smallmid,-237.6,-0.30026,False
+CING,1862150,Cingulate Inc.,NasdaqCM,77,micro,-23.5,-0.30393,False
+FLGT,1674930,"Fulgent Genetics, Inc.",NasdaqGM,541,smallmid,-167.8,-0.31,False
+NWBO,1072379,NORTHWEST BIOTHERAPEUTICS INC,OTC Markets OTCQB,331,smallmid,-105.0,-0.31742,False
+VIR,1706431,"Vir Biotechnology, Inc.",NasdaqGS,1833,smallmid,-615.1,-0.33565,False
+LNSR,1320350,"LENSAR, Inc.",NasdaqCM,102,micro,-34.3,-0.33617,False
+RLMD,1553643,"RELMADA THERAPEUTICS, INC.",NasdaqCM,465,smallmid,-157.0,-0.33806,False
+ARRY,1820721,"Array Technologies, Inc.",NasdaqGM,707,smallmid,-240.4,-0.34007,False
+HCMC,844856,Healthier Choices Management Corp.,OTC Markets OTCPK,53,micro,-18.5,-0.35061,False
+VELO,1825079,"Velo3D, Inc.",NasdaqCM,382,smallmid,-135.1,-0.35413,False
+BNAI,1838163,Brand Engagement Network Inc.,NasdaqCM,94,micro,-33.7,-0.35706,False
+CCO,1334978,"Clear Channel Outdoor Holdings, Inc.",NYSE,1189,smallmid,-433.8,-0.36494,False
+CNVS,1173204,Cineverse Corp.,NasdaqCM,57,micro,-21.3,-0.37119,False
+GECC,1675033,Great Elm Capital Corp.,NasdaqGM,85,micro,-31.8,-0.37335,False
+OFIX,884624,Orthofix Medical Inc.,NasdaqGS,396,smallmid,-151.4,-0.38192,False
+LRMR,1374690,"Larimar Therapeutics, Inc.",NasdaqGM,416,smallmid,-165.7,-0.3982,False
+LEG,58492,LEGGETT & PLATT INC,NYSE,1257,smallmid,-511.5,-0.40704,False
+HIPO,1828105,Hippo Holdings Inc.,NYSE,876,smallmid,-371.4,-0.42417,False
+BATL,1282648,BATTALION OIL CORP,NYSE American,74,micro,-31.9,-0.42979,False
+ATLX,1540684,Atlas Lithium Corp,NasdaqCM,95,micro,-42.2,-0.44675,False
+AIV,922864,APARTMENT INVESTMENT & MANAGEMENT CO,NYSE,368,smallmid,-166.2,-0.45129,False
+CCLD,1582982,"CareCloud, Inc.",NasdaqGM,106,micro,-48.7,-0.45909,False
+ARCT,1768224,Arcturus Therapeutics Holdings Inc.,NasdaqGM,432,smallmid,-203.7,-0.47174,False
+RBBN,1708055,Ribbon Communications Inc.,NasdaqGS,363,smallmid,-177.2,-0.4881,False
+DERM,1867066,Journey Medical Corp,NasdaqCM,86,micro,-44.0,-0.50962,False
+IVR,1437071,Invesco Mortgage Capital Inc.,NYSE,790,smallmid,-402.9,-0.51033,False
+POWW,1015383,Outdoor Holding Co,NasdaqCM,256,micro,-130.8,-0.51051,False
+INKT,1840229,"MiNK Therapeutics, Inc.",NasdaqCM,58,micro,-30.2,-0.51807,False
+SVC,945394,Service Properties Trust,NasdaqGS,1016,smallmid,-544.6,-0.53603,False
+ALEC,1653087,"Alector, Inc.",NasdaqGS,261,micro,-142.9,-0.54704,False
+GTE,1273441,GRAN TIERRA ENERGY INC.,NYSE American,349,smallmid,-193.1,-0.55359,False
+ARQ,1515156,"Arq, Inc.",NasdaqGM,94,micro,-52.6,-0.55905,False
+CFOR,1293818,CapForce Inc.,OTC Markets OTCQB,64,micro,-37.3,-0.58381,False
+GREEL,1844971,Vulcan Infrastructure & Power Inc.,NasdaqGS,445,smallmid,-271.1,-0.60927,False
+SOWG,1490161,Sow Good Inc.,NasdaqCM,66,micro,-40.6,-0.61834,False
+NAUT,1808805,"Nautilus Biotechnology, Inc.",NasdaqCM,113,micro,-70.8,-0.62886,False
+CMRC,1626450,"Commerce.com, Inc.",NasdaqGM,207,micro,-139.9,-0.67546,False
+RYAM,1597672,RAYONIER ADVANCED MATERIALS INC.,NYSE,585,smallmid,-420.7,-0.71895,False
+SERA,1534969,"SERA PROGNOSTICS, INC.",NasdaqGM,61,micro,-44.2,-0.72868,False
+AMTX,738214,"AEMETIS, INC",NasdaqGM,132,micro,-107.8,-0.81596,False
+NXH,1130713,"NEIGHBORHOOD INTELLIGENCE, INC.",NasdaqGS,377,smallmid,-307.8,-0.81649,False
+HPP,1482512,"Hudson Pacific Properties, Inc.",NYSE,722,smallmid,-592.3,-0.82071,False
+LVO,1491419,"LiveOne, Inc.",NasdaqCM,53,micro,-43.9,-0.82115,False
+SEER,1726445,"Seer, Inc.",NasdaqGS,110,micro,-93.0,-0.84795,False
+NLOP,1952976,Net Lease Office Properties,NYSE,171,micro,-145.3,-0.85193,False
+AHCO,1725255,AdaptHealth Corp.,NasdaqCM,789,smallmid,-678.9,-0.85998,False
+ARMP,921114,"Armata Pharmaceuticals, Inc.",NYSE American,197,micro,-173.8,-0.88194,False
+ASPN,1145986,ASPEN AEROGELS INC,NYSE,412,smallmid,-389.6,-0.94542,False
+EVH,1628908,"Evolent Health, Inc.",NYSE,522,smallmid,-534.5,-1.02442,False
+ZNTL,1725160,"Zentalis Pharmaceuticals, Inc.",NasdaqGM,272,micro,-292.2,-1.07284,False
+FLNT,1460329,"Fluent, Inc.",NasdaqCM,114,micro,-123.3,-1.0809,False
+CNDT,1677703,CONDUENT Inc,NasdaqGS,270,micro,-296.0,-1.09699,False
+VIXM,1415311,ProShares Trust II,Cboe US,1788,smallmid,-2481.4,-1.38789,False
+ULE,1415311,ProShares Trust II,NYSEArca,1670,smallmid,-2481.4,-1.4857,False
+HCAT,1636422,"Health Catalyst, Inc.",NasdaqGS,120,micro,-178.0,-1.48736,False
+BCHG,1732409,Grayscale Bitcoin Cash Trust (BCH),OTC Markets OTCQX,88,micro,-135.4,-1.54453,False
+LONA,1620463,"LeonaBio, Inc.",NasdaqCM,75,micro,-117.7,-1.57299,False
+BKKT,1820302,"Bakkt, Inc.",NYSE,347,smallmid,-578.1,-1.66801,False
+FOA,1828937,Finance of America Companies Inc.,NYSE,113,micro,-190.7,-1.68827,False
+STKS,1399520,"ONE Group Hospitality, Inc.",NasdaqCM,54,micro,-92.2,-1.72238,False
+LIDR,1818644,"AEye, Inc.",NasdaqCM,53,micro,-98.7,-1.84645,False
+AREN,894871,"Arena Group Holdings, Inc.",NYSE American,53,micro,-100.7,-1.89711,False
+PLBY,1803914,"Playboy, Inc.",NasdaqGM,144,micro,-277.7,-1.9316,False
+VATE,1006837,INNOVATE Corp.,NYSE,106,micro,-227.5,-2.1546,False
+INO,1055726,"INOVIO PHARMACEUTICALS, INC.",NasdaqCM,132,micro,-303.7,-2.30338,False
+OM,1484612,"Outset Medical, Inc.",NasdaqGS,74,micro,-172.8,-2.33318,False
+CABO,1632127,"Cable One, Inc.",NYSE,145,micro,-356.5,-2.46224,False
+XPER,1788999,Xperi Inc.,NYSE,293,micro,-757.5,-2.58853,False
+BLNK,1429764,Blink Charging Co.,NasdaqCM,77,micro,-203.7,-2.6392,False
+OSG,874501,OCTAVE SPECIALTY GROUP INC,NYSE,207,micro,-556.1,-2.68043,False
+CLVT,1764046,CLARIVATE PLC,NYSE,1291,smallmid,-3960.2,-3.06703,False
+CHPT,1777393,"ChargePoint Holdings, Inc.",NYSE,144,micro,-457.6,-3.17234,False
+AMWL,1393584,American Well Corp,NYSE,202,micro,-675.2,-3.3438,False
+TLRY,1731348,"Tilray Brands, Inc.",NasdaqGS,631,smallmid,-2186.7,-3.46759,False
+HRTX,818033,"HERON THERAPEUTICS, INC. /DE/",NasdaqCM,63,micro,-220.7,-3.51388,False
+ROOT,1788882,"Root, Inc.",NasdaqGS,133,micro,-521.1,-3.91106,False
+ETCG,1705181,Grayscale Ethereum Classic Trust (ETC),OTC Markets OTCQX,50,micro,-220.1,-4.36977,False
+SPWR,1838987,SunPower Inc.,NasdaqGM,61,micro,-269.6,-4.40912,False
+DNA,1830214,"Ginkgo Bioworks Holdings, Inc.",NYSE,443,smallmid,-2104.9,-4.74693,False
+DH,1861795,Definitive Healthcare Corp.,NasdaqGS,86,micro,-413.1,-4.82329,False
+OPTU,1702780,"Optimum Communications, Inc.",NYSE,279,micro,-1869.0,-6.68991,False

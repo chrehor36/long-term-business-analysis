@@ -1,0 +1,24 @@
+Source notes for this folder
+=============================
+
+Buffett Partnership Ltd. letters to limited partners, 1957-1970.
+
+Downloaded 2026-07-13 as a single compiled PDF from the Ivey Business School
+archive (https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf)
+- the same source the Framework document's Appendix A cites - then converted
+with pdftotext and split into one file per letter.
+
+Naming: dated letters are "{YYYY-MM-DD} Partnership Letter.txt" (the date is
+the letter's own dateline; note January letters report on the PRIOR year -
+e.g., 1962-01-24 is the 1961 annual letter). The earliest letters (1957-1960),
+which the compilation groups under year headings without full datelines, are
+"{YYYY} Partnership Letter.txt"; "1960 Partnership Letter (2).txt" is the
+second letter in the compilation's 1960 section.
+
+Provenance caveat: this is a third-party compilation of historical letters,
+not an official Berkshire/Buffett publication. Text fidelity is good but not
+authoritative; treat as personal-study copies and flag any OCR-suspect
+passage rather than smoothing it (Prime Rule 1).
+
+29 letters, ~74,000 words. Covers Phase 2 era E1 of the Framework v3.0
+rebuild (see CLAUDE.md in the BRK root).

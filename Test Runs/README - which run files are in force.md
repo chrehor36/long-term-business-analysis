@@ -1,0 +1,327 @@
+# WHICH RUN FILES ARE IN FORCE - read this before opening any file in this folder
+
+*Written 2026-09-20 for decision 10 of the overnight audits: 125 files here hold a verdict and sit in none of the
+three counted lists, and a reader who opens one of them first cannot tell. This index is generated from disk
+and the register; it edits nothing (operator rule 6) and binds nothing. Where it and a run file disagree, the
+register in `Screens/WATCHLIST RUN QUEUE.md` and the run file win.*
+
+*Dated note, 2026-09-25: the two lists below stop at 2026-09-20 and have not been regenerated since
+(no generator script lives in the tree; the file was built from disk once). Runs dated 2026-09-21
+and later, and the CRM re-look of 2026-09-21, appear in neither list. The rule in bold still decides,
+and the register supplies what the rule needs. Absence from a list below is not a verdict on a file.*
+
+**A run file is in force only if BOTH hold:** it is dated **2026-08-28 or later** (Framework v4.1), **and** its
+name has an entry in `## COMPLETED FROM THE QUEUE` or is a position the holdings framework governs.
+**Every other file below is under a superseded framework (v3.x or earlier) or an uncounted list, and its verdict
+binds nothing.** The two the 2026-09-20 05:32 audit named are the pattern: the 2026-07-15 SPOT/GOOGL/MSFT/SHW/AMZN
+five-pack passed Amazon's moat as WIDE and built owner earnings on a net-income proxy, which v4.1 forbids; the
+later runs read it, refused to inherit it, and said so. That is how a superseded file is meant to be used.
+
+## IN FORCE (141)
+
+- `2026-08-28 RERUN - NCLTY (Nitori) under v4.1.md`
+- `2026-08-28 Run - ASML v4.1.md`
+- `2026-08-28 Run - MITSY (Mitsui) v4.1.md`
+- `2026-08-30 Run - COST (Costco) v4.1.md`
+- `2026-08-31 Run - HD (Home Depot) v4.1.md`
+- `2026-08-31 Run - SHW (Sherwin-Williams) v4.1.md`
+- `2026-09-01 Run - BBWI Bath and Body Works.md`
+- `2026-09-01 Run - GIS General Mills.md`
+- `2026-09-01 Run - GM General Motors.md`
+- `2026-09-01 Run - OXY Occidental Petroleum.md`
+- `2026-09-01 Run - PLAB Photronics.md`
+- `2026-09-02 Run - AATC Autoscope Technologies.md`
+- `2026-09-02 Run - AEO American Eagle Outfitters.md`
+- `2026-09-02 Run - ANF Abercrombie Fitch.md`
+- `2026-09-02 Run - BRK Berkshire Hathaway.md`
+- `2026-09-02 Run - CVX Chevron.md`
+- `2026-09-02 Run - DG Dollar General.md`
+- `2026-09-02 Run - DKS Dicks Sporting Goods.md`
+- `2026-09-02 Run - F Ford Motor.md`
+- `2026-09-02 Run - GHC Graham Holdings.md`
+- `2026-09-02 Run - HHH Howard Hughes.md`
+- `2026-09-02 Run - KR Kroger.md`
+- `2026-09-02 Run - L Loews Corporation.md`
+- `2026-09-02 Run - MKL Markel Group.md`
+- `2026-09-02 Run - NKE Nike.md`
+- `2026-09-02 Run - ORLY OReilly Automotive.md`
+- `2026-09-02 Run - QCOM Qualcomm.md`
+- `2026-09-02 Run - UAL United Airlines.md`
+- `2026-09-02 Run - ULTA Ulta Beauty.md`
+- `2026-09-02 Run - WTM White Mountains.md`
+- `2026-09-03 Run - HAS Hasbro.md`
+- `2026-09-03 Run - MCD McDonalds.md`
+- `2026-09-03 Run - PEP PepsiCo.md`
+- `2026-09-03 Run - TGT Target.md`
+- `2026-09-04 Run - COKE Coca-Cola Consolidated.md`
+- `2026-09-04 Run - DRI Darden.md`
+- `2026-09-04 Run - SBUX Starbucks.md`
+- `2026-09-04 Run - TSCO Tractor Supply.md`
+- `2026-09-05 Run - ACLS Axcelis.md`
+- `2026-09-05 Run - BMI Badger Meter.md`
+- `2026-09-05 Run - CMG Chipotle.md`
+- `2026-09-05 Run - CTAS Cintas.md`
+- `2026-09-05 Run - EAT Brinker.md`
+- `2026-09-05 Run - EFX Equifax.md`
+- `2026-09-06 Run - AAPL Apple.md`
+- `2026-09-06 Run - AVGO Broadcom.md`
+- `2026-09-06 Run - GOOGL Alphabet.md`
+- `2026-09-06 Run - GRMN Garmin.md`
+- `2026-09-06 Run - MSFT Microsoft.md`
+- `2026-09-06 Run - ORCL Oracle.md`
+- `2026-09-06 Run - TXN Texas Instruments.md`
+- `2026-09-06 Run - WMT Walmart.md`
+- `2026-09-07 Run - AMAT Applied Materials.md`
+- `2026-09-07 Run - AMD Advanced Micro Devices.md`
+- `2026-09-07 Run - CERT Certara.md`
+- `2026-09-07 Run - CGNX Cognex.md`
+- `2026-09-07 Run - CRM Salesforce.md`
+- `2026-09-07 Run - CRWD CrowdStrike.md`
+- `2026-09-07 Run - DAL Delta Air Lines.md`
+- `2026-09-07 Run - DELL Dell Technologies.md`
+- `2026-09-07 Run - INTC Intel.md`
+- `2026-09-07 Run - KLAC KLA.md`
+- `2026-09-07 Run - LRCX Lam Research.md`
+- `2026-09-07 Run - MRVL Marvell Technology.md`
+- `2026-09-07 Run - MU Micron.md`
+- `2026-09-07 Run - PINS Pinterest.md`
+- `2026-09-07 Run - PLPC Preformed Line Products.md`
+- `2026-09-07 Run - QLYS Qualys.md`
+- `2026-09-07 Run - SHOP Shopify.md`
+- `2026-09-07 Run - SNPS Synopsys.md`
+- `2026-09-11 Run - ARM Arm Holdings.md`
+- `2026-09-11 Run - CORT Corcept Therapeutics.md`
+- `2026-09-11 Run - ELF elf Beauty.md`
+- `2026-09-11 Run - INOD Innodata.md`
+- `2026-09-11 Run - PAY Paymentus.md`
+- `2026-09-11 Run - PLTR Palantir.md`
+- `2026-09-12 Run - ACMR ACM Research.md`
+- `2026-09-12 Run - ACVA ACV Auctions.md`
+- `2026-09-12 Run - ALKT Alkami Technology.md`
+- `2026-09-12 Run - BA Boeing.md`
+- `2026-09-12 Run - BE Bloom Energy.md`
+- `2026-09-12 Run - CALX Calix.md`
+- `2026-09-12 Run - FLNC Fluence Energy.md`
+- `2026-09-12 Run - ROKU Roku.md`
+- `2026-09-12 Run - SWK Stanley Black and Decker.md`
+- `2026-09-13 Run - ABNB Airbnb.md`
+- `2026-09-13 Run - AMZN Amazon.md`
+- `2026-09-13 Run - BAM Brookfield Asset Management.md`
+- `2026-09-13 Run - BN Brookfield Corporation.md`
+- `2026-09-13 Run - CL Colgate-Palmolive.md`
+- `2026-09-13 Run - CNR Core Natural Resources.md`
+- `2026-09-13 Run - ERIC Ericsson.md`
+- `2026-09-13 Run - GFS GlobalFoundries.md`
+- `2026-09-13 Run - HMC Honda Motor.md`
+- `2026-09-13 Run - IHG InterContinental Hotels.md`
+- `2026-09-13 Run - MBGL Mobility Global.md`
+- `2026-09-13 Run - NEGG Newegg Commerce.md`
+- `2026-09-13 Run - NVDA NVIDIA.md`
+- `2026-09-13 Run - RGTI Rigetti Computing.md`
+- `2026-09-13 Run - SONY Sony Group.md`
+- `2026-09-13 Run - SPOT Spotify.md`
+- `2026-09-13 Run - STLA Stellantis.md`
+- `2026-09-13 Run - TM Toyota Motor.md`
+- `2026-09-13 Run - TSM Taiwan Semiconductor.md`
+- `2026-09-13 Run - UMC United Microelectronics.md`
+- `2026-09-18 Q2 FRANCHISE TEST - NCLTY Nitori.md`
+- `2026-09-18 Run - AEHR Aehr Test Systems.md`
+- `2026-09-18 Run - BX Blackstone.md`
+- `2026-09-18 Run - DASH DoorDash.md`
+- `2026-09-18 Run - DJT Trump Media.md`
+- `2026-09-18 Run - DLR Digital Realty.md`
+- `2026-09-18 Run - EQIX Equinix.md`
+- `2026-09-18 Run - META Meta Platforms.md`
+- `2026-09-18 Run - RIVN Rivian.md`
+- `2026-09-18 Run - SMCI Super Micro Computer.md`
+- `2026-09-18 Run - SNOW Snowflake.md`
+- `2026-09-18 Run - SPGI S&P Global.md`
+- `2026-09-18 Run - TOST Toast.md`
+- `2026-09-18 Run - TSLA Tesla.md`
+- `2026-09-19 Run - ACNB ACNB Corporation.md`
+- `2026-09-19 Run - AIG American International Group.md`
+- `2026-09-19 Run - BIRD Allbirds.md`
+- `2026-09-19 Run - BLK BlackRock.md`
+- `2026-09-19 Run - BZFD BuzzFeed.md`
+- `2026-09-19 Run - CB Chubb.md`
+- `2026-09-19 Run - CCB Coastal Financial.md`
+- `2026-09-19 Run - DIS Walt Disney.md`
+- `2026-09-19 Run - GFF Griffon.md`
+- `2026-09-19 Run - HBB Hamilton Beach Brands.md`
+- `2026-09-19 Run - IBM International Business Machines.md`
+- `2026-09-19 Run - JPM JPMorgan Chase.md`
+- `2026-09-19 Run - KO Coca-Cola.md`
+- `2026-09-19 Run - LCID Lucid Group.md`
+- `2026-09-19 Run - OTTR Otter Tail.md`
+- `2026-09-19 Run - PATH UiPath.md`
+- `2026-09-19 Run - PUBM PubMatic.md`
+- `2026-09-19 Run - SOFI SoFi Technologies.md`
+- `2026-09-19 Run - SOUN SoundHound AI.md`
+- `2026-09-19 Run - TFC Truist Financial.md`
+- `2026-09-19 Run - TRV Travelers.md`
+- `2026-09-19 Run - USAR USA Rare Earth.md`
+
+## SUPERSEDED OR UNCOUNTED - BINDS NOTHING (158)
+
+*Pre-v4.1, or a run of a name outside the counted lists, or a pack/test file. Read for what it found; inherit nothing.*
+
+- `2026-07-14 Run - CB (Chubb).md`
+- `2026-07-14 Run - HD (Home Depot).md`
+- `2026-07-14 Run - V (Visa).md`
+- `2026-07-14 Test Run - SONY, TBTC, NTDOY.md`
+- `2026-07-15 Run - ACN (Accenture).md`
+- `2026-07-15 Run - ADBE (Adobe).md`
+- `2026-07-15 Run - AFL (Aflac).md`
+- `2026-07-15 Run - AMH (American Homes 4 Rent).md`
+- `2026-07-15 Run - AMP (Ameriprise Financial).md`
+- `2026-07-15 Run - APA (APA Corporation).md`
+- `2026-07-15 Run - AVB (AvalonBay Communities).md`
+- `2026-07-15 Run - BBY (Best Buy).md`
+- `2026-07-15 Run - BF.B (Brown-Forman).md`
+- `2026-07-15 Run - BLDR (Builders FirstSource).md`
+- `2026-07-15 Run - BRDCY (Bridgestone Corp).md`
+- `2026-07-15 Run - BRT (BRT Apartments Corp).md`
+- `2026-07-15 Run - CAJPY (Canon Inc).md`
+- `2026-07-15 Run - CDW (CDW Corporation).md`
+- `2026-07-15 Run - CHTR (Charter Communications).md`
+- `2026-07-15 Run - CLPR (Clipper Realty).md`
+- `2026-07-15 Run - CMCSA (Comcast).md`
+- `2026-07-15 Run - COP (ConocoPhillips).md`
+- `2026-07-15 Run - CPT (Camden Property Trust).md`
+- `2026-07-15 Run - CSR (Centerspace).md`
+- `2026-07-15 Run - CTSH (Cognizant).md`
+- `2026-07-15 Run - DHI (D.R. Horton).md`
+- `2026-07-15 Run - DIFTY (Daito Trust Construction).md`
+- `2026-07-15 Run - DNPLY (Dai Nippon Printing).md`
+- `2026-07-15 Run - DVN (Devon Energy).md`
+- `2026-07-15 Run - ELV (Elevance Health).md`
+- `2026-07-15 Run - EOG (EOG Resources).md`
+- `2026-07-15 Run - EQR (Equity Residential).md`
+- `2026-07-15 Run - ESS (Essex Property Trust).md`
+- `2026-07-15 Run - FDX (FedEx).md`
+- `2026-07-15 Run - FJTSY (Fujitsu Ltd).md`
+- `2026-07-15 Run - FOX (Fox Corp Class B).md`
+- `2026-07-15 Run - FOXA (Fox Corp Class A).md`
+- `2026-07-15 Run - FUJHY (Subaru Corp).md`
+- `2026-07-15 Run - FUJIY (Fujifilm Holdings).md`
+- `2026-07-15 Run - GAMI (GAMCO Investors).md`
+- `2026-07-15 Run - GEHC (GE HealthCare).md`
+- `2026-07-15 Run - GL (Globe Life).md`
+- `2026-07-15 Run - HCA (HCA Healthcare).md`
+- `2026-07-15 Run - HON (Honeywell).md`
+- `2026-07-15 Run - HPQ (HP Inc).md`
+- `2026-07-15 Run - HTCMY (Hitachi Construction Machinery).md`
+- `2026-07-15 Run - INVH (Invitation Homes).md`
+- `2026-07-15 Run - IPXHY (Inpex Corp).md`
+- `2026-07-15 Run - IRT (Independence Realty Trust).md`
+- `2026-07-15 Run - ISUZY (Isuzu Motors).md`
+- `2026-07-15 Run - IT (Gartner).md`
+- `2026-07-15 Run - ITOCY (Itochu Corp).md`
+- `2026-07-15 Run - JAPAY (Japan Tobacco).md`
+- `2026-07-15 Run - KDDIY (KDDI Corp).md`
+- `2026-07-15 Run - KUBTY (Kubota Corp).md`
+- `2026-07-15 Run - LEN (Lennar Corp).md`
+- `2026-07-15 Run - LOW (Lowe's).md`
+- `2026-07-15 Run - LULU (Lululemon).md`
+- `2026-07-15 Run - MAA (Mid-America Apartment Communities).md`
+- `2026-07-15 Run - MARUY (Marubeni Corp).md`
+- `2026-07-15 Run - MAURY (Marui Group Co).md`
+- `2026-07-15 Run - MITSY (Mitsui & Co).md`
+- `2026-07-15 Run - MTSUY (Mitsubishi Corp).md`
+- `2026-07-15 Run - MZDAY (Mazda Motor Corp).md`
+- `2026-07-15 Run - NCLTY (Nitori Holdings).md`
+- `2026-07-15 Run - NDEKY (Nitto Denko Corp).md`
+- `2026-07-15 Run - NHNKY (Nihon Kohden Corp).md`
+- `2026-07-15 Run - NPNYY (Nippon Yusen KK).md`
+- `2026-07-15 Run - NVR (NVR Inc).md`
+- `2026-07-15 Run - NXRT (NexPoint Residential Trust).md`
+- `2026-07-15 Run - OTSKY (Otsuka Holdings).md`
+- `2026-07-15 Run - PHM (PulteGroup).md`
+- `2026-07-15 Run - PYPL (PayPal).md`
+- `2026-07-15 Run - REGN (Regeneron).md`
+- `2026-07-15 Run - RICOY (Ricoh Co).md`
+- `2026-07-15 Run - SGIOY (Shionogi & Co).md`
+- `2026-07-15 Run - SHW (re-run under Ruling 2).md`
+- `2026-07-15 Run - SKHSY (Sekisui House).md`
+- `2026-07-15 Run - SOMLY (Secom Co).md`
+- `2026-07-15 Run - SPGI (S&P Global).md`
+- `2026-07-15 Run - SPOT GOOGL MSFT SHW AMZN (5-pack).md`
+- `2026-07-15 Run - SSUMY (Sumitomo Corp).md`
+- `2026-07-15 Run - SWKS (Skyworks Solutions).md`
+- `2026-07-15 Run - SYF (Synchrony Financial).md`
+- `2026-07-15 Run - SZKMY (Suzuki Motor Corp).md`
+- `2026-07-15 Run - TROW (T. Rowe Price).md`
+- `2026-07-15 Run - TSCO (Tractor Supply).md`
+- `2026-07-15 Run - UDR (UDR Inc).md`
+- `2026-07-15 Run - UHS (Universal Health Services).md`
+- `2026-07-15 Run - UNICY (Unicharm Corp).md`
+- `2026-07-15 Run - UNTC (Unit Corporation).md`
+- `2026-07-15 Run - UPS (United Parcel Service).md`
+- `2026-07-15 Run - VZ (Verizon).md`
+- `2026-07-15 Run - ZTS (Zoetis).md`
+- `2026-07-16 Run - AMSF (Amerisafe).md`
+- `2026-07-16 Run - Auto Dealers 5-pack (ABG LAD AN GPI PAG).md`
+- `2026-07-16 Run - BBWI (Bath & Body Works).md`
+- `2026-07-16 Run - BKE (Buckle).md`
+- `2026-07-16 Run - CPB (Campbell's).md`
+- `2026-07-16 Run - CRI (Carter's).md`
+- `2026-07-16 Run - Consumer & Leisure 6-pack (HOG THO PRKS BYD ASO SBH).md`
+- `2026-07-16 Run - E&P 4-pack (MTDR CRC OVV MGY).md`
+- `2026-07-16 Run - Financials 7-pack (RDN ESNT MTG NMIH RITM SLM AFG).md`
+- `2026-07-16 Run - HD (Home Depot, Ruling 2 re-run).md`
+- `2026-07-16 Run - HRB (H&R Block).md`
+- `2026-07-16 Run - Homebuilders 6-pack (KBH MHO TMHC MTH DFH CCS).md`
+- `2026-07-16 Run - Industrials & Misc 9-pack (LKQ SLVM GPK UFPI FBIN EMN AMPH IIPR VSNT).md`
+- `2026-07-16 Run - LZB (La-Z-Boy).md`
+- `2026-07-16 Run - Services & Payments 5-pack (MAN WU EPAM G EFOR).md`
+- `2026-07-17 Run - TBTC (Table Trac, protocol re-run).md`
+- `2026-07-17 Run - UK 5-pack (IMB AUTO HWDN DGE ULVR).md`
+- `2026-07-20 Run - HGRAF (HydroGraph Clean Power).md`
+- `2026-07-20 Run - MU (Micron Technology).md`
+- `2026-07-20 Run - TXN (Texas Instruments).md`
+- `2026-07-31 Run - CCB (Coastal Financial Corporation).md`
+- `2026-07-31 Run - CMI (Cummins Inc).md`
+- `2026-07-31 Run - DOV (Dover Corporation).md`
+- `2026-07-31 Run - PNC (PNC Financial Services Group).md`
+- `2026-07-31 Run - SBUX (Starbucks Corporation).md`
+- `2026-07-31 Run - TJX (TJX Companies).md`
+- `2026-08-26 Run - TJX (TJX Companies) REFRESH.md`
+- `2026-08-28 Q6 HOLD READ - HRB.md`
+- `2026-08-30 Run - AMPH (Amphastar) v4.1.md`
+- `2026-08-30 Run - ASIX (AdvanSix) v4.1.md`
+- `2026-08-30 Run - AXR (AMREP) v4.1.md`
+- `2026-08-30 Run - CCS (Century Communities) v4.1.md`
+- `2026-08-30 Run - ETD (Ethan Allen) v4.1.md`
+- `2026-08-30 Run - FLO (Flowers Foods) v4.1.md`
+- `2026-08-30 Run - KOP (Koppers) v4.1.md`
+- `2026-08-30 Run - OXM (Oxford Industries) v4.1.md`
+- `2026-08-30 Run - RMR (RMR Group) v4.1.md`
+- `2026-08-30 Run - SD (SandRidge) v4.1.md`
+- `2026-08-30 Run - SGU (Star Group) v4.1.md`
+- `2026-08-30 Run - WEYS (Weyco) v4.1.md`
+- `2026-08-31 Run - ALG (Alamo Group) v4.1.md`
+- `2026-08-31 Run - CHE (Chemed) v4.1.md`
+- `2026-08-31 Run - CHWY (Chewy) v4.1.md`
+- `2026-08-31 Run - COLM (Columbia Sportswear) v4.1.md`
+- `2026-08-31 Run - CSL (Carlisle Companies) v4.1.md`
+- `2026-08-31 Run - GIC (Global Industrial) v4.1.md`
+- `2026-08-31 Run - HOG (Harley-Davidson) v4.1.md`
+- `2026-08-31 Run - ITW (Illinois Tool Works) v4.1.md`
+- `2026-08-31 Run - LEVI (Levi Strauss) v4.1.md`
+- `2026-08-31 Run - LOW (Lowes) v4.1.md`
+- `2026-08-31 Run - MTDR (Matador Resources) v4.1.md`
+- `2026-08-31 Run - RPM (RPM International) v4.1.md`
+- `2026-08-31 Run - UNH (UnitedHealth) v4.1.md`
+- `2026-09-01 Run - FCN FTI Consulting.md`
+- `2026-09-01 Run - HON (Honeywell) v4.1.md`
+- `2026-09-01 Run - KMB (Kimberly-Clark) v4.1.md`
+- `2026-09-01 Run - LOPE Grand Canyon Education.md`
+- `2026-09-01 Run - LSTR Landstar System.md`
+- `2026-09-01 Run - OTIS Otis Worldwide.md`
+- `2026-09-01 Run - PNR (Pentair) v4.1.md`
+- `2026-09-01 Run - SHOE Shoe Station Group.md`
+- `2026-09-01 Run - SJM (JM Smucker) v4.1.md`
+- `2026-09-01 Run - VZ (Verizon) v4.1.md`
+- `2026-09-01 Run - WGO (Winnebago) v4.1.md`
+
+*Regenerate: the script that wrote this lives in the 2026-09-20 audit commit; the rule is the two conditions above.*

@@ -1,0 +1,101 @@
+Sector,Ticker,Company Name,Sub-Industry / Business Focus,Dividend Yield (%)
+Industrials,HUBG,"Hub Group, Inc.",Supply Chain Logistics,0.8
+Industrials,GBX,The Greenbrier Companies,Railcar Manufacturing,2.2
+Industrials,MLI,"Mueller Industries, Inc.",Copper & Brass Products,1.2
+Industrials,GIC,Global Industrial Co.,Industrial Equipment Distribution,2.8
+Industrials,KBAL,Kimball International,Commercial Furnishings,3.1
+Industrials,SXI,Standex International,Specialty Industrial Components,0.8
+Industrials,HNI,HNI Corporation,Office Furniture & Hearth,3.0
+Industrials,LNN,Lindsay Corporation,Water & Infrastructure,1.2
+Industrials,MWA,Mueller Water Products,Water Infrastructure,1.6
+Industrials,NCS,NCI Building Systems,Metal Building Components,1.1
+Industrials,TBI,"TrueBlue, Inc.",Specialized Staffing,1.4
+Industrials,CSWI,"CSW Industrials, Inc.",Industrial Products & Coatings,0.4
+Industrials,GENC,"Gencor Industries, Inc.",Asphalt Plant Machinery,0.9
+Industrials,NATH,"Nathan's Famous, Inc.",Food Service & Franchising,2.8
+Industrials,POWL,"Powell Industries, Inc.",Custom Electrical Equipment,1.1
+Consumer Discretionary,BOOT,"Boot Barn Holdings, Inc.",Specialty Footwear & Western Wear,0.5
+Consumer Discretionary,OXM,"Oxford Industries, Inc.",Apparel Brands (Tommy Bahama),2.8
+Consumer Discretionary,JACK,Jack in the Box Inc.,Quick Service Restaurants,3.5
+Consumer Discretionary,BJRI,"BJ's Restaurants, Inc.",Casual Dining Restaurants,0.8
+Consumer Discretionary,RRGB,Red Robin Gourmet Burgers,Casual Dining,0.6
+Consumer Discretionary,SGC,Superior Group of Companies,Apparel & Uniforms,3.9
+Consumer Discretionary,MOV,"Movado Group, Inc.",Watches & Accessories,4.8
+Consumer Discretionary,PLCE,The Children's Place,Apparel Retail,1.5
+Consumer Discretionary,BKE,"The Buckle, Inc.",Specialty Apparel Retail,3.8
+Consumer Discretionary,CRI,"Carter's, Inc.",Children's Apparel,4.2
+Consumer Discretionary,HIBB,"Hibbett, Inc.",Sporting Goods Retail,1.6
+Consumer Discretionary,SCVL,"Shoe Carnival, Inc.",Footwear Retail,1.8
+Consumer Discretionary,JAKK,"JAKKS Pacific, Inc.",Toys & Consumer Products,1.1
+Consumer Discretionary,MBUU,"Malibu Boats, Inc.",Recreational Powerboats,0.9
+Consumer Discretionary,MCFT,MasterCraft Boat Holdings,Recreational Powerboats,1.0
+Real Estate,CLDT,Chatham Lodging Trust,Hotel REIT,3.2
+Real Estate,BRT,BRT Apartments Corp.,Residential Multifamily REIT,5.2
+Real Estate,AIRC,Apartment Income REIT,Multifamily Residential REIT,4.1
+Real Estate,UMH,"UMH Properties, Inc.",Manufactured Housing REIT,5.0
+Real Estate,GOOD,Gladstone Commercial,Net Lease Industrial REIT,8.1
+Real Estate,GAIN,Gladstone Investment,Business Investment REIT/BDC,7.8
+Real Estate,LAND,Gladstone Land Corp.,Farmland REIT,3.9
+Real Estate,FPI,Farmland Partners Inc.,Agricultural Land REIT,2.2
+Real Estate,GMRE,Global Medical REIT Inc.,Medical Office REIT,8.5
+Real Estate,PLYM,Plymouth Industrial REIT,Industrial & Logistics REIT,5.4
+Real Estate,NTST,NETSTREIT Corp.,Single-Tenant Retail REIT,5.1
+Real Estate,PINE,Alpine Income Property Trust,Net Lease Retail REIT,6.8
+Real Estate,CSR,Centerspace,Multifamily Residential REIT,4.5
+Real Estate,NXRT,NexPoint Residential Trust,Multifamily REIT,4.9
+Real Estate,SBRA,Sabra Health Care REIT,Senior Housing REIT,7.2
+Materials,KWR,Quaker Chemical Corp.,Specialty Process Chemicals,1.1
+Materials,SCL,Stepan Company,Specialty Surfactants & Polymers,2.2
+Materials,IOSP,Innospec Inc.,Specialty Chemicals,1.2
+Materials,MTRN,Materion Corporation,Advanced Beryllium Materials,0.5
+Materials,HWKN,"Hawkins, Inc.",Specialty Chemicals & Water Treatment,0.8
+Materials,ASIX,AdvanSix Inc.,Nylon & Chemical Intermediates,2.6
+Materials,TG,Tredegar Corporation,Plastic Films & Aluminum Extrusions,4.1
+Materials,KOP,Koppers Holdings Inc.,Wood Treatment & Chemicals,0.6
+Materials,KALU,Kaiser Aluminum Corp.,Fabricated Aluminum Products,3.8
+Materials,CSL,Carlisle Companies Inc.,Building Envelope Materials,0.9
+Materials,SXC,"SunCoke Energy, Inc.",Metallurgical Coke & Logistics,4.2
+Materials,UFS,Domtar Corporation,Paper & Pulp Manufacturing,3.1
+Materials,RYI,Ryerson Holding Corp.,Metals Service Centers,2.4
+Materials,USAP,Universal Stainless & Alloy,Specialty Steel Products,0.5
+Materials,CLW,Clearwater Paper Corp.,Tissue & Paperboard,0.8
+Information Technology,CSGS,CSG Systems International,Business Support & Billing Software,2.1
+Information Technology,EXTR,"Extreme Networks, Inc.",Enterprise Networking Software,0.8
+Information Technology,PLUS,ePlus inc.,IT Engineering Solutions,0.5
+Information Technology,SITM,SiTime Corporation,Silicon Timing Electronics,0.2
+Information Technology,BELFB,Bel Fuse Inc.,Electronic Components,0.6
+Information Technology,CTS,CTS Corporation,Sensors & Actuators,0.9
+Information Technology,SANM,Sanmina Corporation,Contract Electronics Manufacturing,0.4
+Information Technology,TTMI,"TTM Technologies, Inc.",Printed Circuit Board Manufacturing,0.5
+Information Technology,OSIS,"OSI Systems, Inc.",Security Inspection Electronics,0.3
+Information Technology,KE,"Kimball Electronics, Inc.",Medical & Auto Electronics,0.8
+Information Technology,RELL,Richardson Electronics,RF & Power Microwave Components,3.2
+Information Technology,PLAB,"Photronics, Inc.",Photomask Semiconductor Tech,0.4
+Information Technology,AOSL,Alpha and Omega Semiconductor,Power Semiconductors,0.6
+Information Technology,DDI,DoubleDragon Tech,Digital Infrastructure,1.5
+Information Technology,DBD,Diebold Nixdorf,Self-Service Banking Hardware,1.2
+Energy,USAC,USA Compression Partners,Natural Gas Compression MLPs,8.2
+Energy,AROC,"Archrock, Inc.",Natural Gas Compression Infrastructure,3.8
+Energy,NGL,NGL Energy Partners LP,Water Solutions & Logistics,6.5
+Energy,DRQ,"Dril-Quip, Inc.",Offshore Drilling Equipment,0.7
+Energy,RES,"RPC, Inc.",Oilfield Services & Equipment,2.4
+Energy,OII,Oceaneering International,Subsea Engineering & Robotics,0.5
+Energy,HLX,Helix Energy Solutions Group,Offshore Well Intervention,0.6
+Energy,NINE,Nine Energy Service,Completion Solutions,0.8
+Energy,PUMP,ProPetro Holding Corp.,Hydraulic Fracturing Services,0.9
+Energy,KLX,KLX Energy Services,Oilfield Services,1.2
+Energy,VAL,Valaris Limited,Offshore Contract Drilling,0.8
+Energy,RIG,Transocean Ltd.,Deepwater Drilling Contracts,0.5
+Energy,BOOM,DMC Global Inc.,Perforating Systems & Clad Metal,1.1
+Consumer Staples,JJSF,J&J Snack Foods Corp.,Snack Foods & Frozen Beverages,1.8
+Consumer Staples,CALM,"Cal-Maine Foods, Inc.",Fresh Shell Eggs Producer,4.1
+Consumer Staples,BRID,Bridgford Foods Corp.,Frozen Bakery & Meat Snacks,1.2
+Consumer Staples,SENEA,S Seneca Foods Corp.,Packaged Fruits & Vegetables,0.9
+Utilities,MGEE,"MGE Energy, Inc.",Electric & Gas Utility,2.2
+Utilities,AVA,Avista Corporation,Electric & Gas Utility,5.2
+Utilities,NWN,Northwest Natural Holding,Natural Gas Utility,5.1
+Utilities,UTL,UNITIL Corporation,Electric & Gas Distribution,4.3
+Utilities,RWE,"RGC Resources, Inc.",Gas Distribution Utility,4.8
+Healthcare,ENSG,"The Ensign Group, Inc.",Skilled Nursing Services,0.2
+Healthcare,CHE,Chemed Corporation,Hospice Care & Plumbing Services,0.3
+Healthcare,USPH,"U.S. Physical Therapy, Inc.",Outpatient Physical Therapy,1.7

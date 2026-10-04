@@ -1,0 +1,185 @@
+{
+ "anchor": "2016-06-30",
+ "years": 10.064339493497604,
+ "spy": {
+  "entry_date": "2016-06-30",
+  "entry_px": 178.4378204345703,
+  "exit_date": "2026-07-22",
+  "exit_px": 749.844970703125,
+  "total_return_x": 4.202276002233947,
+  "cagr_pct": 15.332013718090408
+ },
+ "survivors": [
+  {
+   "ticker": "NVDA",
+   "entry_date": "2016-06-30",
+   "entry_px": 1.15,
+   "exit_date": "2026-07-24",
+   "exit_px": 206.84,
+   "total_return_x": 179.478,
+   "cagr_pct": 67.48
+  },
+  {
+   "ticker": "BKNG",
+   "entry_date": "2016-06-30",
+   "entry_px": 48.9,
+   "exit_date": "2026-07-22",
+   "exit_px": 180.35,
+   "total_return_x": 3.688,
+   "cagr_pct": 13.85
+  },
+  {
+   "ticker": "ORLY",
+   "entry_date": "2016-06-30",
+   "entry_px": 18.07,
+   "exit_date": "2026-07-24",
+   "exit_px": 87.4,
+   "total_return_x": 4.836,
+   "cagr_pct": 16.95
+  },
+  {
+   "ticker": "CSX",
+   "entry_date": "2016-06-30",
+   "entry_px": 7.55,
+   "exit_date": "2026-07-22",
+   "exit_px": 49.97,
+   "total_return_x": 6.617,
+   "cagr_pct": 20.65
+  },
+  {
+   "ticker": "AAPL",
+   "entry_date": "2016-06-30",
+   "entry_px": 21.76,
+   "exit_date": "2026-07-24",
+   "exit_px": 333.02,
+   "total_return_x": 15.302,
+   "cagr_pct": 31.13
+  },
+  {
+   "ticker": "CME",
+   "entry_date": "2016-06-30",
+   "entry_px": 66.23,
+   "exit_date": "2026-07-24",
+   "exit_px": 255.31,
+   "total_return_x": 3.855,
+   "cagr_pct": 14.35
+  },
+  {
+   "ticker": "MA",
+   "entry_date": "2016-06-30",
+   "entry_px": 82.85,
+   "exit_date": "2026-07-24",
+   "exit_px": 539.66,
+   "total_return_x": 6.514,
+   "cagr_pct": 20.47
+  },
+  {
+   "ticker": "NEE",
+   "entry_date": "2016-06-30",
+   "entry_px": 25.26,
+   "exit_date": "2026-07-24",
+   "exit_px": 89.78,
+   "total_return_x": 3.555,
+   "cagr_pct": 13.43
+  },
+  {
+   "ticker": "AFL",
+   "entry_date": "2016-06-30",
+   "entry_px": 28.61,
+   "exit_date": "2026-07-24",
+   "exit_px": 125.6,
+   "total_return_x": 4.391,
+   "cagr_pct": 15.84
+  },
+  {
+   "ticker": "FAST",
+   "entry_date": "2016-06-30",
+   "entry_px": 8.54,
+   "exit_date": "2026-07-22",
+   "exit_px": 45.17,
+   "total_return_x": 5.29,
+   "cagr_pct": 18.0
+  },
+  {
+   "ticker": "MPC",
+   "entry_date": "2016-06-30",
+   "entry_px": 27.99,
+   "exit_date": "2026-07-22",
+   "exit_px": 318.78,
+   "total_return_x": 11.387,
+   "cagr_pct": 27.34
+  },
+  {
+   "ticker": "KEY",
+   "entry_date": "2016-06-30",
+   "entry_px": 7.29,
+   "exit_date": "2026-07-24",
+   "exit_px": 22.65,
+   "total_return_x": 3.108,
+   "cagr_pct": 11.93
+  },
+  {
+   "ticker": "PSX",
+   "entry_date": "2016-06-30",
+   "entry_px": 54.46,
+   "exit_date": "2026-07-22",
+   "exit_px": 212.3,
+   "total_return_x": 3.898,
+   "cagr_pct": 14.47
+  },
+  {
+   "ticker": "APH",
+   "entry_date": "2016-06-30",
+   "entry_px": 13.06,
+   "exit_date": "2026-07-24",
+   "exit_px": 152.67,
+   "total_return_x": 11.689,
+   "cagr_pct": 27.67
+  },
+  {
+   "ticker": "PCAR",
+   "entry_date": "2016-06-30",
+   "entry_px": 24.04,
+   "exit_date": "2026-07-24",
+   "exit_px": 132.24,
+   "total_return_x": 5.5,
+   "cagr_pct": 18.46
+  },
+  {
+   "ticker": "NDAQ",
+   "entry_date": "2016-06-30",
+   "entry_px": 18.39,
+   "exit_date": "2026-07-24",
+   "exit_px": 92.09,
+   "total_return_x": 5.007,
+   "cagr_pct": 17.36
+  },
+  {
+   "ticker": "DOV",
+   "entry_date": "2016-06-30",
+   "entry_px": 47.59,
+   "exit_date": "2026-07-22",
+   "exit_px": 214.57,
+   "total_return_x": 4.509,
+   "cagr_pct": 16.14
+  },
+  {
+   "ticker": "PNC",
+   "entry_date": "2016-06-30",
+   "entry_px": 58.28,
+   "exit_date": "2026-07-24",
+   "exit_px": 250.99,
+   "total_return_x": 4.306,
+   "cagr_pct": 15.61
+  },
+  {
+   "ticker": "CMI",
+   "entry_date": "2016-06-30",
+   "entry_px": 86.85,
+   "exit_date": "2026-07-22",
+   "exit_px": 666.82,
+   "total_return_x": 7.678,
+   "cagr_pct": 22.45
+  }
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "HRB": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Assisted tax preparation: ~10,000 US retail offices plus DIY software; fee-per-return economics, seasonal working capital, franchise/company-owned mix. A generalist can model returns prepared x net average charge less office cost. Not opaque."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Brand, physical office density and high client retention gave real repeat-purchase economics and pricing power (net average charge rose most years through FY2015). But the substitution threat was already in reported results before the first anchor: FY2016 (announced 2016-06-14) showed 23.2m returns worldwide, -4.1% y/y, and US assisted returns -5.8% through 2016-04-19, with Intuit publicly estimating the DIY category took ~2 points of share from assisted as of Feb 2016. Credit Karma Tax launched genuinely free federal+state filing in Jan 2017, and the IRS Free File Alliance channel was already free for ~70% of filers."
+   },
+   {
+    "from": 2019,
+    "class": "NONE",
+    "note": "Pricing power visibly gone. On 2018-12-06 (Q2 FY2019 release) H&R Block announced 'upfront, transparent pricing' -- an explicit price cut for assisted clients to defend volume. FY2019 results (2019-06-11) confirmed the trade: US returns +1.5% to 20.3m but total revenue -2.1% to $3.1bn and EPS from continuing ops down to $2.15 from $2.98. Cutting price to hold share against a free substitute is the definition of an absent moat."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2006-03",
+    "severity": "SERIOUS",
+    "note": "NY AG Eliot Spitzer sued H&R Block on 2006-03-15 for fraudulent marketing of 'Express IRA' accounts to low/middle-income tax clients (hidden fees, near-certain loss for ~30,000 New Yorkers). Settled by AG Cuomo in Jan 2010: refunds of $11.4m-$19.4m of fees nationwide plus $750k in fines/costs."
+   },
+   {
+    "date": "2012-04",
+    "severity": "SERIOUS",
+    "note": "SEC charged H&R Block subsidiary Option One Mortgage (n/k/a Sand Canyon) on 2012-04-24 with misleading investors in >$4.3bn of subprime RMBS sold in early 2007 -- promising repurchase of breaching loans while concealing that it could not fund those obligations without discretionary parent support. Settled same day for $28.2m ($14.25m disgorgement, $3.98m interest, $10m penalty) without admitting or denying."
+   },
+   {
+    "date": "2019-04",
+    "severity": "DISQUALIFYING",
+    "note": "ProPublica reported (2019-04-22 for Intuit, H&R Block confirmed in follow-ups ~2019-04-26) that H&R Block, like Intuit, used robots.txt code to hide its IRS Free File product from Google and other search engines, steering Free File-eligible consumers into paid products. NY Gov. Cuomo called for a DFS investigation 2019-05-01; the LA City Attorney sued H&R Block and Intuit in early May 2019 alleging fraudulent, deceptive and unfair practices. Systematic consumer deception, credibly alleged and largely conceded on the facts."
+   },
+   {
+    "date": "2020-08",
+    "severity": "DISQUALIFYING",
+    "note": "New York Department of Financial Services concluded its investigation and publicly found that Intuit and H&R Block used 'unfair and abusive practices' to divert Free File-eligible taxpayers into paid products -- a regulator finding of misconduct, not merely an allegation."
+   },
+   {
+    "date": "2024-01",
+    "severity": "SERIOUS",
+    "note": "LA City Attorney announced a $1.6m restitution settlement with H&R Block for California customers who paid despite being Free File-eligible."
+   },
+   {
+    "date": "2024-02",
+    "severity": "DISQUALIFYING",
+    "note": "FTC filed an administrative complaint (2024-02-23) alleging H&R Block deceptively marketed 'free' online filing and deleted consumers' entered tax data to coerce downgrade calls; resolved by consent order in 2024 (~$7m plus injunctive relief)."
+   }
+  ],
+  "gate5_broken_by": null
+ },
+ "INTC": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Integrated design + manufacture of x86 CPUs sold to PC OEMs and datacenter operators. Unit economics are legible: fab capex and depreciation against ASP x unit volume, with gross margin as the direct read-out of process leadership. Technically demanding but not a black box."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "WIDE",
+    "note": "Through the 2015-2017 anchors the moat was intact in reported results: ~99% x86 server share (AMD server share was 0.8% at end-2017 per Mercury Research), gross margins in the low-60s%, and a manufacturing process lead over TSMC/Samsung. The first crack was public but not yet in results: on the Q2 2015 call (2015-07-15, i.e. AFTER the 2015-06-30 anchor but before 2016-06-30) CEO Krzanich pushed first 10nm product (Cannon Lake) to 2H2017, formally breaking tick-tock. Restructuring and ~12,000 layoffs followed 2016-04-19. Neither had yet dented share or margin."
+   },
+   {
+    "from": 2019,
+    "class": "NARROW",
+    "note": "By the 2019-06-30 anchor the process-leadership moat was demonstrably gone and it was showing up in third-party share data. Intel slipped 10nm again on the 2018-04-26 Q1 call (volume production pushed to 2019, third public delay); TSMC ran 7nm in high volume during 2018, ending Intel's node lead; AMD launched Ryzen (Mar 2017) and EPYC (Jun 2017) and Mercury Research data published in early 2019 showed AMD server share going 0.8% (end-2017) to 3.2% (end-2018). Intel still earned enormous returns, so NARROW rather than NONE."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2009-05",
+    "severity": "SERIOUS",
+    "note": "European Commission fined Intel EUR 1.06bn (2009-05-13) for abuse of dominance 2002-2007 -- exclusivity rebates to OEMs/retailers and payments to delay AMD-based product launches. A regulator finding of misconduct, and it was a live, affirmed finding at all three anchors: the General Court upheld it in full on 2014-06-12. Only later was it unwound -- ECJ set aside the General Court judgment 2017-09-06 (after the 2017-06-30 anchor) and the General Court annulled the fine 2022-01-26. REGRADED 2026-07-27 from DISQUALIFYING to SERIOUS: this is pure competition law (exclusivity rebates), with no deception element, so it fails the dishonesty test the corrected Gate 3 rubric applies. It was also upheld by the General Court 2014-06-12 but SET ASIDE by the ECJ 2017-09-06 and the fine annulled in 2022 -- a finding that did not survive review should not permanently disqualify."
+   },
+   {
+    "date": "2010-08",
+    "severity": "SERIOUS",
+    "note": "FTC consent order (Aug 2010) settling charges that Intel used anticompetitive tactics against AMD and Nvidia; no admission of liability. Follows Intel's 2009-11-12 $1.25bn settlement of AMD's private antitrust suit."
+   },
+   {
+    "date": "2018-01",
+    "severity": "SERIOUS",
+    "note": "Meltdown/Spectre disclosed 2018-01-03. Reporting the following day showed CEO Krzanich had exercised and sold ~900,000 shares for ~$24m on 2017-11-29 under a 10b5-1 plan adopted 2017-10-30 -- months after Google notified Intel of the flaws in June 2017 -- leaving him at his contractual 250,000-share minimum. Two members of Congress called for an SEC investigation; no enforcement action resulted."
+   },
+   {
+    "date": "2018-06",
+    "severity": "SERIOUS",
+    "note": "Krzanich resigned as CEO 2018-06-21 after an investigation confirmed a past consensual relationship with an employee that violated Intel's non-fraternization policy. Governance/character event, not financial misconduct."
+   }
+  ],
+  "gate5_broken_by": "2020-07"
+ },
+ "KR": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Conventional supermarket retail plus fuel centers and pharmacy: identical-store sales, gross margin, and inventory turns are all disclosed and easy to model. Understandable."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Local scale density, private label (Simple Truth/Our Brands), and a genuinely long operating record: 52 consecutive quarters of positive identical-supermarket sales through fiscal 2016 and 12 consecutive years of market-share gains as of the FY2016 report. But the underlying economics were always thin (~1.5-2% net margin, ~10-11% ROIC) and grocery is a price-transparent commodity, so NARROW not WIDE."
+   },
+   {
+    "from": 2017,
+    "class": "NONE",
+    "note": "Three dated events all landed before the 2017-06-30 anchor. (1) 2017-03-02: Q4 FY2016 identical-supermarket sales came in at -0.7% ex-fuel, ending the 52-quarter/13-year streak, driven by food deflation and Walmart price investment. (2) 2017-06-15: Kroger cut FY2017 adjusted EPS guidance from $2.21-$2.25 to $2.00-$2.05 and withdrew long-term guidance altogether; the stock fell ~19%. (3) 2017-06-16: Amazon announced the $13.7bn Whole Foods acquisition and KR fell another ~9%, ~$7bn of market value lost over the two days. A retailer that cannot forecast its own economics one year out and must match a structurally lower-cost entrant on price has no durable pricing advantage."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2021-02",
+    "severity": "MINOR",
+    "note": "Kroger was one of many victims of the Accellion FTA file-transfer breach (Dec 2020, notifications Feb 2021) exposing employee and pharmacy customer data; $5m class settlement proposed later. Ordinary-course third-party vendor breach."
+   },
+   {
+    "date": "2023-09",
+    "severity": "SERIOUS",
+    "note": "Kroger announced a nationwide opioid settlement charge of ~$1.2bn (2023-09) with states, subdivisions and tribes over pharmacy dispensing practices, without admission of liability. Far after all anchors."
+   }
+  ],
+  "gate5_broken_by": "2017-06"
+ },
+ "PG": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Branded consumer staples sold through retail: volume x price less advertising and manufacturing cost, with segment-level disclosure. About as legible as a large company gets."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "WIDE",
+    "note": "Across all three anchors (2013/2014/2015) the moat held on every measurable test. Tide, Pampers, Gillette, Oral-B and Always carried category-leading share; gross margin stayed near 49-50% and operating margin in the high teens/low 20s; ROIC remained well above cost of capital; and P&G continued to take price. Organic growth did decelerate -- FY2013 organic sales +3%, guidance of +3-4% for FY2014, and quarters in FY2015 running ~+2% -- and on 2014-08-01 A.G. Lafley announced the divestiture/discontinuation of 90-100 brands to concentrate on 70-80 brands representing ~90% of sales and >95% of profit. That was portfolio pruning to raise returns, not evidence of lost pricing power, and margins subsequently expanded. No downgrade is warranted from dated evidence at these anchors. (Emerging threats visible but not yet in results: Dollar Shave Club/Harry's pressure on Gillette from ~2014-2015, and later e-commerce private label.)"
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2011-04",
+    "severity": "DISQUALIFYING",
+    "note": "European Commission decision of 2011-04-13 fined P&G EUR 211.2m (Unilever EUR 104m; Henkel immunity) for a powdered-laundry-detergent cartel across eight EU countries running Jan 2002 - Mar 2005: agreeing market shares and agreeing not to cut prices when package sizes shrank under a joint environmental initiative. Classified DISQUALIFYING strictly per the rubric -- it is an adjudicated regulator finding of misconduct (price fixing). Mitigating facts for the caller's calibration: it was resolved under the EC cartel settlement procedure with a 10% fine reduction for cooperation, the conduct ended in 2005, the fine was ~0.3% of annual sales, and the matter was closed and fully paid well before the 2013-06-30 anchor. No comparably material regulatory finding against P&G surfaced in the 2013-2015 window. REVIEWED 2026-07-27 and RETAINED as DISQUALIFYING: unlike an abuse-of-dominance case, a secret cartel is collusion concealed from customers and regulators, which is squarely the dishonesty Gate 3 tests. Mitigation noted: conduct ended 2005, settled with a cooperation discount."
+   }
+  ],
+  "gate5_broken_by": null
+ },
+ "TPR": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Handbags and accessories sold through owned retail, outlets, department stores and wholesale. Comparable sales, gross margin and store count are all disclosed; the economics are simple even if fashion demand is not predictable."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Coach's pre-2014 economics were genuinely excellent -- ~30%+ operating margin and high returns on capital on an 'accessible luxury' brand. But the mechanism of dilution was already visible in the filings: factory-outlet channel contribution rose from ~40% of sales a decade earlier to ~70% by the end of fiscal 2013, meaning the brand was being discounted faster than the full-price stores could build it. Never WIDE by Buffett standards -- a fashion brand whose price realization depends on outlet traffic is not durable."
+   },
+   {
+    "from": 2014,
+    "class": "NONE",
+    "note": "Pricing power broke in reported results, visibly, before the 2014-06-30 anchor and long before Coach/Tapestry's first anchor here. North America comparable sales fell 13.6% in the December-2013 quarter (reported Jan 2014) and roughly 21% in the following quarter, after four straight quarters of declines; FY2015 net sales fell ~20% to ~$4.2bn and operating margin roughly halved. Management itself conceded the diagnosis: on 2014-06-19 Coach presented a multi-year transformation plan cutting promotional events and closing ~70 North American stores, and the stock fell ~9%. Comps did turn positive again in FY2017 and the Kate Spade acquisition (announced 2017-05-08, closed 2017-07-11) added scale, but the demonstrated need to reset the brand every cycle is the opposite of a durable advantage."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2016-02",
+    "severity": "MINOR",
+    "note": "Consolidated 'fictitious pricing' class action (Marino v. Coach, filed Feb 2016) alleging Coach outlet tags compared prices to an MFSRP at which manufactured-for-outlet goods were never sold. Coach settled for $4.6m without admitting wrongdoing; the class period ran 2011-12-23 to 2020-08-24. Industry-wide outlet practice, ordinary-course consumer litigation."
+   },
+   {
+    "date": "2020-07",
+    "severity": "SERIOUS",
+    "note": "CEO and chairman Jide Zeitlin resigned abruptly on 2020-07-21 after a board investigation into personal misconduct allegations (a woman alleged he posed as a photographer to induce a relationship roughly a decade earlier), amplified by a ProPublica investigation. Post-dates the 2020-06-30 anchor by three weeks. Follows Victor Luis's departure as CEO effective 2019-09-03, weeks after Tapestry cut its full-year forecast and warned on Kate Spade."
+   }
+  ],
+  "gate5_broken_by": "2014-01"
+ },
+ "UNM": {
+  "gate1": {
+   "verdict": "FAIL",
+   "note": "Core group disability and group life are analyzable, but a very large closed block of long-term-care policies is not: its adequacy depends on unobservable 40-50 year morbidity, policy-termination and reinvestment-rate assumptions that outsiders cannot check, and the reported figure moved by billions on management's own assumption changes. This is the textbook unanalyzable financial black box, and it was structurally true at every anchor, not just with hindsight -- confirmed later when the Maine Bureau of Insurance concluded (8-K filed 2020-05-04, 10-Q 2020-05-05) that Unum America's statutory LTC reserves were $2.1bn deficient as of 2018-12-31, three years after Unum's own GAAP reviews said otherwise."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Unum was the largest US group disability writer with entrenched employer/broker distribution, high case persistency and decent core-line underwriting margins, producing low-double-digit ROE. That is a distribution and scale advantage in a slow-moving product, not pricing power -- benefit costs are set by competitive bidding and the closed blocks are pure legacy liability."
+   },
+   {
+    "from": 2019,
+    "class": "NONE",
+    "note": "The LTC block proved the franchise had been mispricing risk for decades. On 2018-05-01/02 (before the 2018-06-30 anchor) Unum disclosed a Q1 LTC interest-adjusted loss ratio of 96.6% versus 88.6% a year earlier and against 85-90% guidance, and the stock fell ~17% in a day. Then on 2018-09-18 (after the 2018 anchor, before the 2019 anchor) Unum announced the results of its LTC reserve review: a ~$750m pre-tax / $593.1m after-tax charge ($2.71 per diluted share) taken in Q3 2018. A business whose largest legacy liability can be revalued by that much is earning no economic rent. Confirmed again on 2020-05-04 by the Maine BOI $2.1bn statutory deficiency finding (7-year phase-in from year-end 2020, ~$200-250m in 2020)."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2004-11",
+    "severity": "DISQUALIFYING",
+    "note": "UnumProvident settled a multistate market conduct examination on 2004-11-18 with insurance regulators from 48 states, joined by the US Department of Labor and supported by the NY AG: a $15m fine and mandatory reassessment of roughly 200,000 previously denied long-term disability claims. Regulators found inappropriate construction of medical reports to claimants' detriment and a significant number of denials for lack of 'objective evidence' where no such policy requirement existed. Systematic consumer harm found by regulators -- and it goes to the same claims-reserving culture that produced the later LTC problem."
+   },
+   {
+    "date": "2005-10",
+    "severity": "DISQUALIFYING",
+    "note": "California, which opted out of the multistate deal, reached its own settlement under Insurance Commissioner Garamendi, including an $8m fine, after finding the company's claims process itself unlawful."
+   },
+   {
+    "date": "2018-06",
+    "severity": "MINOR",
+    "note": "Securities class actions filed beginning 2018-06-13 (Pittman v. Unum Group, E.D. Tenn.) for a 2018-01-31 to 2018-05-02 class period, alleging Unum concealed rising LTC claim incidence and unfavorable policy terminations. Plaintiffs ultimately lost. Kept MINOR because no fraud was established."
+   }
+  ],
+  "gate5_broken_by": "2018-05"
+ },
+ "XOM": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Integrated oil and gas: upstream volumes and realizations, downstream and chemical margins, reserve replacement and return on capital employed are all disclosed on a consistent basis. Commodity-exposed but not opaque."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Judged honestly, Exxon at the 2013/2014/2015 anchors had a real but limited advantage: an AAA credit rating held since 1949 (last non-AAA in 1930), the industry's best capital discipline and ROCE (~19% in 2013 versus mid-single-digit peers in bad years), an integrated downstream/chemicals hedge that cushioned the crude cycle, and 21 consecutive years of 100%+ reserve replacement through 2014. It is still a price taker in a commodity -- no pricing power, and the resource base depletes -- so NARROW, never WIDE. Note the 2013 and 2014 anchors both precede the OPEC-driven crude collapse that began in late 2014."
+   },
+   {
+    "from": 2016,
+    "class": "NONE",
+    "note": "Three dated disclosures, all before the 2016-06-30 anchor, showed the advantage was cyclical rather than structural. (1) 2016-02-02: FY2015 results put ROCE at ~7.9% against ~19% in 2013, with capex and the dividend no longer covered by operating cash flow. (2) 2016-02-19: Exxon announced 2015 reserve additions of 1.0bn oil-equivalent barrels, a 67% reserve replacement ratio -- the first sub-100% year in over two decades. (3) 2016-04-26: S&P stripped the AAA rating, cutting to AA+ on low oil prices and high dividend payments. The 2016 reserve report (Feb 2017) then de-booked billions of barrels of Canadian oil sands. A business that cannot replace its own inventory or earn its cost of capital through a cycle has no durable advantage."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2013-03",
+    "severity": "MINOR",
+    "note": "Pegasus pipeline rupture at Mayflower, Arkansas on 2013-03-29 spilled Wabasca heavy crude into a residential subdivision. Resolved with federal and state settlements (~$5m civil penalties plus remediation) in 2015. Ordinary-course operating/environmental liability for a pipeline operator."
+   },
+   {
+    "date": "2015-11",
+    "severity": "SERIOUS",
+    "note": "NY AG Eric Schneiderman subpoenaed Exxon on 2015-11-04 (public 2015-11-05) for four decades of climate research, communications and financial records, investigating whether the company misled the public and investors about climate risk. Massachusetts AG followed in April 2016. Investigation, not a finding, at this date."
+   },
+   {
+    "date": "2016-09",
+    "severity": "SERIOUS",
+    "note": "Reported 2016-09-20 that the SEC was investigating Exxon's refusal to impair reserves and assets while crude fell ~60% from mid-2014 (Chevron and Shell had impaired), and its use of proxy carbon-cost assumptions in project economics. No enforcement action followed; the probe was reported closed in 2018."
+   },
+   {
+    "date": "2017-07",
+    "severity": "SERIOUS",
+    "note": "OFAC imposed a $2m civil penalty on 2017-07-20 for Ukraine-related sanctions violations: Exxon executed May 2014 legal documents with Rosneft countersigned by Igor Sechin, an individually designated SDN. Exxon sued within hours; the Northern District of Texas vacated the penalty on 2019-12-31."
+   },
+   {
+    "date": "2018-10",
+    "severity": "SERIOUS",
+    "note": "NY AG filed a securities-fraud suit on 2018-10-24 alleging Exxon kept two sets of proxy-cost-of-carbon books to overstate asset values. After trial, Justice Ostrager ruled for Exxon on 2019-12-10, finding no material misrepresentation. Kept SERIOUS rather than DISQUALIFYING because the fraud claim was adjudicated in Exxon's favor -- but at the 2018-2019 dates it was a live, credibly-pled AG fraud allegation."
+   }
+  ],
+  "gate5_broken_by": "2016-02"
+ }
+}

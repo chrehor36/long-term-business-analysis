@@ -1,0 +1,234 @@
+{
+  "AEP": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Rate-regulated electric utility: revenue is rate base times a state/FERC-allowed ROE, plus recovery of fuel and capex through riders - a generalist can follow the unit economics from the rate cases and rate-base growth disclosures. Complicated in 2013-2014 only by the ~8 GW of unregulated Ohio/PJM merchant generation still on the books, which AEP had already announced it intended to divest."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Legal monopoly over service territory in 11 states (~5.4M customers, largest US transmission network) is a real barrier to entry, but the moat is granted and priced by regulators, not by the customer: authorized ROEs in the 9.5-10.5% band, earned ROE around 10%, no independent pricing power, and periodic regulatory lag (Ohio ESP litigation, Texas/Virginia/Kentucky rate cases 2013-2014). Merchant generation exposed to weak PJM capacity/energy prices in 2013-2014 was explicitly NOT moated - AEP announced in 2013-2014 it would sell or transfer those competitive assets (sale to Lightstone/Blackstone-Arclight closed 2017-01). Substitution threat low in the period; distributed solar was immaterial to load."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2007-10",
+        "severity": "SERIOUS",
+        "note": "2007-10-09: DOJ/EPA, 8 states and 13 citizen groups announced a Clean Air Act New Source Review consent decree covering 16 coal plants (46 units) - the largest environmental settlement in US history at the time: ~$4.6B of pollution controls, $15M civil penalty, $60M mitigation. Settled without adjudication of liability. Third joint modification entered 2013-05-14 (Rockport FGD deadline extension in exchange for tighter SO2 caps)."
+      },
+      {
+        "date": "2020-07",
+        "severity": "SERIOUS",
+        "note": "2020-07-21: arrest of Ohio House Speaker Larry Householder in the $60M HB6 bribery case put AEP's own political spending in the frame - AEP was the sole funder of the 501(c)(4) Empowering Ohio's Economy (approximately $8.7M over the period), which routed $150K to Generation Now and $200K to a Householder-aligned coalition. AEP was never criminally charged; its 2020-07 press release denying involvement was later found misleading by the SEC."
+      },
+      {
+        "date": "2021-06",
+        "severity": "SERIOUS",
+        "note": "2021-06: AEP disclosed it had received an SEC subpoena (issued 2021-05) for documents relating to HB6 and to its dark-money contributions; a second subpoena followed in 2022-08. Shareholder securities class action and derivative suits filed in the same period."
+      },
+      {
+        "date": "2025-01",
+        "severity": "DISQUALIFYING",
+        "note": "2025-01: SEC administrative order - AEP agreed to pay $19M to settle findings that it issued a materially misleading press release about its role in funding Empowering Ohio's Economy, failed to disclose the related-party payments, and violated the books-and-records/internal-controls provisions of the Exchange Act. A regulator finding of misconduct against the issuer itself."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "AET": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Health insurer: premiums in, medical costs out, with the medical benefit ratio and reserve development as the two things that matter - analyzable from the 10-K, not a black box. Reserve estimation and heavy dependence on government program rules (Medicare Advantage rates, ACA risk adjustment) make it harder than a retailer but not opaque."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Scale advantage in provider-network contracting and claims administration (about 23M medical members after the Coventry acquisition closed 2013-05-07, third-largest US insurer), sticky national-account and ASC relationships, and regulatory licensing barriers. But pricing power is statutorily capped: the ACA medical loss ratio floors effective 2011 (80% individual/small group, 85% large group) force rebates above a fixed underwriting margin, state regulators approve rates, and employer plan sponsors re-bid annually. Net margin ~4-5%, ROE ~13-15% in 2013-2014. New in the 2014 anchor year: public exchange participation from 2014-01 with unproven risk pools, risk-corridor receivables, and the health insurer fee - all downside skew to the pricing side of the moat (Aetna exited most exchange markets 2016-08 after large losses)."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2010-04",
+        "severity": "SERIOUS",
+        "note": "2010-04-05: CMS imposed intermediate sanctions on Aetna, suspending marketing and enrollment for all Medicare Advantage-PD and standalone Part D contracts effective 2010-04-21, citing serious deficiencies in formulary/benefit administration, coverage determinations and appeals, and low-income-subsidy best-available-evidence handling. Sanctions lifted 2011-06."
+      },
+      {
+        "date": "2012-12",
+        "severity": "SERIOUS",
+        "note": "2012-12-07/18: announced $120M proposed class settlement of out-of-network reimbursement claims (use of the discredited Ingenix usual-and-customary database to underpay non-network providers and members), New Jersey federal court. No admission of liability. Aetna terminated the settlement in 2014-03 when participation thresholds were not met, and the litigation continued."
+      },
+      {
+        "date": "2017-01",
+        "severity": "SERIOUS",
+        "note": "Humana merger saga: announced 2015-07-03 ($37B); DOJ sued to block 2016-07-21; Judge John D. Bates permanently enjoined the deal 2017-01-23 under Clayton Act sec. 7 and, notably, found Aetna's stated public rationale for withdrawing from 17 ACA exchange markets in 2016-08 was not the real one - the court concluded Aetna withdrew at least in part to improve its litigation position, i.e. a judicial finding that the company's public explanation was pretextual. Deal terminated 2017-02-14; Aetna paid Humana a $1B break fee 2017-02-16. No fraud adjudication."
+      },
+      {
+        "date": "2018-01",
+        "severity": "SERIOUS",
+        "note": "2018-01-17: $17M class settlement over an 2017-07/08 mailing whose oversized envelope windows disclosed up to ~12,000 members' HIV medication status; followed by state AG penalties (including a DC AG fine and a $935K California settlement) through 2018."
+      },
+      {
+        "date": "2018-02",
+        "severity": "SERIOUS",
+        "note": "2018-02-11: CNN published deposition testimony from a former Aetna Southern California medical director (in the role 2012-2015) that he never reviewed patient medical records before approving or denying coverage; the California Insurance Commissioner opened an investigation the same day and other state regulators widened it within the week. Aetna settled the underlying suit in 2019-03/04 before trial."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "AZO": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Single-format retail: sell hard parts and maintenance items out of ~5,500-6,000 US stores at ~53% gross margin, hold enormous slow-turning inventory financed largely by vendor payables, and convert the cash into buybacks. Store-level economics are fully transparent in the filings."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Best-in-class economics sustained for two decades: company-reported after-tax return on invested capital in the low-30s (32.1% for fiscal 2018; ~31-32% fiscal 2017), gross margin 53.2% in fiscal 2018, operating margin high-teens. The durable advantage is inventory density, not price - a hub and mega-hub network that puts hard-to-find SKUs within same-day reach of satellite stores, which is exactly what a DIFM commercial customer with a car on the lift and a DIY customer with a dead vehicle will pay up for. Demand is failure-driven and non-discretionary, and the aging US vehicle fleet (average age rising past 11 years through 2017-2018) is a tailwind. Substitution threat tested in real time: auto-parts equities sold off hard in 2017 when Amazon expanded into parts (AZO shares fell roughly 40% from 2016 highs into 2017), yet fiscal 2018 domestic comps still turned positive (Q4 fiscal 2018 same-store sales +2.2%) and commercial/DIFM kept taking share, because delivery time and installation service are the binding constraints, not shelf price. Classification unchanged across both anchor dates."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2014-11",
+        "severity": "SERIOUS",
+        "note": "2014-11-17/24: San Diego federal jury in Juarez v. AutoZone Stores awarded $872,719 compensatory and $185,000,000 punitive damages for pregnancy discrimination, harassment and retaliation - one of the largest single-plaintiff employment verdicts on record. Parties jointly moved to dismiss on 2015-07-20 after a confidential settlement; no adjudicated finding survived."
+      },
+      {
+        "date": "2019-06",
+        "severity": "SERIOUS",
+        "note": "2019-06-19: California AG announced an $11M settlement ($8.9M civil penalties, $1.35M supplemental environmental projects, $750K costs) covering illegal disposal of hazardous waste and of customer records with unredacted personal information at AutoZone stores in 45 counties. The underlying investigation covered conduct in 2013-2015, but the enforcement action and its facts only became public in 2019-06 - after both anchor dates."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "BALL": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Two understandable segments: metal beverage/food packaging (a converting business with aluminum cost passed through contractually) and a smaller aerospace/defense unit sold on cost-plus and fixed-price government contracts. Heterogeneous but not a conglomerate black box; the can business is ~85-90% of revenue."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Structural advantages are real but shallow: aluminum can making is a consolidated oligopoly (Ball, Rexam and Crown accounting for the large majority of North American capacity in 2013-2014), plants are capital-intensive and typically sited beside the filler's line, and multi-year supply agreements pass through metal cost. Against that, the can itself is a commodity spec, the customer list is concentrated and powerful (Coca-Cola, AB InBev, PepsiCo, MillerCoors), North American CSD volumes were shrinking roughly 2-3% per year through 2013-2014, and returns reflect it - EBIT margins in the high single digits and ROIC around 10-11%, well below what a wide-moat franchise generates. Substitution from PET and glass is live. The Rexam deal (announced 2015-02-19, completed 2016-06-30 with FTC-mandated divestiture of 8 US plants plus European/Brazilian assets to Ardagh for $3.42B) increased scale and specialty-can mix but also added leverage and goodwill; classification stays NARROW - scale in a commodity converting business is not pricing power."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2011-03",
+        "severity": "SERIOUS",
+        "note": "2011-03-24: SEC settled FCPA books-and-records and internal-controls charges against Ball Corporation - its Argentine subsidiary Formametal S.A. paid roughly $106,000 in bribes to Argentine government employees in 2006-2007 to import prohibited used machinery and export raw materials at reduced tariffs. Ball paid a $300,000 civil penalty, settled without admitting or denying, and no DOJ criminal action followed. Flagged explicitly as an FCPA matter, though at the smallest end of the FCPA resolution range and remediated (employees terminated) more than two years before the first anchor date."
+      },
+      {
+        "date": "2016-07",
+        "severity": "MINOR",
+        "note": "2016-07: FTC consent order in In the Matter of Ball Corporation and Rexam PLC required divestiture of seven beverage-can plants and one can-end plant in the US (plus European and Brazilian assets) to Ardagh to cure horizontal overlap in three US regional markets and in specialty cans. An ordinary merger remedy, not a finding of misconduct."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "BBWI": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Specialty mall retail with transparent store-level economics. The complication is not opacity but composition: through this period L Brands was two opposite businesses stapled together - Victoria's Secret (declining comps, collapsing segment margin) and Bath & Body Works (mid-to-high single and later double-digit comps) - so consolidated figures average a shrinking franchise with a compounding one and must be read at the segment level."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Through fiscal 2015 the franchise looked genuinely wide: Victoria's Secret held roughly a third of the US intimates market with brand-driven pricing power and the Fashion Show as a marketing moat, Bath & Body Works was the dominant US personal-care specialty chain, consolidated operating margin ran ~17-18% on record fiscal 2015 sales of ~$12.2B, and returns on capital were well above 20%."
+      },
+      {
+        "from": 2018,
+        "class": "NARROW",
+        "note": "Only the Bath & Body Works half of the moat survived, and this was visible in reported results before the 2018-06-30 anchor. Victoria's Secret comparable sales turned sharply negative in fiscal 2017 - Q1 fiscal 2017 comps -14% (reported 2017-05, versus +2% in Q1 fiscal 2016), declines in essentially every month of 2017, full-year comps down mid-single digits with about 5 points attributable to the April 2016 exit of swim, apparel and the catalogue - while share migrated to Aerie, ThirdLove and DTC entrants. Bath & Body Works meanwhile comped above +5% across 2016-17 and +11-13% in fiscal 2018 with operating profit up 29%. The pricing power that defined the old classification (VS full-price brand) was gone, replaced by heavy promotion; a chain that must discount to hold traffic is not wide."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2018-11",
+        "severity": "MINOR",
+        "note": "2018-11-08: Vogue published chief marketing officer Ed Razek's remarks dismissing transgender and plus-size models in the Fashion Show, triggering a public backlash and an apology - reputational rather than legal, but the first public crack in the brand's governance story. Razek left the company in 2019-08."
+      },
+      {
+        "date": "2019-07",
+        "severity": "SERIOUS",
+        "note": "2019-07-06: Jeffrey Epstein's federal sex-trafficking indictment put chairman/CEO Leslie Wexner's decades-long financial relationship with Epstein - who had held Wexner's power of attorney in the 1990s - under public scrutiny. L Brands' independent directors retained outside counsel in 2019-07 to review any company ties to Epstein. Wexner told shareholders in 2019-09 he was 'embarrassed' by the association and said Epstein had misappropriated vast sums from him. Post-dates the 2019-06-30 anchor by days."
+      },
+      {
+        "date": "2020-02",
+        "severity": "SERIOUS",
+        "note": "2020-02-01: New York Times investigation described an entrenched culture of misogyny, bullying and harassment inside Victoria's Secret, including allegations against Razek and a board that failed to act; shareholder derivative suits against Wexner and the board followed. 2020-02-20: L Brands announced Wexner would step down as CEO and chairman alongside the sale of a 55% stake in Victoria's Secret to Sycamore (Sycamore terminated the deal 2020-05). 2020-07: L Brands announced a $90M fund for former employees and contractors plus a governance overhaul."
+      }
+    ],
+    "gate5_broken_by": "2018-11"
+  },
+  "BDX": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Medical consumables and instruments: needles, syringes, blood-collection tubes, infusion systems and diagnostics sold into hospitals and labs on GPO contracts, with a razor-and-blade consumable stream. Unit economics are straightforward to explain."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "At the 2013 and 2014 anchors BD was a consumables near-monopoly in its core: global leader in vacuum blood collection (BD Vacutainer) and hypodermic needles/syringes, with switching costs anchored in lab automation compatibility, clinician training, 510(k)/validation barriers and multi-year GPO contracts. Gross margin ~50%, operating margin ~19-20%, ROE ~25% and mid-teens ROIC in fiscal 2013-2014, with 40+ consecutive years of dividend increases. Pricing power is real but bounded by hospital cost pressure and safety-syringe competition (Retractable, Terumo, Greiner) - Morningstar rated the moat narrow rather than wide over this period, and BD's own returns on capital sit below true wide-moat compounders, so the classification is at the boundary."
+      },
+      {
+        "from": 2019,
+        "class": "NARROW",
+        "note": "Two large debt-funded acquisitions changed the economics of the enterprise, and the effect was visible in fiscal 2018 results reported 2018-11: CareFusion (closed 2015-03, $12.2B) and C.R. Bard (announced 2017-04-23, closed 2017-12-29, $24B) left a goodwill-heavy balance sheet on which return on invested capital fell to high single digits, gross margin was diluted, and BD inherited mass-tort liabilities and device-quality problems it had not previously carried. The core Vacutainer/needle franchise still earns its keep, but the consolidated entity is a leveraged roll-up rather than an intact compounder."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2013-07",
+        "severity": "SERIOUS",
+        "note": "2013-07-30: BD settled hypodermic-products antitrust class actions brought by hospitals and pharmacies (cases filed Tennessee 2005, New Jersey 2006, New York 2007) alleging exclusionary bundling and exclusive dealing through GPOs and PBMs to maintain monopoly power in home-use insulin syringes - $22M into a settlement fund, no admission. Follows an earlier $45M direct-purchaser (distributor) settlement agreed 2009-04-27."
+      },
+      {
+        "date": "2013-09",
+        "severity": "SERIOUS",
+        "note": "2013-09-19: federal jury in the Eastern District of Texas found for Retractable Technologies on attempted monopolization of the safety-syringe market and on Lanham Act false advertising, awarding $113,508,000 in antitrust damages (subject to trebling to roughly $340M). This was live and adverse at both anchor dates. The Fifth Circuit reversed the antitrust judgment and rendered judgment for BD on 2016-12-02, while affirming Lanham Act liability and remanding on disgorgement."
+      },
+      {
+        "date": "2017-12",
+        "severity": "SERIOUS",
+        "note": "2017-12-29: closing of the C.R. Bard acquisition transferred to BD Bard's mass-tort inventory - hernia mesh, pelvic mesh and IVC filter litigation involving thousands of claimants. Bard IVC filter bellwether trials began 2018-03 with plaintiff verdicts; reserves and claim counts have been disclosed in BD filings since."
+      },
+      {
+        "date": "2020-02",
+        "severity": "MINOR",
+        "note": "2020-02: BD disclosed remediation and recall activity on Alaris infusion pumps (inherited from CareFusion) and a delayed 510(k) clearance, cutting guidance. A product-quality and regulatory-clearance failure rather than a finding of misconduct."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "CMI": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Diesel and natural-gas engines, components, aftertreatment, power generation and distribution, sold mostly to a short list of truck and equipment OEMs plus a large aftermarket parts and service stream. Cyclical and segment-heavy, but every line is explainable from unit volumes, content per engine and parts attach."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Cummins is the leading independent engine maker - roughly 40% of the North American heavy-duty truck engine market plus the exclusive diesel for Ram 2500/3500 pickups - and the installed base feeds a high-margin aftermarket parts and service annuity through several hundred distributors and thousands of dealers. Successive emissions rules (EPA 2010, GHG Phase 1 and the Phase 2 rule finalized 2016-08) raised the R&D and aftertreatment scale required to compete, which favors the largest independent. What keeps this from wide: the buyers are a handful of OEMs with real leverage, several of whom vertically integrated against Cummins (Daimler/Detroit Diesel, Volvo, PACCAR MX), demand is violently cyclical - North American Class 8 orders collapsed in 2016 and Cummins revenue fell about 9% that year to ~$17.5B with EPS down sharply, exactly across the 2016 and 2017 anchors - and returns, while good through the cycle (ROIC mid-to-high teens, ROE above 20%), are not fortress-stable. Long-run substitution risk from alternative powertrains was visible but not yet material in 2016-2017."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2019-04",
+        "severity": "SERIOUS",
+        "note": "2019-04-29: Cummins publicly disclosed it was conducting a formal internal review, with external advisers, of its emissions certification process and compliance for pickup-truck applications, following conversations with EPA and CARB about certification of engines in model year 2019 Ram 2500/3500 trucks, and voluntarily reported the review to EPA, CARB, DOJ and the SEC. Nothing about this - and nothing about the underlying conduct, which reached back to model year 2013 engines - was public before the 2016-06-30 or 2017-06-30 anchor dates."
+      },
+      {
+        "date": "2023-12",
+        "severity": "DISQUALIFYING",
+        "note": "2023-12-22: DOJ, EPA and CARB announced an agreement in principle (consent decree lodged 2024-01-10) resolving findings that Cummins installed defeat devices on engines in roughly 630,000 model year 2013-2019 Ram 2500/3500 trucks and undisclosed auxiliary emission control devices on roughly 330,000 model year 2019-2023 trucks. Civil penalty of $1.675B - the largest ever under the Clean Air Act - with total obligations, including recall 67A (announced 2023-11, ~560,000 trucks) and mitigation, valued above $2B; Cummins booked a ~$2.04B charge. Adjudicated-equivalent regulatory finding of systematic emissions defeat-device conduct."
+      }
+    ],
+    "gate5_broken_by": null
+  }
+}

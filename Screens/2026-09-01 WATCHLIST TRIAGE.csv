@@ -1,0 +1,90 @@
+ticker,industry,cap_m,oe_bottom_m,yield_bottom,vs_sovereign,growth_required,spread,already_run,financial_class,lease_flag
+CCB,State Commercial Banks,741,151,0.2043,0.1525,-0.1043,0.498,False,True,False
+BBWI,"Retail-Retail Stores, ",3895,689,0.1769,0.1251,-0.0769,0.167,False,False,False
+L,"Fire, Marine & Casualt",22432,2622,0.1169,0.0651,-0.0169,0.079,False,True,False
+GM,Motor Vehicles & Passe,75136,7769,0.1034,0.0516,-0.0034,0.537,False,False,False
+MKL,"Fire, Marine & Casualt",22268,2294,0.103,0.0512,-0.003,0.078,False,True,False
+F,Motor Vehicles & Passe,51810,5184,0.1001,0.0483,-0.0001,0.529,False,False,False
+GIS,Grain Mill Products,22192,2060,0.0928,0.041,0.0072,0.091,False,False,False
+OXY,Crude Petroleum & Natu,58989,3944,0.0669,0.0151,0.0331,0.639,False,False,False
+AEO,Retail-Family Clothing,2781,173,0.0622,0.0104,0.0378,0.399,False,False,False
+ACNB,State Commercial Banks,651,39,0.06,0.0082,0.04,0.085,False,True,True
+KR,Retail-Grocery Stores,35322,2057,0.0582,0.0064,0.0418,0.57,False,False,False
+PLAB,Semiconductors & Relat,1635,95,0.0582,0.0064,0.0418,0.877,False,False,True
+HRB,Services-Personal Serv,6467,345,0.0534,0.0016,0.0466,0.781,True,False,False
+PINS,Services-Computer Prog,2954,147,0.0498,-0.002,0.0502,0.139,False,False,False
+DG,Retail-Variety Stores,27043,1327,0.0491,-0.0027,0.0509,0.495,False,False,False
+NKE,Rubber & Plastics Foot,67598,3150,0.0466,-0.0052,0.0534,0.127,False,False,False
+AATC,Measuring & Controllin,31,1,0.0462,-0.0056,0.0538,0.112,False,False,True
+TBTC,Services-Miscellaneous,28,1,0.0436,-0.0082,0.0564,0.037,True,False,False
+UAL,"Air Transportation, Sc",33961,1467,0.0432,-0.0086,0.0568,2.693,False,False,True
+QCOM,Radio & Tv Broadcastin,172263,7415,0.043,-0.0088,0.057,0.165,False,False,False
+DKS,Retail-Miscellaneous S,12467,532,0.0427,-0.0091,0.0573,0.779,False,False,False
+ULTA,"Retail-Retail Stores, ",23331,982,0.0421,-0.0097,0.0579,0.147,False,False,False
+HD,Retail-Lumber & Other ,329302,13713,0.0416,-0.0102,0.0584,0.115,True,False,True
+CVX,Petroleum Refining,398197,15433,0.0388,-0.013,0.0612,0.411,False,False,False
+ANF,Retail-Family Clothing,6555,248,0.0378,-0.014,0.0622,0.903,False,False,False
+PEP,Beverages,191958,6741,0.0351,-0.0167,0.0649,0.357,False,False,False
+MCD,Retail-Eating  Places,187164,6364,0.034,-0.0178,0.066,0.457,False,False,False
+HAS,"Games, Toys & Children",13350,450,0.0337,-0.0181,0.0663,0.409,False,False,False
+TGT,Retail-Variety Stores,73973,2475,0.0335,-0.0183,0.0665,0.724,False,False,False
+DRI,Retail-Eating  Places,24478,818,0.0334,-0.0184,0.0666,0.393,False,False,False
+CNR,Silver Ores,5011,167,0.0332,-0.0186,0.0668,0.768,False,False,True
+COKE,Bottled & Canned Soft ,13794,455,0.033,-0.0188,0.067,0.504,False,False,False
+BRK-A,"Fire, Marine & Casualt",708079,22148,0.0313,-0.0205,0.0687,0.308,False,True,False
+TSCO,Retail-Building Materi,18122,554,0.0306,-0.0212,0.0694,0.741,False,False,False
+ACLS,Special Industry Machi,3400,103,0.0303,-0.0215,0.0697,0.227,False,False,False
+CRM,Services-Prepackaged S,213659,6203,0.029,-0.0228,0.071,0.443,False,False,True
+BMI,Totalizing Fluid Meter,3834,108,0.0282,-0.0236,0.0718,0.199,False,False,True
+ORLY,Retail-Auto & Home Sup,71464,1852,0.0259,-0.0259,0.0741,0.403,False,False,False
+DAL,"Air Transportation, Sc",52949,1342,0.0254,-0.0264,0.0746,2.857,False,False,False
+OTTR,Electric Services,3758,94,0.0251,-0.0267,0.0749,2.158,False,False,False
+V,Services-Business Serv,715785,17742,0.0248,-0.027,0.0752,0.091,True,False,False
+EFX,Services-Consumer Cred,22831,543,0.0238,-0.028,0.0762,0.37,False,False,False
+QLYS,Services-Prepackaged S,6124,145,0.0236,-0.0282,0.0764,0.265,False,False,True
+EAT,Retail-Eating  Places,9772,227,0.0232,-0.0286,0.0768,0.481,False,False,False
+TJX,Retail-Family Clothing,148595,3444,0.0232,-0.0286,0.0768,0.469,True,False,False
+SBUX,Retail-Eating & Drinki,123291,2835,0.023,-0.0288,0.077,0.306,False,False,False
+CERT,Services-Prepackaged S,1236,28,0.0228,-0.029,0.0772,0.868,False,False,True
+CMG,Retail-Eating  Places,48118,1043,0.0217,-0.0301,0.0783,0.474,False,False,False
+AAPL,Electronic Computers,4671962,90078,0.0193,-0.0325,0.0807,0.02,False,False,False
+CTAS,Men's & Boys' Furnishg,81823,1363,0.0167,-0.0351,0.0833,0.207,False,False,False
+GRMN,"Search, Detection, Nav",55091,892,0.0162,-0.0356,0.0838,0.263,False,False,False
+CGNX,Industrial Instruments,10107,154,0.0152,-0.0366,0.0848,0.28,False,False,False
+AMAT,Semiconductors & Relat,368001,5512,0.015,-0.0368,0.085,0.145,False,False,False
+PLPC,"Water, Sewer, Pipeline",1900,27,0.0144,-0.0374,0.0856,1.096,False,False,False
+KLAC,Optical Instruments & ,229430,3092,0.0135,-0.0383,0.0865,0.052,False,False,False
+WMT,Retail-Variety Stores,817057,9711,0.0119,-0.0399,0.0881,0.047,False,False,False
+COST,Retail-Variety Stores,419325,4923,0.0117,-0.0401,0.0883,0.798,True,False,False
+GOOGL,Services-Computer Prog,4097294,46910,0.0114,-0.0404,0.0886,0.015,False,False,False
+DELL,Electronic Computers,295522,3231,0.0109,-0.0409,0.0891,0.44,False,False,False
+MSFT,Services-Prepackaged S,3811904,40268,0.0106,-0.0412,0.0894,0.097,False,False,True
+LRCX,Special Industry Machi,383129,3991,0.0104,-0.0414,0.0896,0.209,False,False,False
+AVGO,Semiconductors & Relat,1754548,14962,0.0085,-0.0433,0.0915,0.079,False,False,False
+SHOP,Services-Prepackaged S,54964,459,0.0083,-0.0435,0.0917,1.191,False,False,False
+PAY,Services-Business Serv,3635,28,0.0077,-0.0441,0.0923,2.035,False,False,False
+CORT,Pharmaceutical Prepara,12386,90,0.0073,-0.0445,0.0927,0.049,False,False,False
+TXN,Semiconductors & Relat,236056,1427,0.006,-0.0458,0.094,1.239,False,False,False
+SNPS,Services-Prepackaged S,79495,426,0.0054,-0.0464,0.0946,0.97,False,False,False
+INOD,Services-Computer Proc,1944,6,0.0033,-0.0485,0.0967,1.653,False,False,False
+MRVL,Semiconductors & Relat,184491,550,0.003,-0.0488,0.097,0.23,False,False,False
+ELF,"Perfumes, Cosmetics & ",6179,16,0.0027,-0.0491,0.0973,2.419,False,False,False
+AMD,Semiconductors & Relat,766725,1944,0.0025,-0.0493,0.0975,0.102,False,False,False
+CRWD,Services-Prepackaged S,220218,233,0.0011,-0.0507,0.0989,0.192,False,False,False
+PLTR,Services-Prepackaged S,436282,247,0.0006,-0.0512,0.0994,1.817,False,False,False
+SWK,"Cutlery, Handtools & G",14826,-9,-0.0006,-0.0524,0.1006,,False,False,False
+ARM,Semiconductors & Relat,249861,-285,-0.0011,-0.0529,0.1011,,False,False,False
+CALX,Communications Service,2378,-6,-0.0024,-0.0542,0.1024,,False,False,False
+BE,Electrical Industrial ,60766,-157,-0.0026,-0.0544,0.1026,,False,False,False
+MU,Semiconductors & Relat,1049376,-3147,-0.003,-0.0548,0.103,,False,False,False
+ROKU,Cable & Other Pay Tele,22995,-151,-0.0066,-0.0584,0.1066,,False,False,False
+RGTI,Services-Computer Prog,5003,-81,-0.0161,-0.0679,0.1161,,False,False,False
+HHH,Real Estate Investment,3769,-83,-0.0221,-0.0739,0.1221,,False,True,False
+ORCL,Services-Prepackaged S,434433,-11193,-0.0258,-0.0776,0.1258,,False,False,False
+BA,Aircraft,165440,-4426,-0.0268,-0.0786,0.1268,,False,False,False
+ACMR,Special Industry Machi,2979,-92,-0.0309,-0.0827,0.1309,,False,False,False
+ALKT,Services-Prepackaged S,2079,-66,-0.0317,-0.0835,0.1317,,False,False,False
+INTC,Semiconductors & Relat,453077,-14652,-0.0323,-0.0841,0.1323,,False,False,False
+ACVA,Services-Business Serv,1148,-50,-0.0432,-0.095,0.1432,,False,False,True
+NEGG,"Retail-Retail Stores, ",332,-50,-0.1512,-0.203,0.2512,,False,False,False
+FLNC,Miscellaneous Electric,560,-181,-0.3236,-0.3754,0.4236,,False,False,False

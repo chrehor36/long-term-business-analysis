@@ -1,0 +1,380 @@
+ticker,name,industry,cap_m,oe_bottom_m,yield_bottom,vs_sovereign,growth_required,spread,financial,lease_flag
+OPFI,OppFi Inc.,Finance Services,602,267,0.444,0.3922,-0.344,0.214,True,False
+WRLD,WORLD ACCEPTANCE CORP,Personal Credit Institut,885,261,0.2947,0.2429,-0.1947,0.014,True,False
+PAGP,"Plains GP Holdings, LP",Pipe Lines (No Natural G,5535,1551,0.2803,0.2285,-0.1803,0.344,False,False
+SNFCA,SECURITY NATIONAL FINANCIA,Finance Services,199,44,0.2212,0.1694,-0.1212,0.91,True,False
+CASH,"PATHWARD FINANCIAL, INC.",National Commercial Bank,1689,331,0.1962,0.1444,-0.0962,0.182,True,False
+CUBB,"Customers Bancorp, Inc.",State Commercial Banks,740,128,0.1728,0.121,-0.0728,0.833,True,False
+UVE,UNIVERSAL INSURANCE HOLDIN,"Fire, Marine & Casualty ",1208,183,0.1518,0.1,-0.0518,0.189,True,False
+LEG,LEGGETT & PLATT INC,Household Furniture,1257,190,0.1515,0.0997,-0.0515,0.42,False,False
+SIG,SIGNET JEWELERS LTD,Retail-Jewelry Stores,3198,423,0.1323,0.0805,-0.0323,0.415,False,False
+SMPL,Simply Good Foods Co,Food and Kindred Product,967,128,0.1323,0.0805,-0.0323,0.249,False,False
+CALM,"Cal-Maine Foods, Inc.",Agricultural Prod-Livest,3763,491,0.1304,0.0786,-0.0304,0.252,False,False
+HESM,Hess Midstream LP,Crude Petroleum & Natura,5078,650,0.1281,0.0763,-0.0281,0.115,False,False
+EMBC,Embecta Corp.,Surgical & Medical Instr,286,35,0.1237,0.0719,-0.0237,4.107,False,False
+ESNT,Essent Group Ltd.,Surety Insurance,6129,730,0.1191,0.0673,-0.0191,0.096,True,False
+L,"Fire, Marine & Casualt","Fire, Marine & Casualty ",22432,2622,0.1169,0.0651,-0.0169,0.078,True,False
+CIA,"CITIZENS, INC.",Life Insurance,198,23,0.1168,0.065,-0.0168,0.426,True,False
+FC,FRANKLIN COVEY CO,Services-Management Serv,231,27,0.1157,0.0639,-0.0157,0.175,False,False
+BRBR,"BELLRING BRANDS, INC.",Food and Kindred Product,1243,139,0.1115,0.0597,-0.0115,0.468,False,False
+CE,Celanese Corp,"Plastic Material, Synth ",4861,522,0.1074,0.0556,-0.0074,0.884,False,False
+MGPI,MGP INGREDIENTS INC,"Wholesale-Beer, Wine & D",362,38,0.1048,0.053,-0.0048,0.933,False,False
+GM,Motor Vehicles & Passe,Motor Vehicles & Passeng,75136,7769,0.1034,0.0516,-0.0034,0.537,False,False
+MKL,"Fire, Marine & Casualt","Fire, Marine & Casualty ",22268,2294,0.103,0.0512,-0.003,0.078,True,False
+MCFT,MasterCraft Boat Holdings,Ship & Boat Building & R,389,39,0.1005,0.0487,-0.0005,0.289,False,False
+BLMN,"Bloomin' Brands, Inc.",Retail-Eating  Places,903,90,0.1001,0.0483,-0.0001,0.958,False,False
+F,Motor Vehicles & Passe,Motor Vehicles & Passeng,51810,5184,0.1001,0.0483,-0.0001,0.529,False,False
+APOG,"APOGEE ENTERPRISES, INC.","Glass Products, Made of ",787,77,0.0972,0.0454,0.0028,0.381,False,False
+KBH,KB HOME,Operative Builders,3217,309,0.0961,0.0443,0.0039,0.676,False,False
+MNRO,"MONRO, INC.",Services-Automotive Repa,397,37,0.0936,0.0418,0.0064,1.878,False,True
+CRTO,Criteo S.A.,Services-Advertising Age,865,78,0.0905,0.0387,0.0095,0.728,False,False
+OPHC,"OptimumBank Holdings, Inc.",National Commercial Bank,110,10,0.0888,0.037,0.0112,0.281,True,False
+CINF,Cincinnati Financial Corp.,"Fire, Marine & Casualty ",26389,2317,0.0878,0.036,0.0122,0.115,True,True
+FCAP,FIRST CAPITAL INC,"Savings Institution, Fed",207,18,0.0862,0.0344,0.0138,0.023,True,False
+PCB,PCB BANCORP,State Commercial Banks,390,34,0.0862,0.0344,0.0138,0.192,True,False
+PEBO,PEOPLES BANCORP INC,State Commercial Banks,1428,121,0.0847,0.0329,0.0153,0.055,True,False
+FHB,"FIRST HAWAIIAN, INC.",State Commercial Banks,3077,252,0.0819,0.0301,0.0181,0.258,True,False
+MNSB,"MainStreet Bancshares, Inc",State Commercial Banks,179,14,0.0799,0.0281,0.0201,0.877,True,False
+SBSI,SOUTHSIDE BANCSHARES INC,State Commercial Banks,952,76,0.0795,0.0277,0.0205,0.553,True,False
+PEBK,PEOPLES BANCORP OF NORTH C,State Commercial Banks,239,19,0.078,0.0262,0.022,0.127,True,False
+MNSBP,"MainStreet Bancshares, Inc",State Commercial Banks,184,14,0.0777,0.0259,0.0223,0.877,True,False
+BELFB,Bel Fuse Inc.,"Electronic Coils, Transf",541,40,0.0744,0.0226,0.0256,0.733,False,False
+OVLY,Oak Valley Bancorp,State Commercial Banks,288,21,0.0743,0.0225,0.0257,0.262,True,True
+MPLX,MPLX LP,Pipe Lines (No Natural G,59767,4408,0.0738,0.022,0.0262,0.017,False,False
+HBCP,"HOME BANCORP, INC.","Savings Institutions, No",548,40,0.0728,0.021,0.0272,0.108,True,False
+HWBK,"HAWTHORN BANCSHARES, INC.",National Commercial Bank,271,20,0.0728,0.021,0.0272,0.112,True,False
+UVSP,UNIVEST FINANCIAL Corp,State Commercial Banks,1149,79,0.0692,0.0174,0.0308,0.085,True,False
+ADM,Archer-Daniels-Midland,Fats & Oils,39328,2709,0.0689,0.0171,0.0311,0.24,False,False
+HBIA,HILLS BANCORPORATION,State Commercial Banks,816,55,0.0678,0.016,0.0322,0.106,True,False
+IIIN,INSTEEL INDUSTRIES INC,"Steel Works, Blast Furna",588,40,0.0674,0.0156,0.0326,0.442,False,False
+OXY,Crude Petroleum & Natu,Crude Petroleum & Natura,58989,3944,0.0669,0.0151,0.0331,0.639,False,False
+USNA,USANA HEALTH SCIENCES INC,Medicinal Chemicals & Bo,263,17,0.0648,0.013,0.0352,1.894,False,False
+SGC,SUPERIOR GROUP OF COMPANIE,Apparel & Other Finishd ,196,13,0.0644,0.0126,0.0356,1.784,False,False
+UNTY,UNITY BANCORP INC /NJ/,State Commercial Banks,589,38,0.0643,0.0125,0.0357,0.159,True,False
+BFST,"Business First Bancshares,",State Commercial Banks,1021,66,0.0642,0.0124,0.0358,0.119,True,True
+JAKK,"JAKKS Pacific, Inc.","Games, Toys & Children's",291,19,0.0638,0.012,0.0362,0.187,False,False
+CRC,California Resources Corp.,Crude Petroleum & Natura,4639,292,0.063,0.0112,0.037,0.406,False,False
+AEO,AMERICAN EAGLE OUTFITTERS ,Retail-Family Clothing S,2781,173,0.0622,0.0104,0.0378,0.399,False,False
+ACNB,State Commercial Banks,State Commercial Banks,651,38,0.0592,0.0074,0.0408,0.101,True,True
+AUBN,AUBURN NATIONAL BANCORPORA,State Commercial Banks,92,5,0.0591,0.0073,0.0409,0.908,True,False
+MGM,MGM Resorts International,Hotels & Motels,10273,607,0.0591,0.0073,0.0409,1.567,False,False
+KR,Retail-Grocery Stores,Retail-Grocery Stores,35322,2057,0.0582,0.0064,0.0418,0.57,False,False
+PLAB,"Photronics, Inc.",Semiconductors & Related,1635,95,0.0582,0.0064,0.0418,0.877,False,True
+AGCO,AGCO Corporation,Farm Machinery & Equipme,7939,461,0.0581,0.0063,0.0419,0.41,False,False
+PII,Polaris Inc.,Miscellaneous Transporta,3628,197,0.0543,0.0025,0.0457,0.585,False,False
+GPI,GROUP 1 AUTOMOTIVE INC,Retail-Auto Dealers & Ga,3193,166,0.0522,0.0004,0.0478,1.267,False,False
+EXP,Eagle Materials Inc.,"Cement, Hydraulic",6060,311,0.0514,-0.0004,0.0486,0.277,False,False
+CLX,The Clorox Company,"Specialty Cleaning, Poli",12426,630,0.0507,-0.0011,0.0493,0.092,False,False
+PROV,PROVIDENT FINANCIAL HOLDIN,"Savings Institution, Fed",115,6,0.0506,-0.0012,0.0494,0.606,True,False
+ICFI,"ICF International, Inc.",Services-Management Cons,1619,81,0.0503,-0.0015,0.0497,0.437,False,True
+CVS,CVS Health Corporation,Retail-Drug Stores and P,119238,5980,0.0502,-0.0016,0.0498,0.691,False,False
+PINS,Services-Computer Prog,Services-Computer Progra,2954,147,0.0498,-0.002,0.0502,0.139,False,False
+DG,Retail-Variety Stores,Retail-Variety Stores,27043,1327,0.0491,-0.0027,0.0509,0.495,False,False
+CRUS,"Cirrus Logic, Inc.",Semiconductors & Related,5437,259,0.0476,-0.0042,0.0524,0.53,False,False
+NKE,Rubber & Plastics Foot,Rubber & Plastics Footwe,67598,3150,0.0466,-0.0052,0.0534,0.127,False,False
+AATC,Measuring & Controllin,Measuring & Controlling ,31,1,0.0462,-0.0056,0.0538,0.449,False,True
+MHH,"Mastech Digital, Inc.",Services-Management Cons,89,4,0.0462,-0.0056,0.0538,0.977,False,True
+CAH,"Cardinal Health, Inc.","Wholesale-Drugs, Proprie",54483,2509,0.0461,-0.0057,0.0539,0.156,False,False
+NATH,"Nathan's Famous, Inc.",Retail-Eating  Places,403,18,0.0453,-0.0065,0.0547,0.089,False,False
+WS,"Worthington Steel, Inc.","Steel Works, Blast Furna",1729,78,0.0449,-0.0069,0.0551,0.635,False,False
+KRC,Kilroy Realty Corporation,Real Estate Investment T,4236,190,0.0448,-0.007,0.0552,1.323,True,False
+BRBS,"BLUE RIDGE BANKSHARES, INC",State Commercial Banks,352,16,0.0442,-0.0076,0.0558,1.546,True,False
+DMC,DEL MONTE CORP,Agricultural Production-,1500,66,0.0439,-0.0079,0.0561,1.05,False,False
+UAL,"Air Transportation, Sc","Air Transportation, Sche",33961,1467,0.0432,-0.0086,0.0568,2.693,False,True
+QCOM,QUALCOMM Inc.,Radio & Tv Broadcasting ,172263,7415,0.043,-0.0088,0.057,0.165,False,False
+TTSH,"TILE SHOP HOLDINGS, INC.","Retail-Home Furniture, F",102,4,0.0429,-0.0089,0.0571,2.945,False,False
+DKS,Retail-Miscellaneous S,Retail-Miscellaneous Sho,12467,532,0.0427,-0.0091,0.0573,0.779,False,False
+APLE,Apple Hospitality REIT,Real Estate Investment T,3907,166,0.0424,-0.0094,0.0576,0.875,True,False
+PG,Procter & Gamble Co.,"Soap, Detergents, Cleang",333440,14087,0.0422,-0.0096,0.0578,0.106,False,False
+ULTA,"Retail-Retail Stores, ","Retail-Retail Stores, NE",23331,982,0.0421,-0.0097,0.0579,0.147,False,False
+HUBG,"Hub Group, Inc.",Arrangement of  Transpor,2956,124,0.0419,-0.0099,0.0581,0.624,False,False
+USPH,"U.S. Physical Therapy, Inc",Services-Health Services,1173,49,0.0418,-0.01,0.0582,0.196,False,False
+JKHY,Jack Henry & Associates,Services-Computer Integr,11900,492,0.0414,-0.0104,0.0586,0.184,False,True
+ABBV,AbbVie Inc.,Pharmaceutical Preparati,451463,18366,0.0407,-0.0111,0.0593,0.095,False,False
+CTS,CTS Corporation,Printed Circuit Boards,1618,65,0.0404,-0.0114,0.0596,0.281,False,False
+BDC,BELDEN INC.,Drawing & Insulating of ,4351,175,0.0402,-0.0116,0.0598,0.15,False,False
+PPG,"PPG Industries, Inc.","Paints, Varnishes, Lacqu",25436,1023,0.0402,-0.0116,0.0598,0.319,False,False
+FRST,Primis Financial Corp.,State Commercial Banks,400,16,0.04,-0.0118,0.06,0.098,True,False
+LNN,Lindsay Corporation,Farm Machinery & Equipme,1158,46,0.0398,-0.012,0.0602,0.924,False,False
+MATX,"Matson, Inc.",Water Transportation,6708,267,0.0398,-0.012,0.0602,1.491,False,False
+BR,Broadridge Financial Solut,Services-Business Servic,20568,815,0.0396,-0.0122,0.0604,0.364,False,False
+VEL,"Velocity Financial, Inc.",Finance Services,711,28,0.0394,-0.0124,0.0606,0.325,True,True
+SYY,Sysco Corporation,Wholesale-Groceries & Re,39329,1544,0.0393,-0.0125,0.0607,0.085,False,True
+MLI,"Mueller Industries, Inc.",Rolling Drawing & Extrud,13958,547,0.0392,-0.0126,0.0608,0.12,False,False
+CMT,CORE MOLDING TECHNOLOGIES ,"Plastics Products, NEC",222,9,0.039,-0.0128,0.061,0.699,False,False
+WSM,WILLIAMS SONOMA INC,"Retail-Home Furniture, F",25998,1011,0.0389,-0.0129,0.0611,0.12,False,False
+BEN,Franklin Resources,Investment Advice,17638,684,0.0388,-0.013,0.0612,0.387,True,False
+CVX,Chevron Corp.,Petroleum Refining,398197,15433,0.0388,-0.013,0.0612,0.411,False,False
+SXC,"SunCoke Energy, Inc.","Steel Works, Blast Furna",862,33,0.0387,-0.0131,0.0613,2.126,False,False
+HII,Huntington Ingalls Industr,Ship & Boat Building & R,11593,446,0.0385,-0.0133,0.0615,0.081,False,False
+ANF,Retail-Family Clothing,Retail-Family Clothing S,6555,248,0.0378,-0.014,0.0622,0.903,False,False
+AYI,ACUITY INC. (DE),Electric Lighting & Wiri,9752,362,0.0371,-0.0147,0.0629,0.351,False,False
+ST,Sensata Technologies Holdi,Industrial Instruments F,5946,215,0.0362,-0.0156,0.0638,0.643,False,False
+WHG,WESTWOOD HOLDINGS GROUP IN,Investment Advice,185,7,0.0358,-0.016,0.0642,1.41,True,False
+FCCO,FIRST COMMUNITY CORP /SC/,State Commercial Banks,317,11,0.0356,-0.0162,0.0644,1.016,True,False
+PEP,"PepsiCo, Inc.",Beverages,191958,6741,0.0351,-0.0167,0.0649,0.357,False,False
+NEU,NewMarket Corporation,Industrial Organic Chemi,8412,291,0.0346,-0.0172,0.0654,0.695,False,False
+MCD,McDonald's Corporation,Retail-Eating  Places,187164,6364,0.034,-0.0178,0.066,0.196,False,False
+MRK,"Merck & Co., Inc.",Pharmaceutical Preparati,366178,12458,0.034,-0.0178,0.066,0.117,False,False
+HAS,"Games, Toys & Children","Games, Toys & Children's",13350,450,0.0337,-0.0181,0.0663,0.409,False,False
+TGT,Target Corporation,Retail-Variety Stores,73973,2475,0.0335,-0.0183,0.0665,0.721,False,False
+DRI,Retail-Eating  Places,Retail-Eating  Places,24478,818,0.0334,-0.0184,0.0666,0.393,False,False
+OSK,Oshkosh Corporation,Motor Vehicles & Passeng,9600,320,0.0334,-0.0184,0.0666,0.747,False,False
+CNR,Cornerstone Building Brand,Silver Ores,5011,167,0.0332,-0.0186,0.0668,0.768,False,True
+GPC,Genuine Parts Company,Wholesale-Motor Vehicle ,18939,627,0.0331,-0.0187,0.0669,0.326,False,False
+KEX,KIRBY CORP,Water Transportation,7403,245,0.0331,-0.0187,0.0669,0.636,False,False
+COKE,Bottled & Canned Soft ,Bottled & Canned Soft Dr,13794,455,0.033,-0.0188,0.067,0.504,False,False
+FUL,H.B. Fuller Company,Adhesives & Sealants,3031,100,0.033,-0.0188,0.067,0.532,False,False
+CHD,Church & Dwight Co.,"Soap, Detergents, Cleang",24019,779,0.0324,-0.0194,0.0676,0.154,False,True
+KVUE,Kenvue Inc.,"Perfumes, Cosmetics & Ot",36821,1191,0.0324,-0.0194,0.0676,0.416,False,False
+MDT,Medtronic plc,Electromedical & Electro,116862,3737,0.032,-0.0198,0.068,0.305,False,False
+PM,Philip Morris Internationa,Cigarettes,298724,9491,0.0318,-0.02,0.0682,0.051,False,False
+FREVS,FIRST REAL ESTATE INVESTME,Real Estate Investment T,159,5,0.0317,-0.0201,0.0683,0.706,True,False
+BRK-A,"Fire, Marine & Casualt","Fire, Marine & Casualty ",708079,22148,0.0313,-0.0205,0.0687,0.308,True,False
+NGVC,Natural Grocers by Vitamin,Retail-Grocery Stores,638,20,0.031,-0.0208,0.069,0.581,False,False
+ACLS,Special Industry Machi,Special Industry Machine,3400,103,0.0303,-0.0215,0.0697,0.227,False,False
+BUKS,BUTLER NATIONAL CORP,Services-Miscellaneous A,272,8,0.0302,-0.0216,0.0698,0.308,False,False
+CCLD,"CareCloud, Inc.",Services-Prepackaged Sof,106,3,0.0301,-0.0217,0.0699,4.187,False,False
+AIT,Applied Industrial Technol,"Wholesale-Machinery, Equ",11825,352,0.0298,-0.022,0.0702,0.207,False,False
+UNP,Union Pacific Corp.,"Railroads, Line-Haul Ope",182803,5353,0.0293,-0.0225,0.0707,0.251,False,False
+NUE,Nucor Corporation,"Steel Works, Blast Furna",56996,1666,0.0292,-0.0226,0.0708,2.019,False,False
+ABT,Abbott Laboratories,Pharmaceutical Preparati,196163,5608,0.0286,-0.0232,0.0714,0.262,False,False
+BMI,Totalizing Fluid Meter,Totalizing Fluid Meters ,3834,107,0.028,-0.0238,0.072,0.226,False,True
+ARCB,ARCBEST CORP /TX/,Trucking (No Local),2971,82,0.0277,-0.0241,0.0723,1.054,False,False
+IPAR,"Inter Parfums, Inc.","Perfumes, Cosmetics & Ot",3793,104,0.0274,-0.0244,0.0726,0.494,False,False
+WFCF,"Where Food Comes From, Inc",Services-Prepackaged Sof,62,2,0.0273,-0.0245,0.0727,0.354,False,False
+STWD,Starwood Property Trust,Real Estate Investment T,5749,152,0.0265,-0.0253,0.0735,2.958,True,False
+III,Information Services Group,Services-Management Cons,249,6,0.026,-0.0258,0.074,0.828,False,False
+ORLY,Retail-Auto & Home Sup,Retail-Auto & Home Suppl,71464,1852,0.0259,-0.0259,0.0741,0.403,False,False
+CSCO,"Cisco Systems, Inc.",Computer Communications ,432730,11156,0.0258,-0.026,0.0742,0.028,False,False
+NDSN,Nordson Corporation,General Industrial Machi,18079,466,0.0258,-0.026,0.0742,0.215,False,False
+DAL,"Air Transportation, Sc","Air Transportation, Sche",52949,1342,0.0254,-0.0264,0.0746,2.857,False,False
+MEDP,"Medpace Holdings, Inc.",Services-Commercial Phys,16765,424,0.0253,-0.0265,0.0747,0.254,False,True
+JJSF,J&J Snack Foods Corp.,Cookies & Crackers,1668,42,0.0251,-0.0267,0.0749,1.27,False,False
+LOVE,Lovesac Co,Retail-Furniture Stores,234,6,0.0251,-0.0267,0.0749,4.931,False,False
+OTTR,Otter Tail Corp,Electric Services,3758,94,0.0251,-0.0267,0.0749,2.158,False,False
+EME,"EMCOR Group, Inc.",Electrical Work,32649,813,0.0249,-0.0269,0.0751,0.409,False,False
+EPAC,ENERPAC TOOL GROUP CORP,Misc Industrial & Commer,1923,47,0.0244,-0.0274,0.0756,0.405,False,False
+LYTS,LSI INDUSTRIES INC,Electric Lighting & Wiri,726,18,0.0242,-0.0276,0.0758,1.037,False,False
+EFX,Services-Consumer Cred,Services-Consumer Credit,22831,543,0.0238,-0.028,0.0762,0.37,False,False
+KRT,Karat Packaging Inc.,"Plastics Products, NEC",949,22,0.0237,-0.0281,0.0763,0.877,False,False
+QLYS,Services-Prepackaged S,Services-Prepackaged Sof,6124,145,0.0236,-0.0282,0.0764,0.265,False,True
+KWR,Quaker Chemical Corporatio,Miscellaneous Products o,2855,67,0.0234,-0.0284,0.0766,1.198,False,False
+EAT,Retail-Eating  Places,Retail-Eating  Places,9772,227,0.0232,-0.0286,0.0768,0.779,False,False
+HWKN,"Hawkins, Inc.",Wholesale-Chemicals & Al,2512,58,0.0232,-0.0286,0.0768,0.549,False,False
+BDX,"Becton, Dickinson and Co.",Surgical & Medical Instr,51751,1189,0.023,-0.0288,0.077,1.179,False,False
+CERT,Services-Prepackaged S,Services-Prepackaged Sof,1236,28,0.0228,-0.029,0.0772,0.868,False,True
+JNJ,Johnson & Johnson,Pharmaceutical Preparati,645443,14708,0.0228,-0.029,0.0772,0.226,False,False
+ATR,"AptarGroup, Inc.","Plastics Products, NEC",8456,185,0.0219,-0.0299,0.0781,0.544,False,False
+CMG,Retail-Eating  Places,Retail-Eating  Places,48118,1043,0.0217,-0.0301,0.0783,0.474,False,False
+CAT,Caterpillar Inc.,Construction Machinery &,368785,7885,0.0214,-0.0304,0.0786,0.25,False,False
+XPEL,"XPEL, Inc.","Coating, Engraving & All",1330,28,0.0214,-0.0304,0.0786,0.497,False,True
+TCMD,TACTILE SYSTEMS TECHNOLOGY,Surgical & Medical Instr,508,11,0.0212,-0.0306,0.0788,1.745,False,False
+OPXS,Optex Systems Holdings Inc,Optical Instruments & Le,70,1,0.0211,-0.0307,0.0789,0.352,False,False
+DTM,"DT Midstream, Inc.",Natural Gas Transmission,13214,270,0.0205,-0.0313,0.0795,1.109,False,False
+TDY,TELEDYNE TECHNOLOGIES INC,"Search, Detection, Navig",28229,573,0.0203,-0.0315,0.0797,0.69,False,False
+PLUS,ePlus inc.,Wholesale-Computers & Pe,2277,45,0.0198,-0.032,0.0802,1.846,False,False
+TXRH,"Texas Roadhouse, Inc.",Retail-Eating  Places,13062,258,0.0197,-0.0321,0.0803,0.786,False,False
+ARRY,"Array Technologies, Inc.",Semiconductors & Related,707,14,0.0194,-0.0324,0.0806,8.741,False,False
+GWW,"W.W. Grainger, Inc.",Wholesale-Durable Goods,61417,1194,0.0194,-0.0324,0.0806,0.411,False,False
+AAPL,Apple Inc.,Electronic Computers,4671962,90078,0.0193,-0.0325,0.0807,0.02,False,False
+MSA,MSA Safety Inc.,"Orthopedic, Prosthetic &",7343,141,0.0192,-0.0326,0.0808,0.24,False,False
+WING,Wingstop Inc.,Retail-Eating  Places,3072,58,0.0188,-0.033,0.0812,0.8,False,False
+SANM,Sanmina Corporation,Printed Circuit Boards,10448,192,0.0183,-0.0335,0.0817,0.157,False,False
+ECL,Ecolab Inc.,"Soap, Detergents, Cleang",80452,1462,0.0182,-0.0336,0.0818,0.342,False,False
+KEYS,"Keysight Technologies, Inc",Industrial Instruments F,54543,967,0.0177,-0.0341,0.0823,0.054,False,False
+OII,Oceaneering International,Oil & Gas Field Services,5035,89,0.0177,-0.0341,0.0823,0.427,False,False
+JYNT,JOINT Corp,Patent Owners & Lessors,119,2,0.0174,-0.0344,0.0826,1.382,True,False
+CTAS,Cintas Corporation,"Men's & Boys' Furnishgs,",81823,1363,0.0167,-0.0351,0.0833,0.207,False,False
+PAYO,Payoneer Global Inc.,Services-Business Servic,2408,40,0.0167,-0.0351,0.0833,1.67,False,False
+CLB,Core Laboratories Inc. /DE,Oil & Gas Field Services,567,9,0.0166,-0.0352,0.0834,1.077,False,False
+CRM,Services-Prepackaged S,Services-Prepackaged Sof,213659,3549,0.0166,-0.0352,0.0834,1.522,False,True
+STAG,"STAG Industrial, Inc.",Real Estate Investment T,7109,118,0.0166,-0.0352,0.0834,1.313,True,False
+O,Realty Income Corp.,Real Estate Investment T,58647,970,0.0165,-0.0353,0.0835,2.466,True,False
+GRMN,"Search, Detection, Nav","Search, Detection, Navig",55091,892,0.0162,-0.0356,0.0838,0.35,False,False
+MA,Mastercard Incorporated,Services-Business Servic,729451,11720,0.0161,-0.0357,0.0839,0.18,False,True
+CW,Curtiss-Wright Corp.,Misc Industrial & Commer,22000,331,0.0151,-0.0367,0.0849,0.391,False,False
+AMAT,Semiconductors & Relat,Semiconductors & Related,368001,5512,0.015,-0.0368,0.085,0.346,False,False
+CGNX,Industrial Instruments,Industrial Instruments F,10107,150,0.0148,-0.037,0.0852,0.315,False,False
+UBCP,UNITED BANCORP INC /OH/,State Commercial Banks,90,1,0.0145,-0.0373,0.0855,4.919,True,True
+PLPC,"Water, Sewer, Pipeline","Water, Sewer, Pipeline, ",1900,27,0.0144,-0.0374,0.0856,1.096,False,False
+DIOD,Diodes Incorporated,Semiconductors & Related,4053,57,0.0142,-0.0376,0.0858,1.144,False,False
+KLAC,Optical Instruments & ,Optical Instruments & Le,229430,3092,0.0135,-0.0383,0.0865,0.052,False,False
+EGAN,EGAIN Corp,Services-Prepackaged Sof,201,3,0.0134,-0.0384,0.0866,0.186,False,True
+TECH,BIO-TECHNE Corp,"Biological Products, (No",11322,146,0.0129,-0.0389,0.0871,0.453,False,False
+WMT,Walmart Inc.,Retail-Variety Stores,817057,9711,0.0119,-0.0399,0.0881,1.274,False,False
+PFGC,Performance Food Group Co,"Wholesale-Groceries, Gen",15570,180,0.0116,-0.0402,0.0884,1.886,False,True
+POWL,"Powell Industries, Inc.",Switchgear & Switchboard,6272,72,0.0115,-0.0403,0.0885,0.945,False,False
+GOOGL,Services-Computer Prog,Services-Computer Progra,4097294,46910,0.0114,-0.0404,0.0886,0.941,False,False
+NWPX,"NWPX Infrastructure, Inc.",Steel Pipe & Tubes,1053,12,0.0114,-0.0404,0.0886,1.599,False,False
+BWXT,BWX Technologies,Engines & Turbines,14004,157,0.0112,-0.0406,0.0888,0.936,False,False
+DELL,Electronic Computers,Electronic Computers,295522,3231,0.0109,-0.0409,0.0891,0.44,False,False
+FCX,Freeport-McMoRan Inc.,Metal Mining,109195,1195,0.0109,-0.0409,0.0891,2.315,False,False
+DXCM,DEXCOM INC,Surgical & Medical Instr,34004,363,0.0107,-0.0411,0.0893,0.877,False,True
+DRS,"Leonardo DRS, Inc.","Search, Detection, Navig",10099,107,0.0106,-0.0412,0.0894,0.558,False,False
+MSFT,Microsoft Corporation,Services-Prepackaged Sof,3811904,40268,0.0106,-0.0412,0.0894,1.74,False,True
+LRCX,Special Industry Machi,Special Industry Machine,383129,3991,0.0104,-0.0414,0.0896,0.209,False,False
+FIX,"Comfort Systems USA, Inc.",Electrical Work,53451,531,0.0099,-0.0419,0.0901,0.555,False,False
+USAC,USA Compression Partners,Natural Gas Transmission,3903,38,0.0096,-0.0422,0.0904,2.816,False,False
+IA,INNOVATIVE SOLUTIONS & SUP,Services-Computer Progra,333,3,0.0089,-0.0429,0.0911,0.327,False,False
+AROC,"Archrock, Inc.",Natural Gas Transmission,5478,47,0.0086,-0.0432,0.0914,3.959,False,False
+SN,"SharkNinja, Inc.",Household Appliances,24733,213,0.0086,-0.0432,0.0914,0.281,False,False
+AVGO,Broadcom Inc.,Semiconductors & Related,1754548,14926,0.0085,-0.0433,0.0915,0.082,False,False
+SHOP,Services-Prepackaged S,Services-Prepackaged Sof,54964,459,0.0083,-0.0435,0.0917,1.191,False,False
+PAY,Services-Business Serv,Services-Business Servic,3635,28,0.0077,-0.0441,0.0923,2.035,False,False
+PRLB,Proto Labs Inc,Fabricated Structural Me,1889,14,0.0075,-0.0443,0.0925,1.943,False,False
+BOOT,"Boot Barn Holdings, Inc.",Retail-Shoe Stores,4690,35,0.0074,-0.0444,0.0926,3.403,False,False
+CORT,Pharmaceutical Prepara,Pharmaceutical Preparati,12386,90,0.0073,-0.0445,0.0927,0.049,False,False
+TG,Tredegar Corporation,Rolling Drawing & Extrud,273,2,0.0073,-0.0445,0.0927,3.095,False,False
+POWI,"Power Integrations, Inc.",Semiconductors & Related,2903,20,0.0068,-0.045,0.0932,2.959,False,False
+OSIS,"OSI Systems, Inc.",Semiconductors & Related,3292,19,0.0058,-0.046,0.0942,1.154,False,False
+DJCO,DAILY JOURNAL CORP,Newspapers: Publishing o,862,5,0.0056,-0.0462,0.0944,0.909,False,False
+GDOT,GREEN DOT CORP,Finance Services,753,4,0.0055,-0.0463,0.0945,13.036,True,False
+SNPS,Services-Prepackaged S,Services-Prepackaged Sof,79495,426,0.0054,-0.0464,0.0946,0.97,False,False
+CRS,Carpenter Technology Corp.,"Steel Works, Blast Furna",23611,112,0.0048,-0.047,0.0952,1.465,False,False
+GHM,GRAHAM CORP,General Industrial Machi,1022,5,0.0045,-0.0473,0.0955,2.205,False,False
+APD,Air Products and Chemicals,Industrial Inorganic Che,68370,294,0.0043,-0.0475,0.0957,1.212,False,False
+ALNT,ALLIENT INC,Instruments For Meas & T,1597,6,0.004,-0.0478,0.096,4.273,False,False
+GENC,"Gencor Industries, Inc.",Construction Machinery &,227,1,0.0036,-0.0482,0.0964,6.026,False,False
+INOD,INNODATA INC,Services-Computer Proces,1944,6,0.0033,-0.0485,0.0967,1.653,False,False
+RDVT,"Red Violet, Inc.",Services-Prepackaged Sof,1176,4,0.0033,-0.0485,0.0967,3.32,False,False
+MRVL,Semiconductors & Relat,Semiconductors & Related,184491,550,0.003,-0.0488,0.097,0.49,False,False
+PNTG,"Pennant Group, Inc.",Services-Health Services,1315,4,0.0029,-0.0489,0.0971,5.782,False,False
+BJRI,"BJ's Restaurants, Inc.",Retail-Eating  Places,1385,4,0.0027,-0.0491,0.0973,5.15,False,False
+ELF,"Perfumes, Cosmetics & ","Perfumes, Cosmetics & Ot",6179,16,0.0027,-0.0491,0.0973,2.419,False,False
+AMD,Semiconductors & Relat,Semiconductors & Related,766725,1944,0.0025,-0.0493,0.0975,0.179,False,False
+PUMP,ProPetro Holding Corp.,Oil & Gas Field Services,1349,3,0.0024,-0.0494,0.0976,23.985,False,False
+FSI,FLEXIBLE SOLUTIONS INTERNA,Miscellaneous Chemical P,74,0,0.0017,-0.0501,0.0983,22.49,False,False
+ZUMZ,Zumiez Inc,Retail-Apparel & Accesso,309,0,0.0015,-0.0503,0.0985,42.005,False,False
+EXTR,"Extreme Networks, Inc.",Computer Communications ,2946,4,0.0014,-0.0504,0.0986,11.355,False,False
+CRWD,Services-Prepackaged S,Services-Prepackaged Sof,220218,233,0.0011,-0.0507,0.0989,0.192,False,False
+PLTR,Services-Prepackaged S,Services-Prepackaged Sof,436282,247,0.0006,-0.0512,0.0994,1.817,False,False
+ESI,Element Solutions Inc,Miscellaneous Chemical P,8331,4,0.0004,-0.0514,0.0996,65.22,False,False
+SMID,SMITH MIDLAND CORP,"Concrete Products, Excep",134,0,-0.0003,-0.0521,0.1003,,False,False
+BV,"BrightView Holdings, Inc.",Agricultural Services,1039,-1,-0.0008,-0.0526,0.1008,,False,False
+ARM,Semiconductors & Relat,Semiconductors & Related,249861,-285,-0.0011,-0.0529,0.1011,,False,False
+KMT,Kennametal Inc.,"Machine Tools, Metal Cut",2252,-5,-0.0021,-0.0539,0.1021,,False,False
+CALX,"Calix, Inc.","Communications Services,",2378,-6,-0.0025,-0.0543,0.1025,,False,False
+BE,Electrical Industrial ,Electrical Industrial Ap,60766,-157,-0.0026,-0.0544,0.1026,,False,False
+SMTC,Semtech Corporation,Semiconductors & Related,12219,-38,-0.0031,-0.0549,0.1031,,False,False
+ILMN,"ILLUMINA, INC.",Laboratory Analytical In,31467,-103,-0.0033,-0.0551,0.1033,,False,False
+SITM,SiTime Corporation,Semiconductors & Related,16775,-84,-0.005,-0.0568,0.105,,False,False
+CVU,CPI AEROSTRUCTURES INC,Aircraft Parts & Auxilia,71,0,-0.0057,-0.0575,0.1057,,False,True
+MGEE,"MGE Energy, Inc.","Electric, Gas & Sanitary",2874,-17,-0.0058,-0.0576,0.1058,,False,False
+DK,Delek US Holdings,Petroleum Refining,4424,-27,-0.006,-0.0578,0.106,,False,False
+ROKU,Cable & Other Pay Tele,Cable & Other Pay Televi,22995,-151,-0.0066,-0.0584,0.1066,,False,False
+AMSC,AMERICAN SUPERCONDUCTOR CO,Motors & Generators,1377,-11,-0.0078,-0.0596,0.1078,,False,False
+AVNW,"AVIAT NETWORKS, INC.",Radio & Tv Broadcasting ,261,-2,-0.008,-0.0598,0.108,,False,False
+GOLD,"Gold.com, Inc.","Wholesale-Jewelry, Watch",1295,-11,-0.0082,-0.06,0.1082,,False,False
+SEB,SEABOARD CORP /DE/,Wholesale-Farm Product R,3886,-37,-0.0096,-0.0614,0.1096,,False,False
+OCC,OPTICAL CABLE CORP,Drawing & Insulating of ,121,-1,-0.0107,-0.0625,0.1107,,False,False
+SWK,Stanley Black & Decker,"Cutlery, Handtools & Gen",14826,-179,-0.0121,-0.0639,0.1121,,False,False
+INNV,InnovAge Holding Corp.,Services-Health Services,1474,-19,-0.0128,-0.0646,0.1128,,False,False
+SO,The Southern Company,Electric Services,99259,-1394,-0.014,-0.0658,0.114,,False,False
+SENEA,S Seneca Foods Corp.,"Canned, Fruits, Veg, Pre",2345,-37,-0.0158,-0.0676,0.1158,,False,True
+RGTI,Services-Computer Prog,Services-Computer Progra,5003,-81,-0.0161,-0.0679,0.1161,,False,False
+RELL,Richardson Electronics,Wholesale-Electronic Par,191,-3,-0.017,-0.0688,0.117,,False,False
+CXM,"Sprinklr, Inc.",Services-Prepackaged Sof,779,-15,-0.0197,-0.0715,0.1197,,False,False
+SHC,Sotera Health Co,Services-Misc Health & A,5325,-107,-0.02,-0.0718,0.12,,False,False
+FET,"FORUM ENERGY TECHNOLOGIES,",Oil & Gas Field Machiner,909,-19,-0.0211,-0.0729,0.1211,,False,False
+HHH,Real Estate Investment,Real Estate Investment T,3769,-83,-0.0221,-0.0739,0.1221,,True,False
+HLMN,Hillman Solutions Corp.,"Cutlery, Handtools & Gen",1512,-33,-0.0221,-0.0739,0.1221,,False,False
+HLX,Helix Energy Solutions Gro,Oil & Gas Field Services,1494,-36,-0.0238,-0.0756,0.1238,,False,False
+FSEA,"First Seacoast Bancorp, In","Savings Institution, Fed",81,-2,-0.0247,-0.0765,0.1247,,True,False
+DUK,Duke Energy Corporation,Electric & Other Service,93575,-2350,-0.0251,-0.0769,0.1251,,False,False
+ORCL,Oracle Corporation,Services-Prepackaged Sof,434433,-11193,-0.0258,-0.0776,0.1258,,False,False
+BA,Aircraft,Aircraft,165440,-4426,-0.0268,-0.0786,0.1268,,False,False
+VAL,Valaris Limited,Drilling Oil & Gas Wells,5992,-174,-0.029,-0.0808,0.129,,False,False
+ACMR,Special Industry Machi,Special Industry Machine,2979,-92,-0.0309,-0.0827,0.1309,,False,False
+OGE,OGE Energy Corp.,Electric Services,9491,-300,-0.0316,-0.0834,0.1316,,False,False
+ALKT,Services-Prepackaged S,Services-Prepackaged Sof,2079,-66,-0.0317,-0.0835,0.1317,,False,False
+BWMN,Bowman Consulting Group Lt,Services-Management Cons,738,-24,-0.0323,-0.0841,0.1323,,False,False
+INTC,Semiconductors & Relat,Semiconductors & Related,453077,-14652,-0.0323,-0.0841,0.1323,,False,False
+KE,"Kimball Electronics, Inc.",Printed Circuit Boards,562,-19,-0.0344,-0.0862,0.1344,,False,True
+R,"Ryder System, Inc.",Services-Auto Rental & L,9456,-330,-0.0349,-0.0867,0.1349,,False,False
+HUN,Huntsman CORP,Chemicals & Allied Produ,1670,-61,-0.0363,-0.0881,0.1363,,False,False
+RBBN,Ribbon Communications Inc.,Services-Computer Integr,363,-14,-0.0377,-0.0895,0.1377,,False,False
+FTH,"Faeth Therapeutics, Inc.",Pharmaceutical Preparati,888,-34,-0.0382,-0.09,0.1382,,False,False
+U,Unity Software Inc.,Services-Prepackaged Sof,18099,-697,-0.0385,-0.0903,0.1385,,False,False
+SRRK,Scholar Rock Holding Corp,"Biological Products, (No",6829,-264,-0.0387,-0.0905,0.1387,,False,False
+CLNE,Clean Energy Fuels Corp.,Gas & Other Services Com,356,-15,-0.0429,-0.0947,0.1429,,False,False
+ACVA,Services-Business Serv,Services-Business Servic,1148,-50,-0.0432,-0.095,0.1432,,False,True
+AVA,Avista Corporation,Electric & Other Service,3152,-138,-0.0439,-0.0957,0.1439,,False,False
+ORN,Orion Group Holdings Inc,Heavy Construction Other,376,-17,-0.0444,-0.0962,0.1444,,False,True
+UTL,UNITIL Corporation,Electric & Other Service,978,-44,-0.0449,-0.0967,0.1449,,False,False
+CLW,Clearwater Paper Corp.,Paperboard Mills,337,-15,-0.0452,-0.097,0.1452,,False,False
+SCL,Stepan Company,"Soap, Detergents, Cleang",1424,-65,-0.0459,-0.0977,0.1459,,False,False
+RIG,Transocean Ltd.,?,6478,-301,-0.0465,-0.0983,0.1465,,False,True
+TMC,TMC the metals Co Inc.,Metal Mining,1983,-94,-0.0473,-0.0991,0.1473,,False,False
+LINC,LINCOLN EDUCATIONAL SERVIC,Services-Educational Ser,782,-38,-0.0489,-0.1007,0.1489,,False,False
+NPCE,NeuroPace Inc,Surgical & Medical Instr,495,-31,-0.0629,-0.1147,0.1629,,False,False
+ANIP,ANI PHARMACEUTICALS INC,Pharmaceutical Preparati,298,-19,-0.0643,-0.1161,0.1643,,False,False
+ABSI,Absci Corp,Services-Commercial Phys,1495,-106,-0.071,-0.1228,0.171,,False,False
+NWN,Northwest Natural Holding,Natural Gas Distribution,2080,-153,-0.0736,-0.1254,0.1736,,False,False
+GWRS,"Global Water Resources, In",Water Supply,261,-20,-0.0753,-0.1271,0.1753,,False,False
+KURA,"Kura Oncology, Inc.",Pharmaceutical Preparati,1130,-85,-0.0756,-0.1274,0.1756,,False,False
+CERS,CERUS CORP,Surgical & Medical Instr,537,-43,-0.0799,-0.1317,0.1799,,False,False
+AEYE,AUDIOEYE INC,Services-Prepackaged Sof,90,-8,-0.0872,-0.139,0.1872,,False,True
+DXC,DXC Technology Co,Services-Computer Proces,1779,-156,-0.0878,-0.1396,0.1878,,False,True
+FINW,Finwise Bancorp,State Commercial Banks,196,-18,-0.0898,-0.1416,0.1898,,True,False
+KVHI,KVH INDUSTRIES INC \DE\,"Communications Services,",136,-12,-0.0899,-0.1417,0.1899,,False,True
+AOSL,Alpha and Omega Semiconduc,Semiconductors & Related,745,-71,-0.0949,-0.1467,0.1949,,False,False
+GS,The Goldman Sachs Group,"Security Brokers, Dealer",301106,-29525,-0.0981,-0.1499,0.1981,,True,False
+TDAY,"USA TODAY Co., Inc.",Newspapers: Publishing o,936,-93,-0.0997,-0.1515,0.1997,,False,False
+OABI,"OmniAb, Inc.",Services-Commercial Phys,650,-67,-0.103,-0.1548,0.203,,False,False
+SNAP,Snap Inc,Services-Computer Progra,9155,-979,-0.1069,-0.1587,0.2069,,False,False
+SGHT,"Sight Sciences, Inc.",Surgical & Medical Instr,471,-59,-0.1247,-0.1765,0.2247,,False,True
+TECX,"Tectonic Therapeutic, Inc.","Biological Products, (No",696,-87,-0.1249,-0.1767,0.2249,,False,False
+BNED,"Barnes & Noble Education, ",Retail-Miscellaneous Sho,420,-56,-0.1322,-0.184,0.2322,,False,False
+FLNT,"Fluent, Inc.",Services-Advertising,114,-15,-0.1343,-0.1861,0.2343,,False,True
+PHR,"Phreesia, Inc.",Services-Business Servic,751,-104,-0.1391,-0.1909,0.2391,,False,True
+HIPO,Hippo Holdings Inc.,"Fire, Marine & Casualty ",876,-124,-0.1422,-0.194,0.2422,,True,False
+TLSI,"TriSalus Life Sciences, In",Surgical & Medical Instr,297,-42,-0.1423,-0.1941,0.2423,,False,False
+GRPN,"Groupon, Inc.",Services-Advertising Age,791,-113,-0.1431,-0.1949,0.2431,,False,True
+STXS,"Stereotaxis, Inc.",Electromedical & Electro,147,-21,-0.145,-0.1968,0.245,,False,False
+CLVT,CLARIVATE PLC,Services-Computer Proces,1291,-190,-0.1468,-0.1986,0.2468,,False,False
+NEGG,"Retail-Retail Stores, ","Retail-Retail Stores, NE",332,-50,-0.1512,-0.203,0.2512,,False,False
+FCEL,FUELCELL ENERGY INC,Electrical Industrial Ap,1198,-186,-0.1555,-0.2073,0.2555,,False,True
+TBI,"TrueBlue, Inc.",Services-Help Supply Ser,326,-51,-0.1569,-0.2087,0.2569,,False,False
+NINE,Nine Energy Service,Oil & Gas Field Services,148,-24,-0.1632,-0.215,0.2632,,False,False
+GBX,The Greenbrier Companies,Railroad Equipment,1420,-232,-0.1636,-0.2154,0.2636,,False,False
+BDSX,BIODESIX INC,Services-Medical Laborat,283,-47,-0.1655,-0.2173,0.2655,,False,False
+LNSR,"LENSAR, Inc.",Surgical & Medical Instr,102,-18,-0.1729,-0.2247,0.2729,,False,False
+BRID,Bridgford Foods Corp.,Sausages & Other Prepare,56,-10,-0.1756,-0.2274,0.2756,,False,False
+SLDP,"Solid Power, Inc.",Miscellaneous Electrical,533,-96,-0.1801,-0.2319,0.2801,,False,False
+SVC,Service Properties Trust,Real Estate Investment T,1016,-184,-0.1815,-0.2333,0.2815,,True,False
+LRMR,"Larimar Therapeutics, Inc.",Pharmaceutical Preparati,416,-81,-0.1937,-0.2455,0.2937,,False,False
+TARA,"Protara Therapeutics, Inc.","Biological Products, (No",226,-48,-0.2138,-0.2656,0.3138,,False,False
+ARMP,"Armata Pharmaceuticals, In","Biological Products, (No",197,-43,-0.2161,-0.2679,0.3161,,False,False
+VELO,"Velo3D, Inc.",Special Industry Machine,382,-90,-0.2346,-0.2864,0.3346,,False,False
+CING,Cingulate Inc.,Pharmaceutical Preparati,77,-19,-0.2404,-0.2922,0.3404,,False,False
+SRPT,"Sarepta Therapeutics, Inc.",Pharmaceutical Preparati,2251,-580,-0.2579,-0.3097,0.3579,,False,True
+C,Citigroup Inc.,National Commercial Bank,231942,-60107,-0.2591,-0.3109,0.3591,,True,False
+ULCC,"Frontier Group Holdings, I","Air Transportation, Sche",1342,-377,-0.2812,-0.333,0.3812,,False,False
+NTLA,"Intellia Therapeutics, Inc",In Vitro & In Vivo Diagn,1813,-512,-0.2823,-0.3341,0.3823,,False,False
+ASPN,ASPEN AEROGELS INC,Wholesale-Lumber & Other,412,-120,-0.2915,-0.3433,0.3915,,False,False
+LVO,"LiveOne, Inc.",Retail-Eating  Places,53,-16,-0.2968,-0.3486,0.3968,,False,False
+XPER,Xperi Inc.,Services-Prepackaged Sof,293,-90,-0.3067,-0.3585,0.4067,,False,False
+NXH,"NEIGHBORHOOD INTELLIGENCE,",Retail-Catalog & Mail-Or,377,-119,-0.3161,-0.3679,0.4161,,False,False
+CMRC,"Commerce.com, Inc.",Services-Prepackaged Sof,207,-66,-0.3163,-0.3681,0.4163,,False,False
+NUVR,"Nuvera Communications, Inc",Telephone Communications,90,-29,-0.319,-0.3708,0.419,,False,True
+FLNC,"Fluence Energy, Inc.",Miscellaneous Electrical,560,-181,-0.3236,-0.3754,0.4236,,False,False
+DH,Definitive Healthcare Corp,Services-Prepackaged Sof,86,-28,-0.3261,-0.3779,0.4261,,False,False
+AMTX,"AEMETIS, INC",Industrial Organic Chemi,132,-48,-0.363,-0.4148,0.463,,False,False
+EBS,Emergent BioSolutions,Pharmaceutical Preparati,303,-121,-0.4004,-0.4522,0.5004,,False,False
+NEWTO,"NewtekOne, Inc.",National Commercial Bank,751,-306,-0.4074,-0.4592,0.5074,,True,False
+NEWTG,"NewtekOne, Inc.",National Commercial Bank,744,-306,-0.4112,-0.463,0.5112,,True,False
+NEWTI,"NewtekOne, Inc.",National Commercial Bank,742,-306,-0.4124,-0.4642,0.5124,,True,False
+NEWTP,"NewtekOne, Inc.",National Commercial Bank,729,-306,-0.4195,-0.4713,0.5195,,True,False
+NEWTH,"NewtekOne, Inc.",National Commercial Bank,727,-306,-0.4206,-0.4724,0.5206,,True,False
+MBINM,Merchants Bancorp,State Commercial Banks,1176,-527,-0.4478,-0.4996,0.5478,,True,False
+MBINL,Merchants Bancorp,State Commercial Banks,1151,-527,-0.4574,-0.5092,0.5574,,True,False
+PINE,Alpine Income Property Tru,Real Estate Investment T,344,-158,-0.4603,-0.5121,0.5603,,True,False
+MBINN,Merchants Bancorp,State Commercial Banks,914,-527,-0.576,-0.6278,0.676,,True,False
+NAUT,"Nautilus Biotechnology, In",Laboratory Analytical In,113,-66,-0.5896,-0.6414,0.6896,,False,False
+OPTU,"Optimum Communications, In",Cable & Other Pay Televi,279,-175,-0.6269,-0.6787,0.7269,,False,False
+ZNTL,"Zentalis Pharmaceuticals, ",Pharmaceutical Preparati,272,-217,-0.7957,-0.8475,0.8957,,False,False
+NEWT,"NewtekOne, Inc.",National Commercial Bank,344,-306,-0.8893,-0.9411,0.9893,,True,False
+PLCE,The Children's Place,Retail-Family Clothing S,55,-49,-0.8906,-0.9424,0.9906,,False,False
+HCAT,"Health Catalyst, Inc.",Services-Computer Progra,120,-111,-0.9298,-0.9816,1.0298,,False,False
+CNDT,CONDUENT Inc,Services-Business Servic,270,-251,-0.9302,-0.982,1.0302,,False,True

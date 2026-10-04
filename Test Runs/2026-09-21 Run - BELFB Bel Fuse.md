@@ -1,0 +1,778 @@
+# Company Run - BEL FUSE INC. (BELFB) - 2026-09-21
+**Framework v4.1.** Governing document: `Framework/THE FRAMEWORK v4.md`. Where this
+template and that document disagree, the document governs.
+
+Fill top to bottom. **Stop at the first verdict that is not IN.**
+
+---
+## THE FOUR VERDICTS - every question returns exactly one
+
+| | | |
+|---|---|---|
+| **IN** | evidence is here and it clears | continue |
+| **OUT** | evidence is here and the business fails | **stop, permanent** |
+| **UNRESEARCHED** | the evidence exists, I have not got it | **work order - not an answer** |
+| **UNKNOWABLE** | evidence is in, the future is still indeterminate | **close without prejudice** |
+
+**Ask aloud on every non-IN verdict: "Can I name the document that would resolve this?"**
+YES → UNRESEARCHED, go and get it. NO → UNKNOWABLE, close it. **[E4-19]**
+
+**A gate marked IN carrying "unverified", "general knowledge" or "provisional" is a
+protocol violation - it is UNRESEARCHED.**
+
+**No degree-of-difficulty credit.** If a verdict only holds after narrowing assumptions,
+it is UNKNOWABLE. Gathering more evidence is legitimate; torturing the evidence you have
+is not. **[E4-18]**
+
+---
+## STEP 0 - THE RATE, AND THE FILING
+
+**Sovereign, for the currency the business EARNS in** - the currently observed rate, never
+a forecast **[E4-15, E3-32]**:
+- rate **5.34 %** · date **2026-09-18** · source **US Treasury daily par yield curve, 30-year,
+  the issuing authority** (`tools/sources.py`, Treasury CSV for 2026; FRED is the fallback and was
+  not used). 2026-09-18 is the latest published business day as at 2026-09-21.
+- FX: **none needed.** Bel Fuse is a New Jersey registrant reporting in USD. It manufactures in the
+  PRC, Mexico, the Dominican Republic, Slovakia, Israel, India and the UK and its labour costs are
+  in local currency, but the **earnings currency is USD** and the quote is USD. No ADR.
+
+**THE CAP, STRUCK BY HAND BEFORE ANY YIELD EXISTS** - ordered by the brief because the screen row's
+own `cap_flag` said the cap was smaller than a filed public float. Full workpaper:
+`Test Runs/_research 2026-09-21 BELFB/WORKPAPER - the cap, struck by hand.md`.
+
+| class | shares outstanding | where the count comes from | close 2026-09-18 | cap |
+|---|---|---|---|---|
+| Class A (BELFA, voting) | 2,115,263 | cover of the 10-Q for the quarter ended 2026-06-30, accession `0001437749-26-025619`, "as of July 31, 2026" | $198.83 | **$420.6M** |
+| Class B (BELFB, non-voting) | 12,324,187 | same cover, same date | $241.97 | **$2,982.1M** |
+| **total** | **14,439,450** | | | **$3,402.7M** |
+
+Prices are **aggregator, live quote only, flagged** (operator rule 5). Split factor after the
+measurement date 2026-07-31 is **1.0** for both tickers, so `close x shares x splits-after` reduces
+to the product shown. The cover count is cross-checked against the filed balance sheet in the same
+10-Q: *"12,324,187 and 10,543,368 shares outstanding at June 30, 2026 and December 31, 2025,
+respectively (net of 3,218,307 restricted treasury shares)"*. They agree.
+
+**THE SCREEN'S CAP WAS $541M. THE HAND-STRUCK CAP IS $3,402.7M - 6.29x LARGER.**
+**The brief's prior, that the defect was a stale price (which is what BLMN's was), is REFUTED.**
+`dei:EntityCommonStockSharesOutstanding` resolves **undimensioned exactly once in the whole
+companyfacts file**: `end 2011-08-01, val 2,174,912, form 10-Q/A, frame CY2011Q2I`. Every filing
+since tags it **dimensioned by class**, so an undimensioned fetch falls back on a **fifteen-year-old
+Class A count**. Arithmetic: **$248.69 (BELFB close 2026-08-28) x 2,174,912 = $540.85M**, the
+screen's figure to the dollar. **The price was three weeks old and immaterial; the share count was
+both the wrong class and fifteen years stale.** Every per-cap figure on screen line 34 is therefore
+void: `yield_bottom 7.43%`, `vs_sovereign 2.08%`, `growth_required 2.57%`, and the `acq_note`'s
+"62% of cap" (true share: **9.9%**).
+
+**The filing was read** - not tagged data **[E3-27]**:
+- [x] MD&A  [x] cash-flow statement incl. detail lines  [x] footnotes
+- **Anchor document: Form 10-K for the fiscal year ended 2025-12-31, filed 2026-02-24, accession
+  `0001437749-26-005354`** (`belfb20251231d_10k.htm`).
+- Also read: **10-Q for the quarter ended 2026-06-30, accession `0001437749-26-025619`** (filed
+  2026-08-04); **10-K for FY2021, accession `0001437749-22-006139`** (filed 2022-03-14), pulled to
+  settle the screen's working-capital note; the **8-K of 2026-07-29 EX-99.1 Q2 2026 earnings
+  release, accession `0001437749-26-024893`**; the **8-K of 2025-12-10 Item 4.01, accession
+  `0001437749-25-037380`**; the **8-K of 2026-05-14 Items 1.01/8.01, accession
+  `0001213900-26-056732`**; the **DEF 14A filed 2026-04-10, accession `0001437749-26-011998`**.
+- **Figure cross-checked by hand against the filed statement:** the FY2025 consolidated statement of
+  cash flows shows **Net cash provided by operating activities $80,612** thousand, against
+  `NetCashProvidedByUsedInOperatingActivities` $80,612,000 in companyfacts. Agrees.
+- **Second hand cross-check, on the year the screen flagged:** the FY2021 10-K
+  (`0001437749-22-006139`) consolidated statement of cash flows shows **Accounts payable +$23,961**
+  thousand against **Net cash provided by operating activities $4,632** thousand = **517.3%**. The
+  screen's `wc_note` arithmetic is correct. **Its reading is not - see Q4.**
+
+---
+## Q1 - CAN I UNDERSTAND HOW THIS MAKES MONEY? **[E3-31]**
+
+- **Unit economics in my own words, no management language:** Bel Fuse makes small physical parts
+  that sit inside other people's electronic equipment. Three families: things that convert and
+  supply electrical power (AC/DC and DC/DC converters, front-end supplies, fuses), things that join
+  one wire or fibre to another in a place where vibration, heat or salt would break an ordinary
+  joint (connectors, cable assemblies), and wound magnetic components (transformers, inductors, and
+  RJ45 jacks with the magnetics built in). It buys copper, gold, silver, ferrite and integrated
+  circuits, adds hand and machine labour in fifteen factories across the PRC, Mexico, the Dominican
+  Republic, Slovakia, Israel, India, the UK and the US, and sells the finished part to an equipment
+  maker either directly, through a sales representative, or through a distributor. Revenue less the
+  bill of materials, direct labour and factory overhead is gross margin: **39.1% of $675.5M in
+  2025, 37.8% in 2024, 33.7% in 2023** (10-K Item 7, filed statement). Out of that come R&D
+  (**$30.9M in 2025**) and selling and administrative costs. The cost line is explicit in the
+  filing: **material 31.3% of sales, labour 7.7%, other 21.9% in 2025**.
+- The mechanism that makes a part sticky is design-in: an engineer at the customer selects a part
+  number while designing a new router, aircraft subsystem or rail traction unit; once it is
+  qualified into that platform, replacing it means requalifying. That is why the filing can report a
+  **$452.2M backlog at 2026-01-31** against $675.5M of annual sales, and why 2025 bookings ran
+  **$732.9M, up 75.8%**.
+- **The scarce input this business controls:** the run's answer and the company's differ, and the
+  company's is the honest one. My answer would be qualified positions on long-lived platforms (a
+  defence or commercial-aerospace part number outlives several product cycles). **The company's own
+  answer is its people.** 10-K Item 1, Intellectual Property: *"It is management's opinion that the
+  successful continuation and operation of our business does not depend upon the ownership of
+  patents or the granting of pending patent applications, but upon the innovative skills, technical
+  competence and marketing and managerial abilities of our personnel."* That sentence is not
+  boilerplate for this run; it is carried to Q2, where **[E4-23]** and **[E4-04]** decide what it
+  means.
+- **Will the fundamentals look broadly the same in ten years?** Yes. The company was incorporated in
+  1949 and has sold parts that power, protect and connect circuits for more than 75 years. The end
+  markets rotate (networking down in 2024, defence up in 2025, eMobility down 41.6% in 2025), and
+  individual part families come and go, but the economic shape is stable: buy metal and silicon, add
+  labour and application engineering, sell a catalogued part into someone else's bill of materials
+  at a gross margin in the thirties. **[E3-31]**'s test is *"relatively simple and stable in
+  character"* and this clears it. Nothing here needs a prediction about a technology I cannot judge;
+  the volatility is in volume, not in the mechanism.
+- **What I am NOT claiming at Q1.** Understanding the mechanism is not understanding the
+  *consolidated series*. **The perimeter moves:** 80% of Enercon was bought for **$325.6M cash in
+  November 2024**, EOS Power for **$7.8M in 2021**, rms Connectors for **$9.0M in 2021**, a
+  one-third stake in innolectric for **EUR 8.0M in 2023**, and the Czech Republic business was sold
+  in 2023. Enercon alone contributed **$136.6M of 2025 sales against $20.8M of 2024 sales**. That is
+  a Q4 problem about what the owner-earnings series is a series *of*, and it is named there, not
+  resolved here.
+- **VERDICT: [x] IN**  [ ] OUT  [ ] UNRESEARCHED → ____  [ ] UNKNOWABLE → ____
+  *IN on the mechanism. The business is legible from its own Item 1 and Item 7, the cost structure
+  is disclosed line by line, and nothing about how the money is made requires a forecast I cannot
+  make. **[E4-46]**'s test is passed the right way round: this is a business understood in five
+  minutes, not one that would need five months.*
+
+## Q2 - IS IT A FRANCHISE? **[E3-03]**
+
+> a franchise is a product or service that "(1) is needed or desired; (2) is thought by its
+> customers to have **no close substitute** and; (3) is not subject to price regulation."
+
+- **(1) Needed or desired - YES.** Equipment does not work without power conversion, circuit
+  protection, connectors and magnetics. $732.9M of 2025 bookings and a $452.2M backlog at
+  2026-01-31 settle it.
+- **(2) No close substitute - NO. THIS IS WHERE THE FILE CLOSES, AND THE COMPANY'S OWN 10-K IS
+  THE EVIDENCE.** Three passages, all from the anchor filing (accession `0001437749-26-005354`):
+
+  Item 1, *Competition*: *"We operate in a variety of markets, all of which are highly competitive.
+  There are numerous independent companies and divisions of major companies that manufacture
+  products that are competitive with one or more of our products. Our ability to compete is
+  dependent upon several factors including product performance, quality, reliability, depth of
+  product line, customer service, technological innovation, design, delivery time and price."*
+
+  Item 1A, *We conduct business in a highly competitive industry*: *"Our business operates in a
+  globally competitive industry, **with relatively low barriers to entry.** We compete principally
+  on the basis of product performance, quality, reliability, depth of product line, customer
+  service, technological innovation, design, delivery time and price. The industry in which we
+  operate has become increasingly concentrated and globalized in recent years and **our major
+  competitors, many of which are larger than Bel, have significant financial resources and
+  technological capabilities.**"*
+
+  Item 1A, *There are several factors which can cause our margins to suffer*, first bullet,
+  **Declines in Selling Prices**: *"**The average selling prices for certain of our products tend
+  to decrease over their life cycles, and customers put pressure on suppliers to lower prices even
+  when production costs are increasing.** Further, increased competition from low-cost suppliers
+  around the world has put additional pressures on pricing. Any drop in demand for our products or
+  increase in supply of competitive products could also cause a significant drop in our average
+  sales prices."*
+
+  **A customer who believes there is no close substitute does not extract falling prices from a
+  supplier whose costs are rising.** That third passage is criterion 2 failing in the one place the
+  criterion is observable, written by the registrant about itself, and the second passage names the
+  reason in four words: *relatively low barriers to entry*.
+- **(3) Not price-regulated - YES, not regulated.** Government contract cost-accounting standards
+  touch the defence work, but no authority sets Bel's prices. Criterion 3 passes and is not the
+  reason for the verdict.
+
+**Must the moat be continuously rebuilt? Does success depend on a great manager? [E4-04, E4-23]**
+The 10-K answers the second itself, in Item 1 under *Intellectual Property*: *"It is management's
+opinion that the successful continuation and operation of our business does not depend upon the
+ownership of patents or the granting of pending patent applications, but upon **the innovative
+skills, technical competence and marketing and managerial abilities of our personnel.**"*
+**[E4-23]** is explicit that this is a Q2 finding and a moat defect: *"if a business requires a
+superstar to produce great results, the business itself cannot be deemed great ... The
+partnership's moat will go when the surgeon goes. You can count, though, on the moat of the Mayo
+Clinic to endure, even though you can't name its CEO."* **Recorded here as a moat defect, not at
+Q3 as a compliment to the people.** It is **not** the operative reason for the verdict: the
+2026-09-20 ruling applies [E4-04] as a **competence limit, never as a fourth franchise criterion**,
+so it could at most produce UNKNOWABLE, and criterion 2 has already produced a finding about the
+business.
+
+**Primary moat metric, filing-sourced, and its trend.** Gross margin and operating margin, from the
+filed statements: gross margin **24.7 / 28.0 / 33.7 / 37.8 / 39.1** and operating margin
+**5.8 / 10.0 / 13.8 / 12.0 / 16.4** for FY2021 through FY2025. Income from operations FY2025 is
+**$110,996 thousand on $675,455 thousand of net sales = 16.43%**, read off the filed consolidated
+statement of operations by hand. The direction is up, sharply, every year on gross margin.
+**[E4-32]** says direction outranks existence and calls the widening moat *"the primary criterion
+of a great business"* - so this trend is the strongest thing in the file and it is tested below
+rather than waved through.
+
+**THE COMPETITOR ROW - required [E3-28].** Full workpaper, construction, sources and exclusions:
+`Test Runs/_research 2026-09-21 BELFB/WORKPAPER - the competitor row.md`. One construction from each
+filer's own SEC data, newest fiscal year; **cross-checked against a filed statement** - Amphenol's
+FY2025 10-K (`0001104659-26-013549`) MD&A says *"Operating income was $5,868.6, or 25.4% of net
+sales, in 2025, compared to $3,156.9, or 20.7% of net sales, for 2024"*, and the construction
+returns 25.4% and 20.7%.
+
+| Company | rev $m | GM% | OM% | NTA $m | EBIT/NTA | FY end | source |
+|---|---|---|---|---|---|---|---|
+| **Bel Fuse (subject)** | **675** | **39.1** | **16.4** | **283** | **39.2%** | 2025-12-31 | 10-K `0001437749-26-005354` |
+| Amphenol | 23,095 | 36.9 | 25.4 | 15,527 | 37.8% | 2025-12-31 | 10-K `0001104659-26-013549` |
+| TE Connectivity | 17,262 | 35.2 | 18.6 | 8,219 | 39.1% | 2025-09-26 | 10-K filed 2025-11-10 |
+| Vishay Intertechnology | 3,069 | 19.4 | 1.9 | 2,780 | 2.0% | 2025-12-31 | 10-K filed 2026-02-13 |
+| Littelfuse | 2,386 | 38.0 | 1.6 | 1,422 | 2.6% | 2025-12-27 | 10-K filed 2026-02-19 |
+| Advanced Energy | 1,799 | 37.7 | 9.3 | 2,087 | 8.0% | 2025-12-31 | 10-K filed 2026-02-13 |
+| Methode Electronics | 1,019 | 19.8 | 0.9 | 610 | 1.4% | 2026-05-02 | 10-K filed 2026-06-24 |
+| Standex International | 892 | 41.7 | 21.7 | n/a | n/a | 2026-06-30 | 10-K filed 2026-08-14 |
+| Allient | 554 | 32.8 | 7.9 | 259 | 17.0% | 2025-12-31 | 10-K filed 2026-03-05 |
+| CTS Corporation | 541 | 38.4 | 15.3 | 189 | 43.8% | 2025-12-31 | 10-K filed 2026-02-24 |
+| Vicor | 408 | 63.6 | 20.1 | 712 | 11.5% | 2025-12-31 | 10-K filed 2026-03-02 |
+| RF Industries | 81 | 33.2 | 2.2 | 25 | 7.2% | 2025-10-31 | 10-K filed 2026-01-14 |
+
+**And the same row over five years, because one year is a snapshot and not a position** (operating
+margin %, oldest first, 5y mean, 5y minimum):
+
+| | OM% by year | mean | min |
+|---|---|---|---|
+| **BELFB** | **5.8 / 10.0 / 13.8 / 12.0 / 16.4** | **11.6** | **5.8** |
+| APH | 19.4 / 20.5 / 20.4 / 20.7 / 25.4 | 21.3 | **19.4** |
+| TEL | 16.3 / 16.9 / 14.4 / 17.6 / 18.6 | 16.8 | **14.4** |
+| SXI | 12.0 / 23.1 / 14.1 / 11.8 / 21.7 | 16.6 | 11.8 |
+| CTS | 14.9 / 15.8 / 13.6 / 13.8 / 15.3 | 14.7 | 13.6 |
+| LFUS | 18.5 / 19.9 / 15.3 / 7.2 / 1.6 | 12.5 | 1.6 |
+| VICR | 15.5 / 6.8 / 12.7 / -0.4 / 20.1 | 10.9 | -0.4 |
+| VSH | 14.4 / 17.6 / 14.3 / 0.2 / 1.9 | 9.7 | 0.2 |
+| AEIS | 10.4 / 12.6 / 6.9 / 2.5 / 9.3 | 8.3 | 2.5 |
+| ALNT | 6.4 / 6.3 / 7.3 / 5.7 / 7.9 | 6.7 | 5.7 |
+| MEI | 9.6 / 7.7 / -10.0 / -2.3 / 0.9 | 1.2 | -10.0 |
+| RFIL | 7.7 / -5.3 / -5.3 / -4.4 / 2.2 | -1.0 | -5.3 |
+
+- **Peers named: eleven**, taken from the whole SEC-registrant set that sells into the same sockets.
+  Buffett says eight **[E3-28]**; eleven were available and eleven were taken.
+- **Peers excluded and why, named per the rule:** Molex, Pulse Electronics, Halo, Bourns and Samtec
+  are **private**; TDK, Murata, Delta Electronics, Yageo and Sumida are **Japan- and Taiwan-listed,
+  not SEC registrants**; Smiths Interconnect does not report separately inside Smiths Group plc.
+  **This is the row's one material gap and it is disclosed: Bel's Magnetic Solutions segment (13% of
+  2025 sales) competes mainly against those Asian filers.** The gap does not hold the verdict
+  PROVISIONAL, because the verdict rests on the subject's own filed statements about its own
+  pricing, not on the row.
+- **Untapped pricing power? [E3-33] NO, and the filing says the opposite.** Claiming that class
+  means claiming *"a monopoly or a near monopoly"* **[E5-28]**, which the company's own
+  *"numerous independent companies"* refuses. **[E4-37]**'s inverse metric - *"you can almost
+  measure the strength of a business over time by the agony they go through in determining whether
+  a price increase can be sustained"* - reads directly off the MD&A. Every margin explanation Bel
+  gives is a **cost** explanation: facility consolidations, the Mexican peso, the Chinese renminbi,
+  the Israeli shekel, PRC minimum wage, gold and copper. The **one** pricing action named anywhere
+  in the document is a single line about one segment in one year: *"Gross margin for 2024 was
+  favorably impacted by pricing actions on certain contract renewals."* A business with pricing
+  power does not itemise one year's contract renewals as a margin driver. **[E2-44]**'s
+  two-characteristic test asks whether it can raise prices *"even when product demand is flat and
+  capacity is not fully utilized"*; the filing's own answer is the Declines in Selling Prices
+  bullet, which is that answer inverted.
+
+**THE DISCONFIRMING CASE, HUNTED HARDEST BECAUSE THE TREND IS THE FAVOURITE HYPOTHESIS [E4-26].**
+The case for a franchise is real and must be stated fairly: gross margin up five years running,
+**EBIT/NTA of 39.2% level with TE Connectivity and above Amphenol**, a backlog of two-thirds of
+annual sales, Class B stock up **1,016% over ten years** (the company's own figure, DEF 14A), and a
+defence and commercial-aerospace mix that is genuinely qualification-protected. Four things defeat
+it, and all four are filed:
+
+1. **Seventeen years of the same company's own operating margin:**
+   `-9.5 / 5.0 / 2.5 / 0.6 / 4.3 / 2.8 / 5.0 / -15.3 / 3.5 / 4.9 / -0.3 / 4.0 / 5.8 / 10.0 / 13.8 /
+   12.0 / 16.4`. **Thirteen of seventeen years below 6%, two negative, and no year above 5.8% before
+   2022.** **[E2-53]**'s dominance test is *"Once dominant, the newspaper itself, not the
+   marketplace, determines just how good or how bad the paper will be. **Good or bad, it will
+   prosper.**"* For thirteen of these seventeen years Bel did not prosper. Position did not set the
+   economics; the cycle did.
+2. **The competitor row removes the environment as the explanation.** Amphenol's worst of the last
+   five years is **19.4%** and TE's is **14.4%** - both above Bel's **best of seventeen**. Same
+   industry, same customers, same five years. **[E3-61]** says the row cannot show conduct, and that
+   is exactly what makes this useful: it takes the industry off the table as a defence.
+3. **[E2-58]'s equation is what actually governs this industry, and the company writes it out.**
+   *"persistent over-capacity without administered prices (or costs) equals poor profitability"*,
+   long-term profitability set by *"the ratio of supply-tight to supply-ample years"*, and prosperity
+   breeding the next glut - *"nothing fails like success."* Bel's 2016 (-15.3% operating margin on
+   $500M of sales) is the supply-ample year; 2023 is the supply-tight one, and the filing prices it
+   to the dollar: **raw-material expedite fee revenue of $14.9 million in 2023 against $0.1 million
+   in 2024**. Customers paying to jump a queue is the definition of a supply-tight year, and it went
+   to zero. [E2-58]'s single exception is *"a cost advantage that is both wide and sustainable ...
+   By definition such exceptions are few"*, and Bel has the opposite: fifteen plants whose cost line
+   the MD&A says moves with the peso, the renminbi, the shekel, PRC minimum wage, gold and copper.
+4. **The margin step-up has a disclosed, non-franchise cause.** Management attributes it to Enercon
+   mix (bought for **$325.6M cash** in November 2024 and contributing **$136.6M** of 2025 sales),
+   facility consolidations in the PRC and Mexico, and favourable FX. **[E4-36]** asks which of the
+   four causes of extreme success the record comes from, and **[E3-51]** names the one that is not
+   ownable: *"when a surfer gets up and catches the wave and just stays there, he can go a long,
+   long time. But if he gets off the wave, he becomes mired in shallows."* **Bel's own 2009-2021
+   record is the shallows**, and the 2022-2025 record is three waves at once - the component
+   shortage, a defence-spending surge, and the datacenter build. A surfing run is not a moat.
+
+**Where [E3-33]'s ultimate-no-brainer class would have lived, the filing says the opposite; where
+[E2-53]'s dominance class would have lived, thirteen of seventeen years say the opposite; and where
+[E2-58]'s wide-and-sustainable cost exception would have lived, the MD&A lists six input costs it
+does not control.**
+
+- Class: [ ] WIDE [ ] NARROW [x] **NONE** [ ] PROVISIONAL · Direction: **improving, from a very low
+  base, on a bought mix and a cost programme - an improving business, not a widening moat**
+- **VERDICT: [ ] IN  [x] OUT  [ ] UNRESEARCHED → ____  [ ] UNKNOWABLE → ____**
+
+  **OUT, ON THE BUSINESS, at [E3-03] criterion 2, on the registrant's own Item 1 and Item 1A.**
+  The verdict is not UNKNOWABLE: the separating test **[E4-19]** asks *"can I name the document
+  that would resolve this?"* and there is nothing left to fetch - the resolving document is the
+  10-K itself and it has been read. A company that files *"relatively low barriers to entry"* and
+  *"customers put pressure on suppliers to lower prices even when production costs are increasing"*
+  has answered criterion 2 about itself. **Permanent, per the four-verdict table.** The [E4-04]
+  competence-limit route is not used and would not have been needed.
+
+---
+⛔ **Q1-Q4 DID NOT ALL CLOSE IN. THE FILE IS CLOSED AT Q2.** Everything below this line is
+recorded **BELOW THE GATE** and **IS NOT A CLEARANCE OF ANYTHING**. It is written because the
+material was gathered before the gate closed and because operator rule 6 makes the record part of
+the run, not because any of it bears on the verdict. **No Q5 output appears in this file**
+[operator rule 2]. Any arithmetic below is headed **COMPUTATION - NOT A CLEARANCE**
+[operator rule 3].
+
+## Q3 - ARE THEY HONEST, AND ARE THEY RATIONAL? **BELOW THE GATE. NOT A CLEARANCE.**
+*Recorded because the material was gathered before Q2 closed and because the standing instruction
+for this queue requires the latest 8-K EX-99.1 to be read before [E4-29] and [E4-22]'s third flag
+are scored. **Nothing here promotes anything** - [E2-37, E2-38, E3-39] say a Q3 finding cannot
+repair a Q2, and this one does not try.*
+
+**STEP 1 - THE WEIGHT CASE.** *How much damage can this manager do before I can react?*
+- [x] **Daily execution [E3-38, E3-43, E2-70]** - ticked, **and Q2's own evidence is what ticks it**.
+  **[E3-43]**: *"franchises can tolerate mis-management ... a business, unlike a franchise, can be
+  killed by poor management."* A registrant that files *"relatively low barriers to entry"* and
+  falling selling prices is in the *"a business"* class, not the franchise class.
+- [ ] Control - not ticked. A public minority holding is exitable.
+- [ ] Leverage - **not ticked, and this changed during the window.** Long-term debt was $287,500
+  thousand at 2024-12-31 and $197,500 thousand at 2025-12-31 (10-K balance sheet, a Leverage Ratio
+  the 10-K states as *"1.4x Consolidated EBITDA ... as defined and calculated in accordance with our
+  Credit Agreement"*). At 2026-06-30 it is **zero** (10-Q balance sheet, accession
+  `0001437749-26-025619`).
+**Case declared: Q3 would have been a BINARY GATE on the daily-execution limb.** It is moot; Q2
+closed the file.
+
+**Honesty - binary, permanent, filings-based [E5-16].** **No disqualifier found**, and per
+**[E5-17]** that is the absence of found disqualifiers and not a finding that the managers are
+honest. Matters dated to when they became public: the auditor change of 2025-12-10 (below) carries
+Item 304's express statement of **no disagreements and no reportable events**; no restatement, no
+Item 4.02, no recovery analysis (the FY2025 cover box is unticked); the FY2025 10-K Item 9A reports
+no material weakness.
+
+**STEP 2 - THE FLAGS.** *Each is a prompt to read, never a verdict [E5-36], and a fired flag is not
+a venality finding [E5-38].*
+
+- [ ] weak accounting - **not fired.** SBC is expensed ($6,813 thousand in FY2025, on the face of
+  the cash-flow statement). The Enercon 20% is carried in the mezzanine as a **redeemable**
+  noncontrolling interest and its redemption accretion is **deducted on the face of the income
+  statement** (`Redemption value adjustment attributable to noncontrolling interest` of $9,123 and
+  $7,748 thousand in FY2025 and FY2024). That is the harder presentation, not the easier one.
+- [ ] unintelligible footnotes - **not fired.** Note 3 (Acquisition), Note 2 (innolectric) and the
+  segment note are plain and quantified.
+- [x] **trumpeted earnings projections / growth targets - FIRED [E4-22, E3-48, E5-30].** The
+  8-K EX-99.1 of 2026-07-29 (accession `0001437749-26-024893`) carries it in its own subtitle:
+  **"Provides Q3-26 Sales and Gross Margin Guidance"**, and in the body: *"we expect third-quarter
+  2026 sales of $205 million to $225 million and gross margin of 39% to 41%."* **[E5-30]** is the
+  reason this matters more than one quarter's number: *"once you start it, it's all over. You can't
+  quit ... And forecasting earnings, I can't imagine anything more destructive."* **[E3-48]**'s
+  action is to set past guidance against outturn: the Q2-26 release says sales and gross margin came
+  in *"toward the high end of our estimated ranges"*, so the record on the guidance given is met,
+  not missed. **The flag is about the practice, not this quarter's outcome.**
+- [ ] serial share issuance - **read, and NOT fired, and this is the prior I expected to fire.**
+  Class B outstanding rose **1,780,819 shares (16.9%) in six months**, which is what the cover
+  counts show. The cause is one event, disclosed in advance: the 8-K of 2026-05-14 (accession
+  `0001213900-26-056732`) records an underwriting agreement dated 2026-05-13 for **1,500,000 Class B
+  shares at $266.00 to the public**, plus a 225,000-share over-allotment option, with net proceeds
+  of **$441.6 million** reported in the Q2 release and used *"to pay down any outstanding
+  indebtedness under its Credit and Security Agreement, fund the remaining 20% acquisition of
+  Enercon Technologies, Ltd."* **[E5-15]**'s flag is *serial* issuance as a tell of promotion; one
+  marketed follow-on at **$266.00**, above today's $241.97 quote, that retired all the debt, is the
+  right-hand side of **[E5-24]**'s first law - *"what is smart at one price is dumb at another"* -
+  applied to the company's own paper. **[E5-44]** would have made it a flag had the paper been used
+  to buy a business at a premium; it was used to repay a revolver.
+- [x] **EBITDA / adjusted-earnings promotion - FIRED, AT FULL STRENGTH, AND EXACTLY WHERE THE
+  STANDING INSTRUCTION SAID TO LOOK [E4-29].** *"Trumpeting EBITDA ... is a particularly pernicious
+  practice. Doing so implies that depreciation is not truly an expense, given that it is a
+  'non-cash' charge. That's nonsense."* **The 10-K reads clean**: the word EBITDA appears ten times
+  in it and **every one is contractual** - the Credit Agreement's Leverage Ratio and Fixed Charge
+  Coverage Ratio, the Enercon earnout targets, the innolectric thresholds, the redemption-value
+  multiple. **The furnished 8-K EX-99.1 does not read clean.** Headline bullet, third from top:
+  *"Adjusted EBITDA of $48.9 million (23.2% of sales), compared to $35.2 million (20.9% of sales) in
+  Q2-25."* Against a filed **income from operations of $38,419 thousand** and **GAAP net earnings
+  attributable to Bel shareholders of $25,480 thousand** for the same quarter. The reconciliation's
+  own definition removes *"stock-based compensation, amortization of intangibles ... unrealized
+  foreign currency exchange (gains) losses, restructuring charges (credits), gains/losses on sales of
+  businesses and properties, acquisition related costs ... earnout liability adjustments, impairment
+  charges, noncontrolling interest ('NCI') adjustments from fair value to redemption value."*
+  **[E5-06]** on the first of those: *"To say 'stock-based compensation' is not an expense is even
+  more cavalier."* **[E5-33]** and **[E3-53]** on the restructuring line: the charges are real costs
+  and belong in the mean, and *"to tell owners year after year, 'Don't count this' ... is
+  misleading."* Bel's restructuring is not once: the 10-K says *"Over the past three years, the
+  Company has undertaken a series of facility consolidations around the world"* and adds the 2025
+  Pingguo initiative.
+  **And there is a sharper edge on this one than the usual narrative point.** The 10-K discloses
+  that the redemption value of the Enercon noncontrolling interest *"is calculated based on a
+  pre-determined multiple of trailing twelve-months EBITDA"*, and that the Enercon earnout is
+  *"subject to Enercon's achievement of certain specified EBITDA targets."* **So EBITDA is not only
+  the public headline; it is the contractual metric that sets what Bel pays for the remaining 20% of
+  Enercon and what it pays the sellers.** **[E5-41]** names precisely what that measure deletes:
+  *"Depreciation is where you spend the money first ... and record the expense later. And it's
+  reverse float"* - the already-spent expense is the one EBITDA removes, *"in the interests of Wall
+  Street, enormously ... higher borrowing power, higher valuations."*
+- [x] **non-GAAP earnings promotion - FIRED.** Same release: **GAAP net earnings attributable to Bel
+  shareholders of $25.5 million, DOWN from $26.9 million a year earlier; non-GAAP net earnings of
+  $39.1 million, UP from $21.0 million.** GAAP fell 5%; non-GAAP rose 86%. Both are in the same
+  bullet, in that order, which is the candid ordering - but **[E2-26]**'s half-owner test asks what
+  I would want to know if the positions were reversed, and what an owner wants to know is that the
+  measure which went up 86% is the one that excludes $13.6 million of real charges.
+- [ ] filed-figure tells [E4-30] - **read and NOT fired, in either limb.** Reported growth is the
+  opposite of unnaturally smooth: operating margin over seventeen years runs `-9.5 / 5.0 / 2.5 / 0.6
+  / 4.3 / 2.8 / 5.0 / -15.3 / 3.5 / 4.9 / -0.3 / 4.0 / 5.8 / 10.0 / 13.8 / 12.0 / 16.4`. Cash taxes
+  as a share of reported pretax income are **not falling**: cash income taxes paid were $25,056 /
+  $22,952 / $23,731 thousand in FY2023-25 against pretax earnings of $83,300 / $61,808 / $95,050 -
+  **30.1% / 37.1% / 25.0%**, against book provisions of 11.4% / 20.4% / 22.0%. **Cash tax exceeds the
+  book provision in all three years**, which is the benign direction.
+- [ ] metric-switching [E2-49] - **read and NOT fired.** The same non-GAAP set (Non-GAAP net
+  earnings, Non-GAAP EPS, Non-GAAP Operating Income, Adjusted EBITDA) appears across successive
+  releases; nothing was discarded while deteriorating. *This is the sixth fire and sixth failure of
+  that prior in this project's record; it remains a thing to check, not to assume.*
+- [ ] dividends funded by issuance [E2-52] - **not fired.** Dividends were $3,465 / $3,453 / $3,492
+  thousand in FY2025-23 against net earnings many times that. The $441.6M raise was not for the
+  dividend and is not needed for it.
+
+**Flags that converge [E4-52]?** Two fire and they point the same way: the guidance practice and the
+EBITDA-plus-non-GAAP headline are one system, not two prompts. What keeps it short of a lollapalooza
+read is that the other six are clean and that the 10-K itself - the document that carries legal
+liability - does none of it.
+
+**STEP 3 - THE PRIMARY TEST [E2-01].** *"The primary test of managerial economic performance is the
+achievement of a high earnings rate on equity capital employed ... and not the achievement of
+consistent gains in earnings per share."* Seventeen years, net income over year-end
+`StockholdersEquity`, all from 10-K-tagged facts, newest vintage:
+
+`-4.0 / 6.2 / 1.7 / 1.1 / 7.0 / 3.8 / 8.2 / -40.9 / -7.5 / 11.7 / -5.2 / 6.9 / 11.9 / 20.1 / 21.7 /
+11.4 / 14.5` per cent, FY2009 through FY2025.
+
+**Seventeen-year mean: about 4.0%. Five-year mean (FY2021-25): 15.9%.** **[E2-42]**'s red-light rule
+is *"not less than a five-year test ... Red lights should start flashing if the five-year average
+annual gain falls much below the return on equity earned over the period by American industry in
+aggregate"* - the current five years pass it and the twelve before them do not.
+**[E2-43]**'s denominator for an acquisitive filer is **unleveraged net tangible assets with the
+goodwill wedge reported separately, never hidden in book equity**, and on this filer the wedge
+swallows the book: goodwill $214,821 plus intangibles $217,966 = **$432,787 thousand against total
+shareholders' equity of $425,513 thousand at 2025-12-31**, so **net tangible equity is negative
+$7,274 thousand** and the tangible-denominator version of the test **cannot be computed for FY2024
+or FY2025**. Stated rather than papered over. After the May 2026 offering it is positive again:
+equity $909,371 less goodwill $217,598 and intangibles $218,201 = **$473,572 thousand** at
+2026-06-30.
+
+**The half-owner test [E2-26]:** **passes on the 10-K, fails on the release.** The 10-K quantifies
+Enercon's contribution separately ($136.6M in 2025, $20.8M in 2024), states the segment margins one
+by one, names the FX revaluation gain at $10.1 million, and puts the noncontrolling-interest
+accretion on the face of the income statement. The release's headline metric buries $13.6 million of
+the same kind of item inside one adjusted number.
+
+**The institutional imperative - all four [E2-30].** *Not a fraud test.*
+- [ ] resists any change in current direction - no; it exits things. It sold the Czech business in
+  2023, wrote innolectric to zero rather than funding it (below), closed Pingguo, and consolidated
+  facilities three years running.
+- [x] **projects or acquisitions materialise to soak up available funds** - ticked, on the
+  registrant's own words. Item 1: *"Acquisitions have played a critical role in the growth of Bel
+  ... and continue to be an important element in our growth strategy. We frequently evaluate
+  possible acquisition candidates."* Item 1A: *"A significant portion of our growth has been
+  attributable to acquisitions."* And the use of proceeds names *"other acquisitions or partnership
+  opportunities that may arise"* for money not yet committed. **[E3-58]** is the relevant reading,
+  not venality: a standing acquisition programme is how the allocation gets made.
+- [ ] staff studies to justify the leader's craving - no instance found in the filings read.
+- [ ] peer behaviour mindlessly imitated - no instance found.
+
+**Capital allocation - and this is the strongest part of the file.**
+- **The innolectric decision is the rare-positive tell [E4-39] in its negative form.** The 8-K of
+  2025-12-03 (accession `0001437749-25-036765`, Item 2.06) writes the post-mortem on Bel's own
+  EUR 8.0M 2023 investment, names the causes (*"the exit of certain companies from the market, the
+  softening of government incentives, and persistent weakness in the global electric vehicle (EV)
+  sector"*), states that Bel *"ultimately determined not to invest further capital in Innolectric at
+  this time"* rather than doubling down, and quantifies the write-off: *"a pre-tax impairment charge
+  of up to approximately $14 million in the fourth quarter of 2025, representing the potential full
+  loss of Bel's Innolectric investment and notes receivable."* The FY2025 income statement carries
+  **$13,087 thousand** of it. **A filer that publishes the failure of its own deal against its
+  announcement case earns weight the way beaten guidance does [E3-48, E4-39]** - and that this one
+  is a loss, disclosed at the moment it crystallised, is the point.
+- **Buybacks, the two conditions [E5-08], plus the third [E4-31].** A $25.0M programme was authorised
+  2024-02-21. $16.0M was spent in 2024. **Zero was repurchased during FY2025**, while the Class B
+  shares rose to the point where the company then sold 1.725 million of them at $266.00. Condition
+  (2) is *a material discount to conservatively calculated intrinsic value*; declining to buy at
+  eleven times the 2020 price and issuing instead is that condition applied correctly, not
+  **[E2-51]**'s refusal tell. Condition (1), ample funds, is met: $306,106 thousand of cash and zero
+  debt at 2026-06-30.
+- **The dual-class structure** is a real governance fact and the proxy argues it rather than hiding
+  it. 2,115,263 Class A voting shares, 26 registered holders; 12,324,187 non-voting Class B shares,
+  242 registered holders. The proxy's defence (*"Over the ten-year period ending December 31, 2025,
+  Class A Common Stock increased 1,063% and Class B Common Stock increased 1,016%"*) is a
+  performance answer to a control question. **Recorded, not scored**; it never reached the weight of
+  the Q2 finding.
+
+**THE GUARDRAIL - checked before writing the verdict.**
+- [x] Confirmed: **nothing in this Q3 is being used to promote the name.** The innolectric candour and
+  the issuance discipline are genuinely good and they **cannot repair Q2** - **[E2-37]**: *"a textile
+  company that allocates capital brilliantly within its industry is a remarkable textile company —
+  but not a remarkable business."*
+- [x] The key-person dependence the company states in Item 1 is recorded **at Q2 as a moat defect
+  [E4-23]**, not here as a strength.
+- [x] No great-manager-is-the-plan case is being made **[E2-35, E2-36]**.
+
+- **VERDICT (below the gate, not a clearance): would have been [x] IN** - *IN meaning no
+  disqualifier found, per [E5-17], and never a finding that the managers are honest.* **Two flags
+  live and dated: the guidance practice and the EBITDA/non-GAAP headline, both in the furnished
+  8-K EX-99.1 of 2026-07-29, both absent from the 10-K.** **This verdict decides nothing. Q2 closed
+  the file.**
+
+## Q4 - WILL IT SURVIVE? **BELOW THE GATE. NOT A CLEARANCE.**
+**COMPUTATION - NOT A CLEARANCE** [operator rule 3]. No entry language appears here and no yield
+against the sovereign is reported anywhere in this file.
+
+### Owner earnings - the one number **[E2-23]**, rebuilt over seventeen years
+The `spread_caveat` on the screen row ordered this rebuild: *"4-construction width only (3y/5y x two
+capex ends): CANNOT see variation older than the 5-year window; rebuild it [E4-25]."* Seventeen
+filed years exist and all seventeen are used.
+
+Construction, the confessed CONVENTION: **operating cash flow less share-based compensation less the
+(c) guess**, because OCF nets the working-capital change from one audited line ([E2-23]'s
+increment). $ thousands, all from 10-K-tagged annual facts, newest restatement vintage:
+
+| FY | OCF | SBC | capex | D&A | OE at capex end | OE at D&A end |
+|---|---|---|---|---|---|---|
+| 2009 | 29,158 | 1,731 | 2,357 | 6,778 | 25,070 | 20,649 |
+| 2010 | 7,637 | 2,200 | 2,427 | 8,836 | 3,010 | **-3,399** |
+| 2011 | 30,267 | 1,709 | 2,928 | 8,667 | 25,630 | 19,891 |
+| 2012 | 11,609 | 1,767 | 4,744 | 9,113 | 5,098 | 729 |
+| 2013 | 10,581 | 1,879 | 6,940 | 12,382 | 1,762 | **-3,680** |
+| 2014 | 22,457 | 2,717 | 9,042 | 20,367 | 10,698 | **-627** |
+| 2015 | 65,789 | 2,815 | 9,891 | 23,009 | 53,083 | 39,965 |
+| 2016 | 38,603 | 2,817 | 8,223 | 21,778 | 27,563 | 14,008 |
+| 2017 | 24,120 | 3,030 | 6,425 | 20,718 | 14,665 | 372 |
+| 2018 | 10,097 | 2,835 | 11,594 | 18,207 | **-4,332** | **-10,945** |
+| 2019 | 24,450 | 2,888 | 9,891 | 16,471 | 11,671 | 5,091 |
+| 2020 | 46,108 | 2,318 | 5,476 | 16,423 | 38,314 | 27,367 |
+| 2021 | 4,632 | 2,300 | 9,397 | 16,861 | **-7,065** | **-14,529** |
+| 2022 | 40,257 | 2,382 | 8,832 | 14,863 | 29,043 | 23,012 |
+| 2023 | 108,349 | 3,486 | 12,126 | 13,312 | 92,737 | 91,551 |
+| 2024 | 74,064 | 3,740 | 14,108 | 16,457 | 56,216 | 53,867 |
+| 2025 | 80,612 | 6,813 | 12,002 | 26,592 | 61,797 | 47,207 |
+
+**MORE THAN ONE WINDOW, AND THE SPREAD IS PART OF THE RANGE [E4-25, E4-38].** Every window, as
+**[E4-38]** prescribes when a growth presentation could be distorted *"by a calculated selection of
+either initial or terminal dates"*:
+
+| window | years | mean OE, capex end | mean OE, D&A end |
+|---|---|---|---|
+| FY2023-25 | 3 | **$70.3M** | $64.2M |
+| FY2021-25 | 5 (the corpus default [E2-42]) | **$46.5M** | $40.2M |
+| FY2019-25 | 7 | $40.4M | $33.4M |
+| FY2016-25 | 10 | $32.1M | $23.7M |
+| FY2011-25 | 15 | $27.8M | $19.6M |
+| **FY2009-25** | **17, every filed year** | **$26.2M** | **$18.3M** |
+
+- **Combined range (window spread x capex band): $18.3M to $70.3M - a factor of 3.8.**
+- **Is that range too wide to reach a conclusion? On the five-year default it is workable; across
+  the seventeen years it is not, and the seventeen years are the honest picture.** **[E4-25]**:
+  *"Usually, the range must be so wide that no useful conclusion can be reached."* **That is a Q4
+  finding in its own right and not merely valuation width.**
+- **Scope it honestly [E3-55]:** volatility with a certain endgame is not a defect. Here the endgame
+  is not certain - the swing is not seasonal noise like See's eight loss-making months, it is
+  **four years out of seventeen below zero at the D&A end and two at the capex end**, driven by the
+  cycle Q2 identified. The spread measures uncertainty about the **level**, which is the disqualified
+  case.
+- **The screen's `level_note` STEP UP is CONFIRMED, and [E4-41] is applied.** The recent half of the
+  series is genuinely a different level from the early half, and **[E4-41]** requires the favourable
+  exogenous breaks to be named and removed before the mean is trusted. Three are named and all three
+  are in the filings: **raw-material expedite fee revenue of $14.9 million in FY2023 falling to $0.1
+  million in FY2024** (customers paying to jump the queue - a supply-tight-year artifact, not an
+  earning); a **foreign exchange revaluation gain of $10.1 million in FY2025**; and **gains on
+  sale/disposal of property, plant and equipment of $5,701 thousand in FY2025 and $6,440 thousand in
+  FY2021**. Removing them takes FY2023 and FY2025 down materially and widens the gap between the
+  three-year and the seventeen-year mean rather than closing it.
+- **The screen's `level_note_oe` EARLY HALF STRADDLES ZERO is CONFIRMED** on the rebuilt series
+  (FY2010, 2013, 2014 and 2018 are negative at the D&A end, FY2018 at the capex end too).
+  **The screen's `flags_disagree` is CONFIRMED and explained:** the two series disagree because the
+  ratio is being taken on a series that crosses zero, which is the same defect class already fixed
+  once in `level_shift` for the recent half (RESUME STATE item 3A). **Here the early half crosses
+  zero and the guard does not refuse.** Recorded as a tooling finding.
+- **MAINTENANCE CAPEX - A DISCLOSED JUDGMENT, and the corpus default runs the WRONG WAY on this
+  filer.** **[E3-44]**'s default is D&A, and **[E5-20]**'s exception widens (c) upward for
+  capital-intensive filers. **Bel is neither.** Capex has run **$12.0M on $675.5M of sales (1.8%)**
+  while D&A is **$26.6M**, and the gap is not renewal: FY2025 D&A jumped from $16.5M to $26.6M in
+  the first full year after Enercon, because it now carries purchase-accounting amortisation of
+  acquired customer relationships and technology ($217,966 thousand of intangibles on the balance
+  sheet). **Amortising a bought customer list is not "capitalized expenditures for plant and
+  equipment ... that the business requires to fully maintain its long-term competitive position and
+  its unit volume."** So **the judgment is that (c) sits at or near total capex, roughly $12-14M a
+  year**, and the D&A end of the band is the **conservative display**, not the valid one - the
+  mirror image of the railroad case. **This is a guess and it is disclosed as one [E2-23]:
+  "(c) must be a guess."** Two things push it up and are stated rather than computed away: the
+  working-capital increment, which OCF already nets ([E2-23]'s own parenthetical, and it bites hard
+  here - FY2021's working capital consumed **$36.1M** net); and **[E2-60]**'s third dimension,
+  financial strength, which was maintained through the window rather than sacrificed to a payout.
+- **THE PERIMETER, which the screen's `acq_note` raised.** The note said acquisitions of $337M are
+  *"62% of cap"*; on the hand-struck cap they are **9.9%**. The substance of the note survives the
+  correction: **the numerator and the denominator are different companies across this window.**
+  Named from the filings: **80% of Enercon, $325.6 million cash, closed 2024-11-14** (funded $85.6M
+  from cash and ~$240M from the revolver); **EOS Power, $7.8 million, 2021-03-31**; **rms Connectors,
+  $9.0 million, 2021-01-08**; **one-third of innolectric, EUR 8.0 million, 2023-02-01, written to
+  zero in Q4 2025**; and the **Czech Republic business sold in 2023**. Perimeter by year: FY2009-20
+  is pre-Enercon and pre-EOS; FY2021 adds rms and EOS; FY2023 adds innolectric and loses Czechia;
+  **FY2025 is the first year on the current perimeter, and it is one year.** A seventeen-year mean
+  of $26.2M and a one-year figure of $61.8M are not measurements of the same company, and neither is
+  wrong; they answer different questions.
+- **Stock compensation subtracted in full [E5-06], and the measure is stated [E3-70].** $6,813
+  thousand in FY2025, the cash-flow-statement charge. **[E3-70]** says the reported charge is the
+  **floor** of the subtraction where SBC is material; at **8.5% of FY2025 operating cash flow** it
+  is not in the class that obliges a grant-table rebuild, and the reported charge is used with that
+  said.
+- **THE SCREEN'S `wc_note` IS ARITHMETICALLY RIGHT AND ITS READING IS REFUTED.** The note says
+  *"ONE LINE MADE THE CASH: AccountsPayable moved 517% of 2021 OCF. Operating cash is not owner
+  earnings when one balance-sheet line produced it (DELL, INOD)."* Read by hand off the FY2021 10-K
+  (`0001437749-22-006139`): accounts payable **+$23,961** against OCF of **$4,632** = 517.3%, so the
+  ratio is right. **But the direction is inverted.** The same statement's working-capital block runs
+  accounts receivable **-12,982**, unbilled receivables **-14,140**, inventories **-34,005**, other
+  current assets **-2,240**, other assets **-1,182**, accounts payable **+23,961**, accrued expenses
+  **+4,684**, other liabilities **+1,441**, income taxes payable **-1,510** - **a net working-capital
+  DRAIN of $36.1 million.** The payable was the largest single positive line inside a block that
+  consumed seven times the year's operating cash. **The flag exists to catch an OCF that one line
+  inflated; here working capital deflated the year, which is the opposite error and the safe one.**
+  *The flag reads annual facts and cannot see direction; that limit is already in its docstring.*
+  **A live instance of the same shape in the other direction does exist and is newer than the flag's
+  data:** H1 2026 (10-Q `0001437749-26-025619`) shows **accounts payable +$33,072 against operating
+  cash of $31,762 - 104% - the payable is larger than the whole half-year's operating cash.**
+
+### Great, good, or gruesome? **[E4-20]**
+- [ ] great - **no.** The great account *"pays an extraordinarily high interest rate that will rise
+  as the years pass"*, and seventeen years of ROE averaging **4.0%** with two years near minus 41%
+  and minus 7.5% is not that.
+- [x] **good - on the recent window only.** **[E4-43]** says the good class **passes** and only the
+  gruesome fails: *"nothing shabby about earning $82 million pre-tax on $400 million of net tangible
+  assets."* Bel's five-year ROE mean of **15.9%** clears **[E5-40]**'s *"quite satisfactory"* ~12%
+  return-on-retention mark.
+- [ ] gruesome - **no, and the test is the right one to apply.** *"The worst sort of business is
+  one that grows rapidly, requires significant capital to engender the growth, and then earns little
+  or no money."* Bel does not require significant **plant** capital (1.8% of sales); it requires
+  **acquisition** capital, and **[E5-40]**'s escape clause governs, which is the passage the
+  framework reads [E4-20]'s gruesome class through - *"cash-consuming businesses, by their nature,
+  are unattractive **unless the cash they consume gets to earn a reasonable return**"* - and the
+  Enercon money currently does.
+- **Stated plainly: good on FY2021-25, and the twelve years before that were neither good nor
+  gruesome but mediocre - which is the finding Q2 already made from the other side.**
+
+### Staying power - score all three **[E5-11]**
+- **(1) a large and reliable stream of earnings - LARGE, NOT RELIABLE.** $80.6M of operating cash in
+  FY2025 and $31.8M in H1 2026 is large against a $283M net tangible asset base. Reliable it is not:
+  the same line was $4.6M in FY2021 and $10.1M in FY2018.
+- **(2) massive liquid assets - YES, and newly so.** **Cash and cash equivalents of $306,106
+  thousand at 2026-06-30** against $57,800 thousand six months earlier, and **long-term debt of
+  zero** against $197,500 thousand. **[E2-64]**'s reading applies and is the favourable one: Bel
+  borrowed *before* the need to buy Enercon and then raised equity to retire it, so the balance
+  sheet is now built for a storm and to buy in one.
+- **(3) no significant near-term cash requirements - ONE IS NAMED, AND IT IS FUNDED.** *"Ignoring
+  that last necessity is what usually leads companies to experience unexpected problems."* The
+  requirement is the **remaining 20% of Enercon**, which the 10-K says Bel *"has the current
+  intention to so purchase ... by early 2027"*, carried as **redeemable noncontrolling interest of
+  $102,601 thousand at 2026-06-30** (up from $93,161 and $80,586 at the two prior year-ends, because
+  it accretes to a redemption value set on **a multiple of trailing-twelve-month EBITDA**), plus the
+  Enercon earnout on 2025 and 2026 EBITDA targets. $306.1M of cash against roughly $103M plus earnout
+  covers it more than three times over, with no revolver drawn. **[E5-39]**'s test - never dependent
+  *"on the kindness of strangers"* - is met **at this moment** and was not met eighteen months ago,
+  when $240M of the Enercon price came from a revolver.
+- **Leverage, named and quantified [E4-16, E3-29]** - *there is no ratio ceiling in this framework
+  and the corpus supplies none*: long-term debt **$287,500 → $197,500 → $0** thousand at 2024-12-31,
+  2025-12-31 and 2026-06-30; interest **paid** $4,729 / $5,795 / $14,792 thousand in FY2023-25, and
+  $4,332 thousand in H1 2026 falling to $1,802 thousand in Q2 alone. **[E2-54]**'s coverage test -
+  *all interest comfortably met out of current cash flow net of ample capital expenditures* - was
+  met in the worst of those years ($80.6M of operating cash less $12.0M of capex against $14.8M of
+  interest) and is now moot at zero debt.
+
+### Name the specific way THIS business dies **[E2-27, E3-24]**
+- **The mechanism is [E2-58]'s glut, not insolvency, and the corpus names it exactly:** *"persistent
+  over-capacity without administered prices (or costs) equals poor profitability"*, with long-term
+  profitability set by *"the ratio of supply-tight to supply-ample years"* and prosperity breeding
+  the next one - *"nothing fails like success."* The trigger is the same one the company lists: a
+  defence-appropriation pause, a networking inventory correction of the kind that took Magnetic
+  Solutions down **40.2% in a single year (FY2024)**, and low-cost suppliers re-entering as capacity
+  catches demand. **[E4-40]** is the governing caution: *"focusing on experience, rather than
+  exposure"* - the last four years are a benign loss history late in a good cycle and are *"not only
+  useless, but actually dangerous"* as a guide. **The exposure, from the filing, is 25% of
+  consolidated sales tariff-exposed, 93% of Enercon's revenue from defence, and an Item 1A that says
+  selling prices fall over product life cycles.**
+- **Quantified from filed figures.** Put FY2016's operating margin of **-15.3%** on FY2025's
+  $675,455 thousand of sales and the operating line is **-$103M**. Put the FY2009-21 median of
+  roughly **4.0%** on the same revenue and it is **+$27M**, against $30.9M of R&D that cannot be
+  switched off without conceding the design-in position. **Neither kills the company**: at
+  2026-06-30 there is $306.1M of cash, no debt, and $473.6M of net tangible equity. **What dies is
+  the return, not the registrant** - which is exactly the thirteen weak years the seventeen-year
+  series already records.
+- **Likelihood:** [ ] likely [x] **a real possibility** [ ] a low-level possibility. The company has
+  done it twice inside the filed record (FY2016 and FY2019) and the conditions that ended those
+  cycles are the ones its own Item 1A lists as live.
+- **VERDICT (below the gate, not a clearance): would have been [x] IN on survival**, with the
+  **[E4-25]** width recorded as a finding against the reliability of the level. **This decides
+  nothing. Q2 closed the file.**
+
+---
+⛔ **Q5 DOES NOT OPEN. Q2 IS OUT, SO Q1-Q4 DID NOT EACH SHOW IN.**
+
+## Q5 - NOT OPENED
+**No Q5 output appears in this file** [operator rule 2]. No yield against the sovereign, no value
+range, no ranking position and no floor computation is reported for BELFB, because the business
+failed at Q2 and **[E5-42]** is the reason the order is what it is: Q2-Q4 judge the business and
+only Q5 judges the price. The sovereign was struck at Step 0 because the template requires the rate
+before the filing is read, not because it was used.
+
+The hand-struck cap of **$3,402.7M** is recorded at Step 0 as a **correction to a defective screen
+row**, not as a valuation input, and no yield is computed against it anywhere in this document.
+
+## Q6 - NOT OPENED
+Not reached. **[E1-02]** sets the exit metric before entry and there is no entry.
+
+**THE REVERSAL CONDITION, IN WORDS - the QLYS ruling, because this name failed on the BUSINESS.**
+No price alert is armed and **no price is a reopening condition [E5-35]**: *"You can turn any
+investment into a bad deal by paying too much. What you can't do is turn any investment into a good
+deal by paying little."* **This file reopens only on filed evidence that [E3-03] criterion 2 has
+changed**, and the resolving documents are named:
+1. **A 10-K Item 1A that no longer says *"relatively low barriers to entry"* and no longer carries
+   the *Declines in Selling Prices* bullet**, replaced by a statement of realised pricing power; and
+2. **an MD&A that attributes a margin gain to price rather than to facility consolidations, mix and
+   exchange rates** - **[E4-37]**'s agony metric read forward; and
+3. **a competitor row in which Bel's operating margin clears Amphenol's five-year minimum of 19.4%
+   through a supply-ample year**, which is the test the last seventeen years failed.
+Two consecutive 10-Ks meeting all three would be a new question, not a re-run of this one.
+
+---
+## SELF-AUDIT
+- [x] Questions answered in order; no verdict skipped. Q1 IN, Q2 **OUT**, file closed. Q3 and Q4 are
+      recorded **below an explicit gate banner** and are labelled as not clearances; Q5 and Q6 are
+      not opened.
+- [x] **No question marked IN carries an "unverified" or "provisional" caveat.** Q1's IN rests on
+      Item 1, Item 7 and the filed statements of the FY2025 10-K. The competitor row's one disclosed
+      gap (Asian magnetics filers) is stated but does **not** hold the moat class PROVISIONAL,
+      because the Q2 verdict rests on the subject's own filed statements about its own pricing.
+- [x] Every UNRESEARCHED verdict names the artifact and where it lives - **none used.**
+- [x] Every UNKNOWABLE verdict states what specifically cannot be known - **none used.**
+- [x] Step 0: the filing was read, with accession number; **two** figures were cross-checked by hand
+      (FY2025 OCF $80,612 thousand; FY2021 accounts payable $23,961 against OCF $4,632). A third
+      cross-check was made on a **peer** (Amphenol's filed MD&A, 25.4% and 20.7%).
+- [x] Owner earnings on a multi-year mean; **six windows** stated (3, 5, 7, 10, 15 and 17 years);
+      capex band disclosed as a judgment, with the reason the corpus default runs backwards here.
+- [x] Competitor row filled - eleven peers, one construction, exclusions named.
+- [x] Sovereign is for the earnings currency (USD), from the issuing authority (US Treasury), dated
+      2026-09-18.
+- [x] Value stated as a round-number range, not a point estimate - **n/a, no value was computed**,
+      because Q5 did not open.
+- [x] One bar chosen, not both; windage count stated - **n/a, neither bar was used.** Windage count:
+      **zero**. No margin of safety was applied anywhere, because no valuation was performed.
+- [x] Prices dated; aggregator used for live quotes only and flagged - BELFB $241.97 and BELFA
+      $198.83, both 2026-09-18 closes, both flagged as aggregator.
+- [x] Run committed to git - three commits: the template claim, Q1 plus Q2, and this tail.
+- [x] **Operator rule 3 checked:** the only arithmetic below the gate is headed **COMPUTATION - NOT
+      A CLEARANCE** and carries no entry language.
+- [x] **Operator rule 8 checked:** every judgment above is justified by ledger id.
+- [x] **Operator rule 9 checked:** the favourite hypothesis in this file was the five-year margin
+      trend, and it was hunted hardest **[E4-26]** - the disconfirming case is set out as four
+      numbered points inside Q2 rather than in a footnote.
+
+## REGISTER
+- Verdict: [ ] IN [x] **OUT (about the business)** [ ] UNRESEARCHED [ ] UNKNOWABLE
+- **One line: BELFB fails Q2 at [E3-03] criterion 2 on its own Item 1A - *"relatively low barriers
+  to entry"* and *"customers put pressure on suppliers to lower prices even when production costs
+  are increasing"* - and seventeen years of its own operating margin (thirteen below 6%, two
+  negative, nothing above 5.8% before 2022) show that position never set the economics; the cycle
+  did.**
+- The hand-struck cap is **$3,402.7M**, **6.29x the screen's $541M**, and the defect was the share
+  count, not the price.

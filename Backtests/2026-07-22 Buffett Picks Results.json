@@ -1,0 +1,86 @@
+[
+  {
+    "ticker": "KO",
+    "label": "Coca-Cola",
+    "entry": "1989-01-01",
+    "exit": "2026-07-22",
+    "years": 37.6,
+    "cagr": 0.11946908990568383,
+    "mult": 69.26603693296903,
+    "brk_cagr_match": 0.1425809350198486,
+    "spy_cagr_match": 0.10780670502922751,
+    "note": "position built 1988-89 [1989 Letter table]; still held"
+  },
+  {
+    "ticker": "AXP",
+    "label": "American Express",
+    "entry": "1998-01-01",
+    "exit": "2026-07-22",
+    "years": 28.6,
+    "cagr": 0.11208223952098861,
+    "mult": 20.76582366653552,
+    "brk_cagr_match": 0.0984703035926826,
+    "spy_cagr_match": 0.09237238997073605,
+    "note": "'last changed our position...in 1998' [2003 Letter]; still held"
+  },
+  {
+    "ticker": "WFC",
+    "label": "Wells Fargo",
+    "entry": "1990-01-01",
+    "exit": "2022-03-01",
+    "years": 32.2,
+    "cagr": 0.1258904159377494,
+    "mult": 45.31001908956641,
+    "brk_cagr_match": 0.1416985752957436,
+    "spy_cagr_match": 0.10342830302338313,
+    "note": "1990 initial buy (public record); exited ~2022 (public record)"
+  },
+  {
+    "ticker": "MCO",
+    "label": "Moody's",
+    "entry": "2000-01-01",
+    "exit": "2026-07-22",
+    "years": 26.6,
+    "cagr": 0.1714861522924298,
+    "mult": 66.87673156655508,
+    "brk_cagr_match": 0.10552413575131459,
+    "spy_cagr_match": 0.08428333671445976,
+    "note": "'Moody's in 2000' [2003 Letter]; still held (trimmed)"
+  },
+  {
+    "ticker": "IBM",
+    "label": "IBM",
+    "entry": "2011-03-01",
+    "exit": "2018-01-01",
+    "years": 6.8,
+    "cagr": 0.027293499405643074,
+    "mult": 1.2022110841461684,
+    "brk_cagr_match": 0.14869736321159066,
+    "spy_cagr_match": 0.13946658874176165,
+    "note": "'late to the IBM party' [2011 Letter]; fully exited ~2018 (public record)"
+  },
+  {
+    "ticker": "AAPL",
+    "label": "Apple",
+    "entry": "2016-06-01",
+    "exit": "2026-07-22",
+    "years": 10.1,
+    "cagr": 0.3052880372122746,
+    "mult": 14.895713420952283,
+    "brk_cagr_match": 0.12786313808134486,
+    "spy_cagr_match": 0.15211894114552393,
+    "note": "'we began buying Apple stock' 2016 [2020 Letter]; still largely held (trimmed 2024)"
+  },
+  {
+    "ticker": "BAC",
+    "label": "Bank of America",
+    "entry": "2011-08-01",
+    "exit": "2026-07-22",
+    "years": 15.0,
+    "cagr": 0.1646839921660712,
+    "mult": 9.802892362123465,
+    "brk_cagr_match": 0.13539264289726494,
+    "spy_cagr_match": 0.14886606959830218,
+    "note": "2011 preferred/warrant deal, converted to common 2017 (public record); still largely held (trimmed 2024)"
+  }
+]

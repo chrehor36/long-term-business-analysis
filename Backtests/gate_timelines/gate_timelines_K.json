@@ -1,0 +1,279 @@
+{
+  "URBN": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Specialty apparel/home retailer operating three owned brands (Urban Outfitters, Anthropologie Group, Free People) plus a wholesale segment and, from 2019, the Nuuly rental service. Unit economics are fully legible to a generalist: buy or design merchandise, mark it up, sell through stores and direct-to-consumer; profit turns on markdown rate, delivery cost and store-occupancy leverage."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Own-design vertical brands with real customer affinity and a debt-free balance sheet; peak economics reported for FY2014 (year ended 2014-01-31, reported March 2014): revenue $3.09B, net income ~$282M (~9% net margin), no borrowings. The advantage is brand/merchandising taste, not structural cost or switching cost - i.e. it can be lost by missing a fashion cycle, which is exactly what followed."
+      },
+      {
+        "from": 2017,
+        "class": "NONE",
+        "note": "Four consecutive years of margin erosion were on the tape by the anchor. Net income fell from ~$282M (FY2014) to ~$232M (FY2015) to ~$224M (FY2016) to ~$158M (FY2017, reported March 2017). Q1 FY2018, reported 2017-05-22: total net sales $761M (flat), comparable Retail segment sales -3.1% (Urban -3.1%, Anthropologie Group -4.4%, Free People +1.5%), gross profit rate -284bp on higher markdowns, net income $12M / $0.10 per diluted share versus roughly $52M / $0.44 a year earlier. Results driven by markdowns demonstrate an absence of pricing power. Erosion continued after the 2017 anchor: FY2018 (reported March 2018) net income ~$104M, a ~2.9% net margin, and gross profit rate -291bp for the nine months to 2017-10-31."
+      },
+      {
+        "from": 2019,
+        "class": "NARROW",
+        "note": "Merchandising recovered: FY2019 (year ended 2019-01-31, reported 2019-03-05) revenue +10% to $3.98B with retail comps up high single digits and net income ~$298M - the brands regained traction, confirming the earlier decline was a fashion cycle, not terminal. But it did not persist: FY2020 (reported 2020-03-03) revenue was flat at ~$3.98B with comps ~+1% and net income back down to ~$168M. The occupancy-heavy operating leverage was then exposed by COVID - Q1 FY2021 (quarter ended 2020-04-30, reported 2020-05-19, i.e. before the 2020 anchor): net sales -31.9% to $588M, comparable Retail segment sales -28% (Free People -19%, Urban -24%, Anthropologie Group -33%), wholesale -74%, gross profit rate 2.0% versus 31.1%, preliminary net loss $138M / $(1.41) per share."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2012-02",
+        "severity": "MINOR",
+        "note": "Navajo Nation sued Urban Outfitters and subsidiaries in D.N.M. (filed February 2012, after an October 2011 cease-and-desist) alleging trademark infringement and violations of the federal Indian Arts and Crafts Act for selling 'Navajo'/'Navaho' branded goods. Two counts were dismissed in May 2016; the parties settled at a settlement conference on 2016-09-29 (publicly reported November 2016) on undisclosed terms, together with a supply and license agreement to collaborate on authentic American Indian jewelry. Private IP/labeling dispute, no regulator involved, no admission."
+      },
+      {
+        "date": "2015-04",
+        "severity": "MINOR",
+        "note": "Ordinary-course wage-and-hour class actions. California suits alleged uncompensated off-the-clock bag checks and 'on-call' shift scheduling (Charles v. Urban Outfitters - employees required to call two hours before a scheduled shift to learn whether they would work). The New York Attorney General wrote to major retailers about on-call scheduling in April 2015; URBN ended the practice. Routine retail employment litigation, no regulatory finding of dishonesty."
+      },
+      {
+        "date": "2020-06",
+        "severity": "MINOR",
+        "note": "Le Tote Inc. sued URBN in June 2020 (E.D. Pa.) alleging misappropriation of trade secrets under the federal Defend Trade Secrets Act and the Pennsylvania UTSA plus breach of contract, in connection with the launch of URBN's Nuuly rental business. URBN ultimately won a favorable verdict (2023). Post-anchor for the 2020 date (filed after 2020-06-30 in most reports; ordinary-course commercial dispute either way)."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "AMGN": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "At the 2013 anchor Amgen's earnings came from a small set of long-marketed biologics a generalist can name and price - Neulasta/Neupogen, Enbrel, Epogen/Aranesp, Prolia/Xgeva - with legible unit economics (~85% gross margin, R&D ~20% of sales, patent/biologic exclusivity as the pricing shield). The pipeline is genuinely unassessable by an outsider, but in 2013 the pipeline was upside, not the thesis: the marketed base carried essentially all of the $17.3B of 2012 revenue."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "FY2012 results (reported January 2013): revenue $17.27B, net income ~$4.35B, ~25% net margin. Durability sources visible at the anchor: Enbrel protected by the '182 patent issued 2011-11-22 running to 2028; Neulasta a ~$4B franchise with no competitor and no US biosimilar approved in any category as of mid-2013 (the first, Sandoz's Zarxio, was not approved until 2015-03-06); large-scale mammalian-cell manufacturing and FDA process validation are genuine entry barriers. Visible counterweight already in the reported numbers by 2013: Epogen/Aranesp had been in decline since the FDA black-box warnings of March 2007 and the January 2011 CMS ESRD bundled-payment rule."
+      },
+      {
+        "from": 2019,
+        "class": "NARROW",
+        "note": "Biosimilars finally reached Amgen's own franchises. The first Neulasta biosimilar (Mylan/Biocon's Fulphila) was FDA-approved 2018-06-04 and launched July 2018; a second (Coherus' Udenyca) was approved Q4 2018 and launched January 2019. Neulasta sales fell from roughly $4.5B (2018) to ~$2.9B (2019) to ~$2.0B (2020, -29% y/y), visible in the FY2018 report (January 2019) and FY2019 report (2020-02-04). Enbrel held off US biosimilar launches but ground lower on rebate pressure. Amgen offset this by becoming a biosimilar seller itself, which is a lower-margin, competitive business - the moat narrowed from structural to portfolio-and-scale."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2007-05",
+        "severity": "SERIOUS",
+        "note": "Securities fraud class action (lead plaintiff Connecticut Retirement Plans and Trust Funds) alleging Amgen and former executives made misleading statements and omissions about the safety and marketing of Aranesp and Epogen; class period 2004-04-22 to 2007-05-10. Pending and public well before the 2013 anchor. The Supreme Court held on 2013-02-27 that proof of materiality is not a prerequisite to class certification, allowing the case to proceed. Amgen settled for $95M a month before trial, expressly without admitting liability or wrongdoing (2016)."
+      },
+      {
+        "date": "2012-12",
+        "severity": "DISQUALIFYING",
+        "note": "On 2012-12-18/19 Amgen pleaded GUILTY before the U.S. District Court for the Eastern District of New York to a criminal information charging it with introducing a misbranded drug, Aranesp, into interstate commerce, and paid $762M total: a $136M criminal fine, $14M forfeiture and $612M civil False Claims Act settlement. DOJ's position was that Amgen sold Aranesp intending it be used at off-label doses the FDA had specifically considered and REJECTED, and for an indication the FDA never approved; the civil allegations also covered kickbacks to healthcare providers. Amgen entered a five-year Corporate Integrity Agreement with HHS-OIG. This is an admitted criminal deception of prescribers and the FDA, public roughly six months before the 2013-06-30 anchor."
+      },
+      {
+        "date": "2021-08",
+        "severity": "SERIOUS",
+        "note": "Post-anchor. Amgen disclosed in its Q2 2021 filing that the IRS had issued notices of deficiency seeking roughly $3.6B of additional tax for 2010-2012 and a further ~$5.1B plus penalties for 2013-2015, over transfer pricing on its Puerto Rico manufacturing operations - approximately $10.7B in dispute. A securities class action followed in 2022 alleging Amgen concealed the exposure. A tax controversy, not an established finding of dishonesty; no admission, and litigation in the U.S. Tax Court continued."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "BAC": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "A deposit-funded lender plus wealth management and capital markets: gather roughly $1.4T of low-cost consumer and commercial deposits (FY2019 10-K), lend and invest at a spread, and earn fees at Merrill/GWIM and in the global markets business. The revenue model is explainable in a paragraph. The honest caveat: a $2.4T balance sheet with a large derivatives book cannot be independently verified by an outsider, so a generalist can explain how the bank makes money without being able to audit what it is carrying."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NONE",
+        "note": "Through 2008-2014 BAC's reported results showed no durable advantage of any kind: it lost $2.2B in 2010, earned only $1.4B in 2011, $4.2B in 2012 and $4.8B in 2014 on a very large equity base, with acquired and own crisis-era liabilities consuming most pre-provision earnings. The quarterly dividend was held at $0.01 from 2009 into 2014; the Federal Reserve rejected BAC's 2011 capital-return request (March 2011); and BAC had to withdraw and resubmit its 2014 capital plan after disclosing a multi-year regulatory-capital reporting error on 2014-04-28."
+      },
+      {
+        "from": 2017,
+        "class": "NARROW",
+        "note": "A real, if commoditized, funding advantage became visible in reported results once litigation ran off. By the FY2016 report (2017-01-13) BAC held roughly $1.26T of deposits at a near-zero blended cost, the #1 or #2 US retail deposit share (~10-11% of US deposits), and had cut the efficiency ratio into the mid-60s from the high-70s in 2014. FY2018 (reported 2019-01-16) delivered ROTCE of ~15.5%; FY2019 (reported 2020-01-15) net income $27.4B ($2.75/share), ROTCE 14.9%, deposits above $1.4T, and a record $34B returned to shareholders. Scale plus the deposit franchise is genuine but it is not WIDE: banking is a leveraged, regulated, price-taking business with no product differentiation, and the same scale produced catastrophic outcomes a decade earlier."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2010-02",
+        "severity": "SERIOUS",
+        "note": "BAC'S OWN CONDUCT (prior management). The SEC charged BAC over its proxy disclosures for the Merrill Lynch acquisition - failing to disclose the bonuses Merrill would pay and Merrill's mounting Q4 2008 losses. Judge Rakoff rejected the original $33M deal as a 'contrivance' and approved a $150M settlement on 2010-02-22. The New York Attorney General separately sued BAC, then-CEO Ken Lewis and CFO Joe Price in February 2010; that case settled 2014-03 for $15M from BAC, $10M from Lewis and a three-year officer-and-director bar for Lewis. Deception of BAC's own shareholders, but settled without admission and under management (Lewis) that left in December 2009 - Moynihan became CEO 2010-01-01."
+      },
+      {
+        "date": "2012-02",
+        "severity": "DISQUALIFYING",
+        "note": "BAC'S OWN SERVICING CONDUCT on an acquired platform. OCC and Federal Reserve consent orders of 2011-04-13 covered deficient mortgage servicing and foreclosure processing, including foreclosure affidavits sworn without personal knowledge of the underlying facts ('robosigning'). On 2012-02-09 BAC took the largest share - roughly $11.8B - of the $25B National Mortgage Settlement with DOJ, HUD and 49 state AGs. The affidavit practice was systematic deception of courts and borrowers occurring in 2009-2011, i.e. after the Countrywide acquisition and under BAC's own management of the servicing business, though the platform itself was inherited. Caveat: the NMS carried no admission of liability."
+      },
+      {
+        "date": "2014-04",
+        "severity": "DISQUALIFYING",
+        "note": "BAC'S OWN CONDUCT, current management. On 2014-04-09 the CFPB ordered Bank of America, N.A. and FIA Card Services to provide about $727M of relief to roughly 1.4M consumers for deceptively marketing credit card add-on products ('Credit Protection Plus' and 'Credit Protection Deluxe'), and for illegally charging approximately 1.9M accounts for credit monitoring and credit reporting services the customers never actually received. BAC also paid a $20M civil money penalty to the CFPB (plus $25M to the OCC). Consent order; deception of retail customers in the ordinary course of the card business."
+      },
+      {
+        "date": "2014-04",
+        "severity": "SERIOUS",
+        "note": "BAC'S OWN CONTROL FAILURE. On 2014-04-28 BAC disclosed it had overstated its regulatory capital by roughly $4B for several years due to an error in accounting for structured notes assumed in the Merrill acquisition. It suspended the buyback and dividend increase it had announced weeks earlier following the 2014 CCAR, and resubmitted its capital plan. Self-disclosed and corrected; no enforcement action followed, but a multi-year misstatement of regulatory capital is not ordinary-course."
+      },
+      {
+        "date": "2014-08",
+        "severity": "SERIOUS",
+        "note": "LARGELY INHERITED - DISCONTINUITY FLAG. On 2014-08-21 BAC agreed to pay $16.65B ($9.65B cash penalty including a record $5B FIRREA penalty, plus $7B of consumer relief) to resolve federal and state RMBS claims. DOJ's statement of facts covered Bank of America, Countrywide Financial and Merrill Lynch. The overwhelming bulk of the misrepresented securitizations were originated and sold in 2004-2008 by Countrywide (acquired 2008-07) and Merrill Lynch (acquired 2009-01) under those firms' own pre-acquisition management; BAC's own securitization desk was also included. Graded SERIOUS per the acquired-entity rule, with the caveat that BAC voluntarily bought both franchises and their liabilities."
+      },
+      {
+        "date": "2015-05",
+        "severity": "SERIOUS",
+        "note": "Competition/market-conduct, no deception finding. On 2015-05-20 the Federal Reserve fined BAC $205M for unsafe and unsound practices in its FX trading business (deficient controls over traders' use of electronic chatrooms). Notably, BAC was NOT among the banks criminally charged that day - Citigroup, JPMorgan, Barclays and RBS pleaded guilty to FX antitrust conspiracy, and UBS to a LIBOR-related charge; BAC pleaded to nothing. BAC separately paid $187.5M to settle the private FX antitrust class action (2015). Pure competition-law/controls matter with no admitted customer deception."
+      },
+      {
+        "date": "2018-03",
+        "severity": "DISQUALIFYING",
+        "note": "ACQUIRED ENTITY, BUT THE CONDUCT CONTINUED UNDER BAC OWNERSHIP. On 2018-03-23 the New York Attorney General announced a then-record $42M settlement with Bank of America Merrill Lynch over a fraudulent 'masking' scheme: beginning in 2008 and continuing through 2013, BofAML routed client equity orders to outside electronic liquidity providers (Citadel, Two Sigma, Knight and others) and reprogrammed its systems to doctor the execution confirmations sent back to clients so they would not see it - over 16 million client orders representing more than 4 billion shares. BofAML acknowledged the conduct. Merrill was acquired 2009-01, so most of the masked orders were routed while the firm was owned and run by BAC. Systematic deception of institutional customers."
+      },
+      {
+        "date": "2019-03",
+        "severity": "MINOR",
+        "note": "On 2019-03-22 the SEC announced Merrill Lynch, Pierce, Fenner & Smith would pay over $8M to settle charges of improperly handling 'pre-released' American Depositary Receipts - it borrowed pre-released ADRs from brokers it should have known did not hold the underlying foreign shares. Part of an industry-wide SEC sweep touching most large prime brokers; settled without admission or denial."
+      },
+      {
+        "date": "2022-07",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR. Arising from BAC's administration of state unemployment-benefit prepaid debit cards during the pandemic - most visibly the California EDD program, where BAC froze roughly 350,000 accounts and was widely reported from October 2020 onward to have failed legitimate claimants. On 2022-07-14 the CFPB and OCC ordered BAC to pay about $100M in restitution plus $125M in penalties ($100M CFPB, $25M OCC) for an inadequate fraud-screening and error-resolution process. Conduct and public knowledge both post-date the 2020-06-30 anchor."
+      },
+      {
+        "date": "2023-07",
+        "severity": "DISQUALIFYING",
+        "note": "POST-ANCHOR. On 2023-07-11 the CFPB and OCC ordered BAC to pay roughly $250M ($100M restitution, $150M in penalties) for repeatedly charging multiple $35 insufficient-funds fees on the same re-presented transaction, withholding promised credit card cash and points bonuses, and enrolling customers in credit card accounts WITHOUT their authorization - using or obtaining consumer credit reports to open accounts customers never asked for. Unauthorized account opening is deception of customers in the same family as the Wells Fargo matter. Entirely post-anchor."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "BIG": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Closeout and discount retailer: buys manufacturers' overstock and closeout merchandise plus a growing base of manufactured-for-Big-Lots goods, and sells it through roughly 1,400 US stores. Unit economics are completely transparent - gross margin around 39-40%, with store occupancy, distribution and store labor the dominant costs."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NONE",
+        "note": "Closeout retail carries no durable competitive advantage: no scale cost advantage against Walmart, Dollar General or Amazon; no brand pricing power (the customer comes for a price, not for Big Lots); and the closeout merchandise supply is opportunistic and shrinks whenever suppliers manage inventory well. Dated evidence available at the 2018 anchor: Big Lots entered Canada in July 2011 (Liquidation World) and exited entirely - announced with Q3 2013 results in December 2013, all 78 locations closed by February 2014, at a realized loss of about $0.47 per share. FY2017 (reported March 2018) revenue was $5.27B versus $5.20B in FY2016, a ~1.3% increase that included an extra 53rd week and came against a lower store count - i.e. flat to slightly down on a comparable basis. FY2017 income of $189.8M / $4.38 per diluted share versus $152.8M / $3.32 in FY2016 was driven substantially by buybacks shrinking the share count (from roughly 58M to 43M over four years) rather than by growth, and the stock fell on the March 2018 Q4 print because comps disappointed."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2012-07",
+        "severity": "SERIOUS",
+        "note": "Securities class action and consolidated shareholder derivative actions (S.D. Ohio; derivative cases consolidated by order of 2012-08-10) alleging that CEO Steven Fishman and other officers and directors sold shares while in possession of undisclosed knowledge that results were deteriorating. Fishman sold 227,500 shares at about $45 for roughly $10.3M on 2012-03-20; on 2012-04-23 the company told investors sales had slowed and the stock fell 24% the next day to $34.71. The SEC and FBI both opened inquiries; the SEC closed its investigation WITHOUT bringing an enforcement action against the company (reported 2013). Big Lots agreed in May 2018 - before the anchor - to pay $38M to settle the securities class action, with insurers funding part of it and no admission of wrongdoing; the related derivative settlement (including a $3.5M insurance payment) was set for a settlement hearing on 2018-07-26 in Columbus. Graded SERIOUS: material settlement without admission, and the regulator declined to charge."
+      }
+    ],
+    "gate5_broken_by": "2023-03"
+  },
+  "BIIB": {
+    "gate1": {
+      "verdict": "FAIL",
+      "note": "The accounting is simple - FY2018 (reported January 2019) revenue $13.45B, net income ~$4.43B, ~87% gross margin - but by the 2019 anchor a generalist could not assess the business, only describe it. Two unknowable binary events dominated the value: the fate of aducanumab in Alzheimer's disease, and whether the Tecfidera '514 patent would survive, with Tecfidera alone at $4.27B (about 32% of 2018 revenue). Explainable unit economics, unassessable durability, and no way for an outsider to handicap either question."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Leadership in multiple sclerosis with high returns but patent-term, not structural, protection. FY2018 (reported January 2019): Tecfidera $4.27B, Avonex plus Plegridy ~$2.73B, Tysabri ~$1.86B, Spinraza (FDA-approved 2016-12-23, orphan exclusivity) $1.72B; ~33% net margin. Erosion was already visible before the anchor: Avonex had been declining for years as oral MS therapies took share, and Mylan filed IPR2018-01403 in 2018 challenging the Tecfidera '514 patent as obvious, with parallel ANDA litigation in N.D. W.Va. PIPELINE EVENTS STRADDLING THE ANCHOR: on 2019-03-21 - BEFORE the 2019-06-30 anchor - Biogen and Eisai discontinued the Phase 3 EMERGE and ENGAGE aducanumab trials after a pre-specified futility analysis based on a 2018-12-26 data cut of 1,748 patients predicted both would miss their primary endpoint; the stock fell roughly 29% that day. The reversal came on 2019-10-22 - AFTER the anchor - when Biogen announced that a larger dataset including patients who completed 18 months between the December cut and the March halt showed EMERGE had met its primary endpoint, and that it would file for approval. At the 2019-06-30 anchor, only the failure was known."
+      },
+      {
+        "from": 2021,
+        "class": "NONE",
+        "note": "The patent moat broke. The PTAB upheld the Tecfidera '514 patent against Mylan's obviousness challenge on 2020-02-05, but on 2020-06-18 the U.S. District Court for the Northern District of West Virginia (Judge Irene Keeley) invalidated 13 claims for failure to meet the written-description requirement of Section 112 - affirmed by the Federal Circuit on 2021-11-30, with certiorari denied in 2022. Generics launched in August 2020. US Tecfidera revenue collapsed from about $3.1B (2019) to roughly $1.5B (2020) to under $0.5B (2021), visible in the FY2020 report (February 2021) and FY2021 report (February 2022). Total revenue fell from $14.38B (2019) to $10.98B (2021). Aduhelm, approved 2021-06-07, generated approximately $3M of sales in all of 2021 and did not replace anything."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2015-07",
+        "severity": "SERIOUS",
+        "note": "The qui tam United States ex rel. Bawduniak v. Biogen (D. Mass.), filed under seal in 2012, was UNSEALED on 2015-07-01 after the United States declined to intervene - so the allegations were public four years before the 2019 anchor. The relator, a former Biogen employee, alleged Biogen paid millions in speaker honoraria, speaker-training fees, consulting fees and meals to physicians between 2009 and 2014 to induce prescriptions of Avonex, Tysabri and Tecfidera, in violation of the Anti-Kickback Statute and False Claims Act. Allegation only as of the anchor; DOJ had affirmatively declined to join."
+      },
+      {
+        "date": "2020-12",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR. On 2020-12-17 Biogen agreed to pay $22M to resolve DOJ False Claims Act allegations that from 2011 to 2013 it used two 501(c)(3) charities - the Chronic Disease Fund and The Assistance Fund - as conduits to pay the Medicare copays of patients on Avonex and Tysabri, working through Advanced Care Scripts to route patients to the foundations and making contemporaneous donations that funded their copays. Settled with no admission; Biogen publicly maintained its conduct had been appropriate. A whistleblower received nearly $4M."
+      },
+      {
+        "date": "2022-07",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR. On 2022-07-20 Biogen agreed to pay $900M to resolve the Bawduniak kickback case - the largest recovery in the 150-year history of the False Claims Act obtained without the United States intervening. The relator received $266M, the largest whistleblower award on record. Settled without any admission of liability."
+      },
+      {
+        "date": "2022-12",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR. The FDA granted Aduhelm accelerated approval on 2021-06-07 over its own advisory committee's near-unanimous negative vote (10-0 against with 1 uncertain), after which three committee members resigned. The FDA's acting commissioner requested an HHS Inspector General investigation on 2021-07-09. A joint House Committee on Oversight and Reform / Energy and Commerce investigation reported on 2022-12-29 that the FDA-Biogen interactions had been 'atypical' and the approval process 'rife with irregularities,' including an off-the-books jointly prepared briefing document, and criticized Biogen's $56,000 annual launch price. No enforcement action against Biogen; findings concern improper closeness to the regulator rather than proven fraud. CMS restricted coverage to clinical trial participants in its final national coverage determination of April 2022 (draft 2022-01-11), and Biogen discontinued Aduhelm in January 2024."
+      }
+    ],
+    "gate5_broken_by": "2022-02"
+  },
+  "BNY": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Custody and asset-servicing bank: it safekeeps and administers securities for institutions - $37.1 trillion of assets under custody and/or administration at 2019-12-31 - charging basis-point fees on assets serviced, earning net interest revenue on the client cash that sits with it, plus issuer services, clearing and custody for advisors through Pershing, and $1.9 trillion of asset management. Fee-on-assets plus float; a generalist can explain every revenue line."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Global custody is a four-firm oligopoly (BNY Mellon, State Street, JPMorgan, Citi) with punishing switching costs - moving a fund complex's custodian means re-plumbing daily NAV production, accounting, and regulatory reporting - and BNY Mellon is the largest participant. FY2019 (reported 2020-01-16): $37.1T AUC/A, $1.9T AUM, net income applicable to common shareholders of about $4.3B or $4.51 per diluted share, on roughly $21B of tangible common equity. The honest counter-evidence, also on the record before the anchor: the moat converts poorly into growth. Total revenue was roughly $15.2B (2016), $15.5B (2017), $16.4B (2018) and $16.5B (2019) - essentially flat across the decade, as per-basis-point fee compression offset asset growth, and earnings swing with short-term rates rather than with any pricing decision management makes. A wide moat that protects a static earnings stream."
+      },
+      {
+        "from": 2021,
+        "class": "NARROW",
+        "note": "POST-ANCHOR. The rate dependency the flat revenue line had hinted at became the whole story when the Fed cut to zero in March 2020: BNY was forced into money-market fee waivers and net interest revenue fell from about $3.35B (2019) toward $2.6B in 2020-2021. FY2021 (reported January 2022): revenue $15.93B and net income ~$3.55B, both BELOW 2019's $16.5B and $4.4B despite two more years of market appreciation. Structural switching costs intact; economic advantage demonstrably not translating into owner earnings growth."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2011-10",
+        "severity": "SERIOUS",
+        "note": "On 2011-10-04 the U.S. Attorney for the Southern District of New York and the New York Attorney General sued BNY Mellon alleging a decade-long fraud in its 'standing instruction' foreign exchange service for custody clients; Virginia and Florida qui tams, a Department of Labor investigation, an SEC investigation and multiple customer class actions followed. Allegation stage - the settlement and admissions came in 2015."
+      },
+      {
+        "date": "2015-03",
+        "severity": "DISQUALIFYING",
+        "note": "On 2015-03-19 BNY Mellon agreed to pay $714M to globally resolve the United States' and New York State's lawsuits, the customer class actions, and the SEC and Department of Labor matters over its standing-instruction FX product provided to custody clients before early 2012. BNY Mellon ADMITTED the underlying facts: it promised custody clients the best interbank market rate of the day on their FX transactions and instead systematically gave them the day's worst or near-worst rate, without disclosing the pricing method. This is admitted, systematic, decade-long deception of the bank's own custody customers - the single most important entry in BNY's record and public more than four years before the 2019 anchor."
+      },
+      {
+        "date": "2015-08",
+        "severity": "DISQUALIFYING",
+        "note": "On 2015-08-18 the SEC announced that BNY Mellon would pay $14.8M ($8.3M disgorgement, $1.5M prejudgment interest, $5M civil penalty) for violating the anti-bribery and internal-controls provisions of the Foreign Corrupt Practices Act. BNY Mellon provided valuable internships to family members of officials of a Middle Eastern sovereign wealth fund, bypassing the GPA and multi-interview standards of its own competitive internship program, because employees viewed the internships as important to retaining the fund's business; the officials made repeated follow-up requests about the placements. This was the SEC's first FCPA enforcement action built on internships rather than cash payments. Settled without admitting or denying. Bribery/FCPA is explicitly disqualifying conduct; note it settled without admission."
+      },
+      {
+        "date": "2016-03",
+        "severity": "MINOR",
+        "note": "Operational failure, not dishonesty. A corrupted SunGard InvestOne operating-system upgrade crashed on 2015-08-24, and the backup instance corrupted concurrently, leaving BNY Mellon unable to strike net asset values for roughly 1,200 fund structures across 66 fund-accounting clients for several days. BNY Mellon settled the Massachusetts Securities Division's investigation for $3M in March 2016 for failing to oversee its third-party vendor and lacking a workable contingency plan; it reprocessed shareholder transactions at system-generated NAVs on request and waived reprocessing fees. Vendor-management and controls failure."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "BWA": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Tier-one automotive supplier: designs and manufactures turbochargers, emissions and thermal-management systems, and transmission components (dual-clutch modules, torque-transfer systems) that are engineered into specific OEM vehicle programs years before launch and then supplied for the life of the program. Unit economics are legible - content per vehicle multiplied by program volumes, less contractual annual price-downs to the customer."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Real but bounded. The advantage is engineered-in content: once BorgWarner wins a program, switching mid-cycle is prohibitively expensive for the OEM, and the company was the leading independent turbocharger supplier as European diesel penetration peaked. The ceiling is the customer. Per the FY2015 10-K (filed February 2016, the latest available at the 2016-06-30 anchor) and confirmed in the FY2016 10-K, three customers were each 10% or more of net sales - Volkswagen Group about 14%, Ford about 11%, Toyota about 11% - and OEMs extract annual price concessions as a matter of contract. The business is also cyclical and program-dependent: net sales fell from $8.31B (2014) to $8.02B (2015) even with the Remy International acquisition (closed 2015-11-10) contributing, before the FY2016 print reached $9.07B largely on that acquisition. A further structural overhang was already public at the anchor: the VW diesel emissions scandal broke on 2015-09-18 with the EPA's notice of violation against BorgWarner's largest customer, and Western European diesel share began a decline from roughly 50% (2015) toward 36% (2018), directly relevant to a diesel-weighted turbocharger mix. No BorgWarner misconduct was alleged in that matter."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2016-02",
+        "severity": "MINOR",
+        "note": "Legacy asbestos product liability. BorgWarner, as successor to Borg-Warner Corporation, has for decades been one of many defendants in asbestos personal-injury actions arising from friction products (brake and clutch materials) sold before the 1980s. Disclosed at the anchor in the FY2015 10-K and continuing: in 2016 approximately 2,800 claims were resolved, of which 352 (13%) resulted in any payment by or on behalf of the company, and BorgWarner spent $45.3M on asbestos defense and litigation that year. Ordinary-course inherited product liability with no allegation of misconduct."
+      },
+      {
+        "date": "2018-06",
+        "severity": "SERIOUS",
+        "note": "ACCOUNTING - PERIOD COVERS THE ANCHOR BUT NOTHING WAS PUBLIC UNTIL AFTER IT. BorgWarner first recorded a large charge for previously unasserted asbestos claims with its FY2016 results in early 2017 (i.e. after the 2016-06-30 anchor). On 2018-06-15 it announced it would RESTATE its consolidated financial statements for fiscal 2015 and 2016 as presented in the FY2017 10-K, having re-evaluated its accounting for the estimated value of asbestos claims not yet asserted and the associated defense costs. On 2020-08-26 the SEC issued a settled administrative order finding that from 2012 through 2016 BorgWarner materially misstated its financial statements by failing to record over $700M of liabilities for future asbestos claims - it performed no substantive quantitative analysis despite holding nearly 40 years of its own raw claims data, and relied on untested assumptions that its products were unique among asbestos defendants and that industry benchmarks did not apply. The restatement pushed $703.6M of charges back to 2012. BorgWarner paid a $950,000 penalty without admitting or denying the findings; the SEC did not charge fraud or scienter. Graded SERIOUS rather than DISQUALIFYING because the order rests on a failure to estimate rather than on intentional manipulation - but note that the anchor-date financial statements were, as a matter of SEC finding, materially wrong, and an analyst at 2016-06-30 had no way to know it."
+      }
+    ],
+    "gate5_broken_by": null
+  }
+}

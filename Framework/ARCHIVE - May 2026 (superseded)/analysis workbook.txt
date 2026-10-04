@@ -1,0 +1,995 @@
+A FRAMEWORK FOR LONG-TERM BUSINESS
+                         ANALYSIS
+
+            THE ANALYSIS WORKBOOK
+
+             Fillable Application Sheets -- One Set Per Company Under Analysis
+                 Companion to: A Framework for Long-Term Business Analysis
+                         "Take a simple idea and take it seriously." -- Charlie Munger
+
+                                 Print Sheets 1­9 fresh for every new company. Print Sheet 10 once per year.
+                               For explanations of each gate and all definitions, see the Framework document.
+
+                                                                            Page 1 of 33
+HOW TO USE THIS WORKBOOK
+
+She
+
+et   Title                                         Gate    When to print
+                                                   --      Every new company
+1    Company Overview and Gate Tracker             Gate 1  Every new company
+                                                   Gate 2  Every new company
+2    Circle of Competence                          Gate 3  Every new company
+                                                   Gate 4  Every new company
+3    Moat Identification                           Gate 5  Every new company
+                                                   Gate 6  Every new company
+4    Management Integrity                          Gate 8  Every new company
+                                                   Gate 7  Every quarter held
+5    Owner Earnings Calculation                    --      Once per year
+
+6    Inversion
+
+7    DCF Computation
+
+8    Reverse DCF
+
+9    Quarterly Monitoring Scorecard
+
+10 Position Log
+
+Rules:
+1. Complete each sheet in sequence. A FAIL at any gate -- stop. Do not complete remaining sheets for that company.
+2. All figures must come from primary sources: 10-K, 10-Q, 20-F, 6-K, earnings call transcripts.
+3. Do not use analyst estimates, adjusted metrics, or financial data aggregators.
+4. For explanations of any term, refer to the Framework document.
+
+                                     Page 2 of 33
+SHEET 1 COMPANY OVERVIEW AND GATE TRACKER
+
+Company name:                               Ticker:                                       Exchange:
+Sector:                                                                                   Fiscal year end:
+Market cap:                                 Industry:
+Currency:                                                                                 Analysis date:
+                                            Current
+                                            price:
+
+                                            Reporting
+                                            currency:
+
+Business description -- in your own words, no quoting management
+
+How does it make money at the unit economics level?
+
+Who are the customers and why do they pay?
+
+Primary competitors:
+
+My informational edge on this business:
+
+Required -- if none exists, reconsider whether this is within your circle of competence.
+
+                                            Page 3 of 33
+Gate Title                     Result                             Date
+                                PASS  FAIL -- stop
+1        Circle of Competence   PASS  FAIL -- stop
+                                PASS  FAIL -- stop
+2        Moat Identification    PASS  FAIL -- stop
+                                PASS  FAIL -- stop
+3        Management Integrity   PASS  WAIT for price
+                                ACTIVE
+4        Financial Quality      PASS -- enter  FAIL -- wait
+
+5        Inversion
+
+6        Valuation
+
+7        Position Sizing
+
+8        Reverse DCF
+
+Final decision:  ENTER POSITION  WATCHLIST -- WAIT FOR PRICE  PASS -- DOES NOT QUALIFY
+
+         Max buy price:        Conviction entry:  Position size:
+
+Reason:
+
+                               Page 4 of 33
+SHEET 2 CIRCLE OF COMPETENCE | Gate 1
+
+ Can I independently verify the moat claim without relying on management's description?
+ Gate question:  YES -- proceed to Gate 2  NO -- stop here
+ Q1. Do I understand how the business makes money at the unit economics level?
+  YES  NO
+
+ Q2. Can I identify the primary cost drivers without reading the annual report?
+  YES  NO
+
+ Q3. Do I have an informational edge -- or am I relying on publicly available narrative?
+  YES -- describe below  NO -- publicly available
+
+ Q4. For multi-segment businesses: can I evaluate each segment independently?
+  YES  NO  N/A -- single segment
+
+ Failure mode check
+
+ Check YES only if applicable -- each is a signal to reconsider.
+
+  YES -- confusing familiarity with understanding  NO
+  YES -- assuming domain expertise transfers  NO
+  YES -- thesis built on narrative rather than verifiable numbers  NO
+ Moat mechanism in my own words (write from memory -- no quoting management):
+
+                                                                                                Page 5 of 33
+GATE 1: [ PASS ] [ FAIL -- STOP ]
+
+                          Page 6 of 33
+SHEET 3 MOAT IDENTIFICATION | Gate 2
+
+ Evaluate each segment independently. Never assess a conglomerate as a single moat.
+ SEGMENT 1
+
+Segment name:
+ Moat type:  SWITCHING COST  NETWORK EFFECT  INTANGIBLE ASSET  COST ADVANTAGE  NONE
+ What prevents a well-capitalised competitor from taking share?
+
+Primary moat metric:
+
+The single number most directly tied to this moat type: NRR for switching cost, MAU for network effect, brand premium for intangible asset, gross margin
+vs competitors for cost advantage.
+
+8-quarter metric trend (pull exact values from primary source filings -- 10-Q for Q1­Q3, 10-K for Q4):
+
+Value = the exact figure from the filing. Dir = direction vs prior quarter: + improving, = flat, - deteriorating.
+
+     Di     Di                                             Di                                                      Di
+
+Quarter Value r Quarter Value r Quarter Value r Quarter Value r
+
+Q1:  ± Q2:  ± Q3:                                          ± Q4:                                                   ±
+
+Q5:  ± Q6:  ± Q7:                                          ± Q8:                                                   ±
+
+Moat direction:  WIDENING  STABLE  NARROWING
+Classification:  WIDE (20+ yrs)  NARROW (10­20 yrs)  NONE
+Single scenario that destroys this moat:
+
+ SEGMENT 2 (N/A if single segment)
+
+Segment name:
+ Moat type:  SWITCHING COST  NETWORK EFFECT  INTANGIBLE ASSET  COST ADVANTAGE  NONE
+ What prevents a well-capitalised competitor from taking share?
+
+Primary moat metric:
+
+The single number most directly tied to this moat type: NRR for switching cost, MAU for network effect, brand premium for intangible asset, gross margin
+vs competitors for cost advantage.
+
+                                                                                              Page 7 of 33
+8-quarter metric trend (pull exact values from primary source filings -- 10-Q for Q1­Q3, 10-K for Q4):
+
+Value = the exact figure from the filing. Dir = direction vs prior quarter: + improving, = flat, - deteriorating.
+
+     Di     Di                                             Di                                                      Di
+
+Quarter Value r Quarter Value r Quarter Value r Quarter Value r
+
+Q1:  ± Q2:  ± Q3:                                          ± Q4:                                                   ±
+
+Q5:  ± Q6:  ± Q7:                                          ± Q8:                                                   ±
+
+Moat direction:  WIDENING  STABLE  NARROWING
+Classification:  WIDE (20+ yrs)  NARROW (10­20 yrs)  NONE
+Single scenario that destroys this moat:
+
+ SEGMENT 3 (N/A if two or fewer segments)
+
+Segment name:
+ Moat type:  SWITCHING COST  NETWORK EFFECT  INTANGIBLE ASSET  COST ADVANTAGE  NONE
+ What prevents a well-capitalised competitor from taking share?
+
+Primary moat metric:
+
+The single number most directly tied to this moat type: NRR for switching cost, MAU for network effect, brand premium for intangible asset, gross margin
+vs competitors for cost advantage.
+
+8-quarter metric trend (pull exact values from primary source filings -- 10-Q for Q1­Q3, 10-K for Q4):
+
+Value = the exact figure from the filing. Dir = direction vs prior quarter: + improving, = flat, - deteriorating.
+
+     Di     Di                                             Di                                                      Di
+
+Quarter Value r Quarter Value r Quarter Value r Quarter Value r
+
+Q1:  ± Q2:  ± Q3:                                          ± Q4:                                                   ±
+
+Q5:  ± Q6:  ± Q7:                                          ± Q8:                                                   ±
+
+Moat direction:  WIDENING  STABLE  NARROWING
+Classification:  WIDE (20+ yrs)  NARROW (10­20 yrs)  NONE
+Single scenario that destroys this moat:
+
+            Page 8 of 33
+ OVERALL SUMMARY
+Primary moat type(s):
+ Overall:  WIDE  NARROW  NONE
+ DCF fade:  10yr + 15yr (wide)  10yr + 10yr (narrow)  5yr + 5yr (none)
+
+                                                 GATE 2: [ PASS ] [ FAIL -- STOP ]
+
+                                                                                                Page 9 of 33
+SHEET 4 MANAGEMENT INTEGRITY | Gate 3
+
+ Evaluate three dimensions in sequence. A failure on integrity disqualifies regardless of the score on the other two. Evidence from
+ primary sources only -- 10-K, 10-Q, 20-F, 6-K, earnings call transcripts.
+ How to verify: Pull the last 3 annual filings and last 8 earnings call transcripts. Read management commentary sections. Search for metrics that appear in
+ one period and disappear in the next.
+
+CEO:                                   Tenure:  CFO:                                                        Tenure:
+
+DIMENSION 1 -- INTEGRITY (binary: pass or fail)
+
+Do they disclose unflattering information voluntarily, or only when legally required?
+ YES  NO
+
+When a key metric deteriorated, did they lead with it or bury it?
+ YES  NO
+
+Any history of selective disclosure -- metric used verbally when positive, omitted from filings when negative?
+ YES  NO
+
+Any earnings restatements, SEC comment letters, or disclosure failures?
+ YES  NO
+
+Evidence source (filing name + date):
+
+Integrity verdict:  PASS  FAIL -- DISQUALIFIED -- stop
+
+DIMENSION 2 -- COMPETENCE
+
+How to verify: Compare ROIC across 5+ years. Read capital allocation discussion in annual letters. Track acquisition history and stated rationale vs
+outcomes.
+
+Capital allocation record -- returns above cost of capital over a full cycle?
+ YES  NO  INSUFFICIENT DATA
+Evidence:
+
+Distinguish maintenance from growth capital in communications to shareholders?
+ YES  NO
+Demonstrated ability to say no to acquisitions and buybacks at bad prices?
+ YES  NO  N/A
+Competence verdict:  POSITIVE  NEGATIVE
+
+                                                                                             Page 10 of 33
+DIMENSION 3 -- ALIGNMENT
+
+How to verify: Check proxy statement (DEF 14A) for ownership, compensation structure, and incentive metrics.
+
+Significant personal wealth tied to long-term equity -- shares held, not options?
+ YES  NO
+Ownership detail:
+Compensation structured around owner earnings or adjusted metrics?
+ OWNER EARNINGS  ADJUSTED METRICS  UNCLEAR
+Communicate with shareholders as partners or as a constituency to manage?
+ PARTNERS  MANAGED
+Alignment verdict:  POSITIVE  NEGATIVE
+
+                                               GATE 3: [ PASS ] [ FAIL -- STOP ]
+
+                                                                                             Page 11 of 33
+SHEET 5 OWNER EARNINGS CALCULATION | Gate 4
+
+Pull all figures from primary sources only -- 10-K, 10-Q, 20-F, 6-K. No analyst estimates. No adjusted metrics.
+
+Filing type:  10-K  20-F  6-K            Filing date:        Fiscal year:
+
+Company:                                 Currency:           Analysis
+                                                             date:
+
+STEP 1 -- NET INCOME (income statement)
+
+Net income (attributable to
+shareholders):
+
+ Less: one-time items stripped
+
+ One-time items are non-recurring charges or gains with no bearing on future earnings. Examples: asset sale gains, restructuring charges, litigation
+ settlements, impairment write-downs. List each item and justify why it is truly non-recurring.
+
+Adjusted net income:
+ STEP 2 -- D&A; AND TOTAL CAPEX (cash flow statement)
+
+Depreciation and amortization
+(D&A;):
+
+Total capital expenditures:
+
+STEP 3 -- MAINTENANCE CAPEX
+
+Maintenance CapEx is the capital required to maintain existing competitive position and unit volume -- not growth. It is not separately disclosed by most
+companies. Use the checklist below to determine the right percentage.
+
+STEP 3A -- CLASSIFY THE BUSINESS (answer every question from the filing)
+Quick ratio checks (pull from the income statement and cash flow statement):
+
+Ratio         Formula                    Your figure Signal
+
+D&A; / Revenue D&A; ÷ Revenue            %              >8% = capital-intensive <4% = asset-light
+
+CapEx /       Total CapEx ÷ Revenue      %              >8% = capital-intensive <3% = asset-light
+Revenue
+
+CapEx / D&A;  Total CapEx ÷ D&A;         x              >1.5x = growing heavy <0.8x = asset-light
+
+                                         Page 12 of 33
+Physical asset test (check Y / N for each):                   Y/N  What it means
+    Question
+
+Does the business own factories, machinery, or physical            Y = capital-intensive signal
+infrastructure?
+
+Does it own or lease a large fleet of vehicles, aircraft, or       Y = capital-intensive signal
+vessels?
+
+Does it own significant real estate (not just an office)?          Y = capital-intensive signal
+
+Is most D&A; from depreciating physical assets (not                Y = capital-intensive signal
+acquired intangibles)?
+
+Would the business stop operating if it stopped buying             Y = capital-intensive signal
+equipment for 2 years?
+
+Is the primary asset a software platform, brand, license, or       Y = asset-light signal
+customer list?
+
+Is most CapEx described as "product development" or                Y = asset-light signal
+"expansion" -- not "replacement"?
+
+Could the business outsource all its physical infrastructure       Y = asset-light signal
+without losing its moat?
+
+Count the signals. More capital-intensive signals = use 65­70%. More asset-light signals = use 20­30%. Mixed = use 50% and note your reasoning below.
+
+Management disclosure check (always check this first -- it overrides the checklist):
+
+Search the MD&A; section of the 10-K and earnings call transcripts for the words "maintenance," "sustaining," "growth capital," or "capex split." Some
+management teams disclose the split directly.
+
+Does management disclose maintenance vs growth CapEx split?  YES -- management discloses the split
+directly  NO -- use the checklist classification above
+
+If YES: record the exact quote and filing reference in the Source field below. Use that figure directly -- do not apply a percentage.
+
+CLASSIFICATION RESULT
+Business type:  CAPITAL-INTENSIVE (use 65­70%)  ASSET-LIGHT (use 20­30%)  HYBRID / MIXED (use
+50%)
+Reasoning (one sentence -- why this classification):
+
+                              Maintenance CapEx = Total CapEx × Maintenance %
+
+If management discloses the split directly, use that figure and skip the percentage calculation.
+
+                                             Page 13 of 33
+Maintenance % applied:                Maintenance CapEx:  Growth CapEx:
+
+Source (if management-disclosed):
+
+STEP 4 -- CALCULATE OWNER EARNINGS
+
+                 OE = Net Income + D&A; - Maintenance CapEx - Working Capital
+
+Working Capital = Change in net working capital required to maintain operations. Increase in working capital = cash outflow (negative). Decrease = cash
+inflow (positive). Source: cash flow statement, changes in working capital section.
+
+Adjusted net income:               $   Source / page:
+
++ D&A;:                            +$  Source / page:
+
+- Maintenance CapEx:               -$
+
+- Working Capital:                 -$  See note below
+
+= OWNER EARNINGS:                  =$
+
+Working Capital: change in net working capital from the cash flow statement. An increase in working capital is a cash outflow (subtract). A decrease is a
+cash inflow (add).
+
+STEP 5 -- SBC CHECK
+
+If SBC > 15% of OE, the reported earnings overstate what owners actually keep. Deduct it.
+
+         SBC-Adjusted OE = OE - SBC (only if SBC > 15% of OE)
+
+         SBC (from cash flow           SBC as % of OE:
+         statement):
+
+SBC adjustment required (>15%)?  YES -- Adjusted OE = OE $_____ - SBC $_____ = $_____  NO
+
+         FINAL OWNER EARNINGS BASE: $ ___________________________
+
+                                       Page 14 of 33
+STEP 6 -- HISTORICAL OE TREND (from prior annual filings)
+
+Year  Net Income  D&A; ($)  Maint CapEx                    WC ($)  OE ($)        YoY %
+      ($)                   ($)                                                  %
+                                                                                 %
+      $           $         $                              $       $             %
+                                                                                 %
+      $           $         $                              $       $             %
+                                                                                 current
+      $           $         $                              $       $
+
+      $           $         $                              $       $
+
+      $           $         $                              $       $
+
+                 OE CAGR = (End OE ÷ Start OE) ^ (1 ÷ Years) - 1
+
+                 ROIC = Owner Earnings ÷ Invested Capital
+
+5-year OE CAGR:   OE > revenue growth?  Y                     ROIC > 15%?  Y  N
+                  N
+
+                               Page 15 of 33
+STEP 7 -- BALANCE SHEET
+
+A fortress balance sheet means net cash positive. The business can survive a bad cycle without existential risk.
+
+Cash + equivalents  Short-term investments                  Net cash / (net debt)                                 As % of market
+($)                                                         ($)                                                   cap
+                    ($)                     Total debt ($)
+                                                                                                                  %
+$                   $                       $               $
+
+                        Net Cash = Cash + Short-Term Investments - Total Debt
+
+Survives 50% OE decline for 2 years?   YES  NO
+
+Why 50%? This threshold is severe enough to represent a genuine crisis -- recession, lost major customer, or industry disruption -- while still being
+survivable for a fortress balance sheet.
+
+                         GATE 4: [ PASS ] [ FAIL -- STOP ]
+
+                                            Page 16 of 33
+SHEET 6 INVERSION | Gate 5
+
+Attempt to destroy the thesis before building any DCF. This gate is not optional.
+
+STEP A -- LIST EVERY ASSUMPTION THE BULL CASE REQUIRES TO BE TRUE
+If you cannot list them, you do not have a thesis.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+ STEPS B / C / D -- INVERT, CHECK, AND SCORE
+
+ For each assumption: construct the failure scenario, check whether management has addressed it on the record (primary source only), then score.
+
+    Score:  D Direct   DS Structural   P Partial                   U Unanswered
+
+INVERSION 1: MANDATORY -- MOAT DESTRUCTION (technology shift, new entrant, regulatory change)
+Failure scenario:
+
+Management response -- primary source only (filing name + date):
+
+    Score:  D Direct   DS Structural   P Partial                   U Unanswered
+
+INVERSION 2: MANDATORY -- MANAGEMENT FAILURE (key person, succession, incentive misalignment)
+Failure scenario:
+
+                            Page 17 of 33
+Management response -- primary source only (filing name + date):
+
+Score:  D Direct   DS Structural   P Partial                                                             U Unanswered
+
+INVERSION 3: MANDATORY -- BALANCE SHEET STRESS (50% OE decline for 2 years -- survives?)
+Failure scenario:
+
+Management response -- primary source only (filing name + date):
+
+Score:  D Direct   DS Structural   P Partial                                                             U Unanswered
+
+Why 50%? Severe enough to represent a genuine multi-year crisis. A fortress balance sheet survives it.
+
+                  Page 18 of 33
+INVERSION 4: ADDITIONAL INVERSION
+Failure scenario:
+
+Management response -- primary source only (filing name + date):
+
+Score:  D Direct   DS Structural    P Partial                      U Unanswered
+
+INVERSION 5: ADDITIONAL INVERSION
+Failure scenario:
+
+Management response -- primary source only (filing name + date):
+
+Score:  D Direct   DS Structural    P Partial                      U Unanswered
+
+                                   Page 19 of 33
+MANDATORY -- THESIS-BREAKING METRIC
+
+The single number that, if it deteriorates for two consecutive quarters, means the core thesis is wrong. Examples: NRR for a SaaS switching-cost moat,
+maintenance revenue growth for a niche software business, gross margin trend for a cost-advantage moat.
+
+Metric name:
+
+Why this metric:
+
+Current value:
+
+Exit threshold (two consecutive
+quarters at or below):
+
+Next checkpoint date:
+
+                                 GATE 5: [ PASS ] [ FAIL -- STOP ]
+
+                                 Page 20 of 33
+SHEET 7 DCF COMPUTATION | Gate 6
+
+Only reach this sheet if Gates 1­5 are all passed. The DCF is the final confirmation -- not the starting point.
+A note on method: running a DCF in isolation would be a Benjamin Graham approach -- not inherently wrong, but Graham used valuation as the primary
+filter, buying cheap businesses without requiring a durable moat or exceptional management. This framework is more advanced. Five qualitative gates
+have already confirmed the business is within your circle, the moat is real, management is honest, the financials are sound, and the thesis survives
+inversion. The DCF here is not the analysis -- it is the final check that you are not overpaying for a business you already know is exceptional. That
+distinction is the Buffett/Munger synthesis of Graham: the same tool, used last instead of first.
+
+                              WACC = RF Rate + ERP + Company-Specific Premium
+
+RF Rate = 30-yr Treasury (or sovereign equivalent for non-USD)
+
+ERP = Equity Risk Premium = 5­6% | Company-Specific = 0­2%
+
+                            Standard US large-cap quality: 10.5%
+
+INPUTS                      Currency:      Analysis date:
+            Company:        Shares
+                            (diluted):     Net cash/(debt):
+            Owner Earnings  ERP:           Company-specific:
+            Base:           Moat class:    Fade structure:
+
+            RF rate:
+
+            WACC:
+
+                              OE (Year N) = Prior Year OE × (1 + Growth Rate)
+                                         Disc Factor = 1 ÷ (1 + WACC) ^ Year
+                                                     PV = OE × Disc Factor
+
+                     Terminal Value = Final Fade OE × (1 + TGR) ÷ (WACC - TGR)
+                              Terminal PV = TV ÷ (1 + WACC) ^ Final Fade Year
+
+              Enterprise Value = Sum of all PVs + Fade Period PV + Terminal PV
+                 IV per Share = (Enterprise Value + Net Cash) ÷ Diluted Shares
+
+TGR = Terminal Growth Rate. Bear: 2% | Base: 3% | Bull: 3%. TGR must always be below WACC.
+
+                            Page 21 of 33
+SCENARIO: BEAR | Terminal Growth Rate (TGR): 2%
+
+Yr Growth % OE ($)  Disc Factor PV ($)              Cumul PV ($)
+
+1%    $                                          $  $
+
+2%    $                                          $  $
+
+3%    $                                          $  $
+
+4%    $                                          $  $
+
+5%    $                                          $  $
+
+6%    $                                          $  $
+
+7%    $                                          $  $
+
+8%    $                                          $  $
+
+9%    $                                          $  $
+
+10 %  $                                          $  $
+
+Fade Period PV$:
+
+Terminal Value:$
+
+Terminal PV: $
+
+Enterprise Value$:
+
++ Net Cash: $                                    BEAR IV/Share: $
+
+                    Page 22 of 33
+SCENARIO: BASE | Terminal Growth Rate (TGR): 3%
+
+Yr Growth % OE ($)  Disc Factor PV ($)              Cumul PV ($)
+
+1%    $                                          $  $
+
+2%    $                                          $  $
+
+3%    $                                          $  $
+
+4%    $                                          $  $
+
+5%    $                                          $  $
+
+6%    $                                          $  $
+
+7%    $                                          $  $
+
+8%    $                                          $  $
+
+9%    $                                          $  $
+
+10 %  $                                          $  $
+
+Fade Period PV$:
+
+Terminal Value:$
+
+Terminal PV: $
+
+Enterprise Value$:
+
++ Net Cash: $                                    BASE IV/Share: $
+
+                    Page 23 of 33
+SCENARIO: BULL | Terminal Growth Rate (TGR): 3%
+
+Yr Growth % OE ($)  Disc Factor PV ($)              Cumul PV ($)
+
+1%    $                                          $  $
+
+2%    $                                          $  $
+
+3%    $                                          $  $
+
+4%    $                                          $  $
+
+5%    $                                          $  $
+
+6%    $                                          $  $
+
+7%    $                                          $  $
+
+8%    $                                          $  $
+
+9%    $                                          $  $
+
+10 %  $                                          $  $
+
+Fade Period PV$:
+
+Terminal Value:$
+
+Terminal PV: $
+
+Enterprise Value$:
+
++ Net Cash: $                                    BULL IV/Share: $
+
+                    Page 24 of 33
+SENSITIVITY TABLE -- Base Scenario | IV per Share (USD)
+
+TGR = Terminal Growth Rate. The rate at which owner earnings grow in perpetuity after the fade period. Must be below WACC or the formula breaks.
+Thesis must hold across the majority of this grid.
+
+WACC \ TGR 2.0%            2.5%  3.0%           3.5%                4.0%
+
+9.0%     $                 $     $              $                   $
+
+9.5%     $                 $     $              $                   $
+
+10.0%    $                 $     $              $                   $
+
+10.5% *  $                 $     $              $                   $
+
+11.0%    $                 $     $              $                   $
+
+11.5%    $                 $     $              $                   $
+
+* = your base assumptions
+
+                           MOS % = (IV - Current Price) ÷ IV
+
+         Max Buy (20% MOS) = IV × 0.80 (wide or narrow moat)
+
+                           Max Buy (30% MOS) = IV × 0.70 (no moat)
+
+                                 Page 25 of 33
+MARGIN OF SAFETY SUMMARY
+
+                IV ($)    MOS %  Max buy (20% MOS)  Max buy (30% MOS)
+                                 $                  $
+Bear            $         %      $                  $
+                                 $                  $
+Base $                    %
+
+Bull            $         %
+
+Current price:
+
+                        GATE 6: [ PASS ] [ FAIL -- WAIT FOR PRICE ]
+
+                                 Page 26 of 33
+SHEET 8 REVERSE DCF | Gate 8
+
+Run after the forward DCF in Gate 6. Confirms asymmetric payoff before committing capital.
+
+Current price:                WACC          OE base:       Analysis date:
+                              :
+
+SECTION 1 -- IMPLIED OE BASE (keep base growth rates fixed)
+
+Solve for the OE base that makes current market price = intrinsic value. Ask: what would the business need to earn today for the current price to be fair?
+
+Implied OE base:
+
+Benchmark                     Value ($)     Implied as % of benchmark Verdict
+
+Current OE                    $             100%                                            --
+
+Trough OE (worst year: ___) $               %                                               [ ABOVE / BELOW ]
+
+Peak OE (best year: ___)      $             %                                               [ ABOVE / BELOW ]
+
+Overall verdict:  BELOW TROUGH  BELOW CURRENT  AT CURRENT  ABOVE CURRENT  ABOVE PEAK
+
+SECTION 2 -- IMPLIED GROWTH RATE (keep OE base fixed)
+
+pp = percentage points. A decel profile of 1pp/yr means the growth rate decreases by 1 percentage point each year until it reaches the terminal rate. This
+models how quickly competitive advantages fade.
+
+Historical OE CAGR (5yr):        Recent full year growth:                                   Mgmt guidance:
+
+Decel Profile              Implied Yr1   vs CAGR Verdict
+                           Growth
+
+                                                        [ ACHIEVABLE ] [ STRETCHED ] [ HEROIC
+
+Slow (1pp/yr)              %             %              ]
+
+                                                        [ ACHIEVABLE ] [ STRETCHED ] [ HEROIC
+
+Moderate (1.5pp/yr)        %             %              ]
+
+                                                        [ ACHIEVABLE ] [ STRETCHED ] [ HEROIC
+
+Base (2pp/yr)              %             %              ]
+
+                                                        [ ACHIEVABLE ] [ STRETCHED ] [ HEROIC
+
+Fast (2.5pp/yr)            %             %              ]
+
+ACHIEVABLE = implied growth at or below historical CAGR. STRETCHED = above CAGR but below bull case. HEROIC = above bull case.
+
+                                         Page 27 of 33
+SECTION 3 -- PRICE LADDER                     Price ($)                  vs Current
+         Level                                $                          Need ____% drop
+         Bear 30% MOS entry                   $                          Need ____% drop
+         Bear 20% MOS entry                   $                          Need ____% drop
+         Base 30% MOS entry                   $                          Need ____% drop
+         Base 20% MOS entry  minimum entry    $                          --
+         >>> CURRENT PRICE                    $                          ____% above current
+         Base IV                              $                          ____% above current
+         Bull IV
+
+            Upside = Base IV - Current Price
+           Downside = Current Price - Bear IV
+
+           Asymmetry Ratio = Upside ÷ Downside
+
+SECTION 4 -- ASYMMETRY RATIO
+
+           Calculation                                     Amount ($)    (%)
+                                                                         %
+Upside     Base IV $_____ - Current $_____ =               $             %
+
+Downside   Current $_____ - Bear IV $_____ =               $
+
+Asymmetry  Upside ÷ Downside =                             _____ : 1
+Ratio
+
+  > 3:1 High conviction   2­3:1 Acceptable entry   < 2:1 No MOS -- wait
+
+           GATE 8: [ PASS -- ENTER ] [ FAIL -- WAIT ]
+
+                                            Page 28 of 33
+SHEET 9 QUARTERLY MONITORING SCORECARD | Gate 7
+
+Complete every quarter for every held position. One sheet per company per quarter.
+
+Company:                        Ticker:              Quarter:                       Date:
+                                                                                    Position size:
+Entry price:                    Avg                  Current
+                                cost:                price:
+
+Thesis-confirming metric (the
+number that proves the moat is
+intact if it grows):
+
+Thesis-breaking metric (exit if below
+threshold for 2 consecutive
+quarters):
+
+ SECTION 1 -- THESIS-CONFIRMING METRIC
+
+ This is the single quantitative measure most directly tied to your moat. Growing = moat intact. Flat or declining = investigate.
+
+Metric name:
+
+Prior quarter value:                   This quarter value:                          YoY change:
+
+Direction:  IMPROVING  FLAT  DETERIORATING
+4-quarter trend (oldest  newest):
+
+SECTION 2 -- THESIS-BREAKING METRIC
+
+Metric name:
+
+Prior quarter value:            This quarter value:                                 Consecutive qtrs
+                                                                                    deteriorating:
+
+Direction:  IMPROVING  FLAT  DETERIORATING
+EXIT TRIGGERED? (2 consecutive qtrs):  YES -- EXIT POSITION  NO -- CONTINUE HOLDING
+
+                                         Page 29 of 33
+SECTION 3 -- MANAGEMENT INTEGRITY CHECK
+
+Any metric previously disclosed now omitted?  Y  N
+Any guidance changed materially without warning?  Y  N
+Any unflattering item volunteered unprompted?  Y  N
+Any new SEC correspondence or restatement?  Y  N
+
+Integrity status:  INTACT  YELLOW FLAG -- detail below  DISQUALIFIED
+
+SECTION 4 -- MOAT AND FINANCIAL UPDATE
+
+Competitive position changed this quarter?  Y  N
+New entrant or technology threat identified?  Y  N
+
+Owner Earnings this                                 YoY:           Trailing 4-qtr OE:
+quarter:
+
+OE % Change = (This Quarter OE - Base OE) ÷ Base OE
+
+OE changed > 10% vs DCF base?  YES -- rerun Gates 4, 5, and 6  NO
+
+SECTION 5 -- SELL DECISION TREE
+Breaking metric triggered (2 consecutive quarters)?  YES -- EXIT  NO
+Management integrity failed?  YES -- EXIT  NO
+Price > 120% of intrinsic value?  YES -- REDUCE  NO
+OE changed > 10% vs DCF base?  YES -- RERUN Gates 4­8  NO
+Superior opportunity with wider MOS?  YES -- EVALUATE  NO
+
+QUARTERLY DECISION:  HOLD  ADD  REDUCE  EXIT  RERUN
+
+Reasoning:
+
+                                                    Page 30 of 33
+SHEET 10 POSITION LOG
+
+ Print once per year. One row per transaction.
+
+Year:                   Ticker Buy / Sell Shares Price ($) Total ($)  Account
+ TRANSACTION LOG
+
+                  Date
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                $              $
+
+                                                Page 31 of 33
+CURRENT HOLDINGS
+
+Ticker  Shares Avg Cost Current $ Base IV  MOS % Account  Last
+                                                          reviewed
+
+                  $  $  $                  %
+
+                  $  $  $                  %
+
+                  $  $  $                  %
+
+                  $  $  $                  %
+
+                  $  $  $                  %
+
+                  $  $  $                  %
+
+                  $  $  $                  %
+
+                  $  $  $                  %
+
+                  $  $  $                  %
+
+                  $  $  $                  %
+
+                        Page 32 of 33
+WATCHLIST (passed Gates 1­5 -- waiting for price)
+
+Ticker Company  Base IV Max Buy Current $ Gap % Next Catalyst
+
+                $                                  $        $      %
+
+                $                                  $        $      %
+
+                $                                  $        $      %
+
+                $                                  $        $      %
+
+                $                                  $        $      %
+
+                $                                  $        $      %
+
+                $                                  $        $      %
+
+                $                                  $        $      %
+
+ELIMINATED (failed a gate -- do not revisit without cause)
+
+Ticker Company  Gate                               Primary reason     Date
+                failed
+
+                Gate
+
+                Gate
+
+                Gate
+
+                Gate
+
+                Gate
+
+                Gate
+
+                Gate
+
+                Gate
+
+"The goal is not to win. It is to see how wrong you can be and still be right. Margin of safety, moat assessment,
+            conservative DCF modeling, and position sizing are each sequential admissions of fallibility."
+
+                                    A Framework for Long-Term Business Analysis -- The Analysis Workbook -- May 2026
+
+                        Page 33 of 33
+

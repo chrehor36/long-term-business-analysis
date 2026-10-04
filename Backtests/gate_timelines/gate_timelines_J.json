@@ -1,0 +1,229 @@
+{
+  "MCD": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Franchised QSR: ~81% of ~35,400 restaurants franchised at FY2013, so earnings are royalties (~4-5% of franchisee sales) plus rent on company-owned real estate, plus margins on the shrinking company-operated base. A generalist can explain the unit economics from the 10-K segment tables."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Brand plus real-estate/royalty model. FY2013 (reported 2014-01-23): system-wide sales ~$89B, consolidated operating margin ~31%, ROIC high-teens, positive global comparable sales every year 2003-2013. Franchisee capital funds most unit growth, so returns on McDonald's own capital are structurally high."
+      },
+      {
+        "from": 2015,
+        "class": "NARROW",
+        "note": "Traffic and share loss to fast casual visible in reported monthly/quarterly comps before the 2015-06-30 anchor: US comps negative from late 2013 onward (Q1 2014 US -1.7%, reported 2014-04-22), November 2014 US comps -4.6% (reported 2014-12-08), FY2014 US comps -2.1% and first negative annual GLOBAL comps since 2002 at -1.0% (reported 2015-01-23), May 2015 US comps -2.2% (reported 2015-06-08). Three consecutive years of declining US guest counts. Pricing power intact on menu price but the brand was losing units of demand; CEO change announced 2015-01-28 (Easterbrook effective 2015-03-01) and turnaround plan announced 2015-05-04."
+      },
+      {
+        "from": 2017,
+        "class": "WIDE",
+        "note": "All Day Breakfast launched 2015-10-06; Q4 2015 US comps +5.7% (reported 2016-01-25). Recovery was not immediately durable -- Q4 2016 US comps relapsed to -1.3% (reported 2017-01-23) -- but Q1/Q2 2017 US comps of +1.7%/+3.9% (reported 2017-04-25 / 2017-07-25) plus refranchising toward ~93% franchised restored both comps and margin, with FY2017 US comps +3.6% (reported 2018-01-30)."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2014-07",
+        "severity": "SERIOUS",
+        "note": "China supplier scandal. Shanghai Dragon TV aired footage on 2014-07-20 showing workers at Shanghai Husi Food (a subsidiary of US-based OSI Group, a McDonald's supplier) using expired meat and repackaging it with new expiry dates; the plant was shut immediately and five Husi managers were detained by 2014-07-23. McDonald's suspended Husi-sourced product in China and Japan within days. The deliberate relabeling was the SUPPLIER's conduct, not McDonald's own -- for McDonald's this is a supply-chain oversight failure, not company dishonesty. Impact: APMEA comparable sales turned sharply negative from August 2014 (monthly release 2014-09-09) and McDonald's quantified a material earnings drag in its 2014-10-21 Q3 release. Later penalties: a Shanghai court in February 2016 fined Husi/OSI units ~RMB 2.4M and jailed 10 employees; Shanghai FDA added ~RMB 17M (Husi) and ~RMB 7.3M (OSI China) fines in 2016."
+      },
+      {
+        "date": "2014-12",
+        "severity": "MINOR",
+        "note": "On 2014-12-19 the NLRB General Counsel issued 13 consolidated complaints naming McDonald's USA, LLC as a JOINT EMPLOYER with franchisees for alleged retaliation against workers in the Fight for $15 protests. Labor-law dispute, no dishonesty alleged. Resolved by settlement approved by an ALJ in 2019 and affirmed by the Board on 2020-07-17; no joint-employer liability was ever established."
+      },
+      {
+        "date": "2015-12",
+        "severity": "MINOR",
+        "note": "On 2015-12-03 the European Commission opened an in-depth state-aid investigation into Luxembourg tax rulings (2009) under which McDonald's Europe Franchising paid no tax on European franchise royalties. ANNULLED IN EFFECT: on 2018-09-19 the Commission concluded the non-taxation did not constitute illegal state aid -- no finding against McDonald's."
+      },
+      {
+        "date": "2016-05",
+        "severity": "SERIOUS",
+        "note": "French tax authorities raided McDonald's France offices on 2016-05-18 in a transfer-pricing/tax-fraud investigation (royalties routed via Luxembourg/Switzerland). Resolved 2022-06-16 by a French CJIP (deferred-prosecution-style agreement) totalling ~EUR 1.245B (EUR 508M public-interest fine plus ~EUR 737M back taxes) with no criminal conviction. All post-anchor for the 2014/2015 dates."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "MDLZ": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Global packaged snacks: brands (Oreo, Cadbury, Milka, LU, Trident) sold through grocery/traditional trade; unit economics are volume x price/mix less cocoa/dairy/wheat/packaging input cost and A&C spend. Complicated by the corporate history (Kraft Foods Inc. split 2012-10-01) and heavy FX/emerging-market mix, but explainable from the segment disclosures."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Corporate history: Mondelez is the snacks half of Kraft Foods Inc., which split on 2012-10-01 (North American grocery spun off as Kraft Foods Group); Cadbury had been acquired by Kraft in February 2010. Real brand moat -- #1 globally in biscuits and #2 in chocolate, Power Brands ~70% of revenue with double-digit Power Brand growth in Latin America (+12.3%) and Asia (+20.3%) in 2013 -- but the moat is NOT wide on returns: FY2013 organic net revenue +3.9% with adjusted operating income margin only 12.0% (reported 2014-02-12), far below branded-food peers, and goodwill/intangibles of roughly $40B on ~$72B of assets from the Cadbury/Kraft deals keep ROIC in the mid-to-high single digits. Pricing power is real in chocolate and gum, weaker in biscuits against private label; the coffee business was contributed to the Jacobs Douwe Egberts JV (announced 2014-05-07, closed 2015-07-02), and margin gains from 2015 onward (adjusted OI margin to ~15.3% in 2016) came from the 2014-2018 restructuring program rather than from pricing, with volume/mix negative and organic growth only +1.3% in 2016 (reported 2017-02-01)."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2015-04",
+        "severity": "SERIOUS",
+        "note": "On 2015-04-01 the CFTC filed a civil complaint in N.D. Ill. alleging Kraft Foods Group and Mondelez Global LLC manipulated December 2011 wheat futures and cash wheat prices -- buying ~$90M (a six-month supply) of Dec-2011 futures they never intended to take delivery of, to depress cash prices and widen the Dec/Mar spread, earning >$5.4M. PREDECESSOR DISCONTINUITY: the December 2011 conduct predates the 2012-10-01 split, so it was Kraft Foods Inc. conduct for which both successors were named. Resolved by consent order entered 2019-08-14: $16M penalty and injunction, WITHOUT any admission of wrongdoing (the order also restricted the parties' public statements about it), so no manipulation was ever adjudicated."
+      },
+      {
+        "date": "2021-01",
+        "severity": "SERIOUS",
+        "note": "European Commission opened formal antitrust proceedings on 2021-01-28 into Mondelez restricting cross-border trade in chocolate, biscuit and coffee products. Decision 2024-05-23: EUR 337.5M fine for 22 Article 101 agreements/concerted practices limiting parallel trade (2012-2019) and Article 102 abuse of dominance in chocolate tablets (2015-2019); fine reflects a 15% cooperation-procedure reduction after Mondelez acknowledged liability. Pure competition-law matter (market partitioning / abuse of dominance), no deception element alleged. Entirely post-anchor for the 2013/2014 dates."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "NOC": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Defense prime: revenue is US government contracts (~85-90%), earned as cost-type (fee on cost) or fixed-price work, with segment operating income and estimate-at-completion adjustments disclosed by segment. Classified programs limit visibility into specific businesses, but the economics -- backlog, book-to-bill, margin rate, cash conversion -- are explainable to a generalist."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Incumbency moat on long-life franchises (B-2 sustainment, E-2D, Global Hawk/unmanned, ICBM ground systems, classified space/restricted programs) with very high entry barriers, but a single monopsony customer that sets prices and audits profit rates -- there is no pricing power in the Buffett sense. Sequestration proved it: revenue fell from $26.4B (2011) to $24.7B (2013) to $24.0B (2014) to $23.5B (2015) after the Budget Control Act (2011-08) and sequester onset (2013-03-01), with segment operating margin roughly 12.5-13% (Q3 2014 12.9%). EPS growth in the anchor window came mostly from shrinking the share count -- 233.9M average diluted shares (2013) to 212.1M (2014) to ~187.9M (Q3 2015), completing the 60M-share retirement goal announced 2013-05 -- not from organic growth. Franchise strengthened later: LRS-B/B-21 award announced 2015-10-27, competitor protest denied by GAO 2016-02-16."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2009-04",
+        "severity": "SERIOUS",
+        "note": "PREDECESSOR DISCONTINUITY: DOJ announced in April 2009 a $325M False Claims Act settlement covering defective heterojunction bipolar transistors supplied to the National Reconnaissance Office. DOJ's investigation concluded that Northrop and its predecessor TRW Inc. failed to test/qualify HBTs made 1992-2002 and 'made misrepresentations about, and concealed certain material facts regarding' their reliability -- conduct with a clear dishonesty element, but it was overwhelmingly TRW conduct (TRW was acquired by Northrop in December 2002) and was settled civilly without an admission of liability. Whistleblower Robert Ferro received $48.7M. Public and known well before the 2014/2015 anchors."
+      },
+      {
+        "date": "2018-11",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR DISCLOSURE OF IN-ANCHOR CONDUCT: DOJ announced in November 2018 that Northrop Grumman Systems Corp. would pay ~$27.45M in civil recovery (a $25.8M payment plus earlier repayments) to settle FCA allegations that it overstated employee labor hours billed to the Air Force on the BACN and DRC contracts between 2010-07-01 and 2013-12-31, plus a separate agreement with the US Attorney (S.D. Cal.) Criminal Division forfeiting $4.2M. The alleged conduct (knowingly false labor billing) straddles the 2014 and 2015 anchors but was NOT public then; the civil claims were resolved as allegations without a determination of liability."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "NOV": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Oilfield capital equipment: designs and builds drilling rig packages (derricks, drawworks, top drives, BOPs) plus consumables/spares and downhole tools; earnings track customer capex, so the drivers are new orders, backlog, and aftermarket attach rate -- all disclosed quarterly. Understandable, just violently cyclical. Distribution arm spun off as NOW Inc. on 2014-05-30."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Dominant position in offshore/newbuild rig packages (majority share of drilling packages on newbuild floaters and jackups) with a very large installed base feeding spares and service, giving a real but conditional advantage. FY2013 revenue ~$22.8B with operating margin in the mid-teens, and Rig Systems backlog peaking around $16B in Q3 2014 (reported 2014-10-27). Crucially, all of it is derivative demand from customer capex; NOV has no pricing power independent of the crude cycle."
+      },
+      {
+        "from": 2015,
+        "class": "NONE",
+        "note": "The 2014-2016 crude collapse (WTI peaked ~$107 in June 2014, fell below $50 in January 2015 and to ~$26 in February 2016) went straight through orders and backlog, and this was visible in reported results BEFORE the 2015-06-30 anchor: Rig Systems new orders collapsed to $236M in Q1 2015 (reported 2015-04-28) from roughly $2B per quarter in 2014, with segment backlog $10.43B, down 17% sequentially and 31% year over year. It kept going: total backlog $7.0B at 2015-12-31 versus $14.3B a year earlier (-51%, reported 2016-02-03); Rig Systems backlog $6.08B at 2015-12-31 with only $89M of Q4 2015 orders; Rig Systems backlog $2.5B at 2016-12-31 with $115M of Q4 orders. Revenue $21.4B (2014) to $14.8B (2015) to ~$7.25B (2016) with large goodwill impairments and a multi-billion 2016 net loss -- no durable earning power through a cycle."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2011-02",
+        "severity": "SERIOUS",
+        "note": "US trade-sanctions and export-control violations by NOV and subsidiaries Dreco Energy Services and NOV Elmar involving Cuba, Iran and Sudan between 2002 and 2009. The ~$25M penalty was PRELIMINARILY AGREED AND FULLY ACCRUED IN 2010 and the matters were disclosed in NOV's Form 10-K/10-Q filings from at least the FY2010 annual report (filed February 2011), so the existence and size of the matter was public before both the 2013 and 2015 anchors. Final resolution 2016-11-09: $25M total across a non-prosecution agreement with the US Attorney (S.D. Tex.), Commerce/BIS, OFAC (~$5.98M) and ICE. Aggravating detail in the public settlement documents: senior-management awareness/'willful blindness' and approval of the sanctioned business by overseas units; OFAC recorded it as NOT a voluntary self-disclosure. Resolved by NPA without criminal conviction."
+      }
+    ],
+    "gate5_broken_by": "2015-04"
+  },
+  "NSC": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Class I railroad: ~20,000 route miles in the eastern US; revenue is carloads x revenue per unit across coal, intermodal and merchandise, and the cost side is readable through the operating ratio. Capital intensity and maintenance capex are explicit in the filings."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Eastern US duopoly with CSX over a network that cannot be rebuilt at any price, protected by post-Staggers pricing freedom; same-store price gains ran ~3-4% a year through 2011-2015. FY2014 (reported 2015-01-27): railway operating revenue ~$11.6B, operating ratio 69.2%. The moat held through a genuine secular shock: coal fell from ~26% of revenue in 2011 to ~21% in 2013 to ~16% in 2015 as cheap gas displaced utility coal, and 2015 revenue fell ~9.5% with the operating ratio deteriorating to 72.6% (reported 2016-01-27) -- yet the franchise was never contested, and the December 2015 five-year plan (announced 2015-12-04, ~$650M of cost reductions, sub-65 OR target) delivered OR 68.9% in 2016 and 65.8% in 2017. Independent market evidence of franchise scarcity: Canadian Pacific disclosed an unsolicited takeover approach on 2015-11-17 (exploration reported 2015-11-09), NS's board rejected it on 2015-12-04 and rejected sweetened offers on 2015-12-08 and 2015-12-16, and CP abandoned the ~$28B bid on 2016-04-11 after DOJ urged the STB to reject its voting-trust structure -- i.e. regulatory protection of the network is itself part of the moat."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2007-11",
+        "severity": "SERIOUS",
+        "note": "In re Rail Freight Fuel Surcharge Antitrust Litigation: complaints filed in 2007 and consolidated as an MDL in D.D.C. in November 2007, alleging that Norfolk Southern, CSX, Union Pacific and BNSF conspired to impose standardized fuel surcharges as a disguised rate increase (2003-2008). A price-fixing ALLEGATION that was never established: class certification was granted in June 2012, VACATED by the D.C. Circuit on 2013-08-09, DENIED on remand on 2017-10-10, and that denial was AFFIRMED by the D.C. Circuit on 2019-08-30 (plaintiffs' own regression showed negative damages for 2,000+ putative class members). Individual shipper suits continued afterward; no liability finding against NS."
+      },
+      {
+        "date": "2023-02",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR: East Palestine, Ohio derailment of NS train 32N on 2023-02-03 with hazardous-material release and controlled vinyl chloride burn. Resolutions: ~$600M class settlement with area residents (announced April 2024, approved September 2024) and a DOJ/EPA consent decree announced 2024-05-23 of ~$310M including a $15M Clean Water Act penalty. Safety/environmental failure with material regulatory action -- no finding of dishonesty by the company."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "PGR": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Personal auto insurance: premiums earned less losses/LAE less expenses (the combined ratio), plus investment income on float. Progressive discloses monthly results and its 96 combined-ratio target explicitly, so a generalist can audit the unit economics more easily than at almost any other insurer."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "The moat is a low-cost direct-distribution and risk-segmentation advantage, not brand pricing power. Evidence at the anchors: underwriting profit inside the 96 target every year -- combined ratio 93.5% (FY2013) and 92.4% (FY2014), with the personal-lines CR 93.4% (2013) and 93.3% (2014) -- earned WHILE growing net premiums written 8% to $18.7B (2013) and 10% to $20.6B (2014); direct auto policies in force +9% in 2015 to 4.92M (reported 2016-01). Growth with underwriting profit is the signature of a genuine cost edge. But it is NARROW, not wide: auto insurance is a price-shopped commodity with a comparably-positioned direct rival in GEICO and much larger agency incumbents, no switching costs, and margins that move with industry frequency/severity -- the 2015-2016 loss-cost spike pushed the CR to 95.1% in both years, requiring double-digit rate increases. Bundling capability added via the ARX/American Strategic majority acquisition, closed 2015-04-01."
+      },
+      {
+        "from": 2019,
+        "class": "WIDE",
+        "note": "By FY2018 results (reported 2019-01) the cost advantage looked structural rather than cyclical: combined ratio improved to 93.4% (2017) and 90.6% (2018) while net premiums written grew from $20.6B (2014) to ~$32.6B (2018) and personal-auto market share moved from roughly 8-9% to above 11%. Taking large share and improving margin simultaneously, for several consecutive years, is the evidence a wide cost moat leaves in reported results."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2011-08",
+        "severity": "MINOR",
+        "note": "Reputational episode: an August 2011 blog post ('My Sister Paid Progressive Insurance to Defend Her Killer') went viral over Progressive's role in a Maryland UM case where its interests aligned with the at-fault driver's defense. Ordinary claims-practice controversy, no regulatory finding."
+      },
+      {
+        "date": "2013-12",
+        "severity": "MINOR",
+        "note": "Ordinary-course claims/policy-form class actions disclosed and settled in the 2013-2015 10-Ks: reimbursement of insureds' legal fees in recoveries from other Progressive insureds (settled 2013), application of a preferred-provider discount to medical-payment claims (settled 2013), premium charging and total-loss handling on commercial stated-amount policies (settled 2013), steering insureds to Service Centers/network repair shops (settled 2014), and an uninsured-motorist rejection form challenge (accrued 2014, settled class-wide 2015). No fraud allegations, no regulatory penalties."
+      },
+      {
+        "date": "2024-11",
+        "severity": "MINOR",
+        "note": "POST-ANCHOR: $61M Michigan settlement (November 2024) over failure to include sales tax, title certificate and registration transfer fees in total-loss payments from 2013 through 2024 -- a claims-measurement dispute of a type common across the industry, not a dishonesty finding."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "PM": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "GATE 1 TESTS EXPLAINABILITY, NOT ETHICS. The unit economics are unusually simple: sell premium-priced cigarettes (Marlboro ~10% of world market ex-US/China) at prices that pass through excise tax and add real price, on low capital intensity and near-total-payout free cash flow. Reported results are distorted by currency, which the company strips out in disclosed currency-neutral figures -- readable, not opaque."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Pricing power is genuinely exceptional and dated in the reported numbers: FY2014 cigarette volume -2.8% ex-acquisitions and FY2015 volume -1.0%, yet FY2015 favorable pricing was +$2.1B and adjusted operating-income margin ROSE 0.3pp to 42.6% on a currency- and acquisition-neutral basis (reported 2016-02-04) -- price fully outruns secular volume decline. Reported EPS is the noisy part: FY2015 adjusted diluted EPS $4.42, -12.0% as reported, with an unprecedented $1.20-per-share currency headwind, i.e. double-digit currency-neutral growth reported as a decline. Threats to the moat are regulatory/substitution rather than competitive: Australia plain packaging (in force 2012-12-01) and PMI's investment-treaty challenge to it dismissed on jurisdiction 2015-12-17 (costs order against PMI 2017-03); EU Tobacco Products Directive 2 adopted April 2014, applicable 2016-05-20; PMI's ICSID claim against Uruguay's packaging rules dismissed 2016-07-08; illicit trade a permanent leak. Reduced-risk substitution was self-funded: iQOS launched in Nagoya in November 2014, expanded through Japan and Italy in 2015-2016."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2004-07",
+        "severity": "SERIOUS",
+        "note": "On 2004-07-09 Philip Morris International signed a 12-year cooperation agreement with the European Commission and 10 member states, paying $1.25B, to combat contraband and counterfeit of its cigarettes -- a material regulatory settlement resolving smuggling-facilitation concerns WITHOUT admission of liability. The agreement expired 2016-07-09 and the Commission decided not to renew it (its own assessment published February 2016 was unfavourable to renewal)."
+      },
+      {
+        "date": "2006-08",
+        "severity": "SERIOUS",
+        "note": "PREDECESSOR DISCONTINUITY: on 2006-08-17 Judge Kessler (D.D.C.) held in United States v. Philip Morris USA that the US cigarette makers violated RICO through decades of coordinated fraudulent concealment and misrepresentation about smoking, addiction and 'light' cigarettes -- conduct squarely in the dishonesty category, affirmed by the D.C. Circuit on 2009-05-22 with certiorari denied 2010-06-28. The defendants were Altria/Philip Morris USA (the US business); PMI was separated from Altria by spin-off on 2008-03-28 and was not itself an adjudicated defendant, so the finding attaches to the predecessor group and the historical corporate DNA rather than to PMI's own post-2008 conduct."
+      },
+      {
+        "date": "2008-07",
+        "severity": "SERIOUS",
+        "note": "PREDECESSOR DISCONTINUITY: on 2008-07-31 Canada's Rothmans, Benson & Hedges resolved federal/provincial contraband claims relating to 1989-1996 cigarette smuggling, pleading guilty and agreeing with its then-parent to total payments of ~CAD 550M (a criminal fine plus civil payments over ten years). PMI acquired Rothmans Inc. (and thereby full ownership of RBH) in 2008, i.e. essentially contemporaneously with and after the conduct and its resolution -- an admitted dishonesty matter, but pre-acquisition conduct of the acquired entity."
+      },
+      {
+        "date": "2015-06",
+        "severity": "SERIOUS",
+        "note": "On 2015-06-01 the Quebec Superior Court gave judgment in the Blais and Letourneau class actions, assessing ~CAD 15.6B of damages against three manufacturers -- ~CAD 3.1B against PMI's subsidiary RBH (CAD 10.5B Imperial Tobacco, CAD 2B JTI-Macdonald) -- on findings that the companies knowingly withheld and trivialised health and addiction risks. Visible just before the 2015-06-30 anchor. Conduct period was largely 1950-1998, i.e. mostly before PMI's 2008 ownership of RBH (discontinuity). UPHELD on appeal 2019-03-01 (~CAD 13.5-14B); RBH obtained CCAA creditor protection on 2019-03-22 and PMI deconsolidated RBH from that date."
+      },
+      {
+        "date": "2016-01",
+        "severity": "SERIOUS",
+        "note": "In January 2016 Thai prosecutors indicted Philip Morris (Thailand) Ltd and seven employees for under-declaring the customs value of cigarettes imported from the Philippines (2003-2007), with headline exposure reported at up to ~$2B. Outcome and reductions: in November 2019 the Bangkok Criminal Court convicted the COMPANY and fined it THB 1.2B (~$39.7M) while ACQUITTING all seven employees for lack of evidence; the appeals court lowered the fine (2022-06) and the Supreme Court cut it by ~85% in October 2025. Material mitigation: WTO panels/Appellate Body in Thailand -- Cigarettes (Philippines) (2011, and again in 2018-2019 compliance proceedings) found Thailand's customs valuation of these same imports inconsistent with its WTO obligations."
+      }
+    ],
+    "gate5_broken_by": null
+  }
+}

@@ -1,0 +1,109 @@
+Ben Graham/*.pdf
+Ben Graham/II_fulltext.txt
+__pycache__/
+
+# autosave writes here every 2 min; tracking it makes the loop trigger itself
+
+# exemplar audio: large, recoverable from the D2L zip
+
+# Raw filing downloads inside run-research folders, added 2026-09-01.
+# Agents cache the source 10-K/10-Q/DEF 14A while working. Those are large (Ford's FY2025
+# 10-K alone is 5 MB) and ~70 runs remain in the queue, which would add hundreds of MB to a
+# 532 MB history that cannot be pruned without a rewrite. They are RE-FETCHABLE FROM EDGAR,
+# and the provenance requirement under operator rule 4 is the recorded document, date and
+# ACCESSION NUMBER in the run file, not a copy of the document in version control.
+# Existing tracked research is deliberately left alone; this prevents FUTURE additions only.
+# ONE LEVEL DEEP WAS NOT DEEP ENOUGH, found 2026-09-11: the SNPS run's fetcher wrote its raw
+# filings under a cache/ subfolder, and every rule below matched only the folder's top level.
+# 28 MB of re-fetchable .htm entered history in a single preserve commit (909dd68). The
+# patterns are now recursive. That commit stands - history is not rewritten here - and the
+# files are removed from the tree going forward with `git rm --cached`.
+Test Runs/_research*/**/*.htm
+Test Runs/_research*/**/*.html
+Test Runs/_research*/**/*.pdf
+Test Runs/_research*/**/*.xlsx
+Test Runs/_research*/**/cache/
+
+# STRIPPED-TEXT FILING DUMPS, added 2026-09-07 after the DELL run reported that the rules
+# above cover .htm/.pdf/.xlsx but NOT .txt - so every agent that strips a filing to text
+# bypassed them silently. A stripped 10-K is the same category as the .htm it came from:
+# large, re-fetchable from EDGAR, and not the provenance record (operator rule 4 wants the
+# accession number in the run file, not a copy of the document in version control).
+#
+# DELIBERATELY PATTERN-MATCHED RATHER THAN A BLANKET *.txt. Of 400 tracked research .txt
+# files sampled, 190 are over 200KB and are plainly filing dumps - but 76 are under 20KB and
+# are analysis notes. A blanket rule would silently swallow a future run's working notes,
+# which is a worse failure than a large repo. The names are strongly patterned, so the
+# patterns are what is ignored.
+#
+# This prevents FUTURE additions only; the 1,192 already-tracked .txt files are untouched,
+# because .gitignore does not untrack anything.
+Test Runs/_research*/**/*10-K*.txt
+Test Runs/_research*/**/*10K*.txt
+Test Runs/_research*/**/*10k*.txt
+Test Runs/_research*/**/*10-Q*.txt
+Test Runs/_research*/**/*10Q*.txt
+Test Runs/_research*/**/*10q*.txt
+Test Runs/_research*/**/*DEF14A*.txt
+Test Runs/_research*/**/*DEF_14A*.txt
+Test Runs/_research*/**/*def14a*.txt
+Test Runs/_research*/**/*8-K*.txt
+Test Runs/_research*/**/*8K*.txt
+Test Runs/_research*/**/*20-F*.txt
+Test Runs/_research*/**/*20F*.txt
+
+# OVERNIGHT AUTOMATION, added 2026-09-12. The prompt and the cycle script are committed; the lock
+# (which holds a live PID) and the per-cycle logs (full session transcripts) are not.
+Screens/_daily/_overnight.lock
+Screens/_daily/_overnight_logs/*
+!Screens/_daily/_overnight_logs/.gitkeep
+Screens/_daily/_wake_body.md
+
+# XBRL COMPANY-FACT DUMPS AND UN-PATTERNED STRIPPED FILINGS, added 2026-09-21 by the MGM run,
+# which committed 25.7 MB of them before noticing. The rules above ignore stripped filings by NAME
+# PATTERN (*10-K*.txt, *10-Q*.txt and eleven more) and their own comment says the names are
+# "strongly patterned". The MGM run's were not: it wrote tenk_2025.txt, tenq_2026Q2.txt,
+# *_body.txt and companyfacts.json, and every one of them bypassed all thirteen patterns. There is
+# also NO rule at all covering the SEC XBRL companyfacts/submissions JSON, which every run in this
+# tree downloads and which runs 1.4-4.0 MB per registrant - the MGM run pulled eight of them for
+# its competitor row. All are RE-FETCHABLE FROM EDGAR and none is the provenance record: operator
+# rule 4 wants the document, date and ACCESSION NUMBER in the run file, which is where they are.
+# The 25.7 MB already committed in f3f51b5 and 4af9913 STAYS IN HISTORY - it is recorded, never
+# rebased (operator rule 6) - and the files are removed from the tree going forward with
+# `git rm --cached`. This prevents FUTURE additions only.
+Test Runs/_research*/**/companyfacts.json
+Test Runs/_research*/**/*companyfacts*.json
+Test Runs/_research*/**/submissions.json
+Test Runs/_research*/**/*submissions*.json
+Test Runs/_research*/**/tenk*.txt
+Test Runs/_research*/**/tenq*.txt
+Test Runs/_research*/**/ten-k*.txt
+Test Runs/_research*/**/ten-q*.txt
+# _body.txt is this run's own naming convention for "the filing stripped to text". Named
+# explicitly rather than as a blanket *.txt, for the same reason the block above gives: a blanket
+# rule would silently swallow a future run's working notes, which is a worse failure than a large
+# repository.
+Test Runs/_research*/**/*_body.txt
+
+# MORE UN-PATTERNED FILING DUMPS, added 2026-09-21 by the AGCO run. The MGM block above
+# caught tenk*.txt / tenq*.txt / *_body.txt / companyfacts.json; it did not catch two more
+# shapes this run produced. (1) A PEER dump named after the peer and its fiscal year -
+# peers/DE_fy2025.txt (683 KB) and peers/CNH_fy2025.txt (558 KB) - which matches none of the
+# sixteen patterns above, because "10-K" appears nowhere in the name. (2) The SEC SUBMISSIONS
+# feed saved as subs.json, where the block above ignores only submissions.json and
+# *submissions*.json. Both are re-fetchable from EDGAR and neither is the provenance record
+# (operator rule 4 wants the accession number in the run file, which is where it is). Named by
+# pattern rather than by a blanket rule, for the reason the 2026-09-07 block gives: a blanket
+# *.txt would silently swallow a future run's working notes.
+Test Runs/_research*/**/*_fy20*.txt
+Test Runs/_research*/**/*_FY20*.txt
+Test Runs/_research*/**/subs.json
+Test Runs/_research*/**/*_raw.json
+
+
+# v5 blind read (2026-10-03): per-cycle logs and the JSON inbox the helper consumes
+Screens/_daily/_v5_logs/*
+!Screens/_daily/_v5_logs/.gitkeep
+Framework/v5/_inbox/*
+!Framework/v5/_inbox/.gitkeep
+Framework/v5/synthesis/_work/

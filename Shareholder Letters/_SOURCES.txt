@@ -1,0 +1,25 @@
+Source notes for this folder
+=============================
+
+1977-2025 Letter.txt
+  Official letters from berkshirehathaway.com (letters/{year}.html for
+  1977-1997, letters/{year}ltr.pdf or equivalent for 1998-2025).
+  2025 Letter.txt is Greg Abel's first letter as CEO (letters/gealetters.html).
+
+1965-1976 Letter.txt
+  Berkshire Hathaway did not publish these pre-1977 letters on its own
+  website. These copies were kept from an earlier pull off a third-party
+  archive (berkshire.memorex.ai) - see brk-reports.ps1 in this folder for
+  that process. Treat these as unofficial/personal-study copies; everything
+  from 1977 onward above is sourced directly from Berkshire's own site.
+
+Corporate Genealogy.txt
+  Also from the earlier berkshire.memorex.ai pull, not from
+  berkshirehathaway.com.
+
+See also, elsewhere in BRK/:
+  Wesco Letters (Munger)/    - Charlie Munger's Wesco Financial letters, 1997-2009
+  Special Letters/           - Warren & Charlie "past, present, future" letters, 2014
+  Buffett Pledge Letters/    - Warren Buffett's charitable-giving letters
+  Annual Reports/            - Official annual reports, 1995-2025
+  Quarterly Reports/         - Official quarterly/interim reports, 1996-2026

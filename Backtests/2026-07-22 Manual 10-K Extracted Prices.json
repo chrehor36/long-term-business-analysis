@@ -1,0 +1,21 @@
+{
+  "ACE":  {"amv": 59000000000,     "shares": 458380937, "amv_date": "2018-06-29", "note": "direct read"},
+  "BIG":  {"amv": 1807128260,      "shares": 40142960,  "amv_date": "2018-08-04", "note": "direct read"},
+  "BMS":  {"amv": 3841516355,      "shares": 91165312,  "amv_date": "2018-06-29", "note": "text states $42.21/sh directly"},
+  "CELG": {"amv": 55804979945,     "shares": 702355600, "amv_date": "2018-06-29", "note": "direct read"},
+  "CMA":  {"amv": null, "shares": null, "implied_price": 90.92, "amv_date": "2018-06-29", "note": "price stated directly in text"},
+  "COL":  {"amv": 22100000000,     "shares": 164629890, "amv_date": "2018-03-30", "note": "non-calendar FY (ends Nov); 3mo before target"},
+  "CTXS": {"amv": 13765749900,     "shares": 131725833, "amv_date": "2018-06-29", "note": "direct read"},
+  "FLIR": {"amv": 7125061781,      "shares": 135467254, "amv_date": "2018-06-30", "note": "direct read"},
+  "IPG":  {"amv": 9000000000,      "shares": 384912527, "amv_date": "2018-06-29", "note": "direct read"},
+  "JWN":  {"amv": null, "shares": null, "implied_price": 50.58, "amv_date": "2018-08-03", "note": "price stated directly in text"},
+  "RHT":  {"amv": 23100000000,     "shares": 177755763, "amv_date": "2018-08-31", "note": "non-calendar FY (ends Feb); 2mo after target"},
+  "SAI":  {"amv": 3400000000,      "shares": 59320566,  "amv_date": "2018-08-03", "note": "direct read"},
+  "SPG":  {"amv": 52260000000,     "shares": 308969608, "amv_date": "2018-06-30", "note": "direct read"},
+  "SRCL": {"amv": 5596897370,      "shares": 90703162,  "amv_date": "2018-06-30", "note": "direct read"},
+  "TGNA": {"amv": 2329631130,      "shares": 215801306, "amv_date": "2018-06-30", "note": "direct read"},
+  "TIF":  {"amv": null, "shares": null, "implied_price": 137.56, "amv_date": "2018-07-31", "note": "price stated directly in text"},
+  "TSS":  {"amv": 9575381000,      "shares": 176915530, "amv_date": "2018-06-30", "note": "direct read"},
+  "VAR":  {"amv": 10080869160,     "shares": 91116439,  "amv_date": "2018-03-30", "note": "non-calendar FY (ends Sept); 3mo before target"},
+  "XLNX": {"amv": 16875863000,     "shares": 253920000, "amv_date": "2018-09-29", "note": "non-calendar FY (ends Mar); 3mo after target"}
+}

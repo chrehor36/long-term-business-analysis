@@ -1,0 +1,119 @@
+[
+ {
+  "year": "2013",
+  "n": 77,
+  "wins": 38,
+  "win_rate": 49.4,
+  "median_ret": 23.06,
+  "mean_ret": 24.08,
+  "spy_ret": 23.68
+ },
+ {
+  "year": "2014",
+  "n": 66,
+  "wins": 35,
+  "win_rate": 53.0,
+  "median_ret": 8.15,
+  "mean_ret": 11.62,
+  "spy_ret": 7.24
+ },
+ {
+  "year": "2015",
+  "n": 96,
+  "wins": 46,
+  "win_rate": 47.9,
+  "median_ret": 2.32,
+  "mean_ret": 3.06,
+  "spy_ret": 3.97
+ },
+ {
+  "year": "2016",
+  "n": 105,
+  "wins": 72,
+  "win_rate": 68.6,
+  "median_ret": 31.03,
+  "mean_ret": 28.08,
+  "spy_ret": 17.77
+ },
+ {
+  "year": "2017",
+  "n": 76,
+  "wins": 36,
+  "win_rate": 47.4,
+  "median_ret": 13.08,
+  "mean_ret": 18.91,
+  "spy_ret": 14.53
+ },
+ {
+  "year": "2018",
+  "n": 68,
+  "wins": 27,
+  "win_rate": 39.7,
+  "median_ret": 5.37,
+  "mean_ret": 3.31,
+  "spy_ret": 10.91
+ },
+ {
+  "year": "2019",
+  "n": 82,
+  "wins": 16,
+  "win_rate": 19.5,
+  "median_ret": -18.54,
+  "mean_ret": -15.37,
+  "spy_ret": 6.38
+ },
+ {
+  "year": "2020",
+  "n": 94,
+  "wins": 69,
+  "win_rate": 73.4,
+  "median_ret": 60.45,
+  "mean_ret": 70.74,
+  "spy_ret": 40.89
+ },
+ {
+  "year": "2021",
+  "n": 42,
+  "wins": 27,
+  "win_rate": 64.3,
+  "median_ret": -4.58,
+  "mean_ret": -3.2,
+  "spy_ret": -10.62
+ },
+ {
+  "year": "2022",
+  "n": 64,
+  "wins": 18,
+  "win_rate": 28.1,
+  "median_ret": 7.63,
+  "mean_ret": 11.09,
+  "spy_ret": 19.42
+ },
+ {
+  "year": "2023",
+  "n": 77,
+  "wins": 29,
+  "win_rate": 37.7,
+  "median_ret": 16.24,
+  "mean_ret": 17.13,
+  "spy_ret": 24.74
+ },
+ {
+  "year": "2024",
+  "n": 57,
+  "wins": 37,
+  "win_rate": 64.9,
+  "median_ret": 23.89,
+  "mean_ret": 21.53,
+  "spy_ret": 14.71
+ },
+ {
+  "year": "2025",
+  "n": 40,
+  "wins": 18,
+  "win_rate": 45.0,
+  "median_ret": 13.46,
+  "mean_ret": 14.73,
+  "spy_ret": 22.21
+ }
+]

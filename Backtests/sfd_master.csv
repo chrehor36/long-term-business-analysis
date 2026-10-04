@@ -1,0 +1,681 @@
+ticker,fiscal_year,net_sales_or_revenue,unit,net_income,eps,total_assets,long_term_debt,shares_outstanding,notes
+AAPL,1994,9188748,thousands,310178,2.61,5302746,304472,118735,"Fiscal year ended Sept 30, 1994. Full 5-year table present and clean."
+AAPL,1993,7976954,thousands,86589,0.73,5171412,7117,119125,
+AAPL,1992,7086542,thousands,530373,4.33,4223693,17740,122490,
+AAPL,1991,6308849,thousands,309841,2.58,3493597,18131,120283,
+AAPL,1990,5558435,thousands,474895,3.77,2975707,5437,125813,
+ADI,1994,773474,thousands,74496,0.96,815871,80061,,"EPS restated for 3-for-2 stock split (50% stock dividend) distributed Jan 4 1995, per table footnote (1)."
+ADI,1993,666319,thousands,44457,0.59,678492,100297,,"EPS restated for 3-for-2 stock split, per footnote (1)."
+ADI,1992,567315,thousands,14935,0.21,561867,70632,,"EPS restated for 3-for-2 stock split, per footnote (1)."
+ADI,1991,537738,thousands,8203,0.12,503317,36819,,"EPS restated for 3-for-2 stock split, per footnote (1)."
+ADI,1990,485214,thousands,-12913,-0.18,487188,24129,,"Net loss year. Includes results of Precision Monolithics Inc (PMI), acquired Aug 8 1990, from acquisition date forward, per footnote (2). EPS restated for 3-for-2 stock split, per footnote (1)."
+AIG,1993,20134657,thousands,1938773,,,,,"net_sales_or_revenue is 'Revenues' (consolidated, insurance company - not a single 'net sales' line). Table is truncated in snippet: EPS row cut off after showing only 'Income before cumulative effect of accounting changes' figures of 6.04 (1993) and 5.10 (1992); actual net-income-per-share and Total Assets/Long-Term Debt lines are not visible in this snippet (likely continue past the cutoff point)."
+AIG,1992,18388627,thousands,1656956,,,,,"See 1993 row note re: table truncation. Net income includes $31,941K cumulative effect of accounting change."
+AIG,1991,16883913,thousands,1553009,,,,,See 1993 row note re: table truncation; EPS not visible for this year in snippet.
+AIG,1990,15702067,thousands,1442294,,,,,See 1993 row note re: table truncation.
+AIG,1989,14150024,thousands,1367475,,,,,See 1993 row note re: table truncation.
+AMGN,1990,298.7,millions,3.9,0.03,459.5,63.3,,Unit not explicitly labeled in snippet header; inferred as millions from magnitude (consistent with known company scale). net_sales_or_revenue = 'Total revenues' line (= Product sales 281.4 + Other revenues 17.3). R&D excludes $54.7M of royalty obligation buyout per footnote (1).
+AMGN,1991,682.0,millions,97.9,0.67,865.5,39.7,,See 1990 row note re: unit inference.
+AMGN,1992,1093.0,millions,357.6,2.43,1374.3,129.9,,See 1990 row note re: unit inference.
+AMGN,1993,1373.8,millions,383.3,2.67,1765.5,181.2,,"Net income includes $8.7M ($.06/share) cumulative effect of accounting change (SFAS 109 adoption), per footnote (2)."
+AMGN,1994,1647.9,millions,319.7,2.29,1994.1,183.4,,"Net income reduced by $116.4M ($.83/share) write-off of in-process technology from the Synergen acquisition, per footnote (2)."
+ANDV,1993,831.0,millions,17.0,0.54,434.5,185.5,,"Calendar year ended Dec 31 1993, after company changed fiscal year end from Sept 30 to Dec 31 (see stub-period row below); figure shown is 'Gross Operating Revenues' - Total Revenues (incl. interest/other income) = 834.9. Marked 'pro forma' per table footnote (1). EPS marked ANTI-DILUTIVE per table footnote (*)."
+ANDV,1992,946.5,millions,-65.9,-5.34,446.7,201.7,,"Calendar year ended Dec 31 1992; Total Revenues = 954.4. Net loss includes $(20.6)M cumulative effect of accounting change; loss before that effect was $(45.3)M, EPS $(3.87) before cumulative effect vs $(5.34) after."
+ANDV,"1991 (3-mo stub, Oct 1-Dec 31 1991)",240.6,millions,-0.4,-0.19,494.7,189.4,,Three-month transition period bridging the change in fiscal year end from Sept 30 to Dec 31; Total Revenues for the stub = 243.9. Distinct column from the full FY ended Sept 30 1991 figures (next row).
+ANDV,1991,1085.0,millions,3.9,-0.37,496.8,184.7,,"Fiscal year ended September 30, 1991 (pre fiscal-year-end change); Total Revenues = 1091.0. As printed, net earnings are positive (3.9) but EPS is negative (-.37) - discrepancy exists in the source table as transcribed (likely reflects preferred dividend/other adjustments not detailed in the snippet); recorded exactly as disclosed, not corrected."
+ANDV,1990,996.6,millions,22.7,0.96,504.9,168.0,,"Fiscal year ended September 30, 1990; Total Revenues = 1006.5."
+ANDV,1989,762.6,millions,-30.5,-2.83,445.3,163.2,,"Fiscal year ended September 30, 1989; Total Revenues = 767.0."
+APOL,UNKNOWN,,,,,,,,Snippet contains only the table of contents and Item 1 Business overview; the actual Selected Consolidated Financial Data (listed at page 31) was not captured in this extraction.
+AVY,1993,2.61 billion,as reported,84.4 million,1.46,,,,"No Selected Financial Data table present in snippet (that table is on pages 30-31 of the 1993 Annual Report, incorporated by reference and not reproduced here); these figures are pulled from the Item 7 MD&A narrative instead, which happens to state 3 years of sales/net income/EPS in prose. Net income excluding cumulative effect of accounting changes was $83.3 million ($1.44/share); the $84.4M/$1.46 figure includes those cumulative effects. Total assets/long-term debt/shares outstanding not disclosed anywhere in this snippet."
+AVY,1992,2.62 billion,as reported,80.1 million,1.33,,,,"See 1993 row note - extracted from MD&A narrative, not a Selected Financial Data table."
+AVY,1991,2.55 billion,as reported,63 million,1.02,,,,"See 1993 row note - extracted from MD&A narrative, not a Selected Financial Data table. Source text renders the year as 'l991' (OCR/typo artifact for '1991')."
+BCR,1993,970800,thousands,56000,1.07,798600,68500,52197,
+BCR,1992,990200,thousands,75000,1.42,712500,68600,52909,
+BCR,1991,876000,thousands,57200,1.08,657600,68900,53063,
+BCR,1990,785300,thousands,40300,.76,612800,69800,53266,
+BCR,1989,777800,thousands,65400,1.18,562600,70300,55419,
+BEN,1989,225139,thousands,78637,1.00,393952,,,Fiscal year ended September 30; 'Notes payable and leases' line ($6122) used loosely as debt figure but not recorded as long_term_debt since it is not labeled as such; EPS and dividends restated for 3-for-2 split Dec 1989 and 2-for-1 split Mar 1992; shares outstanding not disclosed as a count in this table
+BEN,1990,251324,thousands,89443,1.14,478542,,,Fiscal year ended September 30; restated EPS per stock splits; shares outstanding not disclosed as a count
+BEN,1991,300604,thousands,98236,1.26,578610,,,Fiscal year ended September 30; restated EPS per stock splits; shares outstanding not disclosed as a count
+BEN,1992,370943,thousands,124051,1.59,834287,,,Fiscal year ended September 30; restated EPS per stock splits; shares outstanding not disclosed as a count
+BEN,1993,640744,thousands,175522,2.12,1581534,,,"Fiscal year ended September 30; restated EPS per stock splits; shares outstanding not disclosed as a count; 'Notes payable and leases' was $506,536 but not recorded as long_term_debt (different line item)"
+CA,1994,2148470,thousands,401262,2.34,2491605,71381,,Fiscal year ended March 31; figures reflect restatement for adoption of AICPA SOP 91-1 (Software Revenue Recognition) in 1992; shares outstanding not disclosed as a count in this table
+CA,1993,1841008,thousands,245544,1.44,2348819,166714,,Fiscal year ended March 31; restated per SOP 91-1
+CA,1992,1508761,thousands,162909,.92,2168862,40804,,Fiscal year ended March 31; restated per SOP 91-1
+CA,1991,1300558,thousands,130255,.70,1515944,24611,,Fiscal year ended March 31; dividends declared per share not given for 1991 (blank in source table); restated per SOP 91-1
+CA,1990,1244402,thousands,123225,.66,1385667,26089,,Fiscal year ended March 31; dividends declared per share not given for 1990 (blank in source table); restated per SOP 91-1
+CERN,1994,155917,thousands,19501,1.31,156410,30235,14881,
+CERN,1993,120572,thousands,14558,1.00,104910,10354,14579,
+CERN,1992,101145,thousands,9932,.69,66667,8310,14340,
+CERN,1991,77240,thousands,4688,.35,56155,7982,13437,
+CERN,1990,57110,thousands,2636,.19,44175,7729,13816,
+CSCO,1995,1978916,thousands,421008,1.52,1757279,,277298,"Fiscal year ended July 30, 1995 (5 years ended July 30, 1995). Shares figure is 'shares used in per-share calculation' (weighted avg), not period-end shares outstanding. Long-term debt not disclosed in this table."
+CSCO,1994,1242975,thousands,314867,1.19,1053694,,265051,"Fiscal year ended ~July 1994. Shares figure is weighted-average shares used in EPS calc, not period-end shares outstanding."
+CSCO,1993,649035,thousands,171955,0.67,595213,,258133,"Fiscal year ended ~July 1993. Shares figure is weighted-average shares used in EPS calc, not period-end shares outstanding."
+CSCO,1992,339623,thousands,84386,0.33,323933,,254072,"Fiscal year ended ~July 1992. Shares figure is weighted-average shares used in EPS calc, not period-end shares outstanding."
+CSCO,1991,183184,thousands,43189,0.17,154145,,250320,"Fiscal year ended ~July 1991. Shares figure is weighted-average shares used in EPS calc, not period-end shares outstanding."
+DOC,1993,92549,thousands,44087,1.66,549638,245291,,"Years ended Dec 31; amounts in thousands except per-share. long_term_debt taken from table line 'Debt Obligations'. Table also disclosed Funds From Operations, Dividends Paid, and Stockholders' Equity (not captured in schema). Shares outstanding not directly disclosed (only per-share figures)."
+DOC,1992,83727,thousands,35715,1.38,509150,205760,,Years ended Dec 31; amounts in thousands except per-share. long_term_debt taken from table line 'Debt Obligations'.
+DOC,1991,79417,thousands,26451,1.15,458579,212431,,Years ended Dec 31; amounts in thousands except per-share. long_term_debt taken from table line 'Debt Obligations'.
+DOC,1990,72046,thousands,23174,1.03,476469,222909,,Years ended Dec 31; amounts in thousands except per-share. long_term_debt taken from table line 'Debt Obligations'.
+DOC,1989,62475,thousands,13801,0.78,431353,233332,,Years ended Dec 31; amounts in thousands except per-share. long_term_debt taken from table line 'Debt Obligations'.
+EFX,1994,1421996,thousands,120346,,,,,"Equifax. Years ended Dec 31; dollars in thousands except per share. Per-share table truncated in snippet mid-row ('Income before accounting changes 1.62 .85 1...'), and multiple per-share sub-lines (before unusual items, unusual items, before accounting changes, cumulative accounting change effect) make it unsafe to confidently assign a single reported basic net income per share without the full table; left blank rather than guess. Total assets and long-term debt not present in this snippet."
+EFX,1993,1217217,thousands,63515,,,,,See 1994 note re: truncated per-share table; not extracted to avoid guessing. Net income affected by unusual items.
+EFX,1992,1134333,thousands,85346,,,,,See 1994 note re: truncated per-share table; not extracted to avoid guessing.
+EFX,1991,1093827,thousands,5107,,,,,"See 1994 note re: truncated per-share table; not extracted to avoid guessing. Net income depressed by $48,991 thousand cumulative effect of accounting change and $32,044 thousand unusual items."
+EFX,1990,1078753,thousands,63930,,,,,See 1994 note re: truncated per-share table; not extracted to avoid guessing.
+EFX,1989,1001617,thousands,63532,,,,,See 1994 note re: truncated per-share table; not extracted to avoid guessing.
+EFX,1988,894482,thousands,39450,,,,,"See 1994 note re: truncated per-share table; not extracted to avoid guessing. Net income includes $5,400 thousand cumulative effect of accounting change and reduced $27,669 thousand unusual items."
+EMC,1993,782621,thousands,127122,0.60,829646,274029,217225,"EMC Corporation. EPS and shares figures are 'fully diluted' per table (no separate primary/basic EPS disclosed in this snippet); shares figure is weighted-average fully diluted shares, not period-end shares outstanding. Long-term debt is 'Long-term obligations', excludes current portion of long-term debt per footnote."
+EMC,1992,385706,thousands,29508,0.16,338780,76093,190548,Fully diluted EPS/shares (no primary disclosed in snippet). Long-term obligations excludes current portion.
+EMC,1991,260337,thousands,11409,0.07,205503,16165,166220,Fully diluted EPS/shares (no primary disclosed in snippet). Long-term obligations excludes current portion.
+EMC,1990,189734,thousands,3527,0.02,167547,16814,158523,Fully diluted EPS/shares (no primary disclosed in snippet). Long-term obligations excludes current portion.
+EMC,1989,146719,thousands,-21566,-0.14,145029,15959,151725,Net loss year. Fully diluted EPS/shares (no primary disclosed in snippet). Long-term obligations excludes current portion.
+EMR,1994,8607.2,millions,788.5,3.52,8215.0,279.9,,Emerson Electric; fiscal year ended September 30. Dollars in millions except per share. Net earnings of $788.5M reflects a $115.9M ($.52/share) cumulative-effect charge for change in accounting for postretirement benefits; income before that change was $904.4 million. Shares outstanding not disclosed in this table (only per-share amounts).
+EMR,1993,8173.8,millions,708.1,3.15,7814.5,438.0,,Fiscal year ended September 30. Shares outstanding not disclosed in this table.
+EMR,1992,7706.0,millions,662.9,2.96,6627.0,448.0,,Fiscal year ended September 30. Shares outstanding not disclosed in this table.
+EMR,1991,7427.0,millions,631.9,2.83,6364.4,450.2,,Fiscal year ended September 30. Shares outstanding not disclosed in this table.
+EMR,1990,7573.4,millions,613.2,2.75,6376.4,496.2,,Fiscal year ended September 30. Shares outstanding not disclosed in this table.
+ESV,UNKNOWN,,,,,,,,Filer is Energy Service Company/ENSCO; snippet is TOC plus Item 1 Business narrative; actual Selected Consolidated Financial Data table (page 15) not captured in snippet
+FLS,1994,345388,thousands,17158,0.90,274104,,19147,Cumulative effect of accounting change footnoted (A)/(B) for 1993/1992 but not detailed in snippet
+FLS,1993,313920,thousands,16107,0.84,247940,,19078,Includes -$385K cumulative effect of accounting change; footnote (A) referenced but not shown in snippet
+FLS,1992,300357,thousands,-7834,-0.41,250560,,19070,"Net loss driven by -$21,063K cumulative effect of change in accounting principle; footnote (B) referenced but not shown in snippet"
+FLS,1991,296489,thousands,19601,1.03,213385,,19004,
+FLS,1990,296787,thousands,20910,1.11,206395,,18803,Long-term debt not disclosed in this excerpt of the table (Financial Condition section shown does not include a long-term debt line)
+FTR,1993,619392,thousands,125630,0.71,2627118,547673,,"Net income figure is 'Income from continuing operations', not a labeled total net income line; EPS is Series A (Series B identical at 0.71); shares outstanding not separately disclosed in snippet"
+FTR,1992,580464,thousands,115013,0.66,1887981,522699,,Net income figure is 'Income from continuing operations'; EPS Series A/B identical at 0.66; shares outstanding not separately disclosed
+FTR,1991,545025,thousands,112354,0.65,1721452,484021,,Net income figure is 'Income from continuing operations'; EPS Series A/B identical at 0.65; shares outstanding not separately disclosed
+FTR,1990,528251,thousands,105624,0.60,1491199,412348,,Net income figure is 'Income from continuing operations'; EPS Series A/B identical at 0.60; shares outstanding not separately disclosed
+FTR,1989,483582,thousands,97768,0.53,1365534,379729,,Net income figure is 'Income from continuing operations'; EPS Series A/B identical at 0.53; shares outstanding not separately disclosed
+GL,1993,2176835,thousands,297979,4.01,,,73502,Ticker GL (Torchmark). Net income per common share shown; balance-sheet section (Total assets/Long-term debt) begins after snippet cutoff and is not present
+GL,1992,2045810,thousands,265477,3.58,,,73237,Balance-sheet data not present in snippet (cut off)
+GL,1991,1907441,thousands,246489,3.13,,,76728,Balance-sheet data not present in snippet (cut off)
+GL,1990,1787148,thousands,229177,2.85,,,77950,Balance-sheet data not present in snippet (cut off)
+GL,1989,1629326,thousands,211308,2.59,,,78634,Balance-sheet data not present in snippet (cut off)
+HNZ,1994,7046738,thousands,602944,2.35,6381146,1727002,,Fiscal year ended April 27 1994 (52 weeks); 'Net income' row used (equals income before cumulative effect for this year); results include gains from sale of confectionery/Near East businesses
+HNZ,1993,7103374,thousands,396313,1.53,6821321,1009381,,Fiscal year ended April 28 1993 (52 weeks); net income reflects FAS 106 cumulative effect adoption (income before cumulative effect was 529943) and restructuring charges
+HNZ,1992,6581867,thousands,638295,2.40,5931901,178388,,Fiscal year ended April 29 1992 (52 weeks); includes restructuring charges and gain on sale of Hubinger Company
+HNZ,1991,6647118,thousands,567999,2.13,4935382,716937,,Fiscal year ended May 1 1991 (52 weeks)
+HNZ,1990,6085687,thousands,504451,1.90,4487451,875228,,Fiscal year ended May 2 1990 (52 weeks)
+HOG,1993,1217428,thousands,-11885,,,,37950,"Calendar year (Dec 31 1993 implied); EPS not shown in snippet (table truncated before per-share line); net income reflects cumulative effect of accounting changes (-30328); SG&A line has an unexplained footnote asterisk not captured in snippet; total assets/long-term debt not disclosed in this snippet (only net interest expense shown); shares_outstanding is weighted average common shares assuming no dilution, in thousands, not period-end shares"
+HOG,1992,1105284,thousands,53785,,,,35889,"Net income before extraordinary item was 54173, after extraordinary item (-388) net income is 53785; total assets/long-term debt not disclosed in snippet; shares_outstanding is weighted average, thousands"
+HOG,1991,939863,thousands,36972,,,,35580,"Total assets/long-term debt not disclosed in snippet; shares_outstanding is weighted average, thousands"
+HOG,1990,864600,thousands,37830,,,,35576,"Net income before extraordinary item (-478) was 38308, includes discontinued operation gain of 3590; total assets/long-term debt not disclosed; shares_outstanding is weighted average, thousands"
+HOG,1989,790967,thousands,32942,,,,34548,"Net income after extraordinary item (-3258) from income before extraordinary items of 36200 (incl. discontinued ops gain 3590... actually discontinued ops reported only for 1989 per table: 3590); total assets/long-term debt not disclosed; shares_outstanding is weighted average, thousands"
+HP,1994,329001,thousands,20971,0.86,624827,0,,"Fiscal year ended ~Sept 30 1994; figure labeled 'Income from continuing operations' in source table, used here as net_income proxy -- may exclude discontinued items; long-term debt reported as '-0-'"
+HP,1993,315097,thousands,24550,1.01,610935,3600,,Fiscal year ended ~Sept 30 1993; figure labeled 'Income from continuing operations'
+HP,1992,239700,thousands,10849,0.45,585504,8339,,Fiscal year ended ~Sept 30 1992; figure labeled 'Income from continuing operations'
+HP,1991,213946,thousands,21241,0.88,575168,5693,,Fiscal year ended ~Sept 30 1991; figure labeled 'Income from continuing operations'
+HP,1990,238544,thousands,47562,1.97,582927,5648,,Fiscal year ended ~Sept 30 1990; figure labeled 'Income from continuing operations'
+HRL,UNKNOWN,,,,,,,,Snippet contains only Item 6/7 boilerplate stating Selected Financial Data (ten-year table) is incorporated by reference to the Annual Stockholders' Report; no actual data table present in filing text extracted
+IFF,1994,1315237,thousands,226022,2.03,1399725,14342,,EPS reflects 3-for-1 stock split distributed Jan 19 1994
+IFF,1993,1188645,thousands,202471,1.78,1225257,0,,Long-term debt reported as '--' (none)
+IFF,1992,1126446,thousands,170594,1.48,1267594,0,,Net income includes accounting-change charge of -6089 (income before accounting changes was 176683); also reflects nonrecurring charge of 13021 after tax from European aroma chemical consolidation plan; long-term debt reported as '--' (none)
+IFF,1991,1016968,thousands,168674,1.47,1217372,0,,Long-term debt reported as '--' (none)
+IFF,1990,962810,thousands,156681,1.37,1129395,0,,Long-term debt reported as '--' (none)
+JEF,1993,1408058,thousands,245454,8.38,,,,"Calendar year ended Dec 31 1993; primary EPS used (fully diluted was 3.89 for continuing ops before cumulative effect, not fully given for net income line -- truncated in snippet); net income includes cumulative effect of accounting change of 129195; total assets/long-term debt balance not disclosed (only interest expense shown); insurance company (Provision for insurance losses line present)"
+JEF,1992,1573015,thousands,130607,5.35,,,,Total assets/long-term debt not disclosed in snippet (only interest expense shown)
+JEF,1991,1086748,thousands,94830,4.00,,,,Total assets/long-term debt not disclosed in snippet (only interest expense shown)
+JEF,1990,674914,thousands,47340,1.95,,,,Net income reflects loss from discontinued operations of -17670; total assets/long-term debt not disclosed in snippet
+JEF,1989,659061,thousands,64311,2.41,,,,Net income includes income from discontinued operations of 41744; total assets/long-term debt not disclosed in snippet
+KMB,1993,6972.9,millions,510.9,3.18,6380.7,933.1,,Net income includes $15.5M charge ($.10/share) for enactment of 1993 Tax Act.
+KMB,1992,7091.1,millions,135.0,0.84,6029.1,994.6,,"Net income of $135.0M reflects $250.0M pretax ($172.0M after-tax, $1.07/share) restructuring charge and $210.0M net after-tax charges ($1.31/share) for cumulative effect of accounting changes (postretirement benefits and income taxes); 'Income Before Cumulative Effects of Accounting Changes' was $345.0M ($2.15/share) before those cumulative-effect charges."
+KMB,1991,6776.9,millions,508.3,3.18,5704.8,874.7,,Net income includes $20.0M favorable adjustment ($.13/share) related to disposition of Spruce Falls Power and Paper Company.
+KMB,1990,6407.3,millions,432.1,2.70,5283.9,728.5,,Net income includes $44.0M charge ($.28/share) related to disposition of Spruce Falls Power and Paper Company.
+KMB,1989,5733.6,millions,423.8,2.63,4923.0,745.1,,
+KR,FYE Jan 1 1994 (fiscal 1993, 52 wks),22384301,thousands,-12220,0.03,4480464,4135013,
+KR,FYE Jan 2 1993 (fiscal 1992, 53 wks),22144588,thousands,-5943,-0.06,4303084,4472978,
+KR,FYE Dec 28 1991 (fiscal 1991, 52 wks),21350530,thousands,79855,0.89,4114351,4407764,
+KR,FYE Dec 29 1990 (fiscal 1990, 52 wks),20260974,thousands,82380,0.95,4118542,4557838,
+KR,FYE Dec 30 1989 (fiscal 1989, 52 wks),19103671,thousands,-72722,-0.92,4241987,4737393,
+LEG,1993,1526.7,millions,85.9,2.09,901.9,165.8,,Bottom-line figure reported by the company is 'Earnings from continuing operations' (no separate 'Net Income' line in this table); prior-year amounts restated for pooling-of-interests acquisitions.
+LEG,1992,1315.0,millions,65.4,1.64,772.0,147.9,,Restated for pooling-of-interests acquisitions.
+LEG,1991,1221.4,millions,40.0,1.08,746.7,232.7,,Restated for pooling-of-interests acquisitions.
+LEG,1990,1231.3,millions,30.2,0.82,768.8,269.4,,Includes restructuring charge of $20.3M pretax / $14.3M after-tax ($.39/share); restated for pooling-of-interests acquisitions.
+LEG,1989,1117.4,millions,48.9,1.34,662.6,205.0,,Restated for pooling-of-interests acquisitions.
+LHX,FYE Jun 30 1994,3336.1,millions,111.8,2.82,2677.1,661.7,,Net income includes $(10.1)M cumulative effect of change in accounting principle ($(.25)/share); income from continuing operations before that item was $121.9M ($3.07/share).
+LHX,FYE Jun 30 1993,3099.1,millions,111.1,2.82,2542.0,612.0,,
+LHX,FYE Jun 30 1992,3004.0,millions,75.2,1.92,2483.8,612.5,,Net income includes discontinued operations of $(9.3)M ($(.24)/share) and extraordinary loss on early debt retirement of $(3.0)M ($(.08)/share); income from continuing operations before these items was $87.5M ($2.24/share).
+LHX,FYE Jun 30 1991,3040.1,millions,19.5,0.50,2485.8,563.3,,
+LHX,FYE Jun 30 1990,3052.7,millions,130.7,3.30,2625.1,300.8,,
+LM,FYE Mar 31 1994,397534,thousands,36048,2.98,811488,102487,12109820,Long-term debt field populated with 'Subordinated liabilities' as reported (no separate 'long-term debt' line in this table); shares_outstanding is average PRIMARY shares outstanding for the fiscal year (not period-end count); EPS/share and share figures adjusted for 5-for-4 stock split paid September 1993.
+LM,FYE Mar 31 1993,336347,thousands,30203,2.61,640454,34597,11574018,Long-term debt field populated with 'Subordinated liabilities' as reported; shares_outstanding is average primary shares outstanding.
+LM,FYE Mar 31 1992,292356,thousands,21117,1.85,579883,35020,11386148,Long-term debt field populated with 'Subordinated liabilities' as reported; shares_outstanding is average primary shares outstanding.
+LM,FYE Mar 31 1991,251021,thousands,13524,1.21,502678,35120,11142970,Long-term debt field populated with 'Subordinated liabilities' as reported; shares_outstanding is average primary shares outstanding.
+LM,FYE Mar 31 1990,253364,thousands,12902,1.15,440198,35120,11235695,Long-term debt field populated with 'Subordinated liabilities' as reported; shares_outstanding is average primary shares outstanding.
+LNC,1993,8289.8,millions,318.9,3.12,48380.4,335.1,,Net income includes cumulative effect of accounting change; income before that item was $415.3M ($4.06/share); prior years (1989-1992) restated for FAS 109 adoption; 1993 shareholders' equity reflects FAS 115 adoption; per-share figures affected by 1993 two-for-one stock split.
+LNC,1992,8034.1,millions,359.2,3.86,39547.3,423.0,,Restated for FAS 109 adoption.
+LNC,1991,9169.0,millions,201.9,2.23,34013.1,252.6,,Restated for FAS 109 adoption.
+LNC,1990,8489.5,millions,176.6,1.97,27597.3,378.5,,Restated for FAS 109 adoption.
+LNC,1989,8081.1,millions,256.1,2.88,25070.1,378.8,,Restated for FAS 109 adoption.
+LUMN,1993,433197,thousands,69004,1.32,,,55892,"EPS shown is FULLY DILUTED (no separately disclosed primary EPS in this excerpt); shares_outstanding is average fully diluted shares outstanding (thousands), not period-end count; total_assets and long_term_debt left blank because the 'Selected Balance Sheet Data' table began in the source but the snippet was truncated before numeric values appeared - not guessed."
+LUMN,1992,359602,thousands,44305,0.91,,,48653,"Net income includes $(15,668) cumulative effect of change in accounting principle ($(.31)/share); income before that item was $59,973. EPS is fully diluted. Total assets/long-term debt truncated out of snippet."
+LUMN,1991,282527,thousands,37419,0.79,,,47432,EPS is fully diluted. Total assets/long-term debt truncated out of snippet.
+LUMN,1990,250365,thousands,31098,0.66,,,46944,EPS is fully diluted. Total assets/long-term debt truncated out of snippet.
+LUMN,1989,215390,thousands,22164,0.49,,,44540,EPS is fully diluted. Total assets/long-term debt truncated out of snippet.
+LUV,1994,2591933,thousands,179331,1.22,2823071,583071,,EPS is 'net income per common and common equivalent share before cumulative effect of accounting changes' - the only EPS line disclosed in this excerpt.
+LUV,1993,2296673,thousands,169543,1.05,2576037,639136,,"Net income includes cumulative effect of accounting change of $15,259K; EPS shown is before that cumulative effect (only EPS line disclosed)."
+LUV,1992,1802979,thousands,109923,0.68,2368856,735754,,"Net income includes cumulative effect of accounting change of $12,538K; EPS shown is before that cumulative effect (only EPS line disclosed)."
+LUV,1991,1379286,thousands,33148,0.25,1854331,617434,,EPS shown is before cumulative effect of accounting changes (only EPS line disclosed).
+LUV,1990,1237276,thousands,50605,0.39,1480813,327553,,EPS shown is before cumulative effect of accounting changes (only EPS line disclosed); other expenses net footnoted (4).
+M,FYE Jan 28 1995,8315877,thousands,187616,,,,,"Source table has a vertical divider ('|') separating the FY1995/1994/1993 columns from the FY1992/1991 columns, apparently marking a fresh-start/reorganization accounting boundary (consistent with emergence from Chapter 11 reorganization circa Feb 1994); figures on opposite sides of the divider may not be directly comparable per the filer's own table. EPS, total assets, and long-term debt rows were not visible before the snippet was truncated - left blank rather than guessed."
+M,FYE Jan 29 1994,7229406,thousands,193248,,,,,See FY1995 note re: reorganization divider in source table. EPS/total assets/long-term debt truncated out of snippet.
+M,FYE Jan 30 1993,7079941,thousands,113009,,,,,See FY1995 note re: reorganization divider in source table. EPS/total assets/long-term debt truncated out of snippet.
+M,FYE Feb 1 1992,6932323,thousands,836392,,,,,"On the far side of the source table's reorganization divider from FY1993-1995. Net income includes extraordinary items of $2,165,515K and reorganization items of $(1,679,936)K. EPS/total assets/long-term debt truncated out of snippet."
+M,FYE Feb 2 1991,7141983,thousands,-271446,,,,,"On the far side of the source table's reorganization divider from FY1993-1995. Net loss includes reorganization items of $(127,032)K. EPS/total assets/long-term debt truncated out of snippet."
+MMM,1993,14020,millions,1263,5.82,12197,796,,
+MMM,1992,13883,millions,1233,5.63,11955,687,,"Net income/EPS include $6M ($0.02/sh) increase from legal settlement, special charges, and cumulative effect of accounting changes (footnote *)"
+MMM,1991,13340,millions,1154,5.26,11304,764,,
+MMM,1990,13021,millions,1308,5.91,11079,760,,
+MMM,1989,11990,millions,1244,5.60,9741,885,,
+NEE,1993,5316294,thousands,428749,2.30,13078012,3748983,,Net income/EPS carry footnote (1) not defined in excerpt; income from continuing operations was same figure (428749/2.30)
+NEE,1992,5193327,thousands,466949,2.65,12306305,3960096,,Prior years' data reclassified to conform to current year's presentation
+NEE,1991,5249436,thousands,240578,1.48,11281785,3668139,,Net income/EPS carry footnotes (1)(3) not defined in excerpt; income from continuing operations was higher (376148/2.31)
+NEE,1990,-391005,thousands,-391005,-2.86,10802008,3852662,,"Net loss carries footnotes (2)(3) not defined in excerpt; income from continuing operations was positive (298175/2.18); net_sales_or_revenue field here is total operating revenues of 5086345, not the negative NI figure -- see notes"
+NEE,1989,5032544,thousands,410416,3.12,10526529,3449443,,
+NWL,1994,2074.9,millions,195.6,1.24,,,157.8,shares_outstanding is weighted average shares (millions); total assets/long-term debt not disclosed in this excerpt
+NWL,1993,1645.0,millions,165.3,1.05,,,157.3,weighted average shares (millions); total assets/long-term debt not disclosed in this excerpt
+NWL,1992,1451.7,millions,119.1,0.76,,,155.8,Includes cumulative effect of accounting change of -44.2M (-0.29/sh); before that change NI was 163.3M/$1.05; weighted average shares (millions); total assets/long-term debt not disclosed
+NWL,1991,1259.0,millions,135.6,0.89,,,151.5,weighted average shares (millions); total assets/long-term debt not disclosed in this excerpt
+NWL,1990,1204.4,millions,125.5,0.84,,,148.9,weighted average shares (millions); total assets/long-term debt not disclosed in this excerpt
+PGR,1993,1954.8,millions,267.3,3.58,4011.3,477.1,,EPS presented on fully diluted basis (co. footnote 3); per-share figures adjusted for Dec 8 1992 3-for-1 stock split. 'Long-term debt' field = 'Funded debt outstanding' as labeled in filing.
+PGR,1992,1738.9,millions,153.8,2.05,3440.9,568.5,,"Includes $106.0M pretax ($70.0M after-tax, $.97/sh) CA Prop 103 reserve reduction; adopted SFAS 109, cumulative effect increased NI $14.2M ($.20/sh); total assets restated per SFAS 113; EPS fully diluted."
+PGR,1991,1493.1,millions,32.9,0.41,3317.2,644.0,,Deferred tax asset writedown under SFAS 96 included in Federal income tax provision; total assets restated per SFAS 113; EPS fully diluted.
+PGR,1990,1376.2,millions,93.4,1.19,2912.4,644.4,,Total assets restated per SFAS 113; EPS fully diluted basis.
+PGR,1989,1392.7,millions,78.0,0.94,2643.7,645.9,,"EPS fully diluted basis (only EPS figure given, no separate primary EPS disclosed)."
+PLL,1994,700848,thousands,98922,0.86,959579,54097,,"Fiscal year ended July 30 1994 (footnote a); includes pretax charge $3,696K ($2,332K after-tax, $.02/sh) for German ops restructuring and Aerospace bad-debt write-off. EPS basis not specified as primary/diluted in excerpt (single EPS line given)."
+PLL,1993,687222,thousands,78312,0.68,902273,24540,,"Fiscal year ended July 31 1993 (footnote b); includes pretax charge $26,710K ($17,310K after-tax, $.15/sh) for Aeropower/Industrial Fluid Power integration and leasehold write-off."
+PLL,1992,685068,thousands,92708,0.79,912876,59003,,"Fiscal year ended Aug 1 1992 (footnote c); includes $3,690K pretax charge ($.02/sh) from promissory-note settlement and $2,475K ($.02/sh) benefit from adopting SFAS 109."
+PLL,1991,656979,thousands,79921,0.69,786654,51605,,Fiscal year ended Aug 3 1991.
+PLL,1990,564498,thousands,66235,0.57,797771,56343,,Fiscal year ended July 28 1990.
+PNW,1993,,thousands,189230,2.17,6956799,2633620,87423817,"'Total' EPS line used (continuing+discontinued+accounting change), effectively basic EPS. No single consolidated revenue total disclosed in table; components: Electric revenue $1,686,290K, Real estate revenue $32,248K, no rate-refund provision. Net income includes $19,252K cumulative effect of accounting change for income taxes. Shares outstanding = year-end common shares."
+PNW,1992,,thousands,156440,1.80,6270476,2774305,87161872,"Components: Electric revenue $1,669,679K, Real estate revenue $19,959K. Net income includes $6,000K income from discontinued operations."
+PNW,1991,,thousands,-186862,-2.15,6147639,2996910,87009974,"Net loss (footnote a on continuing-ops loss of $340,317K). Components: Electric revenue $1,515,289K, provision for rate refund $(53,436)K, Real estate revenue $12,697K. Includes $153,455K income from discontinued operations."
+PNW,1990,,thousands,97333,1.12,6793755,3218168,86873174,"Components: Electric revenue $1,508,325K, Real estate revenue $81,264K. Includes $27,125K income from discontinued operations."
+PNW,1989,,thousands,-551415,-6.36,6791748,3423686,86723774,"Net loss. Components: Electric revenue $1,447,154K, Real estate revenue $44,492K. Includes $(675,968)K loss from discontinued operations."
+RHI,1993,306166,thousands,11723,0.93,,,,"Net service revenues and net income before extraordinary item (no extraordinary item in 1993, so net income = income before extraordinary item). EPS = income per primary share. Total assets/long-term debt/shares outstanding not shown in this excerpt (table truncated)."
+RHI,1992,220179,thousands,4382,0.37,,,,EPS = income per primary share. Total assets/long-term debt/shares outstanding not shown in this excerpt (table truncated).
+RHI,1991,209455,thousands,4115,0.35,,,,EPS = income per primary share. Total assets/long-term debt/shares outstanding not shown in this excerpt (table truncated).
+RHI,1990,248557,thousands,9319,0.82,,,,"Includes extraordinary item of $453K ($.04/sh) from debenture repurchases, net of tax. Income before extraordinary item was $8,866K ($.78/sh). Total assets/long-term debt/shares outstanding not shown in this excerpt (table truncated)."
+RHI,1989,234504,thousands,13467,1.16,,,,"Includes extraordinary item of $345K ($.03/sh) from debenture repurchases, net of tax. Income before extraordinary item was $13,122K ($1.13/sh). Total assets/long-term debt/shares outstanding not shown in this excerpt (table truncated)."
+RTN,UNKNOWN,,,,,,,,"Snippet is TOC plus Item 1 Business narrative describing United Technologies Corporation (CIK 101829), not Raytheon; ticker RTN appears mismapped to United Technologies' CIK/accession in the source data (identical snippet also appears under ticker RTX). Selected Financial Data table not reproduced in text; page states it is set forth on pp.27-35 of the 1993 Annual Report to Shareowners (incorporated by reference)."
+STZ,1990,179845,thousands,4435,0.46,142868,63106,,Fiscal year ended August 31 (non-calendar FY); net sales is gross sales less excise taxes; primary EPS used (fully diluted not disclosed for 1990/1991)
+STZ,1991,176559,thousands,7710,0.84,147207,62278,,Fiscal year ended August 31 (non-calendar FY); net sales is gross sales less excise taxes; fully diluted EPS not disclosed this year
+STZ,1992,245243,thousands,1356,1.08,217835,61909,,Fiscal year ended August 31 (non-calendar FY); net sales is gross sales less excise taxes; fully diluted EPS of 1.01 also disclosed (not used)
+STZ,1993,306308,thousands,15604,1.30,355182,108303,,Fiscal year ended August 31 (non-calendar FY); net sales is gross sales less excise taxes; fully diluted EPS of 1.20 also disclosed (not used)
+STZ,1994,629584,thousands,11733,0.74,826562,289122,,"Fiscal year ended August 31 (non-calendar FY); net sales is gross sales less excise taxes; includes $24,005K nonrecurring restructuring expense; fully diluted EPS equals primary (0.74) this year"
+SYY,1990,7590568,thousands,132461,0.73,2001020,583496,,
+SYY,1991,8149700,thousands,153830,0.83,2177695,543176,,
+SYY,1992,8892785,thousands,172229,0.93,2325206,488828,,
+SYY,1993,10021513,thousands,201807,1.08,2530043,494062,,Fiscal 1993 was a 53-week fiscal year per table caption
+SYY,1994,10942499,thousands,216752,1.18,2811729,538711,,
+TAP,1988,1273745,thousands,46314,1.26,1570765,0,,"Filer is Adolph Coors Company (ACC); net income figure is the 'Income (loss) from continuing operations' line, no separate total net income line disclosed; long-term debt reported as $0"
+TAP,1989,1367718,thousands,7219,0.20,1530783,0,,Filer is Adolph Coors Company (ACC); net income figure is the 'Income (loss) from continuing operations' line; long-term debt reported as $0
+TAP,1990,1478287,thousands,32233,0.87,1761664,110000,,Filer is Adolph Coors Company (ACC); net income figure is the 'Income (loss) from continuing operations' line
+TAP,1991,1529986,thousands,17084,0.46,1844811,220000,,Filer is Adolph Coors Company (ACC); net income figure is the 'Income (loss) from continuing operations' line
+TAP,1992,1550788,thousands,35729,0.95,1373371,220000,,Filer is Adolph Coors Company (ACC); net income figure is the 'Income (loss) from continuing operations' line
+TAP,1993,1581811,thousands,-41930,-1.10,1350944,175000,,"Filer is Adolph Coors Company (ACC); loss year; net income figure is the 'Income (loss) from continuing operations' line; total operating expenses include $122,540K special charges"
+USB,1993,,millions,298.0,2.39,,,,"Sales/revenue not applicable (bank holding co, shows net interest income $1,150.6M instead); EPS is primary income before cumulative effect of accounting changes (no cumulative effect in 1993); total assets/long-term debt/shares outstanding not disclosed - snippet truncated after per-share data section"
+USB,1992,,millions,311.8,1.18,,,,"Sales/revenue not applicable (bank holding co, shows net interest income $1,017.8M instead); EPS shown ($1.18) is primary income before cumulative effect of accounting changes only - excludes $1.49/share cumulative effect of accounting change also reported for 1992 (combined EPS not shown in snippet, net income figure of 311.8 does include the cumulative effect); total assets/long-term debt/shares outstanding not disclosed - snippet truncated"
+USB,1991,,millions,207.1,1.79,,,,"Sales/revenue not applicable (bank holding co, shows net interest income $941.2M instead); total assets/long-term debt/shares outstanding not disclosed - snippet truncated"
+USB,1990,,millions,57.3,0.36,,,,"Sales/revenue not applicable (bank holding co, shows net interest income $872.7M instead); total assets/long-term debt/shares outstanding not disclosed - snippet truncated"
+USB,1989,,millions,-86.8,-1.23,,,,"Sales/revenue not applicable (bank holding co, shows net interest income $898.8M instead); total assets/long-term debt/shares outstanding not disclosed - snippet truncated"
+VAR,1994,1552.5,millions,79.4,2.22,962.4,60.4,,EPS shown is fully diluted (no separate primary/basic figure given in table); note in snippet references 'Certain amounts in prior years ha[ve been restated]' but reason cut off
+VAR,1993,1311.0,millions,45.8,1.26,878.7,60.5,,EPS shown is fully diluted (no separate primary/basic figure given in table); prior-year amounts may be restated per truncated note at bottom of table
+VAR,1992,1288.0,millions,38.6,1.02,878.7,49.7,,EPS shown is fully diluted (no separate primary/basic figure given in table); prior-year amounts may be restated per truncated note at bottom of table
+VAR,1991,1377.9,millions,49.7,1.27,869.8,68.0,,EPS shown is fully diluted (no separate primary/basic figure given in table); includes cumulative effect of accounting change of $(7.8)M / $(0.20)/share; prior-year amounts may be restated per truncated note at bottom of table
+VAR,1990,1264.8,millions,-4.1,-0.10,923.6,76.8,,EPS shown is fully diluted (no separate primary/basic figure given in table); includes $(16.7)M loss from discontinued operations net of benefits; prior-year amounts may be restated per truncated note at bottom of table
+VIAB,1993,2004949,thousands,170952,1.31,6416868,2378286,,"Company is Viacom Inc./Viacom International Inc. combined entity prior to Paramount acquisition (Paramount became subsidiary March 11, 1994, not included in these figures); net income is 'Net earnings (loss)' row (before common-stock attribution adjustment of $158,202K)"
+VIAB,1992,1864683,thousands,48965,0.41,4317094,2397014,,Company is Viacom Inc./Viacom International Inc. combined entity prior to Paramount acquisition
+VIAB,1991,1711562,thousands,-49657,-0.44,4188378,2320919,,Company is Viacom Inc./Viacom International Inc. combined entity prior to Paramount acquisition
+VIAB,1990,1599625,thousands,-89781,-0.84,4027927,2537263,,Company is Viacom Inc./Viacom International Inc. combined entity prior to Paramount acquisition
+VIAB,1989,1436220,thousands,131080,1.06,3752962,2283118,,"Company is Viacom Inc./Viacom International Inc. combined entity prior to Paramount acquisition; net earnings attributable to common stock differs ($113,589K) due to preferred dividends"
+VNO,UNKNOWN,,,,,,,,Snippet is table of contents / Item 1 Business narrative only; Selected Financial Data table (referenced at page 12) not present in snippet
+ZION,UNKNOWN,,,,,,,,"Snippet is table of contents plus Item 1 Business narrative for Zions Bancorporation; only single-year figures mentioned in prose (FY1993 assets $4.3B, loans $2.2B, deposits $3.0B, equity $0.3B), not the actual multi-year Selected Financial Data table (referenced at page 14)"
+ABT,1988,4937.0,millions,752.0,0.83,4825.1,349.3,899384,Table is 'SELECTED FINANCIAL DATA (CONTINUED)' showing older years of an 11-year summary (primary FY1993-1989 data not in this snippet); NI/EPS are 'before extraordinary gain and accounting change'; shares outstanding figure is stated 'in thousands' in the filing
+ABT,1987,4387.9,millions,632.6,0.69,4385.7,271.0,906924,Same continued 11-yr table; NI/EPS before extraordinary gain and accounting change
+ABT,1986,3807.6,millions,540.5,0.58,3865.6,297.4,915356,Same continued 11-yr table; NI/EPS before extraordinary gain and accounting change
+ABT,1985,3360.3,millions,465.3,0.48,3468.4,443.0,956764,Same continued 11-yr table; NI/EPS before extraordinary gain and accounting change
+ABT,1984,3104.0,millions,402.6,0.42,3170.4,470.2,961876,Same continued 11-yr table; NI/EPS before extraordinary gain and accounting change
+ABT,1983,2927.9,millions,,,,,,"Snippet cut off mid-sentence after 'Earnings before' line for FY1983; net income, EPS, total assets, LT debt, and shares outstanding not captured for this year"
+ADSK,1995,454612,thousands,56606,1.14,,,49840,"Fiscal year ended Jan 31, 1995; shares_outstanding figure is 'shares used in computing net income per share' (weighted avg), not year-end shares outstanding; reported net income includes a ~$26M pretax litigation charge reducing EPS by $0.33 (excluding it, NI would be $73.1M / $1.47 per mgmt letter); total assets/long-term debt not disclosed in this 2-year snippet"
+ADSK,1994,405596,thousands,62166,1.25,,,49740,"Fiscal year ended Jan 31, 1994; shares_outstanding is weighted-avg shares used for EPS calc, not year-end outstanding count; total assets/long-term debt not disclosed"
+AFL,1993,5000618,thousands,243889,2.32,15442686,122062,105201,"Net income and EPS carry an unexplained footnote (1) in the source; long_term_debt value is the filing's 'Notes payable' line (no line item explicitly labeled long-term debt); shares_outstanding is 'Common shares used for EPS' (weighted avg), not year-end shares outstanding"
+AFL,1992,3986472,thousands,183367,1.79,11901374,125800,102544,long_term_debt = 'Notes payable' as labeled; shares_outstanding = weighted avg used for EPS calc
+AFL,1991,3282669,thousands,148684,1.46,10144500,138810,101980,long_term_debt = 'Notes payable' as labeled; shares_outstanding = weighted avg used for EPS calc
+AFL,1990,2678354,thousands,117186,1.15,8034832,157738,101719,long_term_debt = 'Notes payable' as labeled; shares_outstanding = weighted avg used for EPS calc
+AFL,1989,2438172,thousands,80806,0.80,6515437,213931,101420,long_term_debt = 'Notes payable' as labeled; shares_outstanding = weighted avg used for EPS calc; 'Other income' line carries footnotes (2)/(3) not detailed in snippet
+AON,1994,4157,millions,360,3.14,17922,561,,"net_income = 'Net income' line (after cumulative effect of accounting changes, vs. $356M operating income); long_term_debt = 'Notes payable' as labeled; shares outstanding not disclosed, only per-share data given"
+AON,1993,3845,millions,324,2.81,16279,594,,Same labeling caveats as 1994 row
+AON,1992,3336,millions,127,1.17,14290,556,,1992 net income (127) reflects a cumulative effect of accounting change vs. 'income before cumulative effect' of 206; EPS 1.17 corresponds to the 127 net income figure
+AON,1991,2931,millions,242,2.47,11633,501,,Same labeling caveats as 1994 row
+AON,1990,2626,millions,239,2.41,10432,517,,Same labeling caveats as 1994 row
+AXP,1993,14173,millions,1478,2.92,94132,8561,490,"Revenue and net income restated across all shown years to present Lehman Brothers as a discontinued operation; shares_outstanding = shares outstanding at year end, in millions"
+AXP,1992,15487,millions,461,0.88,90112,8614,480,Restated for Lehman Brothers discontinued operations
+AXP,1991,14966,millions,789,1.59,84541,8734,472,Restated for Lehman Brothers discontinued operations
+AXP,1990,14587,millions,181,0.34,77989,7276,464,Restated for Lehman Brothers discontinued operations
+AXP,1989,13143,millions,1157,2.70,73316,7626,418,Restated for Lehman Brothers discontinued operations
+BAC,1993,8207,millions,1501,5.78,157686,8352,,"net_sales_or_revenue = 'Income from earning assets' (bank holding company; not a conventional sales figure -- net interest income and noninterest income also given separately in snippet); EPS = 'Earnings' line (post accounting-method-change effect, vs 5.00 before that effect); total assets figure excludes Special Asset Division per filing footnote; long_term_debt = 'Capital leases and long-term debt' as labeled; shares outstanding not disclosed, only per-share data"
+BAC,1992,7780,millions,1145,4.60,118059,3066,,Same labeling caveats as 1993 row
+BAC,1991,9398,millions,202,0.76,110319,2876,,Same labeling caveats as 1993 row
+BAC,1990,10278,millions,595,2.61,112791,2766,,Same labeling caveats as 1993 row
+BAC,1989,9666,millions,954,4.48,110246,2517,,1989 figures include FDIC's interest in earnings of NationsBank of Texas per filing footnote (1); other years exclude it
+BALL,1993,2440.9,millions,-65.1,-2.38,,,28712,"net_income = final 'Net (loss) income' line, incl. Alltrista operations and a cumulative effect of accounting changes of -34.7; EPS = 'Net (loss) earnings(1)' primary/basic line, not the separately disclosed fully-diluted line; total assets/long-term debt not shown in this excerpt (income-statement/per-share portion only); shares_outstanding = weighted avg common shares outstanding (000s), not a year-end count"
+BALL,1992,2177.8,millions,67.1,2.45,,,26039,Same caveats as 1993 row
+BALL,1991,2018.4,millions,64.2,2.42,,,23125,Same caveats as 1993 row
+BALL,1990,1120.9,millions,48.2,2.03,,,21886,Same caveats as 1993 row
+BALL,1989,989.2,millions,34.8,1.44,,,22959,Same caveats as 1993 row
+BALL,1988,863.0,millions,50.5,2.17,,,23299,Same caveats as 1993 row
+BALL,1987,883.1,millions,60.1,2.54,,,23633,Same caveats as 1993 row
+BIG,1994,1055291,thousands,,,,,,"Fiscal year ended January 29, 1994. Table title 'Five Year Compound Annual Growth Rate' summary; net_sales_or_revenue = combined 'Total' of Odd Lots/Big Lots + All for One + Other segments; snippet cuts off mid-value after the pretax income line, so net income, EPS, total assets, LT debt, and shares outstanding were not captured"
+BIG,1993,929280,thousands,,,,,,"Fiscal year ended January 30, 1993; same caveat as FY1994 row (net income/EPS/other fields not reached in snippet)"
+BIG,1992,771497,thousands,,,,,,"Fiscal year ended February 1, 1992; same caveat"
+BIG,1991,679303,thousands,,,,,,"Fiscal year ended February 2, 1991; same caveat"
+BIG,1990,608681,thousands,,,,,,"Fiscal year ended February 3, 1990 (marked with an asterisk in source, likely a 53-week year); same caveat"
+BIG,1989,626557,thousands,,,,,,"Fiscal year ended January 28, 1989; same caveat"
+ADM,UNKNOWN,,,,,,,,"Item 7/8 and financial statement/schedule sections are all 'incorporated herein by reference' to the FY1994 (ended June 30, 1994) Annual Shareholders' Report; snippet contains only cross-reference language and a page/schedule index, no actual Selected Financial Data figures"
+ALTR,UNKNOWN,,,,,,,,"Selected Financial Data section is incorporated by reference to the Company's 1994 Annual Report ('Five-Year Summary'); snippet contains only reference language plus Part III director/officer biographies, no table"
+AMD,UNKNOWN,,,,,,,,"Selected financial data for FY1989-1993 incorporated by reference to the 1993 Annual Report to Stockholders ('Financial Summary'); snippet contains only reference language and a financial-statement page-index table (page numbers only, no figures)"
+ARG,UNKNOWN,,,,,,,,Snippet is a table of contents (item/page numbers only) followed by Item 1 Business narrative describing Airgas's distribution/manufacturing segments; no Selected Financial Data figures present
+AVP,UNKNOWN,,,,,,,,"Selected Financial Data ('Eleven-Year Review', FY1989-1993) incorporated by reference to Avon's 1993 Annual Report to Shareholders; snippet contains only reference language and an exhibit page-index table, no figures"
+BA,UNKNOWN,,,,,,,,"Snippet shows a table-of-contents page reference to 'Selected Financial Data' (pages 55/61) followed by MD&A narrative prose (e.g. 1993 revenues stated as '$25.4 billion' in running text); the formatted multi-year Selected Financial Data table itself is not present in the snippet, so no structured row data was extracted"
+BBWI,UNKNOWN,,,,,,,,"Selected financial data (caption 'Financial Summary') incorporated by reference to The Limited, Inc.'s 1993 Annual Report; snippet contains only reference language and a financial-statement schedule index, no table"
+BDX,UNKNOWN,,,,,,,,"Snippet captured ESOP/Savings Plan and pension-footnote tables (Note on Benefit Plans), not the Selected Financial Data 5-year summary table; the target sales/income table was not found at this location either"
+BF.B,UNKNOWN,,,,,,,,"Selected Financial Data ('11-Year Consolidated Selected Financial Data') incorporated by reference to the 1994 Annual Report to Stockholders; snippet contains only reference language and an exhibit/proxy index, no table"
+BHI,UNKNOWN,,,,,,,,"Selected Financial Data ('Condensed Comparative Consolidated Financial Information') incorporated by reference to the 1994 Annual Report to Stockholders; snippet contains only reference language and an exhibit list, no table"
+BMC,UNKNOWN,,,,,,,,"Still only cross-reference language to 1995 Annual Report page 1, plus an Item 14 table listing page locations of financial statements; no figures captured in this re-extraction either"
+BMS,UNKNOWN,,,,,,,,"Still cross-reference only to 1993 Annual Report page 23; snippet instead contains an executive-officer bio table, not the SFD figures"
+C,1993,6797,millions,916,3.74,101360,6991,,"Formerly Primerica Corp, renamed The Travelers Inc; 1993 total assets jump reflects new Travelers Insurance Group consolidation (27% purchase); income before cumulative effect of accounting changes was $951M vs reported net income $916M; weighted-avg diluted shares (from MD&A section, not the 5-yr table) 237.8M"
+C,1992,5125,millions,728,3.22,24151,3951,,1992 assets reclassified for SFAS 113 adoption; income before cumulative effect $756M vs net income $728M; weighted-avg diluted shares (MD&A) 222.8M
+C,1991,6608,millions,479,2.14,21561,4327,,Weighted-avg diluted shares (MD&A) 226.5M
+C,1990,6194,millions,373,1.64,19689,3456,,
+C,1989,5695,millions,289,1.43,17955,3008,,Revenues 1989-1991 include Fingerhut Companies as a consolidated subsidiary
+CAG,UNKNOWN,,,,,,,,Still cross-reference only to 1994 Annual Report page 26 five-year results; no figures captured
+CCE,UNKNOWN,,,,,,,,"A numeric table IS present (years 1991 pro forma/reported through 1986 pro forma/reported, i.e. 1986-1991) but the left-hand row-label column was not captured in extraction, leaving 20+ rows of unlabeled numbers; cannot reliably map rows to revenue/net income/EPS/assets without guessing at structure, so no figures recorded per the no-fabrication rule. (Internal cross-check: one row of parenthetical figures is consistent with reported EPS being negative in the earliest years, but this is inference, not a labeled figure.)"
+CCL,1994,1806016,thousands,381765,1.35,3669823,1161904,,EPS restated for 2-for-1 stock split effective Nov 30 1994; fiscal year ended November 30
+CCL,1993,1556919,thousands,318170,1.13,3218920,1031221,,EPS restated for 2-for-1 split
+CCL,1992,1473614,thousands,276584,0.98,2645607,776600,,"Net income ($276,584K) differs from income from continuing operations ($281,773K)"
+CCL,1991,1404704,thousands,84988,0.31,2650252,921689,,"Net income ($84,988K) well below income from continuing operations ($253,824K), a large one-time/discontinued-ops item; EPS restated for split"
+CCL,1990,1253756,thousands,206202,0.77,2583424,999772,,"Income from continuing operations $234,431K vs net income $206,202K"
+CI,UNKNOWN,,,,,,,,"Still cross-reference only to 1993 Annual Report 'Highlights' page 1; snippet instead contains executive-officer bios, not figures"
+CINF,UNKNOWN,,,,,,,,Still cross-reference only to Exhibit 13 (1993 Annual Report pages 18-19); no figures captured
+CL,UNKNOWN,,,,,,,,"Snippet contains MD&A narrative prose (sales/margin discussion), not the numeric 'Historical Financial Summary' table referenced separately on page 45; no figures captured"
+CLF,UNKNOWN,,,,,,,,Still cross-reference only to Exhibit 13(j) '11-Year Summary of Financial and Other Statistical Data'; no figures captured
+CMA,1993,1783,millions,341,2.85,30295,1461,,"Bank holding company - 'Total interest income' shown in lieu of net sales; primary EPS used; total borrowings year-end also disclosed as $6,861M but that includes short-term"
+CMA,1992,1933,millions,240,1.99,27556,741,,
+CMA,1991,2268,millions,280,2.41,28989,306,,
+CMA,1990,2282,millions,248,2.25,26815,331,,
+CMA,1989,2192,millions,188,1.73,23842,349,,
+CMS,UNKNOWN,,,,,,,,Snippet is a table of contents plus glossary of defined terms; no figures captured
+COST,UNKNOWN,,,,,,,,Snippet is a table of contents plus Price/Costco merger narrative (pooling-of-interests description); no numeric SFD table captured
+CPB,1994,6690,millions,630,2.51,4992,560,250.7,Fiscal Year label as printed (ends late July/early Aug); shares in millions (weighted average)
+CPB,1993,6586,millions,8,0.03,4898,462,251.9,"1993 net earnings depressed by pre-tax divestiture/restructuring charges of $353M ($300M after-tax, $1.19/sh) plus cumulative effect of accounting changes of $249M ($.99/sh); earnings before cumulative effect were $257M / $1.02 EPS"
+CPB,1992,6263,millions,491,1.95,4354,693,251.7,
+CPB,1991,6204,millions,402,1.58,4149,773,254.0,
+CPB,1990,6206,millions,4,0.02,4116,806,259.2,"1990 includes pre-tax restructuring/divestiture charges of $339M ($302M after-tax, $1.16/sh)"
+CPB,1989,5672,millions,13,0.05,3932,629,258.5,"1989 includes pre-tax restructuring charges of $343M ($261M after-tax, $1.01/sh)"
+CPB,1988,4869,millions,274,1.06,3610,526,258.9,Earnings before cumulative effect of accounting changes were $242M / $0.93 EPS; footnote (d) detail truncated in snippet
+CPB,1987,4490,millions,247,0.95,3097,380,259.8,
+CPB,1986,4287,millions,223,0.86,2763,362,258.9,Footnote (e): 51 thousand shareowners
+CPB,1985,3917,millions,198,0.77,2438,297,258.3,Footnote (e): 50 thousand shareowners
+CPB,1984,3637,millions,191,0.74,2210,283,258.1,Footnote (e): 49 thousand shareowners
+CTAS,UNKNOWN,,,,,,,,Still cross-reference only to 1994 Annual Report 'Eleven Year Financial Summary' page 1; no figures captured
+CVS,UNKNOWN,,,,,,,,Filer is Melville Corporation (CVS predecessor); still cross-reference only to 1993 Annual Report page 48; no figures captured
+D,UNKNOWN,,,,,,,,"Still cross-reference only to 1994 Annual Report page 17 (Exhibit 13); snippet shows only the financial-statement page index, no figures"
+DNB,UNKNOWN,,,,,,,,"Snippet captured Schedule VIII/IX supplementary schedules (allowance for doubtful accounts, short-term borrowings), not the Selected Financial Data summary table referenced at page F-45/34-35"
+ES,"1991 (Jan 1-May 15, stub period)",246281,thousands,-100791,,2502237,0,,"Public Service Co of New Hampshire; stub period only (fresh-start/reorg accounting after Chapter 11 emergence); no EPS or shares disclosed; figures are 'Operating Revenues/Income', not conventional net sales"
+ES,1990,660122,thousands,-210012,,2490534,0,,Full calendar year; no EPS/shares disclosed
+ES,1989,624137,thousands,-203237,,2447521,0,,"Full calendar year; no EPS/shares disclosed; snippet's separate Statistics table (1989-1993) is unrelated operating data, not part of the dollar SFD table"
+F,1993,108500000000,as reported,2529000000,4.55,,,,"No formal Selected Financial Data $ table captured - snippet contains only the 'Summary of Vehicle Sales' unit-count continuation table (1984-1993); revenue/net income/EPS instead taken from MD&A narrative ('$108.5 billion' sales, net income $2,529 million, EPS $4.55)"
+F,1992,,as reported,-7385000000,-15.61,,,,"From MD&A narrative only; company also cites pro-forma net loss of $502 million ($1.46/share) excluding a one-time $6,883 million accounting-change charge (postretirement benefits/income taxes); no revenue figure for 1992 given in this snippet"
+FCX,UNKNOWN,,,,,,,,"Selected Financial Data is pure incorporation-by-reference to page 17 of the 1993 Annual Report (Exhibit 13), not reproduced in the filing text. Only figures present: ratio of earnings to fixed charges for 1989-1993 (27.6x, 9.2x, 4.5x, 6.5x, 3.6x) and a partial MD&A sentence citing 1993 net income applicable to common stock of $21.9 million (sentence cuts off); no revenue/EPS/assets/debt/shares table recovered"
+FDO,1995,1546894565,as reported,58109525,1.03,636233767,,,
+FDO,1994,1428440427,as reported,63099039,1.12,592821871,,,"Includes $1,139,153 cumulative effect of accounting change for income taxes; income before cumulative effect was $61,959,886 (EPS $1.10)"
+FDO,1993,1297430787,as reported,64428683,1.15,537445610,,,
+FDO,1992,1158703861,as reported,55671936,1.00,478027178,,,
+FDO,1991,989345265,as reported,40241858,0.72,399271302,,,"OCR rendered total assets as '399,27l,302' (lowercase L for 1); read as 399,271,302"
+FDO,1990,874395095,as reported,28733145,0.52,355096527,,,"OCR rendered income taxes as 'l8,897,177'; read as 18,897,177"
+FDO,1989,756886681,as reported,21517237,0.39,324012452,,,
+FDO,1988,669493241,as reported,27333913,0.49,290720223,,,
+FDO,1987,560339004,as reported,24802432,0.43,242005537,,,
+FDO,1986,487734841,as reported,30510527,0.53,217357689,,,No long-term debt or shares-outstanding line disclosed in this table for any year
+FHN,UNKNOWN,,,,,,,,Pure incorporation-by-reference / table-of-contents boilerplate (Items 8-14 of Form 10-K); no Selected Financial Data figures present in snippet
+FISV,1994,563590,thousands,37664,0.95,1418358,142178,,"EPS restated for 3-for-2 stock splits (May 1993, June 1992, July 1991)"
+FISV,1993,454692,thousands,30693,0.80,1182443,113407,,EPS restated for stock splits
+FISV,1992,332090,thousands,22989,0.67,898230,53240,,EPS restated for stock splits
+FISV,1991,281333,thousands,18337,0.56,740107,53114,,EPS restated for stock splits
+FISV,1990,183180,thousands,13754,0.47,565191,37974,,EPS restated for stock splits
+FITB,UNKNOWN,,,,,,,,Pure incorporation-by-reference to page 35 of the 1993 Annual Report (Exhibit 13); no figures present in snippet
+FMC,UNKNOWN,,,,,,,,"Selected Financial Data is a bare incorporation-by-reference line (Exhibit 13 pages 34-35, 48-51, 59) followed by exhibit index/signature pages; no figures present"
+FRX,"FY1994 (year ended March 31, 1994)",351641,thousands,80198,1.75,619211,206,45957,"LTD figure is the combined 'Long-Term Debt and Deferred Income Taxes' line, not pure LTD; shares = weighted avg primary shares (thousands); fully diluted EPS was $1.72"
+FRX,"FY1993 (year ended March 31, 1993)",285364,thousands,64307,1.42,520512,191,45432,Same combined LTD/deferred-tax caveat; fully diluted EPS $1.41
+FRX,"FY1992 (year ended March 31, 1992)",239193,thousands,49569,1.13,431080,2068,43992,Fully diluted EPS $1.13 (same as primary)
+FRX,"FY1991 (year ended March 31, 1991)",175904,thousands,37869,0.90,331234,25231,41955,Fully diluted EPS $0.87
+FRX,"FY1990 (year ended March 31, 1990)",141446,thousands,29681,0.72,238948,1689,41042,Fully diluted EPS $0.72 (same as primary); reflects Feb 1991 100% stock dividend retroactively
+GD,1993,3187,millions,270,4.27,2635,38,62.6,Net income figure is 'Earnings from continuing operations' (millions); shares outstanding (millions) at Dec 31; a separate 'Long-term debt - finance operations' line of $175M is not included in this $38M LTD figure
+GD,1992,3225,millions,305,4.03,3530,183,61.8,Footnote (d) referenced on earnings/EPS but footnote text not captured in snippet; finance-ops LTD $190M kept separate
+GD,1991,3161,millions,274,3.20,4177,613,83.8,Footnote (e) referenced but text not captured; finance-ops LTD $204M kept separate
+GD,1990,3051,millions,-1,-0.01,3883,611,83.3,Loss year; finance-ops LTD $216M kept separate
+GD,1989,2975,millions,67,0.80,4566,610,83.2,Finance-ops LTD $226M kept separate
+GE,1993,60562,millions,4315,5.05,251506,28270,853990,"Net earnings fell y/y despite higher 'earnings before accounting changes' ($5,177M) due to accounting-change effects; shares outstanding in thousands (average); a separate 'GE DATA' sub-table shows different, smaller long-term-borrowings figures ($2,413M for 1993) for a different consolidation scope than the $28,270M consolidated figure used here"
+GE,1992,57073,millions,4725,5.51,192876,25376,857198,See same GE DATA sub-table caveat as 1993
+GE,1991,54629,millions,2636,3.03,166508,22681,868931,"Net earnings depressed by accounting changes vs 'earnings before accounting changes' of $4,435M"
+GE,1990,52619,millions,4303,4.85,152000,21043,887552,
+GE,1989,49135,millions,3939,4.36,126121,16110,904223,
+GHC,UNKNOWN,,,,,,,,Pure incorporation-by-reference to a 'Ten-Year Summary of Selected Historic Financial Data' table included elsewhere in the Annual Report/Form 10-K exhibit; no figures present in snippet
+GLW,1993,4004800000,as reported,-15200000,-0.09,,,,"No SFD table present (referenced as 'Five Years in Review' pages 45-46, not reproduced); revenue/net loss/EPS taken from MD&A narrative; 1993 net loss included $202.8M net non-recurring charges ($117.9M after tax/minority interest)"
+GLW,1992,,as reported,-12600000,-0.08,,,,"From MD&A narrative only; includes $294.8M after-tax cumulative-effect charge for FAS106 adoption, partly offset by $8.2M FAS109 equity gain; no dollar revenue figure given for 1992 in this snippet"
+GLW,1991,,as reported,316800000,1.69,,,,"From MD&A narrative only, given as a comparison figure; no revenue given"
+GPS,1993,3295679,thousands,258424,1.78,1763117,75000,,'Total debt' used for long_term_debt field per table's own label; shares outstanding not disclosed (only per-share and book value/share figures given)
+GPS,1992,2960409,thousands,210701,1.47,1379248,75000,,
+GPS,1991,2518893,thousands,229873,1.62,1147414,80000,,
+GPS,1990,1933780,thousands,144522,1.02,776900,17500,,
+GPS,1989,1586596,thousands,97628,0.69,579483,20000,,"Includes $6,471K non-recurring after-tax charge ($.05/share) for closing Hemisphere stores"
+GT,1994,12288.2,millions,567.0,3.75,9123.3,1108.7,,Two-for-one stock split (May 4 1993) reflected in per-share amounts; no extraordinary/cumulative items in 1994
+GT,1993,11643.4,millions,387.8,2.64,8436.1,1065.9,,Net income includes ($14.6M) extraordinary loss on early debt extinguishment and ($86.3M) cumulative effect of accounting change for postemployment benefits; income before those items was $488.7M ($3.33/share)
+GT,1992,11784.9,millions,-658.6,-4.61,8563.7,1471.1,,"Net loss driven by ($1,065.7M) transition effect of adopting FAS106 postretirement benefits accounting, partly offset by $55.1M cumulative effect of accounting for income taxes and a ($15.3M) extraordinary loss; income before those items was $367.3M ($2.57/share)"
+GT,1991,10906.8,millions,96.6,0.81,8510.5,2038.1,,Includes $22.1M ($.19/share) extraordinary tax benefit of loss carryovers; income before extraordinary items was $74.5M ($.62/share)
+GT,1990,11272.5,millions,-38.3,-0.33,8963.6,3286.4,,
+GWW,1993,2628398,thousands,148447,2.86,1376664,6214,,"Net earnings includes ($820K) cumulative effect of accounting change (-$0.02/share); before that effect, net earnings were $149,267K (EPS $2.88); no shares-outstanding count disclosed (only per-share data)"
+GWW,1992,2364421,thousands,137242,2.58,1310538,6936,,
+GWW,1991,2077235,thousands,127737,2.37,1216554,11327,,
+GWW,1990,1935209,thousands,126775,2.31,1162437,14471,,
+GWW,1989,1727454,thousands,119563,2.19,1065245,2776,,
+HAR,UNKNOWN,,,,,,,,"Pure incorporation-by-reference to Annual Report (Financial Highlights p.1; MD&A pp.21-23; Financial Statements pp.24-35, FY ended June 30 1994); no figures present in snippet"
+HAS,1993,2747176,thousands,200004,2.22,2293018,200510,90031,
+HAS,1992,2541055,thousands,179164,2.01,2082766,206189,89086,
+HAS,1991,2141096,thousands,81654,0.94,1950127,380304,86983,
+HAS,1990,1520032,thousands,89182,1.02,1284765,56912,87119,
+HAS,1989,1409678,thousands,92194,1.04,1246485,57633,88603,
+HBAN,1994,1219721,thousands,242593,1.87,17770640,1214052,,"Huntington Bancshares (bank holding company). net_sales_or_revenue is Total interest income, not a conventional sales figure. Shares outstanding not directly disclosed (only per-share amounts and book value per share given)."
+HBAN,1993,1236311,thousands,236912,1.85,17618707,762310,,Same caveats as 1994 row (bank; interest income used as revenue proxy).
+HBAN,1992,1202286,thousands,161046,1.27,16246526,478872,,Same caveats as 1994 row.
+HBAN,1991,1208407,thousands,133940,1.06,14500477,261168,,Same caveats as 1994 row.
+HBAN,1990,1266770,thousands,99765,0.79,13671182,206578,,Same caveats as 1994 row.
+HBAN,1989,1177754,thousands,122829,1.02,13353001,209808,,Same caveats as 1994 row.
+HES,UNKNOWN,,,,,,,,Snippet still only contains cross-reference language ('A Ten-Year Summary of Financial Data is presented on pages 48 through 51 of the accompanying 1993 Annual Report...incorporated herein by reference'); no actual Selected Financial Data table found in this retry extraction.
+HRB,1994,1238677,thousands,200528,1.88,1074704,0,106149,"H&R Block. Fiscal year ended April 30. Net earnings figure includes discontinued operations (Interim Services Inc. IPO gain of $27.3MM/$.26 EPS) and a $25,072K purchased R&D charge ($.24/sh) from MECA Software acquisition. 'Net earnings from continuing operations' reported separately at $163,995K / $1.54 EPS (differs from net_income field, which is total net earnings). Long-term debt reported as '-' (none). Data adjusted for 2-for-1 stock split effective FY1991."
+HRB,1993,1074263,thousands,180705,1.68,1005834,0,106355,"Net earnings from continuing operations was $171,017K / $1.59 EPS (differs from net_income field shown, which includes discontinued ops)."
+HRB,1992,986109,thousands,162253,1.49,962664,0,106598,"Net earnings from continuing operations was $153,744K / $1.41 EPS."
+HRB,1991,925262,thousands,140108,1.31,1035781,0,106487,"Net earnings from continuing operations was $131,255K / $1.22 EPS. Data adjusted for 2-for-1 split applicable to FY1991."
+HRB,1990,820356,thousands,123529,1.15,941530,4937,105628,"Net earnings from continuing operations was $114,435K / $1.07 EPS."
+HUM,1993,3195,millions,89,0.56,1731,,,"Humana Inc. Column labeled 'Dec 31, 1993' -- calendar/fiscal year ended Dec 31 1993. Long-term debt and shares outstanding not disclosed in this snippet (only total assets, cash/marketable securities, and equity given)."
+HUM,1992 (Dec FYE, transition period),2921,millions,-107,-0.68,1189,,
+HUM,1992 (Aug FYE, prior basis),2811,millions,-114,-0.72,1011,,
+HUM,1991 (Aug FYE),2269,millions,9,0.06,1005,,,"Fiscal year ended Aug 31, 1991 (pre fiscal-year-end change)."
+HUM,1990 (Aug FYE),1525,millions,-4,-0.03,704,,,"Fiscal year ended Aug 31, 1990."
+HUM,1989 (Aug FYE),1116,millions,-23,-0.15,650,,,"Fiscal year ended Aug 31, 1989."
+IBM,1993,62716,millions,-8101,-14.22,81113,27342,,"Net (loss) shown is final figure after cumulative effect of accounting changes (1993: postemployment benefits, -$114M/-$.20 EPS charge included). long_term_debt field populated with filing's 'Total debt' line (filing does not separately break out long-term-only debt in this snippet). Shares outstanding not disclosed (only per-share amounts and dividend totals given)."
+IBM,1992,64523,millions,-4965,-8.70,86705,29320,,"Net loss includes $1,900M/$3.33 EPS benefit from cumulative effect of accounting change (income taxes). long_term_debt is filing's 'Total debt' line."
+IBM,1991,64766,millions,-2861,-5.01,92473,26947,,"Net loss includes $(2,263)M/$(3.96) EPS charge for cumulative effect of accounting change (nonpension postretirement benefits). long_term_debt is filing's 'Total debt' line."
+IBM,1990,68931,millions,5967,10.42,87568,19545,,long_term_debt is filing's 'Total debt' line; no separate accounting-change items this year.
+IBM,1989,62654,millions,3722,6.41,77734,16717,,long_term_debt is filing's 'Total debt' line.
+IGT,1993,478030,thousands,119025,0.96,646593,617,123618,"International Game Technology (fiscal year ended Sept 30). Net income includes income from discontinued operations (casino ops sold FY1993: $13,447K). EPS shown is 'Net income per primary share' ($0.96); fully diluted was $0.90 (not used per instructions). long_term_debt uses filing's 'Long-term notes payable and capital lease obligations' line ($617K); a separate 'Convertible Subordinated Notes Payable' of $59,998K also appears on the balance sheet and is NOT included in this field. shares_outstanding is 'Average primary common and common equivalent shares outstanding' (weighted average, not a year-end count). Restated for 2-for-1 stock splits in 1990-1993."
+IGT,1992,363594,thousands,64784,0.54,489973,19965,120081,"Discontinued-ops income of $1,500K included in net income. Convertible Subordinated Notes Payable of $93,999K separate from long_term_debt figure shown."
+IGT,1991,233002,thousands,30230,0.26,345605,20767,116818,"Discontinued-ops income of $450K included. Convertible Subordinated Notes Payable of $92,536K separate."
+IGT,1990,204807,thousands,20003,0.17,208523,27584,117135,Discontinued-ops income of $329K included.
+IGT,1989,149825,thousands,13481,0.11,170492,23909,122558,"Discontinued-ops LOSS of $(1,092)K included."
+IP,UNKNOWN,,,,,,,,Snippet is still only cross-reference language ('selected financial data for the Company is set forth on pages 54 and 55 of the Annual Report...incorporated herein by reference'); no actual table found.
+IPG,1993,1793856,thousands,124767,1.66,2869817,226085,75215521,"Interpublic Group. 'Gross income' used as the net_sales_or_revenue proxy (standard ad-agency accounting convention, not conventional net sales). Net income for 1993 reflects a $(512)K/$(.01) EPS effect of an accounting change (income taxes). Restated for 2-for-1 stock split (1992) and 3-for-2 stock split (1989). shares_outstanding is weighted-average shares."
+IPG,1992,1855971,thousands,87273,1.17,2623345,200237,74974618,"Net income reflects a $(24,640)K/$(.33) EPS charge for a postretirement-benefits accounting change."
+IPG,1991,1677498,thousands,94557,1.30,2784300,170458,72860086,
+IPG,1990,1368169,thousands,80064,1.19,2584111,144468,67348676,
+IPG,1989,1256854,thousands,70600,1.05,1740729,36512,67333430,
+ITW,UNKNOWN,,,,,,,,Snippet is still only cross-reference language ('incorporated by reference to pages 38 and 39 of the Company's 1993 Annual Report to Stockholders'); no actual table found.
+J,1994,1165754100,as reported,18767000,0.75,504364200,25000000,25173200,"Jacobs Engineering Group. Fiscal year ended Sept 30. Figures reported in full dollars (not thousands/millions) per filing. Net income for FY1994 includes special charges of ~$10,200,000 ($0.40/sh total: $8,600,000/$0.34/sh for consolidation of offices/asset write-downs, and $1,600,000/$0.06/sh for litigation settlement)."
+J,1993,1142926100,as reported,28670000,1.15,351020100,0,24964500,FY1993 long-term debt reported as '-' (none).
+J,1992,1106427400,as reported,26605000,1.11,316731100,0,24070000,"FY1992 net income includes a $2,118,000/$0.09 EPS gain from sale of 40% of the Company's holdings of Genetics Institute, Inc. common stock. LT debt reported as '-' (none)."
+J,1991,1036288600,as reported,20385000,0.86,260141600,0,23763300,LT debt reported as '-' (none).
+J,1990,881756600,as reported,14390000,0.64,253706500,0,22439100,LT debt reported as '-' (none).
+J,1989,793576800,as reported,10220000,0.48,212679700,6332100,21501000,
+J,1988,757410000,as reported,6552000,,,,,"Second (older) five-year table in the same snippet (fiscal years 1988-1985); snippet is truncated (cuts off mid-'Current ratio' line) before per-share, total-assets, and LT-debt data for these years could be captured -- only revenue and net income visible."
+J,1987,320307300,as reported,3512000,,,,,Same truncation as 1988 row -- only revenue/net income visible in snippet.
+J,1986,207589400,as reported,850000,,,,,Same truncation as 1988 row.
+J,1985,220492800,as reported,2020000,,,,,Same truncation as 1988 row.
+JOY,1994,1116704,thousands,-48027,-1.85,1438853,244529,,"Ticker JOY (Joy-family industrial manufacturer). Fiscal year ended October 31. Net loss includes a $(66,142)K cumulative effect of an accounting change (net of minority interest) and a $(1,007)K loss from discontinued operations. Only 3 fiscal years (1994-1992) are present in this snippet even though the caption implies a longer summary table -- likely truncated before earlier years. Shares outstanding not disclosed (only per-share amounts given)."
+JOY,1993,989195,thousands,-17054,-0.64,1371268,246389,,"Net loss includes a $67,000K restructuring charge, an $8,000K nonrecurring charge, $3,680K income from discontinued operations, and a $16,173K gain on sale of a discontinued operation."
+JOY,1992,1141536,thousands,55473,1.91,1534720,260436,,"Net income includes $5,686K income from discontinued operations."
+JPM,UNKNOWN,,,,,,,,"Snippet is a table-of-contents / cross-reference list only (page references A26-A28, no figures); no Selected Financial Data table present. Filer identified in the surrounding text as Chemical Banking Corporation, a predecessor entity in the corporate lineage associated with the JPM ticker after later Chase/J.P. Morgan mergers -- not J.P. Morgan & Co. itself in this particular filing."
+JWN,UNKNOWN,,,,,,,,Snippet is still only cross-reference language ('Ten-Year Statistical Summary...incorporated by reference herein from Exhibit 13.1 of this report'); no actual table found in this retry extraction.
+K,1993,6295.4,millions,680.7,2.94,,,231.5,"Kellogg Company. Table spans 1983-1993 (11 years) with a 10-year compound growth rate column. net_income/eps taken from the 'Net Earnings' / 'Net Earnings per share' columns (post any accounting-change effects); a separate 'Earnings before acctg change' column is also given (for 1993 it is identical: $680.7M/$2.94, no change that year). total_assets and long_term_debt not visible in this snippet -- cut off before the balance-sheet portion of the schedule (a 'FINANCIAL RATIOS' table begins but is truncated). shares_outstanding is average shares outstanding (millions)."
+K,1992,6190.6,millions,431.2,1.81,,,238.9,Net earnings of $431.2M/$1.81 EPS is AFTER a cumulative accounting-change effect; earnings before the accounting change were $682.8M/$2.86 EPS.
+K,1991,5786.6,millions,606.0,2.51,,,241.2,
+K,1990,5181.4,millions,502.8,2.08,,,241.6,
+K,1989,4651.7,millions,470.2,1.93,,,244.2,Net earnings of $470.2M/$1.93 EPS is HIGHER than 'earnings before accounting change' of $422.1M/$1.73 EPS (opposite direction from the 1992 accounting-change effect).
+K,1988,4348.8,millions,480.4,1.95,,,246.4,
+K,1987,3793.0,millions,395.9,1.60,,,247.4,
+K,1986,3340.7,millions,318.9,1.29,,,247.0,
+K,1985,2930.1,millions,281.1,1.14,,,246.6,
+K,1984,2602.4,millions,250.5,0.84,,,298.8,
+K,1983,2381.1,millions,242.7,0.79,,,305.8,
+KEY,1993,1871.3,millions,347.2,2.93,27007.3,952.7,118323.5,"KeyCorp (bank holding company). net_sales_or_revenue is Interest income, not a conventional sales figure. EPS shown ($2.93) matches the filing's 'Originally reported' figure for 1993; for earlier years the 'as restated' EPS differs materially from 'originally reported' due to pooling-of-interests merger restatements (see notes on individual year rows). shares_outstanding is weighted-average common shares (thousands)."
+KEY,1992,1903.4,millions,301.2,2.51,24978.3,886.0,117348.7,Restated EPS $2.51 equals originally-reported EPS $2.51 for this year.
+KEY,1991,2263.9,millions,76.5,0.61,25585.6,463.8,115266.8,Restated EPS $.61 vs. originally-reported EPS $2.45 -- large divergence from a pooling-of-interests restatement.
+KEY,1990,2521.4,millions,61.5,0.49,26121.4,471.1,115465.1,Restated EPS $.49 vs. originally-reported EPS $2.35.
+KEY,1989,2564.1,millions,121.8,1.00,27450.1,468.9,119729.8,Restated EPS $1.00 vs. originally-reported EPS $2.32.
+KEY,1988,2222.3,millions,204.8,1.65,26694.5,463.1,122858.9,Restated EPS $1.65 vs. originally-reported EPS $2.09.
+KLAC,1990,161642,thousands,9380,0.52,179276,0,18038,KLA Instruments Corp. Table header marked '(unaudited)'. Fiscal year ended June 30. Long-term debt reported as '-' (none) for FY1990.
+KLAC,1991,148432,thousands,-10585,-0.57,198023,24000,18552,
+KLAC,1992,155963,thousands,-13810,-0.75,188457,24000,18451,"Includes an $8,158K restructuring charge."
+KLAC,1993,167236,thousands,6961,0.35,199089,20000,19707,Includes a $(718)K restructuring-charge recovery.
+KLAC,1994,243737,thousands,30188,1.37,321570,20000,22044,
+KO,1991,11572,millions,1618,1.21,,,1333,"Coca-Cola Company. IMPORTANT CAVEAT: individual row/line-item labels were NOT present in this extracted snippet -- only a numeric grid beneath year column headers (1991(4) through 1983; (4) marks 1989-1991 as restated). Field values here are POSITIONALLY inferred, not read from an explicit row label: net_sales_or_revenue = first data row after the year headers; net_income/eps = the pair of rows that arithmetically reconcile as (net income / average shares) = primary EPS (e.g. 1991: 1,618/1,333=1.214 approx. 1.21). A second, higher net-income candidate row (1,617/1,364/1,516(5)/1,038/916/934/722/629/559 for 1991-1983) also appears and reconciles instead with a SECOND per-share row (likely 'fully diluted' EPS, e.g. 1991: 1,617/1,333=1.213, essentially identical to primary that year but diverges in other years) -- not used here per instructions to prefer primary/basic EPS, but flagged since the exact GAAP line-item identity (e.g. income from continuing operations vs. net income vs. income available to common) could not be confirmed without the missing label column. total_assets and long_term_debt not present in this snippet (cut off before balance-sheet rows). shares_outstanding is average shares outstanding (millions)."
+KO,1990,10236,millions,1382,1.02,,,1337,"Same row-label caveat as 1991. Alternate net-income candidate (reconciling with the other per-share row) = 1,364."
+KO,1989,8622,millions,1211,0.86,,,1384,"Footnote (5) applies to this year's alternate net-income/fully-diluted-EPS figures (1,516 / 1.10); footnote text itself not visible in snippet. Same row-label caveat as 1991."
+KO,1988,8065,millions,1089,0.74,,,1458,"Same row-label caveat as 1991. Alternate net-income candidate = 1,038 (reconciles with a second per-share row of .71)."
+KO,1987,7658,millions,867,0.57,,,1509,Same row-label caveat as 1991. Alternate net-income candidate = 916 (reconciles with a second per-share row of .61). A one-time 'gain on issuance of stock by an equity investee'-type item of $40 also appears in the grid this year.
+KO,1986,6977,millions,827,0.53,,,1547,"Same row-label caveat as 1991. Alternate net-income candidate = 934 (reconciles with a second per-share row of .60). A one-time item of $375 also appears in the grid this year (largest of the series, unexplained without labels)."
+KO,1985,5879,millions,569,0.36,,,1573,Same row-label caveat as 1991. Alternate net-income candidate = 722 (reconciles with a second per-share row of .46).
+KO,1984,5442,millions,549,0.35,,,1587,Same row-label caveat as 1991. Alternate net-income candidate = 629 (reconciles with a second per-share row of .40).
+KO,1983,5056,millions,504,0.31,,,1635,Same row-label caveat as 1991. Alternate net-income candidate = 559 (reconciles with a second per-share row of .34).
+L,1993,13686777,thousands,594121,9.27,45849752,2195670,61525,Ticker L = Loews Corp (CNA Financial subsidiary discussed in MD&A); total assets restated for 1993 accounting change in reinsurance contracts per footnote (a)
+L,1992,13691454,thousands,122614,1.87,43555514,1759595,65099,"Net income (122614) includes cumulative effect of accounting changes; income before cumulative effect was (22097) thousands with eps of (.33), vs reported net income eps of 1.87"
+L,1991,13620264,thousands,904338,13.14,42684157,1944710,67320,
+L,1990,12636925,thousands,804650,11.01,38359766,1826378,69917,
+L,1989,11436722,thousands,907141,12.07,34651369,1865552,75059,
+LLTC,UNKNOWN,,,,,,,,"Still only an incorporation-by-reference to the Five-Year Trend section of Exhibit 13.1 (1995 Annual Report); no table captured, snippet is exhibit list and Part III/IV boilerplate"
+LLY,1993,6452.4,millions,480.2,1.63,9623.6,835.2,294289,"*1993 reflects restructuring/special charges and accounting changes; shares figure is average number of shares and share equivalents (thousands), not year-end shares outstanding"
+LLY,1992,6167.3,millions,708.7,2.41,8672.8,582.3,294478,*1992 also reflects restructuring/special charges and accounting changes; shares figure is average shares and share equivalents (thousands)
+LLY,1991,5725.7,millions,1314.7,4.50,8298.6,395.5,294244,Shares figure is average shares and share equivalents (thousands)
+LLY,1990,5191.6,millions,1127.3,3.90,7142.8,277.0,289993,Shares figure is average shares and share equivalents (thousands)
+LLY,1989,4175.6,millions,939.5,3.20,5848.0,269.5,294507,Shares figure is average shares and share equivalents (thousands)
+LSI,UNKNOWN,,,,,,,,"Still only an incorporation-by-reference to pages 32-33 of the 1993 Annual Report to Stockholders; no table, followed by executive officer biographies"
+MAS,1993,3886000,thousands,221100,1.45,4021060,1418290,,
+MAS,1992,3525000,thousands,183100,1.21,3986560,1487090,,
+MAS,1991,3141000,thousands,44900,.30,3785810,1369290,,
+MAS,1990,3209000,thousands,138800,.91,3760740,1334300,,
+MAS,1989,3150500,thousands,220900,1.42,3640780,1153190,,Shares outstanding not disclosed in this table
+MAT,UNKNOWN,,,,,,,,Still only an incorporation-by-reference to the Five-Year Financial Summary on page 27 of the Annual Report to Shareholders; no table captured
+MCD,1993,7408,millions,1083,2.91,12035,3489,,"11-Year Summary; net_sales_or_revenue is Total revenues line (Systemwide sales of 23587 also shown but is franchise-system-wide sales, not company revenue); shares outstanding not given, only per-share data"
+MCD,1992,7133,millions,959,2.60,11681,3176,,
+MCD,1991,6695,millions,860,2.35,11349,4267,,
+MCD,1990,6640,millions,802,2.20,10668,4429,,
+MCD,1989,6066,millions,727,1.95,9175,3902,,
+MCD,1988,5521,millions,646,1.71,8159,3111,,
+MCD,1987,4853,millions,549,1.45,6982,2685,,*Marked as before the cumulative prior years' benefit from a change in accounting (footnote text cut off at end of snippet)
+MCD,1986,4143,millions,480,1.24,5969,2131,,
+MCD,1985,3694,millions,433,1.11,5043,1638,,
+MCD,1984,3366,millions,389,.97,4230,1268,,
+MCD,1983,3001,millions,343,.85,3727,1171,,
+MCK,UNKNOWN,,,,,,,,Snippet is table of contents plus Part I business description (New McKesson Corp formed 1994 from PCS spin-off/Lilly transaction); no Selected Financial Data table captured
+MO,1993,60901,millions,3091,3.52,51205,15221,877,"Table captioned Fifteen-Year Review but snippet only shows 1993-1991 columns (truncated, earlier years not captured); shares outstanding figure for 1993 (877) appears cut off at end of snippet, could not confirm decimal digits; net earnings (3091) = earnings before cumulative effect (3568) plus cumulative effect of accounting changes (-477)"
+MO,1992,59131,millions,4939,5.45,50014,14583,,No cumulative effect of accounting change shown for 1992 (net earnings equals earnings before cumulative effect); shares outstanding column cut off in snippet
+MO,1991,56458,millions,3006,3.25,47384,14213,,Net earnings (3006) = earnings before cumulative effect (3927) plus cumulative effect of accounting changes (-921); shares outstanding column cut off in snippet
+MOLX,UNKNOWN,,,,,,,,Still only an incorporation-by-reference to the Ten-Year Financial Highlight Summary (five years ended June 30 1994) on page 29 of the Annual Report; no table captured
+MRK,UNKNOWN,,,,,,,,Still only an incorporation-by-reference to the Six-Year Selected Financial and Statistical Data in the 1993 Annual Report to Shareholders; no table captured
+MRO,1993,534.8,millions,12.2,.86,580.4,109.6,,"CAUTION: table is captioned 'SELECTED FINANCIAL DATA (CONTD.) USX -- DELHI GROUP' -- this is the USX-Delhi Group tracking-stock segment, NOT consolidated Marathon Oil/Marathon Group or USX Corporation; may not represent the entity behind ticker MRO in this era. Net income equals total income before cumulative effect (no accounting-change adjustment noted for 1993). EPS is 'Net income primary and fully diluted' since Delhi Stock issuance Oct 2 1992"
+MRO,1992,457.8,millions,36.5,.22,564.5,97.6,,Same USX-Delhi Group caveat as 1993 row. Net income (36.5) includes cumulative effect of accounting change; income before cumulative effect was 18.6
+MRO,1991,423.2,millions,7.2,,583.8,,,Same USX-Delhi Group caveat. No per-share data disclosed (Delhi Stock did not exist before Oct 2 1992); no long-term debt breakout disclosed for this year in snippet
+MRO,1990,405.2,millions,15.2,,678.9,,,Same USX-Delhi Group caveat. No per-share or long-term-debt breakout disclosed for this year in snippet
+MRO,1989,592.3,millions,118.2,,711.2,,,Same USX-Delhi Group caveat. Sales figure includes $145.0 million favorable settlement of three gas-sales-contract lawsuits per footnote (b). No per-share or long-term-debt breakout disclosed for this year in snippet
+MRSH,UNKNOWN,,,,,,,,Still only an incorporation-by-reference to pages 48-49 of the 1994 Annual Report; no table captured
+MSFT,UNKNOWN,,,,,,,,Still only an incorporation-by-reference to page 19 of the 1994 Annual Report to Shareholders; no table captured
+MTB,UNKNOWN,,,,,,,,"Snippet is a cross-reference/index sheet (page locations only, First Empire State Corp / M&T Bank) plus Part I business description; no actual financial figures captured"
+MUR,UNKNOWN,,,,,,,,"Still only an incorporation-by-reference to page 23 of the 1993 Annual Report (filed as Exhibit 13), but the table itself is not captured in this snippet"
+NBL,UNKNOWN,,,,,,,,Snippet is an exhibit index/cross-reference plus an unrelated Thrift Plan Amendment No. 8 document; no financial data table present
+NSC,UNKNOWN,,,,,,,,"Snippet is Page Two of the Ten-Year Financial Review (1984-1988) containing only capital expenditures, average shares outstanding, stockholders, and employees -- no revenue, net income, EPS, or total assets in this portion; snippet also includes unaudited quarterly revenue/income data for 1993 and 1992 only, not annual summary figures"
+NTRS,1993,,millions,167.9,2.96,15700.2,,,"Bank holding co (Northern Trust Corp); table shows Net Interest Income ($329.3M) + Noninterest Income ($552.4M) instead of a single revenue line - left net_sales_or_revenue blank rather than sum dissimilar items. total_assets figure is AVERAGE total assets (not period-end). Long-term debt not clearly labeled: table shows 'Senior Medium-Term Notes at Year-End' $817.0M and 'Notes Payable at Year-End' $326.8M for 1993, ambiguous which if either is LTD, left blank. Shares outstanding not disclosed. EPS is Primary (fully diluted 2.95 also given)."
+NTRS,1992,,millions,149.5,2.64,13418.0,,,"See 1993 note. Senior Medium-Term Notes $312.0M, Notes Payable $233.2M."
+NTRS,1991,,millions,127.4,2.29,12182.5,,,"See 1993 note. Senior Medium-Term Notes $2.0M, Notes Payable $264.1M."
+NTRS,1990,,millions,115.4,2.06,11682.1,,,"See 1993 note. Senior Medium-Term Notes $0, Notes Payable $171.6M."
+NTRS,1989,,millions,113.2,2.08,10521.9,,,"See 1993 note. Senior Medium-Term Notes $0, Notes Payable $240.8M."
+NTRS,1988,,millions,109.3,2.21,9133.0,,,"See 1993 note. Senior Medium-Term Notes $0, Notes Payable $175.0M."
+OI,1993,,millions,,,4901,2487,118978000,"Owens-Illinois (OI). Snippet is a 'Selected Financial Data -- continued' page showing only Other Data (depreciation/amortization) and Balance Sheet Data; the Net Sales/Net Income/EPS rows were on the preceding page, not captured in this snippet. total_assets and long_term_debt columns here use the table's 'Total assets' and 'Total debt' lines (not explicitly labeled long-term vs total). shares_outstanding = weighted average shares outstanding for the year (reported in thousands: 118,978). Results restated for Libbey business (sold 6/24/1993) and Health Care segment (sold 10/24/1991) as discontinued operations. MD&A narrative (not the table) states 1993 net earnings of $4.9 million and a 1993 loss from continuing operations of $200.8 million, and 1992 restated continuing-ops earnings of $78.3 million -- not entered into structured net_income field because basis/consistency with table years is unclear and figure is prose, not the table."
+OI,1992,,millions,,,5151,3107,118980000,"See 1993 note. 1992 adopted SFAS 109 and SFAS 106 (postretirement benefits), effective Jan 1 1992, adding ~$39.2M non-cash expense offset by $26.3M deferred tax credits."
+OI,1991,,millions,,,4399,2932,40089000,See 1993 note. Company completed a recapitalization in Q4 1991 (reflected in 12/31/1991 balance sheet); explains sharp share-count jump from ~40M (1991) to ~119M (1992).
+OI,1990,,millions,,,5191,4005,36940000,See 1993 note.
+OI,1989,,millions,,,5098,3904,36890000,See 1993 note.
+OMC,1993,1516475,thousands,85345,2.79,2289863,278312,,Omnicom Group. EPS is Primary (fully diluted 2.62 also given). Revenue line is 'Commissions and fees'. Shares outstanding not disclosed in this snippet (only per-share and dividend data).
+OMC,1992,1385161,thousands,69298,2.45,1951950,235129,,See 1993 note.
+OMC,1991,1236158,thousands,57052,2.08,1885894,245189,,See 1993 note.
+OMC,1990,1178233,thousands,52009,2.01,1748529,278960,,See 1993 note.
+OMC,1989,1007173,thousands,46794,1.81,1547599,267327,,See 1993 note.
+OXY,1994,9236,millions,-36,-0.36,17989,5823,310836000,"Occidental Petroleum Corp. net_income = 'Net income (loss)' row (differs from 'Income (loss) from continuing operations' row, also -36 in 1994). long_term_debt = 'Senior funded debt, net' (table's own label, not literally 'long-term debt'); a separate 'Subordinated debt, net' line is $0 except 1990 ($1,324M). shares_outstanding = average shares outstanding in thousands (310,836) per table."
+OXY,1993,8116,millions,283,0.80,17123,5728,304898000,See 1994 note. Income from continuing ops was $74M vs net income $283M (difference includes discontinued items).
+OXY,1992,8494,millions,-591,-1.97,17877,5452,302017000,See 1994 note. Income from continuing ops was $126M vs net loss $591M.
+OXY,1991,9498,millions,460,1.52,15763,5478,298548000,See 1994 note. Income from continuing ops $372M vs net income $460M.
+OXY,1990,10837,millions,-1695,-5.82,18202,6033,292543000,"See 1994 note. Income (loss) from continuing operations -$1,419M vs net loss $1,695M; also had $1,324M subordinated debt and $13M redeemable preferred stock that year (absent other years)."
+PBI,1993,3542881,thousands,353189,2.22,6793816,847316,159368652,"Pitney Bowes Inc. EPS is 'Net income' per-share row (continuing-ops + discontinued + accounting-change components summed); primary/common-equivalent basis. shares_outstanding = average common and common equivalent shares outstanding (raw count, not thousands-scaled, per table)."
+PBI,1992,3434124,thousands,100237,0.63,6498752,1015401,159235412,"See 1993 note. 1992 net income depressed by $214,631K 'Effect of accounting changes' charge (EPS impact -$1.35)."
+PBI,1991,3332497,thousands,295299,1.85,6380580,1058763,159954680,See 1993 note.
+PBI,1990,3195550,thousands,213295,1.34,6060545,1099396,159249760,"See 1993 note. Nonrecurring charges of $86,500K included in costs/expenses that year."
+PBI,1989,2875685,thousands,252767,1.59,5611115,1369338,158646092,"See 1993 note. Nonrecurring charges of $110,000K; net income includes +$66,048K effect of accounting changes (+$.41/sh)."
+PCAR,1993,3378.9,millions,142.2,3.66,3291.2,720.8,,PACCAR Inc. net_sales_or_revenue = 'Net Sales' line only; table separately shows 'Financial Services Revenue' (162.6 in 1993) not included in this figure. total_assets and long_term_debt are manual sums of the table's own 'Manufacturing' + 'Financial Services' sub-lines (Total Assets: 1343.9+1947.3; Long-Term Debt: 11.7+709.1) since no single combined-total row is printed; shares_outstanding not disclosed. Per-share amounts restated for 15% stock dividend declared 1993; 1991 net income includes $15.4M cumulative-effect accounting-change adjustment ($.40/sh); 1989 net income includes $52.4M after-tax gain on sale of a division and railcar fleet.
+PCAR,1992,2576.8,millions,65.2,1.68,2792.1,506.9,,See 1993 note. Financial Services Revenue 158.4.
+PCAR,1991,2159.6,millions,55.2,1.42,2737.6,508.9,,See 1993 note. Financial Services Revenue 179.2.
+PCAR,1990,2587.4,millions,63.7,1.59,2906.2,662.5,,See 1993 note. Financial Services Revenue 205.6.
+PCAR,1989,3331.1,millions,241.9,6.00,3067.2,705.5,,See 1993 note. Financial Services Revenue 207.9.
+PCL,1993,501.0,millions,91.4,1.92,816.5,569.9,,"Plum Creek Timber Company, L.P. (a partnership - 'per Unit' not EPS/shares). Fiscal year column marked '1993(2)' in source (superscript footnote 2: elected LIFO inventory method in 1993, lowering 1993 earnings by $8.0M / $0.18 per Unit); footnotes (5) and (6) referenced for 1992/1991 columns but text of those footnotes not present in this snippet. Units outstanding not disclosed (only per-Unit distribution/income figures). Per-Unit amounts restated for Dec 6 1993 three-for-one Unit split."
+PCL,1992,439.9,millions,64.2,1.34,586.1,318.5,,"See 1993 note (footnote 5, text not captured)."
+PCL,1991,389.8,millions,18.7,0.37,580.8,325.0,,"See 1993 note (footnote 6, text not captured)."
+PCL,1990,372.8,millions,22.2,0.44,607.4,325.0,,See 1993 note.
+PCL,"1989 (successor, Jun 8-Dec 31)",205.7,millions,14.4,0.30,650.4,325.0,,Partnership formed via June 8 1989 acquisition of Plum Creek Timber Company Inc (a former Burlington Resources subsidiary); this column covers June 8-Dec 31 1989 only.
+PCL,"1989 (predecessor, Jan 1-Jun 7)",143.9,millions,24.4,,210.1,2.1,,"'Predecessor' entity column (pre-acquisition), Jan 1 - Jun 7 1989; no per-Unit net income figure given for predecessor period (partnership units did not yet exist)."
+PCP,1994,420400,thousands,22200,1.71,342900,15700,13000000,"Precision Castparts Corp. Table itself is marked '(Unaudited)'. long_term_debt field uses table's 'Total debt' line (not explicitly split long-term vs. short-term). shares_outstanding = average shares of common stock outstanding (in thousands, so 13,000 thousand = 13,000,000); Selected Financial Data restated for retroactive adoption of SFAS No. 109."
+PCP,1993,461400,thousands,1800,0.10,424300,19400,17900000,"See 1994 note. Quarterly data in snippet shows a Q3 1993 net loss of $(18,700)K driving the low full-year net income."
+PCP,1992,583300,thousands,46500,2.63,422600,26200,17700000,See 1994 note.
+PCP,1991,538300,thousands,32300,1.86,421900,42500,17400000,See 1994 note.
+PCP,1990,457300,thousands,29100,1.70,358700,41900,17100000,See 1994 note.
+PEP,1994,28472.4,millions,1752.0,2.18,,,803600000,"PepsiCo Inc. IMPORTANT: this snippet's actual 'Selected Financial Data' table (referenced as a table-of-contents entry 'Selected Financial Data F-42') is NOT present - no data rows for that specific 5-year exhibit were captured. Data extracted here instead comes from the full Consolidated Statement of Income (a different, adjacent financial statement) covering only 3 fiscal years (FY1994=53 wks ended 12/31/94, FY1993=52 wks ended 12/25/93, FY1992=52 wks ended 12/26/92). Total assets and long-term debt not shown in this snippet (balance sheet section is cut off before reaching those lines). shares_outstanding = average shares outstanding used to calculate EPS (in millions, so 803.6M), not a period-end share count."
+PEP,1993,25020.7,millions,1587.9,1.96,,,810100000,See 1994 note.
+PEP,1992,21970.0,millions,374.3,0.46,,,806700000,"See 1994 note. Net income depressed by cumulative effect of accounting changes: -$356.7M (postretirement benefits, SFAS 106) and -$570.7M related income taxes; income before cumulative effect of accounting changes was $1,301.7M (EPS $1.61)."
+PFE,1993,7477.7,millions,657.5,2.05,9330.9,570.5,,Pfizer Inc. Net income figures carry footnoted one-time items: 1993 includes $750.0M pretax restructuring/unusual-items charge and $60.0M pretax gain on sale of a business; shares outstanding not disclosed in this snippet.
+PFE,1992,7230.2,millions,810.9,2.41,9590.1,571.3,,"See 1993 note. 1992 net income includes -$282.6M cumulative effect of accounting changes (SFAS 106 charge of $312.6M after-tax offset by $30.0M SFAS 109 credit); income before cumulative effect was $1,093.5M (EPS $3.25)."
+PFE,1991,6950.0,millions,722.1,2.13,9634.6,396.6,,See 1993 note. Includes after-tax special charge of $195.0M.
+PFE,1990,6406.0,millions,801.2,2.38,9052.0,193.3,,See 1993 note.
+PFE,1989,5671.5,millions,681.1,2.02,8324.8,190.6,,See 1993 note.
+PH,UNKNOWN,,,,,,,,"Parker-Hannifin Corp (PH). Retry snippet still only contains cross-reference/incorporation-by-reference language ('The information set forth on pages 38 and 39 of the Annual Report as specifically excerpted on page 13-36 of Exhibit 13 hereto is incorporated herein by reference'), not the actual Exhibit 13 table text. No usable financial table found - same failure mode as first attempt, just a different Item (7/8/9 boilerplate + signature page) was captured instead."
+PNC,UNKNOWN,,,,,,,,PNC Financial Corp. Snippet again is only cross-reference language pointing to page 61 of the Annual Report to Shareholders ('Selected Consolidated Financial Data ... is incorporated herein by reference'); no actual data table captured.
+R,UNKNOWN,,,,,,,,"Ryder System, Inc. Snippet again is only cross-reference language pointing to pages 44-45 of the 1993 Annual Report to Shareholders; no actual data table captured."
+RDC,UNKNOWN,,,,,,,,"Rowan Companies, Inc. (RDC). Snippet again is only cross-reference language pointing to pages 10-11 of the Annual Report ('Twelve Year Financial Review'), explicitly excluding years 1982-1988 from the incorporation; no actual data table captured."
+RTX,UNKNOWN,,,,,,,,"United Technologies Corporation (the historical entity now trading as RTX; NOT the modern post-2020-rename Raytheon Technologies business - snippet identifies it throughout as 'United Technologies Corporation' / 'the Corporation', with segments Pratt & Whitney, Flight Systems (Sikorsky, Hamilton Standard, Norden), Carrier, Otis, Automotive). Selected Financial Data itself is only referenced ('set forth on pages 27 through 35 of the Corporation's 1993 Annual Report to Shareowners... incorporated herein by reference'), not reproduced. Snippet does contain one incidental 3-year figure set (Pratt & Whitney commercial engine segment revenue: 1993 $3,266M, 1992 $3,700M, 1991 $3,778M) but this is segment-level product revenue, not the consolidated Selected Financial Data table, so it was not recorded as a row."
+S,1993,11367.8,millions,480.6,1.39,14148.9,5094.4,,"Sprint Corporation. Net income row shown is labeled 'Income from continuing operations' (no separate total net income line in this snippet). long_term_debt field uses 'Total debt (including short-term borrowings)' - explicitly includes short-term borrowings, not pure long-term debt. shares_outstanding not disclosed. All data retroactively restated for March 9 1993 Sprint/Centel merger (pooling of interests). 1993 continuing-ops income reduced $193M ($0.56/sh) by merger/restructuring nonrecurring charges."
+S,1992,10420.3,millions,496.1,1.46,13599.6,5442.7,,See 1993 note. 1992 continuing-ops income increased $44M ($0.13/sh) by gains on sale of local telephone/cellular properties.
+S,1991,9933.3,millions,472.7,1.41,13929.8,5571.2,,See 1993 note. 1991 continuing-ops income increased $78M ($0.23/sh) by similar property-sale gains.
+S,1990,9469.8,millions,351.1,1.06,14080.6,6082.3,,See 1993 note. 1990 continuing-ops income reduced $37M ($0.11/sh) by nonrecurring charges.
+S,1989,8557.6,millions,353.0,1.08,13092.7,5471.3,,See 1993 note.
+SCG,1993,1264167,thousands,167981,,,,,"SCANA Corp / South Carolina Electric & Gas parent (ticker SCG). Snippet is cut off before per-share, total assets, long-term debt, and shares-outstanding rows (table ends mid-row at 'Common Stock Data / Weigh...'); those fields left blank rather than guessed. net_sales_or_revenue = 'Total Operating Revenues' (sum of Electric/Gas/Transit segment revenue, as printed in table). Unusual column set: 1993/1992/1991/1990/1989 then jumps directly to 1983 as a sixth comparison column (no 1984-1988 shown) - reproduced as given, not an OCR error on our part as far as can be determined from this snippet."
+SCG,1992,1138375,thousands,117590,,,,,See 1993 note.
+SCG,1991,1147826,thousands,135851,,,,,See 1993 note.
+SCG,1990,1147559,thousands,181603,,,,,See 1993 note.
+SCG,1989,1142624,thousands,122625,,,,,See 1993 note.
+SCG,1983,976843,thousands,86752,,,,,"See 1993 note. This is the outlier sixth column (1983) jumped to from 1989, skipping 1984-1988 entirely."
+SCHW,1993,965,millions,118,,,,,Net income includes $7M extraordinary charge (early retirement of debt); income before extraordinary charge was 125. EPS row header present in table ('Earnings per common equivalent share (4):') but per-share values are cut off in snippet. Total assets/long-term debt/shares outstanding not shown in snippet.
+SCHW,1992,750,millions,81,,,,,See 1993 row note re: EPS values cut off in snippet; no extraordinary item this year.
+SCHW,1991,570,millions,49,,,,,
+SCHW,1990,387,millions,17,,,,,
+SCHW,1989,346,millions,19,,,,,
+SCHW,1988,267,millions,7,,,,,
+SHW,1993,2949,millions,165,1.85,1915,38,,
+SHW,1992,2748,millions,145,1.63,1730,60,,"Marked with * in source: figure includes a reduction for the additional expense of accruing postretirement benefits per new accounting standard ($5.7 million after-tax, $.06/share)."
+SHW,1991,2541,millions,128,1.45,1612,72,,
+SHW,1990,2267,millions,123,1.41,1504,138,,
+SHW,1989,2123,millions,109,1.26,1375,105,,
+SIAL,UNKNOWN,,,,,,,,"Snippet contains only reference language incorporating Selected Financial Data by reference to pages 11-24 of the 1993 Annual Report; no table present in text. Remainder of snippet is Part III/IV boilerplate (directors, officers, signatures)."
+SPGI,UNKNOWN,,,,,,,,"Snippet contains only reference language incorporating Selected Financial Data by reference to Exhibit 13 (1993 Annual Report to Shareholders), pages 30-31; no table present. Remainder is an index to financial statements/schedules with page cross-references only."
+STI,1994,2552.3,millions,522.7,4.37,42709.1,930.4,,Bank holding company; net_sales_or_revenue field populated with 'Interest and dividend income' (no single net-sales line exists for a bank). Total assets and long-term debt are 'At December 31' (point-in-time) figures; EPS is primary per share.
+STI,1993,2362.3,millions,473.7,3.77,40728.4,630.4,,
+STI,1992,2537.6,millions,404.4,3.13,37789.3,554.0,,
+STI,1991,2856.4,millions,377.3,2.88,35682.6,477.3,,
+STI,1990,2956.6,millions,355.2,2.72,34479.4,482.4,,
+STI,1989,2880.3,millions,343.3,2.59,32064.8,489.9,,
+STJ,1993,252642,thousands,109643,2.32,526817,,47222000,"Long-term debt line item present in table but no value shown for years 1989-1993 (implies none/immaterial, not disclosed as a figure)."
+STJ,1992,239547,thousands,101658,2.12,469750,,47931000,
+STJ,1991,209837,thousands,83968,1.75,375093,,48069000,
+STJ,1990,175160,thousands,64680,1.35,278146,,47852000,
+STJ,1989,147981,thousands,50916,1.07,201735,,47546000,
+STJ,1988,114075,thousands,33473,0.71,143141,,47016000,"EPS/share data adjusted for 100% stock dividends paid in 1990, 1989 and 1986; long-term debt blank for 1988 (no value shown)."
+STJ,1987,71806,thousands,17307,0.40,101671,508,42812000,EPS $.40 primary; footnote (*) states $.39 on a fully diluted basis.
+STJ,1986,60473,thousands,12031,0.30,85817,26083,39944000,
+STJ,1985,26068,thousands,-1095,-0.03,39716,,37048000,Net loss year.
+STJ,1984,34943,thousands,5293,0.14,39640,,37674000,
+STT,1993,1160.0,millions,179.8,2.36,18169,122,,"Total assets and long-term debt shown are ANNUAL AVERAGES (per table's 'Annual Averages' section), not year-end balances. Revenue = 'Total revenue' (fee revenue + net interest revenue taxable-equivalent, less loan loss provision). 1991 EPS includes $.44/share primary non-recurring gain on sale of credit card loan portfolio. Per-share amounts for 1988-1991 restated for 2-for-1 stock split distributed in 1992."
+STT,1992,986.6,millions,160.4,2.10,15502,146,,
+STT,1991,852.4,millions,139.3,1.86,11574,146,,
+STT,1990,748.8,millions,117.3,1.59,10233,114,,
+STT,1989,656.7,millions,104.0,1.42,8089,117,,
+STT,1988,597.6,millions,92.3,1.25,7246,124,,
+SWK,UNKNOWN,,,,,,,,"Snippet is only incorporation-by-reference boilerplate (Selected Financial Data on pages 16-17 of Annual Report to shareholders for FY ended January 1, 1994) plus Part III/IV/signature pages; no table present."
+SWN,1993,174844,thousands,27100,1.05,,,,"Formal 5-yr Selected Financial Data table is referenced elsewhere ('Financial and Operating Statistics') and not captured in this snippet. Revenue figures are from a segment breakdown table in the MD&A (Exploration & Production + Gas Distribution, in thousands, net of eliminations). Net income and EPS are taken from MD&A prose ($27.1 million / $1.05 primary per share for 1993) and converted to thousands only for unit consistency with the revenue figure -- not independently confirmed against a formal table. Total assets/long-term debt/shares outstanding not disclosed in snippet. 1993 net income is before cumulative effect of accounting change; includes a -$1.7M/-$.07 per share charge for a retroactive tax rate increase (OBRA) and a separate +$10.1M/$.39 per share cumulative effect of adopting SFAS 109 (not netted into the $27.1M figure per the text)."
+SWN,1992,143830,thousands,22300,0.87,,,,"See 1993 row note; revenue from segment table, net income/EPS from MD&A prose ($22.3 million / $.87 per share)."
+SWN,1991,136439,thousands,20100,0.78,,,,"See 1993 row note; revenue from segment table, net income/EPS from MD&A prose ($20.1 million / $.78 per share)."
+SWY,UNKNOWN,,,,,,,,Snippet incorporates the 'Five-Year Summary Financial Information' (page 12 of 1993 Annual Report to Stockholders) by reference; no table present. Remainder is proxy-statement cross-references and an executive officer list.
+SYK,UNKNOWN,,,,,,,,Snippet incorporates the 'Ten Year Review' (pages 32-33 of 1993 Annual Report) by reference; no table present. Remainder is director/officer biographies and proxy-statement cross-references.
+TEG,1994,673795,thousands,52691,,,,,"Column headers as printed in the source read '1994  1993  1992  1991  1990  1984' -- the last column is labeled 1984 (likely an OCR error or typo for 1989 in the original filing), reported as-is per instructions not to guess/correct. EPS, total assets, and shares outstanding are not shown in this snippet. A 'Interest on long-term debt' expense line is shown (23,407 etc.) but this is interest EXPENSE, not the long-term debt balance, so long_term_debt is left blank."
+TEG,1993,680632,thousands,58889,,,,,
+TEG,1992,634802,thousands,54765,,,,,
+TEG,1991,623499,thousands,50935,,,,,
+TEG,1990,588973,thousands,45730,,,,,
+TEG,1984,644191,thousands,,,,,,Net income value for this column is cut off / not captured in the snippet (table truncated). See 1994 row note regarding the anomalous '1984' column header.
+TFC,UNKNOWN,,,,,,,,"Table found is titled 'SELECTED FINANCIAL DATA OF SUBSIDIARIES' and shows 1993/1992/1991 figures for individual subsidiary banks (Southern National Bank of NC, Southern National Bank of SC, and a third entity labeled SSB), not the registrant's consolidated company-level Selected Financial Data. No consolidated/parent totals appear in this snippet, so no company-level row is recorded to avoid conflating subsidiary-only figures with consolidated results."
+TGT,UNKNOWN,,,,,,,,"Snippet is only incorporation-by-reference boilerplate pointing to specific pages of the 1993 Annual Report to Shareholders (Selected Financial and Operating Data, page 33); no table present. Remainder is exhibit list/signature boilerplate."
+THC,1994,2967,millions,216,1.29,3697,223,,Fiscal year ended May 31. Figures are continuing operations only (company also had discontinued operations / disposals). EPS is primary (fully diluted also given: 1.23).
+THC,1993,3191,millions,264,1.59,4173,892,,Fully diluted EPS also given: 1.49.
+THC,1992,2941,millions,218,1.27,4236,1066,,Fully diluted EPS also given: 1.19.
+THC,1991,2610,millions,145,0.91,4060,1140,,Fully diluted EPS also given: 0.87.
+THC,1990,2917,millions,123,0.78,3807,1361,,Fully diluted EPS also given: 0.76.
+TIF,1993,566501,thousands,-10242,-0.65,504409,101500,15781000,"Labeled 'Fiscal 1993' etc. in source. All share and per-share data retroactively adjusted for a 3-for-2 stock split effected in Fiscal 1989. Net loss year (loss from operations); net_income is income/(loss) before accounting change and extraordinary item. Shares outstanding figure is weighted-average primary shares used in EPS computation (in thousands, expressed here as units), not a period-end share count."
+TIF,1992,486396,thousands,15712,1.00,419355,101500,15786000,
+TIF,1991,491906,thousands,31805,2.01,394882,50000,15835000,
+TIF,1990,455712,thousands,36661,2.34,307268,18226,15694000,
+TIF,1989,383964,thousands,33305,2.13,237061,18226,15606000,
+TIF,1988,290344,thousands,24901,1.62,162648,0,15332000,Long-term debt shown as '-' (i.e. none/zero) in source for Fiscal 1988 and 1987.
+TIF,1987,230488,thousands,16820,1.17,126669,0,14300000,
+TJX,1994,3626604,thousands,127046,1.62,1427370,210854,74192358,"Fiscal year ended January of the stated year (e.g. FY1994 ended January 1994). Figures are continuing operations only, before extraordinary item and cumulative effect of accounting changes. Shares outstanding figure is the weighted-average number of common shares used for the primary/fully-diluted EPS computation (single combined figure in this table), not a period-end share count."
+TJX,1993,3261240,thousands,104044,1.40,1305096,179787,73873276,
+TJX,1992,2757715,thousands,70114,1.00,1105319,307385,70050835,
+TJX,1991,2446279,thousands,74128,1.06,1047301,308593,72924288,
+TJX,1990,2148735,thousands,75685,1.16,949098,295361,68083045,Marked with * in source: 'Effected by the fiscal 1990 restructuring and thus not comparable to subsequent years.'
+TMO,UNKNOWN,,,,,,,,Snippet incorporates the 'Ten Year Financial Summary' and 'Dividend Policy' sections of the 1993 Annual Report to Shareholders by reference; no table present. Remainder is proxy/exhibit-schedule cross-reference boilerplate.
+TRV,1993,"4,460,172",thousands,"427,609",9.47,"17,149,196","639,729","42,357,338","Table is 'Consolidated - From Continuing Operations'; net income figure used is 'Income (loss) before cumulative effects and extraordinary credit' (not a separately labeled final net income line); EPS is same basis, primary (not the also-disclosed 'Operating earnings' figure/EPS); Debt figure labeled simply 'Debt' under Other Selected Financial Data."
+TRV,1992,"4,498,692",thousands,"-232,521",-5.69,"15,392,054","566,717","42,059,277",Loss year. Same basis as 1993 (income before cumulative effects and extraordinary credit).
+TRV,1991,"4,351,700",thousands,"405,062",9.01,"14,744,717","486,779","42,521,242",Same basis as above.
+TRV,1990,"4,005,237",thousands,"391,270",8.31,"13,907,293","473,829","42,234,029",Same basis as above.
+TRV,1989,"3,788,648",thousands,"398,158",8.12,"12,734,411","293,802","49,303,881",Same basis as above.
+TRV,1988,"3,634,953",thousands,"352,615",7.32,"11,997,989","417,140","46,364,084",Same basis as above; snippet also shows a second (cut-off) table beginning again for 'Consolidated/For the year ended December 31' that was truncated before any new data appeared.
+TXT,UNKNOWN,,,,,,,,Snippet is still only Items 7-14 cross-reference/incorporation-by-reference text (Textron) plus exhibit list; states Selected Financial Data is in the Five Year Summary on page 66 of the 1993 Annual Report but does not reproduce it. No table present.
+UNH,UNKNOWN,,,,,,,,Snippet is still only incorporation-by-reference language ('Financial Highlights' in the Annual Report to Shareholders for FY1994) plus Items 8-14 boilerplate. No table present.
+VFC,UNKNOWN,,,,,,,,Snippet is still only incorporation-by-reference language ('Financial Summary' pages 34-35 of 1993 Annual Report) plus Items 8-14 exhibit list. No table present.
+WEC,1994,"1,742,192",thousands,"180,868",1.67,"4,408,259","1,283,686",,"Revenue = 'Total operating revenues' (sum of Electric/Gas/Steam). Long-term debt figure is captioned 'Long-term debt and preferred stock-redemption required' (combined line, not pure long-term debt). Shares outstanding not disclosed in this table. Snippet also contains a subsequent Consolidated Quarterly Financial Data table (Mar/Jun/Sep/Dec 1994 vs 1993) not extracted here since it is quarterly, not the annual 5-yr summary."
+WEC,1993,"1,693,235",thousands,"190,135",1.80,"4,270,592","1,300,781",,Column marked with asterisk (*) per source footnote convention (gas therms/customers figures for 1991-1993 are marked restated in the same table); long-term debt line is combined with preferred stock redemption required.
+WEC,1992,"1,595,515",thousands,"171,239",1.66,"3,788,955","1,289,082",,Column marked with asterisk (*); same LTD caveat as above.
+WEC,1991,"1,579,598",thousands,"190,125",1.85,"3,533,745","1,175,417",,Column marked with asterisk (*); same LTD caveat as above.
+WEC,1990,"1,479,843",thousands,"188,092",1.83,"3,397,038","1,066,907",,Column marked with asterisk (*); same LTD caveat as above.
+WELL,1994,"47,732",thousands,"24,953",2.17,"324,102","57,373","11,519","Revenue line is captioned 'Gross Income', not net sales. Long-term debt figure used is 'Senior Notes and Other Long-Term Obligations' (excludes separately disclosed 'Borrowings Under Line of Credit Arrangements' of 70,900). Shares outstanding is 'Average Number of Shares Outstanding' (in thousands), not period-end shares. Company also discloses 'Funds From Operations' (non-GAAP) of 31,697, not captured in these fields."
+WELL,1993,"36,018",thousands,"20,055",2.15,"285,024","61,311","9,339",Same caveats as 1994 row (Gross Income as revenue; LTD excludes line-of-credit borrowings of 35
+WELL,1992,"28,908",thousands,"16,515",1.91,"226,207","24,819","8,629",Same caveats as above (line-of-credit borrowings of 78
+WELL,1991,"29,248",thousands,"13,126",1.92,"207,204","28,144","6,828",Same caveats as above (line-of-credit borrowings of 62
+WELL,1990,"26,874",thousands,"11,544",1.88,"189,720","35,563","6,151",Same caveats as above (line-of-credit borrowings of 74
+WFC,1993,,millions,653.6,2.13,,,,"No 'Selected Financial Data' table reproduced; snippet contains Items 7-14 cross-reference/TOC page plus MD&A narrative prose (Norwest Corporation, later Wells Fargo) that states net income and EPS in running text: 'reported record net income of $653.6 million in 1993... Net income per common share was $2.13 in 1993.' Revenue, total assets, long-term debt and shares outstanding are not stated in this snippet. A separate 'Consolidated Income Summary' table (interest income/expense, non-interest income/expense) begins later in the snippet but is truncated mid-figure ('Income before income taxes 970.3 51.') before net income/EPS/per-share lines are reached."
+WFC,1992,,millions,364.1,1.16,,,,From same MD&A narrative as 1993 row: '$364.1 million in 1992... $1.16 in 1992.' Note the text also cites an adjusted (non-GAAP) figure excluding a FAS 106 accounting-change cumulative effect of $440.1 million net income / $1.42 EPS for 1992; the $364.1M/$1.16 figures are the as-reported (unadjusted) ones used here. Figures reflect restatement for pooling-of-interests acquisition of Lincoln Financial Corp and a 2-for-1 stock split (retroactively applied per the text).
+WFC,1991,,millions,400.9,1.34,,,,From same MD&A narrative: '$400.9 million earned in 1991... $1.34 in 1991.' Same restatement caveats as 1992 row (2-for-1 split retroactively applied; pooling-of-interests restatement for Lincoln Financial Corp acquisition).
+WHR,UNKNOWN,,,,,,,,"Snippet is still only incorporation-by-reference language (line items under 'Consolidated Statistical Review' in the Annual Report, five years ended Dec 31 1994) plus Items 7-14 boilerplate. No table present."
+WMT,UNKNOWN,,,,,,,,"Snippet is still only incorporation-by-reference language ('11 Year Financial Summary' pages 12-13 of the Annual Report to Shareholders for FY ended Jan 31, 1995) plus Items 8-14 boilerplate/exhibit list. No table present."
+WY,UNKNOWN,,,,,,,,"Snippet is a Cross Reference Sheet (table of contents mapping Form 10-K items to Annual Report / Proxy page numbers) followed by Item 1 Business narrative. No actual Selected Financial Data figures present, only page-number references."
+XEL,1993,"2,404.0",millions,211.7,3.02,"5,587.7","1,291.9","65,211","Filer is Northern States Power Company (Minnesota), predecessor entity later part of Xcel Energy (ticker XEL). Revenue = 'Utility operating revenues'. Net income shown is the 'Net income' line (distinct from separately disclosed 'Income from continuing operations before accounting change' of 211.7, which is identical to net income in 1993 but differs in other years). EPS is 'Total' EPS (vs. separately disclosed 'Continuing operations before accounting change' EPS of 3.02). Shares outstanding in thousands. Revenues/expenses for years prior to 1992 restated to exclude discontinued telephone operations; 1992 reflects an accounting change for revenue recognition."
+XEL,1992,"2,159.5",millions,206.4,3.04,"5,142.5","1,299.9","62,641",Continuing-ops-before-accounting-change net income differs from total net income (160.9 vs 206.4) due to $45.5 million accounting change for unbilled revenues per MD&A text. See 1993 row for other caveats.
+XEL,1991,"2,201.1",millions,224.1,3.29,"4,918.8","1,233.9","62,566",See 1993 row for caveats (restated revenue/expense basis).
+XEL,1990,"2,064.5",millions,195.5,2.83,"4,931.6","1,239.5","62,541",See 1993 row for caveats.
+XEL,1989,"1,979.2",millions,221.9,3.24,"4,832.5","1,262.7","62,541",See 1993 row for caveats.
+XEL,UNKNOWN,"1,685.1",millions,183.9,2.80,"3,395.4","1,086.2","60,863","Sixth column of the table is headed '1983' in the source text, which is very likely an OCR misread of the true year (the other five columns run 1989-1993 consecutively, so this column should logically be an earlier year, not 1983) -- reported here exactly as printed rather than corrected/guessed; fiscal_year left as UNKNOWN rather than silently relabeling it."
+XRX,UNKNOWN,,,,,,,,Snippet is still only incorporation-by-reference language ('Nine Years in Review' pages 88-89 of the 1994 Annual Report to Shareholders) plus Items 8-14 boilerplate and executive officer bios. No table present.

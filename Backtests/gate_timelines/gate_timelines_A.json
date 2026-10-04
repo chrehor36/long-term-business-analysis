@@ -1,0 +1,214 @@
+{
+ "AFL": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Supplemental health/life: premium in, claims out, float invested. Benefit ratios, persistency and new premium sales disclosed by segment."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "WIDE",
+    "note": "Sole cancer-insurance provider in the Japan Post channel (2008 alliance; 20,000 outlets from 2013-07-26); insures ~1 in 4 Japanese households; Japan Post took ~7% of AFL (2018-12-19), formalising exclusivity."
+   },
+   {
+    "from": 2019,
+    "class": "NARROW",
+    "note": "The exclusive channel proved a single point of failure: Japan Post improper-sales scandal (2019-06/07) cut post-office cancer sales from 2019-08 (Q3, 2019-10-30); Japan Post was ~25% of Aflac Japan third-sector sales; FY2019 new annualised premium -15.9%."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2018-01",
+    "severity": "SERIOUS",
+    "note": "The Intercept (2018-01-11): nine former associates alleged contractor misclassification, policies issued without consent, manipulated earnings statements. Stock -8%; class action 2018-04. Denied; no regulator action or adjudication through 2020-06."
+   },
+   {
+    "date": "2019-12",
+    "severity": "SERIOUS",
+    "note": "Japan FSA ordered Japan Post to suspend insurance sales 2020-01-01 to 2020-03-31. Distributor conduct; Aflac stated its own products were outside the earlier suspension."
+   }
+  ],
+  "gate5_broken_by": null
+ },
+ "GL": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Small-face whole life, final expense and Medicare supplement to lower-middle-income households via captive agencies and direct response; margins disclosed by channel."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Durable but not wide: high-20s% life underwriting margin and ~13-15% ROE every year 2013-2019, but the product is commoditised and the real asset is agent-recruiting capacity, not customer captivity. No visible deterioration through 2019."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2012-01",
+    "severity": "SERIOUS",
+    "note": "California DOI action alleging 697 Fair Claims Settlement Practices violations; publicly pending from 2012 and dismissed 2016-08-29 with no liability finding."
+   },
+   {
+    "date": "2018-12",
+    "severity": "MINOR",
+    "note": "Class action alleging American Income Life misclassified trainee agents; $5.75M settled 2021, after the window."
+   }
+  ],
+  "gate5_broken_by": null
+ },
+ "GPS": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Specialty apparel retail; comps, gross margin, occupancy and inventory disclosed by brand quarterly."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "FY2013 (2014-02-27) Gap Global comps +3%, Inc +2%, operating margin ~12.6%; brand plus real-estate scale."
+   },
+   {
+    "from": 2015,
+    "class": "NONE",
+    "note": "FY2014 (reported 2015-02-26) Gap Global -5%, Inc 0%; ~175 Gap North America closures announced 2015-06-15. Gap Global comps negative every year FY2014-FY2019; by FY2019 Old Navy rolled over too. No pricing power after 2014."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2013-05",
+    "severity": "SERIOUS",
+    "note": "After Rana Plaza (2013-04-24) Gap declined to sign the binding Bangladesh Accord, backing the voluntary Alliance instead. Supplier-safety governance failure, not adjudicated misconduct."
+   },
+   {
+    "date": "2015-11",
+    "severity": "MINOR",
+    "note": "Reference-pricing class actions over false 'original' prices; industry-wide practice, settlements after the window."
+   }
+  ],
+  "gate5_broken_by": "2016-02"
+ },
+ "KSS": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Off-mall mid-tier department store; comps, gross margin, SG&A and the Capital One card revenue share all disclosed."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Off-mall convenience format, ~1,150 stores; comps roughly flat FY2013-FY2015, gross margin held ~36.4-36.5%."
+   },
+   {
+    "from": 2016,
+    "class": "NONE",
+    "note": "FY2016 (2017-02-23) sales -2.7%, comps -2.4%, gross margin ~36.0%; 18 closures announced 2016-09. The FY2017-18 recovery was borrowed traffic (Amazon returns, 2017-09 pilot, chainwide 2019-04) and reversed at once: Q1 FY2019 comps -3.4% with a guidance cut (2019-05-21)."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2011-08",
+    "severity": "SERIOUS",
+    "note": "Lease-accounting corrections requiring restatement of prior periods (2011-08-04, 8-K 2011-08-11). Error, not alleged fraud, but on the record before the 2013 anchor."
+   },
+   {
+    "date": "2015-06",
+    "severity": "SERIOUS",
+    "note": "Russell v. Kohl's alleging false 'regular/original' reference prices; $6.15M settled 2016-09-12, no admission."
+   }
+  ],
+  "gate5_broken_by": "2019-05"
+ },
+ "PNC": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Super-regional bank plus (until 2020) a ~22% BlackRock stake. Standard disclosure; note that a large share of book value and ~a fifth of earnings sat in a marketable equity stake rather than banking operations."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Low-cost deposit franchise across Pittsburgh/Mid-Atlantic/Midwest; efficiency ~60-62%, ROTCE ~11-14% 2014-2019, NIM ~2.7-3.0%. Sticky but commodity; results move with the curve."
+   },
+   {
+    "from": 2020,
+    "class": "NARROW",
+    "note": "Composition changed, class did not: entire BlackRock stake sold 2020-05-15 for ~$14.4B, removing that earnings contribution before the 2020-06-30 anchor."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2013-12",
+    "severity": "SERIOUS",
+    "note": "DOJ+CFPB consent order, $35M, for National City's pricing discrimination against 75,000+ Black and Hispanic borrowers 2002-2008. PNC paid as successor; no admission; conduct predates PNC ownership."
+   }
+  ],
+  "gate5_broken_by": null
+ },
+ "ELV": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Health benefits: premium vs medical cost plus admin; largest BCBS licensee, 14 states, ~37-40M members. Reserve estimation is judgment-heavy but MLR and prior-year development are disclosed."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "WIDE",
+    "note": "Exclusive BCBS trademark licences in 14 states give protected territory and the deepest provider discounts there. Standing caveat knowable at every anchor: the BCBS antitrust MDL (consolidated Dec 2012) attacked the exclusive-territory structure itself; the per-se ruling (2018-04) and $2.67B settlement (2020-09) both post-date the last ELV anchor."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2013-07",
+    "severity": "SERIOUS",
+    "note": "$1.7M HHS OCR HIPAA settlement for leaving ePHI of 612,402 individuals internet-accessible 2009-2010. NOTE: announced 2013-07-08, just AFTER the 2013-06-30 anchor."
+   },
+   {
+    "date": "2015-02",
+    "severity": "SERIOUS",
+    "note": "Breach disclosed 2015-02-04: 78.8M records including SSNs. Penalties came 2018-10 and 2020-09, after the last ELV anchor."
+   },
+   {
+    "date": "2016-07",
+    "severity": "MINOR",
+    "note": "DOJ/state AGs sued to block the $54B Cigna acquisition; enjoined 2017-02. Antitrust, not misconduct."
+   }
+  ],
+  "gate5_broken_by": null
+ },
+ "FITB": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Midwest regional bank. Caveat: through 2019 a material share of reported earnings came from the Vantiv/Worldpay stake, so headline EPS repeatedly reflected non-bank gains -- analyzable, but the two must be separated before any owner-earnings figure is used."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Ohio/Michigan/Illinois deposit franchise; NIM ~3.0-3.3%, efficiency ~58-62% 2016-2019; mid-teens ROTCE achieved only with Worldpay gains. No pricing power. Incremental share bought, not earned (MB Financial, closed 2019-03-22)."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2013-12",
+    "severity": "DISQUALIFYING",
+    "note": "SEC charged Fifth Third and its CFO with improper accounting: Q3 2008 CRE loans held for sale were not reclassified, avoiding a $169M impairment that would have raised the quarter's pretax loss by 132%. Public before EVERY FITB anchor."
+   },
+   {
+    "date": "2015-09",
+    "severity": "SERIOUS",
+    "note": "CFPB/DOJ $18M for indirect auto-lending discrimination, plus ~$3M relief and a $500K penalty for deceptive marketing of a card add-on."
+   },
+   {
+    "date": "2015-10",
+    "severity": "SERIOUS",
+    "note": "~$85M False Claims Act settlement: certified FHA loans later found materially defective and not reported to FHA."
+   },
+   {
+    "date": "2020-03",
+    "severity": "DISQUALIFYING",
+    "note": "CFPB sued Fifth Third alleging unauthorized credit card, savings, checking and online-banking accounts opened 2010-2016. Disclosed 2020-03-02, four months before the 2020 anchor."
+   }
+  ],
+  "gate5_broken_by": null
+ }
+}

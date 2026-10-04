@@ -1,0 +1,27 @@
+﻿ticker,name,cap_m,oe_bottom_m,yield_bottom,vs_sovereign,growth_required,spread,note
+OPFI,OppFi Inc.,602,267,0.4440,0.3922,-0.3440,0.20,STRUCK - financial SIC 6199
+SHOE,SHOE STATION GROUP INC,353,44,0.1253,0.0735,-0.0253,0.48,TIER1 full run
+ESNT,Essent Group Ltd.,6129,730,0.1191,0.0673,-0.0191,0.10,STRUCK - financial SIC 6351
+KBH,KB HOME,3217,309,0.0961,0.0443,0.0039,0.68,TIER2 boom window
+SUNC,SunocoCorp LLC,4016,348,0.0867,0.0349,0.0133,0.10,TIER2 partnership K-1
+FHB,"FIRST HAWAIIAN, INC.",3077,265,0.0860,0.0342,0.0140,0.22,STRUCK - financial SIC 6022
+MPLX,MPLX LP,59767,4409,0.0738,0.0220,0.0262,0.02,TIER2 partnership K-1
+MGM,MGM Resorts International,10273,607,0.0591,0.0073,0.0409,1.57,TIER2 boom window
+OTIS,Otis Worldwide Corp,26910,1340,0.0498,-0.0020,0.0502,0.05,TIER1 full run
+FCN,"FTI CONSULTING, INC",4169,174,0.0417,-0.0101,0.0583,0.03,TIER1 full run
+AMTM,"Amentum Holdings, Inc.",4897,188,0.0385,-0.0133,0.0615,0.00,TIER2 perimeter merger
+AYI,ACUITY INC. (DE),9752,362,0.0371,-0.0147,0.0629,0.35,TIER2 DEFERRED - best of tier
+KEX,KIRBY CORP,7403,245,0.0331,-0.0187,0.0669,0.64,TIER2 cycle high
+NVEC,NVE CORP /NEW/,475,15,0.0319,-0.0199,0.0681,0.06,TIER2 flat ten years
+XPEL,"XPEL, Inc.",1330,28,0.0214,-0.0304,0.0786,0.49,below floor
+ALH,Alliance Laundry Holdings Inc.,4411,89,0.0202,-0.0316,0.0798,0.53,below floor
+SW,Smurfit Westrock plc,24160,476,0.0197,-0.0321,0.0803,0.00,TIER2 perimeter merger
+ECG,"Everus Construction Group, Inc.",5804,111,0.0191,-0.0327,0.0809,0.00,below floor
+LAUR,"LAUREATE EDUCATION, INC.",5155,90,0.0175,-0.0343,0.0825,1.25,below floor
+CTRI,"Centuri Holdings, Inc.",2062,33,0.0161,-0.0357,0.0839,0.00,below floor
+NWPX,"NWPX Infrastructure, Inc.",1053,14,0.0135,-0.0383,0.0865,1.40,below floor
+DRS,"Leonardo DRS, Inc.",10099,114,0.0112,-0.0406,0.0888,0.47,below floor
+SN,"SharkNinja, Inc.",24733,260,0.0105,-0.0413,0.0895,0.05,below floor
+GDOT,GREEN DOT CORP,753,4,0.0055,-0.0463,0.0945,13.04,below floor
+PNTG,"Pennant Group, Inc.",1315,5,0.0041,-0.0477,0.0959,3.92,below floor
+MIAX,"MIAMI INTERNATIONAL HOLDINGS, INC.",4223,8,0.0020,-0.0498,0.0980,0.32,below floor

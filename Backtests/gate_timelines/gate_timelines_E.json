@@ -1,0 +1,238 @@
+{
+  "APTV": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Auto supplier with legible unit economics: signal/power distribution (wire harness, connectors) and electronics/safety sold on multi-year design-win programs, so revenue is bookings x content-per-vehicle x global light-vehicle production, with contractual annual price givebacks to OEMs. Nothing opaque; a generalist can read the segment tables directly."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Designed-in electrical architecture creates real switching costs (a harness is engineered per vehicle platform and rarely re-sourced mid-cycle), and Delphi Automotive PLC posted roughly mid-to-high-teens returns on invested capital from its Nov-2011 IPO through 2016. But the customer is a handful of OEMs who extract 1-3% annual price downs contractually, and volume is set by a cyclical global build rate the company does not control - that caps it at NARROW, not WIDE. The 04-Dec-2017 record/05-Dec-2017 distribution spin-off of Delphi Technologies (powertrain) and the rename to Aptiv (APTV) improved mix toward signal/power and advanced safety but did not change the customer-power dynamic; FY2018 and FY2019 results still showed OEM price givebacks and production-driven volume."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2006-10",
+        "severity": "SERIOUS",
+        "note": "On 30-Oct-2006 the SEC filed civil fraud claims against Delphi Corporation and nine former executives for a pattern of fraudulent conduct 2000-2004, materially misstating financial condition in SEC filings, offering documents and press releases. IMPORTANT DATING/ENTITY NOTE: this is the pre-bankruptcy predecessor (Delphi Corp, spun from GM 01-Jan-1999, Chapter 11 Oct-2005). The assets were bought out of bankruptcy in 2009 and Delphi Automotive PLC IPO'd Nov-2011 as a new Jersey/UK entity with a replaced board and management. Public and dated 2006-10; weight accordingly rather than reading it as current-management misconduct."
+      },
+      {
+        "date": "2014-04",
+        "severity": "SERIOUS",
+        "note": "GM ignition-switch recall: Delphi manufactured the defective switch. Congressional documents released Apr-2014 and Delphi CEO Rodney O'Neal's testimony to the Senate Commerce Committee in Jul-2014 established publicly that Delphi had tested the switch, found it did not meet GM's torque specification, and supplied it anyway after GM approved the design. Delphi was named in civil suits. Delphi's public position was that design approval was GM's responsibility; no regulator brought an action against Delphi."
+      },
+      {
+        "date": "2014-12",
+        "severity": "MINOR",
+        "note": "Complaint filed Dec-2014 in the US Bankruptcy Court (SDNY) by holders of general unsecured claims against old Delphi (DPHH), alleging the 2011 $4.4bn redemption of GM/PBGC membership interests plus subsequent buybacks and dividends crossed the $7.2bn distribution threshold in the Fourth LLP Agreement, triggering the maximum $300m payment. Ordinary-course contractual/bankruptcy-successor litigation, disclosed in the 10-K legal proceedings note."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "AXP": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "A closed-loop payments network that is also a lender: revenue is discount rate x billed business, plus card fees and net interest income, with credit losses the main variable cost. It carries a loan book, so it is balance-sheet levered, but the economics are disclosed line by line and a generalist can follow them - not an opaque financial black box."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Through 2014 the closed loop (issuer + acquirer + network in one) let Amex charge merchants a discount rate materially above Visa/Mastercard interchange, funded by an affluent, high-spend cardholder base and a premium brand. Return on equity ran in the mid-20s%, and merchant anti-steering rules (non-discrimination provisions) contractually protected the price premium at the point of sale."
+      },
+      {
+        "from": 2016,
+        "class": "NARROW",
+        "note": "Two 2015 events attacked the pillars, and the damage landed in reported results during 2016. (1) 12-Feb-2015: Amex announced Costco would not renew the US co-brand - a partnership representing roughly 8% of global billed business, ~20% of outstanding loans and ~10% of cards worldwide; the exclusivity actually ended 31-Mar-2016 (Costco moved to Visa/Citi). Amex also lost the JetBlue co-brand (announced Mar-2015). (2) 19-Feb-2015: Judge Garaufis (EDNY) held the anti-steering rules an unreasonable restraint of trade under Sherman Act s.1. Amex cut FY2016 EPS guidance and announced a $1bn cost program at its Dec-2015 investor day, and FY2016 revenue declined as the Costco portfolio was sold. Counter-evidence for the reader: the Second Circuit reversed the antitrust ruling on 26-Sep-2016 and the Supreme Court affirmed for Amex in Jun-2018, and ROE stayed in the mid-20s% - which is why this is NARROW, not NONE."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2012-10",
+        "severity": "SERIOUS",
+        "note": "01-Oct-2012: coordinated CFPB/FDIC/OCC/Federal Reserve orders against American Express subsidiaries - roughly $85m in consumer refunds plus $27.5m in civil penalties - for illegal card practices at every stage of the consumer relationship (deceptive marketing, unlawful late fees, age discrimination in applications, failure to report disputes)."
+      },
+      {
+        "date": "2013-12",
+        "severity": "DISQUALIFYING",
+        "note": "24-Dec-2013: CFPB ordered American Express to pay $59.5m ($16m civil penalty plus refunds) for illegal credit-card practices. The order found that from 2000 through 2012 three Amex subsidiaries used misleading and deceptive tactics to sell add-on products (Account Protector, Identity Protection, Lost Wallet Puerto Rico). A twelve-year pattern of deceptive marketing to consumers, found by a regulator, meets the systematic-consumer-deception bar."
+      },
+      {
+        "date": "2015-02",
+        "severity": "SERIOUS",
+        "note": "19-Feb-2015: after a seven-week bench trial in the DOJ/17-state enforcement action, the EDNY held Amex's merchant anti-steering rules violated Sherman Act s.1; an injunction followed and the Second Circuit refused to stay it. Adjudicated finding of anticompetitive conduct as of this date. Later history (for dating discipline only, not for use at 2015/2016 anchors): reversed by the Second Circuit 26-Sep-2016; Supreme Court affirmed in Amex's favour Jun-2018."
+      },
+      {
+        "date": "2015-05",
+        "severity": "MINOR",
+        "note": "Securities fraud class actions filed in 2015 alleging Amex misled investors about the durability and terms of the Costco relationship before the 12-Feb-2015 announcement. Ordinary-course post-drop securities litigation."
+      },
+      {
+        "date": "2017-08",
+        "severity": "SERIOUS",
+        "note": "23-Aug-2017: CFPB resolution with two Amex banking subsidiaries for discriminating against consumers in Puerto Rico, the US Virgin Islands and other territories by offering card terms inferior to those in the 50 states. Amex remediated approximately $95-96m to 221,932 consumers. No civil penalty was assessed because Amex self-reported and fully cooperated. Note this post-dates the 30-Jun-2017 anchor."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "CSCO": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Sells enterprise and service-provider switches, routers, wireless, security, collaboration and the attached services/maintenance contracts; product versus service revenue and deferred revenue are broken out clearly. Understandable unit economics for a generalist."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Through fiscal 2016 Cisco held roughly 55-60% share of the enterprise Ethernet switching market, sustained gross margins above 60%, and benefited from genuine lock-in: IOS/CLI operator training, a certification ecosystem (CCNA/CCIE), a two-tier channel, and multi-year maintenance contracts that made rip-and-replace expensive. The Q2 FY2014 revenue drop of 8% year over year (reported Feb-2014) was an emerging-market and service-provider order shock, not share loss - FY2015 revenue recovered to about $49.2bn, so it should not be read as a moat change at the 2014 anchor."
+      },
+      {
+        "from": 2017,
+        "class": "NARROW",
+        "note": "By the Q3 FY2017 report (May-2017) Cisco had posted year-over-year revenue declines for seven consecutive quarters, with the weakness concentrated in the core switching and routing lines rather than in peripheral segments. FY2014 switching revenue had already fallen 5% ($711m), driven by a 12% ($656m) drop in modular switches as the Catalyst 6000 base aged. Management publicly attributed compressing product gross margin to pricing pressure on standalone hardware. The visible cause was merchant silicon and white-box competition plus Arista in the data centre and Huawei internationally: durable, but no longer a price-setting franchise. Still NARROW rather than NONE because share, 60%+ gross margins and the services annuity all held."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2013-12",
+        "severity": "SERIOUS",
+        "note": "23-Dec-2013: Cisco publicly disclosed (blog post by deputy general counsel Roxane Marenberg) that it was investigating alleged FCPA violations in Russia and certain CIS states, including discounting practices, at the request of the SEC and DOJ. Investigation only - no finding at this date. Resolution for dating discipline: both DOJ and SEC formally declined to bring enforcement actions, announced 09-Sep-2016."
+      },
+      {
+        "date": "2019-07",
+        "severity": "SERIOUS",
+        "note": "31-Jul-2019: Cisco agreed to pay $8.6m to settle a False Claims Act whistleblower suit (US ex rel. Glenn) alleging it sold its Video Surveillance Manager product to federal, state and local government agencies from 2007 to 2014 while knowing it was susceptible to cyber-attack. Believed to be the first FCA cybersecurity payout. Post-dates all CSCO anchors."
+      },
+      {
+        "date": "2020-10",
+        "severity": "SERIOUS",
+        "note": "Oct-2020: a federal court (EDVA) found Cisco liable for wilful patent infringement in Centripetal Networks v. Cisco, awarding roughly $1.9bn in damages and royalties. Well after all CSCO anchors; recorded for completeness."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "EMN": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Four reported segments (Additives & Functional Products, Advanced Materials, Chemical Intermediates, Fibers) with volume, price and raw-material spread disclosed per segment; economics are propylene/olefin feedstock in, differentiated and commodity chemicals out. Heterogeneous but not opaque - a generalist can trace each segment's driver."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Genuine specialty positions with pricing power - Saflex PVB interlayers and Crystex insoluble sulfur (both acquired with Solutia, closed Jul-2012 for about $4.7bn), Tritan copolyester, coatings and tire additives - sit alongside a large commodity Chemical Intermediates book that is a pure spread business with no pricing power. The Fibers segment (acetate tow) was the clearest demonstration that the franchise was NARROW not WIDE: it contributed roughly 15% of sales and about 30% of profits in 2013-2014, then de-rated hard as Chinese acetate tow capacity was built out and Chinese cigarette demand fell for the first time ever in 2015 (down 8% in Q1-2016). Eastman closed its Workington, UK tow plant in 2015 and the Fibers earnings reset was fully visible in the FY2015 and FY2016 10-Ks, i.e. well before the 30-Jun-2018 anchor. Returns on capital in the high-single to low-double digits are consistent with NARROW. The FY2019 earnings decline (customer destocking, weak auto and durables end-markets) and the 2020 COVID trough are cyclical, not a further moat change."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2017-10",
+        "severity": "SERIOUS",
+        "note": "04-Oct-2017: two explosions and a fire in the coal gasification area of Eastman's Kingsport, Tennessee site (a process upset traced by the company's internal memo to a blocked 30-year-old valve). No injuries beyond first aid. The Tennessee Occupational Safety and Health Administration subsequently cited Eastman for four 'serious' violations (report released 2018). Regulator finding of safety violations at the company's largest manufacturing complex; became public the day of the incident."
+      },
+      {
+        "date": "2013-07",
+        "severity": "MINOR",
+        "note": "Context, not a mark against Eastman: on 25-Jul-2013 a federal jury in Austin, Texas found that PlastiPure and CertiChem had made false and misleading claims about the estrogenic activity of Eastman's Tritan resin. Eastman was the PLAINTIFF and won; the defendants appealed. Recorded so a later reader does not mistake the Tritan docket for adverse litigation against Eastman."
+      },
+      {
+        "date": "2013-01",
+        "severity": "MINOR",
+        "note": "Ordinary-course environmental exposure disclosed in the legal proceedings and environmental notes of each 10-K across the period: Superfund/state remediation obligations and accrued environmental reserves at legacy sites. No regulator finding of misconduct."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "FOSL": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Designs, makes and distributes watches, leathers and jewellery under the owned Fossil/Skagen brands and licensed fashion brands (Michael Kors, Emporio Armani, DKNY, Diesel, Kate Spade). Unit economics are simple: gross margin on accessories less royalty payments to licensors, less SG&A across wholesale and its own retail stores."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Through fiscal 2014 Fossil ran on a genuine but rentable advantage: design and global distribution scale in fashion accessories, gross margins in the mid-50s%, and a licensed-brand portfolio - above all Michael Kors watches - that carried the growth. FY2014 worldwide net sales rose about 8% to roughly $3.5bn. NARROW rather than WIDE because the brand equity that drove the volume belonged to the LICENSORS, was rented under finite contracts, and depended on a fashion cycle Fossil did not control."
+      },
+      {
+        "from": 2016,
+        "class": "NONE",
+        "note": "The break is dateable to the FY2015 results released 16-Feb-2016 and confirmed by the Q1-2016 results released 10/11-May-2016, both before the 30-Jun-2016 anchor. FY2015: worldwide net sales fell about 8% to roughly $3.23bn and operating margin roughly halved (mid-teens% to high-single-digits%). Q1-2016: net sales fell 9% year over year (7% constant currency) to about $660m, with WATCHES down 10% (8% constant currency) and jewellery down 13%; management cut FY2016 revenue guidance to a range implying a decline; the stock fell as much as 34% in a day on 11-May-2016. CEO Kosta Kartsotis described 'persistent headwinds pressuring the traditional watch category.' Cause was visible and structural, not cyclical: the Apple Watch shipped 24-Apr-2015 and consumed the same wrist and the same $200-400 price point. Fossil's own response - the $260m Misfit acquisition announced Nov-2015 and the Fossil Q connected line - was an admission that the traditional watch franchise was being displaced, and it did not arrest the decline (FY2016 net sales down about $186m or 6%; FY2017 net sales down about $254m or 8%, with roughly $407m of goodwill and trade-name impairment and a diluted loss of $9.87 per share reported 13-Feb-2018)."
+      }
+    ],
+    "gate3": [],
+    "gate5_broken_by": "2016-02"
+  },
+  "GLW": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Specialty glass and ceramics across five reported segments - Display Technologies (LCD substrate glass), Optical Communications (fibre and cable), Specialty Materials (Gorilla Glass), Environmental Technologies (ceramic substrates for auto emissions), Life Sciences. Capital-intensive manufacturing with clearly reported segment sales and margins; readable by a generalist."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Corning holds a leading share of an LCD substrate oligopoly (Corning, AGC, NEG) and Gorilla Glass had a dominant position in smartphone cover glass with Gorilla Glass 4 shipping in 2015. But the defining fact of the Display business - roughly 40% of revenue and the bulk of profit - is that Corning disclosed SEQUENTIAL LCD GLASS PRICE DECLINES IN EVERY QUARTER of this window (moderate in Q2-2014 and Q1-2015, but always negative). A franchise that must give price back every quarter to hold volume, in a business needing continuous heavy capex on melting tanks, is NARROW, not WIDE. Gorilla Glass showed the same vulnerability from the other side: weak Gorilla sales in Q4-2013 (reported 29-Jan-2014) and price decline in Q2-2014 both compressed operating margin, so the cover-glass premium was not durable either. On 15-Jan-2014 Corning completed full ownership of Samsung Corning Precision Materials (announced Oct-2013), issuing about $1.9bn of convertible preferred to Samsung Display plus a further $400m purchase - roughly a 7.5% economic stake - which improved consolidated Display revenue and profit (about $2bn sales, about $350m profit) but also concentrated customer and shareholder exposure in a single counterparty. None of these changed the CLASS during 2013-2015."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2013-01",
+        "severity": "MINOR",
+        "note": "Ordinary-course environmental exposure disclosed in each 10-K: Corning has been named by the EPA (Superfund) or state equivalents as a potentially responsible party at 17 active hazardous waste sites, with joint and several liability among contributors. Reserves accrued; no regulator finding of misconduct."
+      },
+      {
+        "date": "2015-12",
+        "severity": "MINOR",
+        "note": "11-Dec-2015: Corning announced it would exchange its 50% equity interest in Dow Corning Corporation for 100% of a new entity holding roughly 40% of Hemlock Semiconductor plus about $4.8bn cash - unwinding the JV whose 1990s silicone breast-implant litigation and 1995 Chapter 11 had been Corning's largest historical legal exposure (long since charged off). Structural/portfolio action, not misconduct. Separately, in Sep-2019 Dow formally notified Corning of environmental remediation losses at a number of sites."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "HPQ": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Two businesses after the 01-Nov-2015 separation from Hewlett Packard Enterprise: Personal Systems (notebooks, desktops) and Printing (hardware plus supplies). The classic razor-and-blades structure is fully disclosed - printer hardware near or below cost, with supplies carrying roughly two-thirds of Printing operating profit. Easy for a generalist to explain."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "The moat was never the PC business - that is a commodity assembly business where HP competes on scale and channel against Lenovo and Dell. It was the installed-base supplies annuity: an installed printer only takes HP cartridges, giving high-margin recurring revenue at a price the customer has already sunk cost into. Honest read on the supplies economics: this is a captive-aftermarket toll, not a customer-preference moat, and its enforcement mechanism was already technical rather than competitive. The FY2016 supplies collapse (Printing net revenue down 14.3% and supplies down 17.8% for the three months ended 31-Jul-2016; FY2016 was the segment's biggest revenue drop, with Printing about 38% of total sales) should NOT be read as the moat break at the 30-Jun-2017 anchor: HP attributed most of it to a deliberate change in the supplies sales model plus channel-inventory reduction and unfavourable FX, and supplies did stabilise (FY2017 supplies revenue down only 0.6%, and supplies grew again in FY2018)."
+      },
+      {
+        "from": 2019,
+        "class": "NONE",
+        "note": "Visible on 27-Feb-2019 (Q1 FY2019 results), before the 30-Jun-2019 anchor: HP warned supplies revenue would decline about 3% for the rest of FY2019 and the stock fell as much as 17% in a day. Critically, management's stated cause was not FX or channel timing but MARKET SHARE AND PRICING LOSS as customers shifted supplies purchases online to third-party and compatible cartridges, plus weak EMEA demand. That is the annuity itself leaking. Confirmed 03-Oct-2019 when incoming CEO Enrique Lores announced a restructuring cutting 7,000-9,000 of roughly 55,000 jobs to save $1bn by end-2022, explicitly abandoning the razor-and-blades model in favour of services and higher up-front printer pricing for machines usable with non-HP ink. When a company publicly retires the pricing structure that WAS its moat, the classification is NONE."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2012-11",
+        "severity": "SERIOUS",
+        "note": "20-Nov-2012: HP took an $8.8bn goodwill write-off on Autonomy and publicly alleged 'serious accounting improprieties' and 'outright misrepresentations' at the acquired company, with more than $5bn of the charge attributed to accounting missteps. The fraud alleged was Autonomy's, but HP's own diligence and disclosure were challenged: a securities class action on behalf of purchasers between 19-Aug-2011 and 20-Nov-2012 settled in Jun-2015 for $100m paid by HP's insurers. Entity note: HP Inc. is the continuation of the original Hewlett-Packard Company (HPE was the entity spun off 01-Nov-2015), so this history attaches to HPQ."
+      },
+      {
+        "date": "2014-04",
+        "severity": "DISQUALIFYING",
+        "note": "09-Apr-2014: Hewlett-Packard and three subsidiaries paid more than $108m to resolve parallel SEC and DOJ FCPA actions - $74.2m in criminal fines to DOJ, $29m disgorgement ($26.47m SEC, $2.53m IRS forfeiture) and $5m prejudgment interest. The conduct: more than $3.6m in bribes to Russian, Polish and Mexican government officials to win or keep public contracts, including over $2m routed through agents and shell companies to a Russian official for a contract with the federal prosecutor's office, and over $600,000 in gifts and cash to a Polish official for national police contracts. The SEC found HP's books recorded the payments as legitimate commissions and expenses. Adjudicated bribery with an accompanying books-and-records failure."
+      },
+      {
+        "date": "2016-09",
+        "severity": "SERIOUS",
+        "note": "Mid-Sep-2016: an HP firmware update containing an undisclosed 'Dynamic Security' feature activated in the field and bricked third-party ink cartridges in OfficeJet, OfficeJet Pro and OfficeJet Pro X printers (HP 934/935, 950/951, 970/971 cartridges), leaving customers' printers unusable without genuine HP supplies. Customers had received no warning. HP apologised on 28-Sep-2016 ('we should have done a better job of communicating about the authentication procedure') and committed to an optional firmware update removing the feature. Covert, unilateral disabling of already-purchased goods to protect the supplies margin - directly relevant to the Gate 2 assessment above, not merely a legal item."
+      },
+      {
+        "date": "2020-12",
+        "severity": "DISQUALIFYING",
+        "note": "Decision dated 17-Nov-2020, announced Dec-2020: the Italian Competition Authority (AGCM) fined HP Inc. and HP Italy EUR 10m for MISLEADING AND AGGRESSIVE COMMERCIAL PRACTICES over Dynamic Security. The authority found HP failed to inform consumers at purchase that non-original cartridges would be blocked, leading them to believe cartridges were faulty or empty, and separately recorded consumption and cartridge-origin data without prior notice in order to refuse free warranty assistance to printers that had used non-original cartridges. HP's appeal was denied. A regulator finding of systematic consumer deception. Well after all HPQ anchors - dated here only so the 2016-09 conduct can be seen for what a regulator later concluded it was; do NOT let this colour the 2017/2018/2019 evaluations."
+      },
+      {
+        "date": "2024-08",
+        "severity": "SERIOUS",
+        "note": "Aug-2024: HP reached an agreement in principle to settle the US class action over firmware updates blocking third-party ink and toner, with the Mar-2025 settlement including a commitment to make such firmware updates optional. Far outside all anchors; recorded for completeness of the Dynamic Security thread."
+      }
+    ],
+    "gate5_broken_by": "2019-10"
+  }
+}

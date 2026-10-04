@@ -1,0 +1,30 @@
+{
+ "2020": {
+  "label": "2020",
+  "n_survivors": 12,
+  "n_portfolios": 66,
+  "years": 6.064339493497604,
+  "spy_cagr": 17.364486131590205,
+  "spy_total_x": 2.6405486031354615,
+  "port_cagr_min": 17.068341595837545,
+  "port_cagr_median": 22.993314606689363,
+  "port_cagr_mean": 22.42017999510369,
+  "port_cagr_max": 24.846337734800272,
+  "beat_count": 65,
+  "beat_rate_pct": 98.48484848484848
+ },
+ "2016": {
+  "label": "2016",
+  "n_survivors": 19,
+  "n_portfolios": 92378,
+  "years": 10.064339493497604,
+  "spy_cagr": 15.332013718090408,
+  "spy_total_x": 4.202276002233947,
+  "port_cagr_min": 15.092592897730285,
+  "port_cagr_median": 36.13888192054555,
+  "port_cagr_mean": 28.748000350449228,
+  "port_cagr_max": 37.93157789380523,
+  "beat_count": 92372,
+  "beat_rate_pct": 99.99350494706532
+ }
+}

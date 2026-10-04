@@ -1,0 +1,1746 @@
+{
+  "seed": 1,
+  "results": {
+    "01_chronic_passers": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1244445987290046,
+      "mult": 130.7967004035368,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "CMCSA",
+        "CSX",
+        "EXC",
+        "GIS",
+        "INTC"
+      ]
+    },
+    "02_occasional_passers": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1370183579523292,
+      "mult": 207.6205548279047,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "ADP",
+        "BMY",
+        "CAT",
+        "CHD",
+        "CLX",
+        "COP",
+        "DE",
+        "HAL",
+        "JNJ",
+        "LOW",
+        "MSI"
+      ]
+    },
+    "03_buffett_actual_picks": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1688510118659099,
+      "mult": 653.9627109738552,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "KO",
+        "AXP",
+        "WFC",
+        "IBM",
+        "AAPL",
+        "BAC"
+      ]
+    },
+    "04_brk_13f_recent_top": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1542851120497677,
+      "mult": 388.37941992706897,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "AAPL",
+        "AXP",
+        "BAC",
+        "KO",
+        "CVX",
+        "OXY",
+        "C",
+        "HPQ",
+        "VZ",
+        "USB",
+        "WFC"
+      ]
+    },
+    "05_tech": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1790204243869724,
+      "mult": 937.3031797286691,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "AAPL",
+        "ADP",
+        "INTC",
+        "LRCX",
+        "MSI",
+        "WDC"
+      ]
+    },
+    "06_staples_health": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1484988220068506,
+      "mult": 315.1857065022278,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "BAX",
+        "BMY",
+        "CHD",
+        "CLX",
+        "DHR",
+        "GIS",
+        "JNJ",
+        "KO",
+        "PG"
+      ]
+    },
+    "07_industrial": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13872830034179695,
+      "mult": 220.9983199364192,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "CAT",
+        "CMI",
+        "CSX",
+        "DE",
+        "DOV",
+        "GATX",
+        "UNP"
+      ]
+    },
+    "09_energy": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.10747803626234842,
+      "mult": 69.53909114208759,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "COP",
+        "CVX",
+        "HAL",
+        "OXY",
+        "XOM"
+      ]
+    },
+    "11_utilities": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.11393638373863091,
+      "mult": 88.54414096261603,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "AEP",
+        "CNP",
+        "ETR",
+        "PEG",
+        "SO"
+      ]
+    },
+    "12_one_per_sector_diversified": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.165816411337514,
+      "mult": 587.0034869829071,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "AAPL",
+        "BAX",
+        "CAT",
+        "AXP",
+        "COP",
+        "LOW",
+        "AEP",
+        "KO"
+      ]
+    },
+    "13_longest_history": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.17106083803428707,
+      "mult": 707.3566067777315,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "IBM",
+        "ETR",
+        "WMT",
+        "EXC",
+        "WDC",
+        "DHR",
+        "CMCSA",
+        "T",
+        "LRCX",
+        "AAPL",
+        "ADP"
+      ]
+    },
+    "014_random_14": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.153646138043946,
+      "mult": 379.5454559985451,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "LRCX",
+        "WDC",
+        "UNP",
+        "SO",
+        "BAC",
+        "CVX"
+      ]
+    },
+    "015_random_15": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13135538426067117,
+      "mult": 168.72017426093956,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "JNJ",
+        "SO",
+        "HRB",
+        "INTC",
+        "OXY"
+      ]
+    },
+    "016_random_16": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.12331599737093413,
+      "mult": 125.45125784300959,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "T",
+        "CNP",
+        "BMY",
+        "JNJ",
+        "ADP",
+        "GIS",
+        "HPQ",
+        "MTB"
+      ]
+    },
+    "017_random_17": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.15546931152685928,
+      "mult": 405.2848387200588,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "SWKS",
+        "AAPL",
+        "PHM",
+        "HRB",
+        "DE",
+        "ROK",
+        "UNP",
+        "COP",
+        "MSI",
+        "BMY",
+        "ETR"
+      ]
+    },
+    "018_random_18": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.17471764855054905,
+      "mult": 805.1963457560461,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "ADP",
+        "OXY",
+        "LMT",
+        "AAPL",
+        "WMT"
+      ]
+    },
+    "019_random_19": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1263676066147401,
+      "mult": 140.42109467135825,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "PG",
+        "CNP",
+        "HPQ",
+        "ROK",
+        "ADP",
+        "KO",
+        "COP",
+        "SO"
+      ]
+    },
+    "020_random_20": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13308345380446274,
+      "mult": 179.76700473320125,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "JNJ",
+        "LOW",
+        "COP",
+        "GATX",
+        "WFC",
+        "PG",
+        "VZ",
+        "SO"
+      ]
+    },
+    "021_random_21": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.14958132843416516,
+      "mult": 327.7687532796194,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "DHR",
+        "ADP",
+        "HAL",
+        "VZ",
+        "LOW",
+        "OXY",
+        "BMY",
+        "CMCSA"
+      ]
+    },
+    "022_random_22": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.14569242743809951,
+      "mult": 284.7191331569527,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "ROK",
+        "WFC",
+        "DHR",
+        "C",
+        "SNA",
+        "EXC",
+        "XOM",
+        "PPG",
+        "JPM",
+        "HPQ"
+      ]
+    },
+    "023_random_23": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.14729240016030132,
+      "mult": 301.71747577993426,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "VZ",
+        "PEG",
+        "CMI",
+        "DOV",
+        "DHR",
+        "MSI",
+        "JNJ",
+        "JPM",
+        "GPC"
+      ]
+    },
+    "024_random_24": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.12236246323337152,
+      "mult": 121.10165617138026,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "WDC",
+        "AEP",
+        "INTC",
+        "CSX",
+        "SNA",
+        "UNP",
+        "GPC",
+        "HAL",
+        "PEG"
+      ]
+    },
+    "025_random_25": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.12342688793495982,
+      "mult": 125.96688160900273,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "GHC",
+        "LOW",
+        "PHM",
+        "SWKS",
+        "PG",
+        "SNA"
+      ]
+    },
+    "026_random_26": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.10570523748222538,
+      "mult": 65.06070102993849,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "BAX",
+        "HRB",
+        "PEG",
+        "JPM",
+        "BMY",
+        "SWKS",
+        "CLX"
+      ]
+    },
+    "027_random_27": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1284604966966214,
+      "mult": 151.68136362178305,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "VZ",
+        "GPC",
+        "GHC",
+        "JNJ",
+        "ROK",
+        "ADP",
+        "INTC",
+        "AEP",
+        "DOV"
+      ]
+    },
+    "028_random_28": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.11826890028027548,
+      "mult": 104.042601562933,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "WDC",
+        "NEM",
+        "MSI",
+        "WFC",
+        "GPC",
+        "OXY",
+        "CLX",
+        "UNP",
+        "JPM",
+        "COP"
+      ]
+    },
+    "029_random_29": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13534899375002674,
+      "mult": 195.3241286690291,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "SWKS",
+        "CMI",
+        "LMT",
+        "WFC",
+        "LOW"
+      ]
+    },
+    "030_random_30": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1537255371235624,
+      "mult": 380.63240343168644,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "GPC",
+        "JPM",
+        "GATX",
+        "WDC",
+        "LRCX",
+        "WFC"
+      ]
+    },
+    "031_random_31": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1656942674931059,
+      "mult": 584.4533969792982,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "DE",
+        "PEG",
+        "LOW",
+        "MTB",
+        "ROK",
+        "AAPL",
+        "GIS",
+        "T"
+      ]
+    },
+    "032_random_32": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13581933777807564,
+      "mult": 198.7148373421263,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "USB",
+        "WMT",
+        "SNA",
+        "JPM",
+        "UNP",
+        "CAT",
+        "KO",
+        "SWKS",
+        "LOW",
+        "CNP",
+        "HPQ"
+      ]
+    },
+    "033_random_33": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.16275812203733353,
+      "mult": 526.3061688119489,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "INTC",
+        "WFC",
+        "GHC",
+        "LRCX",
+        "LOW"
+      ]
+    },
+    "034_random_34": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13176923458803302,
+      "mult": 171.30381274911966,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "JPM",
+        "HAL",
+        "JNJ",
+        "USB",
+        "GATX",
+        "WMT"
+      ]
+    },
+    "035_random_35": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.16556202956958943,
+      "mult": 581.7047538507198,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "AAPL",
+        "LMT",
+        "WMT",
+        "NEM",
+        "T",
+        "WDC",
+        "EXC"
+      ]
+    },
+    "036_random_36": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1382570361411366,
+      "mult": 217.229639546038,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "MTB",
+        "ADP",
+        "UNP",
+        "COP",
+        "NKE",
+        "CMCSA",
+        "LOW",
+        "MSI"
+      ]
+    },
+    "037_random_37": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13483217402151237,
+      "mult": 191.66347716367147,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "WFC",
+        "BAX",
+        "UNP",
+        "LOW",
+        "XOM",
+        "USB"
+      ]
+    },
+    "038_random_38": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1126979286019838,
+      "mult": 84.54452357177463,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "AEP",
+        "VZ",
+        "PG",
+        "BAC",
+        "BAX",
+        "ADP",
+        "HRB"
+      ]
+    },
+    "039_random_39": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13041816117529925,
+      "mult": 163.00893623371394,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "SO",
+        "DE",
+        "CSX",
+        "C",
+        "UNP"
+      ]
+    },
+    "040_random_40": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1455694088081465,
+      "mult": 283.4515688854074,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "CMCSA",
+        "GATX",
+        "DHR",
+        "BAC",
+        "CLX",
+        "VZ",
+        "CVX",
+        "KO",
+        "USB"
+      ]
+    },
+    "041_random_41": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.14652245215119875,
+      "mult": 293.41732556618547,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "DE",
+        "OXY",
+        "PPG",
+        "DHR",
+        "IBM",
+        "PHM",
+        "ETR",
+        "JNJ",
+        "INTC",
+        "C"
+      ]
+    },
+    "042_random_42": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.10573101396468365,
+      "mult": 65.12375377975758,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "DOV",
+        "GIS",
+        "EXC",
+        "HAL",
+        "T"
+      ]
+    },
+    "043_random_43": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.12172703486475522,
+      "mult": 118.28520376954515,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "CVX",
+        "BMY",
+        "XOM",
+        "ROK",
+        "JPM",
+        "CNP"
+      ]
+    },
+    "044_random_44": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.12904628184287792,
+      "mult": 154.98778553433445,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "HPQ",
+        "USB",
+        "ADP",
+        "COP",
+        "WFC",
+        "GPC",
+        "CHD",
+        "AEP",
+        "ROK"
+      ]
+    },
+    "045_random_45": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.11499551049293033,
+      "mult": 92.11062156710071,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "HRB",
+        "PPG",
+        "JPM",
+        "PG",
+        "HPQ",
+        "LMT"
+      ]
+    },
+    "046_random_46": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.12536650505843183,
+      "mult": 135.32754270959072,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "COP",
+        "NKE",
+        "UNP",
+        "PHM",
+        "KO",
+        "HRB",
+        "XOM",
+        "VZ",
+        "OXY",
+        "ADP",
+        "GPC"
+      ]
+    },
+    "047_random_47": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.15016210224395898,
+      "mult": 334.72037563256464,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "LRCX",
+        "UNP",
+        "ETR",
+        "PEG",
+        "NKE",
+        "HPQ",
+        "AXP",
+        "SNA",
+        "DOV",
+        "CAT"
+      ]
+    },
+    "048_random_48": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13416826061707177,
+      "mult": 187.05908443835207,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "WMT",
+        "AXP",
+        "DOV",
+        "BAC",
+        "WDC",
+        "WFC"
+      ]
+    },
+    "049_random_49": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1752054525157336,
+      "mult": 819.2073931268035,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "SNA",
+        "CLX",
+        "HAL",
+        "LRCX",
+        "CVX",
+        "CAT",
+        "AAPL"
+      ]
+    },
+    "050_random_50": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.14583967647337204,
+      "mult": 286.24363861027825,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "WMT",
+        "WDC",
+        "AEP",
+        "MSI",
+        "USB",
+        "CNP",
+        "LRCX",
+        "IBM",
+        "CLX"
+      ]
+    },
+    "051_random_51": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.11473333880934367,
+      "mult": 91.21494949555677,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "WFC",
+        "XOM",
+        "SWKS",
+        "PPG",
+        "NEM",
+        "JPM",
+        "AEP",
+        "GIS",
+        "CMI",
+        "GATX",
+        "BMY"
+      ]
+    },
+    "052_random_52": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.15365865607500928,
+      "mult": 379.7166223794075,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "LRCX",
+        "PG",
+        "HPQ",
+        "MSI",
+        "CMI",
+        "JNJ"
+      ]
+    },
+    "053_random_53": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.15932809958150052,
+      "mult": 465.5067384294866,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "PEG",
+        "GIS",
+        "DHR",
+        "JPM",
+        "JNJ"
+      ]
+    },
+    "054_random_54": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1190676882869155,
+      "mult": 107.17585807239962,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "ETR",
+        "NEM",
+        "WFC",
+        "GPC",
+        "XOM"
+      ]
+    },
+    "055_random_55": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.15221967868563557,
+      "mult": 360.5259547517815,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "ADP",
+        "CLX",
+        "CMI",
+        "WDC",
+        "ETR",
+        "UNP",
+        "LRCX"
+      ]
+    },
+    "056_random_56": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13068165441537927,
+      "mult": 164.59525884577081,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "CAT",
+        "EXC",
+        "HPQ",
+        "CNP",
+        "DE",
+        "PG",
+        "BMY",
+        "GIS",
+        "LOW",
+        "GATX",
+        "USB"
+      ]
+    },
+    "057_random_57": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1308028674564441,
+      "mult": 165.33005412376056,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "JNJ",
+        "SWKS",
+        "LMT",
+        "CSX",
+        "BAC",
+        "ROK",
+        "AEP",
+        "BAX",
+        "CAT"
+      ]
+    },
+    "058_random_58": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.12317941963747914,
+      "mult": 124.81902299285149,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "CLX",
+        "LMT",
+        "CNP",
+        "DE",
+        "SO",
+        "EXC"
+      ]
+    },
+    "059_random_59": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.14762831139489152,
+      "mult": 305.41003195987565,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "JPM",
+        "VZ",
+        "CVX",
+        "GHC",
+        "EXC",
+        "WMT",
+        "C",
+        "DHR",
+        "CSX"
+      ]
+    },
+    "060_random_60": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1361984238423093,
+      "mult": 201.48941285499902,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "MTB",
+        "SWKS",
+        "PPG",
+        "JNJ",
+        "CAT",
+        "MSI",
+        "LOW",
+        "WMT",
+        "BMY",
+        "ETR",
+        "AEP"
+      ]
+    },
+    "061_random_61": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13071103976443355,
+      "mult": 164.7731000589528,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "BAC",
+        "GIS",
+        "WFC",
+        "T",
+        "CHD",
+        "CAT",
+        "EXC",
+        "C"
+      ]
+    },
+    "062_random_62": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1436785551283173,
+      "mult": 264.64759842967476,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "MSI",
+        "T",
+        "GIS",
+        "BAC",
+        "LRCX",
+        "LOW",
+        "COP",
+        "VZ",
+        "BAX"
+      ]
+    },
+    "063_random_63": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1641738156504442,
+      "mult": 553.6006687670136,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "GHC",
+        "DHR",
+        "LRCX",
+        "LMT",
+        "C",
+        "IBM",
+        "DE"
+      ]
+    },
+    "064_random_64": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1827268072269863,
+      "mult": 1067.8754704362407,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "T",
+        "AEP",
+        "USB",
+        "DHR",
+        "AAPL"
+      ]
+    },
+    "065_random_65": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1568460247470136,
+      "mult": 425.8423765162707,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "PEG",
+        "AAPL",
+        "BAX",
+        "HAL",
+        "C",
+        "USB",
+        "T",
+        "AEP",
+        "CMI"
+      ]
+    },
+    "066_random_66": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.10081035772284896,
+      "mult": 54.10696534082047,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "T",
+        "MSI",
+        "HAL",
+        "CLX",
+        "C",
+        "HRB"
+      ]
+    },
+    "067_random_67": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.11450753997650076,
+      "mult": 90.45035734049198,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "PG",
+        "CSX",
+        "CLX",
+        "SNA",
+        "BMY",
+        "HPQ"
+      ]
+    },
+    "068_random_68": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.15451969069570692,
+      "mult": 391.67261885224616,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "UNP",
+        "LMT",
+        "USB",
+        "DHR",
+        "LOW",
+        "CVX",
+        "PPG",
+        "INTC"
+      ]
+    },
+    "069_random_69": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.16337304493606175,
+      "mult": 537.9965831340706,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "BMY",
+        "CNP",
+        "OXY",
+        "ETR",
+        "AEP",
+        "ADP",
+        "AAPL"
+      ]
+    },
+    "070_random_70": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.14522600737598657,
+      "mult": 279.9422890514441,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "DHR",
+        "ROK",
+        "MTB",
+        "ETR",
+        "HRB",
+        "GPC",
+        "WDC",
+        "USB",
+        "BAC",
+        "SWKS",
+        "UNP"
+      ]
+    },
+    "071_random_71": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1006869048901804,
+      "mult": 53.855400336247406,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "IBM",
+        "C",
+        "CVX",
+        "CNP",
+        "T",
+        "NEM",
+        "SWKS",
+        "LMT",
+        "PHM"
+      ]
+    },
+    "072_random_72": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.11757082667164731,
+      "mult": 101.37773573450323,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "PEG",
+        "GATX",
+        "CVX",
+        "CMCSA",
+        "LMT",
+        "CNP",
+        "DOV",
+        "CMI"
+      ]
+    },
+    "073_random_73": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13186554912816484,
+      "mult": 171.9106137497844,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "GHC",
+        "BAX",
+        "USB",
+        "DE",
+        "WMT",
+        "SO"
+      ]
+    },
+    "074_random_74": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.14690756005290018,
+      "mult": 297.54059927765866,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "BAX",
+        "OXY",
+        "LRCX",
+        "WMT",
+        "EXC",
+        "COP",
+        "GIS",
+        "DOV"
+      ]
+    },
+    "075_random_75": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.11426134815250677,
+      "mult": 89.62383854355832,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "ETR",
+        "CMCSA",
+        "T",
+        "WDC",
+        "MSI"
+      ]
+    },
+    "076_random_76": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.11525778131087705,
+      "mult": 93.01521843298625,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "CSX",
+        "EXC",
+        "BMY",
+        "LMT",
+        "NEM",
+        "MSI",
+        "UNP"
+      ]
+    },
+    "077_random_77": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1299897321750807,
+      "mult": 160.46144149041228,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "BAX",
+        "CSX",
+        "COP",
+        "ADP",
+        "UNP",
+        "WMT",
+        "GPC",
+        "BAC",
+        "DE"
+      ]
+    },
+    "078_random_78": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.17312589289995595,
+      "mult": 761.0842465751849,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "WFC",
+        "BAC",
+        "ROK",
+        "WMT",
+        "ADP",
+        "NKE",
+        "AAPL",
+        "DHR",
+        "SO"
+      ]
+    },
+    "079_random_79": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1269060286398691,
+      "mult": 143.23744182383436,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "GATX",
+        "JNJ",
+        "INTC",
+        "WDC",
+        "CHD",
+        "BMY",
+        "JPM",
+        "SWKS",
+        "ETR",
+        "BAC",
+        "UNP"
+      ]
+    },
+    "080_random_80": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.12024399489600923,
+      "mult": 111.95822290451387,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "CMCSA",
+        "XOM",
+        "SWKS",
+        "CHD",
+        "WDC",
+        "USB",
+        "ETR",
+        "DOV",
+        "BMY",
+        "PPG"
+      ]
+    },
+    "081_random_81": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.15327138401749196,
+      "mult": 374.45595136744913,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "VZ",
+        "MTB",
+        "DHR",
+        "CAT",
+        "CNP",
+        "CHD",
+        "LMT",
+        "ROK",
+        "AEP"
+      ]
+    },
+    "082_random_82": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.12384110366413426,
+      "mult": 127.91127564635411,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "ETR",
+        "USB",
+        "NEM",
+        "UNP",
+        "PG",
+        "LOW",
+        "SNA",
+        "PHM",
+        "CNP",
+        "CMCSA",
+        "DOV"
+      ]
+    },
+    "083_random_83": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.11671667373209704,
+      "mult": 98.20755287632012,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "LMT",
+        "CLX",
+        "AXP",
+        "PPG",
+        "PEG",
+        "CSX",
+        "CVX",
+        "SWKS"
+      ]
+    },
+    "084_random_84": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13141943688754965,
+      "mult": 169.11754808682545,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "PG",
+        "HRB",
+        "UNP",
+        "HPQ",
+        "LOW"
+      ]
+    },
+    "085_random_85": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.16360623234548388,
+      "mult": 542.4957018534941,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "LMT",
+        "HRB",
+        "WDC",
+        "XOM",
+        "IBM",
+        "AAPL",
+        "GPC"
+      ]
+    },
+    "086_random_86": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.14122918323591604,
+      "mult": 242.0907404380637,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "EXC",
+        "CLX",
+        "CVX",
+        "JNJ",
+        "ADP",
+        "T",
+        "OXY",
+        "HAL",
+        "LRCX",
+        "VZ",
+        "AXP"
+      ]
+    },
+    "087_random_87": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.15084795077293234,
+      "mult": 343.1151208624281,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "GATX",
+        "MSI",
+        "CAT",
+        "WMT",
+        "WFC",
+        "VZ",
+        "CVX",
+        "DE",
+        "GPC",
+        "LRCX"
+      ]
+    },
+    "088_random_88": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.16162376501755937,
+      "mult": 505.3877256153135,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "CMCSA",
+        "NEM",
+        "BAX",
+        "COP",
+        "JNJ",
+        "AAPL",
+        "XOM",
+        "KO"
+      ]
+    },
+    "089_random_89": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13023246728364302,
+      "mult": 161.89996621897657,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "JPM",
+        "OXY",
+        "HRB",
+        "PG",
+        "NKE",
+        "ROK",
+        "COP"
+      ]
+    },
+    "090_random_90": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.12941566160797513,
+      "mult": 157.10877412634338,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "ETR",
+        "JNJ",
+        "PG",
+        "INTC",
+        "COP",
+        "PPG"
+      ]
+    },
+    "091_random_91": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.12749587813224017,
+      "mult": 146.38607669646333,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "EXC",
+        "LOW",
+        "NEM",
+        "ROK",
+        "OXY",
+        "DE",
+        "VZ",
+        "COP"
+      ]
+    },
+    "092_random_92": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.12782603299348305,
+      "mult": 148.1778334474595,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "BAC",
+        "SO",
+        "JPM",
+        "OXY",
+        "WMT"
+      ]
+    },
+    "093_random_93": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.11423301102676797,
+      "mult": 89.52917907650671,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "CLX",
+        "JPM",
+        "SWKS",
+        "T",
+        "CNP",
+        "DOV",
+        "USB"
+      ]
+    },
+    "094_random_94": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.12618027055990377,
+      "mult": 139.4539188104178,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "DOV",
+        "WDC",
+        "LOW",
+        "GHC",
+        "CLX",
+        "PHM",
+        "USB",
+        "SNA",
+        "IBM",
+        "MTB"
+      ]
+    },
+    "095_random_95": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1246567623441297,
+      "mult": 131.8261090411571,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "WDC",
+        "C",
+        "XOM",
+        "MTB",
+        "JPM"
+      ]
+    },
+    "096_random_96": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.14649348923587713,
+      "mult": 293.1094900371785,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "GIS",
+        "CMCSA",
+        "CHD",
+        "CVX",
+        "HPQ",
+        "CNP",
+        "LRCX",
+        "ROK",
+        "SO"
+      ]
+    },
+    "097_random_97": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1259350864914941,
+      "mult": 138.19790361876323,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "AXP",
+        "JNJ",
+        "PG",
+        "GPC",
+        "PPG",
+        "NKE",
+        "GATX",
+        "GIS",
+        "JPM",
+        "CLX",
+        "LMT"
+      ]
+    },
+    "098_random_98": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.13131536940779798,
+      "mult": 168.47239013421182,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "AEP",
+        "KO",
+        "BAX",
+        "UNP",
+        "CVX",
+        "NKE",
+        "BMY",
+        "DE",
+        "SNA",
+        "WFC"
+      ]
+    },
+    "099_random_99": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.10233140817230968,
+      "mult": 57.30216969320272,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "SWKS",
+        "NEM",
+        "VZ",
+        "PEG",
+        "PG",
+        "PHM"
+      ]
+    },
+    "100_random_100": {
+      "start": "1985-01-01",
+      "years": 41.6,
+      "cagr": 0.1240191516893745,
+      "mult": 128.75603411356107,
+      "spy_cagr": 0.0940260209699928,
+      "spy_note": null,
+      "tickers": [
+        "HRB",
+        "WDC",
+        "CSX",
+        "GIS",
+        "UNP"
+      ]
+    }
+  }
+}

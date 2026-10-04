@@ -1,0 +1,284 @@
+{
+  "FLS": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Industrial flow control: engineered pumps, valves, seals sold as original equipment into oil/gas, chemical, power and water plants, then serviced for decades through a global network of Quick Response Centers (177 QRCs disclosed in the FY2013 10-K). Unit economics are simple to state: low-margin OE placement buys an installed base that generates higher-margin aftermarket parts and repair revenue."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Installed-base economics, not brand or network effects. FY2013/FY2014 10-Ks describe aftermarket as a distinctly higher-margin business tied to a worldwide installed base and 177 QRCs, and identify it as the source of stability across the cycle; roughly half of revenue was aftermarket in this period. Switching costs are real but bounded (API-spec products, credible rivals in Sulzer, ITT, KSB, SPX, Weir), and pricing is set project-by-project against competitive bids. Returns: FY2013-FY2014 operating margins ran low-to-mid teens on ~$4.8-4.9bn of sales with modest capital intensity, so returns on tangible capital were good but not fortress-grade. Cyclicality is the binding constraint: bookings track customer capex, and by the 2015-06-30 anchor the oil-price collapse that began H2 2014 was already visible in reported bookings declines (Q4 2014 and Q1 2015 releases). The subsequent 2015-2017 deterioration (2015 sales -6.5%; nine-month 2016 bookings -7.6% y/y driven by oil and gas; 2016 adjusted operating margin down 130bp; a decentralized 50+ P&L legacy operating model later admitted to and targeted by the multi-year 'Flowserve 2.0' realignment) confirmed the moat is cycle-exposed rather than pricing-power-based, but did not change the classification: aftermarket attachment survived the downturn."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2004-02",
+        "severity": "SERIOUS",
+        "note": "Announced (2004-02-06 disclosure of an SEC informal inquiry) the restatement of annual results for 2000-2003 plus 2003 quarterly and Q1 2004 results, accompanied by an unusually long list of admitted material weaknesses (non-U.S. pension accounting, period-end close and reporting, inventory, derivatives, control environment, receivables factoring/securitization, M&A accounting, unconsolidated investments, intangibles, accrued liabilities). Outcome reduced the severity: the SEC staff concluded its investigation on 2006-06-01 WITHOUT recommending any enforcement action against the company. Conduct predates the 2009 arrival of CEO Mark Blinn, i.e. different management at both the 2013 and 2015 anchors."
+      },
+      {
+        "date": "2008-02",
+        "severity": "DISQUALIFYING",
+        "note": "Public 2008-02-21/22: Flowserve resolved DOJ and SEC actions arising from the U.N. Oil-for-Food Program for about $10.5m total ($4.0m DOJ criminal fine plus a three-year deferred prosecution agreement for the French subsidiary; SEC disgorgement $2,720,861, prejudgment interest $853,364, $3.0m civil penalty). Substance is dishonesty, not a technical lapse: between 2001 and 2003 the French and Dutch subsidiaries paid $646,488 and authorized a further $173,758 in kickbacks to Iraqi government entities across twenty contracts, funding them through a bogus 10% 'after-sales service fee' routed to a Jordanian agent and recorded as a legitimate expense — deliberate falsification of the books to conceal payments to foreign officials. Not later reduced or reversed. Conduct and settlement both predate the 2013/2015 anchors and the 2009 management change, but the entity and the books-and-records injunction are continuous."
+      },
+      {
+        "date": "2015-02",
+        "severity": "SERIOUS",
+        "note": "Disclosed in the FY2014 Form 10-K (filed February 2015, therefore public before the 2015-06-30 anchor) and repeated in the Q1 2015 10-Q: Flowserve terminated an employee of an overseas subsidiary after uncovering conduct that violated its Code of Business Conduct and 'may have violated the Foreign Corrupt Practices Act,' completed an internal investigation and self-reported to both the DOJ and the SEC. Escalation became public 2015-08 when the company disclosed an SEC subpoena for additional documents (reported 2015-08-04). Graded SERIOUS rather than DISQUALIFYING because no charge or finding ever followed — no DOJ or SEC enforcement action against Flowserve was announced on this matter. Aggravating context for a repeat: this is the second FCPA episode at the same issuer inside eight years."
+      },
+      {
+        "date": "2013-06",
+        "severity": "MINOR",
+        "note": "Continuous ordinary-course product-liability exposure as a former maker and distributor of asbestos-containing components used with its pumps and valves; mesothelioma suits are disclosed as recurring in every 10-K across the anchor period, with many resolved on summary judgment in Flowserve's favor. Date shown is the anchor period rather than an event: this is background litigation, not a discrete finding."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "FOXA": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Post-spin Fox is deliberately simple: FOX News Channel and FOX Business, the FOX broadcast network, 28 owned-and-operated television stations, and FS1/FS2/Big Ten Network/FOX Deportes. Two revenue lines a generalist can explain — affiliate/retransmission fees per subscriber per month, and advertising sold against live news and live sports — against one dominant cost line, long-dated sports rights."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "CORPORATE DISCONTINUITY, FLAGGED: 'Fox Corporation' did not exist before 2019-03-19, when it began trading as a spin-off of 21st Century Fox's news, sports and broadcast assets; the Disney acquisition of the remaining 21CF (film/TV studios, FX, Fox Networks Group, Star India, the Hulu stake) closed 2019-03-20. At the 2019-06-30 anchor the entity had roughly one quarter of standalone reported results and its first fiscal year (FY ended 2019-06-30, revenue about $11.4bn) was largely carve-out accounting. Pre-2019 21CF history is context only, not this entity's record. Moat evidence on the assets themselves: FOX News was and is the ratings leader in cable news with the best affiliate-fee leverage in the category, and live NFL/MLB/college rights plus 28 O&O stations give real retransmission-consent pricing power — affiliate fee revenue grew through both anchor years and FY2020 revenue rose to about $12.3bn despite COVID. Against that, three facts already public before 2019-06-30 argue against WIDE: pay-TV subscriber decline had been visible industry-wide since 2015 and shrinks the per-sub base every year; the crown-jewel content (NFL, MLB, Big Ten) is leased on renewable contracts at auction, so the counterparty captures the economics on renewal; and the company sold its entertainment library and studio to Disney, leaving no owned IP to fall back on. NARROW at both anchors. COVID confirmed the concentration risk without changing the class: sports shut down in March 2020 and the Television segment's advertising revenue fell 29% in the quarter ended 2020-06-30, while affiliate fees held and the April 2020 Tubi acquisition (about $445m cash, plus roughly $45m deferred) was the hedge."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2016-07",
+        "severity": "SERIOUS",
+        "note": "PREDECESSOR-ENTITY MATTER, DISCONTINUITY FLAGGED (conduct at FOX News Channel under 21st Century Fox, before Fox Corporation existed; note however that Rupert and Lachlan Murdoch carried over as Co-Executive Chairman and CEO, so management continuity is only partial). Roger Ailes resigned as FOX News chairman 2016-07-21 following Gretchen Carlson's harassment suit (settled for $20m); the New York Times reported 2017-04-01 that about $13m had been paid to settle five O'Reilly harassment claims, and Bill O'Reilly was terminated 2017-04-19; the NYT reported 2017-10-21 a further, previously undisclosed $32m settlement with Lis Wiehl paid before his contract was renewed. The concealment element (settlements kept from investors and, per reporting, a private investigator hired to discredit claimants) is why this is graded above ordinary litigation; federal authorities in the SDNY examined whether 21CF had concealed the settlements from investors and no charges against the company were ever brought."
+      },
+      {
+        "date": "2017-11",
+        "severity": "SERIOUS",
+        "note": "PREDECESSOR-ENTITY MATTER. 2017-11-20/21: 21st Century Fox settled shareholder derivative claims arising from the FOX News harassment scandal for $90m, with about $45m earmarked for a compliance council at FOX News. Defendants — including Rupert, Lachlan and James Murdoch and the Ailes estate — did NOT admit wrongdoing, which caps this at SERIOUS. Public well before both Fox Corporation anchors."
+      },
+      {
+        "date": "2020-04",
+        "severity": "SERIOUS",
+        "note": "PREDECESSOR-ENTITY MATTER, DISCONTINUITY FLAGGED, and later REVERSED. 2020-04-06: DOJ (EDNY) charged former 21st Century Fox executives Hernan Lopez (ex-CEO of Fox International Channels) and Carlos Martinez, with Gerard Romy and Full Play Group SA, with wire fraud and money laundering conspiracies for bribing CONMEBOL/FIFA/CONCACAF officials to obtain confidential bid information and media rights, including U.S. rights to the 2018 and 2022 World Cups. Fox Corporation was NOT charged and denied involvement; the Fox International Channels business in which the alleged conduct occurred went to Disney in the March 2019 split, so this is predecessor conduct at an asset Fox Corporation does not own. Landed 2020-04-06, i.e. public before the 2020-06-30 anchor. Reversal history matters: Lopez was convicted at trial in March 2023, but the trial judge set the convictions aside in September 2023 in light of the Supreme Court's narrowing of federal fraud theories, and in December 2025 prosecutors moved to dismiss the case entirely as in the interests of justice."
+      },
+      {
+        "date": "2021-02",
+        "severity": "DISQUALIFYING",
+        "note": "POST-ANCHOR (after both 2019-06-30 and 2020-06-30). Smartmatic sued FOX News and Fox Corporation for defamation on 2021-02-04 seeking $2.7bn, and Dominion Voting Systems sued on 2021-03-26 seeking $1.6bn, over 2020 election-fraud claims broadcast in November-December 2020. Graded DISQUALIFYING on the dishonesty test because the Delaware court ruled at summary judgment (2023-03-31) that the challenged statements about Dominion were false, and discovery produced internal messages showing on-air talent and executives privately disbelieved the claims they aired; Fox settled 2023-04-18 for $787.5m and publicly acknowledged the court's finding that it had aired false statements. Nothing here was reduced or reversed on appeal — it was settled before opening statements. The Smartmatic action survived dismissal and continued after the Dominion settlement. Underlying broadcasts (November 2020 onward) also postdate both anchors."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "GT": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Tire manufacturing and distribution: sell tires to automakers at thin or negative margin to seed the replacement market, then earn on replacement units through company-owned and independent retail. Capital-intensive, raw-material exposed (natural rubber, oil derivatives), and carrying a large legacy pension and asbestos tail — complex to value, but not opaque as a business."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NONE",
+        "note": "Judged honestly, Goodyear is a price-taker in a global commodity with chronic overcapacity, and the reported numbers across the anchor period say so. FY2018 (reported 2019-02-08) sales of $15.5bn were up only 1% and Q4 original-equipment volume fell 22% on weak Chinese vehicle production; FY2019 nine-month sales fell 5% with tire volumes down 2%, OE volumes down 8%, and segment operating income falling every quarter (Q1 2019 $190m vs $281m; Q3 2019 $294m vs $362m). Management's own explanations of margin — higher raw material costs, lower volume, currency, weaker other-tire-related businesses, only partly offset by price/mix — describe cost pass-through with a lag, not pricing power. The brand supports a premium in some replacement segments, but low-cost Asian imports set the marginal price, distribution is not exclusive, and the company has not earned its cost of capital through a full cycle once pension and interest are charged. Substitution/disruption threat is structural rather than technological: tires are consumable and demand is durable, which is why this is NONE rather than a business in decline. No genuine change in class occurred at either the 2018 or 2019 anchor. On the break date recorded at gate 5: deterioration was visible but not yet a break at either anchor (2018 guidance cut on raw-material costs on 2018-02-08; a Q1 2019 net loss with a 9% volume decline reported 2019-04-30). The thesis was unambiguously broken on 2020-02-11, when Goodyear reported a FY2019 net loss of $311m ($1.33/share) against $693m of net income ($2.89) in 2018, a second consecutive year of falling segment operating income, and $205m of rationalization charges for modernizing two German plants and curtailing Gadsden, Alabama output — confirmed 2020-04-16 by the suspension of the quarterly dividend (about $37m per quarter) alongside an 18% Q1 2020 volume collapse. Both dates fall after both anchors."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2003-10",
+        "severity": "SERIOUS",
+        "note": "2003-10-22: Goodyear announced it would restate results for 1998-2002 and the first two quarters of 2003, with further restatement adjustments disclosed into 2004-2005; the SEC opened an inquiry into the circumstances and the company cooperated. Errors centred on overseas (notably European) accounting and account reconciliations. Graded SERIOUS, not DISQUALIFYING: no public enforcement action against the company was announced on this matter, and the conduct predates both anchors and the current management (Richard Kramer became CEO in 2010)."
+      },
+      {
+        "date": "2012-11",
+        "severity": "DISQUALIFYING",
+        "note": "Court-found litigation deception over the G159 RV tire. In Haeger v. Goodyear (D. Ariz.), the district court in late 2012 sanctioned Goodyear roughly $2.7m for bad-faith discovery conduct — withholding internal heat-and-speed test data for the G159 that would have shown the tire was unsuited to the motorhome application in which it failed. The Ninth Circuit affirmed in 2016. The Supreme Court's decision in Goodyear Tire & Rubber Co. v. Haeger (2017-04-18) VACATED AND REMANDED on the amount, holding a sanction must be limited to fees caused by the misconduct; it did not disturb the finding of bad-faith concealment. Both the sanctions order and the Supreme Court decision were public before the 2018-06-30 anchor."
+      },
+      {
+        "date": "2015-02",
+        "severity": "DISQUALIFYING",
+        "note": "2015-02-24: SEC charged Goodyear with FCPA violations and the company agreed to pay more than $16m — $14,122,525 disgorgement plus $2,105,540 prejudgment interest. Its Kenyan subsidiary (Treadsetters Tyres) and Angolan subsidiary (Trentyre Angola) routinely paid officials, employees of state-owned entities and private-company purchasing staff a total of over $3.2m in bribes over four years to win sales, and recorded them in the books as legitimate business expenses. Falsified records to hide payments to officials is dishonesty on its face. Not later reduced or reversed; the SEC cited lax compliance controls and inadequate M&A diligence. Public more than three years before the 2018-06-30 anchor."
+      },
+      {
+        "date": "2017-12",
+        "severity": "DISQUALIFYING",
+        "note": "The G159 concealment matter escalated to the regulator and became broadly public before the 2018 anchor: NHTSA opened its investigation in December 2017, after a judge ordered the release of Goodyear claims and test data that the company had kept out of the agency's hands by settling suits confidentially and obtaining protective orders sealing the material; NHTSA issued an information request 2018-04-03. Dishonesty finding is the pattern of keeping failure data from the safety regulator, not the defect itself. Post-anchor continuation, dated for completeness: NHTSA formally requested a recall 2022-02-22, Goodyear refused 2022-03-08, and after NHTSA threatened a public hearing and court action Goodyear recalled about 173,000-175,000 G159 tires on 2022-06-07 — nearly two decades after the last one was made, with investigators concluding the tire's failures caused crashes killing 8 and injuring 69 between 1998 and 2009 and that Goodyear had itself concluded by 2002 the tire was unsuitable for Class A motorhomes."
+      }
+    ],
+    "gate5_broken_by": "2020-02"
+  },
+  "HUM": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Medicare Advantage is a legible per-member economic engine: CMS pays a county benchmark premium adjusted by each member's risk score, the plan pays claims (benefit ratio) and its own SG&A, and keeps the spread subject to minimum medical-loss ratios and Star-rating bonuses. Understanding it requires knowing the rules, not decoding the business."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Real advantages, all conditional on a single payer's rules. Scale in individual Medicare Advantage (the largest or second-largest MA plan through the anchor period), Star ratings that unlock bonus payments and continuous-enrolment marketing, owned/affiliated primary-care and pharmacy assets, and county-level network density that a new entrant cannot replicate quickly — average individual MA membership grew about 7% in 2013 and membership again beat plan in 2014. But there is no pricing power in the ordinary sense: CMS sets the benchmark, and the reported numbers show the exposure directly. CMS announced preliminary 2014 MA benchmarks in February 2013 implying a mid-single-digit decline in rates; sequestration took effect 2013-04-01; individual MA per-member premiums fell about 2.6% in Q1 2014 versus Q1 2013; Q1 2014 diluted EPS was $2.35 against $2.95 in Q1 2013. The ACA insurer fee and MLR floors compress the spread further. Government-administered revenue plus regulatory concentration caps this at NARROW at both the 2013 and 2014 anchors; no genuine change in class occurred between them."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2014-12",
+        "severity": "SERIOUS",
+        "note": "POST-2014-ANCHOR by public-knowledge date. The DOJ Civil Division served an information request in December 2014 concerning Humana's Medicare Part C risk-adjustment practices — its oversight and submission of risk-adjustment data generated by network providers, medical-record reviews, health and well-being assessments and fraud-detection efforts. First publicly disclosed in the FY2014 Form 10-K filed February 2015, and repeated in the FY2015 10-K. Humana characterised it as part of a wider industry review touching multiple MA plans, providers and vendors. An investigation with no finding, so SERIOUS at most; nothing here was public before either the 2013-06-30 or 2014-06-30 anchor."
+      },
+      {
+        "date": "2016-02",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR. The qui tam filed in October 2012 by Dr. Mario Baez in South Florida — alleging that Humana knew of and profited from inflated risk-adjustment diagnoses submitted by network physician Isaac Kojo Anakwah Thompson — remained UNDER FEDERAL SEAL until 2016-02-26, so it was not publicly known at either anchor. Thompson was separately charged criminally with health-care fraud for submitting fraudulent diagnoses to Humana for MA beneficiaries. Humana also disclosed the related U.S. ex rel. Graves v. Plaza Medical Centers action (S.D. Fla., filed 2010) in its FY2015 10-K, where it obtained dismissal of several claims and later resolved the remainder. Allegations against Humana concerned inadequate oversight of provider-generated codes rather than proven deception by Humana."
+      },
+      {
+        "date": "2024-10",
+        "severity": "SERIOUS",
+        "note": "FAR POST-ANCHOR, listed for completeness. Humana paid $90m to resolve a False Claims Act case alleging it submitted false bid information to CMS for a Medicare Part D prescription-drug plan (alleged conduct in the 2011-2017 window, i.e. spanning the anchor years, but not publicly known at either anchor). Separately, on 2025-05-01 the United States filed an FCA complaint against Humana, Aetna and Elevance alleging that from 2016 through at least 2021 they paid hundreds of millions of dollars in kickbacks to brokers for MA enrolments and discriminated against disabled beneficiaries — an unresolved allegation as of this writing, with no admission."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "JPM": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "The deposit-funded lending and fee franchise (consumer banking, cards, asset and wealth management, treasury services) is explainable to a generalist: cheap sticky deposits funded at below market, lent or invested at a spread, plus recurring fee income. Passes with a stated caveat rather than a fail — the Corporate & Investment Bank's trading and derivatives book is genuinely hard for any outsider to mark, and the 2012 London Whale episode is the proof that it was hard for insiders too."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Deposit franchise plus scale, not a toll bridge. Through the 2016 and 2017 anchors JPMorgan combined the largest U.S. deposit base with #1 or #2 positions in investment banking fees, cards and treasury services, and the resulting funding-cost and technology-spend advantages are durable and visible in a consistently sector-leading return on tangible common equity. What holds it to NARROW: output is a commodity (money), pricing is set by markets and rate cycles rather than by the bank, capital and payout are decided by regulators through the annual stress tests (post-2013 CCAR), and the same scale that lowers funding costs invites the systemic-risk surcharge and the standing supervisory burden. Nothing in reported results between the two anchors changed the class; the 2016-2017 period was one of rising rates and improving net interest income, not of a change in competitive position."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2013-07",
+        "severity": "SERIOUS",
+        "note": "2013-07-30: JPMorgan Ventures Energy paid $410m ($285m civil penalty, $125m disgorgement) to settle FERC allegations of manipulative bidding strategies in California and Midwest power markets. Settled on a neither-admit-nor-deny basis, which caps this at SERIOUS despite the manipulation theory. Public well before both anchors."
+      },
+      {
+        "date": "2013-09",
+        "severity": "DISQUALIFYING",
+        "note": "THE LONDON WHALE. 2013-09-19: JPMorgan paid about $920m across the SEC, OCC, Federal Reserve and the U.K. FCA and — exceptionally, under the SEC's then-new admissions policy for egregious cases — ADMITTED it violated federal securities laws and that it misstated its financial results, giving the SEC an extensive set of factual admissions. Substance is dishonesty, not a trading loss: CIO traders mismarked positions and concealed more than $6bn of losses from senior management and, through the reported financials, from investors, for weeks. This is a company-level admission of misstated financials, which is the accounting-manipulation branch of the disqualifying test. Not reduced or reversed on appeal; the related criminal charges against two traders were later dropped, which does not disturb the firm's own admissions."
+      },
+      {
+        "date": "2013-11",
+        "severity": "DISQUALIFYING",
+        "note": "2013-11-19: $13bn global settlement with the DOJ, the RMBS Working Group and several states over the packaging and sale of residential mortgage-backed securities, including a $2bn civil penalty and $4bn of consumer relief. Accompanied by an agreed statement of facts in which JPMorgan acknowledged it made serious misrepresentations to investors about the quality of the loans in securitizations issued by JPMorgan, Bear Stearns and Washington Mutual. Acknowledged misrepresentation to investors is dishonesty; note the mitigating fact that a large share of the conduct sat in the Bear Stearns and WaMu books acquired in 2008. No appellate reduction."
+      },
+      {
+        "date": "2013-12",
+        "severity": "DISQUALIFYING",
+        "note": "2013-12-04: the European Commission fined JPMorgan about EUR 79.9m for participating in a cartel in yen interest-rate derivatives (Yen LIBOR), resolved under the Commission's settlement procedure with the standard 10% cooperation reduction. A secret cartel among competitors to distort a benchmark is squarely within the disqualifying category. Public before both anchors; not overturned."
+      },
+      {
+        "date": "2014-01",
+        "severity": "SERIOUS",
+        "note": "2014-01-07: JPMorgan entered a two-year deferred prosecution agreement with the SDNY and paid about $2.6bn in total ($1.7bn DOJ forfeiture, $350m OCC penalty, plus civil settlements) over its role as Bernard Madoff's primary banker, admitting failures to maintain an effective anti-money-laundering programme and to file a Suspicious Activity Report in the United States even as its U.K. affiliate filed one. Graded SERIOUS rather than DISQUALIFYING: the charged conduct is a Bank Secrecy Act compliance failure and non-reporting, not affirmative deception of a customer or regulator, though the asymmetry between the U.K. filing and the U.S. silence is uncomfortable. DPA expired without prosecution."
+      },
+      {
+        "date": "2015-05",
+        "severity": "DISQUALIFYING",
+        "note": "2015-05-20: JPMorgan Chase & Co. PLEADED GUILTY AT THE PARENT LEVEL to a felony violation of the Sherman Act for a conspiracy to manipulate the price of U.S. dollars and euros in the FX spot market, paying a $550m criminal fine, plus $342m to the Federal Reserve under a consent order. Four banks pleaded guilty the same day for collective criminal fines above $2.5bn. A criminal antitrust conspiracy — traders coordinating in a private chat room to fix benchmark rates and spreads — is a secret cartel by any reading. JPMorgan attributed the conduct principally to one dismissed trader. Public a year before the 2016 anchor; conviction stands."
+      },
+      {
+        "date": "2015-07",
+        "severity": "DISQUALIFYING",
+        "note": "2015-07-08: JPMorgan Chase Bank agreed with the CFPB and 47 states plus D.C. to pay about $216m ($136m in penalties and payments to states, $50m in consumer remediation, plus a separate $30m OCC penalty) over credit-card debt-collection practices, and was barred from reselling certain accounts. The conduct included robo-signed and sworn affidavits filed in court containing unverified or inaccurate information about consumer debts, and selling portfolios containing accounts it knew to be inaccurate or already settled. Filing false sworn statements with courts and passing bad information to buyers is deception of both a tribunal and customers."
+      },
+      {
+        "date": "2015-12",
+        "severity": "DISQUALIFYING",
+        "note": "2015-12-18: two JPMorgan wealth-management units (J.P. Morgan Securities LLC and JPMorgan Chase Bank N.A.) agreed to pay $267m to the SEC and ADMITTED WRONGDOING for failing to disclose conflicts of interest to advisory and brokerage clients, plus a $40m CFTC penalty ($307m total; $127.5m disgorgement, $11.815m interest, $127.5m penalty). They steered clients into the firm's own proprietary funds and into a more expensive share class of those funds, and preferred third-party hedge funds that paid a JPMorgan affiliate, without disclosing either preference — deprivation of information clients needed, admitted. Six months before the 2016-06-30 anchor."
+      },
+      {
+        "date": "2016-11",
+        "severity": "DISQUALIFYING",
+        "note": "BETWEEN THE TWO ANCHORS — public 2016-11-17, i.e. after 2016-06-30 and before 2017-06-30. JPMorgan paid more than $264m to resolve FCPA charges over its Asia-Pacific 'Sons and Daughters' referral-hiring programme: about $130m to the SEC, $72m to the DOJ under a non-prosecution agreement for the Hong Kong subsidiary, and $61.9m to the Federal Reserve. The entities acknowledged years of quid pro quo arrangements in which relatives and protégés of Chinese government officials and state-owned-enterprise executives ('princelings') were given well-paid jobs and internships outside normal hiring channels in exchange for banking mandates. Jobs-for-business is bribery of foreign officials; the DOJ gave limited credit because the violations were willful and widespread. Note the earlier public marker: press reporting of the SEC probe into the referral-hiring programme began in August 2013, so the existence of the investigation — though not the resolution — was already public at the 2016 anchor."
+      },
+      {
+        "date": "2016-12",
+        "severity": "DISQUALIFYING",
+        "note": "2016-12-07: the European Commission fined JPMorgan EUR 337.196m for participating in a cartel in euro interest-rate derivatives (Euribor), finding a single and continuous infringement between September 2006 and March 2007. JPMorgan did not settle and contested the decision. Appeal outcome, dated: in its December 2023 judgment the EU General Court annulled part of the decision for inadequate reasoning on the fine calculation but, exercising unlimited jurisdiction, re-imposed the identical EUR 337,196,000 — so no reduction for JPMorgan, while Crédit Agricole's fine was cut to EUR 110m and HSBC's was annulled. Further appeal to the Court of Justice followed. Public before the 2017-06-30 anchor and after the 2016-06-30 anchor."
+      },
+      {
+        "date": "2020-09",
+        "severity": "DISQUALIFYING",
+        "note": "POST-ANCHOR. 2020-09-29: JPMorgan agreed to pay about $920m (DOJ, CFTC and SEC combined — the largest spoofing resolution to that date) and entered a three-year deferred prosecution agreement on two counts of wire fraud, over tens of thousands of episodes of spoofing in precious-metals futures and U.S. Treasuries markets between 2008 and 2016. Placing orders never intended to be executed in order to move prices is market deception; the conduct period overlaps both anchors but the enforcement action was not public until September 2020."
+      },
+      {
+        "date": "2023-06",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR, for completeness. JPMorgan settled Jeffrey Epstein-related claims in 2023 — about $290m with a class of victims (announced June 2023) and $75m with the U.S. Virgin Islands (announced September 2023) — over having retained Epstein as a client and allegedly ignoring internal warnings. Settled with no admission of liability, hence SERIOUS. Separately, in December 2021 JPMorgan paid $200m to the SEC and CFTC over years of unpreserved business communications on personal devices, a record-keeping failure rather than a deception."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "LH": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Clinical laboratory testing: collect specimens through a patient-service-centre and courier network, run high volumes of standardised assays through automated core labs, and bill managed care, Medicare/Medicaid, hospitals and patients. Economics are pure operating leverage on fixed lab capacity — cost per test falls with requisition volume."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "A genuine scale duopoly with Quest, and the scale is visible in the reported numbers: about $5.8bn of 2013 revenue across more than 220,000 clients, and Q3 2014 revenue of roughly $1.55bn, up 6.1% on 6.9% requisition growth described as primarily organic. Independent labs of LabCorp's size have unit costs, national payer contracts and in-network status that regional labs cannot match, and physician workflow integration creates modest switching friction. Held to NARROW because price is set by others: the payer mix disclosed around the Covance deal was managed care 32%, pharma/biotech 29%, commercial 22%, Medicare/Medicaid 12%, patients 5% — so a plurality of revenue is priced by government fee schedules or annual managed-care negotiation. Two dated reminders of that dependence bracket the anchors: Medicare clinical-lab fee-schedule cuts through 2013, and the Protecting Access to Medicare Act signed in April 2014, which replaced the 1984-85-based fee schedule with market-based rates and set up the later PAMA cuts. No genuine change in moat class between the 2013 and 2014 anchors; the 2014-11-03 agreement to acquire Covance for about $6.1bn (closed 2015-02) diversified revenue toward pharma services but was announced after both anchors."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2011-07",
+        "severity": "SERIOUS",
+        "note": "2011-07-14: LabCorp reached an agreement in principle to settle California ex rel. Hunter Laboratories LLC v. Quest Diagnostics et al. for $49.5m, recording $34.5m of settlement expense in Q2 2011 net of a $15.0m prior reserve and paying in Q3 2012. The state-law False Claims Act suit alleged LabCorp improperly billed Medi-Cal above the rates it charged other customers between 1995-11-07 and November 2009, with the relator claiming $97.5m including interest. NO ADMISSION of liability, which holds this at SERIOUS rather than disqualifying; LabCorp also accepted temporary pricing-reporting obligations or, at its election, a discount to Medi-Cal's maximum rate from 2011-11-01 to 2012-10-31. Public before both anchors."
+      },
+      {
+        "date": "2013-10",
+        "severity": "MINOR",
+        "note": "October 2013: LabCorp received a Civil Investigative Demand from the Texas Attorney General for documents on its billing to Texas Medicaid, and cooperated. Ordinary-course payer/regulator billing inquiry of the kind the 10-K describes as recurring — subpoenas and CIDs from government agencies, Medicare/Medicaid payers and managed-care organisations reviewing billing practices — alongside periodic qui tam suits. Public between the 2013 and 2014 anchors; no finding."
+      },
+      {
+        "date": "2019-06",
+        "severity": "MINOR",
+        "note": "POST-ANCHOR, listed for completeness. June 2019: LabCorp disclosed that roughly 7.7 million of its patients' payment records were exposed in the breach of American Medical Collection Agency, a third-party collections vendor also used by Quest; litigation and state-AG inquiries followed. A vendor security failure rather than misconduct by LabCorp."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "LMT": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Defense prime economics are legible even if the programmes are technical: win a government programme of record, then earn on decades of development, production lots and sustainment under cost-plus and fixed-price contracts whose margins and cash timing are set by contract type and milestone billing. The complexity is in the accounting for long-term contracts and the pension, not in the business model."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Moat is programme position, and at the 2013 and 2014 anchors it was as strong as it gets in this industry. Lockheed is prime on the F-35 — the only Western fifth-generation strike fighter in production, sole-sourced, with three variants, eleven-plus partner nations and a multi-decade sustainment tail — plus the F-22, C-130J, THAAD, PAC-3, Aegis combat system, Trident II D5, JASSM, Sikorsky helicopters from 2015, and classified space and missile-defence work. Barriers are not brand but a certified industrial base, security clearances, decades of qualification data and a customer that cannot switch mid-programme; incumbent primes also capture the aftermarket by design. Reported returns are exceptionally high on an accounting basis (equity is depressed by pension deficits), and cash generation supported large buybacks and consistent double-digit dividend increases through 2013-2014. Two honest qualifications that do not change the class: the customer is a monopsony that legislates the margin (the 2013 sequester and the October 2013 shutdown were live at the first anchor), and F-35 cost and schedule criticism was continuous. No genuine change in class between the anchors."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "1995-01",
+        "severity": "SERIOUS",
+        "note": "PREDECESSOR-ENTITY MATTER, DISCONTINUITY FLAGGED. In January 1995 Lockheed Corporation pleaded guilty to conspiring to violate the FCPA and to wire fraud over about $1m paid to an Egyptian legislator to help secure a C-130 sale, paying roughly $24.8m in criminal fines and civil penalties; a former executive was imprisoned. The conduct and plea predate the Lockheed Martin merger completed in March 1995 and are three management generations removed from the anchor dates (Marillyn Hewson became CEO in January 2013). Graded SERIOUS on the predecessor rule notwithstanding that the underlying conduct was bribery."
+      },
+      {
+        "date": "2012-03",
+        "severity": "SERIOUS",
+        "note": "2012-03-23: Lockheed Martin paid $15.85m to resolve False Claims Act allegations that it passed on to the government inflated tool costs from subcontractor Tools & Metals Inc., which had marked up perishable tools sold for use on military aircraft including the F-22 and F-35 between 1998 and 2005; two relators shared $2m. TMI's former president had pleaded guilty in December 2005 and received a seven-year sentence. The fraud originated with the subcontractor; Lockheed's exposure was for passing the costs through. Resolved by settlement, no admission of liability by Lockheed. Public about fifteen months before the 2013-06-30 anchor."
+      },
+      {
+        "date": "2015-08",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR (after both 2013-06-30 and 2014-06-30). 2015-08-28: Sandia Corporation, a wholly owned Lockheed Martin subsidiary managing Sandia National Laboratories, agreed to pay $4.79m to resolve DOJ allegations under the Byrd Amendment and the False Claims Act that between 2008 and 2012 it used federal contract funds to lobby Congress and the Department of Energy for a non-competitive extension of its roughly $2.4bn-a-year management contract, aiming to prevent competitors from bidding. Settled WITHOUT any admission of wrongdoing. Using taxpayer money to lobby against competition for taxpayer money is a governance red flag even absent an admission."
+      },
+      {
+        "date": "2019-02",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR. 2019-02-08: the United States filed a False Claims Act and civil Anti-Kickback Act complaint in the Eastern District of Washington against Mission Support Alliance LLC (the joint venture holding the DOE Hanford infrastructure-support prime contract), Lockheed Martin Corporation, Lockheed Martin Services Inc. and a then-serving Lockheed Martin vice president, alleging inflated information-technology subcontract costs billed to DOE and kickbacks paid to secure the subcontract. Resolved 2021-04-05 for $6m from the defendants, with no admission of liability. Naming a sitting corporate officer distinguishes this from routine contract disputes."
+      }
+    ],
+    "gate5_broken_by": null
+  }
+}

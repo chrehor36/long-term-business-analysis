@@ -1,0 +1,94 @@
+{
+ "CERN": {
+  "amv": 18800000000.0,
+  "amv_date": "2018-06-29",
+  "shares": 324360908.0,
+  "shares_date": "2019-01-28",
+  "implied_price": 57.960128783459936,
+  "report_date": "2017-12-30"
+ },
+ "MON": {
+  "amv": 49800000000.0,
+  "amv_date": null,
+  "shares": 440199969.0,
+  "shares_date": null,
+  "implied_price": 113.13040324180486,
+  "report_date": "2017-08-31"
+ },
+ "ACE": {
+  "implied_price": 128.71390417354988,
+  "amv_date": "2018-06-29"
+ },
+ "BIG": {
+  "implied_price": 45.01731461755685,
+  "amv_date": "2018-08-04"
+ },
+ "BMS": {
+  "implied_price": 42.13791705116964,
+  "amv_date": "2018-06-29"
+ },
+ "CELG": {
+  "implied_price": 79.45402577412354,
+  "amv_date": "2018-06-29"
+ },
+ "CMA": {
+  "implied_price": 90.92,
+  "amv_date": "2018-06-29"
+ },
+ "COL": {
+  "implied_price": 134.2405076016269,
+  "amv_date": "2018-03-30"
+ },
+ "CTXS": {
+  "implied_price": 104.50303927855974,
+  "amv_date": "2018-06-29"
+ },
+ "FLIR": {
+  "implied_price": 52.596192589834295,
+  "amv_date": "2018-06-30"
+ },
+ "IPG": {
+  "implied_price": 23.38193581317243,
+  "amv_date": "2018-06-29"
+ },
+ "JWN": {
+  "implied_price": 50.58,
+  "amv_date": "2018-08-03"
+ },
+ "RHT": {
+  "implied_price": 129.95359255947162,
+  "amv_date": "2018-08-31"
+ },
+ "SAI": {
+  "implied_price": 57.3157039668165,
+  "amv_date": "2018-08-03"
+ },
+ "SPG": {
+  "implied_price": 169.1428498041788,
+  "amv_date": "2018-06-30"
+ },
+ "SRCL": {
+  "implied_price": 61.70564781413023,
+  "amv_date": "2018-06-30"
+ },
+ "TGNA": {
+  "implied_price": 10.795259644999554,
+  "amv_date": "2018-06-30"
+ },
+ "TIF": {
+  "implied_price": 137.56,
+  "amv_date": "2018-07-31"
+ },
+ "TSS": {
+  "implied_price": 54.12402743840521,
+  "amv_date": "2018-06-30"
+ },
+ "VAR": {
+  "implied_price": 110.63721618883723,
+  "amv_date": "2018-03-30"
+ },
+ "XLNX": {
+  "implied_price": 66.46133821676119,
+  "amv_date": "2018-09-29"
+ }
+}

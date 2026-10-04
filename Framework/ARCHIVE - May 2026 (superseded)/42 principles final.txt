@@ -1,0 +1,681 @@
+A FRAMEWORK FOR LONG-TERM BUSINESS
+                         ANALYSIS
+
+                                42 Principles -- Complete Source Tracing
+                                                     May 2026
+
+                                             "Take a simple idea and take it seriously."
+                                                             -- Charlie Munger
+
+"The goal is not to win. It is to see how wrong you can be and still be right. Margin of safety, moat assessment,
+            conservative DCF modeling, and position sizing are each sequential admissions of fallibility."
+
+             Every principle traces to a named primary source. Nothing is invented.
+    BRK letter attributions verified against published sources. Wesco meeting years are
+
+                                                   approximate.
+
+                                   Companion to: A Framework for Long-Term Business Analysis · The Analysis Workbook
+
+                                                                                      Page 1 of 16
+REFERENCE DOCUMENTS
+
+PRIMARY SOURCES
+Berkshire Hathaway Annual Letters 1977­2025
+Source: berkshirehathaway.com/letters
+The foundational primary source. Principles sourced by year: owner earnings (1986), moat concept (1986, 1987),
+candor test (1989), time is friend of the wonderful business (1989), margin of safety (1992), concentration (1993),
+discount rate (1994 meeting), circle of competence (1996), inactivity (1996).
+Buffett Partnership Letters 1956­1970
+Source: ivey.uwo.ca (PDF)
+Pre-Berkshire framework. Earliest articulation of value investing principles including Mr. Market discipline and the
+evolution from cigar-butt to quality business investing.
+Wesco Financial Annual Letters 1983­2011
+Source: berkshirehathaway.com/wesco
+Munger's independent writing. Principles sourced: agency cost framework (multiple), 25% equity reinvestment
+standard (2007), income statements are lies / ROIC primacy (2004), cost of activity (1999).
+Berkshire Hathaway Annual Meeting Transcripts 1994­Present
+Source: buffett.cnbc.com
+Unscripted. Highest signal density. Principles sourced: 30-year Treasury as discount rate (1994), competitive
+position as the monitoring question (2016).
+Poor Charlie's Almanack -- 11 Talks
+Source: press.stripe.com/poor-charlies-almanack
+Munger's complete intellectual framework. Principles sourced: inversion / Jacobi (USC 1994), latticework of mental
+models (USC 1994), mispriced bet (USC 1994), disconfirming evidence / Darwin, man of questionable character,
+take a simple idea seriously.
+Buffett/Munger Joint Letter 2014
+Source: berkshirehathaway.com/SpecialLetters
+Supplementary. Joint perspective on long-term capital allocation.
+
+                                                                                          Page 2 of 16
+SECONDARY SOURCES (half-weight)
+The Intelligent Investor -- Benjamin Graham
+Foundational source for margin of safety (Chapter 20) and Mr. Market (Chapter 8). Buffett absorbed this at
+Columbia under Graham directly.
+Security Analysis -- Graham & Dodd, 1934
+First articulation of margin of safety as an analytical concept. The theoretical basis Buffett built on.
+Seeking Wisdom -- Peter Bevelin
+Most systematic compilation of Munger's mental model latticework applied to decision-making. Half-weight
+secondary source.
+Wesco Annual Meeting Notes -- Whitney Tilson
+Source: Search: 'Wesco annual meeting notes Tilson'
+Munger's less formal thinking from Wesco meetings. More direct and practical than the written letters. Half-weight
+secondary source.
+The Snowball -- Alice Schroeder
+Biographical context for Buffett's intellectual evolution -- Graham influence, shift from pure cheapness to quality
+businesses. Half-weight secondary source.
+
+                                                                                          Page 3 of 16
+PRINCIPLES 1 ­ 15 -- BUFFETT PRINCIPLES
+
+ PRINCIPLE 1 -- OWNER EARNINGS FORMULA
+
+  SOURCE:
+  Berkshire Hathaway Annual Letter, 1986
+  URL: berkshirehathaway.com/letters/1986.html
+  OE = Net Income + D&A; - Maintenance CapEx The only correct measure of what a business earns for its owners.
+  GAAP earnings systematically overstate economic reality by failing to separate maintenance capex from growth
+  capex. Buffett's exact definition: "Owner earnings represent (a) reported earnings plus (b) depreciation, depletion,
+  amortization, and certain other non-cash charges less (c) the average annual amount of capitalized expenditures
+  for plant and equipment that the business requires to fully maintain its long-term competitive position and its unit
+  volume."
+
+      APPLIED IN: Gate 4 -- Financial Quality. The base of every DCF computation. Never replaced by adjusted EBITDA or net
+      income alone.
+
+ PRINCIPLE 2 -- MOAT DURABILITY
+
+  SOURCE:
+  Berkshire Hathaway Annual Letter, 1986
+  URL: berkshirehathaway.com/letters/1986.html
+  The competitive advantage of any given company and, above all, the durability of that advantage is what matters.
+  Not the industry's growth rate. Not the revenue trajectory. A business with a durable moat compounds value over
+  time without requiring heroic assumptions.
+
+      APPLIED IN: Gate 2 -- Moat Identification. The four moat types are each evaluated for durability over 8+ consecutive
+      quarters, not assessed as a single snapshot.
+
+ PRINCIPLE 3 -- ECONOMIC GOODWILL VS ACCOUNTING GOODWILL
+
+  SOURCE:
+  Berkshire Hathaway Annual Letter, 1987
+  URL: berkshirehathaway.com/letters/1987.html
+  Economic goodwill is the durable earnings power of a brand or moat. Unlike physical assets it does not depreciate
+  with time -- it compounds as the competitive position strengthens. Accounting goodwill is an artifact of acquisition
+  accounting and tells you nothing about economic reality. This distinction explains why intangible asset moats can
+  persist and grow for decades without additional capital investment.
+
+      APPLIED IN: Gate 2 -- Intangible Asset Moat. The theoretical basis for why brand moats receive wide or narrow classification
+      rather than automatic skepticism.
+
+                                                                                            Page 4 of 16
+PRINCIPLE 4 -- CANDOR TEST
+
+SOURCE:
+Berkshire Hathaway Annual Letter, 1989
+URL: berkshirehathaway.com/letters/1989.html
+The ideal annual report is written as if to a single intelligent, long-term partner who deserves to know everything
+material. Management that buries bad news, uses selective disclosure, or only volunteers unflattering information
+when legally required fails the candor test. The only candor that matters is candor when the news is bad and
+disclosure is optional.
+
+   APPLIED IN: Gate 3 -- Management Integrity, Dimension 1. All evidence must come from primary source filings and earnings
+   transcripts -- never IR presentations or press releases.
+
+PRINCIPLE 5 -- TIME IS THE FRIEND OF THE WONDERFUL BUSINESS
+
+SOURCE:
+Berkshire Hathaway Annual Letter, 1989
+URL: berkshirehathaway.com/letters/1989.html
+"Time is the friend of the wonderful business, the enemy of the mediocre." A wonderful business held long enough
+will bail out even a mediocre entry price. A mediocre business held long enough will destroy even a great entry
+price. This is the theoretical basis for the DCF fade structure.
+
+   APPLIED IN: Gate 2 -- Moat Classification. Wide moats receive 25 total years (10+15 fade) because time works for them.
+   No-moat businesses receive only 10 years (5+5) because time works against them.
+
+PRINCIPLE 6 -- MARGIN OF SAFETY
+
+SOURCE:
+Berkshire Hathaway Annual Letter, 1992. Absorbed from Graham's Security Analysis, 1934.
+URL: berkshirehathaway.com/letters/1992.html
+The margin of safety is always dependent on the price paid. Not merely a discount from intrinsic value -- an
+explicit acknowledgment of the investor's own fallibility in analysis and forecasting. The MOS provides a cushion
+against errors of fact, analysis, and judgment.
+
+   APPLIED IN: Gate 6 -- Valuation. Minimum 20% MOS for wide and narrow moat. Minimum 30% for no moat. Maximum buy
+   price = IV × (1 - MOS%).
+
+PRINCIPLE 7 -- PORTFOLIO CONCENTRATION
+
+SOURCE:
+Berkshire Hathaway Annual Letter, 1993
+URL: berkshirehathaway.com/letters/1993.html
+"We believe that a policy of portfolio concentration may well decrease risk if it raises, as it should, both the intensity
+with which an investor thinks about a business and the comfort-level he must feel with its economic characteristics
+before buying into it." Concentration forces rigor at entry and patience during holding.
+
+   APPLIED IN: Gate 7 -- Position Sizing. The theoretical basis for sizing proportionally to conviction and MOS rather than
+   diversifying indiscriminately. The Kelly Criterion provides the mathematical framework.
+
+                                                                                          Page 5 of 16
+PRINCIPLE 8 -- 30-YEAR TREASURY AS DISCOUNT RATE
+
+SOURCE:
+Berkshire Hathaway Annual Meeting, 1994
+URL: buffett.cnbc.com
+"I use the 30-year Treasury rate. That's my yardstick." The 30-year Treasury rate is the risk-free rate in the DCF
+build-up method. Combined with the equity risk premium (5­6%) and company-specific premium (0­2%) to
+produce WACC. Standard US large-cap quality business: 10.5%.
+
+   APPLIED IN: Gate 6 -- Valuation, Step 2. Non-USD businesses anchor to the sovereign long-term rate instead and convert to
+   USD only at the final step.
+
+PRINCIPLE 9 -- CIRCLE OF COMPETENCE
+
+SOURCE:
+Berkshire Hathaway Annual Letter, 1996
+URL: berkshirehathaway.com/letters/1996.html
+"What an investor needs is the ability to correctly evaluate selected businesses. Note that word selected -- you
+don't have to be an expert on every company or even many. You only have to be able to evaluate companies
+within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is
+vital."
+
+   APPLIED IN: Gate 1 -- Circle of Competence. The first filter. A failure here stops the analysis entirely. The investor must be
+   able to verify the moat claim independently without relying on management's description.
+
+PRINCIPLE 10 -- INACTIVITY AS INTELLIGENT BEHAVIOR
+
+SOURCE:
+Berkshire Hathaway Annual Letter, 1996
+URL: berkshirehathaway.com/letters/1996.html
+"Inactivity strikes us as intelligent behavior." Once the framework is complete and the entry price is met -- do
+nothing. The process is done. The market takes its course. Never sell purely on price decline if the thesis is intact.
+Never sell because the market disagrees with your analysis.
+
+   APPLIED IN: Gate 7 -- The Final Rule. The behavioral test of the framework. Price indifference during holding is the direct
+   application of this principle.
+
+PRINCIPLE 11 -- PRICE VS VALUE
+
+SOURCE:
+Multiple Berkshire Letters 1977­2025. Foundation: Graham's The Intelligent Investor, Chapters 8 and 20.
+URL: berkshirehathaway.com/letters
+The value of any asset is the present value of its future cash flows. Price and value are different things. The
+investor's job is to find situations where price is materially below value -- and then wait for the gap to close. Mr.
+Market offers prices every day; the investor is never obligated to accept them.
+
+   APPLIED IN: Gate 6 -- Valuation. The entire DCF methodology. Gate 8 -- Reverse DCF applies this from the other direction:
+   what does the current price imply about value?
+
+                                                                                          Page 6 of 16
+PRINCIPLE 12 -- NEVER LOSE MONEY
+
+SOURCE:
+Graham foundation absorbed by Buffett. Stated repeatedly across Berkshire Letters and annual meetings.
+URL: berkshirehathaway.com/letters
+Rule number one: never lose money. Rule number two: never forget rule number one. The margin of safety
+provides the cushion against errors of fact, analysis, and judgment. The bear case IV defines the maximum
+permanent loss scenario if the thesis fails completely.
+
+   APPLIED IN: Gate 6 -- Margin of Safety. The downside floor built into every entry price calculation.
+
+PRINCIPLE 13 -- WONDERFUL BUSINESS AT A FAIR PRICE
+
+SOURCE:
+Munger influence on Buffett. Reflected across Berkshire Letters from 1989 onward.
+URL: berkshirehathaway.com/letters
+A wonderful business at a fair price beats a fair business at a wonderful price. The shift from pure Graham
+cigar-butt investing -- buying anything cheap enough -- to buying quality businesses at reasonable prices and
+holding them as the moat compounds value over time.
+
+   APPLIED IN: Gates 1­2 must be passed before valuation is attempted. The DCF confirms a fair price, not manufactures a buy
+   signal.
+
+PRINCIPLE 14 -- SBC AS REAL ECONOMIC COST
+
+SOURCE:
+Multiple Berkshire Letters. Explicit in Buffett's repeated critique of option accounting and adjusted earnings.
+URL: berkshirehathaway.com/letters
+Stock-based compensation is a real cost to shareholders through dilution. It is never added back in any calculation.
+If SBC exceeds 15% of owner earnings, deduct it explicitly before running the DCF. Never use adjusted EBITDA as
+a proxy.
+
+   APPLIED IN: Gate 4 -- Financial Quality. Gate 6 -- DCF inputs. The 15% threshold is the framework's operational rule for
+   when SBC is material enough to meaningfully distort the owner earnings calculation.
+
+PRINCIPLE 15 -- PRIMARY SOURCES ONLY
+
+SOURCE:
+Framework discipline derived from Buffett's explicit rejection of Wall Street analyst frameworks.
+URL: berkshirehathaway.com/letters
+No analyst estimates. No adjusted metrics. No consensus anchoring. All figures pulled directly from 10-K, 10-Q,
+20-F, and 6-K filings and earnings call transcripts. Analyst reports are secondary sources and are never used as
+the basis for financial analysis.
+
+   APPLIED IN: Every gate. The foundational data discipline of the entire framework.
+
+                                                                                          Page 7 of 16
+PRINCIPLES 16 ­ 27 -- MUNGER PRINCIPLES
+
+ PRINCIPLE 16 -- INVERSION / JACOBI
+
+  SOURCE:
+  USC Business School Speech, 1994 -- 'Worldly Wisdom'. Poor Charlie's Almanack.
+  URL: press.stripe.com/poor-charlies-almanack
+  "It is in the nature of things that many hard problems are best solved when they are addressed backwards." Invert,
+  always invert. Derived from mathematician Carl Jacobi's principle. Before asking what makes an investment
+  succeed, ask what would make it fail completely. Eliminate those failure scenarios first.
+
+      APPLIED IN: Gate 5 -- Inversion (an entire gate devoted to this principle). Gate 8 -- Reverse DCF (the valuation question
+      inverted).
+
+ PRINCIPLE 17 -- LATTICEWORK OF MENTAL MODELS
+
+  SOURCE:
+  USC Business School Speech, 1994 -- 'Worldly Wisdom'.
+  URL: press.stripe.com/poor-charlies-almanack
+  The investor who understands psychology, mathematics, history, physics, and economics has a more reliable
+  analytical foundation than one who understands only finance. Circle of competence is built across disciplines, not
+  within a single one. Each mental model is a lens that illuminates different aspects of a business.
+
+      APPLIED IN: Gate 1 -- Circle of Competence. Defines how the circle is built -- not as domain expertise in one field but as a
+      latticework of models that allows independent verification of moat claims.
+
+ PRINCIPLE 18 -- MISPRICED BET
+
+  SOURCE:
+  USC Business School Speech, 1994 -- 'Worldly Wisdom'.
+  URL: press.stripe.com/poor-charlies-almanack
+  "It is not given to human beings to have such talent that they can just know everything about everything all the
+  time. But it is given to human beings who work hard at it -- who look and sift the world for a mispriced bet -- that
+  they can occasionally find one." The framework exists to find the mispriced bet.
+
+      APPLIED IN: Introduction -- the purpose of the framework. Once found, the behavioral test is simple: do nothing. The market
+      takes its course.
+
+ PRINCIPLE 19 -- MAN OF QUESTIONABLE CHARACTER
+
+  SOURCE:
+  Poor Charlie's Almanack -- multiple talks.
+  URL: press.stripe.com/poor-charlies-almanack
+  The "man of questionable character" is a near-automatic disqualifier. One deliberate deception invalidates the
+  entire investment case regardless of business quality or price. Integrity is a binary filter, not a sliding scale. A single
+  integrity failure disqualifies regardless of the score on competence and alignment.
+
+      APPLIED IN: Gate 3 -- Management Integrity, Dimension 1. Evaluated before competence and alignment. One FAIL on
+      integrity stops the analysis.
+
+                                                                                            Page 8 of 16
+PRINCIPLE 20 -- TAKE A SIMPLE IDEA SERIOUSLY
+
+SOURCE:
+Poor Charlie's Almanack -- multiple talks.
+URL: press.stripe.com/poor-charlies-almanack
+"Take a simple idea and take it seriously." The simple idea is the owner earnings formula. The serious application
+is running it on every business from the original filing, without exception, regardless of how familiar or
+well-understood the business appears.
+
+   APPLIED IN: Gate 4 -- Financial Quality. The owner earnings formula is non-negotiable. No exceptions.
+
+PRINCIPLE 21 -- DISCONFIRMING EVIDENCE / DARWIN
+
+SOURCE:
+Poor Charlie's Almanack -- multiple talks.
+URL: press.stripe.com/poor-charlies-almanack
+"I have nothing to add to Darwin's insight about looking hard for disconfirming evidence. The test of a good mind is
+to hold two opposing ideas simultaneously and still function." Actively seek evidence that the thesis is wrong before
+committing capital.
+
+   APPLIED IN: Gate 5 -- Inversion. The foundational instruction behind the entire inversion gate. Every bull case assumption is
+   explicitly tested against its failure scenario.
+
+PRINCIPLE 22 -- INCOME STATEMENTS ARE LIES
+
+SOURCE:
+Wesco Financial Annual Meeting, approx. 2003­2005 (commonly cited as 2004).
+URL: berkshirehathaway.com/wesco
+"The fundamental concept is that all income statements are lies -- they don't tell you the return on invested capital.
+What matters is earnings on incremental capital employed." Owner earnings corrects for both distortions: it strips
+the accounting fiction from D&A; and restores the real cash obligation of maintenance capex that GAAP buries
+inside a single capital expenditure line.
+
+   APPLIED IN: Gate 4 -- Financial Quality. The direct justification for why owner earnings replaces GAAP net income as the
+   primary earnings measure in every DCF.
+
+PRINCIPLE 23 -- 25% ON EQUITY REINVESTED
+
+SOURCE:
+Wesco Financial Annual Meeting, approx. 2006­2008 (commonly cited as 2007).
+URL: berkshirehathaway.com/wesco
+"The best business is one that earns 25% on equity and keeps reinvesting at those rates. Most businesses don't
+have those qualities. Finding them is the job." The standard for a genuinely wide moat business. Most businesses
+cannot reinvest at high rates -- their moats are narrow or nonexistent.
+
+   APPLIED IN: Gate 4 -- ROIC as the primary moat confirmation test. 25%+ ROIC sustained across multiple cycles is the
+   signature of a wide moat.
+
+                                                                                          Page 9 of 16
+PRINCIPLE 24 -- COST OF ACTIVITY
+
+SOURCE:
+Wesco Financial Annual Meeting, approx. 1998­2001 (commonly cited as 1999).
+URL: berkshirehathaway.com/wesco
+"The reason we don't sell is that we don't think it's so important to move around. There's a cost to activity and we're
+trying to avoid activity." Unnecessary transactions destroy returns through friction, taxes, and the behavioral errors
+that accompany frequent decision-making.
+
+   APPLIED IN: Gate 7 -- Sell discipline. The only valid reasons to sell are a broken thesis, a management integrity failure, a
+   price above intrinsic value, or a materially superior opportunity.
+
+PRINCIPLE 25 -- KELLY CRITERION
+
+SOURCE:
+Munger has referenced the Kelly Criterion across multiple Wesco and Berkshire meeting appearances.
+URL: berkshirehathaway.com/wesco
+A mathematical formula for optimal bet sizing that sizes positions proportionally to edge -- the ratio of expected
+gain to expected loss. In practice, fractional Kelly (half or less of the formula output) is used to account for model
+uncertainty and the real-world consequences of being wrong.
+
+   APPLIED IN: Gate 7 -- Position Sizing. Wider MOS = larger initial position. The qualitative analog: the more gates a business
+   passes with margin, the larger the appropriate position.
+
+PRINCIPLE 26 -- AGENCY COST FRAMEWORK
+
+SOURCE:
+Munger -- multiple Wesco letters and meeting appearances across the 1983­2011 letter series.
+URL: berkshirehathaway.com/wesco
+Managers optimising for personal gain at shareholder expense is the default human behavior, not the exception.
+The investor's job is to find the rare cases where it is not. Identified through compensation structure, capital
+allocation history, and whether management wealth is genuinely tied to long-term equity performance.
+
+   APPLIED IN: Gate 3 -- Dimension 3: Alignment. Evaluates whether the agency cost problem has been structurally solved
+   through ownership, compensation design, and demonstrated capital allocation behavior over a full cycle.
+
+PRINCIPLE 27 -- CIRCLE AS LATTICEWORK
+
+SOURCE:
+USC Business School Speech, 1994 -- 'Worldly Wisdom'.
+URL: press.stripe.com/poor-charlies-almanack
+The circle of competence is not static domain knowledge. It is a latticework of mental models built across
+disciplines. A narrow circle honestly defined is far more valuable than a wide circle whose boundaries are unknown
+to the investor.
+
+   APPLIED IN: Gate 1 -- Circle of Competence. Distinguishes genuine edge from familiarity (using the product) or assumed
+   expertise (working in the industry).
+
+                                                                                         Page 10 of 16
+PRINCIPLES 28 ­ 42 -- METHODOLOGY PRINCIPLES
+
+  These principles are operational translations of the Buffett and Munger principles above into a replicable analytical
+  process. Each traces to one or more primary source principles through the reasoning they implement.
+
+ PRINCIPLE 28 -- QUALITATIVE BEFORE QUANTITATIVE
+
+  SOURCE:
+  Framework sequence -- implements Principles 2, 9, 13, 19.
+  TRACES TO: Principles 2, 9, 13, 19
+  Circle of competence, moat identification, management integrity, and financial quality must all be evaluated before
+  a DCF is built. The DCF is the final confirmation -- not the starting point. A DCF on a business you do not
+  understand, run by management you have not evaluated, with a moat you have not verified, is not analysis. It is
+  arithmetic dressed up as conviction.
+
+      APPLIED IN: Gates 1­5 must be completed before Gate 6 is reached.
+
+ PRINCIPLE 29 -- GATE SEQUENCE ENFORCED
+
+  SOURCE:
+  Framework structure -- implements Principles 9, 16, 19, 28.
+  TRACES TO: Principles 9, 16, 19, 28
+  A failure at any gate stops the analysis entirely. The gates are not a checklist to complete in any order. They are a
+  sequence. Each gate filters out businesses that do not belong in a concentrated long-term portfolio. The sequence
+  reflects the order in which the disqualifying evidence is most efficiently found.
+
+      APPLIED IN: The entire framework structure.
+
+ PRINCIPLE 30 -- THREE GROWTH SCENARIOS
+
+  SOURCE:
+  DCF construction -- implements Principles 6, 11, 16.
+  TRACES TO: Principles 6, 11, 16
+  Always model bear, base, and bull. Base is consistent with but not optimistic about management guidance. Bear is
+  a plausible adverse cycle. Bull is what happens if the moat widens as theorised. Terminal growth: Bear 2% / Base
+  and Bull 3%. Three scenarios prevent false precision and force the investor to confront the range of outcomes
+  before committing capital.
+
+      APPLIED IN: Gate 6 -- Valuation, Step 3.
+
+                                                                                           Page 11 of 16
+PRINCIPLE 31 -- FADE PERIOD MECHANICS
+
+SOURCE:
+DCF construction -- implements Principles 2, 5.
+TRACES TO: Principles 2, 5
+Linear interpolation from the year-10 growth rate to the terminal growth rate. Wide moat: 15yr fade. Narrow moat:
+10yr fade. No moat: 5yr fade. Reflects the reality that competitive advantages compress over time. No moat lasts
+forever. The fade structure forces this acknowledgment into every valuation.
+
+   APPLIED IN: Gate 6 -- Valuation, Steps 3 and 4.
+
+PRINCIPLE 32 -- TERMINAL VALUE FORMULA
+
+SOURCE:
+DCF construction -- implements Principles 8, 11.
+TRACES TO: Principles 8, 11
+TV = Final Fade Year OE × (1 + TGR) ÷ (WACC - TGR) Terminal PV = TV ÷ (1 + WACC) ^ final fade year TGR
+must always be below WACC. If TGR equals or exceeds WACC the formula produces infinity -- a built-in
+mathematical sanity check that the growth assumption is unrealistic.
+
+   APPLIED IN: Gate 6 -- Valuation, Step 4.
+
+PRINCIPLE 33 -- NON-USD CURRENCY HANDLING
+
+SOURCE:
+DCF construction -- implements Principle 8.
+TRACES TO: Principle 8
+Anchor to the relevant sovereign long-term rate, not the US 30-year Treasury. Run the full DCF in the currency of
+earnings. Convert to USD at the final step only. Never apply a USD discount rate to non-USD earnings -- it
+double-penalises by applying a US risk premium to non-US cash flows.
+
+   APPLIED IN: Gate 6 -- Valuation, Step 2.
+
+PRINCIPLE 34 -- MAINTENANCE CAPEX 65-70%
+
+SOURCE:
+Gate 4 -- implements Principle 1.
+TRACES TO: Principle 1
+Capital-intensive businesses: maintenance capex = 65­70% of total capex. Asset-light businesses: 20­30%. If
+management discloses the split directly in filings, use that figure. These percentages are derived from the empirical
+pattern of how capital-intensive vs asset-light businesses deploy capital across maintenance and growth over full
+cycles.
+
+   APPLIED IN: Gate 4 -- Financial Quality, Step 3.
+
+                                                                                         Page 12 of 16
+PRINCIPLE 35 -- SBC DEDUCTION RULE >15%
+
+SOURCE:
+Gate 4 -- implements Principle 14.
+TRACES TO: Principle 14
+If SBC exceeds 15% of owner earnings, deduct it explicitly from the OE base before running the DCF. Never add
+back. Never use adjusted EBITDA. The 15% threshold represents the point at which equity dilution is material
+enough to meaningfully distort the owner earnings calculation.
+
+   APPLIED IN: Gate 4 -- Financial Quality, Step 5. Gate 6 -- DCF inputs.
+
+PRINCIPLE 36 -- ROIC >15% AS MOAT CONFIRMATION
+
+SOURCE:
+Gate 4 -- implements Principles 22, 23.
+TRACES TO: Principles 22, 23
+Return on incremental capital above 15% is the primary quantitative test for confirming a moat is real. Below the
+cost of capital means the business is destroying value regardless of revenue or earnings growth. 25%+ sustained
+across multiple cycles is the signature of a wide moat.
+
+   APPLIED IN: Gate 4 -- Financial Quality checklist.
+
+PRINCIPLE 37 -- REVERSE DCF -- TWO QUESTIONS
+
+SOURCE:
+Gate 8 -- implements Principles 16, 21.
+TRACES TO: Principles 16, 21
+Question 1: keeping growth rates fixed, what OE base does the current market price imply? Compare against
+current, trough, and peak OE. Below trough = extreme pessimism baked in. Above peak = heroic assumptions, do
+not enter. Question 2: keeping the OE base fixed, what year-1 growth rate does the current price imply? Score
+each across four deceleration profiles: ACHIEVABLE / STRETCHED / HEROIC.
+
+   APPLIED IN: Gate 8 -- Reverse DCF.
+
+PRINCIPLE 38 -- ASYMMETRY RATIO
+
+SOURCE:
+Gate 8 -- implements Principles 6, 12, 16.
+TRACES TO: Principles 6, 12, 16
+Asymmetry = Upside (Base IV - Current Price) ÷ Downside (Current Price - Bear IV) Above 3:1 = high conviction
+entry. 2:1 to 3:1 = acceptable entry. Below 2:1 = no margin of safety, wait. Forces the investor to quantify both
+directions before committing capital.
+
+   APPLIED IN: Gate 8 -- Reverse DCF, Section 4.
+
+                                                                                         Page 13 of 16
+PRINCIPLE 39 -- CATALYST DATE BEFORE ENTRY
+
+SOURCE:
+Gate 7 -- implements Principles 4, 10.
+TRACES TO: Principles 4, 10
+The specific filing or earnings release where the thesis-confirming and thesis-breaking metrics will next be visible
+must be defined before any position is taken. Defines when the investor will next have information to evaluate
+whether the thesis is intact -- and prevents indefinite holding without a defined checkpoint.
+
+   APPLIED IN: Gate 7 -- Before entry, define and commit in writing.
+
+PRINCIPLE 40 -- RERUN TRIGGER >10% OE CHANGE
+
+SOURCE:
+Gate 7 -- implements Principles 1, 6.
+TRACES TO: Principles 1, 6
+If intrinsic value changes more than 10% from the DCF base because owner earnings changed materially, rerun
+Gates 4, 5, and 6 before the next sizing or sell decision. The 10% threshold represents the point at which the MOS
+calculation is materially affected and the entry price may no longer be valid.
+
+   APPLIED IN: Gate 7 -- Monitoring cadence. Quarterly Monitoring Scorecard, Section 4.
+
+PRINCIPLE 41 -- SENSITIVITY TABLE ACROSS MAJORITY
+
+SOURCE:
+Gate 6 -- implements Principles 6, 11.
+TRACES TO: Principles 6, 11
+The investment thesis must hold across the majority of the WACC vs terminal growth rate grid -- not just at one
+specific input combination. If the case only works at one WACC and one terminal rate, the thesis is fragile.
+Prevents false precision masquerading as conviction. Reflects Buffett's principle: "It is better to be approximately
+right than precisely wrong."
+
+   APPLIED IN: Gate 6 -- Valuation, Step 6. DCF Computation Workbook.
+
+PRINCIPLE 42 -- INVERSION SCORING D/DS/P/U
+
+SOURCE:
+Gate 5 -- implements Principles 16, 21.
+TRACES TO: Principles 16, 21
+Every material inversion risk is scored against primary source evidence: [D] Addressed Directly -- on the record,
+specific answer given [DS] Addressed Structurally -- answered with action, not words [P] Partially Addressed --
+acknowledged but incomplete [U] Unanswered -- not raised, not addressed An UNANSWERED score on a
+mandatory inversion requires explicit written justification to proceed. The most dangerous risks are the ones
+management has never been asked about and has never volunteered -- those are the ones the market has not
+priced.
+
+   APPLIED IN: Gate 5 -- Inversion, Steps B/C/D. Inversion Workbook.
+
+                                                                                         Page 14 of 16
+SUMMARY -- 42 PRINCIPLES BY SOURCE
+
+BERKSHIRE HATHAWAY ANNUAL LETTERS (1986­1996)
+
+1986        1. Owner Earnings Formula · 2. Moat Durability
+
+1987        3. Economic Goodwill vs Accounting Goodwill
+
+1989        4. Candor Test · 5. Time is the Friend of the Wonderful Business
+
+1992        6. Margin of Safety
+
+1993        7. Portfolio Concentration
+
+1996        9. Circle of Competence · 10. Inactivity as Intelligent Behavior
+
+Multiple    11. Price vs Value · 14. SBC as Real Economic Cost · 15. Primary Sources Only
+
+BERKSHIRE HATHAWAY ANNUAL MEETINGS
+
+1994        8. 30-Year Treasury as Discount Rate
+
+GRAHAM FOUNDATION (absorbed by Buffett)
+
+Graham      12. Never Lose Money
+
+Graham +    13. Wonderful Business at a Fair Price
+Munger
+
+POOR CHARLIE'S ALMANACK -- USC 1994 'WORLDLY WISDOM'
+
+USC 1994    16. Inversion / Jacobi · 17. Latticework of Mental Models
+
+USC 1994    18. Mispriced Bet · 27. Circle as Latticework
+
+POOR CHARLIE'S ALMANACK -- MULTIPLE TALKS
+
+PCA         19. Man of Questionable Character · 20. Take a Simple Idea Seriously
+
+PCA         21. Disconfirming Evidence / Darwin
+
+WESCO FINANCIAL ANNUAL MEETINGS
+
+1999        24. Cost of Activity
+
+2004        22. Income Statements are Lies
+
+2007        23. 25% on Equity Reinvested
+
+MUNGER -- MULTIPLE SOURCES
+
+Multiple    25. Kelly Criterion · 26. Agency Cost Framework
+
+METHODOLOGY -- OPERATIONAL TRANSLATIONS
+
+Traces to:  28. Qualitative Before Quantitative
+2,9,13,19
+
+                                          Page 15 of 16
+Traces to:       29. Gate Sequence Enforced
+9,16,19,28
+Traces to:       30. Three Growth Scenarios
+6,11,16          31. Fade Period Mechanics
+Traces to: 2,5   32. Terminal Value Formula
+Traces to: 8,11  33. Non-USD Currency Handling
+Traces to: 8     34. Maintenance Capex 65-70%
+Traces to: 1     35. SBC Deduction Rule >15%
+Traces to: 14
+Traces to:       36. ROIC >15% as Moat Confirmation
+22,23
+Traces to:       37. Reverse DCF -- Two Questions
+16,21
+Traces to:       38. Asymmetry Ratio
+6,12,16          39. Catalyst Date Before Entry
+Traces to: 4,10  40. Rerun Trigger >10% OE Change
+Traces to: 1,6   41. Sensitivity Table Across Majority
+Traces to: 6,11
+Traces to:       42. Inversion Scoring D/DS/P/U
+16,21
+
+Buffett principles:      15 (sourced 1986­1996 BRK Letters and 1994 Annual Meeting)
+Munger principles:       12 (sourced USC 1994, Poor Charlie's Almanack, Wesco 1999­2007)
+Methodology principles:  15 (operational translations of above)
+TOTAL:                   42 | 6 primary source documents | 5 secondary source documents
+
+"The goal is not to win. It is to see how wrong you can be and still be right. Margin of safety, moat assessment,
+            conservative DCF modeling, and position sizing are each sequential admissions of fallibility."
+
+                                           A Framework for Long-Term Business Analysis -- 42 Principles -- May 2026
+
+                         Page 16 of 16
+

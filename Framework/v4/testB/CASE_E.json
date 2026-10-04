@@ -1,0 +1,210 @@
+{
+ "anchor": "2018-01-02",
+ "ticker_map_check": {
+  "cik": "0001637459",
+  "newest_annual_period_public_at_anchor": "2016-12-31",
+  "gap_days": 367,
+  "basis": "ticker->CIK resolved AS OF TODAY, not as of the anchor",
+  "status": "OK"
+ },
+ "series": {
+  "revenue": {
+   "tag": null,
+   "unit": null,
+   "blocked": 24,
+   "by_year": {},
+   "filed": {}
+  },
+  "ocf": {
+   "tag": "NetCashProvidedByUsedInOperatingActivities",
+   "unit": "USD",
+   "blocked": 27,
+   "by_year": {
+    "2014-12-28": 2140.0,
+    "2016-01-03": 2467.0,
+    "2016-12-31": 5238.0
+   },
+   "filed": {
+    "2014-12-28": "2017-02-23",
+    "2016-01-03": "2017-02-23",
+    "2016-12-31": "2017-02-23"
+   }
+  },
+  "sbc": {
+   "tag": "ShareBasedCompensation",
+   "unit": "USD",
+   "blocked": 27,
+   "by_year": {
+    "2014-12-28": 8.0,
+    "2016-01-03": 133.0,
+    "2016-12-31": 46.0
+   },
+   "filed": {
+    "2014-12-28": "2017-02-23",
+    "2016-01-03": "2017-02-23",
+    "2016-12-31": "2017-02-23"
+   }
+  },
+  "da": {
+   "tag": "DepreciationDepletionAndAmortization",
+   "unit": "USD",
+   "blocked": 48,
+   "by_year": {
+    "2014-12-28": 530.0,
+    "2016-01-03": 740.0,
+    "2016-12-31": 1337.0
+   },
+   "filed": {
+    "2014-12-28": "2017-02-23",
+    "2016-01-03": "2017-02-23",
+    "2016-12-31": "2017-02-23"
+   }
+  },
+  "capex": {
+   "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+   "unit": "USD",
+   "blocked": 27,
+   "by_year": {
+    "2014-12-28": 399.0,
+    "2016-01-03": 648.0,
+    "2016-12-31": 1247.0
+   },
+   "filed": {
+    "2014-12-28": "2017-02-23",
+    "2016-01-03": "2017-02-23",
+    "2016-12-31": "2017-02-23"
+   }
+  },
+  "net_income": {
+   "tag": "NetIncomeLoss + ProfitLoss",
+   "unit": "USD",
+   "blocked": 54,
+   "by_year": {
+    "2014-12-28": 657.0,
+    "2016-01-03": 634.0,
+    "2016-12-31": 3632.0
+   },
+   "filed": {
+    "2014-12-28": "2017-02-23",
+    "2016-01-03": "2017-02-23",
+    "2016-12-31": "2017-02-23"
+   }
+  },
+  "shares_dil": {
+   "tag": "WeightedAverageNumberOfDilutedSharesOutstanding + WeightedAverageNumberOfSharesOutstandingBasic",
+   "unit": "shares",
+   "blocked": 54,
+   "by_year": {
+    "2014-12-28": 377.0,
+    "2016-01-03": 786.0,
+    "2016-12-31": 1226.0
+   },
+   "filed": {
+    "2014-12-28": "2017-02-23",
+    "2016-01-03": "2017-02-23",
+    "2016-12-31": "2017-02-23"
+   }
+  },
+  "assets": {
+   "tag": "Assets",
+   "unit": "USD",
+   "blocked": 24,
+   "by_year": {
+    "2014-12-28": 36571.0,
+    "2016-01-03": 122973.0,
+    "2016-12-31": 120480.0
+   },
+   "filed": {
+    "2014-12-28": "2016-03-03",
+    "2016-01-03": "2017-02-23",
+    "2016-12-31": "2017-02-23"
+   }
+  },
+  "equity": {
+   "tag": "StockholdersEquity + StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+   "unit": "USD",
+   "blocked": 66,
+   "by_year": {
+    "2013-12-29": 8192.0,
+    "2014-12-28": 7117.0,
+    "2016-01-03": 57685.0,
+    "2016-12-31": 57358.0
+   },
+   "filed": {
+    "2013-12-29": "2017-02-23",
+    "2014-12-28": "2016-03-03",
+    "2016-01-03": "2017-02-23",
+    "2016-12-31": "2017-02-23"
+   }
+  },
+  "lt_debt": {
+   "tag": null,
+   "unit": null,
+   "blocked": 0,
+   "by_year": {},
+   "filed": {}
+  },
+  "liabilities": {
+   "tag": "Liabilities",
+   "unit": "USD",
+   "blocked": 24,
+   "by_year": {
+    "2014-12-28": 20886.0,
+    "2016-01-03": 56737.0,
+    "2016-12-31": 62906.0
+   },
+   "filed": {
+    "2014-12-28": "2016-03-03",
+    "2016-01-03": "2017-02-23",
+    "2016-12-31": "2017-02-23"
+   }
+  }
+ },
+ "equity_cross_check": {
+  "2013-12-29": {
+   "stated_equity": 8192.0,
+   "status": "CROSS-CHECK NOT POSSIBLE",
+   "missing": "Assets",
+   "assets": null,
+   "verdict": "UNVERIFIED - no independent identity available at this period. Read the filed balance sheet."
+  },
+  "2014-12-28": {
+   "stated_equity": 7117.0,
+   "assets_less_liabilities": 15685.0,
+   "status": "SUSPECT",
+   "verdict": "Stated equity does not reconcile to assets minus liabilities; likely a dimension-qualified fact surfaced without its dimension. DO NOT USE without reading the filed balance sheet."
+  },
+  "2016-01-03": {
+   "stated_equity": 57685.0,
+   "assets_less_liabilities": 66236.0,
+   "status": "SUSPECT",
+   "verdict": "Stated equity does not reconcile to assets minus liabilities; likely a dimension-qualified fact surfaced without its dimension. DO NOT USE without reading the filed balance sheet."
+  }
+ },
+ "equity_reconciled_years": [
+  "2016-12-31"
+ ],
+ "facts_blocked_by_anchor": 375,
+ "price": {
+  "close": 77.0199966430664,
+  "date": "2018-01-02",
+  "basis": "Yahoo close is stated on TODAY'S share basis: it is already divided by every split effective after this date."
+ },
+ "market_cap": {
+  "value_millions": 94426.5,
+  "formula": "close(anchor) x shares(measurement) x splits AFTER measurement",
+  "close": 77.0199966430664,
+  "close_date": "2018-01-02",
+  "shares_millions_as_reported": 1226.0,
+  "shares_period": "2016-12-31",
+  "shares_filed": "2017-02-23",
+  "split_factor_after_measurement": 1.0,
+  "note": "Both inputs are now on the same basis. Do NOT recompute from the raw share count and the raw close - they are on different bases."
+ },
+ "sovereign": {
+  "rate_pct": 2.81,
+  "date": "2018-01-02",
+  "source": "US Treasury daily yield curve (issuing authority)"
+ },
+ "case_id": "E"
+}

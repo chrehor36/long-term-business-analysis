@@ -1,0 +1,40 @@
+Source notes for this folder
+=============================
+
+The eleven talks from Poor Charlie's Almanack (Charles T. Munger), taken from
+Stripe Press's OFFICIAL FREE WEB EDITION (https://www.stripe.press/poor-charlies-almanack),
+which the publisher describes as "Experience the wit and wisdom of Charles T.
+Munger online, for free." Extracted 2026-07-13.
+
+Extraction method: the site is a Next.js app with the book's full text
+compiled into the page JavaScript bundle. All string literals were extracted
+in document order and split at each talk's opening sentence. Because page
+navigation/title/editor-note fragments interleave at page boundaries in the
+bundle, each file may carry small labeled editorial fragments near its start
+or end - quote only from continuous body prose, and verify anything odd
+against the live site.
+
+Files:
+  00 - Front matter, forewords, biography, Mungerisms (Chapters 1-3)
+  Talk 01 - Harvard School Commencement Speech (1986-06-13)
+  Talk 02 - A Lesson on Elementary Worldly Wisdom (USC, 1994-04-14)
+  Talk 03 - Worldly Wisdom Revisited (Stanford Law, 1996-04-19)
+  Talk 04 - Practical Thought about Practical Thought (1996-07-20)
+  Talk 05 - The Need for More Multidisciplinary Skills (Harvard Law 50th
+            Reunion, 1998-04-24)
+  Talk 06 - Investment Practices of Leading Charitable Foundations (1998-10-14)
+  Talk 07 - Philanthropy Roundtable Breakfast Meeting (2000-11-10)
+  Talk 08 - The Great Financial Scandal of 2003 (written 2000)
+  Talk 09 - Academic Economics - Strengths and Faults (UCSB, 2003-10-03)
+  Talk 10 - USC Gould School of Law Commencement (2007-05-13)
+  Talk 11 - The Psychology of Human Misjudgment (the expanded version Munger
+            rewrote for PCA)
+  99 - End matter (talk revisits, An Investing Principles Checklist,
+       highlights, index)
+
+Citation note (Framework v3.0 rebuild): this IS the citation-shelf "Poor
+Charlie's Almanack" source. Talk 11 here is the PCA-revised text, not the
+original 1995 Harvard speech - say which when citing. The book's editorial
+apparatus (chapter intros, editor notes, checklist) is Peter Kaufman's
+editorial voice, not Munger verbatim - cite it as "PCA editorial," never as
+Munger speaking.

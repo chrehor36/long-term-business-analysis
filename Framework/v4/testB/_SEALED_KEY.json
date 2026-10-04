@@ -1,0 +1,22 @@
+{
+ "A": {
+  "identity": "WFC_2018-01-02",
+  "pre_registered_expectation": "Q3 SHOULD FAIL. The account-fabrication scandal was public from 2016-09-08 (CFPB/OCC/LA consent orders, $185M). Buffett's own diagnosis is that the fault was failure to ACT after learning. A v4 that clears Q3 here has failed."
+ },
+ "B": {
+  "identity": "AAPL_2016-05-16",
+  "pre_registered_expectation": "SHOULD PASS Q1-Q4 and rank well. Berkshire's first disclosed stake; Buffett calls it the best business he knows and has never graded it an error."
+ },
+ "C": {
+  "identity": "IBM_2011-11-14",
+  "pre_registered_expectation": "SHOULD FAIL, most likely Q2. Buffett disclosed the stake this month and later said 'I was wrong', exiting at a loss. A v4 that clears this is replicating his error, not his method."
+ },
+ "D": {
+  "identity": "OXY_2019-08-08",
+  "pre_registered_expectation": "DEFENDED, not graded an error. Buffett funded the Anadarko bid; heavy criticism followed but he has consistently defended it. Q4 leverage is the live question."
+ },
+ "E": {
+  "identity": "KHC_2018-01-02",
+  "pre_registered_expectation": "SHOULD FAIL or return UNRESEARCHED. The $15.4bn writedown landed 2019-02-21, 13 months after this anchor. Buffett: 'I was wrong... we paid too much.' Data is thin (3 yrs) so UNRESEARCHED is also a correct v4 answer."
+ }
+}
