@@ -230,3 +230,13 @@ is CONTRADICTED by its own authors' 2016 withdrawal, a finding against v4.1 rega
 corrections owed to the v5 drafts are listed in `Framework/v5/RECONCILIATION - v5 against v4.1.md`. The holdings draft
 (`Framework/v5/DRAFT - THE HOLDINGS FRAMEWORK v5.md`, six hold questions, 183 ids) passes the acceptance test; its
 reconciliation against `THE HOLDINGS FRAMEWORK.md` is owed. Tests A', B' and the regression have not run.
+
+**The operator's rulings, 2026-10-04 night, on the reconciliation.** (1) E4-13 counts as a supporting id of "each flag is
+a prompt to read, never a verdict", because the manager standard is incorporated by reference; the rule is load-bearing,
+the meetings contradict it, and **the hypothesis FAILS, narrowly, on that one rule**: in the meetings suspicion about the
+accounting is itself a reason to go on to the next company, not only a reason to read. v5 keeps its accounting-confusion
+STOP at Q4. (2) The PARTLY class is recorded and not counted against the hypothesis; the six load-bearing PARTLY rules
+go to the ruling case, and if v5 is adopted the missing parts are carried as CONVENTIONS or dropped with their cost
+stated, the floor's number first among them. (3) Three citation and label defects in v4.1 are corrected by dated
+addendum tonight; the PERMANENT designation's withdrawal becomes a PRIME RULE 5 case for the operator. (4) The six draft
+corrections are made now; Tests A', B' and the regression run when the operator says so.

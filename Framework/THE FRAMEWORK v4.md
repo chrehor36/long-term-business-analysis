@@ -93,7 +93,9 @@ and the obstacle.
 > define what they don't know.**" — **[E3-31]**, 1992 letter
 
 Write the unit economics in your own words, without management's language. Name **the
-scarce input the business controls**. State whether the fundamentals will look broadly the
+scarce input the business controls** *(CONVENTION, labelled 2026-10-04: an analyst's instruction with no ledger
+row; the nearest corpus is the unit-economics reading above [E3-31] and the Q2 tests of what competitors cannot
+take. Found unlabelled by the v5 reconciliation, part 1.)*. State whether the fundamentals will look broadly the
 same in ten years.
 
 > "Our satisfactory results have been the product of **about a dozen truly good decisions —
@@ -949,7 +951,9 @@ going to happen."* Formal apparatus manufactures the wanted output; the analyst'
 arithmetic after the understanding hurdle does not. **And keep the two judgments separate
 [E5-42]:** business quality is *"the capital actually needed in the business"*; *"whether
 it's a good investment for us depends on **how much we pay for that in the end**"* — which
-is why Q2–Q4 judge the business and only Q5 judges the price. Report three things:
+is why Q2–Q4 judge the business and only Q5 judges the price. Report three things *(CONVENTION, labelled 2026-10-04:
+the three-figure report is our format; the corpus compares the return with the bond [E4-21, E5-43] and states no
+report form. Found unlabelled by the v5 reconciliation, part 3, row 12.)*:
 
 1. **The yield** — owner earnings ÷ market cap, beside the sovereign.
 2. **What the price already assumes** — the year-1 growth needed to justify the quote,
@@ -1204,7 +1208,12 @@ applies it in more than one place, it says so and justifies it.
   the corpus states — **[E3-26]**
 - for a business you genuinely understand: *"we don't think we need a huge margin of safety
   … we will buy those as much **closer to a dollar on the dollar**"* — **[E4-12]**, 2007
-- *"it's hard to go wrong when you're **buying dollar bills for 80 cents or less**"* — **[E5-09]**
+- *"If you can repurchase your shares at a significant discount from intrinsic value, it like **buying dollar
+  bills at 90 cents or 80 cents** or whatever it may be, and it's a very sure way of improving per-share value."*
+  — **[E5-63]**, 2013 meeting *(corrected 2026-10-04: until then this line read "it's hard to go wrong when you're
+  buying dollar bills for 80 cents or less", cited to [E5-09], whose text says that in repurchase decisions price is
+  all-important. Those words are not on the shelf; they were a paraphrase wearing a citation. The row E5-63 was
+  added first, then this line. Found by the v5 reconciliation, part 3, row 49.)*
 
 **And the remedy for uncertainty is not a bigger margin:**
 > "we don't really try to compensate for that sort of thing by having some extra large

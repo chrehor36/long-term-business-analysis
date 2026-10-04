@@ -701,3 +701,23 @@ present**, from `principle_ledger_v5.csv` only, then the pre-registered comparis
 (`Framework/v5/PREREGISTRATION - v5 blind read and comparison.md`, "The tests a candidate must pass"). v4.1 governs
 until then. Open for the operator: the signed memos to the managers (FY2001, FY2010 files), read and not rowed.
 Wave 7 stays paused until the operator says otherwise.
+
+**Update 2026-10-04 night - v5 SYNTHESIS AND RECONCILIATION DONE; the public repository is live.**
+- **Synthesis:** four theme maps, one merged map, the operator's structure decision (preamble, standing rule, Q1 to
+  Q11, Q12 optional, closing note), thirteen section drafts, and two assembled drafts that pass the acceptance test
+  with `--also`: `Framework/v5/DRAFT - THE FRAMEWORK v5.md` (1,384 ids) and `Framework/v5/DRAFT - THE HOLDINGS
+  FRAMEWORK v5.md` (183 ids, six hold questions). Calibration metric 72 of 78.
+- **Reconciliation** (`Framework/v5/RECONCILIATION - v5 against v4.1.md` and three parts in `Framework/v5/synthesis/`):
+  215 v4.1 rules, 130 reproduced, 52 partly, 28 absent, 5 contradicted; 87 new in v5. **Operator's rulings:** E4-13
+  counts, so the hypothesis FAILS narrowly on one load-bearing rule (suspicion about accounting is a reason to stop in
+  the meetings, only a prompt to read in v4.1); PARTLY recorded, not counted; three v4.1 defects corrected by
+  `Framework/v4/ADDENDUM 2026-10-04 - three defects in v4.1 found by the v5 reconciliation.md` (ledger row E5-63
+  added first; the ledger is 312 rows); the PERMANENT designation's 2016 withdrawal is owed a PRIME RULE 5 case.
+- **Public repository:** https://github.com/chrehor36/long-term-business-analysis, an export by
+  `tools/publish_public.py` into `C:\Users\chreh\BRK-public`; `NOTICE.md`, `HOW TO TRY IT.md`, `LICENSE`,
+  `LICENSE-DOCS.md` are in both copies. Re-export and push after public-worthy commits; never push from this repo.
+- **Owed, in order:** (1) Tests A' and B' and the regression under the v5 drafts (about fifteen runs; the operator
+  said tomorrow); (2) the holdings draft's reconciliation against `THE HOLDINGS FRAMEWORK.md`; (3) the PRIME RULE 5
+  case on PERMANENT; (4) the ruling case for v5's adoption, carrying the five test results and the six load-bearing
+  PARTLY rules; (5) a seventh acceptance check (inline quotation against its row) is proposed in the addendum, not
+  implemented. v4.1 governs until the ruling case. Wave 7 stays paused.
