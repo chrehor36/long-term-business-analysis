@@ -195,3 +195,26 @@ in 2025 only, as pre-registered. The completion file is `Screens/_daily/V5 READ 
 with the operator present:** synthesis of the two drafts from this ledger alone; the reconciliation table; the
 calibration metric against the 78 meeting-sourced E-rows; Tests A' and B'; the regression on the live names and
 the Roth holdings; the ruling case. v4.1 governs until the operator approves it.
+
+## SYNTHESIS DONE, 2026-10-04 evening; THE CALIBRATION METRIC, reported as pre-registered
+**Synthesis.** Four theme maps (one per era, every row placed once), one merged map (26 themes, 18 speaker
+orderings, 290 mistakes in 13 lessons, 128 tensions), the operator's structure decision (`Framework/v5/synthesis/
+STRUCTURE DECISION 2026-10-04.md`: a preamble, a standing rule, Q1 to Q11, Q12 optional, a closing note), thirteen
+section drafts each script-checked against the ledger by its drafter, and the assembled
+`Framework/v5/DRAFT - THE FRAMEWORK v5.md` (about 46,000 words, 1,379 distinct ids, 119 open questions, 17 recorded
+absences, two confessed conventions). Every drafter worked under the blind rule and recorded where the auto-loaded
+map pulled; the pulls are in each section file's "Steering noticed" and are summarised in the merged map's section 7.
+
+**The calibration metric** (defined above under "Reported, not targeted"): of the 78 rows of `principle_ledger.csv`
+that cite a meeting transcript, the blind read independently re-found **72 (92 percent)**, where re-found means a v5
+row from the same transcript whose quote shares at least one full sentence with the E-row's quote. Computed by
+script from both ledgers on 2026-10-04 (the pairing list is in the session record). **Not re-found, six:** E5-32
+(2022), E3-56 (1995), E4-61 and E4-62 (2002), E4-74 (1999), E5-62 (2013). The number is reported, not judged; a
+reader may take it either as evidence that the two readings agree about what matters in the meetings, or as a
+limit on how blind a reader with the same training can be. Both readings are recorded.
+
+**Unreconciled between the sections, for the reconciliation step:** the same "little or no debt" criterion read as
+the one STOP in both Q3 and Q9; financial institutions that cannot be seen into placed in both Q1 and Q9; rapid
+change ruled out in both Q1 and Q2; the bond's two roles (discount rate at Q7, filter at Q8) owned by neither;
+serial issuance (L2014-015) as a possible second STOP at Q6 or an integrity sign at Q5; the own-stock alternative
+at Q8 limited by its drafter to a company's own capital.

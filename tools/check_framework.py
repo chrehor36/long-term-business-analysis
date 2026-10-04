@@ -110,7 +110,9 @@ BENIGN = re.compile(
     r"|^\|"                                # table rows get their own block
     r"|20\d\d-\d\d-\d\d"                   # ISO dates
     r"|\bv\d(\.\d)?\b"                     # version strings
-    r"|\bQ[1-6]\b|\bSTEP \d"               # section pointers
+    r"|\bQ(?:1[0-2]|[1-9])\b|\bSTEP \d"    # section pointers (Q7 to Q12 added 2026-10-04 for the v5 draft)
+    r"|^#{1,6}\s+\d+[\.\)]"                # numbered headings ("#### 3. The money test"), added 2026-10-04
+    r"|\bgroup \d\b|\btest \d{1,2}\b|\bPart [A-Z]\b"  # pointers into the merged map's groups and a section's tests
     r"|\bH[1-5]\b"                         # holdings-framework section pointers (added 2026-09-13)
     r"|\b(?:operator )?rule \d\b|\bPRIME RULE \d|\bcheck \d|\bsection \d|\bdecision \d"
                                            # rule, check, section and decision pointers (added 2026-09-25,
