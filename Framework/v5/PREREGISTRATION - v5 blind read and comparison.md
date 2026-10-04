@@ -218,3 +218,15 @@ the one STOP in both Q3 and Q9; financial institutions that cannot be seen into 
 change ruled out in both Q1 and Q2; the bond's two roles (discount rate at Q7, filter at Q8) owned by neither;
 serial issuance (L2014-015) as a possible second STOP at Q6 or an integrity sign at Q5; the own-stock alternative
 at Q8 limited by its drafter to a company's own capital.
+
+## THE RECONCILIATION, 2026-10-04 night. Verdict as pre-registered: turns on one ruling.
+Three parts, 215 v4.1 rules classified: REPRODUCED 130, PARTLY 52 (a class the parts needed and this file did not
+pre-register), ABSENT 28, CONTRADICTED 5; NEW IN V5 87. No load-bearing ABSENT. One CONTRADICTED rule is load-bearing
+only if E4-13 counts among its supporting ids ("each flag is a prompt to read, never a verdict" against the meetings'
+"if you ever get suspicious about accounting, just go onto the next company"); the operator rules on that, and the
+hypothesis FAILS narrowly or holds narrowly by it. Q6's pre-committed metric and the sell rule at purchase are ABSENT
+and not load-bearing by the definition, which part 3 notes is the definition doing the work. The PERMANENT designation
+is CONTRADICTED by its own authors' 2016 withdrawal, a finding against v4.1 regardless. Four defects in v4.1 and six
+corrections owed to the v5 drafts are listed in `Framework/v5/RECONCILIATION - v5 against v4.1.md`. The holdings draft
+(`Framework/v5/DRAFT - THE HOLDINGS FRAMEWORK v5.md`, six hold questions, 183 ids) passes the acceptance test; its
+reconciliation against `THE HOLDINGS FRAMEWORK.md` is owed. Tests A', B' and the regression have not run.
