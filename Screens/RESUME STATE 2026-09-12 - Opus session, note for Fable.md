@@ -763,3 +763,12 @@ note. Runs dated 2026-08-28 to 2026-10-05 bind under the archived v4.1; later ru
   (about $85.60 to $91.90 at 5.63%) written. Reviews still owed: MITSY, NCLTY, V, TBTC. The review's closing paragraph
   asks the operator one question: whether a held name may sit in WATCH indefinitely when a single unanswerable Q2 both
   holds it under watch and bars every add.
+- *2026-10-05, the research-pass case approved and piloted:* the operator approved
+  `Framework/v5/CASE 2026-10-05 - deeper research on the too-hard names, for the operator's approval.md` (A, B, C; HRB pilot;
+  blind second analyst kept); v5 amended (section I, Q1, Part VII, VI; holdings II A; template box line). **HRB pilot: both
+  analysts closed TOO HARD (NATURE) at Q2**, every K-finding agreeing (`Test Runs/2026-10-05 RESEARCH PASS - HRB H&R Block, the two
+  closes compared.md`). Found: the paid category held about 52% of returns 2012 to 2025; HRB's share of it fell by a third or
+  more; Direct File took about 0.1%; no AI effect yet; TurboTax Live growing fast, cause of HRB's loss not established. WATCH
+  and NO ADD stand on a closed question. **Waiting on the operator:** four refinements to the research pass's form (single-fact
+  OUT answers; spans fixed in advance; unknowable K-answers; blind copy without the position note). Next pass candidates per the
+  case: TBTC, MITSY, then ASML. Holding reviews still owed: MITSY, NCLTY, V, TBTC.

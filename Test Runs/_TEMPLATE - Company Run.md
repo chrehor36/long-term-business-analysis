@@ -95,8 +95,10 @@ Does owning this put the buyer at risk of ruin (the buyer's conduct, not the tar
 
 ---
 ## THE BOX
-One line: **IN / OUT / TOO HARD**, the question that decided it, and for a name that reached Q7 the range beside the
-price. Q11 (has the business changed, or only its price) belongs to the holding review, not to a purchase run.
+One line: **IN / OUT / TOO HARD (WORK) / TOO HARD (NATURE)**, the question that decided it, and for a name that reached
+Q7 the range beside the price. A TOO HARD names its cause (the framework's section I, the two causes): WORK when the
+deciding question is knowable and the work is not done, which opens a research file (Part VII); NATURE when the
+industry's insiders would not write the forecast down. Q11 (has the business changed, or only its price) belongs to the holding review, not to a purchase run.
 
 ## SELF-AUDIT
 - [ ] Copied to the dated file before any fetch; written question by question; committed after each (write-early).
