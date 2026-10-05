@@ -752,3 +752,14 @@ note. Runs dated 2026-08-28 to 2026-10-05 bind under the archived v4.1; later ru
   (5) `tools/price_alerts.py` and `tools/alerts.json` still read first and second levels from v4.1 run files; under v5 the
   value question is Q7 and its range is a CONVENTION, so the alert bands of any v5 run need a reading rule before the
   first v5 run writes one. `BRK-v5-read` stays disabled; `BRK-overnight` stays disabled; wave 7 stays paused.
+- *2026-10-05, after adoption:* the map's v5 automation rows now say the read is finished and both v5 tasks are
+  disabled (`BRK-v5-alert` had fired on 2026-10-04 but never disabled itself; disabled by hand); the holding-review
+  recipe in `CLAUDE.md` names the six questions and four words; `Screens/_daily/_overnight_prompt.md` carries a dated
+  halt note (it still describes a v4.1 run and halts any cycle that reads it until rewritten for v5); the register's
+  working rules carry a dated v5 note instead of an edit. Commits fb744da5, cb7ef9a0; public 20d3284 and the follow-up.
+- *2026-10-05, owed item (1) begun:* **HRB reviewed under v5: WATCH, with NO ADD**
+  (`Test Runs/2026-10-05 Holding Review - HRB H&R Block.md`; PORTFOLIO note the same day). Q2 graded MAJOR on the AI risk
+  factor with assisted volume flat; purchase falsifier not tripped; new falsifier and a re-derived silly-price band
+  (about $85.60 to $91.90 at 5.63%) written. Reviews still owed: MITSY, NCLTY, V, TBTC. The review's closing paragraph
+  asks the operator one question: whether a held name may sit in WATCH indefinitely when a single unanswerable Q2 both
+  holds it under watch and bars every add.
