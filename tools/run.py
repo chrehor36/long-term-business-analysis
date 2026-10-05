@@ -236,6 +236,54 @@ def points_over(cap_mn, base_mn, g1, sov_pct, tgr=0.025, yrs=10):
     return (lo + hi) / 2 * 100 - sov_pct
 
 
+# BALANCE SHEETS OVER TEN YEARS, added 2026-10-05. v5's Q4 directs the reader to "look at balance sheets
+# over an 8 or 10 year period before I even look at the income account" [M2025-032], and no run had done it:
+# this tool pulled no balance-sheet history and the template did not ask. Transcription only (the
+# tooling test: the same filed numbers, sooner); each value is the FIRST-filed vintage for its year-end,
+# so a later restatement shows up as a difference when the filing is read, and the accession is printed.
+BS_ROWS = [
+    ("assets",      ["Assets"]),
+    ("liabilities", ["Liabilities"]),
+    ("equity",      ["StockholdersEquity",
+                     "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest"]),
+    ("cash",        ["CashAndCashEquivalentsAtCarryingValue",
+                     "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents"]),
+    ("receivables", ["AccountsReceivableNetCurrent", "ReceivablesNetCurrent"]),
+    ("inventory",   ["InventoryNet"]),
+    ("goodwill",    ["Goodwill"]),
+    ("intangibles", ["IntangibleAssetsNetExcludingGoodwill", "FiniteLivedIntangibleAssetsNet"]),
+    ("lt debt",     ["LongTermDebtNoncurrent", "LongTermDebt", "LongTermNotesPayable"]),
+    ("retained",    ["RetainedEarningsAccumulatedDeficit"]),
+]
+BS_FORMS = {"10-K", "10-K/A", "20-F", "20-F/A", "40-F", "40-F/A", "10-KT"}
+
+
+def balance_history(facts, currency="USD", n=10):
+    """{year_end: {row: (value, accession)}} for the last n fiscal year-ends, first-filed vintage."""
+    ns = facts.get("facts", {})
+    pool = dict(ns.get("us-gaap", {}))
+    for k, v in ns.get("ifrs-full", {}).items():
+        pool.setdefault(k, v)
+    out = {}
+    for row, tags in BS_ROWS:
+        for tag in tags:
+            got = {}
+            for x in pool.get(tag, {}).get("units", {}).get(currency, []):
+                if x.get("form") not in BS_FORMS or x.get("start") or not x.get("end"):
+                    continue
+                if x.get("fp") not in (None, "FY"):
+                    continue
+                e, f = x["end"], x.get("filed", "9999")
+                if e not in got or f < got[e][2]:
+                    got[e] = (float(x["val"]), x.get("accn", "?"), f)
+            if got:
+                for e, (v, accn, _) in got.items():
+                    out.setdefault(e, {})[row] = (v, accn)
+                break
+    ends = sorted(out)[-n:]
+    return {e: out[e] for e in ends}
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("ticker")
@@ -409,7 +457,24 @@ def main():
     # told every run.py user the opposite of the framework at the moment of decision.
     note(f"\n  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,")
     note(f"  not ranked. What clears the floor ranks against the opportunity set [E4-21].")
+    bs = balance_history(facts, a.currency)
+    bs_lines = []
+    if bs:
+        cols = [r for r, _ in BS_ROWS if any(r in v for v in bs.values())]
+        bs_lines.append(f"\n  BALANCE SHEETS, {len(bs)} fiscal year-ends ({a.currency} millions; first-filed XBRL "
+                        f"vintage, transcription only; read the filed statements)")
+        bs_lines.append("    year-end    " + "".join(f"{c:>12}" for c in cols))
+        for e, v in bs.items():
+            bs_lines.append(f"    {e}  " + "".join(
+                f"{v[c][0] / 1e6:>12,.0f}" if c in v else f"{'-':>12}" for c in cols))
+        accns = sorted({acc for v in bs.values() for _, acc in v.values()})
+        bs_lines.append("    accessions: " + ", ".join(accns))
+        print("\n".join(bs_lines))
+    else:
+        print(f"\n  BALANCE SHEETS: no annual {a.currency} instant facts found; read them from the filings")
+
     print("\n  STILL OWED BEFORE THE VALUE QUESTION OPENS:")
+    print("    - read the balance sheets over the years above BEFORE the income account (v5 Q4)")
     print("    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.")
     print("    - cross-check one figure above against the filed statement")
     print("    - say where in the capex band maintenance sits, and why, citing the filing")
@@ -428,7 +493,8 @@ def main():
             block = (f"\n  run.py arithmetic ({oe['unit']}M), {today}: price {px:,.2f}; shares {shares/1e6:,.3f}M; "
                      f"cap {cap/1e6:,.0f}M; sovereign {sov:.2f}% ({sov_date}, {sov_src})\n{tbl}\n"
                      f"  {a.years}-yr mean owner cash {oe['mean_lo']:,.0f} .. {oe['mean_hi']:,.0f}; "
-                     f"yield {y_lo:.2f}% .. {y_hi:.2f}%\n")
+                     f"yield {y_lo:.2f}% .. {y_hi:.2f}%\n"
+                     + ("\n".join(bs_lines) + "\n" if bs_lines else ""))
             marker = "  capex and D&A, SBC resolved and complete."
             tpl = tpl.replace(marker, marker + block, 1)
             out = os.path.join(ROOT, "Test Runs", f"{today} Run - {t} {name}.md")

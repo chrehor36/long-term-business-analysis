@@ -48,6 +48,11 @@ Does owning this put the buyer at risk of ruin (the buyer's conduct, not the tar
 - **WEIGHS FOR / AGAINST / UNDECIDED**, one sentence, with ids. (The "little or no debt" criterion is applied at Q9.)
 
 ## Q4 — DO THE NUMBERS SHOW WHAT IT EARNS after every real cost? STOP on confusion or suspicion; otherwise WEIGHING.
+- **The balance sheets first, eight to ten years of them, before the income account** **[M2025-032]** (`tools/run.py`
+  prints the ten-year table; read the filed statements behind it). Say what moved and why: equity against goodwill and
+  intangibles, cash, receivables and inventory against sales, debt, retained earnings; "what the figures are saying and
+  what they don’t say and what they can’t say" **[M2025-032]**. *(line added 2026-10-05: the rule was in Q4 of the
+  framework from adoption, and no run had been asked to do it.)*
 - The real costs (depreciation, stock pay, restructurings, the recurring "one-time"); EBITDA in the filer's own
   mouth; what the accounts say of management's character. The make-the-numbers habit alone weighs against; with a
   second tell it is suspicion.
