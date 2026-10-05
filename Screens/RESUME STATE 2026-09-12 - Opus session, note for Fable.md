@@ -721,3 +721,16 @@ Wave 7 stays paused until the operator says otherwise.
   case on PERMANENT; (4) the ruling case for v5's adoption, carrying the five test results and the six load-bearing
   PARTLY rules; (5) a seventh acceptance check (inline quotation against its row) is proposed in the addendum, not
   implemented. v4.1 governs until the ruling case. Wave 7 stays paused.
+
+**Update 2026-10-05 early - THE FIVE TESTS ARE DONE; TWO CASES WAIT FOR THE OPERATOR.** Fifteen runs under the v5 drafts
+(`Framework/v5/tests/`, protocol in the same folder; results in `Framework/v5/TESTS - A prime, B prime and the regression -
+results.md`): acceptance PASS on both drafts; Test A' PASS on every STOP and both boxes (HRB Q2 TOO HARD, TJX Q7 OUT, both
+analysts), two TJX weighings diverged; Test B' PASS, zero false passes on the five sealed cases; the regression on seven
+names explained every difference (one real change, ASML: v4.1 understood and sold on price, v5 Q1 TOO HARD); calibration
+72 of 78. The holdings reconciliation is part 4 (77 rules; PERMANENT contradicted; five findings against the holdings
+framework). Ledger rows E5-64 (the 2016 withdrawal of the permanent class for marketable securities) and E5-65 (the 2009
+correction of the retention test) were added, 314 rows. **Waiting on the operator:** `Framework/v5/RULING CASE 2026-10-05 -
+adopt v5, for the operator's approval.md` (options A adopt now, B adopt after one correction pass [recommended], C keep
+v4.1 and import, D refuse; and which absences to carry as CONVENTIONS) and `Framework/v5/CASE 2026-10-05 - the PERMANENT
+designation and the retention test, for the operator's approval.md` (two rule changes to v4.1 and the holdings framework,
+three addenda). v4.1 governs until the rulings. The public copy is current. Wave 7 still paused.
