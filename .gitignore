@@ -107,3 +107,4 @@ Screens/_daily/_v5_logs/*
 Framework/v5/_inbox/*
 !Framework/v5/_inbox/.gitkeep
 Framework/v5/synthesis/_work/
+Framework/v5/tests/_work_*/
