@@ -24,7 +24,7 @@ DENY_PREFIXES = ("MBA - UNG/", "Curriculum/", "Test Runs/_research", ".claude/")
 # 2026-10-05: v5 adopted, so principle_ledger_v5.csv is published (the governing documents cite it).
 DENY_EXACT = {"PORTFOLIO.md"}
 POINTER_DOCS = ("CLAUDE.md", "README.md", "Framework/README.md", "Framework/OPERATOR-PROTOCOL.md")
-UNBACKTICK = ("PORTFOLIO.md",)
+UNBACKTICK = ("PORTFOLIO.md", "MBA - UNG/")  # MBA placeholder removed 2026-10-05 at the owner's request
 
 STUB_PORTFOLIO = """# PORTFOLIO.md — withheld from the public copy
 
@@ -73,7 +73,7 @@ def main():
             copied += 1
 
     # Remove files the working copy no longer tracks (never the destination's .git).
-    keep = set(files) | {"PORTFOLIO.md", "[coursework path withheld]", "Curriculum/WITHHELD.md",
+    keep = set(files) | {"PORTFOLIO.md", "Curriculum/WITHHELD.md",
                          "tools/_cache/.gitkeep", "Screens/_daily/_overnight_logs/.gitkeep",
                          "Screens/_daily/_v5_logs/.gitkeep", "Backtests/bt17_cache/.gitkeep",
                          "Framework/v5/_inbox/.gitkeep"}
@@ -107,7 +107,15 @@ def main():
               "Backtests/bt17_cache", "Framework/v5/_inbox"):
         os.makedirs(os.path.join(dest, d), exist_ok=True)
         open(os.path.join(dest, d, ".gitkeep"), "a").close()
-    for d in ("MBA - UNG", "Curriculum"):
+    # "MBA - UNG" got a WITHHELD.md placeholder here until 2026-10-05; the owner asked that nothing of it
+    # appear in the public copy, so it is now absent, gitignored there, and its name is unbackticked above.
+    shutil.rmtree(os.path.join(dest, "MBA - UNG"), ignore_errors=True)
+    gi = os.path.join(dest, ".gitignore")
+    if os.path.exists(gi):
+        lines = [l for l in open(gi, encoding="utf-8").read().splitlines() if "MBA - UNG" not in l]
+        with open(gi, "w", encoding="utf-8", newline="\n") as fh:
+            fh.write("\n".join(lines).rstrip() + "\n\n# coursework, never published\nMBA - UNG/\n")
+    for d in ("Curriculum",):
         os.makedirs(os.path.join(dest, d), exist_ok=True)
         with open(os.path.join(dest, d, "WITHHELD.md"), "w", encoding="utf-8", newline="\n") as f:
             f.write(f"# {d}/ is withheld from the public copy\n\nCoursework that shares the working repository "

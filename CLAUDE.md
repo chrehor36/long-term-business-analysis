@@ -5,7 +5,7 @@ A Buffett and Munger citation shelf, an investment framework built only from ver
 shelf, and the record of every business run through it. Two questions govern: **should I buy this?**
 (`Framework/THE FRAMEWORK v5.md`) and **should I keep what I own?** (`Framework/THE HOLDINGS FRAMEWORK v5.md`). *(v5
 adopted 2026-10-05; v4.1 governed from 2026-08-28 and is kept in `Framework/ARCHIVE - v4.x (superseded 2026-10-05)/`.)*
-**Ignore `MBA - UNG/`.** It is university coursework that shares this repository. Do not read it, search it,
+**Ignore MBA - UNG/.** It is university coursework that shares this repository. Do not read it, search it,
 cite it or edit it during framework work, and leave its uncommitted changes out of every commit. Open it only when the
 operator asks about the coursework by name. `Curriculum/` is a class charter and is likewise out of scope;
 nothing in the framework depends on either.

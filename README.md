@@ -188,7 +188,7 @@ Read the last section of the RESUME STATE file in Screens/ and tell me where thi
 | `Annual Reports/`, `Quarterly Reports/`, `Buffett Pledge Letters/` | Berkshire's own reports and the pledge material, context only, not on the shelf |
 | `Ben Graham/` | a separate Graham side project; Graham is off the shelf and is cited only as Buffett and Munger cite him |
 | PORTFOLIO.md | holdings, standing lines, the ranked opportunity set and the reviews owed |
-| `MBA - UNG/`, `Curriculum/` | **ignore both.** University coursework and a class charter that share the repository; nothing in the framework depends on them, and neither is read, searched, cited or edited in framework work |
+| MBA - UNG/, `Curriculum/` | **ignore both.** University coursework and a class charter that share the repository; nothing in the framework depends on them, and neither is read, searched, cited or edited in framework work |
 
 ## The public repository
 
