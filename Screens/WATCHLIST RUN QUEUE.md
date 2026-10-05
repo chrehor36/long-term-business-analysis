@@ -4,6 +4,13 @@
 buisnesses. Exclude ETFs. And run everything through the frame work. Each should end with a
 price and whether it did or did not pass the framework."*
 
+*(Dated note 2026-10-05: the working rules below name v4.1's questions (Q1 to Q4 the gates, Q5 the price, six questions,
+four verdicts). v5 governs from 2026-10-05 (`Framework/THE FRAMEWORK v5.md`): the price is Q7, the questions ahead of it
+are Q1 to Q6 with their STOPs and weighings, and the box is IN, OUT or TOO HARD. The two requirements stand unchanged in
+substance: a price either way, headed `COMPUTATION - NOT A CLEARANCE` when a STOP closed the file before Q7, and a plain
+pass or fail line naming the question that closed it. The rules are left as written, since every entry in the register
+up to this date was made under them; the FOLD and the write-early protocol are read with this note.)*
+
 **EVERY RUN IN THIS QUEUE MUST END WITH BOTH:**
 1. **A PRICE.** If Q1-Q4 all show IN, the price band is a normal Q5 output. **If the file
    closes earlier, the price is still reported, headed `COMPUTATION - NOT A CLEARANCE`

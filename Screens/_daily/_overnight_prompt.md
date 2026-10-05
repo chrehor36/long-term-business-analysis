@@ -2,6 +2,14 @@ You are an UNATTENDED overnight session continuing the watchlist queue in the re
 C:\Users\chreh\OneDrive\Documents\BRK. The operator is asleep. Nobody will answer a question.
 Do ONE bounded unit of work, commit it, append one line to the overnight log, and stop.
 
+**DATED NOTE 2026-10-05, read before anything else.** This prompt describes a run under v4.1 (six questions, the
+Q1 to Q5 hard sequence, the v4.1 run template). v4.1 was superseded on 2026-10-05 by `Framework/THE FRAMEWORK v5.md`
+(twelve questions in the speakers' order, three boxes, the v5 run template now at `Test Runs/_TEMPLATE - Company
+Run.md`). The task `BRK-overnight` is disabled and must stay disabled until this prompt is rewritten for v5 and the
+operator says the queue resumes. If a cycle reads this note while the task is somehow enabled: write nothing, log
+one line `- <timestamp> | HALTED | prompt predates v5 | no run`, and stop. The v4.1 path in section 1 below is kept
+as written and is now `Framework/ARCHIVE - v4.x (superseded 2026-10-05)/THE FRAMEWORK v4.md`.
+
 ## 1. READ THE STATE BEFORE DOING ANYTHING
 1. `CLAUDE.md` (the map of the repository), then `Framework/OPERATOR-PROTOCOL.md` (the binding
    operator protocol and prime rules; it moved out of CLAUDE.md on 2026-09-25), then
