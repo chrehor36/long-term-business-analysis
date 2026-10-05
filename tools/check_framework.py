@@ -57,9 +57,8 @@ DOCS = [
     # Sector methods carry rules, so they are governing documents and must pass the same
     # test. Added 2026-09-02 with the insurer method: a rule that escapes the acceptance
     # test because it lives in a different file is exactly the drift v4 was built to end.
-    os.path.join(ROOT, "Framework",
-                 "SECTOR METHOD - owner earnings for insurers and "
-                 "float-bearing holding companies.md"),
+    # Repointed 2026-10-05 to the v5 method; the v4 method is in the v4.x archive.
+    os.path.join(ROOT, "Framework", "SECTOR METHOD v5 - insurers and float companies.md"),
     # The holdings framework governs owned positions, so it and its review surface pass the
     # same test. Added 2026-09-13 when the operator adopted it.
     os.path.join(ROOT, "Framework", "THE HOLDINGS FRAMEWORK v5.md"),
@@ -280,6 +279,7 @@ def main():
     if os.path.exists(LEDGER_V5):
         V5_DOCS = [os.path.join(ROOT, "Framework", "THE FRAMEWORK v5.md"),
                    os.path.join(ROOT, "Framework", "THE HOLDINGS FRAMEWORK v5.md"),
+                   os.path.join(ROOT, "Framework", "SECTOR METHOD v5 - insurers and float companies.md"),
                    os.path.join(ROOT, "Test Runs", "_TEMPLATE - Company Run.md"),
                    os.path.join(ROOT, "Test Runs", "_TEMPLATE - Holding Review.md")]
         for path in V5_DOCS:

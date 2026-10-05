@@ -340,8 +340,8 @@ def main():
         print("  THIS SCRIPT CANNOT PRICE IT. Operating cash flow contains float growth,")
         print("  which is borrowed money, and investment income, which belongs to a")
         print("  portfolio nothing here values. The yield would be overstated.")
-        print("  USE Framework/SECTOR METHOD - owner earnings for insurers and")
-        print("  float-bearing holding companies.md, which values two components separately.")
+        print("  USE Framework/SECTOR METHOD v5 - insurers and float companies.md,")
+        print("  which values two components separately.")
         print("  (Pass --shares to override if you have already made the corrections.)")
         return 1
 

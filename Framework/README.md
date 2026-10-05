@@ -20,7 +20,7 @@ the six prime rules, the tooling test, the sovereign sources and the standard. A
 |---|---|
 | **`THE FRAMEWORK v5.md`** | **Should I buy this?** Every new purchase, and every add to an existing position, because an add is a purchase. The foundations, the standing rule, Q1 to Q12 in the speakers' order, three boxes, every rule carrying its verbatim quote and its id in `principle_ledger_v5.csv`. If a rule is not in it, it is not in force. |
 | **`THE HOLDINGS FRAMEWORK v5.md`** | **Should I keep what I own?** Six hold questions and the review's four words, for a position already held. Review surface: `Test Runs/_TEMPLATE - Holding Review.md`. |
-| **`SECTOR METHOD - owner earnings for insurers and float-bearing holding companies.md`** | An insurer or a float-bearing holding company: two measurable components plus a judgment, never an owner-earnings number from operating cash flow. |
+| **`SECTOR METHOD v5 - insurers and float companies.md`** | An insurer or a float-bearing holding company under v5: two measurable components plus a judgment, from v5 rows only, never an owner-earnings number from operating cash flow. In force from 2026-10-05; the v4 method it replaced is in the v4.x archive. *(This row named the v4 method until 2026-10-05.)* |
 | **`v4/THE MANAGER STANDARD - Q3.md`** | The v4.1 manager standard, from a full read of the shelf. Incorporated by reference from the archived `ARCHIVE - v4.x (superseded 2026-10-05)/THE FRAMEWORK v4.md` and the archived v4.1 run template; v5 carries its own manager questions (Q5 and Q6) from the meeting rows and does not cite this file. Kept as the v4 record. |
 
 **Around them:**

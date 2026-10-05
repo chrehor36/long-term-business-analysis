@@ -772,3 +772,10 @@ note. Runs dated 2026-08-28 to 2026-10-05 bind under the archived v4.1; later ru
   and NO ADD stand on a closed question. **Waiting on the operator:** four refinements to the research pass's form (single-fact
   OUT answers; spans fixed in advance; unknowable K-answers; blind copy without the position note). Next pass candidates per the
   case: TBTC, MITSY, then ASML. Holding reviews still owed: MITSY, NCLTY, V, TBTC.
+- *2026-10-05, later:* **the v5 scope directive** ("any rules in v5 should come frome ONLY the v5 scope"): written into v5's
+  standard; acceptance check 7 enforces it; the falsifier CONVENTION removed (its basis lay outside scope); the ten-year
+  balance-sheet table added to `tools/run.py` and template Q4 [M2025-032]. **SECTOR METHOD v5 adopted** after a blind MKL test,
+  an amendment (net of float by default; float net of ceded; accident-year development; after tax; the operating-income
+  step) and a blind repeat that passed; the v4 method archived. Ten open items in the method's header. The public copy no
+  longer carries any MBA path (placeholder removed, folder ignored). **Waiting on the operator:** the four research-pass
+  refinements; whether to scrub the MBA placeholder from the public repo's history; the holding template's balance-sheet line.
