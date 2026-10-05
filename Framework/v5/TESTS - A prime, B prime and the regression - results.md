@@ -72,4 +72,44 @@ between OUT and TOO HARD, and the PetroChina rows (M2004-082, M2005-023), where 
 against its reserves, are left out of Q2; Q12's place after a failed STOP is undefined.
 
 ## The regression — the six live names and the five Roth holdings
-*(appended as the runs land)*
+**Pass rule:** no pass mark; every verdict that differs from the v4.1 verdict of record is explained from the rows.
+The union of the two lists is seven names; HRB and TJX are taken from Test A' (analyst 1's runs), the other five from
+`Framework/v5/tests/R <TICKER> - run.md`. Prices are the 2026-10-02 closes (aggregator, flagged); sovereigns from the
+issuing authorities (US Treasury 30-year 5.63%, ECB 30-year 3.835%, Japan MoF 30-year 4.122%).
+
+| name | v4.1 verdict of record | v5 purchase draft | v5 holdings draft (held names) | the difference, explained |
+|---|---|---|---|---|
+| HRB | Q2 OUT, two blind analysts (Test A, 2026-08-27); held, three hold conditions pass | Q2 TOO HARD, both analysts | keep; threat graded major, not life-threatening; no add supported | same question, different box. v4.1 found the franchise failed on evidence; v5's Q2 sends a castle whose future turns on a technology the 10-K itself calls "difficult to predict" to the too-hard box (M2000-019, M2001-069) |
+| TJX | Q1 to Q4 IN, quit on at the floor (Test A, 2026-08-27, "don't buy at $135") | Q1 and Q2 IN, Q3 to Q6 weighed, Q7 OUT at $132.68 (value about $130 to $345) | not held | same practical result: not buyable at the price. v5 closes OUT because the price sits at the bottom of a wide range and needs a pencil (M2009-005); v4.1 said "quit on at the floor" |
+| TBTC | held; a Q2 moat defect (key person); business-fact sell line; no adds | Q1 IN narrowly, Q2 TOO HARD | keep by default; retained earnings weigh against; no add | same box class, different reason: v5 reads the filing's "rapid technological advances" and a 47.5% customer; v4.1 read the person |
+| ASML | Q1 to Q4 IN (run of 2026-08-28); exited the same day on Q6's overvaluation condition | **Q1 TOO HARD** | weighs for on castle, management and retained money; against on price and on "a mistake to buy" | **the one real change.** v4.1 called the business understood and sold it on price; v5 will not call it understood (ten-year earnings turn on technology, three governments' export licences and customers' cycles; M1998-008, L1993-023, M2006-076). Both agree there is no purchase at 60 times earnings |
+| V | never run under v4.1 (the anchor holding; its v3.0 run is history) | Q1 and Q2 IN (same-metric row against Mastercard), Q3 to Q6 weighed, Q7 OUT: value about $300 to $900, most $400 to $600, against $361 | keep; "neither buyer nor seller"; do not add at $361 | no v4.1 verdict to differ from. The first full reading of the Roth's anchor; the box turns on Q7's unfixed growth input |
+| NCLTY | Q2 OUT (franchise test of 2026-09-18) | Q2 OUT | castle narrowed, weighs toward sale; retained money below a dollar; no add | the same, on the same evidence: price per customer up 14.5%, customers down 12.8%, sales flat, the board's own "being cheaper" priority |
+| MITSY | Q2 OUT (run of 2026-08-28); held, three hold conditions pass | Q1 TOO HARD | keep by default; no add supported | one question earlier, same class: iron ore, LNG and oil prices, the yen and ¥1.4tn a year of new investment make ten-year earnings unforeseeable (M2002-092) |
+
+**Result: every difference is explained, and all by one feature of v5.** No name reaches IN under either framework.
+v5's third box, TOO HARD, takes four names (HRB, TBTC, ASML, MITSY) that v4.1 either failed on evidence (HRB,
+MITSY) or called understood (ASML, TBTC's business). Two names are the same (NCLTY, TJX in effect). For the holdings,
+the v5 holdings draft returns "keep, no add" on every held name, with "weighs toward sale" only on NCLTY's castle and
+retained money; it names no outcome because the rows give none.
+
+**The seven runs' common findings about the drafts:** (1) the overlap of Q1 and Q2 on rapid change lets a name close at
+Q1 TOO HARD, Q1 OUT or Q2 TOO HARD, which scoring by "the deciding question" will show as disagreement; (2) Q7 has no
+rule for the growth input or the horizon, so a wide range can close as OUT or TOO HARD; (3) the holdings draft's Q5
+(a better use of the money) cannot be answered by a session barred from the portfolio, and its Q6 does not say whether a
+purchase-draft TOO HARD on a held name is "a mistake to buy, now recognised"; (4) nothing settles whether an add to a
+TOO HARD name is barred; (5) no rule for a holding company understood by its parts or as a whole, or for equity-method
+income at Q3, Q4 and Q7; (6) the protocol's accession rule assumes an SEC filer; EDINET ids and the company's own
+report stood in for NCLTY and MITSY.
+
+## The five tests, as pre-registered
+| test | rule | result |
+|---|---|---|
+| 1 acceptance test on the drafts | PASS with `--also` | **PASS**, both drafts |
+| 2 Test A' reproducibility | same verdict at every question, two names | **PASS** on every STOP and both boxes; two weighings diverged on TJX, recorded |
+| 3 Test B' blind falsification | zero false passes | **PASS**; acceptance half untestable blind, as under v4.1 |
+| 4 regression | every difference explained | **done**; one real change (ASML), explained |
+| 5 reconciliation and calibration | table complete; metric reported | **done**; hypothesis fails narrowly on one rule by the operator's ruling; 72 of 78 |
+
+The ruling case for adoption can now be written. It carries these five results, the six load-bearing PARTLY rules, the
+drafts' recorded gaps, and the PERMANENT finding against v4.1.

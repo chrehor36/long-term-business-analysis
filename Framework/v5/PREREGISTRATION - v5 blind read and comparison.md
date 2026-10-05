@@ -240,3 +240,15 @@ go to the ruling case, and if v5 is adopted the missing parts are carried as CON
 stated, the floor's number first among them. (3) Three citation and label defects in v4.1 are corrected by dated
 addendum tonight; the PERMANENT designation's withdrawal becomes a PRIME RULE 5 case for the operator. (4) The six draft
 corrections are made now; Tests A', B' and the regression run when the operator says so.
+
+## THE FIVE TESTS, 2026-10-05 (the night of 10-04 into 10-05). Results in
+`Framework/v5/TESTS - A prime, B prime and the regression - results.md`; run files in `Framework/v5/tests/`.
+Test 1 PASS (both drafts pass the acceptance test with `--also`). Test A' PASS on every STOP verdict and both boxes
+(HRB: Q1 IN, Q2 TOO HARD, both analysts; TJX: Q1 IN, Q2 IN, Q5 IN, Q7 OUT, both analysts); two weighings diverged on
+TJX (Q4, Q6) and are recorded as a defect in those weighings' definitions. Test B' PASS, zero false passes (A, B, C
+TOO HARD at Q1; D OUT at Q2; E TOO HARD at Q2), the acceptance half untestable blind as under v4.1; the sessions found
+that the draft quotes rows dated after the cases' anchors, so a point-in-time test under v5 needs an anchor rule. The
+regression: seven names, no name IN under either framework, every difference explained by v5's TOO HARD box; the one
+real change is ASML (v4.1 Q1 to Q4 IN and sold on price; v5 Q1 TOO HARD). Calibration 72 of 78, reported. Fifteen runs,
+one agent each, none reading a prior run file or a v4 document. **Next:** the holdings draft's reconciliation, the
+PRIME RULE 5 case on PERMANENT, and the ruling case for the operator.
