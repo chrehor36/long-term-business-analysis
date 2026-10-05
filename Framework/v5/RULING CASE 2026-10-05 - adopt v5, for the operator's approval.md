@@ -110,3 +110,11 @@ under v5 exactly as under v4.1**, and no result of the read bears on it.
 2. If A or B: which of section 3's items are kept as CONVENTIONS (the pre-committed falsifier; the floor's number; the
    other PARTLY edges), and which are dropped with their cost recorded.
 3. The PRIME RULE 5 case of the same date on PERMANENT and the retention test, which stands whatever is chosen here.
+
+---
+# DECIDED 2026-10-05
+**The operator chose B: adopt v5 after one correction pass**, and chose to keep both of section 3's largest absences as
+confessed CONVENTIONS (the pre-committed falsifier in the foundations; "about ten percent" at Q7 with its history). The
+correction pass on the drafts (section 5, a to j, plus the two conventions) follows, then the acceptance test on both
+drafts and one reproducibility pair on a fresh name, then the adoption steps of section 8. v4.1 governs until those
+steps are committed.

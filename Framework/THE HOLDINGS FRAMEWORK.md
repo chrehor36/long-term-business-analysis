@@ -8,7 +8,10 @@ would still call good. The operator's instruction of 2026-09-13: *"the current f
 new purchases. we also need a holdings framework and this will be it once its built."*
 
 **The rule that joins them: an add is a purchase.** Buying more of something already owned runs
-the purchase framework, all six questions, at the add price. This document never approves an add.
+the purchase framework, all six questions, at the add price. This document never approves an add. *(CONVENTION,
+labelled 2026-10-05: no ledger row states that an add re-runs every purchase question; the v5 blind read found none
+("no instance found in the v5 ledger"). The nearest corpus is the comparison of every new dollar with more of what is
+already owned [E4-45] and the floor as a buying rule [E4-28]. The rule is ours and is kept.)*
 
 **Where this came from.** Every rule below was already in the corpus and most were already in
 the purchase framework's Q6, which carried the hold doctrine as a sub-part of the sell question.
@@ -71,24 +74,36 @@ HOLD or SELL. It may not be renewed on the same question without new evidence, b
 > present views began to crystallize.**" — **[E2-40]**, 1979 letter
 
 **UNRESEARCHED alone never forces a sale.** A holding with a gap in the record stays held while
-the named document is fetched and read. *CONVENTION: the hold is already made and the corpus
-says the relevant beliefs "change quite gradually" [E4-17]; selling on an unread document would
-be the frenetic activity [E3-35] warns against. The gap must name its document and due date.*
+the named document is fetched and read: *"if you really get a wonderful business with outstanding management [...]
+when in doubt, keep holding. But it's no inviolable rule."* **[E5-66]**, 2009 meeting. The hold is already made and the
+corpus says the relevant beliefs "change quite gradually" [E4-17]; selling on an unread document would be the frenetic
+activity [E3-35] warns against. The gap must name its document and due date. *(Until 2026-10-05 this was a CONVENTION;
+the v5 blind read found its row.)*
 
 ---
 # III. BEFORE ANY QUESTION
 
-**1. Designation: SECURITY or PERMANENT.** Every holding is a SECURITY by default. A holding may
-be designated PERMANENT, in writing, in advance, never retro-fitted to excuse a missed sale:
+**1. Every holding is a SECURITY.** *(Corrected 2026-10-05 from the PRIME RULE 5 case of that date, approved by the
+operator. Until then this item read "Designation: SECURITY or PERMANENT", let a holding be designated PERMANENT in
+writing and in advance, and exempted it from H4 on [E2-39]. The 1987 passage stands as history; its author withdrew
+the treatment in 2016.)* The 1987 letter treated three marketable stocks as permanent:
 
 > "our insurance companies own three marketable common stocks that **we would not sell even
 > though they became far overpriced** in the market. In effect, we view these investments exactly
 > like our successful controlled businesses - a permanent part of Berkshire [...] we would, **if
 > absolutely necessary**, sell portions" — **[E2-39]**, 1987 letter
 
-A PERMANENT designation exempts a holding from **H4 (overvaluation) only**. It does not exempt it
-from H1, H2 or H3, and it yields to necessity. The designation is a yardstick set before the act
-**[E1-02]**.
+The 2016 letter withdrew it for every marketable security and amended the Owner's Manual to say so **[E5-64]**:
+
+> "It is true that we own some stocks that I have no intention of selling for as far as the eye can see (and we're
+> talking 20/20 vision). But **we have made no commitment that Berkshire will hold any of its marketable securities
+> forever.** [...] **That principle covers controlled businesses, not marketable securities.** This year I've added a
+> final sentence to #11 to ensure that our owners understand that **we regard any marketable security as available for
+> sale**, however unlikely such a sale now seems." — **[E5-64]**, 2016 letter
+
+So no holding is exempt from H4 on the corpus's authority. A holder who nonetheless designates a stock permanent does
+so as a CONVENTION of his own, confessed in writing and in advance **[E1-02]**, and it still yields to the crystallized
+view **[E2-40]**.
 
 **The reluctance to sell sub-par businesses does not transfer.** The corpus's refusal to sell
 weak businesses is stated for *"businesses that Berkshire owns"* and turns on feeling good about
@@ -157,7 +172,14 @@ The first condition of **[E2-28]**, measured the corpus's way:
   for a stock to earn a much better return than the business that underlies it earns"*
   **[E3-17]**.
 - **The retention test, where earnings are retained:** does retention deliver at least a dollar
-  of market value per dollar retained over a rolling five years **[E3-54]**.
+  of market value per dollar retained over a rolling five years **[E3-54]**, applied in the form its author corrected
+  in 2009: *"The five-year test should be: (1) during the period did our book-value gain exceed the performance of the
+  S&P; and (2) did our stock consistently sell at a premium to book, meaning that every $1 of retained earnings was
+  always worth more than $1? If these tests are met, retaining earnings has made sense."* **[E5-65]**, 2009 report,
+  which calls the 1996 wording *"the test as I improperly formulated it"* because a market decline fails it
+  mechanically. For a holding, the two legs are the business's own progress against the index over the period and the
+  market's valuation of the whole consistently above the capital put in. *(Added 2026-10-05 from the PRIME RULE 5 case
+  of that date; the hold reads of 2026-08-28 applied the 1996 form and receive dated notes.)*
 - **"Prospective" means forward.** A satisfactory past with a filed, non-aberrational decline
   under way **[E3-30]** is not satisfactory.
 
@@ -211,7 +233,8 @@ that would not clear it as a purchase can still be held; it simply cannot be add
 is the case **[E2-28]** names directly: *"we do not sell holdings just because they have
 appreciated."*
 
-**PERMANENT holdings skip H4** **[E2-39]**.
+**No holding skips H4.** *(2026-10-05: this line read "PERMANENT holdings skip H4 [E2-39]" until the PRIME RULE 5
+case of that date; the author withdrew the permanent treatment for marketable securities in 2016 [E5-64], section III.)*
 
 **Verdict.** IN: price inside or below the range. OUT: price above the whole range. UNRESEARCHED:
 the input that would set the range is named. UNKNOWABLE: no range can be built, in which case H2
@@ -250,15 +273,19 @@ does, and it is named with its run file.
 | H2 OUT | **SELL** once the decline is judged not aberrational; **SELL REVIEW** until then | [E2-28], [E3-30] |
 | H3 OUT on honesty | **SELL** | [E2-28] |
 | H3 OUT on capital allocation | **SELL**: exit, do not engage | [E4-24] |
-| H4 OUT, holding is a SECURITY | **SELL** | [E2-28] |
-| H4 OUT, holding is PERMANENT | **HOLD** unless absolutely necessary | [E2-39] |
+| H4 OUT | **SELL** | [E2-28], [E5-64] |
 | H5 OUT | **SELL** and buy the named replacement | [E2-28], [E4-45] |
-| Any question UNKNOWABLE on H1, H2 or H3 | **SELL REVIEW**: the corpus moves to what it understands better | [E4-12] |
-| Any question UNRESEARCHED | **HOLD** pending the named document | CONVENTION, section II |
+| Any question UNKNOWABLE on H1, H2 or H3 | **SELL REVIEW**: the corpus sells for "one we believe we understand better" | [E2-28] |
+| Any question UNRESEARCHED | **HOLD** pending the named document: "when in doubt, keep holding" | [E5-66] |
 
-**When the outcome is SELL, sell the whole position.** *CONVENTION: the corpus's sell decisions
-it describes are made on the business, and a business judged wrong for the portfolio is not made
-right by owning less of it; partial sales are the necessity case of [E2-39], not a hedge.*
+*(Table corrected 2026-10-05 from the PRIME RULE 5 case of that date: the row "H4 OUT, holding is PERMANENT: HOLD
+unless absolutely necessary [E2-39]" is removed, the author having withdrawn the permanent class for marketable
+securities in 2016 [E5-64]; the UNKNOWABLE row had cited [E4-12], a buying row, and now cites the sell reason in
+[E2-28]; the UNRESEARCHED row had been a convention and now has its row.)*
+
+**When the outcome is SELL, sell the whole position.** *"when we sell something, very often it's going to be our
+entire stake. I mean, we don't trim positions [...] when we change our mind, we don't take half measure or anything of
+the sort."* **[E5-67]**, 2020 meeting. *(Until 2026-10-05 this was a CONVENTION; the v5 blind read found its row.)*
 
 ---
 # VI. WHAT IS NEVER A REASON

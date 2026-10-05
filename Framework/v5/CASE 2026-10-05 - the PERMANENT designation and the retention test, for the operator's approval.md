@@ -100,3 +100,11 @@ carries the corrected form (its Q4 cites R2009-002 and R1995-009).
 2. **Approve, amend or refuse Case 2** (H2's retention test in its corrected form).
 3. **Yes or no to the three addenda.**
 Every clause above cites a ledger row that verifies against its source (`tools/check_framework.py`, check 4).
+
+---
+# DECIDED 2026-10-05
+The operator approved Case 1 (no permanent class for marketable securities), Case 2 (the retention test in its corrected
+form) and the three addenda, all on 2026-10-05. Applied the same day: `THE FRAMEWORK v4.md` Q6's scope paragraph;
+`THE HOLDINGS FRAMEWORK.md` section III.1, H2, H4, the outcome table and section II, each with a dated note saying what
+stood. Ledger rows E5-64 to E5-67 preceded the edits. `tools/check_framework.py` PASS. The hold reads of 2026-08-28
+(HRB, MITSY, NCLTY) are owed a dated note that the corrected retention test would have been applied.

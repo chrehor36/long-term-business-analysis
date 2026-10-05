@@ -1163,10 +1163,18 @@ all securities. The 1987 letter itself says more, nine lines below E2-28:
 > successful controlled businesses** — a permanent part of Berkshire … To that, I will add
 > one qualifier: … we would, **if absolutely necessary**, sell portions" — **[E2-39]**, 1987
 
-So Q6's full structure: **E2-28's three hold conditions govern securities by default; a
-holding may be explicitly designated PERMANENT, which exempts it from the overvaluation
-trigger only — and even the permanent class yields to solvency.** A permanent designation is
-made in writing, in advance, per **[E1-02]** — never retro-fitted to excuse a missed sale.
+So Q6's full structure: **E2-28's three hold conditions govern every marketable security.** The 1987 letter
+treated three marketable stocks as permanent **[E2-39]**; the 2016 letter withdrew that treatment for all marketable
+securities and amended the Owner's Manual to say the never-sell principle covers controlled businesses only: *"we have
+made no commitment that Berkshire will hold any of its marketable securities forever. [...] That principle covers
+controlled businesses, not marketable securities. This year I've added a final sentence to #11 to ensure that our owners
+understand that we regard any marketable security as available for sale, however unlikely such a sale now seems."*
+**[E5-64]**, 2016 letter. **No marketable holding is exempt from [E2-28]'s overvaluation condition on the corpus's
+authority.** A holder who nonetheless designates a stock permanent does so as a CONVENTION of his own, confessed in
+writing and in advance per **[E1-02]**, and it still yields to [E2-40]'s crystallized view. *(Corrected 2026-10-05 from
+the PRIME RULE 5 case of that date, approved by the operator. The paragraph had read, since the Test D correction of
+2026-08-28: "a holding may be explicitly designated PERMANENT, which exempts it from the overvaluation trigger only, and
+even the permanent class yields to solvency", on [E2-39] alone. The 2016 withdrawal was found by the v5 blind read.)*
 
 **And the counter-trigger the gradualism rule was missing:**
 
