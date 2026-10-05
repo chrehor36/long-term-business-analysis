@@ -24,6 +24,8 @@ STOP against selling on price alone; a silly price is a weighing. State what mov
 **WEIGHS FOR KEEPING / AGAINST / UNDECIDED.**
 
 ## Q2 — HAS THE CASTLE CHANGED?
+Read the balance sheets first, eight to ten years of them (`tools/run.py` prints the table), before the income account
+**[M2025-032]**: what moved and why, and what the figures "don’t say and what they can’t say" **[M2025-032]**.
 The purchase framework's Q2 tests re-read on current filings and the competitor row; the threat graded minor, major or
 life-threatening, with action at the life-threatening grade. **WEIGHS FOR / AGAINST / UNDECIDED.**
 
@@ -31,6 +33,8 @@ life-threatening, with action at the life-threatening grade. **WEIGHS FOR / AGAI
 Ability as a weighing; lost trust presses prompt action. Pay from the latest proxy. **WEIGHS FOR / AGAINST / UNDECIDED.**
 
 ## Q4 — IS THE MONEY KEPT STILL BECOMING MORE THAN A DOLLAR?
+On the same ten balance sheets: equity, retained earnings, goodwill and debt across the years show where the kept money went
+**[M2025-032]**.
 The retention test in its corrected two-leg form; buybacks against the range; the one STOP on putting further money into
 a business that consumes it. **WEIGHS FOR / AGAINST / UNDECIDED.**
 

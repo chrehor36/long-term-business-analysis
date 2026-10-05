@@ -98,6 +98,24 @@ def main():
         if t2 != t:
             open(p, "w", encoding="utf-8", newline="").write(t2)
 
+    # Coursework paths are redacted from every exported text file (owner's request, 2026-10-05): a
+    # path inside the coursework folder names the course and its files, and the public copy names neither.
+    mba_path = re.compile(r"MBA - UNG/[^`\n|]*?\.(?:md|txt|csv|pdf|docx|pptx|xlsx)")
+    for dirpath, dirnames, filenames in os.walk(dest):
+        if ".git" in dirpath.split(os.sep):
+            continue
+        for fn in filenames:
+            if not fn.lower().endswith((".md", ".csv", ".txt", ".py", ".json", ".ps1")):
+                continue
+            fp = os.path.join(dirpath, fn)
+            try:
+                s = open(fp, encoding="utf-8").read()
+            except (UnicodeDecodeError, OSError):
+                continue
+            s2 = mba_path.sub("[coursework path withheld]", s)
+            if s2 != s:
+                open(fp, "w", encoding="utf-8", newline="").write(s2)
+
     with open(os.path.join(dest, "PORTFOLIO.md"), "w", encoding="utf-8", newline="\n") as f:
         f.write(STUB_PORTFOLIO)
 
