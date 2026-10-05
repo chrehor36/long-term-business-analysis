@@ -455,7 +455,7 @@ without asking. Sections 1 to 10 above are history and still true where they are
   from the much larger lists"* - done for the first half (section 10); the second half is WAVE 7, running.
 - *"Change to doing one an hour instead of one of 30mins"* - the cadence is one name an hour.
 - *"the current framework is for new purchases. we also need a holdings framework and this will be it
-  once its built"* - built: `Framework/THE HOLDINGS FRAMEWORK.md`, governing since 2026-09-13.
+  once its built"* - built: `Framework/ARCHIVE - v4.x (superseded 2026-10-05)/THE HOLDINGS FRAMEWORK.md`, governing since 2026-09-13.
 - *"The corpus is the law. All answers are in the corpus"* and *"Your job is to audit and fix"* - every
   judgment cites a ledger id or it is an opinion (operator rule 8); when a question is open, search the
   shelf before asking the operator.
@@ -705,7 +705,7 @@ Wave 7 stays paused until the operator says otherwise.
 **Update 2026-10-04 night - v5 SYNTHESIS AND RECONCILIATION DONE; the public repository is live.**
 - **Synthesis:** four theme maps, one merged map, the operator's structure decision (preamble, standing rule, Q1 to
   Q11, Q12 optional, closing note), thirteen section drafts, and two assembled drafts that pass the acceptance test
-  with `--also`: `Framework/v5/DRAFT - THE FRAMEWORK v5.md` (1,384 ids) and `Framework/v5/DRAFT - THE HOLDINGS
+  with `--also`: `Framework/THE FRAMEWORK v5.md` (1,384 ids) and `Framework/v5/DRAFT - THE HOLDINGS
   FRAMEWORK v5.md` (183 ids, six hold questions). Calibration metric 72 of 78.
 - **Reconciliation** (`Framework/v5/RECONCILIATION - v5 against v4.1.md` and three parts in `Framework/v5/synthesis/`):
   215 v4.1 rules, 130 reproduced, 52 partly, 28 absent, 5 contradicted; 87 new in v5. **Operator's rulings:** E4-13
@@ -734,3 +734,21 @@ adopt v5, for the operator's approval.md` (options A adopt now, B adopt after on
 v4.1 and import, D refuse; and which absences to carry as CONVENTIONS) and `Framework/v5/CASE 2026-10-05 - the PERMANENT
 designation and the retention test, for the operator's approval.md` (two rule changes to v4.1 and the holdings framework,
 three addenda). v4.1 governs until the rulings. The public copy is current. Wave 7 still paused.
+
+**Update 2026-10-05 - V5 ADOPTED.** The operator ruled on both cases: option B (adopt after one correction pass), both
+largest absences kept as CONVENTIONS (the pre-committed falsifier; "about ten percent"), the PERMANENT withdrawal and the
+retention-test correction approved with their three addenda (E5-66, E5-67 added; `principle_ledger.csv` is 316 rows). The
+correction pass was made (section 5 of the ruling case, a to j), both drafts passed, and the PG reproducibility pair
+agreed at every STOP and on the box. Section 8 then ran: `Framework/THE FRAMEWORK v5.md` and `Framework/THE HOLDINGS
+FRAMEWORK v5.md` govern from 2026-10-05; v4.1 is in `Framework/ARCHIVE - v4.x (superseded 2026-10-05)/`; the v5 templates
+carry the canonical template names and the v4.1 templates are archived beside the v3 ones; `DOCS` repointed; acceptance
+PASS; `principle_ledger_v5.csv` (4,279 rows) published; `tools/run.py` defaults to v5. Every pointer file carries a dated
+note. Runs dated 2026-08-28 to 2026-10-05 bind under the archived v4.1; later runs under v5.
+- **Owed, in order:** (1) the first holding reviews under v5 for HRB, MITSY, NCLTY, V and TBTC (`Test Runs/_TEMPLATE -
+  Holding Review.md`, six questions, four words); (2) the Japanese businesses through v5 (to-do item 9); (3) the
+  wave 7 resumption decision, which is the operator's; the headless prompt `Screens/_daily/_overnight_prompt.md` still
+  describes a v4.1 run and must be rewritten for the v5 template before `BRK-overnight` is re-enabled; (4) the seventh
+  acceptance check (inline quotation against its row), proposed in the 2026-10-04 addendum, not implemented;
+  (5) `tools/price_alerts.py` and `tools/alerts.json` still read first and second levels from v4.1 run files; under v5 the
+  value question is Q7 and its range is a CONVENTION, so the alert bands of any v5 run need a reading rule before the
+  first v5 run writes one. `BRK-v5-read` stays disabled; `BRK-overnight` stays disabled; wave 7 stays paused.

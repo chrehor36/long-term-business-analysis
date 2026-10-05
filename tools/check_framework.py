@@ -47,7 +47,10 @@ LEDGER = os.path.join(ROOT, "principle_ledger.csv")
 # the set that checks 1, 2 and 5 resolve against. Nothing in DOCS cites it until v5 is adopted.
 LEDGER_V5 = os.path.join(ROOT, "principle_ledger_v5.csv")
 DOCS = [
-    os.path.join(ROOT, "Framework", "THE FRAMEWORK v4.md"),
+    # 2026-10-05: v5 adopted (Framework/v5/RULING CASE 2026-10-05 ...). The v4.1 pair moved to
+    # Framework/ARCHIVE - v4.x (superseded 2026-10-05)/ and is no longer checked; the v5 pair and
+    # the v5 templates (same file names) take their places.
+    os.path.join(ROOT, "Framework", "THE FRAMEWORK v5.md"),
     os.path.join(ROOT, "Test Runs", "_TEMPLATE - Company Run.md"),
     # Sector methods carry rules, so they are governing documents and must pass the same
     # test. Added 2026-09-02 with the insurer method: a rule that escapes the acceptance
@@ -57,7 +60,7 @@ DOCS = [
                  "float-bearing holding companies.md"),
     # The holdings framework governs owned positions, so it and its review surface pass the
     # same test. Added 2026-09-13 when the operator adopted it.
-    os.path.join(ROOT, "Framework", "THE HOLDINGS FRAMEWORK.md"),
+    os.path.join(ROOT, "Framework", "THE HOLDINGS FRAMEWORK v5.md"),
     os.path.join(ROOT, "Test Runs", "_TEMPLATE - Holding Review.md"),
     # The operator protocol and the prime rules moved out of CLAUDE.md on 2026-09-25, when
     # CLAUDE.md became the map of the project. Until then the protocol's own citations were

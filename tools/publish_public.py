@@ -21,9 +21,10 @@ DEFAULT_DEST = os.path.join(os.path.expanduser("~"), "BRK-public")
 
 # What the public copy withholds (NOTICE.md, "What the public copy withholds").
 DENY_PREFIXES = ("MBA - UNG/", "Curriculum/", "Test Runs/_research", ".claude/")
-DENY_EXACT = {"PORTFOLIO.md", "principle_ledger_v5.csv"}
+# 2026-10-05: v5 adopted, so principle_ledger_v5.csv is published (the governing documents cite it).
+DENY_EXACT = {"PORTFOLIO.md"}
 POINTER_DOCS = ("CLAUDE.md", "README.md", "Framework/README.md", "Framework/OPERATOR-PROTOCOL.md")
-UNBACKTICK = ("principle_ledger_v5.csv", "PORTFOLIO.md")
+UNBACKTICK = ("PORTFOLIO.md",)
 
 STUB_PORTFOLIO = """# PORTFOLIO.md — withheld from the public copy
 

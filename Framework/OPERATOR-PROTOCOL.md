@@ -6,7 +6,8 @@ project. The text below is the text that stood in `CLAUDE.md` that day, unchange
 correction notes; the rule numbers are unchanged, so every "operator rule 5" and "PRIME RULE 3" in
 the run files still points where it did. Two presentation changes only: the tools and the sovereign
 series are set as tables, and two file names are written in full. Where this file and the governing
-documents (`THE FRAMEWORK v4.md`, `THE HOLDINGS FRAMEWORK.md`) disagree, the corpus wins (PRIME RULE 2).*
+documents (`THE FRAMEWORK v5.md`, `THE HOLDINGS FRAMEWORK v5.md`; until 2026-10-05 the v4.1 pair, now in
+`ARCHIVE - v4.x (superseded 2026-10-05)/`) disagree, the corpus wins (PRIME RULE 2).*
 
 ---
 ## OPERATOR PROTOCOL — binds any session applying the framework to a company
@@ -112,7 +113,7 @@ backtests: `cap = close(anchor) × shares(measurement) × splits AFTER measureme
    Management's Discussion in the same file stay off the shelf as context. *(The case is
    `Framework/v5/CASE 2026-10-03 - v5 from the meetings, for the operator's approval.md`, CASE 2,
    approved in principle by the operator on 2026-10-03. The first rows of the class were written by the
-   v5 read on 2026-10-03 (the 1996 AM unit, principle_ledger_v5.csv, ids R1995-001 onward), and this
+   v5 read on 2026-10-03 (the 1996 AM unit, `principle_ledger_v5.csv`, ids R1995-001 onward), and this
    sentence was added the next morning: PRIME RULE 6, the row before the rule. The sections exist by
    those headings in the FY1995 to FY2017 reports only.)*
 5. **ASK BEFORE STRUCTURAL CHANGE.** Adding, merging or deleting a question requires a

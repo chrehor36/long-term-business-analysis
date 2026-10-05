@@ -1,107 +1,62 @@
-# HOLDING REVIEW - [TICKER] ([Company])
-**Date:** YYYY-MM-DD · **Governing document:** `Framework/THE HOLDINGS FRAMEWORK.md`
-**Occasioned by:** annual report / proxy statement / tripwire / price alert / replacement cleared / first review under the holdings framework
+# Holding Review — <COMPANY> (<TICKER>) — <YYYY-MM-DD>
+**Framework v5, holdings** (`Framework/THE HOLDINGS FRAMEWORK v5.md`). Governing rules: `Framework/OPERATOR-PROTOCOL.md`.
+A position already held. The review answers all six questions (none closes the file early), reads the pre-committed
+falsifier written at purchase, and ends in one of the review's four words. **Copy this file to its dated name before any
+fetch.**
 
-Copy to `Test Runs/YYYY-MM-DD Holding Review - TICKER Company.md` and fill top to bottom.
-**All five hold questions are answered.** None closes the file early.
-
----
-## BEFORE ANY QUESTION
-
-**1. Position.** Shares ____ · cost ____ · account: **taxable / tax-sheltered** · current price ____ (date, source, aggregator flagged)
-
-**2. Designation.** [ ] SECURITY (default) · [ ] PERMANENT, designated in writing on ____ in ____ **[E2-39, E1-02]**
-
-**3. The purchase thesis.** Run file that bought it: ____ · what it said at Q2: ____ · at Q4: ____ · exit metric set before entry **[E1-02]**: ____
-[ ] No thesis on file (position predates the framework): recorded, and H1 is judged against the current purchase run.
-
-**4. The filing was read** (operator rule 4). Documents, dates, accession numbers: ____ · one figure cross-checked against the filed statement: ____
-
-**5. Tripwires set at the last review, and whether any fired:** ____
+**The position:** ___ shares, basis ___, account (taxable or sheltered) ___, bought on (run file) ___. **The falsifier
+written at purchase** (the metric, the fact, the date; the CONVENTION in the purchase framework's Part II): ___.
 
 ---
-## H1 - IS THE BUSINESS'S ECONOMIC POSITION INTACT? [E4-17]
+## STEP 0 — THE RATE, THE PRICE, THE FILING
+Price (dated, source, flagged); shares from the latest cover (accession); market cap; the sovereign for the earnings
+currency (issuing authority, dated); the filings read since the last review (document, date, accession); one figure
+cross-checked.
 
-- Current purchase-framework Q2 verdict and its run file: ____
-- Competitor row, pricing power **[E2-44]**, durability **[E4-04]**: ____
-- Physical volume against price **[E4-55]**: ____
-- Aberrational cycle or permanent slip **[E3-30]**: ____
-- Key-person dependence **[E4-23]**: ____
-- **Was the business judged a franchise at purchase?** [ ] yes, and the view has / has not changed · [ ] no, held for its returns (H2 carries the weight)
-- **Has the view crystallized [E2-40]?** ____
-
-**VERDICT: IN / OUT / UNRESEARCHED (document: ____, due ____) / UNKNOWABLE**
+## THE GOVERNING RULE
+The default is to keep: "no exit strategy. We buy to keep." The quote is there to serve the holder, not instruct him.
+One line on which of these bears today, with ids.
 
 ---
-## H2 - IS THE PROSPECTIVE RETURN ON EQUITY CAPITAL SATISFACTORY? [E2-28]
+## Q1 — WHAT HAS MOVED, the business or only its price?
+STOP against selling on price alone; a silly price is a weighing. State what moved, with the filing facts and ids.
+**WEIGHS FOR KEEPING / AGAINST / UNDECIDED.**
 
-- Return on capital employed, and why this measure rather than raw return on equity **[E2-01]**: ____
-- Owner earnings on the purchase framework's default window, both (c) ends: ____
-- Retention test, rolling five years, where earnings are retained **[E3-54]**: ____
-- Forward view: is any decline under way, and is it aberrational **[E3-30]**: ____
+## Q2 — HAS THE CASTLE CHANGED?
+The purchase framework's Q2 tests re-read on current filings and the competitor row; the threat graded minor, major or
+life-threatening, with action at the life-threatening grade. **WEIGHS FOR / AGAINST / UNDECIDED.**
 
-**VERDICT: IN / OUT / UNRESEARCHED (document: ____, due ____) / UNKNOWABLE**
+## Q3 — HAS THE MANAGEMENT CHANGED, or changed after being paid?
+Ability as a weighing; lost trust presses prompt action. Pay from the latest proxy. **WEIGHS FOR / AGAINST / UNDECIDED.**
 
----
-## H3 - IS MANAGEMENT COMPETENT AND HONEST? [E2-28]
+## Q4 — IS THE MONEY KEPT STILL BECOMING MORE THAN A DOLLAR?
+The retention test in its corrected two-leg form; buybacks against the range; the one STOP on putting further money into
+a business that consumes it. **WEIGHS FOR / AGAINST / UNDECIDED.**
 
-- Honesty: the purchase framework's Q3 flags on the latest proxy and annual report: ____
-- Capital allocation, and loss of focus **[E3-40]**: ____
-- Share issuance **[E5-15]**: ____
-- If capital is being misallocated and will continue: exit, do not engage **[E4-24]**: ____
+## Q5 — IS THERE A PLAINLY BETTER USE FOR THIS MONEY?
+Done with the holder's own list of positions open: the comparison is against the least attractive thing held and against
+the bond; for marketable holdings only. **WEIGHS FOR / AGAINST / UNDECIDED.**
 
-**VERDICT: IN / OUT (honesty / capital allocation) / UNRESEARCHED (document: ____, due ____) / UNKNOWABLE**
-
----
-## H4 - DOES THE MARKET NOT OVERVALUE THE BUSINESS? [E2-28]
-
-[ ] PERMANENT: H4 skipped **[E2-39]**.
-
-- Sovereign for the earnings currency, issuing authority, dated **[E4-21]**: ____
-- Growth the record supports, against the base rate **[E4-35]** and the bound **[E4-44]**: ____
-- **Value range** (a range, never a point **[E4-25]**): ____ to ____ per share
-- Price against the range: [ ] above the whole range · [ ] inside · [ ] below
-- *The ~10% floor [E4-28] is a buying rule and is not applied here.*
-
-**VERDICT: IN (inside or below) / OUT (above the whole range) / UNRESEARCHED / UNKNOWABLE**
+## Q6 — WAS IT A MISTAKE TO BUY, now recognised?
+Re-read the purchase run and the falsifier. A purchase-framework OUT at Q1 to Q5 on today's filings is a recognised
+mistake and the whole-position rule applies; a TOO HARD is a confession of ignorance, not a finding. **WEIGHS FOR /
+AGAINST / UNDECIDED.**
 
 ---
-## H5 - IS HOLDING STILL THE BEST USE OF THIS MONEY? [E2-28]
+## THE REVIEW'S WORD (CONVENTION, Part II A)
+**KEEP / WATCH / SELL / NO ADD**, with the question that set it. WATCH names the fact that would move it and when it is
+next read. An add runs the purchase framework in full; a name the purchase framework now puts in TOO HARD or OUT is not
+added to, whatever the price.
 
-- Named replacement that has cleared the purchase framework, with its run file: ____ · [ ] none
-- Switching bar for this account: tax **[E2-46, E3-64]** ____ · friction **[E3-67]** ____ · material gap **[E4-45]** ____
-- Tax never vetoes a sale H1 to H4 require **[E3-64]**.
+## THE NEXT REVIEW'S FALSIFIER
+Written now, before any act: the metric, the fact, the date.
 
-**VERDICT: IN (no replacement clears) / OUT (replacement ____ clears the bar)**
-
----
-## OUTCOME
-
-| H1 | H2 | H3 | H4 | H5 |
-|---|---|---|---|---|
-| | | | | |
-
-**OUTCOME: HOLD / SELL REVIEW / SELL** · **ADDS: BARRED / OPEN** (open only if a current purchase-framework run clears all six questions at the add price)
-
-- If SELL REVIEW: the question, the document that settles it, and its due date. It concludes HOLD or SELL when read and is not renewed without new evidence **[E2-40]**.
-- If SELL: the whole position, and the reason in one sentence.
-
-**Reasons NOT used** (confirm none drove the outcome): [ ] the price rose **[E2-28]** · [ ] held a long time **[E2-28]** · [ ] position grew large **[E5-14]** · [ ] a wish to act **[E3-15, E3-35]** · [ ] the purchase framework would not buy it today
-
----
-## TRIPWIRES FOR THE NEXT REVIEW, set now, before the act [E1-02]
-
-- H1: ____
-- H2: ____
-- H3: ____
-- H4: price band ____ (COMPUTATION — NOT A CLEARANCE)
-- Next scheduled document: ____ due ____
-
----
 ## SELF-AUDIT
-- [ ] All five questions answered; each non-IN verdict names its document or states why none exists
-- [ ] H1 asked separately from H2; a purchase-framework Q2 of OUT treated as evidence, not as the H1 verdict
-- [ ] The floor was not applied at H4; the range was built against the sovereign
-- [ ] Any add routed to the purchase framework
-- [ ] Every judgment cited by ledger id (the division of labor in `Framework/OPERATOR-PROTOCOL.md`)
-- [ ] `python tools/check_framework.py` PASS
+- [ ] All six questions answered; every v5 id resolves; every filing fact has its accession; no number without a row or
+      a filing.
+- [ ] The falsifier written at purchase was read and its result stated.
+- [ ] Owner cash after every real cost, never a net-income proxy; the sovereign from the issuing authority.
+- [ ] `python tools/check_framework.py` PASS before the commit. `PORTFOLIO.md` updated in the same commit.
+
+## WHAT IN THE FRAMEWORK WAS WRONG OR UNCLEAR
+One paragraph.

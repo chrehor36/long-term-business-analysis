@@ -1,8 +1,9 @@
-# THE HOLDINGS FRAMEWORK — v5 (DRAFT, not in force)
+# THE HOLDINGS FRAMEWORK — v5
+**In force from 2026-10-05**, adopted with the purchase framework under `Framework/v5/RULING CASE 2026-10-05 - adopt v5, for the operator's approval.md`, replacing the holdings framework of 2026-09-13, kept at `Framework/ARCHIVE - v4.x (superseded 2026-10-05)/THE HOLDINGS FRAMEWORK.md`. The review surface is `Test Runs/_TEMPLATE - Holding Review.md`. The first review of every held name under this document is owed (HRB, MITSY, NCLTY, V, TBTC); the v5 regression runs of 2026-10-04 are the starting point for each.
 
 **2026-10-04. Drafted from `principle_ledger_v5.csv` (the blind read of the Berkshire annual-meeting transcripts, 1994 to 2025, and the letters and signed annual-report sections they discuss), under the structure the operator approved on 2026-10-04 (`Framework/v5/synthesis/STRUCTURE DECISION 2026-10-04.md`, item 3: selling is asked after purchase, as the rows state it, and is the spine of this document).**
 
-This is a candidate. It governs nothing. The current holdings framework governs every review of a position until a ruling case, written with quotes and put to the operator, says otherwise; until then this document is read, tested and argued with, and never applied to a holding.
+*(This paragraph read, from 2026-10-04 to 2026-10-05: "This is a candidate. It governs nothing. The current holdings framework governs every review of a position until a ruling case, written with quotes and put to the operator, says otherwise." The ruling case was approved on 2026-10-05.)* This document governs every review of a position held from 2026-10-05. An add runs the purchase framework in full (Part IV).
 
 **The standard.** Every rule is a verbatim quote from `principle_ledger_v5.csv`, with its id in bold and its year. Every number either carries the row it comes from or is labelled CONVENTION with a one-line rationale; otherwise it is not written. An absence is worded "no instance found in the v5 ledger" with the search that looked for it. Where the speakers pull against each other, the pull is carried as an open question in section V, not settled by preference.
 
@@ -201,6 +202,8 @@ Accepting retention because management promises to use it well **[M1998-110]**; 
 3. **Do I have more ideas than money, or more money than ideas?** The reason changes with the holder's position: "Forty years ago my sales were all because I found something that I liked even better. I hated to sell what I sold, but I also didn’t want to borrow money, so I would reluctantly sell something that I thought was terribly cheap to buy something that was even cheaper. Those were the times when I had more ideas than money. Now I’ve got more money than ideas, and that’s a different equation." **[M2002-004]**; "my decision to sell almost always was based on the fact that I found something else I was dying to buy." **[M2000-055]**. With more money than ideas, "the option is cash" **[M2007-105]**, and a holding is not sold to raise cash that will sit.
 4. **Is the boat sinking, and is the other seaworthy?** "Don't bail away in a sinking boat if you can swim to one that is seaworthy." **[L2022-014]**.
 
+**The review is done with the list in front of the holder.** Q5 is answered with the holder's own list of positions open, because its comparison is against the least attractive thing he holds **[M2007-104]** and against the government bond, the yardstick every use of money must beat (purchase draft Q8, **[M1997-089]**). A session barred from the list records Q5 as undecided, with the reason, and does not guess the answer. *(correction pass 2026-10-05: gap (c) of the ruling case, section 5; both HRB analysts of Test A' left Q5 undecided because the protocol barred the portfolio file.)*
+
 ### Why it is a WEIGHING
 
 The rows call this the ideal reason for a sale **[M1998-013]** and narrate its cost in the same breath: "the Disney sale in the ’60s was a huge mistake. I should have been buying, forget about holding, and — That’s happened many times. I mean, we think that anything we sell should go up subsequently, because we own good businesses and we may sell them because we need money for something else, but we still think they’re good businesses, and we think good businesses are going to be worth more over time." **[M1998-100]**; the GEICO stake sold early **[L1995-012]**. For controlled businesses the rows refuse this reason outright: "simply because we can use the money better someplace else, we’re not interested in it." **[M2001-097]**; "we’ll never sell a business to buy some other business." **[M2011-099]**. So the better use is weighed for marketable holdings and refused for whole businesses (section III).
@@ -226,6 +229,8 @@ Selling a wonderful business for a marginally better idea **[M1999-079]**, **[L1
 3. **Am I working backwards from the answer I want?** "The usual cause of failure is that they start with the answer they want and then work backwards to find a supporting rationale." **[L2012-012]**; and the rows' antidote, "We really try and destroy our previous ideas." **[M2016-054]**.
 4. **If I change my mind, is it the whole position?** "when we change our mind, we don’t take half measure or anything of the sort." **[M2020-020]**; "We don't back into decisions." **[L1998-021]**.
 
+**What the purchase draft's verdict on a held name means here.** A purchase-draft TOO HARD on a held name is not by itself a recognised mistake: the box is a confession of the analyst's ignorance, "It just means that we don’t know how to evaluate it." **[M2000-038]**, not a finding against the business. A purchase-draft OUT at Q1 to Q5 is a recognised mistake, because it is a finding that the business, the castle, the accounts or the people fail on the evidence, which is the "mistake when we went into it" of **[M2009-040]**; the whole-position rule then applies, "we don’t take half measure" **[M2020-020]**. *(correction pass 2026-10-05: gap (c) of the ruling case, section 5; the regression's held names reached TOO HARD under the purchase draft (HRB, TBTC, MITSY) and no line said whether that was this question's finding.)*
+
 ### Why it is a WEIGHING on the finding, and why the rows press action once it is made
 
 Whether the purchase was a mistake is judged: the airlines were "a probability-weighted decision" **[M2020-017]**, and a bad result is not proof of a bad decision. Once the finding is made, the rows narrate only the cost of delay: textiles, "recognizing reality, when it’s really awful, and taking appropriate action, just involves, often, just the most elementary good sense." **[M2022-038]**; "I myself delayed abandoning our obsolete textile mills for far too long." **[L2014-016]**; Tesco **[L2014-003]**; "generally, you do it, probably, a little too late, even, because you keep hoping the business will bounce back up" **[M2009-090]**. The same rows also say, "Agonizing over errors is a mistake. But acknowledging and analyzing them can be useful" **[L2000-014]**.
@@ -233,6 +238,19 @@ Whether the purchase was a mistake is judged: the airlines were "a probability-w
 ### What it rules OUT
 
 Keeping a recognised mistake to avoid admitting it **[L2014-016]**, **[L2012-012]**; a half measure once the mind is changed **[M2020-020]**; and selling a good holding because its price fell and calling that a recognised mistake (Q1).
+
+---
+
+# II A. THE REVIEW'S FOUR WORDS (CONVENTION)
+
+**CONVENTION (ours, confessed 2026-10-05).** The rows give verbs, not verdicts (section VI, item 2): keep holding, buy more, neither buy nor sell, sell the whole stake. For the record of a review, this draft names four outcomes. They are ours; the rows supply what each one rests on, not the words. Rationale: the ruling case records that four of the six held names in the tests reached an intermediate state between keeping and selling that the draft could not name, and a review with no outcome cannot be compared with the next one.
+
+- **KEEP.** No question of section II weighs toward sale. The default, "when in doubt, keep holding" **[M2009-040]**.
+- **WATCH.** One or more questions weigh toward sale and no action follows yet. The review names the fact that would move it to SELL or back to KEEP, and when that fact is next read; the alertness is **[M2016-081]**'s, and the continuous thought without action is **[M2007-105]**'s.
+- **SELL.** A STOP fires, or the weights are judged to have crystallised into one of the reasons the rows give for selling: lost confidence in the management, lost confidence in the durability of the advantage, or a mistake recognised **[M2009-040]**. The sale is of the whole position, promptly **[M2020-020]**, **[L2008-003]**.
+- **NO ADD.** The add rule of section IV bars new money: the purchase draft puts the name in TOO HARD or OUT, or it is IN but fails Q7 or Q8. NO ADD is recorded beside KEEP or WATCH, not instead of them.
+
+*(correction pass 2026-10-05: gap (e) of the ruling case, section 5.)*
 
 ---
 
@@ -271,6 +289,8 @@ The rows carry the idea in part. They treat buying more of a holding as a purcha
 **The add competes with the alternatives.** "The cost of every deal we do is measured by the second best deal that’s around at a given time, including more — doing more of some of the things we’re already in." **[M2001-084]**; "Why would I rather have this than more Coca-Cola?" **[M1995-105]**. The comparison runs both ways: more of the holding is the yardstick for anything new, and anything new is the yardstick for more of the holding.
 
 **What the add borrows from the first purchase.** The rows let the add rest on knowledge already earned: "those are companies we know, understand, obviously like to some degree." **[M2007-107]**. A row that says an add must pass again every question asked at purchase (understanding, the castle, the people, the use of money): no instance found in the v5 ledger, by a search of the quote text for "new money", "add to", "adding to", "buy more", "bought more" and "more of", and by reading the rows that search returned. The nearest are L1994-032 and M2007-107, which assume the knowledge carries over, and the questions of section II, which an owner asks of the holding whether or not he adds. This draft therefore reads an add as a purchase on price (purchase draft Q7) and on the comparison (purchase draft Q8), with the holding's answers to the questions of section II standing in for the purchase draft's Q1 to Q6; that reading is the drafter's.
+
+**The add rule, as corrected.** An add to a held name runs the purchase draft in full, Q1 to Q10. A name the purchase draft now puts in TOO HARD or OUT is not added to, whatever the price. A name that is IN at every STOP is added to only through Q7 and Q8: the price must clear the floor and the range, and the add must beat Q8's "more of what I already own", whose measuring stick is the best thing already held **[M1995-106]**, **[M2001-084]**. This is a CONVENTION, ours: the absence recorded above stands (no row says an add must pass every purchase question again); rationale: new money is a new purchase, and the rows let the add rest on knowledge "we know, understand" **[M2007-107]**, which the purchase questions are the only way to show is still held. *(correction pass 2026-10-05: gap (d) of the ruling case, section 5; the paragraph above, which let the section II answers stand in for Q1 to Q6, is kept as the record and is superseded by this one.)*
 
 **The add the rows refuse.** No further money into a business that will chew it up **[L2023-010]**, **[M2020-026]**; and the textile lesson, buying more of what is failing: "in a final burst of brilliance, I went out and bought another textile company." **[L2010-004]**. The sizing rows of the purchase draft (Q10) govern the size of an add: "if we like a business, we’re going to buy as much of it as we can and keep it as long as we can." **[M2020-020]**.
 
@@ -314,7 +334,7 @@ Each absence below is a finding about the v5 ledger and the searches named, not 
 8. **Tax-loss selling.** No instance found in the v5 ledger by a search of the quote text for "tax" followed closely by "loss" or "harvest", and for "wash sale". The tax rows that touch selling are **[M2023-035]**, **[M1998-060]** and **[L1993-008]**.
 9. **A fixed review calendar.** No instance found in the v5 ledger of a set date or interval for reviewing a holding. Searched: the quote text for "review" and the selling rows above. The rows that give a span are the yearly moat test **[L2007-016]**, **[M2000-075]**, the "three or four years" or five years of the retention check **[M1998-110]**, **[R1995-009]**, and the monthly figures of **[M2016-074]**, which are about Berkshire's own subsidiaries.
 
-**CONVENTION.** None is used in sections I to IV. Should a review need named outcomes (item 2), they are a CONVENTION, labelled when written, with the rationale that the rows give verbs and not verdicts.
+**CONVENTION.** None is used in sections I to IV. Should a review need named outcomes (item 2), they are a CONVENTION, labelled when written, with the rationale that the rows give verbs and not verdicts. *(correction pass 2026-10-05: two are now used. The review's four words, section II A, are the named outcomes of item 2, labelled there; and the add rule of section IV, which goes past the absence of item 6, is labelled where it stands. Items 2, 3 and 6 remain true of the ledger.)*
 
 ---
 
@@ -326,11 +346,11 @@ Each absence below is a finding about the v5 ledger and the searches named, not 
 4. Q2: ask whether the moat widened and the earnings rose, allowing for the industry, and grade any threat minor, major or life-threatening against the ten-year view of the purchase **[L2007-016]**, **[M2016-081]**, **[M2000-054]**.
 5. Q3: ask whether the management has changed, or changed after being paid, and whether trust has been lost **[M2016-066]**, **[L2014-003]**.
 6. Q4: read what the company did with the money it kept, over a span of years, including its buybacks and issues **[M1998-110]**, **[L2011-003]**.
-7. Q5: ask whether a plainly better use exists, for marketable holdings only **[M1998-013]**, **[M2001-097]**.
-8. Q6: ask whether the purchase was a mistake; once found, act on the whole position and promptly **[M2020-020]**, **[L2008-003]**.
+7. Q5: ask whether a plainly better use exists, for marketable holdings only, with the holder's list of positions open; barred from it, record Q5 undecided **[M1998-013]**, **[M2001-097]**, **[M2007-104]**. *(correction pass 2026-10-05: gap (c).)*
+8. Q6: ask whether the purchase was a mistake; a purchase-draft OUT at Q1 to Q5 is one, a purchase-draft TOO HARD is not by itself; once found, act on the whole position and promptly **[M2020-020]**, **[L2008-003]**, **[M2000-038]**. *(correction pass 2026-10-05: gap (c).)*
 9. For a whole business, the only exits are the cash drain and the labour exception **[M2009-041]**; no further money goes into a business that will chew it up **[L2023-010]**.
-10. An add is answered as a purchase on price and on the comparison with every other use (section IV).
-11. Record each answer with its STOP or WEIGHING and its ids; every judgment cites a v5 id, or it is labelled an opinion. No named outcome is given; if one is needed it is a CONVENTION (section VI, item 2).
+10. An add runs the purchase draft in full; a TOO HARD or OUT name is not added to, and an IN name is added to only through Q7 and Q8 (section IV, the add rule as corrected, a CONVENTION) **[M1995-106]**. *(correction pass 2026-10-05: gap (d); the step read "An add is answered as a purchase on price and on the comparison with every other use (section IV).")*
+11. Record each answer with its STOP or WEIGHING and its ids; every judgment cites a v5 id, or it is labelled an opinion. No named outcome is given; if one is needed it is a CONVENTION (section VI, item 2). The review closes on one of the four words of section II A, a CONVENTION, with NO ADD recorded beside it where it applies. *(correction pass 2026-10-05: gap (e).)*
 
 ---
 

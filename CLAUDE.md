@@ -3,7 +3,8 @@
 
 A Buffett and Munger citation shelf, an investment framework built only from verbatim quotes in that
 shelf, and the record of every business run through it. Two questions govern: **should I buy this?**
-(`Framework/THE FRAMEWORK v4.md`) and **should I keep what I own?** (`Framework/THE HOLDINGS FRAMEWORK.md`).
+(`Framework/THE FRAMEWORK v5.md`) and **should I keep what I own?** (`Framework/THE HOLDINGS FRAMEWORK v5.md`). *(v5
+adopted 2026-10-05; v4.1 governed from 2026-08-28 and is kept in `Framework/ARCHIVE - v4.x (superseded 2026-10-05)/`.)*
 **Ignore `MBA - UNG/`.** It is university coursework that shares this repository. Do not read it, search it,
 cite it or edit it during framework work, and leave its uncommitted changes out of every commit. Open it only when the
 operator asks about the coursework by name. `Curriculum/` is a class charter and is likewise out of scope;
@@ -21,8 +22,8 @@ it is read. If the import did not load, open `Framework/OPERATOR-PROTOCOL.md` no
 | | File | Why |
 |---|---|---|
 | ① | `Framework/OPERATOR-PROTOCOL.md` | binding; the rules of work |
-| ② | `Framework/THE FRAMEWORK v4.md` | should I buy this? Every purchase and every add, because an add is a purchase |
-| ③ | `Framework/THE HOLDINGS FRAMEWORK.md` | should I keep what I own? H1 to H5, four outcomes |
+| ② | `Framework/THE FRAMEWORK v5.md` | should I buy this? Every purchase and every add, because an add is a purchase. The foundations, the standing rule, Q1 to Q12 in the speakers' order, three boxes |
+| ③ | `Framework/THE HOLDINGS FRAMEWORK v5.md` | should I keep what I own? Six hold questions, the review's four words |
 | ④ | `Screens/RESUME STATE 2026-09-12 - Opus session, note for Fable.md` | the session-state file; its last dated section says where everything stood when the previous session closed and what to do next |
 | ⑤ | `Screens/WATCHLIST RUN QUEUE.md` | the register of every run under `## COMPLETED FROM THE QUEUE`, the wave lists, the write-early protocol, the claim-at-dispatch rule, the FOLD. Append-only; search by ticker; count the register from the file |
 
@@ -39,15 +40,16 @@ corpus folder PRIME RULE 4 does not admit.
 | Path | What it is | Status |
 |---|---|---|
 | `Framework/OPERATOR-PROTOCOL.md` | operator protocol, prime rules, tools test, sovereign sources, the standard | GOVERNING |
-| `Framework/THE FRAMEWORK v4.md` | the purchase framework. Four verdicts: IN · OUT · UNRESEARCHED · UNKNOWABLE. Six questions, stop at the first not IN: Q1 — CAN I UNDERSTAND HOW THIS MAKES MONEY? · Q2 — IS IT A FRANCHISE? · Q3 — ARE THEY HONEST, AND ARE THEY RATIONAL? · Q4 — WILL IT SURVIVE? · Q5 — WHAT IS IT WORTH, AGAINST A GOVERNMENT BOND? · Q6 — WHAT WOULD PROVE ME WRONG, AND WHEN DO I SELL? | GOVERNING |
-| `Framework/THE HOLDINGS FRAMEWORK.md` | the framework for positions already owned; outcomes HOLD, SELL REVIEW, SELL, ADDS BARRED | GOVERNING |
+| `Framework/THE FRAMEWORK v5.md` | the purchase framework, in force from 2026-10-05, built by a blind read of the annual meetings. Three boxes: IN · OUT · TOO HARD. A preamble of foundations (not a gate), a standing rule (the buyer's own ruin), then Q1 to Q12 in the speakers' order: Q1 can I understand it (STOP) · Q2 why is the castle still standing (STOP) · Q3 how much capital must go in (weighing) · Q4 do the numbers show what it earns (STOP on confusion) · Q5 who runs it (STOP on integrity) · Q6 what will they do with the money and the owners (weighing) · Q7 what is it worth (STOP) · Q8 better than the alternatives (STOP) · Q9 could it ruin us (weighing) · Q10 the fat pitch (weighing) · Q11 having bought, has the business changed (the holdings question) · Q12 would we be proud of how the money is made. Its confessed conventions are in Part VI | GOVERNING |
+| `Framework/THE HOLDINGS FRAMEWORK v5.md` | the framework for positions already owned, in force from 2026-10-05: six hold questions; the review's four words KEEP, WATCH, SELL, NO ADD (a convention); an add runs the purchase framework in full | GOVERNING |
+| `Framework/ARCHIVE - v4.x (superseded 2026-10-05)/` | v4.1 (`Framework/ARCHIVE - v4.x (superseded 2026-10-05)/THE FRAMEWORK v4.md`, six questions, four verdicts) and the holdings framework of 2026-09-13 (`Framework/ARCHIVE - v4.x (superseded 2026-10-05)/THE HOLDINGS FRAMEWORK.md`), as they stood when superseded, with the corrections of 2026-10-04 and 2026-10-05 in them. Runs dated 2026-08-28 to 2026-10-04 bind under them as recorded. Never applied again | ARCHIVE |
 | `Framework/SECTOR METHOD - owner earnings for insurers and float-bearing holding companies.md` | insurers and float companies: two components plus a judgment, never an owner-earnings number | GOVERNING |
-| `Framework/v4/THE MANAGER STANDARD - Q3.md` | the Q3 manager rules from a full-shelf read; v4 and the run template cite it, the acceptance test does not read it | INCORPORATED BY REFERENCE |
+| `Framework/v4/THE MANAGER STANDARD - Q3.md` | the Q3 manager rules from a full-shelf read; v4.1 incorporated it by reference until 2026-10-05; v5's Q5 and Q6 carry the manager tests from the meetings | v4 record |
 | `Framework/README.md` | which framework document to use | LIVE |
 | `Framework/PLAIN ENGLISH - what this is and how it works.md` | the non-technical front door; the governing document wins where they differ | supporting |
 | `Framework/INVENTIONS - deleted and why.md` | the numeric rules v4 deleted and what each deletion cost | supporting |
 | `Framework/v4/` | the proofs and tests: `Framework/v4/PROOF - tests A, B and C, and what they found.md`, the TEST D pair (preregistration and findings register, closed at zero), `Framework/v4/TEST E - PREREGISTRATION - the loss leg.md`, `Framework/v4/BT-17 - PREREGISTRATION - SP500 replication and the microcap panel.md`, `Framework/v4/VERIFICATION - the two cases that decide the deletions.md` (Citigroup and Coca-Cola, worked), the REGRESSION and RERUN files on the live names, `Framework/v4/RULING CASE 2026-09-20 - two Q2 readings the corpus decides, for the operator's approval.md` (applied the same day), three TOOL TEST admissions, `Framework/v4/testB/` (the sealed blind cases), `Framework/v4/ledger_v4_additions.py` (spent) | test record |
-| `Framework/v5/` | **v5, a candidate built by a blind read of the annual meetings, not in force** (started 2026-10-03 at the operator's instruction; v4.1 governs until a ruling case the operator approves): `Framework/v5/CASE 2026-10-03 - v5 from the meetings, for the operator's approval.md` (the PRIME RULE 5 and PRIME RULE 4 case), `Framework/v5/PREREGISTRATION - v5 blind read and comparison.md` (the design, the blind rule, the pass rules, fixed before any transcript was read), `Framework/v5/READING REGISTER.md` (append-only, one entry per unit), `Framework/v5/notes/` (one note per unit). The drafts, the reconciliation and the ruling case are written here when the read is done | candidate, test record |
+| `Framework/v5/` | **the record of how v5 was built, tested and adopted** (started 2026-10-03 at the operator's instruction; adopted 2026-10-05 under `Framework/v5/RULING CASE 2026-10-05 - adopt v5, for the operator's approval.md`, option B; the reconciliation is `Framework/v5/RECONCILIATION - v5 against v4.1.md`, the five tests `Framework/v5/TESTS - A prime, B prime and the regression - results.md` with the fifteen runs and the PG pair in `Framework/v5/tests/`, the PRIME RULE 5 case on PERMANENT and the retention test `Framework/v5/CASE 2026-10-05 - the PERMANENT designation and the retention test, for the operator's approval.md`, the theme maps and section drafts in `Framework/v5/synthesis/`): `Framework/v5/CASE 2026-10-03 - v5 from the meetings, for the operator's approval.md` (the PRIME RULE 5 and PRIME RULE 4 case), `Framework/v5/PREREGISTRATION - v5 blind read and comparison.md` (the design, the blind rule, the pass rules, fixed before any transcript was read), `Framework/v5/READING REGISTER.md` (append-only, one entry per unit), `Framework/v5/notes/` (one note per unit). The drafts, the reconciliation and the ruling case are written here when the read is done | candidate, test record |
 | `Framework/ARCHIVE - RULINGS 1-14 (resolved into v4, 2026-08-26).md`, `Framework/ARCHIVE - v3.x (superseded 2026-08-26)/`, `Framework/ARCHIVE - May 2026 (superseded)/`, `Framework/CHANGELOG.md` (frozen at v3.0), `Framework/2026-08-26 AUDIT - What Actually Works, and What To Cut.md`, `Framework/2026-08-26 THE FIVE PASSAGES - Synopsis and Rulings.md` | how v4 was reached. Never applied | ARCHIVE |
 
 ### The corpus
@@ -74,7 +76,7 @@ flagged, never smoothed (PRIME RULE 1).
 | Path | What it is | Status |
 |---|---|---|
 | `principle_ledger.csv` | the evidence base: one verbatim passage per row with year and source file; every `[Ex-nn]` in a governing document resolves to a row here; check 4 reads every row against its source on every run. Count it from the file, never from a pointer; this map carries no count on purpose | LIVE |
-| principle_ledger_v5.csv | the v5 blind-read ledger (2026-10-03): the same first eight columns plus speaker, kind, heading and unit; ids M, L and R by source folder; rows enter only through `tools/v5_ledger.py`, which matches each quote against its source before appending; checks 3 and 4 of the acceptance test read it whenever it exists. Not cited by any governing document | LIVE, candidate evidence |
+| `principle_ledger_v5.csv` | the v5 blind-read ledger (2026-10-03): the same first eight columns plus speaker, kind, heading and unit; ids M, L and R by source folder; rows enter only through `tools/v5_ledger.py`, which matches each quote against its source before appending; checks 3 and 4 of the acceptance test read it whenever it exists. **From 2026-10-05 the evidence base of the governing documents**: every M, L or R id in `Framework/THE FRAMEWORK v5.md` and `Framework/THE HOLDINGS FRAMEWORK v5.md` resolves to a row here. `principle_ledger.csv` stays LIVE as the evidence base of the archived v4.1 and of the operator protocol's own citations. Count both from the files | LIVE |
 | PORTFOLIO.md | holdings, standing lines, the ranked opportunity set, reviews owed | LIVE |
 | `README.md` | the human front door to the repository | LIVE |
 | `Framework/ARCHIVE - May 2026 (superseded)/claims_audit.csv` | the audit of the May 2026 edition's claims (at the root until 2026-09-26; every VERIFIED row re-verified against the shelf that day) | HISTORY |
@@ -87,11 +89,12 @@ flagged, never smoothed (PRIME RULE 1).
 |---|---|---|
 | `Test Runs/_TEMPLATE - Company Run.md` | the run surface for a purchase; its self-audit is the enforcement surface (operator rule 1) | GOVERNING |
 | `Test Runs/_TEMPLATE - Holding Review.md` | the review surface for a holding | GOVERNING |
-| `<date> Run - <TICKER> <name>.md` | one company run each; a run dated before 2026-08-28 is pre-v4.1 and binds nothing | record |
+| `<date> Run - <TICKER> <name>.md` | one company run each; a run dated before 2026-08-28 is pre-v4.1 and binds nothing; a run dated 2026-08-28 to 2026-10-05 binds under the archived v4.1; a run dated after 2026-10-05 binds under v5 | record |
 | `_research <date> <TICKER>/` | the research folder of a run; raw filings are gitignored | record |
 | `ADDENDUM <date> - <title>.md` | a correction filed after the fact, the operator-rule-6 mechanism; a run file is never edited | record |
 | `Test Runs/2026-09-21 RE-LOOK - CRM Salesforce at the first level.md`, `Test Runs/2026-09-18 Q2 FRANCHISE TEST - NCLTY Nitori.md` | the pre-committed re-look at a first level, and a single-question test | record |
-| `Test Runs/README - which run files are in force.md` | the rule: a run binds if dated 2026-08-28 or later AND named in the register. Its lists stop at 2026-09-20; where it and the register disagree, the register wins | supporting |
+| `Test Runs/README - which run files are in force.md` | the rule: a run binds if dated 2026-08-28 or later AND named in the register, under the edition in force on its date (its dated note of 2026-10-05 gives the two-part rule). Its lists stop at 2026-09-20; where it and the register disagree, the register wins | supporting |
+| `Test Runs/_ARCHIVE - Company Run TEMPLATE v4.1 (superseded 2026-10-05).md`, `Test Runs/_ARCHIVE - Holding Review TEMPLATE v4 (superseded 2026-10-05).md` | the v4.1 templates, the surfaces every run and review of 2026-08-28 to 2026-10-05 was written on | ARCHIVE |
 | `Test Runs/_ARCHIVE - Company Run TEMPLATE v3.0 (superseded 2026-08-26).md`, `Test Runs/_ARCHIVE - Company Run TEMPLATE v3.1 (superseded 2026-08-26).md` | the v3 templates | ARCHIVE |
 
 ### Screens/

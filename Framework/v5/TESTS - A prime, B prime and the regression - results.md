@@ -113,3 +113,26 @@ report stood in for NCLTY and MITSY.
 
 The ruling case for adoption can now be written. It carries these five results, the six load-bearing PARTLY rules, the
 drafts' recorded gaps, and the PERMANENT finding against v4.1.
+
+## The re-test after the correction pass, 2026-10-05: PG, two analysts
+**Pass rule, as for Test A':** the same verdict at every question. Price $144.91 (close 2026-10-02, aggregator, flagged);
+sovereign 5.63%. Both analysts worked under the corrected draft, including the Q7 range convention and the two kept
+conventions.
+
+| | PG analyst 1 | PG analyst 2 |
+|---|---|---|
+| Q1 | IN | IN |
+| Q2 | IN (same-metric row against Kimberly-Clark) | IN (same-metric row against Colgate) |
+| Q3 | weighs for | weighs for |
+| Q4 | no STOP; weighs for | no STOP; weighs against ("Core EPS" with recurring restructuring; no make-the-numbers habit) |
+| Q5 | IN on integrity; ability undecided | IN on integrity; ability undecided |
+| Q6 | weighs against (a fixed $5bn buyback with no price, above the range) | weighs against (same, and the combined chair) |
+| Q7 | **OUT**: about $103 to $130 a share against $144.91; return at the price about 5.1% | **OUT**: about $105 to $135 against $144.91; return 5% to 7%, below the floor |
+| The box | OUT at Q7 | OUT at Q7 |
+
+**Result: PASS.** Every STOP and the box agree, and the two ranges built under the new convention overlap almost
+entirely; one weighing (Q4) diverged, as on TJX. v4.1's verdict of record for PG (wave 7, 2026-09) was Q1 to Q4 IN and
+quit on at the floor: the same practical result. **Both analysts named the same four open inputs in the Q7 convention**
+(aggregate or per-share growth; all capex or maintenance; "no real growth" against a nominal rate; the close when the
+price sits above the range), plus the Q6 buyback test's dependence on Q7; the convention paragraph was given those
+specifics the same day. Option B's gate is met.

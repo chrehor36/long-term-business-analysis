@@ -259,6 +259,11 @@ def main():
                          "[E3-42] calls a per-name rate premium mathematical gibberish. "
                          "Exposed only so a deliberate departure has to be typed.")
     ap.add_argument("--write", action="store_true", help="write the run file")
+    # 2026-10-05: the v5 test runs found this tool printing v4 ledger ids and the v4 floor into blind
+    # runs. The arithmetic is framework-free and always prints; the v4 commentary prints only under
+    # --framework v4, and --write fills the template of the framework named.
+    ap.add_argument("--framework", choices=("v4", "v5"), default="v5",
+                    help="which framework's template --write fills and whose commentary prints")
     a = ap.parse_args()
     t = a.ticker.upper()
 
@@ -285,8 +290,8 @@ def main():
     if ins and not a.shares:
         print(f"{t}: SIC {sic} ({sicdesc}) is an insurer.")
         print("  THIS SCRIPT CANNOT PRICE IT. Operating cash flow contains float growth,")
-        print("  which is borrowed money [E2-61], and investment income, which belongs to a")
-        print("  portfolio nothing here values [E5-48]. The yield would be overstated.")
+        print("  which is borrowed money, and investment income, which belongs to a")
+        print("  portfolio nothing here values. The yield would be overstated.")
         print("  USE Framework/SECTOR METHOD - owner earnings for insurers and")
         print("  float-bearing holding companies.md, which values two components separately.")
         print("  (Pass --shares to override if you have already made the corrections.)")
@@ -327,10 +332,11 @@ def main():
 
     cap = px * shares
     rate = (sov + a.spread) / 100
+    note = print if a.framework == "v4" else (lambda *x, **k: None)
     if a.spread:
         print(f"  ** DISCOUNT RATE CARRIES A +{a.spread:.2f} POINT SPREAD over the "
-              f"sovereign. [E3-42] calls that mathematical gibberish; certainty is "
-              f"priced ONCE, in the end margin [E4-11]. State the reason or drop it. **")
+              f"sovereign. Both frameworks refuse a risk premium in the rate; certainty is "
+              f"priced once, in the margin demanded at the end. State the reason or drop it. **")
     y_lo, y_hi = oe["mean_lo"] / cap * 100, oe["mean_hi"] / cap * 100
     g_imp = implied_growth(cap, oe["mean_lo"], rate)
     pts_lo = points_over(cap, oe["mean_lo"], 0.03, sov)
@@ -376,19 +382,19 @@ def main():
               f"   yield {ya_lo:.2f}%..{ya_hi:.2f}%")
         print(f"  DIVERGENCE vs the {a.years}-yr window: {div:+.1f}% on the conservative end")
         if abs(div) > 15:
-            print("  ** The spread is part of the RANGE [E4-25], not a tiebreak.")
-            print('     "Working with a range of possibilities is the better approach."')
-            print("     Do NOT pick a window and defend it. If the combined range")
-            print("     (window spread x capex band) is too wide to reach a conclusion,")
-            print("     THAT IS THE CONCLUSION [E4-25]. A wide spread is also a Q4")
-            print("     finding about earnings reliability [E5-11]. **")
+            print("  ** The spread between the windows is part of the range, not a tiebreak;")
+            print("     do not pick a window and defend it. **")
+            note("     [E4-25] Working with a range of possibilities is the better approach.")
+            note("     If the combined range (window spread x capex band) is too wide to reach")
+            note("     a conclusion, THAT IS THE CONCLUSION [E4-25]. A wide spread is also a Q4")
+            note("     finding about earnings reliability [E5-11].")
 
     print(f"\n  1. THE YIELD                 {y_lo:5.2f}% .. {y_hi:5.2f}%   "
           f"vs sovereign {sov:.2f}%")
     if g_imp is None:
         print(f"  2. GROWTH THE PRICE ASSUMES  REFUSED - the conservative owner-earnings")
         print(f"     base is at or below zero. A DCF on a non-positive base produces no")
-        print(f"     number [E5-34]; the negative bottom boundary IS the statement.")
+        print(f"     number; the negative bottom boundary IS the statement.")
     else:
         print(f"  2. GROWTH THE PRICE ASSUMES  {g_imp*100:5.1f}%  (at a {rate*100:.2f}% rate)")
     if pts_lo is None or pts_hi is None:
@@ -401,18 +407,40 @@ def main():
     # copies have since been found and fixed in the template, run.py's --spread default,
     # the sector method's step 4, CLAUDE.md's one-screen summary - and this print, which
     # told every run.py user the opposite of the framework at the moment of decision.
-    print(f"\n  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,")
-    print(f"  not ranked. What clears the floor ranks against the opportunity set [E4-21].")
-    print("\n  STILL OWED BEFORE Q5 OPENS:")
+    note(f"\n  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,")
+    note(f"  not ranked. What clears the floor ranks against the opportunity set [E4-21].")
+    print("\n  STILL OWED BEFORE THE VALUE QUESTION OPENS:")
     print("    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.")
     print("    - cross-check one figure above against the filed statement")
     print("    - say where in the capex band maintenance sits, and why, citing the filing")
-    print("    - fill the competitor row [E3-28]")
+    print("    - fill the competitor row from the competitors' own filings")
 
     if a.write:
-        tpl = open(os.path.join(ROOT, "Test Runs", "_TEMPLATE - Company Run.md"),
-                   encoding="utf-8").read()
         today = date.today().isoformat()
+        if a.framework == "v5":
+            tpl = open(os.path.join(ROOT, "Test Runs", "_TEMPLATE - Company Run.md"),
+                       encoding="utf-8").read()
+            tpl = tpl.replace("<COMPANY>", name).replace("<TICKER>", t).replace("<YYYY-MM-DD>", today)
+            tbl = "\n".join(
+                f"  {r['fy']}  OCF {r['ocf']:,.0f}  SBC {r['sbc']:,.0f}  D&A {r['da']:,.0f}  "
+                f"capex {r['capex']:,.0f}  ->  owner cash {r['oe_lo']:,.0f} .. {r['oe_hi']:,.0f}"
+                for r in oe["rows"])
+            block = (f"\n  run.py arithmetic ({oe['unit']}M), {today}: price {px:,.2f}; shares {shares/1e6:,.3f}M; "
+                     f"cap {cap/1e6:,.0f}M; sovereign {sov:.2f}% ({sov_date}, {sov_src})\n{tbl}\n"
+                     f"  {a.years}-yr mean owner cash {oe['mean_lo']:,.0f} .. {oe['mean_hi']:,.0f}; "
+                     f"yield {y_lo:.2f}% .. {y_hi:.2f}%\n")
+            marker = "  capex and D&A, SBC resolved and complete."
+            tpl = tpl.replace(marker, marker + block, 1)
+            out = os.path.join(ROOT, "Test Runs", f"{today} Run - {t} {name}.md")
+            if os.path.exists(out):
+                print(f"\n  NOT WRITTEN: {out} exists"); return 0
+            with open(out, "w", encoding="utf-8", newline="\n") as f:
+                f.write(tpl)
+            print(f"\n  written: {out}")
+            return 0
+        tpl = open(os.path.join(ROOT, "Test Runs",
+                                "_ARCHIVE - Company Run TEMPLATE v4.1 (superseded 2026-10-05).md"),
+                   encoding="utf-8").read()
         tpl = tpl.replace("[COMPANY]", name).replace("[TICKER]", t).replace("[DATE]", today)
         tbl = "\n".join(
             f"  {r['fy']}  OCF {r['ocf']:,.0f}  SBC {r['sbc']:,.0f}  D&A {r['da']:,.0f}  "

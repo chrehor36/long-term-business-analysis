@@ -10,9 +10,9 @@ reconciliation and the five tests are done and recorded; this document puts the 
 - `principle_ledger_v5.csv`: 4,279 rows from the 32 meetings, the letters they discuss and the signed report sections,
   every row verifying against its source. Calibration: the blind read independently re-found 72 of the 78 meeting rows
   v4.1 already used.
-- `Framework/v5/DRAFT - THE FRAMEWORK v5.md`: a preamble of foundations, a standing rule, Q1 to Q12 in the speakers'
+- `Framework/THE FRAMEWORK v5.md`: a preamble of foundations, a standing rule, Q1 to Q12 in the speakers'
   own order, a closing note; 1,384 ids; passes the acceptance test.
-- `Framework/v5/DRAFT - THE HOLDINGS FRAMEWORK v5.md`: six hold questions; 183 ids; passes the acceptance test.
+- `Framework/THE HOLDINGS FRAMEWORK v5.md`: six hold questions; 183 ids; passes the acceptance test.
 
 ## 2. What the five pre-registered tests found
 | test | result | where |
@@ -118,3 +118,19 @@ confessed CONVENTIONS (the pre-committed falsifier in the foundations; "about te
 correction pass on the drafts (section 5, a to j, plus the two conventions) follows, then the acceptance test on both
 drafts and one reproducibility pair on a fresh name, then the adoption steps of section 8. v4.1 governs until those
 steps are committed.
+
+**2026-10-05, later: option B's gate met.** The correction pass was made (section 5, a to j, and the two conventions); both
+drafts pass the acceptance test; the reproducibility pair on PG agreed at every STOP and on the box (OUT at Q7, ranges
+$103 to $130 and $105 to $135 against $144.91). Adoption follows, by section 8.
+
+**2026-10-05, adopted.** Section 8 was carried out and committed in one change. `Framework/THE FRAMEWORK v5.md` and
+`Framework/THE HOLDINGS FRAMEWORK v5.md` are the governing documents, headed "In force from 2026-10-05"; both are in
+`DOCS` in `tools/check_framework.py` and the acceptance test passes with them (1,387 and 186 ids cited, zero phantom,
+zero unlabelled). v4.1 and its holdings framework are in `Framework/ARCHIVE - v4.x (superseded 2026-10-05)/` with every
+correction filed against them up to this day; their templates are the two `_ARCHIVE ... (superseded 2026-10-05)` files
+in `Test Runs/`. The v5 templates carry the canonical names `Test Runs/_TEMPLATE - Company Run.md` and
+`Test Runs/_TEMPLATE - Holding Review.md`. `Test Runs/README - which run files are in force.md` carries the two-part
+rule by date. `principle_ledger_v5.csv` is published with this change. `tools/run.py` defaults to v5 (arithmetic only;
+the v4 commentary is behind `--framework v4`). `CLAUDE.md`, `Framework/README.md`, `README.md`, `HOW TO TRY IT.md`,
+`NOTICE.md`, `PORTFOLIO.md` and `Framework/OPERATOR-PROTOCOL.md` are repointed, each with a dated note saying what it
+said before. The honest record is unchanged: the market-beating claim is UNPROVEN under v5 as under v4.1.

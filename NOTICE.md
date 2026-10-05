@@ -34,7 +34,7 @@ Transcript and OCR artifacts are kept as found and never smoothed (PRIME RULE 1 
 - **`PORTFOLIO.md`**, the repository owner's own holdings, cost bases and standing orders. A stub stands in its
   place so the acceptance test's pointer check passes. Every verdict the framework reached on a business is in
   `Test Runs/` and in the register in `Screens/WATCHLIST RUN QUEUE.md`; only the owner's positions are withheld.
-- **`principle_ledger_v5.csv`**, the 4,279-row ledger of the v5 blind read, until v5 is adopted or refused (its
+- *(Until 2026-10-05, when v5 was adopted and the file was published:)* **`principle_ledger_v5.csv`**, the 4,279-row ledger of the v5 blind read, until v5 is adopted or refused (its
   pre-registration, `Framework/v5/PREREGISTRATION - v5 blind read and comparison.md`, said it would not be published
   during the read). The v5 case, pre-registration, reading register, notes, theme maps and drafts are all here, and
   quote the rows by id. The acceptance test resolves the v5 id class only when that ledger is on disk.

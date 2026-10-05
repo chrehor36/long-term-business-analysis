@@ -1,12 +1,14 @@
 # PROTOCOL — running a name under the v5 drafts, for Tests A', B' and the regression. 2026-10-04.
 **Pre-registered in `Framework/v5/PREREGISTRATION - v5 blind read and comparison.md`, "The tests a candidate must pass".**
 This file fixes how every test run is done so that the runs can be compared. v4.1 governs the project; these runs
-bind nothing and change no verdict of record. They test whether the v5 drafts can be applied, reproduce, and refuse
+bind nothing and change no verdict of record. *(Dated note 2026-10-05: written while v4.1 governed; v5 was adopted the
+next day on the strength of these tests, and the draft paths below were repointed to the governing files that day. The
+seventeen runs in this folder remain test records and still bind nothing.)* They test whether the v5 drafts can be applied, reproduce, and refuse
 what they should refuse.
 
 ## What a test session may open
-- `Framework/v5/DRAFT - THE FRAMEWORK v5.md` (the purchase draft) and, for a name the operator holds,
-  `Framework/v5/DRAFT - THE HOLDINGS FRAMEWORK v5.md`.
+- `Framework/THE FRAMEWORK v5.md` (the purchase draft) and, for a name the operator holds,
+  `Framework/THE HOLDINGS FRAMEWORK v5.md`.
 - `principle_ledger_v5.csv`, to read any row by id.
 - `Framework/OPERATOR-PROTOCOL.md` for the rules of evidence (operator rules 4 and 5: read the filing, record document,
   date and accession; sovereign from the issuing authority; primary filings over aggregators, aggregators for live
@@ -17,7 +19,7 @@ what they should refuse.
 - Its own output file, and nothing else under `Framework/v5/tests/`.
 
 ## What a test session may NOT open
-`Framework/THE FRAMEWORK v4.md`, `Framework/THE HOLDINGS FRAMEWORK.md`, anything else in `Framework/` or `Framework/v4/`
+`Framework/ARCHIVE - v4.x (superseded 2026-10-05)/THE FRAMEWORK v4.md`, `Framework/ARCHIVE - v4.x (superseded 2026-10-05)/THE HOLDINGS FRAMEWORK.md`, anything else in `Framework/` or `Framework/v4/`
 except the testB case and description files, `principle_ledger.csv`, any file under `Test Runs/` or `Screens/` (prior
 run files carry the verdicts of record and would contaminate the test), `PORTFOLIO.md`, the other test sessions' files,
 and `Framework/v4/testB/_SEALED_KEY.json`. For Test B' the session does not search the web for the company's identity

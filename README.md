@@ -35,7 +35,13 @@ the primary sources disagreed, the framework was the thing that changed.
 
 ## The two questions
 
-**Should I buy this?** is answered by `Framework/THE FRAMEWORK v4.md`. Six questions in order, and the
+*(Dated note, 2026-10-05: v5 is in force from this date, `Framework/THE FRAMEWORK v5.md` and
+`Framework/THE HOLDINGS FRAMEWORK v5.md`, built by a blind read of the annual meetings and adopted under
+`Framework/v5/RULING CASE 2026-10-05 - adopt v5, for the operator's approval.md`. The two paragraphs below describe v4.1,
+kept word for word with their paths repointed to the archive; v5 asks the same two questions through a preamble of
+foundations, a standing rule and twelve questions in the speakers' own order, with three boxes, IN, OUT and TOO HARD.)*
+
+**Should I buy this?** was answered, from 2026-08-28 to 2026-10-05, by `Framework/ARCHIVE - v4.x (superseded 2026-10-05)/THE FRAMEWORK v4.md`. Six questions in order, and the
 analysis stops at the first that is not IN. Every question ends in one of four verdicts: IN, OUT,
 UNRESEARCHED (the document exists and has not been read) or UNKNOWABLE (the evidence is in and the
 future is still indeterminate).
@@ -49,7 +55,7 @@ future is still indeterminate).
 | Q5 | What is it worth, against a government bond? The floor first; what clears it ranks. |
 | Q6 | What would prove me wrong, and when do I sell? |
 
-**Should I keep what I own?** is answered by `Framework/THE HOLDINGS FRAMEWORK.md`: five hold questions
+**Should I keep what I own?** was answered, over the same period, by `Framework/ARCHIVE - v4.x (superseded 2026-10-05)/THE HOLDINGS FRAMEWORK.md`: five hold questions
 and four outcomes for a position already held. An add to a position is a purchase and runs the purchase
 framework.
 
@@ -188,10 +194,10 @@ Read the last section of the RESUME STATE file in Screens/ and tell me where thi
 
 *Added 2026-10-04.* This project is published at github.com/chrehor36/long-term-business-analysis as an export of
 the working repository's tracked files, made by `tools/publish_public.py`. `HOW TO TRY IT.md` says how to check
-the build, verify a rule, run a company through v4.1, review a holding and follow the v5 candidate. `NOTICE.md`
-gives the provenance and copyright standing of every source folder and lists what the public copy withholds: the
-owner's holdings file (a stub stands in), the v5 ledger until v5 is adopted or refused, the raw filings behind each
-run, and the coursework. Code is under the MIT licence (`LICENSE`); the project's documents are under CC BY 4.0
+the build, verify a rule, run a company through the framework in force, review a holding and read the record of how v5
+was built and tested. `NOTICE.md` gives the provenance and copyright standing of every source folder and lists what the
+public copy withholds: the owner's holdings file (a stub stands in), the raw filings behind each run, and the
+coursework. The v5 ledger was withheld until adoption and is published from 2026-10-05. Code is under the MIT licence (`LICENSE`); the project's documents are under CC BY 4.0
 (`LICENSE-DOCS.md`); the quoted words of Buffett and Munger and the source texts are their authors' and publishers'.
 
 ## The one rule everything else follows from

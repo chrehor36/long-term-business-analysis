@@ -325,3 +325,9 @@ later runs read it, refused to inherit it, and said so. That is how a superseded
 - `2026-09-01 Run - WGO (Winnebago) v4.1.md`
 
 *Regenerate: the script that wrote this lives in the 2026-09-20 audit commit; the rule is the two conditions above.*
+
+*Dated note, 2026-10-05: **v5 is in force from this date** (`Framework/THE FRAMEWORK v5.md`, `Framework/THE HOLDINGS
+FRAMEWORK v5.md`, adopted under `Framework/v5/RULING CASE 2026-10-05 - adopt v5, for the operator's approval.md`). The rule
+in bold now reads in two parts: a run file dated 2026-08-28 to 2026-10-04 binds under v4.1 as recorded, if it has its
+register entry; a run file dated 2026-10-05 or later is under v5 and uses `Test Runs/_TEMPLATE - Company Run.md` in its v5
+form. The fifteen test runs of 2026-10-04 in `Framework/v5/tests/` bind nothing; they were tests of the drafts.*
