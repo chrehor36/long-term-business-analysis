@@ -1045,6 +1045,123 @@
    "threshold": 29.78,
    "active": false,
    "label": "TECH at/below $29.78: SUSPENDED FROM THE START (active false) while the Merck KGaA merger agreement ($73.00 cash, 2026-06-25) stands; live only if it terminates, and only after re-derivation on the next 10-K. The level: the E4-28 floor is met with 5% perpetual growth (the JKHY, CAT, MSA, ECL, KEYS and MA ceiling under E4-44) on five-year depreciation-end owner earnings of $219.3M (FY2022-FY2026) plus $64.7M net cash over 156,818,238 cover shares. Prompt for a FULL v4.1 re-run in which the reagent margin's direction, the FY2026 pricing pressure, the Wilson Wolf purchase (due 2027-12-31) and the revolver maturity (2027-08-31) are re-tested before any is spent. VOID if any falsifier in TECH-floor-band has fired. Source: Test Runs/2026-09-28 Run - TECH Bio-Techne.md."
+  },
+  {
+   "id": "HUBB-v5-fair-top",
+   "ticker": "HUBB",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 259,
+   "active": true,
+   "label": "HUBB at/below $259: top of the v5 fair-price band (value $204-$405; expected return at least ~10% pre-tax only below this). Source: Test Runs/2026-10-05 Run - HUBB Hubbell.md (IN at Q1-Q5, OUT at Q7 on price at $482). Re-read the latest 10-Q first. A prompt to read, never a verdict."
+  },
+  {
+   "id": "HUBB-v5-cheap",
+   "ticker": "HUBB",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 129,
+   "active": true,
+   "label": "HUBB at/below $129: the v5 'cheap' price (owner cash with no growth clears the floor). Source: Test Runs/2026-10-05 Run - HUBB Hubbell.md. A prompt to read, never a verdict."
+  },
+  {
+   "id": "ETN-v5-fair-top-uncapped",
+   "ticker": "ETN",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 338,
+   "active": true,
+   "label": "ETN at/below $338: top of the v5 fair-price band if recent growth is credited uncapped (capped band tops at $122). Source: Test Runs/2026-10-05 Run - ETN Eaton.md (IN at Q1-Q6, OUT at Q7 on price at $438). Check the Boyd debt and margin trend first. A prompt to read, never a verdict."
+  },
+  {
+   "id": "ETN-v5-fair-top-capped",
+   "ticker": "ETN",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 122,
+   "active": true,
+   "label": "ETN at/below $122: top of the v5 fair-price band with growth capped at sales growth. Source: Test Runs/2026-10-05 Run - ETN Eaton.md. A prompt to read, never a verdict."
+  },
+  {
+   "id": "ETN-v5-cheap",
+   "ticker": "ETN",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 67,
+   "active": true,
+   "label": "ETN at/below $67: the v5 'cheap' price (no-growth owner cash clears the floor). Source: Test Runs/2026-10-05 Run - ETN Eaton.md. A prompt to read, never a verdict."
+  },
+  {
+   "id": "V-v5-add",
+   "ticker": "V",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 300,
+   "active": true,
+   "label": "V at/below $300: the bottom of the v5 value range, where the holding review reopens the add (Test Runs/2026-10-05 Holding Review - V Visa.md; held, KEEP with NO ADD at ~$360). A prompt to read, never a verdict."
+  },
+  {
+   "id": "MWA-v5-range-top",
+   "ticker": "MWA",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 16.76,
+   "active": true,
+   "label": "MWA at/below $16.76: top of the v5 value range. Source: Test Runs/2026-10-05 Run - MWA Mueller Water Products.md (IN at Q1-Q5, OUT at Q7 on price at $22.02). Check the inventory build and the latest-quarter margin first. A prompt to read, never a verdict."
+  },
+  {
+   "id": "MWA-v5-fair",
+   "ticker": "MWA",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 13.4,
+   "active": true,
+   "label": "MWA at/below $13.40: the v5 fair price (central case clears about 10% pre-tax). Source: Test Runs/2026-10-05 Run - MWA Mueller Water Products.md. A prompt to read, never a verdict."
+  },
+  {
+   "id": "MWA-v5-cheap",
+   "ticker": "MWA",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 8.0,
+   "active": true,
+   "label": "MWA at/below $8.00: the v5 cheap price (no-growth owner cash clears the floor). Source: Test Runs/2026-10-05 Run - MWA Mueller Water Products.md. A prompt to read, never a verdict."
+  },
+  {
+   "id": "CSW-v5-range-top",
+   "ticker": "CSW",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 145,
+   "active": true,
+   "label": "CSW at/below $145: top of the v5 value range (pro forma variant tops at $218). Source: Test Runs/2026-10-05 Run - CSW CSW Industrials.md (IN at Q1-Q5, OUT at Q7 on price at $305.83). Check the MARS and Aspen results and the debt first. A prompt to read, never a verdict."
+  },
+  {
+   "id": "CSW-v5-fair",
+   "ticker": "CSW",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 85,
+   "active": true,
+   "label": "CSW at/below $85: the v5 fair price (central case clears about 10% pre-tax). Source: Test Runs/2026-10-05 Run - CSW CSW Industrials.md. A prompt to read, never a verdict."
+  },
+  {
+   "id": "CSW-v5-cheap",
+   "ticker": "CSW",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 45,
+   "active": true,
+   "label": "CSW at/below $45: the v5 cheap price (no-growth owner cash clears the floor). Source: Test Runs/2026-10-05 Run - CSW CSW Industrials.md. A prompt to read, never a verdict."
+  },
+  {
+   "id": "ABG-v5-cheap",
+   "ticker": "ABG",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 163,
+   "active": true,
+   "label": "ABG at/below $163: the v5 cheap price (worst case clears the floor after a 200bp rise on floating debt). Source: Test Runs/2026-10-05 Run - ABG Asbury Automotive.md (IN at Q1, Q2 narrowly, Q5 with the FTC action recorded; OUT at Q7 at $171.62 against a whole-cycle range of $230-$345 and fair about $216). Check the FTC case and Q2 2026 new-vehicle gross profit first. A prompt to read, never a verdict."
   }
  ]
 }

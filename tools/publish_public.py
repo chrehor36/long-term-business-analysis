@@ -43,8 +43,16 @@ def tracked_files():
     return [p.decode("utf-8") for p in out.split(b"\0") if p]
 
 
+# 2026-10-05, the owner's instruction: holding reviews, notes on holdings, hold reads and research passes carry the
+# owner's positions (share counts, cost bases, accounts, keep or sell words), so they are withheld like PORTFOLIO.md.
+# The templates stay public. Purchase runs stay public: they are written blind and carry no position.
+DENY_RUN_KINDS = re.compile(r"^Test Runs/[^/_][^/]* (Holding Review|Note|HOLD READ|RESEARCH PASS) - ")
+
+
 def allowed(rel):
     if rel in DENY_EXACT:
+        return False
+    if DENY_RUN_KINDS.match(rel):
         return False
     return not any(rel.startswith(p) for p in DENY_PREFIXES)
 

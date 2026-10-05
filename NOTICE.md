@@ -38,6 +38,9 @@ Transcript and OCR artifacts are kept as found and never smoothed (PRIME RULE 1 
   pre-registration, `Framework/v5/PREREGISTRATION - v5 blind read and comparison.md`, said it would not be published
   during the read). The v5 case, pre-registration, reading register, notes, theme maps and drafts are all here, and
   quote the rows by id. The acceptance test resolves the v5 id class only when that ledger is on disk.
+- *(From 2026-10-05, at the owner's instruction:)* **the holding files in `Test Runs/`**: holding reviews, notes on
+  holdings, hold reads and research passes. They carry the owner's share counts, cost bases, accounts and keep-or-sell
+  words. The purchase runs, written blind and carrying no position, stay public.
 - **`Test Runs/_research*/`**, the raw filings, data pulls and scratch files behind each run (about 2.4 GB). Every
   run file names its filings by accession number so they can be fetched from SEC EDGAR.
 - **`MBA - UNG/`** and **`Curriculum/`**, coursework and a class charter that share the working repository and have

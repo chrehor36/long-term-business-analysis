@@ -40,7 +40,7 @@ from datetime import date
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import sources as S
-from run import owner_earnings, points_over, OCF, SBC, DA, CAP, SH
+from run import owner_earnings, points_over, OCF, SBC, DA, CAP, SH, share_counts, SHARE_ISSUED
 
 ROOT = S.ROOT
 IMPLAUSIBLE_YIELD = 50.0     # % — above this it is a units or share-count fault
@@ -95,11 +95,27 @@ def screen_one(t, years=3):
         out.update(refused=f"NO_SOVEREIGN_SOURCE for {earn_ccy}")
         return out
 
-    sh, _, _ = S.annual(facts, SH)
-    shares = sh[max(sh)] if sh else None
+    # 2026-10-05: the same share count run.py uses (the newest filed count under 550 days old, else
+    # the weighted average), with any split after its date applied, so a post-split quote is never
+    # multiplied by a pre-split count (IESC showed a cap twice its true size here).
+    fresh = [c for c in share_counts(facts)
+             if (date.today() - c[0]).days <= 550 and c[3] != SHARE_ISSUED[0]]
+    if fresh:
+        sh_date, shares = max(fresh, key=lambda c: c[0])[:2]
+    else:
+        sh, _, _ = S.annual(facts, SH)
+        shares = sh[max(sh)] if sh else None
+        sh_date = date.fromisoformat(max(sh)) if sh else None
     if not shares:
         out.update(refused="NO_SHARE_COUNT_IN_XBRL")
         return out
+    try:
+        split_f = S.split_factor_after(t, sh_date.isoformat())
+    except Exception:
+        split_f = None
+    if split_f and abs(split_f - 1.0) > 1e-9:
+        shares *= split_f
+        out.update(split_after_count=split_f)
     cap = px * shares
     out.update(shares=round(shares, 1), price=px, price_date=px_date,
                cap=round(cap, 1), oe_lo=round(oe["mean_lo"], 1),
@@ -127,6 +143,13 @@ def screen_one(t, years=3):
     sov, sov_date, sov_src = S.sovereign(earn_ccy)
     pts_lo = points_over(cap, oe["mean_lo"], 0.03, sov)
     pts_hi = points_over(cap, oe["mean_hi"], 0.03, sov)
+    # 2026-10-05: points_over returns None when owner earnings are zero or negative (no
+    # growth rate reconciles the price). Report it as refused rather than crash the screen.
+    if pts_lo is None or pts_hi is None:
+        out.update(yield_lo=round(y_lo, 2), yield_hi=round(y_hi, 2),
+                   refused=f"POINTS_NOT_COMPUTABLE — owner earnings {oe['mean_lo']:.1f} .. "
+                           f"{oe['mean_hi']:.1f} (zero or negative)")
+        return out
     out.update(yield_lo=round(y_lo, 2), yield_hi=round(y_hi, 2),
                sovereign=sov, sov_date=sov_date,
                pts_lo=round(pts_lo, 2), pts_hi=round(pts_hi, 2))
