@@ -20,9 +20,8 @@ TOO HARD closes the run and later questions are marked NOT REACHED. **Copy this 
 
 ## THE FOUNDATIONS (not a gate)
 One paragraph: which foundation bears on this name (a share is a business; the market serves, not instructs; margin of
-safety; no macro enters; who is paid to tell you; the analyst's habits), with ids. **The pre-committed falsifier
-(CONVENTION, Part II):** the metric and the fact that would show the thesis wrong, and the date it is next read:
-___.
+safety; no macro enters; who is paid to tell you; the analyst's habits), with ids. **Contrary evidence, written down as found** **[M1997-127]**: ___. *(This line asked for a pre-committed
+falsifier until 2026-10-05; that CONVENTION was removed under the v5 scope directive.)*
 
 ## THE STANDING RULE
 Does owning this put the buyer at risk of ruin (the buyer's conduct, not the target's)? One line, with ids.
@@ -112,7 +111,7 @@ industry's insiders would not write the forecast down. Q11 (has the business cha
 - [ ] The order was kept; the first STOP that failed closed the run; nothing after it is a clearance.
 - [ ] Owner cash after every real cost, never a net-income proxy (operator rule 5); the sovereign from the issuing
       authority; aggregator quotes flagged.
-- [ ] The pre-committed falsifier is written with its date (the CONVENTION in Part II).
+- [ ] Contrary evidence was written down as it was found **[M1997-127]**.
 - [ ] No row dated after the anchor is cited in a point-in-time run (Part VII).
 - [ ] Only the arithmetic lines of `tools/run.py` were used (Part VII).
 - [ ] `python tools/check_framework.py` PASS before the commit.

@@ -1,11 +1,12 @@
 # Holding Review — <COMPANY> (<TICKER>) — <YYYY-MM-DD>
 **Framework v5, holdings** (`Framework/THE HOLDINGS FRAMEWORK v5.md`). Governing rules: `Framework/OPERATOR-PROTOCOL.md`.
-A position already held. The review answers all six questions (none closes the file early), reads the pre-committed
-falsifier written at purchase, and ends in one of the review's four words. **Copy this file to its dated name before any
+A position already held. The review answers all six questions (none closes the file early), re-reads the purchase run
+and the fact the last review named, and ends in one of the review's four words. **Copy this file to its dated name before any
 fetch.**
 
-**The position:** ___ shares, basis ___, account (taxable or sheltered) ___, bought on (run file) ___. **The falsifier
-written at purchase** (the metric, the fact, the date; the CONVENTION in the purchase framework's Part II): ___.
+**The position:** ___ shares, basis ___, account (taxable or sheltered) ___, bought on (run file) ___. **The fact the last
+review named** (for a WATCH, the holdings framework's II A), and what it now reads: ___. *(Until 2026-10-05 this line
+asked for a falsifier written at purchase; that CONVENTION was removed under the v5 scope directive.)*
 
 ---
 ## STEP 0 — THE RATE, THE PRICE, THE FILING
@@ -38,7 +39,7 @@ Done with the holder's own list of positions open: the comparison is against the
 the bond; for marketable holdings only. **WEIGHS FOR / AGAINST / UNDECIDED.**
 
 ## Q6 — WAS IT A MISTAKE TO BUY, now recognised?
-Re-read the purchase run and the falsifier. A purchase-framework OUT at Q1 to Q5 on today's filings is a recognised
+Re-read the purchase run and the contrary evidence written down since **[M1997-127]**. A purchase-framework OUT at Q1 to Q5 on today's filings is a recognised
 mistake and the whole-position rule applies; a TOO HARD is a confession of ignorance, not a finding. **WEIGHS FOR /
 AGAINST / UNDECIDED.**
 
@@ -48,13 +49,15 @@ AGAINST / UNDECIDED.**
 next read. An add runs the purchase framework in full; a name the purchase framework now puts in TOO HARD or OUT is not
 added to, whatever the price.
 
-## THE NEXT REVIEW'S FALSIFIER
-Written now, before any act: the metric, the fact, the date.
+## WHAT MOVES THE WORD
+For a WATCH: the fact that would move it to SELL or back to KEEP, and when that fact is next read (II A, **[M2016-081]**).
+For KEEP: nothing is named; the thinking is continuous and the action rare, "it’s not a continuous process with the idea
+that daily activity, or weekly activity, or monthly activity, is going to result" **[M2007-105]**.
 
 ## SELF-AUDIT
 - [ ] All six questions answered; every v5 id resolves; every filing fact has its accession; no number without a row or
       a filing.
-- [ ] The falsifier written at purchase was read and its result stated.
+- [ ] The fact the last review named was read and its result stated.
 - [ ] Owner cash after every real cost, never a net-income proxy; the sovereign from the issuing authority.
 - [ ] `python tools/check_framework.py` PASS before the commit. `PORTFOLIO.md` updated in the same commit.
 

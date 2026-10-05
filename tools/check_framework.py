@@ -14,6 +14,8 @@ Six checks, three from the v4 plan, two adopted 2026-09-20 and one on 2026-09-25
   5. NO PHANTOM CITATIONS IN ANY RUN FILE - the sweep over Test Runs/
   6. POINTERS RESOLVE - every path named in a pointer document (CLAUDE.md, the protocol,
      Framework/README.md) exists on disk
+  7. V5 SCOPE (operator directive, 2026-10-05) - the v5 documents cite no v4-ledger id, and every
+     v5 ledger row's source is a 1994-2025 meeting, a FY1993-2024 letter or a FY1995-2024 report
 
 Since 2026-10-03 checks 3 and 4 also run on principle_ledger_v5.csv when it exists (the v5
 blind-read ledger, ids M/L/R<year>-<nnn>), and `--also <path>` checks one more document for a
@@ -268,6 +270,38 @@ def main():
         fails.append(f"pointers: {len(pt_missing)} paths named in a pointer file are not on disk")
         for fn, s in pt_missing[:12]:
             fails.append(f"          {fn} -> {s}")
+
+    # ---- check 7: the v5 scope (operator directive, 2026-10-05) -------------------------
+    # "any rules in v5 should come frome ONLY the v5 scope." The v5 documents cite no v4-ledger
+    # id, and every v5 ledger row comes from the v5 sources: the meeting transcripts 1994 to
+    # 2025, the Berkshire letters for FY1993 to FY2024 (the years the meetings discuss), and the
+    # signed sections of the annual reports FY1995 to FY2024.
+    v5_scope_bad = []
+    if os.path.exists(LEDGER_V5):
+        V5_DOCS = [os.path.join(ROOT, "Framework", "THE FRAMEWORK v5.md"),
+                   os.path.join(ROOT, "Framework", "THE HOLDINGS FRAMEWORK v5.md"),
+                   os.path.join(ROOT, "Test Runs", "_TEMPLATE - Company Run.md"),
+                   os.path.join(ROOT, "Test Runs", "_TEMPLATE - Holding Review.md")]
+        for path in V5_DOCS:
+            if os.path.exists(path):
+                e_ids = sorted(set(re.findall(r"\bE[1-5]-\d{2}\b", open(path, encoding="utf-8").read())))
+                if e_ids:
+                    v5_scope_bad.append(f"{os.path.basename(path)} cites v4-ledger ids {e_ids[:6]}")
+        SCOPE = {"Annual Meetings": (1994, 2025), "Shareholder Letters": (1993, 2024),
+                 "Annual Reports": (1995, 2024)}
+        with open(LEDGER_V5, encoding="utf-8-sig", newline="") as fh:
+            for r in csv.DictReader(fh):
+                sf = r.get("source_file", "")
+                folder = sf.split("/")[0]
+                m = re.search(r"(\d{4})", sf.split("/")[-1])
+                lo_hi = SCOPE.get(folder)
+                if not (lo_hi and m and lo_hi[0] <= int(m.group(1)) <= lo_hi[1]):
+                    v5_scope_bad.append(f"ledger row {r.get('id')} sourced outside the v5 scope: {sf}")
+    print(f"V5 SCOPE          {len(v5_scope_bad)} citations or rows outside the v5 sources   "
+          f"{'OK' if not v5_scope_bad else '<-- PROBLEM'}")
+    if v5_scope_bad:
+        fails.append(f"v5 scope: {len(v5_scope_bad)} items outside the v5 sources")
+        fails.extend(f"          {x}" for x in v5_scope_bad[:12])
 
     # ---- checks 1 and 2 -----------------------------------------------------
     for path in DOCS:
