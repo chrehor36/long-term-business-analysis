@@ -77,9 +77,157 @@ firm's condition cannot be read, as well as for it):
    markets in which there are no sudden fundamental changes or shifts in market conditions."
 7. *For the prior:* total assets rose 17.6% in six months, from $1,809,320M to $2,127,711M, with trading assets from
    $656,796M to $789,083M (10-Q); the balance sheet a reader studies at year-end is not the one at risk six months later.
+8. *Against the prior, on test 5 below:* the insiders do write a number down. "Our target (through-the-cycle) is to achieve
+   ROE within a range of 14% to 16% and ROTE within a range of 15% to 17%." (10-K MD&A). The same table shows the return
+   achieved: 13.9% (2025), 12.0% (2024), 7.3% (2023), and average equity to average assets of 7.0% in 2025.
 
 ## THE STANDING RULE
 Owning a common share bought with cash puts the buyer at risk of losing what is paid and nothing more; no borrowing, no
 collateral and no option given is involved **[M2012-081]**, **[L2023-005]**. The rule is not engaged by the purchase as
 such; it would be engaged only by financing it with borrowed money **[L2014-005]** or by sizing it so that a total loss
 mattered.
+
+---
+## Q1 — CAN I UNDERSTAND IT? Where its economics will be in ten years, inside my perimeter. STOP.
+
+**The test as the framework states it for a bank.** "A bank is inside the circle when both sides of its balance sheet can
+be read from its filings, the little-risk asset side and the cheap deposit side **[M2002-022]**, and outside it when the
+asset side cannot **[M2005-068]**." And: "A bank that has both a readable deposit base and a wholesale or derivatives book
+that its own filing calls unpredictable closes TOO HARD: the readable half does not make the unreadable half readable
+**[M2002-094]**." (Q1, The door against the exclusion, settled). The door is the oddball bank with "very little risk on the
+asset side and very cheap money on the deposit side" **[M2002-022]**; "It’s always on the asset side." **[M2011-022]**.
+
+**The balance sheet at 2025-12-31** (10-K, accession `0000886982-26-000091`; $M; share of total assets of $1,809,320):
+
+| Assets | $M | % | Liabilities and equity | $M | % |
+|---|---|---|---|---|---|
+| Trading assets (fair value) | 656,796 | 36.3 | Deposits | 501,422 | 27.7 |
+| Securities borrowed + resale agreements | 334,215 | 18.5 | Repo + securities loaned + other secured | 305,049 | 16.9 |
+| Customer and other receivables | 185,842 | 10.3 | Customer and other payables | 231,865 | 12.8 |
+| Cash | 164,259 | 9.1 | Trading liabilities (fair value) | 262,552 | 14.5 |
+| Loans, net | 237,734 | 13.1 | Unsecured short- and long-term borrowings | 355,959 | 19.7 |
+| Investments (AFS, HTM, other) | 194,262 | 10.7 | Other liabilities | 27,501 | 1.5 |
+| Other assets | 36,212 | 2.0 | Shareholders' equity (incl. $15,153 preferred) | 124,972 | 6.9 |
+
+Segment assets: Global Banking & Markets $1,582,670M of the $1,809,320M (10-K segment note). At 2026-06-30 total assets
+were $2,127,711M and equity $122,742M (10-Q, `0000886982-26-000297`).
+
+**1. The deposit side: partly natural, not cheap, and not the main funding.**
+- Deposits are $501,422M, 27.7% of assets, by source: consumer $207,902M (Marcus and Apple Card customers), private bank
+  $100,770M, transaction banking $69,764M, brokered certificates of deposit $47,288M, deposit sweep programs with
+  broker-dealers $34,363M, other (substantially all institutional) $41,335M. Time deposits are $185,270M, with a weighted
+  average maturity of about 0.7 years (10-K deposit table).
+- What they cost: 3.94% on interest-bearing deposits in 2025 (4.73% in 2024), against a net yield on all interest-earning
+  assets of 0.82% (10-K statistical disclosures). The peer row below sets this beside Morgan Stanley at 2.68% and JPMorgan
+  at 1.82% on the same arithmetic. This is not "very cheap money on the deposit side" **[M2002-022]**; it is money bought
+  at near-market rates, a good part of it through brokers and from rate-shopping savers, and the Apple Card half of the
+  consumer base is being handed to another issuer over about 24 months (8-K, `0000886982-26-000004`).
+- What carries the rest of the balance sheet: repo, securities lending and other secured financings of $305,049M, customer
+  payables of $231,865M, trading liabilities of $262,552M and unsecured borrowings of $355,959M. The secured and unsecured
+  borrowed funding alone ($661,008M by my sum of those lines, research notes) exceeds the deposits. The rows' test is
+  whether funds come "from a natural customer base" or "on a wholesale basis, and that money can run pretty fast."
+  **[M2012-012]**; and of a finance company, whether "I can continually fund it, you know, on a basis, independent from
+  using Berkshire’s credit" **[M2002-094]**. The private-bank and transaction-banking deposits are natural; most of the
+  funding is not.
+- Verdict on this half: readable, and the reading is that it is a dealer's funding with a bank's deposit book attached,
+  not the cheap deposit side of the door.
+
+**2. The asset side: the loan book can be read; the dealer book, which is most of the balance sheet, cannot.**
+- Loans, $237,734M net, are 13.1% of assets; the investment portfolios, $194,262M, are mostly marked or held to maturity.
+  Taken alone these could be read as a lender's book is read.
+- The rest is a dealer's: trading assets of $656,796M, securities borrowed and resale agreements of $334,215M, customer
+  receivables of $185,842M. Behind them is a derivatives book with a **total notional of $43,530,881M** at 2025-12-31
+  ($37,127,322M a year earlier; $52,831,907M at 2026-06-30), about 348 times shareholders' equity. Its gross fair values,
+  $360,080M of assets and $391,214M of liabilities, become $52,953M and $84,405M on the balance sheet only after
+  $261,175M of counterparty netting and about $46B of cash-collateral netting (10-K Note 7). What the owner holds is
+  therefore a net position whose value depends on the enforceability of netting agreements, the sufficiency of collateral
+  and the solvency of counterparties in the event that tests them.
+- This is the case the rows name in so many words: "When Charlie and I finish reading the long footnotes detailing the
+  derivatives activities of major banks, the only thing we understand is that we don't understand how much risk the
+  institution is running." **[L2002-018]**; "But with financial institutions, it’s much tougher. Then you add — throw in
+  derivatives on top of it, and, you know, it’s — no one probably knows, you know, perfectly, what some of the — or even
+  within a reasonable range — the exact condition of some of the biggest, you know, banks in the world." **[M2005-068]**.
+  Test 12 of Q1 asks of a derivatives book whether both sides of a trade "put on the books a profit that day"
+  **[M2004-026]**; no outside reader of Note 7 can answer that for this book.
+- **The filing's own words on the predictability of this book** (10-K, risk factors and MD&A): credit spreads are "subject
+  at times to unpredictable and highly volatile movements", and "The market for credit default swaps has proven to be
+  extremely volatile and at times has lacked a high degree of transparency or liquidity"; "In periods when volatility is
+  increasing, but asset values are declining significantly, it may not be possible to sell assets at all or it may only be
+  possible to do so at steep discounts"; and of the firm's own risk measure, "Previous moves in market risk factors may not
+  produce accurate predictions of all future market moves" and VaR "is most effective in estimating risk exposures in
+  markets in which there are no sudden fundamental changes or shifts in market conditions". The filing calls the book
+  unpredictable in exactly the circumstances in which its condition would matter.
+
+**3. The key variables and the ten-year question.** Understanding is "a reasonable fix on about what the earning power and
+competitive position will look like in five or 10 years" **[M2012-065]**, and the first step is "trying to identify the key
+variables in that particular business, and evaluating how predictable they were first" **[M1998-044]**. Here the variables
+are the level of market volatility and client activity (the 10-K: "Certain of our market-making activities depend on
+market volatility"; market making was $17,993M of $58,283M of 2025 net revenues, and FICC and Equities together
+$31,057M), the cost and availability of wholesale funding, and the capital rules, which "can change the math of banking,
+and the attractiveness of banking, totally" **[M2016-027]**. The return achieved moved from 7.3% to 13.9% on equity in two
+years, on average equity of 7.0% of average assets; a high return in "basically a commodity — money" is read for how much
+of it is gearing **[M2007-013]**, and assets to equity went from 9.9 times at 2016-12-31 ($860,165M / $86,893M,
+`tools/run.py` transcription) to 14.5 times at 2025-12-31 and 17.3 times at 2026-06-30 ($2,127,711M / $122,742M). None of
+these variables is one I can forecast for ten years, and the condition of the book at any moment inside those ten years
+is the thing the rows say "no one probably knows" **[M2005-068]**.
+
+**4. Weighed against the contrary evidence (items 1 to 3 and 8 above).** Level 3 assets are 1.1% of assets and daily VaR
+is about $90M; these are real, and they say that most positions are marked to observable prices on a normal day. They do
+not reach the deciding question, because VaR by the firm's own description "does not estimate potential losses over
+longer time horizons where moves may be extreme" and "does not take account of the relative liquidity of different risk
+positions" (10-K), and because a netted derivatives book is as good as its counterparties and its collateral on the bad
+day, which no footnote can show. The ROE target is a number the insiders do write down; it is a target for the earnings,
+not a statement of the book's condition, and it was missed in each of the three years shown. Understanding each
+transaction is not understanding the whole: "even though I could understand every individual transaction they did, I
+don’t regard the whole enterprise, or the operation of it, necessarily as being within my circle of competence."
+**[M2002-094]**. And the doubt rule decides what is left: "if you have doubts about something being into your circle of
+competence, it isn’t." **[M2002-092]**.
+
+**5. Which cause: WORK or NATURE.** The test between them is whether the insiders would write the forecast down (test 5,
+**[M2000-105]**). The deciding question here is not the earnings forecast, for which the firm does publish a target, but
+the condition of a $43.5 trillion notional derivatives book and the funding that carries it across ten years of markets.
+The rows say that question is not answered by more reading: the footnotes were read and taught only that "we don't
+understand how much risk the institution is running" **[L2002-018]**; of a book of 23,000 contracts, "Charlie and I
+could’ve spent 24 hours a day, and had the help of 10 or 20 math Ph.Ds. and we still wouldn’t have known what was going
+on. [...] But nobody can." **[M2013-089]**; "You spot troubles in financial institutions late. It’s just the nature of the
+beast." **[M2001-066]**. That is the industry's cause, "We couldn't solve this problem, moreover, even if we were to spend
+years intensely studying those industries." **[L1993-023]**, not the reader's. No research pass is opened (section I, the
+two causes), and a lower price does not reopen the box: "It doesn’t mean it isn’t a good buy. It doesn’t mean it isn’t
+selling for a fraction of its worth. It just means that we don’t know how to evaluate it." **[M2000-038]**. The circle is
+not widened to find something to buy **[M1995-018]**.
+
+**The peer row** (same arithmetic, each company's own FY2025 10-K XBRL facts; recorded as evidence for the deposit-side
+reading, not as a castle test, since Q2 is not reached):
+
+| Company (accession) | Assets $M | Deposits $M | Equity $M | Assets / equity | Deposits / assets | Deposit interest / average of year-end deposits |
+|---|---|---|---|---|---|---|
+| Goldman Sachs (`0000886982-26-000091`) | 1,809,320 | 501,422 | 124,972 | 14.48 | 27.7% | 3.94% |
+| Morgan Stanley (`0000895421-26-000086`) | 1,420,270 | 415,523 | 111,632 | 12.72 | 29.3% | 2.68% |
+| JPMorgan Chase (`0001628280-26-008131`) | 4,424,900 | 2,559,320 | 362,438 | 12.21 | 57.8% | 1.82% |
+
+Deposit interest 2025: GS $18,393M, MS $10,626M, JPM $45,112M; prior year-end deposits GS $433,013M, MS $376,007M, JPM
+$2,406,032M (script `peers_xbrl.py` in the research folder). Of the three, GS has the thinnest deposit funding and the
+dearest deposits.
+
+- **VERDICT: TOO HARD (NATURE)**, closed at Q1. The deposit half is readable and is not the cheap deposit side of the door
+  **[M2002-022]**, **[M2012-012]**; the asset half is a dealer book with $43.5 trillion of derivative notional whose
+  condition the filing itself calls unpredictable in stress and the rows say no one can know **[M2005-068]**,
+  **[L2002-018]**; "the readable half does not make the unreadable half readable" **[M2002-094]**; the box is "too hard"
+  **[M2006-013]**.
+
+**COMPUTATION — NOT A CLEARANCE.** At $893.46 the market capitalisation of about $260,150M is about 2.43 times the book
+value per common share of $367.67 at 2026-06-30 (EX-99.1, `0000886982-26-000294`). Recorded as arithmetic only; Q4 and Q7
+were not reached, no owner cash was computed and no value is stated.
+
+---
+## Q2 — WHY IS THE CASTLE STILL STANDING? NOT REACHED (Q1 closed TOO HARD).
+## Q3 — HOW MUCH CAPITAL MUST GO IN? NOT REACHED.
+## Q4 — DO THE NUMBERS SHOW WHAT IT EARNS? NOT REACHED. The ten balance-sheet year-ends of `tools/run.py` were read for
+the gearing line in Q1 only; no recast of earnings was made.
+## Q5 — WHO RUNS IT? NOT REACHED. The proxy was fetched and not read for a verdict.
+## Q6 — WHAT WILL THEY DO WITH THE MONEY AND THE OWNERS? NOT REACHED.
+## Q7 — WHAT IS IT WORTH? NOT REACHED. No range, no fair price, no cheap price.
+## Q8 — IS IT BETTER THAN THE ALTERNATIVES? NOT REACHED.
+## Q9 — COULD IT RUIN US? NOT REACHED. Its test 10 points back to Q1, where the financial-institution question was decided.
+## Q10 — IS IT THE FAT PITCH? NOT REACHED.
+## Q12 (optional) — WOULD WE BE PROUD OF HOW THE MONEY IS MADE? NOT REACHED; not asked by the operator.
