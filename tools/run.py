@@ -175,7 +175,7 @@ RX_SBC = (_re.compile(r"ShareBased|Sharebased|StockBased|Stockbased|StockCompens
                       r"NoncashCompensation|StockIssuedForCompensation|EquityAward|SharebasedPayment"),
           _re.compile(r"Tax|Withholding|Excess|PaymentsFor|PaymentsRelated|Proceeds|Settle"))
 RX_CAPX = (_re.compile(r"Mine|Mining|Mineral|Intangible|Software|ProductiveAssets|Development|"
-                       r"Patent|Licens|Exploration|Capitalized|Rental|OnLease|LeasedEquipment|LeaseFleet|Fleet"),
+                       r"Patent|Licens|Exploration|Capitalized|Rental|OnLease|LeasedEquipment|LeaseFleet|Fleet|Aircraft|FlightEquipment"),
            _re.compile(r"Business|Subsidiar|Securit|Proceeds|Sale|Disposal|Loan|Deposit|"
                        r"EquityMethod|Affiliate|Marketable|PropertyPlant|Grant"))
 RX_DEBT = (_re.compile(r"Debt|Borrowing|CommercialPaper|LineOfCredit|LinesOfCredit|NotesPayable|"

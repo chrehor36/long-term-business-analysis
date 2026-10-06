@@ -1162,6 +1162,15 @@
    "threshold": 163,
    "active": true,
    "label": "ABG at/below $163: the v5 cheap price (worst case clears the floor after a 200bp rise on floating debt). Source: Test Runs/2026-10-05 Run - ABG Asbury Automotive.md (IN at Q1, Q2 narrowly, Q5 with the FTC action recorded; OUT at Q7 at $171.62 against a whole-cycle range of $230-$345 and fair about $216). Check the FTC case and Q2 2026 new-vehicle gross profit first. A prompt to read, never a verdict."
+  },
+  {
+   "id": "PBH-v5-cheap",
+   "ticker": "PBH",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 16.86,
+   "active": true,
+   "label": "PBH at/below $16.86: the v5 cheap price (central case earns 15% pre-tax on market value plus $2.1B net debt). Source: Test Runs/2026-10-05 Run - PBH Prestige Consumer Healthcare.md (IN at Q1, Q2 narrowly, Q4, Q5; OUT at Q7 at $45.61 against fair about $47.74). Check Breathe Right's audited results and the floating-rate debt first. A prompt to read, never a verdict."
   }
  ]
 }

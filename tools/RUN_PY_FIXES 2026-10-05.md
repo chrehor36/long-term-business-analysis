@@ -77,3 +77,6 @@ The capex alternate now also catches rental-fleet purchases in the investing sec
 
 ## Added later on 2026-10-05: dividends to minority partners (the ADNT run)
 PaymentsOfDividendsMinorityInterest joins the alternate deductions: cash paid to minority partners in consolidated subsidiaries never reaches the parent's owners. Printed beside the as-filed columns, not chosen.
+
+## Added later on 2026-10-05: aircraft purchases (the SKYW run)
+The capex alternate now also catches flight-equipment purchases (us-gaap:PaymentsForFlightEquipment): SKYW 2023 to 2025 238.1, 265.9, 546.0, matching the run. Aircraft deposits are still not caught, because "Deposit" is excluded to keep bank deposits out; read them from the cash-flow statement (SKYW 2025: 75).
