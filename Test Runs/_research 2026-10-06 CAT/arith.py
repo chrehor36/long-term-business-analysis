@@ -63,3 +63,27 @@ print("implied return at price, shown growth", irr(mean(oc), g, cap), "no growth
 fair = value(mean(oc), g, 0.10) / shares
 cheap = value(mean(oc), 0.0, 0.10) / shares
 print("price at which shown-growth case returns 10%:", round(fair, 2), "; no-growth case returns 10%:", round(cheap, 2))
+
+# ---- Q3: capital the MP&E business needs (10-K FY2025 supplemental financial position, MP&E columns, USD millions)
+def ntoc(assets, cash, gw, intang, nibl):
+    return assets - cash - gw - intang - sum(nibl)
+c25 = ntoc(60061, 9333, 5321, 241, [8988, 4877, 2494, 3311, 703, 2259])
+c24 = ntoc(52642, 6165, 5241, 399, [7619, 4589, 2335, 2305, 674, 2388])
+print("MP&E net tangible operating capital 2025", c25, "2024", c24)
+print("MP&E operating profit 2025 / capital", 10884 / c25, "; owner cash 2025 / capital", oc[-1] / c25,
+      "; five-year mean owner cash / 2025 capital", mean(oc) / c25)
+# full-cycle growth, consolidated profit 2012 -> 2025 (XBRL ProfitLoss) and revenues
+print("profit CAGR 2012-2025", (8882 / 5722) ** (1 / 13) - 1, "; revenue CAGR 2012-2025", (67589 / 65875) ** (1 / 13) - 1)
+for gname, gg in (("capped at the discount rate", rate), ("full-cycle profit growth", (8882 / 5722) ** (1 / 13) - 1)):
+    v = value(mean(oc), gg)
+    print("variant", gname, round(gg, 4), "$M", round(v), "per share", round(v / shares, 2))
+print("MP&E capex 2021-25", sum(mpe_capex), "MP&E D&A 2021-25", sum(mpe_da))
+
+# ---- the floor (CONVENTION, about ten percent pre-tax) restated on after-tax owner cash at the 2025 effective tax rate
+tax = 0.240  # 10-K FY2025, effective tax rate 24.0 percent
+r_floor = 0.10 * (1 - tax)
+print("after-tax equivalent of the ten percent pre-tax floor", r_floor)
+for gname, gg in (("shown growth", g), ("capped at discount rate", rate), ("full-cycle", (8882 / 5722) ** (1 / 13) - 1), ("no growth", 0.0)):
+    print("price clearing the floor,", gname, round(value(mean(oc), gg, r_floor) / shares, 2),
+          "| at 10% on after-tax cash", round(value(mean(oc), gg, 0.10) / shares, 2))
+print("pre-tax equivalent of the implied return at the price, shown growth", irr(mean(oc), g, cap) / (1 - tax))

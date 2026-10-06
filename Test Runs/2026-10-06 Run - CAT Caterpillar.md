@@ -269,7 +269,42 @@ segment, and the low-bid markets are named by the company itself; those weigh on
 whether the castle stands **[M1999-108]**.
 
 ## Q3 — HOW MUCH CAPITAL MUST GO IN to get the earnings out, and what does the added capital earn? WEIGHING.
-*(to be written)*
+**Return on the capital actually needed** **[M2010-090]**, measured on tangible assets **[M2011-060]**. MP&E's net
+tangible operating capital at 2025-12-31, from the MP&E column of the supplemental balance sheet: total assets $60,061M
+less cash $9,333M, goodwill $5,321M and intangibles $241M, less the non-interest-bearing liabilities (accounts payable
+$8,988M, accrued expenses $4,877M, accrued wages $2,494M, customer advances $3,311M, dividends payable $703M, other
+current $2,259M) = **$22,534M** ($20,927M at 2024-12-31). On it, MP&E operating profit of $10,884M is a 48% pre-tax
+return, 2025 owner cash of $9,242M is 41% after every real cost, and the five-year mean owner cash is 35% (arithmetic in
+`arith.py`). The segment note agrees in shape: the three machine segments' assets total $22.9B against $13.1B of
+segment profit in 2025.
+
+**Read with care before it is credited** **[L1994-009]**: "a cyclical peak in earnings, a monopolistic position, or
+leverage". Leverage: no; MP&E's own long-term debt is $11.0B against $9.3B of cash. Cyclical peak: in part, yes. The five
+years 2021 to 2025 are recovery and boom years; in 2016 the whole company lost money on $38.5B of sales, so the return
+across a full cycle is lower than any figure above, and the filings read do not give MP&E's capital in 2016 to measure it.
+Unprecedented returns are not assumed to last **[M1998-016]**.
+
+**Reinvestment to stand still and to grow** **[L1999-024]**, **[M2000-144]**. MP&E capital spending was $8,872M over
+2021 to 2025 against $7,215M of MP&E depreciation and amortization; in 2025 it was $2,794M against $1,497M, and the
+company plans "about $3.5 billion" for 2026 (Item 7). The segment note says where it went: Power & Energy capex rose
+from $944M (2023) to $1,279M (2024) to $1,774M (2025), capacity for engines and turbines, while Construction Industries
+($358M) and Resource Industries ($353M) stayed near their depreciation ($266M, $252M). So depreciation is a fair proxy
+for the spending that keeps the machine business in place **[L2000-035]**, and the excess is growth spending in one
+segment whose return is not yet shown. Working capital grows with volume: inventories rose from $11.5B (2018) to $18.1B
+(2025) (`tools/run.py` balance-sheet table, read against Statement 3), faster than sales, though against a backlog that
+rose from $30.0B to $51.2B in 2025 alone.
+
+**The growth arithmetic and its caps** **[M1997-095]**, **[M1999-067]**. Owner cash grew 12.1% a year from 2021 to 2025
+on the aggregate figure; across a full cycle the business grew far less: sales and revenues $65.9B in 2012 and $67.6B in
+2025 (0.2% a year), profit $5.7B and $8.9B (3.4% a year) (XBRL history). The shown rate is a within-cycle recovery, and
+carried ten years from a boom base it would put owner cash near $29B by 2035 on a business whose sales did not grow in
+nominal terms over thirteen years; that is the kind of result the rows tell the analyst to "change expectations"
+about **[M1999-067]**. Q7 carries the shown rate as the convention requires and shows the capped readings beside it.
+
+**WEIGHS FOR**, with the cycle written against it: the machine business earns very high returns on the tangible capital
+it needs and reinvests about its depreciation to stand still **[M1995-051]**, **[L2009-012]**; but the five-year figures
+are taken near a peak, the long-run growth of the business is low, and the new capital is going into the segment whose
+demand is newest **[L1994-009]**.
 
 ## Q4 — DO THE NUMBERS SHOW WHAT IT EARNS after every real cost? STOP on confusion or suspicion; otherwise WEIGHING.
 *(to be written)*

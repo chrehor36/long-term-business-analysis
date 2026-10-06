@@ -8,3 +8,15 @@ MP&E mean no-growth $M 137809 per share 299.8 | shown-growth $M 359190 per share
 consolidated mean no-growth $M 123297 per share 268.23 | shown-growth $M 321365 per share 699.11 | width 2.61
 implied return at price, shown growth 0.05273996716770822 no growth 0.02000673763535752
 price at which shown-growth case returns 10%: 394.18 ; no-growth case returns 10%: 169.69
+MP&E net tangible operating capital 2025 22534 2024 20927
+MP&E operating profit 2025 / capital 0.48300346143605216 ; owner cash 2025 / capital 0.41013579479897044 ; five-year mean owner cash / 2025 capital 0.3461436052187805
+profit CAGR 2012-2025 0.0344022464057645 ; revenue CAGR 2012-2025 0.001977818003331855
+variant capped at the discount rate 0.0566 $M 215809 per share 469.48
+variant full-cycle profit growth 0.0344 $M 180979 per share 393.71
+MP&E capex 2021-25 8872 MP&E D&A 2021-25 7215
+after-tax equivalent of the ten percent pre-tax floor 0.07600000000000001
+price clearing the floor, shown growth 551.27 | at 10% on after-tax cash 394.18
+price clearing the floor, capped at discount rate 339.87 | at 10% on after-tax cash 250.35
+price clearing the floor, full-cycle 288.01 | at 10% on after-tax cash 214.64
+price clearing the floor, no growth 223.27 | at 10% on after-tax cash 169.69
+pre-tax equivalent of the implied return at the price, shown growth 0.06939469364172134
