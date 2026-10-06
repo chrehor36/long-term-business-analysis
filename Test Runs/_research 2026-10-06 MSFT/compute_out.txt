@@ -1,0 +1,27 @@
+FY   revenue   OCF    SBC   capex  capex/rev  owner cash (OCF-SBC-capex)  OC/rev
+2016   91,154  33,325  2,668   8,343    9.2%      22,314             24.5%
+2017   96,571  39,507  3,266   8,129    8.4%      28,112             29.1%
+2018  110,360  43,884  3,940  11,632   10.5%      28,312             25.7%
+2019  125,843  52,185  4,652  13,925   11.1%      33,608             26.7%
+2020  143,015  60,675  5,289  15,441   10.8%      39,945             27.9%
+2021  168,088  76,740  6,118  20,622   12.3%      50,000             29.7%
+2022  198,270  89,035  7,502  23,886   12.0%      57,647             29.1%
+2023  211,915  87,582  9,611  28,107   13.3%      49,864             23.5%
+2024  245,122 118,548 10,734  44,477   18.1%      63,337             25.8%
+2025  281,724 136,162 11,974  64,551   22.9%      59,637             21.2%
+2026  331,839 182,935 12,405 115,948   34.9%      54,582             16.4%
+
+Capital put in, cash capex plus finance-lease ROU obtained:
+2023: 28,107 + 3,128 = 31,235  = 14.7% of revenue;  owner cash after it 46,736
+2024: 44,477 + 11,633 = 56,110  = 22.9% of revenue;  owner cash after it 51,704
+2025: 64,551 + 20,511 = 85,062  = 30.2% of revenue;  owner cash after it 39,126
+2026: 115,948 + 24,608 = 140,556  = 42.4% of revenue;  owner cash after it 29,974
+FY2026 also less 'Other, net' investing (components) 19,861: 10,113
+FY2026 OCF less the deferred-tax add-back (14,189): 168,746
+
+Leases not yet commenced (USD bn): 2025-06-30 92.7; 2026-03-31 196.6; 2026-06-30 329.1
+Contractual obligations 2026-06-30 (bn): debt principal 46.1, interest 25.6, construction 34.6, leases incl. interest 443.5, purchase commitments 194.1, total 743.8
+
+Five-year mean owner cash FY2022-26 (capex basis): 57,013
+Market cap at $525.18 x 7,425.545M shares: 3,899,748M
+Owner-cash yield, five-year mean: 1.46%;  FY2026: 1.40%;  FY2026 after finance leases: 0.77%  vs Treasury 30y 5.66%
