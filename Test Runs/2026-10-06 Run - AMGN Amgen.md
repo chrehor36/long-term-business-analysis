@@ -199,87 +199,89 @@ reason, dependence on technology continuing to gallop, which the framework's own
 (**[L1993-023]**, **[M1998-008]**). Recorded below under what was unclear.)*
 
 ## Q2 — WHY IS THE CASTLE STILL STANDING, and what keeps it standing ten to twenty years? STOP.
-- The castle tests, each with its filing fact: the attacker with money; pricing power and the agony before a rise; unit
-  volume and share of mind; the low-cost position; the brand in the customer's mind; would the customer still choose it
-  over the low bid; ask the competitors; widening or narrowing; what could destroy it.
-- **The competitor row**, same metric from the competitors' own filings (name, metric, accession).
-- A castle shown open on the evidence closes OUT; a castle whose future cannot be judged closes TOO HARD.
-- **VERDICT: IN / OUT / TOO HARD**, with ids.
+**NOT REACHED.** The file closed at Q1. No competitor row was fetched, since the castle tests are reached only by a
+business Q1 has passed.
 
 ## Q3 — HOW MUCH CAPITAL MUST GO IN to get the earnings out, and what does the added capital earn? WEIGHING.
-- Return on the capital actually needed; reinvestment to stand still and to grow; the growth arithmetic and its caps.
-- **WEIGHS FOR / AGAINST / UNDECIDED**, one sentence, with ids. (The "little or no debt" criterion is applied at Q9.)
+**NOT REACHED.** For the record only, and not a weighing: the Step 0 table shows $33,410M paid for businesses over five
+years against $40,822M of owner cash on the capex basis, which is the question Q3 would have had to answer first.
 
 ## Q4 — DO THE NUMBERS SHOW WHAT IT EARNS after every real cost? STOP on confusion or suspicion; otherwise WEIGHING.
-- **The balance sheets first, eight to ten years of them, before the income account** **[M2025-032]** (`tools/run.py`
-  prints the ten-year table; read the filed statements behind it). Say what moved and why: equity against goodwill and
-  intangibles, cash, receivables and inventory against sales, debt, retained earnings; "what the figures are saying and
-  what they don’t say and what they can’t say" **[M2025-032]**. *(line added 2026-10-05: the rule was in Q4 of the
-  framework from adoption, and no run had been asked to do it.)*
-- The real costs (depreciation, stock pay, restructurings, the recurring "one-time"); EBITDA in the filer's own
-  mouth; what the accounts say of management's character. The make-the-numbers habit alone weighs against; with a
-  second tell it is suspicion.
-- **VERDICT on confusion: IN / OUT; WEIGHS FOR / AGAINST** otherwise, with ids. The recast earnings feed Q7.
+**NOT REACHED.** Seen in passing and recorded for a later run, not weighed: the earnings release headlines non-GAAP EPS
+beside GAAP EPS, excludes "noncash amortization of intangible assets and fair value step-up of inventory acquired from
+business combinations" and "Certain net charges pursuant to our restructuring and cost-savings initiatives" (present in
+both Q2 2025 and Q2 2026), does not exclude stock pay, and states that the non-GAAP measures are used "to evaluate
+results relative to incentive compensation targets" (EX-99.1, 8-K `0000318154-26-000124`). The ten-year balance-sheet
+table is in `run_py_output.txt`; the filed statements behind it were not read.
 
 ## Q5 — WHO RUNS IT: able, honest, in love with the business, the same after being paid. STOP on integrity.
-- The two yardsticks; the tells of dishonesty (the proxy, the letters, how they talk about mistakes); love of the
-  business; what ability shows in. Integrity applied on doubt alone.
-- **VERDICT on integrity: IN / OUT; ability WEIGHS FOR / AGAINST**, with ids.
+**NOT REACHED.** The proxy (`0001193125-26-145588`) was retrieved and not read.
 
 ## Q6 — WHAT WILL THEY DO WITH THE MONEY AND THE OWNERS? WEIGHING.
-- Part A: the retention test (a dollar kept worth more than a dollar, over time); buybacks (only below value; a buyback
-  with no stated price weighs against unless the prices paid sit at or below the bottom of the Q7 range); issuance and
-  deals (value given against value got; an all-stock deal at an undervalued price is the one STOP here).
-- Part B: pay tied to what the person controls; the board; the owners as partners.
-- **WEIGHS FOR / AGAINST / UNDECIDED**, one sentence per part, with ids.
+**NOT REACHED.**
 
 ## Q7 — WHAT IS IT WORTH? STOP.
-- How much cash, how sure, how soon, at the long government rate, as a range (the CONVENTION construction: five-year
-  average of owner cash after every real cost, carried at the growth shown and capped by Q3, ten years then no real
-  growth, at the sovereign; the ends are the no-growth and shown-growth cases).
-- The floor (CONVENTION): about ten percent pre-tax expected return, as the speakers stated and qualified it; below it
-  the name is quit on, not ranked.
-- **Value range:** $ ___ to $ ___ a share against $ ___. **Closes:** TOO HARD if the range is wider than about three
-  to one; OUT if the price sits inside or just below a narrower range (not a screamer); IN only if the price is so far
-  below that no pencil is needed.
-- **VERDICT: IN / OUT / TOO HARD**, with ids.
+**NOT REACHED.** No value range was built; the Step 0 yields are arithmetic, headed COMPUTATION — NOT A CLEARANCE.
 
 ## Q8 — IS IT BETTER THAN THE ALTERNATIVES: the bond, more of what I already own, the company's own stock? STOP.
-- The bond as the first filter, then the ranking against the best thing already held (for a private holder, more of
-  what he owns; for a company, its own stock below value).
-- **VERDICT: IN / OUT**, with ids.
+**NOT REACHED.**
 
 ## Q9 — COULD IT RUIN US: the target's debt and exposures. WEIGHING.
-- Debt in the business, demands for sudden large sums, counterparties, aggregation; "little or no debt" is the one STOP
-  for a whole business bought.
-- **WEIGHS FOR / AGAINST**, with ids.
+**NOT REACHED.** Facts seen, not weighed: debt outstanding $57.3B at 2026-06-30 against cash of $14.0B (release); $4.0B
+of new senior notes sold in February 2026 (8-K `0001193125-26-059490`); a material cybersecurity incident with
+exfiltrated "patient protected health information", the investigation "ongoing" (8-K `0000318154-26-000119`).
 
 ## Q10 — IS IT THE FAT PITCH, and am I buying enough? WEIGHING.
-- Inaction as the default; sizing when sure; the omission as the costliest error. No position is taken here; say what
-  the draft would have the buyer do.
+**NOT REACHED.** What the draft has the buyer do: nothing. Outside the circle the stop costs nothing the speakers count
+**[M2018-087]**; inaction is the default **[M1996-006]**.
 
 ## Q12 (optional) — WOULD WE BE PROUD OF HOW THE MONEY IS MADE?
-- The newspaper test; the businesses named. **STOP for named businesses; otherwise WEIGHS FOR / AGAINST.**
+**NOT REACHED** (optional; not asked).
 
 ---
 ## THE BOX
-One line: **IN / OUT / TOO HARD (WORK) / TOO HARD (NATURE)**, the question that decided it, and for a name that reached
-Q7 the range beside the price. A TOO HARD names its cause (the framework's section I, the two causes): WORK when the
-deciding question is knowable and the work is not done, which opens a research file (Part VII); NATURE when the
-industry's insiders would not write the forecast down. Q11 (has the business changed, or only its price) belongs to the holding review, not to a purchase run.
+**TOO HARD (NATURE)**, decided at **Q1**. Amgen's ten-year earning power depends on which molecules now in Phase 3
+succeed and on drug prices the US government and payers have not yet set; the 10-K itself calls the first "highly
+uncertain" and the second "difficult to predict", so the insiders would not write the forecast down **[M2000-105]**,
+**[L1993-023]**. Q7 was not reached; no range is stated. Price $402.98 (aggregator), 540.632M shares
+(`0000318154-26-000126`), market cap about $217,864M, sovereign 5.66%. The closed box: no research file is opened, and a
+lower price does not reopen it **[M2000-038]**. What would reopen it is not a price but a change in what the forecast
+rests on: a ten-year cash stream carried by products whose exclusivity runs past the horizon and whose US price is
+already settled, so that the forecast no longer turns on trial results and price setting still to come. Nothing in the
+present filings shows that.
 
 ## SELF-AUDIT
-- [ ] Copied to the dated file before any fetch; written question by question; committed after each (write-early).
-- [ ] Every v5 id resolves (grep it in `principle_ledger_v5.csv`); every filing fact has its accession; no number
-      without a row or a filing.
-- [ ] The order was kept; the first STOP that failed closed the run; nothing after it is a clearance.
-- [ ] Owner cash after every real cost, never a net-income proxy (operator rule 5); the sovereign from the issuing
-      authority; aggregator quotes flagged.
-- [ ] Contrary evidence was written down as it was found **[M1997-127]**.
-- [ ] No row dated after the anchor is cited in a point-in-time run (Part VII).
-- [ ] Only the arithmetic lines of `tools/run.py` were used (Part VII).
-- [ ] `python tools/check_framework.py` PASS before the commit.
+- [x] Copied to the dated file before any fetch; written question by question; committed after each (write-early):
+      commits `dfdcf29` (Step 0, foundations, standing rule) and `bb7768e` (Q1), then this close.
+- [x] Every v5 id resolves (each grepped in `principle_ledger_v5.csv` before it was written; the acceptance test's
+      phantom check passes); every filing fact has its accession; no number without a row or a filing (the arithmetic is
+      in `calc.py`).
+- [x] The order was kept; the first STOP that failed (Q1) closed the run; nothing after it is a clearance, and the facts
+      recorded under Q3, Q4 and Q9 are marked as not weighed.
+- [x] Owner cash after every real cost, never a net-income proxy (operator rule 5): OCF less stock pay less capex, with
+      the D&A basis and the after-acquisitions basis beside it; the sovereign from the US Treasury; the price flagged as
+      an aggregator quote.
+- [x] Contrary evidence was written down as it was found **[M1997-127]**: the 2025 growth record, **[M1999-043]**, and the
+      cybersecurity 8-K's no-impact statement, in the foundations, and weighed in Q1.
+- [x] No row dated after the anchor is cited in a point-in-time run (Part VII): this run is dated today; not a
+      point-in-time test.
+- [x] Only the arithmetic lines of `tools/run.py` were used (Part VII); its yield, growth-assumed and points-over lines
+      were not used, and its 2023 stock-pay figure was replaced by the filed one.
+- [x] `python tools/check_framework.py` PASS before each commit.
 
 ## WHAT IN THE FRAMEWORK WAS WRONG OR UNCLEAR
-One paragraph: the instruction found ambiguous, missing or unworkable in this run, and what was done. Every run so far
-has had one; a run that reports none is suspect.
+(1) **[M1999-075]**, the one row that names pharmaceuticals, is listed in Q1's "What it rules OUT", while the paragraph
+"Sent to TOO HARD, not OUT" and the routing rule send businesses whose economics depend on fast-moving technology to TOO
+HARD, and section I defines OUT as a question answered against the name. The row's own reason is dependence ("quite
+dependent on the technology continuing to gallop"), not a finding that the business is bad, and **[M1999-043]** says the
+industry did very well; so this run closed TOO HARD (NATURE), not OUT. Two analysts could close the same drug company
+either way from the list as written; the list item wants either moving to the TOO HARD paragraph or a note saying which
+box it fills. (2) The framework has no stated treatment for a business whose reinvestment to stand still is the purchase
+of other companies' products: the Q7 CONVENTION deducts "all capital spending", and it is not said whether payments for
+businesses acquired are capital spending. Here the choice moves the five-year mean from $8,164M to $1,482M. Not decided,
+since Q7 was not reached; recorded in Step 0 with both bases. (3) Tool defects, reported and not fixed: `tools/run.py`
+took FY2023 stock pay from `AllocatedShareBasedCompensationExpense` (473) where the filed cash-flow statement and the
+`ShareBasedCompensation` element give 431; and its owner-earnings header still says "mean of 3 years [...] maintenance
+capex" (a v4 construction) while the v5 CONVENTION asks for five years; the five-year means appear only as "THE OTHER
+WINDOW" (8,156 capex basis, carrying the 473), with no per-year lines, so the five-year table was rebuilt from
+companyfacts.
