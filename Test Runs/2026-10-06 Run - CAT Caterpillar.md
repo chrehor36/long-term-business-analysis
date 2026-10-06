@@ -307,7 +307,59 @@ are taken near a peak, the long-run growth of the business is low, and the new c
 demand is newest **[L1994-009]**.
 
 ## Q4 — DO THE NUMBERS SHOW WHAT IT EARNS after every real cost? STOP on confusion or suspicion; otherwise WEIGHING.
-*(to be written)*
+**The balance sheets first, eight years of them** **[M2025-032]** (`tools/run.py` table, first-filed XBRL, read against
+Statement 3 for 2024 and 2025; USD millions):
+
+| year-end | equity | retained earnings | cash | receivables (trade) | inventory | goodwill | intangibles | LT debt |
+|---|---|---|---|---|---|---|---|---|
+| 2018 | 14,080 | 30,427 | 7,890 | 8,802 | 11,529 | 6,217 | 1,897 | 25,000 |
+| 2020 | 15,378 | 35,167 | 9,352 | 7,317 | 11,402 | 6,394 | 1,308 | 25,999 |
+| 2022 | 15,891 | 43,514 | 7,004 | 8,856 | 16,270 | 5,288 | 758 | 25,714 |
+| 2024 | 19,494 | 59,352 | 6,889 | 9,282 | 16,827 | 5,241 | 399 | 27,351 |
+| 2025 | 21,318 | 65,448 | 9,980 | 10,920 | 18,135 | 5,321 | 241 | 30,696 |
+
+What the figures say: retained earnings rose $35.0B from 2018 to 2025 while equity rose $7.2B, the difference having
+gone out as dividends and repurchases (treasury stock $49.5B at 2025-12-31, Statement 3); goodwill and intangibles fell
+from $8.1B to $5.6B, so no acquisition spree is hiding in the assets, and the intangibles are amortizing away; long-term
+debt rose $5.7B, mostly at Cat Financial (MP&E long-term debt $11.0B, Financial Products $21.0B, supplemental balance
+sheet); trade receivables grew about in line with sales ($54.7B in 2018, $67.6B in 2025). What moved out of line:
+**inventory**, from 21% of sales (2018) to 27% (2025). The rows ask the analyst to "look twice" when inventories "look out
+of line [...] with sales" **[M1995-064]**; here the 10-K offers the backlog ($51.2B against $30.0B) and customer advances
+($3.3B against $2.3B) as the reason, and the 2026 first half (sales +23%) is consistent with it. Recorded, not a tell.
+What the figures cannot say: the cycle. Every year-end in the table is after 2017; the balance sheet at the 2016 trough
+was not read.
+
+**The real costs.** Depreciation is charged in full in owner cash and capex runs above it. Stock pay ($242M in 2025) is
+expensed in GAAP profit and subtracted in owner cash **[L2021-003]**; options are valued and expensed (Note 3). Pensions:
+U.S. pension benefits frozen at 2019-12-31, and actuarial gains and losses are marked to market through earnings each
+year (Critical Accounting Estimates), so no smoothing is hidden in the pension line. Taxes: the $717M IRS settlement paid
+in 2022 ("without any penalties", 10-K FY2022) is counted as the real cost it was.
+
+**EBITDA in the filer's own mouth:** no instance found in the 10-K FY2025 or the Q2 2026 earnings release (text search
+for "EBITDA" in both extracts).
+
+**Adjusted earnings, and the recurring "one-time".** The earnings release puts "Adjusted Profit Per Share" in its headline
+table beside GAAP ($8.17 against $7.77 for Q2 2026; 8-K `0000018230-26-000040`, EX-99.1), and the adjustment is
+restructuring costs. Restructuring costs have been charged in every year read: $207M (2019), $241M (2020), $90M (2021),
+$299M (2022), $780M (2023), $359M (2024), $445M (2025) (segment-to-consolidated reconciliations, 10-Ks FY2021, FY2023,
+FY2025), and the 10-K guides to "$300 million to $350 million" more in 2026. A cost that recurs for seven years is a cost
+of doing business; the rows' words for telling owners "year after year, 'Don't count this'" are "misleading"
+**[L2016-007]**, and a management that features adjusted earnings "makes us nervous" **[L2016-006]**. The company's
+"MP&E free cash flow" likewise added back the 2022 IRS payment. Against that: GAAP figures are given first, the
+reconciliation is complete, the adjustment is symmetric for pension marks (gains are removed as well as losses), the
+$392M IEEPA tariff recovery of Q2 2026 was left in adjusted profit just as the tariff costs had been, and the 10-K reports
+MP&E and Financial Products separately, which is the reporting the rows ask for **[L2008-005]**.
+
+**The make-the-numbers habit.** No earnings-per-share target was found in the 10-K or the release; the company states a
+sales growth target ("5 to 7 percent compound annual growth rate (CAGR) target") and margin ranges. No second tell from
+the list was found: no reserve releases flagged, no prepaid or deferred accounts building, no securitization gains
+(proceeds from sale of finance receivables $71M in 2025, small). One tell, adjusted earnings featured over a recurring
+cost, is a weighing against, not a STOP (Q4, the two-tell line, CONVENTION) **[L2002-039]**, **[M1994-018]**.
+
+**VERDICT on confusion: IN.** The accounts can be read, the two businesses are reported apart, and the cash figures
+reconcile to the filed statements **[M2025-032]**. **WEIGHS AGAINST**, lightly: adjusted profit is featured over
+restructuring costs that recur every year **[L2016-007]**, **[L2016-006]**. The recast earnings fed to Q7 are owner cash,
+which counts every restructuring dollar and every tax payment.
 
 ## Q5 — WHO RUNS IT: able, honest, in love with the business, the same after being paid. STOP on integrity.
 *(to be written)*
