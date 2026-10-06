@@ -849,3 +849,7 @@ after the window and before the price date is valued on its own filed record, it
 credited at nothing where no earnings are filed; (e) where the growth bought is worth less than its cost, the maintenance-only
 no-growth case is the top of the range and the growth case the bottom, and that inversion is the finding **[L2000-023]**, not an
 error. The operator is asked whether D and H enter Q7 with these amendments, or whether a second test is run first.
+
+---
+# DECIDED 2026-10-06, sections D and H into Q7 with the amendments
+**The operator ruled "into Q7"** after reading the T2 result above. D enters Q7 "The range, not the point" with its three amendments (the cycle series; the deal closed after the window; the D(e) inversion named as the finding **[L2000-023]**) and H enters Q7 "The floor or hurdle" with the net-debt date; both are in section VI's confessed conventions, in the template's Q7 lines and in the canonical brief. The texts the test used stand unchanged in `Framework/v5/tests/RULES UNDER TEST 2026-10-06 - sections D and H.md`. Every run dated after this decision reports its fair price on the all-equity basis after the company's tax; the fair-price alerts armed earlier today stand at their runs' own figures and are not restated.

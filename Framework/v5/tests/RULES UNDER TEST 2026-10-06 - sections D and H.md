@@ -46,3 +46,5 @@ do not ask.*
 ## How to cite them
 Cite the rows by their ids as in any run; quote only the rows' own words beside an id. Where you apply one of these texts, say
 "rule under test, section D(a)" (or whichever) in the sentence, so that the comparison can find every place it bore.
+
+*Dated note, 2026-10-06, evening: both texts entered Q7 of `Framework/THE FRAMEWORK v5.md` at the operator's decision after the four re-runs, with the amendments the test produced (recorded in the case's DECIDED block). This file stands as the text the test used and is not updated.*

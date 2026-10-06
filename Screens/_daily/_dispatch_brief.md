@@ -57,9 +57,8 @@ learn whether anyone holds or wants this name.
 ## Reporting, at the owner's request (a reporting convention, not a rule; nothing here is a verdict or entry language)
 Report two figures, labelled COMPUTATION if the file closed before Q7: **(a)** the VALUE RANGE as Q7 builds it, with a
 whole-cycle variant beside it if the five-year window holds a boom, a trough, a merger or a divestiture; **(b)** the FAIR
-PRICE, the price at which the midpoint of the range earns the floor of about ten percent pre-tax. State the tax treatment
-used and whether the floor is applied to the equity alone or to equity plus net debt, and give the figure both ways where
-they differ. There is no cheap price: the operator reads any price below fair as cheap (decision of 2026-10-06, recorded in
+PRICE, the price at which the midpoint of the range earns the floor of about ten percent pre-tax. The tax treatment is the company's own tax (Q7, Whose tax); the central figure is on the all-equity basis with the
+equity-only figure beside it (Q7, On what the floor is earned; both adopted 2026-10-06), and the run says which is which. There is no cheap price: the operator reads any price below fair as cheap (decision of 2026-10-06, recorded in
 `Framework/v5/CASE 2026-10-05 - gaps found by the small-cap runs, for the operator's approval.md`, section F). Report no
 other price figure.
 

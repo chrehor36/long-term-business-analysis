@@ -81,7 +81,10 @@ Does owning this put the buyer at risk of ruin (the buyer's conduct, not the tar
 ## Q7 — WHAT IS IT WORTH? STOP.
 - How much cash, how sure, how soon, at the long government rate, as a range (the CONVENTION construction: five-year
   average of owner cash after every real cost, carried at the growth shown and capped by Q3, ten years then no real
-  growth, at the sovereign; the ends are the no-growth and shown-growth cases).
+  growth, at the sovereign; the ends are the no-growth and shown-growth cases; the six specifics: the cycle base where an
+  end year is aberrational, negative growth carried as the bottom, acquisitions deducted with total growth credited and the
+  organic pair beside, working capital counted, the maintenance-only case central where the filing allows the guess, the cap;
+  a deal closed after the window on its own filed record).
 - The floor (CONVENTION): about ten percent pre-tax expected return, as the speakers stated and qualified it; below it
   the name is quit on, not ranked. Applied to owner cash after the company's own income tax, no conversion; a
   carryforward or credit that runs out inside ten years is priced separately (section E).
@@ -89,8 +92,9 @@ Does owning this put the buyer at risk of ruin (the buyer's conduct, not the tar
   to one; OUT if the price sits inside or just below a narrower range (not a screamer); IN only if the price is so far
   below that no pencil is needed.
 - **Fair price (a reporting figure, never a verdict; Part VII):** $ ___ a share, the price at which the midpoint of the
-  range earns the floor; tax treatment stated; on equity $ ___ and on equity plus net debt $ ___ where they differ. No
-  cheap price is reported.
+  range earns the floor, after the company's own tax; the central figure on the all-equity basis (owner cash before interest
+  against market value plus net debt at the latest filed date, stated subsequent events added) and the equity-only figure
+  $ ___ beside it. No cheap price is reported. *(basis named 2026-10-06, section H.)*
 - **VERDICT: IN / OUT / TOO HARD**, with ids.
 
 ## Q8 — IS IT BETTER THAN THE ALTERNATIVES: the bond, more of what I already own, the company's own stock? STOP.
