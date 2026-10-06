@@ -123,11 +123,114 @@ requires leverage, collateral or a short maturity on the buyer's side. Not breac
 
 ---
 ## Q1 — CAN I UNDERSTAND IT? Where its economics will be in ten years, inside my perimeter. STOP.
-- The test as the draft states it, applied to the filings; the key variables and whether they are foreseeable.
-- Routing: a business whose ten-year economics cannot be foreseen because its industry changes fast closes here, TOO
-  HARD; a bank is inside the circle when both sides of its balance sheet can be read; a holding company is understood
-  by its parts.
-- **VERDICT: IN / OUT / TOO HARD**, with ids and the filing fact.
+**The test applied.** Understanding means "a reasonable fix on about what the earning power and competitive position will
+look like in five or 10 years" **[M2012-065]**, "a reasonable probability of being able to asses where the business will
+be in 10 years" **[M2000-037]**; it is not knowing the product: "We understand what it does for people. We just don’t
+know the economics of it 10 years from now." **[M2000-104]**. The first step is "trying to identify the key variables
+in that particular business, and evaluating how predictable they were first [...] If something is not very
+predictable, forget it." **[M1998-044]**
+
+**What the business is, from the 10-K FY2026 (`0001193125-26-323660`).** Three segments in FY2026: Productivity and
+Business Processes, revenue $139,996M and operating income $83,879M (Microsoft 365 Commercial and Consumer, LinkedIn,
+Dynamics); Intelligent Cloud, revenue $137,791M and operating income $56,972M (Azure and other cloud services, server
+products), with Azure "and other cloud services" up 41% and above $100 billion of revenue for the first time (8-K
+Exhibit 99.1, `0001193125-26-323632`); More Personal Computing, revenue $54,052M (Windows OEM and devices, XBOX, search
+advertising). From fiscal 2027 the company reorganizes its reporting into two segments, "(1) Agents and Infra and (2)
+Devices and Consumer" (8-K Item 7.01, `0001193125-26-380280`). Item 1 describes itself first as "a technology company
+committed to making digital technology and artificial intelligence (“AI”) available broadly", and states: **"Our future
+growth depends on our ability to transcend current product category definitions, business models, and sales
+motions."**
+
+**The key variables, and whether each is foreseeable.**
+1. **What the AI and datacenter capital will earn over ten years.** This is now the largest single variable in the
+   business. Capital spending rose from $28,107M (FY2023) to $115,948M (FY2026), with $24,608M more taken on as finance
+   leases; leases signed and not yet commenced rose from $92.7B (2025-06-30) to $196.6B (2026-03-31) to $329.1B
+   (2026-06-30); datacenter purchase commitments are $194.1B (Step 0). The company says of this programme, in Item 1A:
+   the investments "are being made at significant scale and on an accelerated timeline, require substantial and
+   increasing capital expenditures and continued access to capital, and are **in advance of fully developed revenue
+   streams**. The associated revenue may not be realized in the expected timeframes or at expected levels"; **"Demand
+   for cloud-based and AI products and services is evolving and difficult to forecast.** Overestimation of demand or
+   misalignment of capacity investments may result in underutilization of infrastructure and may lead to impairment of
+   assets"; "**The cost structure for AI products and services is subject to significant uncertainty**, including with
+   respect to model training and inference costs, the availability and pricing of components, and energy costs [...]
+   or if pricing for AI products and services declines as a result of competition, **commoditization**, or other market
+   forces, our margins [...] could be adversely affected"; and "**Investments in new technology are speculative.**"
+   Not foreseeable, and the filer says so.
+2. **Whether the seat franchise survives the move to agents.** Microsoft 365 Commercial cloud revenue grew 17% and
+   seats 6% (MD&A); this is the part of the business with the longest record of subscription revenue. But the company
+   itself names the variable that decides it, "the accelerating importance of agentic computing" (Item 1A), renames its
+   main segment after "Agents", lists among Office's competitors "AI-first application companies" (Item 1), and says
+   that "Barriers to entry in many of our businesses are low and many of the areas in which we compete evolve rapidly
+   with changing and disruptive technologies" (Item 1A). Whether work done by agents is sold per seat, per use or not by
+   Microsoft at all is a forecast about the technology, not about the customer's habits.
+3. **The OpenAI relationship.** An equity-method investee of about 25% on an as-converted basis, a related party, a
+   source of $24.1B of FY2026 revenue "from commercial arrangements with OpenAI, inclusive of revenue-sharing payments",
+   and a competitor: "Our AI offerings compete with AI products from hyperscalers, open-source offerings, and frontier
+   model providers, some of which are also current or potential partners" (Note 1 and Item 1A). The economics of that
+   arrangement ten years out are not in the filings and could not be.
+
+**The tests of Q1, each against the filing.**
+- *Where will it be in ten years* **[M1999-132]**: on the evidence above, at a level of capital intensity the company has
+  never run at (capital put in 42.4% of FY2026 revenue, finance leases included, against cash capex of 8.4% to 13.3% of revenue in FY2016 to FY2023), earning a return on
+  that capital that no filing yet shows.
+- *Do the past statements tell me the future ones* **[M2008-033]**: no. The FY2016 to FY2023 statements describe a
+  software business whose owner cash ran at 23% to 30% of revenue; the FY2026 statement, after finance leases, shows
+  9.0%, and the commitments signed since make the FY2027 to FY2033 statements a different business again. The record
+  does not describe the business now being built.
+- *Important and knowable* **[M2006-076]**: the return on the datacenter programme is the most important figure in the
+  valuation and is, in the filer's own words, "difficult to forecast".
+- *Would the insiders write it down* **[M2000-105]**: the insiders here are the issuer, and in a document signed under
+  liability they decline to: "The associated revenue may not be realized in the expected timeframes or at expected
+  levels." That is test 5 answered by the company itself.
+- *Can I name the winner, not just the industry* **[M2012-067]**: the 10-K names its AI competitors as "hyperscalers,
+  open-source offerings, and frontier model providers", some of them partners; the speakers said of the cloud in 2017
+  that "there are a lot of people that would aim that silver bullet at Jeff" **[M2017-022]**, i.e. the cloud has more
+  than one strong contender. Seeing that AI will be large is not seeing who earns what on it **[L2009-005]**.
+- *Customers or technology* **[M2017-019]**: the deciding variables (inference cost curves, component pricing,
+  "commoditization", agents against seats) are technology variables, the IBM-type analysis, not the Apple-type one.
+- *How far off could I be* **[M2011-084]**: FY2026 owner cash alone is $54,582M, $29,974M or about $10,113M depending
+  on whether finance leases and component prepayments are counted (Step 0); ten years out the spread is wider than
+  that, and its direction is the open question.
+- *Do I doubt it is inside* **[M2002-092]**: yes. "if you have doubts about something being into your circle of
+  competence, it isn’t."
+
+**The speakers on this company, read as rows, not as authority.** "We think Microsoft is a sensational company run by
+the best of managers. But we don’t have any idea what that world is going to look like in 10 or 20 years."
+**[M1996-059]**; "I don’t know where Microsoft or Intel — I don’t know what that world will look like in 10 years"
+**[M1998-050]**; and the leader that must "leverage its current leadership into new activities [...] Predicting whether
+somebody’s going to be able to do that in advance is just — it’s too tough for us." **[M1997-022]**. The 10-K's
+sentence about transcending "current product category definitions, business models, and sales motions" is that
+leverage stated as the company's plan. These rows were said of an earlier Microsoft; they are cited because the test
+they apply is Q1's, and the filings show the same kind of change again, not because the speakers' verdict binds.
+
+**The contrary evidence, weighed** **[M1997-127]**. (a) The commercial remaining performance obligation is $678B, up 84%,
+about 30% to be recognized within twelve months (Note on revenue): there is contracted demand. But a weighted average
+duration of 2.3 years covers a fraction of a ten-year horizon and of leases running to 20 years, and an unknown share of
+it is owed by OpenAI, the related party named above; contracted revenue is not the return on the capital that serves
+it. (b) The Microsoft 365 Commercial franchise, taken alone, may well be foreseeable: an installed base sold by
+subscription for a decade. Read by its parts, a part that cannot be understood and that matters keeps the whole outside
+**[M2002-092]** (the by-parts reading is the framework's CONVENTION at Q1), and the datacenter programme is the part
+that will decide the next ten years' owner cash. (c) "If I had to bet on anybody, I’d certainly bet on Microsoft, bet
+heavily if I had to bet. But I don’t have to bet." **[M1999-072]**: the row is for the company's quality and against
+the need to forecast it; it is the clearest statement in the ledger of a TOO HARD that is not a judgment against the
+business. (d) Revenue grew 18% and operating income 21% in FY2026: the year was good; Q1 asks about the tenth year.
+
+- **VERDICT: TOO HARD (NATURE)** **[M1998-008]**, **[L1993-023]**, **[L1999-018]**, **[M2000-105]**. The ten-year
+  economics of Microsoft now turn on what a datacenter and AI programme of a size the company has never run will earn,
+  and on whether agents keep or break the seat-based franchise; the company's own 10-K calls the demand "difficult to
+  forecast", the cost structure "subject to significant uncertainty", and its new-technology investments "speculative".
+  "a business that must deal with fast-moving technology is not going to lend itself to reliable evaluations of its
+  long-term economics" **[L1993-023]**, and the routing sends that case here, to TOO HARD, not OUT **[M1998-008]**.
+  **The cause is NATURE, not WORK**: the deciding forecast is one the industry's insiders would not write down
+  **[M2000-105]**, and here the insider is the issuer, in its own risk factors; "Our problem -- which we can't solve by
+  studying up -- is that we have no insights into which participants in the tech field possess a truly durable
+  competitive advantage." **[L1999-018]**. A research pass would read the same filings and meet the same sentence;
+  "we’re not going to learn enough in the followings five months to make up for the fact that we went in deficient in
+  the first place" **[M2008-086]**. This is not a judgment of quality: "It doesn’t mean it isn’t a good buy. It doesn’t
+  mean it isn’t selling for a fraction of its worth. It just means that we don’t know how to evaluate it."
+  **[M2000-038]**; and a miss here is not counted an error, since "if somebody knows how to make money [...] in a
+  software company or anything, and we miss that, that is not an error, as far as we’re concerned." **[M2001-006]**. A
+  lower price does not reopen it **[M2000-038]**. The box is "in, out, and too hard" **[M2006-013]**.
 
 ## Q2 — WHY IS THE CASTLE STILL STANDING, and what keeps it standing ten to twenty years? STOP.
 - The castle tests, each with its filing fact: the attacker with money; pricing power and the agony before a rise; unit
