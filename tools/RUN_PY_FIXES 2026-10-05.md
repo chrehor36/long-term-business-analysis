@@ -86,3 +86,6 @@ The capex alternate now also catches subscriber-system and dealer or bulk accoun
 
 ## Added later on 2026-10-06: amortization-only depreciation flagged (the PTEN run)
 Where a filer tags depreciation under its own element, companyfacts holds only AmortizationOfIntangibleAssets and the D&A column was silently far too low (PTEN: about 126 against a filed charge near 1,000). Such years are now flagged with a D&A WARNING line; the figure is not replaced, because the tool cannot choose the filer's own element. Tested: PTEN warns for 2023 to 2025; HUBB does not.
+
+## Added later on 2026-10-06: vessel purchases (the INSW run)
+The capex alternate now also catches vessel purchases and improvements (INSW 2023 to 2025: 205.2, 278.8, 340.5; the run's 2025 figure is 340.5). The as-filed capex column had read only other property (about 1.4), so the screen's yield for shipowners is void until the run reads the alternate. Vessel sale proceeds are not netted here.
