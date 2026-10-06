@@ -100,3 +100,130 @@ identifying Google better" **[M2019-024]**, **[M2017-080]**.
 Does owning this put the buyer at risk of ruin? Not by the business itself; ruin would come only from the buyer's own
 conduct, borrowing to own it or sizing it so that a fall of half forces a sale **[M2012-081]**, **[L2014-005]**,
 **[M2020-022]**. No purchase is reached in this run, so no financing or size is proposed; nothing in it engages the rule.
+
+---
+## Q1: CAN I UNDERSTAND IT? Where its economics will be in ten years, inside my perimeter. STOP.
+**The test as the framework states it.** Understanding is "a reasonable fix on about what the earning power and
+competitive position will look like in five or 10 years" **[M2012-065]**, "a reasonable probability of being able to asses
+where the business will be in 10 years" **[M2000-037]**; knowing the product is not enough, "We just don’t know the
+economics of it 10 years from now" **[M2000-104]**. The quick decision is made from the documents **[M2008-069]**,
+**[M2005-015]**, and they were read first (Step 0).
+
+**What the business is, from the filings.** Three parts that matter. Google Services, more than 70% of 2025 revenue from
+online advertising (10-K FY2025, Item 1A, `0001652044-26-000018`), with Search & other at $224,532M of $402,836M of 2025
+revenue and Services operating income of $139,404M. Google Cloud, $58,705M of 2025 revenue and $13,910M of operating
+income, $44,796M of revenue in the first half of 2026 alone and a revenue backlog of $513.9B (10-Q Q2 2026,
+`0001652044-26-000071`). And the company-wide AI build that feeds both: capital spending of $32.3B (2023), $52.5B (2024),
+$91.4B (2025), $80.6B in the first half of 2026, with "2026 capital expenditures ... expected to be $180-$190 billion" and
+"2027 capital expenditures to significantly increase compared to 2026" (EX-99.1, `0001193125-26-257724`), funded in part
+by over $85B of new debt and an $80B equity raise. A holding company is understood when each part that matters can be
+understood (CONVENTION, Q1, the holding company by its parts) **[M2002-092]**.
+
+**The key variables, and how predictable each is** **[M1998-044]**.
+1. *Search queries and what an advertiser pays for them, ten years out.* The filer: "We believe AI is quickly reshaping
+   the advertising industry ... There is no assurance that we will adapt effectively and competitively to meet this
+   shift", and "the consumers may change how they obtain information online, potentially reducing the utility of our
+   existing products and services" (10-K FY2025, Item 1A). Its competitor list now includes "AI model developers and
+   providers of AI products and services". The variable is a change in how people look for information, under way now,
+   whose end state no one has filed.
+2. *What the AI capital earns.* The 2026 budget alone is about four times the owner cash of any year 2023 to 2025
+   ($46,166M to $49,964M), and 2027 is to be higher. Whether that capital earns more than a dollar per dollar depends on
+   prices for compute and models set "as a host of competitors battle for supremacy" **[L2009-005]**: the filer says "AI
+   technology and services are highly competitive, rapidly evolving, and require significant investment" and that others
+   "may develop AI products and technologies that are similar or superior to our technologies or more cost-effective to
+   develop or deploy" (10-K FY2025, Item 1A). The $513.9B backlog says what customers have committed to buy, not what the
+   capital will earn after the build.
+3. *The legal shape of distribution.* The December 2025 final judgment in the search case "imposes restrictions on how
+   Google distributes its services and requires Google to share certain search data with and offer syndication services
+   to certain competitors"; appealed January 2026 (10-Q Q2 2026, legal matters).
+
+**The tests, applied.**
+- *Do the past statements tell me the future ones?* **[M2008-033]**. No, and the filer says so: "our historical revenue
+  growth rate and historical operating margin may not be indicative of our future performance" (10-K FY2025, Item 1A).
+  The statements of 2016 to 2024 describe a business that spent a fraction of its operating cash on plant; the 2026
+  statements describe one whose first-half capital spending ($80,598M) nearly equalled its operating cash ($84,859M), with
+  owner cash after stock pay about minus $10.9B for the half (Step 0). The past is "only useful to you in the extent to
+  which it gives you insights into the future, and sometimes the past doesn’t give you any insights into the future"
+  **[M2007-025]**.
+- *Would the insiders write it down?* **[M2000-105]**. The best-informed insiders, the filer's own management, write that
+  the business "is characterized by rapid change as well as new and disruptive technologies" and give no assurance of
+  adapting; they commit $180-190B for one year without a stated return. No filing read states where search monetization
+  or the return on the AI build will stand in ten years.
+- *Can I name the winner, not just the industry?* **[M2012-067]**, **[M2014-097]**. The AI industry's growth is visible in
+  the filings (Cloud revenue, backlog); which participants will earn good returns on capital in it is not, which is the
+  case **[L2009-005]** names.
+- *Is the forecast about customers or about technology?* **[M2017-019]**, **[M2023-030]**. Both, and the customer half is
+  the moving one: whether people keep typing queries into a page that carries paid links, or ask an assistant whose
+  answers carry fewer. Consumer habit can be projected where it does not change **[M2002-050]**; here the filer itself
+  names the change.
+- *How far off could I be?* **[M2011-084]**. Very far. Owner cash after every real cost could, ten years out, be a
+  multiple of the $46,997M five-year mean if the build earns well, or stay near or below zero for years if it does not;
+  the speakers set this exact contrast against Google in 2012, "The chances of being way wrong in IBM are probably less,
+  at least for us, than being way wrong with Google" **[M2012-073]**.
+- *Do I doubt it is inside?* **[M2002-092]**. Yes, so it is not.
+
+**Contrary evidence, carried and answered** **[M1997-127]**. The search franchise is growing, not shrinking (Q2 2026
+Search & other +16.8%, paid clicks +13%); Cloud's profit and backlog are rising fast; Berkshire Hathaway bought in; and
+the speakers once judged Google's economics visible and counted the miss as their error **[M2017-021]**, **[M2019-024]**,
+**[M2001-006]**. Answered: the rows that call the miss an error describe the economics of a click bought by GEICO,
+"that’s a good business, unless somebody’s going to take it away from you" **[M2017-021]**; the 2026 question is that
+qualifier itself, and the same speakers said of Google, "The mystery was how much competition would come along, and how
+effective they would be" **[M2018-088]**, and earlier, "other people will always understand those two companies better
+than we do. We have the reverse of an edge" **[M2012-072]**. Current growth is the past, and "You don’t get paid for
+what’s already happened" **[M2007-025]**. Another buyer's purchase is not this analyst's understanding **[M1994-014]**.
+
+**Routing.** Fast change that puts the ten-year economics out of reach closes here, at Q1, in TOO HARD, not OUT: "it won’t
+make it through the filter" **[M1998-008]**; "We view change as more of a threat into the investment process than an
+opportunity" **[M1999-063]**; "It doesn’t mean it isn’t a good buy. It doesn’t mean it isn’t selling for a fraction of its
+worth. It just means that we don’t know how to evaluate it." **[M2000-038]**. This is no finding that the castle is open
+(that would be Q2's OUT); it is a finding that its future cannot be foreseen from here.
+
+**The cause: NATURE, not WORK.** The deciding question, what search earns and what the AI capital earns in a field still
+being fought over, is one the industry's insiders do not write down (test 5, **[M2000-105]**), and the rows say more
+study does not cure it: "We couldn't solve this problem, moreover, even if we were to spend years intensely studying
+those industries" **[L1993-023]**; "Our problem -- which we can't solve by studying up -- is that we have no insights into
+which participants in the tech field possess a truly durable competitive advantage" **[L1999-018]**. A wider margin of
+safety would not cure it **[M2007-022]**, a lower price does not reopen it **[M2000-038]**, and the circle is not widened
+to find something to buy **[M1995-018]**.
+
+**VERDICT: TOO HARD (NATURE).** The ten-year earning power of the search franchise under AI substitution, and the return
+on capital spending of $180-190B in 2026 rising in 2027, cannot be foreseen from the filings or by the filer, so the
+whole cannot be understood by its parts **[M2012-065]**, **[M2000-105]**, **[L2009-005]**, **[M2002-092]**,
+**[M2006-013]**. The file closes here; Q2 to Q12 are NOT REACHED.
+
+## Q2: WHY IS THE CASTLE STILL STANDING? STOP.
+NOT REACHED (closed at Q1). No competitor row was filled, because the castle tests are not run.
+
+## Q3: HOW MUCH CAPITAL MUST GO IN? WEIGHING.
+NOT REACHED. (The capital figures in Step 0 are arithmetic, recorded, not weighed.)
+
+## Q4: DO THE NUMBERS SHOW WHAT IT EARNS? STOP on confusion.
+NOT REACHED. Recorded for a later reader, not judged: non-marketable equity securities of $124.3B at 2026-06-30, "of which
+$87.9 billion was remeasured at fair value during the three months ended June 30, 2026" (10-Q Q2 2026), which would bear
+on reported net income against owner cash.
+
+## Q5: WHO RUNS IT? STOP on integrity.
+NOT REACHED (operator rule 2: no Q5 output without Q1 to Q4 IN).
+
+## Q6: WHAT WILL THEY DO WITH THE MONEY AND THE OWNERS? WEIGHING.
+NOT REACHED. Recorded, not judged: $45.4B of repurchases in 2025 (10-K FY2025), none in the first half of 2026 (10-Q
+cash flow statement), then about $80B of new equity offered from June 2026, of which "approximately $30 billion of ATM
+program proceeds will be used to meet these 2026 calendar year tax obligations" on vesting employee equity awards
+(EX-99.1, `0001193125-26-257724`).
+
+## Q7: WHAT IS IT WORTH? STOP.
+NOT REACHED. No value range was built. (COMPUTATION — NOT A CLEARANCE: the only valuation arithmetic in this file is
+Step 0's yield, owner cash of $46,997M five-year mean against a cap of $4,237,328M, 1.11% against a 5.66% sovereign. It
+carries no entry language and clears nothing.)
+
+## Q8: IS IT BETTER THAN THE ALTERNATIVES? STOP.
+NOT REACHED.
+
+## Q9: COULD IT RUIN US? WEIGHING.
+NOT REACHED.
+
+## Q10: IS IT THE FAT PITCH? WEIGHING.
+NOT REACHED. What the framework would have the buyer do: nothing; inaction is the default **[M1996-006]**.
+
+## Q12 (optional): WOULD WE BE PROUD OF HOW THE MONEY IS MADE?
+NOT ASKED.
