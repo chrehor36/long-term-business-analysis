@@ -127,7 +127,62 @@ here. **Clear, as to the buyer's conduct.**
 
 ---
 ## Q1 — CAN I UNDERSTAND IT? Where its economics will be in ten years, inside my perimeter. STOP.
-*(to be written)*
+**The test.** Understanding is "a reasonable fix on about what the earning power and competitive position will look like
+in five or 10 years" **[M2012-065]**; the product may stay opaque if "I understand the economic dynamics of the industry.
+Is there [...] are there competitive moats? Is there ease of entry?" **[M2011-014]**. A holding company, or a company that
+files as two businesses, is understood by its parts (CONVENTION, Q1).
+
+**The parts, from the filing.** (a) **MP&E**, three primary segments selling heavy machines, engines, turbines and
+locomotives, and the parts and service that follow them, through "one of the largest independent global dealer networks"
+(Item 1): 41 dealers in the United States and 109 outside, serving 190 countries, for whom "in most cases sales and
+servicing of our products are the dealers' principal business" (Item 1). 2025 external sales: Construction Industries
+$24.8B, Resource Industries $12.2B, Power & Energy $27.1B, of which Power Generation $10.3B, Oil and Gas $7.5B,
+Industrial $4.1B, Transportation $5.3B (10-K FY2025, segment note). (b) **Financial Products**, Cat Financial and the
+captive insurers: $25.2B of finance receivables at 2025-12-31 ($23.6B customer, $1.5B dealer), "typically secured by the
+equipment purchased", match-funded by policy (Item 1).
+
+**The key variables and how predictable they are** **[M1998-044]**. For MP&E: (1) the installed base and the parts and
+service it pulls through the dealers; (2) Caterpillar's position against the named competitors, which the 10-K lists by
+segment (Komatsu, Deere, CNH, Volvo, Hitachi, Sany, XCMG and others in machines; Cummins, Rolls-Royce Power Systems,
+Siemens Energy and others in engines and turbines; Item 1); (3) the level of demand in construction, mining, oil and gas
+and power generation, which the 10-K itself calls "highly cyclical and significantly impacted by commodity prices"
+(Critical Accounting Estimates). The first two are slow-moving and readable from the filings. The third is not
+foreseeable year by year: sales and revenues were $65.9B in 2012, $38.5B in 2016 and $67.6B in 2025, and profit swung
+from $5.7B (2012) to a loss of $59M (2016) to $10.8B (2024) (XBRL `Revenues` and `ProfitLoss` from the 10-Ks of each
+year, accessions in `Test Runs/_research 2026-10-06 CAT/hist_xbrl.txt`; transcription, not re-read against each filed
+statement). The rows do not ask that the year be foreseen: "what difference does it make to us if the earnings average,
+say, 300 million a year, if it comes in in a very lumpy fashion? [...] as long as it's a good business" **[M2011-102]**.
+What must be foreseeable is the average over the cycle and "how far off we can be" **[M2011-084]**; the answer here is
+"fairly far" on the level and "not far" on the position, and that width is carried to Q7, not settled here.
+
+**Is the industry one that changes fast?** No, on the filing's evidence. The products are diesel and gas engines, steel
+machines and turbines; the competitor lists name the same incumbents, and the technology agenda in the 10-K is
+emissions compliance, autonomy and electrified powertrains, introduced over decades and sold through the same dealers.
+The rows warn that "slow change can be much harder to perceive" **[M2014-038]**; electrification of mining and
+construction machines is such a change, and is noted for Q2, test 11. It does not put the ten-year economics out of
+reach the way "fast-moving technology" does **[L1993-023]**.
+
+**Would the insiders write the forecast down?** **[M2000-105]**. A mining customer, a dealer or a Komatsu executive could
+write down where Caterpillar will stand among the makers of large mining trucks and dozers in ten years; none could
+write down 2030's copper price or data-centre build. The first is the understanding asked; the second is the cycle.
+
+**Cat Financial, the bank door** **[M2002-022]**, **[M2011-022]**. Both sides can be read from the 10-K. The asset side:
+receivables secured by Caterpillar equipment whose resale values the parent knows; customer receivables 91+ days past due
+$182M, 31 to 90 days $272M, together $454M, 1.9% of $23.6B; write-offs $148M and recoveries $47M in 2025, $101M net or
+about 0.4%; allowance $277M (10-K FY2025, Note 7, the aging and allowance tables). The funding side: $5.4B of commercial
+paper backed by $11.5B of committed global credit facilities, the rest term debt rated mid-A, with a support agreement
+from the parent (Item 7, Liquidity). Derivatives are described as hedges for match funding and currency (Item 1, Note 4),
+not a trading book. The rows' warning about a finance company, "I don't understand that — whether I can continually fund
+it [...] independent from using Berkshire's credit" **[M2002-094]**, applies in part: Cat Financial's funding leans on
+Caterpillar's rating and support agreement. That is a Q9 exposure of the whole; it does not make the receivables unreadable.
+
+**Doubt test** **[M2002-092]**. I have no doubt that the business (heavy iron sold and serviced through captive-like
+dealers) is inside the perimeter; I do doubt the level of earnings in any given year, and the rows put that doubt in the
+value range, not in the circle **[M2011-084]**.
+
+**VERDICT: IN.** The ten-year competitive position and the economics of the industry can be foreseen from the filings;
+the cycle cannot, and is carried to Q7 as range **[M2012-065]**, **[M2011-102]**; Cat Financial's two sides can be read
+**[M2002-022]**.
 
 ## Q2 — WHY IS THE CASTLE STILL STANDING, and what keeps it standing ten to twenty years? STOP.
 *(to be written)*
