@@ -66,6 +66,16 @@ def main():
     dest = os.path.abspath(a.dest)
     os.makedirs(dest, exist_ok=True)
 
+    # 2026-10-06, the operator's branches: the export writes master only. The public repository also carries
+    # `experimental` and `ben-graham`, each worked in its own folder (git worktrees); an export pointed at one of
+    # them, or at a destination switched off master, would overwrite that branch with master's files.
+    if os.path.isdir(os.path.join(dest, ".git")) or os.path.isfile(os.path.join(dest, ".git")):
+        br = subprocess.run(["git", "rev-parse", "--abbrev-ref", "HEAD"], cwd=dest,
+                            capture_output=True, text=True).stdout.strip()
+        if br != "master":
+            sys.exit(f"refused: {dest} is on branch '{br}', not master. The export writes master only; "
+                     f"branch work is done in its own folder, never through this script.")
+
     files = [f for f in tracked_files() if allowed(f)]
     withheld = [f for f in tracked_files() if not allowed(f)]
     copied = 0

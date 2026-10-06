@@ -116,11 +116,18 @@ def cover_counts(cik, accession):
     for i, x in enumerate(lines):
         if VALUE_LABEL.match(x):
             # the value is the next line that parses as a number
+            # 2026-10-06 (the BTU, ENR, EFOR and TDS runs): a scaled cover prints a DECIMAL
+            # ("121.9" shares in millions), which isdigit() rejected, so the loop fell through to
+            # the next all-digit line, the 10-digit zero-padded CIK, and reported CIK x 1,000,000
+            # as the share count. Decimals are now read, and a zero-padded 10-digit line (a CIK) is
+            # never taken as a count.
             for y in lines[i + 1:i + 4]:
                 n = y.replace(",", "")
-                if n.isdigit():
+                if re.fullmatch(r"0\d{9}", n):
+                    continue
+                if re.fullmatch(r"\d+(\.\d+)?", n):
                     out.append((label or "(single class / undimensioned)",
-                                int(n) * scale))
+                                int(round(float(n) * scale))))
                     break
         elif x not in LABEL_STOP and not x.startswith("Entity ") and len(x) < 60:
             # candidate class label: remember the most recent short line that is not

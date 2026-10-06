@@ -175,7 +175,7 @@ RX_SBC = (_re.compile(r"ShareBased|Sharebased|StockBased|Stockbased|StockCompens
                       r"NoncashCompensation|StockIssuedForCompensation|EquityAward|SharebasedPayment"),
           _re.compile(r"Tax|Withholding|Excess|PaymentsFor|PaymentsRelated|Proceeds|Settle"))
 RX_CAPX = (_re.compile(r"Mine|Mining|Mineral|Intangible|Software|ProductiveAssets|Development|"
-                       r"Patent|Licens|Exploration|Capitalized|Rental|OnLease|LeasedEquipment|LeaseFleet|Fleet|Aircraft|FlightEquipment"),
+                       r"Patent|Licens|Exploration|Capitalized|Rental|OnLease|LeasedEquipment|LeaseFleet|Fleet|Aircraft|FlightEquipment|Subscriber|DealerGenerated|CustomerAccount"),
            _re.compile(r"Business|Subsidiar|Securit|Proceeds|Sale|Disposal|Loan|Deposit|"
                        r"EquityMethod|Affiliate|Marketable|PropertyPlant|Grant"))
 RX_DEBT = (_re.compile(r"Debt|Borrowing|CommercialPaper|LineOfCredit|LinesOfCredit|NotesPayable|"
@@ -421,10 +421,16 @@ def owner_earnings(facts, years):
             if _e not in da or abs(_v) > abs(da[_e]):
                 da[_e] = _v
     _parts = {}
+    _part_tags = {}
     for _tag in DA_COMPONENT:
         _series, _, _ = _annual(facts, [_tag])
         for _e, _v in _series.items():
             _parts[_e] = _parts.get(_e, 0.0) + abs(_v)
+            _part_tags.setdefault(_e, set()).add(_tag)
+    # AMORTIZATION ONLY, 2026-10-06 (the PTEN run): a filer that tags its depreciation under its own
+    # element leaves only AmortizationOfIntangibleAssets in companyfacts, and the D&A column then shows
+    # $126M against a filed charge near $1B. Such years are flagged, never silently used.
+    da_amort_only = {e for e in _parts if e not in da and _part_tags.get(e) == {"AmortizationOfIntangibleAssets"}}
     for _e, _v in _parts.items():
         if _e not in da or _v > abs(da[_e]):
             da[_e] = _v
@@ -464,6 +470,7 @@ def owner_earnings(facts, years):
                          ni=ni.get(y), oe_capex=oe_capex, oe_da=oe_da,
                          oe_lo=min(oe_capex, oe_da), oe_hi=max(oe_capex, oe_da)))
     return dict(unit=unit, ocf_tag=ocf_tag, rows=rows, all_years=ys,
+                da_amort_only=sorted(e for e in da_amort_only if e in sel),
                 ocf_last=max(ocf) if ocf else None,
                 mean_lo=statistics.fmean(r["oe_lo"] for r in rows),
                 mean_hi=statistics.fmean(r["oe_hi"] for r in rows),
@@ -817,6 +824,10 @@ def main():
     if (date.today() - date.fromisoformat(last)).days > 550:
         P(f"  ** The window's last year, {last}, is over 18 months old. Later years may be filed under")
         P("     another taxonomy (US GAAP to IFRS) or other elements; read the latest annual report. **")
+    if oe.get("da_amort_only"):
+        P(f"  ** D&A WARNING: for {', '.join(oe['da_amort_only'])} the only depreciation element found is "
+          f"AmortizationOfIntangibleAssets. The filer tags depreciation under its own element, so the D&A "
+          f"column and every D&A-basis figure here are too low. Read the cash-flow statement. **")
     print("\n".join(oe_lines))
 
     # THE STATEMENT LINES THE COLUMNS ABOVE LEAVE OUT, 2026-10-05 (IESC, GENC, MBUU, MTRN, OSIS).

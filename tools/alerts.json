@@ -1171,6 +1171,24 @@
    "threshold": 16.86,
    "active": true,
    "label": "PBH at/below $16.86: the v5 cheap price (central case earns 15% pre-tax on market value plus $2.1B net debt). Source: Test Runs/2026-10-05 Run - PBH Prestige Consumer Healthcare.md (IN at Q1, Q2 narrowly, Q4, Q5; OUT at Q7 at $45.61 against fair about $47.74). Check Breathe Right's audited results and the floating-rate debt first. A prompt to read, never a verdict."
+  },
+  {
+   "id": "POOL-v5-fair",
+   "ticker": "POOL",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 130,
+   "active": true,
+   "label": "POOL at/below $130: the v5 fair price (central case returns about 10%). Source: Test Runs/2026-10-05 Run - POOL Pool Corporation.md (IN at Q1, Q2 narrowly, Q4, Q5; OUT at Q7 at $159.38). Check Home Depot's Heritage and the new CEO first. A prompt to read, never a verdict."
+  },
+  {
+   "id": "POOL-v5-cheap",
+   "ticker": "POOL",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 91,
+   "active": true,
+   "label": "POOL at/below $91: the v5 cheap price (ten-year owner cash, no growth, returns 10%). Source: Test Runs/2026-10-05 Run - POOL Pool Corporation.md. A prompt to read, never a verdict."
   }
  ]
 }

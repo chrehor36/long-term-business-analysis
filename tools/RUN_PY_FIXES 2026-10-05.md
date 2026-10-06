@@ -80,3 +80,9 @@ PaymentsOfDividendsMinorityInterest joins the alternate deductions: cash paid to
 
 ## Added later on 2026-10-05: aircraft purchases (the SKYW run)
 The capex alternate now also catches flight-equipment purchases (us-gaap:PaymentsForFlightEquipment): SKYW 2023 to 2025 238.1, 265.9, 546.0, matching the run. Aircraft deposits are still not caught, because "Deposit" is excluded to keep bank deposits out; read them from the cash-flow statement (SKYW 2025: 75).
+
+## Added later on 2026-10-06: subscriber and dealer-account spending (the ADT run)
+The capex alternate now also catches subscriber-system and dealer or bulk account purchases in the investing section (ADT 2023 to 2025: 631, 523, 396, matching the run). For security, alarm and similar subscription businesses this is the capital that replaces lost customers.
+
+## Added later on 2026-10-06: amortization-only depreciation flagged (the PTEN run)
+Where a filer tags depreciation under its own element, companyfacts holds only AmortizationOfIntangibleAssets and the D&A column was silently far too low (PTEN: about 126 against a filed charge near 1,000). Such years are now flagged with a D&A WARNING line; the figure is not replaced, because the tool cannot choose the filer's own element. Tested: PTEN warns for 2023 to 2025; HUBB does not.
