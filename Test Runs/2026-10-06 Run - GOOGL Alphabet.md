@@ -227,3 +227,52 @@ NOT REACHED. What the framework would have the buyer do: nothing; inaction is th
 
 ## Q12 (optional): WOULD WE BE PROUD OF HOW THE MONEY IS MADE?
 NOT ASKED.
+
+---
+## THE BOX
+**TOO HARD (NATURE), decided at Q1.** The ten-year economics of search under AI substitution and the return on an AI
+build of $180-190B in 2026, rising in 2027, are a forecast the filer itself declines to write down **[M2000-105]**,
+**[L1999-018]**; the run did not reach Q7, so no range stands beside the price ($346.47, cap $4,237,328M). NATURE is the
+closed box: no research file is opened (Part VII applies to WORK only), and a lower price does not reopen it
+**[M2000-038]**. **What would reopen it is a change in the business, not the price:** the AI build reaching a level where
+several years of filed statements again show search revenue and owner cash after stock pay and all capital spending
+settling, so that the past statements tell the future ones (test 3, **[M2008-033]**). Q11 belongs to the holding review.
+
+## SELF-AUDIT
+- [x] Copied to the dated file before any fetch (commit `713291d`); written question by question; committed after Step 0
+      (`3297325`) and after Q1 (`77660ef`) with a pathspec; this section in the final commit.
+- [x] Every v5 id resolves (checked by script against `principle_ledger_v5.csv`: 44 ids before this section, none
+      missing); every filing fact has its accession; the one CONVENTION of this run (one class price for all three
+      classes) is labelled, and the Q1 by-parts reading is the framework's own CONVENTION, named as such.
+- [x] The order was kept; Q1 failed and closed the run; nothing after it is a clearance; Q5 output was not produced
+      (operator rule 2); the only valuation arithmetic is headed COMPUTATION — NOT A CLEARANCE (operator rule 3).
+- [x] Owner cash after every real cost (operating cash less all stock pay less all capital spending), never a net-income
+      proxy; the sovereign from the US Treasury; the price flagged as an aggregator quote.
+- [x] Contrary evidence written down as found **[M1997-127]**: in the foundations (four items) and answered at Q1.
+- [x] No row dated after the anchor is cited: this is a run of today, not a point-in-time test; no row is later than 2025.
+- [x] Only the arithmetic lines of `tools/run.py` were used (Part VII).
+- [x] `python tools/check_framework.py` PASS before each commit.
+
+## WHAT IN THE FRAMEWORK WAS WRONG OR UNCLEAR
+(1) **The speakers' own verdicts on the very company.** The framework and the ledger carry the speakers' views of Google
+by name (**[M2012-071]**, **[M2012-072]**, **[M2012-073]**, **[M2017-021]**, **[M2018-088]**, **[M2019-024]**), and they
+pull both ways: "the reverse of an edge" in 2012, "we blew it" in 2017 and 2019, with **[M2019-049]** against
+**[M2019-024]** carried OPEN in section VI. Part VII's anchor CONVENTION governs only point-in-time tests; nothing says how
+a live run should treat a row that is a verdict on the name being run. This run read them as evidence of method about an
+earlier business and decided on the 2026 filings, and it says so; a rule would stop two analysts diverging here.
+(2) **Q1 against the omission error.** **[M2001-006]** counts a missed business "we understand" as the real error, and the
+speakers counted Google as such; Q1's doubt rule **[M2002-092]** sends the same name to TOO HARD. The framework does not
+say how to tell an understood business passed over from one honestly outside the circle when the speakers themselves
+called it inside; this run used the change since 2017 (the AI build, the filer's own disclaimer) as the separating fact.
+(3) **Test 5 and a capital commitment.** "Would the insiders write it down?" **[M2000-105]**: the management writes no
+forecast, but it commits $180-190B, which is an implicit one. The framework does not say whether a commitment of capital
+counts as writing the forecast down; this run read it as not, because no return is stated. (4) **The by-parts
+CONVENTION** is written for a holding company; Alphabet is one company with segments and a shared AI build that crosses
+them; the run applied it to segments, which the text neither allows nor forbids. (5) **The template's share and cap lines**
+give no rule for classes that carry identical rights but trade at different prices, nor a line for dilutive securities
+known at the run date but not in the cover count (here a $15B mandatory convertible preferred and a $40B ATM); both were
+handled in Step 0 and confessed. **Tool notes, no tool edited:** `tools/run.py` heads its owner-earnings block "(OCF −
+SBC) − maintenance capex" while its columns deduct all capital spending (the honest figure, wrongly labelled);
+`Screens/cover_shares.py` reports the cover in the filer's rounded millions (the filer's own rounding, not a defect, but
+the exact count is not on this cover); and run.py has no interim line, so the negative first half of 2026 was computed by
+hand from the 10-Q.
