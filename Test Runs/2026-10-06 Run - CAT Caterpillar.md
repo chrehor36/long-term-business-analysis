@@ -192,7 +192,9 @@ innovative technologies represents a competitive advantage"; Resource Industries
 filing fact. The competitor figures are in `Test Runs/_research 2026-10-06 CAT/peers.txt`.
 
 **1. The key factors and their permanence.** The installed base and the dealers who service it: 150 dealers covering 190
-countries, dealers whose principal business is Caterpillar in most cases (Item 1). The rows name an installed base among
+countries, dealers whose principal business is Caterpillar in most cases (Item 1); "Services revenues [...] totaled $24
+billion in 2025" (DEF 14A 2026, CD&A; aftermarket parts and service, a non-GAAP figure the 10-K defines but whose total
+the 10-K text read does not print), over a third of MP&E's $64.0B of sales. The rows name an installed base among
 the things that protect a position ("No installed base, key patents, critical real estate or natural resource position
 protects an insurer's competitive position", said of the business that lacks one) **[L2003-014]**. Against permanence:
 the dealer agreements are "terminable at will by either party primarily upon 90 days written notice" (Item 1); the
@@ -399,7 +401,60 @@ FOR**: margins against the hand dealt and against the filing rivals, and a shall
 **[M1994-008]**. Ability enters the value as certainty, not as a gate **[M1999-104]**.
 
 ## Q6 — WHAT WILL THEY DO WITH THE MONEY AND THE OWNERS? WEIGHING.
-*(to be written)*
+**Part A, the money.** *The stated policy:* "Our goal is to return substantially all MP&E free cash flow to shareholders
+over time in the form of dividends and share repurchases, while maintaining our mid-A rating" (10-K FY2025, Item 7).
+*The retention test* **[M1998-033]**, **[M2008-104]**: profit 2021 to 2025 was $43.2B; dividends paid were $12.7B ($2,332M,
+$2,440M, $2,563M, $2,646M, $2,749M) and repurchases cost $24.8B ($2.7B, $4.2B, $4.7B, $8.0B, $5.2B; Note 16 of the 10-Ks
+FY2023 and FY2025 and the 2022 equivalent), so about $5.7B was kept, roughly the growth in working capital and plant the
+volume needed (Q3). Little is retained, so the test of a retained dollar is barely engaged; what is engaged is the price
+of the repurchases.
+
+*Buybacks* **[L1999-023]**, **[L2011-003]**. The company names no price above which it stops; it names a sum, "substantially
+all" of free cash flow, which is the form the rows distrust: repurchase announcements that "almost never refer to a price
+above which repurchases will be eschewed" **[L2016-002]**, and buying "to prevent dilution" or on a schedule rather than
+"related to valuation" **[M2016-049]**. The prices actually paid, from the filings:
+
+| period | shares | cost | average |
+|---|---|---|---|
+| 2021 | 13.0M | $2.7B | about $208 |
+| 2022 | 21.9M | $4.2B | about $192 |
+| 2023 | 19.5M | $4.7B | about $241 |
+| 2024 | 23.4M | $8.0B | about $342 |
+| 2025 | 14.1M | $5.2B | about $368 |
+| first half 2026 | 7.0M received | $4.9B | about $700 (April $766.00, May $890.17, June $947.20) |
+
+(10-K FY2022, FY2023, FY2025 repurchase notes; 10-Q Q2 2026 repurchase note and Part II Item 2; averages are cost over
+shares, arithmetic.) The two Q1 2026 ASRs advanced $4.5B for an initial 4.8M shares "approximately 70% of the estimated
+final number" (10-Q Q2 2026), so the final average for the first half depends on prices through settlement.
+**The test against the Q7 range** (CONVENTION, Q6, recorded back from Q7): the bottom of the Q7 range is **$300** a share
+and the top **$781**. Purchases in 2021 to 2023 were made at well under the bottom of the range; those of 2024 and 2025 sat
+inside the range, above its bottom; those of 2026 were near or above its top. The programme was bought at good prices when
+the stock was cheap and kept buying at the same pace, or faster, after it was not: $4.9B in six months of 2026 against
+$5.2B in all of 2025. The rows: "what is smart at one price is dumb at another" **[L2011-003]**. **Weighs against** for the
+2026 purchases.
+
+*Issuance and deals:* no stock-paid acquisition was found in the filings read; the one deal of 2026 is RPMGlobal, mining
+software, about $790M in cash (10-K FY2025, Item 7). The Part A STOP **[L2009-019]** is not engaged.
+*Dividends:* maintained at $1.51 a quarter in December 2025 (Item 7); paid for 32 consecutive years of increases by the
+proxy's account (DEF 14A, CD&A); "clear, consistent and rational" **[L2012-015]**.
+
+**Part B, the pay, the board and the owners.** For: the annual bonus is tied to operating profit after a 13% pre-tax charge
+on MP&E net assets, to enterprise operating profit and to services revenues (CD&A, 2025 annual incentive measures), all
+"under the reasonable control" of the people measured **[M2003-019]**, and the capital charge is the rows' own design
+**[L1994-019]**. Against: the long-term grant is 50% performance units on three-year average ROIC and relative total
+shareholder return, 25% time-based units and 25% stock options (CD&A); the options carry no step-up for retained earnings
+**[L1994-021]**, and the relative-TSR half pays for the quotation rather than the business **[M2000-062]**; pay is benchmarked
+against a compensation peer group using the "Aon Total Compensation Measurement Database" with an "independent
+compensation consultant" (CD&A), the comparative machinery the rows distrust **[L2005-015]**, **[M2004-016]**; restructuring
+costs are excluded from the bonus measure of operating profit (CD&A), the same recurring cost Q4 noted. The board: from
+2026-04-01 the chief executive is also chairman, with a lead independent director (8-K `0001104659-26-001346`); the rows
+find it "hard to replace a mediocre CEO if that person is also Chairman" **[L2014-026]**, which matters only if he is
+mediocre, and nothing here says so. "There are more problems with having the wrong manager than with having the wrong
+compensation system" **[M2007-006]**.
+
+**WEIGHS AGAINST (Part A)**: a buyback sized to cash flow, with no stated price, now buying near or above the top of the
+Q7 range **[L2016-002]**, **[L2011-003]**. **WEIGHS FOR (Part B)**, narrowly: the capital charge in the bonus outweighs the
+option and peer-group design **[L1994-019]**, **[M2007-006]**.
 
 ## Q7 — WHAT IS IT WORTH? STOP.
 *(to be written)*
