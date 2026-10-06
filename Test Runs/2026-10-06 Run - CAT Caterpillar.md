@@ -512,23 +512,76 @@ $947.20 in June) were made near or above the top (Q6).
 **[M2003-149]**, **[M2009-005]**. The file closes here; Q8 onward are NOT REACHED.
 
 ## Q8 — IS IT BETTER THAN THE ALTERNATIVES: the bond, more of what I already own, the company's own stock? STOP.
-*(to be written)*
+**NOT REACHED** (Q7 closed OUT). For the record only, not a clearance: the owner-cash yield at the price is 2.0% on the
+five-year mean and 2.4% on 2025, against a 5.66% thirty-year Treasury.
 
 ## Q9 — COULD IT RUIN US: the target's debt and exposures. WEIGHING.
-*(to be written)*
+**NOT REACHED.** Facts gathered on the way, for a later run, not weighed: Financial Products carries $33.6B of debt
+against $4.8B of equity, including $5.4B of commercial paper and $7.1B of term debt due within a year, backed by $11.5B of
+committed bank facilities renewed on 2026-08-27 (8-K `0001104659-26-104197`) and by a support agreement with Cat Financial,
+"which requires Caterpillar to remain the sole owner of Cat Financial and may, under certain circumstances, require
+Caterpillar to make payments to Cat Financial should Cat Financial fail to maintain certain financial ratios" (10-K
+FY2025, Item 7). A finance arm that must roll short paper is the shape the rows warn of, never wanting "to count on the
+kindness of strangers in order to meet tomorrow's obligations" **[L2008-019]**, and it would be the first thing weighed
+at Q9.
 
 ## Q10 — IS IT THE FAT PITCH, and am I buying enough? WEIGHING.
-*(to be written)*
+**NOT REACHED.** The default is inaction **[M1996-006]**; nothing here is a pitch at this price.
 
 ## Q12 (optional) — WOULD WE BE PROUD OF HOW THE MONEY IS MADE?
-*(to be written)*
+**NOT REACHED.** Noted for a later run: the CSARL tax dispute, settled in 2022 without penalties (Q5).
 
 ---
 ## THE BOX
-*(to be written)*
+**OUT — decided at Q7.** Value range **$300 to $781** a share (five-year mean MP&E owner cash $7,800M, no growth to the
+12.1% shown growth, ten years, at the 5.66% sovereign) against **$848.14**: the price is above the top of the range and the
+expected return at the price (about 5.3% after tax in the shown-growth case) is below the ten percent pre-tax floor
+(CONVENTION). Q1 IN, Q2 IN, Q3 weighs for, Q4 IN on confusion and weighs lightly against, Q5 IN on integrity and weighs
+for on ability, Q6 weighs against on the buyback (A) and narrowly for on pay (B). The castle stands; the price is the
+problem. **Reversal condition:** with owner cash unchanged, a price near $223 to $300 a share (no-growth owner cash
+clearing the floor after tax, to the bottom of the range at the sovereign) would put the question back as a candidate
+for "no pencil needed"; a price near $551 would only bring the most generous case to the floor, which is a pencil case
+and stays OUT **[M2009-005]**. A full-cycle view, with a trough year in the base, would lower every figure above.
 
 ## SELF-AUDIT
-*(to be written)*
+- [x] Copied to the dated file before any fetch (the template was copied before `tools/run.py` was run); written question
+      by question; committed after STEP 0, Q1, Q2, Q3, Q4, Q5, Q6 and Q7 (write-early).
+- [x] Every v5 id resolves: `python Test Runs/_research 2026-10-06 CAT/ids.py check` on this file reports no missing id;
+      every filing fact carries its document and accession; numbers are from a filing, the XBRL history (flagged as
+      transcription) or the arithmetic file, and the conventions are labelled.
+- [x] The order was kept; Q7 was the first STOP to fail and closed the run; Q8, Q9, Q10 and Q12 are NOT REACHED and the
+      facts noted under them are not clearances.
+- [x] Owner cash after every real cost (operating cash less stock pay less all capital spending; the IRS payment and every
+      restructuring dollar left in), never a net-income proxy (operator rule 5); the sovereign from the US Treasury,
+      dated; the price flagged as an aggregator quote.
+- [x] Contrary evidence written down as found **[M1997-127]**: the boom-years window, the 2025 price giveback, the dealer
+      agreements terminable on 90 days, the Chinese makers, the inventory build, the adjusted-profit habit, the 2026
+      buybacks above the range.
+- [x] No row dated after the anchor is cited: this is a live run dated 2026-10-06, and every row cited is dated 2025 or
+      earlier (Part VII).
+- [x] Only the arithmetic lines of `tools/run.py` were used; its v4 owner-earnings windows, yield lines and wording were
+      not used (Part VII).
+- [x] `python tools/check_framework.py` PASS before each commit.
 
 ## WHAT IN THE FRAMEWORK WAS WRONG OR UNCLEAR
-*(to be written)*
+(1) **The Q7 growth cap is ambiguous.** The CONVENTION says owner cash is carried "at the growth the business has actually
+shown over those years, never above it, and capped by the growth arithmetic of Q3: no rate that runs past the discount
+rate or traces to an absurdity". Read literally, "no rate that runs past the discount rate" caps the ten-year rate at the
+sovereign (5.66% here), which would cut CAT's top from $781 to $469; read through **[M1997-095]**, which is about a rate
+above the discount rate carried forever, it bars only the perpetuity and lets 12.1% run for ten years. I carried the
+shown rate as the end of the range and showed the capped readings beside it; the box is the same either way, but on a
+name priced inside the range the two readings would close differently. (2) **The five-year window has no cycle rule.** For
+a business the 10-K itself calls "highly cyclical", the five years 2021 to 2025 hold no trough, so the convention's base
+and its "shown growth" are both measured from recovery to peak. Nothing in Q7 asks that the window span a cycle, though
+**[M2011-102]** values a cyclical business on its average and **[L1994-009]** warns against "a cyclical peak in earnings".
+I recorded the full-cycle rate (3.4% profit growth 2012 to 2025, from XBRL) as a variant, not as the input. (3) **The floor
+is pre-tax and owner cash is after tax.** The convention states "about ten percent pre-tax" and the range is built on
+after-tax owner cash; the run had to choose a conversion (the company's 24.0% effective rate, giving 7.6%, with the 2002
+row's own "6½-7% after corporate tax" shown beside it). The framework should say which. (4) **A company that files as two
+businesses.** Q1's by-parts CONVENTION covers holding companies; it does not say how to build owner cash when a
+manufacturer consolidates a captive finance company whose receivables growth runs through investing and operating cash
+at once. I used the filer's own MP&E column plus the finance arm's dividends (the equity-method convention by analogy),
+with the consolidated figure as a variant. (5) **Tool notes, no defect found that changed a number:** `tools/run.py`
+treats the company as one business and flags the lease-fleet capex correctly; its five-year window (`OE capex 8,352`) is
+on the consolidated basis and is not comparable with the MP&E figure used here. `Screens/cover_shares.py` agreed with the
+cover page.
