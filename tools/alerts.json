@@ -1189,6 +1189,24 @@
    "threshold": 91,
    "active": true,
    "label": "POOL at/below $91: the v5 cheap price (ten-year owner cash, no growth, returns 10%). Source: Test Runs/2026-10-05 Run - POOL Pool Corporation.md. A prompt to read, never a verdict."
+  },
+  {
+   "id": "REYN-v5-fair",
+   "ticker": "REYN",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 16.14,
+   "active": true,
+   "label": "REYN at/below $16.14: the v5 fair price (central case clears 10% pre-tax on equity plus net debt). Source: Test Runs/2026-10-06 Run - REYN Reynolds Consumer Products.md (IN at Q1, Q2 narrowly, Q4, Q5; OUT at Q7 at $22.23). Check foil and tableware margins and Walmart's share first. A prompt to read, never a verdict."
+  },
+  {
+   "id": "REYN-v5-cheap",
+   "ticker": "REYN",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 14.64,
+   "active": true,
+   "label": "REYN at/below $14.64: the v5 cheap price. Source: Test Runs/2026-10-06 Run - REYN Reynolds Consumer Products.md. A prompt to read, never a verdict."
   }
  ]
 }
