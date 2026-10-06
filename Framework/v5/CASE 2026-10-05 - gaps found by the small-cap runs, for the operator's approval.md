@@ -729,3 +729,7 @@ RULE 6 is met for every rule proposed; what no row supports is labelled CONVENTI
 | E | decides, for a market part-interest, ten percent on owner cash after the company's tax | the reading, plus a carryforward CONVENTION | the reading or an alternative; the carryforward rule |
 | F | decides there is no single cheap-price figure | a reporting convention outside the verdicts | outside or inside; the definitions |
 | G | decides contrary evidence is written down; silent on where | the AFTER THE STOP format and a register flag | approve; whether to open a case on operator rule 2 |
+
+---
+# DECIDED 2026-10-06, section F
+**The operator ruled: no cheap price. The fair price alone is reported**, defined as the price at which the midpoint of the Q7 range earns the floor of about ten percent pre-tax, kept outside the verdicts as a reporting convention; any price below fair is read as cheap, since at that price the central case already clears the floor. The cheap-price alerts in `tools/alerts.json` are retired (left in the file, inactive, labelled); the fair-price alerts stand. The canonical brief `Screens/_daily/_dispatch_brief.md` reports the range and the fair price only. Sections A to E, G and H await the operator.

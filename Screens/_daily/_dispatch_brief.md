@@ -55,13 +55,13 @@ learn whether anyone holds or wants this name.
   comparison covers the whole span) and do not run them.
 
 ## Reporting, at the owner's request (a reporting convention, not a rule; nothing here is a verdict or entry language)
-Report three figures, labelled COMPUTATION if the file closed before Q7: **(a)** the VALUE RANGE as Q7 builds it, with a
+Report two figures, labelled COMPUTATION if the file closed before Q7: **(a)** the VALUE RANGE as Q7 builds it, with a
 whole-cycle variant beside it if the five-year window holds a boom, a trough, a merger or a divestiture; **(b)** the FAIR
-PRICE, the price at which the midpoint of the range earns the floor of about ten percent pre-tax; **(c)** the CHEAP PRICE, the
-price at which the bottom of the range alone earns that floor. State the tax treatment used and whether the floor is applied to
-the equity alone or to equity plus net debt, and give the figure both ways where they differ. *(These definitions stand pending
-the operator's decision on section F of `Framework/v5/CASE 2026-10-05 - gaps found by the small-cap runs, for the operator's
-approval.md`; if that decision changes them, this brief changes.)*
+PRICE, the price at which the midpoint of the range earns the floor of about ten percent pre-tax. State the tax treatment
+used and whether the floor is applied to the equity alone or to equity plus net debt, and give the figure both ways where
+they differ. There is no cheap price: the operator reads any price below fair as cheap (decision of 2026-10-06, recorded in
+`Framework/v5/CASE 2026-10-05 - gaps found by the small-cap runs, for the operator's approval.md`, section F). Report no
+other price figure.
 
 ## Output
 The run file, complete, with an honest self-audit and the section "What in the framework was wrong or unclear". No em dashes

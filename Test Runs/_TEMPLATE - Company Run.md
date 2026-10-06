@@ -78,6 +78,9 @@ Does owning this put the buyer at risk of ruin (the buyer's conduct, not the tar
 - **Value range:** $ ___ to $ ___ a share against $ ___. **Closes:** TOO HARD if the range is wider than about three
   to one; OUT if the price sits inside or just below a narrower range (not a screamer); IN only if the price is so far
   below that no pencil is needed.
+- **Fair price (a reporting figure, never a verdict; Part VII):** $ ___ a share, the price at which the midpoint of the
+  range earns the floor; tax treatment stated; on equity $ ___ and on equity plus net debt $ ___ where they differ. No
+  cheap price is reported.
 - **VERDICT: IN / OUT / TOO HARD**, with ids.
 
 ## Q8 — IS IT BETTER THAN THE ALTERNATIVES: the bond, more of what I already own, the company's own stock? STOP.

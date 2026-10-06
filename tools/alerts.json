@@ -1061,8 +1061,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 129,
-   "active": true,
-   "label": "HUBB at/below $129: the v5 'cheap' price (owner cash with no growth clears the floor). Source: Test Runs/2026-10-05 Run - HUBB Hubbell.md. A prompt to read, never a verdict."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (operator: no cheap price; fair only). HUBB at/below $129: the v5 'cheap' price (owner cash with no growth clears the floor). Source: Test Runs/2026-10-05 Run - HUBB Hubbell.md. A prompt to read, never a verdict."
   },
   {
    "id": "ETN-v5-fair-top-uncapped",
@@ -1088,8 +1088,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 67,
-   "active": true,
-   "label": "ETN at/below $67: the v5 'cheap' price (no-growth owner cash clears the floor). Source: Test Runs/2026-10-05 Run - ETN Eaton.md. A prompt to read, never a verdict."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (operator: no cheap price; fair only). ETN at/below $67: the v5 'cheap' price (no-growth owner cash clears the floor). Source: Test Runs/2026-10-05 Run - ETN Eaton.md. A prompt to read, never a verdict."
   },
   {
    "id": "V-v5-add",
@@ -1124,8 +1124,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 8.0,
-   "active": true,
-   "label": "MWA at/below $8.00: the v5 cheap price (no-growth owner cash clears the floor). Source: Test Runs/2026-10-05 Run - MWA Mueller Water Products.md. A prompt to read, never a verdict."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (operator: no cheap price; fair only). MWA at/below $8.00: the v5 cheap price (no-growth owner cash clears the floor). Source: Test Runs/2026-10-05 Run - MWA Mueller Water Products.md. A prompt to read, never a verdict."
   },
   {
    "id": "CSW-v5-range-top",
@@ -1151,8 +1151,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 45,
-   "active": true,
-   "label": "CSW at/below $45: the v5 cheap price (no-growth owner cash clears the floor). Source: Test Runs/2026-10-05 Run - CSW CSW Industrials.md. A prompt to read, never a verdict."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (operator: no cheap price; fair only). CSW at/below $45: the v5 cheap price (no-growth owner cash clears the floor). Source: Test Runs/2026-10-05 Run - CSW CSW Industrials.md. A prompt to read, never a verdict."
   },
   {
    "id": "ABG-v5-cheap",
@@ -1160,8 +1160,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 163,
-   "active": true,
-   "label": "ABG at/below $163: the v5 cheap price (worst case clears the floor after a 200bp rise on floating debt). Source: Test Runs/2026-10-05 Run - ABG Asbury Automotive.md (IN at Q1, Q2 narrowly, Q5 with the FTC action recorded; OUT at Q7 at $171.62 against a whole-cycle range of $230-$345 and fair about $216). Check the FTC case and Q2 2026 new-vehicle gross profit first. A prompt to read, never a verdict."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (operator: no cheap price; fair only). ABG at/below $163: the v5 cheap price (worst case clears the floor after a 200bp rise on floating debt). Source: Test Runs/2026-10-05 Run - ABG Asbury Automotive.md (IN at Q1, Q2 narrowly, Q5 with the FTC action recorded; OUT at Q7 at $171.62 against a whole-cycle range of $230-$345 and fair about $216). Check the FTC case and Q2 2026 new-vehicle gross profit first. A prompt to read, never a verdict."
   },
   {
    "id": "PBH-v5-cheap",
@@ -1169,8 +1169,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 16.86,
-   "active": true,
-   "label": "PBH at/below $16.86: the v5 cheap price (central case earns 15% pre-tax on market value plus $2.1B net debt). Source: Test Runs/2026-10-05 Run - PBH Prestige Consumer Healthcare.md (IN at Q1, Q2 narrowly, Q4, Q5; OUT at Q7 at $45.61 against fair about $47.74). Check Breathe Right's audited results and the floating-rate debt first. A prompt to read, never a verdict."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (operator: no cheap price; fair only). PBH at/below $16.86: the v5 cheap price (central case earns 15% pre-tax on market value plus $2.1B net debt). Source: Test Runs/2026-10-05 Run - PBH Prestige Consumer Healthcare.md (IN at Q1, Q2 narrowly, Q4, Q5; OUT at Q7 at $45.61 against fair about $47.74). Check Breathe Right's audited results and the floating-rate debt first. A prompt to read, never a verdict."
   },
   {
    "id": "POOL-v5-fair",
@@ -1187,8 +1187,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 91,
-   "active": true,
-   "label": "POOL at/below $91: the v5 cheap price (ten-year owner cash, no growth, returns 10%). Source: Test Runs/2026-10-05 Run - POOL Pool Corporation.md. A prompt to read, never a verdict."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (operator: no cheap price; fair only). POOL at/below $91: the v5 cheap price (ten-year owner cash, no growth, returns 10%). Source: Test Runs/2026-10-05 Run - POOL Pool Corporation.md. A prompt to read, never a verdict."
   },
   {
    "id": "REYN-v5-fair",
@@ -1205,8 +1205,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 14.64,
-   "active": true,
-   "label": "REYN at/below $14.64: the v5 cheap price. Source: Test Runs/2026-10-06 Run - REYN Reynolds Consumer Products.md. A prompt to read, never a verdict."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (operator: no cheap price; fair only). REYN at/below $14.64: the v5 cheap price. Source: Test Runs/2026-10-06 Run - REYN Reynolds Consumer Products.md. A prompt to read, never a verdict."
   }
  ]
 }
