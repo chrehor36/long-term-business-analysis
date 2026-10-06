@@ -362,7 +362,41 @@ restructuring costs that recur every year **[L2016-007]**, **[L2016-006]**. The 
 which counts every restructuring dollar and every tax payment.
 
 ## Q5 — WHO RUNS IT: able, honest, in love with the business, the same after being paid. STOP on integrity.
-*(to be written)*
+This is a marketable stock; the speakers "read rather than meet" for one, and the after-the-sale test belongs to whole
+purchases **[M2007-081]**. The reading tests are applied to the 10-K, the proxy and the release.
+
+**The two yardsticks** **[M1994-008]**. *How well they run the business, against the hand dealt:* in the same tariff year,
+Construction Industries earned 18.7% on sales against Deere's 9.0% and CNH's 2.3% (Q2, competitor row); the company
+earned $3.0B in the 2020 trough on $41.7B of sales where it had lost money in 2016 on $38.5B (XBRL history); price was
+raised by about $11B net over 2022 to 2025 and largely held (Q2). *How they treat the owners:* the proxy ties the annual
+bonus to "Operating Profit After Capital Charge", operating profit less "average quarterly MP&E net assets multiplied by a
+pre-tax capital charge rate of 13 percent" (DEF 14A 2026, CD&A), which is the rows' own rule that a manager pays for the
+capital he uses **[L1994-019]**, **[M1995-010]**; the new CEO's equity grant and salary were set at "approximately the 25th
+percentile of the compensation peer group" (CD&A); his annualized 2025 pay was $17.5M, 196 times the median employee
+(CEO pay ratio), against $8.9B of profit. Stock ownership guidelines (six times salary for the CEO) and "Strict
+anti-hedging and anti-pledging policies" are stated (CD&A). The two often go together **[M1994-009]**, and here both read
+for the managers.
+
+**The tells of dishonesty.** (a) Reports: the 10-K tells an owner what he would want to know **[M1998-036]**: it splits the
+machine business from the finance company, gives the finance book's aging by origination year and region, quantifies
+tariff costs each quarter and says how much price was given up, segment by segment. (b) The adjusted-profit habit (Q4)
+is a weighing against, and it is the only tell found. (c) The CSARL tax dispute: the IRS contested the treatment of parts
+profits booked in a Swiss subsidiary and proposed "accuracy related penalties"; the company "vigorously contested" and
+settled in 2022 for tax years 2007 to 2016 "without any penalties" (10-K FY2022, `0000018230-23-000011`). Aggressive tax
+structuring settled without penalty is not a finding of dishonesty toward owners; it is recorded for Q12. (d) Language:
+the 10-K and release are written in a corporate register ("Values in Action", "three profitable growth pillars"), which
+the rows read as the mark of an investor-relations product **[M2007-083]**; no instance found of management discussing a
+mistake in the documents read (text search of the 10-K and release for "mistake" and "wrong"), which the rows note
+without making it a stop **[L2024-003]**. No instance of a chairman's letter was read; the 10-K carries none.
+
+**Love of the business, and after being paid.** Not testable from the filings for a hired chief executive of a 100-year-old
+company, beyond tenure: the new CEO, the new CFO and the departing executive chairman are career Caterpillar executives
+(the departing chairman with "forty-five years of service", 8-K `0001104659-26-001346`).
+
+**VERDICT on integrity: IN.** No doubt of the kind the rows act on was found **[M2013-088]**; the capital charge in the
+bonus and the reporting of the two businesses apart read the other way **[L1994-019]**, **[M1998-036]**. **Ability WEIGHS
+FOR**: margins against the hand dealt and against the filing rivals, and a shallower trough in 2020 than in 2016
+**[M1994-008]**. Ability enters the value as certainty, not as a gate **[M1999-104]**.
 
 ## Q6 — WHAT WILL THEY DO WITH THE MONEY AND THE OWNERS? WEIGHING.
 *(to be written)*
