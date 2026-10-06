@@ -231,3 +231,54 @@ the gearing line in Q1 only; no recast of earnings was made.
 ## Q9 — COULD IT RUIN US? NOT REACHED. Its test 10 points back to Q1, where the financial-institution question was decided.
 ## Q10 — IS IT THE FAT PITCH? NOT REACHED.
 ## Q12 (optional) — WOULD WE BE PROUD OF HOW THE MONEY IS MADE? NOT REACHED; not asked by the operator.
+
+---
+## THE BOX
+**TOO HARD (NATURE)**, decided at **Q1**. Goldman's deposit half ($501,422M, costing 3.94% in 2025, 27.7% of assets) is
+readable but is not the cheap deposit side of the bank door; its asset half is a dealer book (trading assets $656,796M,
+derivative notional $43,530,881M at 2025-12-31 and $52,831,907M at 2026-06-30, about 348 times equity) whose condition
+the 10-K itself calls unpredictable in stress and the rows say no one can know **[M2005-068]**, **[L2002-018]**,
+**[M2002-094]**. The cause is the industry's, not the reader's: more reading of the footnotes does not cure it
+**[L1993-023]**, **[M2013-089]**, so no research pass is opened, and a lower price does not reopen the box **[M2000-038]**.
+Q7 not reached; no range, no fair price and no cheap price are stated. Price $893.46 (aggregator, flagged), market cap
+about $260,150M, sovereign 5.66%.
+
+## SELF-AUDIT
+- [x] Copied to the dated file before any fetch; written question by question; committed after each with a pathspec
+      (step 0 and the foundations, then Q1 with the NOT REACHED questions, then this close). Q2 to Q12 were not reached,
+      so there were no further questions to commit separately.
+- [x] Every v5 id resolves: `check_ids.py` (research folder) read every bracketed id in this file against
+      `principle_ledger_v5.csv` and found none missing; quoted fragments were taken from the rows' own text. Every filing
+      fact has its accession; the derived figures (sums, shares of assets, ratios) are stated with their inputs.
+- [x] The order was kept; Q1 closed the run; nothing after it is a clearance. The peer row and the price-to-book line are
+      recorded as evidence and as a COMPUTATION — NOT A CLEARANCE.
+- [x] Owner cash after every real cost, never a net-income proxy: not computed, because Q4 and Q7 were not reached;
+      `tools/run.py`'s operating-cash "owner earnings" was rejected as meaningless for a dealer-bank and not used. The
+      sovereign is from the US Treasury, dated 2026-10-05; the price is an aggregator quote, flagged.
+- [x] Contrary evidence was written down as it was found **[M1997-127]** (eight items under the foundations, four of them
+      against my prior), and weighed in Q1, point 4.
+- [x] No row dated after the anchor is cited in a point-in-time run: not a point-in-time run (the anchor is today).
+- [x] Only the arithmetic lines of `tools/run.py` were used (Part VII).
+- [x] `python tools/check_framework.py` PASS before each commit.
+
+## WHAT IN THE FRAMEWORK WAS WRONG OR UNCLEAR
+Five things. (1) **"A wholesale or derivatives book that its own filing calls unpredictable."** No 10-K says "our book is
+unpredictable" in those words; Goldman's says credit spreads are "subject at times to unpredictable and highly volatile
+movements" and that past moves "may not produce accurate predictions of all future market moves". Every dealer-bank 10-K
+carries risk-factor language of this kind, so read literally the clause sends every dealer bank to TOO HARD on
+boilerplate, and read strictly it sends none. I read it by substance (the size of the book against equity, the dependence
+on netting and collateral, the firm's own limits on its risk measure) and said so; the framework should say whether the
+test is the words or the book. (2) **Test 5 and the two causes.** The WORK/NATURE test asks whether the insiders would
+write the forecast down **[M2000-105]**. Goldman's insiders do write one down, an ROE target of 14% to 16%, so the test
+passes on earnings while the deciding question, the book's condition, is one the rows say nobody can answer. The framework
+does not say which forecast test 5 is asked of; I applied it to the deciding question and recorded the target as contrary
+evidence. (3) **"Very cheap money" has no yardstick.** The door asks for cheap deposits **[M2002-022]** and gives no
+measure; I used the cost of deposits against two peers from their own filings, which is my choice, not a rule, and a second
+analyst could use the sovereign or the asset yield instead. (4) **Evidence beyond the stop.** As in the CCB run, the
+template asks for the competitor row at Q2, which a Q1 close never reaches; I recorded a peer row under Q1 as evidence for
+the deposit reading and said it was not a castle test. (5) **Tool defects, reported, not fixed:** `tools/run.py` prints an
+operating-cash "owner earnings" for a dealer-bank (−$12,587M to −$45,154M a year) and a negative "yield", which is
+meaningless for a firm whose operating cash flow is its trading inventory; and its ten-year balance-sheet table shows "lt
+debt" only for 2016 to 2018 (the `LongTermDebtNoncurrent` tag stops) and marks the debt sums for 2016 to 2021 as partial,
+so the gearing of a bank cannot be read from it without the filed statements. There is still no sector method for banks
+at Q4 and Q7; had this run reached them, the cash figure would have had to be invented and confessed.
