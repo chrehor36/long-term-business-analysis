@@ -233,87 +233,94 @@ business. (d) Revenue grew 18% and operating income 21% in FY2026: the year was 
   lower price does not reopen it **[M2000-038]**. The box is "in, out, and too hard" **[M2006-013]**.
 
 ## Q2 — WHY IS THE CASTLE STILL STANDING, and what keeps it standing ten to twenty years? STOP.
-- The castle tests, each with its filing fact: the attacker with money; pricing power and the agony before a rise; unit
-  volume and share of mind; the low-cost position; the brand in the customer's mind; would the customer still choose it
-  over the low bid; ask the competitors; widening or narrowing; what could destroy it.
-- **The competitor row**, same metric from the competitors' own filings (name, metric, accession).
-- A castle shown open on the evidence closes OUT; a castle whose future cannot be judged closes TOO HARD.
-- **VERDICT: IN / OUT / TOO HARD**, with ids.
+**NOT REACHED.** No competitor row was built (it belongs to Q2). The Q2 material met while reading Q1 (the low barriers
+to entry the 10-K concedes, the hyperscaler and frontier-model competitors, the RPO) is recorded under Q1 as contrary
+evidence and context, not as a verdict.
 
 ## Q3 — HOW MUCH CAPITAL MUST GO IN to get the earnings out, and what does the added capital earn? WEIGHING.
-- Return on the capital actually needed; reinvestment to stand still and to grow; the growth arithmetic and its caps.
-- **WEIGHS FOR / AGAINST / UNDECIDED**, one sentence, with ids. (The "little or no debt" criterion is applied at Q9.)
+**NOT REACHED.** The capital figures in Step 0 are transcription, not a Q3 weighing.
 
 ## Q4 — DO THE NUMBERS SHOW WHAT IT EARNS after every real cost? STOP on confusion or suspicion; otherwise WEIGHING.
-- **The balance sheets first, eight to ten years of them, before the income account** **[M2025-032]** (`tools/run.py`
-  prints the ten-year table; read the filed statements behind it). Say what moved and why: equity against goodwill and
-  intangibles, cash, receivables and inventory against sales, debt, retained earnings; "what the figures are saying and
-  what they don’t say and what they can’t say" **[M2025-032]**. *(line added 2026-10-05: the rule was in Q4 of the
-  framework from adoption, and no run had been asked to do it.)*
-- The real costs (depreciation, stock pay, restructurings, the recurring "one-time"); EBITDA in the filer's own
-  mouth; what the accounts say of management's character. The make-the-numbers habit alone weighs against; with a
-  second tell it is suspicion.
-- **VERDICT on confusion: IN / OUT; WEIGHS FOR / AGAINST** otherwise, with ids. The recast earnings feed Q7.
+**NOT REACHED.** The ten balance sheets were read in Step 0 because the template asks for them before the income
+account; nothing there is a Q4 verdict.
 
 ## Q5 — WHO RUNS IT: able, honest, in love with the business, the same after being paid. STOP on integrity.
-- The two yardsticks; the tells of dishonesty (the proxy, the letters, how they talk about mistakes); love of the
-  business; what ability shows in. Integrity applied on doubt alone.
-- **VERDICT on integrity: IN / OUT; ability WEIGHS FOR / AGAINST**, with ids.
+**NOT REACHED.**
 
 ## Q6 — WHAT WILL THEY DO WITH THE MONEY AND THE OWNERS? WEIGHING.
-- Part A: the retention test (a dollar kept worth more than a dollar, over time); buybacks (only below value; a buyback
-  with no stated price weighs against unless the prices paid sit at or below the bottom of the Q7 range); issuance and
-  deals (value given against value got; an all-stock deal at an undervalued price is the one STOP here).
-- Part B: pay tied to what the person controls; the board; the owners as partners.
-- **WEIGHS FOR / AGAINST / UNDECIDED**, one sentence per part, with ids.
+**NOT REACHED.**
 
 ## Q7 — WHAT IS IT WORTH? STOP.
-- How much cash, how sure, how soon, at the long government rate, as a range (the CONVENTION construction: five-year
-  average of owner cash after every real cost, carried at the growth shown and capped by Q3, ten years then no real
-  growth, at the sovereign; the ends are the no-growth and shown-growth cases).
-- The floor (CONVENTION): about ten percent pre-tax expected return, as the speakers stated and qualified it; below it
-  the name is quit on, not ranked.
-- **Value range:** $ ___ to $ ___ a share against $ ___. **Closes:** TOO HARD if the range is wider than about three
-  to one; OUT if the price sits inside or just below a narrower range (not a screamer); IN only if the price is so far
-  below that no pencil is needed.
-- **VERDICT: IN / OUT / TOO HARD**, with ids.
+**NOT REACHED.** No value range, fair price or cheap price is computed: the dispatch asks for them only if Q7 is reached,
+and operator rule 3 allows no entry language from a computation made before the earlier STOPs close. The only valuation
+arithmetic in this file is the owner-cash yield of Step 0 (1.46% on the five-year mean, capex basis, against a 5.66%
+sovereign), which is transcription and carries no verdict.
 
 ## Q8 — IS IT BETTER THAN THE ALTERNATIVES: the bond, more of what I already own, the company's own stock? STOP.
-- The bond as the first filter, then the ranking against the best thing already held (for a private holder, more of
-  what he owns; for a company, its own stock below value).
-- **VERDICT: IN / OUT**, with ids.
+**NOT REACHED.**
 
 ## Q9 — COULD IT RUIN US: the target's debt and exposures. WEIGHING.
-- Debt in the business, demands for sudden large sums, counterparties, aggregation; "little or no debt" is the one STOP
-  for a whole business bought.
-- **WEIGHS FOR / AGAINST**, with ids.
+**NOT REACHED.** (For a reader: the $743.8B of contractual obligations in Step 0, most of them datacenter leases and
+purchase commitments, are the facts Q9 would weigh first.)
 
 ## Q10 — IS IT THE FAT PITCH, and am I buying enough? WEIGHING.
-- Inaction as the default; sizing when sure; the omission as the costliest error. No position is taken here; say what
-  the draft would have the buyer do.
+**NOT REACHED.**
 
 ## Q12 (optional) — WOULD WE BE PROUD OF HOW THE MONEY IS MADE?
-- The newspaper test; the businesses named. **STOP for named businesses; otherwise WEIGHS FOR / AGAINST.**
+Not asked.
 
 ---
 ## THE BOX
-One line: **IN / OUT / TOO HARD (WORK) / TOO HARD (NATURE)**, the question that decided it, and for a name that reached
-Q7 the range beside the price. A TOO HARD names its cause (the framework's section I, the two causes): WORK when the
-deciding question is knowable and the work is not done, which opens a research file (Part VII); NATURE when the
-industry's insiders would not write the forecast down. Q11 (has the business changed, or only its price) belongs to the holding review, not to a purchase run.
+**TOO HARD (NATURE), decided at Q1** **[M2000-105]**, **[L1993-023]**, **[L1999-018]**. The forecast that would decide it
+is what a datacenter and AI programme of a size Microsoft has never run (capital put in $140.6B in FY2026 with finance
+leases, 42.4% of revenue; $329.1B of leases signed and not yet commenced; $194.1B of datacenter purchase commitments)
+will earn over ten years, and whether agents keep or break the seat-based franchise; the issuer's own 10-K calls that
+demand "difficult to forecast" and the cost structure "subject to significant uncertainty". No research file is opened:
+the cause is the nature of the industry, not undone work, and a lower price does not reopen the box **[M2000-038]**.
+Q7 was not reached; no value range, fair price or cheap price is given. Price for the record: $525.18 (aggregator,
+2026-10-05), market cap $3.90 trillion, owner-cash yield 1.46% on the five-year mean (capex basis) against a 5.66%
+Treasury. Q11 belongs to the holding review, not to a purchase run.
 
 ## SELF-AUDIT
-- [ ] Copied to the dated file before any fetch; written question by question; committed after each (write-early).
-- [ ] Every v5 id resolves (grep it in `principle_ledger_v5.csv`); every filing fact has its accession; no number
-      without a row or a filing.
-- [ ] The order was kept; the first STOP that failed closed the run; nothing after it is a clearance.
-- [ ] Owner cash after every real cost, never a net-income proxy (operator rule 5); the sovereign from the issuing
-      authority; aggregator quotes flagged.
-- [ ] Contrary evidence was written down as it was found **[M1997-127]**.
-- [ ] No row dated after the anchor is cited in a point-in-time run (Part VII).
-- [ ] Only the arithmetic lines of `tools/run.py` were used (Part VII).
-- [ ] `python tools/check_framework.py` PASS before the commit.
+- [x] Copied to the dated file before any fetch (commit `f282bc7`). Written question by question and committed after
+      each: Step 0 to the standing rule in one commit, Q1 in its own (`c076f71`), the close in this one. **Declared:** the
+      first Step 0 commit also swept in four plain-text filing dumps whose names (`k.txt`, `q.txt`, `p.txt`, `k25.txt`)
+      escaped the `.gitignore` patterns; it was undone with a soft reset before anything else was written, the dumps were
+      renamed to ignored names, and Step 0 was committed again (`9ef47d7`). No other history was rewritten.
+- [x] Every v5 id resolves: each bold id was checked against `principle_ledger_v5.csv` by script before the commit, and
+      the quoted fragments of each row were matched against the row's `quote_verbatim`. Every filing fact carries its
+      accession; the 10-K quotations were matched against the filing text by script.
+- [x] The order was kept; Q1 closed the file TOO HARD (NATURE); Q2 to Q10 and Q12 are NOT REACHED and nothing after Q1 is
+      a clearance. The owner-cash yield in Step 0 is transcription, with no entry language (operator rule 3).
+- [x] Owner cash after every real cost, never a net-income proxy (operator rule 5): operating cash less all stock pay
+      less all capital spending, with the finance-lease and component variants shown beside it. The sovereign is from the
+      US Treasury, dated 2026-10-05; the price is an aggregator quote and is flagged.
+- [x] Contrary evidence was written down as it was found **[M1997-127]**: in the foundations (against the analyst's
+      capital-light prior, and against a TOO HARD close) and weighed again at Q1.
+- [x] No row dated after the anchor is cited in a point-in-time run (Part VII): not a point-in-time run; the anchor is
+      today.
+- [x] Only the arithmetic lines of `tools/run.py` were used (Part VII).
+- [x] `python tools/check_framework.py` PASS before each commit.
 
 ## WHAT IN THE FRAMEWORK WAS WRONG OR UNCLEAR
-One paragraph: the instruction found ambiguous, missing or unworkable in this run, and what was done. Every run so far
-has had one; a run that reports none is suspect.
+(1) **What counts as "all capital spending" when capital arrives as leases and prepayments.** Q7's CONVENTION says the
+cash input "deducts all capital spending" and Q4 lists the real costs, but neither says whether finance-lease assets
+obtained (non-cash at signing, $24,608M in FY2026), component prepayments carried in investing "Other, net" ($19,861M),
+or capex unpaid at year-end ($26.7B in accounts payable) are capital spending. For Microsoft the choice moves FY2026
+owner cash from $54,582M to about $10,113M. This run computed the first two variants, gave the third as a figure only, and decided nothing on them, since Q1
+closed first; a run that reaches Q7 on a business in a build-out needs a rule. (2) **Test 5 of Q1 when the insider is
+the issuer.** Test 5, *would the insiders write it down* **[M2000-105]**, was answered here from the company's own risk factors.
+Risk factors are written to disclaim, and almost every 10-K says its markets are competitive and uncertain; read
+loosely, the test would close every filer TOO HARD. This run used only the sentences tied to the deciding variable
+(demand for the capacity being built "difficult to forecast", the revenue "in advance of fully developed revenue
+streams", the cost structure "subject to significant uncertainty") and backed them with the capital figures that make
+them decisive. The framework gives no line between boilerplate and a substantive refusal to forecast; it should. (3)
+**The by-parts reading at Q1** is written for "a holding company" (CONVENTION). It was applied here to the segments of
+an operating company, on the doubt row **[M2002-092]**, because one part (Microsoft 365 Commercial) may be foreseeable
+alone and another (the datacenter programme) is not. The framework does not say whether the convention reaches an
+operating company's segments. (4) **Tool notes, not fixed (the dispatch forbids it):** `tools/run.py` prints a
+three-year window and a "capex alt" that adds finance-lease *principal payments* from the financing section, not the
+finance-lease assets obtained; in a build-out the payments lag the assets badly ($3,101M paid against $24,608M obtained
+in FY2026), so the tool's alternate understates the capital put in. The run extended the series to eleven years in
+`compute.py` from the filed lines. And the research-folder `.gitignore` patterns match only named dump files
+(`tenk*.txt`, `*10-K*.txt` and the like); a dump with a generic name is committed silently.
