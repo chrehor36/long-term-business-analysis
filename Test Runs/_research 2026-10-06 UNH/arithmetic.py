@@ -34,5 +34,7 @@ tot = sum(seg.values())
 for k, v in seg.items():
     print("share of 2026 outlook operating earnings", k, round(100 * v / tot, 1), "%")
 # UnitedHealthcare 2026 revenue outlook floors (8-K 0000731766-26-000025 EX-99.1), $M
+print("UnitedHealthcare + Optum Health share of 2026 outlook operating earnings",
+      round(100 * (seg["UnitedHealthcare"] + seg["Optum Health"]) / tot, 1), "%")
 mr, cs, ei, uhc = 165000, 95000, 75000, 335000
 print("government programs (M&R + C&S) share of UHC revenue floor", round(100 * (mr + cs) / uhc, 1), "%")
