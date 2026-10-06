@@ -101,7 +101,7 @@ flagged, never smoothed (PRIME RULE 1).
 | Path | What it is | Status |
 |---|---|---|
 | `Screens/WATCHLIST RUN QUEUE.md` | the register and the working rules (see READ FIRST) | LIVE |
-| `Screens/SURVIVAL SHAPES - index.md` | the named ways a business dies, each line citing its ledger rows; every run names a shape and new shapes are added at fold | LIVE |
+| `Screens/SURVIVAL SHAPES - index.md` | the named ways a business dies, each line citing its ledger rows; every v4.1 run named a shape and new shapes were added at fold. Retired for v5 runs on 2026-10-06 at the operator's decision: the v5 template has no shape field and no run dated after 2026-10-05 names one; the index stands as the record of the v4.1 runs *(this row said "every run names a shape and new shapes are added at fold \| LIVE" until 2026-10-06)* | HISTORY |
 | `Screens/RESUME STATE 2026-09-12 - Opus session, note for Fable.md` | the session-state file (see READ FIRST); `Screens/RESUME STATE 2026-09-02 - four runs killed at the session limit.md` is its predecessor | LIVE / HISTORY |
 | `Screens/2026-09-02 MASTER RUN QUEUE (corrected).csv` | the screen row every brief carries: owner earnings, deal note, SBC, level shifts | LIVE |
 | `Screens/2026-08-31 PREPPED READING LIST (operator lists).md` | the narrative fold of every run; append-only, search by ticker | LIVE |

@@ -35,8 +35,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 155,
-   "active": true,
-   "label": "HD at/below $155: ranks on judged owner earnings. Watch: $4,464M of commercial paper outstanding (E5-11 strength 2 FAILS harder than Lowe's - HD is currently FUNDED by the strangers, not merely backstopped), the dividend engine off by stated policy (no buybacks in FY2026), and goodwill+intangibles now 31.1% of assets."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). HD at/below $155: ranks on judged owner earnings. Watch: $4,464M of commercial paper outstanding (E5-11 strength 2 FAILS harder than Lowe's - HD is currently FUNDED by the strangers, not merely backstopped), the dividend engine off by stated policy (no buybacks in FY2026), and goodwill+intangibles now 31.1% of assets."
   },
   {
    "id": "HD-rerun-band",
@@ -44,8 +44,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 185,
-   "active": true,
-   "label": "HD at/below $185: full v4.1 re-run triggers. Business cleared Q1-Q4 on 2026-08-31 and BEATS Lowe's on nearly every operating measure - but failed the floor by 3-4.5 points, WORSE than Lowe's 1-2.75. FIRST re-test: has the $24.2bn SRS/GMS distribution bet started earning more than 2.49%? Source: Test Runs/2026-08-31 Run - HD (Home Depot) v4.1.md."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). HD at/below $185: full v4.1 re-run triggers. Business cleared Q1-Q4 on 2026-08-31 and BEATS Lowe's on nearly every operating measure - but failed the floor by 3-4.5 points, WORSE than Lowe's 1-2.75. FIRST re-test: has the $24.2bn SRS/GMS distribution bet started earning more than 2.49%? Source: Test Runs/2026-08-31 Run - HD (Home Depot) v4.1.md."
   },
   {
    "id": "SHW-rank-band",
@@ -53,8 +53,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 195,
-   "active": true,
-   "label": "SHW at/below $195: top of the conservative band ($155-195); the name would rank. Watch: gross margin 2.7 points above its 2019-20 mean ($636.5M pre-tax), $207.2M of cash = 3.2 days of sales against $1,200.5M of short-term paper [E5-39 strength-2 failure], and buybacks where no tranche cleared the government bond."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). SHW at/below $195: top of the conservative band ($155-195); the name would rank. Watch: gross margin 2.7 points above its 2019-20 mean ($636.5M pre-tax), $207.2M of cash = 3.2 days of sales against $1,200.5M of short-term paper [E5-39 strength-2 failure], and buybacks where no tranche cleared the government bond."
   },
   {
    "id": "SHW-rerun-band",
@@ -62,8 +62,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 250,
-   "active": true,
-   "label": "SHW at/below $250: full v4.1 re-run triggers. Business cleared Q1-Q4 on 2026-08-31 and the Q2 test ACQUITTED it - SHW stores +3.2% sales in the same year Behr inside Home Depot fell 14% and PPG had already exited US/Canada architectural. It failed on price: yield 2.42-3.40% is below the sovereign on EVERY construction. FIRST re-test: the FY2026 10-K (~Feb 2027) settles whether H1 2026 cash flow was real or a working-capital swing plus tax deferral. Source: Test Runs/2026-08-31 Run - SHW (Sherwin-Williams) v4.1.md."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). SHW at/below $250: full v4.1 re-run triggers. Business cleared Q1-Q4 on 2026-08-31 and the Q2 test ACQUITTED it - SHW stores +3.2% sales in the same year Behr inside Home Depot fell 14% and PPG had already exited US/Canada architectural. It failed on price: yield 2.42-3.40% is below the sovereign on EVERY construction. FIRST re-test: the FY2026 10-K (~Feb 2027) settles whether H1 2026 cash flow was real or a working-capital swing plus tax deferral. Source: Test Runs/2026-08-31 Run - SHW (Sherwin-Williams) v4.1.md."
   },
   {
    "id": "CSL-rank-band",
@@ -143,8 +143,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 650,
-   "active": true,
-   "label": "COST at/below $650: judged OE yield reaches ~2.5-3.0% and the E4-28 floor comes within honest reach - a full v4.1 re-run triggers. Business passed Q1-Q4 on 2026-08-30; only the price failed. Source: Test Runs/2026-08-30 Run - COST (Costco) v4.1.md. Review only."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). COST at/below $650: judged OE yield reaches ~2.5-3.0% and the E4-28 floor comes within honest reach - a full v4.1 re-run triggers. Business passed Q1-Q4 on 2026-08-30; only the price failed. Source: Test Runs/2026-08-30 Run - COST (Costco) v4.1.md. Review only."
   },
   {
    "id": "COST-rank-band",
@@ -152,8 +152,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 330,
-   "active": true,
-   "label": "COST at/below $330: judged OE yield reaches the sovereign and the name RANKS (top of the 2026-08-30 value range). Gates re-checked before any action. Source: Test Runs/2026-08-30 Run - COST (Costco) v4.1.md."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). COST at/below $330: judged OE yield reaches the sovereign and the name RANKS (top of the 2026-08-30 value range). Gates re-checked before any action. Source: Test Runs/2026-08-30 Run - COST (Costco) v4.1.md."
   },
   {
    "id": "ASML-reentry-band",
@@ -251,8 +251,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 215,
-   "active": true,
-   "label": "MCD at/below $215: the top of the sovereign-rate value range. THIRD name to clear all four business gates (2026-09-03) and the best business among them - Q2 IN WIDE as a franchisor-landlord: rent $10,442M > royalties $6,018M, $31,451M of contracted minimum rent filed to the dollar, and at the 20-year expiry the Company keeps the real estate. Failed at Q5 on the floor: expectancy 7.6-9.2% vs ~10%. Judged OE $7,000M. FIRST RE-TEST: the US real physical series - FAFH-deflated US comps at 95.4 on a 2013=100 index, guest counts negative every disclosed year but 2017, the numeric table withdrawn in the FY2020 10-K [E2-49]. Twelve years of nominal +50% is entirely price. Source: Test Runs/2026-09-03 Run - MCD McDonalds.md"
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). MCD at/below $215: the top of the sovereign-rate value range. THIRD name to clear all four business gates (2026-09-03) and the best business among them - Q2 IN WIDE as a franchisor-landlord: rent $10,442M > royalties $6,018M, $31,451M of contracted minimum rent filed to the dollar, and at the 20-year expiry the Company keeps the real estate. Failed at Q5 on the floor: expectancy 7.6-9.2% vs ~10%. Judged OE $7,000M. FIRST RE-TEST: the US real physical series - FAFH-deflated US comps at 95.4 on a 2013=100 index, guest counts negative every disclosed year but 2017, the numeric table withdrawn in the FY2020 10-K [E2-49]. Twelve years of nominal +50% is entirely price. Source: Test Runs/2026-09-03 Run - MCD McDonalds.md"
   },
   {
    "id": "MCD-ranks-band",
@@ -260,8 +260,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 188,
-   "active": true,
-   "label": "MCD at/below $188: the judged value. Watch [E2-60] (decade: $78.9bn paid out vs $54.8bn OE, debt +$14.0bn - the negative equity IS the program), the revolver-backed CP [E5-39], and 2025 buybacks at ~$301 average against ~$185-190 judged value [E5-08 condition 2]. A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). MCD at/below $188: the judged value. Watch [E2-60] (decade: $78.9bn paid out vs $54.8bn OE, debt +$14.0bn - the negative equity IS the program), the revolver-backed CP [E5-39], and 2025 buybacks at ~$301 average against ~$185-190 judged value [E5-08 condition 2]. A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "HAS-rerun-band",
@@ -431,8 +431,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 53,
-   "active": true,
-   "label": "WMT at/below $53: the top of the zero-growth band ($26-53, judged ~$37). THIRTEENTH name to clear all four gates (2026-09-06) and the largest business ever run in this queue. Q2 IN NARROW with the [E2-58] exception DEMONSTRATED by the best-resourced attacker on earth failing: Amazon paid $13.7bn for Whole Foods and its Physical stores line went $17.2bn (2018) to $22.6bn (2025), +31% in seven years, while Walmart US added $164bn of sales. US transactions positive in all 21 quarters since Q2 FY2022. THE LOAD-BEARING NUMBER: at the capex end, FY2026 owner earnings ($11,320M) are LOWER than FY2017's ($20,458M) - nine years, +$227bn of revenue, less cash after the capital bill; FY2023-26 capex of $87,888M against $49,974M of D&A produced +$3,883M of operating income, a 10.2% incremental return against ~22.3% on the pre-existing base. Floor needs +8.18%/yr perpetual against a filed decade of +2.2%/yr operating income. Source: Test Runs/2026-09-06 Run - WMT Walmart.md"
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). WMT at/below $53: the top of the zero-growth band ($26-53, judged ~$37). THIRTEENTH name to clear all four gates (2026-09-06) and the largest business ever run in this queue. Q2 IN NARROW with the [E2-58] exception DEMONSTRATED by the best-resourced attacker on earth failing: Amazon paid $13.7bn for Whole Foods and its Physical stores line went $17.2bn (2018) to $22.6bn (2025), +31% in seven years, while Walmart US added $164bn of sales. US transactions positive in all 21 quarters since Q2 FY2022. THE LOAD-BEARING NUMBER: at the capex end, FY2026 owner earnings ($11,320M) are LOWER than FY2017's ($20,458M) - nine years, +$227bn of revenue, less cash after the capital bill; FY2023-26 capex of $87,888M against $49,974M of D&A produced +$3,883M of operating income, a 10.2% incremental return against ~22.3% on the pre-existing base. Floor needs +8.18%/yr perpetual against a filed decade of +2.2%/yr operating income. Source: Test Runs/2026-09-06 Run - WMT Walmart.md"
   },
   {
    "id": "WMT-ranks-band",
@@ -440,8 +440,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 37,
-   "active": true,
-   "label": "WMT at/below $37: the judged zero-growth value. Watch the margin-mix question the run settled AGAINST the flywheel thesis: the filed decade decomposes as revenue x1.479 times operating margin x0.84, and Walmart US segment margin FELL 7.4% (FY2015) to 5.2% WHILE the ads/membership flywheel was built. The full bull case (margin back to 5.6%) is a one-time x1.33 re-rating worth ~+2.9%/yr for ten years and zero after. A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). WMT at/below $37: the judged zero-growth value. Watch the margin-mix question the run settled AGAINST the flywheel thesis: the filed decade decomposes as revenue x1.479 times operating margin x0.84, and Walmart US segment margin FELL 7.4% (FY2015) to 5.2% WHILE the ads/membership flywheel was built. The full bull case (margin back to 5.6%) is a one-time x1.33 re-rating worth ~+2.9%/yr for ten years and zero after. A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "GRMN-rerun-band",
@@ -710,8 +710,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 63,
-   "active": true,
-   "label": "KO at/below $63: the E4-28 floor is met only if 2019-25's 6.1%/yr growth in operating income before other operating charges is granted in perpetuity on $10.0bn of owner earnings (adjusted five-year mean, capex end). Q1-Q4 all IN on 2026-09-19 (Q2 WIDE with two limits: energy ceded to Monster, bottler share of price rises); Q5 quit on at $88.25 (yield 2.63% vs 5.34%; the price needs 7.2% forever). Prompt for a FULL v4.1 re-run in which that growth is re-tested before it is spent, not a purchase. VOID if a Q2 falsifier has fired: two consecutive negative worldwide unit-case years outside a pandemic; North America price/mix negative in a year when commodity costs fell; North America unit cases down 3% or more two years running. Re-read on the Eleventh Circuit IRS decision (about $20bn and 6% of owner earnings at stake). Source: Test Runs/2026-09-19 Run - KO Coca-Cola.md"
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). KO at/below $63: the E4-28 floor is met only if 2019-25's 6.1%/yr growth in operating income before other operating charges is granted in perpetuity on $10.0bn of owner earnings (adjusted five-year mean, capex end). Q1-Q4 all IN on 2026-09-19 (Q2 WIDE with two limits: energy ceded to Monster, bottler share of price rises); Q5 quit on at $88.25 (yield 2.63% vs 5.34%; the price needs 7.2% forever). Prompt for a FULL v4.1 re-run in which that growth is re-tested before it is spent, not a purchase. VOID if a Q2 falsifier has fired: two consecutive negative worldwide unit-case years outside a pandemic; North America price/mix negative in a year when commodity costs fell; North America unit cases down 3% or more two years running. Re-read on the Eleventh Circuit IRS decision (about $20bn and 6% of owner earnings at stake). Source: Test Runs/2026-09-19 Run - KO Coca-Cola.md"
   },
   {
    "id": "KO-floor-band",
@@ -719,8 +719,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 41,
-   "active": true,
-   "label": "KO at/below $41: the E4-28 floor is met on the owner-earnings record itself (adjusted owner earnings +4.1%/yr 2019-25, $10.0bn base). A ping is a prompt to re-run the gates, never an action; recompute both bands at the rate of the day and at the FY2026 10-K (expected February 2027). Owner earnings as filed are about $2bn a year lower because the $6.0bn IRS deposit (2024) and the $6.1bn fairlife milestone (2025) sit inside operating cash. Source: Test Runs/2026-09-19 Run - KO Coca-Cola.md"
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). KO at/below $41: the E4-28 floor is met on the owner-earnings record itself (adjusted owner earnings +4.1%/yr 2019-25, $10.0bn base). A ping is a prompt to re-run the gates, never an action; recompute both bands at the rate of the day and at the FY2026 10-K (expected February 2027). Owner earnings as filed are about $2bn a year lower because the $6.0bn IRS deposit (2024) and the $6.1bn fairlife milestone (2025) sit inside operating cash. Source: Test Runs/2026-09-19 Run - KO Coca-Cola.md"
   },
   {
    "id": "GFF-rerun-band",
@@ -800,8 +800,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 84.16,
-   "active": true,
-   "label": "PG at/below $84.16: the E4-28 floor is met on g = 3.0% (the filed growth of five-year owner earnings, FY2012-16 to FY2022-26 and FY2017-21 to FY2022-26 both about 3.2-3.3%/yr) on the five-year capex-end owner earnings of $14,087M and 2,391.1M as-converted shares (common plus ESOP convertible preferred). Q1-Q4 all IN on 2026-09-25; Q5 quit on at $145.68 (yield 4.04-4.23% against a 5.47% sovereign, expectancy 7.0-8.5%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (growth-target flag and E5-08(2) capital-allocation flag live). VOID if any Q2 falsifier has fired: segment share down in three or more of five segments for a third consecutive fiscal year; two consecutive negative total-company organic volume years; negative total-company price in any year; GAAP operating margin below 20.6% two years running; a further Gillette impairment or Walmart above 20% of sales. Source: Test Runs/2026-09-25 Run - PG Procter & Gamble.md."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). PG at/below $84.16: the E4-28 floor is met on g = 3.0% (the filed growth of five-year owner earnings, FY2012-16 to FY2022-26 and FY2017-21 to FY2022-26 both about 3.2-3.3%/yr) on the five-year capex-end owner earnings of $14,087M and 2,391.1M as-converted shares (common plus ESOP convertible preferred). Q1-Q4 all IN on 2026-09-25; Q5 quit on at $145.68 (yield 4.04-4.23% against a 5.47% sovereign, expectancy 7.0-8.5%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (growth-target flag and E5-08(2) capital-allocation flag live). VOID if any Q2 falsifier has fired: segment share down in three or more of five segments for a third consecutive fiscal year; two consecutive negative total-company organic volume years; negative total-company price in any year; GAAP operating margin below 20.6% two years running; a further Gillette impairment or Walmart above 20% of sales. Source: Test Runs/2026-09-25 Run - PG Procter & Gamble.md."
   },
   {
    "id": "PG-rerun-band",
@@ -809,8 +809,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 107.25,
-   "active": true,
-   "label": "PG at/below $107.25: the E4-28 floor is met only if the full 4.25%/yr per-share growth (3.2% owner-earnings growth plus about 1.0%/yr share reduction) is granted in perpetuity at the D&A end ($14,746M). Prompt for a FULL v4.1 re-run in which that rate is re-tested against the then-current segment-share and organic-volume series before it is spent. Re-derive both PG bands on the FY2027 10-K (about August 2027)."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). PG at/below $107.25: the E4-28 floor is met only if the full 4.25%/yr per-share growth (3.2% owner-earnings growth plus about 1.0%/yr share reduction) is granted in perpetuity at the D&A end ($14,746M). Prompt for a FULL v4.1 re-run in which that rate is re-tested against the then-current segment-share and organic-volume series before it is spent. Re-derive both PG bands on the FY2027 10-K (about August 2027)."
   },
   {
    "id": "CHD-floor-band",
@@ -926,8 +926,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 222.42,
-   "active": true,
-   "label": "CAT at/below $222.42: the E4-28 floor is met at g = 2.4% (MP&E sales 2007-2025) on the five-year capex-end MP&E owner earnings of $7,800M and 459,674,889 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW through the E2-58 wide-and-sustainable exception: Construction Industries' margin above Deere C&F's in all fifteen years 2011-2025; price realization positive in 19 of 23 filed years; criterion (2) not met as a belief); Q5 quit on at $821.58 (yield 2.07-2.21% five-year against a 5.49% sovereign, expectancy 4.4-8.6%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag live: 2026 buybacks at about $880 against the run's values; the lender rolls $12.6bn a year). VOID if any Q2 falsifier has fired: Construction Industries' margin at or below Deere C&F's in any fiscal year, or below Komatsu's whole-company margin two consecutive years; consolidated price realization negative two consecutive years, or negative in a year of rising volume twice within five years (2025 is the first); the manufacturing margin below 5% outside a year in which sales fell 20% or more; Financial Products past dues above 6%, covenant leverage above 9 to 1, or any payment under the support agreement; an acquisition above $5bn or goodwill impairments above $1bn in a year. Source: Test Runs/2026-09-28 Run - CAT Caterpillar.md."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). CAT at/below $222.42: the E4-28 floor is met at g = 2.4% (MP&E sales 2007-2025) on the five-year capex-end MP&E owner earnings of $7,800M and 459,674,889 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW through the E2-58 wide-and-sustainable exception: Construction Industries' margin above Deere C&F's in all fifteen years 2011-2025; price realization positive in 19 of 23 filed years; criterion (2) not met as a belief); Q5 quit on at $821.58 (yield 2.07-2.21% five-year against a 5.49% sovereign, expectancy 4.4-8.6%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag live: 2026 buybacks at about $880 against the run's values; the lender rolls $12.6bn a year). VOID if any Q2 falsifier has fired: Construction Industries' margin at or below Deere C&F's in any fiscal year, or below Komatsu's whole-company margin two consecutive years; consolidated price realization negative two consecutive years, or negative in a year of rising volume twice within five years (2025 is the first); the manufacturing margin below 5% outside a year in which sales fell 20% or more; Financial Products past dues above 6%, covenant leverage above 9 to 1, or any payment under the support agreement; an acquisition above $5bn or goodwill impairments above $1bn in a year. Source: Test Runs/2026-09-28 Run - CAT Caterpillar.md."
   },
   {
    "id": "CAT-rerun-band",
@@ -935,8 +935,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 598.07,
-   "active": true,
-   "label": "CAT at/below $598.07: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY convention under E4-44) is granted on the TTM depreciation-end MP&E owner earnings ($13,746M to 2026-06-30, carrying $3,233M of customer prepayments), above the record's 2.4% sales growth and at the top of the cycle. Prompt for a FULL v4.1 re-run in which the level, the growth and the (c) end are re-tested before any is spent. Re-derive both CAT bands on the 2026 10-K (about mid-February 2027); VOID if any falsifier in CAT-floor-band has fired. Source: Test Runs/2026-09-28 Run - CAT Caterpillar.md."
+   "active": false,
+   "label": "RETIRED 2026-10-06 (a v4.1 band; superseded by the v5 run of 2026-10-06 and its fair-price alert). CAT at/below $598.07: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY convention under E4-44) is granted on the TTM depreciation-end MP&E owner earnings ($13,746M to 2026-06-30, carrying $3,233M of customer prepayments), above the record's 2.4% sales growth and at the top of the cycle. Prompt for a FULL v4.1 re-run in which the level, the growth and the (c) end are re-tested before any is spent. Re-derive both CAT bands on the 2026 10-K (about mid-February 2027); VOID if any falsifier in CAT-floor-band has fired. Source: Test Runs/2026-09-28 Run - CAT Caterpillar.md."
   },
   {
    "id": "MSA-floor-band",
@@ -1207,6 +1207,159 @@
    "threshold": 14.64,
    "active": false,
    "label": "RETIRED 2026-10-06 (operator: no cheap price; fair only). REYN at/below $14.64: the v5 cheap price. Source: Test Runs/2026-10-06 Run - REYN Reynolds Consumer Products.md. A prompt to read, never a verdict."
+  },
+  {
+   "id": "ABG-v5-relook",
+   "ticker": "ABG",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 163,
+   "active": true,
+   "label": "ABG at/below $163: the run's own re-open level (Test Runs/2026-10-05 Run - ABG Asbury Automotive.md, Q7: the price at which the bottom whole-cycle case still earns the ~10% pre-tax floor under the +200bp stress of [M2007-096]; 'levels at which the file would be re-opened, not buy signals'). The price at the run, $171.62, was already under the central fair price of $216 and the run closed OUT as a pencil case, so the alert sits at the run's lower level. Re-run Q7 on the whole-cycle base and check the FTC action first. A prompt to read, never a verdict (operator, 2026-10-06)."
+  },
+  {
+   "id": "PBH-v5-relook",
+   "ticker": "PBH",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 37.87,
+   "active": true,
+   "label": "PBH at/below $37.87: the run's own fair price in the shown-decline case (Test Runs/2026-10-05 Run - PBH Prestige Consumer Healthcare.md, Q7: central fair $47.74, shown-decline $37.87, on equity plus $2.1B net debt; OUT at Q7 at $45.61 as a pencil case on the floor). The price is already under the central fair, so the alert sits where the worse case also clears the floor. Re-run Q7 with Breathe Right's audited results and the floating-rate debt first. A reporting figure, never a verdict; a prompt to read (operator, 2026-10-06)."
+  },
+  {
+   "id": "CAT-v5-fair",
+   "ticker": "CAT",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 551,
+   "active": true,
+   "label": "CAT at/below $551: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - CAT Caterpillar.md; OUT AT Q7, ON PRICE at $848.14): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+  },
+  {
+   "id": "V-v5-fair",
+   "ticker": "V",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 114,
+   "active": true,
+   "label": "V at/below $114: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - V Visa.md; OUT AT Q7, ON PRICE at $369.71): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06). The holding review's own add band (V-v5-add, $300) stands beside this purchase-run figure; reconcile at the next review."
+  },
+  {
+   "id": "TRV-v5-fair",
+   "ticker": "TRV",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 156,
+   "active": true,
+   "label": "TRV at/below $156: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - TRV Travelers.md; OUT AT Q7, ON PRICE at $360.70): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+  },
+  {
+   "id": "SHW-v5-fair",
+   "ticker": "SHW",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 161,
+   "active": true,
+   "label": "SHW at/below $161: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - SHW Sherwin-Williams.md; OUT AT Q7, ON PRICE at $318.46): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+  },
+  {
+   "id": "AXP-v5-fair",
+   "ticker": "AXP",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 102,
+   "active": true,
+   "label": "AXP at/below $102: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - AXP American Express.md; OUT AT Q7, ON PRICE at $304.02): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+  },
+  {
+   "id": "HD-v5-fair",
+   "ticker": "HD",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 153.5,
+   "active": true,
+   "label": "HD at/below $153.5: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - HD Home Depot.md; OUT AT Q7, ON PRICE at $281.15): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+  },
+  {
+   "id": "MCD-v5-fair",
+   "ticker": "MCD",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 138.83,
+   "active": true,
+   "label": "MCD at/below $138.83: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - MCD McDonalds.md; OUT AT Q7, ON PRICE at $233.04): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+  },
+  {
+   "id": "HON-v5-fair",
+   "ticker": "HON",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 89,
+   "active": true,
+   "label": "HON at/below $89: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - HON Honeywell.md; OUT AT Q7, ON PRICE at $214.14): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+  },
+  {
+   "id": "PG-v5-fair",
+   "ticker": "PG",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 83,
+   "active": true,
+   "label": "PG at/below $83: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - PG Procter & Gamble.md; OUT AT Q7, ON PRICE at $145.94): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+  },
+  {
+   "id": "WMT-v5-fair",
+   "ticker": "WMT",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 19.67,
+   "active": true,
+   "label": "WMT at/below $19.67: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - WMT Walmart.md; OUT AT Q7, ON PRICE at $105.07): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+  },
+  {
+   "id": "KO-v5-fair",
+   "ticker": "KO",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 27.53,
+   "active": true,
+   "label": "KO at/below $27.53: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - KO Coca-Cola.md; OUT AT Q7, ON PRICE at $86.51): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+  },
+  {
+   "id": "PM-v5-fair",
+   "ticker": "PM",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 70.27,
+   "active": true,
+   "label": "PM at/below $70.27: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - PM Philip Morris International.md; OUT AT Q7, ON PRICE at $189.53): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+  },
+  {
+   "id": "ADP-v5-fair",
+   "ticker": "ADP",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 171,
+   "active": true,
+   "label": "ADP at/below $171: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - ADP Automatic Data Processing.md; OUT AT Q7, ON PRICE at $260.26): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+  },
+  {
+   "id": "GD-v5-fair",
+   "ticker": "GD",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 274,
+   "active": true,
+   "label": "GD at/below $274: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - GD General Dynamics.md; OUT AT Q7, ON PRICE at $331.72): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+  },
+  {
+   "id": "COST-v5-fair",
+   "ticker": "COST",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 195,
+   "active": true,
+   "label": "COST at/below $195: the fair price on the equity of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - COST Costco Wholesale.md; OUT at Q7 on price at $935.68; $173 on equity plus net debt); the price at which the run's central case earns the floor of about ten percent pre-tax on owner cash after the company's tax. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
   }
  ]
 }

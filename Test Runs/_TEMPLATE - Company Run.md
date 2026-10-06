@@ -4,7 +4,9 @@ the one fifteen test runs used (`Framework/v5/tests/PROTOCOL - running a name un
 bottom; every judgment cites a v5 ledger id in bold; every filing fact carries its accession; a STOP that returns OUT or
 TOO HARD closes the run and later questions are marked NOT REACHED. **Copy this file to its dated name before any fetch.**
 
-**POSITION NOTE, declared before any verdict:** the operator holds / does not hold this name (check `PORTFOLIO.md`).
+**POSITION NOTE, declared before any verdict:** the operator holds / does not hold this name (check `PORTFOLIO.md`); for a
+dispatched blind run, write "blind run: not checked, by the brief's blind rule" and the dispatching session fills it at the fold
+*(clause added 2026-10-06: four T2 analysts found this line asking for a file their protocol forbids)*.
 
 ---
 ## STEP 0 — THE RATE, THE PRICE, THE SHARES, THE FILING
@@ -39,6 +41,10 @@ Does owning this put the buyer at risk of ruin (the buyer's conduct, not the tar
   volume and share of mind; the low-cost position; the brand in the customer's mind; would the customer still choose it
   over the low bid; ask the competitors; widening or narrowing; what could destroy it.
 - **The competitor row**, same metric from the competitors' own filings (name, metric, accession).
+- **The parts table**, where the filer reports parts with different economics: part, share of five-year operating
+  profit, castle, decides (more than half, or else the largest). The file closes on the deciding parts (section B).
+- **The field's returns over the last full cycle**, from the filer's and the rivals' filings, judged in words: a durable
+  castle that protects only ordinary returns closes OUT; a change for the better is credited only on a full cycle (section C).
 - A castle shown open on the evidence closes OUT; a castle whose future cannot be judged closes TOO HARD.
 - **VERDICT: IN / OUT / TOO HARD**, with ids.
 
@@ -53,13 +59,16 @@ Does owning this put the buyer at risk of ruin (the buyer's conduct, not the tar
   what they don’t say and what they can’t say" **[M2025-032]**. *(line added 2026-10-05: the rule was in Q4 of the
   framework from adoption, and no run had been asked to do it.)*
 - The real costs (depreciation, stock pay, restructurings, the recurring "one-time"); EBITDA in the filer's own
-  mouth; what the accounts say of management's character. The make-the-numbers habit alone weighs against; with a
-  second tell it is suspicion.
-- **VERDICT on confusion: IN / OUT; WEIGHS FOR / AGAINST** otherwise, with ids. The recast earnings feed Q7.
+  mouth; what the accounts say of management's character. The make-the-numbers habit, guidance and a featured
+  adjusted figure weigh against here and are carried to Q5 (section A of the gaps case, 2026-10-06).
+- **VERDICT on the accounts: IN / OUT on suspicion / TOO HARD (WORK or NATURE) on confusion; WEIGHS FOR / AGAINST**
+  otherwise, with ids. The recast earnings feed Q7.
 
 ## Q5 — WHO RUNS IT: able, honest, in love with the business, the same after being paid. STOP on integrity.
 - The two yardsticks; the tells of dishonesty (the proxy, the letters, how they talk about mistakes); love of the
   business; what ability shows in. Integrity applied on doubt alone.
+- The habits carried from Q4 (targets made or beaten, guidance, the adjusted figure featured), read with the integrity
+  record; doubt closes **[M2013-088]**.
 - **VERDICT on integrity: IN / OUT; ability WEIGHS FOR / AGAINST**, with ids.
 
 ## Q6 — WHAT WILL THEY DO WITH THE MONEY AND THE OWNERS? WEIGHING.
@@ -74,7 +83,8 @@ Does owning this put the buyer at risk of ruin (the buyer's conduct, not the tar
   average of owner cash after every real cost, carried at the growth shown and capped by Q3, ten years then no real
   growth, at the sovereign; the ends are the no-growth and shown-growth cases).
 - The floor (CONVENTION): about ten percent pre-tax expected return, as the speakers stated and qualified it; below it
-  the name is quit on, not ranked.
+  the name is quit on, not ranked. Applied to owner cash after the company's own income tax, no conversion; a
+  carryforward or credit that runs out inside ten years is priced separately (section E).
 - **Value range:** $ ___ to $ ___ a share against $ ___. **Closes:** TOO HARD if the range is wider than about three
   to one; OUT if the price sits inside or just below a narrower range (not a screamer); IN only if the price is so far
   below that no pencil is needed.
@@ -105,7 +115,12 @@ Does owning this put the buyer at risk of ruin (the buyer's conduct, not the tar
 One line: **IN / OUT / TOO HARD (WORK) / TOO HARD (NATURE)**, the question that decided it, and for a name that reached
 Q7 the range beside the price. A TOO HARD names its cause (the framework's section I, the two causes): WORK when the
 deciding question is knowable and the work is not done, which opens a research file (Part VII); NATURE when the
-industry's insiders would not write the forecast down. Q11 (has the business changed, or only its price) belongs to the holding review, not to a purchase run.
+industry's insiders would not write the forecast down. Q11 (has the business changed, or only its price) belongs to the holding review, not to a purchase run. A file closed by
+a STOP with integrity facts already found adds "integrity facts recorded, not judged" to this line (Part VII).
+
+## AFTER THE STOP: FACTS FOUND, NOT WEIGHED
+*(Only when a STOP closed the file.)* Facts already found that bear on a later question, under the question each bears
+on, each with its source **[M1997-127]**; written down, not weighed; no verdict; the box unchanged (operator rule 2).
 
 ## SELF-AUDIT
 - [ ] Copied to the dated file before any fetch; written question by question; committed after each (write-early).
@@ -119,7 +134,8 @@ industry's insiders would not write the forecast down. Q11 (has the business cha
 - [ ] The order was kept; the first STOP that failed closed the run; nothing after it is a clearance.
 - [ ] Owner cash after every real cost, never a net-income proxy (operator rule 5); the sovereign from the issuing
       authority; aggregator quotes flagged.
-- [ ] Contrary evidence was written down as it was found **[M1997-127]**.
+- [ ] Contrary evidence was written down as it was found **[M1997-127]**; if a STOP closed the file, the facts found for
+      later questions are under AFTER THE STOP, with the integrity flag in the box line where they bear on Q5.
 - [ ] No row dated after the anchor is cited in a point-in-time run (Part VII).
 - [ ] Only the arithmetic lines of `tools/run.py` were used (Part VII).
 - [ ] `python tools/check_framework.py` PASS before the commit.

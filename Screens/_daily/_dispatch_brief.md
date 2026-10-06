@@ -69,7 +69,7 @@ in your own prose. Run `python tools/check_framework.py` (must PASS) and a check
 every M/L/R id in the CSV; every quoted fragment beside an id is in that row.
 
 ## Reply with
-Box and deciding question (and the TOO HARD cause); key filing facts per STOP; owner cash; the three reporting figures against
+Box and deciding question (and the TOO HARD cause); key filing facts per STOP; owner cash; the two reporting figures (said "three" until 2026-10-06, a leftover of the cheap price) against
 the price; the balance-sheet reading; the competitor comparison; the strongest evidence against; what you could not get; what
 you saw of the blind-listed files.
 

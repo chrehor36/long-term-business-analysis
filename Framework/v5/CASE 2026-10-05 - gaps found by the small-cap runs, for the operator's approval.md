@@ -714,6 +714,82 @@ rule of the register, not a governing document. Operator rule 2 is unchanged. No
 
 ---
 
+## H. The floor on the equity, or on the equity plus the net debt
+*(Written 2026-10-06 at the operator's instruction, after section F was decided.)*
+
+### What the runs found
+The fair-price line adopted on 2026-10-06 asks for the figure "on equity and on equity plus net debt where they differ" and
+does not say which decides. The runs of 2026-10-05 chose differently. Most applied the floor to owner cash after interest
+against the market value of the shares. PBH applied it to unlevered owner cash against market value plus net debt
+($2,160.8M of equity plus $2,126.5M of net debt), and found the two bases a world apart: the price was 34% below the bottom
+of the per-share range and 21% below it on the whole business, because the debt "takes the first $2.1B of any value". ABG
+put the speakers' own dealership yardstick on an enterprise basis (market cap plus $3,457.7M of debt outside floor plan) and
+found the enterprise priced at or above that yardstick while the per-share figures looked cheap. The question is which figure
+is Q7's central one when the business carries debt.
+
+### What the v5 rows say
+On acquisitions the basis is stated as a rule, with its reason:
+
+> "After all, even a high-priced deal will usually boost per-share earnings if it is debt-financed. At Berkshire, in contrast,
+> we evaluate acquisitions on an all-equity basis, knowing that our taste for overall debt is very low and that to assign a
+> large portion of our debt to any individual business would generally be fallacious" **[L2017-004]**, 2017 letter
+
+The earnings the speakers favour are after interest:
+
+> "we are talking about the old-fashioned sort of earnings that we favor: a figure calculated after interest, taxes,
+> depreciation, amortization and all forms of compensation." **[L2021-003]**, 2021 letter
+
+The whole-business floor is stated on the price paid for the whole:
+
+> "when we buy a business, a whole business, we never get a huge bargain and, of course, we may get down toward 10 percent
+> pretax earnings on what we pay." **[M2011-062]**, 2011 meeting
+
+The target's debt is a criterion of its own, "Businesses earning good returns on equity while employing little or no debt"
+**[R1997-001]**, and the car-dealer row prices the business on its cycle: "we would rather buy at a 10 or 12 times multiple of
+a bad year than buy at an eight times multiple of a good year." **[M2015-079]**. The rows on leverage speak of the buyer's
+own borrowing, which is the standing rule and not Q7: "We are not going to leverage up Berkshire." **[M2019-017]**; "it is
+insane to risk what you have and need in order to obtain what you don't need." **[L2017-005]**; "borrowed money has no place
+in the investor's tool kit" **[L2014-005]**; "any time you combine ignorance and borrowed money" **[M1994-001]**.
+
+### The readings
+1. **The equity basis.** Owner cash after interest **[L2021-003]** against the market value of the shares; the floor rows speak
+   of "equities" **[M2003-149]**; the debt is weighed at Q9 and at the standing rule, not priced into Q7.
+2. **The all-equity basis.** Unlevered owner cash (before interest, after the company's tax by section E) against market value
+   plus net debt, as if the whole were bought debt-free **[L2017-004]**, **[M2011-062]**; the per-share range is the whole-business
+   range less net debt; the equity figure is shown beside it.
+
+### What the corpus decides, and what it leaves open
+Decides: for an acquisition the all-equity basis, stated as a rule and with its reason, that debt flatters per-share earnings
+**[L2017-004]**; that owner earnings are after interest **[L2021-003]**; that the target's debt is weighed on its own
+**[R1997-001]**. Open: **[L2017-004]** is said of acquisitions of whole businesses and of Berkshire's own debt, and no row applies
+it to a part-interest bought in the market; **[M2011-062]** names the floor on the whole-business price and says nothing of a
+part-interest. Applying the all-equity basis to shares is our step.
+
+### The change proposed, if approved
+Add to Q7 "The floor or hurdle", after "Whose tax":
+
+> **On what the floor is earned** *(CONVENTION, ours in its extension to shares; the principle is **[L2017-004]**'s; adopted at
+> the operator's approval of `Framework/v5/CASE 2026-10-05 - gaps found by the small-cap runs, for the operator's approval.md`,
+> section H)*. Q7's central figure is built on the all-equity basis: owner cash before interest and after the company's tax,
+> against the market value of the shares plus net debt (borrowings and finance leases less cash and securities, as the filing
+> states them; operating leases left out and said so). The range per share is the whole-business range less net debt, and the
+> fair price is computed on the same basis. The equity-only figure, owner cash after interest against the market value, is
+> shown beside it and never decides alone. Rationale: a debt-financed business shows its discount per share magnified, since
+> the lenders take the first dollar of value, and the rows refuse exactly that flattery of per-share figures **[L2017-004]**;
+> the floor rows that name a figure name it on what is paid for the business **[M2011-062]**, and the target's debt is still
+> weighed on its own at Q9 **[R1997-001]**.
+
+### What it would touch
+`Framework/THE FRAMEWORK v5.md` Q7 "The floor or hurdle" (the paragraph) and section VI (the floor line). `Test Runs/_TEMPLATE -
+Company Run.md` Q7 (the central basis named on the fair-price line). `tools/run.py` should print net debt as the filing states
+it beside owner cash, which is arithmetic (the same number sooner). No ledger row needed.
+
+### The operator is asked
+1. Reading 1 or 2.
+2. Whether both figures are shown, the central one first.
+
+---
+
 ## What this case does not do
 It changes no governing document, template, ledger or run file. It re-runs no company: every run cited binds as written under
 the framework in force on its date. It adds no row to `principle_ledger_v5.csv`: every row cited is already there, so PRIME
@@ -729,7 +805,47 @@ RULE 6 is met for every rule proposed; what no row supports is labelled CONVENTI
 | E | decides, for a market part-interest, ten percent on owner cash after the company's tax | the reading, plus a carryforward CONVENTION | the reading or an alternative; the carryforward rule |
 | F | decides there is no single cheap-price figure | a reporting convention outside the verdicts | outside or inside; the definitions |
 | G | decides contrary evidence is written down; silent on where | the AFTER THE STOP format and a register flag | approve; whether to open a case on operator rule 2 |
+| H | decides the all-equity basis for an acquisition and earnings after interest; silent on a part-interest | the all-equity basis as Q7's central figure, the equity figure beside | reading 1 or 2; whether both are shown |
 
 ---
 # DECIDED 2026-10-06, section F
 **The operator ruled: no cheap price. The fair price alone is reported**, defined as the price at which the midpoint of the Q7 range earns the floor of about ten percent pre-tax, kept outside the verdicts as a reporting convention; any price below fair is read as cheap, since at that price the central case already clears the floor. The cheap-price alerts in `tools/alerts.json` are retired (left in the file, inactive, labelled); the fair-price alerts stand. The canonical brief `Screens/_daily/_dispatch_brief.md` reports the range and the fair price only. Sections A to E, G and H await the operator.
+
+---
+# DECIDED 2026-10-06, sections A, B, C, E and G (applied the same day)
+**A.** Reading four governs: the make-the-numbers habit, guidance and a featured adjusted figure are weighed at Q4 and judged at
+Q5 with the integrity record; Q4's box is named (OUT on suspicion; TOO HARD, WORK or NATURE, on confusion). ENSG is not re-run by
+this case; a re-run under the rule is one of the four test runs pre-registered in
+`Framework/v5/PREREGISTRATION 2026-10-06 - four re-runs under sections A, D and H of the gaps case.md`.
+**B.** Reading two with threshold (b): a part decides at more than half of five-year operating profit, or else the largest part;
+the file closes on the deciding parts; Q1's holding-company paragraph is extended to operating segments with the same threshold.
+**C.** A durable castle that protects only ordinary returns is OUT, not TOO HARD; "ordinary" is option (ii), judged in words with
+no figure; the full-cycle sentence for a change for the better is approved.
+**E.** Ten percent on owner cash after the company's own tax, no conversion; the carryforward CONVENTION is approved.
+**G.** The AFTER THE STOP format and the register flag are approved; no case on operator rule 2 is opened.
+Applied the same day to `Framework/THE FRAMEWORK v5.md` (Q1, Q2, Q4, Q5, Q7, section I, section VI, Part VII; every superseded
+paragraph kept and marked), `Test Runs/_TEMPLATE - Company Run.md` (Q2, Q4, Q5, Q7, THE BOX, AFTER THE STOP, the self-audit) and
+`Screens/WATCHLIST RUN QUEUE.md` (THE FOLD, step 1).
+
+---
+# DECIDED 2026-10-06, sections D and H, subject to a test
+**D.** Specifics (a) to (f) approved; for (c) the default pair is acquisitions deducted with the total growth credited; for (e) the
+maintenance case is central where the filing allows a maintenance guess, with the all-spending case shown beside it.
+**H.** Reading two: the all-equity basis is Q7's central figure, the equity-only figure shown beside it.
+Neither enters the governing text until the four re-runs pre-registered in
+`Framework/v5/PREREGISTRATION 2026-10-06 - four re-runs under sections A, D and H of the gaps case.md` are compared with the
+originals under that file's pass rules. The test analysts apply D and H from
+`Framework/v5/tests/RULES UNDER TEST 2026-10-06 - sections D and H.md`, which carries the two texts above and nothing of the runs
+that raised them.
+
+---
+# TEST RESULT 2026-10-06, sections D and H (for the operator)
+The four re-runs are compared in `Framework/v5/PREREGISTRATION 2026-10-06 - four re-runs under sections A, D and H of the gaps
+case.md`, RESULTS. **H holds** and returns with one addition: net debt at the latest filed balance-sheet date plus the subsequent
+events that filing states. **D holds on RYZ and fails by the pre-registered letter on EFOR**, where the box moved under sections
+B and C (adopted outright this morning) and not under D; D returns with three amendments: (a) the series that defines the cycle
+is owner cash as Q4 recasts it, with the filer's own description of the year as the test of "aberrational"; (c) a deal closed
+after the window and before the price date is valued on its own filed record, its financing added to today's net debt, and
+credited at nothing where no earnings are filed; (e) where the growth bought is worth less than its cost, the maintenance-only
+no-growth case is the top of the range and the growth case the bottom, and that inversion is the finding **[L2000-023]**, not an
+error. The operator is asked whether D and H enter Q7 with these amendments, or whether a second test is run first.
