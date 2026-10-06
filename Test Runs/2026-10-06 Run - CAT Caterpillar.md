@@ -185,7 +185,88 @@ the cycle cannot, and is carried to Q7 as range **[M2012-065]**, **[M2011-102]**
 **[M2002-022]**.
 
 ## Q2 — WHY IS THE CASTLE STILL STANDING, and what keeps it standing ten to twenty years? STOP.
-*(to be written)*
+"why is that castle still standing? And what's going to keep it standing [...] five, 10, 20 years from now" **[M1995-038]**.
+The 10-K's own answer is three things: the dealer network, the integration of key components, and the total cost of
+ownership to the customer ("We believe our ability to control the integration and design of key machine components and
+innovative technologies represents a competitive advantage"; Resource Industries, Item 1). Each is tested below with a
+filing fact. The competitor figures are in `Test Runs/_research 2026-10-06 CAT/peers.txt`.
+
+**1. The key factors and their permanence.** The installed base and the dealers who service it: 150 dealers covering 190
+countries, dealers whose principal business is Caterpillar in most cases (Item 1). The rows name an installed base among
+the things that protect a position ("No installed base, key patents, critical real estate or natural resource position
+protects an insurer's competitive position", said of the business that lacks one) **[L2003-014]**. Against permanence:
+the dealer agreements are "terminable at will by either party primarily upon 90 days written notice" (Item 1); the
+dealers are independent and stay because the product line pays them, which makes the castle's permanence the product's,
+not the contract's.
+
+**2. Would it stand without the lord?** **[M1996-037]**. The chief executive changed in 2025 (Umpleby, CEO 2017 to 2025,
+then executive chairman; Creed CEO; 8-K `0001104659-26-001346`), the CFO in 2026 (8-K `0001104659-26-042062`); the 2026
+first half shows sales up 23% and price realization of +$1.0B (10-Q Q2 2026). Nothing in the filings ties the position
+to one person.
+
+**3. The money test** **[M2011-015]**, **[M1997-103]**. Could $100B displace Caterpillar from mining trucks, large dozers
+and the parts business behind them? Not quickly: a rival would need a dealer and parts network in 190 countries and a
+fleet in the field for its parts to serve. But the test has been run by the market, and the answer is mixed. The 10-K
+names Sany, XCMG, LiuGong, SDLG and Shantui in China and says "Outside the United States, certain competitors enjoy
+competitive advantages inherent to operating in their home countries or regions" (Item 1); Construction Industries' Asia/
+Pacific sales fell 3% in 2025 (segment geography table). Written down as found **[M1997-127]**: the castle is not
+impregnable abroad, and "one competitor is frequently enough to ruin a business" **[M2012-108]**.
+
+**4. Pricing power and the agony before a rise** **[M2005-020]**. Price realization added $5.179B to ME&T sales in 2022
+and $5.596B in 2023 (10-K FY2022 and FY2023, sales bridges), $1.238B in 2024 (10-K FY2024), took away $817M in 2025
+(Construction Industries -$1.136B, Resource Industries -$272M, Power & Energy +$592M; 10-K FY2025), and added $1.0B in
+the first half of 2026 (10-Q Q2 2026). Over four years the company raised price by roughly $11B net on an ME&T base of
+$48.2B (2021) and kept most of it. "over time the businesses with strong competitive positions manage to pass through
+increases in raw material costs [...] But you get these temporary situations" **[M2005-017]**; the 2025 giveback came in
+the year tariffs added about $1.8B of cost (10-K FY2025 outlook: 2026 impact "$800 million higher than incurred in
+2025", $2.6B), and in that year Deere's construction arm also cut price and lost more margin than Caterpillar did (row
+below). The pricing record weighs for the castle; the 2025 Construction Industries giveback is the contrary fact.
+
+**5. The competitor row (same metric, the competitors' own filings).**
+
+| business | metric | 2025 | 2024 | source |
+|---|---|---|---|---|
+| Caterpillar Construction Industries | segment profit / sales | **18.7%** | 24.2% | 10-K FY2025, `0000018230-26-000008` |
+| Deere Construction & Forestry (FY to 2025-11-02) | operating profit / net sales | **9.0%** | 15.5% | 10-K FY2025, `0001104659-25-122321` |
+| CNH Construction | adjusted EBIT / net sales (filer's segment measure) | **2.3%** | about 5.5% ($169M) | 10-K FY2025, `0001567094-26-000006` |
+| Caterpillar Power & Energy | (segment profit + segment D&A) / sales | **22.0%** | | 10-K FY2025 segment note (arithmetic) |
+| Cummins Power Systems | segment EBITDA / sales | **22.7%** | 18.4% | 10-K FY2025, `0000026172-26-000009` |
+
+In construction machines, in the same tariff year and with the same price pressure, Caterpillar earned twice Deere's
+margin and eight times CNH's; that is the mark of the low-cost or best-priced producer in a field the rows call close to
+a commodity, where "being the low-cost producer is all-important" **[L2000-017]**, **[M2018-043]**. In engines and
+generator sets, Caterpillar and Cummins earn about the same, so there the position is shared, not dominant. Komatsu,
+Volvo, Hitachi and the Chinese makers do not file with the SEC; their figures were not read, and the row is incomplete
+without them.
+
+**6. Would the customer still choose it over the low bid?** **[M2017-009]**. The 10-K splits the customers: in developed
+economies they "generally weigh productivity and other performance criteria that contribute to lower owning and
+operating costs over the lifetime of the machine", while "Customers in developing economies often prioritize purchase
+price" (Item 1); Caterpillar answers the second group with a separate low-priced brand, SEM. In mining, customers "place
+an emphasis on equipment that is highly productive, reliable and provides the lowest total cost of ownership" (Item 1).
+The rows' test is met where downtime costs more than the machine, as with Precision Castparts, "where people don't simply
+just take the low bid" **[M2016-006]**; it is not met in the price-led markets the company itself names.
+
+**7. Is the moat widening or narrowing?** **[M1999-108]**, **[L2005-010]**. At roughly equal sales, the business earns more
+than it did a cycle ago: sales and revenues $65.9B and profit $5.7B in 2012; $67.6B and $8.9B in 2025; the trough was a
+small loss in 2016 on $38.5B of sales and a $3.0B profit in 2020 on $41.7B (XBRL history, transcription). A deeper
+trough profit on similar trough sales, and a higher peak margin on similar peak sales, is evidence of a stronger
+position, or of cost cutting, or both; the filings read do not separate the two. Contrary, written down: CI's 2025
+margin fell 5.5 points while price went negative, and Chinese makers are named as advantaged at home.
+
+**8. What could destroy, modify or reduce it, five to fifteen years out?** **[M2000-014]**. (a) A slow shift of
+construction and mining machines to electric drive and autonomy, which would reduce the parts and engine-rebuild stream
+the installed base pays for; the 10-K lists "electrified powertrain and zero-emission power sources" as a product line
+of its own, so the company is selling into the change, not only against it. (b) The Chinese makers moving from their home
+market into the developing markets that buy on price. (c) A fall in Power Generation demand from data centres, now
+$10.3B of external sales against $6.4B in 2023 (segment note): a demand risk, not a castle risk, and it belongs to the
+cycle carried to Q7. None of these is shown on the evidence to be filling the moat in now.
+
+**VERDICT: IN.** The castle is standing on evidence the filings carry: margins double the nearest filing rival's in the
+same year **[L2000-017]**, four years of price kept against cost **[M2005-017]**, an installed base and dealer network a
+well-funded attacker has not displaced outside China **[M2011-015]**. It is not a castle that "an idiot can run" in every
+segment, and the low-bid markets are named by the company itself; those weigh on how sure the cash is, at Q7, not on
+whether the castle stands **[M1999-108]**.
 
 ## Q3 — HOW MUCH CAPITAL MUST GO IN to get the earnings out, and what does the added capital earn? WEIGHING.
 *(to be written)*
