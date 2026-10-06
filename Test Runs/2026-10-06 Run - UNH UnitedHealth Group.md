@@ -208,87 +208,97 @@ isn’t selling for a fraction of its worth. It just means that we don’t know 
   **[M2000-105]**, **[M2006-076]**; doubt means outside **[M2002-092]**. The file closes here; Q2 to Q12 are NOT REACHED.
 
 ## Q2 — WHY IS THE CASTLE STILL STANDING, and what keeps it standing ten to twenty years? STOP.
-- The castle tests, each with its filing fact: the attacker with money; pricing power and the agony before a rise; unit
-  volume and share of mind; the low-cost position; the brand in the customer's mind; would the customer still choose it
-  over the low bid; ask the competitors; widening or narrowing; what could destroy it.
-- **The competitor row**, same metric from the competitors' own filings (name, metric, accession).
-- A castle shown open on the evidence closes OUT; a castle whose future cannot be judged closes TOO HARD.
-- **VERDICT: IN / OUT / TOO HARD**, with ids.
+**NOT REACHED.** Q1 closed the file. The competitor filings read (Centene, Elevance Health) were used at Q1, test 5, as
+evidence on whether the industry's insiders write the forecast down; no competitor row on a castle metric was built.
 
 ## Q3 — HOW MUCH CAPITAL MUST GO IN to get the earnings out, and what does the added capital earn? WEIGHING.
-- Return on the capital actually needed; reinvestment to stand still and to grow; the growth arithmetic and its caps.
-- **WEIGHS FOR / AGAINST / UNDECIDED**, one sentence, with ids. (The "little or no debt" criterion is applied at Q9.)
+**NOT REACHED.**
 
 ## Q4 — DO THE NUMBERS SHOW WHAT IT EARNS after every real cost? STOP on confusion or suspicion; otherwise WEIGHING.
-- **The balance sheets first, eight to ten years of them, before the income account** **[M2025-032]** (`tools/run.py`
-  prints the ten-year table; read the filed statements behind it). Say what moved and why: equity against goodwill and
-  intangibles, cash, receivables and inventory against sales, debt, retained earnings; "what the figures are saying and
-  what they don’t say and what they can’t say" **[M2025-032]**. *(line added 2026-10-05: the rule was in Q4 of the
-  framework from adoption, and no run had been asked to do it.)*
-- The real costs (depreciation, stock pay, restructurings, the recurring "one-time"); EBITDA in the filer's own
-  mouth; what the accounts say of management's character. The make-the-numbers habit alone weighs against; with a
-  second tell it is suspicion.
-- **VERDICT on confusion: IN / OUT; WEIGHS FOR / AGAINST** otherwise, with ids. The recast earnings feed Q7.
+**NOT REACHED.** Two observations made while reading for Q1 are recorded for whoever runs Q4 later; they are not
+judgments and close nothing. (1) The legal note of the 10-K (accession `0000731766-26-000062`) and of the 10-Q (accession
+`0000731766-26-000197`) describes the 2017 False Claims Act suit and the RADV audits but, on a search of the stripped text
+for "criminal", does not name the "formal criminal and civil requests from the Department" disclosed by 8-K item 8.01 on
+2025-07-24 (accession `0000731766-25-000224`); whether that is a tell or an ordinary disclosure choice is for Q4 and Q5.
+(2) The 2025 operating cash of $19,697M includes a $5,824M increase in medical costs payable (float) (10-K cash-flow
+statement), so any owner-cash figure must be built under the sector method, not from `tools/run.py`'s table.
 
 ## Q5 — WHO RUNS IT: able, honest, in love with the business, the same after being paid. STOP on integrity.
-- The two yardsticks; the tells of dishonesty (the proxy, the letters, how they talk about mistakes); love of the
-  business; what ability shows in. Integrity applied on doubt alone.
-- **VERDICT on integrity: IN / OUT; ability WEIGHS FOR / AGAINST**, with ids.
+**NOT REACHED.** The proxy (accession `0001104659-26-046125`) was fetched and not read for judgment.
 
 ## Q6 — WHAT WILL THEY DO WITH THE MONEY AND THE OWNERS? WEIGHING.
-- Part A: the retention test (a dollar kept worth more than a dollar, over time); buybacks (only below value; a buyback
-  with no stated price weighs against unless the prices paid sit at or below the bottom of the Q7 range); issuance and
-  deals (value given against value got; an all-stock deal at an undervalued price is the one STOP here).
-- Part B: pay tied to what the person controls; the board; the owners as partners.
-- **WEIGHS FOR / AGAINST / UNDECIDED**, one sentence per part, with ids.
+**NOT REACHED.**
 
 ## Q7 — WHAT IS IT WORTH? STOP.
-- How much cash, how sure, how soon, at the long government rate, as a range (the CONVENTION construction: five-year
-  average of owner cash after every real cost, carried at the growth shown and capped by Q3, ten years then no real
-  growth, at the sovereign; the ends are the no-growth and shown-growth cases).
-- The floor (CONVENTION): about ten percent pre-tax expected return, as the speakers stated and qualified it; below it
-  the name is quit on, not ranked.
-- **Value range:** $ ___ to $ ___ a share against $ ___. **Closes:** TOO HARD if the range is wider than about three
-  to one; OUT if the price sits inside or just below a narrower range (not a screamer); IN only if the price is so far
-  below that no pencil is needed.
-- **VERDICT: IN / OUT / TOO HARD**, with ids.
+**NOT REACHED.** No value range, no fair price and no cheap price were computed: the cash stream cannot be estimated
+before Q1 is passed, and for an insurer it would be built in two components under the sector method. No computation
+headed "COMPUTATION — NOT A CLEARANCE" was made.
 
 ## Q8 — IS IT BETTER THAN THE ALTERNATIVES: the bond, more of what I already own, the company's own stock? STOP.
-- The bond as the first filter, then the ranking against the best thing already held (for a private holder, more of
-  what he owns; for a company, its own stock below value).
-- **VERDICT: IN / OUT**, with ids.
+**NOT REACHED.**
 
 ## Q9 — COULD IT RUIN US: the target's debt and exposures. WEIGHING.
-- Debt in the business, demands for sudden large sums, counterparties, aggregation; "little or no debt" is the one STOP
-  for a whole business bought.
-- **WEIGHS FOR / AGAINST**, with ids.
+**NOT REACHED.** (Debt on the face of the balance sheet $78,389M at 2025 year-end, `tools/run.py` transcription, recorded
+at Step 0 only.)
 
 ## Q10 — IS IT THE FAT PITCH, and am I buying enough? WEIGHING.
-- Inaction as the default; sizing when sure; the omission as the costliest error. No position is taken here; say what
-  the draft would have the buyer do.
+**NOT REACHED.** What the draft would have the buyer do: nothing. The default is inaction **[M1996-006]**, and a name in
+the "too hard" pile is not an omission the speakers count as an error, since "We only regard errors as being things that
+are within our circle of competence." **[M2001-006]**.
 
 ## Q12 (optional) — WOULD WE BE PROUD OF HOW THE MONEY IS MADE?
-- The newspaper test; the businesses named. **STOP for named businesses; otherwise WEIGHS FOR / AGAINST.**
+**NOT REACHED.**
 
 ---
 ## THE BOX
-One line: **IN / OUT / TOO HARD (WORK) / TOO HARD (NATURE)**, the question that decided it, and for a name that reached
-Q7 the range beside the price. A TOO HARD names its cause (the framework's section I, the two causes): WORK when the
-deciding question is knowable and the work is not done, which opens a research file (Part VII); NATURE when the
-industry's insiders would not write the forecast down. Q11 (has the business changed, or only its price) belongs to the holding review, not to a purchase run.
+**TOO HARD (NATURE), decided at Q1** **[M2006-013]**. UnitedHealth's ten-year earning power turns on what governments
+will pay for most of its book (CMS premiums 44% of 2025 revenue; UnitedHealthcare and Optum Health 56.1% of the 2026
+operating-earnings floors), under a risk-adjustment model, pharmacy-benefit law and a federal criminal and civil inquiry
+that are all decided in the political realm **[M2005-098]**; the price-setter publishes one year at a time, and the
+company's own one-year outlook for 2025 missed by 44.6% to 45.5% on its adjusted measure while two large competitors
+withdrew or revised theirs, so the industry's insiders do not write the forecast down **[M2000-105]**, **[L1993-023]**. A
+lower price does not reopen it **[M2000-038]**. Not reached: Q2 to Q10 and Q12; no value range. Price $378.58 (aggregator,
+2026-10-05) for the record, against nothing.
+
+**Reversal condition, for the record (not a research file, since NATURE opens none):** the file reopens only if the deciding
+question stops being political for the parts that carry the earnings, for instance if government-priced business ceased to
+be most of the operating earnings, or a multi-year statutory formula fixed Medicare Advantage and Medicaid payment terms;
+a fall in the price does not reopen it **[M2000-038]**.
 
 ## SELF-AUDIT
-- [ ] Copied to the dated file before any fetch; written question by question; committed after each (write-early).
-- [ ] Every v5 id resolves (grep it in `principle_ledger_v5.csv`); every filing fact has its accession; no number
-      without a row or a filing.
-- [ ] The order was kept; the first STOP that failed closed the run; nothing after it is a clearance.
-- [ ] Owner cash after every real cost, never a net-income proxy (operator rule 5); the sovereign from the issuing
-      authority; aggregator quotes flagged.
-- [ ] Contrary evidence was written down as it was found **[M1997-127]**.
-- [ ] No row dated after the anchor is cited in a point-in-time run (Part VII).
-- [ ] Only the arithmetic lines of `tools/run.py` were used (Part VII).
-- [ ] `python tools/check_framework.py` PASS before the commit.
+- [x] Copied to the dated file before any fetch (commit `b5cabf7`); written question by question; committed after Step 0
+      (`8779a84`) and after Q1 (`735c58d`), with this close committed last (write-early).
+- [x] Every v5 id resolves (each grepped in `principle_ledger_v5.csv` before it was written); every filing fact has its
+      accession; no number without a filing or `arithmetic.py`. One correction made before the Q1 commit: "You don’t get
+      paid for what’s already happened" was first cited to M2012-065 and is M2007-025; a share first written as "about seven
+      tenths" was not supported by the filings and was replaced by the computed 56.1%.
+- [x] The order was kept; Q1, the first STOP, closed the run; nothing after it is a clearance, and no valuation was made.
+- [x] Owner cash: none computed (Q7 not reached), and the tool's operating-cash table is marked as not owner cash because
+      it contains float growth; no net-income proxy anywhere. The sovereign from the issuing authority (US Treasury, 5.66%,
+      2026-10-05); the price is an aggregator quote, flagged.
+- [x] Contrary evidence was written down as it was found **[M1997-127]** (six items under the foundations, each weighed at Q1).
+- [x] No point-in-time anchor: the run is dated today, so no row was barred by date (Part VII).
+- [x] Only the arithmetic lines of `tools/run.py` were used (Part VII); its v4 rule text, ids and floor were ignored.
+- [x] `python tools/check_framework.py` PASS before each commit.
+- [x] Blind rule kept: no earlier UNH run file or research folder opened; the one contamination (a file name in a directory
+      listing) is declared in the position note. Raw filing text stayed in the session scratchpad; nothing raw is staged.
 
 ## WHAT IN THE FRAMEWORK WAS WRONG OR UNCLEAR
-One paragraph: the instruction found ambiguous, missing or unworkable in this run, and what was done. Every run so far
-has had one; a run that reports none is suspect.
+Four things. (1) **Q1 has no routing for a business whose price is set by government.** Q1's fixed routing names one
+TOO HARD route, the industry that "changes fast"; a business that changes slowly but whose price for most of its book is
+reset each year by a legislature or an agency is not mentioned, and the rows that speak to it most directly, **[M2005-098]**
+("much of it is in the political realm"), **[M2006-088]** (health care "all goes into the too hard pile"), **[M1999-126]**
+and **[M1999-127]** (health insurance partners), **[M2012-074]** ("economics usually win out") and **[M1999-119]** (a
+pricing threat against a product threat), are cited nowhere in the framework (a search of it for these ids, and for
+"politic", finds them in no question). The run used Q1's test 5 **[M2000-105]** and the two causes of section I to reach
+NATURE, as the UTI run did for federal student aid; a written case adding a Q1 paragraph on the government as price-setter
+would make the route explicit and give the contrary rows their place. (2) **"A part that matters" has no measure** in the
+holding-company CONVENTION; this run used segment shares of the filer's own operating-earnings outlook and said so.
+(3) **The sector method's split rule** (CONVENTION C9: "Every segment reported with its own balance sheet is split") does not
+fit a filer whose segments report earnings but not full balance sheets; it was not needed here because the run closed
+before Q3, but the next managed-care run will meet it. (4) **The template's competitor row sits at Q2**, while this run
+needed competitors' filings at Q1 (did the industry's insiders write the forecast down?); they were cited inside Q1, test 5.
+**Tool defect, reported not fixed:** `tools/run.py` refuses an SIC-6324 filer with "Pass --shares to override if you have
+already made the corrections", but `--shares` makes no correction: it only bypasses the insurer guard and prints the same
+float-inflated owner-earnings and yield lines. The override should be a separate flag (for example `--table-only`) that
+prints the transcription without the yield lines.
