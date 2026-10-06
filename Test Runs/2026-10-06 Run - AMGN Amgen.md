@@ -81,11 +81,122 @@ buyer's conduct, not by the target.
 
 ---
 ## Q1 — CAN I UNDERSTAND IT? Where its economics will be in ten years, inside my perimeter. STOP.
-- The test as the draft states it, applied to the filings; the key variables and whether they are foreseeable.
-- Routing: a business whose ten-year economics cannot be foreseen because its industry changes fast closes here, TOO
-  HARD; a bank is inside the circle when both sides of its balance sheet can be read; a holding company is understood
-  by its parts.
-- **VERDICT: IN / OUT / TOO HARD**, with ids and the filing fact.
+**The test.** Understanding is "a reasonable fix on about what the earning power and competitive position will look like
+in five or 10 years" **[M2012-065]**, and "do I understand enough about this business so that the financial statements
+will tell me the information that’s useful to me in making a judgment about what the future financial statements are
+going to look like" **[M2008-033]**. The method is to identify "the key variables in that particular business, and
+evaluating how predictable they were first, because that is the first step. If something is not very predictable,
+forget it." **[M1998-044]**
+
+**The filing facts.**
+- *What the business is.* One segment, human therapeutics; 2025 product sales $35,148M (US 73%), total revenues $36,751M;
+  three wholesalers took 77% of gross revenues (10-K FY2025 `0000318154-26-000010`, Item 1 and MD&A). The fourteen
+  principal products run from ENBREL (launched 1998) to TEZSPIRE; "Other products" were $7,263M.
+- *The products losing exclusivity, and how fast.* Prolia and XGEVA ($6,498M together in 2025, 18% of product sales):
+  "Our patents for RANKL antibodies, including sequences, for Prolia expired in February 2025 in the United States and in
+  November 2025 in select countries in Europe", and the same for XGEVA (10-K Item 1). In Q2 2026 the pair sold $1,111M
+  against $1,654M a year earlier, -32.8%, "as multiple biosimilars have launched globally with more biosimilars
+  expected" (release, 8-K `0000318154-26-000124`). The filer's general statement: "Upon the expiration or loss of patent
+  protection and/or applicable exclusivity for one of our products, we can lose the majority of revenues for that
+  product in a very short period of time." (10-K Item 1A). In the patent table of the same 10-K, the first-listed US
+  antibody, compound or protein patent (for Nplate the only listed patent, a formulation) has expired or expires by the
+  end of 2029 for Prolia, XGEVA, Repatha (8/27/2029), Otezla (2/16/2028), ENBREL (11/22/2028 and 4/24/2029), EVENITY
+  (4/25/2026), TEPEZZA (3/3/2029), Nplate (2/12/2028), KYPROLIS (12/7/2027) and KRYSTEXXA (4/11/2026): $22,284M, 63.4% of
+  2025 product sales (`calc.py`). Later method, formulation and use patents are listed for several of them (to 2037 to
+  2042 for ENBREL, Otezla XR, TEPEZZA and KRYSTEXXA); what they protect is a question of litigation the filing does not
+  settle.
+- *The price, set by government.* "CMS has set Medicare Part D prices for ENBREL, effective January 1, 2026, and Otezla,
+  effective January 1, 2027, in each case at significantly lower prices"; the IRA adds drugs each year "such that by 2031
+  approximately 100 drugs would be subject to such set prices"; in December 2025 Amgen announced it is "taking actions
+  that satisfy the components outlined in the July MFN Letter, including the Administration’s MFN pricing requests"; and
+  of the whole pricing contest the filer writes: "the outcome of any such alignment is difficult to predict" (10-K Item 1,
+  Reimbursement). ENBREL, its US patents intact and US biosimilars "approved but not launched", fell from $3,697M (2023)
+  to $2,226M (2025), -39.8%, the 2025 fall "primarily driven by lower net selling price of 36% resulting from the impact
+  of increased 340B Program mix, U.S. Medicare Part D redesign and higher commercial discounts" (10-K MD&A). Otezla's
+  intangible asset was impaired $1.2B in 2025 after its selection for price setting (10-K MD&A, other operating
+  expenses); it was bought in November 2019, a year in which payments for businesses acquired were $13,617M (companyfacts,
+  10-K FY2019 `0000318154-20-000017`).
+- *The filer says the business must keep inventing or buying to stand still.* "Our long-term success depends, to a great
+  extent, on our ability to continue to discover, develop and commercialize innovative products and acquire or collaborate
+  on therapies currently in development by other companies. We must grow sales from existing and new products to achieve
+  revenue growth and to offset revenue losses caused by products’ loss of their exclusivity or launches of competing
+  products." and "We devote considerable resources to R&D activities, but successful product development in the
+  biotechnology industry is highly uncertain." (10-K MD&A overview). R&D was $7,272M in 2025, up 22% (10-K MD&A).
+  Businesses bought 2021 to 2025: $33,410M, of which Horizon $26,989M in 2023 (Step 0 table).
+- *What is to replace the eroding products is not yet approved.* The largest programme, MariTide, is in nine Phase 3
+  studies in obesity and its complications, with three more to start in 2026, against "weekly tirzepatide or weekly
+  semaglutide" named in its own switch study (release); olpasiran is in three Phase 3 outcome or plaque studies;
+  xaluritamig and dazodalibep are in Phase 3 (release). The record of the last twelve months: bemarituzumab dropped after
+  two Phase 3 studies (10-K Item 1); rocatinlimab returned to Kyowa Kirin (8-K `0001193125-26-030518`); AMG 513
+  discontinued; two subcutaneous blinatumomab studies on partial clinical hold; and the FDA asked that TAVNEOS, bought
+  with ChemoCentryx in 2022, be withdrawn from the US market, citing "the process followed by ChemoCentryx to
+  re-adjudicate primary endpoint results" (10-K Item 1; release).
+
+**The key variables and whether they are foreseeable** **[M1998-044]**. (1) The pace at which today's products erode:
+foreseeable in direction for the denosumab pair and for the products whose first patents run out by 2029, not in pace
+or depth, which the filer itself says can be "the majority of revenues [...] in a very short period of time", and which
+for ENBREL was set by price policy before any patent fell. (2) Which of the Phase 3 programmes succeed, and at what share
+of a market already held by others: the filer calls development "highly uncertain"; twelve months produced one Phase 3
+failure, one returned programme, one discontinued molecule, one withdrawal request and one clinical hold. (3) The price
+the US government and the large payers will allow on whatever is sold in the 2030s: the filer calls the outcome
+"difficult to predict", and its own ten-largest-selling product list already carries two government-set prices. The ten-
+year earning power is the product of (2) and (3) applied to sales that do not yet exist; (1) only tells how large a gap
+they must fill.
+
+**The tests.**
+1. *Where will it be in ten years?* "You’re trying to print the next 10 years of Value Line in your head. And there’s
+   some companies that you can do a reasonable job with, and there’s others that are just too tough." **[M1999-132]**. On
+   the filings, nearly two thirds of today's product sales face the end of their first US patent within four years, and
+   what stands in its place in 2035 is a set of trial results not yet read. I cannot print it.
+2. *The key variables, and how predictable* **[M1998-044]**: above; the deciding two are not predictable.
+3. *Is it important and knowable?* "If something’s important but unknowable, forget it." **[M2006-076]**. Trial
+   outcomes and future price setting are the most important inputs and are not knowable from any document on file.
+4. *Would the insiders write it down?* "They would say, “That’s too hard.”" **[M2000-105]**. The insiders here have
+   written, in the 10-K, that development "is highly uncertain" and the pricing outcome "difficult to predict". The one
+   forward statement, "well into the next decade", carries no figures.
+5. *The row that names this industry.* "Take pharmaceuticals, if they had never invented any more pharmaceuticals, it
+   would be a terrible business." **[M1999-075]**, said of businesses "quite dependent on the technology continuing to
+   gallop". The filer's own sentence, "We must grow sales from existing and new products [...] to offset revenue losses
+   caused by products’ loss of their exclusivity", is the same statement made from the inside.
+6. *Can I name the winner, not just the industry?* "there’s industries we know that may have a wonderful future, but we
+   don’t have the faintest idea who the winners will be" **[M2012-067]**; of this industry in particular, "I do think
+   it’s very hard to pick out the winner." **[M1999-044]**. The obesity market MariTide aims at is held by the makers of
+   the two drugs its own switch study names.
+7. *Is the forecast about customers or about technology?* **[M2017-019]**, **[M2023-030]**. Here it is about clinical
+   results and government price, not about how a consumer will behave.
+8. *How far off could I be?* "The chances of being way wrong in IBM are probably less, at least for us, than being way
+   wrong with Google or Apple." **[M2012-073]**. The company's own purchase of Otezla was written down $1.2B six years
+   after it was bought, on a price decision no one put in the purchase case; TAVNEOS, bought in 2022, is under a
+   withdrawal request. The buyer with the most information has been way wrong twice in seven years.
+9. *Do I doubt it is inside?* Then it is not: "if you have doubts about something being into your circle of competence,
+   it isn’t." **[M2002-092]**.
+
+**Contrary evidence weighed, not dismissed** **[M1997-127]**. The record in the foundations is real: 2025 volume growth of
+13%, the growing products named there, owner cash steady at $6.9B to $9.9B a year. But "You don’t get paid for what’s already happened." **[M2007-025]**; the
+question is the ten-year fix **[M2012-065]**, and growth in an industry does not tell "what its profit margins and returns
+on capital will be as a host of competitors battle for supremacy" **[L2009-005]**. **[M1999-043]** says the speakers
+erred in not buying "a group of leading pharmaceutical companies at a below-market multiple"; the same answer says "it’s
+very hard to pick out the winner" and that the purchase would have been a group **[M1999-044]**. It is evidence for the
+industry, read as a basket, not for this one company read alone; whether a basket can be inside the circle when no
+member is (section VI, Q1: **[M2002-060]** and **[M2010-085]** against **[M2002-092]**, READER) is not this run's question.
+
+**The cause, WORK or NATURE** (section I, the two causes). The deciding questions are (2) and (3) above: which molecules
+now in Phase 3 will succeed against the incumbents, and what the US price of the products sold in the 2030s will be. More
+reading of Amgen's documents would not answer them: the company's own scientists and officers, with every document,
+call the first "highly uncertain" and the second "difficult to predict". That is the insiders declining to write the
+forecast down **[M2000-105]**, the industry's own roadblock: "the nature of the industry would be the roadblock" and
+"We couldn't solve this problem, moreover, even if we were to spend years intensely studying those industries."
+**[L1993-023]**; **[L1999-018]**. NATURE.
+
+**VERDICT: TOO HARD (NATURE).** Amgen's ten-year earning power rests on the outcome of trials not yet read and on drug
+prices not yet set, both of which its own 10-K calls unpredictable; "If something is not very predictable, forget it."
+**[M1998-044]**; "If something’s important but unknowable, forget it." **[M2006-076]**. The box is "too hard"
+**[M2006-013]**, and it is no judgment of quality: "It doesn’t mean it isn’t a good buy. It doesn’t mean it isn’t selling
+for a fraction of its worth. It just means that we don’t know how to evaluate it." **[M2000-038]**. A lower price does not
+reopen it **[M2000-038]**, and the circle is not enlarged to find something to buy **[M1995-018]**. The file closes here.
+*(Routing note: the framework lists **[M1999-075]** under Q1's "What it rules OUT"; this run reads the row by its stated
+reason, dependence on technology continuing to gallop, which the framework's own routing sends to TOO HARD, not OUT
+(**[L1993-023]**, **[M1998-008]**). Recorded below under what was unclear.)*
 
 ## Q2 — WHY IS THE CASTLE STILL STANDING, and what keeps it standing ten to twenty years? STOP.
 - The castle tests, each with its filing fact: the attacker with money; pricing power and the agony before a rise; unit
