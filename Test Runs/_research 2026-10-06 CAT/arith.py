@@ -87,3 +87,7 @@ for gname, gg in (("shown growth", g), ("capped at discount rate", rate), ("full
     print("price clearing the floor,", gname, round(value(mean(oc), gg, r_floor) / shares, 2),
           "| at 10% on after-tax cash", round(value(mean(oc), gg, 0.10) / shares, 2))
 print("pre-tax equivalent of the implied return at the price, shown growth", irr(mean(oc), g, cap) / (1 - tax))
+# L2002-020 translates 10% pre-tax as "6½-7% after corporate tax"; show the shown-growth and no-growth prices there too
+for rr in (0.065, 0.07):
+    print("at", rr, "after tax: shown growth", round(value(mean(oc), g, rr) / shares, 2),
+          "no growth", round(value(mean(oc), 0.0, rr) / shares, 2))

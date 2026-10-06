@@ -457,7 +457,59 @@ Q7 range **[L2016-002]**, **[L2011-003]**. **WEIGHS FOR (Part B)**, narrowly: th
 option and peer-group design **[L1994-019]**, **[M2007-006]**.
 
 ## Q7 — WHAT IS IT WORTH? STOP.
-*(to be written)*
+"How certain are you that there are indeed birds in the bush? When will they emerge and how many will there be? What is
+the risk-free interest rate" **[L2000-021]**; value is "the discounted value of the cash that can be taken out of a
+business during its remaining life" **[R1996-018]**, held as a range **[L2000-024]**.
+
+**The construction (CONVENTION, Q7, as the framework states it).** Base: five-year mean owner cash, MP&E basis, **$7,800M**
+(STEP 0), after every real cost **[L2021-003]**. Growth shown on the aggregate figure, 2021 to 2025: **12.1%** a year. Ten
+years at that rate, then zero nominal growth, discounted at the sovereign **5.66%**. Ends: no growth and shown growth.
+Arithmetic in `Test Runs/_research 2026-10-06 CAT/arith.py`, output in `arith_output.txt`.
+
+| case | value | per share (459.675M) |
+|---|---|---|
+| no growth, MP&E owner cash | $137.8B | **$300** |
+| shown growth 12.1%, MP&E owner cash | $359.2B | **$781** |
+| no growth, consolidated variant ($6,979M) | $123.3B | $268 |
+| shown growth, consolidated variant | $321.4B | $699 |
+| growth capped at the discount rate, 5.66% (Q3 reading) | $215.8B | $469 |
+| growth at the full-cycle profit rate, 3.4% (Q3 reading) | $181.0B | $394 |
+
+**Value range: $300 to $781 a share against $848.14.** The top is 2.6 times the bottom, inside the convention's three to one,
+so the range is narrow enough to decide on and the close is not TOO HARD **[L2000-025]**. The price sits **above the top of
+the range**, and above every variant: the shown-growth case is the most generous reading the convention allows, it
+carries a within-cycle growth rate on a boom-years base for ten years (Q3), and the price is still about 9% above it.
+
+**The floor (CONVENTION, Q7): about ten percent pre-tax** **[M2003-149]**, **[L2002-020]**, **[M1994-004]**. Owner cash is after
+tax, so the floor is restated after tax: at the 2025 effective rate of 24.0% (10-K FY2025) ten percent pre-tax is 7.6%
+after tax; the 2002 row's own translation is "6½-7% after corporate tax" **[L2002-020]**. The expected return at $848.14,
+in the shown-growth case, is **5.3%** a year after tax (about 6.9% pre-tax at 24%); in the no-growth case, 2.0%. Both are
+below the floor, so the name is quit on, not ranked: "there's just a point at which we drop out of the game"
+**[M2003-149]**. The floor's qualifications were weighed: it moves with a lasting change in long rates **[M2003-151]**,
+and very cheap money moved prices "a little" **[M2016-078]**; the long rate today is 5.66%, not near zero, so neither
+qualification lowers it.
+
+**The prices at which the cases clear the floor** (arithmetic, same file):
+
+| case | at 7.6% after tax (10% pre-tax at 24%) | at 6.5% to 7% after tax (the 2002 row's translation) | at 10% on after-tax cash |
+|---|---|---|---|
+| shown growth ("fair") | **$551** | $608 to $664 | $394 |
+| no growth ("cheap") | **$223** | $242 to $261 | $170 |
+
+Even the most generous pairing, shown growth at 6.5% after tax, gives $664, 22% below the price.
+
+**Margin of safety.** The rows ask for a price so far below value that the decision "ought to just kind of scream at you"
+**[M1996-084]**, **[M2009-005]**, and they take the margin as "a big discount from that present value calculated using the
+risk-free interest rate" **[M1997-126]**. Here there is no discount at all: the price is above the present value of the
+most generous case at the risk-free rate. And the certainty is lower than the five-year figures suggest, because the base
+years are boom years in a business that lost money in 2016 (Q1, Q3), so the margin wanted would be larger, not smaller
+**[M2007-022]**.
+
+**Q6's buyback test, recorded back:** bottom of the range $300, top $781; the 2026 repurchases (about $700 average,
+$947.20 in June) were made near or above the top (Q6).
+
+**VERDICT: OUT.** Valued, narrow enough to decide, and the price sits above the whole range and does not clear the floor
+**[M2003-149]**, **[M2009-005]**. The file closes here; Q8 onward are NOT REACHED.
 
 ## Q8 — IS IT BETTER THAN THE ALTERNATIVES: the bond, more of what I already own, the company's own stock? STOP.
 *(to be written)*

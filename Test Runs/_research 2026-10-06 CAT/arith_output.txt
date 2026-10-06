@@ -20,3 +20,5 @@ price clearing the floor, capped at discount rate 339.87 | at 10% on after-tax c
 price clearing the floor, full-cycle 288.01 | at 10% on after-tax cash 214.64
 price clearing the floor, no growth 223.27 | at 10% on after-tax cash 169.69
 pre-tax equivalent of the implied return at the price, shown growth 0.06939469364172134
+at 0.065 after tax: shown growth 664.28 no growth 261.05
+at 0.07 after tax: shown growth 608.33 no growth 242.41
