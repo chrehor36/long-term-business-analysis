@@ -49,6 +49,24 @@ documents (`THE FRAMEWORK v5.md`, `THE HOLDINGS FRAMEWORK v5.md`; until 2026-10-
    for your favourite hypothesis **[E4-26]**, and *"you must not fool yourself, and you're
    the easiest person to fool"* **[E3-41]**. In practice: pre-register before computing,
    frame tests to refute, and let the acceptance test fail the build.
+10. **THE DISPATCHED RUN** *(added 2026-10-06 at the operator's instruction, after the purchase runs
+   of 2026-10-05 and 2026-10-06 were dispatched to blind analysts with "do not commit", written in
+    one pass, run without the lock, and left out of the register until the next day; the record is
+    `Test Runs/ADDENDUM 2026-10-06 - the dispatched runs of 2026-10-05 and 2026-10-06, what the dispatcher skipped.md`)*.
+    A run done by a dispatched analyst is bound by rules one to nine exactly as a run done in the
+    session, and the dispatcher is bound by four more. **(a)** The brief grants the analyst a
+    pathspec commit after each question, of its own run file and research folder only, so that
+    write-early is kept; "do not commit" is never written in a brief. **(b)** The dispatching
+    session writes the lock in `Screens/_daily/` before the first analyst starts and releases it
+    after the last fold. **(c)** A run is folded into the register (the six steps under THE FOLD
+    in `Screens/WATCHLIST RUN QUEUE.md`) in the session that received it, before the next batch is
+    dispatched; a run not in the register binds nothing
+    (`Test Runs/README - which run files are in force.md`). **(d)** The brief cites no convention
+    the governing text does not contain, names no expected verdict, gives every reporting figure
+    the operator asks for one stated definition labelled a reporting convention, and forbids the
+    analyst from opening, listing or searching any other run file, holding review or
+    PORTFOLIO.md. The canonical brief is `Screens/_daily/_dispatch_brief.md`; a brief that
+    departs from it says where.
 
 ---
 ## TOOLS — efficiency only, never a new model

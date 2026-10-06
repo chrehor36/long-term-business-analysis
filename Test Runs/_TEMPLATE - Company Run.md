@@ -106,6 +106,11 @@ industry's insiders would not write the forecast down. Q11 (has the business cha
 
 ## SELF-AUDIT
 - [ ] Copied to the dated file before any fetch; written question by question; committed after each (write-early).
+- [ ] If dispatched to an analyst: the brief allowed the per-question commits and the lock was held by the dispatching
+      session; the run is folded into the register before the dispatcher moves on (operator rule ten). A run not in the
+      register binds nothing.
+- [ ] No other run file, holding review or `PORTFOLIO.md` was opened, listed or searched (the blind rule); anything of
+      them seen by accident is declared under contamination, not used.
 - [ ] Every v5 id resolves (grep it in `principle_ledger_v5.csv`); every filing fact has its accession; no number
       without a row or a filing.
 - [ ] The order was kept; the first STOP that failed closed the run; nothing after it is a clearance.

@@ -132,6 +132,7 @@ The tooling test is in the protocol: a tool may get the same number sooner; it m
 | Path or task | What it is | Status |
 |---|---|---|
 | Windows tasks `BRK-overnight` (hourly), `BRK daily fetch`, `BRK price alerts`, `BRK resume queue`, `BRK-wake` (disabled) | the scheduled work | LIVE |
+| `Screens/_daily/_dispatch_brief.md` | the canonical brief for a purchase run dispatched to a blind analyst (operator rule ten, 2026-10-06): per-question pathspec commits, the lock held by the dispatcher, the blind rule as a whitelist, the reporting figures with one stated definition, the fold before the next batch | LIVE |
 | `Screens/_daily/_overnight.ps1`, `Screens/_daily/_overnight_prompt.md` | the hourly headless cycle and its instructions; the prompt is the document that explains how the cycle works | LIVE |
 | `Screens/_daily/_wave7_order.txt`, `Screens/_daily/_wave7_done.txt` | the current queue and its done file; a name is done when it is in both the register and the done file | LIVE |
 | _overnight.lock in `Screens/_daily/` | the lock, present only while a session holds it: an interactive holder is honoured while fresh under 75 minutes; a headless holder needs a live PID under 180 minutes; a cycle releases only the lock it wrote. An interactive session running a name writes this lock first | LIVE, gitignored |
