@@ -1,0 +1,49 @@
+Revenues --
+RevenueFromContractWithCustomerExcludingAssessedTax {2018: 109.92, 2019: 129.93, 2020: 158.92, 2021: 259.26, 2022: 323.99, 2023: 396.29, 2024: 420.4, 2025: 476.2}
+CostOfRevenue --
+CostOfGoodsAndServicesSold {2018: 76.48, 2019: 86.43, 2020: 104.9, 2021: 166.59, 2022: 196.48, 2023: 233.88, 2024: 243.04, 2025: 275.18}
+GrossProfit {2018: 33.44, 2019: 43.51, 2020: 54.02, 2021: 92.68, 2022: 127.51, 2023: 162.41, 2024: 177.36, 2025: 201.02}
+OperatingIncomeLoss {2018: 11.81, 2019: 17.09, 2020: 23.37, 2021: 40.12, 2022: 53.94, 2023: 66.97, 2024: 59.15, 2025: 62.65}
+NetIncomeLoss {2018: 8.71, 2019: 13.98, 2020: 18.28, 2021: 31.57, 2022: 41.38, 2023: 52.8, 2024: 45.49, 2025: 51.23}
+NetCashProvidedByUsedInOperatingActivities {2018: 6.8, 2019: 10.97, 2020: 18.47, 2021: 18.27, 2022: 12.06, 2023: 37.38, 2024: 47.82, 2025: 66.94}
+PaymentsToAcquirePropertyPlantAndEquipment {2018: 2.03, 2019: 1.57, 2020: 1.78, 2021: 6.72, 2022: 7.94, 2023: 6.36, 2024: 6.71, 2025: 4.01}
+PaymentsToDevelopSoftware --
+PaymentsToAcquireIntangibleAssets {2018: 0.39, 2019: 0.67, 2020: 0.37, 2021: 0.96, 2022: 1.62, 2023: 1.29, 2024: 1.88, 2025: 1.55}
+ShareBasedCompensation {2019: 0.0, 2020: 0.0, 2021: 0.17, 2022: 0.52, 2023: 1.64, 2024: 3.2, 2025: 2.75}
+DepreciationDepletionAndAmortization --
+DepreciationAndAmortization --
+Depreciation {2018: 0.74, 2019: 0.92, 2020: 1.27, 2021: 1.89, 2022: 3.43, 2023: 4.53, 2024: 5.82, 2025: 6.26}
+AmortizationOfIntangibleAssets {2018: 0.64, 2019: 0.78, 2020: 0.96, 2021: 2.5, 2022: 4.4, 2023: 5.06, 2024: 5.88, 2025: 6.99}
+PaymentsToAcquireBusinessesNetOfCashAcquired {2018: 0.83, 2019: 0.13, 2020: 2.57, 2021: 49.19, 2022: 4.67, 2023: 18.73, 2024: 9.86, 2025: 26.17}
+IncreaseDecreaseInInventories {2018: -0.01, 2019: 4.25, 2020: 6.76, 2021: 26.94, 2022: 28.57, 2023: 24.84, 2024: 4.79, 2025: -11.48}
+IncreaseDecreaseInAccountsPayableAndAccruedLiabilities {2018: -3.64, 2019: 3.88, 2020: 6.36, 2021: 12.02, 2022: -7.9, 2023: 6.48, 2024: 2.65, 2025: 11.34}
+IncreaseDecreaseInAccountsPayable --
+IncreaseDecreaseInAccountsReceivable {2018: 0.26, 2019: 1.77, 2020: 2.43, 2021: 0.43, 2022: 2.63, 2023: 7.0, 2024: 5.6, 2025: 20.44}
+InventoryNet {2019: 15.14, 2020: 22.36, 2021: 51.94, 2022: 80.58, 2023: 106.51, 2024: 110.9, 2025: 122.75}
+AccountsReceivableNetCurrent {2019: 7.15, 2020: 9.94, 2021: 13.16, 2022: 14.73, 2023: 24.11, 2024: 29.15, 2025: 49.85}
+AccountsPayableCurrent --
+PropertyPlantAndEquipmentNet {2019: 4.01, 2020: 4.71, 2021: 9.9, 2022: 14.2, 2023: 16.98, 2024: 17.73, 2025: 15.8}
+Goodwill {2018: 2.32, 2019: 2.41, 2020: 4.47, 2021: 25.66, 2022: 26.76, 2023: 37.46, 2024: 44.13, 2025: 59.28}
+IntangibleAssetsNetExcludingGoodwill --
+Assets {2019: 51.6, 2020: 83.84, 2021: 161.01, 2022: 193.36, 2023: 252.04, 2024: 285.61, 2025: 382.53}
+StockholdersEquity {2019: 35.06, 2020: 53.38, 2022: 124.72, 2023: 179.99, 2024: 225.46, 2025: 280.28}
+CashAndCashEquivalentsAtCarryingValue {2019: 11.5, 2020: 29.03, 2021: 9.64, 2022: 8.06, 2023: 11.61, 2024: 22.09, 2025: 50.86}
+LongTermDebt --
+IncomeTaxesPaidNet {2018: 2.51, 2019: 4.08, 2020: 4.46, 2021: 7.76, 2022: 9.9, 2023: 15.26, 2024: 13.62, 2025: 12.54}
+IncomeTaxExpenseBenefit {2018: 2.76, 2019: 2.96, 2020: 4.52, 2021: 7.87, 2022: 10.58, 2023: 13.23, 2024: 11.29, 2025: 12.47}
+IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest {2018: 11.48, 2019: 16.95, 2020: 22.8, 2021: 39.44, 2022: 51.97, 2023: 66.03, 2024: 56.78, 2025: 64.06}
+PaymentsForRepurchaseOfCommonStock {2023: 0.0, 2024: 0.0, 2025: 3.0}
+OperatingLeaseRightOfUseAsset {2019: 5.08, 2020: 5.97, 2021: 12.91, 2022: 15.31, 2023: 15.46, 2024: 19.49, 2025: 21.56}
+OperatingLeaseLiability {2019: 5.14, 2020: 5.98, 2021: 12.81, 2022: 16.0, 2023: 16.68, 2024: 20.79}
+ResearchAndDevelopmentExpense {2018: 0.22, 2019: 0.6, 2020: 0.1, 2021: 0.4, 2022: 0.4, 2023: 2.9, 2024: 2.9, 2025: 2.9}
+SellingGeneralAndAdministrativeExpense --
+InterestPaidNet {2018: 0.09, 2019: 0.02, 2020: 0.18, 2021: 0.21, 2022: 1.31, 2023: 1.24, 2024: 1.03, 2025: 0.09}
+AccountsPayableAndAccruedLiabilitiesCurrent {2019: 10.2, 2020: 16.8, 2021: 32.91, 2022: 22.97, 2023: 32.44, 2024: 36.79, 2025: 54.29}
+AccountsPayableTradeCurrent {2019: 7.44, 2020: 12.99, 2021: 25.17, 2022: 16.69, 2023: 24.23, 2024: 26.32, 2025: 37.77}
+CostOfGoodsAndServicesSold {2018: 76.48, 2019: 86.43, 2020: 104.9, 2021: 166.59, 2022: 196.48, 2023: 233.88, 2024: 243.04, 2025: 275.18}
+SellingAndMarketingExpense {2018: 6.8, 2019: 7.58, 2020: 9.75, 2021: 18.27, 2022: 25.37, 2023: 31.79, 2024: 42.82, 2025: 51.14}
+GeneralAndAdministrativeExpense {2018: 14.83, 2019: 18.83, 2020: 20.91, 2021: 34.29, 2022: 48.21, 2023: 63.65, 2024: 75.4, 2025: 87.23}
+IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets {2018: -0.13, 2019: 1.65, 2020: -0.51, 2021: 3.04, 2022: -0.26, 2023: -0.6, 2024: 2.15, 2025: 3.89}
+FiniteLivedIntangibleAssetsNet {2019: 3.82, 2020: 5.42, 2021: 32.73, 2022: 29.29, 2023: 34.91, 2024: 34.56, 2025: 49.62}
+IntangibleAssetsNetIncludingGoodwill --
+OperatingIncomeLoss {2018: 11.81, 2019: 17.09, 2020: 23.37, 2021: 40.12, 2022: 53.94, 2023: 66.97, 2024: 59.15, 2025: 62.65}

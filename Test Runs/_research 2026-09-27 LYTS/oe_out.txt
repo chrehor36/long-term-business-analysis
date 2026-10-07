@@ -1,0 +1,41 @@
+FY    OCF    SBCcomplete  capex  dep   OE_capex  OE_dep
+2010   16729    2630    6150   5294     7949     8805
+2011   -3806    1018    4731   5288    -9555   -10112
+2012   24360     582    3436   5174    20342    18604
+2013    8850    1068    7571   4702      211     3080
+2014   11559    1297    5245   5411     5017     4851
+2015   20930     669    4754   5804    15507    14457
+2016   18125    3642   10211   6171     4272     8312
+2017   21250    3913    6633   7005    10704    10332
+2018   11500    3690    3406   7462     4404      348
+2019   11491    1602    2618   7500     7271     2389
+2020   29712    1372    2739   6000    25601    22340
+2021   28009    3826    2233   5200    21950    18983
+2022   -3863    7198    2122   5300   -13183   -16361
+2023   49588    6225    3208   4900    40155    38463
+2024   43392    6333    5388   5000    31671    32059
+2025   38118    6775    3465   6700    27878    24643
+2026   44148    6525    5142   7900    32481    29723
+
+Windows ending FY2026 (mean OE, $K) and yield on cap $785.8M:
+ 2y FY2025-FY2026  capex end    30180  dep end    27183  yield  3.84% /  3.46%
+ 3y FY2024-FY2026  capex end    30677  dep end    28808  yield  3.90% /  3.67%
+ 4y FY2023-FY2026  capex end    33046  dep end    31222  yield  4.21% /  3.97%
+ 5y FY2022-FY2026  capex end    23800  dep end    21705  yield  3.03% /  2.76%
+ 6y FY2021-FY2026  capex end    23492  dep end    21252  yield  2.99% /  2.70%
+ 7y FY2020-FY2026  capex end    23793  dep end    21407  yield  3.03% /  2.72%
+ 8y FY2019-FY2026  capex end    21728  dep end    19030  yield  2.76% /  2.42%
+ 9y FY2018-FY2026  capex end    19803  dep end    16954  yield  2.52% /  2.16%
+10y FY2017-FY2026  capex end    18893  dep end    16292  yield  2.40% /  2.07%
+11y FY2016-FY2026  capex end    17564  dep end    15566  yield  2.24% /  1.98%
+12y FY2015-FY2026  capex end    17393  dep end    15474  yield  2.21% /  1.97%
+13y FY2014-FY2026  capex end    16441  dep end    14657  yield  2.09% /  1.87%
+14y FY2013-FY2026  capex end    15281  dep end    13830  yield  1.94% /  1.76%
+15y FY2012-FY2026  capex end    15619  dep end    14148  yield  1.99% /  1.80%
+16y FY2011-FY2026  capex end    14045  dep end    12632  yield  1.79% /  1.61%
+17y FY2010-FY2026  capex end    13687  dep end    12407  yield  1.74% /  1.58%
+
+All windows of 3+ years ending FY2026: min 12407 max 33046
+Every window of 3+ years anywhere FY2010-FY2026, both ends: min 3666 (FY2011-FY2013) max 33235 (FY2023-FY2025)
+screen-style 5y FY2021-25, tag SBC: capex end 24377, D&A end 17567
+screen-style 3y FY2023-25, tag SBC: capex end 35787, D&A end 29061

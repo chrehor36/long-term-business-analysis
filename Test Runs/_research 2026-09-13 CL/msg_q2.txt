@@ -1,0 +1,37 @@
+CL run resumed 2026-09-18: Q2 recorded - IN, class NARROW, PROVISIONAL for Pet Nutrition
+
+Resume note dated: killed at a session limit 2026-09-13 17:09 with Step 0 (d4398ab) and Q1
+(0c3de6e) committed; scheduler rate limited 2026-09-14 to 2026-09-15 and idle until
+2026-09-18. Step 0 and Q1 are history and are not edited. The 2026-09-13 price and sovereign
+are five days stale and are re-struck at Q5 under [E4-15], both pairs recorded there.
+
+Q2 IN on [E3-03], narrowly, with the findings that keep it out of the WIDE class recorded:
+- Primary moat metric, from twelve 10-Ks: global toothpaste share 44.7% (2015) to 39.4%
+  (2021) to 41.3% (2025); manual toothbrush 34.7% to 30.9% to 32.4%. [E4-32] direction FAILS
+  across the decade; the re-widening since 2021 was bought with advertising up from 9.4% to
+  13.3% of sales. It is a dollar share, not a unit share, per the company's own caveat.
+- The physical series [E4-55]: worldwide volume +7.7 points over 2016-2025, Oral/Personal/
+  Home Care +2.9, against price +38.0 and FX -20.4. Latin America priced +76.8 against FX
+  -56.2 and Africa/Eurasia +76.2 against -62.6, so most company pricing is devaluation
+  recovery. Hard-currency pricing is about 1%/yr; North America net selling price was
+  NEGATIVE in 2024 (-1.9%) and 2025 (-0.2%) with volume -9.3 points over 2021-2025, which is
+  [E4-37]'s agony reading, carried to Q6.
+- Counter-evidence given full weight: +9.5% and +10.0% worldwide price in 2022-2023 with
+  global toothpaste share rising 39.4% to 41.1% is [E2-44](1) passing.
+- Competitor row [E3-28]: ten peers (PG, Unilever, Haleon, Kenvue, CHD, KMB, Clorox, GIS,
+  SJM, Freshpet), same metrics, from filings on disk; script peers/peer_metrics.py applies
+  the identical NTOA definition used on the subject in Q1. CL and PG top the row on returns
+  on capital (CL 61.5-91.0%, PG 77.8-91.7%). Nestle Purina and Mars are not SEC registrants
+  and are named as unmeasurable, so Pet Nutrition (23% of sales) is held PROVISIONAL per the
+  framework. Criterion (2) is NOT shown for Personal and Home Care (33% of sales).
+- [E3-33] untapped pricing power refused under [E5-28]. [E4-04] not engaged: the spending
+  defends the same trademarks, not their replacement ([E5-23], [E3-49]).
+
+Two cells the killed session's draft left as '?' are filled from the filings and corrected on
+the record: Latin America 2018 (vol -2.5, price +1.5, FX -6.5, the FY2018 10-K splits the
+sentence) and Africa/Eurasia 2023 (vol +4.5, price +13.0, FX -17.5, the FY2023 10-K writes
+"were flat"). Six further cells spot-checked against the filings; all six matched.
+
+New: Test Runs/_research 2026-09-13 CL/peers/peer_metrics.py, resume/q2_sums.py, sec_q2.md.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

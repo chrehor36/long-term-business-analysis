@@ -1,0 +1,21 @@
+year   OCF     SBC    capex    D&A    OE(D&A end)  OE(capex end)
+2021    -50.9    11.2    24.2     9.7       -71.7         -86.3
+2022    -90.6    19.9    31.4    14.7      -125.1        -141.8
+2023    -30.2    19.3    10.9    21.0       -70.6         -60.4
+2024    -63.9    11.5     4.1    12.4       -87.7         -79.4
+2025    -55.1     7.8     3.1     8.0       -70.9         -66.0
+five-year FY2021-25 D&A end -85.2  capex end -86.8
+three-year FY2023-25 D&A end -76.4  capex end -68.6
+H1 2025 total OCF -36.575 ; H1 2026 total OCF -23.188
+TTM OCF (whole company) to 2026-06-30: -41.696
+H1 2026 continuing: OCF -7.304 = net loss -18.869 + non-cash 3.036 + working capital 8.529
+H1 2026 continuing, before working capital, less SBC: -18.228 ; annualised x2: -36.5
+lease: total receipts 3673 k; implicit monthly rate 0.01446 -> annual 0.188
+notes: net cash 7.3 on face 8.25 -> upfront cost 0.1152
+notes: all-in annual cost if held to maturity and paid in cash 0.1949
+equity at year ends {'2018': -0.3, '2019': -9.1, '2020': -25.5, '2021': 397.0, '2022': 316.8, '2023': 185.3, '2024': 101.7, '2025': 35.9}
+2021 net loss -45.4 return on average equity -0.244
+2022 net loss -101.4 return on average equity -0.284
+2023 net loss -152.5 return on average equity -0.607
+2024 net loss -93.3 return on average equity -0.65
+2025 net loss -77.3 return on average equity -1.123

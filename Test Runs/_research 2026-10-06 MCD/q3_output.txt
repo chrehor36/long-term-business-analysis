@@ -1,0 +1,6 @@
+2021 assets 53,854 goodwill 2,782 cash 4,709 cur.liab 4,020 cur.lease 706 opROU 13,552 netPPE 24,721 -> NTA 43,048; NTA ex opROU 29,496; op.income 10,356 = 24.1% on NTA, 35.1% ex ROU
+2022 assets 50,436 goodwill 2,900 cash 2,584 cur.liab 3,802 cur.lease 661 opROU 12,566 netPPE 23,774 -> NTA 41,811; NTA ex opROU 29,245; op.income 9,371 = 22.4% on NTA, 32.0% ex ROU
+2023 assets 56,147 goodwill 3,040 cash 4,579 cur.liab 4,667 cur.lease 688 opROU 13,514 netPPE 24,908 -> NTA 44,549; NTA ex opROU 31,035; op.income 11,647 = 26.1% on NTA, 37.5% ex ROU
+2024 assets 55,182 goodwill 3,145 cash 1,085 cur.liab 3,861 cur.lease 636 opROU 13,339 netPPE 25,295 -> NTA 47,727; NTA ex opROU 34,388; op.income 11,712 = 24.5% on NTA, 34.1% ex ROU
+2025 assets 59,515 goodwill 3,354 cash 774 cur.liab 4,361 cur.lease 694 opROU 14,606 netPPE 28,241 -> NTA 51,720; NTA ex opROU 37,114; op.income 12,393 = 24.0% on NTA, 33.4% ex ROU
+increment 2021->2025: op.income +2,037; NTA +8,672 -> 23.5%; net PPE +3,520 -> 57.9%

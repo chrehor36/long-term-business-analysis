@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <schemaVersion>X0202</schemaVersion>
+<headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001214659-26-006402</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: North Reef Capital Management LP -->
+          <cik>0001867831</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common Stock, $0.001 par value per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>06/30/2026</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001529274</issuerCik>
+        <issuerName>Alkami Technology, Inc.</issuerName>
+        <issuerCusips>
+          <issuerCusipNumber>01644J108</issuerCusipNumber>
+        </issuerCusips>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>5601 Granite Parkway, Suite 120</com:street1>
+          <com:city>Plano</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>75024</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>North Reef Capital Management LP</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>9225000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>9225000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>9225000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>8.62</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>North Reef Capital Management GP LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>9225000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>9225000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>9225000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>8.62</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+      <comments>Limited Liability Company</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>James Hanna, III</reportingPersonName>
+      <citizenshipOrOrganization>CA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>9225000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>9225000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>9225000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>8.62</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Alkami Technology, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>5601 Granite Parkway, Suite 120, Plano, TX 75024</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>North Reef Capital Management LP
+North Reef Capital Management GP LLC
+James Hanna, III</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>c/o North Reef Capital Management LP
+1833 South Coast Highway
+Suite 210
+Laguna Beach, California 92651</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>North Reef Capital Management LP - Delaware
+North Reef Capital Management GP LLC - Delaware
+James Hanna, III - California</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>9,075,000</amountBeneficiallyOwned>
+        <classPercent>8.48%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>9,075,000</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>9,075,000</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under § 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>EXHIBIT 99.1 - JOINT FILING AGREEMENT</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>North Reef Capital Management LP</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Daniel Locasto</signature>
+        <title>Chief Compliance Officer</title>
+        <date>08/14/2026</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>North Reef Capital Management GP LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ James Hanna, III</signature>
+        <title>Managing Member</title>
+        <date>08/14/2026</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>James Hanna, III</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ James Hanna, III</signature>
+        <title>James Hanna, III</title>
+        <date>08/14/2026</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>

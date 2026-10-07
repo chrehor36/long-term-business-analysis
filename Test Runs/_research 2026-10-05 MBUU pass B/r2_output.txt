@@ -1,0 +1,27 @@
+BASIS A: each company's segment Adjusted EBITDA as its CODM measures it (both exclude D&A, stock pay, impairment, deal costs)
+ FY2023: Malibu 186,873/636,247 = 29.37%   MasterCraft 110,292/468,656 = 23.53%   gap +5.84 pts
+ FY2024: Malibu 42,579/279,131 = 15.25%   MasterCraft 38,862/262,736 = 14.79%   gap +0.46 pts
+ FY2025: Malibu 60,611/312,698 = 19.38%   MasterCraft 29,771/240,763 = 12.37%   gap +7.02 pts
+ FY2026: Malibu 50,674/312,907 = 16.19%   MasterCraft 45,855/271,177 = 16.91%   gap -0.72 pts
+
+BASIS B: segment profit fully loaded as each filed it, plus segment D&A (Malibu: pre-tax income before FY2025 basis change; MasterCraft: operating income)
+ FY2019: MasterCraft OI 53,989 + D&A 3,481 = 57,470 on 311,830 = 18.43%   Malibu pre-tax 54,160 + D&A 7,674 = 61,834 on 374,611 = 16.51%
+ FY2020: MasterCraft OI 35,833 + D&A 4,078 = 39,911 on 236,856 = 16.85%   Malibu pre-tax 55,567 + D&A 8,809 = 64,376 on 354,769 = 18.15%
+ FY2021: MasterCraft OI 73,354 + D&A 4,479 = 77,833 on 350,812 = 22.19%   Malibu pre-tax 88,511 + D&A 9,397 = 97,908 on 483,525 = 20.25%
+ FY2022: MasterCraft OI 105,341 + D&A 4,968 = 110,309 on 466,027 = 23.67%   Malibu pre-tax 137,133 + D&A 8,398 = 145,531 on 607,543 = 23.95%
+ FY2023: MasterCraft OI 101,324 + D&A 5,555 = 106,879 on 468,656 = 22.81%   Malibu pre-tax 40,157 + D&A 8,974 = 49,131 on 636,247 = 7.72%
+ FY2024: MasterCraft OI 29,573 + D&A 5,109 = 34,682 on 262,736 = 13.20%   Malibu pre-tax -11,589 + D&A 9,714 = -1,875 on 279,131 = -0.67%
+ FY2025: MasterCraft OI 20,658 + D&A 5,888 = 26,546 on 240,763 = 11.03%   Malibu: not filed on this basis after FY2024
+ FY2026: MasterCraft OI 21,538 + D&A 5,837 = 27,375 on 271,177 = 10.09%   Malibu: not filed on this basis after FY2024
+
+FY2026 RECONCILIATIONS (the OUT fact year)
+ MasterCraft P&W operating income + D&A = 27,375 / 271,177 = 10.09%  (the run's pre-registered MasterCraft measure)
+ MasterCraft P&W adjusted EBITDA = 45,855 / 271,177 = 16.91%
+ MasterCraft P&W adjusted EBITDA less all of ERP ($999K) and leadership transition ($196K), worst case for MasterCraft = 44,660 = 16.47%
+ Malibu segment adjusted EBITDA = 16.19%  (the run's pre-registered Malibu measure)
+ Malibu corporate expenses and other ex interest = 47,471
+   Malibu, OI+D&A basis, corporate charged by share of total net sales (0.3421): 34,433 = 11.00%
+   Malibu, OI+D&A basis, corporate charged by share of allocated (legacy) net sales (0.3769): 32,784 = 10.48%
+   Malibu, OI+D&A basis, corporate charged by all of it, MasterCraft's practice (1.0000): 3,203 = 1.02%
+   Deal costs out of both: Malibu 12.62% (share of total net sales)  vs MasterCraft OI+D&A+deal costs 42,624 = 15.72%
+   Deal costs out of both: Malibu 12.26% (share of allocated (legacy) net sales)  vs MasterCraft OI+D&A+deal costs 42,624 = 15.72%

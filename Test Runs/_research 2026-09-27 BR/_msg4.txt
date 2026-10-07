@@ -1,0 +1,8 @@
+Fold: BR Broadridge FAIL at Q2 (OUT, on the business) - register entry 206, wave 7 name 64 of 218
+
+Register entry inserted by line under the line-exact heading (205 before, 206 after, BR first);
+BR appended to the wave 7 done file (64 lines); no tier roster holds BR; narrative fold appended
+to the reading list; no band and no PORTFOLIO row (the QLYS ruling); check_framework PASS.
+Research scripts, outputs and peer rows committed; raw filings and companyfacts left on disk.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

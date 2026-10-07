@@ -1,0 +1,32 @@
+==============================================================================
+Keysight Technologies, Inc.  (KEYS)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.49%   09/25/2026   US Treasury daily par yield curve
+  price     360.75 USD   2026-09-28   (aggregator — live quote only)
+  shares    170.2M      market cap 61.42B USD
+  share basis: dei cover-page count as of 2026-08-27
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-10-31      1,408      136       210        197      1,062      1,075
+    2024-10-31      1,052      145       264        154        643        753
+    2025-10-31      1,409      176       268        128        965      1,105
+          mean                                                 890        978
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 879 .. 962   yield 1.43%..1.57%
+  DIVERGENCE vs the 3-yr window: -1.2% on the conservative end
+
+  1. THE YIELD                  1.45% ..  1.59%   vs sovereign 5.49%
+  2. GROWTH THE PRICE ASSUMES   18.6%  (at a 5.49% rate)
+  3. POINTS OVER THE SOVEREIGN -1.47 .. -1.32
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

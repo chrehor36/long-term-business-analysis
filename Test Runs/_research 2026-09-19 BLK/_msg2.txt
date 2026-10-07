@@ -1,0 +1,15 @@
+BLK: Step 0 and Q1 IN - the registrant question settled, two CIKs, history does not span both
+
+Step 0: sovereign 5.34% (US Treasury, 2026-09-18, struck fresh). Filing read: 10-K FY2025
+accession 0001193125-26-071966, plus the Q2 2026 10-Q and the old registrant 10-Ks for FY2022
+and FY2023. Revenue cross-checked two ways.
+
+The registrant: CIK 0002012383 files today (formerly BlackRock Funding, Inc. /DE); CIK 0001364742
+is now BlackRock Finance, Inc. and last filed a 10-K for FY2023. The CIK history does NOT span
+both - companyfacts for the new CIK begins at FY2024, so a single-CIK XBRL pull returns two years
+and no error.
+
+Q1 IN: 15.22bp on $12.6tn of average AUM is 79.2% of revenue; Aladdin 8.2%; capex 1.5% of
+revenue. CIPs and separate accounts separated using the filer own reconciliations.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

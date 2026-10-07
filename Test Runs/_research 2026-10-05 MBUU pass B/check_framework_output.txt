@@ -1,0 +1,49 @@
+LEDGER            316 rows, 316 unique ids   principle_ledger.csv
+                  source files on disk: 316/316
+                  verbatim against cited source: 315/316   OK
+                    E5-07  DECLARED_NOT_A_QUOTE
+LEDGER            4279 rows, 4279 unique ids   principle_ledger_v5.csv
+                  source files on disk: 4279/4279
+                  verbatim against cited source: 4279/4279   OK
+TEST RUNS         1864 files, 45350 distinct id citations, phantom in 0 files   OK
+POINTERS          354 paths named in 5 pointer files, 0 missing   OK
+V5 SCOPE          0 citations or rows outside the v5 sources   OK
+
+THE FRAMEWORK v5.md
+  ledger ids cited      1388
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+_TEMPLATE - Company Run.md
+  ledger ids cited      2
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+SECTOR METHOD v5 - insurers and float companies.md
+  ledger ids cited      147
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+THE HOLDINGS FRAMEWORK v5.md
+  ledger ids cited      186
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+_TEMPLATE - Holding Review.md
+  ledger ids cited      4
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+OPERATOR-PROTOCOL.md
+  ledger ids cited      7
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+CLAUDE.md
+  ledger ids cited      0
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+======================================================================
+PASS — every number resolves to a verbatim source or a confessed convention,
+       and every ledger row matches the document it cites.

@@ -1,0 +1,12 @@
+HESM: overnight log line -- wave 7 name 6, FAIL at Q2, and a one-table series
+
+Register 137 before / 138 after. _wave7_done.txt at 6 lines.
+Q1 IN, Q2 OUT on the business; Q3-Q6 not reached, no verdict recorded.
+
+The unusual shape: all three [E3-03] criteria pass on their face and the name
+still fails, because each is held up by one contract with the counterparty that
+owns the general partner, and [E2-59] says the moat then belongs to the regime.
+
+check_framework.py PASS, 0 phantom cites, ledger counted at 311 rows.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

@@ -1,0 +1,83 @@
+{
+ "TFC": {
+  "CITY": "Charlotte",
+  "ACTIVE": 1,
+  "ASSET": 548346000,
+  "CERT": 9846,
+  "STALP": "NC",
+  "NAME": "Truist Bank",
+  "ID": "9846"
+ },
+ "PNC": {
+  "CITY": "Wilmington",
+  "ACTIVE": 1,
+  "ASSET": 609771726,
+  "CERT": 6384,
+  "STALP": "DE",
+  "NAME": "PNC Bank, National Association",
+  "ID": "6384"
+ },
+ "USB": {
+  "CITY": "Cincinnati",
+  "ACTIVE": 1,
+  "ASSET": 705554946,
+  "CERT": 6548,
+  "STALP": "OH",
+  "NAME": "U.S. Bank National Association",
+  "ID": "6548"
+ },
+ "FITB": {
+  "CITY": "Cincinnati",
+  "ACTIVE": 1,
+  "ASSET": 299177000,
+  "CERT": 6672,
+  "STALP": "OH",
+  "NAME": "Fifth Third Bank, National Association",
+  "ID": "6672"
+ },
+ "KEY": {
+  "CITY": "Cleveland",
+  "ACTIVE": 1,
+  "ASSET": 188555486,
+  "CERT": 17534,
+  "STALP": "OH",
+  "NAME": "KeyBank National Association",
+  "ID": "17534"
+ },
+ "RF": {
+  "CITY": "Birmingham",
+  "ACTIVE": 1,
+  "ASSET": 159787000,
+  "CERT": 12368,
+  "STALP": "AL",
+  "NAME": "Regions Bank",
+  "ID": "12368"
+ },
+ "CFG": {
+  "CITY": "Providence",
+  "ACTIVE": 1,
+  "ASSET": 232517438,
+  "CERT": 57957,
+  "STALP": "RI",
+  "NAME": "Citizens Bank, National Association",
+  "ID": "57957"
+ },
+ "MTB": {
+  "CITY": "Buffalo",
+  "ACTIVE": 1,
+  "ASSET": 218788000,
+  "CERT": 588,
+  "STALP": "NY",
+  "NAME": "Manufacturers and Traders Trust Company",
+  "ID": "588"
+ },
+ "HBAN": {
+  "CITY": "Columbus",
+  "ACTIVE": 1,
+  "ASSET": 283073605,
+  "CERT": 6560,
+  "STALP": "OH",
+  "NAME": "The Huntington National Bank",
+  "ID": "6560"
+ }
+}

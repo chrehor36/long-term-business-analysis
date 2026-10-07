@@ -1,0 +1,14 @@
+AMZN fold: register entry, WAVE 5 strike and dated note, reading-list narrative, shape index - Q1 IN / Q2 OUT
+
+Register entry under COMPLETED FROM THE QUEUE, newest-first above ABNB: price US$256.78 x
+10,786,313,572 shares (10-Q cover 0001018724-26-000026) = US$2,769.7bn, sovereign USD 5.35%,
+FAIL at Q2, commits 1327743 / 006a110 / a30a6cb. Register read at the fold: 95 runs.
+
+AMZN struck in the WAVE 5 table, with a dated note beside it: the "capex unresolved" label was
+written by floor_screen.py at a8bc84f, whose single-tag annual() could not see Amazon's capex;
+the other six names should go through the current owner_earnings() before their runs.
+
+THE ROUND TRIP added to the survival shapes index as proposed eighteenth; AMZN recorded as a
+later instance of #1 and #11. No alert, no PORTFOLIO row (Q2 OUT). check_framework.py PASS.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

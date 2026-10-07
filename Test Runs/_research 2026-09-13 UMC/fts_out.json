@@ -1,0 +1,194 @@
+{
+ "GFS|United Microelectronics": [
+  5,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0001709048"
+ ],
+ "GFS|UMC": [
+  "ERR HTTP Error 500: Internal Server Error",
+  ""
+ ],
+ "TSEM|United Microelectronics": [
+  24,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0000928876"
+ ],
+ "TSEM|UMC": [
+  17,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0000928876"
+ ],
+ "INTC|United Microelectronics": [
+  4,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0000050863"
+ ],
+ "INTC|UMC": [
+  4,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0000050863"
+ ],
+ "AMD|United Microelectronics": [
+  14,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0000002488"
+ ],
+ "AMD|UMC": [
+  9,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0000002488"
+ ],
+ "QCOM|United Microelectronics": [
+  20,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0000804328"
+ ],
+ "QCOM|UMC": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0000804328"
+ ],
+ "TXN|United Microelectronics": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0000097476"
+ ],
+ "TXN|UMC": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0000097476"
+ ],
+ "HIMX|United Microelectronics": [
+  20,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0001342338"
+ ],
+ "HIMX|UMC": [
+  20,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0001342338"
+ ],
+ "SIMO|United Microelectronics": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0001329394"
+ ],
+ "SIMO|UMC": [
+  19,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0001329394"
+ ],
+ "SYNA|United Microelectronics": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0000817720"
+ ],
+ "SYNA|UMC": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0000817720"
+ ],
+ "MCHP|United Microelectronics": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0000827054"
+ ],
+ "MCHP|UMC": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0000827054"
+ ],
+ "LSCC|United Microelectronics": [
+  29,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0000855658"
+ ],
+ "LSCC|UMC": [
+  28,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0000855658"
+ ],
+ "NVTS|United Microelectronics": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0001821769"
+ ],
+ "NVTS|UMC": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0001821769"
+ ],
+ "MPWR|United Microelectronics": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0001280452"
+ ],
+ "MPWR|UMC": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0001280452"
+ ],
+ "ON|United Microelectronics": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0001097864"
+ ],
+ "ON|UMC": [
+  6,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0001097864"
+ ],
+ "NXPI|United Microelectronics": [
+  1,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0001413447"
+ ],
+ "NXPI|UMC": [
+  1,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0001413447"
+ ],
+ "SWKS|United Microelectronics": [
+  1,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0000004127"
+ ],
+ "SWKS|UMC": [
+  1,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0000004127"
+ ],
+ "QRVO|United Microelectronics": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0001604778"
+ ],
+ "QRVO|UMC": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0001604778"
+ ],
+ "AMBA|United Microelectronics": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0001280263"
+ ],
+ "AMBA|UMC": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0001280263"
+ ],
+ "POWI|United Microelectronics": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0000833640"
+ ],
+ "POWI|UMC": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0000833640"
+ ],
+ "SITM|United Microelectronics": [
+  1,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0001451809"
+ ],
+ "SITM|UMC": [
+  1,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0001451809"
+ ],
+ "ALGM|United Microelectronics": [
+  6,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0000866291"
+ ],
+ "ALGM|UMC": [
+  6,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0000866291"
+ ],
+ "PI|United Microelectronics": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0001111063"
+ ],
+ "PI|UMC": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0001111063"
+ ],
+ "CRUS|United Microelectronics": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0000772406"
+ ],
+ "CRUS|UMC": [
+  1,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0000772406"
+ ],
+ "SLAB|United Microelectronics": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22United+Microelectronics%22&forms=10-K%2C20-F&ciks=0001038074"
+ ],
+ "SLAB|UMC": [
+  0,
+  "https://efts.sec.gov/LATEST/search-index?q=%22UMC%22&forms=10-K%2C20-F&ciks=0001038074"
+ ]
+}

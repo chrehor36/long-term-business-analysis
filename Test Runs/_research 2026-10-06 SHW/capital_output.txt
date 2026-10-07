@@ -1,0 +1,10 @@
+  FY  tang cap     EBIT  EBIT+amort    ret  ret+am
+2018      2440     1721        2039    71%     84%   (ca 4344 cash 156 ppe 1777 rou 0 ap 1799 comp 505 tax 81 oth 1141 oll 0 pti 1360 ie 367 ii 5)
+2019      2745     2305        2618    84%     95%   (ca 4632 cash 162 ppe 1835 rou 1686 ap 1876 comp 553 tax 86 oth 989 oll 1742 pti 1982 ie 349 ii 26)
+2020      1969     2856        3169   145%    161%   (ca 4591 cash 227 ppe 1834 rou 1761 ap 2118 comp 753 tax 184 oth 1116 oll 1821 pti 2519 ie 340 ii 4)
+2021      2410     2578        2888   107%    120%   (ca 5054 cash 166 ppe 1867 rou 1821 ap 2403 comp 717 tax 160 oth 1006 oll 1880 pti 2249 ie 335 ii 5)
+2022      3288     2956        3273    90%    100%   (ca 5908 cash 199 ppe 2207 rou 1867 ap 2436 comp 784 tax 197 oth 1138 oll 1938 pti 2573 ie 391 ii 8)
+2023      3297     3502        3832   106%    116%   (ca 5513 cash 277 ppe 2837 rou 1887 ap 2315 comp 863 tax 197 oth 1330 oll 1959 pti 3110 ie 418 ii 25)
+2024      4022     3856        4183    96%    104%   (ca 5401 cash 210 ppe 3533 rou 1954 ap 2253 comp 843 tax 174 oth 1360 oll 2025 pti 3452 ie 416 ii 11)
+2025      4972     3792        4129    76%     83%   (ca 6007 cash 207 ppe 4137 rou 1995 ap 2354 comp 839 tax 187 oth 1509 oll 2071 pti 3338 ie 465 ii 11)
+incremental 2018->2025: EBIT+amort 2089 on added tangible capital 2532

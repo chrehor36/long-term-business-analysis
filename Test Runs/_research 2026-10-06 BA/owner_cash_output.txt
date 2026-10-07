@@ -1,0 +1,17 @@
+  FY      OCF    SBC   401k  capex    D&A  OC capex   OC D&A
+2016    10496    190      0   2613   1889      7693     8417
+2017    13346    202      0   1739   2047     11405    11097
+2018    15322    202      0   1722   2114     13398    13006
+2019    -2446    212      0   1834   2271     -4492    -4929
+2020   -18410    250    195   1303   2246    -20158   -21101
+2021    -3416    833   1233    980   2144     -6462    -7626
+2022     3512    725   1215   1222   1979       350     -407
+2023     5960    690   1515   1527   1861      2228     1894
+2024   -12080    407   1601   2230   1836    -16318   -15924
+2025     1065    426   1530   2942   1953     -3833    -2844
+mean (2021, 2025): capex basis -4,807; D&A basis -4,981
+mean (2016, 2025): capex basis -1,619; D&A basis -1,842
+H1 2026 OCF - capex: -823 (before stock pay and the 401(k) shares; see run file)
+preferred as converted 33.511M; diluted 823.881M
+market cap common 152.32B; as converted 158.78B
+threshold price for the minimum rate: 171.59

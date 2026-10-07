@@ -1,0 +1,141 @@
+== UNP units {'USD'}
+2009 (76.1, 9.3, 11.7, 14143) Revenues 2012-02-03
+2010 (70.6, 13.2, 16.1, 16965) Revenues 2013-02-08
+2011 (70.7, 14.6, 18.1, 19557) Revenues 2014-02-07
+2012 (67.8, 16.5, 20.5, 20926) Revenues 2015-02-06
+2013 (66.1, 17.4, 21.4, 21963) Revenues 2016-02-05
+2014 (63.5, 19.4, 24.4, 23988) Revenues 2017-02-03
+2015 (63.1, 16.9, 22.8, 21813) Revenues 2018-02-09
+2016 (63.7, 14.6, 20.8, 19941) Revenues 2019-02-08
+2017 (61.8, 15.9, 47.8, 21240) Revenues 2020-02-07
+2018 (62.7, 16.3, 26.4, 22832) Revenues 2021-02-05
+2019 (60.6, 16.0, 30.7, 21708) Revenues 2022-02-04
+2020 (59.9, 14.5, 30.5, 19533) Revenues 2023-02-10
+2021 (57.2, 17.1, 41.9, 21804) RevenueFromContractWithCustomerExcludingAssessedTax 2024-02-09
+2022 (60.1, 17.9, 53.2, 24875) RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-07
+2023 (62.3, 16.0, 47.3, 24119) RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-06
+2024 (59.9, None, 42.6, 24250) RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-06
+2025 (59.8, None, 40.4, 24510) RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-06
+== BNSF units {'USD'}
+2009 (76.7, 10.3, 14.4, 14016) Revenues 2010-02-11
+2011 (72.8, None, 8.5, 19548) SalesRevenueNet 2014-03-03
+2012 (71.1, None, 9.8, 20835) SalesRevenueNet 2015-03-02
+2013 (69.7, 13.0, 11.0, 22014) SalesRevenueNet 2016-02-29
+2014 (69.8, 13.0, 11.1, 23239) SalesRevenueNet 2017-02-27
+2015 (64.8, 13.4, 12.1, 21967) SalesRevenueNet 2018-02-26
+2016 (66.5, 11.0, 10.0, 19829) Revenues 2019-02-25
+2017 (65.9, 11.8, 28.5, 21387) Revenues 2020-02-21
+2018 (67.3, 12.4, 12.2, 23855) Revenues 2021-03-01
+2019 (65.7, 12.6, 12.7, 23515) RevenueFromContractWithCustomerExcludingAssessedTax 2022-02-28
+2020 (62.9, 11.9, 11.8, 20869) RevenueFromContractWithCustomerExcludingAssessedTax 2023-02-27
+2021 (62.2, 13.5, 13.2, 23282) RevenueFromContractWithCustomerExcludingAssessedTax 2024-02-26
+2022 (66.8, 12.9, 12.7, 25888) RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-24
+2023 (69.0, 10.8, 10.5, 23876) RevenueFromContractWithCustomerExcludingAssessedTax 2026-03-02
+2024 (68.1, 10.6, 10.1, 23437) RevenueFromContractWithCustomerExcludingAssessedTax 2026-03-02
+2025 (65.6, 11.2, 10.7, 23421) RevenueFromContractWithCustomerExcludingAssessedTax 2026-03-02
+== CSX units {'USD'}
+2009 (74.9, None, None, 9041) Revenues 2012-02-21
+2010 (71.1, None, None, 10636) Revenues 2013-02-19
+2011 (70.6, None, None, 11795) SalesRevenueNet 2014-02-12
+2012 (70.6, None, None, 11763) SalesRevenueNet 2015-02-11
+2013 (71.1, None, None, 12026) SalesRevenueNet 2016-02-10
+2014 (71.5, None, None, 12669) SalesRevenueNet 2017-02-14
+2015 (69.7, None, None, 11811) SalesRevenueNet 2018-02-07
+2016 (69.2, None, None, 11069) RevenueFromContractWithCustomerExcludingAssessedTax 2019-02-06
+2017 (67.4, None, None, 11408) RevenueFromContractWithCustomerExcludingAssessedTax 2020-02-12
+2018 (60.3, 15.3, 24.2, 12250) RevenueFromContractWithCustomerExcludingAssessedTax 2021-02-10
+2019 (58.4, 15.5, 27.3, 11937) RevenueFromContractWithCustomerExcludingAssessedTax 2022-02-16
+2020 (58.8, 13.5, 22.1, 10583) RevenueFromContractWithCustomerExcludingAssessedTax 2023-02-15
+2021 (55.3, 17.1, 28.5, 12522) RevenueFromContractWithCustomerExcludingAssessedTax 2024-02-14
+2022 (59.9, 17.8, 31.7, 14853) RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-27
+2023 (62.5, 16.0, 30.0, 14657) RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-12
+2024 (63.9, 14.9, 28.3, 14540) RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-12
+2025 (67.9, 12.5, 22.5, 14092) RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-12
+== NSC units {'USD'}
+2009 (75.4, 8.7, 10.4, 7969) Revenues 2012-02-15
+2010 (71.9, 11.7, 14.2, 9516) Revenues 2013-02-15
+2011 (71.2, 13.5, 18.6, 11172) Revenues 2014-02-14
+2012 (71.7, 12.4, 17.8, 11040) Revenues 2015-02-11
+2013 (71.0, 12.4, 18.1, 11245) Revenues 2016-02-08
+2014 (69.2, 13.2, 16.9, 11624) Revenues 2017-02-06
+2015 (72.6, 10.2, 12.7, 10511) Revenues 2018-02-05
+2016 (69.6, 10.2, 13.6, 9888) Revenues 2019-02-08
+2017 (66.6, 11.7, 37.6, 10551) Revenues 2020-02-06
+2018 (65.4, 12.9, 16.8, 11458) RevenueFromContractWithCustomerExcludingAssessedTax 2021-02-04
+2019 (64.7, 12.7, 17.8, 11296) RevenueFromContractWithCustomerExcludingAssessedTax 2022-02-04
+2020 (69.3, 9.5, 13.4, 9789) RevenueFromContractWithCustomerExcludingAssessedTax 2023-02-03
+2021 (60.1, 14.1, 21.1, 11142) RevenueFromContractWithCustomerExcludingAssessedTax 2024-02-05
+2022 (62.3, 15.1, 24.8, 12745) RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-10
+2023 (76.5, 8.7, 14.3, 12156) RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-09
+2024 (66.4, 11.8, 19.4, 12123) RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-09
+2025 (64.2, 12.0, 19.2, 12180) RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-09
+== CP units {'CAD'}
+2009 (81.1, None, 12.3, 4402) Revenues 2012-03-15
+2010 (77.6, 9.3, 13.7, 4981) Revenues 2013-03-12
+2011 (81.3, 7.8, 12.0, 5177) Revenues 2014-03-05
+2012 (83.3, 7.4, 9.9, 5695) Revenues 2015-11-25
+2013 (76.8, 10.8, 14.4, 6133) Revenues 2016-02-29
+2014 (64.7, 16.8, 23.2, 6620) Revenues 2017-02-16
+2015 (60.0, 17.5, 26.0, 6712) Revenues 2018-02-16
+2016 (61.3, 14.6, 33.9, 6232) Revenues 2019-02-15
+2017 (61.6, 14.9, 43.5, 6554) Revenues 2020-02-20
+2018 (61.3, 16.0, 29.8, 7316) Revenues 2021-02-18
+2019 (59.9, 16.6, 35.6, 7792) Revenues 2022-02-23
+2020 (57.1, 16.7, 34.0, 7710) Revenues 2023-02-24
+2021 (59.9, None, 13.9, 7995) Revenues 2024-02-27
+2022 (62.2, None, 9.7, 8814) Revenues 2025-02-27
+2023 (65.0, 11.8, 9.8, 12555) Revenues 2026-02-26
+2024 (64.4, None, 8.3, 14546) Revenues 2026-02-26
+2025 (62.8, None, 8.8, 15078) Revenues 2026-02-26
+== CNI units {'CAD'}
+2009 (67.3, 10.5, 17.0, 7367) Revenues 2012-02-03
+2010 (63.6, 13.3, 18.7, 8297) Revenues 2013-02-01
+2011 (63.5, 14.1, 22.4, 9028) Revenues 2014-02-03
+2012 (62.9, 15.2, 24.7, 9920) Revenues 2015-02-02
+2013 (63.4, 15.3, 21.8, 10575) Revenues 2016-02-01
+2014 (61.9, 16.9, 24.0, 12134) Revenues 2017-02-01
+2015 (58.2, 17.2, 24.9, 12611) Revenues 2018-01-31
+2016 (58.2, 15.2, 24.4, 12037) Revenues 2019-02-01
+2017 (59.8, 15.4, 34.8, 13041) Revenues 2020-01-31
+2018 (61.6, 15.3, 25.2, 14321) RevenueFromContractWithCustomerExcludingAssessedTax 2021-02-01
+2019 (62.5, None, 23.6, 14917) RevenueFromContractWithCustomerExcludingAssessedTax 2021-02-01
+2020 (65.4, None, 18.9, 13819) RevenueFromContractWithCustomerExcludingAssessedTax 2021-02-01
+2022 (60.0, None, 23.2, 17107) RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-04
+2023 (60.8, None, 27.1, 16828) RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-04
+2024 (63.4, None, 21.6, 17046) RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-04
+2025 (61.9, None, 22.1, 17304) RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-04
+
+SUMMARY (OR %, OI/avg net PP&E %)
+UNP 2011-2025 OR mean 62.6 15 OI/PPE mean 16.4 15
+UNP 2016-2025 OR mean 60.8 10 OI/PPE mean 16.2 10
+UNP 2021-2025 OR mean 59.9 5 OI/PPE mean 16.9 5
+BNSF 2011-2025 OR mean 67.2 15 OI/PPE mean 12.2 13
+BNSF 2016-2025 OR mean 66.0 10 OI/PPE mean 11.9 10
+BNSF 2021-2025 OR mean 66.3 5 OI/PPE mean 11.8 5
+CSX 2011-2025 OR mean 65.1 15 OI/PPE mean 15.3 8
+CSX 2016-2025 OR mean 62.4 10 OI/PPE mean 15.3 8
+CSX 2021-2025 OR mean 61.9 5 OI/PPE mean 15.7 5
+NSC 2011-2025 OR mean 68.1 15 OI/PPE mean 12.0 15
+NSC 2016-2025 OR mean 66.5 10 OI/PPE mean 11.9 10
+NSC 2021-2025 OR mean 65.9 5 OI/PPE mean 12.3 5
+CP 2011-2025 OR mean 65.4 15 OI/PPE mean 13.7 11
+CP 2016-2025 OR mean 61.5 10 OI/PPE mean 15.1 6
+CP 2021-2025 OR mean 62.9 5 OI/PPE mean 11.8 1
+CNI 2011-2025 OR mean 61.7 14 OI/PPE mean 15.6 8
+CNI 2016-2025 OR mean 61.5 9 OI/PPE mean 15.3 3
+CNI 2021-2025 OR mean 61.5 4 OI/PPE mean None 0
+2011 {'UNP': 70.7, 'BNSF': 72.8, 'CSX': 70.6, 'NSC': 71.2, 'CP': 81.3, 'CNI': 63.5}
+2012 {'UNP': 67.8, 'BNSF': 71.1, 'CSX': 70.6, 'NSC': 71.7, 'CP': 83.3, 'CNI': 62.9}
+2013 {'UNP': 66.1, 'BNSF': 69.7, 'CSX': 71.1, 'NSC': 71.0, 'CP': 76.8, 'CNI': 63.4}
+2014 {'UNP': 63.5, 'BNSF': 69.8, 'CSX': 71.5, 'NSC': 69.2, 'CP': 64.7, 'CNI': 61.9}
+2015 {'UNP': 63.1, 'BNSF': 64.8, 'CSX': 69.7, 'NSC': 72.6, 'CP': 60.0, 'CNI': 58.2}
+2016 {'UNP': 63.7, 'BNSF': 66.5, 'CSX': 69.2, 'NSC': 69.6, 'CP': 61.3, 'CNI': 58.2}
+2017 {'UNP': 61.8, 'BNSF': 65.9, 'CSX': 67.4, 'NSC': 66.6, 'CP': 61.6, 'CNI': 59.8}
+2018 {'UNP': 62.7, 'BNSF': 67.3, 'CSX': 60.3, 'NSC': 65.4, 'CP': 61.3, 'CNI': 61.6}
+2019 {'UNP': 60.6, 'BNSF': 65.7, 'CSX': 58.4, 'NSC': 64.7, 'CP': 59.9, 'CNI': 62.5}
+2020 {'UNP': 59.9, 'BNSF': 62.9, 'CSX': 58.8, 'NSC': 69.3, 'CP': 57.1, 'CNI': 65.4}
+2021 {'UNP': 57.2, 'BNSF': 62.2, 'CSX': 55.3, 'NSC': 60.1, 'CP': 59.9, 'CNI': None}
+2022 {'UNP': 60.1, 'BNSF': 66.8, 'CSX': 59.9, 'NSC': 62.3, 'CP': 62.2, 'CNI': 60.0}
+2023 {'UNP': 62.3, 'BNSF': 69.0, 'CSX': 62.5, 'NSC': 76.5, 'CP': 65.0, 'CNI': 60.8}
+2024 {'UNP': 59.9, 'BNSF': 68.1, 'CSX': 63.9, 'NSC': 66.4, 'CP': 64.4, 'CNI': 63.4}
+2025 {'UNP': 59.8, 'BNSF': 65.6, 'CSX': 67.9, 'NSC': 64.2, 'CP': 62.8, 'CNI': 61.9}

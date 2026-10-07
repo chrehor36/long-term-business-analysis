@@ -1,0 +1,5 @@
+MDT research: untrack the thirteen raw peer companyfacts files
+
+The fold commit 5962fb91 said these were untracked there; they were not. A pathspec commit takes the working-tree state of its paths, so `git rm --cached` followed by `git commit -- <dir>` re-added the files still on disk. This commit removes them from the index with the files moved aside for the commit and restored afterwards (history not rewritten; the files stay on disk, untracked, as other runs keep raw companyfacts). The *_facts.json names escape the *companyfacts*.json ignore pattern; reported, pattern not changed.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>

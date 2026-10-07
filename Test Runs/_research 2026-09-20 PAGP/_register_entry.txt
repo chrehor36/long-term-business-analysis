@@ -1,0 +1,86 @@
+- **PAGP (Plains GP Holdings, L.P.), 2026-09-20 - FAIL at Q2 (OUT, ON THE BUSINESS).** Q1 IN.
+  **WAVE 7, NAME 1** - the first of the operator's three CSV lists, opened 2026-09-20, and
+  **register entry 133**. It sorted first in the whole wave because the screen's
+  `growth_required` read **-0.1381**; that figure is refuted below at its source. CIK
+  **0001581990**, verified by `tools/sources.py:cik_for('PAGP')`. Price **US$27.67** (close of
+  2026-09-18, aggregator FLAGGED, live quote only) x **197,904,124 Class A shares** (cover of
+  the Q2 2026 10-Q, accession `0001581990-26-000025`, filed 2026-08-10: *"As of July 31, 2026,
+  there were 197,904,124 Class A Shares outstanding"*; the same count appears on the FY2025
+  10-K cover at 2026-02-20 and on the FY2025 balance sheet, so the count is **flat**, not
+  falling) = cap **US$5,476.0M**. Sovereign **5.34%** (US Treasury daily par yield curve
+  30-year, 09/18/2026, the issuing authority, struck fresh this session; FRED not used).
+  **THE STRUCTURE IS THE FINDING AT Q1: PAGP owns no operating asset.** Its *"sole source of
+  cash flow is derived from an indirect investment in Plains All American Pipeline, L.P."* - an
+  approximate **85% limited partner interest in AAP**, which owns **233.0 million PAA common
+  units, "approximately 31% of PAA's total outstanding common units and Series A preferred
+  units combined"**. Look-through **~26%**. The filer states the same fact three more ways in
+  the FY2025 10-K (`0001581990-26-000012`): of FY2025 net income **$260M of $1,686M (15.4%)**
+  is attributable to PAGP; of partners' capital **$1,345M of $14,216M (9.5%)**; of FY2025
+  distributions paid **$301M against $1,441M to noncontrolling interests (17.3%)**. **The
+  screen's `oe_bottom_m 1318 / oe_top_m 1750` is the WHOLE consolidated group's number set
+  against ONE class of the TOP tier - an overstatement of roughly four times**, and it is the
+  per-class denominator error (DASH, META, PATH, PUBM, BZFD) inverted: here the cover count is
+  right and the numerator comes from a wider entity. **No owner-earnings figure is reported for
+  this name**; Q4 was never reached and the screen's is refuted rather than replaced.
+  **Q2 IS OUT ON [E3-03] CLAUSES (2) AND (3), IN THE FILER'S OWN WORDS.** Clause (2): *"many of
+  the areas where PAA operates have become overbuilt, resulting in an excess of midstream
+  energy infrastructure capacity"*, caused by *"relatively low barriers to entry"*, with rivals
+  who *"may be motivated to reduce transportation rates to levels approaching variable
+  operating costs, without regard to whether they are generating an acceptable return on their
+  investment ... with respect to certain of PAA's long-haul Permian pipelines"* - **[E2-58]'s
+  over-capacity equation written by the subject.** Clause (3): *"The majority of our pipeline
+  profits in the United States are based on rates that are either grandfathered in part or set
+  by agreement with one or more shippers. These rates remain regulated by FERC"*, under an
+  index FERC revised **down about 1% in March 2022**, which the D.C. Circuit vacated and FERC
+  re-issued, still under petition - **[E2-59]'s regime, here a CAP and not a floor.**
+  **THE COMPETITOR ROW [E3-28], TEN PEERS, FIVE YEARS, ONE METRIC, EVERY FIGURE FROM THE PEER'S
+  OWN 10-K:** operating income / (net PP&E + equity-method investments + net intangibles),
+  FY2021-25 means - **PAA/PAGP 5.6%**, HESM 25.5%, MPLX 20.1%, DKL 14.5%, WES 14.3%, EPD 13.7%,
+  TRGP 11.8%, OKE 11.6%, ET 9.1%, KMI 8.7%, GEL 4.8%. **PAA is tenth of eleven; peer median
+  13.7%; its best year, 6.7%, is below every peer's five-year mean except Genesis Energy's.**
+  Enbridge named and excluded (40-F, IFRS, CAD). **[E4-55] on the units:** tariff volumes
+  **8,934 -> 9,680 kb/d (+8%)** and Permian **6,731 -> 7,333 (+9%)** while *"certain Permian
+  long-haul contract rates reset[] to market in 2025"* - **volume up, rate down, 5.6% on
+  capital: the #11 PASS-THROUGH signature, recorded beneath the close and NOT as a Q4 finding,
+  because Q4 was not run.**
+  **ONE SECURITY FACT, headed COMPUTATION - NOT A CLEARANCE:** PAGP closed at **$27.67** and
+  PAA at **$25.37** on the same day, so **PAGP trades at a 9.1% premium to the identical claim
+  one tier down** - and PAGP is the only one of the two that *"has elected to be taxed as a
+  corporation for United States federal income tax purposes."*
+  **NO BAND AND NO `alerts.json` ROW** - the QLYS ruling of 2026-09-07: this name failed on the
+  BUSINESS, so a price alert would be a category error. **REVERSAL CONDITION, IN WORDS:** the
+  franchise verdict reverses only if the filer's own Item 1A stops saying its markets are
+  overbuilt with low barriers to entry, AND long-haul Permian rates reset *upward* at renewal
+  in an audited year, AND the five-year return on deployed capital closes materially on the
+  peer median. Nothing in the 2026-09-14 hybrid issue, the Canadian NGL sale or the EPIC
+  purchase bears on any of the three.
+  **FOUR DEFECTS FOUND IN THE INPUTS, all recorded in the run file:** (1) the screen's
+  numerator/denominator mismatch above; (2) **the `wc_note` was right on the arithmetic and
+  wrong on the finding** - FY2021 payables did release $1,970M against $1,991M of operating
+  cash, but receivables absorbed **$2,179M** the other way and **net working capital was a
+  $227M DRAIN**, so `working_capital_flag()` named the year the cash was drained as the year
+  the cash was made, because it reads one line and never nets its matched counter-line (the two
+  tags carry opposite cash-sign conventions); (3) **the `deal_note` was wrong** - it searched
+  for `EX-2.1` and missed a **completed US$3.9bn divestiture** (8-K `0001104659-26-059512`,
+  2026-05-12, Canadian NGL to Keyera) whose agreement amendments are `EX-2.2` to `EX-2.4`
+  because the original SPA was filed to the Q2 2025 10-Q, plus **$1.5bn of 6.750%/7.000% junior
+  subordinated notes due 2056 issued 2026-09-14** (`0001104659-26-107550`) after the newest
+  periodic filing; (4) **PAGP and PAA stopped tagging `PropertyPlantAndEquipmentNet` after
+  FY2020** and use
+  `PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization`
+  from FY2021, so a capital-return screen keyed to the first tag drops this filer silently.
+  **[E4-29] FIRES AT FULL STRENGTH IN THE FURNISHED RELEASE AND IS CONSTITUTIONAL HERE** -
+  recorded beneath the close, NOT scored, because Q3 was not run: *"Adjusted EBITDA"* appears
+  **43 times** in the Q2 2026 release (`0001581990-26-000023`, 2026-08-07), whose headline
+  bullet is *"Delivered strong second-quarter Adjusted EBITDA attributable to PAA of $738
+  million"*; the filer's **own targeted leverage** is defined as debt / Adjusted EBITDA
+  attributable to PAA (3.25-3.75x) and its **bank covenant** as *"Consolidated Funded
+  Indebtedness to adjusted Consolidated EBITDA ... no greater than 5.00 to 1.00"* (8-K
+  `0001104659-26-075189`); D&A was **$953M against $1,428M of operating income**; and *"Adjusted
+  Free Cash Flow"* of **$4,189M** for Q2 2026 is mostly the divestiture proceeds. Also
+  recorded, not scored: **the company's own pro forma for the $2.65bn EPIC / Cactus III
+  purchase (8-K `0001104659-26-107550`, Item 8.01) takes FY2025 net income from continuing
+  operations attributable to Class A shareholders from $152M to $135M, and from $0.77 to $0.68
+  per Class A share - dilutive on the filer's own arithmetic.**
+  Run file: `Test Runs/2026-09-20 Run - PAGP Plains GP Holdings.md`. Research:
+  `Test Runs/_research 2026-09-20 PAGP/`.

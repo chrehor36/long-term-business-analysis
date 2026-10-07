@@ -1,0 +1,20 @@
+[
+ {
+  "id": "MSA-floor-band",
+  "ticker": "MSA",
+  "currency": "USD",
+  "op": "<=",
+  "threshold": 115.14,
+  "active": true,
+  "label": "MSA at/below $115.14: the E4-28 floor is met at g = 4.8% (the record's constant-currency and organic sales growth FY2020-FY2025, carried by the 2022-2023 inflation years) on the five-year ex-legacy D&A-end owner earnings of $220.4M and 38,578,289 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW, widening: E3-43 pricing shown since FY2011, gross margin 44-47% held through FY2015-FY2016 and FY2020, about twice Draeger's safety-division margin; price named among the grounds of competition every year, breathing-set share re-won each standard cycle, International at Draeger's level); Q5 quit on at $182.46 (yield 3.13-3.28% five-year ex-legacy against 5.49%, expectancy about 6-8%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag: buybacks at $156.81-169.58; E4-29 and E4-27 converge, pay on revenue including acquisitions and on adjusted EBITDA margin). VOID if any falsifier has fired: gross margin below 43% two consecutive years or a filed statement of price reductions or pricing pressures in the Americas; Americas adjusted margin at or below International's for a year; breathing-apparatus sales down more than 15% outside a standard transition, or a filed loss of a major tender to a named rival; a Globe PFAS accrual or settlement above $300M, or any claim returned under the 2023 MSA LLC indemnity; a purchase above $1bn or a goodwill impairment. Re-derive on the FY2026 10-K (about mid-February 2027, the first year with Autronica). Source: Test Runs/2026-09-28 Run - MSA MSA Safety.md."
+ },
+ {
+  "id": "MSA-rerun-band",
+  "ticker": "MSA",
+  "currency": "USD",
+  "op": "<=",
+  "threshold": 169.89,
+  "active": true,
+  "label": "MSA at/below $169.89: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY and CAT convention under E4-44) is granted on the TTM D&A-end owner earnings ($312.1M to 2026-06-30, carrying tariff refunds; the capex end, $335.5M, is flattered by a capital-spending dip and would meet the floor at $182.63). Prompt for a FULL v4.1 re-run in which the level, the growth and the (c) end are re-tested before any is spent. Re-derive both MSA bands on the FY2026 10-K; VOID if any falsifier in MSA-floor-band has fired. Source: Test Runs/2026-09-28 Run - MSA MSA Safety.md."
+ }
+]

@@ -1,0 +1,31 @@
+   FY       OCF       SBC  SBC/OCF   OCF-SBC    capex      D&A    OE@D&A  OE@capex
+ 2019     -23.0      20.5       na     -43.5     42.6     15.4     -58.9     -86.1
+ 2020      99.9      79.9    80.0%      20.0     87.5     23.5      -3.5     -67.5
+ 2021     356.6     149.7    42.0%     206.9     63.7     40.2     166.7     143.2
+ 2022     574.8     310.0    53.9%     264.8    133.0     68.8     196.0     131.8
+ 2023     941.0     526.5    56.0%     414.5    264.1     93.8     320.7     150.4
+ 2024   1,166.2     648.7    55.6%     517.5    226.0    145.3     372.3     291.6
+ 2025   1,381.7     861.4    62.3%     520.3    313.8    214.0     306.4     206.5
+ 2026   1,612.3   1,096.7    68.0%     515.7    370.9    281.5     234.2     144.8
+
+  3-year                       FY2024-2026  OE@D&A    304.3   OE@capex    214.3
+  4-year                       FY2023-2026  OE@D&A    308.4   OE@capex    198.3
+  5-year (corpus default)      FY2022-2026  OE@D&A    285.9   OE@capex    185.0
+  6-year                       FY2021-2026  OE@D&A    266.1   OE@capex    178.1
+  7-year                       FY2020-2026  OE@D&A    227.5   OE@capex    143.0
+  8-year (all filed)           FY2019-2026  OE@D&A    191.7   OE@capex    114.3
+
+  FULL RANGE across six windows and both capex ends: 114.3 .. 308.4  (2.70x width)
+
+  Market cap = $213.10 x 1,023,934,842 = $218,201M
+    range low    OE $114.3M -> yield 0.0524%   vs sovereign 5.24%  = -5.19 pts
+                 zero-growth value @sov = $2,182M = $2.13/sh ; @10% floor = $1,143M = $1.12/sh
+    range high   OE $308.4M -> yield 0.1413%   vs sovereign 5.24%  = -5.10 pts
+                 zero-growth value @sov = $5,885M = $5.75/sh ; @10% floor = $3,084M = $3.01/sh
+    judged 250   OE $250.0M -> yield 0.1146%   vs sovereign 5.24%  = -5.13 pts
+                 zero-growth value @sov = $4,771M = $4.66/sh ; @10% floor = $2,500M = $2.44/sh
+
+    range low                  growth needed for the 10% FLOOR: 161.66%/yr yr-1 fading to 2.5% ; to match the sovereign: 113.49%
+    judged 250                 growth needed for the 10% FLOOR: 129.98%/yr yr-1 fading to 2.5% ; to match the sovereign:  86.88%
+    range high                 growth needed for the 10% FLOOR: 121.97%/yr yr-1 fading to 2.5% ; to match the sovereign:  80.17%
+    best single yr FY2024 D&A  growth needed for the 10% FLOOR: 114.97%/yr yr-1 fading to 2.5% ; to match the sovereign:  74.30%

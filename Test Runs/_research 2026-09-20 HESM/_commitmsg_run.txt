@@ -1,0 +1,68 @@
+HESM run: Q1 IN, Q2 OUT -- the 25.6% is the contract's number, and the wave turns in 2028
+
+Wave 7, name 6. Hess Midstream LP, CIK 1789832.
+
+Q2 OUT on the business. [E3-03]'s three criteria are all MET on their face --
+including clause (3), where PAGP failed: HESM's gathering is NGA-exempt and its
+crude lines sit outside the ICA, so the PAGP answer was tested and does not
+transfer. But every one of the three is held up by one contract with the
+counterparty that owns the general partner, supplies 97% of revenue, owes the
+Class A holders no fiduciary duty and is free to compete. The fee under it was
+written "in order to target a return on capital deployed" and, since 2023, is
+frozen at a 2021-23 average escalated by a CPI index capped at 3% and floored at
+last year. That is administered pricing, and [E2-59] says the moat then belongs
+to the regime -- here the regime is Chevron.
+
+PAGP's cross-run cell REPRODUCES: HESM 25.56% on operating income over net PP&E
+plus intangibles plus equity-method investments, FY21-25 means, rebuilt from
+HESM's own filings. First of twelve, 2.1x the peer median of 12.3%. The number
+survives; the inference does not. Antero Midstream, the closest structural
+analogue (single-sponsor G&P with dedicated acreage), earns 12.4% on the same
+metric over the same window. The pipes are not twice as good; the contract is.
+
+THE SHARPEST FINDING is a series nobody had run: four 10-K vintages of the
+three-year MVC table side by side. Gas gathering third year, by vintage --
+FY2021 up 11%, FY2023 up 8%, FY2024 flat, and FY2025, the first development plan
+nominated by Chevron, DOWN 18% (2026 419 / 2027 422 / 2028 346). Crude down 21%,
+terminaling down 20%, processing down 17%. No footnote explains it. Because MVC
+is 80% of nomination, Chevron's own 2028 plan is ~433 MMcf/d against ~528 for
+2027. Q2 2026 actuals already turned: oil terminaling -15%, water -12%, "due to
+lower production as a result of lower new-well activity" [E4-55].
+
+FOUR SCREEN CELLS REFUTED AT SOURCE:
+- deal_note guessed "credit facility or offering". It is a Unit Repurchase
+  Agreement with Chevron's HINDL (455,811 Class B units, $18M at $39.49) plus a
+  $42M ASR, both revolver-funded. Second consecutive midstream name this note
+  has misdirected. Nothing material filed after newest_periodic 2026-06-30.
+- growth_required -0.0281 is the PAGP look-through error again: consolidated
+  owner earnings over a Class-A-only cap. Class A owns 62.25% of the opco (three
+  independent filed statements agree). Corrected yield 7.85-8.76%, not 12.81%.
+  Overstated 1.61x. COMPUTATION -- NOT A CLEARANCE; Q5 never opened.
+- The two level flags disagreed; both describe a contracted build-out ramp, which
+  is not an [E4-41] windfall. The real normalisation runs down for a reason
+  neither flag could see: capex guided $105M for 2026 against $247.5M spent in
+  2025, and the completed capacity is nominated 18% emptier in 2028.
+- The PropertyPlantAndEquipmentNet tag trap is NOT present here; tagged
+  continuously FY2018-FY2025.
+
+The brief's claim that the filer segregates expansion from maintenance capex is
+also refuted: neither the 10-K nor either furnished release splits them.
+
+Beneath the close, NOT scored: Adjusted EBITDA 21x and Adjusted Free Cash Flow
+16x in the Q2 2026 EX-99.1, 27x in the FY2025 one [E4-29]; nine lines of numeric
+full-year guidance plus a "$1 billion through 2028" target [E4-22]; $1,015.7M
+returned to holders in 2025 against $983.8M of operating cash with debt up
+$290.1M [E2-60]; and cash of $1.9 million against $3,800.5M of debt [E5-11].
+
+Sovereign 5.34%, US Treasury 30-year, 09/18/2026, cache deleted first.
+Price $40.16 close 2026-09-18 (aggregator, flagged). Shares 128,350,881 Class A
+from the cover of accession 0001193125-26-338055, as of 2026-07-31; Class B
+77,827,485, not summed. Cap $5,154.6M.
+10-K accession 0001193125-26-071592, FY2025, filed 2026-02-25; operating cash
+983.8, depreciation 214.1 and long-term debt 3,739.5 cross-checked against the
+filed statements.
+
+check_framework.py PASS: 0 phantom cites across 1058 test-run files; ledger
+counted at 311 rows, not the stale pointer's 267.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

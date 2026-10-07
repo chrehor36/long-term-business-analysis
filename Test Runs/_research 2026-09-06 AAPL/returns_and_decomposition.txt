@@ -1,0 +1,36 @@
+=== [E2-43] NET TANGIBLE OPERATING ASSETS, FY2025, from the filed balance sheet ===
+Total assets                         359,241
+less cash and equivalents         (  35,934)
+less marketable securities, curr  (  18,763)
+less marketable securities, non   (  77,723)
+= gross operating assets             226,821
+less accounts payable             (  69,860)
+less other current liabilities    (  66,387)
+less deferred revenue             (   9,055)
+less other non-current liabs      (  41,549)
+= NET TANGIBLE OPERATING ASSETS       39,970
+  (a stricter read also removes the 20,777 deferred tax asset -> 19,193)
+
+FY2025 operating income 133,050 on NTOA 39,970 = 333% PRE-TAX
+   on the stricter 19,193 base = 693%
+   after tax at 24.4% book rate = 252%
+
+=== [E2-01] ROE series -- and why the denominator is broken here ===
+  FY2016  equity  128,249  NI   45,687  ROE   35.6%
+  FY2018  equity  107,147  NI   59,531  ROE   55.6%
+  FY2020  equity   65,339  NI   57,411  ROE   87.9%
+  FY2022  equity   50,672  NI   99,803  ROE  197.0%
+  FY2023  equity   62,146  NI   96,995  ROE  156.1%
+  FY2024  equity   56,950  NI   93,736  ROE  164.6%
+  FY2025  equity   73,733  NI  112,010  ROE  151.9%
+  Accumulated deficit FY2025: -14,264  (retained earnings are NEGATIVE)
+
+=== GROWTH DECOMPOSITION [E4-44]/[E2-63] ===
+FY2015->FY2025: revenue x1.781 (+5.94%/yr) x margin 30.5%->32.0% (x1.049) = OI x1.868 (+6.45%/yr)
+FY2016->TTM: revenue x2.165 (+8.03%/yr) x margin 27.8%->33.2% (x1.192) = OI x2.580 (+9.94%/yr)
+
+=== SERVICES SHARE OF GROSS PROFIT (filed MD&A table) ===
+  FY2023  Products GP  108,803  Services GP   60,345  total  169,148  Services = 35.7%
+  FY2024  Products GP  109,633  Services GP   71,050  total  180,683  Services = 39.3%
+  FY2025  Products GP  112,887  Services GP   82,314  total  195,201  Services = 42.2%
+  9M FY2026 Products GP  108,819  Services GP   69,963  total  178,782  Services = 39.1%

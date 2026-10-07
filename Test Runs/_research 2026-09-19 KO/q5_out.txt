@@ -1,0 +1,13 @@
+cap $M 379700
+default adj 5y capex: OE 9983 yield 2.63% pts over 5.34: -2.71 | g to match bond 2.64% | g to reach 10% floor 7.18%
+adj 5y D&A: OE 10565 yield 2.78% pts over 5.34: -2.56 | g to match bond 2.49% | g to reach 10% floor 7.02%
+adj 5y D&A + look-through: OE 11427 yield 3.01% pts over 5.34: -2.33 | g to match bond 2.26% | g to reach 10% floor 6.79%
+as filed 5y capex: OE 7813 yield 2.06% pts over 5.34: -3.28 | g to match bond 3.22% | g to reach 10% floor 7.78%
+TTM adj capex: OE 13798 yield 3.63% pts over 5.34: -1.71 | g to match bond 1.65% | g to reach 10% floor 6.14%
+value at 10% floor, OE 9983, g 4.1%: $176bn = $40.94/sh ; expectancy at today's price 6.8%
+value at 10% floor, OE 11427, g 4.1%: $202bn = $46.86/sh ; expectancy at today's price 7.2%
+value at 10% floor, OE 9983, g 4.3%: $183bn = $42.46/sh ; expectancy at today's price 7.0%
+value at 10% floor, OE 11427, g 4.3%: $209bn = $48.60/sh ; expectancy at today's price 7.4%
+value at 10% floor, OE 9983, g 6.1%: $272bn = $63.12/sh ; expectancy at today's price 8.9%
+value at 10% floor, OE 11427, g 6.1%: $311bn = $72.25/sh ; expectancy at today's price 9.3%
+OE growth 2019-25 capex-end adj 0.040867517257144215 OI before charges 2019-25 0.0607797282391096 revenue 2019-25 0.04287530798718242

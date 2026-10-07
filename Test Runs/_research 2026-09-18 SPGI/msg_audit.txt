@@ -1,0 +1,27 @@
+SPGI run: self-audit, the output contract, and the register line - five defects found in my own brief
+
+Twelve audit lines answered. The hard-sequence audit was RUN rather than asserted: the file
+was searched for valuation language before line 1174 where Q5 starts, four hits inspected,
+and all four are the verbatim text of [E5-44] or [E5-08] which the template requires at Q3.
+No value range, yield or multiple for this company appears anywhere before Q5. The Q3
+buyback paragraph says in terms that it rests on a range Q5 has not yet produced.
+
+Five defects in the brief recorded. The largest: the brief sent me to the May 8.01 filings
+for a segment recast and to the MBGL Form 10 for the subtraction, and listed the document
+that actually settles the perimeter - the 8-K/A of 2026-07-06, accession 0001104659-26-080571,
+with an Article 11 pro forma for FY2023-FY2025 and Q1 2026 - as merely unread. It is also a
+BETTER source than the Form 10, because the Form 10's combined statements charge Mobility
+with allocated corporate overhead that stays with S&P Global.
+
+Four things this run got wrong or had to correct, including my own Step 0 error about the
+Markit EBT shares, corrected in a dated note at the head of Q3 rather than by editing.
+
+One thing the project should keep: Form NRSRO is a COMPLETE competitor row for an industry
+with private participants. Every NRSRO, including Fitch inside Hearst and Kroll and A.M.
+Best, files an annual certification on EDGAR carrying its own count of ratings outstanding,
+and a full-text search over form type NRSRO-CE enumerates the whole industry - exactly ten
+registrants in 2026. The pattern generalises to any SEC-registered-intermediary industry.
+
+check_framework.py PASS: 0 phantom citations, 0 unlabelled numbers.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

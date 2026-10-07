@@ -1,0 +1,34 @@
+IBM: Q2 OUT - a real mainframe franchise over a third of the revenue, bought growth over the rest
+
+[E3-03] criterion 2 is satisfied for the mainframe complex (~28-33% of revenue: Transaction
+Processing $8,603M, Infrastructure Support $5,100M, the undisclosed IBM Z share of Hybrid
+Infrastructure $10,618M) and REFUSED for the rest by IBM's own Competition section, which
+names "hundreds of competitors worldwide", says it is "regularly exposed to new competitors",
+and lists price third among its own methods of competition.
+
+[E4-04] applied, not recited: the mainframe leg PASSES (R&D on z16-z17 defends the same
+architecture, the Coca-Cola case), the company FAILS because two thirds of it is held by
+purchase - Kyndryl, Watson Health, The Weather Company and QRadar SaaS sold or spun, Apptio,
+Turbonomic, StreamSets/webMethods, HashiCorp and Confluent bought, revenue categories
+re-presented in Q1 2025. Deliberately NOT resting on the contested rapid-change reading the
+TSM run flagged: the asset itself is replaced, not the process.
+
+Direction [E4-32] reads the wrong way: Transaction Processing +2.3% FY2025 then -8% in
+Q2 2026; Infrastructure Support -0.1%; IBM Z +51.7% then -42%; Consulting signings -13.3%.
+$22,306M of acquisition cash FY2021-25 against $12,356M of added annual revenue = $1.81 per
+dollar, before $8,316M a year of R&D. And Consulting's own disclosed demand driver is
+"application migration and modernization" - the growth leg is paid to erode the franchise leg.
+
+Competitor row: ten peers, own five-year windows, four metrics (revenue CAGR, gross margin and
+its change, R&D/revenue, stock pay/operating cash). IBM is LAST of eleven on revenue CAGR at
+4.12%, mid-pack on margin and R&D, second-best on stock pay. Cells not filled are named: no
+gross margin for ORCL or HPE (no cost-of-revenue subtotal), no R&D for AMZN (it reports
+"Technology and infrastructure"), SAP in EUR as a 20-F IFRS filer.
+
+The cell that would decide the mainframe does not exist: BMC is private, Broadcom does not
+disclose its CA mainframe software, and nobody sells a competing mainframe. So that class stays
+PROVISIONAL and cannot promote. Transaction Processing profit is disclosed in no filing, which
+is UNKNOWABLE, not UNRESEARCHED. [E2-43]: tangible equity is NEGATIVE $46,368M, so the 35% ROE
+measures $170,605M of treasury stock, not the business.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

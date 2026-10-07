@@ -1,0 +1,155 @@
+== JJSF
+2009-09 rev 653.0  GM 32.0% OM 10.3% OI/netopcap 23.7% netopcap 283
+2010-09 rev 696.7 +6.7% GM 32.7% OM 11.1% OI/netopcap 25.2% netopcap 306
+2011-09 rev 744.1 +6.8% GM 30.9% OM 10.3% OI/netopcap 22.2% netopcap 345
+2012-09 rev 830.8 +11.7% GM 30.1% OM 10.2% OI/netopcap 26.4% netopcap 321
+2013-09 rev 867.7 +4.4% GM 30.3% OM 11.2% OI/netopcap 23.2% netopcap 419
+2014-09 rev 919.5 +6.0% GM 31.3% OM 11.6% OI/netopcap 22.7% netopcap 471
+2015-09 rev 976.3 +6.2% GM 30.8% OM 11.4% OI/netopcap 23.8% netopcap 466
+2016-09 rev 992.8 +1.7% GM 30.7% OM 11.4% OI/netopcap 22.1% netopcap 511
+2017-09 rev 1084.2 +9.2% GM 30.5% OM 10.9% OI/netopcap 20.0% netopcap 591
+2018-09 rev 1138.3 +5.0% GM 29.5% OM 9.7% OI/netopcap 17.1% netopcap 648
+2019-09 rev 1186.5 +4.2% GM 29.5% OM 9.9% OI/netopcap 18.2% netopcap 641
+2020-09 rev 1022.0 -13.9% GM 23.3% OM 1.7% OI/netopcap 2.8% netopcap 614
+2021-09 rev 1144.6 +12.0% GM 26.1% OM 6.2% OI/netopcap 12.7% netopcap 562
+2022-09 rev 1380.7 +20.6% GM 26.8% OM 4.5% OI/netopcap 7.0% netopcap 883
+2023-09 rev 1558.8 +12.9% GM 30.1% OM 7.0% OI/netopcap 12.3% netopcap 889
+2024-09 rev 1574.8 +1.0% GM 30.9% OM 7.5% OI/netopcap 13.3% netopcap 884
+2025-09 rev 1583.2 +0.5% GM 29.7% OM 5.3% OI/netopcap 9.8% netopcap 861
+== LANC
+2009-06 rev 1051.5  GM 20.5% OM 12.3% OI/netopcap 35.6% netopcap 364
+2010-06 rev 1056.6 +0.5% GM 25.6% OM 16.5% OI/netopcap 45.4% netopcap 384
+2011-06 rev 1089.9 +3.2% GM 22.2% OM 13.5% OI/netopcap 38.2% netopcap 385
+2012-06 rev 988.9 -9.3% GM 22.6% OM 14.3% OI/netopcap 37.9% netopcap 373
+2013-06 rev 1013.8 +2.5% GM 24.1% OM 15.2% OI/netopcap 40.7% netopcap 378
+2014-06 rev 1041.1 +2.7% GM 23.9% OM 14.8% OI/netopcap 48.5% netopcap 317
+2015-06 rev 1104.5 +6.1% GM 23.3% OM 14.0% OI/netopcap 38.8% netopcap 399
+2016-06 rev 1191.1 +7.8% GM 25.2% OM 15.5% OI/netopcap 46.7% netopcap 396
+2017-06 rev 1201.8 +0.9% GM 26.5% OM 14.5% OI/netopcap 40.3% netopcap 433
+2018-06 rev 1222.9 +1.8% GM 24.8% OM 14.0% OI/netopcap 38.4% netopcap 447
+2019-06 rev 1307.8 +6.9% GM 24.9% OM 14.6% OI/netopcap 36.0% netopcap 531
+2020-06 rev 1334.4 +2.0% GM 26.8% OM 13.2% OI/netopcap 30.1% netopcap 585
+2021-06 rev 1467.1 +9.9% GM 26.4% OM 12.7% OI/netopcap 28.4% netopcap 655
+2022-06 rev 1676.4 +14.3% GM 21.2% OM 6.7% OI/netopcap 14.3% netopcap 784
+2023-06 rev 1822.5 +8.7% GM 21.3% OM 7.8% OI/netopcap 18.3% netopcap 774
+2024-06 rev 1871.8 +2.7% GM 23.1% OM 10.7% OI/netopcap 26.2% netopcap 762
+2025-06 rev 1909.1 +2.0% GM 23.9% OM 11.5% OI/netopcap 26.3% netopcap 837
+2026-06 rev 1929.8 +1.1% GM 24.7% OM 12.4% OI/netopcap 19.4% netopcap 1227
+== FLO
+2009-01 rev 2414.9  GM 47.7% OM 7.6% OI/netopcap 29.3% netopcap 624
+2010-01 rev 2600.8 +7.7% GM 46.5% OM 7.9% OI/netopcap 29.1% netopcap 709
+2011-01 rev 2573.8 -1.0% GM 47.7% OM 8.0% OI/netopcap 26.1% netopcap 789
+2011-12 rev 2773.4 +7.8% GM - OM 6.8% OI/netopcap 19.4% netopcap 976
+2012-12 rev 3031.1 +9.3% GM - OM 7.2% OI/netopcap 22.9% netopcap 956
+2013-12 rev 3732.6 +23.1% GM - OM 9.0% OI/netopcap 30.2% netopcap 1112
+2015-01 rev 3749.0 +0.4% GM - OM 7.3% OI/netopcap 23.6% netopcap 1169
+2016-01 rev 3778.5 +0.8% GM - OM 7.9% OI/netopcap 21.5% netopcap 1389
+2016-12 rev 3926.9 +3.9% GM - OM 6.7% OI/netopcap 22.0% netopcap 1204
+2017-12 rev 3920.7 -0.2% GM - OM 4.1% OI/netopcap 12.9% netopcap 1246
+2018-12 rev 3951.9 +0.8% GM - OM 5.4% OI/netopcap 9.6% netopcap 2213
+2019-12 rev 4124.0 +4.4% GM - OM 5.5% OI/netopcap 10.6% netopcap 2119
+2021-01 rev 4388.0 +6.4% GM - OM 7.3% OI/netopcap 15.9% netopcap 2026
+2022-01 rev 4330.8 -1.3% GM - OM 6.8% OI/netopcap 13.9% netopcap 2116
+2022-12 rev 4805.8 +11.0% GM - OM 6.3% OI/netopcap 14.0% netopcap 2170
+2023-12 rev 5090.8 +5.9% GM - OM 3.4% OI/netopcap 7.3% netopcap 2377
+2024-12 rev 5103.5 +0.2% GM - OM 6.8% OI/netopcap 14.4% netopcap 2427
+2026-01 rev 5256.5 +3.0% GM - OM 3.3% OI/netopcap 5.7% netopcap 3047
+== THS
+2008-12 rev 1500.7  GM 19.5% OM 5.8% OI/netopcap 14.0% netopcap 620
+2009-12 rev 1511.7 +0.7% GM 21.6% OM 8.7% OI/netopcap 17.4% netopcap 752
+2010-12 rev 1817.0 +20.2% GM 23.7% OM 9.7% OI/netopcap 18.2% netopcap 972
+2011-12 rev 2050.0 +12.8% GM 23.1% OM 9.2% OI/netopcap 17.6% netopcap 1070
+2012-12 rev 2182.1 +6.4% GM 20.8% OM 8.1% OI/netopcap 16.3% netopcap 1085
+2013-12 rev 2293.9 +5.1% GM 20.7% OM 7.8% OI/netopcap 14.5% netopcap 1227
+2014-12 rev 2946.1 +28.4% GM 20.6% OM 7.4% OI/netopcap 12.8% netopcap 1698
+2015-12 rev 3206.4 +8.8% GM 20.1% OM 7.5% OI/netopcap 13.2% netopcap 1812
+2016-12 rev 6175.1 +92.6% GM 18.2% OM -1.5% OI/netopcap -3.9% netopcap 2445
+2017-12 rev 6307.1 +2.1% GM 15.5% OM 1.3% OI/netopcap 3.7% netopcap 2138
+2018-12 rev 5812.1 -7.8% GM 15.4% OM 1.4% OI/netopcap 4.2% netopcap 1996
+2019-12 rev 4288.9 -26.2% GM 18.6% OM -0.4% OI/netopcap -1.0% netopcap 1629
+2020-12 rev 2994.3 -30.2% GM 18.2% OM 0.1% OI/netopcap 0.2% netopcap 1500
+2021-12 rev 2814.3 -6.0% GM 16.8% OM -1.6% OI/netopcap -2.9% netopcap 1541
+2022-12 rev 3297.1 +17.2% GM 15.8% OM -0.4% OI/netopcap -0.8% netopcap 1644
+2023-12 rev 3431.6 +4.1% GM 16.8% OM 4.3% OI/netopcap 10.9% netopcap 1344
+2024-12 rev 3354.0 -2.3% GM 16.4% OM 3.1% OI/netopcap 8.2% netopcap 1259
+== UTZ
+2018-12 rev 772.0  GM 34.5% OM 2.5% OI/netopcap 478.0% netopcap 4
+2019-12 rev 768.2 -0.5% GM 33.0% OM 5.0% OI/netopcap neg netopcap -10
+2022-01 rev 1180.7 +53.7% GM 32.5% OM 0.9% OI/netopcap 0.5% netopcap 2235
+2023-01 rev 1408.4 +19.3% GM 31.9% OM 0.4% OI/netopcap 0.2% netopcap 2285
+2023-12 rev 1438.2 +2.1% GM 24.4% OM 1.1% OI/netopcap 0.7% netopcap 2226
+2024-12 rev 1409.2 -2.0% GM 26.2% OM 4.2% OI/netopcap 2.8% netopcap 2095
+2025-12 rev 1438.8 +2.1% GM 24.9% OM 1.4% OI/netopcap 0.9% netopcap 2074
+== BRID
+2010-10 rev 117.7  GM 40.0% OM - OI/netopcap - netopcap 21
+2011-10 rev 118.3 +0.5% GM 31.7% OM - OI/netopcap - netopcap 16
+2012-11 rev 127.4 +7.7% GM 34.8% OM - OI/netopcap - netopcap 10
+2013-11 rev 129.0 +1.3% GM 35.2% OM - OI/netopcap - netopcap 25
+2014-10 rev 133.4 +3.4% GM 29.0% OM - OI/netopcap - netopcap 25
+2015-10 rev 130.4 -2.2% GM 35.9% OM - OI/netopcap - netopcap 30
+2016-10 rev 140.1 +7.4% GM 39.4% OM - OI/netopcap - netopcap 32
+2017-11 rev 167.2 +19.4% GM 36.8% OM - OI/netopcap - netopcap 44
+2018-11 rev 174.3 +4.2% GM 32.4% OM - OI/netopcap - netopcap 58
+2019-11 rev 188.8 +8.3% GM 32.7% OM - OI/netopcap - netopcap 63
+2020-10 rev 198.0 +4.9% GM 30.1% OM 2.2% OI/netopcap 4.6% netopcap 96
+2021-10 rev 240.4 +21.4% GM 21.4% OM -3.4% OI/netopcap -7.4% netopcap 112
+2022-10 rev 265.9 +10.6% GM 27.1% OM 24.3% OI/netopcap 56.2% netopcap 115
+2023-11 rev 251.6 -5.4% GM 28.0% OM 1.8% OI/netopcap 3.9% netopcap 118
+2024-11 rev 223.6 -11.1% GM 25.2% OM -2.8% OI/netopcap -5.1% netopcap 123
+2025-10 rev 231.0 +3.3% GM 19.3% OM -8.1% OI/netopcap -15.6% netopcap 120
+== LW
+2015-05 rev 2925.0  GM 20.1% OM 13.0% OI/netopcap 28.7% netopcap 1327
+2016-05 rev 2993.8 +2.4% GM 22.1% OM 12.5% OI/netopcap 26.9% netopcap 1389
+2017-05 rev 3168.0 +5.8% GM 24.6% OM 16.4% OI/netopcap neg netopcap -682
+2018-05 rev 3423.7 +8.1% GM 25.7% OM 16.9% OI/netopcap neg netopcap -381
+2019-05 rev 3756.5 +9.7% GM 26.7% OM 17.8% OI/netopcap neg netopcap -8
+2020-05 rev 3792.4 +1.0% GM 23.6% OM 14.7% OI/netopcap neg netopcap -625
+2021-05 rev 3670.9 -3.2% GM 22.7% OM 12.9% OI/netopcap neg netopcap -303
+2022-05 rev 4098.9 +11.7% GM 20.3% OM 10.8% OI/netopcap neg netopcap -164
+2023-05 rev 5350.6 +30.5% GM 26.8% OM 16.5% OI/netopcap 69.6% netopcap 1267
+2024-05 rev 6467.6 +20.9% GM 27.3% OM 16.5% OI/netopcap 52.2% netopcap 2043
+2025-05 rev 6451.3 -0.3% GM 21.7% OM 10.3% OI/netopcap 32.6% netopcap 2038
+2026-05 rev 6612.3 +2.5% GM 20.6% OM 8.9% OI/netopcap 29.5% netopcap 2006
+== JBSS
+2010-06 rev 561.6  GM 16.9% OM 5.3% OI/netopcap 16.6% netopcap 178
+2011-06 rev 674.2 +20.0% GM 12.5% OM 1.5% OI/netopcap 5.6% netopcap 182
+2012-06 rev 700.6 +3.9% GM 15.3% OM 4.7% OI/netopcap 16.6% netopcap 199
+2013-06 rev 734.3 +4.8% GM 16.3% OM 5.7% OI/netopcap 19.4% netopcap 214
+2014-06 rev 778.6 +6.0% GM 15.8% OM 6.0% OI/netopcap 20.9% netopcap 225
+2015-06 rev 887.2 +14.0% GM 14.9% OM 5.8% OI/netopcap 21.7% netopcap 239
+2016-06 rev 952.1 +7.3% GM 14.4% OM 5.6% OI/netopcap 21.4% netopcap 249
+2017-06 rev 846.6 -11.1% GM 16.8% OM 7.1% OI/netopcap 25.9% netopcap 234
+2018-06 rev 888.9 +5.0% GM 15.6% OM 6.3% OI/netopcap 23.3% netopcap 242
+2019-06 rev 876.2 -1.4% GM 18.1% OM 6.7% OI/netopcap 23.1% netopcap 253
+2020-06 rev 880.1 +0.4% GM 20.0% OM 8.9% OI/netopcap 33.2% netopcap 237
+2021-06 rev 858.5 -2.5% GM 21.5% OM 9.9% OI/netopcap 35.2% netopcap 242
+2022-06 rev 955.9 +11.3% GM 20.9% OM 9.1% OI/netopcap 31.4% netopcap 278
+2023-06 rev 999.7 +4.6% GM 21.2% OM 9.0% OI/netopcap 31.1% netopcap 290
+2024-06 rev 1066.8 +6.7% GM 20.1% OM 8.0% OI/netopcap 26.4% netopcap 322
+2025-06 rev 1107.2 +3.8% GM 18.4% OM 7.7% OI/netopcap 23.5% netopcap 360
+2026-06 rev 1175.7 +6.2% GM 18.0% OM 7.6% OI/netopcap 23.5% netopcap 379
+== TWNK
+2017-12 rev 776.2  GM 42.1% OM 30.1% OI/netopcap 23.5% netopcap 995
+2018-12 rev 850.4 +9.6% GM 31.4% OM 14.3% OI/netopcap 11.5% netopcap 1053
+2019-12 rev 907.7 +6.7% GM 33.0% OM 15.0% OI/netopcap 12.5% netopcap 1089
+2020-12 rev 1016.6 +12.0% GM 35.0% OM 13.3% OI/netopcap 9.3% netopcap 1448
+2021-12 rev 1142.0 +12.3% GM 35.9% OM 17.6% OI/netopcap 13.7% netopcap 1470
+2022-12 rev 1358.2 +18.9% GM 34.3% OM 16.2% OI/netopcap 13.1% netopcap 1681
+== BGS
+2010-01 rev 501.0  GM 29.7% OM 17.6% OI/netopcap 47.6% netopcap 186
+2011-01 rev 513.3 +2.5% GM 32.7% OM 20.4% OI/netopcap 17.2% netopcap 610
+2011-12 rev 543.9 +5.9% GM 32.7% OM 20.9% OI/netopcap 12.1% netopcap 939
+2012-12 rev 633.8 +16.5% GM 35.2% OM 23.5% OI/netopcap 15.2% netopcap 980
+2013-12 rev 725.0 +14.4% GM 33.5% OM 21.2% OI/netopcap 12.4% netopcap 1245
+2015-01 rev 848.0 +17.0% GM 29.2% OM 13.7% OI/netopcap 8.5% netopcap 1362
+2016-01 rev 966.4 +14.0% GM 30.0% OM 17.8% OI/netopcap 7.9% netopcap 2184
+2016-12 rev 1391.3 +44.0% GM 30.8% OM 18.2% OI/netopcap 10.2% netopcap 2483
+2017-12 rev 1668.1 +19.9% GM 26.4% OM 14.3% OI/netopcap 8.2% netopcap 2892
+2018-12 rev 1700.8 +2.0% GM 20.5% OM 20.0% OI/netopcap 13.5% netopcap 2527
+2019-12 rev 1660.4 -2.4% GM 23.1% OM 12.3% OI/netopcap 7.6% netopcap 2681
+2021-01 rev 1967.9 +18.5% GM 24.5% OM 14.0% OI/netopcap 8.9% netopcap 3114
+2022-01 rev 2056.3 +4.5% GM 21.3% OM 9.5% OI/netopcap 6.2% netopcap 3154
+2022-12 rev 2163.0 +5.2% GM 18.9% OM 4.6% OI/netopcap 3.1% netopcap 3212
+2023-12 rev 2062.3 -4.7% GM 22.1% OM 3.9% OI/netopcap 2.8% netopcap 2839
+2024-12 rev 1932.5 -6.3% GM 21.8% OM -9.2% OI/netopcap -7.1% netopcap 2495
+2026-01 rev 1828.7 -5.4% GM 21.8% OM 5.3% OI/netopcap 4.1% netopcap 2347

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <schemaVersion>X0202</schemaVersion>
+<headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001441449-26-000009</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Qatar Investment Authority -->
+          <cik>0001441449</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Class A Common Stock, $0.00001 par value</securitiesClassTitle>
+      <dateOfEvent>05/15/2026</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001868941</issuerCIK>
+        <issuerCusips>
+          <issuerCusipNumber>34379V103</issuerCusipNumber>
+        </issuerCusips>
+        <issuerName>Fluence Energy, Inc.</issuerName>
+        <address>
+          <com:street1>4601 Fairfax Drive</com:street1>
+          <com:street2>Suite 600</com:street2>
+          <com:city>Arlington</com:city>
+          <com:stateOrCountry>VA</com:stateOrCountry>
+          <com:zipCode>22203</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Charles Hubbard</personName>
+          <personPhoneNum>0097444990696</personPhoneNum>
+          <personAddress>
+            <com:street1>Ooredoo Tower (Building 14) Al Dafna St</com:street1>
+            <com:street2>Street 801 Al Dafna (Zone 61)</com:street2>
+            <com:city>Doha</com:city>
+            <com:stateOrCountry>S3</com:stateOrCountry>
+            <com:zipCode>Zone 61</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001441449</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Qatar Investment Authority</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>S3</citizenshipOrOrganization>
+        <soleVotingPower>11801103.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>11801103.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>11801103.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.9</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>The reported percentage is calculated based upon 132,811,490 shares of Class A Common Stock outstanding as of May 1, 2026, as reported in the Issuer's Form 10-Q filed with the SEC on May 6, 2026.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Common Stock, $0.00001 par value</securityTitle>
+        <issuerName>Fluence Energy, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>4601 Fairfax Drive</com:street1>
+          <com:street2>Suite 600</com:street2>
+          <com:city>Arlington</com:city>
+          <com:stateOrCountry>VA</com:stateOrCountry>
+          <com:zipCode>22203</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Amendment No. 1 (the "Amendment") amends the Schedule 13D dated May 18, 2026 (the "Original Schedule 13D") of the Reporting Person regarding the ownership of the Class A Common Stock, par value $0.0001 per share, of Fluence Energy, Inc., a Delaware corporation, by its wholly-owned subsidiary Qatar Holding LLC, a limited liability company formed under the laws of Qatar. Capitalized terms used in this Amendment and not otherwise defined shall have the same meanings ascribed to them in the Original Schedule 13D.
+
+On May 15, 2026, Qatar Holding LLC sold 2,867,172 shares of Class A Common Stock in an aggregate amount equal to $60,210,612 at $21 per share (the "Transaction").
+
+The Original Schedule 13D was filed in error and should be disregarded. The Reporting Person is eligible to report the Transaction by filing an amendment to its Schedule 13G filed on February 7, 2022 (the "Schedule 13G") pursuant to Rule 13d-1(d). As beneficial owner of more than 5% of the Common Stock who is not otherwise required to file a Schedule 13D, the Reporting Person is filing an amendment to the Schedule 13G to report the Transaction as required by Rule 13d-1(d).</commentText>
+      </item1>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Qatar Investment Authority</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Mohammed Fahad Al Khulaifi</signature>
+          <title>Mohammed Fahad Al Khulaifi / Head of Compliance and Governance</title>
+          <date>05/19/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>

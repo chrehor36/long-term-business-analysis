@@ -1,0 +1,7 @@
+ABT Abbott Laboratories: Step 0 and Q1 IN
+
+Step 0: sovereign 5.49% (US Treasury par curve 30Y, 09/25/2026, struck fresh); price $101.29 (NYSE close 2026-09-25, Yahoo, flagged) x 1,730,383,296 shares (cover of the 10-Q to 2026-06-30, accession 0001628280-26-050134, cover_shares.py agrees) = cap $175,270.5M. Deal check: Abbott is the BUYER of Exact Sciences ($105 cash a share, merger agreement 8-K 2025-11-20 outside the screen's window; $20.0bn of notes March 2026; closed 2026-03-23 for about $20.6bn); no offer for Abbott on file, so the quote is an owner-earnings price; every owner-earnings window is the pre-Exact company while the balance sheet carries its debt (net debt about $27.0bn at 2026-06-30, from about $4.0bn). Perimeter: pre-2013 is the pre-AbbVie company, never pooled; 2017-2025 one perimeter (St. Jude, Alere); 2020-2022 carry the COVID testing windfall. The screen's cap flag answered: the float is dated 2025-06-30 at $136.01, not an error in either figure. Filing read: 10-K 2025 0001628280-26-010185 and 10-Q; four cash-flow lines cross-checked to companyfacts.
+
+Q1 IN: four segments of consumables and implants paid largely by third parties, measured by segment, price and volume; the technology-durability question carried to Q2. check_framework PASS.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

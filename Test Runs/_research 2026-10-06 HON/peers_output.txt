@@ -1,0 +1,49 @@
+EMR  revenue tag Revenues+RevenueFromContractWithCustomerExcludingAssessedTax+SalesRevenueNet; profit tag PRE-TAX INCOME (no operating-income tag): IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest
+  FY2019-09-30  revenue 18,372  op income 2,859  margin 15.6%  tangible assets 11,346  op income/tangible 25.2%  accn 0000032604-21-000038
+  FY2020-09-30  revenue 16,785  op income 2,335  margin 13.9%  tangible assets 13,680  op income/tangible 17.1%  accn 0000032604-22-000041
+  FY2021-09-30  revenue 12,932  op income 1,762  margin 13.6%  tangible assets 14,871  op income/tangible 11.8%  accn 0000032604-23-000044
+  FY2022-09-30  revenue 13,804  op income 2,432  margin 17.6%  tangible assets 15,154  op income/tangible 16.0%  accn 0000032604-24-000041
+  FY2023-09-30  revenue 15,165  op income 2,903  margin 19.1%  tangible assets 22,003  op income/tangible 13.2%  accn 0000032604-25-000087
+  FY2024-09-30  revenue 17,492  op income 2,020  margin 11.5%  tangible assets 15,743  op income/tangible 12.8%  accn 0000032604-25-000087
+  FY2025-09-30  revenue 18,016  op income 2,934  margin 16.3%  tangible assets 14,313  op income/tangible 20.5%  accn 0000032604-25-000087
+ROK  revenue tag Revenues+RevenueFromContractWithCustomerExcludingAssessedTax+SalesRevenueNet; profit tag OperatingIncomeLoss
+  FY2023-09-30  revenue 9,058  op income 1,929  margin 21.3%  tangible assets 6,923  op income/tangible 27.9%  accn 0001024478-25-000116
+  FY2024-09-30  revenue 8,264  op income 1,595  margin 19.3%  tangible assets 6,173  op income/tangible 25.8%  accn 0001024478-25-000116
+  FY2025-09-30  revenue 8,342  op income 1,703  margin 20.4%  tangible assets 6,516  op income/tangible 26.1%  accn 0001024478-25-000116
+JCI  revenue tag Revenues+RevenueFromContractWithCustomerExcludingAssessedTax+SalesRevenueNet; profit tag PRE-TAX INCOME (no operating-income tag): IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest
+  FY2019-09-30  revenue 23,968  op income 1,056  margin 4.4%  tangible assets 18,477  op income/tangible 5.7%  accn 0000833444-21-000046
+  FY2020-09-30  revenue 22,317  op income 903  margin 4.0%  tangible assets 17,527  op income/tangible 5.2%  accn 0000833444-22-000043
+  FY2021-09-30  revenue 23,668  op income 2,614  margin 11.0%  tangible assets 18,006  op income/tangible 14.5%  accn 0000833444-23-000048
+  FY2022-09-30  revenue 20,637  op income 1,112  margin 5.4%  tangible assets 20,828  op income/tangible 5.3%  accn 0000833444-24-000064
+  FY2023-09-30  revenue 22,331  op income 1,113  margin 5.0%  tangible assets 20,698  op income/tangible 5.4%  accn 0000833444-25-000097
+  FY2024-09-30  revenue 22,952  op income 1,522  margin 6.6%  tangible assets 21,840  op income/tangible 7.0%  accn 0000833444-25-000097
+  FY2025-09-30  revenue 23,596  op income 1,969  margin 8.3%  tangible assets 17,693  op income/tangible 11.1%  accn 0000833444-25-000097
+ZBRA  revenue tag RevenueFromContractWithCustomerExcludingAssessedTax+SalesRevenueNet; profit tag OperatingIncomeLoss
+  FY2019-12-31  revenue 4,485  op income 692  margin 15.4%  tangible assets 1,814  op income/tangible 38.1%  accn 0000877212-22-000026
+  FY2020-12-31  revenue 4,448  op income 651  margin 14.6%  tangible assets 1,985  op income/tangible 32.8%  accn 0000877212-23-000025
+  FY2021-12-31  revenue 5,627  op income 979  margin 17.4%  tangible assets 2,481  op income/tangible 39.5%  accn 0000877212-24-000029
+  FY2022-12-31  revenue 5,781  op income 529  margin 9.2%  tangible assets 3,000  op income/tangible 17.6%  accn 0000877212-25-000027
+  FY2023-12-31  revenue 4,584  op income 481  margin 10.5%  tangible assets 2,884  op income/tangible 16.7%  accn 0001628280-26-007668
+  FY2024-12-31  revenue 4,981  op income 742  margin 14.9%  tangible assets 3,655  op income/tangible 20.3%  accn 0001628280-26-007668
+  FY2025-12-31  revenue 5,396  op income 700  margin 13.0%  tangible assets 2,966  op income/tangible 23.6%  accn 0001628280-26-007668
+MSA  revenue tag Revenues+RevenueFromContractWithCustomerExcludingAssessedTax+SalesRevenueNet; profit tag OperatingIncomeLoss
+  FY2019-12-31  revenue 1,402  op income 188  margin 13.4%  tangible assets 1,174  op income/tangible 16.0%  accn 0000066570-22-000007
+  FY2020-12-31  revenue 1,348  op income 172  margin 12.7%  tangible assets 1,315  op income/tangible 13.1%  accn 0000066570-23-000008
+  FY2021-12-31  revenue 1,400  op income 23  margin 1.6%  tangible assets 1,453  op income/tangible 1.6%  accn 0000066570-24-000008
+  FY2022-12-31  revenue 1,528  op income 239  margin 15.7%  tangible assets 1,475  op income/tangible 16.2%  accn 0000066570-25-000007
+  FY2023-12-31  revenue 1,788  op income 231  margin 12.9%  tangible assets 1,276  op income/tangible 18.1%  accn 0000066570-26-000005
+  FY2024-12-31  revenue 1,808  op income 389  margin 21.5%  tangible assets 1,338  op income/tangible 29.1%  accn 0000066570-26-000005
+  FY2025-12-31  revenue 1,875  op income 372  margin 19.8%  tangible assets 1,524  op income/tangible 24.4%  accn 0000066570-26-000005
+ITRI  revenue tag RevenueFromContractWithCustomerExcludingAssessedTax+SalesRevenueNet; profit tag OperatingIncomeLoss
+  FY2019-12-31  revenue 2,502  op income 133  margin 5.3%  tangible assets 1,419  op income/tangible 9.4%  accn 0000780571-22-000004
+  FY2020-12-31  revenue 2,173  op income -10  margin -0.5%  tangible assets 1,342  op income/tangible -0.8%  accn 0000780571-23-000010
+  FY2021-12-31  revenue 1,982  op income -79  margin -4.0%  tangible assets 1,202  op income/tangible -6.6%  accn 0000780571-24-000006
+  FY2022-12-31  revenue 1,796  op income -7  margin -0.4%  tangible assets 1,274  op income/tangible -0.6%  accn 0000780571-25-000007
+  FY2023-12-31  revenue 2,174  op income 129  margin 5.9%  tangible assets 1,505  op income/tangible 8.6%  accn 0000780571-26-000033
+  FY2024-12-31  revenue 2,441  op income 264  margin 10.8%  tangible assets 2,312  op income/tangible 11.4%  accn 0000780571-26-000033
+  FY2025-12-31  revenue 2,367  op income 313  margin 13.2%  tangible assets 2,292  op income/tangible 13.7%  accn 0000780571-26-000033
+HON  revenue tag Revenues+RevenueFromContractWithCustomerExcludingAssessedTax+SalesRevenueNet; profit tag OperatingIncomeLoss
+  FY2022-12-31  revenue 35,466  op income 8,022  margin 22.6%  tangible assets 41,556  op income/tangible 19.3%  accn 0000773840-25-000010
+  FY2023-12-31  revenue 33,009  op income 7,563  margin 22.9%  tangible assets 41,056  op income/tangible 18.4%  accn 0000773840-26-000013
+  FY2024-12-31  revenue 34,717  op income 7,667  margin 22.1%  tangible assets 47,556  op income/tangible 16.1%  accn 0000773840-26-000013
+  FY2025-12-31  revenue 37,442  op income 8,127  margin 21.7%  tangible assets 45,866  op income/tangible 17.7%  accn 0000773840-26-000013

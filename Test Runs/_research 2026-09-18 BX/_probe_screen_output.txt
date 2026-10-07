@@ -1,0 +1,38 @@
+entity Blackstone Inc.
+== CURRENT screen ==
+owner_earnings: {'5y_da': 3354502600.0, '5y_capex': 3347537600.0, '3y_da': 2732476666.6666665, '3y_capex': 2733016666.6666665}
+restatement_shift : (1.003992521021945, datetime.date(2016, 12, 31))
+scale_shift : 3.700002966276063
+acquisition_flag : (5420000.0, None, '')
+working_capital_flag : None
+da_discontinuity_flag : None
+capex_funding_flag : None
+stale_filer : (datetime.date(2025, 12, 31), 261, '')
+lease_capex_flag : None
+share_count_shift WITH ticker: 1.0396430858771624
+share_count_shift no ticker: 1.0396430858771624
+sbc_annual: {datetime.date(2008, 12, 31): 3302617000.0, datetime.date(2009, 12, 31): 3048108000.0, datetime.date(2010, 12, 31): 2440148000.0, datetime.date(2011, 12, 31): 1396062000.0, datetime.date(2012, 12, 31): 949633000.0, datetime.date(2013, 12, 31): 855087000.0, datetime.date(2014, 12, 31): 734733000.0, datetime.date(2015, 12, 31): 629642000.0, datetime.date(2016, 12, 31): 323651000.0, datetime.date(2017, 12, 31): 338687000.0, datetime.date(2018, 12, 31): 366928000.0, datetime.date(2019, 12, 31): 417092000.0, datetime.date(2020, 12, 31): 438341000.0, datetime.date(2021, 12, 31): 637441000.0, datetime.date(2022, 12, 31): 846349000.0, datetime.date(2023, 12, 31): 987549000.0, datetime.date(2024, 12, 31): 1168435000.0, datetime.date(2025, 12, 31): 1445352000.0}
+da_annual: {datetime.date(2009, 12, 31): 175248000.0, datetime.date(2010, 12, 31): 186051000.0, datetime.date(2011, 12, 31): 239191000.0, datetime.date(2012, 12, 31): 173174000.0, datetime.date(2013, 12, 31): 129271000.0, datetime.date(2014, 12, 31): 130515000.0, datetime.date(2015, 12, 31): 127437000.0, datetime.date(2016, 12, 31): 114943000.0, datetime.date(2017, 12, 31): 71976000.0, datetime.date(2018, 12, 31): 82921000.0, datetime.date(2019, 12, 31): 97299000.0, datetime.date(2020, 12, 31): 106153000.0, datetime.date(2021, 12, 31): 127071000.0, datetime.date(2022, 12, 31): 136297000.0, datetime.date(2023, 12, 31): 134175000.0, datetime.date(2024, 12, 31): 134765000.0, datetime.date(2025, 12, 31): 134023000.0, datetime.date(2008, 12, 31): 153237000.0}
+ocf: ({datetime.date(2008, 12, 31): 1890435000.0, datetime.date(2009, 12, 31): 411509000.0, datetime.date(2010, 12, 31): -371885000.0, datetime.date(2011, 12, 31): 1099613000.0, datetime.date(2012, 12, 31): 583155000.0, datetime.date(2013, 12, 31): 3547941000.0, datetime.date(2016, 12, 31): -88591000.0, datetime.date(2017, 12, 31): -1626395000.0, datetime.date(2018, 12, 31): 45742000.0, datetime.date(2019, 12, 31): 1963107000.0, datetime.date(2020, 12, 31): 1935945000.0, datetime.date(2021, 12, 31): 3985988000.0, datetime.date(2022, 12, 31): 6336253000.0, datetime.date(2023, 12, 31): 4056906000.0, datetime.date(2024, 12, 31): 3481662000.0, datetime.date(2025, 12, 31): 4663161000.0, datetime.date(2014, 12, 31): 1654989000.0, datetime.date(2015, 12, 31): 2397043000.0}, '')
+capex annual: {datetime.date(2008, 12, 31): 50113000.0, datetime.date(2009, 12, 31): 23627000.0, datetime.date(2010, 12, 31): 54160000.0, datetime.date(2011, 12, 31): 36484000.0, datetime.date(2012, 12, 31): 37020000.0, datetime.date(2013, 12, 31): 25637000.0, datetime.date(2014, 12, 31): 30271000.0, datetime.date(2015, 12, 31): 59247000.0, datetime.date(2016, 12, 31): 21826000.0, datetime.date(2017, 12, 31): 24347000.0, datetime.date(2018, 12, 31): 18377000.0, datetime.date(2019, 12, 31): 60280000.0, datetime.date(2020, 12, 31): 111650000.0, datetime.date(2021, 12, 31): 64316000.0, datetime.date(2022, 12, 31): 235497000.0, datetime.date(2023, 12, 31): 224231000.0, datetime.date(2024, 12, 31): 61409000.0, datetime.date(2025, 12, 31): 115703000.0}
+capital_acquired: ({datetime.date(2008, 12, 31): 50113000.0, datetime.date(2009, 12, 31): 23627000.0, datetime.date(2010, 12, 31): 54160000.0, datetime.date(2011, 12, 31): 36484000.0, datetime.date(2012, 12, 31): 37020000.0, datetime.date(2013, 12, 31): 25637000.0, datetime.date(2014, 12, 31): 30271000.0, datetime.date(2015, 12, 31): 59247000.0, datetime.date(2016, 12, 31): 21826000.0, datetime.date(2017, 12, 31): 24347000.0, datetime.date(2018, 12, 31): 18377000.0, datetime.date(2019, 12, 31): 60280000.0, datetime.date(2020, 12, 31): 111650000.0, datetime.date(2021, 12, 31): 64316000.0, datetime.date(2022, 12, 31): 235497000.0, datetime.date(2023, 12, 31): 224231000.0, datetime.date(2024, 12, 31): 61409000.0, datetime.date(2025, 12, 31): 115703000.0}, {})
+rev: {datetime.date(2008, 12, 31): -349361000.0, datetime.date(2009, 12, 31): 1773699000.0, datetime.date(2010, 12, 31): 3119342000.0, datetime.date(2011, 12, 31): 3252576000.0, datetime.date(2012, 12, 31): 4019441000.0, datetime.date(2013, 12, 31): 6613168000.0, datetime.date(2014, 12, 31): 7484728000.0, datetime.date(2015, 12, 31): 4646552000.0, datetime.date(2016, 12, 31): 5125834000.0, datetime.date(2017, 12, 31): 7119053000.0, datetime.date(2018, 12, 31): 6833259000.0, datetime.date(2019, 12, 31): 7338270000.0, datetime.date(2020, 12, 31): 6101927000.0, datetime.date(2021, 12, 31): 22577148000.0, datetime.date(2022, 12, 31): 8517673000.0, datetime.date(2023, 12, 31): 8022841000.0, datetime.date(2024, 12, 31): 13229968000.0, datetime.date(2025, 12, 31): 14450265000.0}
+shares: (datetime.date(2026, 7, 31), 750625114.0)
+== a8bc84f on facts filed by 2026-09-01 ==
+share_count_shift : 1.0396430858771624
+scale_shift : 3.700002966276063
+restatement_shift : (1.003992521021945, datetime.date(2016, 12, 31))
+owner_earnings : {'5y_da': 3405308800.0, '5y_capex': 3347537600.0, '3y_da': 2769831000.0, '3y_capex': 2733016666.6666665}
+dei elements: ['EntityCommonStockSharesOutstanding', 'EntityPublicFloat']
+dei EntityCommonStockSharesOutstanding 2025-04-25 729647970 10-Q 2025-05-02 CY2025Q1I
+dei EntityCommonStockSharesOutstanding 2025-08-01 737091668 10-Q 2025-08-08 CY2025Q2I
+dei EntityCommonStockSharesOutstanding 2025-10-31 738450871 10-Q 2025-11-07 CY2025Q3I
+dei EntityCommonStockSharesOutstanding 2026-02-20 742180737 10-K 2026-02-27 
+dei EntityCommonStockSharesOutstanding 2026-05-01 742879807 10-Q 2026-05-08 CY2026Q1I
+dei EntityCommonStockSharesOutstanding 2026-07-31 750625114 10-Q 2026-08-07 CY2026Q2I
+dei EntityPublicFloat 2020-06-28 37900000000 10-K 2021-02-26 CY2020Q2I
+dei EntityPublicFloat 2021-06-30 66400000000 10-K 2022-02-25 CY2021Q2I
+dei EntityPublicFloat 2022-06-30 63700000000 10-K 2023-02-24 CY2022Q2I
+dei EntityPublicFloat 2023-06-30 65500000000 10-K 2024-02-23 CY2023Q2I
+dei EntityPublicFloat 2024-06-30 88200000000 10-K 2025-02-28 CY2024Q2I
+dei EntityPublicFloat 2025-06-30 108900000000 10-K 2026-02-27 CY2025Q2I

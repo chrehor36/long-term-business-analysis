@@ -1,0 +1,36 @@
+== ZD  years ['2022-12-31', '2023-12-31', '2024-12-31', '2025-12-31']
+  2022-12-31 rev    1391.0 ocf    336.4 sbc    26.6 capital  106.2 OE    203.7 OE/rev   14.6%
+  2023-12-31 rev    1364.0 ocf    320.0 sbc    31.9 capital  108.7 OE    179.3 OE/rev   13.1%
+  2024-12-31 rev    1401.7 ocf    390.3 sbc    40.9 capital  106.6 OE    242.8 OE/rev   17.3%
+  2025-12-31 rev    1451.3 ocf    407.1 sbc    44.9 capital  119.2 OE    242.9 OE/rev   16.7%
+  4y OE/rev 15.5%  rev CAGR 1.4% (2022-12-31 to 2025-12-31)
+== PPLI  years ['2022-12-31', '2023-12-31', '2024-12-31', '2025-12-31']
+  2022-12-31 rev    5235.3 ocf    -82.8 sbc   123.5 capital  139.8 OE   -346.0 OE/rev   -6.6%
+  2023-12-31 rev    4365.2 ocf    189.5 sbc   117.2 capital  141.4 OE    -69.0 OE/rev   -1.6%
+  2024-12-31 rev    3807.2 ocf    192.5 sbc   112.5 capital   65.5 OE     14.4 OE/rev    0.4%
+  2025-12-31 rev    2393.2 ocf     66.8 sbc    32.3 capital   19.2 OE     15.3 OE/rev    0.6%
+  4y OE/rev -2.4%  rev CAGR -23.0% (2022-12-31 to 2025-12-31)
+== NYT  years ['2022-12-31', '2023-12-31', '2024-12-31', '2025-12-31']
+  2022-12-31 rev    2308.3 ocf    150.7 sbc    35.3 capital   37.0 OE     78.4 OE/rev    3.4%
+  2023-12-31 rev    2426.2 ocf    360.6 sbc    54.8 capital   22.7 OE    283.2 OE/rev   11.7%
+  2024-12-31 rev    2585.9 ocf    410.5 sbc    67.5 capital   29.2 OE    313.8 OE/rev   12.1%
+  2025-12-31 rev    2824.9 ocf    584.5 sbc    74.2 capital   34.0 OE    476.3 OE/rev   16.9%
+  4y OE/rev 11.4%  rev CAGR 7.0% (2022-12-31 to 2025-12-31)
+== TDAY  years ['2022-12-31', '2023-12-31', '2024-12-31', '2025-12-31']
+  2022-12-31 rev    2945.3 ocf     40.8 sbc    16.8 capital   45.4 OE    -21.4 OE/rev   -0.7%
+  2023-12-31 rev    2663.6 ocf     94.6 sbc    16.6 capital   38.1 OE     39.9 OE/rev    1.5%
+  2024-12-31 rev    2509.3 ocf    100.3 sbc    12.5 capital   49.5 OE     38.3 OE/rev    1.5%
+  2025-12-31 rev    2302.2 ocf    114.4 sbc     9.1 capital   51.5 OE     53.8 OE/rev    2.3%
+  4y OE/rev 1.1%  rev CAGR -7.9% (2022-12-31 to 2025-12-31)
+== AREN  years ['2022-12-31', '2023-12-31', '2024-12-31', '2025-12-31']
+  2022-12-31 rev     220.9 ocf    -11.3 sbc    31.3 capital    0.5 OE    -43.2 OE/rev  -19.5%
+  2023-12-31 rev     244.2 ocf    -24.8 sbc    19.1 capital    0.0 OE    -43.8 OE/rev  -17.9%
+  2024-12-31 rev     125.9 ocf    -16.1 sbc     3.0 capital    0.1 OE    -19.2 OE/rev  -15.2%
+  2025-12-31 rev     134.8 ocf     39.2 sbc     0.5 capital    0.0 OE     38.7 OE/rev   28.7%
+  4y OE/rev -9.3%  rev CAGR -15.2% (2022-12-31 to 2025-12-31)
+== BMTM  years ['2022-12-31', '2023-12-31', '2024-12-31', '2025-12-31']
+  2022-12-31 rev      19.6 ocf     -3.1 sbc     nan capital    0.0 OE      nan OE/rev    nan%
+  2023-12-31 rev      44.5 ocf     -4.7 sbc     0.2 capital    0.0 OE     -4.9 OE/rev  -10.9%
+  2024-12-31 rev      56.7 ocf      1.9 sbc     0.3 capital    0.1 OE      1.5 OE/rev    2.7%
+  2025-12-31 rev      59.2 ocf      1.3 sbc     0.1 capital    0.1 OE      1.0 OE/rev    1.7%
+  4y OE/rev nan%  rev CAGR 44.6% (2022-12-31 to 2025-12-31)

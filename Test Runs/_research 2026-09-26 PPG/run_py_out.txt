@@ -1,0 +1,38 @@
+==============================================================================
+PPG INDUSTRIES INC  (PPG)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.49%   09/25/2026   US Treasury daily par yield curve
+  price     107.52 USD   2026-09-25   (aggregator — live quote only)
+  shares    222.9M      market cap 23.97B USD
+  share basis: dei cover-page count as of 2026-03-31
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-12-31      2,411       56       514        516      1,839      1,841
+    2024-12-31      1,420       42       492        721        657        886
+    2025-12-31      1,941       46       528        778      1,117      1,367
+          mean                                               1,204      1,365
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 997 .. 1,134   yield 4.16%..4.73%
+  DIVERGENCE vs the 3-yr window: -17.2% on the conservative end
+  ** The spread is part of the RANGE [E4-25], not a tiebreak.
+     "Working with a range of possibilities is the better approach."
+     Do NOT pick a window and defend it. If the combined range
+     (window spread x capex band) is too wide to reach a conclusion,
+     THAT IS THE CONCLUSION [E4-25]. A wide spread is also a Q4
+     finding about earnings reliability [E5-11]. **
+
+  1. THE YIELD                  5.03% ..  5.69%   vs sovereign 5.49%
+  2. GROWTH THE PRICE ASSUMES   -9.2%  (at a 5.49% rate)
+  3. POINTS OVER THE SOVEREIGN +2.27 .. +2.97
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

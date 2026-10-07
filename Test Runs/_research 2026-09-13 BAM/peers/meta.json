@@ -1,0 +1,74 @@
+{
+ "BX": {
+  "cik": 1393818,
+  "name": "Blackstone Inc.",
+  "filingDate": "2026-02-27",
+  "acc": "0001193125-26-082531",
+  "doc": "d48618d10k.htm",
+  "reportDate": "2025-12-31"
+ },
+ "KKR": {
+  "cik": 1404912,
+  "name": "KKR & Co. Inc.",
+  "filingDate": "2026-02-27",
+  "acc": "0001404912-26-000007",
+  "doc": "kkr-20251231.htm",
+  "reportDate": "2025-12-31"
+ },
+ "APO": {
+  "cik": 1858681,
+  "name": "Apollo Global Management, Inc.",
+  "filingDate": "2026-02-25",
+  "acc": "0001858681-26-000013",
+  "doc": "apo-20251231.htm",
+  "reportDate": "2025-12-31"
+ },
+ "CG": {
+  "cik": 1527166,
+  "name": "Carlyle Group Inc.",
+  "filingDate": "2026-02-27",
+  "acc": "0001527166-26-000009",
+  "doc": "cg-20251231.htm",
+  "reportDate": "2025-12-31"
+ },
+ "ARES": {
+  "cik": 1176948,
+  "name": "Ares Management Corp",
+  "filingDate": "2026-02-25",
+  "acc": "0001628280-26-011413",
+  "doc": "ares-20251231.htm",
+  "reportDate": "2025-12-31"
+ },
+ "OWL": {
+  "cik": 1823945,
+  "name": "BLUE OWL CAPITAL INC.",
+  "filingDate": "2026-02-19",
+  "acc": "0001823945-26-000009",
+  "doc": "owl-20251231.htm",
+  "reportDate": "2025-12-31"
+ },
+ "TPG": {
+  "cik": 1880661,
+  "name": "TPG Inc.",
+  "filingDate": "2026-02-17",
+  "acc": "0001880661-26-000011",
+  "doc": "tpg-20251231.htm",
+  "reportDate": "2025-12-31"
+ },
+ "BLK": {
+  "cik": 2012383,
+  "name": "BlackRock, Inc.",
+  "filingDate": "2026-02-25",
+  "acc": "0001193125-26-071966",
+  "doc": "blk-20251231.htm",
+  "reportDate": "2025-12-31"
+ },
+ "TROW": {
+  "cik": 1113169,
+  "name": "PRICE T ROWE GROUP INC",
+  "filingDate": "2026-02-13",
+  "acc": "0001628280-26-008002",
+  "doc": "trow-20251231.htm",
+  "reportDate": "2025-12-31"
+ }
+}

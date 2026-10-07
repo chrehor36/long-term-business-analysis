@@ -1,0 +1,19 @@
+owner cash by year: {2021: 3258, 2022: 3300, 2023: 3625, 2024: 3013, 2025: 3763}  mean 3391.8
+alt (less finance-lease principal where known): {2021: 3258, 2022: 3300, 2023: 3570, 2024: 2949, 2025: 3207}  mean 3256.8
+growth shown: endpoints 2021-2025 0.0367; log-linear fit 0.0199
+long record 2008 2529 -> 2025 3763: 0.0237 a year
+market cap 89,749M; owner-cash yield 0.0378; alt 0.0363
+mean: no-growth 59,926M = $221/sh; shown growth (endpoints) 80,134M = $296/sh; (fit) 70,160M = $259/sh
+alt: no-growth 57,541M = $213/sh; shown growth (endpoints) 76,945M = $284/sh; (fit) 67,367M = $249/sh
+expected return at price, after tax 0.0745 (yield + growth 0.0367); pre-tax equiv 0.0903
+expected return at price, after tax 0.0577 (yield + growth 0.0199); pre-tax equiv 0.0700
+fair (yield + 0.0367 growth = 0.0825 after tax): $274/sh
+cheap (no-growth owner-cash yield = 0.0825): $152/sh
+owner cash 2015-17 mean 2,283.7 on 313.9M diluted = 7.275/sh; 2023-25 3,467.0 on 275.2M = 12.598/sh
+per-share growth 0.0710 a year; aggregate 0.0536 a year
+buyback 2023: $217 a share
+buyback 2024: $278 a share
+buyback 2025: $255 a share
+buyback H1 2026: $354 a share
+depreciation variant: {2023: 3921, 2024: 3285, 2025: 4244} mean 3816.7 no-growth value/sh 249
+depreciation variant with shown growth 0.0367: $333/sh; expected return at price pre-tax equiv 0.0960

@@ -1,0 +1,36 @@
+a8bc84f owner_earnings(): CAPEX_UNRESOLVED
+def owner_earnings(facts):
+    ocf, sbc = annual(facts, OCF_TAGS), annual(facts, SBC_TAGS)
+    capx, _lease = capital_acquired(facts)
+    da = da_annual(facts)
+    if not ocf:
+        return None
+    ends = sorted(ocf)[-5:]
+    if len(ends) < 3:
+        return None
+    # THE E5-20 GUARD, added 2026-09-01 after the VZ run.
+    # Verizon's $157bn of wireless licences are INDEFINITE-LIVED and are not amortised,
+    # so its D&A charge contains nothing for the $58.4bn of spectrum it bought in five
+    # years. Pricing it on OCF - D&A produced a 9.26% yield that the full run destroyed.
+    # The framework had already ruled: for the capital-intensive class the D&A end is
+    # "INVALID, not merely optimistic". So a name whose capex tag does not resolve must
+    # NOT silently fall back to D&A - it is returned unpriced and flagged, because the
+    # only construction available is the one the corpus forbids.
+    out = {}
+    for label, n in (("5y", 5), ("3y", 3)):
+        w = ends[-n:]
+        if len(w) < n:
+            continue
+        for cname, csrc in (("da", da), ("capex", capx)):
+            vals = []
+            for e in w:
+                c = csrc.get(e)
+                if c is None:
+                    continue
+                vals.append(ocf[e] - sbc.get(e, 0.0) - abs(c))
+            if len(vals) == len(w):
+                out[f"{label}_{cname}"] = sum(vals) / len(vals)
+    if not any(k.endswith("_capex") for k in out):
+        return "CAPEX_UNRESOLVED"
+    return out or No
+annual capex: n/a

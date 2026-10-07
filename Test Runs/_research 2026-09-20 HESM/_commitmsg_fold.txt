@@ -1,0 +1,48 @@
+HESM fold: register entry 138, wave 7 name 6, FAIL at Q2 -- and the MVC table becomes a series
+
+Three of the six fold steps, in one commit with a pathspec:
+1. Register entry 138 at the top of ## COMPLETED FROM THE QUEUE. The register was
+   counted with a line-start regex immediately before insertion: 137 before, 138
+   after. HESM was absent from the file as an entry (the only prior hit was inside
+   PAGP's own competitor row, which is where this run started).
+2. HESM appended to Screens/_daily/_wave7_done.txt, now 6 lines.
+3. The narrative fold appended to the PREPPED READING LIST.
+
+Step 4 is deliberately empty: NO alerts.json band and NO PORTFOLIO.md row. The
+name failed on the BUSINESS, and a price alert would be the QLYS category error.
+The reversal condition is recorded in words instead, in both the run file and the
+register entry: a majority of revenue from arm's-length third parties, or a
+general partner with fiduciary duties to the Class A holders, AND a
+development-plan vintage in which the third year stops falling. Price does not
+enter it.
+
+THE FINDING WORTH CARRYING FORWARD AS A METHOD, not only as a HESM fact. Every
+HESM 10-K prints a three-year table of Chevron's minimum volume commitments, set
+at 80% of Chevron's own nominations. One table is a fact; four vintages side by
+side is a series, and the series is invisible in any single filing. Gas gathering,
+third year of each vintage: FY2021 up 11%, FY2023 up 8%, FY2024 flat, and FY2025 --
+the first development plan nominated by Chevron rather than Hess -- DOWN 18%.
+Crude down 21%, terminaling down 20%, processing down 17%. No footnote explains
+it, though the FY2024 10-K did footnote its own soft year. Any filer publishing a
+rolling forward-commitment table publishes a panel; three extra fetches produced
+the most decisive number in this run.
+
+TOOLING AND SCREEN DEFECTS RECORDED:
+- deal_note misdirected on the second consecutive midstream name. Recommendation
+  stated and not acted on: print the item codes and the date and stop guessing.
+- The consolidated-over-public-class yield error recurred at 1.61x after PAGP's
+  4x. Now has two worked instances and one rule: in an Up-C the screen's
+  owner-earnings band is consolidated and the screen's cap is the public class,
+  and they must never be divided by each other.
+- The PropertyPlantAndEquipmentNet tag trap is filer-specific, not industry-wide.
+  HESM tags it continuously FY2018-FY2025.
+- The two level flags describe the same contracted build-out ramp; neither is an
+  [E4-41] windfall, and the real normalisation is forward, not historical.
+- A prior in this run's own brief was refuted: the filer does NOT split
+  maintenance from expansion capex anywhere.
+
+check_framework.py PASS after the fold as well as before the run commit.
+Ledger counted at 311 rows; CLAUDE.md's 267 pointer left unedited, third
+consecutive wave-7 fold to say so.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

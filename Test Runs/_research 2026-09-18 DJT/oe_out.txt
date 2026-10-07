@@ -1,0 +1,7 @@
+FY2022: OCF -24.20 SBC 0.00 capex 0.085 D&A 0.059 | OE capex end -24.29 | OE D&A end -24.26 | AP line -0.54 | OCF ex AP -23.66 | put premiums 0.00 | interest income (P&L) 0.00 | OCF ex AP ex premiums ex interest -23.66
+FY2023: OCF -9.73 SBC 0.00 capex 0.002 D&A 0.060 | OE capex end -9.74 | OE D&A end -9.79 | AP line 1.33 | OCF ex AP -11.07 | put premiums 0.00 | interest income (P&L) 0.00 | OCF ex AP ex premiums ex interest -11.07
+FY2024: OCF -60.98 SBC 107.39 capex 5.034 D&A 2.934 | OE capex end -173.40 | OE D&A end -171.30 | AP line 5.54 | OCF ex AP -66.52 | put premiums 0.00 | interest income (P&L) 14.72 | OCF ex AP ex premiums ex interest -81.24
+FY2025: OCF 14.76 SBC 59.19 capex 0.574 D&A 7.421 | OE capex end -45.01 | OE D&A end -51.85 | AP line 26.80 | OCF ex AP -12.04 | put premiums 43.98 | interest income (P&L) 46.56 | OCF ex AP ex premiums ex interest -102.59
+TTM Jun-26: OCF 8.52 SBC 43.51 capex 0.028 D&A 7.544 | OE capex end -35.02 | OE D&A end -42.53 | AP line 46.09 | OCF ex AP -37.57 | put premiums 43.98 | interest income (P&L) 36.13 | OCF ex AP ex premiums ex interest -117.69
+mean FY2022-FY2025: capex end -63.11  D&A end -64.30
+mean FY2023-FY2025: capex end -76.05  D&A end -77.65

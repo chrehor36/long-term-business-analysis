@@ -1,0 +1,32 @@
+==============================================================================
+EAGLE MATERIALS INC  (EXP)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.47%   09/24/2026   US Treasury daily par yield curve
+  price     177.43 USD   2026-09-24   (aggregator — live quote only)
+  shares    30.7M      market cap 5.44B USD
+  share basis: dei cover-page count as of 2026-07-25
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2024-03-31        564       20       150        120        394        424
+    2025-03-31        549       19       159        195        335        371
+    2026-03-31        614       21       165        417        176        428
+          mean                                                 302        408
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 333 .. 413   yield 6.12%..7.59%
+  DIVERGENCE vs the 3-yr window: +10.4% on the conservative end
+
+  1. THE YIELD                  5.54% ..  7.49%   vs sovereign 5.47%
+  2. GROWTH THE PRICE ASSUMES  -11.3%  (at a 5.47% rate)
+  3. POINTS OVER THE SOVEREIGN +2.83 .. +4.86
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

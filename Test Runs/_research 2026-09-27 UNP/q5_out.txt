@@ -1,0 +1,59 @@
+cap $162,651.9M
+filer-split by year [5387, 6419, 6285]
+STANDALONE 3y capex end                                                           $5,266.3M  3.24%  per share $8.86  g to reach 10%: 6.76%  vs bond -2.25
+STANDALONE 3y filer split (capex less capacity/commercial and lease buyouts)      $6,030.3M  3.71%  per share $10.15  g to reach 10%: 6.29%  vs bond -1.78
+STANDALONE 3y D&A end                                                             $6,489.0M  3.99%  per share $10.92  g to reach 10%: 6.01%  vs bond -1.50
+STANDALONE 5y capex end                                                           $5,490.0M  3.38%  per share $9.24  g to reach 10%: 6.62%  vs bond -2.11
+STANDALONE 5y D&A end                                                             $6,644.0M  4.08%  per share $11.18  g to reach 10%: 5.92%  vs bond -1.41
+STANDALONE 10y capex end                                                          $5,103.3M  3.14%  per share $8.59  g to reach 10%: 6.86%  vs bond -2.35
+STANDALONE 10y D&A end                                                            $6,260.3M  3.85%  per share $10.54  g to reach 10%: 6.15%  vs bond -1.64
+STANDALONE 23y capex end                                                          $3,086.9M  1.90%  per share $5.20  g to reach 10%: 8.10%  vs bond -3.59
+STANDALONE 23y D&A end                                                            $4,384.3M  2.70%  per share $7.38  g to reach 10%: 7.30%  vs bond -2.79
+STANDALONE TTM to 2026-06-30 capex end                                            $6,373.0M  3.92%  per share $10.73  g to reach 10%: 6.08%  vs bond -1.57
+STANDALONE TTM D&A end                                                            $7,619.0M  4.68%  per share $12.82  g to reach 10%: 5.32%  vs bond -0.81
+NSC 3y {'capex': 1512.3, 'da': 2468.3, 'capex_acq': 964.7}
+COMBINED rate 5.1% capex end                                no synergies                             OE $5,983.0M per share $7.30 yield 2.67%  g to 10%: 7.33%
+COMBINED rate 5.1% capex end                                full claimed $2.75bn pre-tax synergies   OE $8,128.0M per share $9.92 yield 3.62%  g to 10%: 6.38%
+COMBINED rate 5.1% D&A end                                  no synergies                             OE $8,161.7M per share $9.96 yield 3.64%  g to 10%: 6.36%
+COMBINED rate 5.1% D&A end                                  full claimed $2.75bn pre-tax synergies   OE $10,306.7M per share $12.58 yield 4.60%  g to 10%: 5.40%
+COMBINED rate 5.1% capex end, NSC CSR purchase counted      no synergies                             OE $5,435.4M per share $6.64 yield 2.42%  g to 10%: 7.58%
+COMBINED rate 5.1% capex end, NSC CSR purchase counted      full claimed $2.75bn pre-tax synergies   OE $7,580.4M per share $9.25 yield 3.38%  g to 10%: 6.62%
+COMBINED rate 5.35% capex end                                no synergies                             OE $5,944.0M per share $7.26 yield 2.65%  g to 10%: 7.35%
+COMBINED rate 5.35% capex end                                full claimed $2.75bn pre-tax synergies   OE $8,089.0M per share $9.88 yield 3.61%  g to 10%: 6.39%
+COMBINED rate 5.35% D&A end                                  no synergies                             OE $8,122.7M per share $9.92 yield 3.62%  g to 10%: 6.38%
+COMBINED rate 5.35% D&A end                                  full claimed $2.75bn pre-tax synergies   OE $10,267.7M per share $12.54 yield 4.58%  g to 10%: 5.42%
+COMBINED rate 5.35% capex end, NSC CSR purchase counted      no synergies                             OE $5,396.4M per share $6.59 yield 2.41%  g to 10%: 7.59%
+COMBINED rate 5.35% capex end, NSC CSR purchase counted      full claimed $2.75bn pre-tax synergies   OE $7,541.4M per share $9.21 yield 3.36%  g to 10%: 6.64%
+COMBINED rate 5.6% capex end                                no synergies                             OE $5,905.0M per share $7.21 yield 2.63%  g to 10%: 7.37%
+COMBINED rate 5.6% capex end                                full claimed $2.75bn pre-tax synergies   OE $8,050.0M per share $9.83 yield 3.59%  g to 10%: 6.41%
+COMBINED rate 5.6% D&A end                                  no synergies                             OE $8,083.7M per share $9.87 yield 3.60%  g to 10%: 6.40%
+COMBINED rate 5.6% D&A end                                  full claimed $2.75bn pre-tax synergies   OE $10,228.7M per share $12.49 yield 4.56%  g to 10%: 5.44%
+COMBINED rate 5.6% capex end, NSC CSR purchase counted      no synergies                             OE $5,357.4M per share $6.54 yield 2.39%  g to 10%: 7.61%
+COMBINED rate 5.6% capex end, NSC CSR purchase counted      full claimed $2.75bn pre-tax synergies   OE $7,502.4M per share $9.16 yield 3.35%  g to 10%: 6.65%
+combined cap at $273.79: 224254.7
+
+VALUE (floor price) standalone:
+  3y capex end   g=0%  $88.65
+  3y capex end   g=3.1%  $128.47
+  3y capex end   g=4.0%  $147.74
+  3y capex end   g=5.0%  $177.29
+  filer split    g=0%  $101.51
+  filer split    g=3.1%  $147.11
+  filer split    g=4.0%  $169.18
+  filer split    g=5.0%  $203.02
+  3y D&A end     g=0%  $109.23
+  3y D&A end     g=3.1%  $158.30
+  3y D&A end     g=4.0%  $182.05
+  3y D&A end     g=5.0%  $218.46
+VALUE combined (5.35% new debt), per UNP share after close:
+  capex end no syn       g=3.1%  $105.17
+  capex end no syn       g=5.0%  $145.14
+  capex end full syn     g=3.1%  $143.13
+  capex end full syn     g=5.0%  $197.52
+  D&A end full syn       g=3.1%  $181.68
+  D&A end full syn       g=5.0%  $250.72
+
+consideration at $273.79: $81,603M; NSC OE yield on it: capex3y 1.85%  2025 capex 2.57%  D&A3y 3.02%  with full synergies after tax (2025 capex) 5.19%  (3y D&A) 5.65%
+
+UNP 2025: OCF+interest paid-capex = 6810; interest expense 1,309 -> cover 5.2x
+combined: (6810+2922) / 3171 = 3.1x

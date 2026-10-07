@@ -1,0 +1,37 @@
+year   OCF   D&A  capex   SBC   OE(c=D&A)  OE(c=capex)
+2012   2223   926   2331    20      1277        -128
+2013   2476  1144   1669    33      1299         774
+2014   2371  1198   2020    27      1146         324
+2015    403  1004    401    34      -635         -32
+2016    130   559     75    33      -462          22
+2017    248   544    371    29      -325        -152
+2018    461   502    690    45       -86        -274
+2019    676   471    455    32       173         189
+2021    660   213    194    19       428         447
+2022    690   198    379    30       462         281
+2023    653   225    185    48       380         420
+2024    610   388    255    40       182         315
+2025    865   511    322    39       315         504
+
+WINDOW REBUILD - mean owner earnings, $M, and yield on cap $4709M
+window        years used                 c=D&A     c=capex    width $M   yield lo   yield hi
+ 3y  2023-2025 (2020 not filed)        292        413        121      6.21%      8.77%
+ 5y  2021-2025 (2020 not filed)        353        393         40      7.51%      8.35%
+ 7y  2018-2025 (2020 not filed)        265        269          4      5.62%      5.71%
+ 9y  2016-2025 (2020 not filed)        119        195         76      2.52%      4.13%
+11y  2014-2025 (2020 not filed)        143        186         42      3.05%      3.95%
+13y  2012-2025 (2020 not filed)        320        207        113      4.39%      6.79%
+
+POST-EMERGENCE ONLY (2021-2025, the only single-legal-entity stretch):
+  c=D&A 353   c=capex 393   width 40   yields 7.51% .. 8.35%
+
+COMPANY'S OWN MAINTENANCE CAPITAL (8-K EX-99.1 2026-08-10): $450-475M California DCW
+  3y 2023-2025: mean(OCF-SBC) = 667 ; less 450 = 217 (4.61%) ; less 475 = 192 (4.08%)
+  5y 2021-2025: mean(OCF-SBC) = 660 ; less 450 = 210 (4.47%) ; less 475 = 185 (3.94%)
+
+CURRENT PERIMETER, H1-2026 ANNUALISED (10-Q acc 0001609253-26-000130):
+  OCF x2 = 724 ; less SBC ~40 = 684
+    less 2026 capital guidance 520 = 164  -> 3.48% on cap
+    less 2026 capital guidance 560 = 124  -> 2.63% on cap
+    less stated maintenance 450 = 234  -> 4.97% on cap
+    less stated maintenance 475 = 209  -> 4.44% on cap

@@ -1,0 +1,77 @@
+==============================================================================
+ROBERT HALF INC.  (RHI)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.66%   10/05/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     34.34 USD   2026-10-05   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                102.362M  as of 2026-07-31  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                                 102.362M  as of 2026-06-30  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)      102.362M  as of 2026-06-30  (CommonStockSharesIssued)
+  shares    102.4M      market cap 3.52B USD
+  share basis: dei cover-page count as of 2026-07-31 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-12-31      636.9     61.1      54.2       45.9       529.9       521.5
+    2024-12-31      410.5     63.4      53.3       56.3       290.7       293.8
+    2025-12-31      320.0     59.4      51.9       53.2       207.4       208.6
+          mean                                                342.7       341.3
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: D&A basis in 2023; capex basis in 2024, 2025
+  mean of the year-by-year lower: 339.9;  of the higher: 344.1  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue; 2024 AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue; 2025 AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue
+  capex tag by year: 2023 PaymentsToAcquirePropertyPlantAndEquipment; 2024 PaymentsToAcquirePropertyPlantAndEquipment; 2025 PaymentsToAcquirePropertyPlantAndEquipment
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0000315213-26-000006, 0000315213-25-000007, 0000315213-24-000011
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 431.9  OE D&A 429.9   yield 12.29% (capex) 12.23% (D&A)
+  DIVERGENCE vs the 3-yr window: +25.5% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis  9.75%   D&A basis  9.71%   vs sovereign 5.66%
+  2. GROWTH THE PRICE ASSUMES  -21.3%  (at a 5.66% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN +6.94 (lower mean) .. +7.07 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables    goodwill intangibles     lt debt    retained
+    2016-12-31         1,778         691       1,087         260         703         210           4           1          85
+    2017-12-31         1,867         762       1,105         295         732         211           5           1          37
+    2018-12-31         1,903         840       1,063         277         794         210           3           0           0
+    2019-12-31         2,311       1,168       1,144         270         833         210           2           0          36
+    2020-12-31         2,557       1,352       1,205         574         714         223           6           0          30
+    2021-12-31         2,952       1,571       1,381         619         985         223           3           -         168
+    2022-12-31         2,964       1,396       1,569         659       1,018         238           5           -         319
+    2023-12-31         3,011       1,422       1,588         732         861         238           -           -         266
+    2024-12-31         2,854       1,476       1,378         538         772         237           -           -          25
+    2025-12-31         2,856       1,580       1,276         464         748         251           -           -           0
+    accessions: 0000315213-20-000029, 0000315213-21-000025, 0000315213-22-000018, 0000315213-23-000016, 0000315213-24-000011, 0000315213-25-000007, 0000315213-26-000006, 0001628280-17-001192, 0001628280-18-001911, 0001628280-19-001488
+    equity: StockholdersEquity (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+    lt debt: LongTermDebtNoncurrent (2016, 2017, 2018, 2019, 2020)
+
+    CURRENT DEBT ELEMENTS TAGGED (USD millions; no linkbase was read, so NO SUM: these elements can overlap, DebtCurrent includes the others)
+    year-end            c1
+    2016-12-31           0
+    2017-12-31           0
+    2018-12-31           0
+    2019-12-31           0
+    2020-12-31           0
+    2021-12-31           0
+    2022-12-31           -
+    2023-12-31           -
+    2024-12-31           -
+    2025-12-31           -
+    c1 = LongTermDebtCurrent
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

@@ -1,0 +1,12 @@
+2021 OCF -2622 SBC 570 capex 1794 D&A 197 | OE capex end -4986 | OE D&A end -3389 | deferred rev None | capex/D&A 9.11
+2022 OCF -5052 SBC 987 capex 1369 D&A 652 | OE capex end -7408 | OE D&A end -6691 | deferred rev None | capex/D&A 2.10
+2023 OCF -4866 SBC 821 capex 1026 D&A 937 | OE capex end -6713 | OE D&A end -6624 | deferred rev 149 | capex/D&A 1.09 | capex end ex-deferred -6862
+2024 OCF -1716 SBC 692 capex 1141 D&A 1031 | OE capex end -3549 | OE D&A end -3439 | deferred rev 1619 | capex/D&A 1.11 | capex end ex-deferred -5168
+2025 OCF -779 SBC 741 capex 1710 D&A 784 | OE capex end -3230 | OE D&A end -2304 | deferred rev 503 | capex/D&A 2.18 | capex end ex-deferred -3733
+TTM Jun-26 {'ocf': -1845, 'sbc': 797, 'capex': 1644, 'da': 819, 'defrev': -262} OE capex end -4286 D&A end -3461 ex-deferred capex end -4024
+5y FY2021-25 capex end -5,177  D&A end -4,489
+3y FY2023-25 capex end -4,497  D&A end -4,122
+3y capex end ex-deferred revenue -5254.333333333333  3y D&A end ex-deferred -4879.333333333333
+5y capex end with FY2024-25 deferred revenue removed -5601.6
+sum capex FY21-25 7040 sum D&A 3601 ratio 1.955012496528742
+contract liability 94% check 0.9434731934731935

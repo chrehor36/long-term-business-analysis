@@ -1,0 +1,3 @@
+MEDP Medpace Holdings: self-audit and register (FAIL at Q2, OUT on the business; nine brief and screen errors recorded, incl. the brief's ledger labels for [E2-09] and [E4-25], the newest register entries named as CSCO, AIT, JKHY (they are CSCO, AIT, III), the screen's wc_note naming one year where the advances source is structural in every year 2018-2025, oe_top reproducing only with acquired-intangible amortization in (c), and the STEP UP read as a boom where it is growth plus advances plus a tax release; the Q2 commit message's rival growth range corrected in the file to 0.8-11.7%; tooling reported not patched; 49 ledger ids resolve; check_framework PASS)
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

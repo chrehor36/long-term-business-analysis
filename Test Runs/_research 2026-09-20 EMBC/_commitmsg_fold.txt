@@ -1,0 +1,46 @@
+EMBC fold: register entry 139, wave 7 name 7, FAIL at Q2 -- and the band spread was the spin all along
+
+Six fold steps, all done.
+
+1. Register entry 139 in `## COMPLETED FROM THE QUEUE`. Counted by hand with a
+   line-start regex inside the slice from the heading at line 502 to `## THE
+   WRITE-EARLY PROTOCOL` at line 10375: 138 before, 139 after, asserted in the
+   fold script rather than trusted. Whole-file grep found zero prior EMBC.
+2. Roster strike: `EMBC` appended to `Screens/_daily/_wave7_done.txt`, which now
+   carries 7 lines (PAGP, LEG, SMPL, SIG, CALM, HESM, EMBC). Wave 7 is complete.
+3. Narrative fold appended to the prepped reading list.
+4. No band, no `PORTFOLIO.md` row, no touch to `tools/alerts.json`. The name
+   failed on the BUSINESS and a price alert would be the QLYS category error.
+   The reversal condition is recorded in words in all three places.
+5. `python tools/check_framework.py` PASS before this commit. 311 ledger rows,
+   310/311 verbatim against cited source with E5-07 declared not a quote; 1,064
+   test-run files, 23,945 distinct id citations, 0 phantom citations. All 45
+   distinct ids cited by this run verified present in principle_ledger.csv.
+6. Committed with a pathspec and a freshly written message file.
+
+THE THREE FINDINGS WORTH CARRYING FORWARD.
+
+A. The screen's owner-earnings band of $35M to $181M, spread 4.151x, is not
+   business volatility. $35.4M is the three-year standalone window at the D&A
+   end; $174.6M to $188.1M is the five-year window, which reaches back into the
+   Becton Dickinson carve-out. The bottom is Embecta Corp. and the top is BD's
+   Diabetes Care Business with none of the spin debt and none of the $107.3M of
+   interest. The [E4-25] rebuild the spread_caveat ordered cannot run in the
+   direction it assumed, because before FY2023 there is no standalone company,
+   so the corpus five-year default [E2-42] is unavailable on this registrant.
+   TRANSFERABLE RULE: where name_change_note fires and the entity is a spin,
+   find the first standalone fiscal year BEFORE reading any band on that row.
+
+B. cap_flag confirmed as a drawdown detector for the second time in one day
+   (CALM this morning, EMBC now). Float $732M at 2025-03-31, cap $299.7M at
+   2026-09-18, share price down about 63% in between. Two independent
+   confirmations in a day is enough to make this the flag's primary reading:
+   drawdown first, data error second.
+
+C. The substitution is measured on BOTH sides of the trade, which is rare. The
+   subject's own MD&A says developed-market insulin therapy "continues to
+   transition to infusion pumps"; Insulet grew 59.6% and Tandem 35.7% over the
+   same two years in which Embecta shrank 3.6%. Most Q2 OUTs can show only the
+   subject's side.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

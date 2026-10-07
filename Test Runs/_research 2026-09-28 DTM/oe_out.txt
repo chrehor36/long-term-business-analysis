@@ -1,0 +1,22 @@
+cap $12,474.4M  bond 5.49%
+year  OCF  SBC  DAexAm  capex  OE_hi(DA)  OE_lo(capex)  OE_mgmt
+2019 390 6 69 211 315 173 None SBC/OCF 1.5%
+2020 597 6 97 518 494 73 None SBC/OCF 1.0%
+2021 572 12 108 140 452 420 526 SBC/OCF 2.1%
+2022 725 17 113 338 595 370 686 SBC/OCF 2.3%
+2023 798 20 125 772 653 6 749 SBC/OCF 2.5%
+2024 763 23 152 350 588 390 710 SBC/OCF 3.0%
+2025 867 26 198 426 643 415 779 SBC/OCF 3.0%
+
+windows ending 2025 (mean of each end), yield on cap
+1y 2025-2025: $415M to $643M  = 3.33% to 5.15%
+2y 2024-2025: $402M to $616M  = 3.23% to 4.93%
+3y 2023-2025: $270M to $628M  = 2.17% to 5.03%
+4y 2022-2025: $295M to $620M  = 2.37% to 4.97%
+5y 2021-2025: $320M to $586M  = 2.57% to 4.70%
+6y 2020-2025: $279M to $571M  = 2.24% to 4.58%
+7y 2019-2025: $264M to $534M  = 2.12% to 4.28%
+TTM to 2026-06-30: OCF 937 SBC 26 capex 457 D&A 269 (amort ~60, annual 2025 figure, flagged)
+  OE $454M to $702M = 3.64% to 5.63%
+five-year less customer prepayments (29/yr): shifts both ends by -29
+every window and TTM: $264M to $702M = 2.12% to 5.63%

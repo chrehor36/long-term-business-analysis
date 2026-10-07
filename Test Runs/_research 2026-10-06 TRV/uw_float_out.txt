@@ -1,0 +1,45 @@
+YEAR-END FLOAT (USD M; XBRL series, latest filing for each date)
+yr   reserves   UPR  recov  ceded-UPR  float(A2)  less prem.recv+DAC = float(C1)  investments  equity  float/inv  inv/eq
+2015     48295  11971   8910    656      50700        42414        70470   23598      0.72   2.99
+2016     47949  12329   8287    589      51402        42757        70488   23221      0.73   3.04
+2017     49650  12915   8309    551      53705        44536        72502   23731      0.74   3.06
+2018     50668  13555   8370    578      55275        45649        72278   22894      0.76   3.16
+2019     51849  14604   8235    689      57529        47347        77884   25943      0.74   3.00
+2020     54521  15222   8350    772      60621        50434        84423   29201      0.72   2.89
+2021     56907  16469   8452    902      64022        53395        87375   28887      0.73   3.02
+2022     58649  18240   8063   1024      67802        56044        80454   21560      0.84   3.73
+2023     61627  20872   8143   1150      73206        59618        88810   24921      0.82   3.56
+2024     64093  22289   8000   1202      77180        62576        94223   27864      0.82   3.38
+2025     65737  22431   7886   1283      78999        64489       101182   32894      0.78   3.08
+
+UNDERWRITING (pre-tax, USD M). cal = premiums x (1 - combined ratio); AY booked = cal + prior-year change;
+AY developed = AY booked - later development of that AY in the tables (positive development = adverse).
+yr  premiums  CR   cal.UW  PYD(roll)  AYbooked  laterdev  AYdeveloped  AYdev/prem  avg float  cost(cal)  cost(AY)  T30
+2016    24534  92.0    1963     -680      1283     -606        1889       7.7%     51051    -3.84%    -3.70% 2.59%
+2017    25683  97.9     539     -458        81     -489         570       2.2%     52554    -1.03%    -1.09% 2.89%
+2018    27059  96.9     839     -406       433     -118         551       2.0%     54490    -1.54%    -1.01% 3.11%
+2019    28272  96.5     990      164      1154      258         896       3.2%     56402    -1.75%    -1.59% 2.58%
+2020    29044  95.0    1452     -267      1185     -667        1852       6.4%     59075    -2.46%    -3.14% 1.56%
+2021    30855  94.5    1697     -484      1213     -605        1818       5.9%     62322    -2.72%    -2.92% 2.06%
+2022    33763  95.6    1486     -537       949      -78        1027       3.0%     65912    -2.25%    -1.56% 3.11%
+2023    37761  97.0    1133      -38      1095     -217        1312       3.5%     70504    -1.61%    -1.86% 4.09%
+2024    41941  92.5    3146     -548      2598     -522        3120       7.4%     75193    -4.18%    -4.15% 4.41%
+2025    43914  89.9    4435     -939      3496        0        3496       8.0%     78090    -5.68%    -4.48% 4.78%
+
+all ten 2016-2025      avg cal UW    1768  avg AY-developed UW    1653  avg float   62559  cost cal  -2.83%  cost AY  -2.64%  avg T30 3.12%
+mature AY 2016-2023    avg cal UW    1262  avg AY-developed UW    1239  avg float   59039  cost cal  -2.14%  cost AY  -2.10%  avg T30 2.75%
+first half 2016-2020   avg cal UW    1157  avg AY-developed UW    1152  avg float   54714  cost cal  -2.11%  cost AY  -2.10%  avg T30 2.55%
+second half 2021-2025  avg cal UW    2379  avg AY-developed UW    2154  avg float   70404  cost cal  -3.38%  cost AY  -3.06%  avg T30 3.69%
+last five 2021-2025    avg cal UW    2379  avg AY-developed UW    2154  avg float   70404  cost cal  -3.38%  cost AY  -3.06%  avg T30 3.69%
+
+coverage of later development by accident year (table:development):
+2016 Business Insurance / General Liability:+110, Commercial Multi-Peril:-60, Workers’ Compensation:-676, Bond & Specialty Insurance / General Liability:+1, International - Canada:+58, Commercial Property:-83, Commercial Automobile:+139, Fidelity and Surety:-11, Automobile:-34, Homeowners (excluding Other):-50
+2017 Business Insurance / General Liability:+180, Commercial Multi-Peril:+57, Workers’ Compensation:-612, Bond & Specialty Insurance / General Liability:+40, International - Canada:+53, Commercial Property:-81, Commercial Automobile:+136, Fidelity and Surety:-3, Automobile:-117, Homeowners (excluding Other):-142
+2018 Business Insurance / General Liability:+351, Commercial Multi-Peril:+160, Workers’ Compensation:-550, Bond & Specialty Insurance / General Liability:+94, International - Canada:+27, Commercial Property:-23, Commercial Automobile:+100, Fidelity and Surety:+0, Automobile:-48, Homeowners (excluding Other):-229
+2019 Business Insurance / General Liability:+305, Commercial Multi-Peril:+85, Workers’ Compensation:-325, Bond & Specialty Insurance / General Liability:+58, International - Canada:+18, Commercial Property:-35, Commercial Automobile:+116, Fidelity and Surety:-10, Automobile:-1, Homeowners (excluding Other):+47
+2020 Business Insurance / General Liability:+103, Commercial Multi-Peril:-101, Workers’ Compensation:-534, Bond & Specialty Insurance / General Liability:-99, International - Canada:-36, Commercial Property:+0, Commercial Automobile:+0, Fidelity and Surety:+0, Automobile:+0, Homeowners (excluding Other):+0
+2021 Business Insurance / General Liability:+120, Commercial Property:-29, Commercial Multi-Peril:-80, Commercial Automobile:+48, Workers’ Compensation:-190, Bond & Specialty Insurance / General Liability:-158, Fidelity and Surety:-208, Automobile:-13, Homeowners (excluding Other):-66, International - Canada:-29
+2022 Business Insurance / General Liability:+318, Commercial Property:+34, Commercial Multi-Peril:+67, Commercial Automobile:+120, Workers’ Compensation:-145, Bond & Specialty Insurance / General Liability:-114, Fidelity and Surety:-162, Automobile:-69, Homeowners (excluding Other):-132, International - Canada:+5
+2023 Business Insurance / General Liability:+131, Commercial Property:-49, Commercial Multi-Peril:-8, Commercial Automobile:+27, Workers’ Compensation:-2, Bond & Specialty Insurance / General Liability:+22, Fidelity and Surety:+19, Automobile:-174, Homeowners (excluding Other):-192, International - Canada:+9
+2024 Business Insurance / General Liability:-25, Commercial Property:-40, Commercial Multi-Peril:-37, Commercial Automobile:-92, Workers’ Compensation:-8, Bond & Specialty Insurance / General Liability:+72, Fidelity and Surety:-97, Automobile:-191, Homeowners (excluding Other):-106, International - Canada:+2
+2025 Business Insurance / General Liability:+0, Commercial Property:+0, Commercial Multi-Peril:+0, Commercial Automobile:+0, Workers’ Compensation:+0, Bond & Specialty Insurance / General Liability:+0, Fidelity and Surety:+0, Automobile:+0, Homeowners (excluding Other):+0, International - Canada:+0

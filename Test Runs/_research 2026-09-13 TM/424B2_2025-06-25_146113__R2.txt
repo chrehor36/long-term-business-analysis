@@ -1,0 +1,349 @@
+ 
+ XML
+ 7
+ R2.htm
+ IDEA: XBRL DOCUMENT
+ v3.25.2 
+ Offerings
+ | 
+ Jun. 25, 2025 
+ USD ($) 
+ shares
+ | 
+ Offering: 1 | 
+ | 
+ Offering: | 
+ | 
+ Fee Previously Paid | 
+ false 
+ | 
+ Rule 457(r) | 
+ true 
+ | 
+ Security Type | 
+ Non-Convertible Debt 
+ | 
+ Security Class Title | 
+ $500,000,000 4.186% Senior Notes due 2027 
+ | 
+ Amount Registered | shares | 
+ 500,000,000 
+ | 
+ Proposed Maximum Offering Price per Unit | 
+ 1 
+ | 
+ Maximum Aggregate Offering Price | 
+ $ 500,000,000 
+ | 
+ Fee Rate | 
+ 0.01531% 
+ | 
+ Amount of Registration Fee | 
+ $ 76,550 
+ | 
+ Offering Note | 
+ 1 | 
+ Final prospectus supplement 
+ | 
+ | 
+ Offering: 2 | 
+ | 
+ Offering: | 
+ | 
+ Fee Previously Paid | 
+ false 
+ | 
+ Rule 457(r) | 
+ true 
+ | 
+ Security Type | 
+ Non-Convertible Debt 
+ | 
+ Security Class Title | 
+ $500,000,000 4.450% Senior Notes due 2030 
+ | 
+ Amount Registered | shares | 
+ 500,000,000 
+ | 
+ Proposed Maximum Offering Price per Unit | 
+ 1 
+ | 
+ Maximum Aggregate Offering Price | 
+ $ 500,000,000 
+ | 
+ Fee Rate | 
+ 0.01531% 
+ | 
+ Amount of Registration Fee | 
+ $ 76,550 
+ | 
+ Offering Note | 
+ 1 | 
+ Final prospectus supplement 
+ | 
+ | 
+ Offering: 3 | 
+ | 
+ Offering: | 
+ | 
+ Fee Previously Paid | 
+ false 
+ | 
+ Rule 457(r) | 
+ true 
+ | 
+ Security Type | 
+ Non-Convertible Debt 
+ | 
+ Security Class Title | 
+ $500,000,000 5.053% Senior Notes due 2035 
+ | 
+ Amount Registered | shares | 
+ 500,000,000 
+ | 
+ Proposed Maximum Offering Price per Unit | 
+ 1 
+ | 
+ Maximum Aggregate Offering Price | 
+ $ 500,000,000 
+ | 
+ Fee Rate | 
+ 0.01531% 
+ | 
+ Amount of Registration Fee | 
+ $ 76,550 
+ | 
+ Offering Note | 
+ 1 | 
+ Final prospectus supplement 
+ | 
+ | 
+ X | 
+ - Definition The amount of securities being registered.
+ + References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_AmtSctiesRegd | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:nonNegativeDecimal2ItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - Definition Total amount of registration fee (amount due after offsets).
+ + References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_FeeAmt | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:nonNegative1TMonetary2ItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - Definition The rate per dollar of fees that public companies and other issuers pay to register their securities with the Commission.
+ + References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_FeeRate | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ dtr-types:percentItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - Definition The maximum aggregate offering price for the offering that is being registered.
+ + References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_MaxAggtOfferingPric | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:nonNegative100TMonetary2ItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - Definition The maximum offering price per share/unit being registered.
+ + References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_MaxOfferingPricPerScty | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:nonNegativeDecimal4lItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_OfferingNote | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ dtr-types:textBlockItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - Definition The title of the class of securities being registered (for each class being registered).
+ + References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_OfferingSctyTitl | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:securityTitleItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - Definition Type of securities: "Asset-backed Securities", "ADRs/ADSs", "Debt", "Debt Convertible into Equity", "Equity", "Face Amount Certificates", "Limited Partnership Interests", "Mortgage Backed Securities", "Non-Convertible Debt", "Unallocated (Universal) Shelf", "Exchange Traded Vehicle Securities", "Other"
+ + References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_OfferingSctyTp | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:securityTypeItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References No definition available.
+ + Details 
+ Name: | 
+ ffd_OfferingTable | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ xbrli:stringItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References No definition available.
+ + Details 
+ Name: | 
+ ffd_PrevslyPdFlg | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ xbrli:booleanItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ -Section 457
+ -Subsection r
+ + Details 
+ Name: | 
+ ffd_Rule457rFlg | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ xbrli:booleanItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - Details 
+ Name: | 
+ ffd_OfferingAxis=1 | 
+ Namespace Prefix: | 
+ | 
+ Data Type: | 
+ na | 
+ Balance Type: | 
+ | 
+ Period Type: | 
+ | 
+ | 
+ X | 
+ - Details 
+ Name: | 
+ ffd_OfferingAxis=2 | 
+ Namespace Prefix: | 
+ | 
+ Data Type: | 
+ na | 
+ Balance Type: | 
+ | 
+ Period Type: | 
+ | 
+ | 
+ X | 
+ - Details 
+ Name: | 
+ ffd_OfferingAxis=3 | 
+ Namespace Prefix: | 
+ | 
+ Data Type: | 
+ na | 
+ Balance Type: | 
+ | 
+ Period Type: | 
+ | 
+ | 

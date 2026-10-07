@@ -1,0 +1,89 @@
+- **CL (Colgate-Palmolive Company), 2026-09-13 (resumed and finished 2026-09-18) - ALL FOUR BUSINESS GATES IN; FAIL AT Q5 ON PRICE (BELOW THE ~10% FLOOR [E4-28],
+  NOT RANKED, WATCH-LIST ONLY - the ASML and PNR shape, not a finding against the business). Q1 IN (legible from the filings, [E3-31]); **Q2 IN, class NARROW, and
+  PROVISIONAL for Pet Nutrition only** ([E3-03]'s three conditions hold for Oral Care, 44% of 2025 sales and 39-45% of the world's toothpaste dollars for twelve filed
+  years, with the 1991 demonstration satisfied by the 2022-23 pricing record and by 61.5-101.0% pre-tax on net tangible operating assets; **[E4-32] direction FAILS
+  across the decade**, share 44.7% (2015) to 39.4% (2021) to 41.3% (2025) while advertising went 9.4% to 13.3% of sales; **[E4-37] firing in North America**, net
+  selling price -1.9% and -0.2% in 2024-25 with volume -9.3 points over five years; criterion (2) NOT shown for Personal and Home Care, 33% of sales); **Q3 IN as a
+  qualitative OVERLAY** on [E3-43]'s own rule, no integrity disqualifier found, with four findings carried; **Q4 IN on survival**, owner earnings hand-built, [E4-20]
+  GREAT, [E5-11] 2 of 3. WAVE 5, the fourth of the eight "capex unresolved [E5-20]" names; resumed from disk after the first session was killed by a session limit and
+  the scheduler was rate limited for five days.**
+  `Test Runs/2026-09-13 Run - CL Colgate-Palmolive.md` (Step 0 `d4398ab`, Q1 `0c3de6e` by the killed session; Q2 `ea8e241`, Q3 `a0f392b`, Q4 `32f5edb`, Q5-Q6
+  `cf49823`, audit and register `c0b0ece`), `check_framework.py` PASS.
+  **THE PAIR WAS STRUCK FRESH AND BOTH PAIRS ARE RECORDED** ([E4-15] asks for the currently observed rate and Step 0's was five days old). Used for every figure:
+  price **US$87.73** (2026-09-17 close, `tools/sources.py:price()`, aggregator flagged) x **797,172,829 shares** x 1.0 = cap **US$69,936.0M**; **sovereign USD 30-year
+  5.29%** (US Treasury daily par yield curve, the issuing authority, **09/17/2026**). Left as filed and NOT used: Step 0's **5.35%** (09/11/2026) and **US$86.80**
+  (2026-09-11), cap $69,194.6M. **Count:** the 10-Q cover for the quarter ended 2026-06-30, accession `0000021665-26-000042`, *"Common stock, $1.00 par value |
+  797,172,829 | June 30, 2026"*; single class, no preference outstanding, last split 2013, factor after the measurement date 1.0. **EDGAR re-queried 2026-09-18:** the
+  only filings since 2026-09-13 are eight Forms 4 of 2026-09-15, all code F, *"Withholding of shares for payment of tax liability incident to the vesting of
+  restricted stock units"* - no open-market sale, no new periodic filing. Those Forms 4 report the withholding at **$86.80 on 2026-09-11**, the identical figure the
+  aggregator gave Step 0 for that date: a primary-filing confirmation of an aggregator quote. **No live deal**; the 8.01 filings are two segment recasts, six note
+  offerings and a 2021 mini-tender response, so the quote is not a spread.
+  **The skip reason, tested - a TOOLING ARTEFACT, as at AMZN, and the mechanism is now named exactly:** the XBRL tag changed. `PaymentsToAcquirePropertyPlantAndEquipment`
+  carries 10-K years 2011-2022 and stops; `PaymentsToAcquireProductiveAssets` carries 2020-2025. A reader following only the first tag sees capex end after FY2022.
+  **The capex line never left the face of the statement** (*"Capital expenditures in the year ended December 31, 2025 were $564, an increase from $561 in 2024"*), and
+  **companyfacts has no early-year hole** of the NVDA kind. **[E5-20] asked separately on the filing: NO, Colgate is not in the exception class** - net PP&E $4,660M
+  on $20,382M of sales, capex 2.1-3.9% of sales, and 2016-2025 capex $5,420M against depreciation $4,719M (1.15x) and D&A $5,390M (1.01x), which is [E2-41] and
+  [E3-44]'s default case. **(c) is nevertheless set at total capex** on **[E4-47]**'s inflation condition, evidenced by Latin America's own capex/D&A of **1.35x**.
+  **Owner earnings (hand-built from the filed cash-flow statements, `oe.py`; never a net-income proxy):** 5-yr 2021-25 **$2,833M** (the [E2-42] default; $2,871M on the
+  D&A end; **$2,763M** with the working-capital release stripped); 10-yr 2016-25 $2,738M ($2,680M stripped); 3-yr 2023-25 $3,269M ($2,879M stripped - the three-year
+  window carries a mean working-capital release of **+$390M a year** against **+$58M** across the decade, and is the window to distrust); TTM to 2026-06-30 $3,680M;
+  worst year 2022 **$1,735M**. No window starts before 2016 (Venezuela deconsolidated at the end of 2015, and the FY2016 organic definition says so). SBC resolves
+  (3.6% of OCF across the decade, never above 4.9%). **ESOP closed on the filing:** *"Annual expense related to the ESOP was $ 0 in 2025, 2024 and 2023."*
+  **Windage spent TWICE and counted** ((c) at capex not depreciation; the working-capital release stripped); a third, the draft's ESOP-dividend deduction, was removed
+  as unjustified.
+  **Q2 (the competitor row):** ten peers - PG, Unilever, Haleon, Kenvue, Church & Dwight, Kimberly-Clark, Clorox, General Mills, J.M. Smucker, Freshpet - same metrics,
+  same NTOA construction as the subject (`peers/peer_metrics.py`), filings on disk. **CL and PG top the row on returns on capital and nobody else is close** (CL
+  61.5-91.0%, PG 77.8-91.7%, KMB 24.5-37.4%, CLX 25.4-67.6%). **The physical series is poor across the whole row** and CL is at its better end: Kenvue negative in all
+  three filed years, Clorox -10 then -7, Kimberly-Clark negative three straight years, General Mills' tonnage negative in four of six; Unilever is the only peer
+  positive in each filed year. **Nestle Purina and Mars are not SEC registrants and are named as unmeasurable** (the GIS sweep across six 10-Ks returns zero hits for
+  "Purina", zero for "Mars" whole-word and zero for "Hill's"), so **Pet Nutrition is held PROVISIONAL**; Oral Care is not, and carries the verdict. **[E3-33] untapped
+  pricing power refused outright under [E5-28]. [E4-04] not engaged:** the spending defends the same trademarks, not their replacement ([E5-23], [E3-49]).
+  **The decade in one table (filed components, 2016-2025):** worldwide volume **+7.7** points, price **+38.0**, FX **-20.4**; Oral/Personal/Home Care volume **+2.9**;
+  Hill's volume **+31.7** with price +49.1 and FX only -3.4. **Latin America priced +76.8 against FX -56.2 and Africa/Eurasia +76.2 against -62.6**, so most company
+  pricing is devaluation recovery; hard-currency pricing ran about **1%/yr** (North America +12.9, Europe +11.0, Asia Pacific +17.2 against FX -16.8).
+  **Q3 (recorded, governing):** no SEC action, no restatement, no auditor change, no qualified opinion, no matter naming an officer or director; **EBITDA promotion
+  [E4-29] returns ZERO files across every Colgate document on disk, releases included**. Two subsidiary competition-law fines (France 2014 $57M; Greece 2017 $11M,
+  reduced to $10.5M with the parent dismissed) and the ERISA pension-calculation suit, settled $332M in Q3 2025 - none is personal misconduct as [E5-16] uses the
+  words. **Four findings carried, two binding later sections:** [E2-30](2) with **[E2-56]** - about **$2.4bn** into a skin-health adjacency in 2018-19 while global
+  toothpaste share fell 44.0% to 39.4%, **$2,211M written off in three charges** with a statement of continued belief each time and no post-mortem filed
+  (**[E2-57]**); **[E5-33]** - program charges excluded from the headline measure in **thirteen of fourteen years**, about $104M a year, which bound Q4 to add back no
+  restructuring; **[E5-30]/[E3-48]** - annual EPS guidance under a stated objective of *"delivering consistent, compounded earnings per share growth"*, scored against
+  outturn (organic met or beaten four of five closed years, **2025 missed at +1.4% against 3-5%**; Base Business EPS missed 2022 at -7% against low-to-mid-single-digit
+  growth, which the January 2023 release calls *"in line with the Company's full year guidance"*, true only of guidance as revised); **[E5-08](2) left OPEN at Q3 and
+  closed at Q5** - repurchases at $78.54 (Q4 2025) to $95.90 (February 2026). Incentives **[E4-27]**: bonus 40% Base Business EPS, 40% organic sales growth, 20%
+  strategic initiatives; CEO 2025 total **$16,478,196** against a median of **$59,655**, **276x**; pay vests on adjusted per-share and growth measures, **not on
+  returns on capital**, which is the number [E2-01] and [E3-46] make the test.
+  **Q4 (recorded, governing):** IN. **[E4-20] GREAT** - owner earnings per diluted share $2.70 (2016) to $4.29 (2025), **+5.3%/yr**, on net tangible operating assets
+  that did not grow. **[E5-11] scores 2 of 3 and the fail is recorded rather than argued around: strength 2 FAILS** - $1,370M of cash is not *"massive liquid
+  assets"*, and the 10-K points at an *"undrawn revolving credit facility supporting our commercial paper programs"*, which is **[E5-39]**'s kindness of strangers.
+  Strengths 1 and 3 pass comfortably (OCF never below $2,556M in ten years; largest maturity year $1,115M against $4,198M; supplier finance *"not material"*; pensions
+  underfunded about $1,283M). **[E2-54] coverage 13.5x** after capex. **Named death: not insolvency but the transfer of the franchise's rent to the owner of the
+  shelf** - Walmart at *"approximately 11%"* of net sales, retailers with *"greater bargaining strength than we do"* and *"exclusive access to valuable first-party
+  consumer data"*, *"AI-aided category pricing pressures and algorithms"*, private label on the same shelf, and trade promotion deducted before net sales are
+  reported. Modelled from North America where it has already run (segment margin **32.4% in 2016 to 21.5% in 2025** on the 8-K recast basis that removes skin health,
+  about a point a year): run company-wide for a decade it **halves owner earnings to about $1,450M**. **Likelihood: a REAL POSSIBILITY for the developed-market third,
+  a LOW-LEVEL POSSIBILITY for the whole**, because two thirds of profit is earned where no customer has 11% of anything and those regions' margins did not fall over
+  the decade. **New shape PROPOSED, pending the operator: #19 THE SHELF.**
+  **Q5 (reportable, the sequence having been satisfied):** **on every window the owner-earnings yield is BELOW the thirty-year Treasury** - 3.83% / 3.92% / **4.05%** /
+  4.67% / 5.26% against **5.29%**, or -1.46 to -0.03 points; multiple 19.0x to 26.1x. Adding the realised +5.3%/yr growth in owner earnings per share, granted at face
+  value, gives an expectancy of 9.13% to 10.56%; **on the [E2-42] default five-year window it is 9.35%, which is 0.65 points BELOW the ~10% floor**. Only the trailing
+  twelve months, a single year rather than a mean, clears. **The price already assumes about 5.95%/yr of perpetual growth** against a record of +5.3%/yr of which 1.1
+  points a year came from the share count. **[E4-35] is NOT the binding constraint and is not misapplied** (5.95% is not a 15% claim); **[E4-44]** and **[E2-63]** are,
+  and the ceiling is named: returns on tangible operating capital are already 79-101% and cannot usefully rise. **Value, in round numbers [E4-01]: roughly $50 to $75
+  a share** on the default window, widening to roughly $50 to $90 only if the three-year window and the full decade growth rate are granted together. **Bar 2 returns
+  "no"**; **Bar 1's end margin is deliberately NOT stacked** because windage was already spent twice at Q4.
+  **Q6 and the bands - armed, because the business cleared all four gates (the QLYS ruling):** **$75.61** (the floor met with the full 5.3% growth granted) and
+  **$50.77** (the floor met on g = 3.0%, the growth the hard-currency pricing record and the buyback actually support), each a prompt for a **full v4.1 re-run, not a
+  purchase**, and both void if any Q2 falsifier fires. Five business falsifiers read annually off the 10-K **[E4-17]** (toothpaste share below 39.4%; a third and
+  fourth consecutive year of negative North American price; advertising above 14.0% of sales with share still below 41.3%; two consecutive negative volume years
+  **[E4-55]**; the shelf mechanism spreading beyond the concentrated-retail third), three of Q3 and two of Q4. **A `PORTFOLIO.md` row is added, unranked.**
+  **Defects and corrections:** **the killed session's drafts carried two hard-sequence violations, both found and corrected on the record** - `sec_q3_draft.md`
+  asserted *"a franchise's earning power"* as a premise before Q2 existed, and imported a value range from an unrun Q5 (*"near $50-75 a share"*), which is deleted;
+  a third error in the same draft's capital-allocation row is corrected with the filed lines (uses $29,326M, not $29,266M, against $28,615M of operating cash less
+  capex: a gap of about $711M, not a structural reliance on debt); and the owner-earnings draft's ESOP-dividend deduction is removed as unjustified. Two blank cells
+  in the volume/price extraction filled from the filings (Latin America 2018, Africa/Eurasia 2023) and six others spot-checked, all matching. **New tooling defect:**
+  `_research 2026-09-13 CL/ledger.py` raises `UnicodeEncodeError` on rows with characters outside cp1252 (it hits [E4-55] and [E2-58]) when stdout is the Windows
+  console codepage; workaround `PYTHONIOENCODING=utf-8`. **Reported and NOT edited:** `PORTFOLIO.md`'s header still reads *"Q5 sets no hurdle - it RANKS [E4-21]"*,
+  the pre-Test-D wording the framework rewrote on 2026-08-28 and `CLAUDE.md` corrected on 2026-09-02; its ranked rows already apply the floor correctly.
+  **Brief errors:** `_brief_resume_2035.md` says only `SECTION_PG.md` and `SECTION_GIS.md` were finished and lists CHD and KMB as having scratch scripts but no
+  section - **`SECTION_CHD.md` and `SECTION_KMB.md` both exist, complete, written 2026-09-13 20:41**; four peer sections were finished, not two.

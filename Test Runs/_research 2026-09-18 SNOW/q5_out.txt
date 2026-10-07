@@ -1,0 +1,12 @@
+case | $M | yield on plain cap | yield on perimeter cap | vs sovereign (pts) | perpetual g to reach 10% | g to reach 5.29%
+5y FY2022-26, convention, capex end | -498.2 | -0.42% | -0.40% | -5.69 | refused: a negative base has no growth rate | refused
+5y, convention, D&A end | -554.9 | -0.46% | -0.45% | -5.74 | refused: a negative base has no growth rate | refused
+3y FY2024-26, capex end | -516.7 | -0.43% | -0.42% | -5.71 | refused: a negative base has no growth rate | refused
+TTM to 2026-07-31, capex end | -446.6 | -0.37% | -0.36% | -5.65 | refused: a negative base has no growth rate | refused
+5y, capex end, without the deferred-revenue increment | -1,039.5 | -0.87% | -0.84% | -6.13 | refused: a negative base has no growth rate | refused
+display only: TTM cash flow BEFORE stock compensation (the company's own free cash flow) | 1,195.3 | 1.00% | 0.97% | -4.32 | 8.9% | 4.3%
+display only: FY2027 guided adjusted FCF, 23% x ~$6,357M revenue (product $6,070M / 0.9548) | 1,462.2 | 1.22% | 1.19% | -4.10 | 8.7% | 4.1%
+
+value per share = base / (0.10 - g) / 364.5M shares (352.8M + 11.7M net convertible claim)
+TTM before SBC g=3%: $47 | g=5%: $66 | g=7%: $109
+FY2027 guided adj. FCF g=3%: $57 | g=5%: $80 | g=7%: $134

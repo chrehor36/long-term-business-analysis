@@ -1,0 +1,17 @@
+year          OCF      SBC    grant   capex    D&A  OE capex   OE D&A OE maxSBC  SBC/OCF
+FY2022      -55.0    515.6    981.5    11.8   14.7    -582.4   -585.3   -1048.3      nan
+FY2023      -10.0    369.8    537.6    23.8   18.7    -403.6   -398.5    -571.4      nan
+FY2024      299.1    372.0    378.9     7.3   22.6     -80.2    -95.5     -87.2    124.4
+FY2025      320.6    358.2    359.1    14.9   17.2     -52.5    -54.8     -53.5    111.7
+FY2026      371.2    290.7    231.7    19.0   17.0      61.5     63.6      61.5     78.3
+5y FY2022-26 capex end -211.5  D&A end -214.1  charge-or-grant max -339.8  with cash acquisitions (capex end) -220.4
+3y FY2024-26 capex end -23.7  D&A end -28.9  charge-or-grant max -26.4  with cash acquisitions (capex end) -32.0
+5y SBC / 5y OCF = 205.9%  3y = 103.0%
+TTM OCF 373.2 SBC 234.6 capex 10.3 D&A 26.0 -> OE capex 128.4, D&A 112.7; H1 FY2027 grant value 148.3 (x2 = 296.5) -> OE at grant run-rate 66.4
+cap $M 6978.3 ; cash+securities 1405 ; EV 5573.3
+  OE -339.8 -> yield on cap -4.87%, on EV -6.10%
+  OE -211.5 -> yield on cap -3.03%, on EV -3.79%
+  OE -23.7 -> yield on cap -0.34%, on EV -0.43%
+  OE 128.4 -> yield on cap 1.84%, on EV 2.30%
+  OE 112.7 -> yield on cap 1.61%, on EV 2.02%
+OE needed for 10% on cap: 698 ; on EV: 557 ; for 5.34% on cap: 373

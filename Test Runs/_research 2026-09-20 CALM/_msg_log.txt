@@ -1,0 +1,11 @@
+CALM: overnight log line -- wave 7 name 5, FAIL at Q2, and the cap_flag is a drawdown detector
+
+Cycle record for the unattended run of CALM (Cal-Maine Foods). This brief
+dispatched the run as the whole cycle rather than as a delegated agent, so the
+line is written by the run itself and says so.
+
+State read, name claimed at dispatch, six fold steps performed, logged here.
+
+check_framework.py PASS before this commit.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

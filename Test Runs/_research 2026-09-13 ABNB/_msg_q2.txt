@@ -1,0 +1,15 @@
+ABNB run: Q2 OUT on [E3-03] criterion 2 - close substitutes on both sides, fee record is price defence
+
+Hosts: Airbnb's 10-K says hosts "often cross-list"; Expedia's FY2022-FY2025 10-Ks name property managers
+"listing on Airbnb, Vrbo, and Booking.com"; exclusivity only ever a management belief (Q3 2023 letter).
+Guests: Booking.com homes listings ~2.12M (2019) -> ~3.9M (2025), alternative accommodations ~29% -> ~36%
+of its room nights; Booking 1,235M room nights 2025 against Airbnb 533M. Pricing [E2-44](1), [E4-37]: take
+rate 13.54 / 13.57 / 13.41% (2023-25), below Booking's 14.46%; the 2025-26 move to a single 15.5% host fee
+is take-rate-neutral by design and tied in the 10-K to cross-listed homes looking cheaper elsewhere.
+Competitor row (peers/PEER_ROW.md, built from the filings with accessions and XBRL cross-checks): 2020
+bookings ABNB -37%, BKNG -63%, EXPE -66%; marketing/revenue ABNB 13.0%, BKNG 30.4%, EXPE 55.6% (S&M);
+SBC/OCF 2021-25 ABNB 31.7%, BKNG 7.3%, EXPE 12.2%, TCOM 14.7%; (OCF-SBC-capex)/revenue 2025 ABNB 24.7%,
+BKNG 31.5%. Strongest fact against the verdict stated in full: marketing cut 2019-21 while GBV rose.
+Class NARROW, direction flat to narrowing. File closes at Q2; Q3-Q6 to be recorded, not governing.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

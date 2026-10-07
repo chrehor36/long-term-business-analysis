@@ -1,0 +1,64 @@
+R2 ARITHMETIC - Malibu segment against MasterCraft's wake segment ($ thousands)
+====================================================================================================
+
+1. ADJUSTED BASIS AS FILED (each filer's own segment measure; ex D&A, ex stock pay, ex one-off items).
+   Asymmetry: Malibu's segment carries only PART of its corporate cost; MasterCraft's carries ALL of it.
+   The asymmetry favours Malibu, so a Malibu figure at or below MasterCraft's here is at or below on any common treatment that charges corporate cost to the segment.
+   FY2023: Malibu 186,873/  636,247 =  29.4%   MasterCraft 110,292/  468,656 =  23.5%   gap  +5.8 pts
+   FY2024: Malibu  42,579/  279,131 =  15.3%   MasterCraft  38,862/  262,736 =  14.8%   gap  +0.5 pts
+   FY2025: Malibu  60,611/  312,698 =  19.4%   MasterCraft  29,771/  240,763 =  12.4%   gap  +7.0 pts
+   FY2026: Malibu  50,674/  312,907 =  16.2%   MasterCraft  45,855/  271,177 =  16.9%   gap  -0.7 pts
+
+2. ADJUSTED BASIS, MasterCraft's corporate rule mirrored: Malibu's unallocated recurring corporate cost
+   (segment total less consolidated Adjusted EBITDA) charged to the Malibu segment, as MasterCraft charges all of its own to its wake segment.
+   FY2023: unallocated recurring corporate 19,458; Malibu (186,873 - 19,458)/636,247 =  26.3%   MasterCraft  23.5%
+   FY2024: unallocated recurring corporate 18,536; Malibu (42,579 - 18,536)/279,131 =   8.6%   MasterCraft  14.8%
+   FY2025: unallocated recurring corporate 30,369; Malibu (60,611 - 30,369)/312,698 =   9.7%   MasterCraft  12.4%
+   FY2026: unallocated recurring corporate 23,493; Malibu (50,674 - 23,493)/312,907 =   8.7%   MasterCraft  16.9%
+
+2b. Same, but Malibu's unallocated recurring corporate spread by net-sales share (CONVENTION, ours: Malibu's own allocation key
+    for the part it does allocate is 'proportionate budgeted net sales'; actual sales used). MasterCraft left as filed, all-in, so this still favours Malibu.
+   FY2023: share 0.458; Malibu (186,873 - 8,917)/636,247 =  28.0%   MasterCraft  23.5%
+   FY2024: share 0.337; Malibu (42,579 - 6,241)/279,131 =  13.0%   MasterCraft  14.8%
+   FY2025: share 0.387; Malibu (60,611 - 11,759)/312,698 =  15.6%   MasterCraft  12.4%
+   FY2026: share 0.342; Malibu (50,674 - 8,038)/312,907 =  13.6%   MasterCraft  16.9%
+
+3. GAAP BASIS, the definition step 2 names for MasterCraft: segment operating income + segment D&A (stock pay and one-offs included).
+   MasterCraft, every year:
+   FY2019: (53,989 + 3,481)/311,830 =  18.4%   [10-K FY2019 0001564590-19-034678 (includes Aviara pre-launch)]
+   FY2020: (35,833 + 4,078)/236,856 =  16.9%   [10-K FY2022 0001564590-22-031335 (Aviara separated)]
+   FY2021: (73,354 + 4,479)/350,812 =  22.2%   [10-K FY2023 0000950170-23-045222]
+   FY2022: (105,341 + 4,968)/466,027 =  23.7%   [10-K FY2023 0000950170-23-045222]
+   FY2023: (101,324 + 5,555)/468,656 =  22.8%   [10-K FY2023 0000950170-23-045222]
+   FY2024: (29,573 + 5,109)/262,736 =  13.2%   [10-K FY2025 0000950170-25-111682 (sales - cost of sales - operating expenses)]
+   FY2025: (20,658 + 5,888)/240,763 =  11.0%   [10-K FY2026 0001193125-26-387432]
+   FY2026: (21,538 + 5,837)/271,177 =  10.1%   [10-K FY2026 0001193125-26-387432]
+   Malibu, old segment basis FY2019-FY2024 (segment pre-tax + segment D&A; every corporate cost and interest allocated to segments by the filer):
+   FY2019: (54,160 + 7,674)/374,611 =  16.5%
+   FY2020: (55,567 + 8,809)/354,769 =  18.1%
+   FY2021: (88,511 + 9,397)/483,525 =  20.2%
+   FY2022: (137,133 + 8,398)/607,543 =  24.0%
+   FY2023: (40,157 + 8,974)/636,247 =   7.7%   (before the $100.0M Batchelder settlement charged in FY2023:  23.4%; the filing does not say which segment carried it, the drop in Malibu pre-tax implies the Malibu segment)
+   FY2024: (-11,589 + 9,714)/279,131 =  -0.7%
+   Residual on the old basis: Malibu's segment pre-tax is after interest and other non-operating items, which MasterCraft's operating income is not.
+   Upper bound for Malibu: add back ALL consolidated interest expense and other (income) expense to the Malibu segment
+   (10-K FY2020 0001590976-20-000069 for FY2019-20; 10-K FY2022 0001590976-22-000050 for FY2021-22):
+   FY2019: Malibu  16.5% to  19.9%   MasterCraft  18.4%
+   FY2020: Malibu  18.1% to  19.7%   MasterCraft  16.9%
+   FY2021: Malibu  20.2% to  21.1%   MasterCraft  22.2%
+   FY2022: Malibu  24.0% to  25.1%   MasterCraft  23.7%
+   Malibu, new basis FY2024-FY2026: corporate cost at the operating level = segment total - depreciation - amortization - impairment/abandonment - operating income.
+   FY2024: corporate at operating level 26,607; all charged to Malibu (MasterCraft's rule): (42,579 - 26,607)/279,131 =   5.7%; by sales share 0.337: (42,579 - 8,958)/279,131 =  12.0%
+   FY2025: corporate at operating level 44,785; all charged to Malibu (MasterCraft's rule): (60,611 - 44,785)/312,698 =   5.1%; by sales share 0.387: (60,611 - 17,341)/312,698 =  13.8%
+   FY2026: corporate at operating level 50,378; all charged to Malibu (MasterCraft's rule): (50,674 - 50,378)/312,907 =   0.1%; by sales share 0.342: (50,674 - 17,236)/312,907 =  10.7%
+   MasterCraft FY2026 for comparison:  10.1% with all corporate and the $15,249K deal costs in the wake segment.
+   If only MasterCraft's deal costs are spread by sales share (0.777), its wake segment regains 3,397: (27,375 + 3,397)/271,177 =  11.3% (a floor: its other corporate overhead is not disclosed and would move the same way).
+
+4. FY2026 VERDICT ARITHMETIC (the OUT fact: Malibu FY2026 margin on MasterCraft's definition at or below MasterCraft's FY2026):
+   Adjusted, as filed (Malibu favoured)                                           Malibu  16.2%  MasterCraft  16.9%  Malibu AT OR BELOW
+   Adjusted, MasterCraft's corporate rule mirrored                                Malibu   8.7%  MasterCraft  16.9%  Malibu AT OR BELOW
+   Adjusted, Malibu corporate by sales, MasterCraft all-in (Malibu favoured)      Malibu  13.6%  MasterCraft  16.9%  Malibu AT OR BELOW
+   GAAP op income + D&A, MasterCraft's corporate rule mirrored                    Malibu   0.1%  MasterCraft  10.1%  Malibu AT OR BELOW
+   GAAP, both spread by sales (MasterCraft: deal costs only, a floor)             Malibu  10.7%  MasterCraft  11.3%  Malibu AT OR BELOW
+   GAAP, Malibu by sales, MasterCraft all-in (asymmetric, Malibu favoured)        Malibu  10.7%  MasterCraft  10.1%  Malibu ABOVE
+   The last row is not a same-definition comparison (each company's corporate cost is treated differently) and is shown only because it is the one row where Malibu is above.

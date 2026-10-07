@@ -1,0 +1,7 @@
+CRUS Cirrus Logic: fold - register entry 164, _wave7_done 32, narrative fold (Q2 OUT on the business: the one customer that buys 91% caps prices by contract and dual-sources, and customers free to choose have left); check_framework PASS
+
+Queue file staged from the HEAD blob plus this entry only; the CRM re-look's
+uncommitted hunks in the queue file and tools/alerts.json are left in the
+working tree, not staged.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

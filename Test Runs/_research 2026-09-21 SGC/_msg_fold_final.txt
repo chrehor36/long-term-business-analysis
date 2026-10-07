@@ -1,0 +1,48 @@
+SGC fold, all six steps: register entry 153, wave7_done at 21, narrative fold, no price band
+
+WAVE 7, name 21 of 218. Register entry 153, re-derived by counting line-start `^- \*\*` in the
+slice taken BY INDEX from the `## COMPLETED FROM THE QUEUE` heading line (502) to the
+`## THE WRITE-EARLY PROTOCOL` heading line (12368): 152 entries stood above, 153 after
+insertion, verified by recount. SGC appeared nowhere in the file before this, confirming
+branch B.
+
+VERDICT: Q1 IN, Q2 OUT on the business. [E3-03] criterion 2 fails on the registrant's own
+filed words about all three of its markets, and its own accounting wrote every dollar of
+purchased goodwill to zero in 2022.
+
+Price $12.36 live 2026-09-21 09:44 ET (aggregator, flagged). Shares 15,945,201 from the cover
+of the 10-Q for the quarter ended 2026-06-30, accession 0001437749-26-025511. Cap $197.1M,
+against a screen cap of 196 that REPRODUCES for once. Sovereign 5.34%, US Treasury daily par
+yield curve 30-year, 2026-09-18, struck fresh from the issuing authority.
+
+The six fold steps:
+1. Register entry at the top of COMPLETED FROM THE QUEUE, carrying price, share count, cover
+   accession, cap, sovereign and the PASS/FAIL line.
+2. SGC appended to Screens/_daily/_wave7_done.txt, now 21 lines, matching order lines 1-21
+   exactly and line 21 of the order file is SGC.
+3. Narrative fold appended to the PREPPED READING LIST: the finding, the competitor row, the
+   priors refuted, the [E4-25] rebuild, two documentation findings, the reversal condition and
+   the [E4-51] argument against the verdict.
+4. NO price band and no PORTFOLIO row: the QLYS ruling of 2026-09-07 bars a price alert on a
+   name that failed on the business. Reversal condition recorded in words instead.
+5. check_framework.py PASS before this commit; ledger_verbatim.py also run, 311 rows.
+6. Committed with a pathspec.
+
+Two documentation findings, reported and not patched:
+- THE FRAMEWORK v4.md prints "(c) must be a guess" and "vaguely right than precisely wrong"
+  inside a blockquote headed [E2-23]. Both sentences are [E2-09]'s; the [E2-23] ledger row ends
+  at the LIFO carve-out. CLAUDE.md and the brief cite [E2-09] correctly, so the framework is the
+  odd one out. This run cites [E2-09].
+- [E2-37]'s quote_verbatim in principle_ledger.csv carries a HYPHEN where the framework prints
+  an em dash. The ledger row is the source, PRIME RULE 1. This is the IIIN finding landing again
+  on a different row.
+
+The [E4-25] rebuild the screen row ordered: the published $13M-$35M band is the top-left corner
+of the window table. Over all sixteen filed years the owner-earnings mean is $9.4M-$10.5M, and
+excluding FY2023's $24.7M inventory release the five-year mean is $0.5M-$3.2M. Carried as
+COMPUTATION - NOT A CLEARANCE; Q4 was never reached and no verdict is entered against it.
+
+62 distinct ledger ids cited, 62 verified against principle_ledger.csv, zero phantom. Fourteen
+quoted fragments matched word for word against the ledger's own quote_verbatim field.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

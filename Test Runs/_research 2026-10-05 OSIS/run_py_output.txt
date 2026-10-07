@@ -1,0 +1,46 @@
+==============================================================================
+OSI SYSTEMS INC  (OSIS)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.63%   10/02/2026   US Treasury daily par yield curve
+  price     197.93 USD   2026-10-05   (aggregator — live quote only)
+  shares    15.9M      market cap 3.16B USD
+  share basis: dei cover-page count as of 2026-08-17
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2024-06-30        -88       29        42         22       -158       -138
+    2025-06-30         98       32        44         24         22         42
+    2026-06-30        276       26        43         31        207        219
+          mean                                                  23         41
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 19 .. 39   yield 0.60%..1.22%
+  DIVERGENCE vs the 3-yr window: -19.4% on the conservative end
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                  0.74% ..  1.29%   vs sovereign 5.63%
+  2. GROWTH THE PRICE ASSUMES   36.6%  (at a 5.63% rate)
+  3. POINTS OVER THE SOVEREIGN -2.35 .. -1.77
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2017-06-30         1,230         661         569         170         207         249         242         118         242         364
+    2018-06-30         1,256         766         489          85         211         314         292         142         249         335
+    2019-06-30         1,265         713         552          96         238         274         307         133         258         400
+    2020-06-30         1,269         696         572          76         270         241         311         128         267         475
+    2021-06-30         1,384         745         640          81         291         294         320         128         276         549
+    2022-06-30         1,443         805         638          64         308         334         336         138          49         664
+    2023-06-30         1,556         830         726          77         381         338         350         141         136         736
+    2024-06-30         1,936       1,073         863          95         648         398         351         140         129         861
+    2025-06-30         2,241       1,290         951         106         838         407         387         183         464         942
+    2026-06-30         2,502       1,669         833         360         765         416         407         192         999         852
+    accessions: 0001047469-17-005596, 0001047469-18-005819, 0001047469-19-004853, 0001104659-20-097650, 0001104659-21-108619, 0001104659-22-092999, 0001104659-23-096477, 0001104659-26-099752, 0001410578-24-001571, 0001410578-25-001887
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

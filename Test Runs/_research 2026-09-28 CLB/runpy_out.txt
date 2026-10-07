@@ -1,0 +1,38 @@
+==============================================================================
+Core Laboratories Inc. /DE/  (CLB)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.49%   09/25/2026   US Treasury daily par yield curve
+  price     10.19 USD   2026-09-28   (aggregator — live quote only)
+  shares    45.9M      market cap 0.47B USD
+  share basis: dei cover-page count as of 2026-07-24
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-12-31         25       14        16         11         -5          0
+    2024-12-31         56        4        15         12         38         41
+    2025-12-31         37        7        15         11         15         19
+          mean                                                  16         20
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 9 .. 14   yield 2.01%..3.02%
+  DIVERGENCE vs the 3-yr window: -41.2% on the conservative end
+  ** The spread is part of the RANGE [E4-25], not a tiebreak.
+     "Working with a range of possibilities is the better approach."
+     Do NOT pick a window and defend it. If the combined range
+     (window spread x capex band) is too wide to reach a conclusion,
+     THAT IS THE CONCLUSION [E4-25]. A wide spread is also a Q4
+     finding about earnings reliability [E5-11]. **
+
+  1. THE YIELD                  3.42% ..  4.25%   vs sovereign 5.49%
+  2. GROWTH THE PRICE ASSUMES   -1.0%  (at a 5.49% rate)
+  3. POINTS OVER THE SOVEREIGN +0.59 .. +1.47
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

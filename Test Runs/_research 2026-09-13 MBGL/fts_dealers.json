@@ -1,0 +1,70 @@
+{
+ "CarMax": {
+  "CARFAX": 0,
+  "AutoCheck": 0
+ },
+ "Carvana": {
+  "CARFAX": 2,
+  "AutoCheck": 0
+ },
+ "AutoNation": {
+  "CARFAX": 0,
+  "AutoCheck": 0
+ },
+ "Lithia": {
+  "CARFAX": 0,
+  "AutoCheck": 0
+ },
+ "Sonic": {
+  "CARFAX": 0,
+  "AutoCheck": 0
+ },
+ "Group1": {
+  "CARFAX": 0,
+  "AutoCheck": 0
+ },
+ "Asbury": {
+  "CARFAX": 0,
+  "AutoCheck": 0
+ },
+ "Penske": {
+  "CARFAX": 1,
+  "AutoCheck": 0
+ },
+ "CarMart": {
+  "CARFAX": 0,
+  "AutoCheck": 0
+ },
+ "Vroom": {
+  "CARFAX": 0,
+  "AutoCheck": 0
+ },
+ "Copart": {
+  "CARFAX": 0,
+  "AutoCheck": 0
+ },
+ "TrueCar": {
+  "CARFAX": 0,
+  "AutoCheck": 0
+ },
+ "OPENLANE": {
+  "CARFAX": 11,
+  "AutoCheck": 11
+ },
+ "ACVA": {
+  "CARFAX": 5,
+  "AutoCheck": 5
+ },
+ "CarGurus": {
+  "CARFAX": 1,
+  "AutoCheck": 0
+ },
+ "Cars.com": {
+  "CARFAX": 6,
+  "AutoCheck": 0
+ },
+ "RBGlobal": {
+  "CARFAX": 0,
+  "AutoCheck": 0
+ }
+}

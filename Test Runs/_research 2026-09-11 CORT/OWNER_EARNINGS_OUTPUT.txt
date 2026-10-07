@@ -1,0 +1,50 @@
+GRANT-DATE VALUE OF THE YEAR'S GRANTS [E3-70] vs the accounting charge ($M):
+  2020: grants   39.4   charge   33.5   ratio 1.18x
+  2021: grants   82.2   charge   42.9   ratio 1.92x
+  2022: grants   45.8   charge   42.4   ratio 1.08x
+  2023: grants   59.2   charge   48.9   ratio 1.21x
+  2024: grants   84.6   charge   61.4   ratio 1.38x
+  2025: grants  184.5   charge   84.5   ratio 2.18x
+
+OWNER EARNINGS BY YEAR ($M)  [OCF - SBC - (c)], (c) at the conservative end (larger of D&A, capex):
+    year      OCF  SBC chg    D&A  capex  OE(charge)  OE(grant)
+    2009    -18.0      1.8   0.01   0.00       -19.8           
+    2010    -22.3      2.1   0.01   0.00       -24.4           
+    2011    -27.4      3.4   0.00   0.03       -30.9           
+    2012    -36.0      5.3   0.03   0.15       -41.5           
+    2013    -37.1      5.2   0.07   0.13       -42.4           
+    2014    -27.4      5.2   0.14   0.17       -32.8           
+    2015      3.1      6.0   0.15   0.02        -3.0           
+    2016     18.4      7.1   0.09   0.19        11.1           
+    2017     60.9     13.4   0.11   0.42        47.2           
+    2018    115.7     23.8   0.24   0.30        91.6           
+    2019    136.1     29.3   0.70   1.09       105.7           
+    2020    152.0     33.5   0.53   1.24       117.2      111.3
+    2021    167.9     42.9   1.07   0.47       123.9       84.6
+    2022    120.3     42.4   0.78   0.41        77.1       73.7
+    2023    126.7     48.9   1.04   0.14        76.7       66.4
+    2024    198.3     61.4   0.80   2.17       134.8      111.6
+    2025    142.0     84.5   1.15   0.21        56.4      -43.7
+
+WINDOW GRID: mean owner earnings ($M) and yield on $12,422.7M cap
+  window        years      charge/cons  charge/gen  grant/cons  yield chg  yield grant
+  3-yr          2023-25           89.3        90.3        44.8      0.72%        0.36%
+  4-yr          2022-25           86.2        87.1        52.0      0.69%        0.42%
+  5-yr          2021-25           93.8        94.6        58.5      0.75%        0.47%
+  6-yr          2020-25           97.7        98.5        67.3      0.79%        0.54%
+  7-yr          2019-25           98.8        99.6         n/a      0.80%             
+  8-yr          2018-25           97.9        98.6         n/a      0.79%             
+  9-yr          2017-25           92.3        92.9         n/a      0.74%             
+  10-yr         2016-25           84.2        84.7         n/a      0.68%             
+  12-yr         2014-25           67.2        67.6         n/a      0.54%             
+  15-yr         2011-25           46.1        46.5         n/a      0.37%             
+  17-yr         2009-25           38.1        38.4         n/a      0.31%             
+  ex-2025 4-yr  2021-24          103.1       103.9        84.1      0.83%        0.68%
+  2024-25       2024-25           95.6        96.7        33.9      0.77%        0.27%
+
+  charge-basis, conservative (c), all eleven windows: min 38.1  max 98.8  width 2.60x
+  grant-basis windows available (2020-25 only): min 33.9  max 84.1
+
+H1 2026 (10-Q): OCF 16.77, SBC 52.46, D&A 1.46, capex 2.73 -> OE(charge) -38.4 for six months
+TTM to 2026-06-30 (charge basis, conservative c): FY2025 + H1'26 - H1'25 where H1'25: OCF 49.07, SBC 40.85, D&A 0.93, capex 0.16
+  TTM OE(charge) = 10.6

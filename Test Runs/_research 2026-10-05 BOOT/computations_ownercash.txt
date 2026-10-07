@@ -1,0 +1,32 @@
+FY   OCF   SBC  capex  dep   A:OCF-SBC-capex  B:OCF-SBC-dep  NI    inventory chg
+2017   41.2   3.0   22.3  14.6      15.9             23.6       14.2    -12.8
+2018   44.2   2.2   24.4  16.0      17.6             26.0       28.9    -24.6
+2019   63.3   2.9   27.5  18.3      32.9             42.1       39.0    -27.7
+2020   25.3   4.9   37.2  21.2     -16.8             -0.8       47.9    -45.6
+2021  155.9   7.2   28.4  24.1     120.3            124.6       59.4     13.0
+2022   88.9   9.5   60.4  27.3      19.0             52.1      192.4   -198.5
+2023   88.9   9.7  124.5  35.9     -45.3             43.3      170.6   -115.2
+2024  236.1  12.9  118.8  49.5     104.4            173.7      147.0     -9.6
+2025  147.5  11.0  148.3  62.5     -11.8             74.0      180.9   -148.1
+2026  304.9  16.1  178.6  78.7     110.2            210.1      225.9    -97.4
+mean (2022, 2026): A 35.3  B 110.6  NI 183.4
+mean (2017, 2021): A 34.0  B 43.1  NI 37.9
+mean (2017, 2026): A 34.6  B 76.9  NI 110.6
+
+net tangible operating assets (inventory+AR+prepaid-AP-accrued+PP&E), pre-tax operating return
+FY2017: NTOA   185.5  OI   37.8  pre-tax return  20.4%
+FY2019: NTOA   207.4  OI   64.3  pre-tax return  31.0%
+FY2021: NTOA   229.6  OI   86.3  pre-tax return  37.6%
+FY2022: NTOA   411.6  OI  258.3  pre-tax return  62.8%
+FY2023: NTOA   650.8  OI  231.8  pre-tax return  35.6%
+FY2026: NTOA  1106.3  OI  299.1  pre-tax return  27.0%
+incremental FY2021->FY2026: dNTOA  876.7 dOI  212.8   24.3% pre-tax
+incremental FY2022->FY2026: dNTOA  694.7 dOI   40.8    5.9% pre-tax
+incremental FY2023->FY2026: dNTOA  455.5 dOI   67.3   14.8% pre-tax
+incremental FY2017->FY2021: dNTOA   44.1 dOI   48.5  110.0% pre-tax
+
+with lease liabilities added to capital:
+FY2021: capital   450.8  OI/capital  19.1% (OI is after rent; lease liability added as capital, conservative)
+FY2022: capital   689.3  OI/capital  37.5% (OI is after rent; lease liability added as capital, conservative)
+FY2023: capital  1032.5  OI/capital  22.5% (OI is after rent; lease liability added as capital, conservative)
+FY2026: capital  1879.8  OI/capital  15.9% (OI is after rent; lease liability added as capital, conservative)

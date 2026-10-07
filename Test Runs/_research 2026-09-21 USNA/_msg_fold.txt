@@ -1,0 +1,22 @@
+USNA fold: Q2 OUT, register entry 156, all six steps
+
+1. Register entry in WATCHLIST RUN QUEUE.md with price, share count and
+   cover accession, cap, sovereign and the PASS/FAIL line. Counted back:
+   156 entries, USNA first.
+2. USNA appended to _wave7_done.txt; 24 lines, verified.
+3. Narrative fold into the PREPPED READING LIST: the cap-flag date
+   mismatch, the two no-moat sentences, the units series, the seven-of-seven
+   competitor row, the two-event perimeter, the rebuilt 17-year spread, the
+   six-year slide, and the recorded-not-governing findings.
+4. No alerts.json band and no PORTFOLIO row (the QLYS ruling); the reversal
+   condition is in words at Q6.
+5. python tools/check_framework.py PASS before this commit. 72 ledger ids
+   in the run file, 0 phantom, against a ledger of 311 rows.
+6. Committed with a pathspec.
+
+Process defect found and corrected inside the fold: writing the register
+entry by string match on the heading inserts at line 230, inside a note that
+mentions it, not at line 502. Caught on the verification read, reverted,
+redone line-exactly. A dated note is added beside fold step 1.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

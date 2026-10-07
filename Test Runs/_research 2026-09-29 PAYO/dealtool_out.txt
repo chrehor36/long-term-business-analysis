@@ -1,0 +1,6 @@
+('0001845815', 'Payoneer Global Inc.') -> deal check FAILED (TypeError) - run it by hand
+'PAYO' -> deal check FAILED (ValueError) - run it by hand
+1845815 -> LIVE DEAL FORM: 2 filing(s) since the annual report of 2026-02-26, first PREM14A on 2026-07-31 (0001104659-26-089247). IF A DEAL IS LIVE THE QUOTE IS A SPREAD, NOT AN OWNER-EARNINGS PRICE - read it before pricing anything [ROKU, 2026-09-12].
+'0001845815' -> LIVE DEAL FORM: 2 filing(s) since the annual report of 2026-02-26, first PREM14A on 2026-07-31 (0001104659-26-089247). IF A DEAL IS LIVE THE QUOTE IS A SPREAD, NOT AN OWNER-EARNINGS PRICE - read it before pricing anything [ROKU, 2026-09-12].
+deal_filings 1845815 -> ([('DEFM14A', '2026-08-11', '0001104659-26-094105'), ('PREM14A', '2026-07-31', '0001104659-26-089247')], [('8-K', '2026-06-15', '0000950103-26-008945')], '2026-02-26')
+deal_filings '0001845815' -> ([('DEFM14A', '2026-08-11', '0001104659-26-094105'), ('PREM14A', '2026-07-31', '0001104659-26-089247')], [('8-K', '2026-06-15', '0000950103-26-008945')], '2026-02-26')

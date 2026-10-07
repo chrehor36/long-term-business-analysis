@@ -1,0 +1,14 @@
+cap $M 75486
+cons_3yr yield 2.21% pts vs sovereign -3.14 | perpetual g needed at sovereign 3.14%, at floor 7.79% | zero-growth value/share at sov $19.5, at floor $10.5
+cons_TTM yield 2.23% pts vs sovereign -3.12 | perpetual g needed at sovereign 3.12%, at floor 7.77% | zero-growth value/share at sov $19.7, at floor $10.6
+gen_2yr yield 2.68% pts vs sovereign -2.67 | perpetual g needed at sovereign 2.67%, at floor 7.32% | zero-growth value/share at sov $23.7, at floor $12.7
+DE TTM yield 3.76% (management measure, not used)
+
+conservative: 1,670, 8% x10, 3% after | at 10% floor $22/share
+central: 1,860, 12% x10, 4% after | at 10% floor $37/share
+plan-shaped: 2,024, 15% x10, 4% after | at 10% floor $51/share
+plan-shaped: 2,024, 15% x10, 5% after | at 10% floor $58/share
+base 1670 10-yr growth needed (then 4%) at the floor: 16.7%
+base 2024 10-yr growth needed (then 4%) at the floor: 14.1%
+base 1670 perpetual growth implied at the sovereign 3.07%
+base 2024 perpetual growth implied at the sovereign 2.60%

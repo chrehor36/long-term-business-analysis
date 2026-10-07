@@ -1,0 +1,42 @@
+== PUBM  years ['2021-12-31', '2022-12-31', '2023-12-31', '2024-12-31', '2025-12-31']
+  2021-12-31 rev     226.9 gp     168.6 ocf     88.7 sbc    14.1 capital   40.2 OE     34.3 OE/rev   15.1% OE/gp   20.4% sbc/ocf   15.9%
+  2022-12-31 rev     256.4 gp     174.9 ocf     87.2 sbc    20.6 capital   48.9 OE     17.7 OE/rev    6.9% OE/gp   10.1% sbc/ocf   23.7%
+  2023-12-31 rev     267.0 gp     167.8 ocf     81.1 sbc    28.9 capital   28.3 OE     24.0 OE/rev    9.0% OE/gp   14.3% sbc/ocf   35.6%
+  2024-12-31 rev     291.3 gp     190.2 ocf     73.4 sbc    37.7 capital   38.5 OE     -2.8 OE/rev   -1.0% OE/gp   -1.5% sbc/ocf   51.3%
+  2025-12-31 rev     282.9 gp     179.8 ocf     81.1 sbc    38.4 capital   34.9 OE      7.8 OE/rev    2.8% OE/gp    4.4% sbc/ocf   47.3%
+  5y OE/rev 6.1%  5y OE/gp 9.2%  rev CAGR 5.7%  (first 2021-12-31 to last 2025-12-31, 4 steps)
+== MGNI  years ['2021-12-31', '2022-12-31', '2023-12-31', '2024-12-31', '2025-12-31']
+  2021-12-31 rev     468.4 gp       nan ocf    126.6 sbc    40.7 capital   29.1 OE     56.7 OE/rev   12.1% OE/gp    nan% sbc/ocf   32.2%
+  2022-12-31 rev     577.1 gp       nan ocf    192.6 sbc    64.1 capital   44.4 OE     84.0 OE/rev   14.6% OE/gp    nan% sbc/ocf   33.3%
+  2023-12-31 rev     619.7 gp       nan ocf    214.4 sbc    72.6 capital   37.4 OE    104.4 OE/rev   16.8% OE/gp    nan% sbc/ocf   33.9%
+  2024-12-31 rev     668.2 gp       nan ocf    235.2 sbc    76.5 capital   47.1 OE    111.6 OE/rev   16.7% OE/gp    nan% sbc/ocf   32.5%
+  2025-12-31 rev     714.0 gp       nan ocf    236.2 sbc    76.6 capital   84.3 OE     75.2 OE/rev   10.5% OE/gp    nan% sbc/ocf   32.5%
+  5y OE/rev 14.2%  5y OE/gp nan%  rev CAGR 11.1%  (first 2021-12-31 to last 2025-12-31, 4 steps)
+== TTD  years ['2021-12-31', '2022-12-31', '2023-12-31', '2024-12-31', '2025-12-31']
+  2021-12-31 rev    1196.5 gp       nan ocf    378.5 sbc   337.4 capital   60.0 OE    -18.9 OE/rev   -1.6% OE/gp    nan% sbc/ocf   89.1%
+  2022-12-31 rev    1577.8 gp       nan ocf    548.7 sbc   498.6 capital   91.9 OE    -41.8 OE/rev   -2.6% OE/gp    nan% sbc/ocf   90.9%
+  2023-12-31 rev    1946.1 gp       nan ocf    598.3 sbc   491.6 capital   55.0 OE     51.7 OE/rev    2.7% OE/gp    nan% sbc/ocf   82.2%
+  2024-12-31 rev    2444.8 gp       nan ocf    739.5 sbc   494.7 capital  107.1 OE    137.7 OE/rev    5.6% OE/gp    nan% sbc/ocf   66.9%
+  2025-12-31 rev    2896.3 gp       nan ocf    992.7 sbc   490.6 capital  209.8 OE    292.3 OE/rev   10.1% OE/gp    nan% sbc/ocf   49.4%
+  5y OE/rev 4.2%  5y OE/gp nan%  rev CAGR 24.7%  (first 2021-12-31 to last 2025-12-31, 4 steps)
+== CRTO  years ['2021-12-31', '2022-12-31', '2023-12-31', '2024-12-31', '2025-12-31']
+  2021-12-31 rev    2254.2 gp     781.9 ocf    220.9 sbc    44.5 capital    0.0 OE    176.4 OE/rev    7.8% OE/gp   22.6% sbc/ocf   20.2%
+  2022-12-31 rev    2017.0 gp     795.2 ocf    256.0 sbc    65.0 capital   63.8 OE    127.1 OE/rev    6.3% OE/gp   16.0% sbc/ocf   25.4%
+  2023-12-31 rev    1949.4 gp     863.0 ocf    224.2 sbc    97.2 capital  116.1 OE     10.9 OE/rev    0.6% OE/gp    1.3% sbc/ocf   43.3%
+  2024-12-31 rev    1933.3 gp     983.0 ocf    258.2 sbc   106.6 capital   78.1 OE     73.4 OE/rev    3.8% OE/gp    7.5% sbc/ocf   41.3%
+  2025-12-31 rev    1944.9 gp    1049.4 ocf    311.2 sbc    58.6 capital  102.7 OE    149.9 OE/rev    7.7% OE/gp   14.3% sbc/ocf   18.8%
+  5y OE/rev 5.3%  5y OE/gp 12.0%  rev CAGR -3.6%  (first 2021-12-31 to last 2025-12-31, 4 steps)
+== TBLA  years ['2021-12-31', '2022-12-31', '2023-12-31', '2024-12-31', '2025-12-31']
+  2021-12-31 rev    1378.5 gp     441.1 ocf     63.5 sbc   128.0 capital   39.1 OE   -103.5 OE/rev   -7.5% OE/gp  -23.5% sbc/ocf  201.4%
+  2022-12-31 rev    1401.2 gp     464.3 ocf     53.5 sbc    74.9 capital   34.9 OE    -56.4 OE/rev   -4.0% OE/gp  -12.1% sbc/ocf  140.1%
+  2023-12-31 rev    1439.7 gp     425.6 ocf     84.4 sbc    64.3 capital   32.1 OE    -12.1 OE/rev   -0.8% OE/gp   -2.8% sbc/ocf   76.2%
+  2024-12-31 rev    1766.2 gp     534.2 ocf    184.3 sbc    67.1 capital   35.2 OE     82.1 OE/rev    4.6% OE/gp   15.4% sbc/ocf   36.4%
+  2025-12-31 rev    1912.0 gp     569.5 ocf    208.4 sbc    63.9 capital   44.9 OE     99.5 OE/rev    5.2% OE/gp   17.5% sbc/ocf   30.7%
+  5y OE/rev 0.1%  5y OE/gp 0.4%  rev CAGR 8.5%  (first 2021-12-31 to last 2025-12-31, 4 steps)
+== APPS  years ['2022-03-31', '2023-03-31', '2024-03-31', '2025-03-31', '2026-03-31']
+  2022-03-31 rev     747.6 gp     376.9 ocf     84.7 sbc    19.3 capital    0.0 OE     65.4 OE/rev    8.8% OE/gp   17.4% sbc/ocf   22.8%
+  2023-03-31 rev     665.9 gp     356.7 ocf    113.4 sbc    30.4 capital    0.0 OE     83.0 OE/rev   12.5% OE/gp   23.3% sbc/ocf   26.8%
+  2024-03-31 rev     544.5 gp     282.3 ocf     28.7 sbc    33.8 capital   24.3 OE    -29.4 OE/rev   -5.4% OE/gp  -10.4% sbc/ocf  117.7%
+  2025-03-31 rev     490.5 gp     255.2 ocf     11.9 sbc    33.5 capital   27.5 OE    -49.1 OE/rev  -10.0% OE/gp  -19.3% sbc/ocf  282.3%
+  2026-03-31 rev     565.3 gp     321.6 ocf     41.8 sbc    16.4 capital   30.6 OE     -5.2 OE/rev   -0.9% OE/gp   -1.6% sbc/ocf   39.1%
+  5y OE/rev 2.1%  5y OE/gp 4.1%  rev CAGR -6.8%  (first 2022-03-31 to last 2026-03-31, 4 steps)

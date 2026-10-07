@@ -1,0 +1,38 @@
+==============================================================================
+Payoneer Global Inc.  (PAYO)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.56%   09/28/2026   US Treasury daily par yield curve
+  price     7.14 USD   2026-09-28   (aggregator — live quote only)
+  shares    338.9M      market cap 2.42B USD
+  share basis: dei cover-page count as of 2026-07-31
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-12-31        159       66        28         48         46         66
+    2024-12-31        177       65        47         60         52         65
+    2025-12-31        233       73        66         88         73         95
+          mean                                                  57         75
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 27 .. 40   yield 1.12%..1.67%
+  DIVERGENCE vs the 3-yr window: -52.3% on the conservative end
+  ** The spread is part of the RANGE [E4-25], not a tiebreak.
+     "Working with a range of possibilities is the better approach."
+     Do NOT pick a window and defend it. If the combined range
+     (window spread x capex band) is too wide to reach a conclusion,
+     THAT IS THE CONCLUSION [E4-25]. A wide spread is also a Q4
+     finding about earnings reliability [E5-11]. **
+
+  1. THE YIELD                  2.35% ..  3.11%   vs sovereign 5.56%
+  2. GROWTH THE PRICE ASSUMES    7.9%  (at a 5.56% rate)
+  3. POINTS OVER THE SOVEREIGN -0.60 .. +0.20
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

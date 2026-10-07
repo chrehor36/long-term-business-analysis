@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+      <email>webmaster@sec.gov</email>
+      <name>Webmaster</name>
+    </author>
+    <entry title="ARRAY(0x562087b09a70)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x562087a3ab60)">
+          <addresses>
+            <address type="business">
+              <city>THE WOODLANDS</city>
+              <phone>281-929-7700</phone>
+              <state>TX</state>
+              <street1>9950 WOODLOCH FOREST DR.</street1>
+              <street2>SUITE 1100</street2>
+              <zip>77380</zip>
+            </address>
+            <address type="mailing">
+              <city>THE WOODLANDS</city>
+              <state>TX</state>
+              <street1>9950 WOODLOCH FOREST DR.</street1>
+              <street2>SUITE 1100</street2>
+              <zip>77380</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0001498828</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>364673192</irs-number>
+          <last-date>2026-08-12</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <sic>6798</sic>
+          <state>TX</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0001498828</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001498828&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0001498828, &lt;strong&gt;State:&lt;/strong&gt; TX&lt;br /&gt;&lt;strong&gt;SIC:&lt;/strong&gt; REAL ESTATE INVESTMENT TRUSTS</summary>
+      <updated>2026-09-03T08:03:38-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x562087abcd48)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x562087a19658)">
+          <addresses>
+            <address type="business">
+              <city>THE WOODLANDS</city>
+              <phone>6463543406</phone>
+              <state>TX</state>
+              <street1>9950 WOODLOCH FOREST DRIVE</street1>
+              <street2>11TH FLOOR</street2>
+              <zip>77380</zip>
+            </address>
+            <address type="mailing">
+              <city>THE WOODLANDS</city>
+              <state>TX</state>
+              <street1>9950 WOODLOCH FOREST DRIVE</street1>
+              <street2>11TH FLOOR</street2>
+              <zip>77380</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0001981792</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>931869991</irs-number>
+          <last-date>2026-08-20</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <sic>6798</sic>
+          <state>TX</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0001981792</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001981792&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0001981792, &lt;strong&gt;State:&lt;/strong&gt; TX&lt;br /&gt;&lt;strong&gt;SIC:&lt;/strong&gt; REAL ESTATE INVESTMENT TRUSTS</summary>
+      <updated>2026-09-03T08:03:38-04:00</updated>
+    </entry>
+    <id>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;company=howard hughes&amp;type=10-&amp;owner=include&amp;count=40</id>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;company=howard hughes&amp;type=10-&amp;owner=include&amp;count=40&amp;start=0&amp;output=atom" rel="self" type="application/atom+xml" />
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;company=howard hughes&amp;type=10-&amp;owner=include&amp;count=40&amp;start=0" rel="alternate" type="text/html" />
+    <title>Company Search Feed</title>
+    <updated>2026-09-03T08:03:38-04:00</updated>
+  </feed>

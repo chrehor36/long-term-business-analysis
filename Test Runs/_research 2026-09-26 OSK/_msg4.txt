@@ -1,0 +1,3 @@
+OSK Oshkosh: self-audit and register - Verdict OUT (about the business), Q1 IN, Q2 OUT, the file closed at Q2; 62 ledger ids resolved by script (all found); every filing quotation checked against the saved filing text; no net-income proxy anywhere; brief errors: segments are Access, Vocational and Transport (not Defense), fiscal-year change dated October 2021 with a 10-QT and a LIFO-to-FIFO restatement beside it; screen row wrong in five places (cap 17.1% stale, bottom $319M not reproduced, top $558M with amortisation left in, width misses the 4-year and 6-18-year windows, newest_periodic stale); tooling reported not patched (annual screens cannot see a transition quarter); check_framework PASS
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>

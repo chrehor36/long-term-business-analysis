@@ -1,0 +1,69 @@
+companyfacts 3010907
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000008/0001406666-25-000008.txt IncompleteRead(7861603 bytes read)
+  retry 1 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000008/0001406666-25-000008.txt IncompleteRead(7216152 bytes read)
+  retry 2 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000008/0001406666-25-000008.txt HTTP Error 503: Service Unavailable
+10K_FY2024 0001406666-25-000008 [('0001406666-25-000008.txt', 6030781), ('calx-20241231.htm', 305226)]
+10K_FY2023 0001406666-24-000012 [('0001406666-24-000012.txt', 3185461), ('calx-20231231.htm', 306963)]
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666623000026/index.json HTTP Error 503: Service Unavailable
+  retry 1 https://www.sec.gov/Archives/edgar/data/1406666/000140666623000026/index.json HTTP Error 503: Service Unavailable
+  retry 2 https://www.sec.gov/Archives/edgar/data/1406666/000140666623000026/index.json HTTP Error 503: Service Unavailable
+  retry 3 https://www.sec.gov/Archives/edgar/data/1406666/000140666623000026/index.json HTTP Error 503: Service Unavailable
+FAILED 10K_FY2022 https://www.sec.gov/Archives/edgar/data/1406666/000140666623000026/index.json
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000162828022003338/index.json HTTP Error 503: Service Unavailable
+  retry 1 https://www.sec.gov/Archives/edgar/data/1406666/000162828022003338/index.json HTTP Error 503: Service Unavailable
+  retry 2 https://www.sec.gov/Archives/edgar/data/1406666/000162828022003338/index.json HTTP Error 503: Service Unavailable
+  retry 3 https://www.sec.gov/Archives/edgar/data/1406666/000162828022003338/index.json HTTP Error 503: Service Unavailable
+FAILED 10K_FY2021 https://www.sec.gov/Archives/edgar/data/1406666/000162828022003338/index.json
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666621000029/index.json HTTP Error 503: Service Unavailable
+  retry 1 https://www.sec.gov/Archives/edgar/data/1406666/000140666621000029/index.json HTTP Error 503: Service Unavailable
+  retry 2 https://www.sec.gov/Archives/edgar/data/1406666/000140666621000029/index.json The read operation timed out
+  retry 3 https://www.sec.gov/Archives/edgar/data/1406666/000140666621000029/index.json HTTP Error 503: Service Unavailable
+FAILED 10K_FY2020 https://www.sec.gov/Archives/edgar/data/1406666/000140666621000029/index.json
+10K_FY2019 0001406666-20-000018 [('0001406666-20-000018.txt', 3759478), ('a2019form10-k.htm', 398194)]
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666619000029/0001406666-19-000029.txt HTTP Error 503: Service Unavailable
+  retry 1 https://www.sec.gov/Archives/edgar/data/1406666/000140666619000029/0001406666-19-000029.txt IncompleteRead(7574388 bytes read)
+  retry 2 https://www.sec.gov/Archives/edgar/data/1406666/000140666619000029/0001406666-19-000029.txt HTTP Error 503: Service Unavailable
+  retry 3 https://www.sec.gov/Archives/edgar/data/1406666/000140666619000029/0001406666-19-000029.txt IncompleteRead(4650919 bytes read)
+FAILED 10K_FY2018 https://www.sec.gov/Archives/edgar/data/1406666/000140666619000029/0001406666-19-000029.txt
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666617000012/index.json HTTP Error 503: Service Unavailable
+  retry 1 https://www.sec.gov/Archives/edgar/data/1406666/000140666617000012/index.json HTTP Error 503: Service Unavailable
+10K_FY2016 0001406666-17-000012 [('0001406666-17-000012.txt', 5655331), ('calx-20161231x10k.htm', 443580)]
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666614000039/index.json HTTP Error 503: Service Unavailable
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666614000039/0001406666-14-000039.txt The read operation timed out
+10K_FY2013 0001406666-14-000039 [('0001406666-14-000039.txt', 5646207), ('calx-20131231x10k.htm', 434418)]
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000119312511045511/index.json HTTP Error 503: Service Unavailable
+  retry 1 https://www.sec.gov/Archives/edgar/data/1406666/000119312511045511/index.json HTTP Error 503: Service Unavailable
+  retry 2 https://www.sec.gov/Archives/edgar/data/1406666/000119312511045511/index.json HTTP Error 503: Service Unavailable
+  retry 3 https://www.sec.gov/Archives/edgar/data/1406666/000119312511045511/index.json HTTP Error 503: Service Unavailable
+FAILED 10K_FY2010 https://www.sec.gov/Archives/edgar/data/1406666/000119312511045511/index.json
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666626000019/0001406666-26-000019.txt IncompleteRead(2491243 bytes read)
+  retry 1 https://www.sec.gov/Archives/edgar/data/1406666/000140666626000019/0001406666-26-000019.txt HTTP Error 503: Service Unavailable
+  retry 2 https://www.sec.gov/Archives/edgar/data/1406666/000140666626000019/0001406666-26-000019.txt HTTP Error 503: Service Unavailable
+  retry 3 https://www.sec.gov/Archives/edgar/data/1406666/000140666626000019/0001406666-26-000019.txt HTTP Error 503: Service Unavailable
+FAILED 10Q_2026Q1 https://www.sec.gov/Archives/edgar/data/1406666/000140666626000019/0001406666-26-000019.txt
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000043/index.json HTTP Error 503: Service Unavailable
+  retry 1 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000043/index.json HTTP Error 503: Service Unavailable
+  retry 2 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000043/index.json HTTP Error 503: Service Unavailable
+  retry 3 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000043/index.json HTTP Error 503: Service Unavailable
+FAILED 8K_20251029_Q3results https://www.sec.gov/Archives/edgar/data/1406666/000140666625000043/index.json
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000034/ex992stockholderletter25q2.htm The read operation timed out
+8K_20250721_Q2results 0001406666-25-000034 [('0001406666-25-000034.txt', 326396), ('calx-20250721.htm', 5394), ('ex991pressrelease25q2.htm', 2284), ('ex992stockholderletter25q2.htm', 40263)]
+8K_20250513_item801 0001406666-25-000028 [('0001406666-25-000028.txt', 45854), ('calx-20250507.htm', 3061)]
+8K_20250421_Q1results 0001406666-25-000015 [('0001406666-25-000015.txt', 424500), ('calx-20250421.htm', 5406), ('ex991pressrelease25q1.htm', 2280), ('ex992stockholderletter25q1.htm', 36889)]
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000014/index.json The read operation timed out
+  retry 1 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000014/index.json HTTP Error 503: Service Unavailable
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000014/calx-20250418.htm HTTP Error 503: Service Unavailable
+8K_20250421_item801 0001406666-25-000014 [('0001406666-25-000014.txt', 60743), ('a991march2025pressrepurcha.htm', 3374), ('calx-20250418.htm', 3938)]
+8K_20250327_502 0001406666-25-000010 [('0001406666-25-000010.txt', 64866), ('a991march2025pressrelease.htm', 4868), ('calx-20250321.htm', 6795)]
+8K_20250129_Q4results 0001406666-25-000001 [('0001406666-25-000001.txt', 529275), ('calx-20250129.htm', 5397), ('ex991pressrelease24q4.htm', 2303), ('ex992stockholderletter24q4.htm', 37612)]
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000011/index.json The read operation timed out
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000011/0001406666-25-000011.txt HTTP Error 503: Service Unavailable
+  retry 1 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000011/0001406666-25-000011.txt The read operation timed out
+  retry 2 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000011/0001406666-25-000011.txt HTTP Error 503: Service Unavailable
+  retry 3 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000011/0001406666-25-000011.txt IncompleteRead(190785 bytes read)
+FAILED DEF14A_2025 https://www.sec.gov/Archives/edgar/data/1406666/000140666625000011/0001406666-25-000011.txt
+  retry 0 https://www.sec.gov/Archives/edgar/data/1406666/000140666617000022/index.json HTTP Error 503: Service Unavailable
+  retry 1 https://www.sec.gov/Archives/edgar/data/1406666/000140666617000022/index.json HTTP Error 503: Service Unavailable
+  retry 2 https://www.sec.gov/Archives/edgar/data/1406666/000140666617000022/index.json HTTP Error 503: Service Unavailable
+  retry 3 https://www.sec.gov/Archives/edgar/data/1406666/000140666617000022/index.json HTTP Error 503: Service Unavailable
+FAILED DEF14A_2017 https://www.sec.gov/Archives/edgar/data/1406666/000140666617000022/index.json

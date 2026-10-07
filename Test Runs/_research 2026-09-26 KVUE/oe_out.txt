@@ -1,0 +1,11 @@
+2020 capex(c) 229 dep 331 OE capex end 3053 OE dep end 2951 | perimeter-adjusted 2705 2603
+2021 capex(c) 295 dep 317 OE capex end -102 OE dep end -124 | perimeter-adjusted 2750 2728
+2022 capex(c) 375 dep 296 OE capex end 2013 OE dep end 2092 | perimeter-adjusted 1665 1744
+2023 capex(c) 469 dep 305 OE capex end 2511 OE dep end 2675 | perimeter-adjusted 2340 2504
+2024 capex(c) 543 dep 353 OE capex end 972 OE dep end 1162 | perimeter-adjusted 972 1162
+2025 capex(c) 484 dep 300 OE capex end 1577 OE dep end 1761 | perimeter-adjusted 1577 1761
+cap $M 34189.8
+3y 2023-2025: as filed 1,686.7 to 1,866.0 (4.93% to 5.46%); adjusted 1,629.8 to 1,809.1 (4.77% to 5.29%)
+4y 2022-2025: as filed 1,768.2 to 1,922.5 (5.17% to 5.62%); adjusted 1,638.7 to 1,792.9 (4.79% to 5.24%)
+5y 2021-2025: as filed 1,394.2 to 1,513.2 (4.08% to 4.43%); adjusted 1,861.0 to 1,980.0 (5.44% to 5.79%)
+6y 2020-2025: as filed 1,670.7 to 1,752.8 (4.89% to 5.13%); adjusted 2,001.8 to 2,083.9 (5.85% to 6.10%)

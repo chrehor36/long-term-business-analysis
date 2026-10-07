@@ -1,0 +1,11 @@
+a8bc84f owner_earnings: {'5y_da': -121818871.6, '5y_capex': -110191471.6, '3y_da': -156519333.33333334, '3y_capex': -139665000.0}
+a8bc84f shares_outstanding (550-day staleness test): None
+a8bc84f shares_outstanding with no staleness (today=2022-06-01): (datetime.date(2022, 3, 9), 17461000.0)
+a8bc84f share_count_shift: None
+bt17 shares_asof(2026-09-01): (datetime.date(2022, 3, 9), 17461000.0)
+2026-08-31 $7.16 x stale SPAC-shell dei 17,461,000 (2022-03-09): cap $125.0M; 5y_da -97.4%, 5y_capex -88.1%, 3y_da -125.2%, 3y_capex -111.7% | guard fires on: ['3y_da', '3y_capex'] | cap<$5M: False
+2026-08-31 $7.16 x cover A+B 411,574,436 + 32,535,408 (2026-08-06): cap $3,179.8M; 5y_da -3.8%, 5y_capex -3.5%, 3y_da -4.9%, 3y_capex -4.4% | guard fires on: none | cap<$5M: False
+2026-08-31 $7.16 x cover Class A only 411,574,436: cap $2,946.9M; 5y_da -4.1%, 5y_capex -3.7%, 3y_da -5.3%, 3y_capex -4.7% | guard fires on: none | cap<$5M: False
+2026-09-01 $6.85 x stale SPAC-shell dei 17,461,000 (2022-03-09): cap $119.6M; 5y_da -101.8%, 5y_capex -92.1%, 3y_da -130.9%, 3y_capex -116.8% | guard fires on: ['5y_da', '3y_da', '3y_capex'] | cap<$5M: False
+2026-09-01 $6.85 x cover A+B 411,574,436 + 32,535,408 (2026-08-06): cap $3,042.2M; 5y_da -4.0%, 5y_capex -3.6%, 3y_da -5.1%, 3y_capex -4.6% | guard fires on: none | cap<$5M: False
+2026-09-01 $6.85 x cover Class A only 411,574,436: cap $2,819.3M; 5y_da -4.3%, 5y_capex -3.9%, 3y_da -5.6%, 3y_capex -5.0% | guard fires on: none | cap<$5M: False

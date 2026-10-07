@@ -1,0 +1,427 @@
+=== 10K_FY2018.txt
+263:CAPP - Met | VA, WV | McClure, Toms Creek, Bandmill, Kepler, Kingston, Litwar, Marfork, Power Mountain, Pax, Marmet, Delbarton | 20 | 5 | 25
+264:CAPP - Thermal | WV | Delbarton, Inman/Homer III, Mammoth, Marmet | 2 | 4 | 6
+265:NAPP | PA | Cumberland, Labelle | 1 | — | 1
+271:CAPP - Met | High-Vol. Met | Truck, CSX Transportation, Norfolk Southern Railway Company, Barge | 5,091
+272:CAPP - Thermal | Thermal | Truck, CSX Transportation, Norfolk Southern Railway Company, Barge | 596
+273:NAPP | Thermal | Truck, CSX Transportation, Norfolk Southern Railway Company, Barge | 6,423
+278:CAPP - Met
+283:CAPP - Thermal
+285:NAPP
+301:CAPP - Met (1) | Virginia, West Virginia | 1 to 23
+302:CAPP - Thermal | West Virginia | 9 to 37
+303:NAPP (2) | Pennsylvania | 18
+491:Metallurgical coal. The various grades of coal suitable for carbonization to make coke for steel manufacture. Also known as “met” coal, its quality depends on four important criteria: volatility, which affects coke yield; the level of impurities including sulfur and ash, which affect coke quality; composition, which affects coke strength; and basic characteristics, which affect coke oven safety. Met coal typically has a particularly high BTU but low ash and sulfur content.
+505:Thermal coal. Coal used by power plants and industrial steam boilers to produce electricity, steam or both. It generally is lower in BTU heat content and higher in volatile matter than metallurgical coal.
+581:Thermal coal accounted for approximately 16.8% of our coal revenues (excluding freight and handling revenues) for the year ended December 31, 2018. The majority of our sales of thermal coal were to U.S. electric power generators. The North American demand for thermal coal is affected primarily by:
+1113:CAPP - Met
+1116:CAPP - Met Other | Virginia, West Virginia | 592,301 | 402,498 | 189,803 | 332,065 | 260,236
+1117:CAPP - Thermal | West Virginia | 49,779 | 26,666 | 23,113 | 49,224 | 555
+1118:NAPP
+1120:NAPP Other | Pennsylvania | 535,695 | 331,299 | 204,396 | 138,787 | 396,908
+1131:CAPP - Met
+1134:CAPP - Met Other | 104,254 | 488,047 | 181,391 | 410,910 | 554,790 | 37,511
+1135:CAPP - Thermal | 9,802 | 39,977 | 44,005 | 5,774 | 11,938 | 37,841
+1136:NAPP
+1138:NAPP Other | 293,985 | 241,710 | 13,858 | 521,837 | 44,180 | 491,515
+1156:CAPP - Met
+1159:CAPP - Met Other | 592,301 | U/S | CM/S/H | NS/CSX | B
+1160:CAPP - Thermal | 49,779 | U | CM | NS/CSX | B
+1161:NAPP
+1163:NAPP Other | 535,695 | U | LW | NS/CSX | B
+1176:CAPP - Met
+1181:NAPP
+1191:Met High-Vol. A | $119 -$126
+1192:Met High-Vol. B | $85.50 - $119
+1193:Met Mid-Vol. | $101 - $143
+1194:Met Low-Vol. | $126
+1195:Thermal | $44 - $60
+1232:Total Number of Shares Purchased (1) | Average Price Paid per Share | Total Number of Shares Purchased as Part of Publicly Announced Share Repurchase Programs (2) | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Programs
+1267:Total revenues | 2,031,205 | 1,649,969 | 506,296 | 411,111 | 926,021 | 1,142,758
+1279:Total other operating (income) loss:
+1283:Total costs and expenses | 1,837,445 | 1,467,611 | 470,907 | 474,848 | 1,300,134 | 1,148,502
+1293:Total other expense, net | (56,269 | (76,602 | (49,155 | (16,696 | (28,640 | (30,369
+1334:Total current and non-current assets - discontinued operations | 22,475 | 48,130 | 190,454 | 401,543 | 404,363 | 679,851
+1335:Total assets | 2,746,058 | 836,600 | 946,752 | 1,590,256 | 1,715,410 | 2,429,213
+1337:Total current and non-current liabilities - discontinued operations | 21,986 | 61,876 | 164,709 | 225,964 | 197,383 | 241,173
+1338:Total liabilities (7) | 1,674,918 | 743,952 | 909,528 | 470,003 | 501,513 | 764,871
+1397:Thermal | — | 339,599 | (339,599 | (100.0
+1398:Tons sold:
+1399:Thermal | — | 31,102 | (31,102 | (100.0
+1400:Coal sales realization per ton:
+1401:Thermal | — | 10.92 | (10.92 | (100.0
+1407:Thermal | 180,555 | 35.7 | 192,629 | 46.9
+1408:Tons sold:
+1409:Thermal | 16,674 | 17,225
+1410:Coal sales realization per ton:
+1411:Thermal | 10.83 | 11.18
+1420:Tons sold: | — | 31,102 | (31,102 | (100.0
+1421:Cost of coal sales per ton: | — | 10.00 | (10.00 | (100.0
+1422:Coal margin per ton (1) : | — | 0.92 | (0.92 | (100.0
+1428:Tons sold: | 16,674 | 17,225
+=== 10K_FY2019.txt
+269:CAPP - Met | VA, WV | McClure, Toms Creek, Bandmill, Kepler, Kingston, Marfork, Power Mountain, Pax Loadout, Delbarton, Mammoth, Marmet | 18 | 5 | 23
+270:CAPP - Thermal | WV | Bandmill, Delbarton, Mammoth, Kingston, Marfork, Pax Loadout, Marmet | 2 | 3 | 5
+271:NAPP | PA | Cumberland, Labelle River & Rail Terminal | 1 | — | 1
+275:CAPP - Met | High-Vol. Met, Mid-Vol. Met, Low-Vol. Met | Truck, CSX Transportation, Norfolk Southern Railway Company, Barge | 12,025
+276:CAPP - Thermal | Thermal | Truck, CSX Transportation, Norfolk Southern Railway Company, Barge | 4,647
+277:NAPP | Thermal | Truck, CSX Transportation, Norfolk Southern Railway Company, Barge | 6,596
+284:CAPP - Met
+300:CAPP - Thermal
+302:NAPP
+317:CAPP - Met (1) | Virginia, West Virginia | 1 to 28
+318:CAPP - Thermal | West Virginia | 5 to 37
+319:NAPP (2) | Pennsylvania | 17
+516:Metallurgical coal. The various grades of coal suitable for carbonization to make coke for steel manufacture. Also known as “met” coal, its quality depends on four important criteria: volatility, which affects coke yield; the level of impurities, including sulfur and ash, which affect coke quality; composition, which affects coke strength; and basic characteristics, which affect coke oven safety. Met coal typically has a particularly high BTU but low ash and sulfur content.
+532:Thermal coal. Coal used by power plants and industrial steam boilers to produce electricity, steam or both. It generally is lower in BTU heat content and higher in volatile matter than metallurgical coal.
+581:Thermal coal accounted for approximately 23.4% of our coal revenues for the year ended December 31, 2019. The majority of our sales of thermal coal were to U.S. electric power generators. The North American demand for thermal coal is affected primarily by:
+1113:CAPP - Met
+1118:CAPP - Met Other | Virginia, West Virginia | 548,102 | 376,011 | 172,091 | 286,950 | 261,152
+1119:CAPP - Thermal | West Virginia | 41,839 | 22,026 | 19,813 | 41,839 | —
+1120:NAPP
+1122:NAPP Other | Pennsylvania | 536,370 | 331,704 | 204,666 | 5,747 | 530,623
+1133:CAPP - Met
+1138:CAPP - Met Other | 103,111 | 444,991 | 135,590 | 412,512 | 519,889 | 28,213
+1139:CAPP - Thermal | — | 41,839 | 40,723 | 1,116 | 11,162 | 30,677
+1140:NAPP
+1142:NAPP Other | 294,622 | 241,748 | 42,013 | 494,357 | 44,180 | 492,190
+1160:CAPP - Met
+1165:CAPP - Met Other | 548,102 | U/S | CM/S/H | NS/CSX | B
+1166:CAPP - Thermal | 41,839 | U | CM | NS/CSX | B
+1167:NAPP
+1169:NAPP Other | 536,370 | U | CM/LW | NS/CSX | B
+1182:CAPP - Met
+1187:NAPP
+1203:Met High-Vol. A | $119
+1204:Met High-Vol. B | $103
+1205:Met Mid-Vol. | $123
+1206:Met Low-Vol. | $122
+1207:Thermal - CAPP-Thermal | $56
+1208:Thermal - NAPP | $44
+1245:Total Number of Shares Purchased (1) | Average Price Paid per Share | Total Number of Shares Purchased as Part of Publicly Announced Share Repurchase Programs (2) | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Programs (2),(3)
+1277:Total revenues | 2,290,260 | 2,031,205 | 1,649,969 | 506,296 | 411,111 | 926,021
+1288:Total other operating (income) loss:
+1292:Total costs and expenses | 2,447,792 | 1,837,445 | 1,467,611 | 470,907 | 474,848 | 1,300,134
+1302:Total other expense, net | (103,167 | (56,269 | (76,602 | (49,155 | (16,696 | (28,640
+1343:Total current and non-current assets – discontinued operations | — | 22,475 | 48,130 | 190,454 | 401,543 | 404,363
+1344:Total assets | 2,302,823 | 2,746,058 | 836,600 | 946,752 | 1,590,256 | 1,715,410
+1346:Total current and non-current liabilities – discontinued operations | — | 21,986 | 61,876 | 164,709 | 225,964 | 197,383
+1347:Total liabilities (7) | 1,606,701 | 1,674,918 | 743,952 | 909,528 | 470,003 | 501,513
+1428:Total revenues | 2,290,260 | 2,031,205 | 259,055 | 12.8
+1429:Tons sold | 23,706 | 17,587 | 6,119 | 34.8
+1447:Total other operating (income) loss:
+1451:Total costs and expenses | 2,447,792 | 1,837,445 | 610,347 | 33.2
+1476:Total other expense, net | (103,167 | (56,269 | (46,898 | (83.3
+1512:Tons sold | 12,926 | 4,218 | 6,554 | 8 | 23,706
+1513:Non-GAAP coal sales realization per ton | 113.56 | 59.57 | 42.30 | 85.13 | 84.24
+1519:Tons sold | 12,926 | 4,218 | 6,554 | 8 | 23,706
+1520:Non-GAAP cost of coal sales per ton | 87.71 | 55.48 | 37.30 | 83.13 | 68.04
+1521:Coal margin per ton (2) | 24.80 | 2.62 | 4.40 | (393.50 | 15.07
+1524:Non-GAAP coal margin per ton | 25.85 | 4.09 | 5.00 | 2.00 | 16.20
+1537:Tons sold | 10,682 | 632 | 6,273 | — | 17,587
+1538:Non-GAAP coal sales realization per ton | 127.57 | 56.46 | 44.82 | — | 95.50
+=== 10K_FY2020.txt
+189:Met | VA, WV | McClure, Toms Creek, Bandmill, Kepler, Kingston, Marfork, Power Mountain, Pax Loadout, Mammoth, Marmet, Feats Loadout | 15 | 7 | 22
+190:CAPP - Thermal | WV | Bandmill, Mammoth | 1 | — | 1
+194:Met | High-Vol. Met, Mid-Vol. Met, Low-Vol. Met | Truck, CSX Transportation, Norfolk Southern Railway Company, Barge | 12,157
+195:CAPP - Thermal | Thermal | Truck, CSX Transportation, Norfolk Southern Railway Company, Barge | 1,978
+200:Met
+212:Thermal | 8.0% | 6.5%
+219:CAPP - Thermal
+231:Met (1) | Virginia, West Virginia | 1 to 26
+232:CAPP - Thermal | West Virginia | 3
+409:Metallurgical coal. The various grades of coal suitable for carbonization to make coke for steel manufacture. Also known as “met” coal, its quality depends on four important criteria: volatility, which affects coke yield; the level of impurities, including sulfur and ash, which affect coke quality; composition, which affects coke strength; and basic characteristics, which affect coke oven safety. Met coal typically has a particularly high BTU but low ash and sulfur content.
+425:Thermal coal. Coal used by power plants and industrial steam boilers to produce electricity, steam or both. It generally is lower in BTU heat content and higher in volatile matter than metallurgical coal.
+478:Thermal coal accounted for approximately 13% of our coal revenues for the year ended December 31, 2020. The majority of our sales of thermal coal were to U.S. electric power generators. The North American demand for thermal coal is affected primarily by:
+795:Met
+800:Met Other | Virginia, West Virginia, Pennsylvania | 517,206 | 370,410 | 146,796 | 240,816 | 276,390
+801:CAPP - Thermal | West Virginia | 4,444 | 3,911 | 533 | 4,444 | —
+812:Met
+817:Met Other | 61,983 | 455,223 | 123,185 | 394,021 | 460,281 | 56,925
+818:CAPP - Thermal | — | 4,444 | 4,444 | — | — | 4,444
+836:Met
+841:Met Other | 517,206 | U/S | CM/S/H | NS/CSX | B
+842:CAPP - Thermal | 4,444 | U | CM | NS/CSX | B
+853:Met
+869:Met High-Vol. A | $106
+870:Met High-Vol. B | $91
+871:Met Mid-Vol. | $105
+872:Met Low-Vol. | $117
+873:Thermal - CAPP-Thermal | $56
+910:Total Number of Shares Purchased (1) | Average Price Paid per Share | Total Number of Shares Purchased as Part of Publicly Announced Share Repurchase Programs (2) | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Programs (2),(3)
+963:Met | 14.0 million | 56 | $80.68
+964:CAPP - Thermal | 1.5 million | 100 | $57.57
+985:Total revenues | 1,416,187 | 2,001,280 | (585,093) | (29.2)
+986:Tons sold | 15,513 | 17,152 | (1,639) | (9.6)
+1004:Total other operating income:
+1007:Total costs and expenses | 1,586,875 | 2,170,383 | (583,508) | (26.9)
+1029:Total other expense, net | (72,946) | (103,802) | 30,856 | 29.7
+1063:Tons sold | 13,070 | 2,437 | 6 | 15,513
+1064:Non-GAAP Coal sales realization per ton | 80.90 | 55.78 | 64.83 | 76.95
+1069:Total Cost of coal sales | 1,291,719 | 162,907 | 731 | 1,455,357
+1076:Tons sold | 13,070 | 2,437 | 6 | 15,513
+1077:Non-GAAP Cost of coal sales per ton | 70.19 | 47.20 | 40.67 | 66.57
+1086:Tons sold | 13,070 | 2,437 | 6 | 15,513
+1094:Tons sold | 13,070 | 2,437 | 6 | 15,513
+1095:Non-GAAP Coal margin per ton | 10.71 | 8.58 | 24.17 | 10.38
+1106:Tons sold | 12,926 | 4,218 | 8 | 17,152
+1107:Non-GAAP Coal sales realization per ton | 113.56 | 59.57 | 85.13 | 100.27
+1112:Total Cost of coal sales | 1,562,442 | 329,154 | 11,191 | 1,902,787
+1120:Tons sold | 12,926 | 4,218 | 8 | 17,152
+1121:Non-GAAP Cost of coal sales per ton | 87.74 | 55.48 | 83.13 | 79.80
+1133:Tons sold | 12,926 | 4,218 | 8 | 17,152
+1142:Tons sold | 12,926 | 4,218 | 8 | 17,152
+1143:Non-GAAP Coal margin per ton | 25.82 | 4.08 | 2.00 | 20.46
+1150:Tons sold:
+1151:Met operations | 13,070 | 12,926 | 144 | 1.1
+1152:CAPP - Thermal operations | 2,437 | 4,218 | (1,781) | (42.2)
+1154:Met operations | 1,057,346 | 1,467,814 | (410,468) | (28.0)
+1155:CAPP - Thermal operations | 135,940 | 251,257 | (115,317) | (45.9)
+1156:Non-GAAP Coal sales realization per ton:
+1157:Met operations | 80.90 | 113.56 | (32.66) | (28.8)
+1158:CAPP - Thermal operations | 55.78 | 59.57 | (3.79) | (6.4)
+1162:CAPP - Thermal operations non-GAAP coal revenues decreased $115.3 million, or 45.9%, for the year ended December 31, 2020 compared to the prior year period. The decrease in CAPP - Thermal operations non-GAAP coal revenues was due to lower coal sales volumes of 1.8 million tons and lower non-GAAP coal sales realization of $3.79 per ton as a result of a weaker pricing environment resulting from the impacts of the COVID-19 pandemic. 
+=== 10K_FY2021.txt
+189:Met
+216:Met
+448:Metallurgical coal. The various grades of coal suitable for carbonization to make coke for steel manufacture. Also known as “met” coal, its quality is primarily differentiated based on volatility or its percent of volatile matter. Met coal typically has a particularly high BTU but low ash and sulfur content.
+466:Thermal coal. Coal used by power plants and industrial steam boilers to produce electricity, steam or both. It generally is lower in BTU heat content and higher in volatile matter than metallurgical coal.
+499:Met coal accounted for approximately 92% of our coal revenues for the year ended December 31, 2021. Any deterioration in conditions in the U.S. or foreign steel industries, including the demand for steel and the continued financial viability of the industry, could reduce the demand for our met coal and could impact the collectability of our accounts receivable from U.S. or foreign steel industry customers.
+524:Thermal coal accounted for approximately 8% of our coal revenues for the year ended December 31, 2021. The majority of our sales of thermal coal were to U.S. electric power generators. The North American demand for thermal coal is affected primarily by the overall demand for electricity, the availability, quality and price of competing fuels, such as natural gas, nuclear fuel, oil and alternative energy sources such as wind, solar, and hydroelectric power, increasingly stringent environmental and other governmental regulations and the coal inventories of utilities.
+824:Thermal | $76
+833:Met
+839:Total | 351,099 | 200,412 | 150,687 | 8,200 | 342,899 | 173,448 | 177,651
+845:Met Coal by Volatility | Thermal | Sulfur | Recovery Percentage (2)
+847:Met
+853:Total | 119,230 | 52,926 | 85,658 | 77,955 | 15,330 | 305,249 | 45,850
+875:Met
+881:Total | 381,712 | 161,849 | 219,863 | 124,651 | 257,061 | 58,295 | 323,417
+888:Met Coal by Volatility | Thermal | Sulfur | Expected Recovery Percentage (2)
+890:Met
+896:Total | 62,890 | 159,359 | 40,884 | 116,454 | 2,125 | 159,068 | 222,644
+909:Met
+918:Total | 623,545 | 9,570 | (7,204) | (15,613) | (68,543) | (41,275) | (149,381) | 351,099
+926:Met
+932:Total | — | 381,712 | 381,712
+960:Metallurgical coal markets exhibited volatility and strength in the final months of 2021, with the U.S. East Coast indices rising to new calendar-year highs in the fourth quarter. Each of the U.S. East Coast indices finished the year more than double where it started at the beginning of January 2021, and the Australian Premium Low Volatile index more than tripled over the same twelve-month period. 
+994:Met - Domestic | $189.31
+995:Met - Export | $236.99
+996:Met Total | 14.5 million | 39 | $204.75
+997:Thermal | 1.0 million | 100 | $52.46
+998:Met Segment | 15.5 million | 44 | $180.36
+1020:Total revenues | 2,258,586 | 1,416,187 | 842,399 | 59.5
+1021:Tons sold | 16,839 | 15,513 | 1,326 | 8.5
+1035:Total other operating (income) loss:
+1038:Total costs and expenses | 1,901,446 | 1,586,875 | 314,571 | 19.8
+1060:Total other expense, net | (66,602) | (72,946) | 6,344 | 8.7
+1089:Tons sold | 15,569 | 1,270 | 16,839
+1090:Non-GAAP Coal sales realization per ton | 115.18 | 61.76 | 111.15
+1095:Total Cost of coal sales | 1,734,362 | 94,469 | 1,828,831
+1102:Tons sold | 15,569 | 1,270 | 16,839
+1103:Non-GAAP Cost of coal sales per ton | 77.71 | 47.55 | 75.43
+1112:Tons sold | 15,569 | 1,270 | 16,839
+1120:Tons sold | 15,569 | 1,270 | 16,839
+1121:Non-GAAP Coal margin per ton | 37.47 | 14.21 | 35.71
+1132:Tons sold | 13,070 | 2,443 | 15,513
+1133:Non-GAAP Coal sales realization per ton | 80.90 | 55.80 | 76.95
+1138:Total Cost of coal sales | 1,291,719 | 163,638 | 1,455,357
+1145:Tons sold | 13,070 | 2,443 | 15,513
+1146:Non-GAAP Cost of coal sales per ton | 70.19 | 47.19 | 66.57
+1155:Tons sold | 13,070 | 2,443 | 15,513
+1163:Tons sold | 13,070 | 2,443 | 15,513
+1164:Non-GAAP Coal margin per ton | 10.71 | 8.62 | 10.38
+1172:Met segment operations:
+1173:Tons sold | 15,569 | 13,070 | 2,499 | 19.1
+1175:Non-GAAP Coal sales realization per ton | 115.18 | 80.90 | 34.28 | 42.4
+1177:Tons sold | 1,270 | 2,443 | (1,173) | (48.0)
+1179:Non-GAAP Coal sales realization per ton | 61.76 | 55.80 | 5.96 | 10.7
+1186:Met segment operations:
+1188:Non-GAAP Cost of coal sales per ton | 77.71 | 70.19 | 7.52 | 10.7
+1189:Non-GAAP Coal margin per ton | 37.47 | 10.71 | 26.76 | 249.9
+1192:Non-GAAP Cost of coal sales per ton | 47.55 | 47.19 | 0.36 | 0.8
+1193:Non-GAAP Coal margin per ton | 14.21 | 8.62 | 5.59 | 64.8
+1220:Adjusted EBITDA
+1221:Adjusted EBITDA is a non-GAAP financial measure that is presented as a supplemental measure and is not intended to replace financial performance or liquidity measures determined in accordance with GAAP. Moreover, this measure is not calculated identically by all companies and therefore may not be comparable to similarly titled measures used by other companies. Adjusted EBITDA is presented because management believes it is a useful indicator of the financial performance of our coal operations. The following tables present a reconciliation of net income (loss) to Adjusted EBITDA for the years ended December 31, 2021 and 2020:
+=== 10K_FY2022.txt
+193:Met
+224:Met
+269:Met coal accounted for approximately 95% and 92% of our coal revenues for the years ended December 31, 2022 and 2021, respectively. Our met coal sales are typically made with customers with whom we have a long-term relationship. Domestic met customers typically enter into one-year agreements with a fixed price for the entire contract year. Any longer-term agreement would generally have a renegotiation of price each subsequent contract year. Export sales are generally made on an annual, quarterly, or spot cargo basis. Annual and quarterly agreements typically have market-indexed pricing that changes with the market monthly. Any export agreement with a term greater than one year would generally have a renegotiation of pricing terms for each subsequent contract year. Volume for future years is generally contingent on both parties agreeing to a pricing mechanism to cover the contract year.
+270:Thermal coal accounted for approximately 5% and 8% of our coal revenues for the years ended December 31, 2022 and 2021, respectively. We often enter into long-term contracts with our thermal coal customers. Terms of these agreements may address coal quality requirements, quantity parameters, flexibility and adjustment mechanisms, permitted sources of supply, treatment of environmental constraints, options to extend, force majeure, suspension, termination and assignment issues, the allocation between the parties of the cost of complying with future governmental regulations and many other matters.
+459:Metallurgical coal. The various grades of coal suitable for carbonization to make coke for steel manufacture. Also known as “met” coal, its quality is primarily differentiated based on volatility or its percent of volatile matter. Met coal typically has a particularly high BTU but low ash and sulfur content.
+477:Thermal coal. Coal used by power plants and industrial steam boilers to produce electricity, steam or both. It generally is lower in BTU heat content and higher in volatile matter than metallurgical coal.
+511:Met coal accounted for approximately 95% of our coal revenues for the year ended December 31, 2022. Any deterioration in conditions in the U.S. or foreign steel industries, including the demand for steel and the continued financial viability of the industry, could reduce the demand for our met coal and could impact the collectability of our accounts receivable from U.S. or foreign steel industry customers.
+529:Thermal coal accounted for approximately 5% of our coal revenues for the year ended December 31, 2022. The majority of our sales of thermal coal were to U.S. electric power generators. The North American demand for thermal coal is affected primarily by the overall demand for electricity, the availability, quality and price of competing fuels, such as natural gas, nuclear fuel, oil and alternative energy sources such as wind, solar, and hydroelectric power, increasingly stringent environmental and other governmental regulations and the coal inventories of utilities.
+837:Thermal | $140
+846:Met
+853:Total | 336,706 | 194,153 | 142,553 | 8,583 | 328,123 | 166,438 | 170,268
+859:Met Coal by Volatility | Thermal | Sulfur | Recovery Percentage (2)
+861:Met
+868:Total | 123,934 | 51,661 | 73,141 | 73,929 | 14,041 | 292,955 | 43,751
+892:Met
+900:Total | 527,333 | 209,577 | 317,756 | 139,750 | 387,583 | 83,150 | 444,183
+909:Met Coal by Volatility | Thermal | Sulfur | Expected Recovery Percentage (2)
+911:Met
+919:Total | 119,573 | 255,271 | 54,681 | 91,291 | 6,517 | 201,779 | 325,554
+929:Met
+936:Total | 351,099 | 2,436 | (14,198) | 8,106 | (10,737) | — | 336,706
+946:Met
+954:Total | 381,712 | 155,347 | (9,726) | — | 527,333
+981:Total Number of Shares Purchased | Average Price Paid per Share | Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (1) | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs (In thousands) (1),(2),(3)
+999:Metallurgical coal indices experienced volatility throughout the fourth quarter of 2022 but this volatility decreased in the weeks following the quarter close. The Australian Premium Low Volatile index increased from $270.50 per metric ton on October 1, 2022 to $294.50 per ton at year end. The U.S. East Coast Low Volatile index increased from $270.00 per metric ton on October 1, 2022 to $278.00 per metric ton at the end of the fourth quarter. The U.S. East Coast High Volatile A index moved from $287.00 per metric ton at the start of October to $275.00 per metric ton at quarter close. U.S. East Coast High Volatile B fell from $284.00 per metric ton to $274.00 per metric ton on December 31, 2022. Over the first several weeks of 2023, all of the aforementioned indices increased from their quarter-end levels. As of February 3, 2023, the two Low Volatile indices have increased to $350.25 per metric ton for Australian Premium Low Volatile and $315.00 per metric ton for U.S. East Coast Low Volatile. The U.S. East Coast High Volatile A index was at $305.00 per metric ton on February 3, 2023, while the U.S. East Coast High Volatile B was at $285.00 per ton on the same date.
+1034:Met - Domestic | $193.17
+1035:Met - Export | $207.66
+1036:Met Total | 15.5 million | 38 | $195.89
+1037:Thermal | 1.6 million | 52 | $119.79
+1038:Met Segment | 17.1 million | 39 | $186.39
+1059:Total revenues | 4,101,592 | 2,258,686 | 1,842,906 | 81.6
+1060:Tons sold | 16,378 | 16,839 | (461) | (2.7)
+1074:Total other operating loss (income):
+1077:Total costs and expenses | 2,520,713 | 1,899,486 | 621,227 | 32.7
+1096:Total other expense, net | (26,129) | (67,002) | 40,873 | 61.0
+1124:Tons sold | 15,478 | 900 | 16,378
+1125:Non-GAAP Coal sales realization per ton | 225.45 | 82.72 | 217.60
+1130:Total Cost of coal sales | 2,355,644 | 80,208 | 2,435,852
+1137:Tons sold | 15,478 | 900 | 16,378
+1138:Non-GAAP Cost of coal sales per ton | 108.22 | 59.19 | 105.53
+1147:Tons sold | 15,478 | 900 | 16,378
+1155:Tons sold | 15,478 | 900 | 16,378
+1156:Non-GAAP Coal margin per ton | 117.22 | 23.54 | 112.08
+1167:Tons sold | 15,569 | 1,270 | 16,839
+1168:Non-GAAP Coal sales realization per ton | 115.18 | 61.78 | 111.15
+1173:Total Cost of coal sales | 1,734,362 | 92,509 | 1,826,871
+1180:Tons sold | 15,569 | 1,270 | 16,839
+1181:Non-GAAP Cost of coal sales per ton | 77.71 | 47.55 | 75.43
+1190:Tons sold | 15,569 | 1,270 | 16,839
+1198:Tons sold | 15,569 | 1,270 | 16,839
+1199:Non-GAAP Coal margin per ton | 37.47 | 14.23 | 35.72
+1207:Met segment operations:
+1208:Tons sold | 15,478 | 15,569 | (91) | (0.6)
+1210:Non-GAAP Coal sales realization per ton | 225.45 | 115.18 | 110.27 | 95.7
+1212:Tons sold | 900 | 1,270 | (370) | (29.1)
+1214:Non-GAAP Coal sales realization per ton | 82.72 | 61.78 | 20.94 | 33.9
+1221:Met segment operations:
+1223:Non-GAAP Cost of coal sales per ton | 108.22 | 77.71 | 30.51 | 39.3
+1224:Non-GAAP Coal margin per ton | 117.22 | 37.47 | 79.75 | 212.8
+1227:Non-GAAP Cost of coal sales per ton | 59.19 | 47.55 | 11.64 | 24.5
+=== 10K_FY2023.txt
+267:Met coal accounted for approximately 95% of our coal revenues for each of the years ended December 31, 2023 and 2022. Our met coal sales are typically made with customers with whom we have a long-term relationship. Domestic met customers typically enter into one-year agreements with a fixed price for the entire contract year. Any longer-term agreement would generally have a renegotiation of price each subsequent contract year. Export sales are generally made on an annual, quarterly, or spot cargo basis. Annual and quarterly agreements typically have market-indexed pricing that changes with the market monthly. Any export agreement with a term greater than one year would generally have a renegotiation of pricing terms for each subsequent contract year. Volume for future years is generally contingent on both parties agreeing to a pricing mechanism to cover the contract year.
+268:Thermal coal accounted for approximately 5% of our coal revenues for each of the years ended December 31, 2023 and 2022. We sometimes enter into long-term contracts with our thermal coal customers. Terms of these agreements may address coal quality requirements, quantity parameters, flexibility and adjustment mechanisms, permitted sources of supply, treatment of environmental constraints, options to extend, force majeure, suspension, termination and assignment issues, the allocation between the parties of the cost of complying with future governmental regulations and many other matters.
+465:Metallurgical coal. The various grades of coal suitable for carbonization to make coke for steel manufacture. Also known as “met” coal, its quality is primarily differentiated based on volatility or its percent of volatile matter. Met coal typically has a particularly high BTU but low ash and sulfur content.
+482:Thermal coal. Coal used by power plants and industrial steam boilers to produce electricity, steam or both. It generally is lower in BTU heat content and higher in volatile matter than metallurgical coal.
+516:Met coal accounted for approximately 95% of our coal revenues for the year ended December 31, 2023. Any deterioration in conditions in the U.S. or foreign steel industries, including the demand for steel and the continued financial viability of the industry, could reduce the demand for our met coal and could impact the collectability of our accounts receivable from U.S. or foreign steel industry customers.
+547:Thermal coal accounted for approximately 5% of our coal revenues for the year ended December 31, 2023. The majority of our sales of thermal coal were to U.S. electric power generators. The North American demand for thermal coal is affected primarily by the overall demand for electricity, the availability, quality and price of competing fuels, such as natural gas, nuclear fuel, oil and alternative energy sources such as wind, solar, and hydroelectric power, increasingly stringent environmental and other governmental regulations and the coal inventories of utilities.
+886:Thermal | $74
+897:Met
+904:Total | 315,957 | 190,761 | 125,196 | 8,716 | 307,241 | 153,776 | 162,181
+910:Met Coal by Volatility | Thermal | Sulfur | Recovery Percentage (2)
+912:Met
+919:Total | 91,167 | 69,710 | 70,149 | 72,018 | 12,913 | 274,323 | 41,634
+943:Met
+951:Total | 513,542 | 193,099 | 320,443 | 138,915 | 374,627 | 87,164 | 426,378
+958:Met Coal by Volatility | Thermal | Sulfur | Expected Recovery Percentage (2)
+960:Met
+968:Total | 112,173 | 253,949 | 49,401 | 93,190 | 4,829 | 206,095 | 307,447
+980:Met
+987:Total | 336,706 | 354 | 9,831 | (2,069) | (13,902) | (14,963) | 315,957
+995:Met
+1003:Total | 527,333 | 5,209 | (16,721) | 248 | (386) | (2,141) | 513,542
+1032:Total Number of Shares Purchased (1) | Average Price Paid per Share | Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (2) | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs (In thousands) (2)(3)(4)
+1052:Metallurgical coal indices ended the fourth quarter within a few percentage points of where they started in October 2023, with the U.S. East Coast High Volatile B index representing the largest move, an increase of 6%, of the four indices Alpha closely monitors. The Australian Premium Low Volatile index decreased from $333.00 per metric ton at the start of the fourth quarter to $323.75 metric ton at the end of December. The U.S. East Coast Low Volatile index increased from $258.00 per metric ton at the beginning of October to $268.00 per metric ton at the end of December. The U.S. East Coast High Volatile A index moved from $288.00 per metric ton at the start of the fourth quarter to $281.00 per metric ton at quarter close, and the U.S. East Coast High Volatile B index increased from $238.00 per metric ton to $252.00 per metric ton at the end of the year. Since then, all four indices have softened. The Australian Premium Low Volatile declined from its quarter-close level to $315.00 per metric ton on February 15, 2024. The U.S. East Coast indices of Low Volatile, High Volatile A and High Volatile B measured $265.00, $262.00, and $221.00 per ton, respectively, as of the same date. 
+1081:Met - Domestic | $161.63
+1082:Met - Export | $196.05
+1083:Met Total | 16.0 million | 35 | $171.33
+1084:Thermal | 1.1 million | 100 | $77.14
+1085:Met Segment | 17.1 million | 40 | $154.68
+1105:Total revenues | 3,471,417 | 4,101,592 | (630,175) | (15.4)
+1106:Tons sold | 17,072 | 16,378 | 694 | 4.2
+1121:Total other operating loss (income):
+1124:Total costs and expenses | 2,608,332 | 2,520,713 | 87,619 | 3.5
+1132:Total Other Expense, Net
+1137:Total other expense, net | (17,626) | (26,129) | 8,503 | 32.5
+1141:Total other expense, net decreased $8.5 million, or 32.5%, for the year ended December 31, 2023 compared to the prior year period, primarily related to decreased interest expense due to a reduction in outstanding debt and increased interest income due to rising interest rates, partially offset by an increase in net periodic benefit costs for pension obligations.
+1164:Tons sold | 16,543 | 529 | 17,072
+1165:Non-GAAP Coal sales realization per ton | 179.40 | 94.06 | 176.76
+1170:Total Cost of coal sales | 2,452,254 | 73,575 | 2,525,829
+1177:Tons sold | 16,543 | 529 | 17,072
+1178:Non-GAAP Cost of coal sales per ton | 111.67 | 80.84 | 110.72
+1187:Tons sold | 16,543 | 529 | 17,072
+1195:Tons sold | 16,543 | 529 | 17,072
+1196:Non-GAAP Coal margin per ton | 67.73 | 13.22 | 66.04
+1207:Tons sold | 15,478 | 900 | 16,378
+1208:Non-GAAP Coal sales realization per ton | 225.45 | 82.72 | 217.60
+1213:Total Cost of coal sales | 2,355,644 | 80,208 | 2,435,852
+1220:Tons sold | 15,478 | 900 | 16,378
+1221:Non-GAAP Cost of coal sales per ton | 108.22 | 59.19 | 105.53
+1230:Tons sold | 15,478 | 900 | 16,378
+1238:Tons sold | 15,478 | 900 | 16,378
+1239:Non-GAAP Coal margin per ton | 117.22 | 23.54 | 112.08
+1247:Met segment operations:
+1248:Tons sold | 16,543 | 15,478 | 1,065 | 6.9
+1250:Non-GAAP Coal sales realization per ton | 179.40 | 225.45 | (46.05) | (20.4)
+1252:Tons sold | 529 | 900 | (371) | (41.2)
+1254:Non-GAAP Coal sales realization per ton | 94.06 | 82.72 | 11.34 | 13.7
+1261:Met segment operations:
+1263:Non-GAAP Cost of coal sales per ton | 111.67 | 108.22 | 3.45 | 3.2
+1264:Non-GAAP Coal margin per ton | 67.73 | 117.22 | (49.49) | (42.2)
+1267:Non-GAAP Cost of coal sales per ton | 80.84 | 59.19 | 21.65 | 36.6
+=== 10K_FY2024.txt
+199:Metallurgical coal. The various grades of coal suitable for carbonization to make coke for steel manufacture. Also known as “met” coal, its quality is primarily differentiated based on volatility or its percent of volatile matter. Met coal typically has a particularly high BTU but low ash and sulfur content.
+218:Thermal coal. Coal used by power plants and industrial steam boilers to produce electricity, steam or both. It generally is lower in BTU heat content and higher in volatile matter than metallurgical coal.
+324:Met coal accounted for approximately 97% and 95%, respectively, of our coal revenues for the years ended December 31, 2024 and 2023. Our met coal sales are typically made to customers with whom we have a long-term relationship. Domestic met customers typically enter into one-year agreements with a fixed price for the entire contract year. Any longer-term agreement would generally have a renegotiation of price each subsequent contract year. Export sales are generally made on an annual, quarterly, or spot cargo basis. Annual and quarterly agreements typically have market-indexed pricing that changes with the market monthly. Any export agreement with a term greater than one year would generally have a renegotiation of pricing terms for each subsequent contract year. Volume for future years is generally contingent on both parties agreeing to a pricing mechanism to cover the contract year.
+327:Thermal coal accounted for approximately 3% and 5%, respectively, of our coal revenues for the years ended December 31, 2024 and 2023. We sometimes enter into long-term contracts with our thermal coal customers. Terms of these agreements may address coal quality requirements, quantity parameters, flexibility and adjustment mechanisms, permitted sources of supply, treatment of environmental constraints, options to extend, force majeure, suspension, termination and assignment issues, the allocation between the parties of the cost of complying with future governmental regulations and many other matters.
+521:Met coal accounted for approximately 97% of our coal revenues for the year ended December 31, 2024. Any deterioration in conditions in the U.S. or foreign steel industries, including the demand for steel and the continued financial viability of the industry, could reduce the demand for our met coal and could impact the collectability of our accounts receivable from U.S. or foreign steel industry customers.
+888:Thermal | $77
+897:Met
+904:Total | 298,639 | 184,181 | 114,458 | 8,931 | 289,708 | 143,703 | 154,936
+910:Met Coal by Volatility | Thermal | Sulfur | Recovery Percentage (2)
+912:Met
+919:Total | 83,413 | 65,902 | 68,968 | 69,544 | 10,812 | 262,002 | 36,637
+943:Met
+951:Total | 517,766 | 188,246 | 329,520 | 137,330 | 380,436 | 103,658 | 414,108
+960:Met Coal by Volatility | Thermal | Sulfur | Expected Recovery Percentage (2)
+962:Met
+970:Total | 115,516 | 257,936 | 48,910 | 90,832 | 4,572 | 221,784 | 295,982
+980:Met
+987:Total | 315,957 | 268 | (3,171) | — | (14,415) | 298,639
+995:Met
+1003:Total | 513,542 | 1,617 | 8,342 | (2,357) | (3,378) | 517,766
+1029:Total Number of Shares Purchased | Average Price Paid per Share | Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (1) | Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs (In thousands) (1)(2)(3)
+1046:Metallurgical coal markets ended 2024 at sharply lower levels than they began the calendar year, with each of Alpha’s followed indices experiencing at least a 30% drop. For example, the Australian Premium Low Vol index declined by 40% from the start of the year until the end. These downward movements in metallurgical coal indices were primarily due to a decline in steel demand, which was influenced by uncertainty in geopolitics and economic conditions across the globe. With numerous elections having been held and leaders elected within 2024, markets are now attempting to digest the anticipated future actions and governing priorities of these recently installed governments. For example, the new U.S. Administration has expressed its commitment to imposing tariffs on certain imported goods and materials. If new tariffs are imposed and trade wars occur, these circumstances will likely impact natural coal trade flows and the cost of materials for coal producers. 
+1048:Metallurgical coal prices experienced limited movement throughout the fourth quarter of 2024. Of the four indices Alpha closely monitors, the Australian Premium Low Volatile index represents the largest move, a reduction of 4%. The Australian Premium Low Volatile index fell from $204.75 per metric ton on October 1, 2024, to $196.50 per metric ton on December 31, 2024. The U.S. East Coast Low Volatile index decreased slightly from $189.00 per metric ton at the beginning of the quarter to $188.00 per metric ton at quarter end. The U.S. East Coast High Volatile A index fell from $184.00 per metric ton in October to $183.00 per metric ton at the end of December 2024, and the U.S. East Coast High Volatile B index opened and closed the quarter at $171.00 per metric ton. Since then, the Australian Premium Low Volatile decreased from quarter-close levels to $190.00 per metric ton, as of February 17, 2025. The U.S. East Coast Low Volatile, High Volatile A, and High Volatile B indices measured $187.00, $185.00, and $171.00 per ton, respectively, as of the same date.
+1078:Met - Domestic | $152.94
+1079:Met - Export | $113.11
+1080:Met Total | 15.0 million | 32 | $143.81
+1081:Thermal | 1.2 million | 95 | $80.74
+1082:Met Segment | 16.2 million | 37 | $131.73
+1102:Total revenues | 2,957,285 | 3,471,417 | (514,132) | (14.8)
+1103:Tons sold | 17,127 | 17,072 | 55 | 0.3
+1119:Total costs and expenses | 2,729,431 | 2,608,332 | 121,099 | 4.6
+1125:Total Other Expense, Net
+1130:Total other expense, net | 17,104 | 17,626 | (522) | (3.0)
+1159:Non-GAAP Coal sales realization per ton - Met | 142.66 | 179.40 | (36.74) | (20.5)
+1164:Total Cost of coal sales | 2,649,456 | 2,525,829 | 123,627 | 4.9
+1165:Total Cost of coal sales - All Other | — | (71,978) | 71,978 | 100.0
+1166:Total Cost of coal sales - Met | 2,649,456 | 2,453,851 | 195,605 | 8.0
+1173:Non-GAAP Cost of coal sales per ton - Met | 112.01 | 111.67 | 0.34 | 0.3
+1178:Tons sold - Met | 17,127 | 16,543 | 584 | 3.5
+1185:Adjusted EBITDA
+1199:Adjusted EBITDA | 407,752 | 1,033,111
+1205:Adjusted EBITDA | 407,752 | 1,033,111 | (625,359) | (60.5)
+1207:Adjusted EBITDA decreased $625.4 million, or 60.5%, for the year ended December 31, 2024 compared to the prior year period. The decrease in Adjusted EBITDA was primarily driven by decreased coal margin and lower non-GAAP coal sales realization per ton in the current period.
+1222:Total liquidity | 519,429
+1232:Total cash collateral | 170,688
+1258:Total | 279,775 | 29,216 | 18,733 | 16,444 | 15,964 | 138,898 | 499,030
+1269:Total | 82,445 | 82,937 | 78,059 | 83,564 | 77,233 | 1,459,039 | 1,863,277
+1407:Total revenues | 2,957,285 | 3,471,417 | 4,101,592
+1415:Total costs and expenses | 2,729,431 | 2,608,332 | 2,520,713
+1423:Total other expense, net | ( 17,104 ) | ( 17,626 ) | ( 26,129 )
+1450:Total other comprehensive (loss) income, net of tax | ( 9,495 ) | ( 28,425 ) | 46,341
+1451:Total comprehensive income | 178,084 | 693,531 | 1,494,886
+1467:Total current assets | 1,036,669 | 1,048,297
+1475:Total assets | 2,438,708 | 2,406,057
+1481:Total current liabilities | 251,109 | 309,930
+1488:Total liabilities | 789,211 | 832,129
+1497:Total stockholders’ equity | 1,649,497 | 1,573,928
+1498:Total liabilities and stockholders’ equity | 2,438,708 | 2,406,057
+1575:Total cash and cash equivalents and restricted cash shown in the Consolidated Statements of Cash Flows | 604,161 | 384,125 | 355,394
+1737:Total export coal revenues | 2,309,777 | 2,539,068 | 3,303,477

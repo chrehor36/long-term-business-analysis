@@ -1,0 +1,40 @@
+cap $5,271,049M
+| base | owner earnings $M | yield | vs sovereign 5.35% | perpetual growth for the 10% floor | for the bond |
+|---|---|---|---|---|---|
+| 5-yr FY2022-26, all out-of-OCF items as (c) (conservative) | 25,925 | 0.49% | -4.86 pts | 9.5% | 4.8% |
+| 5-yr FY2022-26, SBC at grant-date value | 33,102 | 0.63% | -4.72 pts | 9.3% | 4.7% |
+| 5-yr FY2022-26, (c)=capex+principal (the judged figure) | 35,332 | 0.67% | -4.68 pts | 9.3% | 4.6% |
+| 5-yr FY2022-26, (c)=depreciation | 36,851 | 0.70% | -4.65 pts | 9.2% | 4.6% |
+| 3-yr FY2024-26, capex end | 56,525 | 1.07% | -4.28 pts | 8.8% | 4.2% |
+| TTM, stakes and full AI cloud backstop as (c) | 62,239 | 1.18% | -4.17 pts | 8.7% | 4.1% |
+| TTM, capex end less acquisitions | 102,545 | 1.95% | -3.40 pts | 7.9% | 3.3% |
+| TTM, (c)=capex+principal (best judged twelve months) | 119,645 | 2.27% | -3.08 pts | 7.6% | 3.0% |
+| TTM, (c)=depreciation (most generous judged) | 124,147 | 2.36% | -2.99 pts | 7.5% | 2.9% |
+
+DCF engine (casts no vote [E3-34]): ten years of growth g then 3% forever, discounted at 10%, to equal the cap:
+  5-yr FY2022-26, all out-of-OCF items as (c) (conservative): 39.4% a year for ten years
+  5-yr FY2022-26, SBC at grant-date value: 35.8% a year for ten years
+  5-yr FY2022-26, (c)=capex+principal (the judged figure): 34.9% a year for ten years
+  5-yr FY2022-26, (c)=depreciation: 34.3% a year for ten years
+  3-yr FY2024-26, capex end: 28.2% a year for ten years
+  TTM, stakes and full AI cloud backstop as (c): 26.8% a year for ten years
+  TTM, capex end less acquisitions: 19.9% a year for ten years
+  TTM, (c)=capex+principal (best judged twelve months): 17.8% a year for ten years
+  TTM, (c)=depreciation (most generous judged): 17.3% a year for ten years
+
+Value per share at the 10% floor, Gordon OE x (1+g)/(0.10-g):
+| owner earnings | g = 0% | g = 3% | g = 5% | g = 6% | g = 7% | g = 8% |
+|---|---|---|---|---|---|---|
+| $25.9bn (5-yr conservative) | $11 | $16 | $23 | $28 | $38 | $58 |
+| $35.3bn (5-yr judged) | $15 | $22 | $31 | $39 | $52 | $79 |
+| $56.5bn (3-yr) | $23 | $34 | $49 | $62 | $83 | $126 |
+| $62.2bn (TTM with stakes and backstop) | $26 | $38 | $54 | $68 | $92 | $139 |
+| $119.6bn (TTM judged) | $50 | $73 | $104 | $131 | $177 | $268 |
+| $124.1bn (TTM depreciation end) | $51 | $76 | $108 | $136 | $183 | $278 |
+
+revenue CAGR FY2017-FY2026: 46.6%; FY2022-FY2026: 68.3%
+OE (capex end) CAGR FY2017-FY2026: 60.9%; FY2022-FY2026: 96.5%
+price / TTM OE 44.1x ; / 5-yr judged 149.2x ; / 10-yr 277.8x
+  buyback avg $109.68 implies perpetual growth for 10% from TTM OE: 5.2%
+  buyback avg $143.26 implies perpetual growth for 10% from TTM OE: 6.3%
+  buyback avg $196.06 implies perpetual growth for 10% from TTM OE: 7.3%

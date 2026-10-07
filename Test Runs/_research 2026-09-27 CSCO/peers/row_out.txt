@@ -1,0 +1,225 @@
+== CSCO
+2011 rev    43218 gm  61.4% om  17.8% rd  13.5% sbc/ocf  16.1%
+2012 rev    46061 gm  61.2% om  21.9% rd  11.9% sbc/ocf  12.2%
+2013 rev    48607 gm  60.6% om  23.0% rd  12.2% sbc/ocf   8.7%
+2014 rev    47142 gm  58.9% om  19.8% rd  13.4% sbc/ocf   n/a
+2015 rev    49161 gm  60.4% om  21.9% rd  12.6% sbc/ocf   n/a
+2016 rev    49247 gm  62.9% om  25.7% rd  12.8% sbc/ocf  10.7%
+2017 rev    48005 gm  63.0% om  24.9% rd  12.6% sbc/ocf  11.0%
+2018 rev    49330 gm  62.0% om  25.0% rd  12.8% sbc/ocf  11.5%
+2019 rev    51904 gm  62.9% om  27.4% rd  12.7% sbc/ocf   9.9%
+2020 rev    49301 gm  64.3% om  27.6% rd  12.9% sbc/ocf  10.2%
+2021 rev    49818 gm  64.0% om  25.8% rd  13.1% sbc/ocf  11.4%
+2022 rev    51557 gm  62.5% om  27.1% rd  13.1% sbc/ocf  14.3%
+2023 rev    56998 gm  62.7% om  26.4% rd  13.2% sbc/ocf  11.8%
+2024 rev    53803 gm  64.7% om  22.6% rd  14.8% sbc/ocf  28.3%
+2025 rev    56654 gm  64.9% om  20.8% rd  16.4% sbc/ocf  25.7%
+2026 rev    63325 gm  64.5% om  24.3% rd  15.1% sbc/ocf  27.0%
+  2016-2025 (2016-2025, 10y): GM  63.4% OM  25.3% OM range  20.8%.. 27.6% rev CAGR   1.6% SBC/OCF  14.0%
+  2021-2025 (2021-2025, 5y): GM  63.8% OM  24.5% OM range  20.8%.. 27.1% rev CAGR   3.3% SBC/OCF  17.3%
+== ANET
+2012 rev      193 gm  68.3% om  20.6% rd  28.5% sbc/ocf  17.9%
+2013 rev      361 gm  66.0% om  18.3% rd  27.3% sbc/ocf  29.3%
+2014 rev      584 gm  67.1% om  21.5% rd  25.5% sbc/ocf  24.1%
+2015 rev      838 gm  64.9% om  17.8% rd  25.0% sbc/ocf  22.6%
+2016 rev     1129 gm  64.0% om  21.6% rd  24.2% sbc/ocf  44.9%
+2017 rev     1646 gm  64.5% om  28.6% rd  21.2% sbc/ocf  11.9%
+2018 rev     2151 gm  63.8% om  12.7% rd  20.6% sbc/ocf  18.1%
+2019 rev     2411 gm  64.1% om  33.4% rd  19.2% sbc/ocf  10.5%
+2020 rev     2318 gm  63.9% om  30.2% rd  21.0% sbc/ocf  18.6%
+2021 rev     2948 gm  63.8% om  31.4% rd  19.9% sbc/ocf  18.4%
+2022 rev     4381 gm  61.1% om  34.9% rd  16.6% sbc/ocf  46.9%
+2023 rev     5860 gm  61.9% om  38.5% rd  14.6% sbc/ocf  14.6%
+2024 rev     7003 gm  64.1% om  42.0% rd  14.2% sbc/ocf   9.6%
+2025 rev     9006 gm  64.1% om  42.8% rd  13.7% sbc/ocf  10.0%
+  2016-2025 (2016-2025, 10y): GM  63.5% OM  31.6% OM range  12.7%.. 42.8% rev CAGR  25.9% SBC/OCF  13.5%
+  2021-2025 (2021-2025, 5y): GM  63.0% OM  37.9% OM range  31.4%.. 42.8% rev CAGR  32.2% SBC/OCF  13.0%
+== JNPR
+2011 rev     4449 gm  64.5% om  13.9% rd  23.1% sbc/ocf  22.1%
+2012 rev     4365 gm  62.1% om   7.1% rd  25.2% sbc/ocf  37.8%
+2013 rev     4669 gm  63.0% om  12.1% rd  22.3% sbc/ocf  29.0%
+2014 rev     4627 gm  61.8% om  -9.1% rd  21.7% sbc/ocf  31.4%
+2015 rev     4858 gm  63.4% om  18.8% rd  20.5% sbc/ocf  24.3%
+2016 rev     4990 gm  62.2% om  17.8% rd  20.3% sbc/ocf  20.3%
+2017 rev     5027 gm  61.1% om  16.9% rd  19.5% sbc/ocf  14.9%
+2018 rev     4648 gm  59.0% om  12.3% rd  21.6% sbc/ocf  25.2%
+2019 rev     4445 gm  58.9% om   9.9% rd  21.5% sbc/ocf  38.2%
+2020 rev     4445 gm  57.9% om   7.9% rd  21.6% sbc/ocf  31.1%
+2021 rev     4735 gm  57.9% om   8.2% rd  21.3% sbc/ocf  32.3%
+2022 rev     5301 gm  55.8% om   9.8% rd  19.5% sbc/ocf 214.4%
+2023 rev     5564 gm  57.5% om   8.4% rd  20.6% sbc/ocf  32.0%
+2024 rev     5074 gm  58.8% om   5.8% rd  22.7% sbc/ocf  36.9%
+  2016-2025 (2016-2024, 9y): GM  58.8% OM  10.8% OM range   5.8%.. 17.8% rev CAGR   0.2% SBC/OCF  29.7%
+  2021-2025 (2021-2024, 4y): GM  57.5% OM   8.0% OM range   5.8%..  9.8% rev CAGR   2.3% SBC/OCF  40.9%
+== HPE
+2013 rev    57371 gm   n/a om   5.1% rd   3.4% sbc/ocf   n/a
+2014 rev    55123 gm   n/a om   4.2% rd   4.0% sbc/ocf   6.2%
+2015 rev    52107 gm   n/a om   2.9% rd   4.5% sbc/ocf  15.4%
+2016 rev    50123 gm   n/a om   8.3% rd   4.6% sbc/ocf  11.3%
+2017 rev    28871 gm   n/a om   2.2% rd   5.1% sbc/ocf  48.1%
+2018 rev    30852 gm   n/a om   6.0% rd   5.4% sbc/ocf   9.6%
+2019 rev    29135 gm   n/a om   4.4% rd   6.3% sbc/ocf   6.7%
+2020 rev    26982 gm   n/a om  -1.2% rd   6.9% sbc/ocf  12.2%
+2021 rev    27784 gm   n/a om   4.1% rd   7.1% sbc/ocf   6.5%
+2022 rev    28496 gm   n/a om   2.7% rd   7.2% sbc/ocf   8.5%
+2023 rev    29135 gm   n/a om   7.2% rd   8.1% sbc/ocf   9.7%
+2024 rev    30127 gm   n/a om   7.3% rd   7.5% sbc/ocf   9.9%
+2025 rev    34296 gm   n/a om  -1.3% rd   7.3% sbc/ocf  22.0%
+  2016-2025 (2016-2025, 10y): GM   n/a OM   4.0% OM range  -1.3%..  8.3% rev CAGR  -4.1% SBC/OCF  11.0%
+  2021-2025 (2021-2025, 5y): GM   n/a OM   4.0% OM range  -1.3%..  7.3% rev CAGR   5.4% SBC/OCF  10.3%
+== EXTR
+2011 rev      334 gm  53.8% om   0.9% rd  14.8% sbc/ocf -31.3%
+2012 rev      323 gm  55.7% om   4.3% rd  14.1% sbc/ocf -44.8%
+2013 rev      299 gm  54.3% om   3.6% rd  13.5% sbc/ocf  22.8%
+2014 rev      520 gm  51.5% om  -9.7% rd  14.8% sbc/ocf   n/a
+2015 rev      553 gm  50.6% om -11.4% rd  16.9% sbc/ocf  47.6%
+2016 rev      528 gm  51.2% om  -4.8% rd  14.9% sbc/ocf  48.7%
+2017 rev      607 gm  53.4% om  -0.1% rd  15.4% sbc/ocf  21.3%
+2018 rev      983 gm  54.4% om  -3.9% rd  18.7% sbc/ocf 145.1%
+2019 rev      996 gm  55.4% om  -1.5% rd  21.1% sbc/ocf  31.3%
+2020 rev      948 gm  54.6% om -10.4% rd  22.1% sbc/ocf 105.5%
+2021 rev     1009 gm  58.0% om   3.4% rd  19.5% sbc/ocf  27.0%
+2022 rev     1112 gm  56.6% om   5.8% rd  17.1% sbc/ocf  33.8%
+2023 rev     1312 gm  57.5% om   8.3% rd  16.3% sbc/ocf  25.5%
+2024 rev     1117 gm  56.5% om  -5.8% rd  19.0% sbc/ocf 138.3%
+2025 rev     1140 gm  62.2% om   1.5% rd  19.4% sbc/ocf  54.1%
+2026 rev     1284 gm  61.5% om   4.9% rd  18.2% sbc/ocf  71.7%
+  2016-2025 (2016-2025, 10y): GM  56.0% OM  -0.8% OM range -10.4%..  8.3% rev CAGR   8.9% SBC/OCF  44.0%
+  2021-2025 (2021-2025, 5y): GM  58.2% OM   2.6% OM range  -5.8%..  8.3% rev CAGR   3.1% SBC/OCF  41.8%
+== FFIV
+2011 rev     1152 gm  81.9% om  30.4% rd  12.1% sbc/ocf  21.5%
+2012 rev     1377 gm  82.9% om  31.0% rd  12.9% sbc/ocf  19.2%
+2013 rev     1481 gm  82.9% om  29.1% rd  14.2% sbc/ocf  20.9%
+2014 rev     1732 gm  82.1% om  28.5% rd  15.2% sbc/ocf  23.2%
+2015 rev     1920 gm  82.7% om  28.8% rd  15.4% sbc/ocf  21.3%
+2016 rev     1995 gm  83.1% om  27.4% rd  16.8% sbc/ocf  22.0%
+2017 rev     2090 gm  83.1% om  27.0% rd  16.8% sbc/ocf  23.7%
+2018 rev     2161 gm  83.3% om  27.3% rd  16.9% sbc/ocf  20.7%
+2019 rev     2242 gm  84.1% om  23.1% rd  18.2% sbc/ocf  21.8%
+2020 rev     2351 gm  82.6% om  16.7% rd  18.8% sbc/ocf  30.6%
+2021 rev     2603 gm  81.1% om  15.1% rd  19.7% sbc/ocf  37.7%
+2022 rev     2696 gm  80.0% om  15.0% rd  20.2% sbc/ocf  56.3%
+2023 rev     2813 gm  78.9% om  16.8% rd  19.2% sbc/ocf  36.2%
+2024 rev     2816 gm  80.2% om  23.4% rd  17.4% sbc/ocf  27.7%
+2025 rev     3088 gm  81.4% om  24.8% rd  17.5% sbc/ocf  24.4%
+  2016-2025 (2016-2025, 10y): GM  81.8% OM  21.7% OM range  15.0%.. 27.4% rev CAGR   5.0% SBC/OCF  28.6%
+  2021-2025 (2021-2025, 5y): GM  80.3% OM  19.0% OM range  15.0%.. 24.8% rev CAGR   4.4% SBC/OCF  33.9%
+== FTNT
+2011 rev      434 gm  73.8% om  20.5% rd  14.7% sbc/ocf  14.3%
+2012 rev      534 gm  72.4% om  18.8% rd  15.2% sbc/ocf  16.7%
+2013 rev      615 gm  70.6% om  11.7% rd  16.7% sbc/ocf  29.8%
+2014 rev      770 gm  70.0% om   7.7% rd  16.0% sbc/ocf  30.0%
+2015 rev     1009 gm  71.6% om   1.5% rd  15.7% sbc/ocf  33.7%
+2016 rev     1275 gm  73.5% om   3.4% rd  14.4% sbc/ocf  35.4%
+2017 rev     1495 gm  74.2% om   7.3% rd  14.1% sbc/ocf  23.1%
+2018 rev     1801 gm  75.0% om  12.8% rd  13.6% sbc/ocf  25.5%
+2019 rev     2156 gm  76.5% om  16.0% rd  12.9% sbc/ocf  21.5%
+2020 rev     2594 gm  78.0% om  20.5% rd  13.2% sbc/ocf  17.7%
+2021 rev     3342 gm  76.6% om  19.5% rd  12.7% sbc/ocf  13.9%
+2022 rev     4417 gm  75.4% om  21.9% rd  11.6% sbc/ocf  12.6%
+2023 rev     5305 gm  76.7% om  23.4% rd  11.6% sbc/ocf  12.9%
+2024 rev     5956 gm  80.6% om  30.3% rd  12.0% sbc/ocf  11.4%
+2025 rev     6800 gm  80.5% om  30.7% rd  12.0% sbc/ocf  10.8%
+  2016-2025 (2016-2025, 10y): GM  76.7% OM  18.6% OM range   3.4%.. 30.7% rev CAGR  20.4% SBC/OCF  14.8%
+  2021-2025 (2021-2025, 5y): GM  77.9% OM  25.1% OM range  19.5%.. 30.7% rev CAGR  19.4% SBC/OCF  12.1%
+== PANW
+2011 rev      119 gm  72.8% om  -8.8% rd  18.0% sbc/ocf  14.7%
+2012 rev      255 gm  72.3% om   1.5% rd  15.1% sbc/ocf  17.9%
+2013 rev      396 gm  72.3% om  -4.7% rd  15.8% sbc/ocf  38.2%
+2014 rev      598 gm  73.3% om -36.0% rd  17.5% sbc/ocf 112.9%
+2015 rev      928 gm  72.9% om -14.4% rd  20.0% sbc/ocf  63.2%
+2016 rev     1378 gm  73.2% om -13.8% rd  20.6% sbc/ocf  59.7%
+2017 rev     1762 gm  72.9% om -10.2% rd  19.7% sbc/ocf  54.6%
+2018 rev     2274 gm  71.6% om  -5.7% rd  17.6% sbc/ocf  47.9%
+2019 rev     2900 gm  72.1% om  -1.9% rd  18.6% sbc/ocf  53.8%
+2020 rev     3408 gm  70.7% om  -5.3% rd  22.5% sbc/ocf  63.6%
+2021 rev     4256 gm  70.0% om  -7.1% rd  26.8% sbc/ocf  59.5%
+2022 rev     5502 gm  68.8% om  -3.4% rd  25.8% sbc/ocf  50.9%
+2023 rev     6893 gm  72.3% om   5.6% rd  23.3% sbc/ocf  38.7%
+2024 rev     8028 gm  74.3% om   8.5% rd  22.5% sbc/ocf  33.0%
+2025 rev     9222 gm  73.4% om  13.5% rd  21.5% sbc/ocf  34.9%
+2026 rev    11480 gm  70.4% om   6.1% rd  22.2% sbc/ocf  39.0%
+  2016-2025 (2016-2025, 10y): GM  71.9% OM  -2.0% OM range -13.8%.. 13.5% rev CAGR  23.5% SBC/OCF  44.4%
+  2021-2025 (2021-2025, 5y): GM  71.8% OM   3.4% OM range  -7.1%.. 13.5% rev CAGR  21.3% SBC/OCF  40.4%
+== UI
+2011 rev      198 gm  40.8% om  31.4% rd   5.7% sbc/ocf   1.5%
+2012 rev      354 gm  42.7% om  35.4% rd   4.7% sbc/ocf   1.8%
+2013 rev      321 gm  42.2% om  28.9% rd   6.5% sbc/ocf   2.6%
+2014 rev      572 gm  44.3% om  34.2% rd   5.9% sbc/ocf   4.0%
+2015 rev      596 gm  44.0% om  24.6% rd   9.2% sbc/ocf   3.7%
+2016 rev      666 gm  48.7% om  36.3% rd   8.7% sbc/ocf   1.9%
+2017 rev      865 gm  45.7% om  33.5% rd   8.0% sbc/ocf   2.5%
+2018 rev     1017 gm  43.6% om  32.1% rd   7.3% sbc/ocf   1.0%
+2019 rev     1162 gm  46.3% om  33.9% rd   7.1% sbc/ocf   1.1%
+2020 rev     1284 gm  47.3% om  37.2% rd   7.0% sbc/ocf   0.6%
+2021 rev     1898 gm  48.1% om  39.1% rd   6.1% sbc/ocf   0.5%
+2022 rev     1692 gm  39.6% om  27.3% rd   8.1% sbc/ocf   0.9%
+2023 rev     1941 gm  39.2% om  28.1% rd   7.5% sbc/ocf   n/a
+2024 rev     1928 gm  38.4% om  25.9% rd   8.3% sbc/ocf   1.2%
+2025 rev     2574 gm  43.4% om  32.5% rd   6.6% sbc/ocf   1.1%
+2026 rev     3274 gm  46.2% om  36.2% rd   6.2% sbc/ocf   0.8%
+  2016-2025 (2016-2025, 10y): GM  44.0% OM  32.6% OM range  25.9%.. 39.1% rev CAGR  16.2% SBC/OCF   1.2%
+  2021-2025 (2021-2025, 5y): GM  41.7% OM  30.6% OM range  25.9%.. 39.1% rev CAGR   7.9% SBC/OCF   1.2%
+== CIEN
+2011 rev     1742 gm  40.7% om  -9.4% rd  21.8% sbc/ocf   n/a
+2012 rev     1834 gm  39.5% om  -4.4% rd  19.9% sbc/ocf  30.2%
+2013 rev     2083 gm  41.5% om  -0.1% rd  18.4% sbc/ocf  84.4%
+2014 rev     2288 gm  41.4% om   2.0% rd  17.5% sbc/ocf  47.8%
+2015 rev     2446 gm  44.0% om   4.1% rd  16.9% sbc/ocf  21.1%
+2016 rev     2601 gm  44.7% om   6.0% rd  17.4% sbc/ocf  18.0%
+2017 rev     2802 gm  44.5% om   7.7% rd  17.0% sbc/ocf  20.6%
+2018 rev     3094 gm  42.5% om   7.4% rd  15.9% sbc/ocf  23.1%
+2019 rev     3572 gm  43.2% om   9.7% rd  15.3% sbc/ocf  14.5%
+2020 rev     3532 gm  46.8% om  13.8% rd  15.0% sbc/ocf  13.7%
+2021 rev     3621 gm  47.6% om  13.7% rd  14.8% sbc/ocf  15.6%
+2022 rev     3633 gm  43.0% om   6.1% rd  17.2% sbc/ocf   n/a
+2023 rev     4387 gm  42.8% om   8.2% rd  17.1% sbc/ocf  77.5%
+2024 rev     4015 gm  42.8% om   4.1% rd  19.1% sbc/ocf  30.4%
+2025 rev     4770 gm  42.0% om   4.1% rd  17.8% sbc/ocf  22.9%
+  2016-2025 (2016-2025, 10y): GM  44.0% OM   8.1% OM range   4.1%.. 13.8% rev CAGR   7.0% SBC/OCF  26.7%
+  2021-2025 (2021-2025, 5y): GM  43.6% OM   7.3% OM range   4.1%.. 13.7% rev CAGR   7.1% SBC/OCF  35.5%
+== ZS
+2016 rev       80 gm  74.9% om -33.4% rd  26.1% sbc/ocf   n/a
+2017 rev      126 gm  78.1% om -27.9% rd  26.7% sbc/ocf   n/a
+2018 rev      190 gm  80.1% om -18.2% rd  20.7% sbc/ocf  64.9%
+2019 rev      303 gm  80.3% om -11.7% rd  20.5% sbc/ocf  80.0%
+2020 rev      431 gm  77.8% om -26.4% rd  22.7% sbc/ocf 153.1%
+2021 rev      673 gm  77.7% om -30.9% rd  25.9% sbc/ocf 128.0%
+2022 rev     1091 gm  77.8% om -30.0% rd  26.5% sbc/ocf 127.2%
+2023 rev     1617 gm  77.6% om -14.5% rd  21.6% sbc/ocf  96.2%
+2024 rev     2168 gm  78.0% om  -5.6% rd  23.1% sbc/ocf  67.7%
+2025 rev     2673 gm  76.9% om  -4.8% rd  25.2% sbc/ocf  68.0%
+2026 rev     3353 gm  76.8% om  -4.0% rd  26.9% sbc/ocf  72.8%
+  2016-2025 (2016-2025, 10y): GM  77.9% OM -20.3% OM range -33.4%.. -4.8% rev CAGR  47.6% SBC/OCF  86.8%
+  2021-2025 (2021-2025, 5y): GM  77.6% OM -17.2% OM range -30.9%.. -4.8% rev CAGR  41.2% SBC/OCF  84.1%
+== CRWD
+== DDOG
+2017 rev      101 gm  76.8% om  -2.9% rd  24.5% sbc/ocf  22.2%
+2018 rev      198 gm  76.5% om  -5.6% rd  27.9% sbc/ocf  48.4%
+2019 rev      363 gm  75.5% om  -5.6% rd  30.7% sbc/ocf  78.5%
+2020 rev      603 gm  78.4% om  -2.3% rd  34.9% sbc/ocf  68.2%
+2021 rev     1029 gm  77.2% om  -1.9% rd  40.8% sbc/ocf  57.1%
+2022 rev     1675 gm  79.3% om  -3.5% rd  44.9% sbc/ocf  86.8%
+2023 rev     2128 gm  80.7% om  -1.6% rd  45.2% sbc/ocf  73.1%
+2024 rev     2684 gm  80.8% om   2.0% rd  42.9% sbc/ocf  65.5%
+2025 rev     3427 gm  80.0% om  -1.3% rd  45.2% sbc/ocf  71.5%
+  2016-2025 (2017-2025, 9y): GM  78.4% OM  -2.5% OM range  -5.6%..  2.0% rev CAGR  55.4% SBC/OCF  70.6%
+  2021-2025 (2021-2025, 5y): GM  79.6% OM  -1.2% OM range  -3.5%..  2.0% rev CAGR  35.1% SBC/OCF  70.9%
+== NTGR
+2011 rev     1181 gm  31.3% om  10.6% rd   4.1% sbc/ocf  14.3%
+2012 rev     1272 gm  30.2% om   9.9% rd   4.8% sbc/ocf  26.1%
+2013 rev     1370 gm  28.7% om   6.8% rd   6.2% sbc/ocf  20.1%
+2014 rev     1394 gm  28.6% om   2.0% rd   6.5% sbc/ocf  18.4%
+2015 rev     1301 gm  28.3% om   6.6% rd   6.7% sbc/ocf  15.2%
+2016 rev     1328 gm  31.0% om   8.6% rd   6.7% sbc/ocf  16.5%
+2017 rev     1407 gm  28.1% om   6.2% rd   6.7% sbc/ocf  25.3%
+2018 rev     1059 gm  32.3% om   3.7% rd   7.8% sbc/ocf   n/a
+2019 rev      999 gm  29.5% om   2.6% rd   7.8% sbc/ocf 215.4%
+2020 rev     1255 gm  29.6% om   6.0% rd   7.1% sbc/ocf  16.8%
+2021 rev     1168 gm  31.3% om   5.7% rd   8.0% sbc/ocf   n/a
+2022 rev      932 gm  26.9% om  -8.9% rd   9.5% sbc/ocf   n/a
+2023 rev      741 gm  33.6% om  -4.5% rd  11.2% sbc/ocf  31.6%
+2024 rev      674 gm  29.1% om   1.8% rd  12.0% sbc/ocf  13.8%
+2025 rev      700 gm  38.0% om  -4.9% rd  12.3% sbc/ocf 1850.2%
+  2016-2025 (2016-2025, 10y): GM  31.0% OM   1.6% OM range  -8.9%..  8.6% rev CAGR  -6.9% SBC/OCF  48.3%
+  2021-2025 (2021-2025, 5y): GM  31.8% OM  -2.2% OM range  -8.9%..  5.7% rev CAGR -12.0% SBC/OCF  55.7%

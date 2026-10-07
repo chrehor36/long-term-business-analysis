@@ -1,0 +1,155 @@
+- **DIS (The Walt Disney Company), 2026-09-19 - FAIL at Q2 (OUT ON THE BUSINESS: the clearest theme-park franchise on disk is bolted to $107.8bn of
+  capital earning 7.0% pre-tax and $84.1bn of signed sports rights).** **WAVE 6**, one of the eleven the 2026-09-01 triage dropped with no reason recorded
+  anywhere on disk; read as unlabelled, and the gate that closed it was not predictable from the label's absence. **CIK 0001744489 confirmed independently**
+  by `tools/sources.py:cik_for('DIS')` (returns `('0001744489', 'Walt Disney Co')`) and by the submissions file's `formerNames` row - *TWDC Holdco 613 Corp*,
+  June 2018 - the shell that became the ultimate parent at the TFCF close on 2019-03-20; the old registrant, CIK 0001001039, is now TWDC Enterprises 18 Corp
+  and survives only as a co-obligor on pre-2019 notes. Not taken from the brief. **Q1 IN**: four collection mechanisms bolted to one library of characters,
+  each legible from the FY2025 segment note - admission to built plant (Experiences $36,156M revenue, **$9,995M segment operating income, 56.9% of the
+  company's segment profit on 38% of its revenue**), a royalty on third-party manufacture (Consumer Products $4,445M at a **49.0% operating margin**), a
+  monthly fee for a library (DTC $24,614M, **$1,327M, a 5.4% margin in its first properly profitable year**, after $143M in FY2024), and a per-home fee from
+  distributors (Linear Networks $9,364M at **31.6%**, the best margin in the filing, plus ESPN affiliate and subscription fees $11,944M). **32% of segment
+  operating income never reaches pre-tax income** ($17,551M to $12,003M through corporate, restructuring, interest and $1,576M of TFCF/Hulu amortisation).
+  The ten-year answer was split AT Q1 so Q2 could not borrow the parks' durability for the whole company: Experiences yes; Linear and the ESPN affiliate fee
+  no, **and the filing says so in units** - domestic Linear affiliate revenue *"a decline of 9% from fewer subscribers, partially offset by an increase of 7%
+  from higher effective rates"* and domestic ESPN *"an increase of 7% from higher effective rates was offset by a decrease of 7% from fewer subscribers"*,
+  which is the **[E4-55]** shape exactly. **Q2 OUT.** The verdict rests on a capital table built from the items the filing DOES attribute, because segment
+  assets are not disclosed (*"We do not present a measure of total assets for our reportable segments"*, Note 17): goodwill by segment is **filed** (Entertainment
+  $51,258M, Sports $16,486M, Experiences $5,550M), net PP&E allocated by each segment's filed depreciation share (which is **conservative against Experiences**,
+  since attraction assets outlive broadcast plant), content assets split 70/30 Entertainment/Sports as a stated judgment. Result: **Entertainment and Sports
+  carry 43.1% of segment operating income on 75.7% of the capital ($107,848M) and earn 7.0% pre-tax; Experiences carries 56.9% on 24.3% ($34,575M) and earns
+  28.9%** - **[E2-56]**'s Pro-Am effect in numbers, with the blended 12.3% as the camouflage. **[E3-03] criterion 2 PASSES for Experiences and is refuted in
+  public, with dates, for the rest**: *"On October 30, 2025, the Company's channels were removed from YouTube TV following the expiration of the parties'
+  distribution contract without agreement on renewal terms"*, and *"in the third quarter of fiscal 2026, the NFL Network and NFL RedZone were removed from
+  Comcast Xfinity and **service has not been reinstated**"* - the largest virtual distributor and the largest cable operator in the United States each switched
+  Disney off rather than pay the asked rate, and the earnings release prices it (*"the impact of a network carriage dispute"*, Sports operating income -17% in
+  the quarter against guidance of -14%). **[E4-04] applied rather than recited**: Experiences PASSES (spending defends the same trademark, the Coca-Cola case
+  [E3-49, E5-23]) and ESPN is the **excluded class**, because ESPN owns no sport - its entire advantage is a portfolio of expiring licences, **two of which
+  expire inside one sentence of the 10-K** (*"mixed martial arts (through the end of calendar 2025)"*, *"Formula 1 (through the end of calendar 2025)"*) -
+  **$84,076M of signed sports-rights commitments, 29.2x the Sports segment's operating income and 4.8x the whole company's**, with 71 cents of every Sports
+  revenue dollar ($12,492M of $17,672M) paid to the owners of what customers actually want. **[E3-51]** names what the thirty-year record was: a surfing run
+  on the pay-TV bundle, and the wave is over in three independent filers' units - **Comcast domestic video 18.176M (2021) to 11.270M (2025), -38.0%**, Charter
+  14.122M to 12.605M, EchoStar 8.526M to 6.998M, and WBD's *"Declines in linear subscribers are expected to continue."* **THE COMPETITOR ROW: eleven filings,
+  ten peers, two rows, because the industry is two industries.** PARKS - Disney raised domestic per-capita guest spending **+5% with attendance -1%** and held
+  its 27.6% margin, while **Comcast opened Epic Universe in Orlando in May 2025 and its Theme Parks Adjusted EBITDA is still $265M BELOW FY2023** ($3,080M vs
+  $3,345M, margin 37.4% to 31.3%); **Six Flags wrote off $1,518M of goodwill and trade names in one quarter** on eight reporting units and lost 2.1M
+  like-for-like visits; **United Parks' admission per capita fell 4.3%** and its operating income 21%. **[E2-45]'s attacker's test was run as a live experiment
+  by a $124bn-revenue competitor with ample capital, and the attacker's own segment economics deteriorated** - which is why this is **[E2-53]**'s dominance
+  class and not an assertion. Comcast discloses **no attendance and no per-capita spending at all**, and **no cost figure for Epic Universe** (eleven mentions,
+  no number); recorded as not disclosed with the search that established it. VIDEO - Disney's DTC at **5.4%** against **Netflix's 29.5% GAAP operating margin
+  on $45,183M** and a **smaller** content bill ($17,097M of cash additions against Disney's $22,709M); **WBD Streaming at a GAAP operating LOSS of $(264)M**
+  with subscribers +13% and **global ARPU -11%**; **Peacock at revenue $5.4bn against costs of $6.5bn** with no filed profit measure at all. **Four of seven
+  video peers file no comparable streaming profit figure** (Peacock none, Paramount on Adjusted OIBDA and **with no GAAP full year 2025 in existence** because
+  pushdown accounting splits it at 6/7 August, Apple nothing, Amazon nothing), so the **video sub-class is PROVISIONAL** - and the run states why that is not
+  load-bearing: the finding rests on two filed GAAP operating margins, 5.4% and 29.5%. **And the field is consolidating around someone else**: Netflix agreed on
+  2025-12-04 to buy WBD's streaming and studios for ~$72.0bn, WBD found a *"Company Superior Proposal"*, **terminated it on 2026-02-27, paid Netflix $2.8bn**,
+  and agreed to be bought whole by **Paramount Skydance at $31.00 cash with Larry J. Ellison guaranteeing $45.72bn**; Comcast **completed** the Versant spin on
+  2026-01-02. **The bull case was stated at [E4-51] strength and answered with a number, not a preference**: "one moat, four rental channels" fails the second
+  half of the HAS test (2026-09-03) - the non-franchise legs do NOT *"neither grow nor eat material capital"*, they hold three quarters of it plus commitments
+  worth **59% of the market capitalisation** - and **Mickey does not appear on Monday Night Football**: Sports holds $16,486M of goodwill and $84,076M of
+  commitments and no connection to the IP at all. Two facts recorded AGAINST the verdict and not smoothed: **ESPN's +7% affiliate rate increases against WBD's
+  +3%** are the best in the industry, and **Fox's Cable Network Programming segment is GROWING** (revenue $5,955M to $7,348M, Segment EBITDA $2,693M to
+  $3,099M, FY2024-26) - so the linear decline is not a law of the medium, it is Disney's channels. **Q3 IN, RECORDED NOT GOVERNING** - declared a **BINARY
+  GATE** (daily execution ticked, because a slate must be re-created every year, $84.1bn of rights re-bought at auction and carriage re-negotiated with
+  counterparties who have twice switched the channels off; control not ticked; leverage not ticked and quantified - borrowings $42,026M at 0.37x total equity,
+  net 2.07x segment operating income, interest covered 13.4x). No [E5-16] disqualifier found, and it is written as the absence of one: the live matter is a
+  securities class action filed **2023-05-12** alleging *"a scheme to conceal, accurate costs and subscriber growth of the Disney+ platform"*, Iger added
+  2023-11-06, motion to dismiss denied in part 2025-02-19, **trial set 2027-08-17**, plus six derivative complaints - unresolved litigation, a source to read,
+  and **if it produces a finding this row changes character**. **SIX FLAGS CONVERGE ON ONE OUTPUT and [E4-52] says to read them as one system**: (i) a
+  two-year-forward adjusted-EPS growth target repeated in the furnished 8-K (*"approximately 12%"* FY2026 excluding the 53rd week, *"approximately 16%"*
+  including it, *"double-digit growth in adjusted EPS in fiscal 2027"*, *"double-digit Entertainment SVOD operating margin"*, *"future capital projects, over
+  their lifetimes, to deliver double-digit returns"*), unreconciled by the filer's own statement; (ii) a headline that excludes **$16,071M of restructuring and
+  impairment charges taken in SEVEN consecutive fiscal years** (FY2020 5,735 / FY2021 654 / FY2022 237 / FY2023 3,892 / FY2024 3,595 / FY2025 819 / 9M FY2026
+  1,139), which **[E5-33]** and **[E2-57]** refuse; (iii) pay vesting **50% of PBUs on that same adjusted EPS growth and 50% of the bonus on adjusted total
+  segment operating income** **[E4-27]**; (iv) **[E2-49]** on the yardstick - the TSR comparator moved from the S&P 500 to the *"S&P 500 Media & Entertainment
+  Index"* for FY2025 grants **after NEOs *"forfeited 100% of PBUs that were subject to cumulative TSR performance measurement"* for awards vesting in FY2023,
+  FY2024 and FY2025**; (v) **[E2-49]** again on the level - for two bonus metrics the Committee *"increased targets"* and *"narrowed the performance ranges …
+  which raises the bar"*, and for the third *"set adjusted after-tax free cash flow **below both fiscal 2024 target and actual results**"*, whereupon a result
+  **4% LOWER than the prior year ($8,273M) paid at 160% of target** and the weighted financial factor came in at **146%**; (vi) a buyback announced as a
+  **dollar target** - *"at least $9 billion"* - which **[E5-24]** makes price-indifferent by construction where **[E5-25]** shows Berkshire publishing both
+  conditions as numbers. **[E4-29] on EBITDA itself reads CLEAN and the count is given: `grep -c -i ebitda` returns 0 in the FY2025 10-K and 0 in the FY2026 Q3
+  EX-99.1** - the word appears only as a bank-covenant definition. **This is the first run on disk where the CGNX companion rule of 2026-09-07 clears the 8-K
+  as well as the annual report, and it is recorded so the rule is known to cut both ways.** **[E4-30] does NOT fire and the arithmetic is shown because FY2025
+  looks alarming until it is read**: cash taxes 10.2% of pre-tax income, explained, dated and named in the MD&A as the 2025 California wildfire deferral, with
+  FY2024's 52.4% its mirror image (the 2023 winter-storm deferral paid), and diluted EPS ran -1.57 / 1.11 / 1.71 / 1.29 / 2.72 / 6.85 - nothing is smooth.
+  Footnotes are the **strongest [E2-26] pass in this queue** (attendance, per-capita spending, occupancy, available room-nights, ARPU by service, and
+  programming cost split **Hulu $9,018M / Disney+ $5,239M**) - a reader who wants to know which streaming service loses the money is told, which is what made
+  this run's Q2 possible. **[E2-01]/[E2-42] primary test: five-year mean ROE 5.0%, seven-year 5.4%, FY2025 11.8% - the red light is on** - against **21.5%
+  pre-tax on unleveraged net tangible assets** with the **$82,566M goodwill-and-intangibles wedge reported separately** **[E2-43, E2-73]**; both figures are
+  true and the gap is the 2019 cheque sitting in the shareholder's denominator. **CEO succession completed on schedule and it is the most favourable fact in
+  Q3**: on 2026-02-02 the Board appointed **Josh D'Amaro**, Chairman of Disney Experiences since 2020 - the head of the one leg that IS a franchise - as CEO
+  effective **2026-03-18**, Iger to Senior Advisor *"reporting exclusively to the Board"* through 2026-12-31, Dana Walden to President and Chief Creative
+  Officer; say-on-pay 85.7% for. **Q4 IN on survival, RECORDED NOT GOVERNING, and (c) is the whole story at this filer.** Content cash spend of $22,709M runs
+  through **OPERATING** cash flow (the *"Net change in produced and licensed content costs and advances"* add-back of $577M is the excess of $23,286M of
+  amortisation over it), so adding content to (c) double-counts $22.7bn a year; **and the cash-flow D&A line of $5,326M is NOT the proxy either, because
+  $1,307M of it is TFCF and Hulu purchase-price amortisation requiring no replacement spend** - the correct D&A proxy is **depreciation alone, $3,859M**
+  (five-year mean $3,434M). **The [E5-20] exception class was asked ON THE FILING and answered NO**, which is a different answer from AMZN, EQIX and DLR: gross
+  PP&E including land and projects is **0.95x revenue** against the **5.1x** recorded for EQIX and DLR, depreciation is 4.1% of revenue, and **the two listed
+  theme-park operators that actually file a maintenance/growth split put maintenance at roughly depreciation, not a multiple of it** - United Parks' *"park
+  rides, attractions and maintenance activities"* capex $182.4M against depreciation of $168.0M (three-year means 1.23x), Six Flags' stated floor *"approximately
+  $125 million to $150 million"* against $486M of depreciation. So the depreciation end is the **optimistic bound of a legitimate band, not an invalid figure**,
+  and the peer ratio sets the middle: (c) **low $3,434M (depreciation), central $4,121M (1.20x), high $5,385M (total capex)**, with FY2026 guided capex of
+  ~$9,000M shown for reference and the filer's own words against treating it as maintenance (*"expansion"* named first; *"We expect our future capital projects,
+  over their lifetimes, to deliver double-digit returns"*). **No maintenance/growth split is filed, and that absence is the largest single uncertainty in the
+  section; it is disclosed as the guess [E2-23] says it must be.** **SBC RESOLVES and is COMPLETE** - published and non-zero for all nine filed years FY2017-25,
+  no hole, no zero substitution - and is carried at BOTH the charge and the larger **[E3-70]** grant-date value, which **exceeds the charge in six of the seven
+  years measured, by 28% to 99%** (FY2025 $1,812M against $1,363M; five-year means $1,661M against $1,090M), with the $194M of capitalised SBC the footnote
+  excludes noted separately. **Six windows published and the pandemic years shown IN and OUT, never silently dropped [E4-25, E4-38]**; FY2019 flagged as a
+  part-year perimeter (TFCF consolidated from 2019-03-20). **Owner earnings $1,294M to $9,049M - a 7.0x range** - and **[E4-41] applied**: FY2025 operating cash
+  flow is flattered by roughly $1.8bn of deferred cash tax, removed before the mean is trusted. Great/good/gruesome: **GOOD**, and it is two answers in one
+  security - Experiences GREAT at 28.9%, Entertainment and Sports at 7.0% pre-tax (~5.3% after tax) against **[E5-40]**'s ~12% benchmark, but not *gruesome*
+  because **[E4-43]** reserves that for capital-hungry growth earning nothing, and Entertainment declines slowly on a purchase price. **[E5-11]: strength 1
+  PASSES** ($94,425M of revenue, A2/P-1 and A/A-1 Stable, Fitch withdrew A-/F2 for commercial reasons 2025-09-29); **strength 2 FAILS** - cash $5,695M is 2.9%
+  of assets and **less than the $6,751M of FY2026 maturities**, and the liquidity statement leans on *"borrowing capacity under current bank facilities"*
+  ($12,250M committed, $0 drawn) and on commercial paper ($2,268M of net CP borrowing in 9M FY2026), which **[E5-39]** refuses outright; **strength 3 FAILS
+  structurally, not on timing** - $104,088M of signed commitments is **59% of the market capitalisation**, and FY2026's intended and contracted outflow is
+  $45,717M (debt $6,751M + interest $1,559M + commitments $17,007M + capex ~$9,000M + dividends ~$2,400M + a $9,000M buyback target) against guided operating
+  cash flow of *"at least $19 billion"*, of which the non-cancellable non-operating block is $17,310M. **[E2-54]'s coverage test PASSES comfortably at 4.9x**
+  ((OCF $18,101M - capex $8,024M) / interest paid $2,050M), **one** financial covenant across the facilities met *"by a significant margin"*, $25,872M of
+  $41,251M of borrowings maturing after FY2030 - which is why it survives. **[E3-52] read both ways**: covenant-light, long-dated debt on one side, and on the
+  other **the $84.1bn of rights commitments are the INVERSE of float** - the expense is contracted first and the revenue may not arrive, and the filer says so:
+  *"There can be no assurance that revenues from programming based on these rights will exceed the cost of the rights plus the other costs of producing and
+  distributing the programming."* **THE DEATH, named against `Screens/SURVIVAL SHAPES - index.md`: shape #10 THE CAMOUFLAGE** (SONY, 2026-09-13) **with #1
+  CONTRACTED NOT TO STOP as a feature; no new shape proposed.** Quantified from filed figures: ESPN domestic operating income $2,801M on revenue $16,085M, so
+  costs $13,284M of which **$12,492M is contracted programming**; affiliate and subscription fees $11,944M. A 10% fall in that fee line cuts ESPN domestic
+  operating income 43%; **a 23.5% fall erases it entirely**; at the 7% annual unit decline Disney itself files, with the offsetting 7% rate rises no longer
+  clearing, **23.5% arrives in 3.7 years**. Combined exposure **$5,756M - 32.8% of segment operating income** (ESPN domestic $2,801M plus Linear Networks
+  $2,955M, the latter's reporting unit having already failed its goodwill test twice, $1.3bn in FY2024 and $0.7bn in FY2023). **[E4-40] applied**: the
+  experience is twenty years of rate rises that worked; the exposure is the table plus $84.1bn of signed contracts, and the experience is *"not only useless,
+  but actually dangerous"* as a guide. **Corroborated in a counterparty's own audited filing: EchoStar's FY2025 10-K names Disney's own new service as a cause
+  of ITS subscriber loss** - *"in August 2025, ESPN Unlimited and FOX One sports packages were launched."* **Likelihood: A REAL POSSIBILITY**, with the bull
+  case stated at [E4-51] strength - ESPN's own DTC service launched August 2025, *"a growing number of subscribers"*, relationships with the NFL, MLB, FOX One
+  and the CW, and **domestic ESPN advertising +14% on +13% rates** - so the death is a race between the DTC ramp and the affiliate melt, run against a cost base
+  already signed, and the company survives the mechanism where the owner's return does not, which is precisely what #10 says. **Q5 DID NOT OPEN**; the
+  arithmetic carries the mandatory `COMPUTATION - NOT A CLEARANCE` heading and no entry language (operator rule 3). **Owner-earnings yield 2.06%-3.48% on the
+  corpus's default five-year window, 2.78%-3.10% at the central (c), and 4.78%-7.55% on the company's OWN FY2026 guidance - every construction below the ~10%
+  floor [E4-28], so QUIT ON and the ranking lines left blank.** The price needs **+7.94% perpetual growth** to clear the floor on the default window, against
+  what the business has actually done: **owner earnings PER SHARE $7.39 (FY2018) to $7.11 (FY2025), -0.56% a year for seven years, and -3.70% a year at the
+  capex end**, with net income attributable to Disney -0.22% a year over the same span. **[E4-44]** bounds the gap (*"cannot over the long term grow faster than
+  its earnings do"*) and **[E2-63]** names the ceiling (80.1% of the capex feeds the leg holding 24.3% of the capital, so growth there needs continuous
+  reinvestment - the *good* savings account - while the 75.7% would have to re-rate a purchase price). Value **roughly $20 to $80 a share at the floor and $40
+  to $145 at the sovereign**; at the buying standard the **price is ABOVE THE WHOLE RANGE**. Windage count **1**. **Q6 OUT as the consequence of Q2. Nothing
+  armed** - a Q2 failure is a failure on the BUSINESS (the QLYS ruling, 2026-09-07): **no `tools/alerts.json` band and no `PORTFOLIO.md` row.** **The reversal
+  condition is a DOCUMENT, not a price: a filed separation, sale or spin of ESPN and/or the linear networks** - which is exactly what Comcast did on 2026-01-02
+  and what WBD attempted twice - **would leave 56.9% of today's segment operating income on 24.3% of today's capital at a 28.9% pre-tax return, and this
+  framework would have to run it again from Q1.** **Two dated addenda sit BESIDE Q2 rather than inside it** (operator rule 6), and the second **corrects a
+  statement in Q3**: the NFL Transaction IS valued in a filing - the FY2026 Q3 10-Q gives approximately **$3 billion** for the 10% ESPN interest, implying ESPN
+  at roughly $30bn or 10.4x its segment operating income, with the NFL Network/RedZone rights licensed back through 2033 at **no disclosed price** and an
+  Exchange Right after July 2034 at 70% of fair market value - so **[E5-44]** can now be run rather than merely flagged, and it is quantified on one side only.
+  Run from scratch, no prior file, no screen row (wave 6). **Register entry 120**, counted from this file's `## COMPLETED FROM THE QUEUE` heading line to
+  `## THE WRITE-EARLY PROTOCOL` (119 line-start entries before it, no duplicate ticker, DIS not previously entered; **the brief said 117 and it was 119 by the
+  time this run folded, because the KO and IBM cycles folded in between - the count-before-and-after protocol caught it, as it did for IBM**).
+  `Test Runs/2026-09-19 Run - DIS Walt Disney.md` (template `878b09d`, Step 0 and Q1 `cd0be29`, Q2 `708a779`, Q3/Q4/computation/Q6/audit/register `5e695a3`,
+  fold in the fold commit), `check_framework.py` **PASS** (0 phantom citations, 0 unlabelled numbers; 176 ledger ids checked against `principle_ledger.csv`,
+  0 missing). **THE PAIR.** Price **US$102.67** (2026-09-18 close, Yahoo Finance chart via `tools/sources.py:price`, **aggregator flagged**) x **1,726,686,902**
+  x `split_factor_after('DIS','2026-07-29')` = **1.0** = cap **US$177,279M**. **Count:** the FY2026 Q3 Form 10-Q cover, accession **`0001744489-26-000057`**
+  (filed 2026-08-05, period 2026-06-27), *"There were 1,726,686,902 shares of common stock outstanding as of July 29, 2026"* - one class, par $0.01, so no A/B
+  artifact is possible; the FY2025 10-K cover said 1,785,288,846 at 2025-11-05, so **58.6M shares, 3.3% of the company, were retired in three quarters**.
+  **Sovereign USD 5.34%** (2026-09-18, **US Treasury daily par yield curve, 30 Yr column**, struck fresh this run by `tools/sources.py`, not FRED and not
+  inherited from the brief). **Filing:** FY2025 Form 10-K **`0001744489-25-000155`** (filed 2025-11-13, period 2025-09-27, primary document `dis-20250927.htm`),
+  plus 10-Q **`0001744489-26-000057`**, the furnished FY2026 Q3 release **`0001744489-26-000056`** EX-99.1, the 2026 proxy **`0001744489-26-000013`**, the
+  item-5.02 8-Ks **`0001744489-26-000022`** (the CEO appointment), **`0001628280-26-020172`** (the board seat and the annual-meeting vote), **`0001744489-26-000025`**
+  and **`0001744489-25-000149`**, and the FY2023 and FY2021 10-Ks **`0001744489-23-000216`** and **`0001744489-21-000220`** for the FY2019-FY2022 windows.
+  Figure cross-checked to the dollar against the filed statement: the cash-flow line *"Depreciation and amortization | 5,326"* reconciles to depreciation
+  $3,859M (Entertainment 773 + Sports 48 + Experiences 2,715 + Corporate 323) plus amortisation of intangible assets $1,467M (Entertainment 52 + Experiences 108
+  + TFCF and Hulu 1,307), and **that cross-check is what found the fact governing (c): the line EXCLUDES $23,286M of content amortisation**. **PASS/FAIL: FAIL -
+  closed at Q2, OUT on the business.**

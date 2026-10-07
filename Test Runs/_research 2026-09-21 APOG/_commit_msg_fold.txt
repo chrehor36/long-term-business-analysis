@@ -1,0 +1,62 @@
+APOG fold: register entry 145, wave 7 name 13, FAIL at Q2 -- Apogee is the ACQUIRER and the screen's deal note was stale in both directions: the Kalwall merger CLOSED on 2026-07-01 under Item 2.01 and a SECOND deal for Latvia's GroGlass was signed 2026-09-02 at EUR 62.5M and is still pending
+
+Cap re-struck by hand at $768.0M: 20,868,294 shares from the 10-Q cover of accession
+0000006845-26-000063 times the $36.80 close of 2026-09-18, against the screen's $787M.
+Sovereign 5.34%, 09/18/2026, US Treasury daily par yield curve, 30-year, from the
+issuing authority.
+
+Q2 OUT on [E3-03] criterion 2, decided by the filer's own sentences. Item 1 of the
+FY2026 10-K calls the market "highly fragmented", lists PRICE first among the factors
+that decide a sale, and concedes that competitors "can provide certain products with
+attributes similar to ours". The FY2026 MD&A then proves it segment by segment inside
+one fiscal year: Architectural Glass (19% of sales) "lower volume AND price due to
+lower end-market demand", 22.2% -> 16.1%; Architectural Services (31%) "increased
+volume, partially offset by unfavorable project mix AND LOWER PRICING", 8.0% -> 7.0%;
+Architectural Metals (36%) "lower volume, partially offset by favorable price" -- and
+the margin fell anyway, 13.5% -> 10.7%, on aluminium the price rise did not cover;
+Performance Surfaces (14%) raised price AND volume and still fell 25.3% -> 21.0%.
+
+Competitor row: seven listed peers, ten calendar years, EBIT/capital employed, each
+from its own 10-K facts, with Apogee's late-February fiscal year aligned and the
+alignment stated. APOG 12.2% mean and a 6.7% operating margin against Tecnoglass --
+the closest listed rival, same product, same market -- at 22.8% and 20.6%, whose
+WORST year beats Apogee's mean. Armstrong 19.5%/25.8%, never below 12.8%. JELD-WEN
+2.6%/1.9% and negative twice. APOG's 18.7% and 20.9% in calendar 2022-23 are the
+years TGLS printed 43.2% and BLDR 43.1%: the wave [E3-51], [E4-36]'s fourth cause,
+and in calendar 2025 APOG is back to 9.9% while TGLS holds 25.4% and AWI 26.0%.
+
+[E4-55] with the concealment running through acquisitions rather than pricing: seven
+fiscal years, $232.2M of cash paid for UW Solutions, and consolidated net sales are
+$2.1M higher -- so the pre-existing business is about 7% smaller in nominal dollars.
+The three architectural segments fell $1,317.6M to $1,206.8M in two years.
+
+The disconfirming case answered by [E2-43]: Performance Surfaces looks like the
+franchise on margin (21.0%) and is the WORST of the four segments on the capital
+actually employed -- $26.5M of segment EBIT against $337.1M of identifiable assets,
+7.9%, against Glass 16.0%, Services 15.2% and Metals 12.1%. The returns were bought,
+not earned.
+
+NEW TOOLING DEFECT, general to every low-capex row: best_year_dep (0.079, "no
+single-year dependence") contradicts best_year_dep_oe (0.121) by 53% with
+flags_disagree EMPTY. Rebuilt by hand, FY2024 alone carries 24.9% of the five-year
+owner-earnings mean. Subtracting a stable (c) and SBC from a variable OCF series
+amplifies the outlier rather than damping it, so the OCF-based flag will
+systematically under-report single-year dependence. Recorded, not patched.
+
+A PRIOR REFUTED: FC's stale-annual-cover defect (i-a) does NOT reproduce here. The
+screen used the newer 10-Q count on this row and the whole 2.4% cap gap is nineteen
+days of price, pointing the safe way.
+
+And as with MGPI and FC, the price was never the problem -- headed COMPUTATION, NOT A
+CLEARANCE, carrying no entry language because Q5 was never opened. The [E2-42]
+five-year window prices APOG at a 9.97%-11.42% owner-earnings yield on the $768M cap;
+the seventeen-year window says 6.76%-7.21% and contains NEGATIVE owner earnings in
+FY2011 that the five-year width structurally cannot see. Third consecutive wave-7
+name to close on the business while looking cheap.
+
+No alerts.json band and no PORTFOLIO.md row (the QLYS ruling); the reversal condition
+is recorded in words. check_framework.py PASS before this commit; 62 distinct ledger
+ids in the run file and 14 in the register entry, 0 phantom in either; eight verbatim
+renderings spot-checked against principle_ledger.csv and [E4-36] corrected in place.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

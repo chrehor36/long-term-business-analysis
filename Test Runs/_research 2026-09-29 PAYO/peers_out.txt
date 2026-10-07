@@ -1,0 +1,89 @@
+PYPL 0001633917 PayPal Holdings, Inc. SIC 7389 Services-Business Services, NEC
+   2018 rev 15451.0 op 2194.0 margin 14.2% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2019 rev 17772.0 op 2719.0 margin 15.3% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2020 rev 21454.0 op 3289.0 margin 15.3% tags ['Revenues'] ['OperatingIncomeLoss']
+   2021 rev 25371.0 op 4262.0 margin 16.8% tags ['Revenues'] ['OperatingIncomeLoss']
+   2022 rev 27518.0 op 3837.0 margin 13.9% tags ['Revenues'] ['OperatingIncomeLoss']
+   2023 rev 29771.0 op 5028.0 margin 16.9% tags ['Revenues'] ['OperatingIncomeLoss']
+   2024 rev 31797.0 op 5325.0 margin 16.7% tags ['Revenues'] ['OperatingIncomeLoss']
+   2025 rev 33172.0 op 6065.0 margin 18.3% tags ['Revenues'] ['OperatingIncomeLoss']
+FLYW 0001580560 Flywire Corp SIC 7389 Services-Business Services, NEC
+   2019 rev 94.9 op -17.5 margin -18.4% tags ['Revenues'] ['OperatingIncomeLoss']
+   2020 rev 131.8 op -15.8 margin -12.0% tags ['Revenues'] ['OperatingIncomeLoss']
+   2021 rev 201.1 op -13.3 margin -6.6% tags ['Revenues'] ['OperatingIncomeLoss']
+   2022 rev 289.4 op -30.2 margin -10.4% tags ['Revenues'] ['OperatingIncomeLoss']
+   2023 rev 403.1 op -21.5 margin -5.3% tags ['Revenues'] ['OperatingIncomeLoss']
+   2024 rev 492.1 op -7.3 margin -1.5% tags ['Revenues'] ['OperatingIncomeLoss']
+   2025 rev 623.0 op 11.3 margin 1.8% tags ['Revenues'] ['OperatingIncomeLoss']
+DLO 0001846832 dLocal Ltd SIC 7389 Services-Business Services, NEC
+   2019 rev 55.3 op 17.6 margin 31.8% tags ['Revenue'] ['ProfitLossFromOperatingActivities']
+   2020 rev 104.1 op 30.9 margin 29.7% tags ['Revenue'] ['ProfitLossFromOperatingActivities']
+   2021 rev 244.1 op 83.8 margin 34.3% tags ['Revenue'] ['ProfitLossFromOperatingActivities']
+   2022 rev 418.9 op 127.9 margin 30.5% tags ['Revenue'] ['ProfitLossFromOperatingActivities']
+   2023 rev 650.4 op 179.7 margin 27.6% tags ['Revenue'] ['ProfitLossFromOperatingActivities']
+   2024 rev 746.0 op 140.5 margin 18.8% tags ['Revenue'] ['ProfitLossFromOperatingActivities']
+   2025 rev 1093.6 op 219.9 margin 20.1% tags ['Revenue'] ['ProfitLossFromOperatingActivities']
+RELY 0001782170 Remitly Global, Inc. SIC 7389 Services-Business Services, NEC
+   2019 rev 126.6 op -50.6 margin -40.0% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2020 rev 257.0 op -29.2 margin -11.4% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2021 rev 458.6 op -39.7 margin -8.7% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2022 rev 653.6 op -121.0 margin -18.5% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2023 rev 944.3 op -114.2 margin -12.1% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2024 rev 1264.0 op -39.1 margin -3.1% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2025 rev 1635.1 op 77.5 margin 4.7% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+BILL 0001786352 BILL Holdings, Inc. SIC 7372 Services-Prepackaged Software
+   2018 rev 64.9 op -7.8 margin -12.1% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2019 rev 108.4 op -9.8 margin -9.0% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2020 rev 157.6 op -34.2 margin -21.7% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2021 rev 238.3 op -114.0 margin -47.8% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2022 rev 642.0 op -316.8 margin -49.4% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2023 rev 1058.5 op -295.8 margin -27.9% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2024 rev 1290.2 op -174.2 margin -13.5% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2025 rev 1462.6 op -80.6 margin -5.5% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2026 rev 1653.2 op -73.4 margin -4.4% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+WU 0001365135 Western Union CO SIC 7389 Services-Business Services, NEC
+   2018 rev 5589.9 op 1122.1 margin 20.1% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2019 rev 5292.1 op 934.0 margin 17.6% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2020 rev 4835.0 op 967.3 margin 20.0% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2021 rev 5070.8 op 1123.1 margin 22.1% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2022 rev 4475.5 op 884.9 margin 19.8% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2023 rev 4357.0 op 817.5 margin 18.8% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2024 rev 4209.7 op 725.8 margin 17.2% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2025 rev 4050.7 op 757.3 margin 18.7% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+IMXI 0001683695 International Money Express, Inc. SIC 7389 Services-Business Services, NEC
+   2018 rev 273.9 op 13.1 margin 4.8% tags ['Revenues'] ['OperatingIncomeLoss']
+   2019 rev 319.6 op 36.4 margin 11.4% tags ['Revenues'] ['OperatingIncomeLoss']
+   2020 rev None op 52867000
+   2021 rev None op 67852000
+   2022 rev None op 82908000
+   2023 rev None op 95490000
+   2024 rev None op 95016000
+   2025 rev None op 55650000
+XYZ 0001512673 Block, Inc. SIC 7372 Services-Prepackaged Software
+   2018 rev 3298.2 op -36.6 margin -1.1% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2019 rev 4713.5 op 26.6 margin 0.6% tags ['Revenues'] ['OperatingIncomeLoss']
+   2020 rev 9497.6 op -18.8 margin -0.2% tags ['Revenues'] ['OperatingIncomeLoss']
+   2021 rev 17661.2 op 161.1 margin 0.9% tags ['Revenues'] ['OperatingIncomeLoss']
+   2022 rev 17531.6 op -624.5 margin -3.6% tags ['Revenues'] ['OperatingIncomeLoss']
+   2023 rev 21915.6 op -278.8 margin -1.3% tags ['Revenues'] ['OperatingIncomeLoss']
+   2024 rev 24121.1 op 892.3 margin 3.7% tags ['Revenues'] ['OperatingIncomeLoss']
+   2025 rev 24193.7 op 1708.4 margin 7.1% tags ['Revenues'] ['OperatingIncomeLoss']
+AFRM 0001820953 Affirm Holdings, Inc. SIC 6141 Personal Credit Institutions
+   2019 rev 264.4 op -127.4 margin -48.2% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2020 rev 509.5 op -107.8 margin -21.2% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2021 rev 870.5 op -379.2 margin -43.6% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2022 rev 1349.3 op -866.0 margin -64.2% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2023 rev 1588.0 op -1200.9 margin -75.6% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2024 rev 2323.0 op -615.8 margin -26.5% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2025 rev 3224.4 op -87.3 margin -2.7% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2026 rev 4261.1 op 417.0 margin 9.8% tags ['Revenues', 'RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+TOST 0001650164 Toast, Inc. SIC 7374 Services-Computer Processing & Data Preparation
+   2019 rev 665.0 op -213.0 margin -32.0% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2020 rev 823.0 op -220.0 margin -26.7% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2021 rev 1705.0 op -228.0 margin -13.4% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2022 rev 2731.0 op -384.0 margin -14.1% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2023 rev 3865.0 op -287.0 margin -7.4% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2024 rev 4960.0 op 16.0 margin 0.3% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+   2025 rev 6153.0 op 292.0 margin 4.7% tags ['RevenueFromContractWithCustomerExcludingAssessedTax'] ['OperatingIncomeLoss']
+ADYEY NOT IN SEC TICKER MAP
+WISE NOT IN SEC TICKER MAP

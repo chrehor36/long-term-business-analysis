@@ -1,0 +1,40 @@
+{
+ "physical": {
+  "units shipped": 0,
+  "unit volume": 0,
+  "units": 8,
+  "wafers": 0,
+  "wafer starts": 0,
+  "300mm": 6,
+  "200mm": 1,
+  "SKU": 0,
+  "part numbers": 0,
+  "catalog": 0,
+  "customers": 46,
+  "average selling price": 0,
+  "ASP": 0,
+  "utilization": 2,
+  "capacity": 22
+ },
+ "competitor": {
+  "Analog Devices": 0,
+  "ADI": 0,
+  "Microchip": 0,
+  "NXP": 0,
+  "STMicroelectronics": 0,
+  "Infineon": 0,
+  "onsemi": 0,
+  "ON Semiconductor": 0,
+  "Renesas": 0,
+  "Broadcom": 0,
+  "Qualcomm": 0,
+  "Silergy": 0,
+  "SG Micro": 0,
+  "3Peak": 0,
+  "Chinese": 0,
+  "China": 8,
+  "Silicon Labs": 9,
+  "Micron": 0,
+  "Intel": 0
+ }
+}

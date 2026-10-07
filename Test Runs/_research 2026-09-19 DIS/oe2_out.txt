@@ -1,0 +1,49 @@
+SBC: charge vs [E3-70] grant value
+ yr  charge  capitalised  grant-value  grant/charge
+ 2019     711            0          508         0.71x
+ 2020     525            0          929         1.77x
+ 2021     600            0         1191         1.99x
+ 2022     977            0         1866         1.91x
+ 2023    1143          145         1680         1.47x
+ 2024    1366          201         1754         1.28x
+ 2025    1363          194         1812         1.33x
+
+CONTENT: cash spend vs amortisation (content capital is INSIDE OCF)
+ 2024  spend 23435  amort 24481  spend-less-amort -1046
+ 2025  spend 22709  amort 23286  spend-less-amort -577
+
+OWNER EARNINGS = OCF - SBC - (c).  Two SBC measures, three (c) constructions.
+
+     window |         OCF |      SBCchg |    SBCgrant |         dep |       capex |  OE@dep,chg | OE@dep,grant | OE@capex,chg | OE@capex,grant
+FY2021-25 ( |       10701 |        1090 |        1661 |        3434 |        5385 |        6177 |        5607 |        4226 |        3655
+FY2019-23 ( |        7007 |         791 |        1235 |        3172 |        4478 |        3043 |        2600 |        1738 |        1294
+FY2019-25 ( |        9587 |         955 |        1391 |        3308 |        5118 |        5324 |        4887 |        3514 |        3077
+FY2022-25 ( |       11985 |        1212 |        1778 |        3526 |        5837 |        7247 |        6682 |        4936 |        4370
+FY2023-25 ( |       13979 |        1291 |        1749 |        3640 |        6135 |        9049 |        8591 |        6554 |        6096
+FY2017-19 ( |       10874 |         400 |         400 |        2729 |        4321 |        7745 |        7745 |        6153 |        6153
+
+FY2021-25 (5y, the corpus default)
+   OE range 3,655 to 6,177
+FY2019-23 (5y, the earlier five)
+   OE range 1,294 to 3,043
+FY2019-25 (7y, every filed year since the TFCF perimeter)
+   OE range 3,077 to 5,324
+FY2022-25 (4y, pandemic years excluded)
+   OE range 4,370 to 7,247
+FY2023-25 (3y, the current shape)
+   OE range 6,096 to 9,049
+FY2017-19 (3y, pre-TFCF, pre-streaming)
+   OE range 6,153 to 7,745
+
+TTM to 2026-06-27: {'OCF': 16989, 'CAPX': 8696, 'SBCc': 1519}  capex TTM 8696
+FY2026 company guidance: OCF at least 19,000 ; capex approximately 9,000
+  -> guided OCF less guided capex less TTM SBC charge = 8481
+  -> guided OCF less ~4,100 depreciation less TTM SBC charge = 13381
+
+YIELDS on market cap $177279M (1,726,686,902 x $102.67)
+  FY2021-25 (5y, the corpus default)                2.06% to  3.48%
+  FY2019-23 (5y, the earlier five)                  0.73% to  1.72%
+  FY2019-25 (7y, every filed year since the TFCF p  1.74% to  3.00%
+  FY2022-25 (4y, pandemic years excluded)           2.47% to  4.09%
+  FY2023-25 (3y, the current shape)                 3.44% to  5.10%
+  FY2017-19 (3y, pre-TFCF, pre-streaming)           3.47% to  4.37%

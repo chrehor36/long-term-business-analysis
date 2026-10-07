@@ -1,0 +1,27 @@
+SGC: claimed, Step 0 struck by hand, Q1 IN
+
+Wave 7, name 21 of 218. Branch B, from scratch: no prior SGC run file of any vintage.
+
+Step 0: sovereign 5.34% (US Treasury daily par yield curve, 30-year, 2026-09-18, struck
+fresh through tools/sources.py; FRED not used). Price $12.36 live 2026-09-21 09:44 ET,
+aggregator, flagged. Share count 15,945,201 from the cover of the 10-Q for the quarter
+ended 2026-06-30, accession 0001437749-26-025511. Split factor after 2026-07-30 is 1.0.
+Cap $197.1M.
+
+The screen cap of 196 REPRODUCED, which is rare in this project: 196 implies $12.29
+against today's $12.36, a 0.6% gap that is entirely the three-week-stale price.
+
+Eight screen-row imperatives tested and written into the file. The Item 1.01 8-K was
+opened: an Amended and Restated PNC credit agreement of 2026-08-07, $125M revolver plus
+a $75M term loan, five years, covenants named (fixed charge coverage 1.25:1, net leverage
+4.0:1). The screen's labelled guess was right; the terms are the news.
+
+Q1 IN. Three segments, all the same species of spread business: Branded Products 64% of
+sales at a 7.66% segment operating margin, Healthcare Apparel 20% at 2.08%, Contact
+Centers 16% at 7.13%, with a $23.3M corporate centre that takes $36.6M of segment
+operating profit down to $13.4M consolidated, a 2.36% consolidated operating margin.
+
+Three figures cross-checked by hand against the filed statements, including equity
+recomputed from A minus L (421,844 - 229,026 = 192,818, filed to the dollar) [E5-32].
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

@@ -1,0 +1,62 @@
+=== GROWTH REQUIRED, solved properly with the (1+g) numerator ===
+  to match the bare 30-yr Treasury        g =  2.93%/yr PERPETUAL
+  to clear the [E4-28] 10% floor          g =  7.58%/yr PERPETUAL
+
+=== THE FILED RECORD AGAINST THAT RATE [E4-35] ===
+  revenue FY2015->FY2025                233,715 ->  416,161  x1.781   +5.94%/yr
+  revenue FY2016->TTM                   215,639 ->  466,823  x2.165   +8.03%/yr
+  operating income FY2015->FY2025        71,230 ->  133,050  x1.868   +6.45%/yr
+  operating income FY2016->TTM           60,024 ->  154,859  x2.580   +9.94%/yr
+  net income FY2015->FY2025              53,394 ->  112,010  x2.098   +7.69%/yr
+  OWNER EARNINGS FY2015->FY2025          66,433 ->   85,904  x1.293   +2.60%/yr
+  OWNER EARNINGS FY2016->TTM             49,287 ->  122,977  x2.495   +9.57%/yr
+  OWNER EARNINGS FY2013->TTM             43,248 ->  122,977  x2.844   +8.37%/yr
+  OWNER EARNINGS FY2018->TTM             58,781 ->  122,977  x2.092   +9.67%/yr
+  Services gross profit FY2018->FY2025   24,156 ->   82,314  x3.408  +19.14%/yr
+  PRODUCTS gross profit FY2021->FY2025  105,126 ->  112,887  x1.074   +1.80%/yr
+  Services gross profit FY2021->FY2025   47,710 ->   82,314  x1.725  +14.61%/yr
+
+  per-share OE: FY2015 66,433/23,172.3M = $2.867 ; FY2025 85,904/15,004.7M = $5.725 ; TTM 122,977/14,714.7M = $8.357
+  per-share OE FY2015->FY2025 x1.997 = +7.16%/yr   FY2015->TTM x2.915 = +10.22%/yr
+
+=== THE BUYBACK CEILING [E2-63] -- the arithmetic that settles (b) ===
+  per-share lift from buyback = annual spend / market cap. It CANNOT exceed the earnings yield
+  if the buyback is funded from earnings.
+    FY2015: 35,253/640,000 = 5.51%/yr
+    FY2018: 72,738/1,100,000 = 6.61%/yr
+    FY2021: 85,971/2,400,000 = 3.58%/yr
+    FY2025: 90,711/3,800,000 = 2.39%/yr
+    FY2026: 90,711/4,669,700 = 1.94%/yr
+  MAXIMUM sustainable lift = OE/cap = 2.25%/yr (100% of owner earnings to buyback, nothing to dividend)
+  Apple pays a dividend of ~15,400/yr, so the realistic lift = 1.92%/yr
+
+=== DCF AS AN ENGINE ONLY [E3-34] -- it casts no vote ===
+  at the 10% FLOOR rate, 7%/decade then 4.5% perpetual  (generous, = the filed decade): $  2418bn = $ 165.67/sh
+  at the 10% FLOOR rate, 9%/decade then 4.5% perpetual  (the TTM rate sustained): $  2820bn = $ 193.21/sh
+  at the 10% FLOOR rate, 5%/decade then 4.0% perpetual  (the FY2015-25 revenue rate): $  1963bn = $ 134.52/sh
+
+=== BAR 2, THE SCREAMER TEST [E4-01] ===
+  price $319.97  vs zero-growth-at-sovereign band $95.93-$160.81 (judged $137.30)
+  vs the growth case at the floor rate $166  -> price = 1.93x
+  price / judged zero-growth = 2.33x ; price / most generous construction = 1.99x
+
+=== WHAT THE FLOOR WOULD REQUIRE ===
+  10% of $4,670bn = $467bn of owner earnings, against $105bn judged = 4.45x
+  price at which judged OE yields 10%: $71.95/sh  (a 78% decline)
+  price at which judged OE yields the bond: $137.30/sh  (a 57% decline)
+HONEST PRE-TAX EXPECTANCY at $319.97, solved as the IRR of the owner-earnings stream
+(judged OE $105bn; DCF used ONLY as an engine [E3-34] -- it casts no vote)
+
+  BULL: 9%/decade (the TTM rate) then 5% perpetual     -> expectancy  8.29%
+  the filed decade sustained: 8% then 4.5%             -> expectancy  7.65%
+  CENTRAL: 7%/decade then 4.5% perpetual               -> expectancy  7.40%
+  gross-profit-weighted build: 6.5% then 4.0%          -> expectancy  6.89%
+  BEAR: 5%/decade (FY2015-25 revenue rate) then 4.0%   -> expectancy  6.55%
+
+  Even the BULL case -- the last nine months' growth rate held for a decade -- does not reach 10%.
+
+=== the gross-profit-weighted forward build, from filed growth rates ===
+   Services 14.0%/yr x 0.422 + Products  2.0%/yr x 0.578 = gross profit 7.06%/yr
+   Services 13.0%/yr x 0.422 + Products  1.8%/yr x 0.578 = gross profit 6.53%/yr
+   Services 10.0%/yr x 0.422 + Products  1.5%/yr x 0.578 = gross profit 5.09%/yr
+   Services 16.0%/yr x 0.422 + Products  3.0%/yr x 0.578 = gross profit 8.49%/yr

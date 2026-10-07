@@ -1,0 +1,37 @@
+cap 2812.6
+| year | note | OCF | SBC | capex | dep | OE capex end | OE dep end |
+| 2013 | Legacy Quaker | 73.8 | 4.2 | 11.4 | 12.3 | 58.2 | 57.3 |
+| 2014 | Legacy Quaker | 54.7 | 5.3 | 13.1 | 12.3 | 36.3 | 37.1 |
+| 2015 | Legacy Quaker | 73.4 | 5.9 | 11.0 | 12.4 | 56.5 | 55.1 |
+| 2016 | Legacy Quaker | 73.8 | 6.3 | 10.0 | 12.6 | 57.4 | 54.8 |
+| 2017 | Legacy Quaker | 64.8 | 4.2 | 10.9 | 12.6 | 49.7 | 48.0 |
+| 2018 | Legacy Quaker | 78.8 | 3.7 | 12.9 | 12.4 | 62.2 | 62.7 |
+| 2019 | Houghton from 1 Aug; approx dep | 82.4 | 4.9 | 15.5 | 17.8 | 62.0 | 59.7 |
+| 2020 | COVID; WC release | 178.4 | 11.0 | 17.9 | 26.1 | 149.5 | 141.2 |
+| 2021 | inflation; WC build | 48.9 | 11.0 | 21.5 | 25.4 | 16.4 | 12.4 |
+| 2022 | inflation; WC build | 41.8 | 11.7 | 28.5 | 22.0 | 1.6 | 8.2 |
+| 2023 | WC release | 279.0 | 14.6 | 38.8 | 23.8 | 225.6 | 240.6 |
+| 2024 |  | 204.6 | 15.0 | 41.8 | 25.9 | 147.8 | 163.7 |
+| 2025 | restructuring cash 26.6 | 136.5 | 13.6 | 55.9 | 30.4 | 67.0 | 92.4 |
+windows ending 2025 (combined perimeter from 2020):
+  2y 2024-2025: 107.4 to 128.1  yield 3.82% to 4.55%
+  3y 2023-2025: 146.8 to 165.6  yield 5.22% to 5.89%
+  4y 2022-2025: 110.5 to 126.2  yield 3.93% to 4.49%
+  5y 2021-2025: 91.7 to 103.5  yield 3.26% to 3.68%
+  6y 2020-2025: 101.3 to 109.8  yield 3.60% to 3.90%
+  7y 2019-2025: 95.7 to 102.6  yield 3.40% to 3.65% (spans pre-2020 perimeter)
+  8y 2018-2025: 91.5 to 97.6  yield 3.25% to 3.47% (spans pre-2020 perimeter)
+  9y 2017-2025: 86.9 to 92.1  yield 3.09% to 3.27% (spans pre-2020 perimeter)
+  10y 2016-2025: 83.9 to 88.4  yield 2.98% to 3.14% (spans pre-2020 perimeter)
+  11y 2015-2025: 81.4 to 85.4  yield 2.90% to 3.03% (spans pre-2020 perimeter)
+  12y 2014-2025: 77.7 to 81.3  yield 2.76% to 2.89% (spans pre-2020 perimeter)
+  13y 2013-2025: 76.2 to 79.5  yield 2.71% to 2.83% (spans pre-2020 perimeter)
+Legacy Quaker 2014-18: 51.5-52.4
+screen check 2023 2025 capex 146.8 on screen cap 5.14%
+screen check 2023 2025 dep 165.6 on screen cap 5.80%
+screen check 2021 2025 capex 91.7 on screen cap 3.21%
+screen check 2021 2025 dep 103.5 on screen cap 3.62%
+D&A-incl-amortization as (c) 2023 2025 105.8
+D&A-incl-amortization as (c) 2021 2025 43.7
+OCF mean 2017-22 82.5, 2023-25 206.7, ratio 2.51
+OCF 2021-22 mean 45.4 vs 2023-24 241.8

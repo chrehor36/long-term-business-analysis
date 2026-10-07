@@ -1,0 +1,981 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of
+the contents of this announcement.
+
+             HUA HONG SEMICONDUCTOR LIMITED
+                          
+
+                                              (Incorporated in Hong Kong with limited liability)
+
+                                                Stock Code (01347)
+
+                           News Release
+
+                Reports 2024 Fourth Quarter Results
+
+                All currency figures in this report are in US Dollars unless indicated otherwise.
+               The consolidated financial statements are prepared in accordance with HKFRS.
+
+Hong Kong Special Administrative Region of the People's Republic of China ­February 13, 2025.
+Hua Hong Semiconductor Limited (SEHK: 01347; SSE STAR MARKET: 688347) (the "Company"), a
+global, leading pure-play foundry, today announced its consolidated operational results for the quarter
+ending December 31, 2024.
+
+Fourth Quarter 2024 Highlights (Unaudited)
+ Revenue was US$539.2 million, 18.4% over 4Q 2023 and 2.4% above 3Q 2024.
+ Gross margin was 11.4%, 7.4 percentage points over 4Q 2023 and 0.8 percentage points lower than
+
+    3Q 2024.
+ Net loss attributable to shareholders of the parent company was US$25.2 million, compared to net
+
+    profit attributable to shareholders of the parent company of US$35.4 million in 4Q 2023 and US$44.8
+    million in 3Q 2024, primarily due to foreign exchange losses in the period versus foreign exchange
+    gains in previous periods.
+
+First Quarter 2025 Guidance
+ We expect revenue to be approximately US$530 million to US$550 million.
+ We expect gross margin to be in the range of 9% to 11%.
+
+                                                                                                                                                                        1
+President's Message
+Dr. Peng Bai, President and Executive Director of the Company, commented on the fourth quarter and
+full year 2024 results:
+"It is a great honor for me to represent Hua Hong Semiconductor in our earnings release for the first
+time. The company reported fourth quarter 2024 revenue of US$539 million with a gross margin of
+11.4%, both in line with our guidance. For the full year, we achieved sales revenue of US$2,004 million,
+with a gross margin of 10.2%."
+"For Hua Hong Semiconductor, 2024 was a year with both challenges and opportunities. Market
+demand was complex and varying. Recovery in the consumer field and rapid growth of some emerging
+application markets drove good performance for the company's image sensor and power management
+platforms. However, demand for mid-to-high-end power devices needs improvement. Facing fierce
+market competition, the company maintained stable revenue and production volume. A quarter by
+quarter improvement trend in overall performance was achieved. Average capacity utilization rate
+throughout the year was approaching 100%, which was at a leading level for global wafer foundry
+enterprises."
+President Bai continued, "The year 2024 was also pivotal for building on past achievements and forging
+ahead. Successful construction and commencement of operations in our second 12-inch production line
+in Wuxi represents a significant milestone on the company's strategic development path. In 2025, Hua
+Hong Semiconductor will intensify R&D investments centered on new process platforms and iteration
+of each platform, expand capacity of the new production line, continue to foster strategic cooperation
+with key domestic and international customers, focus on evolving demands of critical emerging
+industries, and further solidify our leading position in the specialty process wafer foundry sector.
+Concurrently, the company will enhance efficiency and cost reduction efforts, thereby creating greater
+value for our shareholders."
+
+                                                                                                                                                                        2
+Webcast/Conference Call Announcement
+
+Date:     Thursday, February 13, 2025
+
+Time:     17:00 Hong Kong/Shanghai Time
+          04:00 EST
+
+Presenters: Dr. Peng Bai, President and Executive Director
+
+          Mr. Daniel Wang, Executive Vice President and Chief Financial Officer
+
+Webcast:  The call will be webcast live with audio and slides at:
+
+          https://www.huahonggrace.com/html/ir_calendar.php or
+          https://edge.media-server.com/mmc/p/hgm38253
+
+          (Note: registration is required to access the webcast.)
+
+Dial-in Details: Please register in advance of the conference using the link provided below. Upon
+                     registering, you will be provided with participant dial-in numbers and personal PIN.
+
+          https://register.vevent.com/register/BIb57631fcc7794af1af448487dae1e61e
+
+Replay:   Important Note: Before the meeting starts, you will need the personal PIN to join the
+          call. Please check and save the confirmation email after registering. For security
+          reasons, please do not share your personal PIN with anyone else.
+
+          A recording will be available for replay at the below website about 2 hours after the
+          event and will be available for 12 months.
+
+          https://www.huahonggrace.com/html/ir_calendar.php
+
+About the Company
+
+Hua Hong Semiconductor Limited (Stock Code: 688347.SH/ 01347.HK) (the "Company") is a global
+leading pure-play foundry with specialty technologies which offers a diverse array of wafer foundry and
+supporting services to its customers, implementing "8-inch + 12-inch" and advanced "Specialty IC +
+Power Discrete" development strategies. The Company focuses on continuous innovation of specialty
+technologies, including embedded/standalone non-volatile memory (NVM), power discrete, analog &
+power management, and logic & RF, supporting applications in emerging areas, such as new energy
+vehicles, green energy, and the Internet of Things. Of special note is the Company's outstanding quality
+control system that satisfies the strict requirements of automotive chip manufacturing. The Company is
+a member of the Hua Hong Group, which is an industrial group in China that owns mainstream "8-inch
++ 12-inch" advanced IC manufacturing process technologies.
+
+The Company operates three 8-inch wafer fabrication facilities in Shanghai Jinqiao and Shanghai
+Zhangjiang. In addition, the Company has built two global leading 12-inch wafer fabrication facilities
+devoted to specialty processes in Wuxi National Hi-Tech District, one of which is the world's first 12-
+inch power semiconductor foundry.
+
+For more information, please visit: www.huahonggrace.com.
+
+                                                                                   3
+                        Summary of Operating Results
+(Amounts in US$ thousands, except for EPS and operating data)
+
+Revenue                                4Q 2024         4Q 2023         3Q 2024            YoY       QoQ
+Gross profit                         (Unaudited)     (Unaudited)     (Unaudited)       Change     Change
+Gross margin
+Operating expenses                        539,177        455,361          526,306         18.4 %      2.4 %
+Other (loss) / income net                   61,426         18,220           64,007      237.1 %      (4.0)%
+(Loss) / profit before tax                   11.4 %          4.0 %           12.2 %                  (0.8)
+Income tax expense                                        (95,063)         (81,430)         7.4     35.9 %
+(Loss) / profit for the period           (110,626)         87,600           51,797        16.4 %  (178.1)%
+Net profit margin                          (40,468)        10,757           34,374     (146.2)%   (360.9)%
+Attributable to:                           (89,668)         (7,210)        (11,461)    (933.6)%    (42.4)%
+                                            (6,596)          3,547          22,913        (8.5)%  (520.1)%
+    Owners of the parent                   (96,264)          0.8 %            4.4 %  (2,814.0)%    (22.3)
+    Non-controlling interests              (17.9)%                                       (18.7)
+                                                           35,386                                 (156.2)%
+                                           (25,199)       (31,839)    44,816         (171.2)%      224.5 %
+                                           (71,065)                  (21,903)         123.2 %
+
+Earnings per share attributable to    (0.015)         0.021            0.026         (171.4)%     (157.7)%
+ owners of the parent                 (0.015)         0.021            0.026         (171.4)%     (157.7)%
+    Basic
+                                       1,213            951            1,200           27.5 %         1.1 %
+    Diluted
+Wafers shipped                       103.2 %         84.1 %          105.3 %            19.1         (2.1)
+(in thousands 8" equivalent wafers)    (1.6)%         2.4 %             2.8 %           (4.0)        (4.4)
+Capacity utilization1
+ROE2
+
+  Fourth Quarter 2024
+
+· Revenue was US$539.2 million, 18.4% over 4Q 2023, primarily driven by increased wafer
+     shipments, partially offset by decreased average selling price, and 2.4% above 3Q 2024, mainly
+     driven by improved average selling price and increased wafer shipments.
+
+· Gross margin was 11.4%, 7.4 percentage points over 4Q 2023, primarily driven by improved
+     capacity utilization, and 0.8 percentage points lower than 3Q 2024.
+
+· Operating expenses were US$110.6 million, 16.4% and 35.9% over 4Q 2023 and 3Q 2024,
+     primarily due to increased engineering wafer costs and increased new fab start-up-costs.
+
+· Other loss net was US$40.5 million, compared to other income net of US$87.6 million in 4Q
+     2023 and other income net of US$51.8 million in 3Q 2024, primarily due to foreign exchange
+     losses versus foreign exchange gains in 4Q 2023 and 3Q 2024, and decreased government
+     subsidies.
+
+· Income tax expense was US$6.6 million, 8.5% lower than 4Q 2023 and 42.4% lower than 3Q
+     2024.
+
+· Net loss for the period was US$96.3 million, compared to a profit of US$3.5 million in 4Q 2023
+     and US$22.9 million in 3Q 2024.
+
+· Net loss attributable to shareholders of the parent company was US$25.2 million, compared to
+     net profit attributable to shareholders of the parent company of US$35.4 million in 4Q 2023 and
+     US$44.8 million in 3Q 2024.
+
+· Basic earnings per share was US$-0.015, compared to US$0.021 in 4Q 2023 and US$0.026
+     in 3Q 2024.
+
+· ROE (annualized) was -1.6%, 4.0 and 4.4 percentage points lower than 4Q 2023 and 3Q 2024
+     respectively.
+
+1The capacity utilization is calculated based on average monthly equivalent wafers output divided by total estimated monthly capacity.
+2Profit attributable to owners of the parent / weighted average net assets attributable to owners of the parent.
+
+                                                                                                                                                                             4
+                                      Summary of Operating Results
+              (Amounts in US$ thousands, except for EPS and operating data)
+
+                                                         2024         2023         YoY
+                                                                                 Change
+                                                         (Unaudited)  (Audited)
+                                                                                  (12.3)%
+Revenue                                                  2,003,993    2,286,113   (57.9)%
+Gross profit                                               205,128      487,096    (11.1)
+Gross margin                                                  10.2%       21.3%
+                                                                                     8.4 %
+Operating expenses                                       (360,904)    (333,057)    12.5 %
+Other income net                                           21,984       19,540   (177.1)%
+                                                                                  (86.0)%
+(Loss) / profit before tax                               (133,792)    173,579    (211.0)%
+Income tax expense                                          (6,593)   (47,154)     (12.5)
+(Loss) / profit for the year                                          126,425
+Net profit margin                                        (140,385)                (79.2)%
+                                                             (7.0)%      5.5 %     29.2 %
+
+Attributable to:                                           58,108      280,034    (82.0)%
+   Owners of the parent                                  (198,493)    (153,609)   (81.9)%
+   Non-controlling interests                                                       10.8 %
+
+Earnings per share attributable to owners of the parent   0.034        0.189         5.2
+    Basic                                                 0.034        0.188        (5.4)
+    Diluted                                               4,545        4,103
+                                                         99.5 %       94.3 %
+Wafers shipped (in thousands 8" equivalent wafers)        0.9 %        6.3 %
+Capacity utilization
+ROE
+
+Full Year 2024
+
+· Revenue was US$2,004.0 million, 12.3% lower than the prior year, primarily due to decreased
+     average selling price, partially offset by increased wafer shipments.
+
+· Gross margin was 10.2%, 11.1 percentage points lower than 2023, mainly due to decreased
+     average selling price and increased depreciation costs.
+
+· Operating expenses were US$360.9 million, 8.4% over 2023, largely due to increased research
+     and development expenses and increased new fab start-up-costs.
+
+· Other income net was US$22.0 million, 12.5% above 2023, primarily due to increased interest
+     income, partially offset by decreased government subsidies.
+
+· Net loss was US$140.4 million, compared to a net profit of US$126.4 million in 2023.
+
+· Net profit attributable to shareholders of the parent company was US$58.1 million, compared to
+     US$280.0 million in 2023.
+
+· Basic earnings per share was US$0.034, compared to US$0.189 in 2023.
+
+· ROE was 0.9%, compared to 6.3% in 2023.
+
+                                                                                                  5
+                        Analysis of Revenue
+
+Revenue by     4Q 2024 4Q 2024 4Q 2023 4Q 2023                    YoY                    YoY
+service type                                                    Change                 Change
+               US$000   %        US$000      %                  US$000
+Wafers                                                                                     %
+Others         (Unaudited) (Unaudited) (Unaudited) (Unaudited)   76,302                 17.5 %
+Total revenue
+               512,677  95.1 %   436,375     95.8 %                7,514                39.6 %
+
+               26,500   4.9 %    18,986      4.2 %               83,816                 18.4 %
+
+               539,177  100.0 %  455,361     100.0 %
+
+ 95.1% of total revenue was derived from the sale of semiconductor wafers in 4Q 2024.
+
+                        Analysis of Revenue
+
+Revenue by     4Q 2024 4Q 2024 4Q 2023 4Q 2023                    YoY                    YoY
+wafer size                                                      Change                 Change
+               US$000   %        US$000      %                  US$000
+8" wafers                                                                                  %
+12" wafers     (Unaudited) (Unaudited) (Unaudited) (Unaudited)     1,491                  0.6 %
+Total revenue
+               252,234  46.8 %   250,743     55.1 %              82,325                 40.2 %
+
+               286,943  53.2 %   204,618     44.9 %              83,816                 18.4 %
+
+               539,177  100.0 %  455,361     100.0 %
+
+ Revenues from 8" wafers and 12" wafers were US$252.2 million and US$286.9 million, respectively,
+    in 4Q 2024.
+
+                                                                                                   6
+                         Analysis of Revenue
+
+Revenue by      4Q 2024 4Q 2024 4Q 2023 4Q 2023                    YoY       YoY
+geography                                                        Change    Change
+                US$000   %        US$000      %                  US$000
+China3                                                           84,274        %
+North America4  (Unaudited) (Unaudited) (Unaudited) (Unaudited)  11,309     23.0 %
+Asia5                                                             (6,298)   30.7 %
+Europe          450,782  83.7 %   366,508     80.5 %              (4,217)  (20.9)%
+Japan6                                                            (1,252)  (22.8)%
+Total revenue   48,120   8.9 %    36,811      8.1 %                        (36.9)%
+                                                                 83,816     18.4 %
+                23,878   4.4 %    30,176      6.6 %
+
+                14,258   2.6 %    18,475      4.1 %
+
+                2,139    0.4 %    3,391       0.7 %
+
+                539,177  100.0 %  455,361     100.0 %
+
+ Revenue from China was US$450.8 million, contributing 83.7% of total revenue and an increase
+    of 23.0% compared to 4Q 2023, mainly driven by increased demand for flash, MCU, super
+    junction, logic and general MOSFET products.
+
+ Revenue from North America was US$48.1 million, an increase of 30.7% compared to 4Q 2023,
+    mainly driven by increased demand for other PMICs.
+
+ Revenue from Asia was US$23.9 million, a decrease of 20.9% compared to 4Q 2023, mainly due
+    to decreased demand for super junction, logic, and general MOSFET products.
+
+ Revenue from Europe was US$14.3 million, a decrease of 22.8% compared to 4Q 2023, mainly
+    due to decreased demand for general MOSFET.
+
+ Revenue from Japan was US$2.1 million, a decrease of 36.9% compared to 4Q 2023, primarily
+    due to decreased demand for super junction products.
+
+3Includes Chinese Mainland and Hong Kong.
+4Includes a major customer in US that was acquired by an Europe headquartered company in 2020.
+5Excludes China and Japan.
+6Includes a major customer in Japan that was acquired by a U.S. headquartered company in 2013.
+
+                                                                                                                                                                             7
+                         Analysis of Revenue
+
+Revenue by      4Q 2024 4Q 2024 4Q 2023 4Q 2023                     YoY      YoY
+technology                                                       Change    Change
+platform        US$000   %        US$000      %                  US$000
+Embedded NVM                                                      25,158       %
+Standalone NVM  (Unaudited) (Unaudited) (Unaudited) (Unaudited)   31,303    22.5 %
+Discrete                                                         (17,423)  212.2 %
+Logic & RF      137,184  25.4 %   112,026     24.6 %              11,264     (9.6)%
+Analog & PM                                                       33,170    20.0 %
+Others          46,056   8.5 %    14,753      3.2 %                         37.1 %
+Total revenue                                                         344   64.9 %
+                164,954  30.7 %   182,377     40.2 %              83,816    18.4 %
+
+                67,491   12.5 %   56,227      12.3 %
+
+                122,618  22.7 %   89,448      19.6 %
+
+                874      0.2 %    530         0.1 %
+
+                539,177  100.0 %  455,361     100.0 %
+
+ Revenue from embedded NVM was US$137.2 million, an increase of 22.5% compared to 4Q
+    2023, mainly driven by increased demand for MCU and smart card ICs.
+
+ Revenue from standalone NVM was US$46.1 million, an increase of 212.2% compared to 4Q
+    2023, mainly driven by increased demand for flash products.
+
+ Revenue from discrete was US$165.0 million, a decrease of 9.6% compared to 4Q 2023, mainly
+    due to decreased demand for IGBT products, partially offset by increased demand for general
+    MOSFT and super junction products.
+
+ Revenue from logic & RF was US$67.5 million, an increase of 20.0% over 4Q 2023, mainly driven
+    by increased demand for logic and CIS products.
+
+ Revenue from analog & power management was US$122.6 million, an increase of 37.1% over 4Q
+    2023, mainly driven by increased demand for other PMIC and analog products.
+
+                                                                                                 8
+                          Analysis of Revenue
+
+Revenue by       4Q 2024 4Q 2024 4Q 2023 4Q 2023                    YoY       YoY
+process                                                           Change    Change
+technology node  US$000   %        US$000      %                  US$000
+55nm & 65nm                                                       68,113        %
+90nm & 95nm      (Unaudited) (Unaudited) (Unaudited) (Unaudited)  23,862    111.8 %
+0.11µm & 0.13µm                                                    (3,529)
+0.15µm & 0.18µm  129,033  23.9 %   60,920      13.4 %                        28.9 %
+0.25µm                                                                 279    (4.8)%
+0.35µm           106,414  19.7 %   82,552      18.1 %              (2,633)     0.9 %
+Total revenue                                                      (2,276)  (49.2)%
+                 70,233   13.0 %   73,762      16.2 %             83,816      (1.1)%
+                                                                             18.4 %
+                 31,328   5.8 %    31,049      6.8 %
+
+                 2,724    0.5 %    5,357       1.2 %
+
+                 199,445  37.1 %   201,721     44.3 %
+
+                 539,177  100.0 %  455,361     100.0 %
+
+ Revenue from the 55nm & 65nm technology nodes was US$129.0 million, an increase of 111.8%
+    over 4Q 2023, mainly driven by increased demand for flash and other PMIC products.
+
+ Revenue from the 90nm & 95nm technology nodes was US$106.4 million, an increase of 28.9%
+    over 4Q 2023, mainly driven by increased demand for MCU and smart card ICs.
+
+ Revenue from the 0.11µm & 0.13µm technology nodes was US$70.2 million, a decrease of 4.8%
+    compared to 4Q 2023, mainly due to decreased demand for smart card IC and logic products.
+
+ Revenue from the 0.15µm & 0.18µm technology nodes was US$31.3 million, an increase of 0.9%
+    compared to 4Q 2023.
+
+ Revenue from the 0.25µm technology node was US$2.7 million, a decrease of 49.2% compared
+    to 4Q 2023, mainly due to decreased demand for RF and logic products.
+
+ Revenue from the 0.35µm and above technology nodes was US$199.4 million, a decrease of
+    1.1% compared to 4Q 2023, mainly due to decreased demand for IGBT products, partially offset
+    by increased demand for smart card IC, general MOSFET, super junction, other PMIC and analog
+    products.
+
+                                                                                                  9
+                                      Analysis of Revenue
+
+Revenue by        4Q 2024 4Q 2024 4Q 2023 4Q 2023                          YoY       YoY
+end market                                                               Change    Change
+distribution                  US$000  %          US$000           %      US$000
+                                                                          92,086       %
+                  (Unaudited) (Unaudited) (Unaudited) (Unaudited)                   36.5 %
+                                                                         (14,591)
+Consumer electronics 344,594          63.9 %     252,508   55.4 %         10,646   (10.5)%
+                                                                                    19.7 %
+Industrial & automotive 124,037       23.0 %     138,628   30.4 %         (4,325)
+                                                                          83,816   (42.2)%
+Communications                64,619  12.0 %     53,973    11.9 %                   18.4 %
+
+Computing                     5,927   1.1 %      10,252           2.3 %
+
+Total revenue     539,177             100.0 %    455,361   100.0 %
+
+ Revenue from consumer electronics, our largest end market segment, contributed US$344.6
+    million, reaching 63.9% of total revenue, an increase of 36.5% over 4Q 2023, mainly driven by
+    increased demand for flash, other PMIC, super junction, MCU, general MOSFET and logic
+    products.
+
+ Revenue from industrial & automotive was US$124.0 million, a decrease of 10.5% compared to
+    4Q 2023, mainly due to decreased demand for IGBT products, partially offset by increased
+    demand for MCU and other PMICs.
+
+ Revenue from communications was US$64.6 million, an increase of 19.7% compared to 4Q 2023,
+    mainly due to increased demand for analog, CIS, other PMIC and smart card ICs.
+
+ Revenue from computing was US$5.9 million, a decrease of 42.2% compared to 4Q 2023, mainly
+    due to decreased demand for general MOSFET, super junction, and MCU products.
+
+                              Capacity7 and Capacity Utilization
+
+Fab (in thousands wafers)               4Q 2024              4Q 2023       3Q 2024
+                                      (Unaudited)          (Unaudited)   (Unaudited)
+
+Capacity (200mm)                         178                      178          178
+                                                                                95
+Capacity (300mm)                             95                 95
+Total capacity (in thousands 8"            391                391              391
+                                         105.8%            91.0%
+    equivalent wafers)                                                    113.0%
+Capacity utilization (200mm)                                               98.5%
+
+Capacity utilization (300mm)             100.9%            77.5%          105.3%
+
+Overall capacity utilization             103.2%            84.1%
+
+ Monthly capacity was 391,000 8-inch equivalent wafers at the end of 4Q 2024. Overall capacity
+    utilization was 103.2% in 4Q 2024, 2.1 percentage points lower than 3Q 2024.
+
+7 Wafers per month at the end of the period, calculated on a 30-day basis for comparison purposes.
+
+                                                                                                                                                                            10
+                                        Wafer Shipments
+
+in thousands 8"                           4Q 2024 4Q 2023 3Q 2024                YoY         QoQ
+   equivalent wafers                    (Unaudited) (Unaudited) (Unaudited)    Change      Change
+
+Wafer shipments                         1,213     951                  1,200    27.5 %        1.1 %
+
+ Wafer shipments were 1,213,000, an increase of 27.5% year over year, and 1.1% quarter over
+    quarter.
+
+                                        Operating Expenses Analysis
+
+Amounts in US$ thousands                4Q 2024   4Q 2023            3Q 2024     YoY        QoQ
+                                                                               Change      Change
+Selling and distribution expenses       (Unaudited) (Unaudited) (Unaudited)                 16.8 %
+Administrative expenses8                                                           (2.5)%
+Operating expenses                      2,617     2,684                2,241                36.4 %
+                                                                                  16.9 %    35.9 %
+                                        108,009   92,379               79,189     16.4 %
+
+                                        110,626   95,063               81,430
+
+ Operating expenses were US$110.6 million, 16.4% and 35.9% over 4Q 2023 and 3Q 2024, primarily
+    due to increased engineering wafer costs and increased new fab start-up-costs.
+
+                                   Other (Loss) / Income Net Analysis
+
+Amounts in US$ thousands                4Q 2024   4Q 2023            3Q 2024     YoY         QoQ
+                                                                               Change      Change
+                                        (Unaudited) (Unaudited) (Unaudited)
+                                                                                    1.0 %     (3.6)%
+Rental income                           3,481     3,447                3,612        1.3 %    (23.4)%
+                                                                               (280.0)%    (266.3)%
+Interest income                         20,450    20,182               26,710  (106.1)%    (139.8)%
+                                                                                    4.4 %    (25.2)%
+Foreign exchange (losses) / gains       (48,664)  27,041               29,270    (90.8)%     (74.6)%
+                                                                               (119.4)%    (381.0)%
+Share of (loss) / profit of associates  (433)     7,136                1,087   (146.2)%    (178.1)%
+
+Finance costs                           (20,406)  (19,540)           (27,275)
+
+Government subsidies                    4,705     51,387               18,535
+
+Others                                  399       (2,053)              (142)
+
+Other (loss) / income net               (40,468)  87,600               51,797
+
+ Other loss net was US$40.5 million, compared to other income net of US$87.6 million in 4Q 2023
+    and other income net of US$51.8 million in 3Q 2024, primarily due to foreign exchange losses versus
+    foreign exchange gains in 4Q 2023 and 3Q 2024, and decreased government subsidies.
+
+8Administrative expenses include government grants recognized as an offset item.
+
+                                                                                                                                                                            11
+                                      Cash Flow Analysis
+
+Amounts in US$ thousands              4Q 2024    4Q 2023 3Q 2024             YoY        QoQ
+                                                                           Change     Change
+                                      (Unaudited) (Unaudited) (Unaudited)
+
+Net cash flows generated from /       308,108    196,546 (26,838)           56.8 % (1,248.0)%
+   (used in) operating activities
+
+Net cash flows used in                (1,444,013) (301,916) (715,920)       378.3 % 101.7 %
+   investing activities
+
+Net cash flows (used in) / generated  (50,929)   642,297    (5,007)         (107.9)%   917.2 %
+   from financing activities
+                                                                            (305.6)%  (233.2)%
+Effect of exchange rate changes       (120,783)  58,753 90,648              (319.5)%    99.0 %
+
+Net change in cash                    (1,307,617) 595,680 (657,117)
+
+ Net cash flows generated from operating activities was US$308.1 million, 56.8% over than 4Q
+    2023, primarily due to increased receipts from customers.
+
+ Net cash flows used in investing activities was US$1,444.0 million, including US$1,505.7 million
+    investment in fixed assets, partially offset by US$41.2 million receipts of government grants for
+    equipment, US$17.9 million interest income, and US$2.6 million of receipts from selling an equity.
+
+ Net cash flows used in financing activities was US$50.9 million, including US$91.5 million of bank
+    principal repayments, US$50.5 million interest payments, and US$0.4 million lease payments,
+    partially offset by US$84.5 million proceeds from bank borrowings, US$5.5 million receipts of
+    government grants for finance costs, and US$1.5 million proceeds from share option exercises.
+
+                                      Capital Structure
+
+Amounts in US$ thousands                                    31-Dec-2024     30-Sep-2024
+                                                             (Unaudited)     (Unaudited)
+Total assets                                                 12,415,108      13,082,459
+Total liabilities                                              3,508,489       3,867,040
+Total equity                                                   8,906,619       9,215,419
+Debt ratio9                                                          28.3%          29.6%
+
+                                      Capital Expenditures
+
+Amounts in US$ thousands                                        4Q 2024         3Q 2024
+                                                            (Unaudited)     (Unaudited)
+Hua Hong 8"
+Hua Hong Wuxi                                                    21,159           28,607
+Hua Hong Manufacturing                                           43,833           87,754
+Total                                                        1,440,717          617,708
+                                                             1,505,709          734,069
+
+ Capital expenditures were US$1,505.7million in 4Q 2024, including US$1,440.7 million for Hua Hong
+    Manufacturing, US$43.8 million for Hua Hong Wuxi, and US$21.1 million for Hua Hong 8".
+
+9 Debt ratio is calculated based on total liabilities / total assets.
+
+                                                                                                                                                                            12
+                          Liquidity
+
+Amounts in US$ thousands                         31-Dec-2024     30-Sep-2024
+                                                 (Unaudited)     (Unaudited)
+Properties under development
+Inventories                                           221,905         225,711
+Trade and notes receivables                           467,060         487,480
+Prepayments, other receivables and other assets       270,461         268,186
+Due from related parties                              363,997         269,191
+Restricted and time deposits
+Cash and cash equivalents                              18,324          25,426
+Total current assets                                   31,624          32,443
+Trade payables                                     4,459,132       5,766,749
+Other payables and accruals                        5,832,503       7,075,186
+Interest-bearing bank borrowings                      298,372         273,352
+Lease liabilities                                     880,447      1,237,992
+Government grants                                     280,704         262,296
+Due to related parties
+Income tax payable                                       4,912           4,451
+Total current liabilities                              57,563          40,072
+Net working capital                                                    10,167
+Quick ratio                                              9,125         26,494
+Current ratio                                          31,115      1,854,824
+Trade and notes receivables turnover days          1,562,238       5,220,362
+Inventories turnover days                          4,270,265
+                                                                           3.4x
+                                                           3.3x            3.8x
+                                                           3.7x
+                                                                             47
+                                                             45              92
+                                                             90
+
+ Prepayments, other receivables and other assets increased from US$269.2 million on 30
+    September 2024 to US$364.0 million on 31 December 2024, mainly due to increased value-added
+    tax credit.
+
+ Due from related parties decreased from US$25.4 million on 30 September 2024 to US$18.3
+    million on 31 December 2024, mainly due to receipt of rental receivables from one of our related
+    parties.
+
+ Other payables and accruals decreased from US$1,238.0 million on 30 September 2024 to
+    US$880.4 million on 31 December 2024, mainly due to payments for capital expenditures.
+
+ Income tax payable increased from US$26.5 million on 30 September 2024 to US$31.1 million on
+    31 December 2024, mainly due to an accrued income tax for 4Q 2024.
+
+ On 31 December 2024, net working capital was US$4,270.3 million and the current ratio was 3.7.
+
+ Trade and notes receivables turnover days were 45.
+
+ Inventories turnover days were 90.
+
+Please visit Company's website at www.huahonggrace.com
+        for further details regarding recent announcements.
+
+                                                                 13
+                                       Hua Hong Semiconductor Limited
+                         Condensed Consolidated Statements of Profit or Loss
+
+                                   (In US$ Thousands Except Share Data)
+
+                                                                                    For the Three Months Ended
+
+                                                       31-Dec-2024 31-Dec-2023 30-Sep-2024
+                                                       (Unaudited) (Unaudited) (Unaudited)
+
+Revenue                                                539,177    455,361    526,306
+
+Cost of sales                                          (477,751)  (437,141)  (462,299)
+
+Gross profit                                           61,426     18,220     64,007
+
+Other income and gains                                 29,155     100,442    78,092
+
+Fair value (loss) / gain on an investment property     (39)       103                                           -
+
+Selling and distribution expenses                      (2,617)    (2,684)                                       (2,241)
+
+Administrative expenses                                (108,009)  (92,379)   (79,189)
+
+Other expenses                                         (48,745)   (541)                                         (107)
+
+Finance costs                                          (20,406)   (19,540)   (27,275)
+
+Share of (loss) / profit of associates                 (433)      7,136                                         1,087
+
+(Loss) / profit before tax                             (89,668)   10,757     34,374
+
+Income tax expense                                     (6,596)    (7,210)    (11,461)
+
+(Loss) / profit for the period                         (96,264)   3,547      22,913
+
+Attributable to:
+
+Owners of the parent                                   (25,199)   35,386     44,816
+
+Non-controlling interests                              (71,065)   (31,839)   (21,903)
+
+Earnings per share attributable to owners of parent
+
+Basic                                                  (0.015)    0.021                                         0.026
+
+Diluted                                                (0.015)    0.021                                         0.026
+
+Shares used in calculating basic earnings per share    1,718,222,223 1,716,439,808 1,717,612,830
+   attributable to owners of parent                    1,724,086,667 1,720,215,394 1,721,402,553
+
+Shares used in calculating diluted earnings per share
+   attributable to owners of parent
+
+                                                                                                                14
+                                       Hua Hong Semiconductor Limited
+                         Condensed Consolidated Statements of Profit or Loss
+
+                                   (In US$ Thousands Except Share Data)
+
+                                                                                              For the Year Ended
+
+                                                       31-Dec-2024    31-Dec-2023
+                                                       (Unaudited)        (Audited)
+
+Revenue                                                2,003,993      2,286,113
+
+Cost of sales                                          (1,798,865)    (1,799,017)
+
+Gross profit                                           205,128                                                    487,096
+
+Other income and gains                                 149,072                                                    144,370
+
+Fair value (loss) / gain on an investment property     (39)                                                       103
+
+Selling and distribution expenses                      (9,628)                                                    (10,189)
+
+Administrative expenses                                (351,276)                                                  (322,868)
+
+Other expenses                                         (33,395)                                                   (33,666)
+
+Finance costs                                          (97,113)                                                   (100,497)
+
+Share of profit of associates                          3,459                                                      9,230
+
+(Loss) / profit before tax                             (133,792)                                                  173,579
+
+Income tax expense                                     (6,593)                                                    (47,154)
+
+(Loss) / profit for the year                           (140,385)                                                  126,425
+
+Attributable to:
+
+Owners of the parent                                   58,108                                                     280,034
+
+Non-controlling interests                              (198,493)                                                  (153,609)
+
+Earnings per share attributable to owners of parent
+
+Basic                                                  0.034                                                      0.189
+
+Diluted                                                0.034                                                      0.188
+
+Shares used in calculating basic earnings per share    1,717,346,778  1,477,978,482
+   attributable to owners of parent                    1,721,085,846  1,486,531,954
+
+Shares used in calculating diluted earnings per share
+   attributable to owners of parent
+
+                                                                                                                  15
+                                             Hua Hong Semiconductor Limited
+             Condensed Consolidated Statements of Financial Position (In US$ Thousands)
+
+                                                                As of
+
+                                                     31-Dec-2024 30-Sep-2024 31-Dec-2023
+
+                                                     (Unaudited) (Unaudited)  (Audited)
+
+ASSETS
+
+NON-CURRENT ASSETS
+
+Property, plant and equipment                        5,859,117  5,198,989     3,519,292
+
+Investment property                                  164,153    168,433                  166,643
+
+Right-of-use assets                                  77,761     81,372                   78,545
+
+Intangible assets                                    31,456     38,897                   49,827
+
+Investment in associates                             139,799    144,534                  139,099
+
+Equity instruments designated at fair value through  289,311    290,857                  270,506
+ other comprehensive income
+
+Long term prepayment                                 21,008     83,396                   149,953
+
+Deferred tax assets                                  -          795                      -
+
+Total non-current assets                             6,582,605  6,007,273     4,373,865
+
+CURRENT ASSETS
+
+Properties under development                         221,905    225,711                  178,828
+
+Inventories                                          467,060    487,480                  449,749
+
+Trade and notes receivables                          270,461    268,186                  278,669
+
+Prepayments, other receivables and other assets      363,997    269,191                  33,821
+
+Due from related parties                             18,324     25,426                   11,219
+
+Restricted and time deposits                         31,624     32,443                   32,088
+
+Cash and cash equivalents                            4,459,132  5,766,749     5,585,181
+
+Total current assets                                 5,832,503  7,075,186     6,569,555
+
+CURRENT LIABILITIES
+
+Trade payables                                       298,372    273,352                  235,410
+
+Other payables and accruals                          880,447    1,237,992                430,478
+
+Interest-bearing bank borrowings                     280,704    262,296                  193,035
+
+Lease liabilities                                    4,912      4,451                    3,076
+
+Government grants                                    57,563     40,072                   35,017
+
+Due to related parties                               9,125      10,167                   13,876
+
+Income tax payable                                   31,115     26,494                   61,495
+
+Total current liabilities                            1,562,238  1,854,824                972,387
+
+NET CURRENT ASSETS                                   4,270,265  5,220,362     5,597,168
+
+TOTAL ASSETS LESS CURRENT LIABILITIES                10,852,870 11,227,635    9,971,033
+
+Non-current liabilities
+
+Interest-bearing bank borrowings                     1,917,235  1,983,494     1,906,526
+
+Lease liabilities                                    18,068     19,334                   19,129
+
+Deferred tax liabilities                             10,948     9,388                    30,834
+
+Total non-current liabilities                        1,946,251  2,012,216     1,956,489
+
+Net assets                                           8,906,619  9,215,419     8,014,544
+
+Equity and liabilities capital and reserves
+
+Share capital                                        4,938,457  4,936,472     4,933,559
+
+Reserves                                             1,308,569  1,478,303     1,367,436
+
+Equity attributable to the owners of the company     6,247,026  6,414,775     6,300,995
+
+Non-controlling interests                            2,659,593  2,800,644     1,713,549
+
+Total equity                                         8,906,619  9,215,419     8,014,544
+
+                                                                                         16
+                                          Hua Hong Semiconductor Limited
+               Condensed Consolidated Statement of Cash Flows (In US$ Thousands)
+
+                                                        For the Three Months Ended
+
+                                                        31-Dec-2024 31-Dec-2023 30-Sep-2024
+                                                        (Unaudited) (Unaudited) (Unaudited)
+
+Cash flows from operating activities:
+
+(Loss) / profit before tax                              (89,668)      10,757      34,374
+
+Depreciation and amortization                           142,306       129,135     143,557
+
+Share of loss / (profit) of associates                  433           (7,136)       (1,087)
+
+Changes in working capital and others                   255,037       63,790      (203,682)
+
+Net cash flows generated from / (used in)               308,108       196,546     (26,838)
+   operating activities
+
+Cash flows from investing activities:
+
+Payments for property, plant and equipment and          (1,505,709)   (331,369)   (734,069)
+   intangible assets                                         41,149     11,692               -
+
+Receipt of government grants of equipment
+
+Other cash flow generated from investing activities     20,547        17,761      18,149
+
+Net cash flows used in investing activities             (1,444,013)   (301,916)   (715,920)
+
+Cash flows from financing activities:
+
+Capital contribution from non-controlling interests     -             491,723       -
+
+New bank loans                                          84,551        246,620       2,287
+
+Proceeds from issue of shares                           1,478         1,407         1,471
+
+Repayment of bank borrowings                            (91,518)      (54,942)      (4,476)
+
+Interest paid                                           (50,498)      (45,234)      (3,283)
+
+Dividends paid to shareholders                          -             -             (7,371)
+
+Decrease in pledged deposits                            -             -             7,369
+
+Payment of lease liabilities                            (401)         (274)         (1,004)
+
+Receipt of government grants for interest expenses             5,459     2,997               -
+Net cash flows (used in) / generated from                   (50,929)  642,297        (5,007)
+                                                        (1,186,834)   536,927     (747,765)
+   financing activities
+Net (decrease) / increase in cash and cash equivalents
+
+Effects of exchange rate changes                        5,766,749     58,753      90,648
+
+Cash and cash equivalents, beginning of period          (120,783) 4,989,501       6,423,866
+
+Cash and cash equivalents, ending of period             4,459,132     5,585,181   5,766,749
+
+                                                                                    17
+                                           Hua Hong Semiconductor Limited
+                Condensed Consolidated Statement of Cash Flows (In US$ Thousands)
+
+                                                                  For the Year Ended
+
+                                                                  31-Dec-2024      31-Dec-2023
+                                                                   (unaudited)         (Audited)
+
+Cash flows from operating activities:
+
+(Loss) / profit before tax                                        (133,792)        173,579
+
+Depreciation and amortization                                     555,832          500,439
+
+Share of profit of associates                                     (3,459)             (9,230)
+
+Changes in working capital and others                             239              (23,093)
+
+Net cash flows generated from operating activities                418,820          641,695
+
+Cash flows from investing activities:
+
+Payments for property, plant and equipment and intangible assets  (2,739,182)      (906,607)
+
+Purchase of an equity investment                                  (17,618)            -
+
+Receipt of government grants of equipment                         41,149              11,692
+
+Other cash flow generated from investing activities               84,794              61,603
+
+Net cash flows used in investing activities                       (2,630,857)      (833,312)
+
+Cash flows from financing activities:
+
+Proceeds from issue of shares                                     3,642            2,941,945
+
+Capital contribution from non-controlling interests               1,181,880        787,920
+
+New bank loans                                                    289,285          615,415
+
+Repayment of bank borrowings                                      (183,524)        (422,120)
+
+Interest paid                                                     (105,736)        (106,570)
+
+Dividends paid                                                    (36,247)            -
+
+Increase in pledged deposits                                      -                (31,214)
+
+Principal portion of lease payments                               (4,634)             (4,597)
+
+Other cash flow generated from financing activities               5,459               967
+
+Net cash flows generated from financing activities                1,150,125        3,781,746
+
+Net (decrease) / increase in cash and cash equivalents            (1,061,912)      3,590,129
+
+Effects of exchange rate changes                                  5,585,181        (13,713)
+
+Cash and cash equivalents, beginning of period                    (64,137)         2,008,765
+
+Cash and cash equivalents, ending of period                       4,459,132        5,585,181
+
+As of the date of this announcement, the directors of the Company are:
+
+Executive Directors
+Junjun Tang (Chairman)
+Peng Bai (President)
+
+Non-Executive Directors
+Jun Ye
+Guodong Sun
+Limin Zhou
+Chengyan Xiong
+
+Independent Non-Executive Directors
+Stephen Tso Tung Chang
+Kwai Huen Wong, JP
+Songlin Feng
+
+By order of the Board
+Hua Hong Semiconductor Limited
+Mr. Junjun Tang
+Chairman and Executive Director
+
+Hong Kong SAR, PRC
+February 13, 2025
+
+                                                                                                                                                                            18
+

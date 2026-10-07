@@ -1,0 +1,2210 @@
+ 1 
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF COLUMBIA 
+ 
+FEDERAL TRADE COMMISSION, 
+ 
+            Plaintiff, 
+ 
+ v.        Civil Action No. 20-3590 (JEB) 
+META PLATFORMS, INC., 
+ 
+Defendant. 
+ 
+ 
+MEMORANDUM OPINION 
+ Believing that the only constant in the world was change, the Greek philosopher 
+Heraclitus posited that no man can ever step into the same river twice.  In the online world of 
+social media, the current runs fast, too.  The landscape that existed only five years ago when the 
+Federal Trade Commission brought this antitrust suit has changed markedly.  While it once might 
+have made sense to partition apps into separate markets of social networking and social media, 
+that wall has since broken down. 
+ In this action, the FTC has argued that  Facebook, Instagram, Snapchat, and minor player 
+MeWe compete only with one another in a market that the agency calls “personal social 
+networking” (PSN).  It claims that Meta holds a monopoly in this market and, faced with 
+challenges to its dominance, preserved its monopoly not by outcompeting its upstart rivals 
+Instagram and WhatsApp, but by buying them.  This, the agency has maintained, constitutes 
+maintaining monopoly power through means other than competition on the merits, which would 
+violate Section 2 of the Sherman Act. 
+ Meta’s position, conversely, is that if PSN  apps were ever a separate economic unit, they 
+no longer are.  The company sees itself as competing in the broader field of social media, which 
+ 2 
+at a minimum includes TikTok and YouTube, fierce competitors for users’ time and attention in 
+this space.  Adding those two companies to the relevant market, Defendant points out, 
+diminishes Meta’s share below monopoly level.  What is more, Meta defends its acquisitions as 
+beneficial to consumers. 
+ In this fifth year of litigation, the Court held a lengthy bench trial, hearing from myriad 
+witnesses throughout the industry, as well as from dueling sets of experts.  As it has forecast in 
+prior Opinions over the years, the FTC has an uphill battle to establish the contours of any 
+separate PSN market and Defendant’s monopoly therein.  The Court ultimately concludes that 
+the agency has not carried its burden: Meta holds no monopoly in the relevant market.  Judgment 
+must therefore be entered in its favor. 
+ 3 
+Table of Contents 
+I. Background ............................................................................................................................. 4 
+A. The Platforms ...................................................................................................................... 4 
+1. Facebook, Instagram, TikTok, YouTube ........................................................................ 5 
+2. The Evolution of Meta’s Apps ........................................................................................ 8 
+3. Convergence ................................................................................................................. 14 
+B. Meta’s Business Model ..................................................................................................... 17 
+C. Procedural History ............................................................................................................ 20 
+II. Analysis................................................................................................................................. 21 
+A.        Monopolization ............................................................................................................. 22 
+B.        Timing ........................................................................................................................... 22 
+C.        Direct Evidence ............................................................................................................. 24 
+1. Profits ............................................................................................................................ 24 
+2. Quality-Adjusted Price.................................................................................................. 26 
+a. Ad Load .................................................................................................................... 27 
+b. Sentiment .................................................................................................................. 29 
+c. Underinvestment in Friends and Family ................................................................... 31 
+3. Price Discrimination ..................................................................................................... 35 
+D.        Indirect Evidence .......................................................................................................... 36 
+1. Empirical Evidence of Substitution .............................................................................. 41 
+a.         Observational Evidence ........................................................................................ 41 
+i. Response to TikTok ............................................................................................. 42 
+ii. Meta Study Panel ................................................................................................. 43 
+b. Natural and Field Experiments ................................................................................. 44 
+i. Payment Experiment ........................................................................................... 44 
+ii. 2021 Meta Outage ............................................................................................... 47 
+iii. India TikTok Ban ................................................................................................ 47 
+iv. U.S. TikTok Shutdown ........................................................................................ 50 
+v. 2018 YouTube Outage ........................................................................................ 52 
+c. Interpreting the Evidence .......................................................................................... 52 
+d. The FTC’
+s Counterarguments................................................................................... 56 
+i. Hemphill .............................................................................................................. 56 
+ii.  Fallacy .............................................................................................. 58 
+iii. Expansion into New Market ................................................................................ 60 
+Cellophane 
+ 4 
+2.   .................................................................................................................. 61 
+a. Peculiar Characteristics and Uses ............................................................................. 63 
+i. Peculiar Characteristics ....................................................................................... 64 
+ii. Peculiar Uses ....................................................................................................... 67 
+b. Industry or Public Recognition ................................................................................. 70 
+c. Unique Production Facilities..................................................................................... 74 
+d. Distinct Customers, Prices, and Sensitivity to Price Changes .................................. 75 
+e. Overall Assessment ................................................................................................... 76 
+3.   ................................................................................................................. 77 
+E. Monopoly Power ............................................................................................................... 82 
+1. Measuring Market Share ............................................................................................... 82 
+2. Meta’s Market Share and Market Power ...................................................................... 85 
+III. Conclusion ........................................................................................................................ 89 
+ 
+I. Background 
+Rather than aggregate all its factual findings in one lengthy recitation, the Court uses this 
+section to lay out the background against which to view the evidence it will then discuss.  It 
+begins with the platforms themselves: Facebook and Instagram, as well as two other apps that 
+will play important roles in what follows — TikTok and YouTube.  It next details Meta’s 
+business model, whose particulars will be critical in assessing market definition and monopoly 
+power.  The section winds up with a summary of this case’s procedural history. 
+A. The Platforms 
+Consistent with our theme of change, the Court emphasizes that Facebook and Instagram 
+have significantly transformed over the last several years.  Before explaining that transformation, 
+the Court first sketches the basics of Facebook, Instagram, TikTok, and YouTube.  It then details 
+how that quartet of social-media apps has recently converged to offer similar experiences. 
+Brown Shoe 
+Whole Foods 
+ 5 
+1. Facebook, Instagram, TikTok, YouTube 
+The mighty Meta of today was once a scrappy dorm-room startup called The Fac ebook.  
+See ECF No. 94 (Answer), ¶ 23.  This upstart website — a threadbare tool to add friends and see 
+their posts — launched for Harvard students in 2004, fanned out to other college campuses, and 
+then opened up to the general public in 2006.  Id.  It kept growing at a dizzying pace: by the end 
+of 2011, almost 850 million people a month were using Facebook.  See Plaintiff’s Exhibit (PX) 
+292 (Facebook S-1) at 8.  Today, more than 3 billion people do.  See Apr. 15 PM Tr. at 228:22–
+25. 
+ If you are one of  them, you can open Facebook’s app and see your News Feed.  See May 
+12 PM Tr. at 260:22–261:4; Apr. 14 PM Tr. at 151:21–24.  This feed contains a mix of content 
+from your friends, from accounts you follow, and from people who you do not know but who 
+have posted something that Facebook thinks you will be interested in.  See Apr. 14 PM Tr. at 
+170:9–15, 185:11–20; Defendant’s Exhibit (DX) 1152 (Jan. 2025 Facebook Surface 
+Breakdown).  Just a tap away lie other features.  These include Stories: disappearing posts from 
+your friends and accounts you follow that are visible for only 24 hours.  See Apr. 14 PM Tr. at 
+184:21–185:10; Stories, Facebook, https://perma.cc/69UV-N6UF.  Or Facebook Reels, which 
+Meta added in 2021.  See ECF No. 539 (Joint Stipulations of Fact), ¶ 20.  Reels are short videos 
+that have been created by other users.  Id., ¶ 21.  They are made and posted by people whom a 
+user does not know.  See DX 1152 (Jan. 2025 Facebook Surface Breakdown).  Instead, they are 
+recommended by an AI algorithm based on the user’s interests.  See Apr. 16 AM Tr. at 24:21–
+25:5.  Facebook also offers a separate app called Facebook Messenger, which lets users 
+exchange private messages.  Id. at 21:9–13, 105:14–21. 
+ 6 
+Facebook was not the only platform to sweep across the globe on the surging wave of 
+social media.  In 2010, Kevin Systrom and Mike Krieger launched an app called Instagram.  See 
+Joint Stipulations of Fact, ¶ 24.  This app combined a photo-editing tool with a social network.  
+If you downloaded the original Instagram, you could edit photos and upload them, follow other 
+accounts, scroll through a feed of photos uploaded by accounts you followed, and like and 
+comment on those photos.  Id., ¶¶ 25–27; PX 3221 (Instagram Board Meeting Deck) at 13; Apr. 
+22 AM Tr. at 22:2–24:9.   
+Facebook bought Instagram in 2012, see Joint  Stipulations of Fact, ¶¶ 58–59, and has 
+been adding new features ever since.  See DX 1180 (New Instagram Features); DX 1208 (New 
+Instagram Features, 2023–25).  Instagram today looks a lot like Facebook.  It has a Feed, 
+containing posts from accounts that you follow and content from strangers that an AI algorithm 
+recommends.  See May 8 AM Tr. at 92:4–17, 114:6–19.  It also has Stories.  See May 8 AM Tr. 
+at 22:10–17.  Embedded throughout the app is Instagram Reels.  See May 8 PM Tr. at 157:11–
+17.  And it lets you send private messages to other users.  See May 8 AM Tr. at 96:25–97:2. 
+Meta’s other relevant platform is WhatsApp, an internet-based messaging app that 
+launched as an independent company in 2009.  See May 20 AM Tr. at 103:18–104:2; May 20 
+PM Tr. at 155:8–17.  Facebook bought WhatsApp in 2014.  See Joint Stipulations of Fact, ¶¶ 60–
+61.  The FTC theorizes that Facebook feared WhatsApp would build its own social network and 
+bought the service to keep it out of Facebook’s lane.  See ECF No. 622-1 (FTC Post-trial Mem.) 
+at 44, 49.  WhatsApp is therefore relevant to whether Meta maintained its monopoly through an 
+anticompetitive acquisition, but both sides agree that it does not belong in the relevant market.  
+Id. at 8; ECF No. 629-1 (Meta Post-trial Findings of Fact), ¶¶ 89–138.  Because the Court 
+ 7 
+decides this case on that market’s boundaries alone, WhatsApp is not relevant to what follows 
+and will now disappear from the case. 
+The company that started as a connec tion among Harvard students has thus grown to own 
+three platforms.  In 2021, the umbrella company changed its name to Meta.  Introducing Meta: A 
+Social Technology Company, Meta (Oct. 28, 2021), https://perma.cc/LD5Y-3P9J. 
+Two other social-media apps are relevant here: TikTok and YouTube.  The former lets 
+users watch and upload short videos.  See Apr. 30 AM Tr. at 78:23–79:13.  Like Facebook and 
+Instagram, it has some social features: users can like videos, comment on them, repost them, 
+search for specific accounts, follow accounts, exchange messages, and share videos with others 
+— either in a TikTok message or via text message.  Id. at 62:23–63:8, 84:13–86:10, 86:22–87:7, 
+87:19–88:2, 88:17–21.  Yet the app’s breakthrough innovation and central feature opened a new 
+path that traditional social networks had not yet explored: an AI algorithm that shows users 
+content based not on their friends, but on their interests.  See PX 689 (Adam Presser Decl.) at 16.  
+This is TikTok’s For You page, a scrollable feed that the algorithm assembles by trawling 
+through the app’s videos, analyzing the user’s behavior, and predicting which video she will 
+most want to see next.  Id.  More than 70% of time on TikTok is spent on this feed.  See Apr. 30 
+AM Tr. at 53:21–54:10.  TikTok is a recent import to the United States, having arrived only in 
+2018.  Id. at 32:17–18.  It has si nce spread furiously.  As of the start of this year, more than  
+ Americans per mont h were using the app.  Id. at 65:22–25. 
+Finally, YouTube.  This platform lets users upload videos and watch the billions of 
+videos uploaded by others.  See Apr. 17 PM Tr. at 151:5–8, 151:24–152:2, 196:6–11.  It also 
+recommends videos based on each user’s interests and what others are watching.  Id. at 154:4:3–
+4, 157:23–158:4, 173:3–7.  Users can like videos and comment on them.  Id. at 160:6–11, 164:9–
+
+ 8 
+13.  If watching a video on the YouTube app, they can tap a button to send it to others — say, by 
+texting it to a friend.  Id. at 189:23–191:1.  Many videos on YouTube are longer than what you 
+will find on TikTok or Instagram.  See PX 13494 (Google Resp. to Australian Regulators) at 9; 
+May 8 PM Tr. at 180:5–9.  But the platform has also added YouTube Shorts, short videos that 
+are virtually identical to a TikTok video or a Facebook or Instagram Reel.  See Apr. 17 PM Tr. at 
+162:14–15; DX 1088 (TikTok Resp. to Australian Regulators) at 3–4. 
+2. The Evolution of Meta’s Apps 
+The Faceb
+ook and Instagram that exist today bear little resemblance to the versions that 
+reader
+s might remember from the 2010s.  Time was, both apps primarily showed content from 
+users’ friends — you might log on to Facebook and see a friend’s post on your wall, then open 
+up Instagram to a feed full of pictures from your friends’ weekends.  See Apr. 14 PM Tr. at 
+170:9–13; Apr. 16 AM Tr. at 53:20–54:5; Apr. 22 AM Tr. at 26:4–27:17; DX 517 (Mosseri Post 
+on Meaningful Social Interactions) at 1.  Those versions of Meta’s apps are gone.  See Apr. 14 
+PM Tr. at 170:14–171:25; Apr. 29 AM Tr. at 9:12–25. 
+Americans now spend only 17% of their time on Facebook viewing content from their 
+friends.  
+See DX 1152 (Jan. 2025 Facebook Surface Breakdown).  On Instagram, that number is 
+7%.  See DX 1153 (Jan. 2025 Instagram Surface Breakdown).  What has replaced content from 
+friends?  For the most part, short videos posted by strangers and recommended by AI. 
+A majority of Americ ans’ time on Facebook is now spent watching videos.  See DX 1147 
+(U.S. Share of Facebook Time Spent on Video).  Same for their time on Instagram.  See DX 
+1153 (Jan. 2025 Instagram Surface Breakdown).  In particular, both apps have shifted to 
+primarily showing Reels.  See Apr. 29 PM Tr. at 193:10–194:5; PX 10034 (Apr. 2022 Meta 
+Executives Email Thread) at 4.  Adam Mosseri, the Head of Instagram, painted a particularly 
+ 9 
+vivid picture of how central Reels is to that app: “[W]e integrated Reels throughout the entire 
+experience.  We added them to feed. . . . We added them to explore.  We added them to the 
+create flow.  We added them to the Reels tab itself, and we added a Reels tab within the profile.  
+So every tab . . . across Instagram had Reels integrated in some way across them.”  May 8 PM 
+Tr. at 157:11–17.  Most of the time that Americans spend on Instagram is spent watching Reels, 
+see DX 1153 (Jan. 2025 Instagram Surface Breakdown), and Reels is also the single most-used 
+part of Facebook.  See DX 1152 (Jan. 2025 Facebook Surface Breakdown). 
+Reels relates to some helpful vocabulary that the Court will be returning to.  Meta uses 
+the phrase “connected content” for posts from accounts that a user has friended or followed.  See 
+Apr. 14 PM Tr. at 185:21–186:5.  By contrast, “unconnected content” is from accounts that the 
+user has not friended or followed.  Id. at 186:5–7; Apr. 15 PM Tr. at 199:18–200:2. 
+The shift to Reels is notable because they are entirely unconnected.  See DX 1152 (Jan. 
+2025 Facebook Surface Breakdown); DX 1153 (Jan. 2025 Instagram Surface Breakdown).  Even 
+feeds that used to show endless streams of friends’ posts now mostly display unconnected 
+content.  Today, fewer than  of pos ts that users see in Facebook’s News Feed are original 
+posts from their friends.  See May 12 AM Tr. at 44:8–45:13; May 14 PM Tr. at 248:12–17; 
+Defendant’s Demonstrative (DDX) 29.3 (Facebook Feed Composition); see also DX 1152 (Jan. 
+2025 Facebook Surface Breakdown) (calculating this number as 25%, possibly by including 
+content that friends reshare).  On Instagram’s Feed, that number is 5%.  See DX 1153 (Jan. 2025 
+Instagram Surface Breakdown). 
+To be sure, connecting with friends remains an important part of both apps.  See Apr. 14 
+PM Tr. at 162:11–163:8, 164:1–10, 181:13–25; May 8 AM Tr. at 18:8–19, 86:11–87:1; May 15 
+AM Tr. at 10:11–13; PX 708 (Mosseri Interview) at 12; PX 3008 (Facebook Feed & Ecosystems 
+
+ 10 
+Deck) at 39; PX 10034 (Apr. 2022 Meta Executives Email Thread) at 1; PX 12341 (Zuckerberg-
+Mosseri Email Exchange) at 2–3; PX 12669 (FB App Strategy Thread) at 4; DX 522 (Instagram 
+2021 H2 Planning Primer) at 3.  Yet friends’ content has withdrawn from the main feature to a 
+smaller ingredient in a blend.  See May 14 PM Tr. at 218:7–12 (friend content “is becoming a 
+supporting part of the cast instead of the main character”); PX 3827 (Aug. 2022 Meta Email 
+Thread) at 2; May 12 AM Tr. at 41:2–8; May 8 AM Tr. at 30:8–31:8, 87:7–11; May 14 PM Tr. at 
+172:11–173:13, 174:15–175:2, 215:16–24; PX 10236 (Facebook H1 2022 Review) at 2; PX 
+12341 (Zuckerberg-Mosseri Email Exchange) at 2. 
+How people use Facebook and Instagram socially has changed, too.  Users hav
+ e become 
+far less likely to post publicly and instead primarily share content using private messages, either 
+in the app or over text.  See May 8 AM Tr. at 65:20–22, 87:7–11, 118:13–22; May 14 PM Tr. at 
+217:24–218:18, 221:5–9; DX 606 (Instagram U.S. Teen Messaging Deck) at 4, 10–11; DX 585 
+(Facebook Board Meeting Deck on Messaging) at 3, 6; DX 517 (Mosseri Post on Meaningful 
+Social Interactions) at 2; PX 708 (Mosseri Interview) at 10; DX 600 (Facebook U.S. Long-Term 
+Themes Deck) at 5. 
+Put those changes together — a shif t from feeds full of friends’ posts to ones dominated 
+by unconnected content, and a pivot from posting in a semi-public feed to sending content to a 
+single friend or a group chat — and both scrolling and sharing have transformed.  A decade ago, 
+users who checked Facebook or Instagram would see a stock of updates broadcasted by their 
+friends: a status update, a baby picture, a video posted on a friend’s Facebook wall.  When they 
+wanted to share, they would post something to this ever-growing feed for all their friends to see.  
+Now, they are more likely to open the app and scroll through AI-recommended content, then 
+share by sending that content as a private message.  See Apr. 14 PM Tr. at 167:22–168:6; Apr. 
+ 11 
+15 PM Tr. at 213:3–13; Apr. 16 AM Tr. at 53:20–54:5; Apr. 16 PM Tr. at 165:22–166:7; May 12 
+AM Tr. at 63:14–64:2. 
+Why did this happen?  The tectonic transformation was the sum of six smaller shifts. 
+First, smartphone usage exploded.  In 2011, only 35% of Americans owned a 
+smart
+phone.  See May 13 AM Tr. at 62:2–8.  By 2024, 91% did.  Id.  As Americans increasingly 
+relied on their phones, they increasingly kept up with their friends by texting, especially using 
+group chats that let them keep up with many friends at once.  Texting a medium-sized group of 
+close friends, it turns out, was often more appealing than broadcasting updates to 1,000 
+acquaintances.  See Apr. 14 PM Tr. at 171:14–22; Apr. 16 AM Tr. at 63:6–64:8, 103:9–13; May 
+12 AM Tr. at 49:3–9, 63:5–20; DX 606 (U.S. Teen Messaging Deck) at 4; DX 585 (Facebook 
+Board Meeting Deck on Messaging) at 3.  Smartphones thus helped Americans easily share with 
+select groups of friends they cared about, which in turn made posting to a social-media feed less 
+important. 
+Second, cellphone data got better.  It got fa ster, so people could watch videos on their 
+phones without bushwhacking through constant freezing and buffering.  See Apr. 15 PM Tr. at 
+210:16–211:2; Apr. 16 PM Tr. at 274:16–275:1; Apr. 16 AM Tr. at 36:16–23.  Data also got 
+cheaper, making it feasible to watch videos anywhere instead of only when tethered to a Wi-Fi 
+connection.  See May 8 PM Tr. at 179:17–180:3; May 14 PM Tr. at 253:2–9.  Meta CEO Mark 
+Zuckerberg captured these years of progress and their effect on social media in a 2022 call with 
+investors: “[V]ideo is really becoming the primary thing” because “mobile networks [have] 
+gotten really good.”  PX 545 (Meta Investor Call) at 17; see also PX 708 (Mosseri Interview) at 
+11 (“When networks get faster, when data gets cheaper, people keep moving more and more to 
+video.”). 
+ 12 
+Third, the steady progress of cellular data was followed by a massive leap in AI.  
+Advanced AI algorithms can now analyze your preferences, search through billions of pieces of 
+content, and find engaging videos about the things you care most about in the world.  As a result, 
+when Facebook and Instagram want to serve a user the post that she is most interested in, they 
+are not limited to posts from her friends or accounts she follows.  See Apr. 15 PM Tr. at 214:14–
+215:10; May 15 AM Tr. at 6:19–7:12.  Instead, they can sift through millions of videos and find 
+the perfect one for her — and it is more likely to interest her than a humdrum update from a 
+friend she knew in high school.  See May 12 AM Tr. at 63:14–23; May 14 PM Tr. at 254:6–
+256:8 
+Fourth, as social networks have matu red, the alternatives to AI-recommended content 
+have become less appealing.  When someone first signed up for Facebook, his friends on the app 
+were his friends in real life.  More than a decade later, his offline friends have changed, but his 
+old Facebook friends are still there.  See Apr. 16 AM Tr. at 49:2–50:8; May 14 at 222:23–
+223:13.  Longtime users’ friend lists have thus become an often-outdated archive of people they 
+once knew: a casual friend from college, a long-ago friend from summer camp, some guy they 
+met at a party once.  Posts from friends have therefore grown less interesting.  See PX 10034 
+(Apr. 2022 Meta Executives Email Thread) at 4 (“[A] lot of people’s friend graphs are stale and 
+not filled with the people they want to hear from or connect with.”). 
+Put those four changes together — million s of Americans with a smartphone in hand, 
+hooked up to a fast and cheap network that shows videos on demand, equipped with an algorithm 
+that can find just the right one, and increasingly bored by their friends’ posts — and the 
+conditions were set for a social-media app that would show nothing but unconnected videos 
+ 13 
+recommended by an algorithm.  That app was TikTok, see Apr. 29 PM Tr. at 194:4–16, and it 
+was the fifth force pushing Facebook and Instagram to evolve.   
+TikTok launched in the United Sta tes in 2018.  See Apr. 30 AM Tr. at 32:17–18.  It soon 
+put enormous competitive pressure on Meta.  See, e.g., May 12 AM Tr. at 68:19–25, 70:5–17; 
+DX 660 (IG Metric Softness Deck) at 6; DX 650 (May 2020 Raji Email) at 1; DX 663 (Meta 
+Executive Chat Thread) at 1.  To defend its business, Meta added Reels to Instagram in 2020, see 
+Joint Stipulations of Fact, ¶ 34, and to Facebook in 2021, id., ¶ 20, copying TikTok to keep users 
+on Meta’s apps.  See DX 922 (TikTok Project Blue Summ.) at 14 (Meta is “shifting to short-
+form video content and prioritizing . . . Reels” to prevent users from switching to TikTok); id. at 
+19 (Reels was “Meta’s competitive response to TikTok, particularly around gaining back user 
+timespent from young adults”); DX 1018 (Sep. 2020 Meta Board Meeting Deck) at 15; Apr. 29 
+PM Tr. at 193:13–194:5; May 12 AM Tr. at 70:8–17.  These short unconnected videos 
+recommended by AI then multiplied to dominate users’ feeds.  See DX 1153 (Jan. 2025 
+Instagram Surface Breakdown); DX 1152 (Jan. 2025 Facebook Surface Breakdown). 
+ Finally, th ose five changes both caused and were reinforced by a change in social norms, 
+which evolved to discourage public posting.  People have increasingly become less interested in 
+blasting out public posts that hundreds of others can see.  See DX 522 (Instagram 2021 H2 
+Planning Primer) at 22; DX 572 (Long-Term Sharing Trends & Future Expectations Deck) at 14; 
+May 12 AM Tr. at 51:5–52:5, 53:5–7, 102:1–103:11; PX 10034 (Apr. 2022 Meta Executives 
+Email Thread) at 7; May 1 PM Tr. at 176:11–17; May 8 AM Tr. at 29:19–24; DX 606 (Instagram 
+U.S. Teen Messaging Deck) at 10–11.  Instead, they prefer to send messages to individual 
+friends or to group chats.  See DX 522 (Instagram 2021 H2 Planning Primer) at 21–22; DX 888 
+(Dec. 2021 Snapchat Board Meeting Update on Stories) at 3; Apr. 15 PM Tr. at 213:18–214:13; 
+ 14 
+Apr. 16 PM Tr. at 165:22–166:7; May 7 PM Tr. at 251:21–23; May 12 AM Tr. at 52:23–54:2; 
+May 12 PM Tr. at 168:12–18; May 14 PM Tr. at 177:2–9. 
+That shift in norms has not only changed what people post; it has also limited what is 
+there for them to see.  Because Meta has fewer posts from friends to fill each user’s feed, it must 
+turn to unconnected content to fill the gap.  See May 8 AM Tr. at 65:20–22; May 14 PM Tr. at 
+221:5–9; see also PX 3008 (Facebook Feed & Ecosystems Deck) at 40 (“Given the ongoing” fall 
+in public posting, “we think increasing” the number of friend posts on users’ feeds “is almost 
+impossible . . . .”); PX 3631 (Instagram Insights) at 13 (“[T]he issue is related to inventory 
+decline — how much potential content people have available to them.  We are running out of 
+[friends and family] inventory to show our users.”). 
+ Those six trends have transformed Facebook and Instagram into the apps that exist today, 
+ones that
+ primarily show users short unconnected videos recommended by algorithms.  Both 
+apps are pushing still further in that direction.   In just the last two years, the share of time on 
+Facebook that Americans spent viewing friends’ content fell by almost a quarter; the share of 
+time they spent watching Reels more than doubled.  Compare DX 1169 (Jan. 2023 Facebook 
+Surface Breakdown), with DX 1152 (Jan. 2025 Facebook Surface Breakdown).  In the same 
+period on Instagram, the share of time spent on friends’ content fell by more than a third, while 
+the share of time spent watching Reels more than tripled.  Compare DX 1171 (Feb. 2023 
+Instagram Surface Breakdown), with DX 1153 (Jan. 2025 Instagram Surface Breakdown). 
+3. Convergence 
+Facebook, Instagram, TikTok, and YouTube have thus evolved to have nearly identical 
+main feat
+ures.  See Apr. 16 AM Tr. at 21:3–22:1, 36:13–37:23.  On all four, users spend most of 
+their time watching videos.  See DX 1147 (U.S. Share of Facebook Time Spent on Video); DX 
+ 15 
+1153 (Jan. 2025 Instagram Surface Breakdown); Apr. 30 AM Tr. at 53:21–54:7; Apr. 17 PM Tr. 
+at 151:23–24.  All four use algorithms to recommend those videos to users.  See Apr. 16 AM Tr. 
+at 21:3–9, 36:13–37:23; Apr. 17 PM Tr. at 173:3–7.  And if someone finds content that she likes, 
+all four apps let her tap a button to send it to friends — whether via a direct message on 
+Facebook, Instagram, or TikTok, or using a text message.  See Apr. 16 AM Tr. at 53:20–54:14. 
+The convergence is especially striking among Meta’s Reels, TikTok’s videos, and 
+YouTube’s Shorts.  As TikTok told Australian regulators, “TikTok, Reels and [YouTube] Shorts 
+are virtually — and deliberately — indistinguishable in function and user experience.”  DX 1088 
+(TikTok Resp. to Australian Regulators) at 3; accord V Pappas Deposition at 55:19–20 (Reels is 
+copy of TikTok and “[t]he features are almost identical”); Eric Morrison Deposition at 85:16–19.  
+Indeed, the same content creators often post the same videos to all four platforms, see Apr. 17 
+PM Tr. at 192:1–6, where those videos are shown in the same formats with the same options to 
+like, comment, and share: 
+          
+      Inst
+agram Reel                Facebook Reel                TikTok video       YouTube Short 
+           DDX 8.3     DDX 8.5                     DDX 8.7               DDX 8.8  
+           
+
+ 16 
+The most-used part of Meta’s apps is thus indistinguishable from the offerings on TikTok and 
+YouTube. 
+As Meta has moved to showing TikTok-style videos, TikTok has moved to adding Meta-
+style f
+eatures to share them with friends.  TikTok encourages users to add their friends, including 
+by importing their list of Facebook and Instagram friends and phone contacts, and uses those lists 
+to recommend accounts for users to follow.  See Apr. 30 AM Tr. at 57:21–58:5, 80:15–82:11.  
+Users can also search for accounts and follow them, id. at 88:17–89:7, and they can use TikTok 
+to send messages.  Id. at 62:23–63:9, 88:9–13, 88:25–89:3.  As Tom Alison, the Head of 
+Facebook, wrote to employees: “[L]ast week . . . someone asked ‘Are we chasing TikTok?’  I 
+like to flip this on its head and consider ‘Is TikTok chasing Facebook?’ . . . I see more and more 
+social features every day.”  PX 10249 (Meta Discovery Engine Thread) at 3.  Mosseri, the Head 
+of Instagram, agreed: he testified that while Instagram has shifted to focus on unconnected video, 
+TikTok has added social features, and “we have met in the middle, so to speak.”  May 8 AM Tr. 
+at 112:19–113:2. 
+At the same time, the technological changes discussed above have made video apps more 
+so
+cial.  Watch a video on the desktop website www.youtube.com, and it takes several steps to 
+share it with a friend.  Watch it on the YouTube app, and you can text it to her with the tap of a 
+button.  See Apr 16 AM Tr. at 40:6–7; Apr. 17 PM Tr. at 189:21–190:4.  Ditto for watching a 
+TikTok video.  See Apr. 30 AM Tr. at 62:23–63:9, 88:9–13, 88:25–89:3.  The possibilities 
+opened by technology, the responses by users, and the competitive choices of the apps have 
+combined to push Facebook, Instagram, TikTok, and YouTube into similar social-media 
+experiences. 
+ 17 
+B. Meta’s Business Model 
+In terms of a business model, both Facebook and Instagram have always charged users 
+the same amount: nothing.  See Apr. 15 PM Tr. at 221:22–222:6, 227:24–228:1.  Instead, Meta 
+makes money by selling ads.  See Joint Stipulations of Fact, ¶ 54; PX 715 (Meta 10-K) at 61.  
+Companies like Meta measure the intensity of advertising on their apps by analyzing “ad load”: 
+the share of posts that are ads.  See May 1 AM Tr. at 91:23–92:2. 
+Common sense tells us that users would prefer content to ads — i.e., a lower ad load.  
+While Meta witnesses insisted that ads are benign, see, e.g., Apr. 15 AM Tr. at 96:17–99:12, the 
+record says otherwise.  For instance, Facebook has run an experiment where it does not show ads 
+to a small group of users; those users spend 7% more time on the platform.  See PX 10295 (Meta 
+Interrog. Resp.) at 15–16; May 13 AM Tr. at 50:23–51:11; May 20 AM Tr. at 36:18–23; see also 
+May 8 AM Tr. at 66:1–5 (similar small but nonzero effect of withholding ads from some 
+Instagram users).  Meta’s internal documents also universally reflect an awareness that users 
+dislike ads.  See PX 15112 (Feb. 2018 Meta Email Thread) at 5 (Facebook employee calling ads 
+“‘tax[]’ on engagement”); id. at 7 (Zuckerberg: “replacing . . . organic content with . . . ads” 
+would inflict “engagement hit[]”); PX 15129 (Meta Board Update) at 1 (Zuckerberg telling 
+Meta’s Board of Directors that ad load is “tax” and “headwind”); PX 12501 (May 2021 Meta 
+Executives Email Thread) at 4; PX 15240 (2018 Instagram Executives Email Thread) at 1–3.  
+One Instagram survey found that the top two user complaints were both about seeing too many 
+ads.  See PX 3778 (Instagram Voice of the Community Deck) at 6. 
+While users indeed prefer fewer ads, however, the preference is slight.  Again, showing 
+users no ads whatsoever gets them to spend only 7% more time on Facebook.  See May 13 AM 
+Tr. at 50:23–51:11; May 20 AM Tr. at 36:18–23.  Even for teens and young adults — who are 
+ 18 
+especially sensitive to ads, see PX 12501 (May 2021 Meta Executives Email Thread) at 1, 3–4 
+— ads seem to impose a low cost.  Meta estimated that reducing teens’ ad load by 80% would 
+get them to use Facebook only 3% more often, while cutting young adults’ ad load in half would 
+juice their Facebook sessions by only 1%.  Id. at 4; see also May 1 PM Tr. at 165:2–166:3 
+(discussing this modest effect).   
+ 
+ 
+In fact,
+ people are not willing to pay much to avoid ads.  European regulators require 
+Meta t
+o offer ad-free versions of its apps.  See Apr. 15 PM Tr. at 168:6–14.  Those versions cost 
+€5.99 per month for the platforms’ websites and €7.99 per month for the apps.  Facebook and 
+Instagram to Offer Subscription for No Ads in Europe, Meta (Nov. 12, 2024), 
+https://perma.cc/6VXR-HRCY.  Fewer than .01% of users have taken the offer.  See May 1 PM 
+Tr. at 163:22–164:13.  This negligible willingness to pay to avoid Meta’s ads is striking: the ad-
+free version of Netflix costs $17.99 per month, Plans and Pricing, Netflix, 
+https://perma.cc/H5W6-F8F3, while ad-free Disney+ runs for $18.99 a month.  Disney+ Plans 
+and Prices, Disney+, https://help.disneyplus.com/article/disneyplus-price (accessed Nov. 14, 
+2025). 
+One reason why users seem to mind ads so little is that Met a works hard to make them 
+unintrusive and engaging.  For one, users can scroll past an ad on their feeds — unlike, say, an 
+ad on Netflix.  See Apr. 17 AM Tr. at 13:12–14:3; May 19 PM Tr. at 251:1–4.  Meta also tries to 
+ensure that its ads are interesting and relevant.  After all, the better the ad, the more consumers 
+will interact with it, thus enhancing Meta’s bottom line.  See May 1 PM Tr. at 154:21–155:2; 
+May 20 AM Tr. at 32:23–33:5.  Meta sells ads by auctioning off spots in a user’s feed.  See May 
+
+ 19 
+1 PM Tr. at 153:3–154:10.  The price that it accepts in this auction depends in part on the quality 
+of the ad: the more engaging the ad and the more relevant to this particular user, the less Meta 
+will charge to show it.  See Apr. 17 AM Tr. at 15:15–16:3; May 1 PM Tr. at 153:12–155:20.  
+Relatedly, the more likely a user is to be interested in an ad, the more likely Meta is to show it to 
+him.  See May 1 PM Tr. at 153:12–155:14. 
+ Meta tailors ad load to each user.  See May 1 AM Tr. at 99:7–14; May 1 PM Tr. at 
+157:2–8; May 15 AM Tr. at 23:12–18.  The company knows basic information about users: their 
+demographics, how long they have been on Facebook or Instagram, how many friends or 
+followers they have, how much they use the app.  It also tracks how each user responds to ads —
+how often she clicks on them, whether they make her use the app less, and how large that effect 
+is.  See Apr. 17 AM Tr. at 15:3–5; May 12 PM Tr. at 220:10–17; PX 722 (Meta Privacy Policy) 
+at 5.  Meta uses that information to individually calibrate each user’s ad load.  See Apr. 15 AM 
+Tr. at 98:7–11, 99:4–6; Apr. 17 AM Tr. at 24:4–10; May 1 AM Tr. at 99:15–100:15; May 1 PM 
+Tr. at 157:2–8, 160:7–19; May 12 PM Tr. at 220:21–221:9; May 13 AM Tr. at 18:13–21, 19:2–
+20:13, 21:4–24; May 14 PM Tr. at 185:25–186:5; May 15 AM Tr. at 23:12–24:3; PX 10295 
+(Meta Interrog. Resp.) at 11, 15–16; DX 1202 (Facebook Ad Load by Age). 
+This business model — give people a compelling product for free, then sell ads that can 
+be seen by mi
+llions — has been amazingly successful.  Facebook has grown from a handful of 
+college campuses to 240 million active American users.   See May 8 PM Tr. at 187:1–10.  
+Meanwhile, Meta’s advertising revenue has swelled from $80 million in 2009 to $161 billion last 
+year.  See Plaintiff’s Demonstrative (PDX) 90 (Hemphill Demonstrative) at 209. 
+ 20 
+C. Procedural History 
+On now to the history of what brings us here.  Facebook bought Instagram in 2012 and 
+WhatsApp in 2014.  See Joint Stipulations of Fact, ¶¶ 58–61.  The FTC approved both 
+acquisitions at the time.  Id., ¶¶ 41–49; FTC v. Meta Platforms, Inc., 775 F. Supp. 3d 16, 30 
+(D.D.C. 2024).  Years later, it changed its mind.  At the end of 2020, it filed this suit alleging 
+that there exists a distinct market for “personal social networking” services in the Unted States, 
+see ECF No. 3 (Redacted Compl.), ¶¶ 51–60, that Meta has held a monopoly in this market since 
+2011, id., ¶ 170, and that Meta maintained that monopoly power by (among other acts) buying 
+Instagram and WhatsApp to squash their competitive threats.  Id., ¶¶ 71–73.  The agency claimed 
+that Meta thereby violated Section 2 of the Sherman Act, which forbids monopolization.  Id. 
+¶¶ 171–74; 15 U.S.C. § 2. 
+This Court dismissed the initial Compl aint.  FTC v. Facebook, Inc., 560 F. Supp. 3d 1, 32 
+(D.D.C. 2021).  It expressed doubts about the boundaries of any purported market for personal 
+social networking, which depends on the porous borders of several apps that offer a changing 
+mix of free services, some of which involve connecting with friends and others of which do not.  
+Id. at 4.  Still, the FTC had alleged enough about the market to survive a motion to dismiss.  Id. 
+at 16–17.  But it had merely rattled off a conclusory assertion that Facebook held a monopoly in 
+that market, so the Court held that the agency had not plausibly stated a claim.  Id. at 4. 
+The FTC tried again with a beefed-up Amended Complaint, once again alleging that 
+Meta holds a monopoly in personal social networking and unlawfully maintained that monopoly 
+by buying Instagram and WhatsApp to eliminate them as competitive threats.  See ECF No. 82 
+(Redacted Am. Compl.), ¶¶ 17–18, 231–35.  This time, the Court held that the FTC had plausibly 
+alleged that Facebook held monopoly power and that its acquisitions of Instagram and 
+ 21 
+WhatsApp constituted monopolization.  FTC v. Facebook, Inc., 581 F. Supp. 3d 34, 40 (D.D.C. 
+2022).  It therefore let this count proceed, albeit with a warning that “the agency may well face a 
+tall task down the road in proving its allegations.”  Id. 
+After extensive discovery, the parties each moved for summary judgment.  See ECF Nos. 
+324 (Meta MSJ); 327 (FTC MSJ).  The Court largely denied both motions, holding that the FTC 
+had met “the forgiving summary-judgment standard” but warning that it “face[d] hard questions 
+about whether its claims c[ould] hold up in the crucible of trial.”  Meta, 775 F. Supp. 3d at 26. 
+The Court held that bench trial this spring.  It heard testimony that stretched for more 
+than six weeks, considered thousands of documents, and has now received both parties’ post-trial 
+submissions.  This Opinion constitutes the Court’s verdict and thus incorporates its findings of 
+fact and conclusions of law.   
+The Court decides only what pr oduct market Meta competes in and whether Defendant 
+holds monopoly power in that market.  Both are primarily factual questions.  Twin City 
+Sportservice, Inc. v. Charles O. Finley & Co., 676 F.2d 1291, 1300 (9th Cir. 1982), United States 
+v. Microsoft Corp., 253 F.3d 34, 52 (D.C. Cir. 2001) (en banc); Geneva Pharms. Tech. Corp. v. 
+Barr Lab’ys Inc., 386 F.3d 485, 502 (2d Cir. 2004); Mid-Tex. Commc’ns Sys., Inc. v. AT&T 
+Co., 615 F.2d 1372, 1387 (5th Cir. 1980).  While the Court explicitly discusses the credibility of 
+only one witness, its findings are inevitably informed by how credible it found each witness’s 
+testimony.  Findings of fact and determinations of credibility are thus inextricably woven into the 
+analysis that follows, which makes and applies legal holdings as needed. 
+II. Analysis 
+Sect
+ion 2 of the Sherman Act prohibits monopolization, an offense whose relevant 
+elements here require (1) holding monopoly power and (2) maintaining it through means other 
+ 22 
+than competition on the merits.  Monopoly power is power over some market, so courts usually 
+start a monopolization case by defining that market’s boundaries.  In doing so, the Court first sets 
+out some threshold legal basics, then devotes the bulk of the Opinion to defining the market in 
+which Facebook and Instagram compete.  It last weighs whether Meta commands a monopoly. 
+A.        Monopolization 
+Section 2 of the Sherman Act forbids monopolizing trade.  See 15 U.S.C. § 2.  But just 
+because a firm holds a monopoly does not mean that it has committed the offense of 
+monopolization.  Verizon Commc’ns Inc. v. Law Offs. of Curtis V. Trinko, LLP, 540 U.S. 398, 
+407 (2004).  Instead, monopolization requires (1) holding monopoly power in some market and 
+(2) acquiring or maintaining that power through anticompetitive conduct — that is, through 
+means other than outcompeting one’s rivals.  United States v. Grinnell Corp., 384 U.S. 563, 570–
+71 (1966).  The Court decides this case on the first element alone. 
+ A firm commands monopoly power if it could maximize its profit by charging a price 
+substant
+ially above what would prevail in a competitive market.  Microsoft, 253 F.3d at 51; see 
+generally IIB Phillip E. Areeda & Herbert Hovenkamp, Antitrust Law, ¶ 501 (5th ed. 2021).  
+Plaintiffs can prove monopoly power either directly or indirectly.  Direct proof is usually 
+straightforward: typically, evidence that the firm in fact is charging significantly more than the 
+competitive price.  Microsoft, 253 F.3d at 51.  While such red-handed proof is analytically 
+simple, it is rare.  Id.  Instead, Plaintiffs typically prove monopoly power indirectly — by 
+showing that a firm has a dominant share of a market that is protected by barriers to entry.  Id. 
+B.        Timing 
+Before turning to the methods of proof, one more preliminary remains: when must the 
+FTC show that Meta had monopoly power?   Throughout this case, the Court has held that the 
+ 23 
+agency must prove that Meta is violating the law now.  See ECF Nos. 503 (Order Den. FTC Mot. 
+to Exclude); 610 (Order Overruling FTC Obj.) at 1.  In its post-trial brief, the FTC nonetheless 
+tries another angle, arguing that if Meta broke the law in the past and this violation is still 
+harming competition, then the agency may seek an injunction to redress the lingering harm.  See 
+FTC Post-trial Mem. at 5–6. 
+That might be a sensible statutory scheme, but it is not the one that Congress passed.  The 
+FTC’s a
+uthority to seek injunctions comes from Section 13(b) of the FTC Act: “Whenever the 
+Commission has reason to believe that any . . . corporation is violating, or is about to violate, any 
+provision of law enforced by the Federal Trade Commission” — including the antitrust laws — 
+then “the Commission . . . may bring suit in a district court of the United States to enjoin any 
+such act or practice.”  15 U.S.C. § 53(b) (emphasis added).  As courts have emphasized, “Section 
+13(b) serves a . . . forward-facing role: enjoining ongoing and imminent future violations.”  FTC 
+v. Credit Bureau Ctr., LLC, 937 F.3d 764, 774 (7th Cir. 2019); see also AMG Cap. Mgmt., LLC 
+v. FTC, 593 U.S. 67, 76 (2021) (Section 13(b) “focuses upon relief that is prospective, not 
+retrospective”); FTC v. Evans Prods. Co., 775 F.2d 1084, 1087 (9th Cir. 1985) (Section 13(b) 
+“cannot be used to remedy past violations”).  The FTC can therefore seek to enjoin only conduct 
+that currently violates the law or imminently will. 
+To win the permanent injunction that it seeks here, the FTC must prove
+  a current or 
+imminent legal violation.  While Section 13(b) is always forward facing, the burden it sets for the 
+agency rises as a case progresses.  To have a cause of action, the FTC needs only “reason to 
+believe” that a defendant is currently breaking the law or is about to.  See 15 U.S.C. § 53(b).  To 
+secure a preliminary injunction, it must make a “proper showing.”  Id.  And to win a permanent 
+ 24 
+injunction, the relevant standard here, the FTC must provide “proper proof” — that is, proof that 
+the “act or practice” that it seeks to enjoin is an ongoing or imminent violation of the law.  Id. 
+What does that mean for this case?  Recall that Meta is violating Section 2 only if it 
+(1) has monopoly power and (2) is maintaining that power through anticompetitive conduct.  
+Grinnell, 384 U.S. at 570–71.  As both elements must be met, the FTC must prove that Meta has 
+monopoly power now.  FTC v. Surescripts, LLC, 665 F. Supp. 3d 14, 38–39 (D.D.C. 2023) 
+(reaching same result); cf. United States v. U.S. Steel Corp., 251 U.S. 417, 444 (1920) (holding, 
+in antitrust case brought under different statute, that “our consideration should be of, not what 
+the corporation had power to do or did, but what it has now power to do and is doing”). 
+ The Court now turns to whether the FTC has made that showing.  At trial, the agency  
+offere
+d direct and indirect evidence, which the Court looks at separately. 
+C.        Direct Evidence 
+The FTC claims that three pieces of evidence prove Meta’s monopoly power: the 
+company’s lavish profits, the jacking up of its apps’ quality-adjusted price, and price 
+discrimination.  The Court addresses them one by one. 
+1. Profits 
+The FTC first argues that Meta must hold a monopoly because it has long earned profits 
+that exce
+ed its cost of capital.  See FTC Post-trial Mem. at 9.  Persistent profits above the cost of 
+capital may indeed suggest monopoly power.  Town Sound & Custom Tops, Inc. v. Chrysler 
+Motors Corp., 959 F.2d 468, 481 n.17 (3d Cir. 1992) (en banc); FTC v. Actavis, Inc., 570 U.S. 
+136, 157 (2013).  But they can also imply any of the other reasons why one firm is more 
+profitable than its rivals: shrewd management, exceptional efficiency, booming demand, or risky 
+investments that hit big.  Blue Cross & Blue Shield United of Wis. v. Marshfield Clinic, 65 F.3d 
+ 25 
+1406, 1412 (7th Cir. 1995); Bailey v. Allgas, Inc., 284 F.3d 1237, 1252 (11th Cir. 2002).  As 
+Chief Judge Richard Posner has written for the Seventh Circuit, “[I]t is always treacherous to try 
+to infer monopoly power from a high rate of return[;] . . . there is not even a good economic 
+theory that associates monopoly power with a high rate of return.”  Blue Cross, 65 F.3d at 1412.  
+Unsurprisingly, then, “[m]any courts have disparaged the evidentiary value of high profits to 
+indicate monopoly power.”  Apple Inc. v. Psystar Corp., 673 F. Supp. 2d 926, 931 (N.D. Cal. 
+2009). 
+The record here is a case study in why.  It reveals several other factors that could be 
+driving Meta’s handsome profits, none of which the FTC has foreclosed.  For instance, 
+Defendant has developed impressive technology that helps advertisers create engaging ads and 
+target them to exactly the right users.  See May 19 PM Tr. at 249:23–255:19; May 20 AM Tr. at 
+20:16–22:18, 23:22–24:3; see also May 1 PM Tr. at 177:13–20 (“vast majority” of Meta’s 
+projected revenue growth is from making ads more relevant).  Its superb returns, then, might 
+come from an enticing appeal to the advertisers who pay it billions, not from a tight grip on the 
+users who pay it nothing.  Cf. Ohio v. Am. Express Co., 585 U.S. 529, 544–47 (2018) (when 
+analyzing platforms with two sides, courts must consider both).  Alternatively, Meta’s high 
+returns could be the appropriate reward for risky investments that paid off.  It has, for example, 
+plowed enormous sums of money into research and development.  See May 21 AM Tr. at 
+159:20–160:3.  When those investments pan out, any lavish profit is not a monopoly rent but 
+instead the appropriate reward for a roll of the dice.  Or the company could simply be 
+exceptionally well managed. 
+The FTC’s experts did not assess whether any of these alternatives could be responsible 
+for Met
+a’s high profits.  See May 14 AM Tr. at 69:4–23, 77:15–18.  The agency bears the burden 
+ 26 
+of proving that Meta is a monopoly, Microsoft, 253 F.3d at 58, yet the mere fact of high profits 
+could show any number of alternatives, none of which the FTC rebutted. 
+The agency did not eve n show that Meta’s profits are greater than other successful tech 
+firms’.  The Supreme Court has refused to infer monopoly power from high profits “without 
+proof of lack of comparable profits during those years in other prosperous industries.”  United 
+States v. E. I. du Pont de Nemours & Co., 351 U.S. 377, 404 (1956).  The FTC offered no such 
+proof here.  See Apr. 24 AM Tr. at 20:16–18; May 14 AM Tr. at 86:5–20.  The Court struggles 
+to conclude that Meta’s profits are suspiciously high when the FTC has not even proven that they 
+are unusual. 
+Finally, the FTC’s story about monopoly profits does not fit its own acco unt of Meta’s 
+business.  The agency thinks that Meta (1) holds a monopoly in sharing with friends (think of 
+posting a picture to Instagram’s feed), (2) faces far stiffer competition to show unconnected 
+videos (think of the choice between watching an Instagram Reel or an indistinguishable TikTok 
+video), and (3) has exploited its monopoly in friend sharing to extract monopoly profits.  If that 
+account were right, then as Meta’s business has shifted away from friend sharing and toward 
+unconnected video, it should be losing its monopoly profits.  Yet the opposite has happened: as 
+Meta’s apps have become closer substitutes for TikTok and YouTube, the company’s projected 
+rate of return has only increased.  See Apr. 24 AM Tr. at 15:23–16:13; Apr. 17 AM Tr. at 25:20–
+24.  When Meta’s supposed monopoly is falling while its alleged monopoly profits are rising, it 
+seems unlikely that the former is driving the latter. 
+2. Quality-Adjus
+ ted Price 
+Next, the FTC maintains that M eta has profitably raised the quality-adjusted price of its 
+apps.  See FTC Post-trial Mem. at 9–12.  It must resort to this unintuitive argument because Meta 
+ 27 
+has never raised its apps’ nominal price: Facebook and Instagram are free, just as they always 
+have been.  See Apr. 15 PM Tr. at 221:22–23.  So the FTC instead argues that Meta has 
+degraded these apps’ quality.  By offering a worse product for the same price, the agency 
+reasons, Meta has imposed the equivalent of a price increase. 
+The record, however, shows the opposite: Meta’s apps have continuously improved.  The 
+company has added scores of new features to Facebook and Instagram, from Stories to Reels to 
+Marketplace.  See DX 1180 (New Instagram Features); DX 1182 (New Facebook Features); DX 
+1207 (New Facebook Features, 2023–25); DX 1208 (New Instagram Features, 2023–25); May 
+14 AM Tr. at 42:9–23; May 21 PM Tr. at 158:16–24.  It also spends billions on research and 
+development to offer further improvements.  See Apr. 15 PM Tr. at 230:13–231:23.  The Court 
+simply does not find it credible that users would prefer the Facebook and Instagram apps that 
+existed ten years ago to the versions that exist today.  Id. at 228:5–21 (“If you took a freeze 
+frame of where our app used to be and that was the experience that [users] could have today, we 
+would just be crushed.”). 
+Still, for completeness, the Court will address the FTC’s three arguments to the contrary: 
+that M
+eta has degraded its apps’ quality by increasing their ad load, that falling user sentiment 
+shows that the apps have deteriorated, and that Meta has sabotaged its apps by underinvesting in 
+friend sharing. 
+a. Ad Load 
+The agency first points out that Meta has steadily increased the ad load on Facebook and 
+Inst
+agram.  See FTC Post-trial Mem. at 10; May 13 AM Tr. at 10:22–12:8.  Since users dislike 
+ads, Plaintiff reasons, the increase in ad load is equivalent to an increase in quality-adjusted 
+price.  See FTC Post-trial Mem. at 10.  That position has two problems.  For one, ads are only 
+ 28 
+one aspect of an app’s quality.  See May 14 AM Tr. at 41:3–6, 41:17–42:8, 49:24–50:2.  When 
+Meta has stuffed its apps with more ads and upgraded them with new features, it is not clear that 
+the company has reduced quality overall. 
+More importantly, even considering just this one input into app quality, the effect of ads 
+on users’ e
+xperience depends on not only their number but also on their quality and relevance.  
+See Apr. 15 AM Tr. at 96:22–25; Apr. 17 AM Tr. at 20:12–21:15; May 20 AM Tr. at 17:20–
+19:11, 30:5–17, 31:6–16.  An ad that is attractive, engaging, unobtrusive, and shows a user 
+something that he wants imposes a much lower cost than an ad that is unsightly, disruptive, and 
+irrelevant.  The Court therefore cannot say whether increases in the number of ads have degraded 
+Facebook and Instagram without accounting for changes in those ads’ quality. 
+All the evidence, in fact, shows t hat their quality has increased.  For one, Meta generally 
+does not increase ad load until its ads have improved — that way, the company can sell more ads 
+without pushing users away from its apps.  See DX 342 (News Feed Ad Load Trajectory Deck) 
+at 7 (“[W]e will . . . [o]nly increase ad load when . . . ad quality is increasing.”); Apr. 17 AM Tr. 
+at 23:20-24:3; May 8 AM Tr. at 60:7–14; see also May 20 AM Tr. at 30:18–31:5, 31:17–32:4.   
+That rule makes cold economic sense.  If Meta could profitably have imposed today’s 
+higher ad load years ago, it would have.  Instead, the company was likely already freighting 
+users with the highest ad load that they would tolerate.  See CF Indus., Inc. v. Surface Transp. 
+Bd., 255 F.3d 816, 824 (D.C. Cir. 2001) (“Koch is a for-profit institution, not an eleemosynary 
+one, and it has provided no reason to believe that it priced below market for eight years, rather 
+than calculated that those prices were the most the market would bear.”); see also May 13 AM 
+Tr. at 9:16–10:13 (describing this tradeoff for Meta).  The only way that Meta could profitably 
+ 29 
+increase ad load from that already-profit-maximizing optimum, then, would be if the ads 
+themselves had become less costly — that is, if their quality had improved.   
+What economic logic suggests direct evidence confirms.  The rate at which users buy 
+somethi
+ng or subscribe to a service based on Meta’s ads has steadily risen, suggesting that the 
+ads have gotten more and more likely to connect users to products in which they have an interest.  
+See May 1 PM Tr .at 177:24–179:16; DDX 18.3 (Ad Conversion Rate).  
+If we assume that the quality-adjusted price of Meta’s apps several years ago represented 
+the competitive price, then Meta’s subsequent increase in ad load suggests one of two things.  It 
+might show that Meta raised the quality-adjusted price above competitive levels, revealing 
+monopoly power.  It might equally show that as the quality of Meta’s ads has increased and the 
+apps’ features have improved, the company increased ad load to hold the quality-adjusted price 
+of its apps at the same, competitive level.  All evidence points toward the latter.  
+b. Sentiment 
+Next, the FTC posits that falling user se
+ ntiment shows that the “overall quality of 
+Facebook and Instagram ha[s] declined.”  FTC Post-trial Mem. at 11.  Meta regularly surveys 
+users on whether they think that Facebook and Instagram care about their users, whether they 
+think these apps are good for the world, and how satisfied they are with the apps.  See Apr. 30 
+PM Tr. at 197:7–199:18.  The FTC (1) notes that the scores users give Meta have fallen over the 
+years, (2) claims that “user sentiment measures [the] overall quality of Facebook and Instagram,” 
+and so (3) concludes that Facebook and Instagram have deteriorated.  See FTC Post-trial Mem. 
+at 11. 
+While the argument’s firs t premise is true, the second is emphatically not.  Nobody 
+knows more about these surveys than Curtis Cobb, Meta’s Vice President of Research, head of 
+ 30 
+the company’s Demography and Survey Science group, and administrator of these surveys.  See 
+Apr. 30 PM Tr. at 193:1–11, 197:1–4.  He explained that sentiment scores primarily measure 
+“brand reputation,” not product quality.  Id. at 197:7–14; accord May 1 AM Tr. at 28:1–4.  
+Meta’s ordinary-course documents back him up: a 2020 deck calls these surveys measures of 
+“our brand’s standing.”  PX 3013 (Relative Metrics Update) at 6.   
+As Cobb and other executives testified, sentiment mostly reflects the tone o f news 
+coverage about the company, not the quality of its products.   See May 1 AM Tr. at 30:5–19, 
+69:21–70:10; Apr. 29 PM Tr. at 158:7–10; May 8 PM Tr. at 267:2–6.  For instance, sentiment 
+increased when Zuckerberg announced that he would give much of his wealth to charity.  See 
+May 1 AM Tr. at 32:4–12.  And it moves around when Meta makes controversial decisions.  
+Sentiment fell after Facebook blocked posts about anti-lockdown protests at the height of 
+COVID, as well as when the company left up Donald Trump’s posts criticizing Black Lives 
+Matter protests.  See PX 15475 (Weekly Sentiment Update) at 7; May 1 AM Tr. at 31:16–22.  
+None of those events reflects a change in the apps’ quality.  Plus, sentiment varies widely across 
+countries — where the apps are identical, but the news cycles differ.  See May 8 PM Tr. at 
+269:5–24; DDX 24.1 (Relative Cares About Users Scores by Country).  
+Unsurprisingly, then, Meta does not put much weight on these s urveys to measure 
+quality.  See May 1 AM Tr. at 49:19–51:18.  One Meta study “fail[ed] to detect significant and 
+consistent effects of sentiment” on how often users posted, commented, or liked content, nor on 
+how much advertising revenue Meta earned.  See PX 12968 (Does Sentiment Towards Facebook 
+Affect Revenue and Engagement?) at 4, 7.  Meta has also found that sentiment surveys are poor 
+predictors of user behavior.  See May 1 AM Tr. at 26:5–17; Apr. 29 PM Tr. at 163:23–164:4. 
+ 31 
+To be sure, these surveys detect some reactions to Meta’s products, see Apr. 30 PM Tr. at 
+197:7–18; May 1 AM Tr. at 69:12–70:10, 71:13–72:6, 73:13–74:6, and many negative news 
+stories are about problems with Meta’s apps.  For instance, the Cambridge Analytica scandal 
+revealed genuine problems with Facebook’s privacy protections, see Apr. 29 PM Tr. at 157:16–
+158:1, and it inflicted the biggest sentiment decline in the company’s history.  See PX 12110 
+(Cambridge Analytica Sentiment Effects Deck) at 4; PX 12968 (Does Sentiment Towards 
+Facebook Affect Revenue and Engagement?) at 6.   
+At bottom, however, t he testimony of the people who know these surveys best, Meta’s 
+own internal analysis, and user sentiment’s response to external events convince the Court that 
+any signal is drowned in noise.  That is unsurprising: ask people how they feel about, say, Exxon 
+Mobil, and their answers will tell you very little about how good its oil is.  The FTC’s claim that 
+worsening sentiment shows a worsening product is unpersuasive. 
+The agency also tries to
+  turn all this to its advantage: the very fact that users report 
+greater dissatisfaction with Meta but do not use its apps less shows that they have nowhere else 
+to turn.  See FTC Post-trial Findings of Fact, ¶¶ 165–66.  On the contrary, as discussed below, 
+users have several alternatives that they have been turning to in droves.  The better interpretation 
+is that sentiment surveys primarily measure what people think of Meta’s business as seen 
+through the lens of salient news stories, not what users think of its apps. 
+c. Underinvestment in Friends and Family 
+The FTC
+ last claims  that Meta has worsened its apps by underinvesting in the content 
+that users value most: updates from friends and family.  See FTC Post-trial Mem. at 11, 32; May 
+13 AM Tr. at 22:16–24:13.  According to the agency, users consistently report that they want to 
+ 32 
+see more content from their friends, but Meta — insouciant in its monopoly power — has chosen 
+not to listen.  See FTC Post-trial Findings of Fact, ¶¶ 341–43. 
+While the Court acknowledges the FTC’s thoughtful briefing and diligent trial 
+presentation, this theory makes no sense.  First, the evidence contradicts it.  While it is true that 
+users see less content from their friends these days, that is largely due to the friends themselves: 
+people simply post less.  See May 8 AM Tr. at 65:20–22; May 14 PM Tr. at 221:5–9.  An 
+internal Instagram presentation concluded that it was “[u]nlikely” that the dwindling share of 
+friend content in users’ feeds was because of Instagram’s ranking algorithm.  See PX 3631 
+(Instagram Insights) at 13.  Instead, “the issue is related to inventory decline — how much 
+potential content people have available to them.  We are running out of [friends and family] 
+inventory to show our users.”  Id.; see also id. at 14–15.  Another Meta deck lamented, “Given 
+the ongoing” fall in public posting, “we think increasing” friend posts “is almost impossible.”  
+PX 3008 (Facebook Feed & Ecosystems Deck) at 40.  Users are not seeing less friend content 
+because Meta is hiding it from them, but instead because there is less friend content for Meta to 
+show. 
+Nor is it clear that users want more f
+ riend posts.  True, they report on surveys that they 
+do.  See PX 3785 (Lorax 2.0: Top User Issues Deck) at 9; May 13 AM Tr. at 100:18–101:1; May 
+27 AM Tr. at 61:4–9; May 14 PM Tr. at 166:11–169:9.  But their actions tell a different story.  
+See Apr. 14 PM Tr. at 167:11–168:9, 169:7–24, 189:1–190:1; May 1 AM Tr. at 52:15–53:17; cf. 
+United States v. Eastman Kodak Co., 63 F.3d 95, 104–05 (2d Cir. 1995) (“[W]hile many 
+consumers state a preference for the familiar Kodak brand name, the empirical evidence of what 
+consumers actually do indicates that consumers find non-Kodak film to be an acceptable 
+substitute.”).   
+ 33 
+ 
+ 
+ 
+ 
+  Inste
+ad, what users really seem to want is Reels.  
+Meta measured the effect of Reels  
+ 
+ 
+  
+ 
+ 
+ 
+  An equival
+ent experiment on Facebook found  
+  Remember that Reels is not  content from friends.  See DX 1153 (Jan. 2025 
+Instagram Surface Breakdown).  So whatever users might say they desire, what seems to draw 
+them to Meta’s apps is not marginal posts from marginal friends, but unconnected videos picked 
+just for them.  Meta’s shift to the latter does not reveal monopoly power so much as a profit-
+maximizing corporation giving its customers what they want. 
+Indeed, the FTC’s theory defies common sense.  Meta’s goal is to get users to spend as 
+much time
+ on its apps as possible, and it tunes its algorithms to show users the content they most 
+want to see.  See May 12 PM Tr. at 192:3–23; May 14 PM Tr. at 249:21–250:10.  It has no 
+reason to deliberately suppress content that will bring users in the door and put forward content 
+that will push them out. 
+
+ 34 
+It would be especially irrational to force Reels on unwilling viewers because Reels earns 
+Meta less money.  Meta has a lower ad load on Reels, and the company and its rivals understand 
+that the shift to Reels is costing Meta revenue in the short term.  See DX 663 (Meta Executive 
+Chat Thread) at 1; DX 922 (TikTok Project Blue Summ.) at 14; May 8 PM Tr. at 162:19–
+163:20; May 12 AM Tr. at 70:8–17.  So does the FTC: its theory of this case is that Meta 
+burdens friend content with ads because it enjoys a monopoly but can show fewer ads on Reels 
+because it faces competition in short videos.  See FTC Post-trial Mem. at 22, 33; FTC Post-trial 
+Findings of Fact, ¶¶ 155, 169; May 12 PM Tr. at 214:6–12; May 13 AM Tr. at 17:3–11; May 27 
+AM Tr. at 45:5–18.  Yet it now asks the Court to believe that Meta is gratuitously forgoing 
+monopoly profits by pushing users away from its most popular and profitable offering to one that 
+is both less appealing and less profitable.   
+Courts presume that sophisticated corporations act rationally.  Matsushita Elec. Indus. 
+Co., Ltd. v. Zenith Radio Corp., 475 U.S. 574, 587, 594 n.19, 595 (1986); Chase Mfg., Inc. v. 
+Johns Manville Corp., 84 F.4th 1157, 1168 (10th Cir. 2023).  So “if the factual context renders 
+[a] claim implausible — if the claim is one that simply makes no economic sense — [the party] 
+must come forward with more persuasive evidence to support [its] claim than would otherwise 
+be necessary.”  Matsushita, 475 U.S. at 587.  Here, the FTC has not offered even an ordinarily 
+persuasive case that Meta is making the economically irrational choice to underinvest in its most 
+lucrative offerings.  It certainly has not made a particularly persuasive one. 
+* * * * * 
+In the end, t
+he Court finds it impossible to believe that consumers would prefer the 
+versions of Instagram and Facebook that existed a decade ago to the versions that exist today.  
+That leaves open the possibility that while Meta’s apps have improved, they are still worse than 
+ 35 
+they would be if Meta faced more competition.  Direct proof that a product is worse than some 
+unknown counterfactual is elusive, however.  Instead, this argument is best considered as the 
+harm that would follow if Meta were indeed a monopoly.  But the FTC must first prove that the 
+company is one.  Up to this point, it has not. 
+3. Price Discrimination 
+Last, the agency asserts that M eta charges a higher quality-adjusted price to a subset of 
+users by showing them more ads.  See FTC Post-trial Mem. at 12.  That is mostly true: Meta 
+shows more ads to the users who it predicts will respond by cutting their usage of Facebook and 
+Instagram less.  See, e.g., May 1 AM Tr. at 99:15–100:15; May 12 PM Tr. at 220:21–221:9; May 
+14 PM Tr. at 185:25–186:5; May 15 AM Tr. at 23:12–24:3. 
+That also does not prove monopoly power.  Instead, price discrimination reveals only 
+what eco
+nomists call market power — the power to price a good above marginal cost.  See Lars 
+A. Stole, Price Discrimination and Competition, 3 Handbook of Indus. Org. 2221, 2224 (2007).  
+In the real world, almost every business enjoys some degree of market power, which is a far 
+lower bar than monopoly power.  See Richard Schmalensee, Another Look at Market Power, 95 
+Harv. L. Rev. 1789, 1790 (1982); Areeda & Hovenkamp, ¶ 501, at 115–16 (“Market power 
+exists in degrees,” which often fall below monopoly power.).  True, courts often confusingly call 
+monopoly power “market power,” but different concepts they remain.  Price discrimination 
+shows only that a firm is not the undifferentiated fiction earning zero profits that scarcely exists 
+outside the pages of an Econ 101 textbook.  It does not prove that the market is monopolized. 
+That must be true, since
+  “price discrimination is a ubiquitous phenomenon.”  Hal R. 
+Varian, Price Discrimination, 1 Handbook of Indus. Org. 597, 646 (1989).  You will find it in 
+every movie theater offering a student discount, every drug store offering a senior discount, and 
+ 36 
+every airline charging higher prices to travelers who book at the last minute.  Id. at 641.  When 
+price discrimination prevails in just about every market, it cannot reliably distinguish the few 
+markets in the grips of a monopoly from the many more markets where the competitive price 
+exceeds marginal cost.  The Supreme Court agrees: “[W]hile price discrimination may provide 
+evidence of market power, . . . it is generally recognized that it also occurs in fully competitive 
+markets.”  Ill. Tool Works Inc. v. Indep. Ink, Inc., 547 U.S. 28, 44–45 (2006). 
+D.        Indirect Evidence 
+Having found no direct proof that Meta holds monopoly power, the Court now turns to 
+indirect evidence.  The FTC here must show that Meta holds a dominant share of the market that 
+is protected by barriers to entry.  Microsoft, 253 F.3d at 51.   
+The Court must therefore first define what market Facebook and Instagram compete in.  
+A market involves a product market and a geographic market — say, midsize sedans in the 
+United States or segway tours in Washington, D.C.  Sky Angel U.S., LLC v. Nat’l Cable 
+Satellite Corp., 947 F. Supp. 2d 88, 102 (D.D.C. 2013).  In this case, both sides agree that the 
+relevant geographic market is the United States.  Meta, 775 F. Supp. 3d at 35 (noting agreement 
+on this point at summary judgment); FTC Post-trial Mem. at 6 (FTC maintaining that position in 
+post-trial briefing); ECF No. 626-1 (Meta Post-trial Mem.) at 12 (same for Meta).  What they 
+fight over are the bounds of the relevant product market. 
+According to the FTC, Meta competes in a separate market for PSN apps, which people 
+use to keep up with their friends and family.  See ECF No. 623-1 (FTC Post-trial Findings of 
+Fact), ¶ 7; FTC Post-trial Mem. at 6–7.  The agency insists that this market contains only four 
+apps: Facebook, Instagram, Snapchat, and a less-used option called MeWe.  See FTC Post-trial 
+Findings of Fact, ¶¶ 33, 40.  Apps like TikTok and YouTube, by contrast, are used for 
+ 37 
+entertainment.  Id., ¶¶ 58–59, 73.  So, the FTC insists, they do not offer a substitute for Facebook 
+and Instagram.  Id., ¶ 14. 
+Meta rejoins that that is a hypothesis that must be tested against the evidence.  According 
+to the company, people mostly use Facebook and Instagram to watch unconnected videos, just 
+like they use TikTok and YouTube.  See Meta Post-trial Mem. at 1.  Turning to consumer 
+behavior, Meta maintains that all the empirical evidence shows that consumers treat other apps 
+— especially TikTok and YouTube — as substitutes for Facebook and Instagram.  Id. at 14–15.  
+The FTC might have drawn up some theories that sound plausible in the abstract and might even 
+have been true in years gone by, but Defendant says that they do not match today’s reality. 
+Having introduced these dueling accounts, the Court now lays out the legal
+  framework 
+against which it will test them.  A product market is the set of all alternatives that are 
+“reasonably interchangeable by consumers for the same purposes.”  Du Pont, 351 U.S. at 395.  
+An alternative need not be identical to be reasonably interchangeable.  Id. at 394.  On the other 
+hand, a vast spectrum of goods can serve as substitutes to some extent, “[b]ut a relevant market 
+cannot meaningfully encompass that infinite range.”  Times-Picayune Publ’g Co. v. United 
+States, 345 U.S. 594, 612 n.31 (1953); see also United States v. H & R Block, Inc., 833 F. Supp. 
+2d 36, 54 (D.D.C. 2011) (just because products “may compete at some level” does not mean they 
+belong in same product market).  Indeed, judges could find differences between just about every 
+product in earth: Coca-Cola differs from root beer, which differs from Sprite, which differs from 
+milk.  How should courts draw conclusions about reasonable interchangeability? 
+ The leading way i
+ s the hypothetical-monopolist test.  E.g., FTC v. Penn State Hershey 
+Med. Ctr., 838 F.3d 327, 338 (3d Cir. 2016).  The HMT defines a product market as the smallest 
+set of products such that if a hypothetical monopolist controlled them all, then it would maximize 
+ 38 
+its profits by raising prices significantly above competitive levels.  See Areeda & Hovenkamp, 
+¶ 536, at 322–25.  More precisely, courts ask whether the hypothetical monopolist would 
+profitably impose a small but significant and nontransitory increase in price (SSNIP).  E.g., Penn 
+State Hershey Med. Ctr., 838 F.3d at 338.  While the threshold needed for a “small but 
+significant” price increase might vary, a common number is 5%.  See U.S. Dep’t of Just. & Fed. 
+Trade Comm’n, Merger Guidelines 43 (2023); Penn State Hershey Med. Ctr., 838 F.3d at 338 
+n.1; FTC v. Sysco Corp., 113 F. Supp. 3d 1, 34 (D.D.C. 2015).    
+To see how the HMT works in practice, suppose that a single firm controlled the entire 
+production of pencils.  If that hypothetical monopolist could maximize its profits by charging a 
+price about 5% higher than the competitive level, then pencils would be a market in themselves.  
+But if that price hike would be unprofitable because too many consumers would switch to pens, 
+then pencils and pens would belong in the same market. 
+ What if the products are free, like Facebook and Instagram?  Courts can update the hoary 
+HMT f
+or the digital age by asking whether a hypothetical monopolist would impose a small but 
+significant and nontransitory increase in the apps’ quality-adjusted price — basically, whether it 
+would make them significantly worse than they would be in a competitive market (say, by 
+bloating them with ads).  See Merger Guidelines at 41–42.  Of course, the answer is 
+unobservable (by definition, it is hypothetical).  But the HMT at least tells the Court what 
+question to ask: would a firm that controlled both Facebook and Instagram maximize its profit by 
+making them about 5% worse than they would be under competitive conditions?  If it would not 
+because, say, too many users would substitute time on Instagram for time on TikTok, then 
+TikTok belongs in the product market. 
+ 39 
+ Note that this test does not focus on whether items have abstract qualitative differences  
+but instead on the reality of what consumers would do.  After all, whether a hypothetical 
+monopolist could profitably raise prices — and therefore where the product market’s borders lie 
+— depends on which alternatives consumers would turn to and how readily they would do so, 
+not on how different the products seem to a judge.  Rothery Storage & Van Co. v. Atlas Van 
+Lines, Inc., 792 F.2d 210, 218 (D.C. Cir. 1986) (Bork, J.). 
+Consider United States v. Continental Can Co., 378 U.S. 441 (1964), where the Supreme 
+Court decided whether metal cans and glass containers belonged in the same product market.  Id. 
+at 456.  The Court could have noted all the qualitative differences between glass and metal —
+their different transparencies, tensile strengths, and weights — and held that they therefore must 
+occupy different markets.  Instead, the Court looked to real-world evidence of whether users 
+treated the two as substitutes.  Id. at 456–57.  They did, so the Court held that these superficially 
+different products belonged in the same market.  Id.  In general, the Supreme Court has warned 
+against any rule that would make “only physically identical products . . . part of the market.”  Du 
+Pont, 351 U.S. at 394; accord Cont’l Can, 378 U.S. at 452.  Instead, courts must “recognize 
+competition where, in fact, competition exists.”  Brown Shoe Co. v. United States, 370 U.S. 294, 
+326 (1962); see also Eastman Kodak Co. v. Image Tech. Servs., Inc., 504 U.S. 451, 467 (1992) 
+(courts must “examine[] closely the economic reality of the market at issue”).  Of course, real-
+world substitution evidence is sometimes unreliable.  And qualitative differences between 
+products can serve as useful “evidentiary proxies for direct proof of substitutability.”  Rothery, 
+792 F.2d at 218.  But the touchstone of market definition remains how consumers would respond 
+to a price increase. 
+ 40 
+The Court makes one last preliminary point.  The HMT does not ask whether consumers 
+would stop buying a product entirely.  Instead, the question is whether they would cut back 
+enough to make a significant price increase unprofitable.  Applying that logic to social media, 
+the relevant question is not whether a SSNIP would cause people to stop checking Facebook and 
+Instagram at all, but whether it would cause them to use these apps less — and whether that shift 
+in usage would make the SSNIP unprofitable.  See FTC v. Tenet Health Care Corp., 186 F.3d 
+1045, 1053 n.11 (8th Cir. 1999).  That is especially true because social-media apps are free, so 
+users are unlikely to entirely replace one app with another.  Instead, these companies fight over 
+users’ time: when people have a free moment, which app will they open, and how long will they 
+spend on it?  See May 12 PM Tr. at 175:18–176:4 (because these apps are used by almost 
+everyone, they compete over marginal time); May 1 PM Tr. at 170:21–171:6 (similar);  
+; May 8 PM T r. at 265:4–266:3 
+(similar). 
+The Court is finally ready to preview what follows.  The FTC bears the burden of proving 
+the product m
+arket’s bounds.  Du Pont, 351 U.S. at 381; Gross v. Wright, 185 F. Supp. 3d 39, 50 
+(D.D.C. 2016).  The Court will first examine empirical evidence of whether consumers treat 
+TikTok and YouTube as substitutes for Facebook and Instagram.  The evidence resoundingly 
+shows that they do.  The Court then considers the factors from Brown Shoe, which use 
+qualitative evidence as a proxy for substitutability.  See United States v. Google LLC, 747 F. 
+Supp. 3d 1, 108 (D.D.C. 2024) (courts consider both empirical substitution evidence and Brown 
+Shoe factors).  Even when the Court considers the apps qualitatively, it finds that their 
+similarities outweigh their differences.  PSN apps may have been a market unto themselves when 
+
+ 41 
+the FTC filed this case in 2020 or when it approved Facebook’s acquisitions of Instagram and 
+WhatsApp in 2012 and 2014.  That is no longer the case. 
+1. Empirical Evidence of Substitution 
+ The best e vidence of what consumers consider as substitutes often comes from 
+consumers themselves.  After all, “[t]he definition of product market . . . focuses” on whether 
+“consumers regard the products as substitutes.”  FTC v. H.J. Heinz Co., 246 F.3d 708, 718 (D.C. 
+Cir. 2001) (quotation marks omitted); see also FTC v. Whole Foods Mkt., Inc., 548 F.3d 1028, 
+1039 (D.C. Cir. 2008) (opinion of Brown, J.) (product market’s bounds “must ultimately be 
+determined by ‘settled consumer preference’”) (quoting United States v. Phila. Nat’l Bank, 374 
+U.S. 321, 357 (1963)). 
+ Two kinds of evidence demonstrate  that use
+ rs consider TikTok and YouTube reasonably 
+interchangeable with Meta’s apps: observational and experimental evidence.  The Court will 
+consider each, but it notes at the outset that these sources show only that TikTok and YouTube 
+are the closest substitutes for Facebook and Instagram.  That fact alone does not answer the 
+relevant question: whether those apps are reasonable enough substitutes to prevent Meta from 
+profitably imposing a SSNIP.  Because no evidence in the record measures that question directly, 
+the Court will explain what the evidence does show, then assess what light it throws on the 
+HMT. 
+a.         Observational Evidence 
+ The Court starts with everyday evidence of what apps users treat as substitutes for time 
+on Facebook and Instagram.  That evidence comes in two forms: users’ response to the launch of 
+TikTok and Meta’s tracking of almost 50,000 users as they used their phones over several 
+ 42 
+months.  Both strongly suggest that time on TikTok substitutes for time on Meta’s apps, and the 
+latter source shows that YouTube is an even stronger substitute. 
+i. Response to TikTok 
+ When TikTok entered the United States , America ns reallocated massive amounts of time 
+from Facebook and Instagram to this new app.  As TikTok surged in popularity among young 
+adults, they cut their time on Facebook by .  See May 12 A M Tr. at 68:19–25, 70:5–17, 
+82:14–23; DX 605 (U.S. Young Adults on IG Deck) at 10.  Alison testified that when he became 
+Head of Facebook in 2021, the app’s biggest challenge was that people were using it less, and 
+“[t]he main factor we attributed the declining engagement to was competitive pressure from 
+TikTok.”  May 14 PM Tr. at 237:20–238:23; see also DX 600 (Facebook U.S. Long-Term 
+Themes Deck) at 5 (similar). 
+ TikTok also took time away from Instagram.  See Apr. 29 PM Tr. at 194:6–195:3.  In  
+2019 — before T
+ikTok had even won widespread adoption in the United States, see May 12 AM 
+Tr. at 82:14–15, 21–22 — Meta estimated that almost a quarter of Instagram’s year-over-year 
+loss in user time was because of this new app.  See DX 660 (IG Metric Softness Deck) at 6; see 
+also DX 573 (Instagram Mem.) at 4 (Instagram use had dropped or plateaued, partly because of 
+“competition from TikTok and Snapchat”); DX 606 (Instagram U.S. Teen Messaging Deck) at 4 
+(Instagram deck fretting about “growing competition” from TikTok, which “is winning in share 
+of total time spent on social media apps”). 
+ By 2021, Meta estimated that TikTok was causing active Facebook users to spend 4–7% 
+less ti
+me on the app, and active Instagram users 4–5% less time.  See DX 535 (TikTok 
+Headwinds on FB and IG Deck) at 4, 7.  That decline was especially alarming because so many 
+of Meta’s users had not even downloaded TikTok yet.  See May 12 AM Tr. at 82:19–23.  Among 
+
+ 43 
+Facebook users who had, Meta estimated that TikTok caused them to use Facebook 17–26% 
+less.  See DX 535 (TikTok Headwinds on FB and IG Deck) at 4.  Young adults — who were 
+bellwethers of TikTok adoption, id. at 10, 15 —  
+ 
+ Apr. 16 AM T
+r. at 19:20–20:4 
+(when TikTok s
+tarted growing, Facebook’s and Instagram’s growth “slowed down 
+dramatically”); Apr. 17 AM Tr. at 29:20–32:16 (discussing document for Meta’s Board saying 
+that Meta’s usage was 5% lower than expected in first half of 2020, that this was partly because 
+people were using TikTok instead, and that TikTok’s growth was expected to cost Meta $3 
+billion in ad revenue). 
+ In short, Meta observed widespread substitution from Facebook and Instagram to 
+TikTok, and the
+ rate of substitution was high enough to constrain Meta’s growth.  True, this 
+evidence largely predates Meta’s pivot to Reels, see Joint Stipulations of Fact, ¶¶ 20, 34, which 
+likely won user time back from TikTok.  But remodeling Facebook and Instagram to resemble 
+TikTok only makes the latter an even closer substitute. 
+ii. Meta Study Panel 
+ More f
+ormal measurement confirms that people treat TikTok as a substitute for Meta’s 
+apps — and espe
+cially treat YouTube as one.  Meta tracks what it calls the study panel, in which 
+almost 50,000 users let Meta record how much time they spend on each of their phone’s apps 
+over eighteen weeks.  See May 19 PM Tr. at 147:7–12, 148:11–16.  Its expert John List 
+examined this data to assess which apps most traded off with Facebook and Instagram.  
+Specifically, he tested the following question: when users decreased the time they spent on 
+
+ 44 
+Facebook or Instagram, what apps did they spend more time on instead?  And when users 
+increased their time on Facebook or Instagram, what apps did they cut time from?  Id. at 147:1–
+6, 151:10–153:3. 
+ Time on both Facebo
+ ok and Instagram seemed to trade off most with time on YouTube.  
+Id. at 150:3–7; DX 1226 (Facebook Time Shift Results) (single app with strongest relationship 
+was YouTube, although some app categories, like “Games,” had stronger negative relationship); 
+DX 1228 (Instagram Time Shift Results) (similar findings with similar caveats).  For both of 
+Meta’s apps, the second-biggest tradeoff was with TikTok.  See May 19 PM Tr. at 150:7–8; DX 
+1226 (Facebook Time Shift Results); DX 1228 (Instagram Time Shift Results). 
+ In other words, when  people c ut time from Facebook and Instagram, they were most 
+likely to devote it to YouTube and TikTok.  When they spent more time on Meta’s apps, it was 
+most likely to come at the expense of time on YouTube and TikTok. 
+b. Natural and Field Experiments 
+ While the Court finds that observational evidence compelling, it recognizes that those 
+results
+ might be contaminated by other changes in a messy world.  See May 19 PM Tr. at 
+148:17–19.  More persuasive are results from experiments, including natural experiments that 
+take advantage of times when an app suddenly became unavailable and thereby reveal which 
+apps users consider the next-best alternatives.  At trial, the parties introduced evidence 
+concerning five natural and field experiments.  All five confirmed the observational evidence 
+discussed above. 
+i. Payment Experiment 
+ The cleanest experiment was another run by List.  He recruited 6,000 people and had 
+them ins
+tall a device that tracked how much time they spent on each of their phone’s apps.  See 
+ 45 
+May 19 AM Tr. at 84:1–4.  For four weeks, he sat back and measured app usage.  See May 19 
+PM Tr. at 201:19–23.  He then randomly assigned participants to a treatment or control group.  
+See May 19 AM Tr. at 84:1–12.  People in the treatment group were paid $4 for each hour that 
+they cut from their Facebook or Instagram use.  Id. at 84:12–17.  The control group was given a 
+fixed weekly payment.  Id. at 84:17–18.  The payments lasted four weeks, during which List 
+tracked each group’s usage.  See May 19 PM Tr. at 201:19–23. 
+ The experiment thus made it more expensive to use Meta’s apps and so simulated what 
+would happen if Meta exercised monopoly power (or, if one accepts the FTC’s view, what would 
+happen if Meta further exercised that power).  It worked: people in the treatment group reduced 
+the time they spent on Facebook or Instagram by about two-thirds.  See DX 1230 (Payment 
+Experiment Effect).  By measuring which apps users reallocated that time to, List could test 
+which apps they considered the next-best thing. 
+ Among people paid to use Facebook less, the app th
+ at they transferred the greatest share 
+of time to was YouTube.  See May 19 AM Tr. at 98:9–17; but see DX 1246 (Payment 
+Experiment Facebook Diversion Rates) (highest diversion rate went to phone’s browser — but 
+that is not use in itself, but instead portal to reach other uses, like New York Times or ESPN).  
+The second-biggest share went to Instagram.  See May 19 AM Tr. at 98:18–19.  Third was 
+TikTok.  Id. at 98:20–21.   
+ Turning to the group paid to use Instagram less, the app they reallocated the most time to 
+was YouTube.  See DX 1221 (Payment Experiment Instagram Diversion Rates); May 19 AM Tr. 
+at 101:24–102:1.  Second was Facebook.  See DX 1221 (Payment Experiment Instagram 
+Diversion Rates) (excluding phone’s browser for same reason as above); May 19 AM Tr. at 
+ 46 
+102:2–3.  TikTok was once again third.  See DX 1221 (Payment Experiment Instagram 
+Diversion Rates); May 19 AM Tr. at 102:3–4. 
+ Still, those numbers might not represent substitution if they merely reflected where u sers 
+were spending time anyway.  Suppose that someone was already spending 10% of his day on 
+YouTube.  If, when he was paid to spend less time on Instagram, he devoted 10% of his 
+newfound free time to YouTube, then he would not be using that app to substitute for Instagram 
+but simply spending additional time as he normally would have.  To avoid this problem, List 
+calculated the ratio of (1) the share of erstwhile Instagram time that a user allocated to an app to 
+(2) the share of pre-treatment time that this user was spending on the app.  See May 19 AM Tr. at 
+108:11–21.  A ratio above 1 shows that people disproportionately used an app when they would 
+have otherwise been on Facebook or Instagram and thus suggests that the app is peculiarly a 
+Facebook or Instagram substitute. 
+ Measured this way, List’s r
+ esults grow even more striking.  Among the group paid to use 
+Facebook less, the highest ratio went to Instagram (a ratio of 4), then TikTok (2.7), then 
+YouTube (2.1), then Snapchat (1.9).  Id. at 109:13–15; DX 1248 (Facebook Indexed Diversion 
+Rates).  No other app had a ratio much above 1.  See DX 1248 (Facebook Indexed Diversion 
+Rates).  For people paid to use Instagram less, the highest ratio went to TikTok (2.7), then 
+YouTube (2.5), then Facebook (2.4), then Snapchat (2.1).  See May 19 AM Tr. at 109:25–110:8; 
+DX 1249 (Instagram Indexed Diversion Rates).  No other app had a ratio meaningfully above 1.  
+See May 19 AM Tr. at 109:25–110:8; DX 1249 (Instagram Indexed Diversion Rates); but see id. 
+(phone’s browser had ratio of 1.6). 
+ This experiment, which in the Court’s judgment offers the single best evidence of what 
+consumer
+s consider alternatives to Meta’s apps, tells a clear and consistent story: when using 
+ 47 
+Facebook and Instagram becomes more costly, users turn to TikTok, YouTube, and Snapchat, 
+with no other app notably standing out. 
+ii. 2021 Meta Outage 
+What about when people cannot use Facebook or Instagram at all?  In October 2021, 
+Meta’
+s apps suffered an outage and were offline for several hours.  See DX 921 (Metrics Lift due 
+to FB Outage) at 1.  Meta’s experts analyzed where users spent time instead.   Of the total 
+increase in usage of other apps, the largest share went to TikTok.  See DX 1167 (Meta Outage 
+Effects).  The second largest went to YouTube.  Id.  And Snapchat — which the FTC insists is 
+Meta’s closest competitor — fell far below, seeing its usage increase by less than a third of what 
+TikTok enjoyed and less than half of what YouTube did.  Id.; see also May 21 AM Tr. at 86:9–
+12 (“If you think that Snapchat is in the market, then you are seriously underestimating the 
+importance of the competitive constraints that apps like TikTok [and] YouTube . . . are imposing 
+on Meta.”). 
+These results are especially striking because Reels was still in its infancy.  See May 21 
+AM Tr. at 97:4–9.  Users were thus not trying to replace unconnected videos but instead content 
+from their friends.  Yet they still turned to TikTok and YouTube.  This episode thus not only 
+reinforces that those apps are the closest alternatives to Facebook and Instagram, but it also 
+suggests that connected and unconnected content might compete with one another.  Id. at 97:10–
+15. 
+iii. India TikTok Ban 
+Opposit
+e scenarios have also occurred, where users had to seek alternatives to TikTok or 
+YouTube.  The
+ Court starts with India’s banning of TikTok in 2020.  See May 19 AM Tr. at 
+116:6–8. 
+ 48 
+As soon as TikTok disappeared, Indians spent more time on Facebook and Instagram.  
+See May 12 AM Tr. at 67:13–20; DX 535 (TikTok Headwinds on FB and IG Deck) at 14.  The 
+shift was especially dramatic among teens, who presumably were most likely to have been using 
+TikTok before the ban, see DX 535 (TikTok Headwinds on FB and IG Deck) at 10, 15 (teens 
+more likely to use TikTok in United States): 12% more teens used Facebook each day, and the 
+average teenage user spent 27% more time on the app.  Id. at 14.  Use of Instagram also surged.  
+See May 12 AM Tr. at 84:10–19. 
+List tested whether TikTok’s unavailability caused this stampede to Meta’s apps.  He 
+created a synthetic control — a weighted average of several countries constructed to match the 
+pre-ban pattern of usage in India — and compared how time spent on Facebook and Instagram 
+changed in India (where TikTok had been banned) to the synthetic control (where it had not 
+been).  See May 19 AM Tr. at 116:17–117:8; see also Alberto Abadie, Using Synthetic Controls: 
+Feasibility, Data Requirements, and Methodological Aspects, 59 J. Econ. Literature 391, 392–98 
+(2021) (explaining synthetic controls).  The results practically speak for themselves: 
+ 49 
+Time Spent on Facebook Before and After TikTok Ban 
+ 
+DX 1224 
+Time Spent on Instagram Before and After TikTok Ban 
+ 
+DX 1225 
+
+ 50 
+Two weeks into the TikTok ban, Indians had increased their time on Facebook by more 
+than 20%.  See DX 1224 (India TikTok Ban Facebook Effects).  In the synthetic control, 
+Facebook time fell.  Id.  And Meta’s usage in India kept climbing.  Nine months into the ban, 
+Indians were spending over 60% more time on Facebook, while its use had not changed in the 
+synthetic control.  Id.  In the same time period, Indians increased their time on Instagram by a 
+whopping 150%.  See DX 1225 (India TikTok Ban Instagram Effects).  In the synthetic control, 
+Instagram time rose only about 25%.  Id. 
+This natural experiment shows what the world might look like without TikTok.  
+Crucially, it measures long-term effects, confirming that substitution between Meta’s apps and 
+TikTok is not a passing phenomenon produced only by short-term outages.  It shows that TikTok 
+takes an enormous amount of time away from Facebook and Instagram. 
+iv. U.S. TikTok Shutdown 
+Closer to home, as the United States’ short-lived Ti kTok ban was about to go into effect, 
+the app went offline for about half a day this past January.  See May 8 PM Tr. 201:9–12.  While 
+TikTok was down, people switched to other apps.  See DX 1154 (TikTok Shutdown Effects).  
+The greatest share of that newfound free time went to Facebook, then to Instagram, then 
+YouTube.  Id.  YouTube w as following the outage closely, and it  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 51 
+Two results here are especially striking.  First, according to the FTC’s theory, TikTok 
+and YouTube are video-entertainment apps, see FTC Post-trial Findings of Fact, ¶¶ 58–60, 73–
+74, while Facebook and Instagram are used for personal social networking.  Id., ¶¶ 48 –49.  If the 
+FTC were right, you would expect that users seeking a substitute for TikTok would turn most 
+often to YouTube.  The evidence shows otherwise: people evidently thought that the closest 
+platforms to TikTok were Facebook and Instagram.  It is unclear whether that was because 
+Meta’s apps are really entertainment apps, because TikTok is really a social-networking app, or 
+because those artificial categories do not make sense.  What is clear is that the FTC’s hypothesis 
+about how people use these apps is consistently disproven by the data. 
+Second, the amount of time that TikTok seems to be taking from Meta’s apps is stunning.  
+Compared to the same time on prior weekends, Americans used Instagram either  or  
+more when T
+ikTok was down, depending on which measurement you use.  See DX 1255 (U.S. 
+TikTok Offline Period Impact Analysis Deck) at 6; DX 1154 (TikTok Shutdown Effects).  
+ 
+  See Ma
+y 8 PM Tr. at 202:7–9.  In the same 
+comparison, Americans overall used Facebook either  or  more.  See DX 1255 (U.S. 
+TikTok Offline Period Impact Analysis Deck) at 6; DX 1154 (TikTok Shutdown Effects).  
+Mosseri, the Head of Instagram, put the Instagram numbers in perspective:  
+ 
+  May 8 PM T
+r. at 202:10–13.  The Court finds this evidence particularly relevant 
+because it i
+s so recent and thus reflects the apps as they exist now. 
+Meta’s leadership team took away a clear lesson.  Mosseri reflected that the episode 
+showed “ther
+e’s no question about whether or not we compete with TikTok.”  Id. at 16–17.  
+
+ 52 
+Alison, the Head of Facebook, drew the same conclusion: “We believe that TikTok is taking . . . 
+engagement . . . and people’s attention away from Facebook and that it is a very strong 
+competitor today and will likely continue to be.”  May 15 AM Tr. at 21:9–12. 
+v. 2018 YouTube Outage 
+YouTube suffered a 90-minute outage in 2018.  See May 12 AM Tr. at 88:13–16; DX 
+345 (Oct. 2018 Meta Executives Email Thread) at 3.  During that time, the number of people 
+using Facebook’s mobile app rose 6%, and time on Facebook climbed by 7%.  See DX 345 (Oct. 
+2018 Meta Executives Email Thread) at 3; see also May 12 AM Tr. at 88:13–19.  Facebook had 
+been debating whether to invest more in video and whether that would cannibalize time on its 
+traditional offerings.  See DX 345 (Oct. 2018 Meta Executives Email Thread) at 3.  Studying the 
+effect of the YouTube outage, one executive wrote that “YouTube[] . . . cannibalizes us already.  
+We weren’t able to prove this assumption with any data, but tonight” the outage provided 
+evidence that “confirms our strongly-held belief.”  Id.  Knocking out YouTube had an “instant 
+impact” on Facebook use, and that impact was “huge.”  Id.  Indeed, the evident substitution 
+between Facebook and YouTube helped convince Meta to invest billions in video.  See May 8 
+PM Tr. at 179:12–16. 
+c. Interpreting the Evidence 
+Those na
+tural and field experiments — the pricing experiment, the Meta outage, India’s 
+TikTok ban, the TikTok pause in the United States, and the YouTube outage — tell a consistent 
+and unmistakable story.  When consumers cannot use Facebook and Instagram, they turn first to 
+TikTok and YouTube.  When they cannot use TikTok or YouTube, they turn to Facebook and 
+Instagram.  That evidence leaves the Court with no doubt that TikTok and YouTube compete 
+with Meta’s apps.  Alexander Schultz, Meta’s Chief Marketing Officer and Vice President of 
+ 53 
+Analytics, see May 7 PM Tr. at 247:2–4, put it succinctly:  
+ 
+Of course
+, a rival does not belong in the product market simply because it competes with 
+the defendan
+t.  H & R Block, 833 F. Supp. 2d at 54.  Instead, it must compete enough to prevent 
+the defendant from exercising monopoly power.  Rothery, 792 F.2d 210 at 218; Areeda & 
+Hovenkamp, ¶ 536, at 322–23.  The Court finds that TikTok and YouTube do, for two reasons. 
+First, the magnitude of substitution.  India offers a counterfactual world in which TikTok 
+does not exist
+: in that world, people spend 60% more time on Facebook and roughly double their 
+time on Instagram compared to the synthetic control.  See DX 1224 (India TikTok Ban Facebook 
+Effects); DX 1225 (India TikTok Ban Instagram Effects).  When TikTok went offline in the 
+United States, Americans spent  more time on Instagram and  more time on 
+Facebook.  S
+ee DX 1154 (TikTok Shutdown Effects); DX 1255 (U.S. TikTok Offline Period 
+Impact Analysis Deck) at 6.  True, in May 2021, Meta estimated that TikTok was depressing 
+active users’ Facebook time by only 4–7% and their Instagram time by only 4–5%.  See DX 535 
+(TikTok Headwinds on FB and IG Deck) at 4, 7.  But when Meta considered only users who had 
+adopted TikTok, its estimate of lost time rose to 17–26% (at least for Facebook).  Id. at 8.  The 
+number of Americans using TikTok has soared by about  since then, so the app’s current 
+effect on Meta is likely closer to the latter numbers than the former.  Compare DX 60 (V Pappas 
+Decl.), ¶ 9 (as of September 2020, TikTok had 93 million monthly active U.S. users), with Apr. 
+30 AM Tr. at 65:22–25, and PX 689 (Presser Decl.) at 6 (today, that number is over ). 
+As for the effect of YouTube’s competition, the only quantitative measure comes from 
+the YouTube 2018 outage, when Facebook use rose by 7%.  See DX 345 (Oct. 2018 Meta 
+Executives Email Thread) at 3.  That is meaningful  
+
+ 54 
+  But remember that the 2018 version of Facebook did 
+not have R
+eels, see Joint Stipulations of Fact, ¶ 20, and had much more content from friends.  
+Nor did 2018’s YouTube have Shorts.  See Todd Sherman, YouTube Off. Blog, Bringing 
+YouTube Shorts to the U.S. (Mar. 18, 2021). https://perma.cc/7BPL-3CWW.  Today, Americans 
+spend most of their time on Facebook watching videos, see DX 1147 (U.S. Share of Facebook 
+Time Spent on Video), and the part of Facebook on which they spend the most time (Reels), see 
+DX 1152 (Jan. 2025 Facebook Surface Breakdown), is identical to the Shorts that YouTube 
+offers.  The 2018 YouTube outage thus likely underestimates the effect of competition from 
+YouTube on Facebook’s business today.  More recent evidence comes from List’s payment 
+experiment, which found that YouTube is Facebook’s closest substitute.  See May 19 AM Tr. at 
+98:9–17. 
+The magnitude of TikTok’s and YouTube’s effect on Meta’s market share convinces the 
+Court that
+ these apps do not merely compete with Facebook and Instagram “at some level.”  H & 
+R Block, 833 F. Supp. 2d at 54.  Instead, they compete fiercely over a meaningful share of 
+Meta’s business. 
+Second, one need not take the Court’s word for it: Meta has m ade billions of dollars of 
+investment decisions because it views TikTok and YouTube as serious competitive threats.  Take 
+Reels, which Meta launched to meet the competition from TikTok.  See May 8 PM Tr. at 
+154:21–155:23; DX 922 (TikTok Project Blue Summ.) at 14.  Developing and maintaining this 
+new feature cost Meta a small fortune in dollars and resources.  See May 8 PM Tr. at 159:19–
+160:7; Apr. 29 PM Tr. at 197:12–25; May 1 PM Tr .at 171:10–14; May 12 AM Tr. at 70:18–
+71:7; May 14 PM Tr. at 256:9–16.  It required the company to train and run a large AI model, 
+see May 8 PM Tr. at 159:19–160:7; May 14 PM Tr. at 254:6–256:8, to redesign its video player, 
+
+ 55 
+see May 14 PM Tr. at 256:19–257:18, to overhaul its apps’ features, see May 8 PM Tr. at 
+156:20–157:17, and to develop an infrastructure for content creators to make those Reels in the 
+first place.  See May 14 PM Tr. at 257:20–258:18.  All told, Meta spent around $4 billion on 
+Reels last year and is on track to spend about $4.5 billion this year.  See May 8 PM Tr. at 
+159:25–160:2.  The true cost of Reels is even higher: because Reels has a lower ad load than 
+Meta’s other features, shifting to Reels cost Meta dearly in short-term advertising revenue.  See 
+DX 922 (TikTok Project Blue Summ.) at 14 (TikTok estimate that shift to Reels would cost 
+Meta 6% of total ad revenue in 2022); May 8 PM Tr. at 162:19–163:13; May 12 AM Tr. at 
+69:25–70:17.   
+That Meta sunk so much money and resources into fight
+ ing off competition from TikTok 
+shows that substitution was taking a chunk out of Meta’s bottom line.  See May 8 PM Tr. at 
+163:14–20; May 12 AM Tr. at 69:13–24, 70:5–17; May 14 PM Tr. at 261:12–16.  Indeed, since 
+Reels now accounts for most time spent on Instagram and the most popular part of Facebook, 
+Meta’s balance sheet tells only part of the story: substitution from Meta to TikTok was so high 
+that it forced Meta to fundamentally transform its apps. 
+While the evidence of substitution to YouTube is thinner, Meta similarly invested billions 
+and develo
+ped new features to respond to that competitive threat.  See May 8 PM Tr. at 179:2–
+16; May 12 AM Tr. at 89:17–90:4; May 14 PM Tr. at 252:5–20; May 15 AM Tr. at 22:2–12. 
+True, none of this empirical evidence is a SSNIP test.  Bans and outages do not impose 
+small but s
+ignificant price increases; they get rid of a product entirely.  The outages and pricing 
+experiment were transitory.  And the India ban has the further flaw that it is from a different 
+geographic market. 
+ 56 
+In the real world, however, no evidence is perfect.  Nor is any single piece dispositive 
+here.  While each of Meta’s empirical showings can be quibbled with, they all tell a consistent 
+story: people treat TikTok and YouTube as substitutes for Facebook and Instagram, and the 
+amount of competitive overlap is economically important.  Against that unmistakable pattern, the 
+FTC offers no empirical evidence of substitution whatsoever. 
+Although the HMT and its SSNIP test cannot be directly tested in this case, it remains the 
+relevant question.  So the Court must take the non-HMT substitution evidence, make a 
+qualitative, holistic appraisal of it, and ask what light it sheds on the relevant legal issue: could 
+Meta maximize its profit by making its apps significantly worse than they would be in a 
+competitive world, or is it constrained by competition from TikTok and YouTube?  When the 
+evidence implies that consumers are reallocating massive amounts of time from Meta’s apps to 
+these rivals and that the amount of substitution has forced Meta to invest gobs of cash to keep up, 
+the answer is clear: Meta is not a monopolist insulated from competition.  The Court finds the 
+evidence favoring Meta on this issue both credible and convincing. 
+d. The FTC’s Counterarguments 
+The FTC, naturally, disagrees.  Before launching into its objections, the Court first 
+comments on the credibility of the expert witness from which many of them issue.  It then moves 
+on to the merits of the agency’s counterarguments. 
+i. Hemphill 
+While much of the evidence discussed above comes from lay witnesses (plus Meta’s 
+experts List and Dennis Carlton), the Court acknowledges that Professors Scott Hemphill and 
+Clifford Lampe offered some contrary testimony.  It seems unlikely that Hemphill, however, 
+could have approached his task with an open mind.  Before the FTC filed this suit, he met with it, 
+ 57 
+the Department of Justice, and state attorneys general to urge them to investigate Meta and 
+outlined an antitrust suit that those enforcers could bring.  See May 13 PM Tr. at 148:20–149:15, 
+152:23–153:25.  He had created this presentation with Professor Tim Wu, who has long 
+advocated breaking up Facebook, id. at 155:1–156:11, and Chris Hughes, a disillusioned 
+Facebook cofounder who had become a public champion of dismantling the company.  Id. at 
+156:13–159:11.  The presentation even advised the FTC on specific next steps: recommending 
+whom the agency should subpoena, advising it on what topics to ask those people about, and 
+urging it to seek a preliminary injunction before Meta could integrate its messaging services and 
+thereby make divestiture harder.  See May 27 PM Tr. at 169:21–173:8.  
+The FTC took Hemphill’s advice to heart.  It opened the current investigation just one 
+week after meeting with him, id. at 169:6–16, interviewed the people he had mentioned, id. at 
+170:20–171:3, and requested detailed information about Meta’s plans to integrate its messaging 
+services.  Id. at 173:4–8.  Just one day after the agency filed its Complaint, Hemphill wrote an 
+article proclaiming, “These were acquisitions that . . . were by a monopolist, of its direct 
+competitors or nascent competitors, with abundant evidence of anticompetitive intent.”  Id. at 
+174:22–175:19.  All of this was before he had been hired as an expert witness.  Id. at 173:15–18. 
+Once Hemphill was brought on, the Court doubts that he weighed the evidence 
+objectively.  Instead, it was almost as if the FTC had put one of its own lawyers on the stand.  
+The Court realizes that parties seek out experts who they expect will reach conclusions that help 
+them, and it cannot demand that parties find some antitrust expert who has never even considered 
+whether the subject company might be a monopoly.  The fact that someone has views on such a 
+question — and might even have published articles on it — is, after all, what makes him an 
+expert and not a desert hermit.  But when Hemphill urged a party to bring this very suit, advised 
+ 58 
+it on litigation strategy, and publicly championed its case before getting hired, it makes a neutral 
+evaluation of his opinions more difficult. 
+The Court nonetheless does not reject such opinions merely because of potential bias.  
+Instead, it explains why they do not persuade on the merits. 
+ii. Cellophane Fallacy 
+Through Hemphill, the FTC insists that the Court cannot trust Meta’s substitution 
+evidence because of the so-called Cellophane fallacy.  See FTC Post-trial Mem. at 34–35.  This 
+principle warns that consumers are more likely to turn to alternatives if a product is already 
+priced above competitive levels, so a monopolist charging a supracompetitive price will appear 
+to face competition that it would not in a competitive market.  See, e.g., Epic Games, Inc. v. 
+Apple, Inc., 67 F.4th 946, 975 n.7 (9th Cir. 2023). 
+While the Court is mindful of this trap, it does not find the fallacy too worrying here.  
+Start with the evidence that Cellophane does not threaten.  It would not affect the order of 
+substitution, which shows that the closest substitutes for Meta’s apps are YouTube and TikTok.  
+Nor does it undermine the amount of substitution to Meta’s products when TikTok or YouTube 
+becomes unavailable.  If anything, Meta’s purported monopoly power would bias those rates 
+down, since consumers would be less likely to switch to an app charging a supracompetitive 
+quality-adjusted price.  It would also not affect evidence from Facebook and Instagram outages, 
+which do not slightly increase the price of Meta’s apps but take them away entirely.  Indeed, if 
+Meta were charging a monopoly price, that might make substitution rates to TikTok and 
+YouTube look misleadingly low: the users most likely to respond to a price increase by 
+switching to a different app already would have, while the ones still clinging to Meta’s apps 
+would be least likely to consider another app an acceptable substitute. 
+ 59 
+At most, then, the Cellophane fallacy makes the Court wary of Meta’s alarm at how 
+much business TikTok was taking from it and of its executives’ perception that YouTube was a 
+serious competitor.  Yet while the Cellophane fallacy fits this general kind of evidence, it does 
+not easily fit this market.  Because Meta’s apps are free, the FTC’s primary theory of a 
+supracompetitive price is that Meta has saturated its apps with ads.  See FTC Post-trial Findings 
+of Fact, ¶¶ 157–63.  Yet those ads have such marginal effects on users’ behavior that is hard to 
+imagine that they are yanking substitution rates around.  See May 13 AM Tr. at 50:23–51:11; 
+May 20 AM Tr. at 36:18–23; DX 342 (News Feed Ad Load Trajectory Deck) at 26.  Consider 
+that Facebook users who downloaded TikTok used Meta’s app 17–26% less.  See DX 535 
+(TikTok Headwinds on FB and IG Deck) at 4.  By comparison, Facebook users who were given 
+a product with no ads whatsoever used the app only 7% more.  See May 13 AM Tr. at 50:23–
+51:11; May 20 AM Tr. at 36:18–23.  It is hard to believe that nudging down the ad load to 
+whatever the FTC considers the competitive level would make substitution rates to TikTok 
+unimportant. 
+Invoking the Cellopha
+ ne fallacy here also puts the cart before the horse.  The fallacy is a 
+risk only if Meta is in fact a monopoly.  Because the FTC’s affirmative evidence does not 
+establish monopoly power, it does not persuade the Court that Facebook and Instagram are 
+charging supracompetitive prices.  The substitution evidence therefore seems reliable here.  Cf. 
+PepsiCo, Inc. v. Coca-Cola Co., 114 F. Supp. 2d 243, 257–58 (S.D.N.Y. 2000) (no risk of 
+Cellophane fallacy when plaintiff had “not submitted any evidence to show that [defendant’s] 
+prices are supracompetitive”). 
+ 60 
+iii. Expansion into New Market 
+The FTC’s next theory is that Meta does not compete in one market but in two.  The 
+agency 
+acknowledges that Facebook and Instagram have added unconnected video and even 
+admits that this option might compete with TikTok and YouTube.  But, the agency rejoins, 
+Meta’s original offering of friend content still has no substitute.  It is instead as “if the only 
+supermarket in a town starts selling pet food.”  FTC Post-trial Mem. at 3.  “[T]he supermarket 
+would find itself in newfound competition with Petco and PetSmart[, b]ut those competitors 
+would not alter the supermarket’s dominance, because consumers cannot patron[ize] pet-store 
+retailers to accomplish the purpose of buying groceries for the week.”  Id. 
+The evidence, however, shows that consumers treat connected and unconnected content 
+as substitutes.  In the FTC’s telling, Meta added Reels to enter a new market where it could 
+poach users from TikTok.  See FTC Post-trial Mem. at 3.  But it was the other way around: 
+people were substituting time from Meta’s apps to TikTok before Meta launched Reels.  See 
+May 12 AM Tr. at 105:18–24; Apr. 16 AM Tr. at 24:19–24; Apr. 17 AM at 31:21–25, 32:17–19.  
+Meta did not create Reels to break into a new market but instead to hang onto its own users who 
+were already flocking to TikTok.  See May 8 PM Tr. at 1634:14–20; May 12 AM Tr. at 69:13–
+24, 70:5–17; May 14 PM Tr. at 261:12–16.  Consumers therefore used TikTok as a replacement 
+not just for unconnected video but for the friends’ posts on Facebook and Instagram that the FTC 
+claims have no substitute. 
+What is more, when Met
+ a experimentally rolled out Reels for some users and not others, 
+the users with Reels spent less time on their Instagram feed and marginally less time on 
+Instagram Stories.  See DDX 36.17 (Reels Holdout Effects); May 21 AM Tr. at 101:22–103:19.  
+They therefore seemed to treat unconnected Reels as a substitute for the parts of the app where 
+ 61 
+they would see posts from their friends.  Those results were consistent with what happened to 
+Meta’s apps when TikTok first gained a foothold: it crimped the growth of time spent on every 
+part of Facebook and Instagram, not just videos.  See Apr. 16 AM Tr. at 19:20–21:2. 
+Similarly, Snapchat found that users were  
+ 
+ 
+  For insta nce, 
+when Snapchat surveyed users about  
+ 
+ 
+  A Snapch at executive confirmed that  
+ 
+ 
+ 
+  Another source of evidence, another confirmation that 
+people use T
+ikTok as a substitute for content from friends. 
+ The Court is the first to admit that seeing a photo from a friend and watching a video of a 
+stranger
+ are different.  Yet like many differentiated products — Chinese and Mexican 
+restaurants, Sprite and Coca-Cola, glass containers and metal cans — they compete. 
+2. Brown Shoe 
+Courts also identify distinct product markets using the factors from Brown Shoe: (1) the 
+products’ “peculiar characteristics and uses,” (2) “industry or public recognition of the 
+
+ 62 
+submarket as a separate economic entity,” (3) “unique production facilities,” (4) “distinct 
+customers, distinct prices [and] sensitivity to price changes,” and (5) “specialized vendors.”  
+Brown Shoe, 370 U.S. at 325.  The parties do not discuss the last factor, so the Court will ignore 
+it as well. 
+Before plunging into the Brown Shoe  factors, the Court notes two preliminary points.  
+First, those factors do not set out a separate inquiry from the one the Court has already been 
+performing.  Rothery, 792 F.2d at 218 & n.4.  The controlling question remains which firms 
+belong in the product market, and that depends on which apps are reasonably interchangeable 
+with Facebook and Instagram.  The Brown Shoe factors approach that same question via a 
+different path, using qualitative evidence as “evidentiary proxies” for whether consumers would 
+in fact substitute between products.  Id. at 218.  Thurman Indus., Inc. v. Pay ’N Pak Stores, Inc., 
+875 F.2d 1369, 1375 (9th Cir. 1989) (“We have repeatedly noted that the Brown Shoe indicia are 
+practical aids for identifying the areas of actual or potential competition and that their presence 
+or absence does not decide automatically the submarket issue.”); see also Whole Foods, 548 F.3d 
+at 1038 (opinion of Brown, J.) (treating Brown Shoe factors and empirical substitution evidence 
+as identical). 
+Second, the Court will avoid some confusing language that these factor s have invited.  
+Courts typically explain that the Brown Shoe factors pick out distinct “submarkets,” which 
+implies that a product market can be further split into cognizable niches.  See Brown Shoe, 370 
+U.S. at 325.  That impression would be misleading.  The only relevant concept is the product 
+market, indivisible as an atom.  Id. (submarkets might be relevant only because they, “in 
+themselves, constitute product markets for antitrust purposes”).  By definition, the product 
+market is already the smallest grouping of products on which a hypothetical monopolist could 
+ 63 
+profitably impose a SSNIP.  Meta, 775 F. Supp. 3d at 36.  If a subcomponent of that market 
+meets that test, then it is not a “submarket” but a product market in its own right.  See Areeda & 
+Hovenkamp, ¶ 533c, at 288–91.  If a subcomponent flunks that test, then it is legally irrelevant, 
+and dignifying it with the name “submarket” adds only confusion.  Id. (exhorting courts to 
+abandon the word “submarket”); see also Geneva, 386 F.3d at 496 (noting these points). 
+Recall that the FTC argues that within social media, two relevant markets exist: one for 
+PSN apps like Facebook, Instagram, and Snapchat, and a separate one for entertainment apps 
+like TikTok and YouTube.  The Court now tests that hypothesis against the evidence to which 
+Brown Shoe points. 
+a. Peculiar Characteristics and Uses 
+This factor will be familiar to any reader who has c ompared products in the aisle of a 
+hardware store.  It asks whether different products have physical or functional differences that 
+make them less likely to be interchangeable.  See Rothery, 792 F.2d at 218 n.4; Brown Shoe, 370 
+U.S. at 326–28.  Of course, it is not enough to find some difference between products.  Any two 
+products will have differences, yet the Supreme Court has rejected the notion that “Brown Shoe 
+w[as] intended to limit the competition protected by [antitrust law] to competition between 
+identical products.”  Cont’l Can, 378 U.S. at 452; see also du Pont, 351 U.S. at 394 (“[I]llegal 
+monopoly does not exist merely because the product said to be monopolized differs from others.  
+If it were not so, only physically identical products would be a part of the market.”).  The Court 
+therefore considers how Meta’s apps differ from TikTok and YouTube but also how important 
+those differences are in the context of the overall apps.  See Brown Shoe, 370 U.S. at 326 (asking 
+ 64 
+whether this factor showed that product’s “characteristics peculiar to itself render[ed] it generally 
+noncompetitive with the others” at issue). 
+i. Peculiar Characteristics 
+The FTC first points out that PSN apps all f eature a so-called social graph — a map of 
+each user’s connections to other people on the app, whom the user usually knows in real life.  
+See Apr. 14 PM Tr. at 162:7–163:8; Apr 23 AM Tr. at 85:4–86:18; Apr. 30 AM Tr. at 46:1–10; 
+May 8 AM Tr. at 66:25–67:9, 70:4–71:1, 106:13–15; May 12 PM Tr. at 226:20–227:8; Jacob 
+Andreou Deposition at 182:8–11; PX 729 (People You May Know Explanation) at 1–3.  They 
+use this graph to curate the content that each user sees.  Think of Facebook’s Feed showing you 
+someone’s picture because you are friends with her or Instagram showing you a Story because 
+you followed the account that posted it.  See Apr. 14 PM Tr. at 170:9–13; May 14 PM Tr. at 
+255:13–20; Andreou Dep. at 183:3–184:15 (without friend graph, Snapchat “can’t deliver any 
+value” to user).   
+By contrast, TikTok and YouTube are built around a content graph — a map of the
+  topics 
+that a user is interested in.  See Apr. 17 PM Tr. at 172:20–173:7, 174:7–14; Apr. 30 AM Tr. at 
+46:11–25, 47:10–21; Blake Chandlee Deposition at 17:07–18:03; PX 13616 (TikTok Talking 
+Points) at 3.  Both apps use this content graph to recommend posts to users.  See Apr. 16 AM Tr. 
+at 37:14–23; Apr. 17 AM Tr. at 173:3–7; Apr. 23 AM Tr. at 95:12–21; Apr. 30 AM Tr. at 38:11–
+17; PX 13616 (TikTok Talking Points) at 3; PX 11525 (2019 Top Social-Media Trends Deck) at 
+23. 
+True enough, but TikTok has a social graph, too.  It lets user
+ s follow people they know 
+and has tried to make mapping those offline connections a bigger part of the app.  It prompts 
+users to import their list of Facebook and Instagram friends as well as their phone contacts, see 
+ 65 
+Apr. 30 AM Tr. at 57:21–58:5; May 12 AM Tr. at 55:12–20, 72:8–10, which it uses to suggest 
+accounts to follow that belong to people the user knows.  See Apr. 30 PM Tr. at 151:20–152:6.  
+TikTok has also added a Friends tab, which contains only posts created or reshared by accounts 
+that the user follows and that follow  the user back.  See Apr. 30 AM Tr. at 90:16–91:1.   
+ 
+ 
+ see also D
+X 535 (Tik Tok Headwinds on FB and IG Deck) at 16 (Meta noting that TikTok is 
+building “[s]ocial graph”); PX 3827 (Aug. 2022 Meta Email Thread) at 2 (Alison noting that 
+“TikTok [is] pushing so hard into friending and friend sharing[;] . . . we are not the only 
+company working on blending recommendations and socially connected content”); DX 922 
+(TikTok Project Blue Summ.) at 19 (“Meta is concerned that the moat around its core 
+differentiator, the social graph, is getting weaker as Tiktok Friends tab and messaging 
+functionality continues to gain traction.”). 
+To be sure, TikTok’s social graph has not achieved great success.  A TikTok e
+ xecutive 
+estimated that fewer than 10% of users import their contacts.  See Apr. 30 AM Tr. at 58:6–17.  
+Meanwhile, users spend only about 1% of time on the app watching videos in the Friends tab.  
+Id. at 56:13–21; Pappas Dep. at 23:3–24:14. 
+Then again, these features are now also ancillary on Facebook and Instagram.  Content 
+from friends that is delivered through a social graph is a tiny minority of what users see on 
+Meta’s apps.  See DX 1152 (Jan. 2025 Facebook Surface Breakdown); DX 1153 (Jan. 2025 
+Instagram Surface Breakdown).  Instead, they overwhelmingly use the apps to see unconnected 
+content recommended by AI algorithms.  Id.  That feature is identical to the core of TikTok and 
+
+ 66 
+YouTube.  While social features are relatively more important on Facebook and Instagram, both 
+apps’ primary features are found on these two rivals. 
+Also probative is the fact that Meta’s apps, Snapchat , TikTok, and YouTube all 
+deliberately copy each other.  See May 8 AM Tr. at 107:23–108:4; May 12 AM Tr. at 38:15–
+39:11; May 15 AM Tr. at 22:2–23:4.  Meta’s Reels and YouTube’s shorts are transparent clones 
+of TikTok, as is Snapchat’s Spotlight feature.  See DX 1088 (TikTok Resp. to Australian 
+Regulators) at 3; Pappas Dep. at 55:19–20; Morrison Dep. at 85:16–19; May 15 AM Tr. at 
+22:17–23:7; May 15 PM Tr. at 265:12–19; May 19 AM Tr. at 53:7–9; Chandlee Dep. at 68:16–
+69:12.  Snapchat first popularized stories, and Facebook, Instagram, and TikTok added identical 
+versions.  See Apr. 30 AM Tr. at 89:8–20; May 8 PM Tr. at 181:18–182:13; May 12 AM Tr. at 
+38:19–22; Chandlee Dep. at 68:13–15.  Even YouTube tried its hand at a stories feature.  See 
+May 8 PM Tr. at 182:10–11.  TikTok’s addition of a social graph incorporates the feature that 
+rocketed Facebook and Instagram to global popularity.  See Apr. 16 AM Tr. at 21:3–23; Apr. 29 
+PM Tr. at 196:22–197:10; May 8 AM Tr. at 105:14–22; May 12 AM Tr. at 71:12–25.   
+The apps also compete to attract the same content creators.  See Apr. 15 PM Tr. at 
+151:18–23; Apr. 16 AM Tr. at 36:13–37:10; Apr. 30 PM at 171:22–23; May 8 PM Tr. at 174:2–
+176:19; PX 12669 (FB App Strategy Thread) at 5.  Those creators often post the same video to 
+multiple platforms, as an Instagram Reel, a TikTok video, and a YouTube short.  See Apr. 17 
+PM Tr. at 192:1–6; May 8 PM Tr. at 175:5–10. 
+When apps inside and outside the FTC’s alleged market are delib erately offering the 
+same features and competing to get the same people to post the same videos, that is strong 
+evidence that that they are competing for the same users who are after the same things.  See May 
+ 67 
+21 AM Tr. at 68:6–20.  It is also evidence that while these apps do indeed have distinguishing 
+features, the identical ones predominate. 
+ii. Peculiar Uses 
+Still hunting for differences, the FTC arg ues that people use Facebook, Instagram, and 
+Snapchat for distinct reasons.  For one, they have norms of sharing personal content for others to 
+see.  People find it natural to post a vacation photo to Instagram or a life update to Facebook, but 
+they are far less likely to share moments from their daily life on TikTok or YouTube.  See May 8 
+AM Tr. at 92:7–17; Chandlee Dep. at 21:3–16; Apr. 23 PM Tr. at 143:13–144:7; May 12 PM Tr. 
+at 216:2–20; PX 13564 at 13.  
+That is indeed a difference between the apps; once aga
+ in, it is a minor one.  People 
+seldom post on Facebook or Instagram these days.  See May 15 AM Tr. at 13:17–21 (“[F]or 
+most people, [Facebook] is a consumption experience.”); May 7 AM Tr. at 70:7–18; May 8 AM 
+Tr. at 65:20–22, 87:7–11; May 14 PM Tr. at 176:14–177:11, 217:24–218:18, 221:5–9; May 15 
+AM Tr. at 11:9–23; DX 600 (Facebook U.S. Long-Term Themes Deck) at 5.  On a given day, 
+only about  active Facebook users shares an original post in Facebook’s News Feed , and 
+ posts a
+n original story.  See May 15 AM Tr. at 84:11–17; DDX 29.2 
+(Participation Rates); see also May 15 AM Tr. at 12:1–6 (explaining participation rates).  Over 
+on Instagram, “maybe 1 in 40 or 30 people a day will post something to Feed, and about 1 in 6, 1 
+in 7 will post something to Stories.”  May 8 AM Tr. at 32:14–16.   
+Instead, the dominant way that people use Meta’s apps to connect w
+ ith friends is by 
+sharing content in private messages or texts.  See DX 606 (Instagram U.S. Teen Messaging 
+Deck) at 4; DX 585 (Facebook Board Meeting Deck on Messaging) at 3, 6; DX 517 (Mosseri 
+Post on Meaningful Social Interactions) at 2; May 8 AM Tr. at 118:13–22; PX 708 (Mosseri 
+
+ 68 
+Interview) at 10.  As of 2018, there were 63 times as many Facebook messages per day as posts.  
+See DX 517 (Mosseri Post on Meaningful Social Interactions) at 2.  Even when Meta’s users 
+want to share a picture with friends, they do so overwhelmingly using direct messages: 
+ 
+DX 585 (Fa
+cebook Board Meeting Deck on Messaging) at 6  
+(title reformatted and image rescaled for clarity) 
+The dominant way that people use Meta’s apps to share with friends is therefore the same way 
+they share content from TikTok or YouTube. 
+ The FTC tries one last angle.  Its expert Clifford Lampe testified that survey responses 
+and social norms show that people use Facebook, Instagram, and Snapchat to connect with 
+friends, but open TikTok and YouTube to be entertained.  The Court found none of this 
+persuasive. 
+ Starting with the surveys, they are far more mixed than the FTC lets on.  For instance, it 
+turns out t
+hat TikTok is fairly social.  In one survey, when asked why they used TikTok, 51% of 
+respondents chose, “To watch videos posted by my friends.”  DX 584 (Facebook Deck on How 
+People Share Across Social Platforms in U.S.) at 48.  That answer was essentially tied for first, 
+neck and neck with “[t]o watch videos from the creators I follow” (53%) and “[t]o watch videos 
+recommended by TikTok” (52%).  Id.  Another survey found that people were more likely to 
+report that they used TikTok to “[s]tay connected with others” than they were for Instagram.  See 
+
+ 69 
+DX 952 (Social Media Landscape Quantification Deck) at 12.  The same survey found that 
+people said interacting with “[f]riends, family, and other people I know” was more important on 
+TikTok than on Instagram.  Id. at 22.  Indeed, Instagram is less social than the FTC thinks.  In 
+one survey, more people said they use it for entertainment than to keep up with friends and 
+family.  See Apr. 23 PM Tr. at 195:4–12. 
+ To be fair , the totality of the survey evidence suggested that Americans considered at 
+least Facebook and Snapchat to be more social than TikTok.  But this evidence was mixed at best 
+and, even when read charitably, at most showed a difference of degree and not one of kind. 
+ The evidence about social norms also had problems.  For one, norms can change.  Sure 
+enough, as dis
+cussed above, they have changed in ways that have brought all four social-media 
+apps together.  In addition, much of the FTC’s evidence — for both surveys and norms — was 
+outdated.  See Apr. 14 PM Tr. at 153:7–154:16 (discussing post from 2006); PX 292 (Facebook 
+S-1) at 1, 78 (statement from 2012); PX 48 (Building a Better News Feed for You 
+Announcement) at 2 (post from 2016); PX 3431 (Facebook Research Insights Post on 
+Understanding Value Prop of Social Apps) at 1 (survey from 2017); PX 794 (Zuckerberg Post) at 
+1 (post from January 2018); PX 12991 (Aug. 9, 2018, Product Territories of Family of Apps in 
+United States Deck) at 8 (survey from July 2018); PX 12333 (Mosseri Talking Points) at 2 
+(talking points from January 2018); PX 14986 (Cathcart-Zuckerberg Email Thread) at 1 (email 
+from July 2018); PX 12992 (Aug. 21, 2018, Product Territories of Family of Apps in United 
+States Deck) at 4, 44, 73 (deck from August 2018); PX 12993 (Facebook User Goals and Intent 
+Survey) at 1, 3 (survey from August 2018). 
+ Lampe also conceded points that make the survey and norm evidence seem rather otiose .  
+Were th
+ese differences ones of degree or of kind?  He could not really say, having asked only 
+ 70 
+whether the apps had differences at all.  See Apr. 23 PM Tr. at 160:17–161:2.  Did his analysis 
+of why people use these apps consider how they actually spend their time on them?  Nope.  Id. at 
+190:15–191:11, 193:12–194:2.  Did he study how consumers would respond to changes in one 
+app’s price?  “That’s not a question in my field . . . , so no.”  Id. at 265:20–23.  Did the evidence 
+give him an opinion on whether Meta’s apps compete with TikTok and YouTube?  No; “[m]y 
+field doesn’t look in terms of competition.”  Id. at 265:9–17. 
+ The field of antitrust law does.  In it, eyeballing the apps and looking at some surveys 
+does not produce evidence remotely as useful as examining actual consumer behavior.  Turning 
+to that question, whatever users say they are doing and whatever differences an expert might pick 
+out between screenshots of the apps, the facts are that people spend a tiny share of their time on 
+Meta’s apps viewing content from their friends and a far greater share watching Reels.   See DX 
+1152 (Jan. 2025 Facebook Surface Breakdown); see DX 1153 (Jan. 2025 Instagram Surface 
+Breakdown).   
+Meta’s apps are primarily recommendation systems hooked onto messaging tools.  Their 
+character
+istics and uses are hardly peculiar. 
+b. Industry or Public Recognition 
+This factor looks at whether industry pa rticipants think that the proposed submarket 
+really is “a separate economic entity.”  Brown Shoe, 370 U.S. at 325.  “[E]conomic actors 
+usually have accurate perceptions of economic realities,” Rothery, 792 F.2d at 218 n.4, so if 
+those actors think that another firm competes in or outside their own market, they are probably 
+right.  Because market definition depends on competition, courts applying this factor pay 
+particular attention to which products and companies a firm considers its competitors.  FTC v. 
+ 71 
+Staples, Inc., 970 F. Supp. 1066, 1079–80 (D.D.C. 1997); United States v. SunGard Data Sys., 
+Inc., 172 F. Supp. 2d 172, 187–88 (D.D.C. 2001); Geneva, 386 F.3d 485 at 498. 
+The FTC rests on a claim that industry participants consider PSN apps a different kind of 
+platform.  That is largely true: in internal and external discussions, industry experts typically 
+agreed that Facebook and Instagram let users keep up with friends, that TikTok and YouTube are 
+less effective at this, and that this makes them different options.  See PX 15043 (Twitter 
+CorpDev Discussion) at 4; Apr. 28 AM Tr. at 35:1–22; Apr. 30 AM Tr. at 40:24–43:8; PX 13581 
+(ByteDance Resp. to European Commission) at 5–6, 8–10; DX 856 (The Magic of Reddit: 
+Insights Report) at 10; Chandlee Dep. at 17:07–18:09, 20:21–21:16; Morrison Dep. at 190:22–
+192:21; Pappas Dep. at 14:10–15:10; 22:4–24:14; 88:05–89:07.  That said, many industry 
+executives make no such distinction and consider our four apps, and others, part of a single 
+category.  See DX 855 (Reddit Competitive Benchmarking Analysis) at 7 (considering market of 
+“leading social media platforms,” including Facebook, Instagram, and TikTok); DX 771 (Google 
+Executives Email Thread) at 3 (studying “major social platforms” and including Facebook, 
+Instagram, Snapchat, and TikTok); DX 1071 (Google Resps. to European Commission) at 5–6 
+(rejecting idea that there is “single industry definition of a social networking service” but saying 
+that if there were, TikTok would be included); Apr. 24 PM Tr. at 149:6–150:5; Jonathan Chen 
+Dep. at 19:15–21:10, 23:13–24:20, 25:16–27:07; Kumaresh Pattabiraman Deposition at 36:10–
+37:04; Apr. 17 PM Tr. at 198:5–199:19; 202:17–20; DX 606 (Instagram U.S. Teen Messaging 
+Deck) at 4 (comparing Instagram and TikTok as part of single market); DX 965 (Walmart 
+Connect Q3 Competitive Update) at 10; May 20 PM Tr. at 231:16–232:1. 
+Either way, whether industry experts recognize different categories of apps is not 
+primarily th
+e point.  More important is “industry or public recognition of the submarket as a 
+ 72 
+separate economic entity,” Brown Shoe, 370 U.S. at 325 (emphasis added) — that is, recognition 
+that the submarket is its own competitive realm.  See Staples, 970 F. Supp. at 1079–80 (applying 
+this factor by asking which rivals firms considered their competition); SunGard,172 F. Supp. 2d 
+at 187–89 (same); Geneva, 386 F.3d 485 at 498 (same); see also Reynolds Metals Co. v. FTC, 
+309 F.2d 223, 229 (D.C. Cir. 1962) (looking to whether firms’ economic behavior, like pricing 
+and purchasing practices, showed that they responded to putatively separate markets); Rothery, 
+792 F.2d at 218 n.4 (this factor susses out “economic realities”). 
+Here, the evidence overwhelmingly shows that indus try insiders think that TikTok and 
+YouTube compete with PSN apps.  Documents and testimony from these people noted this 
+competition.  See  
+ 
+ DX 947 (X Q3 ’ 21 
+Competitive Earnings Analysis) at 9 (noting “shift” in Instagram “driven by stiff competition 
+from TikTok and YouTube”); DX 933 (TikTok 2021 July–Aug. Bimonthly Report) at 3 
+(“YouTube and Instagram are TikTok’s most important competitors.”);  
+ DX 931 (TikTok Le
+ adership Townhall) at 4 (similar); 
+DX 917 (TikTok’s Reels Post-Launch Resp.) at 2–3;  Chandl ee Dep. 
+at 68:16–73:20, 77:10–20; Apr. 17 PM Tr. at 206:2–19 (discussing Google document saying that 
+TikTok and YouTube compete with Facebook), 206:23–209:11; Apr. 30 AM Tr. at 108:1–109:8; 
+Apr. 30 PM Tr. at 134:7–137:15; Pappas Dep. at 37:21–39:1; Debbie Weinstein Deposition at 
+241:9–242:17.  TikTok and YouTube tracked Meta’s products as competitive threats.  See DX 
+766 (YouTube Quarterly Industry Update) at 5; DX 782 (YouTube Facebook Competitive 
+Teardown); DX 917 (TikTok’s Reels Post-Launch Resp.) at 2–3; DX 922 (TikTok Project Blue 
+
+ 73 
+Summ.) at 14; DX 932 (TikTok 2022 Mar.–Apr. Bimonthly Report) at 5; Weinstein Dep. at 
+336:1–338:13; Apr. 17 PM Tr. at 212:14–213:5 (YouTube executive could not recall single 
+competitive report that omitted Facebook and Instagram).  Both companies also monitored 
+Meta’s share of what they deemed the market.  See DX 766 (YouTube Quarterly Industry 
+Update) at 5; DX 768 (YouTube Quarterly Industry Deep Dive) at 6; DX 931 (TikTok 
+Leadership Townhall) at 4; DX 932 (TikT
+ ok 2022 Mar.–Apr. Bimonthly Report) at 4–5;  
+ 
+Meta itse
+lf has no doubt tha t TikTok and YouTube compete with it.  Its executives 
+unsurprisingly testified to that belief.  See Apr. 16 AM Tr at 36:13–37:10; Apr. 16 PM Tr. at 
+274:6–275:7; May 1 PM Tr. at 183:5–10; May 8 PM Tr. at 163:14–20, 179:2–16; May 12 AM 
+Tr. at 62:19–63:4, 65:16–20, 68:14–69:1, 83:11–83:24; May 15 AM Tr. at 15:12–14.  More 
+persuasively, business documents created outside litigation reflect a consistent and urgent focus 
+on TikTok’s competitive threat.   For instance, Zuckerberg told investors, “Competition has 
+gotten more intense, especially with . . . the rise of TikTok which is one of the most effective 
+competitors we have ever faced.”  DX 922 (TikTok Project Blue Summ.) at 22 (omission in 
+original); see also DX 650 (May 2020 Raji Email) at 1 (“TikTok in the US is a much bigger 
+threat to our entire family of apps.”); DX 660 (IG Metric Softness Deck) at 6 (“Competition 
+from TikTok is a big concern[.]”); DX 663 (Meta Executive Chat Thread) at 1 (“TikTock [sic] 
+competition really matters . . . TikTock [sic] is the best competitor yet and this is what really 
+competing feels like . . . . [W]e have the best competitor we’ve seen in a long way.”); DX 1018 
+
+ 74 
+(Sep. 2020 Meta Board Meeting Deck) at 15; PX 3827 (Aug. 2022 Meta Email Thread) at 2; PX 
+12669 (FB App Strategy Thread) at 5.   
+Meta obsessively tracks TikTok’s s trategy and success.  See, e.g., DX 535 (TikTok 
+Headwinds on FB and IG Deck) at 14–16; May 12 AM Tr. 116:9–120:4.  Schultz, Meta’s Chief 
+Marketing Officer and Vice President of Analytics, testified t hat he and his colleagues  
+ 
+ 
+ 
+ 
+ 
+ The balan
+ce of the persuasive evidence, then, shows that industry participants recogni ze 
+that Facebook, Instagram, and Snapchat differ from TikTok and YouTube in important ways, but 
+it also shows that they recognize that the apps compete.  The second fact is more probative of 
+whether there is “industry . . . recognition of the submarket as a separate economic entity,” 
+Brown Shoe, 370 U.S. at 325, so this factor also weighs against the FTC’s proposed market. 
+c. Unique Production Facilities 
+ The next factor  fits the  digital world awkwardly, but its spirit asks whether firms outside 
+the proposed market could quickly enter or whether their current production technology would 
+need to be overhauled.  See Rothery, 792 F.2d at 218 (explaining cross-elasticity of supply).  In 
+other words, how much would TikTok and YouTube need to change to produce an app like 
+Facebook, Instagram, or Snapchat? 
+ Not much at all.  As emphasized above, the apps are already quite similar.  True, to the 
+extent th
+at TikTok or YouTube wanted to replicate a traditional social network, they would need 
+
+ 75 
+lots of people using them socially to create network effects.  See PX 1136 (Zuckerberg Email 
+Exchange) at 3; PX 1204 (Facebook Top Investor Questions Talking Points) at 2–3; PX 14319 
+(Facebook Roadshow Talking Points) at 5; PX 15200 (May 2016 Meta Executives Email 
+Thread) at 2; PX 11304 (Google Executives Email Thread) at 4; DX 1317 (Snapchat Board 
+Product Update) at 2; Apr. 14 PM Tr. at 194:6–15; Apr. 16 AM Tr. at 48:15–25.  Yet both apps 
+have already achieved that scale, even if not as many users people use them to connect with 
+people they know.  See Apr. 30 AM Tr. at 65:22–25 (TikTok had over  monthly 
+active users in United States at start of this year); DDX 24.15 (App Monthly Active Users). What 
+is more, as Meta’s apps have transitioned to focus on unconnected, recommended content, the 
+experience depends less and less on having friends who post content and view your posts.  See 
+Apr. 16 AM Tr. at 53:15–54:14; May 14 AM Tr. at 17:2–7; May 27 PM Tr. at 136:17–137:23.  
+Instead, the key inputs are a library of content and an advanced algorithm to recommend it.  
+TikTok and YouTube already have both. 
+ Apps inside and outside the FTC’s proposed market thus share similar raw ingredients 
+and simil
+ar technology to build them into similar experiences.  This factor cuts against the 
+agency. 
+d. Distinct Customers, Prices, and Sensitivity to Price Changes 
+The fourth factor also f avors Meta.  First, the customers of its apps, YouTube, and 
+TikTok are not distinct.  “[P]eople are . . . using every app.”  May 12 PM Tr. at 175:18–176:4.  
+In fact, most customers of each app are also customers of all the others.  Id. at 175:11–17 (there 
+are about 250–300 million Americans older than 13); id. at 175:8–10 (240 million Americans use 
+Facebook each month); id. at 173:2–4 (about 225 million Americans use Instagram each month); 
+Apr. 30 AM Tr. at 65:22–25 (more than  Americans  use TikTok each month); DDX 
+
+ 76 
+24.15 (App Monthly Active Users) (more than  people in United States and Canada 
+use YouTube each month).   
+The price of all these app s is identical: $0.  See Apr. 15 PM Tr. at 221:22–24, 227:24–
+228:1.  Finally, undisputed evidence suggests that if Meta tried to raise its sticker price, users 
+would flee.  Id. at 224:22–225:23; see also May 1 PM Tr. at 163:22–164:13 (almost nobody 
+willing to pay for ad-free version). 
+e. Overall Assessment 
+The FTC c
+ontends that Facebook, Instagram, and Snapchat form a distinct market that 
+can be ide
+ntified by those apps’ unique features.  While those apps certainly show some distinct 
+markings, they mostly resemble two other social-media apps that the FTC insists must be 
+excluded: TikTok and YouTube.  Their dominant features are identical, people mostly use all 
+four to watch unconnected content that they can send in direct messages, industry participants 
+agree that the apps belong in the same competitive market, they use similar resources and 
+technologies, and they charge the same price to the same customers. 
+* * * * * 
+Even when considering only qualitative evidence, the Court finds that Meta’s apps are 
+reasonabl
+y interchangeable with TikTok and YouTube.  Moreover, that evidence must be 
+considered in light of the widespread substitution between these apps.  The Brown Shoe factors 
+“necessitate, rather than avoid, careful consideration based upon the entire record.”  Cont’l Can, 
+378 U.S. at 449; see also Geneva, 386 F.3d at 496 (“The emphasis always is on the actual 
+dynamics of the market . . . .”).  After all, it was Brown Shoe that declared that courts must 
+“recognize competition where, in fact, competition exists.”  370 U.S. at 326.  Taking all the 
+evidence together, it shows that personal social networking is not a separate product market.  
+
+ 77 
+Instead, Meta competes in the market for social media, and that market includes — at minimum 
+— TikTok and YouTube as well. 
+3. Whole Foods 
+Faced with that evidence, the FTC offers one last argument: a subset of users cares 
+especially about friend sharing, they have no substitute for Facebook and Instagram, and Meta 
+exploits this smaller group by targeting them with a higher ad load.  See FTC Post-trial Mem. at 
+12, 22–23.  Plaintiff thinks that this makes our case like FTC v. Whole Foods Market.   
+In that case, the D.C. Circuit found that Whole Foods occupied a market for “premium 
+natural and organic supermarkets” separate from conventional grocery stores.  Whole Foods, 548 
+F.3d at 1041 (opinion of Brown, J.); id. at 1042 (Tatel, J., concurring in the judgment).  Writing 
+only for herself, Judge Janice Rogers Brown explained that while some shoppers might substitute 
+between those premium organic stores and any old supermarket, a group of “core customers” 
+would not, and premium organic stores like Whole Foods exploited those captive costumers by 
+charging higher prices.  Id. at 1038–40 (opinion of Brown, J.).  By analogy, the FTC reasons, 
+even if users in general might swap out time on Facebook and Instagram for time on TikTok and 
+YouTube, a group of core Meta users wants to see content from their friends, cannot get it 
+elsewhere, and Meta exploits that by showing them a higher ad load.  See FTC Post-trial Mem. at 
+12, 22–23. 
+Never mind that Judge Brown’s opinion did not command a majority.  Set aside the fact 
+that it ha
+s never been adopted by the D.C. Circuit.  And ignore the obstacle that because the 
+Whole Foods court was not statutorily authorized to decide whether the proposed merger would 
+actually violate the antitrust laws, Judge Brown’s opinion would have held only that the FTC had 
+raised serious enough “questions going to the merits . . . as to make them fair ground for” a more 
+ 78 
+“thorough investigation.”  Whole Foods, 548 F.3d at 1035 (opinion of Brown, J.) (quotation 
+marks omitted).  Even on its own terms, the Whole Foods analogy does not work. 
+For one, the sign of a product market is that a monopolist could charge a significantly 
+higher price.  See id. at 1038.  So if there were a separate market for users who cared about 
+friend content, then that market’s borders must be shown by significant differences in price.  It is 
+hard to imagine that is true here.  Remember, Facebook and Instagram are free no matter how 
+much someone values friend sharing.  The FTC thus frames price discrimination as offering a 
+lower-quality app to some users.  But quality mostly does not vary across users: apps have the 
+same features, layout, speed, reliability, and privacy practices for everyone.  See May 21 AM Tr. 
+at 72:2–13.  The only aspect of quality that varies is ad load, see May 14 AM Tr. at 91:15–18, 
+but, as discussed above, users barely seem to mind more ads.  When removing ads entirely 
+caused users to spend only 7% more time on Facebook, see May 13 AM Tr. at 50:23–51:11; 
+May 20 AM Tr. at 36:18–23, and cutting ad load in half for the most ad-sensitive users was 
+expected to increase their Facebook sessions by only 1%, see PX 12501 (May 2021 Meta 
+Executives Email Thread) at 1, 3–4, it is hard to see how presumably smaller variations in ad 
+load could possibly constitute a significant difference in price.  Sure enough, Hemphill, who put 
+forward this theory, admitted that he could not measure whether users faced significant price 
+differences.  See May 27 AM Tr. at 46:4–47:7. 
+The FTC’s theory also fails for a more old-fashioned reason: it is contradicted by the 
+evidence.  As discussed earlier in this Opinion, Meta no doubt shows a higher ad load to some 
+users than others.  The FTC’s claim, however, is that the company bases this discrimination on 
+how much users value friend sharing.  Meta’s executives unanimously testified that it does not.  
+See May 1 AM Tr. at 62:21–63:10; May 1 PM Tr. at 180:21–183:5; May 12 PM Tr. at 149:11–
+ 79 
+150:8; May 15 AM Tr. at 24:4–8.  True, Meta might achieve this effect indirectly: users who 
+especially value seeing their friends’ Facebook and Instagram posts might tolerate a higher ad 
+load, and Meta’s algorithm might sense this and show them more ads.  But that account is also at 
+odds with the record. 
+The FTC claims that parts of Meta’s apps
+  with more friend content have higher ad loads 
+— for instance, Facebook’s Feed has a higher ad load than Facebook Reels.  See May 13 AM Tr. 
+at 17:3–15.  When comparing all features, however, there is no consistent relationship between 
+the share of friend content and the ad load.  See DX 1203 (Facebook Friend Content and Ad 
+Load by Surface).  For instance, the Facebook feature with the highest share of friend content is 
+Stories, yet it has a lower ad load than the main Facebook Feed.  Id.  The feature with the lowest 
+share of friend content is Facebook Watch; it has a higher ad load than Stories.  Id. 
+ 
+DDX 36.30 
+ Against this broader view, Hemphill offers only one comparison: Feed and Stories have a 
+higher ad l
+oad than Reels.  See May 13 AM Tr. at 17:2–11, 17:25–18:2; May 27 AM Tr. at 52:5–
+
+ 80 
+13.  Yet even that fact does not justify his conclusion.  Instead, the evidence suggests that Reels 
+has a lower ad load because it is new and Meta wants to get people using it.  John Hegeman, 
+Meta’s Chief Revenue Officer, see May 1 AM Tr. at 77:18–19, explained that “when a new 
+surface is introduced, we’ll often start with a fairly low ad load, and then we’ll take time to 
+carefully figure out how can we best introduce ads in a way that doesn’t disrupt the user 
+experience.”  May 1 PM Tr. at 181:14–25.  Meta’s rivals understood its strategy this way; for 
+example, an internal TikTok document noted that “Facebook has primarily focused on growing 
+Reels user adoption and engagement in the short-term, rather than monetization.”  DX 922 
+(TikTok Project Blue Summ.) at 14. 
+ That matches Meta’s approach in the past — in regar
+ d to Facebook’s mobile app, for 
+instance.  As people were shifting to using the platform on their phones, a company document 
+stated that “we currently don’t monetize mobile in a meaningful way.”  PX 1204 (Facebook Top 
+Investor Questions Talking Points) at 11.  “Our strategy . . . has always been to build the best 
+experience for users first and drive user engagement which leads to downstream monetization 
+opportunities and the most long-term value for our business.”  Id.  Once the mobile app had won 
+a foothold, Meta squeezed it for all it was worth.  See May 13 AM Tr. at 13:7–19 (ad load on 
+Facebook’s mobile feed tripled from 2014 to 2022); Apr. 17 AM Tr. at 15:8–14 (Meta was 
+“[v]ery” successful in monetizing mobile because “we first built a consumer product on mobile 
+that they were happy with and engaging, and then we added ads in”); Apr. 16 PM Tr. at 225:17–
+226:25; May 12 AM Tr. at 77:2–14.  Meta did the same thing with Stories.  They started out with 
+almost no ads; then Meta cranked up the ad load.  See May 12 AM Tr. at 77:11–14; May 13 AM 
+Tr. at 11:23–12:1. 
+ 81 
+ In the context of that pattern, the low ad load on Reels seems linked to its novelty, not its 
+share of friend content.  Meta’s ordinary-course documents reinforce this interpretation.  Schultz 
+told other Meta executives that the shift to Reels was costing Meta money because “we have to 
+provide consumers the formats they want first and monetize second.”  DX 663 (Meta Executive 
+Chat Thread) at 1.  “Engagement is shifting formats to one that hasn’t got significant ad load 
+yet . . . .”  Id. (emphasis added); see also May 1 PM Tr. at 181:24–25 (“[W]e expect . . . to ramp 
+up the ad load on Reels over time.”).  In fact, Meta has already started raising the ad load on 
+Reels.  See May 13 AM Tr. at 17:4–6. 
+ Facebook’s Friends tab offers an almost perfect test.  It is a feature that Facebook just 
+launched that shows only content from a user’s friends.  See PX 796 (Friends Tab 
+Announcement) at 2.  If the FTC’s price-discrimination hypothesis were right, it should be 
+choked with ads.  If Meta’s story were right, this new feature’s ad load should be low.  The 
+Friends tab has no ads at all.  See May 15 AM Tr. at 24:9–12; see also id. at 24:14–25:3 (“[T]he 
+friends tab is still a new product.  So when we are building a new product, we . . . want to first 
+prioritize making sure that people actually want to use the product” before ramping up ad load.).  
+In sum, Meta’s feature-level ad load does not show price discrimination against users who value 
+friend content. 
+ Judge Brown’s Whole Foods opinion is nonbinding and tentative, and the Court doubts 
+that marginal differences in ad load add up to significant differences in quality-adjusted price.  
+Even setting those doubts aside, the evidence shows that Meta does not discriminate against 
+users who value friend content.  This last FTC rebuttal thus falls by the wayside. 
+ 82 
+E. Monopoly Power 
+In assessing Meta’s monopoly power, the Court considers a market that comprises 
+Facebook, Instagram, Snapchat, MeWe, TikTok, and YouTube.  Monopoly power depends on 
+whether the company can profitably and sustainably charge a price significantly above 
+competitive levels.  Microsoft, 253 F.3d at 51.  Courts typically use the defendant’s market share 
+as an observable proxy for that unobservable fact.  See Reazin v. Blue Cross & Blue Shield of 
+Kan., Inc., 899 F.2d 951, 967 (10th Cir. 1990).  The Court first explains how it will measure 
+market share in this novel market, then evaluates whether Meta’s share shows monopoly power. 
+1. Measuring Market Share 
+When com
+panies sell a product for a price, calculating their market share is 
+straightforward.  Because the apps in this case are free, however, measuring their market share is 
+trickier.  The obvious candidates are total time spent on each app or total users, which in turn can 
+be measured as daily or monthly active users. 
+In the Court’s view, the best single measure of market share is total time spent.  For one, 
+that statis
+tic makes the most analytic sense.  Because Facebook, Instagram, Snapchat, TikTok, 
+and YouTube are all free, people often use all five apps, which pulls each one’s market share 
+toward an uninformative tie.  See May 12 PM Tr. at 175:18–176:4.  Measuring the market by 
+number of users, then, would ensnare the Court in a mess of double counting.  Id.  Time spent 
+avoids this problem.  It also captures the intensity of use: if someone spends two minutes on 
+Instagram and two hours on TikTok, she should not count as an equal user of each. 
+Plus, time spent is the best  proxy for what drives these apps’ revenue: ads.  The more 
+time someone spends on an app, the more ads it can show him, and the more money it will make.  
+See Apr. 17 AM Tr. at 11:17–21; May 8 PM Tr. at 265:21–266:3 (“[W]e show a certain number 
+ 83 
+of ads per hour and if you have less hours, you show less ads.”);  
+ 
+ May 21 PM Tr. at 154:20–155:2; PX 12664 (Meta Project Bluejay 
+Update) at
+ 7, 54.   
+It also matches how the companies themselves think about competition.  Their 
+executives
+’ testimony and ordinary-course documents reveal that they understand themselves to 
+be competing for users’ time, not competing to get people to use their app at all.  See May 1 PM 
+Tr. at 182:18–24 (people are “unlikely to stop using [Facebook or Instagram] altogether”; they 
+will just spend less time on the app “even in a case where they wouldn’t choose to stop using the 
+product entirely”); May 12 PM Tr. at 175:21–176:4 (“TikTok, YouTube, Facebook, and 
+Instagram in the U.S.” have all signed up most Americans already, so “the competition is about 
+marginal time.”); Chen Dep. at 21:13–19 (Q: “[W]hat did Twitter compete with Facebook over?  
+What was the point of competition between the two companies?”  A: “I would say we competed 
+over the time share of people or users on consumer social platforms.”), 24:21–25:03, 27:09–11; 
+DX 885 (2022 Snapchat Stories Research Deck) at 2, 7, 21;  
+ 
+ 
+In additi
+on, time spent reflects how users themselves experience the relevant choice: they 
+typically have multiple free apps, so the choice they face — when they are bored in line, sitting 
+on their couch, or early to a date — is which app they will pop open and how long they will use 
+it before switching to another.   
+Unsurprisingly, then, the companies themselves most often measure their market share 
+using total time spent.   
+
+ 84 
+ 
+ 
+ 
+ 
+Yet time spent 
+is an imperfect yardst ick.  Most obviously, it takes longer to watch a video 
+than to scroll through a picture, so measuring market shares using time spent overestimates the 
+competitive importance of video apps like YouTube.  See Apr. 23 PM Tr. at 162:12–23; May 13 
+AM Tr. at 39:3–7; see also DX 1152 (Jan. 2025 Facebook Surface Breakdown) (showing 
+difference between time spent and pieces of content viewed).  While these apps predominantly 
+measure their market share using time spent, they all also consider other measures, most often 
+daily and monthly average users.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Court
+ follows their lead, using time  spent as the most informative measure of market 
+share but also checking it against daily and monthly average users to take a holistic view of these 
+apps’ size. 
+
+ 85 
+2. Meta’s Market Share and Market Power 
+As established above, the FTC must prove that Meta is a monopoly now.  So where it 
+can, the Court calculates market share using the latest available data from 2025. 
+The FTC concedes that Snapchat and MeWe be long in a product market with Facebook 
+and Instagram.  See FTC Post-trial Findings of Fact, ¶¶ 33, 40; FTC Post-trial Mem. at 8.  
+Adding in TikTok and YouTube, Meta’s share of that market comes out to around  of time 
+spent.    
+As a ma
+tter of law, that modest share cannot establish monopoly power.  United States v. 
+Aluminum Co. of Am. (Alcoa), 148 F.2d 416, 424 (2d Cir. 1945) (Hand, J.) (“certainly thirty-
+three percent is not enough” market share for monopoly power); Blue Cross, 65 F.3d at 1411 
+(market share under 50% is “below any accepted benchmark for inferring monopoly power from 
+market share”); Rebel Oil Co. v. Atl. Richfield Co., 51 F.3d 1421, 1438 (9th Cir. 1995); Bailey, 
+284 F.3d at 1250; U.S. Steel, 251 U.S. at 444. 
+To be fair, while the case for including TikTok in the product market is overwhelming, 
+YouTube’s inclusion, which the Court finds appropriate, is concededly more debatable.  Yet 
+even if YouTube is excluded, Meta still would not hold a monopoly.  That would leave 
+Facebook, Instagram, Snapchat, MeWe, and TikTok.  As measured by Hemphill, as of 2025, 
+Meta’s share of time spent in that mark
+ et is only .  See PDX 149 (Hemphill Rebuttal 
+Demonstrative) at 47.  Its share of monthly average users is , while its share of daily average 
+users is .  Id.  When mea sured using third-party data that Meta ordinarily relies on in its 
+business, Meta’s share of time spent falls to , and its share of daily active users dips to   
+ 
+
+ 86 
+ 
+ 
+Even the 
+market shares calc ulated by Hemphill do not win the day for the FTC.  There is 
+no threshold that a firm must cross to hold a monopoly.  Kolon Indus. Inc. v. E.I. DuPont de 
+Nemours & Co. (Kolon II), 748 F.3d 160, 174 (4th Cir. 2014).  But courts that have surveyed the 
+caselaw have found helpful guideposts.  For instance, “the Supreme Court has never found a 
+party with less than 75% market share to have monopoly power.”  Id.; accord Dimmitt Agri 
+Indus., Inc. v. CPC Int’l Inc., 679 F.2d 516, 528 & n.11 (5th Cir. 1982).  Lower courts have not 
+lowered the bar much.  See Colo. Interstate Gas Co. v. Nat. Gas Pipeline Co. of Am., 885 F.2d 
+683, 694 n.18 (10th Cir. 1989) (“[L]ower courts generally require a minimum market share of 
+between 70% and 80%.”); Exxon Corp. v. Berwick Bay Real Estate Partners, 748 F.2d 937, 940 
+(5th Cir. 1984) (Fifth Circuit “has noted that monopolization is rarely found when the 
+defendant’s share of the relevant market is below 70%”); E.I. du Pont de Nemours & Co. v. 
+Kolon Indus., Inc. (Kolon I), 637 F.3d 435, 450 (4th Cir. 2011) (“[W]hen monopolization has 
+been found the defendant controlled seventy to one hundred per cent of the relevant market.”) 
+(internal quotation marks omitted); Image Tech. Servs., Inc. v. Eastman Kodak Co., 125 F.3d 
+1195, 1206 (9th Cir. 1997) (“Courts generally require a 65% market share to establish a prima 
+facie case of market power.”). 
+The canonical statem
+ ent on the relationship between market shares and monopoly 
+remains Judge Learned Hand’s opinion in Alcoa, which declares that “it is doubtful whether 
+sixty or sixty-four percent [market share] would be enough [for monopoly power].”  148 F.2d at 
+424.  The Supreme Court, moreover, has held that a firm with 64% market share lacked 
+monopoly power.  United States v. Int’l Harvester Co., 274 U.S. 693, 709–10 (1927); see also 
+
+ 87 
+Alcoa, 148 F.2d at 430 (understanding International Harvester as holding that defendant was not 
+monopoly because it “had less than two-thirds of the production in its hands”). 
+Nothing, in short, suggests that a market share of  produces monopoly power , even if 
+t
+he Court nudges the figure upward in li ght of Meta’s roughly  share of active users.   See 
+PDX 149 (Hemphill Rebuttal Demonstrative) at 47.  Indeed, many cases expressly hold the 
+contrary.  Kolon II, 748 F.3d at 174 (“market share of less than 60% during the relevant period 
+does not necessarily foreclose a finding of monopoly power,” but “it does weigh heavily against 
+such a finding”); Fineman v. Armstrong World Indus., Inc., 980 F.2d 171, 201 (3d Cir. 1992) 
+(“As a matter of law, absent other relevant factors, a 55 percent market share will not prove the 
+existence of monopoly power.”); Kolon II, 748 F.3d at 174 (market share that had fallen to 55%, 
+along with other factors, not enough for monopoly power); Exxon, 748 F.2d at 939–40 (52% 
+share not monopoly power as matter of law). 
+Of course, market sh ares must be considered in the context of each case’s facts.  United 
+States v. Columbia Steel Co., 334 U.S. 495, 528 (1948).  Here, that context weighs even further 
+against finding monopoly power. 
+First, Meta’s market share is falling.  “[I]n evaluat ing monopoly power, it is not market 
+share that counts, but the ability to maintain market share.”  United States v. Dentsply Int’l, Inc., 
+399 F.3d 181, 188–89 (3d Cir. 2005) (cleaned up).  A given market share is thus less likely to 
+add up to a monopoly if it is eroding.  Winn-Dixie Stores, Inc. v. E. Mushroom Mktg. Coop., 
+Inc., 89 F.4th 430, 445 (3d Cir. 2023); Kolon II, 748 F.3d at 174–75.   
+Meta has suffered that fate.  TikTok — which Meta considers its fiercest competitor — 
+broke into the market only seven years ago, see Apr. 30 AM Tr. at 32:17–18, and has been 
+overrunning the market ever since.   
+
+ 88 
+ 
+ 
+  Unsurpri singly, then, Meta’s market share seems to be 
+shrinking.   
+ 
+  If “[m]onopoly power is the power to control prices or 
+exclude com
+petition,” du Pont, 351 U.S. at 391, then that power seems to have slipped from 
+Meta’s grasp.   
+Plus, Meta’s true share of this market is almost certainly below .  In the real world, 
+competition
+ is a matter of degree.  But market definition is binary, forcing courts to artificially 
+place products entirely in or out of the market.  See Areeda & Hovenkamp, ¶ 801, at 429–30.  As 
+a result, every product market — and so every market share — is mismeasured, and courts must 
+make realistic adjustments for the weak substitutes that barely squeaked into the market or the 
+competitive ones lying just outside.  See id. at 427, 429–30; Kodak, 504 U.S. at 466–67 (“Legal 
+presumptions that rest on formalistic distinctions rather than actual market realities are generally 
+disfavored in antitrust law.”).  Here, even if YouTube should be excluded from the market, it 
+remains a behemoth that offers some alternative to Meta’s apps.  A market share calculated by 
+entirely excluding it thus overestimates Meta’s power. 
+The Court ultimately finds that  YouTube and TikTok belong in the product market, and 
+they prevent Meta from holding a monopoly.  Even if YouTube is out, including TikTok alone 
+defeats the FTC’s case. 
+
+ 89 
+III. Conclusion 
+Like Heraclitus’s river, the rapids of social media rush along so fast that the Court has 
+never even stepped into the same case twice.  It considered motions to dismiss in 2021 and 2022, 
+motions for summary judgment in 2024, and a full merits trial this year.  Each time it examined 
+Meta’s apps, they had changed.  The competitors had, too.  The Court’s two Opinions on 
+motions to dismiss did not even mention the word “TikTok.”  Today, that app holds center stage 
+as Meta’s fiercest rival. 
+With apps surging and receding, chasing one craze and moving on from others, and 
+adding new features with each passing year, the FTC has understandably struggled to fix the 
+boundaries of Meta’s product market.  Even so, it continues to insist that Meta competes with the 
+same old rivals it has for the last decade, that the company holds a monopoly among that small 
+set, and that it maintained that monopoly through anticompetitive acquisitions.  Whether or not 
+Meta enjoyed monopoly power in the past, though, the agency must show that it continues to 
+hold such power now.  The Court’s verdict today determines that the FTC has not done so.  A 
+judgment so stating shall issue this day. 
+ 
+/s/ James E. Boasberg 
+JAMES E. BOASBERG 
+Chief Judge 
+Date:  November 18, 2025 
+ 

@@ -1,0 +1,56 @@
+== ACVA
+2020-12 rev 208.4 ocf 10.4 sbc 5.7 capex 3.5 sw 5.4 opinc -40.6 OE -4.2 OEm -2.0% opm -19.5%
+2021-12 rev 358.4 ocf 85.3 sbc 23.2 capex 2.6 sw 11.5 opinc -76.8 OE 48.0 OEm 13.4% opm -21.4%
+2022-12 rev 421.5 ocf -75.2 sbc 39.3 capex 3.2 sw 20.2 opinc -106.2 OE -137.9 OEm -32.7% opm -25.2%
+2023-12 rev 481.2 ocf -17.9 sbc 49.6 capex 2.3 sw 25.8 opinc -89.7 OE -95.7 OEm -19.9% opm -18.6%
+2024-12 rev 637.2 ocf 65.4 sbc 68.0 capex 4.5 sw 29.7 opinc -84.1 OE -36.9 OEm -5.8% opm -13.2%
+2025-12 rev 759.6 ocf 78.2 sbc 56.9 capex 9.1 sw 35.6 opinc -63.2 OE -23.3 OEm -3.1% opm -8.3%
+5y cum 2021-12 2025-12 -9.2%
+== OPLN
+2020-12 rev 1326.9 ocf 179.1 sbc 11.8 capex 62.8 sw 0.0 opinc 69.2 OE 104.5 OEm 7.9% opm 5.2%
+2021-12 rev 1450.6 ocf 233.9 sbc 13.2 capex 64.2 sw 0.0 opinc 127.5 OE 156.5 OEm 10.8% opm 8.8%
+2022-12 rev 1529.2 ocf 4.1 sbc 16.6 capex 60.9 sw 0.0 opinc 94.7 OE -73.4 OEm -4.8% opm 6.2%
+2023-12 rev 1695.7 ocf 237.0 sbc 16.5 capex 52.0 sw 0.0 opinc -135.8 OE 168.5 OEm 9.9% opm -8.0%
+2024-12 rev 1788.5 ocf 292.8 sbc 14.7 capex 53.0 sw 0.0 opinc 182.2 OE 225.1 OEm 12.6% opm 10.2%
+2025-12 rev 1934.5 ocf 391.9 sbc 14.6 capex 55.4 sw 0.0 opinc 196.6 OE 321.9 OEm 16.6% opm 10.2%
+5y cum 2021-12 2025-12 9.5%
+== CPRT
+2020-07 rev 2205.6 ocf 917.9 sbc 23.3 capex 592.0 sw 0.0 opinc 816.1 OE 302.6 OEm 13.7% opm 37.0%
+2021-07 rev 2692.5 ocf 990.9 sbc 40.9 capex 463.0 sw 0.0 opinc 1136.4 OE 487.0 OEm 18.1% opm 42.2%
+2022-07 rev 3500.9 ocf 1176.7 sbc 39.0 capex 337.4 sw 0.0 opinc 1375.0 OE 800.3 OEm 22.9% opm 39.3%
+2023-07 rev 3869.5 ocf 1364.2 sbc 39.7 capex 516.6 sw 0.0 opinc 1486.6 OE 807.9 OEm 20.9% opm 38.4%
+2024-07 rev 4236.8 ocf 1472.6 sbc 35.2 capex 511.0 sw 0.0 opinc 1572.0 OE 926.3 OEm 21.9% opm 37.1%
+2025-07 rev 4647.0 ocf 1799.8 sbc 38.0 capex 569.0 sw 0.0 opinc 1696.7 OE 1192.8 OEm 25.7% opm 36.5%
+5y cum 2021-07 2025-07 22.2%
+== RBA
+2020-12 rev 1377.3 ocf 257.9 sbc 16.6 capex 14.3 sw 0.0 opinc 263.2 OE 227.1 OEm 16.5% opm 19.1%
+2021-12 rev 1417.0 ocf 317.6 sbc 31.3 capex 9.8 sw 0.0 opinc 241.0 OE 276.5 OEm 19.5% opm 17.0%
+2022-12 rev 1733.8 ocf 463.1 sbc 41.7 capex 32.0 sw 0.0 opinc 453.5 OE 389.4 OEm 22.5% opm 26.2%
+2023-12 rev 3679.6 ocf 544.0 sbc 55.8 capex 227.9 sw 0.0 opinc 471.3 OE 260.3 OEm 7.1% opm 12.8%
+2024-12 rev 4284.2 ocf 932.0 sbc 62.4 capex 167.4 sw 0.0 opinc 761.2 OE 702.2 OEm 16.4% opm 17.8%
+2025-12 rev 4590.7 ocf 978.2 sbc 66.0 capex 259.0 sw 0.0 opinc 713.4 OE 653.2 OEm 14.2% opm 15.5%
+5y cum 2021-12 2025-12 14.5%
+== CVNA
+2020-12 rev 5587.0 ocf -608.0 sbc 25.0 capex 360.0 sw 0.0 opinc None OE -993.0 OEm -17.8% opm None
+2021-12 rev 12814.0 ocf -2594.0 sbc 39.0 capex 557.0 sw 0.0 opinc None OE -3190.0 OEm -24.9% opm None
+2022-12 rev 13604.0 ocf -1324.0 sbc 69.0 capex 512.0 sw 0.0 opinc -2351.0 OE -1905.0 OEm -14.0% opm -17.3%
+2023-12 rev 10771.0 ocf 803.0 sbc 73.0 capex 87.0 sw 0.0 opinc -80.0 OE 643.0 OEm 6.0% opm -0.7%
+2024-12 rev 13673.0 ocf 918.0 sbc 91.0 capex 91.0 sw 0.0 opinc 990.0 OE 736.0 OEm 5.4% opm 7.2%
+2025-12 rev 20322.0 ocf 1036.0 sbc 96.0 capex 147.0 sw 0.0 opinc 1881.0 OE 793.0 OEm 3.9% opm 9.3%
+5y cum 2021-12 2025-12 -4.1%
+== KMX
+2021-02 rev 18950.1 ocf 667.8 sbc 121.9 capex 164.5 sw 0.0 opinc None OE 381.3 OEm 2.0% opm None
+2022-02 rev 31900.4 ocf -2549.4 sbc 109.2 capex 308.5 sw 0.0 opinc None OE -2967.2 OEm -9.3% opm None
+2023-02 rev 29684.9 ocf 1283.3 sbc 85.6 capex 422.7 sw 0.0 opinc None OE 775.0 OEm 2.6% opm None
+2024-02 rev 26536.0 ocf 458.6 sbc 119.7 capex 465.3 sw 0.0 opinc None OE -126.4 OEm -0.5% opm None
+2025-02 rev 26353.4 ocf 624.4 sbc 134.7 capex 467.9 sw 0.0 opinc None OE 21.8 OEm 0.1% opm None
+2026-02 rev 25881.1 ocf 1783.8 sbc 99.0 capex 541.0 sw 0.0 opinc None OE 1143.8 OEm 4.4% opm None
+5y cum 2022-02 2026-02 -0.8%
+== CARG
+2020-12 rev 551.5 ocf 156.7 sbc 45.1 capex 3.0 sw 4.6 opinc 97.8 OE 104.1 OEm 18.9% opm 17.7%
+2021-12 rev 951.4 ocf 98.3 sbc 53.5 capex 7.7 sw 6.2 opinc 148.3 OE 30.9 OEm 3.2% opm 15.6%
+2022-12 rev 1655.0 ocf 256.1 sbc 54.8 capex 5.9 sw 11.3 opinc 108.5 OE 184.1 OEm 11.1% opm 6.6%
+2023-12 rev 698.4 ocf 124.5 sbc 63.7 capex 24.6 sw 16.6 opinc 120.3 OE 19.6 OEm 2.8% opm 17.2%
+2024-12 rev 798.0 ocf 255.5 sbc 62.3 capex 75.2 sw 18.8 opinc 157.1 OE 99.3 OEm 12.4% opm 19.7%
+2025-12 rev 907.0 ocf 295.3 sbc 50.4 capex 6.4 sw 22.9 opinc 244.4 OE 215.5 OEm 23.8% opm 27.0%
+5y cum 2021-12 2025-12 11.0%

@@ -1,0 +1,17 @@
+HESM: the two research scripts, so the competitor row is reproducible
+
+fetch.py -- the SEC fetch/strip harness used for the 10-Ks, 10-Q and 8-K exhibits.
+peer_metric.py -- the [E3-28] row: operating income over net PP&E plus net
+intangibles plus equity-method investments, FY2021-25 means, twelve filers, every
+cell from that filer's own company facts.
+
+It reproduces PAGP's cross-run cell for HESM at 25.56% against its published 25.5%,
+and it carries the dual PP&E tag list that the PAGP fold showed is necessary for
+PAA -- while documenting that HESM itself does not need it, so the trap is
+filer-specific rather than industry-wide.
+
+The Antero Midstream row is this run's addition to PAGP's list, and it is the row
+that does the work: 12.4% for the closest structural analogue in listed midstream
+against HESM's 25.6% on the same metric over the same window.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

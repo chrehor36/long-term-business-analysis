@@ -1,0 +1,36 @@
+CRTO fold, all six steps: register entry 148, wave7_done at 16, narrative fold, no price band
+
+Step 1. Register entry 148 in `## COMPLETED FROM THE QUEUE`, carrying the price, the share
+count and its cover accession, the hand-struck cap, the sovereign, and the PASS/FAIL line.
+The number was RE-DERIVED, not inherited: line-start `^- \*\*` counted inside the slice taken
+BY INDEX from the exact `## COMPLETED FROM THE QUEUE` heading line to
+`## THE WRITE-EARLY PROTOCOL`. 147 entries stood above, agreeing with the MNRO entry's own
+claim of 147 and with the dispatcher's count; after insertion, 148. No CRTO entry existed;
+the ticker's only prior occurrence inside the slice is in the PUBM entry, which names Criteo
+as a peer.
+
+Step 2. `CRTO` appended to `Screens/_daily/_wave7_done.txt`, which goes from 15 lines to 16.
+
+Step 3. Narrative fold appended to the PREPPED READING LIST: five findings, six refuted or
+confirmed priors, four tooling and source findings, six defects in the dispatcher's brief.
+
+Step 4. NO price band armed and NO PORTFOLIO.md row added. The QLYS ruling: a name that
+failed at Q2 failed on the BUSINESS and a price alert on it is a category error. The
+reversal condition is recorded in WORDS in both the register entry and the narrative fold.
+
+Step 5. `python tools/check_framework.py` PASS before this commit: 311 ledger rows, 311
+unique ids, 311/311 source files on disk, 310/311 verbatim with E5-07 declared not a quote;
+1,107 run files, 25,257 distinct id citations, phantom in 0 files; 0 phantom citations and 0
+unlabelled numbers in all five governed documents. `python tools/ledger_verbatim.py`: 254
+EXACT, 56 ELISION_OK, 1 DECLARED_NOT_A_QUOTE. 62 ledger ids were resolved against
+principle_ledger.csv before any was written and 35 survived into the finished run file; all
+35 resolve, PHANTOM 0.
+
+Step 6. Committed with a pathspec, from a message file written fresh.
+
+The [E4-55] OCR artifacts are reproduced rather than smoothed per PRIME RULE 1: the doubled
+opening quotation marks and two closing apostrophes around "bounce back", and the U+FFFD
+replacement character standing where the ff ligature of "effect" was, written as the numeric
+entity so the artifact survives the file's own encoding.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

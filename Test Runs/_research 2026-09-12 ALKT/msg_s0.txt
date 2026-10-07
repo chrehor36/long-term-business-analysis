@@ -1,0 +1,12 @@
+ALKT run: Step 0 - rate, filing, price, count, cap_flag and deal note
+
+Sovereign 5.35% (US Treasury 30y par, 2026-09-11, struck fresh). Earnings
+currency USD per 10-K note 2. Price $20.51 (2026-09-11, aggregator, flagged)
+x 106,941,980 shares (10-Q cover, acc. 0001529274-26-000052) = cap $2,193.4M.
+The cap_flag is a two-date comparison: the $2.4bn float was struck at $30.14
+on 2025-06-30, when the cap was $3,137M. The one Item 1.01 is a credit
+agreement amendment permitting a $100M buyback; no merger agreement exists,
+but JANA's 13D (2026-06-29) seeks a sale and General Atlantic holds 18.1%.
+Acquisitions $525.7M in window, all cash (MK 2021, Segmint 2022, MANTL 2025).
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

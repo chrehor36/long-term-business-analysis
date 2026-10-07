@@ -1,0 +1,42 @@
+FY   OCF   SBC  capex  dep  amort | OE capex end | OE dep end | OE dep+amort end | capex/dep
+2018 2006.9 88.0 778.7 535.9 194.5 | 1140.2 | 1383.0 | 1188.5 | 1.45
+2019 2046.7 84.0 731.3 569.1 206.2 | 1231.4 | 1393.6 | 1187.4 | 1.29
+2020 1741.8 82.1 489.0 594.3 218.4 | 1170.7 | 1065.4 | 847.0 | 0.82
+2021 2061.9 89.5 643.0 604.4 238.7 | 1329.4 | 1368.0 | 1129.3 | 1.06
+2022 1788.4 87.8 712.8 618.5 320.2 | 987.8 | 1082.1 | 761.9 | 1.15
+2023 2411.8 95.1 774.8 616.7 306.9 | 1541.9 | 1700.0 | 1393.1 | 1.26
+2024 2813.9 134.8 994.5 634.9 300.5 | 1684.6 | 2044.2 | 1743.7 | 1.57
+2025 2952.6 136.6 1048.3 672.6 303.8 | 1767.7 | 2143.4 | 1839.6 | 1.56
+TTM 3056.8 135.8 1182.3 709.0 321.6 | 1738.7 | 2212.0 | 1890.4 | 1.67
+
+Trailing windows ending FY2025 (mean $M, yield on cap 78349.0):
+1y FY2025-2025: capex end 1767.7 (2.26%) | dep end 2143.4 (2.74%) | dep+amort end 1839.6 (2.35%)
+2y FY2024-2025: capex end 1726.2 (2.20%) | dep end 2093.8 (2.67%) | dep+amort end 1791.7 (2.29%)
+3y FY2023-2025: capex end 1664.7 (2.12%) | dep end 1962.5 (2.50%) | dep+amort end 1658.8 (2.12%)
+4y FY2022-2025: capex end 1495.5 (1.91%) | dep end 1742.4 (2.22%) | dep+amort end 1434.6 (1.83%)
+5y FY2021-2025: capex end 1462.3 (1.87%) | dep end 1667.5 (2.13%) | dep+amort end 1373.5 (1.75%)
+6y FY2020-2025: capex end 1413.7 (1.80%) | dep end 1567.2 (2.00%) | dep+amort end 1285.8 (1.64%)
+7y FY2019-2025: capex end 1387.6 (1.77%) | dep end 1542.4 (1.97%) | dep+amort end 1271.7 (1.62%)
+8y FY2018-2025: capex end 1356.7 (1.73%) | dep end 1522.5 (1.94%) | dep+amort end 1261.3 (1.61%)
+TTM to 2026-06-30: capex end 1738.7 (2.22%) | dep end 2212.0 (2.82%) | dep+amort end 1890.4 (2.41%)
+
+Rolling five-year windows:
+FY2018-2022: capex 1171.9 (1.50%) dep 1258.4 (1.61%) dep+amort 1022.8 (1.31%)
+FY2019-2023: capex 1252.2 (1.60%) dep 1321.8 (1.69%) dep+amort 1063.7 (1.36%)
+FY2020-2024: capex 1342.9 (1.71%) dep 1451.9 (1.85%) dep+amort 1175.0 (1.50%)
+FY2021-2025: capex 1462.3 (1.87%) dep 1667.5 (2.13%) dep+amort 1373.5 (1.75%)
+
+screen oe_bottom 1373 vs 5y dep+amort end 1373.5 ; oe_top 1665 vs 3y capex end 1664.7
+
+Annual coupon on the $5.0bn May 2026 notes: 250.6 pre-tax; after 21% tax 197.9
+CoolIT NTM EBITDA implied by 29x on $4,750M: 163.8
+
+Per share, no growth (value = OE / rate):
+5y capex: 1462.3 -> $52 at 10%, $95 at 5.49%; growth to reach 10%% floor g=(0.10-y)/(1+y) = 7.98%
+5y dep: 1667.5 -> $59 at 10%, $108 at 5.49%; growth to reach 10%% floor g=(0.10-y)/(1+y) = 7.71%
+3y capex: 1664.7 -> $59 at 10%, $108 at 5.49%; growth to reach 10%% floor g=(0.10-y)/(1+y) = 7.71%
+3y dep: 1962.5 -> $70 at 10%, $128 at 5.49%; growth to reach 10%% floor g=(0.10-y)/(1+y) = 7.31%
+1y capex: 1767.7 -> $63 at 10%, $115 at 5.49%; growth to reach 10%% floor g=(0.10-y)/(1+y) = 7.57%
+1y dep: 2143.4 -> $76 at 10%, $139 at 5.49%; growth to reach 10%% floor g=(0.10-y)/(1+y) = 7.07%
+TTM capex: 1738.7 -> $62 at 10%, $113 at 5.49%; growth to reach 10%% floor g=(0.10-y)/(1+y) = 7.61%
+TTM dep: 2212.0 -> $79 at 10%, $144 at 5.49%; growth to reach 10%% floor g=(0.10-y)/(1+y) = 6.98%

@@ -1,0 +1,62 @@
+METRIC A: net income to parent / average parent equity, %
+| FY | NUE | STLD | CMC | CLF | X | MTUS | RDUS | MT |
+|---|---|---|---|---|---|---|---|---|
+| 2007 | n/f | n/f | n/f | n/f | 17.8 | n/f | n/f | n/f |
+| 2008 | n/f | n/f | n/f | n/f | 40.5 | n/f | n/f | n/f |
+| 2009 | -3.8 | -0.5 | n/f | 9.6 | -29.3 | n/f | n/f | n/f |
+| 2010 | 1.8 | 6.9 | n/f | 31.9 | -11.3 | n/f | n/f | n/f |
+| 2011 | 10.7 | 12.7 | -10.8 | 33.6 | -1.4 | n/f | 11.4 | n/f |
+| 2012 | 6.7 | 7.0 | 17.2 | -17.3 | -3.6 | n/f | 2.5 | n/f |
+| 2013 | 6.4 | 7.8 | 6.1 | 7.7 | -48.0 | n/f | -30.3 | n/f |
+| 2014 | 8.8 | 5.8 | 8.6 | -311.5 | 2.8 | 11.5 | 0.8 | n/f |
+| 2015 | 1.1 | -4.7 | 5.8 | n/f | -52.7 | n/f | -30.2 | n/f |
+| 2016 | 10.4 | 13.6 | 4.0 | n/f | -18.7 | n/f | -3.8 | n/f |
+| 2017 | 15.9 | 25.9 | 3.3 | n/f | 13.8 | n/f | 8.6 | 13.3 |
+| 2018 | 25.5 | 34.5 | 9.6 | n/f | 29.6 | -1.6 | 26.1 | 12.7 |
+| 2019 | 12.6 | 16.8 | 12.7 | 74.9 | -15.2 | -18.7 | 8.3 | -6.1 |
+| 2020 | 6.8 | 13.1 | 15.9 | -10.3 | -29.6 | -11.6 | -0.6 | -1.9 |
+| 2021 | 55.0 | 60.4 | 19.7 | 79.6 | 65.2 | 29.2 | 21.8 | 34.2 |
+| 2022 | 46.9 | 53.5 | 43.6 | 20.1 | 26.3 | 9.6 | 18.9 | 18.2 |
+| 2023 | 23.0 | 28.8 | 23.2 | 4.9 | 8.4 | 9.8 | -2.8 | 1.7 |
+| 2024 | 9.8 | 17.3 | 11.5 | -10.5 | 3.4 | 0.2 | -34.8 | 2.6 |
+| 2025 | 8.5 | 13.3 | 2.0 | -23.2 | n/f | -0.2 | n/f | 6.1 |
+METRIC B: pre-tax income / revenue, %
+| FY | NUE | STLD | CMC | CLF | X | MTUS | RDUS | MT |
+|---|---|---|---|---|---|---|---|---|
+| 2007 | n/f | 14.4 | n/f | 16.7 | n/f | n/f | n/f | n/f |
+| 2008 | n/f | 9.1 | n/f | 19.8 | n/f | n/f | n/f | n/f |
+| 2009 | -3.7 | -0.5 | 0.0 | 12.7 | -16.7 | n/f | -2.6 | n/f |
+| 2010 | 1.7 | 3.4 | -2.6 | 28.2 | -2.2 | n/f | 5.4 | n/f |
+| 2011 | 6.3 | 5.3 | 0.3 | 33.4 | 0.1 | n/f | 5.2 | n/f |
+| 2012 | 4.4 | 2.8 | 2.2 | -8.5 | 0.0 | 13.6 | 1.3 | n/f |
+| 2013 | 4.2 | 3.6 | 2.5 | 30.6 | -12.8 | 9.2 | -12.7 | n/f |
+| 2014 | 5.4 | 1.9 | 2.4 | -0.6 | 1.0 | 9.4 | 0.6 | n/f |
+| 2015 | 1.5 | -3.2 | 1.8 | 15.6 | -12.6 | -10.4 | -10.5 | -11.8 |
+| 2016 | 8.0 | 7.3 | 1.8 | 7.1 | -4.6 | -16.3 | -1.1 | 4.8 |
+| 2017 | 8.6 | 9.8 | 1.4 | 5.8 | 2.7 | -2.2 | 2.9 | 7.3 |
+| 2018 | 12.9 | 13.7 | n/f | 24.2 | 5.7 | -0.5 | 6.0 | n/f |
+| 2019 | 7.9 | 8.4 | n/f | 15.7 | -3.5 | -10.4 | 3.6 | n/f |
+| 2020 | 4.1 | 7.3 | n/f | -3.6 | -13.4 | -7.3 | -0.1 | n/f |
+| 2021 | 25.2 | 22.9 | n/f | 18.6 | 21.4 | 13.8 | 7.5 | n/f |
+| 2022 | 24.7 | 22.6 | n/f | 7.8 | 15.5 | 7.3 | 6.2 | n/f |
+| 2023 | 18.1 | 17.1 | n/f | 2.6 | 5.8 | 7.1 | -1.0 | n/f |
+| 2024 | 9.4 | 11.3 | n/f | -5.0 | 2.8 | 0.4 | -11.7 | n/f |
+| 2025 | 7.9 | 8.2 | n/f | -10.8 | n/f | 0.2 | n/f | n/f |
+SUMMARY A
+NUE: years 2009-2025 (n=17) mean 14.5 median 9.8 min -3.8 (2009) max 55.0 (2021) negatives 1 | common NUE/STLD/CMC window 2011-2025 mean 16.5 median 10.4
+STLD: years 2009-2025 (n=17) mean 18.4 median 13.3 min -4.7 (2015) max 60.4 (2021) negatives 2 | common NUE/STLD/CMC window 2011-2025 mean 20.4 median 13.6
+CMC: years 2011-2025 (n=15) mean 11.5 median 9.6 min -10.8 (2011) max 43.6 (2022) negatives 1 | common NUE/STLD/CMC window 2011-2025 mean 11.5 median 9.6
+CLF: years 2009-2025 (n=13) mean -8.5 median 7.7 min -311.5 (2014) max 79.6 (2021) negatives 5 | common NUE/STLD/CMC window 2011-2025 mean -13.8 median 4.9
+X: years 2007-2024 (n=18) mean -0.1 median 0.7 min -52.7 (2015) max 65.2 (2021) negatives 9 | common NUE/STLD/CMC window 2011-2025 mean -1.4 median 0.7
+MTUS: years 2014-2025 (n=9) mean 3.1 median 0.2 min -18.7 (2019) max 29.2 (2021) negatives 4 | common NUE/STLD/CMC window 2011-2025 mean 3.1 median 0.2
+RDUS: years 2011-2024 (n=14) mean -0.3 median 1.6 min -34.8 (2024) max 26.1 (2018) negatives 6 | common NUE/STLD/CMC window 2011-2025 mean -0.3 median 1.6
+MT: years 2017-2025 (n=9) mean 9.0 median 6.1 min -6.1 (2019) max 34.2 (2021) negatives 2 | common NUE/STLD/CMC window 2011-2025 mean 9.0 median 6.1
+SUMMARY B
+NUE: years 2009-2025 (n=17) mean 8.6 median 7.9 min -3.7 (2009) max 25.2 (2021) negatives 1 | common NUE/STLD/CMC window 2009-2017 mean 4.0 median 4.4
+STLD: years 2007-2025 (n=19) mean 8.7 median 8.2 min -3.2 (2015) max 22.9 (2021) negatives 2 | common NUE/STLD/CMC window 2009-2017 mean 3.4 median 3.4
+CMC: years 2009-2017 (n=9) mean 1.1 median 1.8 min -2.6 (2010) max 2.5 (2013) negatives 1 | common NUE/STLD/CMC window 2009-2017 mean 1.1 median 1.8
+CLF: years 2007-2025 (n=19) mean 11.1 median 12.7 min -10.8 (2025) max 33.4 (2011) negatives 5 | common NUE/STLD/CMC window 2009-2017 mean 13.8 median 12.7
+X: years 2009-2024 (n=16) mean -0.7 median 0.1 min -16.7 (2009) max 21.4 (2021) negatives 7 | common NUE/STLD/CMC window 2009-2017 mean -5.0 median -2.2
+MTUS: years 2012-2025 (n=14) mean 1.0 median 0.3 min -16.3 (2016) max 13.8 (2021) negatives 6 | common NUE/STLD/CMC window 2009-2017 mean 0.5 median 3.5
+RDUS: years 2009-2024 (n=16) mean -0.1 median 0.9 min -12.7 (2013) max 7.5 (2021) negatives 7 | common NUE/STLD/CMC window 2009-2017 mean -1.3 median 0.6
+MT: years 2015-2017 (n=3) mean 0.1 median 4.8 min -11.8 (2015) max 7.3 (2017) negatives 1 | common NUE/STLD/CMC window 2009-2017 mean 0.1 median 4.8

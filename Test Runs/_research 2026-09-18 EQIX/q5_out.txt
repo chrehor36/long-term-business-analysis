@@ -1,0 +1,13 @@
+cap 101,231.2; business (cap - cash) 99,007.2
+company (c), FY2025 [rejected, display]: OE 2,974; on cap 2.94%; ex-interest on business 2.81%  vs sov -2.48 pts; perpetual g to reach 10% 7.19%; mult 34x
+central (c), FY2025: OE 1,323; on cap 1.31%; ex-interest on business 1.14%  vs sov -4.15 pts; perpetual g to reach 10% 8.86%; mult 77x
+central (c), five-year default: OE 961; on cap 0.95%; ex-interest on business 0.88%  vs sov -4.41 pts; perpetual g to reach 10% 9.12%; mult 105x
+conservative (c), FY2025 (replacement cost): OE 246; on cap 0.24%; ex-interest on business 0.05%  vs sov -5.24 pts; perpetual g to reach 10% 9.95%; mult 412x
+conservative (c), five-year: OE -57; on cap -0.06%; ex-interest on business -0.15%  vs sov -5.44 pts; perpetual g to reach 10% 10.15%; mult nanx
+D&A end FY2025 [INVALID end, display]: OE 1,347; on cap 1.33%; ex-interest on business 1.17%  vs sov -4.12 pts; perpetual g to reach 10% 8.83%; mult 75x
+company AFFO FY2025 (company measure, display): OE 3,761; on cap 3.72%; ex-interest on business 3.60%  vs sov -1.69 pts; perpetual g to reach 10% 6.40%; mult 27x
+
+value per share = (OE - interest)/(0.10-g) + cash, / 98.67M
+company (c) ['g=3%: $425', 'g=5%: $586', 'g=7%: $962', 'g=8%: $1,432']
+central FY2025 ['g=3%: $186', 'g=5%: $252', 'g=7%: $404', 'g=8%: $595']
+central 5y ['g=3%: $148', 'g=5%: $198', 'g=7%: $316', 'g=8%: $462']

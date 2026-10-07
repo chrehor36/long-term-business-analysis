@@ -1,0 +1,151 @@
+== NDSN NORDSON CORPORATION
+2008-10 rev 1124.8  GM 56.0% OM 16.9% OI/opcap 33.8% OI/tangcap 33.8% opcap 562 tang 562
+2009-10 rev 819.2 -27.2% GM 57.2% OM -15.6% OI/opcap -35.8% OI/tangcap neg opcap 357 tang -27
+2010-10 rev 1041.6 +27.1% GM 59.7% OM 22.5% OI/opcap 49.8% OI/tangcap 289.7% opcap 471 tang 81
+2011-10 rev 1233.2 +18.4% GM 60.7% OM 25.6% OI/opcap 37.0% OI/tangcap 171.0% opcap 853 tang 185
+2012-10 rev 1409.6 +14.3% GM 58.4% OM 23.8% OI/opcap 26.6% OI/tangcap 151.6% opcap 1262 tang 221
+2013-10 rev 1542.9 +9.5% GM 56.1% OM 21.0% OI/opcap 21.6% OI/tangcap 111.7% opcap 1498 tang 290
+2014-10 rev 1704.0 +10.4% GM 55.5% OM 21.5% OI/opcap 22.1% OI/tangcap 115.3% opcap 1662 tang 318
+2015-10 rev 1688.7 -0.9% GM 54.1% OM 18.8% OI/opcap 18.4% OI/tangcap 86.7% opcap 1726 tang 367
+2016-10 rev 1809.0 +7.1% GM 54.9% OM 21.5% OI/opcap 22.0% OI/tangcap 97.1% opcap 1767 tang 400
+2017-10 rev 2067.0 +14.3% GM 55.1% OM 22.6% OI/opcap 17.6% OI/tangcap 91.1% opcap 2648 tang 512
+2018-10 rev 2254.7 +9.1% GM 54.8% OM 22.3% OI/opcap 18.8% OI/tangcap 89.5% opcap 2669 tang 561
+2019-10 rev 2194.2 -2.7% GM 54.3% OM 22.0% OI/opcap 18.1% OI/tangcap 78.7% opcap 2674 tang 614
+2020-10 rev 2121.1 -3.3% GM 53.3% OM 16.5% OI/opcap 13.2% OI/tangcap 65.2% opcap 2657 tang 536
+2021-10 rev 2362.2 +11.4% GM 56.1% OM 26.0% OI/opcap 23.0% OI/tangcap 101.8% opcap 2675 tang 605
+2022-10 rev 2590.3 +9.7% GM 55.1% OM 27.1% OI/opcap 24.5% OI/tangcap 95.6% opcap 2869 tang 735
+2023-10 rev 2628.6 +1.5% GM 54.2% OM 25.6% OI/opcap 15.9% OI/tangcap 87.7% opcap 4224 tang 768
+2024-10 rev 2689.9 +2.3% GM 55.2% OM 25.1% OI/opcap 13.4% OI/tangcap 66.2% opcap 5040 tang 1018
+2025-10 rev 2791.7 +3.8% GM 55.2% OM 25.5% OI/opcap 14.4% OI/tangcap 75.3% opcap 4931 tang 945
+== GGG GRACO INC.
+2008-12 rev 817.3  GM 52.9% OM 22.9% OI/opcap 120.5% OI/tangcap 120.5% opcap 156 tang 156
+2009-12 rev 579.2 -29.1% GM 50.6% OM 12.9% OI/opcap 24.6% OI/tangcap 43.6% opcap 303 tang 171
+2010-12 rev 744.1 +28.5% GM 54.2% OM 20.6% OI/opcap 46.0% OI/tangcap 71.9% opcap 333 tang 213
+2011-12 rev 895.3 +20.3% GM 55.9% OM 24.5% OI/opcap 66.9% OI/tangcap 101.3% opcap 328 tang 217
+2012-12 rev 1012.5 +13.1% GM 54.4% OM 22.2% OI/opcap 22.7% OI/tangcap 34.3% opcap 988 tang 655
+2013-12 rev 1104.0 +9.0% GM 55.0% OM 25.3% OI/opcap 27.1% OI/tangcap 40.3% opcap 1033 tang 695
+2014-12 rev 1221.1 +10.6% GM 54.6% OM 25.3% OI/opcap 25.9% OI/tangcap 42.7% opcap 1192 tang 724
+2015-12 rev 1286.5 +5.4% GM 53.2% OM 23.5% OI/opcap 30.5% OI/tangcap 81.8% opcap 992 tang 369
+2016-12 rev 1329.3 +3.3% GM 53.5% OM 9.1% OI/opcap 14.5% OI/tangcap 30.4% opcap 836 tang 398
+2017-12 rev 1474.7 +10.9% GM 53.9% OM 25.7% OI/opcap 44.5% OI/tangcap 97.1% opcap 852 tang 390
+2018-12 rev 1653.3 +12.1% GM 53.4% OM 26.4% OI/opcap 48.6% OI/tangcap 99.9% opcap 897 tang 437
+2019-12 rev 1646.0 -0.4% GM 52.2% OM 25.8% OI/opcap 43.5% OI/tangcap 83.9% opcap 976 tang 506
+2020-12 rev 1650.1 +0.2% GM 51.8% OM 23.7% OI/opcap 36.4% OI/tangcap 68.9% opcap 1077 tang 569
+2021-12 rev 1987.6 +20.5% GM 52.0% OM 26.7% OI/opcap 41.6% OI/tangcap 68.8% opcap 1279 tang 773
+2022-12 rev 2143.5 +7.8% GM 49.3% OM 26.7% OI/opcap 35.4% OI/tangcap 51.6% opcap 1616 tang 1111
+2023-12 rev 2195.6 +2.4% GM 52.9% OM 29.5% OI/opcap 37.7% OI/tangcap 53.0% opcap 1716 tang 1220
+2024-12 rev 2113.3 -3.7% GM 53.1% OM 27.0% OI/opcap 29.4% OI/tangcap 46.9% opcap 1937 tang 1217
+2025-12 rev 2236.6 +5.8% GM 52.5% OM 27.9% OI/opcap 30.4% OI/tangcap 53.6% opcap 2055 tang 1165
+== IEX IDEX CORP
+2008-12 rev 1489.5  GM 40.1% OM 13.8% OI/opcap 19.0% OI/tangcap neg opcap 1083 tang -134
+2009-12 rev 1329.7 -10.7% GM 39.3% OM 13.9% OI/opcap 11.6% OI/tangcap 139.1% opcap 1595 tang 133
+2010-12 rev 1513.1 +13.8% GM 40.9% OM 16.5% OI/opcap 13.9% OI/tangcap 83.2% opcap 1788 tang 299
+2011-12 rev 1838.5 +21.5% GM 40.2% OM 16.6% OI/opcap 14.5% OI/tangcap 108.6% opcap 2094 tang 281
+2012-12 rev 1954.3 +6.3% GM 41.1% OM 6.6% OI/opcap 6.6% OI/tangcap 46.3% opcap 1940 tang 277
+2013-12 rev 2024.1 +3.6% GM 43.1% OM 19.5% OI/opcap 20.7% OI/tangcap 159.2% opcap 1909 tang 248
+2014-12 rev 2147.8 +6.1% GM 44.2% OM 20.1% OI/opcap 22.3% OI/tangcap 125.7% opcap 1936 tang 343
+2015-12 rev 2020.7 -5.9% GM 44.8% OM 21.6% OI/opcap 22.3% OI/tangcap 160.2% opcap 1957 tang 273
+2016-12 rev 2113.0 +4.6% GM 44.0% OM 19.5% OI/opcap 17.7% OI/tangcap 161.0% opcap 2324 tang 256
+2017-12 rev 2287.3 +8.2% GM 44.9% OM 22.0% OI/opcap 21.2% OI/tangcap 200.2% opcap 2370 tang 251
+2018-12 rev 2483.7 +8.6% GM 45.0% OM 22.9% OI/opcap 23.9% OI/tangcap 192.1% opcap 2377 tang 296
+2019-12 rev 2494.6 +0.4% GM 45.1% OM 23.2% OI/opcap 23.3% OI/tangcap 185.3% opcap 2480 tang 313
+2020-12 rev 2351.6 -5.7% GM 43.7% OM 22.1% OI/opcap 20.3% OI/tangcap 210.1% opcap 2559 tang 248
+2021-12 rev 2764.8 +17.6% GM 44.3% OM 23.0% OI/opcap 20.3% OI/tangcap 170.8% opcap 3138 tang 373
+2022-12 rev 3181.9 +15.1% GM 44.8% OM 23.6% OI/opcap 18.4% OI/tangcap 152.7% opcap 4078 tang 492
+2023-12 rev 3273.9 +2.9% GM 44.2% OM 22.4% OI/opcap 16.9% OI/tangcap 151.8% opcap 4333 tang 482
+2024-12 rev 3268.8 -0.2% GM 44.2% OM 20.7% OI/opcap 13.2% OI/tangcap 113.4% opcap 5134 tang 597
+2025-12 rev 3457.5 +5.8% GM 44.5% OM 20.2% OI/opcap 13.3% OI/tangcap 115.6% opcap 5267 tang 605
+== ITW ILLINOIS TOOL WORKS INC
+2007-12 rev 16110.3  GM 35.3% OM 16.3% OI/opcap - OI/tangcap - opcap - tang -
+2008-12 rev 17100.3 +6.1% GM 34.6% OM 14.6% OI/opcap 31.0% OI/tangcap 141.7% opcap 8062 tang 1765
+2009-12 rev 13573.0 -20.6% GM 34.0% OM 10.2% OI/opcap 13.1% OI/tangcap 34.3% opcap 10530 tang 4030
+2010-12 rev 15416.0 +13.6% GM 35.2% OM 14.6% OI/opcap 20.2% OI/tangcap 50.3% opcap 11180 tang 4477
+2011-12 rev 14515.0 -5.8% GM 37.4% OM 16.3% OI/opcap 18.4% OI/tangcap 44.0% opcap 12798 tang 5367
+2012-12 rev 14791.0 +1.9% GM 38.2% OM 16.7% OI/opcap 19.3% OI/tangcap 49.4% opcap 12794 tang 5006
+2013-12 rev 14135.0 -4.4% GM 39.5% OM 17.8% OI/opcap 20.3% OI/tangcap 45.8% opcap 12370 tang 5485
+2014-12 rev 14484.0 +2.5% GM 40.1% OM 19.9% OI/opcap 28.3% OI/tangcap 77.5% opcap 10191 tang 3725
+2015-12 rev 13405.0 -7.4% GM 41.2% OM 21.4% OI/opcap 30.1% OI/tangcap 81.1% opcap 9533 tang 3534
+2016-12 rev 13599.0 +1.4% GM 41.8% OM 22.5% OI/opcap 31.8% OI/tangcap 85.1% opcap 9614 tang 3593
+2017-12 rev 14314.0 +5.3% GM 42.0% OM 24.3% OI/opcap 35.5% OI/tangcap 91.7% opcap 9823 tang 3799
+2018-12 rev 14768.0 +3.2% GM 41.7% OM 24.3% OI/opcap 39.2% OI/tangcap 104.9% opcap 9133 tang 3416
+2019-12 rev 14109.0 -4.5% GM 42.0% OM 24.1% OI/opcap 38.6% OI/tangcap 98.1% opcap 8811 tang 3468
+2020-12 rev 12574.0 -10.9% GM 41.3% OM 22.9% OI/opcap 31.7% OI/tangcap 79.6% opcap 9090 tang 3619
+2021-12 rev 14455.0 +15.0% GM 41.3% OM 24.1% OI/opcap 32.9% OI/tangcap 75.1% opcap 10564 tang 4627
+2022-12 rev 15932.0 +10.2% GM 40.8% OM 23.8% OI/opcap 32.3% OI/tangcap 62.1% opcap 11732 tang 6100
+2023-12 rev 16107.0 +1.1% GM 42.2% OM 25.1% OI/opcap 33.8% OI/tangcap 63.4% opcap 11937 tang 6371
+2024-12 rev 15898.0 -1.3% GM 44.3% OM 26.8% OI/opcap 41.7% OI/tangcap 88.8% opcap 10232 tang 4801
+2025-12 rev 16044.0 +0.9% GM 44.1% OM 26.3% OI/opcap 37.2% OI/tangcap 74.6% opcap 11344 tang 5655
+== DOV DOVER Corp
+2007-12 rev 7317.3  GM 35.8% OM 13.7% OI/opcap 30.1% OI/tangcap 30.1% opcap 3340 tang 3340
+2008-12 rev 7568.9 +3.4% GM 36.1% OM 13.6% OI/opcap 21.3% OI/tangcap 167.0% opcap 4824 tang 616
+2009-12 rev 5344.3 -29.4% GM 37.7% OM 11.1% OI/opcap 12.0% OI/tangcap 66.4% opcap 4931 tang 891
+2010-12 rev 6109.5 +14.3% GM 39.7% OM 15.1% OI/opcap 18.3% OI/tangcap 65.2% opcap 5040 tang 1416
+2011-12 rev 7369.2 +20.6% GM 38.6% OM 15.3% OI/opcap 19.0% OI/tangcap 92.2% opcap 5911 tang 1220
+2012-12 rev 6626.6 -10.1% GM 38.9% OM 16.0% OI/opcap 15.3% OI/tangcap 46.1% opcap 6919 tang 2297
+2013-12 rev 7155.1 +8.0% GM 38.8% OM 16.2% OI/opcap 15.7% OI/tangcap 38.3% opcap 7402 tang 3035
+2014-12 rev 7752.7 +8.4% GM 38.4% OM 15.7% OI/opcap 20.1% OI/tangcap 102.2% opcap 6050 tang 1189
+2015-12 rev 6956.3 -10.3% GM 36.9% OM 13.2% OI/opcap 15.3% OI/tangcap 103.9% opcap 6037 tang 887
+2016-12 rev 6794.3 -2.3% GM 32.8% OM 10.4% OI/opcap 10.0% OI/tangcap 44.2% opcap 7073 tang 1604
+2017-12 rev 7830.4 +15.2% GM 32.3% OM 10.3% OI/opcap 10.7% OI/tangcap 31.3% opcap 7547 tang 2578
+2018-12 rev 6992.1 -10.7% GM 36.6% OM 12.1% OI/opcap 15.2% OI/tangcap 116.3% opcap 5536 tang 725
+2019-12 rev 7136.4 +2.1% GM 36.7% OM 13.7% OI/opcap 17.1% OI/tangcap 112.4% opcap 5706 tang 867
+2020-12 rev 6683.8 -6.3% GM 37.0% OM 14.0% OI/opcap 15.6% OI/tangcap 113.1% opcap 5982 tang 825
+2021-12 rev 7907.1 +18.3% GM 37.6% OM 16.2% OI/opcap 18.5% OI/tangcap 126.9% opcap 6928 tang 1010
+2022-12 rev 7844.2 -0.8% GM 37.0% OM 16.3% OI/opcap 15.4% OI/tangcap 50.0% opcap 8319 tang 2560
+2023-12 rev 7684.5 -2.0% GM 37.3% OM 15.9% OI/opcap 15.0% OI/tangcap 59.0% opcap 8151 tang 2068
+2024-12 rev 7745.9 +0.8% GM 38.2% OM 15.6% OI/opcap 14.3% OI/tangcap 61.8% opcap 8438 tang 1951
+2025-12 rev 8092.6 +4.5% GM 39.8% OM 17.0% OI/opcap 14.1% OI/tangcap 53.4% opcap 9763 tang 2573
+== ITGR INTEGER HOLDINGS CORPORATION
+2010-01 rev 521.8  GM 31.9% OM 0.2% OI/opcap 0.3% OI/tangcap 0.3% opcap 342 tang 342
+2010-12 rev 533.4 +2.2% GM 32.5% OM 12.9% OI/opcap 11.0% OI/tangcap 28.5% opcap 625 tang 242
+2011-12 rev 568.8 +6.6% GM 31.7% OM 10.8% OI/opcap 9.3% OI/tangcap 27.1% opcap 667 tang 228
+2012-12 rev 646.2 +13.6% GM 31.2% OM 4.0% OI/opcap 3.8% OI/tangcap 10.3% opcap 686 tang 250
+2014-01 rev 663.9 +2.7% GM 33.0% OM 9.2% OI/opcap 8.7% OI/tangcap 21.8% opcap 704 tang 281
+2015-01 rev 687.8 +3.6% GM 33.6% OM 11.0% OI/opcap 10.5% OI/tangcap 24.9% opcap 723 tang 303
+2016-01 rev 800.4 +16.4% GM 29.4% OM 1.6% OI/opcap 0.5% OI/tangcap 2.3% opcap 2482 tang 575
+2016-12 rev 1386.8 +73.3% GM 24.3% OM 6.7% OI/opcap 3.9% OI/tangcap 18.7% opcap 2403 tang 496
+2017-12 rev 1461.9 +5.4% GM 24.2% OM 8.6% OI/opcap 5.1% OI/tangcap 16.6% opcap 2458 tang 756
+2018-12 rev 1215.0 -16.9% GM 29.8% OM 12.8% OI/opcap 7.9% OI/tangcap 49.3% opcap 1960 tang 316
+2019-12 rev 1258.1 +3.5% GM 28.2% OM 12.5% OI/opcap 8.0% OI/tangcap 44.8% opcap 1967 tang 352
+2020-12 rev 1073.4 -14.7% GM 26.6% OM 11.2% OI/opcap 6.0% OI/tangcap 31.3% opcap 2002 tang 386
+2021-12 rev 1221.1 +13.8% GM 27.6% OM 11.1% OI/opcap 6.2% OI/tangcap 30.1% opcap 2183 tang 450
+2022-12 rev 1331.3 +9.0% GM 26.0% OM 8.5% OI/opcap 4.9% OI/tangcap 21.1% opcap 2318 tang 533
+2023-12 rev 1555.7 +16.9% GM 26.3% OM 10.5% OI/opcap 6.7% OI/tangcap 24.0% opcap 2455 tang 682
+2024-12 rev 1716.6 +10.3% GM 26.7% OM 12.1% OI/opcap 8.1% OI/tangcap 27.2% opcap 2563 tang 767
+2025-12 rev 1853.6 +8.0% GM 27.0% OM 11.9% OI/opcap 7.6% OI/tangcap 22.6% opcap 2915 tang 978
+== ONTO ONTO INNOVATION INC.
+2010-01 rev 76.7  GM 47.1% OM -17.4% OI/opcap -21.1% OI/tangcap -21.1% opcap 63 tang 63
+2011-01 rev 188.1 +145.2% GM 53.9% OM 22.0% OI/opcap 36.1% OI/tangcap 38.1% opcap 114 tang 108
+2011-12 rev 230.1 +22.3% GM 53.1% OM 19.9% OI/opcap 38.2% OI/tangcap 49.0% opcap 120 tang 93
+2012-12 rev 182.9 -20.5% GM 45.9% OM 3.0% OI/opcap 4.9% OI/tangcap 6.2% opcap 111 tang 89
+2013-12 rev 144.3 -21.1% GM 43.4% OM -15.0% OI/opcap -19.0% OI/tangcap -22.9% opcap 115 tang 95
+2014-12 rev 166.4 +15.3% GM 45.6% OM -7.0% OI/opcap -12.2% OI/tangcap -14.4% opcap 96 tang 81
+2015-12 rev 187.4 +12.6% GM 47.9% OM 2.7% OI/opcap 4.8% OI/tangcap 5.3% opcap 104 tang 93
+2016-12 rev 221.1 +18.0% GM 51.6% OM 13.2% OI/opcap 17.8% OI/tangcap 18.8% opcap 164 tang 154
+2017-12 rev 258.6 +17.0% GM 52.0% OM 22.9% OI/opcap 27.4% OI/tangcap 31.0% opcap 216 tang 191
+2018-12 rev 273.8 +5.9% GM 54.2% OM 18.7% OI/opcap 20.5% OI/tangcap 23.3% opcap 249 tang 220
+2019-12 rev 305.9 +11.7% GM 44.1% OM -1.6% OI/opcap -0.4% OI/tangcap -1.1% opcap 1133 tang 446
+2020-12 rev 556.5 +81.9% GM 50.0% OM -4.8% OI/opcap -2.4% OI/tangcap -4.5% opcap 1128 tang 599
+2022-01 rev 788.9 +41.8% GM 54.4% OM -19.8% OI/opcap -12.4% OI/tangcap -23.6% opcap 1256 tang 663
+2022-12 rev 1005.2 +27.4% GM 53.6% OM 23.5% OI/opcap 16.7% OI/tangcap 26.8% opcap 1421 tang 883
+2023-12 rev 815.9 -18.8% GM 51.5% OM 14.2% OI/opcap 7.7% OI/tangcap 11.4% opcap 1503 tang 1020
+2024-12 rev 987.3 +21.0% GM 52.2% OM 19.0% OI/opcap 10.9% OI/tangcap 14.9% opcap 1713 tang 1256
+2026-01 rev 1005.3 +1.8% GM 49.7% OM 13.2% OI/opcap 7.6% OI/tangcap 16.4% opcap 1755 tang 812
+== NOVT NOVANTA INC.
+2009-12 rev 254.4  GM 38.7% OM -8.0% OI/opcap -96.4% OI/tangcap -96.4% opcap 21 tang 21
+2010-12 rev 285.9 +12.4% GM 45.7% OM 12.6% OI/opcap 15.7% OI/tangcap 27.3% opcap 229 tang 132
+2011-12 rev 304.3 +6.4% GM 43.7% OM 11.8% OI/opcap 15.4% OI/tangcap 25.2% opcap 233 tang 142
+2012-12 rev 243.8 -19.9% GM 43.3% OM 8.3% OI/opcap 9.5% OI/tangcap 15.9% opcap 212 tang 128
+2013-12 rev 316.9 +30.0% GM 41.7% OM 6.1% OI/opcap 7.7% OI/tangcap 16.7% opcap 253 tang 116
+2014-12 rev 364.7 +15.1% GM 41.2% OM -4.6% OI/opcap -6.2% OI/tangcap -14.7% opcap 272 tang 114
+2015-12 rev 373.6 +2.4% GM 42.3% OM 7.7% OI/opcap 10.3% OI/tangcap 26.1% opcap 281 tang 111
+2016-12 rev 384.8 +3.0% GM 42.2% OM 8.6% OI/opcap 12.3% OI/tangcap 33.4% opcap 269 tang 99
+2017-12 rev 521.3 +35.5% GM 42.3% OM 11.0% OI/opcap 12.9% OI/tangcap 71.9% opcap 446 tang 80
+2018-12 rev 614.3 +17.8% GM 42.6% OM 11.6% OI/opcap 14.4% OI/tangcap 53.4% opcap 494 tang 133
+2019-12 rev 626.1 +1.9% GM 41.9% OM 8.8% OI/opcap 9.9% OI/tangcap 47.0% opcap 559 tang 118
+2020-12 rev 590.6 -5.7% GM 41.4% OM 9.5% OI/opcap 10.1% OI/tangcap 47.5% opcap 552 tang 118
+2021-12 rev 706.8 +19.7% GM 42.5% OM 9.1% OI/opcap 7.6% OI/tangcap 46.5% opcap 838 tang 138
+2022-12 rev 860.9 +21.8% GM 44.0% OM 12.0% OI/opcap 11.3% OI/tangcap 39.9% opcap 913 tang 258
+2023-12 rev 881.7 +2.4% GM 45.4% OM 12.5% OI/opcap 12.0% OI/tangcap 37.7% opcap 923 tang 293
+2024-12 rev 949.2 +7.7% GM 44.4% OM 11.6% OI/opcap 10.5% OI/tangcap 39.7% opcap 1048 tang 278
+2025-12 rev 980.6 +3.3% GM 44.4% OM 9.6% OI/opcap 7.9% OI/tangcap 26.4% opcap 1184 tang 356

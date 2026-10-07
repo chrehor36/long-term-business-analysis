@@ -1,0 +1,38 @@
+==============================================================================
+TILE SHOP HOLDINGS, INC.  (TTSH)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.47%   09/24/2026   US Treasury daily par yield curve
+  price     2.01 USD   2026-09-25   (aggregator — live quote only)
+  shares    39.8M      market cap 0.08B USD
+  share basis: dei cover-page count as of 2026-02-23
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-12-31         62        1        21         15         39         45
+    2024-12-31         27        1        18         15          8         11
+    2025-12-31          6        1        16         10        -11         -5
+          mean                                                  12         17
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 4 .. 13   yield 5.44%..16.18%
+  DIVERGENCE vs the 3-yr window: -63.7% on the conservative end
+  ** The spread is part of the RANGE [E4-25], not a tiebreak.
+     "Working with a range of possibilities is the better approach."
+     Do NOT pick a window and defend it. If the combined range
+     (window spread x capex band) is too wide to reach a conclusion,
+     THAT IS THE CONCLUSION [E4-25]. A wide spread is also a Q4
+     finding about earnings reliability [E5-11]. **
+
+  1. THE YIELD                 14.99% .. 21.46%   vs sovereign 5.47%
+  2. GROWTH THE PRICE ASSUMES  -30.7%  (at a 5.47% rate)
+  3. POINTS OVER THE SOVEREIGN +12.66 .. +19.38
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

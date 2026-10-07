@@ -1,0 +1,3 @@
+CAH Cardinal Health: fold - register entry 167 (166 before, 167 after, counted in the HEAD-blob slice), _wave7_done 35, narrative fold (Q2 OUT on the business: Express Scripts, Walgreens and OptumRx left for rivals, CVS the largest customer of both Cardinal and McKesson, gross margin 5.57% to 3.84%, pharma segment profit flat FY2015-FY2023 while revenue doubled); no alert, no PORTFOLIO row (failed on the business); run file 8-K reading scope stated exactly; check_framework PASS. Queue file committed as HEAD blob plus this entry only; the CRM re-look hunks stay uncommitted in the working tree.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>

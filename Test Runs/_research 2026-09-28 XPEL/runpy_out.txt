@@ -1,0 +1,38 @@
+==============================================================================
+XPEL, Inc.  (XPEL)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.49%   09/25/2026   US Treasury daily par yield curve
+  price     43.03 USD   2026-09-28   (aggregator — live quote only)
+  shares    27.6M      market cap 1.19B USD
+  share basis: dei cover-page count as of 2026-08-07
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-12-31         37        2        10          6         26         29
+    2024-12-31         48        3        12          7         33         38
+    2025-12-31         67        3        13          4         51         60
+          mean                                                  37         42
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 25 .. 29   yield 2.11%..2.44%
+  DIVERGENCE vs the 3-yr window: -31.8% on the conservative end
+  ** The spread is part of the RANGE [E4-25], not a tiebreak.
+     "Working with a range of possibilities is the better approach."
+     Do NOT pick a window and defend it. If the combined range
+     (window spread x capex band) is too wide to reach a conclusion,
+     THAT IS THE CONCLUSION [E4-25]. A wide spread is also a Q4
+     finding about earnings reliability [E5-11]. **
+
+  1. THE YIELD                  3.09% ..  3.58%   vs sovereign 5.49%
+  2. GROWTH THE PRICE ASSUMES    1.2%  (at a 5.49% rate)
+  3. POINTS OVER THE SOVEREIGN +0.25 .. +0.76
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

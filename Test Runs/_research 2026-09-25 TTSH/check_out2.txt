@@ -1,0 +1,34 @@
+LEDGER            311 rows, 311 unique ids
+                  source files on disk: 311/311
+                  verbatim against cited source: 310/311   OK
+                    E5-07  DECLARED_NOT_A_QUOTE
+TEST RUNS         1272 files, 32039 distinct id citations, phantom in 0 files   OK
+
+THE FRAMEWORK v4.md
+  ledger ids cited      204
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+_TEMPLATE - Company Run.md
+  ledger ids cited      60
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+SECTOR METHOD - owner earnings for insurers and float-bearing holding companies.md
+  ledger ids cited      23
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+THE HOLDINGS FRAMEWORK.md
+  ledger ids cited      34
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+_TEMPLATE - Holding Review.md
+  ledger ids cited      27
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+======================================================================
+PASS — every number resolves to a verbatim source or a confessed convention,
+       and every ledger row matches the document it cites.

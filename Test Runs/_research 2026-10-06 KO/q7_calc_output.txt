@@ -1,0 +1,33 @@
+price $86.51  shares 4,302.5M  market cap 372,214  net debt 27,172 (debt 43,543 less cash 16,371)  EV 399,386
+rate 5.66%
+
+five-year means: recast capex basis 10,260.0 (shown growth 0.38%/yr); recast D&A basis 10,842.8 (2.90%); as filed 7,812.8; unlevered 11,270.3 (1.99%); pre-tax unlevered 14,196.0 (3.20%)
+
+THE RANGE at the long government rate (equity = PV of levered owner cash; unlevered rows less net debt):
+  no growth, recast capex basis (bottom)               equity    181,272   per share $  42.13
+  shown growth 0.38%, recast capex basis (top)         equity    186,736   per share $  43.40
+  no growth, recast D&A basis                          equity    191,569   per share $  44.52
+  shown growth 2.90%, recast D&A basis                 equity    240,999   per share $  56.01
+  no growth, as filed capex basis                      equity    138,035   per share $  32.08
+  no growth, unlevered, less net debt                  equity    171,949   per share $  39.96
+  shown growth 1.99%, unlevered, less net debt         equity    205,943   per share $  47.87
+
+STRESS AND GENEROUS VARIANTS (shown, not chosen):
+  generous: 2.0% for ten years (above the growth shown)       equity    212,367   per share $  49.36
+  generous: 4.0% for ten years (above the growth shown)       equity    248,864   per share $  57.84
+  generous: 5.5% for ten years (above the growth shown)       equity    280,295   per share $  65.15
+  tax case lost (company's own figures): -$14,000M now, -3.5 points x 12,917 = -452 a year; no growth: equity 159,284, per share $37.02
+
+THE FLOOR (about 10% pre-tax on the price paid; all-equity basis, price paid = market cap + net debt):
+  no growth                                expected pre-tax return at $86.51:  3.55%
+  shown growth 3.20% (pre-tax series)      expected pre-tax return at $86.51:  4.62%
+  shown growth 0.38% (owner-cash series)   expected pre-tax return at $86.51:  3.67%
+  generous 5.5%                            expected pre-tax return at $86.51:  5.51%
+  after-tax, levered, on market cap (no growth): 2.76%
+
+COMPUTATION, NOT A CLEARANCE: the prices at which the floor is met
+  cheap (no growth clears 10% pre-tax)                       EV 141,960  equity 114,788  per share $26.68
+  fair (central case, shown growth 0.38%, clears 10%)        EV 145,615  equity 118,443  per share $27.53
+  fair, variant (pre-tax series shown growth 3.20%)          EV 176,611  equity 149,439  per share $34.73
+
+price against the top of the range: 1.99 times; width of the range (top/bottom): 1.030

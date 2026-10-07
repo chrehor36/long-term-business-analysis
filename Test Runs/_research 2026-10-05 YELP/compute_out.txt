@@ -1,0 +1,26 @@
+2016 rev   716.1  OCF  126.9 SBC   86.3 (12.1% rev,   68% OCF) capex  23.0  owner cash   17.6  D&A basis    5.3
+2017 rev   850.8  OCF  167.6 SBC  100.4 (11.8% rev,   60% OCF) capex  30.2  owner cash   37.0  D&A basis   26.0
+2018 rev   942.8  OCF  160.2 SBC  114.4 (12.1% rev,   71% OCF) capex  45.0  owner cash    0.8  D&A basis    3.0
+2019 rev  1014.2  OCF  204.8 SBC  121.5 (12.0% rev,   59% OCF) capex  37.5  owner cash   45.8  D&A basis   33.9
+2020 rev   872.9  OCF  176.7 SBC  124.6 (14.3% rev,   71% OCF) capex  32.0  owner cash   20.1  D&A basis    1.5
+2021 rev  1031.8  OCF  212.7 SBC  151.7 (14.7% rev,   71% OCF) capex  28.3  owner cash   32.7  D&A basis    5.3
+2022 rev  1193.5  OCF  192.3 SBC  156.1 (13.1% rev,   81% OCF) capex  32.0  owner cash    4.2  D&A basis   -8.7
+2023 rev  1337.1  OCF  306.3 SBC  173.5 (13.0% rev,   57% OCF) capex  26.8  owner cash  106.0  D&A basis   90.6
+2024 rev  1412.1  OCF  285.8 SBC  158.2 (11.2% rev,   55% OCF) capex  37.3  owner cash   90.3  D&A basis   87.2
+2025 rev  1465.0  OCF  372.0 SBC  134.0 ( 9.1% rev,   36% OCF) capex  48.4  owner cash  189.7  D&A basis  187.9
+5-yr mean capex basis 84.6; D&A basis 72.5; 10-yr mean 54.4
+TTM owner cash to 2026-06-30 179.4
+5-yr: C 84.6  no-growth 1502M = $27.57/sh ; shown-growth capped at 5.63%: 2348M = $43.16/sh ; ratio 1.56
+10-yr whole cycle: C 54.4  no-growth 967M = $17.70/sh ; shown-growth capped at 5.63%: 1511M = $27.73/sh ; ratio 1.56
+5-yr D&A: C 72.5  no-growth 1287M = $23.62/sh ; shown-growth capped at 5.63%: 2012M = $36.97/sh ; ratio 1.56
+revenue CAGR 2021-2025 0.09159245522320458  2016-2025 0.08278053270824581
+owner cash endpoint CAGR 2021-2025 0.5519229811160056
+central: 5-yr mean, half the capped growth: 10% price = 1025M -> $18.78/sh
+5-yr mean, no growth: 10% price = 846M -> $15.48/sh
+10-yr mean, no growth: 10% price = 544M -> $9.92/sh
+expected return at $18.52 (1011M EV): 5-yr, half growth 10.13%
+expected return at $18.52 (1011M EV): 5-yr, no growth 8.37%
+expected return at $18.52 (1011M EV): 10-yr, no growth 5.38%
+expected return at $18.52 (1011M EV): TTM, no growth 17.75%
+market cap 1005.0M; EV 1010.8M
+buybacks 2017-2025 1910.1 withholding 456.69999999999993 SBC 2016-2025 1320.637 OCF-capex 2016-2025 1864.777 owner cash 2016-2025 544.14

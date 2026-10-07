@@ -1,0 +1,578 @@
+{
+ "INOD": {
+  "Revenues": [
+   "2023-12-31",
+   86775000,
+   "10-K",
+   "0001410578-24-000124"
+  ],
+  "RevenueFromContractWithCustomerExcludingAssessedTax": [
+   "2025-12-31",
+   251663000,
+   "10-K",
+   "0001104659-26-020655"
+  ],
+  "OperatingIncomeLoss": [
+   "2025-12-31",
+   39873000,
+   "10-K",
+   "0001104659-26-020655"
+  ],
+  "GrossProfit": [
+   "2025-12-31",
+   99479000,
+   "10-K",
+   "0001104659-26-020655"
+  ],
+  "CostOfRevenue": null,
+  "CostOfServices": null,
+  "NetIncomeLoss": [
+   "2025-12-31",
+   32181000,
+   "10-K",
+   "0001104659-26-020655"
+  ],
+  "NetCashProvidedByUsedInOperatingActivities": [
+   "2025-12-31",
+   46752000,
+   "10-K",
+   "0001104659-26-020655"
+  ],
+  "ShareBasedCompensation": [
+   "2025-12-31",
+   11144000,
+   "10-K",
+   "0001104659-26-020655"
+  ],
+  "PaymentsToAcquirePropertyPlantAndEquipment": [
+   "2025-12-31",
+   11104000,
+   "10-K",
+   "0001104659-26-020655"
+  ],
+  "DepreciationDepletionAndAmortization": [
+   "2025-12-31",
+   6889000,
+   "10-K",
+   "0001104659-26-020655"
+  ],
+  "StockholdersEquity": [
+   "2025-12-31",
+   107145000,
+   "10-K",
+   "0001104659-26-020655"
+  ],
+  "Goodwill": [
+   "2025-12-31",
+   2079000,
+   "10-K",
+   "0001104659-26-020655"
+  ],
+  "IntangibleAssetsNetExcludingGoodwill": [
+   "2025-12-31",
+   13983000,
+   "10-K",
+   "0001104659-26-020655"
+  ],
+  "Assets": [
+   "2025-12-31",
+   168593000,
+   "10-K",
+   "0001104659-26-020655"
+  ]
+ },
+ "G (Genpact)": {
+  "Revenues": [
+   "2014-12-31",
+   2279438000,
+   "10-K",
+   "0001193125-15-068826"
+  ],
+  "RevenueFromContractWithCustomerExcludingAssessedTax": [
+   "2025-12-31",
+   5079879000,
+   "10-K",
+   "0001398659-26-000004"
+  ],
+  "OperatingIncomeLoss": [
+   "2025-12-31",
+   750207000,
+   "10-K",
+   "0001398659-26-000004"
+  ],
+  "GrossProfit": [
+   "2025-12-31",
+   1831012000,
+   "10-K",
+   "0001398659-26-000004"
+  ],
+  "CostOfRevenue": [
+   "2025-12-31",
+   3248867000,
+   "10-K",
+   "0001398659-26-000004"
+  ],
+  "CostOfServices": [
+   "2015-12-31",
+   1493547000,
+   "10-K",
+   "0001193125-16-480871"
+  ],
+  "NetIncomeLoss": [
+   "2025-12-31",
+   552494000,
+   "10-K",
+   "0001398659-26-000004"
+  ],
+  "NetCashProvidedByUsedInOperatingActivities": [
+   "2025-12-31",
+   812856000,
+   "10-K",
+   "0001398659-26-000004"
+  ],
+  "ShareBasedCompensation": [
+   "2025-12-31",
+   89616000,
+   "10-K",
+   "0001398659-26-000004"
+  ],
+  "PaymentsToAcquirePropertyPlantAndEquipment": [
+   "2025-12-31",
+   78203000,
+   "10-K",
+   "0001398659-26-000004"
+  ],
+  "DepreciationDepletionAndAmortization": null,
+  "StockholdersEquity": [
+   "2025-12-31",
+   2549401000,
+   "10-K",
+   "0001398659-26-000004"
+  ],
+  "Goodwill": [
+   "2025-12-31",
+   1781116000,
+   "10-K",
+   "0001398659-26-000004"
+  ],
+  "IntangibleAssetsNetExcludingGoodwill": null,
+  "Assets": [
+   "2025-12-31",
+   5843267000,
+   "10-K",
+   "0001398659-26-000004"
+  ]
+ },
+ "CNXC (Concentrix)": {
+  "Revenues": null,
+  "RevenueFromContractWithCustomerExcludingAssessedTax": [
+   "2025-11-30",
+   9825771000,
+   "10-K",
+   "0001803599-26-000027"
+  ],
+  "OperatingIncomeLoss": [
+   "2025-11-30",
+   -918183000,
+   "10-K",
+   "0001803599-26-000027"
+  ],
+  "GrossProfit": [
+   "2025-11-30",
+   3435011000,
+   "10-K",
+   "0001803599-26-000027"
+  ],
+  "CostOfRevenue": [
+   "2025-11-30",
+   6390760000,
+   "10-K",
+   "0001803599-26-000027"
+  ],
+  "CostOfServices": null,
+  "NetIncomeLoss": [
+   "2025-11-30",
+   -1278924000,
+   "10-K",
+   "0001803599-26-000027"
+  ],
+  "NetCashProvidedByUsedInOperatingActivities": [
+   "2025-11-30",
+   806967000,
+   "10-K",
+   "0001803599-26-000027"
+  ],
+  "ShareBasedCompensation": [
+   "2025-11-30",
+   96386000,
+   "10-K",
+   "0001803599-26-000027"
+  ],
+  "PaymentsToAcquirePropertyPlantAndEquipment": [
+   "2025-11-30",
+   234496000,
+   "10-K",
+   "0001803599-26-000027"
+  ],
+  "DepreciationDepletionAndAmortization": null,
+  "StockholdersEquity": [
+   "2025-11-30",
+   2744345000,
+   "10-K",
+   "0001803599-26-000027"
+  ],
+  "Goodwill": [
+   "2025-11-30",
+   3671746000,
+   "10-K",
+   "0001803599-26-000027"
+  ],
+  "IntangibleAssetsNetExcludingGoodwill": null,
+  "Assets": [
+   "2025-11-30",
+   10761086000,
+   "10-K",
+   "0001803599-26-000027"
+  ]
+ },
+ "WNS": {
+  "Revenues": [
+   "2025-03-31",
+   1314942000,
+   "10-K",
+   "0001193125-25-118506"
+  ],
+  "RevenueFromContractWithCustomerExcludingAssessedTax": null,
+  "OperatingIncomeLoss": [
+   "2025-03-31",
+   175439000,
+   "10-K",
+   "0001193125-25-118506"
+  ],
+  "GrossProfit": [
+   "2025-03-31",
+   465517000,
+   "10-K",
+   "0001193125-25-118506"
+  ],
+  "CostOfRevenue": [
+   "2025-03-31",
+   849425000,
+   "10-K",
+   "0001193125-25-118506"
+  ],
+  "CostOfServices": null,
+  "NetIncomeLoss": [
+   "2025-03-31",
+   170114000,
+   "10-K",
+   "0001193125-25-118506"
+  ],
+  "NetCashProvidedByUsedInOperatingActivities": [
+   "2025-03-31",
+   207161000,
+   "10-K",
+   "0001193125-25-118506"
+  ],
+  "ShareBasedCompensation": [
+   "2025-03-31",
+   37542000,
+   "10-K",
+   "0001193125-25-118506"
+  ],
+  "PaymentsToAcquirePropertyPlantAndEquipment": [
+   "2025-03-31",
+   54117000,
+   "10-K",
+   "0001193125-25-118506"
+  ],
+  "DepreciationDepletionAndAmortization": [
+   "2025-03-31",
+   56592000,
+   "10-K",
+   "0001193125-25-118506"
+  ],
+  "StockholdersEquity": [
+   "2025-03-31",
+   837724000,
+   "10-K",
+   "0001193125-25-118506"
+  ],
+  "Goodwill": [
+   "2025-03-31",
+   409587000,
+   "10-K",
+   "0001193125-25-118506"
+  ],
+  "IntangibleAssetsNetExcludingGoodwill": [
+   "2025-03-31",
+   122638000,
+   "10-K",
+   "0001193125-25-118506"
+  ],
+  "Assets": [
+   "2025-03-31",
+   1547503000,
+   "10-K",
+   "0001193125-25-118506"
+  ]
+ },
+ "TASK (TaskUs)": {
+  "Revenues": null,
+  "RevenueFromContractWithCustomerExcludingAssessedTax": [
+   "2025-12-31",
+   1183547000,
+   "10-K",
+   "0001829864-26-000012"
+  ],
+  "OperatingIncomeLoss": [
+   "2025-12-31",
+   140626000,
+   "10-K",
+   "0001829864-26-000012"
+  ],
+  "GrossProfit": null,
+  "CostOfRevenue": null,
+  "CostOfServices": null,
+  "NetIncomeLoss": [
+   "2025-12-31",
+   102275000,
+   "10-K",
+   "0001829864-26-000012"
+  ],
+  "NetCashProvidedByUsedInOperatingActivities": [
+   "2025-12-31",
+   137215000,
+   "10-K",
+   "0001829864-26-000012"
+  ],
+  "ShareBasedCompensation": [
+   "2025-12-31",
+   29659000,
+   "10-K",
+   "0001829864-26-000012"
+  ],
+  "PaymentsToAcquirePropertyPlantAndEquipment": [
+   "2025-12-31",
+   63500000,
+   "10-K",
+   "0001829864-26-000012"
+  ],
+  "DepreciationDepletionAndAmortization": null,
+  "StockholdersEquity": [
+   "2025-12-31",
+   599989000,
+   "10-K",
+   "0001829864-26-000012"
+  ],
+  "Goodwill": [
+   "2025-12-31",
+   219533000,
+   "10-K",
+   "0001829864-26-000012"
+  ],
+  "IntangibleAssetsNetExcludingGoodwill": [
+   "2025-12-31",
+   153490000,
+   "10-K",
+   "0001829864-26-000012"
+  ],
+  "Assets": [
+   "2025-12-31",
+   1050765000,
+   "10-K",
+   "0001829864-26-000012"
+  ]
+ },
+ "TIXT (TELUS Digital)": {
+  "Revenues": null,
+  "RevenueFromContractWithCustomerExcludingAssessedTax": null,
+  "OperatingIncomeLoss": null,
+  "GrossProfit": null,
+  "CostOfRevenue": null,
+  "CostOfServices": null,
+  "NetIncomeLoss": null,
+  "NetCashProvidedByUsedInOperatingActivities": null,
+  "ShareBasedCompensation": null,
+  "PaymentsToAcquirePropertyPlantAndEquipment": null,
+  "DepreciationDepletionAndAmortization": null,
+  "StockholdersEquity": null,
+  "Goodwill": [
+   "2024-12-31",
+   1926000000,
+   "20-F",
+   "0001628280-25-005299"
+  ],
+  "IntangibleAssetsNetExcludingGoodwill": null,
+  "Assets": [
+   "2024-12-31",
+   4521000000,
+   "20-F",
+   "0001628280-25-005299"
+  ]
+ },
+ "EXLS (ExlService)": {
+  "Revenues": null,
+  "RevenueFromContractWithCustomerExcludingAssessedTax": [
+   "2025-12-31",
+   2087679000,
+   "10-K",
+   "0001297989-26-000008"
+  ],
+  "OperatingIncomeLoss": [
+   "2025-12-31",
+   313750000,
+   "10-K",
+   "0001297989-26-000008"
+  ],
+  "GrossProfit": [
+   "2025-12-31",
+   801076000,
+   "10-K",
+   "0001297989-26-000008"
+  ],
+  "CostOfRevenue": [
+   "2013-12-31",
+   290942000,
+   "10-K",
+   "0001193125-14-080551"
+  ],
+  "CostOfServices": [
+   "2017-12-31",
+   495586000,
+   "10-K",
+   "0001297989-18-000002"
+  ],
+  "NetIncomeLoss": [
+   "2025-12-31",
+   251019000,
+   "10-K",
+   "0001297989-26-000008"
+  ],
+  "NetCashProvidedByUsedInOperatingActivities": [
+   "2025-12-31",
+   350717000,
+   "10-K",
+   "0001297989-26-000008"
+  ],
+  "ShareBasedCompensation": [
+   "2025-12-31",
+   79469000,
+   "10-K",
+   "0001297989-26-000008"
+  ],
+  "PaymentsToAcquirePropertyPlantAndEquipment": [
+   "2025-12-31",
+   52598000,
+   "10-K",
+   "0001297989-26-000008"
+  ],
+  "DepreciationDepletionAndAmortization": [
+   "2025-12-31",
+   59248000,
+   "10-K",
+   "0001297989-26-000008"
+  ],
+  "StockholdersEquity": [
+   "2025-12-31",
+   912705000,
+   "10-K",
+   "0001297989-26-000008"
+  ],
+  "Goodwill": [
+   "2025-12-31",
+   419654000,
+   "10-K",
+   "0001297989-26-000008"
+  ],
+  "IntangibleAssetsNetExcludingGoodwill": [
+   "2025-12-31",
+   36204000,
+   "10-K",
+   "0001297989-26-000008"
+  ],
+  "Assets": [
+   "2025-12-31",
+   1702235000,
+   "10-K",
+   "0001297989-26-000008"
+  ]
+ },
+ "CTSH (Cognizant)": {
+  "Revenues": [
+   "2025-12-31",
+   21108000000,
+   "10-K",
+   "0001058290-26-000008"
+  ],
+  "RevenueFromContractWithCustomerExcludingAssessedTax": [
+   "2025-12-31",
+   21108000000,
+   "10-K",
+   "0001058290-26-000008"
+  ],
+  "OperatingIncomeLoss": [
+   "2025-12-31",
+   3389000000,
+   "10-K",
+   "0001058290-26-000008"
+  ],
+  "GrossProfit": null,
+  "CostOfRevenue": null,
+  "CostOfServices": null,
+  "NetIncomeLoss": [
+   "2025-12-31",
+   2230000000,
+   "10-K",
+   "0001058290-26-000008"
+  ],
+  "NetCashProvidedByUsedInOperatingActivities": [
+   "2025-12-31",
+   2883000000,
+   "10-K",
+   "0001058290-26-000008"
+  ],
+  "ShareBasedCompensation": [
+   "2025-12-31",
+   181000000,
+   "10-K",
+   "0001058290-26-000008"
+  ],
+  "PaymentsToAcquirePropertyPlantAndEquipment": [
+   "2025-12-31",
+   288000000,
+   "10-K",
+   "0001058290-26-000008"
+  ],
+  "DepreciationDepletionAndAmortization": [
+   "2025-12-31",
+   550000000,
+   "10-K",
+   "0001058290-26-000008"
+  ],
+  "StockholdersEquity": [
+   "2025-12-31",
+   15015000000,
+   "10-K",
+   "0001058290-26-000008"
+  ],
+  "Goodwill": [
+   "2025-12-31",
+   7106000000,
+   "10-K",
+   "0001058290-26-000008"
+  ],
+  "IntangibleAssetsNetExcludingGoodwill": [
+   "2025-12-31",
+   1417000000,
+   "10-K",
+   "0001058290-26-000008"
+  ],
+  "Assets": [
+   "2025-12-31",
+   20692000000,
+   "10-K",
+   "0001058290-26-000008"
+  ]
+ }
+}

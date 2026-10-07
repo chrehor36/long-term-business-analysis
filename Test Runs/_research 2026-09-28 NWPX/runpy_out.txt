@@ -1,0 +1,38 @@
+==============================================================================
+NWPX Infrastructure, Inc.  (NWPX)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.56%   09/28/2026   US Treasury daily par yield curve
+  price     103.11 USD   2026-09-28   (aggregator — live quote only)
+  shares    9.6M      market cap 0.99B USD
+  share basis: dei cover-page count as of 2026-07-21
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-12-31         53        4        16         18         31         34
+    2024-12-31         55        5         4         21         29         46
+    2025-12-31         67        6         4         20         42         58
+          mean                                                  34         46
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 14 .. 22   yield 1.42%..2.26%
+  DIVERGENCE vs the 3-yr window: -58.6% on the conservative end
+  ** The spread is part of the RANGE [E4-25], not a tiebreak.
+     "Working with a range of possibilities is the better approach."
+     Do NOT pick a window and defend it. If the combined range
+     (window spread x capex band) is too wide to reach a conclusion,
+     THAT IS THE CONCLUSION [E4-25]. A wide spread is also a Q4
+     finding about earnings reliability [E5-11]. **
+
+  1. THE YIELD                  3.43% ..  4.62%   vs sovereign 5.56%
+  2. GROWTH THE PRICE ASSUMES   -0.5%  (at a 5.56% rate)
+  3. POINTS OVER THE SOVEREIGN +0.53 .. +1.78
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

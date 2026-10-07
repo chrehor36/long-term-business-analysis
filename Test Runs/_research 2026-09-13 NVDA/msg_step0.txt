@@ -1,0 +1,18 @@
+NVDA run: Step 0 - sovereign, filings, share count, deals, and the skip reason tested
+
+Sovereign USD 30-year 5.35% (US Treasury daily par yield curve, 09/11/2026). Price US$218.29
+(2026-09-11 close, aggregator flagged) x 24,147M shares (10-Q equity statement at 2026-07-26; the
+10-Q cover 0001045810-26-000075 says 24.1 billion as of August 21, 2026) = US$5,270.9bn. Single
+class; 2021 four-for-one and 2024 ten-for-one splits read from the 10-Ks.
+
+The wave 5 "capex unresolved" label was a tooling artefact, as at AMZN: floor_screen.py at a8bc84f
+returns CAPEX_UNRESOLVED because NVIDIA used PaymentsToAcquirePropertyPlantAndEquipment only for
+FY2010-12 and the first tag with data won; the current screen prices it. Companyfacts also carries
+no capex fact for FY2013-21 under any tag, so long windows are built from the filings.
+
+Deals: NVIDIA is the acquirer of Hugging Face ($11.9bn, 8-K Item 8.01, which deal_note does not
+read); SB Energy residual value guaranties capped at $105bn on OpenAI's leases; $25.0bn of notes.
+Tooling defects recorded: cover_shares.py read the CIK as the share count; deal_filings() is blind
+to Item 8.01 acquisitions; the screen's D&A end includes acquisition amortization.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

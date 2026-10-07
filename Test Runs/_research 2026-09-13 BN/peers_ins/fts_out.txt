@@ -1,0 +1,32 @@
+EQH 10-K 'net investment spread' 0
+EQH 8-K 'net investment spread' 0
+EQH 10-K 'cost of funds' 0
+EQH 8-K 'cost of funds' 2
+EQH 10-K 'base net investment spread' 0
+EQH 8-K 'base net investment spread' 0
+EQH 10-K 'net investment earned rate' 0
+EQH 8-K 'net investment earned rate' 0
+LNC 10-K 'net investment spread' 0
+LNC 8-K 'net investment spread' 0
+LNC 10-K 'cost of funds' 2
+LNC 8-K 'cost of funds' 0
+LNC 10-K 'base net investment spread' 0
+LNC 8-K 'base net investment spread' 0
+LNC 10-K 'net investment earned rate' 0
+LNC 8-K 'net investment earned rate' 0
+JXN 10-K 'net investment spread' 5
+JXN 8-K 'net investment spread' 2
+JXN 10-K 'cost of funds' 5
+JXN 8-K 'cost of funds' 2
+JXN 10-K 'base net investment spread' 0
+JXN 8-K 'base net investment spread' 0
+JXN 10-K 'net investment earned rate' 0
+JXN 8-K 'net investment earned rate' 0
+KKR 10-K 'net investment spread' 0
+KKR 8-K 'net investment spread' 0
+KKR 10-K 'cost of funds' 15
+KKR 8-K 'cost of funds' 0
+KKR 10-K 'base net investment spread' 0
+KKR 8-K 'base net investment spread' 0
+KKR 10-K 'net investment earned rate' 0
+KKR 8-K 'net investment earned rate' 0

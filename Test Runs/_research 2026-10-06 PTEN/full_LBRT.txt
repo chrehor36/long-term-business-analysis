@@ -1,0 +1,308 @@
+Liberty Energy Inc. 0001694028
+AccountsPayableCurrent | 2017:67 2018:80 2019:118 2020:193 2021:289 2022:327 2023:294 2024:314 2025:359
+AccountsPayableRelatedPartiesCurrent | 2017:2 2018:2 2021:3 2022:3
+AccountsReceivableNetCurrent | 2017:196 2018:154 2019:204 2020:244 2021:299 2022:410
+AccountsReceivableRelatedPartiesCurrent | 2017:4 2018:15 2019:10
+AccruedIncomeTaxes | 2018:17 2022:2 2023:12 2024:10
+AccruedIncomeTaxesNoncurrent | 2018:17 2019:48 2020:57 2021:38 2022:119 2023:112 2024:75 2025:67
+AccruedLiabilitiesCurrent | 2020:118 2021:235 2022:279 2023:261 2024:207 2025:232
+AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment | 2017:198 2018:307 2019:456 2020:623 2021:863 2022:1142 2023:1502 2024:1918 2025:1968
+AccumulatedOtherComprehensiveIncomeLossNetOfTax | 2021:-0 2022:-7 2023:-6 2024:-20 2025:-14
+AdditionalPaidInCapital | 2018:313 2019:411 2020:1126 2021:1368 2022:1266 2023:1093 2024:977 2025:978
+AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue | 2018:5 2019:14 2020:17 2023:33 2024:32 2025:42
+AdjustmentsToAdditionalPaidInCapitalStockIssuedIssuanceCosts | 2019:2 2021:1 2022:0 2023:0
+AllowanceForDoubtfulAccountsPremiumsAndOtherReceivables | 2019:1 2020:1 2021:1 2022:1
+AllowanceForDoubtfulAccountsReceivable | 2015:7 2016:0 2019:1 2020:1 2021:1 2022:1 2023:1 2024:1 2025:1
+AllowanceForDoubtfulAccountsReceivableWriteOffs | 2016:6 2017:0 2020:5 2021:1 2023:1 2024:0 2025:1
+AllowanceForLoanAndLeaseLossesWriteOffs | 2019:1 2020:5 2021:1
+AmortizationOfFinancingCosts | 2016:1 2017:2 2018:4 2019:2 2020:2 2021:2
+Assets | 2017:852 2018:1117 2019:1283 2020:1890 2021:2041 2022:2576 2023:3034 2024:3296 2025:3558
+AssetsCurrent | 2017:352 2018:461 2019:489 2020:567 2021:630 2022:957 2023:954 2024:849 2025:878
+AssetsHeldForSaleLongLivedFairValueDisclosure | 2022:6 2023:1
+BusinessAcquisitionCostOfAcquiredEntityTransactionCosts | 2020:8 2021:14 2022:6
+CapitalExpendituresIncurredButNotYetPaid | 2016:30 2017:19 2018:46 2019:32 2020:11 2021:57 2022:108 2023:99 2024:102 2025:59
+CashAndCashEquivalentsAtCarryingValue | 2016:11 2017:16 2018:103 2019:113 2020:69 2021:20 2022:44 2023:37 2024:20 2025:28
+CashAndCashEquivalentsFairValueDisclosure | 2019:87 2020:21 2021:0 2022:0 2023:0 2024:0 2025:0
+CashAndCashEquivalentsPeriodIncreaseDecrease | 2016:11 2017:5 2018:87
+CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents | 2016:11 2017:16 2018:103 2019:113 2020:69 2021:20 2022:44 2023:37 2024:20 2025:28
+CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect | 2020:-44 2021:-49 2022:24 2023:-7 2024:-16 2025:7
+CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect | 2017:5 2018:87 2019:9 2020:-44 2021:-49
+CommonStockDividendsPerShareDeclared | 
+ComprehensiveIncomeNetOfTax | 2019:39 2020:-116 2021:-180 2022:393 2023:558 2024:302 2025:154
+ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest | 2019:36 2020:-45 2021:-8 2022:1 2023:0
+ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest | 2019:75 2020:-161 2021:-187 2022:393 2023:558 2024:302 2025:154
+ConstructionInProgressGross | 2017:26 2018:57 2019:27 2020:154 2021:90 2022:159 2023:157
+ContractWithCustomerLiabilityCurrent | 2017:9 2021:5 2022:4 2023:5 2024:41 2025:8
+ContractWithCustomerLiabilityRevenueRecognized | 2018:9
+CostOfGoodsAndServicesSold | 2016:355 2017:1147 2018:1629 2019:1621 2020:858 2021:2250 2022:3149 2023:3349 2024:3201 2025:3168
+CostsAndExpenses | 2016:429 2017:1309 2018:1849 2019:1887 2020:1143 2021:2652 2022:3653 2023:3987 2024:3926 2025:3933
+CurrentFederalTaxExpenseBenefit | 2018:17 2019:-10 2020:-6 2022:5 2023:36 2024:33 2025:-10
+CurrentForeignTaxExpenseBenefit | 2021:4 2022:4 2023:17 2024:13 2025:1
+CurrentIncomeTaxExpenseBenefit | 2018:20 2019:-9 2020:-5 2021:4 2022:12 2023:58 2024:53 2025:-7
+CurrentStateAndLocalTaxExpenseBenefit | 2018:3 2019:1 2020:0 2021:0 2022:3 2023:5 2024:7 2025:1
+DebtConversionConvertedInstrumentAmount1 | 2017:61
+DebtInstrumentCarryingAmount | 2018:112 2019:110 2020:108 2021:124 2022:220 2023:140 2024:190 2025:247
+DebtInstrumentUnamortizedDiscountCurrent | 2017:2 2018:1 2019:1 2020:1 2021:1 2022:1
+DebtInstrumentUnamortizedDiscountNoncurrent | 2017:6 2018:4 2019:2 2020:1 2021:1 2022:1
+DebtInstrumentUnamortizedDiscountPremiumAndDebtIssuanceCostsNet | 2017:8 2018:5 2019:4 2020:2 2021:2 2022:1 2025:0
+DeferredFederalIncomeTaxExpenseBenefit | 2018:19 2019:23 2020:-23 2021:6 2022:-13 2023:109 2024:32 2025:53
+DeferredForeignIncomeTaxExpenseBenefit | 2021:-1 2022:2 2023:-1 2024:-2 2025:-3
+DeferredIncomeTaxAssetsNet | 2020:5 2021:1 2022:13
+DeferredIncomeTaxExpenseBenefit | 2018:20 2019:23 2020:-26 2021:5 2022:-12 2023:120 2024:34 2025:55
+DeferredIncomeTaxLiabilities | 2018:51 2019:80 2020:66 2021:58 2022:125 2023:278 2024:335 2025:419
+DeferredIncomeTaxLiabilitiesNet | 2018:33 2019:20 2021:1 2022:1 2023:102 2024:138 2025:196
+DeferredStateAndLocalIncomeTaxExpenseBenefit | 2018:1 2019:-0 2020:-2 2021:-0 2022:-1 2023:12 2024:3 2025:4
+DeferredTaxAssetsGoodwillAndIntangibleAssets | 2021:0 2022:1 2023:23 2024:22 2025:22
+DeferredTaxAssetsGross | 2018:18 2019:60 2020:71 2021:150 2022:136 2023:176 2024:198 2025:229
+DeferredTaxAssetsInventory | 2023:3 2024:3 2025:2
+DeferredTaxAssetsLiabilitiesNet | 2018:20 2020:5 2021:6 2021:0 2022:12
+DeferredTaxAssetsNet | 2020:71 2021:58 2022:136 2023:176
+DeferredTaxAssetsOperatingLossCarryforwards | 2018:0 2019:1 2020:3 2021:8 2022:6 2023:1
+DeferredTaxAssetsOperatingLossCarryforwardsDomestic | 2022:26 2025:54
+DeferredTaxAssetsOperatingLossCarryforwardsForeign | 2024:1 2025:2
+DeferredTaxAssetsOperatingLossCarryforwardsStateAndLocal | 2023:1 2024:1 2025:6
+DeferredTaxAssetsOther | 2021:0 2022:0 2023:5 2024:11 2025:2
+DeferredTaxAssetsPropertyPlantAndEquipment | 2022:5
+DeferredTaxAssetsTaxCreditCarryforwards | 2024:10 2025:4
+DeferredTaxAssetsTaxDeferredExpenseCompensationAndBenefitsShareBasedCompensationCost | 2018:2 2019:10 2020:16 2021:50 2022:26 2023:4 2024:4 2025:5
+DeferredTaxAssetsTaxDeferredExpenseReservesAndAccruals | 2018:16 2019:49 2020:53 2021:91 2022:99 2023:87 2024:79 2025:71
+DeferredTaxAssetsValuationAllowance | 2021:91
+DeferredTaxLiabilities | 2018:33 2019:20 2023:102 2024:136 2025:191
+DeferredTaxLiabilitiesInvestments | 2020:65 2021:57 2022:122
+DeferredTaxLiabilitiesLeasingArrangements | 2023:56 2024:83 2025:94
+DeferredTaxLiabilitiesNoncurrent | 2018:33
+DeferredTaxLiabilitiesPrepaidExpenses | 2018:0 2019:1 2020:1 2021:1 2022:3 2023:1 2024:18 2025:34
+DeferredTaxLiabilitiesPropertyPlantAndEquipment | 2018:50 2019:79 2020:65 2021:0 2023:221 2024:234 2025:291
+DefinedContributionPlanEmployerDiscretionaryContributionAmount | 2022:26 2023:33 2024:37 2025:40
+DefinedContributionPlanEmployerMatchingContributionPercent | 
+Depletion | 2021:1 2022:1 2023:1 2024:1 2025:1
+Depreciation | 2016:41 2017:81 2018:125 2019:154 2020:170 2021:243 2022:302 2023:388 2024:448 2025:428
+DepreciationDepletionAndAmortization | 2016:41 2017:81 2018:125 2019:165 2020:180 2021:263 2022:323 2023:422 2024:505 2025:500
+DilutiveSecurities | 2018:87 2019:17 2022:1 2023:0
+DistributionMadeToLimitedPartnerDistributionsDeclaredPerUnit | 
+Dividends | 2018:12 2019:15 2020:4 2023:39 2024:49 2025:55
+DueFromRelatedPartiesCurrent | 2020:25
+DueToRelatedPartiesCurrent | 2019:1 2021:1
+DueToRelatedPartiesCurrentAndNoncurrent | 2021:3
+EarningsPerShareBasic | 
+EarningsPerShareDiluted | 
+EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents | 2022:-0 2023:0 2024:-0 2025:1
+EffectiveIncomeTaxRateContinuingOperations | 
+EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate | 
+EffectiveIncomeTaxRateReconciliationChangeInDeferredTaxAssetsValuationAllowance | 
+EffectiveIncomeTaxRateReconciliationChangeInEnactedTaxRate | 
+EffectiveIncomeTaxRateReconciliationCrossBorderTaxEffectAmount | 
+EffectiveIncomeTaxRateReconciliationCrossBorderTaxEffectPercent | 
+EffectiveIncomeTaxRateReconciliationDeductions | 
+EffectiveIncomeTaxRateReconciliationForeignIncomeTaxRateDifferential | 
+EffectiveIncomeTaxRateReconciliationMinorityInterestIncomeExpense | 
+EffectiveIncomeTaxRateReconciliationOtherAdjustments | 
+EffectiveIncomeTaxRateReconciliationOtherReconcilingItemsPercent | 
+EffectiveIncomeTaxRateReconciliationShareBasedCompensationExcessTaxBenefitAmount | 2019:0 2020:2 2021:-1 2022:-3 2023:-0 2024:-2 2025:0
+EffectiveIncomeTaxRateReconciliationShareBasedCompensationExcessTaxBenefitPercent | 
+EffectiveIncomeTaxRateReconciliationStateAndLocalIncomeTaxes | 
+EffectiveIncomeTaxRateReconciliationTaxContingencies | 
+EffectiveIncomeTaxRateReconciliationTaxCreditEnergyRelatedAmount | 2023:0 2024:3 2025:2
+EffectiveIncomeTaxRateReconciliationTaxCreditEnergyRelatedPercent | 
+EffectiveIncomeTaxRateReconciliationTaxCreditsInvestment | 
+EffectiveIncomeTaxRateReconciliationTaxCreditsResearch | 
+EmployeeRelatedLiabilitiesCurrent | 2017:25 2018:23 2019:29 2020:28 2024:77 2025:88
+EquityMethodInvestmentDividendsOrDistributions | 2024:4 2025:5
+FinanceLeaseInterestExpense | 2019:3 2020:2 2021:2 2022:2 2023:6 2024:17 2025:21
+FinanceLeaseLiability | 2019:49 2020:32 2021:13 2022:34 2023:174 2024:270 2025:307
+FinanceLeaseLiabilityCurrent | 2019:24 2020:21 2021:9 2022:11 2023:40 2024:67 2025:94
+FinanceLeaseLiabilityNoncurrent | 2019:25 2020:11 2021:4 2022:22 2023:134 2024:204 2025:213
+FinanceLeaseLiabilityPaymentsDue | 2019:51 2020:34 2021:15 2022:39 2023:203 2024:310 2025:347
+FinanceLeaseLiabilityPaymentsDueAfterYearFive | 
+FinanceLeaseLiabilityPaymentsDueNextTwelveMonths | 2019:26 2020:21 2021:9 2022:12 2023:51 2024:87 2025:116
+FinanceLeaseLiabilityPaymentsDueYearFive | 2022:0 2023:20 2024:22 2025:5
+FinanceLeaseLiabilityPaymentsDueYearFour | 2022:13 2023:28 2024:60 2025:48
+FinanceLeaseLiabilityPaymentsDueYearThree | 2019:4 2020:4 2022:7 2023:53 2024:55 2025:92
+FinanceLeaseLiabilityPaymentsDueYearTwo | 2019:21 2020:8 2021:5 2022:7 2023:51 2024:86 2025:87
+FinanceLeaseLiabilityUndiscountedExcessAmount | 2019:3 2020:2 2021:1 2022:5 2023:29 2024:40 2025:40
+FinanceLeasePrincipalPayments | 2019:15 2020:13 2021:9 2022:11 2023:23 2024:67
+FinanceLeaseRightOfUseAsset | 2019:55 2020:39 2021:18 2022:42 2023:182 2024:283 2025:342
+FinanceLeaseRightOfUseAssetAmortization | 2019:10 2020:8 2021:5 2022:6 2023:19 2024:43 2025:58
+FinanceLeaseWeightedAverageDiscountRatePercent | 
+GainLossOnDispositionOfAssets1 | 2016:3 2017:-0 2018:4 2019:-3 2020:0 2021:-1 2022:5 2023:7 2024:5 2025:-17
+GainLossOnInvestments | 2022:3 2024:49 2025:163
+GainLossOnSaleOfProperties | 2022:-1
+GainLossOnSaleOfPropertyPlantEquipment | 2021:1
+GeneralAndAdministrativeExpense | 2016:36 2017:80 2018:99 2019:98 2020:84 2021:123 2022:180 2023:221 2024:225 2025:247
+GoodwillImpairmentLoss | 
+IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic | 2019:89 2020:-192 2021:-192 2022:376 2023:668 2024:356 2025:202
+IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest | 2019:89 2020:-192 2021:-178 2022:400 2023:735 2024:403 2025:195
+IncomeLossFromContinuingOperationsBeforeIncomeTaxesForeign | 2021:14 2022:24 2023:67 2024:47 2025:-7
+IncomeLossIncludingPortionAttributableToNoncontrollingInterest | 2016:-61 2017:169 2018:289 2019:89 2020:-192 2021:-178 2022:400 2023:735 2024:403 2025:195
+IncomeTaxExpenseBenefit | 2018:40 2019:14 2020:-31 2021:9 2022:-1 2023:178 2024:87 2025:47
+IncomeTaxPaidFederalAfterRefundReceived | 2023:53 2024:3 2025:7
+IncomeTaxPaidForeignAfterRefundReceived | 2023:6 2024:29 2025:1
+IncomeTaxPaidStateAndLocalAfterRefundReceived | 2023:8 2024:4 2025:3
+IncomeTaxReconciliationChangeInDeferredTaxAssetsValuationAllowance | 2021:50 2022:-91
+IncomeTaxReconciliationChangeInEnactedTaxRate | 
+IncomeTaxReconciliationForeignIncomeTaxRateDifferential | 2021:0 2022:1 2023:2 2024:1 2025:-0
+IncomeTaxReconciliationIncomeTaxExpenseBenefitAtFederalStatutoryIncomeTaxRate | 2018:61 2019:19 2020:-40 2021:-37 2022:84 2023:154 2024:85 2025:41
+IncomeTaxReconciliationMinorityInterestIncomeExpense | 2018:25 2019:8 2020:-9 2021:-2 2022:0 2023:0
+IncomeTaxReconciliationOtherAdjustments | 2022:-3 2023:-0 2024:0 2025:0
+IncomeTaxReconciliationOtherReconcilingItems | 2018:2 2019:1 2020:-0 2021:0 2022:1 2023:1 2024:-3 2025:1
+IncomeTaxReconciliationRepatriationOfForeignEarnings | 2022:0
+IncomeTaxReconciliationStateAndLocalIncomeTaxes | 2018:4 2019:2 2020:-2 2021:-5 2022:10 2023:16 2024:9 2025:6
+IncomeTaxReconciliationTaxContingencies | 
+IncomeTaxReconciliationTaxCredits | 2024:7
+IncomeTaxReconciliationTaxCreditsInvestment | 2024:2
+IncomeTaxReconciliationTaxCreditsResearch | 2023:0 2024:4 2025:4
+IncomeTaxesPaidNet | 2018:27 2019:1 2020:-10 2021:-9 2022:11 2023:67 2024:36 2025:11
+IncreaseDecreaseInAccountsPayableAndAccruedLiabilities | 2016:39 2017:111 2018:-27 2019:22 2020:-15 2021:161 2022:58 2023:-45 2024:-41 2025:98
+IncreaseDecreaseInAccountsReceivable | 2016:41 2017:134 2018:-23 2019:12 2020:-53 2021:90 2022:167 2023:-20 2024:-18 2025:70
+IncreaseDecreaseInAccountsReceivableRelatedParties | 2016:2 2017:-3 2018:11 2019:-6 2020:-10 2022:26 2023:20 2024:-41 2025:-4
+IncreaseDecreaseInDeferredRevenue | 2021:3 2022:-1
+IncreaseDecreaseInInventories | 2016:12 2017:28 2018:5 2019:30 2020:-2 2021:25 2022:85 2023:0 2024:-0 2025:-12
+IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets | 2016:3 2017:13 2018:33 2019:6 2020:-14 2021:31 2022:56 2023:66 2024:28 2025:42
+IncrementalCommonSharesAttributableToShareBasedPaymentArrangements | 2018:47 2019:31 2022:1 2023:0
+InterestExpense | 2016:6 2017:13 2018:17 2019:15 2020:15
+InterestExpenseNonoperating | 2022:23 2023:29 2024:33 2025:40
+InterestExpenseRelatedParty | 2017:1 2019:-2
+InterestIncomeOther | 2017:0 2018:0 2019:1 2020:0 2023:2 2024:0
+InterestIncomeRelatedParty | 2019:2 2020:0
+InterestPaidNet | 2016:5 2017:10 2018:14 2019:13 2020:11 2021:13 2022:20 2023:27 2024:33 2025:40
+InterestPayableCurrent | 2017:7 2018:10 2019:11
+InventoryNet | 2017:56 2018:60 2019:89 2020:119 2021:135 2022:214 2023:206 2024:203 2025:188
+InventoryWriteDown | 2017:0 2018:3 2019:2 2020:1 2022:2 2023:6 2024:1 2025:4
+LandAvailableForSale | 2022:1 2023:1 2025:4
+LeaseAndRentalExpense | 2018:41
+LeaseCost | 2019:37 2020:39 2021:57 2022:62 2023:78 2024:106 2025:124
+LesseeOperatingLeaseLiabilityPaymentsDue | 2019:63 2020:86 2021:120 2022:108 2023:103 2024:82 2025:73
+LesseeOperatingLeaseLiabilityPaymentsDueAfterYearFive | 2019:16 2020:22 2021:18 2022:15 2023:13 2024:10 2025:8
+LesseeOperatingLeaseLiabilityPaymentsDueNextTwelveMonths | 2019:18 2020:27 2021:35 2022:31 2023:31 2024:32 2025:26
+LesseeOperatingLeaseLiabilityPaymentsDueYearFive | 2019:4 2020:4 2021:8 2022:5 2023:2 2024:3 2025:4
+LesseeOperatingLeaseLiabilityPaymentsDueYearFour | 2019:4 2020:6 2021:16 2022:11 2023:9 2024:4 2025:7
+LesseeOperatingLeaseLiabilityPaymentsDueYearThree | 2019:7 2020:8 2021:18 2022:22 2023:19 2024:12 2025:10
+LesseeOperatingLeaseLiabilityPaymentsDueYearTwo | 2019:14 2020:19 2021:25 2022:25 2023:30 2024:21 2025:19
+LesseeOperatingLeaseLiabilityUndiscountedExcessAmount | 2019:11 2020:12 2021:12 2022:11 2023:12 2024:9 2025:9
+LessorOperatingLeasePaymentsToBeReceived | 2021:25 2022:27 2023:17 2024:8 2025:2
+LessorOperatingLeasePaymentsToBeReceivedFiveYears | 
+LessorOperatingLeasePaymentsToBeReceivedFourYears | 2021:1
+LessorOperatingLeasePaymentsToBeReceivedNextTwelveMonths | 2021:10 2022:17 2023:10 2024:5 2025:2
+LessorOperatingLeasePaymentsToBeReceivedThereafter | 
+LessorOperatingLeasePaymentsToBeReceivedThreeYears | 2021:4 2022:1 2023:2
+LessorOperatingLeasePaymentsToBeReceivedTwoYears | 2021:10 2022:9 2023:5 2024:2
+Liabilities | 2017:417 2018:376 2019:502 2020:580 2021:810 2022:1079 2023:1192 2024:1318 2025:1479
+LiabilitiesAndStockholdersEquity | 2017:852 2018:1117 2019:1283 2020:1890 2021:2041 2022:2576 2023:3034 2024:3296 2025:3558
+LiabilitiesCurrent | 2017:221 2018:220 2019:266 2020:356 2021:569 2022:649 2023:639 2024:667 2025:720
+LongTermDebt | 2017:196 2018:107 2019:106 2020:106 2021:122 2022:218 2023:140 2024:190 2025:247
+LongTermDebtCurrent | 2017:0 2018:0 2019:0 2020:0 2021:1 2022:1 2025:5
+LongTermDebtMaturitiesRepaymentsOfPrincipalInNextTwelveMonths | 2018:2 2019:2 2020:2 2021:2 2022:2 2025:5
+LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFive | 2023:140 2025:230
+LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFour | 2018:106 2024:190 2025:0
+LongTermDebtMaturitiesRepaymentsOfPrincipalInYearThree | 2018:2 2019:106 2021:121 2025:6
+LongTermDebtMaturitiesRepaymentsOfPrincipalInYearTwo | 2018:2 2019:2 2020:106 2021:2 2022:218 2025:6
+LongTermDebtNoncurrent | 2017:196 2018:106 2019:106 2020:105 2021:121 2022:217 2023:140 2024:190 2025:242
+MembersEquity | 2017:393
+MinorityInterest | 2018:308 2019:227 2020:159 2021:17 2022:2
+MinorityInterestDecreaseFromDistributionsToNoncontrollingInterestHolders | 2018:21 2020:-1
+NetCashProvidedByUsedInFinancingActivities | 2016:149 2017:120 2018:-9 2019:-57 2020:-29 2021:2 2022:-56 2023:-349 2024:-203 2025:-168
+NetCashProvidedByUsedInInvestingActivities | 2016:-96 2017:-310 2018:-255 2019:-194 2020:-100 2021:-186 2022:-451 2023:-672 2024:-643 2025:-435
+NetCashProvidedByUsedInOperatingActivities | 2016:-41 2017:195 2018:351 2019:261 2020:85 2021:135 2022:530 2023:1015 2024:829 2025:610
+NetIncomeLoss | 2018:126 2019:39 2020:-116 2021:-179 2022:400 2023:556 2024:316 2025:148
+NetIncomeLossAttributableToNoncontrollingInterest | 2018:114 2019:36 2020:-45 2021:-8 2022:1 2023:0
+NetIncomeLossAvailableToCommonStockholdersDiluted | 2018:213 2019:56 2020:-116 2021:-179 2022:400 2023:556 2024:316
+NoncashContributionExpense | 2023:1 2024:1 2025:1
+NoncontrollingInterestIncreaseFromSubsidiaryEquityIssuance | 
+NonoperatingIncomeExpense | 2019:-15 2020:-15 2021:3 2022:-96 2023:-26
+NumberOfOperatingSegments | 
+NumberOfReportableSegments | 
+NumberOfReportingUnits | 
+OperatingIncomeLoss | 2016:-54 2017:181 2018:307 2019:104 2020:-177 2021:-181 2022:496 2023:761 2024:389 2025:73
+OperatingLeaseCost | 2019:21 2020:26 2021:40 2022:43 2023:40 2024:36 2025:36
+OperatingLeaseExpense | 2018:21 2019:41 2020:41
+OperatingLeaseLeaseIncome | 2021:3 2022:26 2023:37 2024:39 2025:46
+OperatingLeaseLiability | 2019:53 2020:74 2021:108 2022:97 2023:92 2024:73 2025:64
+OperatingLeaseLiabilityCurrent | 2019:16 2020:23 2021:31 2022:27 2023:28 2024:29 2025:22
+OperatingLeaseLiabilityNoncurrent | 2019:37 2020:50 2021:77 2022:69 2023:64 2024:44 2025:42
+OperatingLeasePayments | 2019:21 2020:24 2021:37 2022:42 2023:41 2024:36 2025:37
+OperatingLeaseResidualValueOfLeasedAsset | 2019:3 2020:9 2021:12 2022:13 2023:15 2024:12 2025:12
+OperatingLeaseRightOfUseAsset | 2019:53 2020:76 2021:110 2022:97 2023:93 2024:73 2025:65
+OperatingLeaseWeightedAverageDiscountRatePercent | 
+OperatingLeasesFutureMinimumPaymentsDue | 2018:154
+OperatingLeasesFutureMinimumPaymentsDueCurrent | 2018:43
+OperatingLeasesFutureMinimumPaymentsDueInFiveYears | 2018:4
+OperatingLeasesFutureMinimumPaymentsDueInFourYears | 2018:6
+OperatingLeasesFutureMinimumPaymentsDueInThreeYears | 2018:32
+OperatingLeasesFutureMinimumPaymentsDueInTwoYears | 2018:49
+OperatingLeasesFutureMinimumPaymentsDueThereafter | 2018:20
+OtherAssets | 2022:105 2023:159 2024:119
+OtherAssetsNoncurrent | 2017:5 2018:28 2019:34 2020:82 2021:82 2022:105 2024:119 2025:148
+OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax | 2021:-0 2022:-7 2023:1 2024:-14 2025:6
+OtherNoncashIncomeExpense | 2020:-2 2021:-2 2023:-7 2024:-0 2025:-5
+OtherNonoperatingIncomeExpense | 2022:-96 2023:-26 2024:14 2025:122
+PaymentsForRepurchaseOfCommonStock | 2018:83 2019:18 2022:125 2023:203 2024:129 2025:25
+PaymentsForRepurchaseOfRedeemableNoncontrollingInterest | 2017:63
+PaymentsOfDebtIssuanceCosts | 2016:0 2017:9 2018:0 2020:0 2021:3 2022:1 2023:2 2025:6
+PaymentsOfDividends | 2018:12 2019:15 2020:4 2021:0 2022:9 2023:38 2024:48 2025:54
+PaymentsOfStockIssuanceCosts | 2017:4 2018:6 2019:2 2020:2 2021:1 2022:0 2023:0
+PaymentsRelatedToTaxWithholdingForShareBasedCompensation | 2019:1 2020:1 2021:4 2022:10
+PaymentsToAcquireBusinessesNetOfCashAcquired | 2023:76 2025:15
+PaymentsToAcquireEquityMethodInvestments | 2022:15 2023:20 2024:16
+PaymentsToAcquireInvestments | 2022:15 2023:20 2024:16
+PaymentsToAcquireProductiveAssets | 2016:102 2017:312 2018:259 2019:195 2020:104 2021:199 2022:452 2023:603 2024:651 2025:595
+PaymentsToMinorityShareholders | 2018:21 2019:8 2020:2 2022:0
+PreferredStockParOrStatedValuePerShare | 
+PreferredStockSharesAuthorized | 2017:0 2018:0 2019:0 2020:0 2021:0 2022:0 2023:0 2024:0 2025:0
+PreferredStockSharesIssued | 
+PreferredStockSharesOutstanding | 
+PreferredStockValue | 
+PrepaidExpenseAndOtherAssetsCurrent | 2017:21 2018:50 2019:35 2020:66 2021:68 2022:113 2023:124 2024:85 2025:57
+ProceedsFromContributionsFromParent | 2016:155 2017:276
+ProceedsFromIssuanceOfCommonStock | 2018:230
+ProceedsFromIssuanceOfOtherLongTermDebt | 2017:172 2025:17
+ProceedsFromLimitedPartnershipInvestments | 2023:1 2024:4 2025:5
+ProceedsFromLongTermLinesOfCredit | 2016:85 2017:141 2021:274 2022:713 2023:1153 2024:2238 2025:1650
+ProceedsFromRelatedPartyDebt | 2017:60
+ProceedsFromSaleOfProductiveAssets | 2016:6 2017:2 2018:3 2019:1 2020:3 2021:25 2022:24 2023:27 2024:24 2025:25
+ProceedsFromSaleOfPropertyPlantAndEquipment | 2021:1 2022:0 2023:0
+ProfitLoss | 2016:-61 2017:169 2018:249 2019:75 2020:-161 2021:-187 2022:400 2023:556 2024:316 2025:148
+PropertyPlantAndEquipmentGross | 2017:668 2018:878 2019:1081 2020:1590 2021:1973 2022:2346 2023:2990
+PropertyPlantAndEquipmentNet | 2017:495 2018:627 2019:652 2020:1121 2021:1199 2022:1362 2023:1645 2024:1891 2025:2054
+PropertySubjectToOrAvailableForOperatingLeaseAccumulatedDepreciation | 2021:1 2022:11 2023:26 2024:41 2025:59
+PropertySubjectToOrAvailableForOperatingLeaseGross | 2021:65 2022:106 2023:139 2024:164 2025:159
+PropertySubjectToOrAvailableForOperatingLeaseNet | 2021:63 2022:95 2023:113 2024:123 2025:99
+ProvisionForDoubtfulAccounts | 2019:1 2020:5 2020:5 2021:1 2023:1 2025:1
+ProvisionForLoanLossesExpensed | 2020:5 2021:1
+PurchaseObligation | 2018:691 2019:526 2020:127 2021:26 2022:203 2023:157 2024:26 2025:12
+PurchaseObligationDueAfterFifthYear | 
+PurchaseObligationDueInFifthYear | 2019:6 2020:8
+PurchaseObligationDueInFourthYear | 2018:4 2019:13 2020:10
+PurchaseObligationDueInNextTwelveMonths | 2018:342 2019:349 2020:82 2021:25 2022:159 2023:144 2024:26 2025:12
+PurchaseObligationDueInSecondYear | 2018:248 2019:140 2020:18 2021:1 2022:45 2023:13 2025:0
+PurchaseObligationDueInThirdYear | 2018:97 2019:17 2020:10
+RepaymentsOfLongTermCapitalLeaseObligations | 2016:6 2017:0 2019:12 2020:12
+RepaymentsOfLongTermLinesOfCredit | 2016:37 2017:159 2018:30 2021:256 2022:616 2023:1128 2024:2188 2025:1610
+RepaymentsOfOtherLongTermDebt | 2016:49 2017:57 2018:63 2019:2 2020:2 2021:2 2022:2 2023:105
+RetainedEarningsAccumulatedDeficit | 2018:119 2019:143 2020:23 2021:-156 2022:235 2023:752 2024:1020 2025:1113
+RevenueFromContractWithCustomerIncludingAssessedTax | 2016:357 2017:1465 2018:2132 2019:1972 2020:966 2021:2447 2022:4001
+RevenueFromRelatedParties | 2016:18 2017:25 2018:23 2019:18 2021:24 2022:148
+Revenues | 2016:375 2017:1490 2018:2155 2019:1990 2020:966 2021:2471 2022:4149 2023:4748 2024:4315 2025:4006
+RightOfUseAssetObtainedInExchangeForFinanceLeaseLiability | 2019:65 2020:11 2021:2 2022:26 2023:161 2024:149 2025:119
+RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability | 2019:71 2020:30 2021:71 2022:26 2023:31 2024:15 2025:29
+ShareBasedCompensation | 2018:5 2019:14 2020:17 2021:20 2022:23 2023:33 2024:32 2025:42
+ShortTermLeaseCost | 2021:5 2022:7 2023:8 2024:3 2025:3
+StockIssuedDuringPeriodValueConversionOfConvertibleSecurities | 
+StockIssuedDuringPeriodValueConversionOfUnits | 2018:45
+StockIssuedDuringPeriodValueNewIssues | 2018:220 2020:682
+StockIssuedDuringPeriodValueRestrictedStockAwardForfeitures | 
+StockIssuedDuringPeriodValueRestrictedStockAwardGross | 
+StockRedeemedOrCalledDuringPeriodValue | 2018:26
+StockRepurchaseProgramRemainingNumberOfSharesAuthorizedToBeRepurchased | 2022:125 2023:172 2024:294
+StockRepurchasedAndRetiredDuringPeriodShares | 2022:8
+StockRepurchasedAndRetiredDuringPeriodValue | 2022:125
+StockRepurchasedDuringPeriodValue | 2018:83 2019:17 2022:125 2023:203 2024:127 2025:24
+StockholdersEquity | 2018:433 2019:555 2020:1151 2021:1213 2022:1495 2023:1841
+StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest | 2016:229 2017:393 2018:401 2018:741 2019:781 2020:1310 2021:1230 2022:1497 2023:1841 2024:1979 2025:2079
+SubleaseIncome | 2020:0
+TemporaryEquityCarryingAmountAttributableToParent | 2017:42
+UnbilledReceivablesCurrent | 2017:59 2018:79 2019:39 2020:70 2021:109 2022:176 2023:189 2024:185 2025:254
+UnrealizedGainLossOnInvestments | 2022:3 2024:49
+ValuationAllowanceDeferredTaxAssetChangeInAmount | 2021:85
+VariableLeaseCost | 2019:3 2020:3 2021:4 2022:5 2023:5 2024:6 2025:6
+WeightedAverageNumberOfDilutedSharesOutstanding | 2018:118 2019:105 2020:85 2021:174 2022:189 2023:176 2024:169 2025:165
+WeightedAverageNumberOfSharesOutstandingBasic | 2018:69 2019:72 2020:85 2021:174 2022:184 2023:172 2024:165 2025:162

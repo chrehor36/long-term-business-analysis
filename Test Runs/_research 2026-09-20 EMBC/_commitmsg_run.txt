@@ -1,0 +1,58 @@
+EMBC run: Step 0 resolves all three flags, Q1 IN, Q2 OUT -- the filer calls its own category commoditized
+
+Step 0A settles the three liveness flags from primary documents before Q1 opened.
+
+1. deal_note. Embecta is the ACQUIRER, not the target. 8-K 0000947871-26-000310
+   (Item 1.01, 2026-03-19) is the purchase of Owen Mumford Holdings Limited for
+   GBP 100m cash upfront plus up to GBP 50m of Aidaptus milestones; 8-K
+   0000947871-26-000546 (Item 2.01) records completion on 2026-05-15. No
+   shareholder vote, no listed counterparty, cash consideration. The quote is not
+   a merger spread. What the flag really resolves to is a perimeter change, with
+   4.5 months of Owen Mumford inside FY2026.
+
+2. cap_flag. Re-struck by hand: 56,659,599 shares from the cover of the 10-Q for
+   the quarter ended 2026-06-30 (0001872789-26-000033, count as of 2026-07-31)
+   times $5.29, the close of 2026-09-18 (aggregator, flagged), equals $299.7M.
+   The screen's $286M was about 5% low. The $732M float is the FY2025 10-K cover
+   figure struck at 2025-03-31. Both inputs are sound; the share price fell about
+   63% in twelve months. The CALM drawdown-detector case, confirmed.
+
+3. name_change_note. "Berra Newco, Inc." is the registration shell for the
+   2022-04-01 spin from Becton Dickinson. FY2020 and FY2021 in companyfacts are
+   BD carve-out years carrying no spin debt and no standalone corporate cost,
+   FY2022 is a stub, and the FY2022 10-K says in Note 1 that those statements
+   "did not purport to reflect what the Company's results of operations ... would
+   have been had the Company operated as a standalone public company". So the
+   owner-earnings mean has three clean years against a corpus default window of
+   five [E2-42]. Carried as a Q4 finding, and it accounts for every level_shift
+   and window_disagree flag on the screen row.
+
+Q1 IN. A single-product disposable consumable, one reporting unit, no segments,
+no float. The finding is that the two candidate scarce inputs are both owned by
+the former parent: BD "retained ownership of all cannula production activities
+and the associated intellectual property rights", and the BD brand is held under
+a "temporary license".
+
+Q2 OUT. [E3-03] criterion 2 fails on the company's own filed words. The FY2025
+10-K's MD&A headings are "Commoditization of Injection Devices" and "Pricing
+Pressures", and "Changes in Clinical Practice" says GLP-1s and once-weekly
+insulin "have delayed initiation of insulin therapy and contributed to less
+demand for our products", with developed-market therapy transitioning to pumps.
+The price/volume bridge confirms it: FY2025 minus $52.9M volume; 9M FY2026 minus
+$60.0M volume AND minus $27.4M price; Q3 FY2026 alone minus $20.1M price on a
+$271.7M base. [E2-44] and [E4-37] both answer no. [E4-55]'s unit read: pen
+needles minus 13.2% and US revenue minus 20.6% over nine months, in the region
+where the BD-to-Embecta brand transition launched first. Under [E4-04] the brand
+spending buys a replacement, not a defence.
+
+Competitor row: 3 of 6 real competitors, filing-sourced, same window FY2023 to
+latest full year. Insulet plus 59.6%, Tandem plus 35.7%, Novo Nordisk plus 33.1%,
+against Embecta minus 3.6%, with Embecta's gross margin falling 66.9 to 62.6 to
+58.7 while two of three peers widened. Terumo, Ypsomed and MTD Group are
+unavailable with the rung and obstacle named (403, 404, no public filings); the
+class is NONE and is established from the subject's own filings, so the missing
+peers could only deepen it.
+
+The file closes at Q2. No Q5 arithmetic appears anywhere in this run.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

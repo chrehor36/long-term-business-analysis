@@ -1,0 +1,20 @@
+NVDA run: Q2 OUT on [E4-04], with [E3-03] criterion 2 as the customers' filings test it
+
+NVIDIA passes criteria 1 and 3 and the [E3-43] return test at a level no semiconductor row in this
+queue has shown (Compute and Networking 71.2% segment margin, +101% in H1 FY2027; net income over
+average equity 101.5% FY2026), and leads the filed row on nearly every measure of position.
+
+It fails [E4-04] on its own words ("rapid technological change", a one-year product cadence) and on
+the provisions each replacement leaves ($2.17bn FY2023, $3.7bn FY2025, $7.2bn FY2026 incl. the
+$4.5bn H20 charge); in the one flat-demand year on file (FY2023) it cut prices and operating margin
+fell 37.3% to 15.7%. It fails criterion 2 because its largest customers have contracted substitutes
+at gigawatt scale (OpenAI ~2 GW and Anthropic up to 5 GW of Trainium; AMD warrants to OpenAI and
+Meta; Broadcom files 20+ GW of custom accelerators; Alphabet sells TPU systems), and because NVIDIA
+paid ~$17bn to license Groq's architecture and now finances demand ($99bn stakes, $36bn capacity
+buy-backs, guarantees up to $108.5bn). Class: position dominant, franchise class none under [E4-04],
+a surfing run. The TSM run's open operator question on [E4-04] is flagged, not resolved; a corpus
+sweep found no instance of the corpus naming NVIDIA.
+
+Competitor row with accessions: peers/competitor_row.md (Broadcom 10-Q filed 2026-09-10 fetched).
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

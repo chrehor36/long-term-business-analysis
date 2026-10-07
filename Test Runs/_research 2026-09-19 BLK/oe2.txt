@@ -1,0 +1,24 @@
+year  OCF exCIP   SBC(larger)   OE c=capex  OE c=D&A   sh(dil)  OE/sh c=capex  OE/sh c=D&A
+2021       6168           786        5041      4967     154.4         32.65        32.17
+2022       5668           826        4309      4424     152.4         28.27        29.03
+2023       5684           707        4633      4550     150.7         30.74        30.19
+2024       7267          1379        5633      5309     151.6         37.16        35.02
+2025       7463          1807        5281      4530     160.9         32.82        28.15
+
+PER SHARE, c=D&A:  2021 32.17 -> 2024 35.02 (peak) -> 2025 28.15
+  2025 vs 2024: -19.6%   2025 vs 2021: -12.5%
+PER SHARE, c=capex: 2021 32.65 -> 2024 37.16 (peak) -> 2025 32.82  (2025 vs 2021 +0.5%)
+
+--- the named death, quantified [E3-24, E4-40] ---
+AUM 2026-06-30 15,344,624M of which equity 8,888,234M = 57.9%
+  equity -30% and everything else -5%: AUM 12,355,334M = -19.5%
+     base fees at the blended 15.22bp: $18,805M against $19,179M actual (-2.0%)
+  equity -40% and everything else -10%: AUM 11,143,691M = -27.4%
+     base fees at the blended 15.22bp: $16,961M against $19,179M actual (-11.6%)
+  equity -50% and everything else -15%: AUM 9,932,048M = -35.3%
+     base fees at the blended 15.22bp: $15,117M against $19,179M actual (-21.2%)
+
+securities on loan indemnified $353,000M; collateral held $375,000M = 106.2%
+  5% of the book with defaulting borrowers and a 15% collateral shortfall: $2,648M = 4.7% of equity, 48% of one year of net income
+  20% of the book with defaulting borrowers and a 15% collateral shortfall: $10,590M = 18.9% of equity, 191% of one year of net income
+  20% of the book with defaulting borrowers and a 30% collateral shortfall: $21,180M = 37.9% of equity, 381% of one year of net income

@@ -1,0 +1,24 @@
+cap 1767.8702551200001
+5y D&A-ex: -72.3 yield -4.09% vs 5.35: -9.44 pts
+5y capex: -87.2 yield -4.93% vs 5.35: -10.28 pts
+3y D&A-ex: -64.6 yield -3.65% vs 5.35: -9.00 pts
+TTM D&A-ex: -47.7 yield -2.70% vs 5.35: -8.05 pts
+TTM capex: -64.0 yield -3.62% vs 5.35: -8.97 pts
+worst 3y capex: -93.9 yield -5.31% vs 5.35: -10.66 pts
+best 3y D&A-ex: -57.8 yield -3.27% vs 5.35: -8.62 pts
+as filed best 3y DAex: -6.0 yield -0.34% vs 5.35: -5.69 pts
+as filed 5y capex: -52.9 yield -2.99% vs 5.35: -8.34 pts
+screen bottom: -51.9 yield -2.94% vs 5.35: -8.29 pts
+screen top: -44.2 yield -2.50% vs 5.35: -7.85 pts
+needed at 5.35% 94.58105864892 at 10% 176.787025512
+share of FY26 rev guide mid 850 0.2079847358964706
+margin 0.166 revenue needed 1064.9820813975905 x guide 1.2529200957618711
+margin 0.257 revenue needed 687.8872588015564 x guide 0.8092791280018311
+margin 0.142 revenue needed 1244.9790529014087 x guide 1.4646812387075396
+margin 0.238 revenue needed 742.8026282016808 x guide 0.8738854449431539
+per car 213.1823729518279
+reverse fee/share 0.6789372673270797 unaffected+fee 7.93893726732708 downside -0.2373739416592623 -0.3025936599423631
+ACV fee/share 0.3397630557222246
+EV (cap + revolver - own cash) 1799.63225512 EV incl warehouse 1924.63225512
+margin TTM capex -0.07985259671624619
+deal value to fully diluted 1916.759943

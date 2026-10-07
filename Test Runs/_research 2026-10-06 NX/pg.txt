@@ -1,0 +1,16 @@
+PGTI_facts.json
+  2010-01-02 sales      166 opinc      -8 margin  -5.0%  impair      1  OCF-capex      7  0001193125-12-116968
+  2011-01-01 sales      176 opinc      -9 margin  -5.3%  impair      6  OCF-capex      9  0001193125-12-116968
+  2011-12-31 sales      167 opinc     -15 margin  -9.2%  impair      6  OCF-capex     -5  0001193125-12-116968
+  2012-12-29 sales      175 opinc      13 margin   7.2%  impair      0  OCF-capex     19  0001193125-13-086990
+  2013-12-28 sales      239 opinc      28 margin  11.6%  impair      0  OCF-capex     18  0001193125-14-075673
+  2015-01-03 sales      306 opinc      36 margin  11.9%  impair      0  OCF-capex     na  0001193125-15-098115
+  2016-01-02 sales      390 opinc      51 margin  13.1%  impair      0  OCF-capex     na  0001193125-16-501425
+  2016-12-31 sales      459 opinc      59 margin  12.9%  impair      0  OCF-capex     29  0001193125-17-078296
+  2017-12-30 sales      511 opinc      60 margin  11.8%  impair      0  OCF-capex     31  0001193125-18-082384
+  2018-12-29 sales      698 opinc      95 margin  13.6%  impair      0  OCF-capex     71  0001564590-19-004831
+  2019-12-28 sales      745 opinc      84 margin  11.3%  impair      0  OCF-capex     50  0001564590-20-006608
+  2021-01-02 sales      883 opinc      85 margin   9.6%  impair      0  OCF-capex     51  0001564590-21-010144
+  2022-01-01 sales     1161 opinc     100 margin   8.6%  impair      0  OCF-capex     30  0000950170-22-002479
+  2022-12-31 sales     1492 opinc     160 margin  10.7%  impair      0  OCF-capex    151  0000950170-23-004543
+  2023-12-30 sales     1504 opinc     179 margin  11.9%  impair      0  OCF-capex    127  0000950170-24-019325

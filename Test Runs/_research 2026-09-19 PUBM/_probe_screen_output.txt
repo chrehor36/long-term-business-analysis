@@ -1,0 +1,31 @@
+entity PUBMATIC, INC.
+== CURRENT screen ==
+owner_earnings: {'5y_da': 32045800.0, '5y_capex': 16206800.0, '3y_da': 19463000.0, '3y_capex': 9672333.333333334}
+restatement_shift : (1.0, datetime.date(2020, 12, 31))
+scale_shift : 1.5254524430580578
+acquisition_flag : (28085000.0, None, '')
+working_capital_flag : (datetime.date(2023, 12, 31), 'IncreaseDecreaseInAccountsPayable', 0.982322703122496, 'ONE LINE MADE THE CASH: AccountsPayable moved 98% of 2023 OCF. Operating cash is not owner earnings when one balance-sheet line produced it (DELL, INOD). Read the 2023 cash-flow statement and liquidity note.')
+da_discontinuity_flag : None
+capex_funding_flag : None
+stale_filer : (datetime.date(2025, 12, 31), 262, '')
+lease_capex_flag : None
+share_count_shift WITH ticker: None
+share_count_shift no ticker: None
+sbc_annual: {datetime.date(2019, 12, 31): 2002000.0, datetime.date(2020, 12, 31): 3563000.0, datetime.date(2021, 12, 31): 14107000.0, datetime.date(2022, 12, 31): 20646000.0, datetime.date(2023, 12, 31): 28862000.0, datetime.date(2024, 12, 31): 37676000.0, datetime.date(2025, 12, 31): 38378000.0}
+da_annual: {datetime.date(2019, 12, 31): 6900000.0, datetime.date(2020, 12, 31): 9800000.0, datetime.date(2021, 12, 31): 15700000.0, datetime.date(2022, 12, 31): 23600000.0, datetime.date(2023, 12, 31): 28500000.0, datetime.date(2024, 12, 31): 24800000.0, datetime.date(2025, 12, 31): 19000000.0}
+ocf: ({datetime.date(2019, 12, 31): 35125000.0, datetime.date(2020, 12, 31): 24330000.0, datetime.date(2021, 12, 31): 88681000.0, datetime.date(2022, 12, 31): 87212000.0, datetime.date(2023, 12, 31): 81121000.0, datetime.date(2024, 12, 31): 73425000.0, datetime.date(2025, 12, 31): 81059000.0}, '')
+capex annual: {datetime.date(2019, 12, 31): 9553000.0, datetime.date(2020, 12, 31): 24177000.0, datetime.date(2021, 12, 31): 30432000.0, datetime.date(2022, 12, 31): 35869000.0, datetime.date(2023, 12, 31): 10601000.0, datetime.date(2024, 12, 31): 17592000.0, datetime.date(2025, 12, 31): 14345000.0}
+capital_acquired: ({datetime.date(2019, 12, 31): 14995000.0, datetime.date(2020, 12, 31): 31403000.0, datetime.date(2021, 12, 31): 40230000.0, datetime.date(2022, 12, 31): 48893000.0, datetime.date(2023, 12, 31): 28288000.0, datetime.date(2024, 12, 31): 38528000.0, datetime.date(2025, 12, 31): 34856000.0}, {datetime.date(2021, 12, 31): 869000.0, datetime.date(2022, 12, 31): 0.0})
+rev: {datetime.date(2019, 12, 31): 113871000.0, datetime.date(2020, 12, 31): 148748000.0, datetime.date(2021, 12, 31): 226908000.0, datetime.date(2022, 12, 31): 256380000.0, datetime.date(2023, 12, 31): 267014000.0, datetime.date(2024, 12, 31): 291256000.0, datetime.date(2025, 12, 31): 282926000.0}
+shares: None
+== a8bc84f on facts filed by 2026-09-01 ==
+share_count_shift : None
+scale_shift : 1.5254524430580578
+restatement_shift : (1.0, datetime.date(2020, 12, 31))
+owner_earnings : {'5y_da': 32045800.0, '5y_capex': 32424200.0, '3y_da': 19463000.0, '3y_capex': 29383666.666666668}
+dei elements: ['EntityPublicFloat']
+dei EntityPublicFloat 2021-06-30 975900000 10-K 2022-03-01 CY2021Q2I
+dei EntityPublicFloat 2022-06-30 704000000 10-K 2023-02-28 CY2022Q2I
+dei EntityPublicFloat 2023-06-30 810100000 10-K 2024-02-28 CY2023Q2I
+dei EntityPublicFloat 2024-06-28 830900000 10-K 2025-02-27 CY2024Q2I
+dei EntityPublicFloat 2025-06-30 458300000 10-K 2026-02-26 CY2025Q2I

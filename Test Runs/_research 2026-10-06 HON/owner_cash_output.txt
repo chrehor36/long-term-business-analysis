@@ -1,0 +1,36 @@
+METHOD A: cash by difference (HON continuing OCF less Aerospace's audited carve-out OCF)
+ year   HT OCF  HT SBC  HT capex  owner cash  one-offs  ex one-offs  +interest normalised
+ 2023    1,475     124       354         997    -1,325        2,322        2,454
+ 2024    2,574     115       383       2,076         0        2,076        2,274
+ 2025    2,370     113       482       1,775       162        1,613        2,052
+
+METHOD B: owner earnings built from the pro forma income account (a + b - c), not a proxy
+ year  PF NI    D&A   capex  impairments  Resideo gain  pension inc. a/t  owner cash
+ 2023  1,236    702    354           0             0              322       1,262
+ 2024  1,302    806    383         267             0              377       1,615
+ 2025  1,368    976    482       1,038           784              313       1,803
+
+Three-year means:
+  A as filed                               1,616
+  A ex one-offs                            2,004
+  A ex one-offs, interest normalised       2,260
+  B                                        1,560
+
+market cap 67,870M at $214.14 x 316.94M shares; sovereign 5.66%
+growth shown: HT net sales 2023-2025 1.38% a year; method-B owner cash 2023-2025 19.55% a year
+
+ case                                  base   growth   value@sov  /share   +QNT/share   value@10%  /share
+ no growth, low base (B)               1,560   0.00%      27,562      87         110      15,600      49
+ no growth, high base (A norm.)        2,260   0.00%      39,932     126         149      22,602      71
+ sales growth shown, high base         2,260   1.38%      44,527     140         163      24,816      78
+ B growth shown (uncapped), low base   1,560  19.55%     127,501     402         425      61,229     193
+
+price paid for the operations if the Quantinuum stake is worth its carrying value: 60,610M
+  expected return at the price (low base, no growth): whole cap 2.30%; ex-QNT 2.57%
+  expected return at the price (high base, no growth): whole cap 3.33%; ex-QNT 3.73%
+  expected return at the price (high base, sales growth): whole cap 3.74%; ex-QNT 4.18%
+  expected return at the price (low base, B growth uncapped): whole cap 9.26%; ex-QNT 10.08%
+
+central base (mean of the two methods) 1,910M
+fair price (central base, sales growth shown, at 10%): $66 (+QNT carrying value: $89)
+cheap price (low base, no growth, at 10%): $49

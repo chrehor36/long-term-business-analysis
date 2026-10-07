@@ -1,0 +1,41 @@
+==============================================================================
+Hub Group, Inc.  (HUBG)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.47%   09/24/2026   US Treasury daily par yield curve
+  price     30.29 USD   2026-09-25   (aggregator — live quote only)
+  shares    0.1M      market cap 0.00B USD
+  share basis: WeightedAverageNumberOfDilutedSharesOutstanding + WeightedAverageNumberOfSharesOutstandingBasic - a WEIGHTED AVERAGE, not a cover-page count
+  ** A weighted average is an EPS denominator, not a share count.
+     For a multi-class filer it is denominated in ONE class. Verify:
+     python Screens/cover_shares.py HUBG **
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2022-12-31        458       21       154        219        218        284
+    2023-12-31        422       21       184        140        216        261
+    2024-12-31        194       19       193         51        -17        124
+          mean                                                 139        223
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 110 .. 163   yield 5959.81%..8793.65%
+  DIVERGENCE vs the 3-yr window: -20.7% on the conservative end
+  ** The spread is part of the RANGE [E4-25], not a tiebreak.
+     "Working with a range of possibilities is the better approach."
+     Do NOT pick a window and defend it. If the combined range
+     (window spread x capex band) is too wide to reach a conclusion,
+     THAT IS THE CONCLUSION [E4-25]. A wide spread is also a Q4
+     finding about earnings reliability [E5-11]. **
+
+  1. THE YIELD                 7520.06% .. 12050.46%   vs sovereign 5.47%
+  2. GROWTH THE PRICE ASSUMES  -50.0%  (at a 5.47% rate)
+  3. POINTS OVER THE SOVEREIGN +94.53 .. +94.53
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

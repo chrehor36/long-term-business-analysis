@@ -196,8 +196,11 @@ Read the last section of the RESUME STATE file in Screens/ and tell me where thi
 the working repository's tracked files, made by `tools/publish_public.py`. `HOW TO TRY IT.md` says how to check
 the build, verify a rule, run a company through the framework in force, review a holding and read the record of how v5
 was built and tested. `NOTICE.md` gives the provenance and copyright standing of every source folder and lists what the
-public copy withholds: the owner's holdings file (a stub stands in), the raw filings behind each run, and the
-coursework. The v5 ledger was withheld until adoption and is published from 2026-10-05. Code is under the MIT licence (`LICENSE`); the project's documents are under CC BY 4.0
+public copy withholds: the owner's holdings file (a stub stands in), the holding reviews, the raw filings behind each run, and the
+coursework. The v5 ledger was withheld until adoption and is published from 2026-10-05. From 2026-10-06 the research
+folders behind the purchase runs are published too (the scripts, outputs and notes, so a reader can reproduce each run's
+arithmetic); the raw filings and XBRL pulls stay out because they are the SEC's own documents and run to many gigabytes,
+and `NOTICE.md` gives the EDGAR address form by which any accession number a run records reaches its document. Code is under the MIT licence (`LICENSE`); the project's documents are under CC BY 4.0
 (`LICENSE-DOCS.md`); the quoted words of Buffett and Munger and the source texts are their authors' and publishers'.
 
 ## The one rule everything else follows from

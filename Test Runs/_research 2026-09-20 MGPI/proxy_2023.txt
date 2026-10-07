@@ -1,0 +1,915 @@
+ 
+ mgpi-20230412 0000835011 DEF 14A FALSE 0000835011 2022-01-01 2022-12-31 0000835011 mgpi:ColoMember 2022-01-01 2022-12-31 iso4217:USD 0000835011 mgpi:ColoMember 2021-01-01 2021-12-31 0000835011 2021-01-01 2021-12-31 0000835011 mgpi:GriffinMember 2020-01-01 2020-12-31 0000835011 mgpi:ColoMember 2020-01-01 2020-12-31 0000835011 2020-01-01 2020-12-31 0000835011 2020-01-01 2020-04-30 0000835011 2020-05-01 2022-12-31 0000835011 mgpi:EquityAwardsReportedValueMember ecd:PeoMember mgpi:ColoMember 2022-01-01 2022-12-31 0000835011 ecd:PeoMember mgpi:ColoMember mgpi:EquityAwardsAdjustmentsMember 2022-01-01 2022-12-31 0000835011 mgpi:EquityAwardsReportedValueMember ecd:PeoMember mgpi:ColoMember 2021-01-01 2021-12-31 0000835011 ecd:PeoMember mgpi:ColoMember mgpi:EquityAwardsAdjustmentsMember 2021-01-01 2021-12-31 0000835011 mgpi:EquityAwardsReportedValueMember ecd:PeoMember mgpi:ColoMember 2020-01-01 2020-12-31 0000835011 ecd:PeoMember mgpi:ColoMember mgpi:EquityAwardsAdjustmentsMember 2020-01-01 2020-12-31 0000835011 mgpi:EquityAwardsReportedValueMember mgpi:GriffinMember ecd:PeoMember 2020-01-01 2020-12-31 0000835011 mgpi:GriffinMember ecd:PeoMember mgpi:EquityAwardsAdjustmentsMember 2020-01-01 2020-12-31 0000835011 mgpi:EquityAwardsGrantedInCurrentYearUnvestedMember ecd:PeoMember mgpi:ColoMember 2022-01-01 2022-12-31 0000835011 mgpi:EquityAwardsGrantedInPriorYearsUnvestedMember ecd:PeoMember mgpi:ColoMember 2022-01-01 2022-12-31 0000835011 mgpi:EquityAwardsGrantedDuringTheYearVestedMember ecd:PeoMember mgpi:ColoMember 2022-01-01 2022-12-31 0000835011 mgpi:EquityAwardsForfeitedMember ecd:PeoMember mgpi:ColoMember 2022-01-01 2022-12-31 0000835011 mgpi:EquityAwardsGrantedInPriorYearsOutstandingAndUnvestedMember ecd:PeoMember mgpi:ColoMember 2022-01-01 2022-12-31 0000835011 mgpi:EquityAwardsValueOfDividendsAndOtherEarningsPaidAdjustmentMember ecd:PeoMember mgpi:ColoMember 2022-01-01 2022-12-31 0000835011 mgpi:EquityAwardsGrantedInCurrentYearUnvestedMember ecd:PeoMember mgpi:ColoMember 2021-01-01 2021-12-31 0000835011 mgpi:EquityAwardsGrantedInPriorYearsUnvestedMember ecd:PeoMember mgpi:ColoMember 2021-01-01 2021-12-31 0000835011 mgpi:EquityAwardsGrantedDuringTheYearVestedMember ecd:PeoMember mgpi:ColoMember 2021-01-01 2021-12-31 0000835011 mgpi:EquityAwardsForfeitedMember ecd:PeoMember mgpi:ColoMember 2021-01-01 2021-12-31 0000835011 mgpi:EquityAwardsGrantedInPriorYearsOutstandingAndUnvestedMember ecd:PeoMember mgpi:ColoMember 2021-01-01 2021-12-31 0000835011 mgpi:EquityAwardsValueOfDividendsAndOtherEarningsPaidAdjustmentMember ecd:PeoMember mgpi:ColoMember 2021-01-01 2021-12-31 0000835011 mgpi:EquityAwardsGrantedInCurrentYearUnvestedMember ecd:PeoMember mgpi:ColoMember 2020-01-01 2020-12-31 0000835011 mgpi:EquityAwardsGrantedInPriorYearsUnvestedMember ecd:PeoMember mgpi:ColoMember 2020-01-01 2020-12-31 0000835011 mgpi:EquityAwardsGrantedDuringTheYearVestedMember ecd:PeoMember mgpi:ColoMember 2020-01-01 2020-12-31 0000835011 mgpi:EquityAwardsForfeitedMember ecd:PeoMember mgpi:ColoMember 2020-01-01 2020-12-31 0000835011 mgpi:EquityAwardsGrantedInPriorYearsOutstandingAndUnvestedMember ecd:PeoMember mgpi:ColoMember 2020-01-01 2020-12-31 0000835011 mgpi:EquityAwardsValueOfDividendsAndOtherEarningsPaidAdjustmentMember ecd:PeoMember mgpi:ColoMember 2020-01-01 2020-12-31 0000835011 mgpi:EquityAwardsGrantedInCurrentYearUnvestedMember mgpi:GriffinMember ecd:PeoMember 2020-01-01 2020-12-31 0000835011 mgpi:EquityAwardsGrantedInPriorYearsUnvestedMember mgpi:GriffinMember ecd:PeoMember 2020-01-01 2020-12-31 0000835011 mgpi:GriffinMember mgpi:EquityAwardsGrantedDuringTheYearVestedMember ecd:PeoMember 2020-01-01 2020-12-31 0000835011 mgpi:EquityAwardsForfeitedMember mgpi:GriffinMember ecd:PeoMember 2020-01-01 2020-12-31 0000835011 mgpi:GriffinMember mgpi:EquityAwardsGrantedInPriorYearsOutstandingAndUnvestedMember ecd:PeoMember 2020-01-01 2020-12-31 0000835011 mgpi:EquityAwardsValueOfDividendsAndOtherEarningsPaidAdjustmentMember mgpi:GriffinMember ecd:PeoMember 2020-01-01 2020-12-31 0000835011 mgpi:EquityAwardsReportedValueMember ecd:NonPeoNeoMember 2022-01-01 2022-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsAdjustmentsMember 2022-01-01 2022-12-31 0000835011 mgpi:EquityAwardsReportedValueMember ecd:NonPeoNeoMember 2021-01-01 2021-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsAdjustmentsMember 2021-01-01 2021-12-31 0000835011 mgpi:EquityAwardsReportedValueMember ecd:NonPeoNeoMember 2020-01-01 2020-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsAdjustmentsMember 2020-01-01 2020-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsGrantedInCurrentYearUnvestedMember 2022-01-01 2022-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsGrantedInPriorYearsUnvestedMember 2022-01-01 2022-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsGrantedDuringTheYearVestedMember 2022-01-01 2022-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsForfeitedMember 2022-01-01 2022-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsGrantedInPriorYearsOutstandingAndUnvestedMember 2022-01-01 2022-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsValueOfDividendsAndOtherEarningsPaidAdjustmentMember 2022-01-01 2022-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsGrantedInCurrentYearUnvestedMember 2021-01-01 2021-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsGrantedInPriorYearsUnvestedMember 2021-01-01 2021-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsGrantedDuringTheYearVestedMember 2021-01-01 2021-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsForfeitedMember 2021-01-01 2021-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsGrantedInPriorYearsOutstandingAndUnvestedMember 2021-01-01 2021-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsValueOfDividendsAndOtherEarningsPaidAdjustmentMember 2021-01-01 2021-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsGrantedInCurrentYearUnvestedMember 2020-01-01 2020-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsGrantedInPriorYearsUnvestedMember 2020-01-01 2020-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsGrantedDuringTheYearVestedMember 2020-01-01 2020-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsForfeitedMember 2020-01-01 2020-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsGrantedInPriorYearsOutstandingAndUnvestedMember 2020-01-01 2020-12-31 0000835011 ecd:NonPeoNeoMember mgpi:EquityAwardsValueOfDividendsAndOtherEarningsPaidAdjustmentMember 2020-01-01 2020-12-31 0000835011 1 2022-01-01 2022-12-31 0000835011 2 2022-01-01 2022-12-31 0000835011 3 2022-01-01 2022-12-31 
+ UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ SCHEDULE 14A 
+ Proxy Statement Pursuant to Section 14(a) of 
+ the Securities Exchange Act of 1934 (Amendment No. ) 
+ Filed by the Registrant x 
+ Filed by a Party other than the Registrant ¨ 
+ Check the appropriate box: 
+ ¨ Preliminary Proxy Statement 
+ ¨ Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+ x Definitive Proxy Statement 
+ ¨ Definitive Additional Materials 
+ ¨ Soliciting Material under § 240.14a-12 
+ MGP Ingredients, Inc. 
+ (Name of Registrant as Specified In Its Charter) | | | 
+ | 
+ (Name of Person(s) Filing Proxy Statement, if other than the Registrant) 
+ Payment of Filing Fee (Check all boxes that apply): 
+ x No fee required 
+ ¨ Fee paid previously with preliminary materials 
+ ¨ Fee computed on table in exhibit required by Item 25(b) per Exchange Act Rules 14a-6(i)(1) and 0-11 
+ NOTICE OF 2023 ANNUAL MEETING OF STOCKHOLDERS AND 
+ PROXY STATEMENT 
+ MGP INGREDIENTS, INC. 
+ Cray Business Plaza 
+ 100 Commercial Street 
+ Atchison, Kansas 66002 
+ P.O. Box 130 
+ April 12, 2023 
+ NOTICE OF ANNUAL MEETING 
+ To the Stockholders: 
+ We are pleased to provide notice of the 2023 Annual Meeting of Stockholders of MGP Ingredients, Inc. The Annual Meeting will be held entirely online at www.virtualshareholdermeeting.com/MGPI2023 on May 25, 2023, beginning at 10:00 a.m., Central Daylight Time. 
+ At this meeting, stockholders will be asked to: 
+ 1. Elect nine directors; 
+ 2. Ratify the appointment of KPMG LLP as the Company’s independent registered public accounting firm; 
+ 3. Adopt an advisory resolution to approve the compensation of our named executive officers; 
+ 4. Approve, on an advisory basis, the frequency of future advisory votes on executive compensation; and 
+ 5. Transact such other business as may properly come before the meeting. 
+ The record date for determining which stockholders may vote at this meeting or any adjournment is March 27, 2023. A complete list of stockholders entitled to vote at the Annual Meeting will be posted on the virtual meeting website during the meeting. 
+ We are distributing our proxy materials to our stockholders primarily via the Internet under the “Notice and Access” rules of the Securities and Exchange Commission (“SEC”). This approach saves printing and mailing costs and reduces the environmental impact of our Annual Meeting, while providing a convenient way to access the materials and vote. On April 12, 2023 we are mailing a Notice of Internet Availability of Proxy Materials to stockholders of record at the close of business on March 27, 2023, containing instructions about how to access our proxy materials and vote online or vote by telephone. 
+ Please review the instructions on each of your voting options described in this proxy statement and in the notice you received by mail. Your vote is important. Whether or not you plan to attend the virtual Annual Meeting, PLEASE VOTE AS SOON AS POSSIBLE. 
+ By Order of the Board of Directors 
+ Karen Seaberg 
+ Chairman of the Board 
+ PROXY STATEMENT 
+ We are providing this proxy statement (the “Proxy Statement”) to you on the Internet, or upon your request, have delivered a printed version of this Proxy Statement to you by mail in connection with the solicitation by the Board of Directors of MGP Ingredients, Inc. (“MGP” or the “Company”) of proxies to be voted at our Annual Meeting of Stockholders to be held on May 25, 2023 (including any adjournment or postponement thereof) (the “Annual Meeting”). 
+ These materials were first sent or made available to stockholders on or about April 12, 2023 and include: 
+ • The Notice of the Company’s 2023 Annual Meeting of Stockholders; 
+ • This Proxy Statement; and 
+ • The Company’s Annual Report on Form 10-K for the year ended December 31, 2022, as filed with the SEC. 
+ If you requested print versions by mail, these proxy materials also include the proxy card or voting instruction form for the Annual Meeting. 
+ Use of “Notice and Access” 
+ Pursuant to rules adopted by the SEC, we use the Internet as the primary means of furnishing proxy materials to stockholders. Accordingly, we are sending a Notice of Internet Availability of Proxy Materials (the “Notice”) to our stockholders. All stockholders will have the ability to access the proxy materials on the website referred to in the Notice or request a printed set of the proxy materials. Instructions on how to access the proxy materials over the Internet or how to request a printed copy may be found in the Notice. In addition, stockholders may request to receive proxy materials in printed form by mail or electronically by email on an ongoing basis. We encourage stockholders to take advantage of the availability of the proxy materials on the Internet to help reduce the environmental impact of our annual meetings and to reduce the cost to the Company associated with the physical printing and mailing of materials. 
+ VOTING MATTERS 
+ How You Can Vote 
+ Voters include recordholders and persons holding MGP stock through a broker, bank, or other nominee. 
+ Stock Held of Record. If you are a stockholder of record, there are four ways to vote: 
+ Online Prior to the Annual Meeting. You may vote by proxy via the Internet by following the instructions provided in the Notice. 
+ Telephone Voting. If you requested printed copies of the proxy materials by mail, you may vote by proxy by calling the toll-free number found on the proxy card. 
+ Voting By Mail. If you requested printed copies of the proxy materials by mail, you may vote by proxy by filling out the proxy card and returning it in the envelope provided. 
+ Online During the Annual Meeting. You may vote during the virtual Annual Meeting at www.virtualshareholdermeeting.com/MGPI2023. 
+ Stock Held Through a Broker or Other Nominee. If your shares are held in a brokerage account at a brokerage firm, bank, broker-dealer or similar organization, then you are the “beneficial owner” of shares held in “street name,” and a Notice was forwarded to you by that organization. The organization holding your account is considered the stockholder of record for purposes of voting at the Annual Meeting. As a beneficial owner, you have the right to instruct that organization on how to vote your shares. Those instructions are contained in a “voting instruction form.” If you request printed copies of the proxy materials by mail, you will receive a voting instruction form. If you are a beneficial owner and you want to attend the virtual Annual Meeting, you should contact your broker, bank or other nominee as soon as possible so that you can be provided with a control number to gain access to the online meeting. 
+ If you are a beneficial owner of shares held in street name and do not provide the organization that holds your shares with specific voting instructions, then, under applicable rules, the organization that holds your shares may generally vote on “routine” matters but cannot vote on “non-routine” matters. The only routine matter on the agenda for which your broker will be permitted to vote on your behalf without your instructions is the proposal related to the selection of KPMG LLP as the Company’s independent registered public accounting firm for the year ending December 31, 2023. If the organization that holds your shares does not receive instructions from 
+ 2 
+ you on how to vote your shares on a non-routine matter, that organization will inform the inspector of election that it does not have the authority to vote on that matter with respect to your shares. This is generally referred to as a “broker non-vote.” 
+ If you are a beneficial owner of shares held in street name, there are four ways to vote: 
+ Online Prior to the Annual Meeting. You may vote by proxy via the Internet by visiting www.proxyvote.com and entering the control number found in your Notice. 
+ Telephone Voting. If you requested printed copies of the proxy materials by mail, you may vote by proxy by calling the toll-free number found on the voting instruction form. 
+ Voting By Mail. If you requested printed copies of the proxy materials by mail, you may vote by proxy by filling out the voting instruction form and returning it in the envelope provided. 
+ Online During the Annual Meeting. If you wish to vote at the Annual Meeting, you must obtain a legal proxy from your broker, bank, or other nominee. Please contact your broker, bank, or other nominee for instructions regarding obtaining a legal proxy. 
+ How You May Revoke or Change Your Vote 
+ You may revoke your proxy at any time before it is voted at the meeting by: 
+ • sending timely written notice of revocation to the corporate secretary; 
+ • submitting another timely proxy by telephone, Internet or mail; or 
+ • attending the virtual meeting and voting online. If voting online at the virtual Annual Meeting, you may do so by going to www.virtualshareholdermeeting.com/MGPI2023 and following the voting instructions. If you hold shares through a trustee, broker or nominee, you may recast your vote or revoke your proxy by timely following the procedures of the trustee, broker or nominee. 
+ Attendance at the Virtual Annual Meeting 
+ As in recent years, we are conducting this year's Annual Meeting entirely online. We will continue to provide our stockholders with an opportunity to ask questions. To join the online Annual Meeting, login at www.virtualshareholdermeeting.com/MGPI2023. You will need your unique 16-digit control number, which is included on the Notice or proxy card you received. If your shares are in "street name," you will need to contact your broker, bank or other nominee as soon as possible so that you can be provided with a control number to gain access to the online meeting. 
+ The live audio of the webcast of the Annual Meeting will begin promptly at 10:00 a.m., Central Daylight Time. Online access to the audio webcast will open approximately 15 minutes prior to the start of the meeting to allow time for the stockholders to log in and test the computer audio system. We encourage you to log in prior to the meeting start time. Beginning 15 minutes prior to the start of and during the online Annual Meeting, we will have a support team ready to assist stockholders with any technical difficulties they might have accessing or hearing the audio webcast of the meeting. If you encounter any difficulties while accessing the virtual meeting during the check-in or meeting time, a technical assistance phone number will be made available on the virtual meeting registration page 15 minutes prior to the start time of the meeting. 
+ If you are unable to attend the online meeting, a replay of the meeting will be posted on our investor relations website (at https:/ir.mgpingredients.com) for at least 30 days after the meeting concludes. 
+ How to Ask Questions at the Online Annual Meeting 
+ We expect that all of our directors and executive officers, as well as representatives of KPMG LLP, will attend the online Annual Meeting and be available to answer questions. We will provide our stockholders the opportunity to ask questions and make statements about a proposal during the formal business of the meeting. Questions and comments of a general nature will be held until after the conclusion of the formal business of the meeting. Instructions for submitting questions and making statements will be posted on the virtual Annual Meeting website. The Rules of Conduct governing the live question-and-answer session will be posted on our investor relations website prior to the date of the Annual Meeting and may include certain procedural requirements, such as limiting repetitive or follow-up questions, so that more stockholders will have time to ask questions. Out of consideration for the other stockholders, we request that stockholders limit questions and comments to a time of two minutes or less. 
+ 3 
+ Other Voting Matters 
+ The holders of record of the Company’s common stock, no par value (“Common Stock”), and the Company’s preferred stock, $10 par value (“Preferred Stock”), at the close of business on March 27, 2023 are entitled to notice of and to vote at the Annual Meeting. As of March 27, 2023, there were 22,007,715 shares of Common Stock outstanding and 437 shares of Preferred Stock outstanding. You are entitled to one vote for each share owned of record on March 27, 2023. 
+ All shares that have been properly voted and not revoked will be voted at the Annual Meeting in accordance with your instructions. If you sign your proxy card but do not give voting instructions, the shares represented by the proxy will be voted by those named in the proxy card in accordance with the recommendations of the Board of Directors. 
+ If any other matters are properly presented at the Annual Meeting for consideration, the persons named in the proxy card will have the discretion to vote on those matters for you. As of the date of this Proxy Statement, we do not know of any other matter to be presented at the Annual Meeting. 
+ How Votes are Counted and Voting Requirements 
+ Quorum . For the stockholders to approve proposals at the Annual Meeting, we must have a quorum. A quorum means the holders of a majority of the shares of each class of MGP stock outstanding and entitled to vote on the record date are present at the Annual Meeting. Proxies received but marked as abstentions or treated as broker non-votes will be included in the calculation of the number of shares considered to be present at the meeting. A broker non-vote occurs when a broker has not received directions from customers and does not have discretionary authority to vote the customers’ shares on a non-routine matter. If a quorum is not present at the scheduled time of the meeting, the stockholders who are represented may adjourn the meeting until a quorum is present. The time and place of the adjourned meeting will be announced at the time the adjournment is taken, and no other notice will be given. 
+ Votes Required for Approval. Generally, holders of Common Stock and Preferred Stock each vote separately as a class with respect to each matter that the class is authorized to vote on, with each share of stock in each class being entitled to one vote. 
+ Proposal 1 – Elect Nine Directors. 
+ Election of Group A directors is determined by a majority of votes cast, meaning the number of shares voted "for" a nominee must exceed the number of shares voted "against" such nominee. However, in the case of a contested election of Group A directors, our Bylaws provide for a plurality voting standard as an exception to the majority voting standard described above. In the event of an uncontested election of Group A directors, if any incumbent director nominee fails to receive a majority vote, our Corporate Governance Guidelines require that such person must promptly tender his or her resignation to the Board, subject to acceptance by the Board. The Nominating and Governance Committee will make a recommendation to the Board as to whether to accept the tendered resignation, and the Board will act upon such resignation within 90 days from the date the election results are certified and then publicly disclose its determination. The director who tenders his or her resignation will not participate in the recommendation or decision with respect to his or her resignation. Because the election of directors at the Annual Meeting is uncontested, the majority voting standard described above applies to the election of Group A directors at the Annual Meeting. Abstentions and broker non-votes will have no effect on the election of Group A directors. Holders of Common Stock are entitled to vote on the election of the Group A directors only. 
+ Election of Group B directors is determined by a plurality vote, meaning the nominees who receive the highest number of votes will be elected until all seats are filled. Abstentions, withheld votes, and broker non-votes will have no effect on the election of Group B directors. Holders of Preferred Stock are entitled to vote on the election of the Group B directors only. 
+ Proposal 2 – Ratify the Appointment of KPMG LLP as the Company’s Independent Registered Public Accounting Firm. Ratification of KPMG LLP as MGP’s independent registered public accounting firm requires the affirmative vote of a majority of the shares of Common Stock and the Preferred Stock of MGP that are entitled to vote and that are present in person or by proxy at the Annual Meeting, each class voting separately. Abstentions will have the same effect as a vote against the proposal. Ratification of the independent registered public accounting firm is considered a routine matter and, accordingly, broker discretionary voting is allowed. 
+ Proposal 3 – Adopt an Advisory Resolution to Approve the Compensation of our Named Executive Officers. Adoption of the resolution (referred to as “Say-on-Pay”) requires the affirmative vote of a majority of the shares of Common Stock and the Preferred Stock of MGP that are entitled to vote and that are present in person or by proxy at the Annual Meeting, each class voting separately. Abstentions will have the same effect as a vote against the proposal. Broker non-votes will have no effect on the outcome of the vote on this proposal. 
+ 4 
+ Proposal 4 – Approve, on an Advisory Basis, the Frequency of Future Advisory Votes on Executive Compensation. The advisory vote on the frequency of Say-on-Pay votes is determined by a plurality vote, meaning the frequency that receives the highest number of votes of the shares of Common Stock and Preferred Stock of MGP that are entitled to vote and that are present in person or by proxy at the Annual Meeting will be deemed the frequency selected by stockholders. Abstentions, withheld votes and broker non-votes will have no effect on the outcome of the vote on this proposal. 
+ All Other Proposals. All other proposals require the affirmative vote of holders of a majority of shares of Common Stock and Preferred Stock that are entitled to vote and that are present in person or by proxy at the Annual Meeting. Abstentions will have the same effect as a vote against the proposal. Brokers may vote on routine matters but cannot vote on non-routine matters. 
+ The principal executive offices of the Company are located at Cray Business Plaza, 100 Commercial Street, P.O. Box 130, Atchison, Kansas 66002 and the Company’s telephone number at that address is (913) 367-1480. 
+ BOARD AND GOVERNANCE HIGHLIGHTS 
+ The Company has adopted leading governance practices that establish strong independent leadership in our boardroom and has a strong commitment to Board member diversity. The following is a list of some of our highlights: 
+ • seven of nine directors and all members of the Audit, Human Resources and Compensation, and Nominating and Governance Committees are independent; 
+ • separate CEO and independent Board chairman roles; 
+ • 44% female representation on the Board; 
+ • independent compensation consultant engaged to advise on compensation for our executives and directors; 
+ • robust stock ownership requirements for directors and executives; and 
+ • all directors are elected annually for a one-year term. 
+ 5 
+ PROPOSAL 1 – 
+ ELECT NINE DIRECTORS 
+ The Board of Directors, upon recommendation of its Nominating and Governance Committee, has nominated each of Neha J. Clark, David J. Colo, Thomas A. Gerke, Donn Lux, Preet H. Michelson, Lori L.S. Mingus, Kevin S. Rauckman, Karen L. Seaberg, and Todd B. Siwak for election as a director, to hold office until the annual meeting of stockholders to be held in 2024 and until their respective successors are duly elected and qualified or until their earlier death, resignation or removal. Information regarding the director nominees is set forth below under the heading “Information Regarding Director Nominees.” 
+ Each nominee has consented to stand for election and indicated a willingness to serve. Proxies for the election of director nominees will be voted in favor of Thomas A. Gerke, Donn Lux, Kevin S. Rauckman, and Todd B. Siwak for Group A directors and Neha J. Clark, David J. Colo, Lori L.S. Mingus, Karen L. Seaberg, and Preet H. Michelson for Group B directors, unless other instructions are given. If any nominee declines to serve or becomes unavailable for any reason before the Annual Meeting, the proxies may vote for a substitute nominee at their discretion as recommended by the Board of Directors. 
+ THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS A VOTE "FOR" THE ELECTION OF EACH OF NEHA J. CLARK, DAVID J. COLO, THOMAS A. GERKE, DONN LUX, PREET H. MICHELSON, LORI L.S. MINGUS, KEVIN S. RAUCKMAN, KAREN L. SEABERG, AND TODD B. SIWAK AS DIRECTORS OF THE COMPANY. 
+ 6 
+ PROPOSAL 2 – 
+ RATIFY THE APPOINTMENT OF KPMG LLP AS THE COMPANY’S INDEPENDENT REGISTERED PUBLIC ACCOUNTANT 
+ The Audit Committee has appointed KPMG LLP as our independent registered public accounting firm to audit the books, records and accounts of the Company and its subsidiaries for the year ending December 31, 2023. A representative of KPMG LLP will be present at the Annual Meeting, will have an opportunity to make a statement if he or she desires to do so, and will be available to respond to appropriate questions. 
+ Information regarding the aggregate fees billed by KPMG LLP for the years ended December 31, 2022 and December 31, 2021 for (i) professional services rendered for the audit of the Company’s annual financial statements and the reviews of the financial statements included in the Company’s reports on Form 10-Q during such year (“Audit Fees”), (ii) assurance and related services that are reasonably related to the performance of the audit or review of the Company financial statements but are not included in Audit Fees, (iii) professional services rendered for tax compliance, tax advice or tax planning, and (iv) other products and services is reported below under the heading “Audit and Certain Other Fees Paid to Accountants.” 
+ THE BOARD OF DIRECTORS RECOMMENDS A VOTE “FOR” THE RATIFICATION OF THE APPOINTMENT OF KPMG LLP AS THE COMPANY’S INDEPENDENT REGISTERED PUBLIC ACCOUNTANT. 
+ 7 
+ AUDIT AND CERTAIN OTHER FEES PAID TO ACCOUNTANTS 
+ Set forth below are the aggregate fees billed the Company by its principal accountant, KPMG LLP, for the years ended December 31, 2022 and December 31, 2021 for (i) professional services rendered for the audit of the Company’s annual financial statements and internal control over financial reporting, the reviews of the financial statements included in the Company’s reports on Form 10-Q during such year, procedures performed in connection with registration statements and the issuance of our convertible notes and professional services rendered in connection with acquisitions (“Audit Fees”), (ii) assurance and related services that are reasonably related to the performance of the audit or review of the Company financial statements but are not included in Audit Fees, including acquisition related due diligence (“Audit-Related Fees”), (iii) professional services rendered for tax compliance, tax advice or tax planning, including tax related due diligence for acquisitions (“Tax Fees”), and (iv) other products and services (“All Other Fees”). 
+ The Audit Committee considers whether the provision of such services is compatible with maintaining the independence of its principal auditor. The Audit Committee has the sole right to engage and terminate the Company’s independent auditor, to pre-approve the performance of audit services and permitted non-audit services, and to approve all audit and non-audit fees. The Audit Committee has empowered its Chair of the Audit Committee to act on the Committee’s behalf between meetings to approve permitted non-audit services; the chairman must report any such services to the Audit Committee at its next scheduled meeting. The Audit Committee may provide for the pre-approval of services through the adoption of additional pre-approval policies and procedures, provided the policies and procedures are detailed as to the particular services, the Audit Committee is informed of each service, and the procedures do not include delegation to management of audit committee responsibilities under the Securities Exchange Act of 1934, as amended. The Audit Committee pre-approved of all services KPMG LLP rendered to the Company for 2022. 
+ | | | | | | | | | | | | | | | 
+ Type of Fee 
+ | | Amount 
+ | 
+ | | 2022 | | 2021 | 
+ Audit Fees 
+ | | $ | 1,325,000 | | | $ | 1,652,361 | | 
+ Audit-Related Fees 
+ | | 136,000 | | | 160,000 | | 
+ Tax Fees 
+ | | 85,000 | | | — | | 
+ All Other Fees 
+ | | — | | | — | | 
+ Total 
+ | | $ | 1,546,000 | | | $ | 1,812,361 | | 
+ 8 
+ PROPOSAL 3 – 
+ ADOPT AN ADVISORY RESOLUTION TO APPROVE THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS 
+ The Company is providing stockholders the opportunity to vote, on an advisory (non-binding) basis, on the compensation of the Company’s named executive officers as disclosed in this Proxy Statement in accordance with the Securities and Exchange Commission’s (“SEC’s”) rules (the “say-on-pay” proposal). At the Annual Meeting, stockholders will vote on the following advisory resolution: 
+ “RESOLVED, that the stockholders of MGP Ingredients, Inc. approve, on an advisory (non-binding) basis, the compensation paid to the Company’s named executive officers, as disclosed in the Compensation Discussion and Analysis section, including the Compensation Overview, compensation tables and narrative discussion therein.” 
+ While our Board intends to carefully consider the stockholder vote resulting from this proposal, the final vote is advisory in nature and will not be binding on the Company. However, the Board and the Human Resources and Compensation Committee value the opinions of our stockholders, and to the extent there is any significant vote against the named executive officer compensation as disclosed in this Proxy Statement, the Board and the Human Resources and Compensation Committee will consider the results of the vote in future compensation deliberations. 
+ At the 2022 annual meeting of stockholders, all of the shares of Preferred Stock and more than 98% of the shares of Common Stock voting on the matter voted in favor of our say-on-pay proposal, reflecting broad stockholder support for the Company’s compensation of its named executive officers. 
+ THE BOARD OF DIRECTORS RECOMMENDS A VOTE “FOR” THE ADOPTION OF THE ADVISORY RESOLUTION TO APPROVE THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS. 
+ 9 
+ PROPOSAL 4 – 
+ APPROVE, ON AN ADVISORY BASIS, THE FREQUENCY OF FUTURE ADVISORY VOTES ON EXECUTIVE COMPENSATION 
+ In addition to the advisory vote on executive compensation set forth in Proposal 3, the Company is providing stockholders the opportunity to vote on the frequency with which the Company’s stockholders will vote to approve the compensation of the Company’s named executive officers. The Dodd-Frank Act requires that stockholders have such opportunity to vote on the frequency of say-on-pay votes once every six years. When we last held the frequency advisory vote at the 2017 annual meeting of stockholders, stockholders voted for every one year as the frequency of future advisory votes to approve executive compensation, and the Board implemented this standard. 
+ The Board believes that holding an advisory vote on executive compensation every year is the most appropriate policy for our stockholders and the Company at this time. Holding an annual advisory vote best enables the Board and the Human Resources and Compensation Committee to thoughtfully evaluate and respond to stockholder input and effectively implement any changes to the Company's executive compensation program that they may deem necessary or appropriate. 
+ While the Board recommends that stockholders vote to hold the advisory vote every year, stockholders may vote to hold the advisory vote every one year, two years or three years. Stockholders may also abstain from voting on this proposal. Because your vote is advisory, it will not be binding upon the Board. However, the Board values stockholders’ opinions and will consider the outcome of the vote when determining the frequency of future advisory votes on executive compensation. While the Board is making a recommendation with respect to this proposal, stockholders are being asked to vote on the choices specified above, and not whether they agree or disagree with the Board’s recommendation. 
+ The frequency (every 1 Year, 2 Years, or 3 Years) that receives the highest number of votes cast by holders of Common Stock and Preferred Stock will be deemed the choice of the stockholders. 
+ THE BOARD OF DIRECTORS RECOMMENDS A VOTE FOR “1 YEAR ” AS THE FREQUENCY OF FUTURE ADVISORY VOTES ON EXECUTIVE COMPENSATION. 
+ 10 
+ BOARD OF DIRECTORS 
+ Listed below are the nine nominees for election as a director. All nominees currently serve as directors. Each director elected at the Annual Meeting will serve a one-year term. 
+ Information Regarding Director Nominees | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | 
+ Board Nominees | Age 1 
+ | | Class of Director 2 
+ | | Dates of Service on MGP Board | | Current Service on MGP Board Committees | 
+ David J. Colo | 60 | | Group B | | August 2015- present | | None | 
+ Lori L.S. Mingus | 52 | | Group B | | June 2020 - present | | Human Resources and Compensation
+Nominating and Governance | 
+ Karen L. Seaberg 
+ Board Chairman 
+ | 75 | | Group B | | August 2009 - present
+Chairman from December 2014 - present | | Human Resources and Compensation
+Nominating and Governance | 
+ Neha J. Clark Audit Committee Chairman | 47 | | Group B | | June 2021- present | | Audit
+Human Resources and Compensation
+Nominating and Governance | 
+ Thomas A. Gerke 
+ Human Resources and Compensation Committee Chairman 
+ | 66 | | Group A | | June 2021-present | | Audit
+Human Resources and Compensation
+Nominating and Governance | 
+ Donn Lux | 62 | | Group A | | June 2021- present | | None | 
+ Kevin S. Rauckman 
+ Nominating and Governance Committee Chairman 
+ | 61 | | Group A | | June 2021- present | | Audit
+Human Resources and Compensation
+Nominating and Governance | 
+ Preet H. Michelson | 53 | | Group B | | May 2022- present | | Audit
+Human Resources and Compensation
+Nominating and Governance | 
+ Todd B. Siwak | 61 | | Group A | | May 2022 - present | | Audit
+Human Resources and Compensation
+Nominating and Governance | 
+ 1 All ages are as of April 12, 2023. 
+ 2 Group A indicates the director is elected by holders of Common Stock. Group B indicates the director is elected by holders of Preferred Stock. 
+ Pursuant to a Shareholders’ Agreement dated April 1, 2021 among the Company, Karen Seaberg, Lori Mingus, and the former shareholders of Luxco, Inc. (the “Luxco Sellers”), the Luxco Sellers have the right to nominate (i) two Group A directors to the Board of Directors for so long as they continue to beneficially own at least 15% of the outstanding shares of Common Stock, and (ii) one Group A director to the Board of Directors for so long as they continue to beneficially own at least 10% but less than 15% of the outstanding shares of Common Stock. The Luxco Sellers currently own approximately 23% of the outstanding shares of Common Stock. Accordingly, Donn Lux and Todd Siwak have been nominated as Group A directors pursuant to the Shareholders' Agreement. Karen Seaberg and Lori Mingus have agreed to vote all of the shares of Common Stock that they beneficially own in favor of the election of the Luxco Sellers’ Group A director nominees. 
+ Board Nominees 
+ DAVID J. COLO 
+ Mr. Colo has been the Company’s Chief Executive Officer since May 2020 and the President since March 2020. He also served as the Company’s Chief Operating Officer from March 2020 to May 2020. Prior to joining the Company, he served as President, Chief Executive Officer and a director of SunOpta, Inc., a leading global company focused on natural food, ingredient sourcing, organic food, and specialty foods, from February 2017 to March 2019. He served as Executive Vice President and Chief Operating Officer of Diamond Foods, Inc. from 2013 until March 2016. He joined Diamond Foods in 2012 as Executive Vice President of Global Operations and Supply Chain. For the three years prior to joining Diamond Foods, Mr. Colo served as an independent industry consultant, focusing on organizational optimization and planning. From 2003 to 2005, he served as President of ConAgra Food 
+ 11 
+ Ingredients. Before his employment at ConAgra Foods, Mr. Colo spent several years with Nestle-Purina Pet Care Company in roles of increasing responsibility, including Vice President of Supply for the company’s Golden Products Division and Vice President of Store Brands and Venture Development. He also served two years as President of the American Dehydrated Onion and Garlic Association. Mr. Colo’s qualifications to serve on the Board include his extensive management experience and his experience in the food industry, and the insights he brings from his service as an officer of the Company. 
+ LORI L.S. MINGUS 
+ Ms. Mingus’ career began in graphic design in 1996. She has worked as a designer for public companies, national associations, and an advertising agency. She is a principal and owner of Torpa Design Co., a company specializing in all facets of graphic design, interior and exterior design, since 2005. Ms. Mingus serves as a trustee on the Evan C. Cray Historical Museum. She serves as a Board member on the Cray Medical Research Organization at the University of Kansas Medical Center, Kansas City, Kansas. In addition, she serves as a board member on the Atchison Amelia Earhart Foundation. Ms. Mingus’s qualifications to serve on the Board include her business and civic experience and organizational skills, her knowledge of the Company and the industries in which it operates, and her familiarity with the community in which the Company is headquartered. Ms. Mingus is the daughter of Ms. Seaberg. 
+ KAREN L. SEABERG 
+ Ms. Seaberg is a member of the Heartland Chapter of National Association of Corporate Directors and the Kansas City Chapter of Women Corporate Directors (“WCD”). She was an executive travel agent and minority owner of Travel Center of Atchison for 31 years. Ms. Seaberg is active in civic affairs at both the local and national level. She was instrumental in the creation of Atchison’s Riverfront Park in 2004 and was the Kansas Governor’s Chair for the national Lewis and Clark Bicentennial Commemoration from 2002 to 2006, bringing one of 15 national events to Atchison, Leavenworth, and Kansas City in 2004. She also served on the Lewis & Clark Trail Heritage Foundation board, a national not-for-profit based in Great Falls, Montana, from 2003 to 2007 and as its national president from 2007 to 2008. Ms. Seaberg has been the chair of the annual Amelia Earhart Festival since 1997, which brings over 40,000 people to Atchison every year in July. Ms. Seaberg served on the Atchison Hospital Board from 1990 to 2004, and presently serves on the board of the Cray Medical Research Organization at the University of Kansas Medical Center, Kansas City, Kansas. She also serves as a board member of the national Lewis and Clark Trust and is president and founder of the Atchison Amelia Earhart Foundation, which expects to open a state-of-the-art STEM and history museum, the Amelia Earhart Hanger Museum, in April 2023 in Atchison, Kansas. In 2015, she was recipient of the Hall of Fame award from the Chamber of Commerce and the Vision of Excellence award from the Santa Fe Depot Trustees in Atchison, Kansas. Ms. Seaberg’s qualifications to serve on the Board include her business and civic experience and organizational skills, her knowledge of the Company and the industries in which it operates, her familiarity with the community in which the Company is headquartered, and her significant stock ownership. Ms. Seaberg is Ms. Mingus's mother. 
+ NEHA J. CLARK 
+ Ms. Clark has been the Senior Vice President of Enterprise Finance at Brunswick Corporation (NYSE:BC), a leading global designer, manufacturer, and marketer of recreational marine products, since May 2022. She served as the Chief Financial Officer of Brunswick Boat Group, a division of Brunswick Corporation, from March 2019 to May 2022. From August 2018 to November 2018, she was the Chief Financial Officer of Lifeway Foods, Inc. (Nasdaq: LWAY), a manufacturer and marketer of beverages and dairy products. From January 2016 to August 2018, she was the Chief Financial Officer of Coveris North American Food & Consumer Flexibles/Chief Transformation Officer of Coveris Americas, a leading producer of flexible packaging. From 1999 to 2015, she was employed by Kraft Foods, with increasing levels of responsibility, most recently as Director of Finance—Grocery Business. From 1997 to 1999, she was a senior auditor with Grant Thornton LLP. Ms. Clark’s qualifications to serve on the Board include her significant financial, accounting, and public company leadership experience. 
+ THOMAS A. GERKE 
+ Mr. Gerke served as the General Counsel and Chief Administrative Officer at H&R Block Inc. (NYSE: HRB), a global consumer tax services provider, from January 2012 until January 2022, and thereafter, served as Senior Vice President until his retirement from H&R Block in September 2022. During parts of his employment at H&R Block, he served in additional roles, including interim Chief Executive Officer and leader of the human resources function. From January 2011 to April 2011, Mr. Gerke served as Executive Vice President, General Counsel and Secretary of YRC Worldwide, a Fortune 500 transportation service provider. From July 2009 to December 2010, Mr. Gerke served as Executive Vice Chairman of CenturyLink, a Fortune 500 integrated communications business. From December 2007 to June 2009, he served as President and CEO at Embarq, then a Fortune 500 integrated communications business. He also held the position of Executive Vice President and General Counsel – Law and External Affairs at Embarq from May 2006 to December 2007. From October 1994 through May 2006, Mr. Gerke held a number of executive and legal positions with Sprint, serving as Executive Vice President and General Counsel for over two years. Mr. Gerke was a member of the board of directors of Tallgrass Energy GP, LLC, which is the general partner of Tallgrass Energy, LP from August 2015 to April 2020. He is 
+ 12 
+ also a past member of the boards of directors of CenturyLink, Embarq, and the United States Telecom Association. In addition, he is a former member of the Rockhurst University Board of Trustees and The Greater Kansas City Local Investment Commission Board of Trustees. He currently serves as a board member of Consolidated Communications Holdings, Inc. (Nasdaq:CNSL), a leading broadband and business communications provider. Mr. Gerke’s qualifications to serve on the Board include his experience on the boards and as an executive of various other public companies. 
+ DONN LUX 
+ Mr. Lux was President and Chief Executive Officer, from 1991 until March 2021, and Chairman, from 2010 until March 2021, of Luxco, Inc., a leading branded beverage and alcohol company that was acquired by the Company on April 1, 2021. He was also Chairman and Chief Executive Officer of Limestone Branch Distillery, LLC from November 2014 until its acquisition by the Company on April 1, 2021, and of Lux Row Distillers LLC from February 2016 until its acquisition by the Company on April 1, 2021. Mr. Lux has served on the boards of the American Distilled Products Association and The National Alcohol Beverage Control Association ("NABCA") Industry Advisory Committee, and he currently serves on the board of the St. Louis Regional Business Council ("RBC"). His philanthropic activities include serving on the boards of Social Venture Partners of St. Louis, the University City Children’s Lume Institute, the St. Louis Legacy Ice Foundation, the St. Louis Blues for Kids, and the Lux Family Foundation. Additionally, Mr. Lux is an avid pilot and donates time piloting his Pilatus PC-12 aircraft in support of the Veterans Airlift Command and Angel Flight Central. Mr. Lux’s qualifications to serve on the Board include his leadership skills, his extensive expertise and experience in the beverage alcohol industry, his former role as CEO of Luxco, Inc., his management of the growth and development of multi-brand portfolios, and his significant stock ownership. 
+ KEVIN S. RAUCKMAN 
+ Mr. Rauckman is the owner of, and financial consultant for, Rauckman Advisors, LLC, where he has worked since November 2017. Mr. Rauckman served as the Chief Financial Officer and Treasurer of Garmin Ltd. (Nasdaq: GRMN) from January 1999 until December 2014 before taking early retirement from that role. He was named CFO of the Year by the Kansas City Business Journal in 2008. Mr. Rauckman now serves as a board member and the Audit Committee Chairman of CrossFirst Bankshares, Inc. (Nasdaq: CFB), in a role he has held since May 2016. He also serves as a board member and Audit Committee Chairman of JE Dunn Construction Group, a role he has held since January 2017. Mr. Rauckman’s qualifications to serve on the Board include his public company experience on the boards of other companies and his significant financial, corporate governance, leadership, operational, and strategic planning skills. 
+ PREET H. MICHELSON 
+ Ms. Michelson has been Vice President of Human Resources at CVS Health Corporation, an American healthcare company and the parent company of CVS Pharmacy, CVS Caremark, and Aetna, among other entities, since November 2022. From March 2022 to November 2022, she was the Chief People Officer of AHEAD, Inc., a digital business platform builder. From June 2019 to March 2022, she was employed by United Airlines, a major American airline, most recently as Managing Director for President, Chief Human Resources Officer and Chief Customer Officer. From December 2015 until June 2019, she worked for Molson Coors Beverage Company, a multinational drink and brewing company, in several positions of increasing responsibility, most recently as Senior HR Commercial Lead/Director for MillerCoors US Marketing, US Chain Sales, CCOE. From 2012 to 2015, she was Vice President, Customer Experience and Organizational Effectiveness of The Y of Metropolitan Chicago. Prior to that, she was employed by Beam Global Spirits & Wine from 2010 to 2012, most recently as Director, Marketing Strategy. From 2005 to 2009, she served as Senior Manager, Strategy—Tropicana Beverages, of PepsiCo. From 2000 to 2005, she served as Director, Strategy, Planning & Analysis for the Chicago Tribune Company. From 1999 to 2000, she worked for Ernst & Young LLP as a Manager in its Mergers and Acquisitions practice group. Ms. Michelson’s qualifications to serve on the Board include her background in strategy and marketing for multiple consumer brands, her overall experience in all aspects of human resources management, her alcohol beverage industry experience, and her leadership experience. 
+ TODD B. SIWAK 
+ Mr. Siwak is the founding partner of Encore Group, a private equity fund focused on the consumer services sector. Prior to founding the Encore Group in November 2022, Mr. Siwak was the Chief Business Officer for North America for the Ferrero Group, a global sweet snacking company, from September 2021 to October 2022. Prior to joining Ferrero, Mr. Siwak was the Chief Executive Officer of Ferrara Candy Company from April 2013 until September 2021. From April 2009 until March 2013, Mr. Siwak was an operating partner for L Catteron Partners, a consumer-focused private equity group. From August 2005 until April 2007, Mr. Siwak was a founding partner of Mindseye Group, a private equity group. From December 1999 to August 2005, Mr. Siwak was the Chief Executive Officer of TRG Accessories, a manufacturer of luggage and travel gear. Mr. Siwak’s qualifications to serve on the Board include his extensive management experience, his experience in the food industry, and his management, growth, and development of multi-brand portfolios. 
+ 13 
+ CORPORATE GOVERNANCE AND COMMITTEE REPORTS 
+ The Board; Standing Committees; Meetings; Independence 
+ The Board of Directors believes that a majority of the directors should be independent and has determined that the following directors are independent: Neha J. Clark, Thomas A. Gerke, Preet H. Michelson, Lori L.S. Mingus, Kevin S. Rauckman, Karen L. Seaberg, and Todd B. Siwak. In determining the independence of directors, the Board found that none of the independent directors has any material relationship with the Company other than as a director. In making these determinations, the Board considers all facts and circumstances as well as the standards defined in Rule 4200(a)(15) of the Nasdaq Stock Market, LLC ("Nasdaq"). 
+ The Board's standing Committees include the Audit Committee, the Nominating and Governance Committee, and the Human Resources and Compensation Committee. The current members of the Audit Committee are Neha J. Clark (Chair), Thomas A. Gerke, Preet H. Michelson, Kevin S. Rauckman, and Todd B. Siwak. The current members of the Nominating and Governance Committee are Kevin S. Rauckman (Chair), Neha J. Clark, Thomas A. Gerke, Preet H. Michelson, Lori L.S. Mingus, Karen L. Seaberg, and Todd B. Siwak. The current members of the Human Resources and Compensation Committee are Thomas A. Gerke (Chair), Neha J. Clark, Preet H. Michelson, Lori L.S. Mingus, Kevin S. Rauckman, Karen L. Seaberg, and Todd B. Siwak. 
+ All of the members of the Nominating and Governance Committee are determined independent under the Nasdaq listing rules. All of the members of the Audit Committee are independent under the Nasdaq listing rules and meet the applicable independence requirements of Section 10A(m)(3) of the Securities Exchange Act of 1934, as amended. All of the members of the Human Resources and Compensation Committee are also determined independent under the Nasdaq listing rules and applicable rules of the Securities and Exchange Commission. Each director on the Committees is a “non-employee” director as defined in Rule 16b-3(b)(3) promulgated under the Securities Exchange Act of 1934. 
+ The Board meets immediately after each Annual Meeting of the stockholders and may hold other regular and special meetings. The meetings are led by the Chairman of the Board. During 2022, the Board met 10 times, the Audit Committee met eight times, the Human Resources and Compensation Committee met seven times, and the Nominating and Governance Committee met four times. Each non-employee director attended more than 75% of the meetings of the Board and the Committees of which the director was a member. 
+ Corporate Governance Documents 
+ Our key governance documents include: 
+ • Code of Conduct; 
+ • Charters of each of the Audit Committee, the Human Resources and Compensation Committee, and the Nominating and Governance Committee; 
+ • Corporate Governance Guidelines; and 
+ • Stock Ownership Guidelines. 
+ All of these documents are available on our Investor Relations website at http://.ir.mgpingredients.com/corporate-governance/governance-documents on the “Governance” section under “Governance Documents”, and a copy of any of these documents will be sent to any stockholder upon request. 
+ Audit Committee 
+ The Audit Committee assists the Board of Directors in fulfilling the Board’s oversight responsibilities with respect to the quality and integrity of the financial statements, financial reporting process, and monitoring significant risk exposures. The Audit Committee also assists the Board in monitoring the independence and performance of the independent registered public accountant and the internal audit department. It also reviews and makes recommendations with regard to the process involved in the Company’s implementation of its conflict of interest and business conduct policy, is responsible for establishing and monitoring compliance under the code of conduct applicable to the chief executive and financial officers, and oversees the Board’s risk management process. In connection with this work, the Committee engages in regular discussions of the Company’s risks with senior management, internal auditors, and external auditors, and annually reviews: (a) the adequacy of the Audit Committee’s written charter that has been adopted by the Board of Directors; (b) the independence and financial literacy of each member of the Audit Committee; (c) the plan for and scope of the annual audit; (d) the services and fees of the independent auditor; (e) certain matters relating to the independence of the independent auditor; (f) certain matters required to be discussed with the independent auditor relative to the quality of the Company’s accounting principles; (g) the audited financial statements and results of the annual audit; (h) recommendations of the independent 
+ 14 
+ auditor with respect to internal controls and other financial matters; (i) significant changes in accounting principles that are brought to the attention of the Committee; and (j) various other matters that are brought to the attention of the Committee. 
+ The Board of Directors has determined that each of Neha J. Clark, Kevin S. Rauckman, and Thomas A. Gerke is an “audit committee financial expert,” as defined in Item 407(d)(5) of Regulation S-K. 
+ Audit Committee Report 
+ The Audit Committee oversees the Company’s financial reporting process on behalf of the Board of Directors and oversees the entire audit function including the selection of an independent registered public accounting firm. Management has the primary responsibility for the consolidated financial statements and the financial reporting process including internal control over financial reporting and the Company’s legal and regulatory compliance. In fulfilling its oversight responsibilities, the Audit Committee reviewed and discussed with management the audited financial statements for the year ended December 31, 2022. 
+ The Audit Committee has reviewed and discussed with the independent registered public accounting firm the matters as are required to be discussed in accordance with the standards of the Public Company Accounting Oversight Board ("PCAOB") and the SEC; has received the written disclosures and letter from the independent registered public accounting firm required by applicable requirements of the PCAOB regarding the independent accountant’s communications with the Audit Committee concerning independence; and has discussed with the independent registered public accounting firm the independent registered public accounting firm’s independence. 
+ Based on such review and discussions, the Audit Committee recommended to the Board of Directors that the audited financial statements for 2022 be included in the Company’s Annual Report on Form 10-K for filing with the SEC. 
+ Audit Committee Members: 
+ | | | 
+ Neha J. Clark (Chair) | 
+ Thomas A. Gerke | 
+ Preet H. Michelson | 
+ Kevin S. Rauckman | 
+ Todd B. Siwak | 
+ The Audit Committee Report shall not be deemed incorporated by reference by any general statement incorporating by reference this Proxy Statement into any filing under the Securities Act of 1933 or under the Securities Exchange Act of 1934, except to the extent that the Company specifically incorporates this information by reference, and shall not otherwise be deemed filed under such Acts. 
+ Nominating and Governance Committee 
+ The purposes of the Nominating and Governance Committee are to recommend to the Board the qualifications for new director nominees, candidates for nomination, policies concerning director compensation and length of service, policies concerning board succession, corporate governance guidelines, and stockholder proposals relating to governance, and to oversee the evaluation of the Board and its committees. 
+ In identifying nominees for the Board of Directors, the Nominating and Governance Committee considers candidates for director who are recommended by its members, by other Board members, by management, as well as those identified by third-party search firms retained to assist in identifying and evaluating possible candidates. The Nominating and Governance Committee will also consider candidates recommended by stockholders in accordance with its policies and procedures. However, the Nominating and Governance Committee may choose not to consider an unsolicited candidate recommendation if no vacancy exists on the Board. The Nominating and Governance Committee may, in its discretion, use an independent search firm to identify nominees. 
+ The Nominating and Governance Committee believes that each candidate for the Board should be a person known for his or her integrity and honesty. Although the Committee does not have a formal policy with regard to diversity in identifying candidates, it looks for education, experience, knowledge or skills that complement those of existing members and that may be helpful to the Board in exercising its oversight responsibilities, as well as considering other self-identified diversity characteristics of the nominees. A sufficient number of Board members must meet the tests for independence set forth in the applicable listing standards of the Nasdaq and Section 10A of the Securities Exchange Act of 1934, as amended, to permit the Company to satisfy applicable Nasdaq and legal requirements. The Nominating and Governance Committee also believes it is desirable for at least one Board member to be an “audit committee financial expert,” as defined in Rule 407(d)(5) of Regulation S-K. In considering candidates, the Nominating and Governance Committee may take into account other factors as it deems relevant. 
+ 15 
+ In evaluating potential nominees, the Nominating and Governance Committee determines whether the nominee is eligible and qualified for service on the Board of Directors by evaluating the candidate under the selection criteria set forth above. The Nominating and Governance Committee will conduct a check of the individual’s background and generally will conduct personal interviews before recommending any candidate to the Board. The Nominating and Governance Committee in its sole discretion may require candidates (including a stockholder’s recommended candidate) to complete a form of questionnaire providing information required to be disclosed in the Company’s proxy statement. 
+ Stockholders who wish to recommend candidates for consideration by the Nominating and Governance Committee in connection with next year’s annual meeting should submit the candidate’s name and the information set forth below in writing to the chairman of the Nominating and Governance Committee, in care of the Company’s Secretary, at Cray Business Plaza, 100 Commercial Street, P.O. Box 130, Atchison, Kansas, 66002, on or after January 26, 2024 or before February 25, 2024. In addition to the name of the candidate, a stockholder should submit: 
+ • his or her own name and address as they appear on the Company’s records; 
+ • if not the record owner, a written statement from the record owner of the shares that verifies the recommending stockholder’s beneficial ownership and period of ownership and that provides the record holder’s name and address as they appear on the Company’s records; 
+ • a statement disclosing whether such recommending stockholder is acting with or on behalf of any other person, entity or group and, if so, the identity of such person, entity or group; 
+ • the written consent of the person being recommended to being named in the proxy statement as a nominee if nominated and to serving as a director if elected; and 
+ • pertinent information concerning the candidate’s background and experience, including information regarding such person required to be disclosed in solicitations of proxies for election of directors under Regulation 14A of the Securities Exchange Act of 1934, as amended. 
+ Human Resources and Compensation Committee 
+ The Human Resources and Compensation Committee reviews and approves the salary and incentive compensation of the Chief Executive Officer and other executive officers of the Company as well as director compensation and benefits. The Committee reviews the scope and type of compensation plans for other management personnel and makes recommendations to the Board with respect to equity-based plans that are subject to Board approval. The Committee administers the Company’s stock option and restricted stock plans and oversees executive searches. 
+ The Committee typically meets at least four or five times a year and generally considers and recommends various components of the Company’s compensation programs at regularly scheduled times throughout the year. Such programs typically originate as recommendations of management. The Committee has typically conducted performance and salary reviews of the Chief Executive Officer and receives the Chief Executive Officer’s performance reviews and salary recommendations for other officers at its December meeting. The Committee generally considers long-term incentive awards and performance goals for short-term cash incentives at its February meeting. 
+ When considering compensation matters, the Committee relies upon the experience of its members, the recommendations of management, and outside consultants retained by the Committee. 
+ See “Compensation Discussion and Analysis – Compensation Overview – How We Determine Compensation” for further information on the processes we follow in setting compensation. 
+ Board Leadership Structure 
+ Our Board does not have a policy regarding the separation of the roles of Chief Executive Officer and Chairman of the Board. The Board believes it is in the best interest of the Company to make that determination in a manner it believes best provides appropriate leadership for the Company at the time, based on the circumstances and direction of the Company and the membership of the Board. Our current structure does not combine the positions of Chief Executive Officer and Chairman of the Board of Directors. David J. Colo is currently our Chief Executive Officer and is responsible for day-to-day leadership of the Company. Karen L. Seaberg serves as the Chairman of the Board. The Board of Directors believes this is the most appropriate structure for the Company at this time, as it permits the Chief Executive Officer to focus his attention on managing our day-to-day business and enhances the ability of the Board of Directors to provide strong oversight of the Company’s management and affairs. 
+ 16 
+ Board Diversity 
+ Under our Corporate Governance Guidelines, the Nominating and Governance Committee seeks a wide array of skills, knowledge and diverse backgrounds and perspectives, and takes those into account when evaluating the composition of our Board of Directors. Our Board of Directors currently includes four women, two ethnically diverse directors, and directors ranging in age from 47 to 75. In addition, each director contributes to the Board’s overall diversity by providing a variety of perspectives based on distinct personal and professional experiences and backgrounds. We are committed to maintaining and enhancing the diversity of backgrounds and experiences of our board of directors and, in furtherance of this, the Board and the Nominating and Governance Committee conduct annual self-evaluations to assess their performance and effectiveness, including consideration of the array of skills, knowledge, and diverse backgrounds and perspectives on the Board. 
+ The following Board Diversity Matrix presents our Board diversity statistics in accordance with Nasdaq Rule 5606, as self-disclosed by our directors. 
+ Board Diversity Matrix as of April 1, 2023 
+ | | | | | | | | | 
+ Part I: Gender Identity | Female | Male | 
+ Directors (9 total) | 4 | | 5 | | 
+ Part II: Demographic Background | | | 
+ Asian | 2 | | — | | 
+ White | 2 | | 5 | | 
+ Communications with Directors and Director Attendance at the Annual Meeting of Stockholders 
+ The Company’s policy is to ask directors to attend the annual meeting of stockholders, and all of the directors attended last year’s Annual Meeting. Stockholders may communicate directly with Board members by writing the Board or individual Board members in care of the Company’s Secretary at the Company’s executive offices. Letters should be addressed as follows: Name of director – In care of Corporate Secretary – MGP Ingredients, Inc. – Cray Business Plaza, 100 Commercial Street, P.O. Box 130 – Atchison, Kansas 66002. 
+ 17 
+ COMPENSATION DISCUSSION AND ANALYSIS 
+ Compensation Overview 
+ This discussion provides an overview and analysis of our compensation programs and policies, the compensation decisions we made under those programs and policies, and the factors we considered in making those decisions. We also provide a series of tables that present information about the compensation earned or paid in each of 2020, 2021 and 2022 to our named executive officers, including: 
+ • David J. Colo – Mr. Colo, our Chief Executive Officer and President, joined the Company as a member of the Board in August 2015 before serving as President and Chief Operating Officer in March 2020 and becoming Chief Executive Officer in May 2020. 
+ • Brandon M. Gall – Mr. Gall was appointed the Vice President of Finance and Chief Financial Officer of the Company in April 2019. 
+ • David S. Bratcher – Mr. Bratcher, our Chief Operating Officer, joined the Company as President, Brands in April 2021 before being appointed Chief Operating Officer in July 2021. 
+ • Erika Lapish – Ms. Lapish has served as our Vice President and Chief Human Resources Officer since February 2023. She joined the Company as Vice President of Human Resources in May 2021. 
+ • Amel Pasagic – Mr. Pasagic has served as our Vice President of Information Technology and Chief Information Officer since July 2021. He joined the Company as Vice President, Brands Information Technology in April 2021. 
+ • David E. Dykstra – Mr. Dykstra served as Vice President, Alcohol and Marketing from 2009 to October 2021, and as Vice President of Alcohol Sales from November 2021 until his retirement on December 31, 2022, but ceased being an executive officer on May 26, 2022. 
+ • Stephen J. Glaser – Mr. Glaser has served as Vice President of Production and Engineering since October 2015, but ceased being an executive officer on May 26, 2022. 
+ The discussion below is intended to help you understand the information provided in the tables and put that information into context within our overall compensation program. 
+ Objectives of our Compensation Program 
+ Our compensation program objectives are to align compensation with our business objectives and stockholders’ interests, to reward performance, to be externally competitive and internally equitable, and to attract and retain talent on a long-term basis. In particular, our philosophy is to balance salary and benefits with incentive and equity compensation so that the interests of the executive officers will be aligned with those of stockholders. 
+ Components of Our Compensation Program 
+ The principal components of our compensation program are base salary, short-term annual incentive awards, long-term equity awards, and non-equity-based retirement compensation. 
+ • Base salary is designed to attract and retain executives. In setting base salaries, the Human Resources and Compensation Committee consider internal fairness of pay in terms of job size, external competitiveness so that we can attract and retain needed talent, and a consistent, motivating system for administering compensation. 
+ • Short-term incentive awards are intended to focus executives on factors deemed critical to our profitability. By rewarding named executive officers for good performance, we believe we help align their interests with those of our stockholders. 
+ • Long-Term incentive awards, which have in recent years been based on prior-year performance and have been in the form of restricted stock units, are intended to motivate the achievement of key long-term financial performance goals and thereby generate stockholder value, provide management an opportunity to increase ownership of our Common Stock, help attract and retain key employees, and be cost efficient. The Human Resources and Compensation Committee’s typical practice is to grant annual equity awards as soon as practicable following the close of the year based on the performance during that year. 
+ 18 
+ • Non-Equity-Based Retirement Compensation, provided through our 401(k) plan and our non-qualified deferred compensation plan, permits employees to, among other things, reduce their current income taxes by making limited pre-tax contributions to increase, enhance, and diversify their retirement savings. Named executive officers participate in the 401(k) plan on the same basis as other eligible employees. The deferred compensation plan permits participants to defer salary or short-term incentive payments. Amounts deferred are deemed invested in investments selected by the participant from a limited number of choices available in the Company's 401(k) plan. Mr. Gall and Mr. Glaser participated in the deferred compensation plan in 2022, and each deferred a portion of their short-term incentive paid in 2023 for 2022 performance. 
+ Consideration of Say-On-Pay Results 
+ At the 2022 annual meeting of stockholders, all of the shares of Preferred Stock and more than 98% of the shares of Common Stock voting on the matter voted for the approval of compensation of the Company’s named executive officers for 2021. We believe this indicates stockholder confidence in our pay for performance philosophy. 
+ How We Determine Compensation 
+ As noted elsewhere in this Proxy Statement, our Human Resources and Compensation Committee reviews and approves the salary and incentive compensation of the Chief Executive Officer and other executive officers of the Company. The Committee reviews the scope and type of compensation plans for other management personnel and makes recommendations to the Board with respect to equity-based plans that are subject to Board approval. The Chief Executive Officer provides the Committee with performance reviews and salary recommendations for other executive officers. 
+ The Committee has unrestricted access to management. It may also request the participation of management or the Committee’s independent consultant at any meeting or executive session. Committee meetings are regularly attended by the Chief Executive Officer (except for executive sessions and discussions of his own compensation) and the Committee’s independent consultant. The Committee regularly reports to the Board on compensation matters and annually reviews the Chief Executive Officer’s compensation with the Board in an executive session of non-management directors only. 
+ The Committee has sole discretion, at Company expense, to retain and terminate independent advisors, including sole authority to approve the fees and retention terms for such advisors, if it determines the services of such advisors to be necessary or appropriate. 
+ Elements of Compensation 
+ Base Salary. Our Vice President and Chief Human Resources Officer develops a summary of the titles and job descriptions of executive officers and submits them to a compensation consultant retained by the Committee, which maintains survey data for similar-sized food ingredient and consumer food and beverage packaged goods companies. The compensation consultant retained by the Committee prepares a report identifying the ranges of compensation at these companies for persons with similar responsibilities to those employees described in the company-prepared summary. In addition, the compensation consultant annually provides updated information regarding average pay increases at the companies for which a retained compensation consultant maintains survey data. This survey information, or summaries thereof, is provided to the Human Resources and Compensation Committee. The Committee reviews this information and considers any recommendation made by the Chief Executive Officer with respect to other named executive officers. The Committee then targets for each officer’s base compensation a range that is within 80% to 120% of a specified percentile of salaries paid to executives holding comparable positions at the surveyed companies. Although the ultimate goal is to compensate executive officers at the midpoint of this targeted range for comparable positions at companies within the survey, a particular individual’s salary may fall above or below the targeted level because of his or her tenure, experience level, or performance. The Human Resources and Compensation Committee has approved the 50th percentile of the market as the target for base salaries. 
+ When made, annual adjustments usually take place after the start of the next year but are retroactive to the beginning of such year. When making annual adjustments, the Human Resources and Compensation Committee takes into account each executive’s performance review and the extent to which his or her salary is above or below the midpoint for comparable positions. Adjustments sometimes occur at other times of the year as a result of a promotion or other change in duties. 
+ 19 
+ In February 2022, the Human Resources and Compensation Committee considered competitive data provided by the compensation consultant. Based on this data as well as individual and corporate performance and changes in executive duties, the committee increased the base salaries of the named executive officers in the following amounts: 
+ | | | | | | | | | | | | | | | 
+ Named Executive Officer 
+ | 2021 Base Salary ($) 
+ | 2022 Base Salary ($) 
+ | Increase (%) 
+ | 
+ David J. Colo 
+ | 685,100 | | 767,000 | | 12 | | 
+ Brandon M. Gall 
+ | 375,000 | | 415,000 | | 11 | | 
+ David S. Bratcher (1) 
+ | 453,000 | | 475,000 | | 5 | | 
+ David E. Dykstra (2) 
+ | 332,690 | | 346,000 | | 4 | | 
+ Stephen J. Glaser 
+ | 314,150 | | 327,000 | | 4 | | 
+ Erika Lapish (4) 
+ | 230,000 | | 253,000 | | 10 | | 
+ Amel Pasagic (3) 
+ | 250,000 | | 275,000 | | 10 | | 
+ (1) David S. Bratcher became an officer of the Company on April 1, 2021, in connection with the Luxco acquisition, and was named Chief Operating Officer on July 6, 2021. 
+ (2) David E. Dykstra ceased being an executive officer on May 26, 2022 and retired from the Company as of December 31, 2022. 
+ (3) Amel Pasagic was promoted to Vice President of Information Technology and Chief Information Officer on July 6, 2021. 
+ (4) During 2021 and 2022, Erika Lapish served as Vice President of Human Resources. She was promoted to Vice President and Chief Human Resources Officer on February 15, 2023. 
+ Incentive Compensation. We believe a significant portion of the compensation of senior managers should be incentive based, and that by rewarding good performance, such arrangements help align the interests of our named executive officers with those of our stockholders. The goal of our annual program is to closely align how we compensate employees with our business strategy. Specifically, we want to encourage employees to think about how they can contribute to driving Company profitability, reduce costs for goods and equipment, and create efficiencies to improve our ongoing operations. We reward them for success by basing short-term bonuses and long-term equity incentive awards on the attainment of performance metrics that correspond with the creation of stockholder value. 
+ Short-Term Incentive Plan. The Company's Short-Term Incentive Plan (the “STI Plan”) is designed to attract, motivate, and retain executive officers and employees and to tie their short-term incentive compensation to achievement of certain profitability goals of the Company. Pursuant to the STI Plan, short-term incentive compensation, payable in cash, is dependent on the achievement of certain performance metrics by the Company established by the Human Resources and Compensation Committee and certain individual qualitative objectives. Each name executive officer is entitled to a payout equal to a certain percentage of the named executive officer’s base salary if the Company achieves the plan (or, target) level of performance, with the opportunity to earn between 50% and 200% of such target payout based on achievement of the performance metrics within a range around the planned level of achievement. Each performance metric is calculated in accordance with the rules approved by the Human Resources and Compensation Committee. For 2022, such performance metrics were adjusted operating income (“Adjusted Operating Income”), adjusted earnings before interest, taxes and depreciation (“Adjusted EBITDA”), and adjusted basic earnings per share (“Adjusted Basic EPS”), each calculated as presented in the table below. Adjusted Operating Income was the core measure of performance under the STI Plan, reflecting the belief that this measure of performance is the most sensitive to management's performance. Adjusted EBITDA is a common metric used by stockholders to measure performance and Adjusted Basic EPS reflects the Company's full financial performance. These quantitative goals represent 90% of the total short-term incentive. The calculation of Adjusted EBITDA for purposes of the STI Plan for 2022 is EBITDA less equity method investments; however, there were no adjustments to operating income or basic EPS for 2022. In addition, 10% of the total incentive was based on qualitative goals. The performance metrics listed below include the impact of bonus payments made as a result of achievement of these metrics under the STI Plan Performance metrics in the table below for Adjusted Operating Income and Adjusted EBITDA are shown in thousands. 
+ 20 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Weighting
+(%) | | Minimum
+Payout of
+50% ($) | | Plan Payout
+100% ($) | | Maximum
+Payout of 
+200% ($) | 
+ Adjusted Operating Income | | 70 | | | 121,494 | | | 133,643 | | | 145,792 | | 
+ Adjusted EBITDA | | 20 | | | 143,841 | | | 155,991 | | | 168,140 | | 
+ Adjusted Basic EPS | | 10 | | | 3.90 | | | 4.31 | | | 4.72 | | 
+ The Human Resources and Compensation Committee determines the Chief Executive Officer’s eligibility under the STI Plan for the year and his target annual compensation. The Human Resources and Compensation Committee reviews and approves management's recommendation of the other executive officers and employees eligible to participate under the STI Plan for the plan year as well as the target annual incentive compensation for each other participant for each year. For 2022, each of the named executive officers participated in the STI Plan and the target annual incentive opportunity for each of the named executive officers as a percentage of base salary was 100% for Mr. Colo, 60% for Mr. Gall and Mr. Bratcher, and 50% for Mr. Dykstra, Mr. Glaser, Ms. Lapish, and Mr. Pasagic. 
+ For 2022, the Human Resources and Compensation Committee determined that, after factoring in the impact of bonus payments made as a result of the Company’s performance, the Company achieved Adjusted Operating Income of $149.0 million, Adjusted EBITDA of $169.3 million, and Adjusted Basic EPS of $4.94, resulting in a payout equal to 200% of plan. As a result of this performance, and after giving effect to the qualitative portion of the STI Plan, in early 2023, Mr. Colo received a payment of $1,534,000, Mr. Gall received a payment of $498,000, Mr. Bratcher received a payment of $570,000, Mr. Glaser received a payment of $327,000, Ms. Lapish received a payment of $253,000, and Mr. Pasagic received a payment of $275,000. 
+ Long-Term Incentive Plan . On May 22, 2014, stockholders approved the 2014 Equity Incentive Plan (the “LTI Plan”). The Board reserved 1,500,000 shares of Common Stock for issuance under the LTI Plan. The LTI Plan authorizes awards in the form of incentive stock options, nonqualified stock options, stock appreciation rights, restricted stock, restricted stock units, and other stock-based awards and cash performance awards. The Human Resources and Compensation Committee sets annual performance goals and corresponding levels of payouts based on the level of achievement of those goals, and the performance award earned is issued in the form of restricted stock units. For awards with respect to 2022 LTI Plan year performance and prior periods, the restricted stock units cliff vest three years from the date of grant.Each named executive officer’s participation level and performance metrics is subject to Human Resources and Compensation Committee discretion. For 2022, the performance metrics for the LTI Plan were the same as for the STI Plan discussed above. The long-term incentive target opportunity for 2022 for the named executive officers as a percentage of base salary was 140% for Mr. Colo, 75% for Mr. Bratcher and Mr. Gall, and 65% for Mr. Dykstra, Mr. Glaser, Ms. Lapish, and Mr. Pasagic. 
+ In February 2023, the Human Resources and Compensation Committee reviewed the Company’s 2022 performance and granted to each of the named executive officers based on that performance an award of restricted stock units in the amounts presented below. 
+ | | | | | | | | | | | | | | | 
+ Participant (1) 
+ | | # of RSUs | | Grant Date Fair Value 
+($) | 
+ David J. Colo | | 22,170 | | | 2,147,600 | | 
+ Brandon M. Gall | | 6,426 | | | 622,500 | | 
+ David S. Bratcher | | 7,355 | | | 712,500 | | 
+ Stephen J. Glaser | | 4,388 | | | 425,100 | | 
+ Erika Lapish | | 3,395 | | | 328,900 | | 
+ Amel Pasagic | | 3,691 | | | 357,500 | | 
+ (1) David E. Dykstra retired December 31, 2022 and was ineligible for a restricted stock unit award under the terms of the LTI Plan. 
+ Retirement Compensation. We provide non-equity-based compensation through our 401(k) plan, a tax-qualified defined contribution plan. Our 401(k) plan allows a Company match of 1% for each 1% of employee deferral to a maximum of 6%. Named executive officers participate in the 401(k) plan on the same basis as other employees. Amounts contributed under the 401(k) plan have been allocated to participant accounts in proportion to each participant’s eligible compensation, as defined in the plan. In 2018 the Company adopted a non-qualified deferred compensation plan for its executive officers. The deferred compensation plan permits participants to defer salary or short-term incentive payments. Amounts deferred are deemed invested in investments selected by the 
+ 21 
+ participant from a limited number of choices available in the Company's 401(k) plan. Mr. Gall and Mr. Glaser participated in the deferred compensation plan in 2022 and deferred a portion of their short-term incentive award for 2022, which was paid in March 2023. 
+ We entered into an agreement with Mr. Dykstra on August 5, 2022 in connection his planned retirement from the Company on December 31, 2022. Mr. Dykstra agreed to remain employed with the Company through December 31, 2022, notwithstanding his successor’s earlier appointment date, to facilitate an orderly transition. In connection with Mr. Dykstra’s retirement on terms mutually agreed with the Company, including the transition of responsibilities to his successor, as well as his execution of a release of claims in favor of the Company, per his agreement Mr. Dykstra was entitled to a lump sum payment equal to the value of all of his outstanding unvested restricted stock units held by Mr. Dykstra on December 31, 2022 and the value of his STI Plan payout for 2022 as if he had remained employed with the Company through the date on which such payment would have been made in March 2023. 
+ Executive Severance Plan. On February 12, 2020, the Company established the MGP Ingredients, Inc. Executive Severance Plan. The plan, as amended on May 25, 2022, provides the Company’s executive leadership team the opportunity to receive severance benefits in the event of certain terminations of employment, with the purpose to attract and retain qualified executives. Pursuant to the plan, upon a qualifying termination (generally, a termination by the Company without cause or a termination by the participant for good reason (each as defined in the plan)) then the participant would receive severance in an amount equal to an applicable severance multiplier (one for any participant who is not the chief executive officer and two for any participant who is the chief executive officer) times the participant’s base salary in effect immediately prior to the date of the termination. In addition, participants would receive a prorated annual bonus based on the Company’s actual performance in the year in which termination occurs. Participants are eligible for reimbursement for certain COBRA premiums for a limited period of time. The plan does not affect the terms of any outstanding equity awards. Any severance benefits payable to a participant under the plan would be reduced by any severance benefits to which the participant would otherwise be entitled under any other severance policy or plan, including any agreement between a participant and the Company (unless the plan or agreement expressly provides for severance benefits to be in addition to those provided under the plan). 
+ Other Compensation Programs. We provide limited executive perquisites to the named executive officers, as described herein, and we do not offer significant executive benefits, such as supplemental executive retirement plans. Mr. Colo receives an automobile allowance of $500 per month pursuant to the terms of his employment agreement. Mr. Bratcher and Mr. Pasagic receive an automobile allowance of $1,500 and $600 per month, respectively, and a monthly gas allowance. In addition, Ms. Lapish, and Mr. Pasagic each receive a cell phone allowance of $150 per month. 
+ Stock Ownership Guidelines 
+ Our Board has adopted stock ownership guidelines to better align the interests of our executive officers and directors with the interests of stockholders and further promote our commitment to sound corporate governance. 
+ Under the guidelines as amended on December 14, 2022, our executive officers are required to achieve ownership of our Common Stock valued at one and one-half times their annual base salary (five times in the case of the Chief Executive Officer and two times in the case of the Chief Financial Officer and Chief Operating Officer). The individual guideline level for each executive officer is initially calculated using the executive officer’s base salary as of the date the person is first appointed as an executive officer. This guideline level is then recalculated at each January 1st. Unless an executive officer has satisfied his or her applicable guideline level, the executive officer is required to retain an amount equal to 50% of the net shares received as the result of the exercise, vesting or payment of any equity awards granted to the executive officer. Executive officers are expected to be in compliance with their guideline level within five years of the later of (a) becoming an executive officer and (b) implementation of this policy. As of the date hereof, each of our executive officers are in their five-year phase-in period and are progressing toward attaining the applicable ownership guideline. 
+ Under the guidelines, the Chairman of the Board is expected to beneficially own Common Stock valued at five times the annual cash retainer payable to her as a director and each other non-employee director is expected to beneficially own Common Stock valued at three times the annual cash retainer payable to such director. The guideline level is calculated using the annual cash retainer due to the director when first elected to the Board. This guideline level is then recalculated at each January 1st. Non-employee directors are required to satisfy their guideline level within five years of joining the Board and are expected to continuously own sufficient shares to satisfy the guideline once attained for so long as they remain a member of the Board. All directors either own a sufficient number of shares of Common Stock to be in compliance with the guidelines or are in the five-year phase-in period. 
+ Shares that count toward satisfaction of the stock ownership guidelines for executive officers and directors include the following: (i) shares owned outright by the executive officer or director, or his or her immediate family members residing in the same household; (ii) shares held in trust for the benefit of the executive officer or director, or his or her immediate family members; (iii) vested shares of restricted stock; and (iv) vested shares of restricted stock units. The following do not count towards satisfaction of the stock 
+ 22 
+ ownership guidelines: (i) unvested shares of restricted stock or restricted stock units; (ii) shares pledged as collateral for a loan; (iii) unexercised stock options (whether vested or unvested); and (iv) incentive performance awards that may be settled in cash (whether vested or unvested). 
+ The stock ownership guidelines are administered, interpreted, and construed by the Human Resources and Compensation Committee. In administering the stock ownership guidelines, the Human Resources and Compensation Committee annually reviews the extent to which each executive officer and director of the Company has complied with the stock ownership guidelines. 
+ The ownership levels of our named executive officers and non-employee directors as of April 1, 2023 are set forth in the table entitled “Principal Stockholders”. 
+ Prohibition on Hedging, Pledging and Short Sales 
+ We also have an insider trading policy that, among other things, prohibits directors and executive officers from entering into any hedging or monetization transactions or otherwise trading in any instrument relating to the future price of our securities, such as a put or call option, futures contract, short sale, collar or other derivative security. In addition, we prohibit pledging shares of our Common Stock as collateral by directors and executive officers. Exceptions to this restriction on pledging may be granted by the Chief Legal Officer under limited circumstances when the pledgor demonstrates the financial capacity to repay a loan without resorting to the pledged securities. As of the date hereof, no directors or executive officers had shares pledged. Other than the stock ownership guidelines described above, we do not have a policy regarding the length of time executives or directors have to hold their stock after exercise or vesting. 
+ Accounting 
+ We do not expect accounting treatment of differing forms of equity awards to vary significantly and, therefore, accounting treatment is not expected to have a material effect on the selection of forms of compensation. Total expected compensation expense for each grant program is amortized over the vesting period of the awards. Compensation expense related to the restricted stock unit awards in 2022 and 2023 was based on market price of stock on the award dates. 
+ Compensation Clawback 
+ Under our clawback policy, a participant under any of our annual incentive or other performance-based compensation plans is required to repay or forfeit, to the fullest extent permitted by law and as directed by the Board, any annual incentive or other performance-based compensation received by him or her if: 
+ • the payment, grant or vesting of such compensation was based on the achievement of financial results that were subsequently determined to be erroneous, 
+ • the amount of the compensation that would have been received by the participant had the financial results been properly reported would have been lower than the amount actually received, and 
+ • the Board determines in its sole discretion that it is in the best interests of the Company and its stockholders for the participant to repay or forfeit all or any portion of the compensation. In this regard, compensation includes proceeds, gains or other economic benefit actually or constructively received by the participant upon receipt or exercise of an award or upon receipt of resale of any shares of stock underlying an award. 
+ All determinations and decisions made by the Board pursuant to the provisions of this policy are final, conclusive, and binding on all persons. 
+ Our policy applies to any annual incentive or other performance-based award granted to an executive officer and to other participants. The Company expects to revise its compensation recovery policy in the next year to comply with new Nasdaq and SEC rules. 
+ Human Resources and Compensation Committee Report 
+ The Human Resources and Compensation Committee reviewed and discussed with management the “Compensation Discussion and Analysis” section of this Proxy Statement. Based on such review and discussion, the Committee recommended to the Board that the “Compensation Discussion and Analysis” Section be included in this Proxy Statement. 
+ 23 
+ Human Resources and Compensation Committee Members: 
+ Thomas A. Gerke (Chair) 
+ Neha J. Clark 
+ Preet H. Michelson 
+ Lori L.S. Mingus 
+ Kevin S. Rauckman 
+ Karen L. Seaberg 
+ Todd B. Siwak 
+ SUMMARY COMPENSATION TABLE 
+ The following table sets forth information regarding the compensation of our named executive officers for 2022, 2021, and 2020: 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ Name and Principal Position | | Year | | Salary ($) | | Stock Awards ($) (1) 
+ | | Non-Equity Incentive Plan Compensation ($) (2) 
+ | | All Other Compensation ($) (3) 
+ | | Total ($) | 
+ David J. Colo 
+ President and Chief Executive Officer 
+ | | 2022 | | 767,000 | | | 1,712,716 | | | 1,534,000 | | | 56,261 | | | 4,069,977 | | 
+ | | 2021 | | 685,100 | | | 1,281,242 | | | 1,370,200 | | | 37,153 | | | 3,373,695 | | 
+ | | 2020 | | 512,674 | | | 209,440 | | | 1,025,000 | | | 112,057 | | | 1,859,171 | | 
+ Brandon M. Gall 
+ Vice President of Finance and Chief Financial Officer 
+ | | 2022 | | 415,000 | | | 487,525 | | | 498,000 | | | 35,899 | | | 1,436,424 | | 
+ | | 2021 | | 375,000 | | | 417,355 | | | 450,000 | | | 26,555 | | | 1,268,910 | | 
+ | | 2020 | | 315,000 | | | 247,213 | | | 385,269 | | | 25,388 | | | 972,870 | | 
+ David S. Bratcher 
+ Chief Operating Officer 
+ | | 2022 | | 475,000 | | | 441,713 | | | 570,000 | | | 52,103 | | | 1,538,816 | | 
+ | | 2021 | | 342,828 | | | 294,981 | | | 453,000 | | | 22,627 | | | 1,113,436 | | 
+ Erika Lapish 
+ Vice President and Chief Human Resources Officer 
+ | | 2022 | | 253,000 | | | 178,272 | | | 253,000 | | | 24,607 | | | 708,879 | | 
+ Amel Pasagic 
+ Vice President and Chief Information Officer 
+ | | 2022 | | 275,000 | | | 179,516 | | | 275,000 | | | 33,329 | | | 762,845 | | 
+ David E. Dykstra 
+ Former Vice President, Alcohol 
+ | | 2022 | | 346,000 | | | 432,535 | | | 346,000 | | | 1,404,898 | | | 2,529,433 | | 
+ | | 2021 | | 332,690 | | | 427,965 | | | 332,690 | | | 25,579 | | | 1,118,924 | | 
+ | | 2020 | | 323,000 | | | 30,268 | | | 329,212 | | | 24,787 | | | 707,267 | | 
+ Stephen J. Glaser 
+ Vice President of Production and Engineering 
+ | | 2022 | | 327,000 | | | 408,423 | | | 327,000 | | | 34,690 | | | 1,097,113 | | 
+ | | 2021 | | 314,150 | | | 404,093 | | | 314,150 | | | 26,023 | | | 1,058,416 | | 
+ | | 2020 | | 305,000 | | | 28,318 | | | 310,865 | | | 25,354 | | | 669,537 | | 
+ (1) The amount shown is the grant date fair value of awards made during the period computed in accordance with Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) Topic 718. Accelerated full or pro-rata vesting may be permitted upon a change of control or if employment is terminated as a result of death, disability, retirement or termination without cause. We pay dividend equivalents on these shares during the vesting period, which are not taken into account in determining their grant date fair value. Mr. Colo, Mr. Gall, Mr. Bratcher, Mr. Glaser, Ms. Lapish, and Mr. Pasagic were granted restricted stock units based on 2022 performance in 2023 in the amounts of $2,147,600, $622,500, $712,500, $425,100, $328,900, and $357,500, respectively. These grants are not included in the table. 
+ (2) Amounts shown reflect annual cash incentive payments for 2022 performance that were paid in the first quarter of 2023. 
+ (3) Includes dividend equivalents paid on restricted stock unit awards in 2022 in the following amounts: Mr. Colo - $23,684; Mr. Gall - $10,695; Mr. Bratcher - $5,120; Mr. Dykstra - $6,192; Mr. Glaser $4,428; Ms. Lapish - $1,100; and Mr. Pasagic - $1,384. Includes the Company’s contributions to the Company’s 401(k) plan allocated to the accounts of each named 
+ 24 
+ executive officer for 2022 in the following amounts: Mr. Colo - $18,300; Mr. Gall - $18,300; Mr. Bratcher - $18,300; Mr. Dykstra - $18,300; Mr. Glaser - $18,300; Ms. Lapish - $15,099; and Mr. Pasagic - $14,914. Includes Company's contributions to premiums towards the purchase of additional life insurance for Mr. Gall, Mr. Dykstra, and Mr. Glaser. Includes a $1,372,196 payment made to Mr. Dykstra pursuant to the terms of his letter agreement dated August 5, 2022 in connection with his retirement following an orderly transition of his responsibilities, as described in “Compensation Discussion and Analysis – Elements of Compensation – Retirement Compensation.” Includes an automobile allowance in the amount of $6,000 for Mr. Colo and an automobile and gas allowance for Messers. Bratcher and Pasagic in the amounts of $22,607 and $10,246, respectively. Includes cell phone allowances for Ms. Lapish and Mr. Pasagic. Additionally, includes amount paid by the Company towards the purchase of life insurance, accidental death and dismemberment insurance, short term disability, and long-term disability insurance. 
+ GRANTS OF PLAN-BASED AWARDS 
+ The following table sets forth information with respect to each named executive officer concerning grants of awards during the year ended December 31, 2022, under both the Company’s equity and non-equity plans. 
+ 25 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | Estimated Future Payouts Under Non-Equity Incentive Plan Awards | | Estimated Future Payouts Under Equity Incentive Plan Awards | | | | | 
+ Name 
+ | | Grant Date 
+ | | Threshold ($) 
+ | | Target ($) 
+ | | Maximum ($) 
+ | | Threshold ($) 
+ | | Target ($) 
+ | | Maximum ($) 
+ | | All Other Stock Awards: Number of Shares of Stock or Units (#) 
+ | | Grant Date Fair Value of Stock and Option Awards ($) 
+ | 
+ David J. Colo | | | | | | | | | | | | | | | | | | | 
+ LTI Opportunity | | 2/10/2022 (2) 
+ | | | | | | | | 536,900 | | 1,073,800 | | 2,147,600 | | | | | 
+ STI Opportunity | | 2/10/2022 (3) 
+ | | 383,500 | | 767,000 | | 1,534,000 | | | | | | | | | | | 
+ RSUs (1) 
+ | | 2/10/2022 (4) 
+ | | | | | | | | | | | | | | 22,020 | | 1,712,716 | 
+ Brandon M. Gall | | | | | | | | | | | | | | | | | | | 
+ LTI Opportunity | | 2/10/2022 (2) 
+ | | | | | | | | 155,625 | | 311,250 | | 622,500 | | | | | 
+ STI Opportunity | | 2/10/2022 (3) 
+ | | 124,500 | | 249,000 | | 498,000 | | | | | | | | | | | 
+ RSUs | | 2/10/2022 (4) 
+ | | | | | | | | | | | | | | 6,268 | | 487,525 | 
+ David S. Bratcher 
+ | | | | | | | | | | | | | | | | | | | 
+ LTI Opportunity 
+ | | 2/10/2022 (2) 
+ | | | | | | | | 178,125 | | 356,250 | | 712,500 | | | | | 
+ STI Opportunity 
+ | | 2/10/2022 (3) 
+ | | 142,500 | | 285,000 | | 570,000 | | | | | | | | | | | 
+ RSUs 
+ | | 2/10/2022 (4) 
+ | | | | | | | | | | | | | | 5,679 | | 441,713 | 
+ Erika Lapish 
+ | | | | | | | | | | | | | | | | | | | 
+ LTI Opportunity 
+ | | 2/10/2022 (2) 
+ | | | | | | | | 82,225 | | 164,450 | | 328,900 | | | | | 
+ STI Opportunity 
+ | | 2/10/2022 (3) 
+ | | 63,250 | | 126,500 | | 253,000 | | | | | | | | | | | 
+ RSUs 
+ | | 2/10/2022 (4) 
+ | | | | | | | | | | | | | | 2,292 | | 178,272 | 
+ Amel Pasagic 
+ | | | | | | | | | | | | | | | | | | | 
+ LTI Opportunity 
+ | | 2/10/2022 (2) 
+ | | | | | | | | 89,375 | | 178,750 | | 357,500 | | | | | 
+ STI Opportunity 
+ | | 2/10/2022 (3) 
+ | | 68,750 | | 137,500 | | 275,000 | | | | | | | | | | | 
+ RSUs 
+ | | 2/10/2022 (4) 
+ | | | | | | | | | | | | | | 2,308 | | 179,516 | 
+ David E. Dykstra (5) 
+ | | | | | | | | | | | | | | | | | | | 
+ LTI Opportunity 
+ | | 2/10/2022 (2) 
+ | | | | | | | | 112,450 | | 224,900 | | 449,800 | | | | | 
+ STI Opportunity 
+ | | 2/10/2022 (3) 
+ | | 86,500 | | 173,000 | | 346,000 | | | | | | | | | | | 
+ RSUs 
+ | | 2/10/2022 (4) 
+ | | | | | | | | | | | | | | 5,561 | | 432,535 | 
+ Stephen J. Glaser 
+ | | | | | | | | | | | | | | | | | | | 
+ LTI Opportunity 
+ | | 2/10/2022 (2) 
+ | | | | | | | | 106,275 | | 212,550 | | 425,100 | | | | | 
+ STI Opportunity 
+ | | 2/10/2022 (3) 
+ | | 81,750 | | 163,500 | | 327,000 | | | | | | | | | | | 
+ RSUs 
+ | | 2/10/2022 (4) 
+ | | | | | | | | | | | | | | 5,251 | | 408,423 | 
+ (1) Restricted Stock Units ("RSUs"). 
+ (2) The amounts reported under the Threshold, Target and Maximum columns in this table are the values of the possible incentive compensation awards calculated in accordance with the provisions set forth in the LTI Plan. The Threshold column reports the awards that would have been paid if 91% of the performance targets were met. If less than 91% of a performance target is met, no incentive award is paid with respect to that target. The Target column reports the awards that would have been paid if 100% of the performance targets were met and the Maximum column reports the amount that would have been paid if 109% of the performance targets were met and represents the maximum awards available under the plan regardless of the amount by which the performance targets are exceeded. The performance targets performance goals relate to both quantitative and qualitative criteria. The award amounts are denominated in dollars but are payable in restricted stock units in the number of shares that the award equates to at the time of payout. In February 2023, each executive received an award of restricted stock units for 2022 that was the maximum award payable under the LTI Plan as described in “Compensation Discussion and Analysis – Elements of Compensation – Incentive Compensation – Long-Term Incentive Plan.” 
+ 26 
+ (3) The amounts reported under the Threshold, Target and Maximum columns in this table are the possible incentive compensation awards calculated in accordance with the provisions set forth in the STI Plan. The Threshold column reports the awards that would have been paid if 91% of the performance targets were met. If less than 91% of a performance target is met, no incentive award is paid with respect to that target. The Target column reports the awards that would have been paid if 100% of the performance targets were met and the Maximum column reports the amount that would have been paid if 109% of the performance targets were met and represents the maximum awards available under the plan regardless of the amount by which the performance targets are exceeded. The performance targets performance goals relate to both quantitative and qualitative criteria. For 2022, each executive received an award amount that was the maximum award payable under the STI Plan as reported in the Summary Compensation Table. 
+ (4) Represents the grant of restricted stock units to each named executive officer under the LTI Plan based on the Company's overall performance and the executive's individual performance for 2021. The grant of RSUs reported for this award will vest on the third anniversary of each such award’s grant date. 
+ (5) David E. Dykstra retired from the Company on December 31, 2022. Pursuant to the terms of his letter agreement dated August 5, 2022, he forfeited his right to receive a long-term incentive unit award for 2022. 
+ NARRATIVE DISCLOSURE TO SUMMARY COMPENSATION TABLE AND GRANTS OF PLAN-BASED AWARDS TABLE 
+ Employment Agreements and Other Arrangements 
+ Colo Employment Agreement 
+ In connection with Mr. Colo’s appointment as an officer of the Company, initially as President and Chief Operating Officer effective March 16, 2020, and then as President and Chief Executive Officer, the Company and Mr. Colo entered into an employment agreement on February 7, 2020. The employment agreement sets forth Mr. Colo’s base salary, signing bonus, short-term incentive, and long-term incentive as follows: 
+ Base Salary . Mr. Colo would receive a base salary of $650,000 per year. Mr. Colo’s base salary would be reviewed annually by the Human Resources and Compensation Committee in accordance with the performance evaluation practices of the Company, but it may not be decreased without Mr. Colo’s consent. 
+ Signing Bonus . Mr. Colo was granted a one-time equity award of 8,000 restricted stock units under the LTI Plan, which vested on March 16, 2023. 
+ Short-Term Incentive . Mr. Colo is eligible to participate in the STI Plan. His employment agreement set out the terms for his award for 2020. For 2021 and future years, the terms and conditions of his participation in the STI Plan are reviewed and established annually by the Human Resources and Compensation Committee. 
+ Long-term Incentive . Mr. Colo is eligible to participate in the LTI Plan for each fiscal year during which he is employed under the terms of the employment agreement. The awards made under the LTI Plan in any given year will be for performance for the immediately preceding year pursuant to the LTI Plan. His employment agreement set out the terms for his award for 2020. For 2021 and future years, the terms and conditions of his participation in the LTI Plan are reviewed and established annually by the Human Resources and Compensation Committee. 
+ 27 
+ OUTSTANDING EQUITY AWARDS ON DECEMBER 31, 2022 
+ The following table shows information concerning restricted stock unit awards outstanding held by the named executive officers on December 31, 2022. No options were outstanding to any named executive officers as of such date. Amounts shown are based on a price of $106.38 per share, the closing market price on December 30, 2022. 
+ | | | | | | | | | | | | | | | 
+ | | Stock Awards | 
+ Name (1) 
+ | | Number of Shares or Units of Stock That Have Not Vested (#) | | Market Value of Shares or Units of Stock That Have Not Vested ($) | 
+ David J. Colo | | 8,000 | (2) 
+ | 851,040 | | 
+ | | 19,322 | (3) 
+ | 2,055,474 | | 
+ | | 22,020 | (4) 
+ | 2,342,488 | | 
+ Brandon M. Gall | | 720 | (5) 
+ | 76,594 | | 
+ | | 6,294 | (3) 
+ | 669,556 | | 
+ | | 2,500 | (6) 
+ | 265,950 | | 
+ | | 6,500 | (7) 
+ | 691,470 | | 
+ | | 6,268 | (4) 
+ | 666,790 | | 
+ David S. Bratcher | | 4,987 | (8) 
+ | 530,517 | | 
+ | | 5,679 | (4) 
+ | 604,132 | | 
+ Erika Lapish | | 2,292 | (4) 
+ | 243,823 | | 
+ Amel Pasagic | | 575 | (8) 
+ | 61,169 | | 
+ | | 2,308 | (4) 
+ | 245,525 | | 
+ Stephen J. Glaser | | 827 | (5) 
+ | 87,976 | | 
+ | | 6,094 | (3) 
+ | 648,280 | | 
+ | | 5,251 | (4) 
+ | 558,601 | | 
+ (1) David E. Dykstra retired effective December 31, 2022. In connection with his retirement, he received certain compensation pursuant to the terms of a letter agreement with the Company in exchange for forfeiting all outstanding unvested restricted stock unit awards. 
+ (2) This award vested on March 16, 2023. 
+ (3) This award will vest on February 11, 2024. 
+ (4) This award will vest on February 10, 2025. 
+ (5) This award vested on February 12, 2023. 
+ (6) This award will vest on February 18, 2024. 
+ (7) This award will vest on February 12, 2025. 
+ (8) This award will vest on April 1, 2024. 
+ 28 
+ STOCK VESTED 
+ The following table sets forth information with respect to each named executive officer concerning the vesting of stock during the year ended December 31, 2022. 
+ | | | | | | | | | | | | | | | | | | 
+ | | | Stock Awards | 
+ Name | | | Number of Shares Acquired on Vesting (#) | | Value Realized on Vesting ($) (1) 
+ | 
+ David J. Colo | | | — | | | — | | 
+ Brandon M. Gall | | | 579 | | | 45,527 | 
+ David S. Bratcher 
+ | | | — | | | — | | 
+ Erika Lapish | | | — | | | — | | 
+ Amel Pasagic | | | — | | | — | | 
+ David E. Dykstra 
+ | | | 2,472 | | | 194,373 | 
+ Stephen J. Glaser 
+ | | | 2,305 | | | 181,242 | 
+ (1) The value realized upon vesting was calculated using the fair market value of the Company’s Common Stock on February 25, 2022, the date the shares vested, multiplied by the number of shares vested. 
+ 29 
+ NON-QUALIFIED DEFERRED COMPENSATION 
+ In 2018, the Company adopted a non-qualified deferred compensation plan for its executive officers. The deferred compensation plan permits participants to defer salary or short-term incentive payments. Amounts deferred are deemed invested in investments selected by the participant from a limited number of choices available in the Company’s 401(k) plan. Aggregate earnings (losses) represent price appreciation (or depreciation) on the investments plus dividends or interest paid on investments. 
+ The following table sets forth the contributions made by the named executive officers and the earnings accrued on all such contributions under the Company’s non-qualified deferred compensation plan during 2022. 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ Name 
+ | Executive Contributions in Last Fiscal Year 
+ | Registrant Contributions in Last Fiscal Year 
+ | Aggregate Earnings (Losses) in Last Fiscal Year 
+ | Aggregate Withdrawals/ Distributions 
+ | Aggregate Balance at Last Fiscal Year End 
+ | 
+ | ($) (1) 
+ | ($) 
+ | ($) (2) 
+ | ($) 
+ | ($) (3) 
+ | 
+ David J. Colo 
+ | — | — | — | — | — | 
+ Brandon M. Gall 
+ | 128,650 | 0 | (49,690) | 26,238 | 243,954 | 
+ David S. Bratcher 
+ | — | — | — | — | — | 
+ Erika Lapish | — | — | — | — | — | 
+ Amel Pasagic | — | — | — | — | — | 
+ David E. Dykstra | — | — | — | — | — | 
+ Stephen J. Glaser 
+ | 351,164 | — | (103,976) | 50,649 | 603,686 | 
+ (1) The executive contributions reported in this column relate to a deferral of a portion of the base salary and short-term incentive award for 2022 by Mr. Gall and Mr. Glaser and are reported in the Summary Compensation Table for 2022 in the "Salary" and "Non-Equity Incentive Plan Compensation" columns. The Human Resources and Compensation Committee certified the dollar amount of the short-term incentive award in February 2023. Mr. Gall and Mr. Glaser elected to defer $99,600 and $318,463 of the short-term incentive award for 2022. 
+ (2) These amounts were not included in the Summary Compensation Table because plan earnings were not preferential or above market. 
+ (3) These amounts are as of December 31, 2022 and do not take into account the amounts in the “Executive Contributions in Last Fiscal Year” column in the table above that are a deferral of the short-term incentive award for 2022, but were credited to Mr. Gall and Mr. Glaser’s accounts in 2023. The executive contributions included in this column of $247,067 for Mr. Gall and $517,474 for Mr. Glaser were previously reported in the Summary Compensation Table for years prior to 2022. 
+ 30 
+ POTENTIAL PAYMENTS UPON TERMINATION OR CHANGE-IN-CONTROL 
+ General 
+ Our STI Plan and form of restricted stock unit award agreement each contains a change-in-control provision. The employment agreement for Mr. Colo and severance agreement for Mr. Bratcher discussed below contain change-in-control provisions as well. Additionally, as noted in “Compensation Discussion and Analysis – Elements of Compensation – Executive Severance Plan”, the Company’s executive officers participate in the MGP Ingredients, Inc. Executive Severance Plan (the "Severance Plan"), which provides the opportunity to receive severance benefits in the event of certain terminations of employment. 
+ Employment Agreements 
+ The Company entered into an employment agreement with Mr. Colo on February 7, 2020. Except in the event of a voluntary termination by Mr. Colo without good reason, termination by the Company with cause, or upon a termination at death or for disability, Mr. Colo will receive severance of (i) two times his base salary, (ii) pro-rata short-term incentive and long-term incentive awards based on actual performance for the full year in which the termination occurs, and (iii) the full-year short-term incentive and long-term incentive awards for any completed year unpaid as of the date of termination; provided, however, that a prior full year short-term incentive award is payable even in the event of a voluntary termination without good reason or a termination for cause. In addition, except in the event of a termination by the Company with cause, upon termination all outstanding restricted stock units that are then unvested will vest on their scheduled vesting dates. Upon a termination for disability or death, Mr. Colo or his estate will receive severance of (i) one times his base salary, (ii) a pro-rata short-term incentive award based on actual performance for the full year in which the termination occurs and (iii) the full-year short-term incentive and long-term incentive awards for any completed year unpaid as of the date of termination. 
+ The Company entered into an agreement with Mr. Bratcher on June 27, 2022. Except in the event of a voluntary termination by Mr. Bratcher without good reason, or termination by the Company with cause, Mr. Bratcher will receive severance of (i) pro-rata long-term incentive awards based on actual performance for the full year in which the termination occurs, and (ii) the full-year long-term incentive awards for any completed year unpaid as of the date of termination. In addition, except in the event of a termination by the Company with cause or by Mr Bratcher without good reason, upon termination all outstanding restricted stock units that are then unvested will vest on their scheduled vesting dates. 
+ The Company entered into a letter agreement with Mr. Dykstra on August 5, 2022 relating to his planned retirement on December 31, 2022. In exchange for executing a separation and release agreement, and following the transition of his responsibilities to his successor, Mr. Dykstra received (a) a lump sum payment in an amount equal to the value of all outstanding unvested restricted stock units held by Mr. Dykstra as of December 31, 2022, less all applicable withholding taxes, based on the closing price of the Company’s common stock on December 30, 2022; and (b) a lump sum payment equal to the fiscal year 2022 short term incentive compensation bonus payment that would have been payable to Mr. Dykstra if he had remained employed by the Company through the date on which such payment would have been made by the Company, less all applicable withholding taxes. 
+ Executive Severance Plan 
+ Pursuant to the Severance Plan, upon a qualifying termination (generally, a termination by the Company without cause or a termination by the participant for good reason (each as defined in the plan)), the participant would receive severance in an amount equal to: 
+ • an applicable severance multiplier (one for any participant who is not the Chief Executive Officer and two for any participant who is the Chief Executive Officer) times the participant’s base salary in effect immediately prior to the date of the termination, which is paid in substantially equal installments over the one-year period following termination in accordance with the Company's normal payroll practices, beginning on the 61st day following termination; plus 
+ • a prorated annual short-term incentive bonus based on the Company’s actual performance in the year in which termination occurs, which shall be paid on the date that annual bonus payments are paid to the Company's senior executives; and 
+ • reimbursement for certain COBRA premiums for a limited period (up to 24 months after termination in the case of a participant who is the chief executive officer and six months in the case of a participant that is not the chief executive officer). 
+ The plan does not affect the terms of any outstanding equity awards. Any severance benefits payable to a participant under the plan would be reduced by any severance benefits to which the participant would otherwise be entitled under any other severance 
+ 31 
+ policy or plan, including any agreement between a participant and the Company (unless the plan or agreement expressly provides for severance benefits to be in addition to those provided under the plan). 
+ Restricted Stock Unit Awards 
+ Restricted stock units granted under the LTI Plan generally vest over a period of not less than three years from the date of grant of such award, provided that such award may vest earlier on a pro-rata basis over any vesting period. Upon the occurrence of a change in control (as defined in the LTI Plan) or upon the participant’s death or disability, any restricted stock units that have not previously vested will vest. Upon retirement at or after age 65, generally the award will vest, with the payment under the award made on the settlement date originally contemplated by the award agreement. Upon termination of employment or separation from service for any other reason, except to the extent specified in the applicable award agreement, any restricted stock units that have not previously vested shall be forfeited. The Human Resources and Compensation Committee may, in its sole discretion, waive such vesting requirement, or provide for continued vesting consistent with the vesting period in an award. However, it may not waive such requirement or continue such vesting to the extent such action would create adverse tax consequences for a participant under Code Section 409A. Generally, any award under the LTI Plan to a participant who has experienced a termination of employment, separation from service, or termination of some other service relationship with the Company and its affiliates may be canceled, accelerated, paid or continued, as provided in the applicable award agreement, or, as the Human Resources and Compensation Committee may otherwise determine to the extent not prohibited by the LTI Plan. 
+ Commencing with awards of restricted stock units granted in 2023, in order for awards to vest in connection with a retirement, the participant must be at least 60 years old with at least five years of service with the Company or an affiliate. In addition, such awards will include a “double trigger” provision, providing that the restricted stock units will vest upon the occurrence of a change in control only if the participant’s employment is terminated without cause or for good reason within 18 months following the change in control. Finally, commencing with the restricted stock units issued for the LTI Plan for the 2023 performance year (to be issued in 2024), the restricted stock units will have a three-year pro-rata vesting schedule, with one-third of the award vesting each year. 
+ Annual Incentive Plan 
+ Under the terms of the STI Plan, if an executive officer’s employment terminates during a plan year other than due to disability or death, the executive officer forfeits any rights to an STI award. However, the Human Resources and Compensation Committee has the option to pay a prorated payment of short-term incentive compensation for the plan year if the termination is without cause or for good reason. Upon an executive officer's disability or death, the executive officer or his estate, is entitled to receive a pro-rata short-term incentive award based on actual performance for the full year in which the termination occurs, and the full-year short-term incentive award for any completed year unpaid as of the date of termination. Upon a change of control, the annual incentive plan terminates and the Human Resources and Compensation Committee will determine payments on an annualized basis, based on the Company’s performance through the most recently completed quarter for which financial results are available prior to the change of control. Incentive compensation will be paid on a pro-rata basis (measured through the end of such quarter) in accordance with the guidelines for payment of annual incentive compensation described in “Elements of Compensation – Incentive Compensation – Short Term Incentive Plan.” The Human Resources and Compensation Committee may elect to make a partial incentive compensation payment on the basis of estimated results before the end of the year. Payment is to be made in a lump sum as soon as feasible following the change in control, but in no event later than two and one-half months following the end of the plan year in which the change in control occurs. 
+ Life Insurance and Long-Term Disability Insurance 
+ In the event of death, the estate of each named executive officer who has elected to receive additional life insurance coverage is entitled to receive a life insurance benefit of $500,000, which benefit is not included in the table below. Additionally, if any named executive officer is disabled, the named executive officer is entitled to a long-term disability benefit payment of $7,000 per month, which is not included in the table below. 
+ Post Termination and Change-in-Control Benefits as of December 31, 2022 
+ The following table sets forth amounts of compensation to be paid to each named executive officer in accordance with their respective employment or severance agreement (in the case of Mr. Colo and Mr. Bratcher, respectively), restricted stock unit award agreements, the short-term incentive Plan and under the Executive Severance Plan in the event of a change of control or the named executive officer’s employment with the Company terminates as of December 31, 2022. Amounts shown are based on a price of $106.38 per share, the closing market price on December 30, 2022. David E. Dykstra retired effective December 31, 2022 and received $1,372,196 pursuant to the terms of his letter agreement dated August 5, 2022 and, as a result, is not reflected in the below tables. 
+ 32 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Termination 
+Value ($) | | | | | 
+ Name* | | Retirement at or After Age 60 Plus 5 Years of Service (1) ($) 
+ | | Termination Without Cause or Resignation for Good Reason (2) ($) 
+ | | Change in Control 
+ Value (3) ($) 
+ | | Death or Disability Value (4) ($) 
+ | 
+ David J. Colo 
+ | | — | | | 10,492,173 | | 6,783,002 | | 7,550,002 | 
+ Brandon M. Gall | | — | | | 921,654 | | | 2,868,359 | | | 2,868,359 | | 
+ David S. Bratcher 
+ | | — | | | 2,893,691 | | | 1,704,649 | | | 1,704,649 | | 
+ Erika Lapish | | — | | | 512,893 | | | 496,823 | | | 496,823 | | 
+ Amel Pasagic | | — | | | 559,252 | | | 581,694 | | | 581,694 | | 
+ Stephen J. Glaser 
+ | | 1,294,857 | | 663,251 | | | 1,621,857 | | | 1,621,857 | | 
+ (1) Retirement at or after age 60 plus 5 years of service: Vesting of unvested equity awards accelerated. Other than Stephen J. Glaser, no other named executive officers were retirement eligible on December 31, 2022. 
+ (2) Termination without cause or resignation for good reason: For named executive officers except Mr. Colo and Mr. Bratcher: 1x base salary plus, pro-rated short term incentive award (in this case, the full award since the date of termination is year-end), plus certain COBRA premium reimbursement for 6 months. For Mr. Colo: 2x base salary, full year 2022 short term incentive and long-term incentive awards, vesting of all outstanding equity awards, plus certain COBRA premium reimbursement for 24 months. For Mr. Bratcher: 1x base salary, prorated 2022 short-term incentive award (in this case, the full award since the date of termination is year-end), prorated long-term incentive award (in this case, the full award since the date of termination is year-end), vesting of all outstanding equity awards, plus certain COBRA premium reimbursement for 6 months. Named executive officers must comply with a non-solicitation and confidentiality provision and execute and comply with a release of claims and non-disparagement agreement. 
+ (3) Change in Control: Vesting of unvested equity awards accelerated and payment of prorated 2022 short-term incentive award, which would be full year 2022 award since change of control is year-end. Amounts payable in the event of a change in control of the Company may be subject to reduction under Sections 280G and 4999 of the Internal Revenue Code. 
+ (4) Death/Disability: For named executive officers except Mr. Colo: vesting of unvested equity awards accelerated plus prorated 2022 short-term incentive award, which would be full year 2022 award since change of control is year-end. For Mr. Colo: full year 2022 short-term incentive award, plus 1x base salary, and vesting of unvested equity awards. Life insurance and long-term disability insurance benefits are described above and excluded from these totals. 
+ 33 
+ CHIEF EXECUTIVE OFFICER PAY RATIO 
+ As required by Section 953(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 402(u) of Regulation S-K, we are providing the following information about the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Colo, our Chief Executive Officer. The paragraphs that follow describe our methodology and the resulting CEO Pay ratio. 
+ As of December 31, 2022, the end of our fiscal year, we had approximately 626 U.S. employees and 64 non-U.S. employees. We used total cash compensation, consisting of base pay, annual incentive compensation and Company contributions to retirement plans for the 12-month period from January 1, 2022 through December 31, 2022. We did not annualize compensation for permanent employees who did not work for the entire measurement period. 
+ Once the median employee was identified for 2022, we calculated the median employee’s total annual compensation in accordance with the requirements of the Summary Compensation Table. Our median employee compensation as calculated using Summary Compensation Table requirements was $71,664. Our CEO’s compensation as reported in the Summary Compensation Table was $4,069,977. Therefore, we estimate that our CEO to median employee pay ratio is 57:1 . 
+ PAY VERSUS PERFORMANCE 
+ As required by Section 953(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 402(v) of Regulation S-K, we are providing the following information about the relationship between executive compensation actually paid and certain financial performance of the Company. The table below reflects Compensation Actually Paid to the Company’s Chief Executive Officer (“CEO”) and average Compensation Actually Paid to Non-CEO Named Executive Officers during 2020 through 2022. In addition, the table compares the Company’s Total Shareholder Return (“TSR”) against peer group TSR using Russell 2000 – Consumer Staples (line of business comparison). For further information concerning the Company’s variable pay-for-performance philosophy and how the Company aligns executive compensation with the Company’s performance, refer to “Compensation Discussion and Analysis.” 
+ Pay Versus Performance Table 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ Year | Summary Compensation Table Total for CEO (1) 
+ | Compensation Actually Paid to CEO (2) 
+ | Average Summary Compensation Table Total for Non-CEO NEOs (3) 
+ | Average Compensation Actually Paid to Non-CEO NEOs (4) 
+ | Value of Initial Fixed $100 Investment Based on: | GAAP Net Income (millions) (7) 
+ | Adjusted Operating Income (millions) (8) 
+ | 
+ Augustus C. Griffin | David J. Colo | Augustus C. Griffin | David J. Colo | TSR (5) 
+ | Peer Group TSR (6) 
+ | 
+ ($) | ($) | ($) | ($) | ($) | ($) | ($) | ($) | ($) | ($) | 
+ (a) | (b) | (b) | (c) | (c) | (d) | (e) | (f) | (g) | (h) | (i) | 
+ 2022 | N/A | 4,069,977 | N/A | 5,284,166 | 1,345,585 | 1,371,973 | 208.52 | 106.67 | 108.87 | 148.97 | 
+ 2021 | N/A | 3,373,695 | N/A | 4,038,070 | 1,139,922 | 1,441,624 | 139.72 | 130.79 | 90.82 | 126.36 | 
+ 2020 | 1,194,892 | 1,859,171 | 1,075,003 | 2,026,211 | 826,587 | 818,709 | 78.42 | 95.69 | 40.35 | 54.24 | 
+ (1) The amounts reported in columns (b) reflect the Summary Compensation Table Total for Mr. Augustus C. Griffin and Mr. David J. Colo for the years in which they served as CEO. For the years reported in the table, Mr. Griffin was our CEO from January 2020 to May 2020, and Mr. Colo was our CEO from May 2020 to December 2022. 
+ (2) The dollar amounts reported in columns (c) represent the amount of “compensation actually paid” to Mr. Griffin and Mr. Colo, as computed in accordance with Item 402(v) of Regulation S-K. The dollar amounts do not reflect the actual amount of compensation earned by or paid to Mr. Griffin and Mr. Colo during the applicable year. In accordance with the requirements of Item 402(v) of Regulation S-K, the following adjustments were made to each of Mr. Griffin’s and Mr. Colo’s compensation for each year to determine the compensation actually paid. 
+ | | | | | | | | | | | | | | | 
+ Year | Summary Compensation Table Total ($) | Minus: | Plus: | Compensation Actually Paid ($) | 
+ Summary Compensation Table Stock Awards (A) ($) 
+ | Equity Awards Adjustments (B) ($) 
+ | 
+ David J. Colo | | | | 
+ 2022 | 4,069,977 | 1,712,716 | 2,926,905 | 5,284,166 | 
+ 2021 | 3,373,695 | 1,281,242 | 1,945,617 | 4,038,070 | 
+ 2020 | 1,859,171 | 209,440 | 376,480 | 2,026,211 | 
+ Augustus C. Griffin | | | | 
+ 2020 | 1,194,892 | 120,970 | 1,081 | 1,075,003 | 
+ 34 
+ (A) The grant date fair value of equity awards represents the total of the amounts reported in the “Stock Awards” column in the Summary Compensation Table for the applicable year. 
+ (B) The equity award adjustments are shown in the following table. 
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ Year | Year-End Fair Value of Equity Awards That Were Granted in the Applicable Year That Remained Outstanding and Unvested ($) | Year over Year Change in Fair Value of Equity Awards Granted in Prior Years That Vested in the Year ($) | Fair Value as of Vesting Date of Equity Awards Granted and Vested in the Year ($) | Fair Value of Equity Awards Forfeited During Year ($) | Year over Year Change in Fair Value of Equity Awards Granted in a Prior Year That Remain Outstanding and Unvested ($) | Value of Dividends or other Earnings Paid on Stock Awards Not Otherwise Reflected in Fair Value or Total Compensation ($) | Total Equity Awards Adjustments ($) | 
+ David J. Colo | | | | | | | 
+ 2022 | 2,342,488 | 0 | 0 | 0 | 584,418 | 0 | 2,926,905 | 
+ 2021 | 1,642,177 | 0 | 0 | 0 | 303,440 | 0 | 1,945,617 | 
+ 2020 | 376,480 | 0 | 0 | 0 | 0 | 0 | 376,480 | 
+ Augustus C. Griffin | | | | | | | 
+ 2020 | 166,263 | ( 137,847 ) | 0 | 0 | ( 27,337 ) | 0 | 1,081 | 
+ (3) The dollar amount reported in column (d) represents the average of the amounts reported for the Company’s named executed officers (“NEOs”) as a group in the “Total” column of the Summary Compensation Table in each applicable year. The names of each of the NEOs included for purposes of calculating the average amounts in each applicable year are as follows: (i) for 2022, Brandon M. Gall, David S. Bratcher, David E. Dykstra, Stephen J. Glaser, Amel Pasagic, and Erika Lapish; (ii) for 2021, Brandon M. Gall, David S. Bratcher, David E. Dykstra, and Stephen Glaser; and (iii) for 2020, Brandon M. Gall, David E. Rindom, David E. Dykstra, and Stephen J. Glaser. 
+ (4) The dollar amounts reported in column (e) represent the average amount of “compensation actually paid” to the NEOs as a group (excluding Mr. Griffin and Mr. Colo), as computed in accordance with Item 402(v) of Regulation S-K. The dollar amounts do not reflect the actual average amount of compensation earned by or paid to the NEOs as a group (excluding Mr. Griffin and Mr. Colo) during the applicable year. In accordance with the requirements of Item 402(v) of Regulation S-K, the following adjustments were made to average total compensation for the NEOs as a group for each year to determine the compensation actually paid, using the same methodology described above in Note 2. 
+ | | | | | | | | | | | | | | | 
+ Year | Average Reported Summary Compensation Table Total for Non-CEO NEOs ($) | Minus: | Plus: | Average Compensation Actually Paid to Non-CEO NEOs ($) | 
+ Average Reported Value of Equity Awards That Were Granted in the Applicable Year That Remained Outstanding and Unvested ($) | Average Equity Awards Actually Paid (A) ($) 
+ | 
+ | 
+ 2022 | 1,345,585 | 354,664 | 381,052 | 1,371,973 | 
+ 2021 | 1,139,922 | 386,099 | 687,801 | 1,441,624 | 
+ 2020 | 826,587 | 86,944 | 79,066 | 818,709 | 
+ (A) The equity award adjustments are shown in the following table. 
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ Year | Average Year-End Fair Value of Equity Awards that Were Granted in the Applicable Year That Remained Outstanding and Unvested ($) | Year over Year Change in Fair Value of Equity Awards Granted in Prior Years That Vested in the Year ($) | Average Fair Value as of Vesting Date of Equity Awards Granted and Vested in the Year ($) | Average Fair Value of Equity Awards Forfeited During Year ($) | Year over Year Change in Fair Value of Equity Awards Granted in a Prior Year That Remain Outstanding and Unvested ($) | Value of Dividends or Other Earnings Paid on Stock Awards Not Otherwise Reflected in Fair Value or Total Compensation ($) | Total Average Equity Awards Adjustments ($) | 
+ 2022 | 386,479 | ( 5,964 ) | 0 | ( 103,943 ) | 104,479 | 0 | 381,052 | 
+ 2021 | 506,307 | 22,312 | 0 | 0 | 159,183 | 0 | 687,801 | 
+ 2020 | 119,497 | ( 33,114 ) | 0 | 0 | ( 7,317 ) | 0 | 79,066 | 
+ (5) Cumulative TSR is the value of a fixed $100 investment made on December 31, 2019 through and including the end of the fiscal year for each year reported in the table assuming dividend reinvestment. 
+ (6) Represents the weighted peer group TSR assuming a fixed $100 investment made on December 31, 2019, dividend reinvestment and weighted according to the respective companies’ stock market capitalization at December 31, 2019. The peer group used for this purpose is the following published industry index: Russell 2000 – Consumer Staples (line of business comparison). We also 
+ 35 
+ utilize this index in the stock performance graph required by Item 201(e) of Regulation S-K included in our Annual Report for the year ended December 31, 2022. 
+ (7) The dollar amounts reported represent the amount of net income reflected in the Company’s audited financial statements for the applicable year. 
+ (8) Our company-selected measure is Adjusted Operating Income as defined above under “Compensation Discussion and Analysis.” While the Company uses numerous financial and non-financial performance measures for the purpose of evaluating performance for the Company’s compensation programs, the Company has determined that Adjusted Operating Income is the financial performance measure that, in the Company’s assessment, represents the most important performance measure (that is not otherwise required to be disclosed in the table) used by the Company to link compensation actually paid to the Company’s NEOs, for the most recently completed fiscal year, to Company performance. 
+ Financial Performance Measures 
+ As described in greater detail in “Compensation Discussion and Analysis,” the Company’s executive compensation program reflects a variable pay-for-performance philosophy. The metrics that the Company uses for both our long-term and short-term incentive awards are selected based on an objective of incentivizing our NEOs to increase the value of our enterprise for our stockholders. The most important financial performance measures used by the Company to link executive compensation actually paid to the Company’s NEOs, for the most recently completed fiscal year, to the Company’s performance are as follows: 
+ • Adjusted Operating Income 
+ • Adjusted EBITDA 
+ • Adjusted Basic Earnings Per Share 
+ Analysis of the Information Presented in the Pay versus Performance Table 
+ As described in the section “Compensation Discussion and Analysis,” the Company’s executive compensation program reflects a variable pay-for-performance philosophy. While the Company utilizes several performance measures to align executive compensation with Company performance, all of those Company measures are not presented in the Pay versus Performance table. Moreover, the Company generally seeks to incentivize long-term performance, and therefore does not specifically align the Company’s performance measures with compensation that is actually paid (as computed in accordance with Item 402(v) of Regulation S-K) for a particular year. In accordance with Item 402(v) of Regulation S-K, the Company is providing the following descriptions of the relationships between information presented in the Pay versus Performance table. 
+ Compensation Actually Paid and Cumulative TSR 
+ As demonstrated by the following graph, the amount of compensation actually paid to Mr. Colo and Mr. Griffin and the average amount of compensation actually paid to the Company’s NEOs as a group (excluding Mr. Colo and Mr. Griffin) is aligned with the Company’s cumulative TSR over the three years presented in the table. The alignment of compensation actually paid with the Company’s cumulative TSR over the period presented is because a significant portion of the compensation actually paid to Mr. Colo, Mr. Griffin and the other NEOs is comprised of equity awards. As described in more detail in the section “Compensation Discussion and Analysis,” the Company’s compensation program objectives are to align compensation program with our business objectives and stockholders’ interests, to reward performance, to be externally competitive and internally equitable, and to retain talent on a long-term basis. In particular, our philosophy is to balance salary and benefits with incentive and equity compensation so that the interests of the executive officers will be aligned with those of stockholders. 
+ 36 
+ Cumulative TSR of the Company and Cumulative TSR of the Peer Group 
+ As demonstrated by the following graph, the Company’s cumulative TSR over the three-year period presented in the table was $208.52, while the cumulative TSR of the peer group presented for this purpose, Russell 2000 – Consumer Staples (line of business comparison), was $106.67 over the three years presented in the table. 
+ Compensation Actually Paid and Net Income 
+ As demonstrated by the following graph, the amount of compensation actually paid to Mr. Colo and Mr. Griffin and the average amount of compensation actually paid to the Company’s NEOs as a group (excluding Mr. Colo and Mr. Griffin) is generally aligned with the Company’s net income over the three years presented in the table. While the Company does not use net income as a performance measure in the overall executive compensation program, the measure of net income is correlated with the measure of Adjusted Operating Income, which the Company uses when setting goals in the Company’s short-term incentive and long-term incentive compensation programs. 
+ 37 
+ Compensation Actually Paid and Adjusted Operating Income 
+ As demonstrated by the following graph, the amount of compensation actually paid to Mr. Colo and Mr. Griffin and the average amount of compensation actually paid to the Company’s NEOs as a group (excluding Mr. Colo and Mr. Griffin) is generally aligned with the Company’s Adjusted Operating Income over the three years presented in the table. While the Company uses several financial and non-financial performance measures for the purpose of evaluating performance for the Company’s compensation programs, the Company has determined that Adjusted Operating Income is the financial performance measure that, in the Company’s assessment, represents the most important performance measure used by the Company to link compensation actually paid to the Company’s NEOs, for the most recently completed fiscal year, to Company performance. 
+ 38 
+ DIRECTOR COMPENSATION 
+ Members of the Board who are not Company employees (“Non-Employee Directors”) receive compensation for their service. Mr. Colo, our CEO, does not receive any compensation for his service as a member of the Board. The Human Resources and Compensation Committee annually reviews the total compensation of our Non-Employee Directors and each element of our Non-Employee Director compensation program. As part of this process, the Human Resources and Compensation Committee evaluates market data, including data provided by its independent compensation consulting firm, and makes a recommendation to the Board. 
+ The following table shows compensation earned by or paid to all persons who were Non-Employee Directors during 2022. 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ Name | | Fees Earned or Paid in Cash (1)(2)(3) ($) 
+ | | Stock Awards (3)(4) ($) 
+ | | All Other Compensation ($) | | Total ($) | 
+ Neha J. Clark | | 77,590 | | | 84,910 | | | — | | | 162,500 | | 
+ Anthony P. Foglio 
+ | | 35,000 | | | — | | — | | | 35,000 | | 
+ Thomas A. Gerke | | 78,590 | | | 84,910 | | | — | | | 163,500 | | 
+ Donn Lux | | 70,090 | | | 84,910 | | | — | | | 155,000 | | 
+ Lori L.S. Mingus | | 70,090 | | | 84,910 | | | — | | | 155,000 | | 
+ Preet H. Michelson | | 35,090 | | | 84,910 | | | — | | | 120,000 | | 
+ Kevin Rauckman | | 77,590 | | | 84,910 | | | — | | | 162,500 | | 
+ Karen L. Seaberg 
+ | | 125,090 | | | 84,910 | | | — | | | 210,000 | | 
+ Todd B. Siwak | | 35,090 | | | 84,910 | | | — | | | 120,000 | | 
+ M. Jeannine Strandjord (5) 
+ | | 42,000 | | | — | | | — | | | 42,000 | | 
+ (1) Employee directors do not receive any fees for attendance of any meeting of the Board of Directors. Directors elected other than at the annual meeting of stockholders receive pro-rated compensation for their service. For 2022, non-employee directors received an annual retainer of $155,000 payable as follows: $70,000 in cash paid in quarterly installments and $85,000 in common stock (vesting immediately upon grant). The Chair of the Audit Committee was paid an additional retainer of $15,000, the Chair of the Human Resources and Compensation Committee was paid an additional retainer of $10,000 and the Chair of the Nominating and Governance Committee was paid an additional retainer of $8,000. The additional annual retainer for serving as Chairman of the Board was $60,000. 
+ (2) Mr. Gerke, Ms. Michelson, Ms. Seaberg, Mr. Siwak, and Ms. Strandjord each elected to receive the following amounts of their cash compensation in shares of common stock: $78,390, $8,719, $124,843, $34,877, and $20,870 respectively. 
+ (3) Retainer fees for the fourth quarter 2022 were paid during the first quarter 2023. 
+ (4) Pursuant to the Non-Employee Directors’ Restricted Stock Incentive Plan, on the first business day following the date of each annual meeting of stockholders, each non-employee director then-serving was awarded shares of common stock with a fair market value of $85,000, as determined on such first business day following the Annual Meeting. Fractional shares were paid in cash. The amount shown in the table is the grant date fair value of the awards computed in accordance with FASB ASC Topic 718. Grant date fair value per share was assumed to be the closing price of the Company’s Common Stock on the grant date. 
+ (5) Ms. Strandjord did not stand for re-election when her term ended at the 2022 annual meeting of shareholders. 
+ 39 
+ PRINCIPAL STOCKHOLDERS 
+ The following table sets forth, as of April 1, 2023, the number of shares beneficially owned and the percentage of ownership of the Company’s Preferred Stock and Common Stock by (i) each person who is known by the Company to own beneficially more than 5% of either class of the Company’s capital stock outstanding, (ii) each director and director nominee of the Company, (iii) each of the named executive officers named in the Summary Compensation Table, and (iv) all directors and executive officers of the Company as a group. 
+ | | | | | | | | | | | | | | | 
+ | Amount and Nature of Beneficial Ownership (a) 
+ | 
+ Name of Beneficial Owner | Common Stock 
+ | Preferred Stock 
+ | 
+ | No. of Shares 
+ | % 
+ | No. of Shares 
+ | % 
+ | 
+ David S. Bratcher 
+ | — | | * 
+ | — | | — | | 
+ Neha J. Clark | 2,005 | | * 
+ | — | | — | | 
+ David J. Colo 
+ | 19,270 | | * 
+ | — | | — | | 
+ David E. Dykstra 
+ | 16,117 | | * 
+ | — | | — | | 
+ Brandon M. Gall | 6,348 | | * 
+ | — | | — | | 
+ Thomas A. Gerke | 3,038 | | * 
+ | — | | — | | 
+ Stephen J. Glaser 
+ | 8,216 | | * 
+ | — | | — | | 
+ Erika Lapish | — | | * 
+ | — | | — | | 
+ Donn Lux (b) 
+ | 2,715,269 | | 12.4 | | — | | — | | 
+ Lux Family Group (c) 
+ | 5,036,206 | | 22.9 | | — | | — | | 
+ Preet H. Michelson | 958 | | * 
+ | — | | — | | 
+ Lori L.S. Mingus (d) 
+ | 455,018 | | * 
+ | — | | — | | 
+ Amel Pasagic | — | | * 
+ | — | | — | | 
+ Kevin S. Rauckman | 2,146 | | * 
+ | — | | — | | 
+ Karen L. Seaberg (e) 
+ | 3,083,850 | | 14.0 | | 297 | | 67.0 | | 
+ Todd B. Siwak | 1,207 | | * 
+ | — | | — | | 
+ All executive officers and directors as a group (16) | 6,313,892 | | 28.7 | | 297 | | 67.0 | | 
+ Thomas Cray (f) 
+ | 1,000 | | * 
+ | 111 | | 25.4 | | 
+ BlackRock, Inc.** | 2,577,182 | | 11.7 | | — | | — | | 
+ The Vanguard Group*** | 1,104,828 | | 5.0 | | — | | — | | 
+ * less than 1% 
+ ** Based on Schedule 13G/A filed January 26, 2023, BlackRock, Inc. has a business address of 55 East 52nd Street, New York, New York 10555. Its Schedule 13G/A indicates sole voting power over 2,528,364 shares of the Company's Common Stock and sole dispositive power over 2,577,182 shares of the Company's Common Stock. 
+ *** Based on Schedule 13G filed on February 9, 2023, The Vanguard Group has a business address of 100 Vanguard Blvd, Malvern, PA 19355. Its Schedule 13G indicates sole voting power over 0 shares of the Company's Common Stock and sole dispositive power over 1,068,418 shares of the Company's Common Stock. 
+ (a) For the purposes of the table, a person is deemed to be a beneficial owner of shares if the person has or shares the power to vote or to dispose of them. Except as otherwise indicated in the table or the footnotes below, as of April 1, 2023, each person had sole voting and investment power over the shares listed in the beneficial ownership table and all stockholders shown in the table as having beneficial ownership of 5% or more of either of the classes of stock had as a business address Cray Business Plaza, 100 Commercial Street, P.O. Box 130, Atchison, Kansas 66002. Stockholders disclaim beneficial ownership in the shares described in the footnotes as being “held by” or “held for the benefit of” other persons. 
+ (b) Donn S. Lux may be deemed to hold sole voting and dispositive power with respect to the 2,713,264 shares of Common Stock held by the Luxco 2017 Irrevocable Trust dated June 19, 2017, the Ann S. Lux 2005 Irrevocable Trust FBO Donn S. Lux dated September 16, 2005, and the Ann S. Lux 2005 Irrevocable Trust FBO Donn S. Lux QSST LRD dated September 16, 2005. The Luxco 2017 Irrevocable Trust dated June 19, 2017, holds 1,788,771 shares of Common Stock. None of the other above referenced trusts holds more than 5% of the outstanding Common Stock of the Company. Includes 2,005 shares held directly by Mr. Lux. 
+ 40 
+ (c) The following information is based on a Schedule 13D/A (the “Lux Family Schedule 13D/A”) filed on February 3, 2023 by (i) Luxco 2017 Irrevocable Trust dated 6/19/2017, (ii) Ann S. Lux 2005 Irrevocable Trust FBO Donn S. Lux dated 9/16/2005, (iii) Ann S. Lux 2005 Irrevocable Trust FBO Donn S. Lux QSST LRD dated 9/16/2005, (iv) Andrew Broddon Lux Luxco Irrevocable Trust dated 7/30/2012, (v) Philip Donn Lux Luxco Irrevocable Trust dated 7/30/2012, (vi) Caroline L. Kaplan Revocable Trust dated 12/16/2009, (vii) Ann S. Lux 2005 Irrevocable Trust FBO Caroline Lux Kaplan dated 9/16/2005, (viii) Ann S. Lux 2005 Irrevocable Trust FBO Catherine N. Lux dated 9/16/2005, (ix) CNL 2013 Irrevocable Trust dated 4/2/2013, (x) Ann S. Lux 2005 Irrevocable Trust FBO Paul S. Lux dated 9/16/2005, (xi) Lux Children Irrevocable Trust dated 5/24/2012, (xii) Donn S. Lux, (xiii) Leslie P. Lux, (xiv) Paul S. Lux, (xv) Michele B. Lux, (xvi) Christopher E. Erblich, (xvii) Caroline Lux Kaplan, (xviii) Catherine N. Lux and (xix) PandoTree Trust Company, LLC (“PandoTree”) (the foregoing trusts are collectively referred to as the “Lux Sellers” and all of the foregoing persons are referred to as the “Lux Family Group”) and any subsequent Form 4s filed with the SEC by members of the Lux Family Group. The business address of each member of the Lux Family Group, other than Christopher Erblich and PandoTree, is 5050 Kemper Avenue, St. Louis, Missouri 63139. The business address for Christopher Erblich is 5060 N. 40th Street, Suite 250, Phoenix, AZ 85018 and for PandoTree is 212 S. Main Avenue, Suite 145, Sioux Falls, SD 57104. 
+ The Lux Sellers collectively own 5,036,206 shares of Common Stock. Each member of the Lux Family Group could be deemed to beneficially own all the shares of Common Stock owned by the other members of the Lux Family Group. However, each member of the Lux Family Group disclaims beneficial ownership of the shares of Common Stock held by the other members of the Lux Family Group. 
+ Pursuant to a Shareholders’ Agreement dated April 1, 2021 among the Company, the Lux Sellers, Karen Seaberg and Lori Mingus, the Lux Sellers have the right to nominate (i) two directors to the Company’s board of directors for so long as they continue to own at least 15% of the Company’s outstanding shares of Common Stock, and (ii) one director to the Company’s board of directors for so long as they continue to own at least 10% but less than 15% of the Company’s outstanding shares of Common Stock. Karen Seaberg and Lori Mingus have agreed to vote all of the shares of Common Stock that they beneficially own in favor of the election of the Lux Sellers’ director nominees. As a result of the entry into the Shareholders’ Agreement, each member of the Lux Family Group could be deemed to have shared voting power over the 3,139,485 shares of Common Stock beneficially owned by Karen Seaberg and Lori Mingus. Each member of the Lux Family Group disclaims beneficial ownership of the shares of Common Stock held by Karen Seaberg and Lori Mingus. 
+ (d) The following information is based on (a) a Schedule 13D/A (the “Seaberg Family Schedule 13D/A”) filed on January 27, 2023 by (i) Karen Seaberg, (ii) Lori Mingus, (iii) Cray Family Management, LLC, (iv) Cray MGP Holdings, LP, (v) Seaberg Family Management, Inc., (vi) Seaberg MGP Holdings, LP, and (vii) Laidacker M. Seaberg and Karen C. Seaberg Family Foundation (the "Seaberg Family Foundation"), and (b) any subsequent Form 4s filed with the SEC by Ms. Mingus. 
+ Includes 55,635 shares held in a trust over which Ms. Mingus has sole voting and dispositive power. Also includes 399,383 shares held by Seaberg MGP Holdings, LP over which Ms. Mingus may be deemed to have shared voting and dispositive power. Excludes 70,157 shares that are held in trust for Ms. Mingus's benefit, but for which she does not have voting or dispositive powers and disclaims beneficial ownership. 
+ (e) The following information is based on the Seaberg Family Schedule 13D/A and any subsequent Form 4s filed with the SEC by Ms. Seaberg. 
+ Includes 88,253 shares of Common Stock in an IRA, 2,267,742 shares of Common Stock held by Cray MGP Holdings, LP over which Ms. Seaberg has sole voting and dispositive power and 280,955 shares held in various trusts over which Ms. Seaberg has sole voting and dispositive power. Also includes 399,383 shares held by Seaberg MGP Holdings, LP and 47,517 shares of Common Stock held by the Seaberg Family Foundation over which Ms. Seaberg may be deemed to share voting and dispositive power. Ms. Mingus is a beneficiary of one of the trusts that holds 55,850 shares. Ms. Seaberg does not have a pecuniary interest in the shares held by the Seaberg Family Foundation. 
+ (f) Includes 1,000 shares of Common Stock held by spouse. 
+ DELINQUENT SECTION 16(a) REPORTS 
+ Section 16(a) of the Securities Exchange Act of 1934, as amended, requires the Company’s executive officers and directors, and persons who own more than 10% of the Company’s Common Stock, to file reports of ownership and changes in ownership with the SEC. Executive officers, directors and greater-than-10% beneficial owners are required by SEC regulations to furnish the Company with copies of all Section 16(a) forms they file. Based on a review of the copies of such forms furnished to the Company and the Company’s officers’ and directors’ written representations, the Company believes that for transactions occurring during 2022, all required reports were timely filed except (i) one late Form 4 filing reporting one transaction for Ms. Seaberg, and (ii) one late Form 4 filing reporting one transaction for Ms. Mingus. Additionally, the Company inadvertently omitted to disclose in prior proxy statements that (A) the following late filings were made for Ms. Seaberg: (i) in 2021, one Form 4 filing reporting one transaction that occurred during 2021, distinct from the one late Form 4 filing reporting one transaction for Ms. Seaberg as previously disclosed in the Company’s proxy statement for its 2022 Annual Meeting of Stockholders, and (ii) in 2020 (a) two Form 4 filings reporting a total of 
+ 41 
+ five transactions that occurred during 2017, seven transactions that occurred during 2018 and ten transactions that occurred during 2019 and (b) five amended Form 4 filings reporting a total of seven transactions that occurred during 2017 and two transactions that occurred during 2018 that were omitted from the original Form 4 filings and (B) in 2021, one late Form 4 filing was made for Ms. Mingus reporting two transactions that occurred during 2021. 
+ RELATED TRANSACTIONS 
+ Written policies and procedures adopted by the Audit Committee address its review of transactions that would or potentially would be transactions of more than $120,000 in which the Company's participates and in which any "related person" has a direct or indirect material interest. A "related person" is a director, executive officer, 5% or more stockholder, or immediate family member of any such person. The policies and procedures require our directors and executive officers to notify our Chief Executive Officer of the facts and circumstances of the transaction. If our Chief Executive Officer determines that the proposed transaction is a related person transaction as defined in the written policies and procedures, then the proposed transaction is submitted to the Audit Committee for consideration. 
+ For each potential or actual transaction that is or would be a related party transaction, the Audit Committee considers, where applicable: 
+ • the benefits to the Company; 
+ • the impact on a director's independence in the event the related person is a director, an immediate family member of a director or an entity in which a director is a partner, stockholder, or executive officer; 
+ • the availability of other sources for comparable products and services; 
+ • the terms and conditions of the proposed transaction; and 
+ • the terms and conditions available with unrelated third persons. 
+ The policies and procedures prohibit interested Audit Committee members from participating in the review, consideration or approval of any transaction with respect to which such member is directly or indirectly the related person. The Audit Committee only approves those transactions that are in, or not inconsistent with, the best interests of the Company and its stockholders, as the Audit Committee determines in good faith. Annually, the Audit Committee reviews any previously approved related person transaction that remains ongoing, to ensure that the transaction remains in, or is not inconsistent with, the best interests of the Company and its stockholders. The Audit Committee has approved the transactions described below. 
+ Anthony P. Foglio, a former director of the Company who retired from board service in May 2022, owns an 86% equity interest in an entity that owns 20% of the preferred shares of an entity that entered into transactions with the Company in 2022. The Company recorded revenue from these transactions that totaled $454,439. Mr. Foglio did not have any involvement in the negotiation of the transactions for either party. 
+ For the year ended December 31, 2022, the Company paid $661,925 to lease real estate from Kemper Themis, LLC, a real estate entity owned 100% by Donn Lux, a member of the Company's board of directors and a member of the Lux Family Group, which owns approximately 22.9% percent of the Company. The terms of the lease were negotiated between the Company and Kemper Themis, LLC at arms-length prior to Donn Lux becoming affiliated with the Company. 
+ PROXY SOLICITATIONS 
+ This proxy is being solicited by the Board of Directors of the Company. The cost of soliciting proxies will be borne directly by the Company. In addition to soliciting proxies by mail, certain officers and employees of the Company, without extra compensation, may also solicit proxies personally or by telephone. Copies of proxy solicitation materials will be furnished to fiduciaries, custodians and brokerage houses for forwarding to the beneficial owners of shares held in their names. The Company will reimburse brokers, banks or other persons for reasonable expenses in sending proxy material to beneficial owners. 
+ STOCKHOLDER PROPOSALS 
+ Including Stockholder Proposals in the 2024 Annual Meeting Proxy Statement . Stockholders who intend to present proposals for inclusion in the Company’s proxy statement for the 2024 annual meeting of stockholders pursuant to Rule 14a-8 under the Exchange Act (“Rule 14a-8”) must forward them to the Company at Cray Business Plaza, 100 Commercial Street, P.O. Box 130, Atchison, Kansas 66002, Attention: Corporate Secretary, so that they are received on or before December 14, 2023. The proposal must 
+ 42 
+ comply with applicable securities regulations. In addition, proxies solicited by management may confer discretionary authority to vote on matters which are not included in the proxy statement, but which are raised at the annual meeting by stockholders. 
+ Stockholder Proposals Presented at the 2024 Annual Meeting . With respect to stockholder proposals to be presented at the 2024 annual meeting of stockholders that are not intended to be included in our proxy statement relating to that meeting, pursuant to the Company’s Bylaws, a stockholder’s written notice of such proposal, in the form specified in the Bylaws, must be delivered to or mailed and received at our principal executive offices no earlier than January 26, 2024 and no later than February 25, 2024. Pursuant to Rule 14a-4(c)(1) promulgated under the Exchange Act, the Company’s management will have discretionary authority to vote on any matter of which the Company does not receive notice of by February 25, 2024, with respect to proxies submitted for the 2024 annual meeting of stockholders. 
+ Stockholder Director Nominations. Pursuant to the Bylaws, in order to nominate persons for election to the Board of Directors at the 2024 annual meeting of stockholders, a stockholder must deliver notice of the intention to submit nominations at the meeting, in the form specified in the Bylaws, to the Secretary of the Company no earlier than January 26, 2024 and no later than February 25, 2024. 
+ MGP reserves the right to reject, rule out of order, or take other appropriate actions with respect to any proposal or nomination that does not comply with these and other applicable requirements. 
+ In addition to satisfying the foregoing requirements under the Company's bylaws, to comply with the universal proxy rules, stockholders who intend to solicit proxies in support of director nominees other than the Company's nominees must provide notice that sets forth the information required by Rule 14a-19 under the Exchange Act no later than March 26, 2024. 
+ OTHER MATTERS 
+ We know of no other business that will be presented at the Annual Meeting. If any other matter properly comes before the stockholders for a vote at the Annual Meeting, however, the proxies will vote your shares in accordance with their best judgment. A proxy also confers discretionary authority on the persons named to approve minutes of last year’s annual meeting, to vote on matters incident to the conduct of the meeting and to vote on the election of any person as a director if a nominee herein named should decline or become unable to serve as a director for any reason. 
+ HOUSEHOLDING 
+ Only one copy of the Company’s Notice, and if applicable, our annual report and this Proxy Statement, has been sent to multiple stockholders of the Company who share the same address and last name, unless the Company has received contrary instructions from one or more of those stockholders. This procedure is referred to as “householding.” In addition, the Company has been notified that certain intermediaries, i.e., brokers or banks, will household proxy materials. The Company will deliver promptly and free of charge, upon oral or written request, a separate copy of the Notice, and if applicable, annual report and Proxy Statement, to any stockholder at the same address. If you wish to receive a separate copy of the Notice, annual report and Proxy Statement, free of charge, you may write to the Corporate Secretary of the Company at MGP Ingredients, Inc., Cray Business Plaza, 100 Commercial Street, P.O. Box 130, Atchison, Kansas 66002 or call the Corporate Secretary at 913-367-1480. You can contact your broker or bank to make a similar request. Stockholders sharing an address who now receive multiple copies of the proxy materials may request delivery of a single copy by writing or calling the Company at the above address or by contacting their broker or bank, provided they have determined to household proxy materials. 
+ By Order of the Board of Directors 
+ Karen Seaberg 
+ Chairman of the Board 
+ April 12, 2023 
+ Cray Business Plaza 100 Commercial Street 
+ P.O. Box 130 
+ Atchison, Kansas 66002-0130 
+ Phone: 913-367-1480 
+ www.mgpingredients.com 
+ 43 
+ 44 
+ 45 

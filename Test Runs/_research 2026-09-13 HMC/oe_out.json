@@ -1,0 +1,158 @@
+{
+ "rows": {
+  "2019": {
+   "ind_ocf": 1077419,
+   "ev_adj": 0,
+   "lease": 47088,
+   "capex": 604876,
+   "da": 684002,
+   "oe_capex": 422455,
+   "oe_da": 343329,
+   "oe_capex_noev": 422455,
+   "fs_div": 60927,
+   "aff_div": 175242,
+   "eq_inc": 228827,
+   "undistributed": 53585
+  },
+  "2020": {
+   "ind_ocf": 985344,
+   "ev_adj": 0,
+   "lease": 78659,
+   "capex": 597807,
+   "da": 637407,
+   "oe_capex": 305878,
+   "oe_da": 266278,
+   "oe_capex_noev": 305878,
+   "fs_div": 69679,
+   "aff_div": 185740,
+   "eq_inc": 164203,
+   "undistributed": -21537
+  },
+  "2021": {
+   "ind_ocf": 985025,
+   "ev_adj": 0,
+   "lease": 67628,
+   "capex": 546959,
+   "da": 599143,
+   "oe_capex": 367438,
+   "oe_da": 315254,
+   "oe_capex_noev": 367438,
+   "fs_div": 65931,
+   "aff_div": 191105,
+   "eq_inc": 272734,
+   "undistributed": 81629
+  },
+  "2022": {
+   "ind_ocf": 876483,
+   "ev_adj": 0,
+   "lease": 80165,
+   "capex": 446793,
+   "da": 593196,
+   "oe_capex": 346525,
+   "oe_da": 200122,
+   "oe_capex_noev": 346525,
+   "fs_div": 175335,
+   "aff_div": 193547,
+   "eq_inc": 202512,
+   "undistributed": 8965
+  },
+  "2023": {
+   "ind_ocf": 1139520,
+   "ev_adj": 0,
+   "lease": 78297,
+   "capex": 629518,
+   "da": 687934,
+   "oe_capex": 428705,
+   "oe_da": 370289,
+   "oe_capex_noev": 428705,
+   "fs_div": 213276,
+   "aff_div": 244899,
+   "eq_inc": 117445,
+   "undistributed": -127454
+  },
+  "2024": {
+   "ind_ocf": 2063111,
+   "ev_adj": 0,
+   "lease": 80513,
+   "capex": 611281,
+   "da": 745240,
+   "oe_capex": 1368317,
+   "oe_da": 1234358,
+   "oe_capex_noev": 1368317,
+   "fs_div": 225018,
+   "aff_div": 158089,
+   "eq_inc": 110817,
+   "undistributed": -47272
+  },
+  "2025": {
+   "ind_ocf": 1578092,
+   "ev_adj": 0,
+   "lease": 78137,
+   "capex": 848558,
+   "da": 731305,
+   "oe_capex": 648397,
+   "oe_da": 765650,
+   "oe_capex_noev": 648397,
+   "fs_div": 305047,
+   "aff_div": 126339,
+   "eq_inc": 982,
+   "undistributed": -125357
+  },
+  "2026": {
+   "ind_ocf": 1585696,
+   "ev_adj": 584412,
+   "lease": 80222,
+   "capex": 920711,
+   "da": 691665,
+   "oe_capex": -2649,
+   "oe_da": 226397,
+   "oe_capex_noev": 581763,
+   "fs_div": 96248,
+   "aff_div": 90079,
+   "eq_inc": -162080,
+   "undistributed": -252159
+  }
+ },
+ "windows": {
+  "3y FY3/24-26": {
+   "oe_capex": 671355,
+   "oe_da": 742135,
+   "oe_capex_noev": 866159,
+   "fs_div": 208771,
+   "undistributed": -141596,
+   "capex": 793517,
+   "da": 722737,
+   "ind_ocf": 1742300
+  },
+  "5y FY3/22-26 (default)": {
+   "oe_capex": 557859,
+   "oe_da": 559363,
+   "oe_capex_noev": 674741,
+   "fs_div": 202985,
+   "undistributed": -108655,
+   "capex": 691372,
+   "da": 689868,
+   "ind_ocf": 1448580
+  },
+  "8y FY3/19-26": {
+   "oe_capex": 485633,
+   "oe_da": 465210,
+   "oe_capex_noev": 558685,
+   "fs_div": 151433,
+   "undistributed": -53700,
+   "capex": 650813,
+   "da": 671236,
+   "ind_ocf": 1286336
+  },
+  "5y FY3/21-25 (pre-write-off)": {
+   "oe_capex": 631876,
+   "oe_da": 577135,
+   "oe_capex_noev": 631876,
+   "fs_div": 196921,
+   "undistributed": -41898,
+   "capex": 616622,
+   "da": 671364,
+   "ind_ocf": 1328446
+  }
+ }
+}

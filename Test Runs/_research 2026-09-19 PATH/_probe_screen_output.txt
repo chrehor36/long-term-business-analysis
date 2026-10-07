@@ -1,0 +1,31 @@
+entity UiPath, Inc.
+== CURRENT screen ==
+owner_earnings: {'5y_da': -214104000.0, '5y_capex': -211450200.0, '3y_da': -28908333.333333332, '3y_capex': -23746666.666666668}
+restatement_shift : (1.0, datetime.date(2021, 1, 31))
+scale_shift : 1.4683819282045543
+acquisition_flag : (59861000.0, None, '')
+working_capital_flag : (datetime.date(2023, 1, 31), 'IncreaseDecreaseInDeferredRevenue', 16.105199879771565, 'RATIO MEANINGLESS - NEAR-ZERO OCF: DeferredRevenue moved $160.7M in 2023 when OCF was $10.0M against a typical |OCF| of $211.2M. Judge the dollars, not the 1,611%. Read the 2023 cash-flow statement.')
+da_discontinuity_flag : None
+capex_funding_flag : None
+stale_filer : (datetime.date(2026, 1, 31), 231, '')
+lease_capex_flag : None
+share_count_shift WITH ticker: None
+share_count_shift no ticker: None
+sbc_annual: {datetime.date(2020, 1, 31): 137862000.0, datetime.date(2021, 1, 31): 86167000.0, datetime.date(2022, 1, 31): 515583000.0, datetime.date(2023, 1, 31): 369840000.0, datetime.date(2024, 1, 31): 371955000.0, datetime.date(2025, 1, 31): 358151000.0, datetime.date(2026, 1, 31): 290676000.0}
+da_annual: {datetime.date(2020, 1, 31): 8666000.0, datetime.date(2021, 1, 31): 12335000.0, datetime.date(2022, 1, 31): 14705000.0, datetime.date(2023, 1, 31): 18723000.0, datetime.date(2024, 1, 31): 22597000.0, datetime.date(2025, 1, 31): 17232000.0, datetime.date(2026, 1, 31): 16969000.0}
+ocf: ({datetime.date(2020, 1, 31): -359436000.0, datetime.date(2021, 1, 31): 29177000.0, datetime.date(2022, 1, 31): -54963000.0, datetime.date(2023, 1, 31): -9981000.0, datetime.date(2024, 1, 31): 299082000.0, datetime.date(2025, 1, 31): 320565000.0, datetime.date(2026, 1, 31): 371208000.0}, '')
+capex annual: {datetime.date(2020, 1, 31): 15748000.0, datetime.date(2021, 1, 31): 1953000.0, datetime.date(2022, 1, 31): 8879000.0, datetime.date(2023, 1, 31): 23815000.0, datetime.date(2024, 1, 31): 7342000.0, datetime.date(2025, 1, 31): 14923000.0, datetime.date(2026, 1, 31): 19048000.0}
+capital_acquired: ({datetime.date(2020, 1, 31): 20981000.0, datetime.date(2021, 1, 31): 3193000.0, datetime.date(2022, 1, 31): 11829000.0, datetime.date(2023, 1, 31): 23815000.0, datetime.date(2024, 1, 31): 7342000.0, datetime.date(2025, 1, 31): 14923000.0, datetime.date(2026, 1, 31): 19048000.0}, {})
+rev: {datetime.date(2020, 1, 31): 336156000.0, datetime.date(2021, 1, 31): 607643000.0, datetime.date(2022, 1, 31): 892252000.0, datetime.date(2023, 1, 31): 1058581000.0, datetime.date(2024, 1, 31): 1308072000.0, datetime.date(2025, 1, 31): 1429664000.0, datetime.date(2026, 1, 31): 1610572000.0}
+shares: None
+== a8bc84f on facts filed by 2026-09-01 ==
+share_count_shift : None
+scale_shift : 1.4683819282045543
+restatement_shift : (1.0, datetime.date(2021, 1, 31))
+owner_earnings : {'5y_da': -214104000.0, '5y_capex': -210860200.0, '3y_da': -28908333.333333332, '3y_capex': -23746666.666666668}
+dei elements: ['EntityPublicFloat']
+dei EntityPublicFloat 2021-07-30 20100000000 10-K 2022-04-04 CY2021Q2I
+dei EntityPublicFloat 2022-07-29 6900000000 10-K 2023-03-24 CY2022Q2I
+dei EntityPublicFloat 2023-07-31 7400000000 10-K 2024-03-27 CY2023Q2I
+dei EntityPublicFloat 2024-07-31 5300000000 10-K 2025-03-24 CY2024Q2I
+dei EntityPublicFloat 2025-07-31 4800000000 10-K 2026-03-25 CY2025Q2I

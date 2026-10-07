@@ -1,0 +1,20 @@
+total {'value': 42, 'relation': 'eq'}
+BOX INC  (BOX)  (CIK 0001372612) [('2024-03-11', '0000950170-24-029241:box-20240131.htm')]
+CID Holdco, Inc.  (DAIC, DAICW)  (CIK 0002033770) [('2026-03-11', '0001213900-26-026247:ea0280037-10k_cidhold.htm')]
+Cloudflare, Inc.  (NET)  (CIK 0001477333) [('2026-04-29', '0001477333-26-000026:cloud-20251231.htm')]
+Confluent, Inc.  (CFLT)  (CIK 0001699838) [('2026-02-26', '0001699838-26-000008:cflt-20251231.htm')]
+HeartCore Enterprises, Inc.  (HTCR)  (CIK 0001892322) [('2024-04-09', '0001493152-24-013979:form10-k.htm')]
+Hewlett Packard Enterprise Co  (HPE, HPE-PC)  (CIK 0001645590) [('2024-12-19', '0001645590-24-000139:hpe-20241031.htm'), ('2025-12-18', '0001645590-25-000130:hpe-20251031.htm')]
+JETBLUE AIRWAYS CORP  (JBLU)  (CIK 0001158463) [('2025-02-14', '0001158463-25-000005:jblu-20241231.htm'), ('2026-02-12', '0001158463-26-000007:jblu-20251231.htm')]
+Rackspace Technology, Inc.  (RXT)  (CIK 0001810019) [('2024-03-15', '0001810019-24-000042:rxt-20231231.htm'), ('2025-03-21', '0001810019-25-000043:rxt-20241231.htm'), ('2026-03-06', '0001810019-26-000015:rxt-20251231.htm')]
+Rimini Street, Inc.  (RMNI)  (CIK 0001635282) [('2026-02-19', '0001635282-26-000014:rmni-20251231.htm')]
+SMARTSHEET INC  (SMAR)  (CIK 0001366561) [('2024-03-20', '0001366561-24-000062:smar-20240131.htm')]
+SS&C Technologies Holdings Inc  (SSNC)  (CIK 0001402436) [('2026-02-26', '0001193125-26-076745:ssnc-20251231.htm')]
+SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355) [('2026-02-27', '0001654954-26-001672:suig_10k.htm')]
+UiPath, Inc.  (PATH)  (CIK 0001734722) [('2025-03-24', '0001734722-25-000007:path-20250131xinsidertradi.htm'), ('2025-03-24', '0001734722-25-000007:path-20250131xlistofsubsid.htm'), ('2026-03-25', '0001734722-26-000012:path-2026131xlistofsubsidi.htm')]
+Appian (2, 'https://efts.sec.gov/LATEST/search-index?q=%22UiPath%22&forms=10-K&ciks=0001441683')
+Pegasystems (0, 'https://efts.sec.gov/LATEST/search-index?q=%22UiPath%22&forms=10-K&ciks=0001013857')
+ServiceNow (0, 'https://efts.sec.gov/LATEST/search-index?q=%22UiPath%22&forms=10-K&ciks=0001373715')
+Microsoft (0, 'https://efts.sec.gov/LATEST/search-index?q=%22UiPath%22&forms=10-K&ciks=0000789019')
+SS&C (1, 'https://efts.sec.gov/LATEST/search-index?q=%22UiPath%22&forms=10-K&ciks=0001402436')
+Salesforce (0, 'https://efts.sec.gov/LATEST/search-index?q=%22UiPath%22&forms=10-K&ciks=0001108524')

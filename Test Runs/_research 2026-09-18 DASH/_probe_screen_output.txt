@@ -1,0 +1,32 @@
+entity DOORDASH, INC.
+== CURRENT screen ==
+owner_earnings: {'5y_da': 68000000.0, '5y_capex': 168000000.0, '3y_da': 393666666.6666667, '3y_capex': 579666666.6666666}
+restatement_shift : (1.0, datetime.date(2019, 12, 31))
+scale_shift : 1.6936936936936937
+acquisition_flag : (4222000000.0, None, 'NET CASH INFLOW on the acquisition line ($4,222M, cap unknown) - cash acquired exceeded cash paid, so the CONSIDERATION IS NOT IN THIS STATEMENT AT ALL. READ THE BUSINESS COMBINATION NOTE.')
+working_capital_flag : None
+da_discontinuity_flag : None
+capex_funding_flag : None
+stale_filer : (datetime.date(2025, 12, 31), 261, '')
+lease_capex_flag : None
+share_count_shift WITH ticker: None
+share_count_shift no ticker: None
+sbc_annual: {datetime.date(2018, 12, 31): 24000000.0, datetime.date(2019, 12, 31): 18000000.0, datetime.date(2020, 12, 31): 322000000.0, datetime.date(2021, 12, 31): 486000000.0, datetime.date(2022, 12, 31): 889000000.0, datetime.date(2023, 12, 31): 1088000000.0, datetime.date(2024, 12, 31): 1099000000.0, datetime.date(2025, 12, 31): 1051000000.0}
+da_annual: {datetime.date(2018, 12, 31): 9000000.0, datetime.date(2019, 12, 31): 32000000.0, datetime.date(2020, 12, 31): 120000000.0, datetime.date(2021, 12, 31): 156000000.0, datetime.date(2022, 12, 31): 369000000.0, datetime.date(2023, 12, 31): 509000000.0, datetime.date(2024, 12, 31): 561000000.0, datetime.date(2025, 12, 31): 747000000.0}
+ocf: ({datetime.date(2018, 12, 31): -159000000.0, datetime.date(2019, 12, 31): -467000000.0, datetime.date(2020, 12, 31): 252000000.0, datetime.date(2021, 12, 31): 692000000.0, datetime.date(2022, 12, 31): 367000000.0, datetime.date(2023, 12, 31): 1673000000.0, datetime.date(2024, 12, 31): 2132000000.0, datetime.date(2025, 12, 31): 2431000000.0}, '')
+capex annual: {datetime.date(2018, 12, 31): 13000000.0, datetime.date(2019, 12, 31): 78000000.0, datetime.date(2020, 12, 31): 106000000.0, datetime.date(2021, 12, 31): 129000000.0, datetime.date(2022, 12, 31): 176000000.0, datetime.date(2023, 12, 31): 123000000.0, datetime.date(2024, 12, 31): 104000000.0, datetime.date(2025, 12, 31): 257000000.0}
+capital_acquired: ({datetime.date(2018, 12, 31): 16000000.0, datetime.date(2019, 12, 31): 92000000.0, datetime.date(2020, 12, 31): 159000000.0, datetime.date(2021, 12, 31): 237000000.0, datetime.date(2022, 12, 31): 346000000.0, datetime.date(2023, 12, 31): 324000000.0, datetime.date(2024, 12, 31): 330000000.0, datetime.date(2025, 12, 31): 605000000.0}, {})
+rev: {datetime.date(2018, 12, 31): 291000000.0, datetime.date(2019, 12, 31): 885000000.0, datetime.date(2020, 12, 31): 2886000000.0, datetime.date(2021, 12, 31): 4888000000.0, datetime.date(2022, 12, 31): 6583000000.0, datetime.date(2023, 12, 31): 8635000000.0, datetime.date(2024, 12, 31): 10722000000.0, datetime.date(2025, 12, 31): 13717000000.0}
+shares: None
+== a8bc84f on facts filed by 2026-09-01 ==
+share_count_shift : None
+scale_shift : 1.6936936936936937
+restatement_shift : (1.0, datetime.date(2019, 12, 31))
+owner_earnings : {'5y_da': 68000000.0, '5y_capex': 378600000.0, '3y_da': 393666666.6666667, '3y_capex': 838000000.0}
+dei elements: ['EntityPublicFloat']
+dei EntityPublicFloat 2021-06-30 32500000000 10-K 2022-03-01 CY2021Q2I
+dei EntityPublicFloat 2022-06-30 20600000000 10-K 2023-02-27 CY2022Q2I
+dei EntityPublicFloat 2023-06-30 24900000000 10-K 2024-02-20 CY2023Q2I
+dei EntityPublicFloat 2024-06-28 38200000000 10-K 2025-02-14 CY2024Q2I
+dei EntityPublicFloat 2025-06-30 90800000000 10-K 2026-02-18 
+dei EntityPublicFloat 2025-06-30 90800000000 10-K/A 2026-05-06 CY2025Q2I

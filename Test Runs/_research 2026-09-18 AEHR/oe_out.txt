@@ -1,0 +1,17 @@
+FY    OCF    SBC   D&A  capex   acq |  OE(D&A)  OE(capex)  OE(capex+acq) | WC chg  (inv) | OE before WC (D&A end) | SBC/OCF
+2017  -4495    999   271    477     0 |    -5765     -5971         -5971 |    -313     430 |    -5452 | n/a
+2018  -1351    996   417    572     0 |    -2764     -2919         -2919 |   -3234   -2073 |      470 | n/a
+2019  -5637    905   431    173     0 |    -6973     -6715         -6715 |   -1735    -112 |    -5238 | n/a
+2020  -2024    910   384    163     0 |    -3318     -3097         -3097 |    -561    1164 |    -2757 | n/a
+2021  -2701   1101   310    227     0 |    -4112     -4029         -4029 |     316    -972 |    -4428 | n/a
+2022   1508   3006   356    416     0 |    -1854     -1914         -1914 |  -10295   -6674 |     8441 | 199%
+2023  10011   2748   450   1362     0 |     6813      5901          5901 |   -7841   -9469 |    14654 | 27%
+2024   1756   2518   657    749     0 |    -1419     -1511         -1511 |  -14378  -13732 |    12959 | 143%
+2025  -7400   5162  2312   4992 11075 |   -14874    -17554        -28629 |  -12203   -2441 |    -2671 | n/a
+2026  -3310   6761  2799   2066  1801 |   -12870    -12137        -13938 |   -1760      11 |   -11110 | n/a
+5y FY2022-26 (default)       mean OE: D&A end    -4841  capex end    -5443  capex+acq    -8018  | before WC (D&A end)    4455 | mean revenue   58195
+3y FY2024-26                 mean OE: D&A end    -9721  capex end   -10401  capex+acq   -14693  | before WC (D&A end)    -274 | mean revenue   58396
+10y FY2017-26                mean OE: D&A end    -4714  capex end    -4995  capex+acq    -6282  | before WC (D&A end)     487 | mean revenue   39938
+the wave FY2022-24           mean OE: D&A end     1180  capex end      825  capex+acq      825  | before WC (D&A end)   12018 | mean revenue   60669
+before the wave FY2017-21    mean OE: D&A end    -4586  capex end    -4546  capex+acq    -4546  | before WC (D&A end)   -3481 | mean revenue   21680
+years with positive OE (capex end): [(2023, 5901)]

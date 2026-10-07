@@ -1,0 +1,17 @@
+NVDA fold: register entry, WAVE 5 strike and dated note, reading-list narrative, shape index - Q1 IN / Q2 OUT
+
+Register entry under COMPLETED FROM THE QUEUE, newest-first above AMZN: price US$218.29 x 24,147M
+shares (10-Q 0001045810-26-000075 equity statement, cover 24.1bn as cross-check) = US$5,271.0bn,
+sovereign USD 5.35% (US Treasury, 09/11/2026), FAIL at Q2 on [E4-04] with [E3-03] criterion 2;
+commits 1efd45d / 03875d1 / b65758e (killed session) and 364515f / af0c27f / 2273832. Register
+read at the fold: 96 runs.
+
+NVDA struck in the WAVE 5 table, with a dated note beside it: the "capex unresolved" label was the
+a8bc84f tag defect plus a real history gap (no companyfacts capex FY2013-FY2021); [E5-20] asked on
+the filing answered no for the plant (server lives lengthened in 2023; provisions already in OCF).
+
+Reading-list narrative appended. Survival shapes index: NVDA recorded as a later instance of #18
+THE ROUND TRIP (vendor's side) and #1, and of #12 through its foundry as exposure; no new shape.
+No alert, no PORTFOLIO row (Q2 OUT). check_framework.py PASS.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

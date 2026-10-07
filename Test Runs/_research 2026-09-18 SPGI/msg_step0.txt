@@ -1,0 +1,31 @@
+SPGI run: Step 0, the live-deal check, and the perimeter - the ex-Mobility pro forma is FILED
+
+Step 0 struck fresh: price US$404.11 (2026-09-17 close, aggregator flagged), sovereign
+USD 30-year 5.29% (US Treasury daily par yield curve, the issuing authority, 09/17/2026,
+cache deleted and re-fetched).
+
+Share count read by hand off the 10-Q cover for the quarter ended 2026-06-30, accession
+0000064040-26-000045: 294.8 million outstanding at 2026-07-24. Two traps checked.
+The ERIC trap is PRESENT - issued is 415 million against outstanding ~295 million, a 120
+million share gap that would have overstated the cap by about 41%. A second trap the brief
+did not name runs the other way: the cover EXCLUDES 7.2 million shares it itself calls
+outstanding, held by a Markit employee benefit trust. Quantified separately (+$2,910M of
+cap, +1.0%) rather than blended, per [E2-26]. Cap US$119,131.6M.
+
+Live deal: the S-4 of 2026-07-09 verified on the document as a registered notes exchange
+offer - zero hits for "merger agreement", "We will not receive any proceeds". The AVGO
+shape. EDGAR re-queried: nothing filed after 2026-08-04, so no Form 4 is available to
+confirm the aggregator quote against a primary filing; recorded as a limit.
+
+THE PERIMETER, and a defect in the brief. The brief sent me to the May 8.01 filings for a
+segment recast and to the MBGL Form 10 for the subtraction. The answer is in neither.
+The 8-K/A of 2026-07-06, accession 0001104659-26-080571, which the brief listed only as
+unread, carries an Article 11 UNAUDITED PRO FORMA income statement for FY2023, FY2024,
+FY2025 and Q1 2026 plus a pro forma balance sheet, all ex-Mobility - and its
+discontinued-operations column is scoped to what actually leaves, excluding the allocated
+corporate overhead that stays with S&P Global. That is a better source than the Form 10's
+combined statements, which carry that overhead as a Mobility cost.
+
+Three perimeters will be carried at Q4, never mixed inside one mean, on [E4-25] and [E4-38].
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

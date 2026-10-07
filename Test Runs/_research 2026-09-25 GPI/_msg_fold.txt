@@ -1,0 +1,15 @@
+GPI Group 1 Automotive: fold - register entry 160, _wave7_done 28, narrative fold
+
+WAVE 7 name 28 of 218: Q1 IN / Q2 OUT, on the business. $247.79 x 11,922,225 = $2,954M;
+sovereign 5.47% (US Treasury 30Y, 09/24/2026). Register counted by line index: 159 before,
+160 after, GPI first. No roster strike needed (wave 7 records completion in _wave7_done.txt).
+No new survival shape; no alert and no PORTFOLIO.md row (failed on the business).
+check_framework PASS; 0 phantoms.
+
+Only the GPI register hunk of WATCHLIST RUN QUEUE.md is committed, staged from the HEAD blob
+plus the inserted entry (git update-index --cacheinfo); the CRM re-look's uncommitted note in
+that file and its tools/alerts.json edits stay in the working tree. Committed from a verified
+index without a pathspec, because a pathspec commit takes the working-tree copy of the queue
+file and would have swept the CRM hunks in.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>

@@ -1,0 +1,35 @@
+TTSH: 2012 GM 72.8% OM 18.8% | 2013 GM 70.0% OM 14.4% | 2014 GM 69.6% OM 8.4% | 2015 GM 69.5% OM 10.0% | 2016 GM 70.0% OM 10.1% | 2017 GM 68.5% OM 7.5% | 2018 GM 70.3% OM 5.1% | 2019 GM 69.4% OM -0.4% | 2020 GM 68.1% OM 2.0% | 2021 GM 68.3% OM 5.6% | 2022 GM 65.6% OM 5.7% | 2023 GM 64.5% OM 4.3% | 2024 GM 65.7% OM 1.0% | 2025 GM 63.8% OM -1.7%
+Floor & Decor: 2015 GM 39.9% OM 6.7% | 2016 GM 40.9% OM 6.6% | 2017 GM 41.3% OM 8.5% | 2018 GM 41.1% OM 7.7% | 2019 GM 42.2% OM 7.8% | 2020 GM 42.7% OM 8.8% | 2021 GM 41.4% OM 9.9% | 2022 GM 40.5% OM 9.3% | 2023 GM 42.1% OM 7.3% | 2024 GM 43.3% OM 5.7% | 2025 GM 43.6% OM 5.8%
+Home Depot: 2012 GM 34.6% OM 10.4% | 2013 GM 34.2% OM 11.6% | 2014 GM 34.1% OM 12.6% | 2015 GM 34.2% OM 13.3% | 2016 GM 34.2% OM 14.2% | 2017 GM 34.0% OM 14.5% | 2018 GM 34.3% OM 14.4% | 2019 GM 34.1% OM 14.4% | 2020 GM 34.0% OM 13.8% | 2021 GM 33.6% OM 15.2% | 2022 GM 33.5% OM 15.3% | 2023 GM 33.4% OM 14.2% | 2024 GM 33.4% OM 13.5% | 2025 GM 33.3% OM 12.7%
+Lowe's: 2014 GM 34.8% OM 8.5% | 2015 GM 34.8% OM 8.4% | 2016 GM 33.3% OM 9.0% | 2017 GM 32.7% OM 9.6% | 2018 GM 32.1% OM 5.6% | 2019 GM 31.8% OM 8.8% | 2020 GM 33.0% OM 10.8% | 2021 GM 33.3% OM 12.6% | 2022 GM 33.2% OM 10.5% | 2023 GM 33.4% OM 13.4% | 2024 GM 33.3% OM 12.5% | 2025 GM 33.5% OM 11.8%
+LL Flooring: 2012 GM 38.0% OM 9.6% | 2013 GM 41.1% OM 12.6% | 2014 GM 39.9% OM 9.9% | 2015 GM 28.5% OM -8.5% | 2016 GM 31.6% OM -9.7% | 2017 GM 35.9% OM -3.6% | 2018 GM 36.2% OM -4.7% | 2019 GM 36.9% OM 1.5% | 2020 GM 39.0% OM 5.1% | 2021 GM 38.2% OM 4.6% | 2022 GM 36.1% OM -1.1% | 2023 GM 35.7% OM -8.9%
+
+TTSH           OM mean 2015-2025:   4.5%  min  -1.7  max  10.1  n=11
+TTSH           OM mean 2021-2025:   3.0%  min  -1.7  max   5.7  n=5
+TTSH           OM mean 2023-2025:   1.2%  min  -1.7  max   4.3  n=3
+Floor & Decor  OM mean 2015-2025:   7.6%  min   5.7  max   9.9  n=11
+Floor & Decor  OM mean 2021-2025:   7.6%  min   5.7  max   9.9  n=5
+Floor & Decor  OM mean 2023-2025:   6.3%  min   5.7  max   7.3  n=3
+Home Depot     OM mean 2015-2025:  14.1%  min  12.7  max  15.3  n=11
+Home Depot     OM mean 2021-2025:  14.2%  min  12.7  max  15.3  n=5
+Home Depot     OM mean 2023-2025:  13.5%  min  12.7  max  14.2  n=3
+Lowe's         OM mean 2015-2025:  10.3%  min   5.6  max  13.4  n=11
+Lowe's         OM mean 2021-2025:  12.1%  min  10.5  max  13.4  n=5
+Lowe's         OM mean 2023-2025:  12.6%  min  11.8  max  13.4  n=3
+LL Flooring    OM mean 2015-2023:  -2.8%  min  -9.7  max   5.1  n=9
+LL Flooring    OM mean 2021-2023:  -1.8%  min  -8.9  max   4.6  n=3
+LL Flooring    OM mean 2023-2023:  -8.9%  min  -8.9  max  -8.9  n=1
+2014 TTSH NI   10.5 avgEq   86.1 ROE  12.2%
+2015 TTSH NI   15.7 avgEq  104.5 ROE  15.0%
+2016 TTSH NI   18.5 avgEq  127.1 ROE  14.6%
+2017 TTSH NI   10.8 avgEq  141.4 ROE   7.6%
+2018 TTSH NI   10.4 avgEq  145.1 ROE   7.2%
+2019 TTSH NI   -4.5 avgEq  138.6 ROE  -3.2%
+2020 TTSH NI    6.0 avgEq  135.0 ROE   4.4%
+2021 TTSH NI   14.8 avgEq  130.7 ROE  11.3%
+2022 TTSH NI   15.7 avgEq  115.5 ROE  13.6%
+2023 TTSH NI   10.1 avgEq  114.2 ROE   8.8%
+2024 TTSH NI    2.3 avgEq  121.3 ROE   1.9%
+2025 TTSH NI   -4.5 avgEq  105.1 ROE  -4.3%
+TTSH ROE mean 2015-2025 7.0 2021-2025 6.3
+FND ROE [(2016, 19.3), (2017, 35.6), (2018, 22.6), (2019, 22.3), (2020, 22.1), (2021, 24.4), (2022, 20.0), (2023, 13.7), (2024, 10.0), (2025, 9.1)] mean 19.9 2021-25 15.5

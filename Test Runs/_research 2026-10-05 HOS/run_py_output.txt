@@ -1,0 +1,48 @@
+==============================================================================
+HORNBECK OFFSHORE SERVICES, INC.  (HOS)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.63%   10/02/2026   US Treasury daily par yield curve
+  price     7.96 USD   2026-10-05   (aggregator — live quote only)
+  shares    147.4M      market cap 1.17B USD
+  share basis: dei cover-page count as of 2026-08-03
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-12-31        152        7       164         20        -18        126
+    2024-12-31        186        7       173         23          5        155
+    2025-12-31        137        7       187         16        -57        114
+          mean                                                 -23        132
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE -36 .. 106   yield -3.03%..9.03%
+  DIVERGENCE vs the 3-yr window: -52.8% on the conservative end
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 -1.98% .. 11.23%   vs sovereign 5.63%
+  2. GROWTH THE PRICE ASSUMES  REFUSED - the conservative owner-earnings
+     base is at or below zero. A DCF on a non-positive base produces no
+     number; the negative bottom boundary IS the statement.
+  3. POINTS OVER THE SOVEREIGN REFUSED on the same ground at the conservative end; generous end +8.60
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables    goodwill intangibles     lt debt    retained
+    2016-12-31         2,247         965       1,282         357         102           0           -         558         323
+    2017-12-31         2,363         795       1,567         267         113           -           -         386         353
+    2018-12-31         2,348         730       1,618         279          68           0           1         393         383
+    2019-12-31         2,597         894       1,700         208          76           7           4         306         445
+    2020-12-31         2,498         754       1,740         291         132           0           4         259         465
+    2021-12-31         2,326         679       1,647         254         144           -           3         262         411
+    2022-12-31         2,389         873       1,517         187         213           -           4         226         323
+    2023-12-31         2,556       1,055       1,501         332         280           -           4         313         312
+    2024-12-31         2,597       1,077       1,520         368         259           -           4         306         368
+    2025-12-31         2,616       1,036       1,580         445         304           -           3         298         399
+    accessions: 0000866829-17-000006, 0000866829-18-000004, 0000866829-19-000006, 0000866829-20-000007, 0000866829-21-000007, 0000866829-22-000005, 0000866829-23-000010, 0000866829-24-000007, 0000866829-26-000008, 0001558370-25-001617
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

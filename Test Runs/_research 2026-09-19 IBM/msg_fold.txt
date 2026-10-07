@@ -1,0 +1,31 @@
+IBM: the fold - register 119, struck in WAVE 6, narrative fold, overnight log, nothing armed
+
+All six steps of the fold, done by this run.
+
+1. Register entry in `## COMPLETED FROM THE QUEUE` with the price, the share count and the cover
+   accession it came from, the cap, the sovereign and the PASS/FAIL line naming the question that
+   closed the file.
+2. IBM struck in the WAVE 6 table.
+3. Narrative fold appended to `Screens/2026-08-31 PREPPED READING LIST (operator lists).md`.
+4. NOTHING ARMED - no `tools/alerts.json` band and no `PORTFOLIO.md` row. A Q2 failure is a failure
+   on the BUSINESS and a price alert on it would be a category error (the QLYS ruling of
+   2026-09-07). The reopening conditions are recorded in words at Q6 instead.
+5. `python tools/check_framework.py` PASS before this commit - 0 phantom citations, 0 unlabelled
+   numbers.
+6. Committed with a pathspec.
+
+REGISTER COUNT. The brief said the register held 117. Counted line-start entries between the last
+`## COMPLETED FROM THE QUEUE` heading and `## THE WRITE-EARLY PROTOCOL` immediately before the
+insert: 118. After: 119. Exactly one more, and nothing vanished. The extra entry is KO, folded by a
+scheduled cycle at 09:58 while this run was working. The entry is numbered 119 and says so, with
+the discrepancy recorded rather than silently absorbed. DIS had committed a Q2 OUT and had not yet
+folded when this entry was written, so no wave-6 ordinal is claimed.
+
+One line appended to `Screens/_daily/OVERNIGHT LOG.md` at 10:16 EDT, in the file's own
+timestamp | ticker | verdict | price | check_framework | commit format.
+
+Concurrent-tree discipline: both shared files were edited as a single Python read-modify-write
+immediately before this commit, and the commit carries a pathspec naming only this run's four
+files plus the research folder. No other session's staged work is touched.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

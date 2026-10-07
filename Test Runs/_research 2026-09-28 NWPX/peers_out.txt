@@ -1,0 +1,64 @@
+CIK WMS ('0001604028', 'ADVANCED DRAINAGE SYSTEMS, INC.')
+CIK FRTA (None, None)
+CIK CRH ('0000849395', 'CRH PUBLIC LTD CO')
+CIK OTTR ('0001466593', 'Otter Tail Corp')
+CIK MWA ('0001350593', 'Mueller Water Products, Inc.')
+CIK ATKR ('0001666138', 'Atkore Inc.')
+CIK WLK ('0001262823', 'WESTLAKE CORP')
+CIK USLM ('0000082020', 'UNITED STATES LIME & MINERALS INC')
+CIK SMID ('0000924719', 'SMITH MIDLAND CORP')
+CIK MLI ('0000089439', 'MUELLER INDUSTRIES INC')
+===== WMS ADVANCED DRAINAGE SYSTEMS, INC.
+2013-03-31 rev 1017.1 gp 188.0 gm% 18.5 oi 57.5 om% 5.7
+2014-03-31 rev 1067.8 gp 192.5 gm% 18.0 oi 48.3 om% 4.5
+2015-03-31 rev 1180.1 gp 205.1 gm% 17.4 oi 38.7 om% 3.3
+2016-03-31 rev 1290.7 gp 285.4 gm% 22.1 oi 94.3 om% 7.3
+2017-03-31 rev 1257.3 gp 295.8 gm% 23.5 oi 76.3 om% 6.1
+2018-03-31 rev 1330.4 gp 302.5 gm% 22.7 oi 88.3 om% 6.6
+2019-03-31 rev 1384.7 gp 327.0 gm% 23.6 oi 129.4 om% 9.3
+2020-03-31 rev 1673.8 gp 316.5 gm% 18.9 oi -95.3 om% -5.7
+2021-03-31 rev 1982.8 gp 690.1 gm% 34.8 oi 344.5 om% 17.4
+2022-03-31 rev 2769.3 gp 800.4 gm% 28.9 oi 411.9 om% 14.9
+2023-03-31 rev 3071.1 gp 1118.4 gm% 36.4 oi 719.3 om% 23.4
+2024-03-31 rev 2874.5 gp 1145.9 gm% 39.9 oi 732.1 om% 25.5
+2025-03-31 rev 2904.2 gp 1094.2 gm% 37.7 oi 657.4 om% 22.6
+2026-03-31 rev 3050.4 gp 1167.4 gm% 38.3 oi 619.2 om% 20.3
+===== FRTA FORTERRA, INC.
+===== SMID Snap-on Inc
+2009-01-03 rev 2853.3 gp 1284.6 gm% 45.0 oi 388.8 om% 13.6
+2010-01-02 rev 2420.8 gp 1057.6 gm% 43.7 oi 250.7 om% 10.4
+2011-01-01 rev 2681.5 gp 1211.1 gm% 45.2 oi 331.4 om% 12.4
+2011-12-31 rev 2978.5 gp 1337.9 gm% 44.9 oi 475.1 om% 16.0
+2012-12-29 rev 3099.2 gp 1390.0 gm% 44.9 oi 516.4 om% 16.7
+2013-12-28 rev 3237.5 gp 1472.9 gm% 45.5 oi 586.2 om% 18.1
+2015-01-03 rev 3492.6 gp 1584.3 gm% 45.4 oi 684.7 om% 19.6
+2016-01-02 rev 3593.1 gp 1648.3 gm% 45.9 oi 764.8 om% 21.3
+2016-12-31 rev 3711.8 gp 1709.6 gm% 46.1 oi 861.1 om% 23.2
+2017-12-30 rev 4000.3 gp 1824.9 gm% 45.6 oi 882.1 om% 22.1
+2018-12-29 rev 4070.4 gp None gm% None oi 956.1 om% 23.5
+2019-12-28 rev 4067.7 gp None gm% None oi 962.3 om% 23.7
+2021-01-02 rev 3942.2 gp None gm% None oi 880.5 om% 22.3
+2022-01-01 rev 4601.7 gp None gm% None oi 1123.5 om% 24.4
+2022-12-31 rev 4842.5 gp None gm% None oi 1207.2 om% 24.9
+2023-12-30 rev 5108.3 gp None gm% None oi 1310.4 om% 25.7
+2024-12-28 rev 5108.4 gp None gm% None oi 1345.7 om% 26.3
+2026-01-03 rev 5156.1 gp None gm% None oi 1327.7 om% 25.8
+===== OTTR OTTER TAIL CORPORATION
+2008-12-31 rev 1311.2 gp None gm% None oi 73.0 om% 5.6
+2009-12-31 rev 818.7 gp None gm% None oi 43.1 om% 5.3
+2010-12-31 rev 717.9 gp None gm% None oi 64.6 om% 9.0
+2011-12-31 rev 840.2 gp None gm% None oi 71.9 om% 8.6
+2012-12-31 rev 710.2 gp None gm% None oi 94.3 om% 13.3
+2013-12-31 rev 743.4 gp None gm% None oi 94.2 om% 12.7
+2014-12-31 rev 799.3 gp None gm% None oi 99.5 om% 12.5
+2015-12-31 rev 779.8 gp None gm% None oi 109.2 om% 14.0
+2016-12-31 rev 803.5 gp None gm% None oi 116.6 om% 14.5
+2017-12-31 rev 849.4 gp None gm% None oi 132.3 om% 15.6
+2018-12-31 rev 916.4 gp None gm% None oi 129.4 om% 14.1
+2019-12-31 rev 919.5 gp None gm% None oi 134.9 om% 14.7
+2020-12-31 rev 883.2 gp None gm% None oi 147.9 om% 16.7
+2021-12-31 rev 1197.6 gp None gm% None oi 249.7 om% 20.9
+2022-12-31 rev 1469.5 gp None gm% None oi 390.4 om% 26.6
+2023-12-31 rev 1353.5 gp None gm% None oi 377.9 om% 27.9
+2024-12-31 rev 1330.0 gp None gm% None oi 380.2 om% 28.6
+2025-12-31 rev 1299.6 gp None gm% None oi 345.7 om% 26.6

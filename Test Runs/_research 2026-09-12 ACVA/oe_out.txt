@@ -1,0 +1,34 @@
+year | OCF | float(AP+AR lines) | OCF ex-float | SBC total | fin prov | cD&A-ex | c capex | A:asfiled-capex | B:+finprov capex | C:ex-float,finprov,DAex | C:ex-float,finprov,capex | screen(OCF-SBCcf-capex)
+2019 -72460 -5543 -66917 998 65 1739 6593 -80051 -80116 -69719 -74573 -80051 margin C_cx -69.8%
+2020 10368 36991 -26623 5705 107 4282 8885 -4222 -4329 -36717 -41320 -4222 margin C_cx -19.8%
+2021 85290 122701 -37411 23692 1210 4741 14029 47569 46359 -67054 -76342 48041 margin C_cx -21.3%
+2022 -75175 -25917 -49258 41337 4214 5923 23396 -139908 -144122 -100732 -118205 -137895 margin C_cx -28.0%
+2023 -17885 -20206 2321 53031 4286 11949 28170 -99086 -103372 -66945 -83166 -95703 margin C_cx -17.3%
+2024 65397 33633 31764 73526 4323 20446 34241 -42370 -46693 -66531 -80326 -36854 margin C_cx -12.6%
+2025 78232 15801 62431 64464 31309 26975 44653 -30885 -62194 -60317 -77995 -23283 margin C_cx -10.3%
+TTM 38905 -37226 76131 60628 33587 29589 45905 -67628 -101215 -47673 -63989 -60106 margin C_cx -8.0%
+
+windows (mean, $k): construction C (ex-float, less floorplan provision) both ends; A (as filed) both ends
+2019-2021 (3y): C DAex -57,830 | C capex -64,078 | B capex -12,695 | A DAex -5,986 | A capex -12,235 | float mean 51,383
+2020-2022 (3y): C DAex -68,168 | C capex -78,622 | B capex -34,031 | A DAex -21,732 | A capex -32,187 | float mean 44,592
+2021-2023 (3y): C DAex -78,244 | C capex -92,571 | B capex -67,045 | A DAex -49,481 | A capex -63,808 | float mean 25,526
+2022-2024 (3y): C DAex -78,069 | C capex -93,899 | B capex -98,062 | A DAex -77,958 | A capex -93,788 | float mean -4,163
+2023-2025 (3y): C DAex -64,598 | C capex -80,496 | B capex -70,753 | A DAex -41,549 | A capex -57,447 | float mean 9,743
+2019-2022 (4y): C DAex -68,556 | C capex -77,610 | B capex -45,552 | A DAex -35,098 | A capex -44,153 | float mean 32,058
+2020-2023 (4y): C DAex -67,862 | C capex -79,758 | B capex -51,366 | A DAex -37,016 | A capex -48,912 | float mean 28,392
+2021-2024 (4y): C DAex -75,316 | C capex -89,510 | B capex -61,957 | A DAex -44,254 | A capex -58,449 | float mean 27,553
+2022-2025 (4y): C DAex -73,631 | C capex -89,923 | B capex -89,095 | A DAex -61,770 | A capex -78,062 | float mean 828
+2019-2023 (5y): C DAex -68,233 | C capex -78,721 | B capex -57,116 | A DAex -44,652 | A capex -55,140 | float mean 21,605
+2020-2024 (5y): C DAex -67,596 | C capex -79,872 | B capex -50,431 | A DAex -35,327 | A capex -47,603 | float mean 29,440
+2021-2025 (5y): C DAex -72,316 | C capex -87,207 | B capex -62,004 | A DAex -38,045 | A capex -52,936 | float mean 25,202
+2019-2024 (6y): C DAex -67,950 | C capex -78,989 | B capex -55,379 | A DAex -41,972 | A capex -53,011 | float mean 23,610
+2020-2025 (6y): C DAex -66,383 | C capex -79,559 | B capex -52,392 | A DAex -31,641 | A capex -44,817 | float mean 27,167
+2019-2025 (7y): C DAex -66,859 | C capex -78,847 | B capex -56,352 | A DAex -37,863 | A capex -49,850 | float mean 22,494
+C range -93899.0 -57830.0 A range -93788.0 -5986.333333333333
+TTM {'A_da': -51312, 'A_cx': -67628, 'B_da': -84899, 'B_cx': -101215, 'C_da': -47673, 'C_cx': -63989, 'fl': -37226}
+screen 3y capex 2023-25 -51946.666666666664 5y capex -49138.8 5y D&A -44234.4 3y D&A -49537.333333333336
+AP/OCF 2021 2.847414702778755 2025 0.5985146743020758
+FY21-25: OCF 135859 float 126012 SBC tot 256050 capex+sw 144489 finprov 45342 acq 269511 SBC/OCF 1.744926725502175 SBC/OCF all 3.3045535266447055
+SBC/OCF by year {'2019': None, '2020': 0.55, '2021': 0.272, '2022': None, '2023': None, '2024': 1.04, '2025': 0.727, 'TTM': 1.365}
+SBC/OCF ex-float FY21-25 24.074743576723876
+cum OCF ex float all yrs -83693 cum SBC cf all 243767 cum OCF all 73767

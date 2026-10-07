@@ -1,0 +1,8 @@
+Overnight log: AMZN run closed - Q1 IN / Q2 OUT, fold verified (register 95), acceptance test PASS
+
+Resumed the AMZN run killed after Step 0 and Q1 (1327743). Q2 006a110, Q3-Q6 and audit a30a6cb, fold ff99311.
+Verified by the cycle: register entry present and newest-first, AMZN struck in the WAVE 5 table,
+reading-list narrative and shape index updated, no alerts.json band or PORTFOLIO row (Q2 OUT),
+95 unique register entries counted from the register, check_framework PASS.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

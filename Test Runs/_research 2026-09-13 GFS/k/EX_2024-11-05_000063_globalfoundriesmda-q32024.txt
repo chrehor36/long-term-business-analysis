@@ -1,0 +1,210 @@
+ 
+ EX-99.2
+ 3
+ globalfoundriesmda-q32024.htm
+ EX-99.2
+ Document 
+ GlobalFoundries Inc. 
+ MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ Forward-looking Statements 
+ This document includes "forward-looking statements" that reflect our current expectations and views of future events. These forward-looking statements are made under the "safe harbor" provisions of the U.S. Private Securities Litigation Reform Act of 1995 and include but are not limited to statements regarding our financial outlook, future guidance, product development, business strategy and plans, and market trends, opportunities and positioning. These statements are based on current expectations, assumptions, estimates, forecasts, projections and limited information available at the time they are made. Words such as "expect," "anticipate," "should," "believe," "hope," "target," "project," "goals," "estimate," "potential," "predict," "may," "will," "might," "could," "intend," "shall," "outlook," and variations of these terms or the negative of these terms and similar expressions are intended to identify these forward-looking statements, although not all forward-looking statements contain these identifying words. Forward-looking statements are subject to a broad variety of risks and uncertainties, both known and unknown. Any inaccuracy in our assumptions and estimates could affect the realization of the expectations or forecasts in these forward-looking statements. For example, our business could be impacted by geopolitical conditions such as the ongoing political and trade tensions with China and the wars in Ukraine and Israel; domestic political developments, including with respect to the U.S. presidential election; the market for our products may develop or recover more slowly than expected or than it has in the past; we may fail to achieve the full benefits of our restructuring plan; our operating results may fluctuate more than expected; there may be significant fluctuations in our results of operations and cash flows related to our revenue recognition or otherwise; a network or data security incident that allows unauthorized access to our network or data or our customers' data could result in a system disruption, loss of data, or damage our reputation; we could experience interruptions or performance problems associated with our technology, including a service outage; global economic conditions could deteriorate, including due to increasing interest rates, rising inflation and any potential recession; and our expected results and planned expansions and operations may not proceed as planned if funding we expect to receive (including the planned awards under the U.S. CHIPS and Science Act and New York State Green CHIPS) is delayed or withheld for any reason. It is not possible for us to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results or outcomes to differ materially from those contained in any forward-looking statements we may make. Moreover, we operate in a competitive and rapidly changing market, and new risks may emerge from time to time. You should not rely upon forward-looking statements as predictions of future events. These statements are based on our historical performance and on our current plans, estimates and projections in light of information currently available to us, and therefore you should not place undue reliance on them. 
+ Although we believe that the expectations reflected in our statements are reasonable, we cannot guarantee that the future results, levels of activity, performance or events and circumstances described in the forward-looking statements will be achieved or occur. Moreover, neither we, nor any other person, assumes responsibility for the accuracy and completeness of these statements. Recipients are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date such statements are made and should not be construed as statements of fact. Except to the extent required by federal securities laws, we undertake no obligation to update any information or any forward-looking statements as a result of new information, subsequent events, or any other circumstances after the date hereof, or to reflect the occurrence of unanticipated events. For a discussion of potential risks and uncertainties, please refer to the risk factors and cautionary statements in our 2023 Annual Report on Form 20-F, current reports on Form 6-K and other reports filed with the Securities and Exchange Commission ("SEC"). Copies of our SEC filings are available on our Investor Relations website, investors.gf.com, or from the SEC website, www.sec.gov. 
+ 1 
+ GlobalFoundries Inc. 
+ OPERATING AND FINANCIAL REVIEWS AND PROSPECTS 
+ Overview 
+ GlobalFoundries Inc. ("we," "GF," or the "Company") is one of the world's leading semiconductor foundries. We manufacture complex, essential integrated circuits ("ICs") that are used in billions of electronic devices across various industries. Our specialized foundry manufacturing processes, extensive library of qualified circuit-building block designs (known as IP titles or IP blocks), and advanced transistor and device technology allow us to serve a wide range of customers, including the global leaders in IC design. We focus on providing optimized solutions for critical applications that drive key secular growth end markets, ensuring function, performance, and power requirements are met. As the only scaled pure-play foundry with a global footprint that is not based in China or Taiwan, we offer our customers the advantage of mitigating geopolitical risk and ensuring greater supply chain certainty. Our definition of a scaled pure-play foundry is a company that specializes in producing ICs for other companies, with annual foundry revenue exceeding $2.5 billion. Our differentiated foundry solutions redefine the industry by offering essential chip solutions that empower our customers to develop innovative products for a wide range of applications in diverse markets. 
+ We focus on essential devices that include digital, analog, mixed-signal, radio frequency ("RF"), ultra-low power and embedded memory solutions that connect, secure and process data, and efficiently power the digital world around us. Our core technology portfolio includes a range of differentiated technology platforms, including our industry-leading RF silicon-on-insulator solutions, advanced high-performance Fin Field-Effect Transistor, Complementary Metal-Oxide Semiconductor, our proprietary FDX TM , high-performance Silicon Germanium and Gallium Nitride ("GaN") products and Silicon Photonics, all of which can be purposely engineered, innovated and designed for a broad set of demanding applications. 
+ The principal source of our revenue is wafer fabrication and sales of finished semiconductor wafers, which accounted for approximately 90% of our net revenue for both the three and nine months ended September 30, 2024. The rest of our net revenue was mainly derived from photomask manufacturing, sourcing services and pre-fab manufacturing services. 
+ Our business has experienced weaker demand across several of the end markets within which we operate, as our customers managed elevated inventory levels, amid an uncertain macro-economic environment, which has adversely impacted our revenues. Despite a modest improvement in quarterly revenue during 2024, demand remains below the levels in 2022 and 2023, as macro-economic uncertainties continue. As discussed in Item 3.D. "Key Information - Risk Factors," in our Annual Report on From 20-F for the fiscal year ended December 31, 2023, we have chosen to renegotiate certain of our long term agreements ("LTAs") with existing customers to reflect lower volume commitments and/or longer commitment timelines, and we expect that we will continue to renegotiate additional LTAs through the remainder of 2024. 
+ We remain cautious as the global macroeconomic uncertainty continues, reflecting the impacts of inflation, high historic interest rates, and geopolitical conflicts. Although we are starting to see the inflationary headwinds moderate, the recent macro-economic environment has led to a prolonged and deeper cyclical downturn than was first anticipated. The extent to which these uncertainties will impact our business activities will depend on future developments that cannot be predicted at this time. We continue to collaborate closely with our customers to support the acceleration of their inventory depletion, while seeking to preserve the economic value of the commercial agreements we have entered into. 
+ Components of Results of Operations 
+ Net Revenue 
+ We generate the majority of our revenue from sales of finished semiconductor wafers, which are priced on a per-wafer basis for the applicable design, and breakage fees or settlement fees arising from not meeting the minimum purchase requirements under certain LTAs with customers. We also generate revenue from the rendering of non-recurring engineering ("NRE") services, mask production and post-fabrication services such as bump, test and packaging. 
+ 2 
+ GlobalFoundries Inc. 
+ Cost of Revenue 
+ Cost of revenue consists primarily of material expenses, depreciation and amortization, employee-related expenses, facility costs and costs of fixed assets, including maintenance and spare parts. Material expenses primarily include the costs of raw wafers, test wafers, photomasks, resists, process gases, process chemicals, other operating supplies and external service costs for wafer manufacturing. Costs related to NRE services are also included within the cost of revenue. As it pertains to inflation and inflationary headwinds we are facing within our business, we have experienced an increase in costs for materials and energy, and we expect these increases to continue to have an adverse impact on our financial results of operations while these economic conditions persist. 
+ Depreciation and amortization charges primarily include the depreciation of clean room production equipment. Commencement of depreciation related to construction in progress and property, plant and equipment involves determining when the assets are available for their intended use. Employee-related expenses primarily include employee wages and salaries, social security contributions and benefit costs for operators, maintenance technicians, process engineers, supply chain, IT production, yield improvement and health and safety roles. Facility costs primarily consist of the costs of electricity, water and other utilities and services. We expect our cost of revenue as a percentage of revenue to decrease sequentially in the fourth quarter of 2024. 
+ Operating Expenses 
+ Our operating expenses consist of research and development ("R&D"), selling, general and administrative expense ("SG&A"), and restructuring charges. Personnel costs are the most significant component of our operating expenses, and consist of salaries, benefits, bonuses, share-based compensation and commissions. 
+ Research and Development 
+ Our R&D efforts are focused on developing highly differentiated process technologies and solutions. Our R&D expense includes personnel costs, material costs, software license and intellectual property expenses, facility costs, supplies, professional and consulting fees, and depreciation on equipment used in R&D activities. Our development roadmap includes new platform investments, platform features and extensions, and investments in emerging technology capabilities and solutions. We expense R&D costs as incurred. We believe that continued investment in our technology portfolio is important for our future growth and acquisition of new customers. We expect our R&D as a percentage of revenue to modestly decrease sequentially in the fourth quarter of 2024. 
+ Selling, General and Administrative 
+ SG&A expenses consist primarily of personnel-related costs, including sales commissions to independent sales representatives and professional fees, including the costs of accounting, audit, legal, regulatory and tax compliance. Additionally, costs related to advertising, trade shows, corporate marketing and allocated overhead costs are also included in SG&A expenses. Beginning in the third quarter of 2023, SG&A expenses also include certain contract cancellation fees, (gain) loss on tool sales and withholding taxes. Certain contract cancellation fees and (gain) loss on tool sales were previously included in other income (expense) while withholding taxes were previously recorded in income tax expense. We expect our SG&A as a percentage of revenue to modestly increase sequentially in the fourth quarter of 2024. 
+ Restructuring Charges 
+ Restructuring charges primarily relate to reductions in our global workforce, leased workspace and consultants we engage for strategic support of the restructuring. 
+ Other Operating Charges 
+ Finance Income (Expense), net 
+ Finance income (expense), net consists of interest earned on our cash and cash equivalents and marketable securities, net of any interest expense on borrowings, amortization of debt issuance costs under our term loans, revolving credit facility, finance leases and other credit facilities we maintain with various financial institutions. 
+ 3 
+ GlobalFoundries Inc. 
+ Other Income (Expense), net 
+ Other income (expense), net consists of our share of profit of our joint venture, one-time gains and losses and other miscellaneous income and expense items unrelated to our core operations. Included are gains and losses relating to hedging activities. Prior to the third quarter of 2023, other income (expense), net also included (gain) loss on tool sales and certain contract cancellation fees. 
+ Income Tax Expense 
+ Income tax expense consists primarily of income taxes in jurisdictions in which we conduct business, which mainly include Germany, Singapore and the United States. 
+ 4 
+ GlobalFoundries Inc. 
+ A. Results of Operations 
+ Comparison of Three and Nine months ended September 30, 2024 and 2023, (in millions). 
+ Net Revenue 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended
+September 30 | | Nine Months Ended
+September 30 | 
+ | | 2024 | | 2023 | | Change | | % Change | | 2024 | | 2023 | | Change | | % Change | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ Net revenue | | $ | 1,739 | | | $ | 1,852 | | | $ | (113) | | | (6.1) | % | | $ | 4,920 | | | $ | 5,538 | | | $ | (618) | | | (11.2) | % | 
+ Net revenue decreased by $113 million, or 6.1%, for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The decrease from the prior period was primarily driven by wafer shipment volume totaling 549 thousand (300mm equivalent), a 5% decrease from prior period. This was principally the result of elevated inventory levels for several of our customers across certain end markets that we serve, which has resulted in lower customer demand in the Home and Industrial IOT, Communications Infrastructure & Datacenter, and Automotive end-markets. This has been partially offset by increased customer demand in the Smart Mobile Devices end-market. 
+ Net revenue decreased by $618 million, or 11.2%, for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The decrease from the prior period was primarily driven by wafer shipment volume totaling 1,529 thousand (300mm equivalent), an 8% decrease from prior period. Wafer shipment volume decline was primarily the result of elevated inventory levels for several of our customers across certain end markets that we serve, which has resulted in lower customer demand in the Communications Infrastructure & Datacenter, and Home and Industrial IOT end-markets. This has been partially offset by increased customer demand in the Automotive and Smart Mobile Devices end-markets. Additionally, average selling prices decreased by 2% from prior period, primarily due to mix shifts. 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ End Markets: 
+ | | Three Months Ended
+September 30 | | Nine Months Ended
+September 30 | 
+ | | 2024 | | 2023 | | Change | | % Change | | 2024 | | 2023 | | Change | | % Change | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ Smart Mobile Devices 
+ | | $ | 868 | | | $ | 779 | | | $ | 89 | | | 11.4 | % | | $ | 2,310 | | | $ | 2,258 | | | $ | 52 | | | 2.3 | % | 
+ Communications Infrastructure & Datacenter 
+ | | 133 | | 156 | | (23) | | | (14.7) | % | | 407 | | 719 | | (312) | | | (43.4) | % | 
+ Home and Industrial IoT | | 308 | | 408 | | (100) | | | (24.5) | % | | 912 | | 1,198 | | | (286) | | | (23.9) | % | 
+ Automotive | | 256 | | 303 | | (47) | | | (15.5) | % | | 792 | | 728 | | 64 | | | 8.8 | % | 
+ | | | | | | | | | | | | | | | | | 
+ Non wafer revenue | | 174 | | 206 | | (32) | | | (15.5) | % | | 499 | | 635 | | (136) | | | (21.4) | % | 
+ Total 
+ | | $ | 1,739 | | | $ | 1,852 | | | $ | (113) | | | (6.1) | % | | $ | 4,920 | | | $ | 5,538 | | | $ | (618) | | | (11.2) | % | 
+ 5 
+ GlobalFoundries Inc. 
+ Cost of Revenue 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended
+September 30 | | Nine Months Ended
+September 30 | 
+ | | 2024 | | 2023 | | Change | | % Change | | 2024 | | 2023 | | Change | | % Change | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ Cost of revenue | | $ | 1,325 | | | $ | 1,323 | | | $ | 2 | | | 0.2 | % | | 3,718 | | | 3,962 | | | $ | (244) | | | (6.2) | % | 
+ Gross margin | | 23.8 | % | | 28.6 | % | | (480)bps | | | | 24.4 | % | | 28.5 | % | | (410)bps | | | 
+ Cost of revenue increased by $2 million, or 0.2%, for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The change was driven by an unfavorable increase in manufacturing variances due to reduced absorption of fixed costs, partially offset by a 5% lower shipment volume. 
+ Gross margin decreased to 23.8% for the three months ended September 30, 2024 from 28.6% for the three months ended September 30, 2023. The decrease of 480 basis points was primarily driven by reduced factory utilization and unfavorable absorption of fixed manufacturing costs, which resulted primarily from a 6% reduction in revenue. 
+ Cost of revenue decreased by $244 million, or 6.2%, for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The change was driven by 8% lower shipment volume, partially offset by an unfavorable increase in manufacturing variances due to reduced absorption of fixed costs. 
+ Gross margin decreased to 24.4% for the nine months ended September 30, 2024 from 28.5% for the nine months ended September 30, 2023. The decrease of 410 basis points was primarily driven by reduced factory utilization and unfavorable absorption of fixed manufacturing costs, which resulted primarily from an 11% reduction in revenue. 
+ Operating Expenses 
+ Research and Development Expense 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended
+September 30 | | Nine Months Ended
+September 30 | 
+ | | 2024 | | 2023 | | Change | | % Change | | 2024 | | 2023 | | Change | | % Change | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ Research and development expense 
+ | | $ | 130 | | | $ | 108 | | | $ | 22 | | | 20.4 | % | | $ | 375 | | | $ | 323 | | | $ | 52 | | | 16.1 | % | 
+ As a % of revenue | | 7.5 | % | | 5.8 | % | | | | | | 7.6% | | 5.8% | | | | | 
+ R&D expense increased by $22 million, or 20.4%, for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The increase was primarily due to $7 million higher R&D portfolio investments, $15 million higher employee-related expense associated with higher bonus accrual and $1 million higher share-based compensation. 
+ R&D expense increased by $52 million, or 16.1%, for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The change was primarily a result of $22 million higher R&D portfolio investments, $24 million higher employee-related expenses and $6 million higher share-based compensation. 
+ 6 
+ GlobalFoundries Inc. 
+ Selling, General and Administrative Expense 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended
+September 30 | | Nine Months Ended
+September 30 | 
+ | | 2024 | | 2023 | | Change | | % Change | | 2024 | | 2023 | | Change | | % Change | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ Selling, general and administrative expense 
+ | | $ | 98 | | | $ | 143 | | | $ | (45) | | | (31.5) | % | | $ | 334 | | | $ | 386 | | | $ | (52) | | | (13.5) | % | 
+ As a % of revenue | | 5.6 | % | | 7.7 | % | | | | | | 6.8 | % | | 7.0 | % | | | | | 
+ SG&A expenses decreased by $45 million or 31.5%, for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The change was primarily a result of $25 million decrease in withholding tax expense related to an intercompany loan and $16 million advanced manufacturing investment tax credits ("AMITC"). 
+ SG&A expenses decreased by $52 million or 13.5%, for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The change was primarily a result of $46 million AMITC and $8 million decrease in withholding tax expense related to an intercompany loan. 
+ Restructuring charges 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended
+September 30 | | Nine Months Ended
+September 30 | 
+ | | 2024 | | 2023 | | Change | | % Change | | 2024 | | 2023 | | Change | | % Change | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ Restructuring charges 
+ | | $ | 1 | | | $ | 17 | | | $ | (16) | | | (94.1) | % | | $ | 6 | | | $ | 41 | | | $ | (35) | | | (85.4) | % | 
+ | | | | | | | | | | | | | | | | | 
+ Restructuring charges decreased by $16 million or 94.1%, for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The change was driven by a decrease in employee-related expenses associated with the reduction in our global workforce in the current period compared to the prior period. 
+ Restructuring charges decreased $35 million or 85.4%, for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The change was driven by a decrease in employee-related expenses associated with the reduction in our global workforce in the current period compared to the prior period. 
+ 7 
+ GlobalFoundries Inc. 
+ Finance income (expense), net 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended
+September 30 | | Nine Months Ended
+September 30 | 
+ | | 2024 | | 2023 | | Change | | % Change | | 2024 | | 2023 | | Change | | % Change | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ Finance income (expense), net 
+ | | $ | 15 | | | $ | 3 | | | $ | 12 | | | 400.0 | % | | $ | 41 | | | $ | 4 | | | $ | 37 | | | NM | 
+ Finance income (expense), net increased by $12 million for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The increase was primarily a result of $13 million higher interest income generated from money market funds and investments in marketable securities. 
+ Finance income (expense), net increased by $37 million for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The increase was primarily a result of $47 million higher interest income generated from money market funds and investments in marketable securities, partially offset by $10 million higher interest expense. 
+ Other income (expense), net 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended
+September 30 | | Nine Months Ended
+September 30 | 
+ | | 2024 | | 2023 | | Change | | % Change | | 2024 | | 2023 | | Change | | % Change | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ Other income (expense), net 
+ | | $ | (5) | | | $ | (21) | | | $ | 16 | | | 76.2 | % | | $ | (11) | | | $ | (45) | | | $ | 34 | | | 75.6 | % | 
+ Other income (expense), net increased by $16 million for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The increase was primarily driven by a $14 million reduction in foreign exchange currency losses. 
+ Other income (expense), net increased by $34 million for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The increase was primarily driven by $46 million reduction in foreign exchange currency losses, partially offset by a $12 million decrease in gains on tool sales. 
+ Income Tax Expense 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Three Months Ended
+September 30 | | Nine Months Ended
+September 30 | 
+ | | 2024 | | 2023 | | Change | | | | 2024 | | 2023 | | Change | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ Income tax (expense) benefit | | $ | (17) | | | $ | 6 | | | $ | (23) | | | | | $ | (50) | | | $ | (45) | | | $ | (5) | | | | 
+ | | | | | | | | | | | | | | | | | 
+ Income tax expense increased by $23 million for the three months ended September 30, 2024 compared to the three months ended September 30, 2023, primarily due to a $25 million reclassification of withholding tax expense accrued in the United States from income tax expense in the third quarter of 2023 and the accrual of a $5 million United States 
+ 8 
+ GlobalFoundries Inc. 
+ corporate alternative minimum tax in the current period, partially offset by a reduction in income tax expense due to a decrease in global earnings before tax. 
+ Income tax expense increased by $5 million for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023, primarily due to the accrual of a $13 million United States corporate alternative minimum tax in the current period, partially offset by a reduction in income tax expense due to a decrease in global earnings before tax. 
+ 9 
+ GlobalFoundries Inc. 
+ B. Liquidity and Capital Resources 
+ We have historically financed operations primarily through cash and cash equivalents and marketable securities, as well as cash generated from our business operations, including prepayments under LTAs, debt and government grants. As of September 30, 2024, our cash, cash equivalents and marketable securities balances of approximately $4.3 billion included $2.3 billion of cash and cash equivalents and approximately $2.0 billion of marketable securities. 
+ As of September 30, 2024 and December 31, 2023, we had an undrawn revolving credit facility of $1.0 billion. In addition to our available revolver, we had $2.3 billion and $2.4 billion of debt outstanding as of September 30, 2024 and December 31, 2023, respectively, which was primarily comprised of multiple term loans in various currencies. Our future capital requirements will depend on many factors, including our revenue growth rate, the timing and the amount of payments we receive from customers pursuant to our LTAs and other business arrangements, the timing and extent of spending to support development efforts, the introduction of new and enhanced products and solutions, the continuing market adoption of our platform, and our obligations to repay our indebtedness from time to time. We may from time to time seek to raise additional capital to support our growth. As of September 30, 2024, we believe that our existing cash, cash equivalents, marketable securities, credit under our revolving credit facility and expected cash generated from operations are sufficient to meet our capital requirements for at least the next 12 months and beyond. 
+ Cash Flows 
+ The following table shows a summary of our cash flows for the periods presented: 
+ | | | | | | | | | | | | | | | 
+ | | Nine Months Ended September 30 | 
+ | | 2024 | | 2023 | 
+ Cash provided by operating activities | | $ | 1,265 | | | $ | 1,441 | | 
+ Cash used in investing activities | | (1,033) | | | (1,787) | | 
+ Cash used in financing activities 
+ | | (333) | | | (125) | | 
+ Effect of exchange rate changes on cash and cash equivalents 
+ | | — | | | (1) | | 
+ Net decrease in cash and cash equivalents | | $ | (101) | | | $ | (472) | | 
+ Operating Activities 
+ Cash provided by operating activities for the nine months ended September 30, 2024 of $1,265 million decreased $176 million compared to the $1,441 million provided for the nine month period ended September 30, 2023. The decrease was primarily due to $273 million in lower net income related to reduced sales offset by non-cash adjustments of $115 million mainly driven by $142 million of higher depreciation related to the expansion of our manufacturing capacity and $23 million of higher share-based compensation partially offset by decreased finance income of $47 million. 
+ Investing Activities 
+ Cash used in investing activities for the nine months ended September 30, 2024 of $1,033 million decreased $754 million compared to the cash used of $1,787 million for the nine month period ended September 30, 2023. The decrease was primarily driven by $1,108 million lower capital and intangible expenditures related to the expansion of our fabrication facilities. Partially offsetting this decrease was $238 million of proceeds from the sale of the East Fishkill facility, received in January 2023, an increase of $41 million for net purchases of marketable securities and $69 million related to acquisition costs. 
+ Financing Activities 
+ Cash used in financing activities for the nine months ended September 30, 2024 of $333 million increased $208 million compared to the cash used of $125 million for the nine months ended September 30, 2023. The change was primarily attributable to $200 million purchase of treasury shares in the second quarter of 2024. 
+ 10 

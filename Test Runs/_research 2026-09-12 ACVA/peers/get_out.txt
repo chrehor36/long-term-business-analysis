@@ -1,0 +1,22 @@
+OPLN [('10-K', '2026-02-18', '2025-12-31', '0001395942-26-000006', 'opln-20251231.htm'), ('10-K', '2025-02-20', '2024-12-31', '0001395942-25-000007', 'kar-20241231.htm')]
+CPRT [('10-K', '2025-09-26', '2025-07-31', '0001628280-25-042946', 'cprt-20250731.htm'), ('10-K', '2024-09-30', '2024-07-31', '0000900075-24-000024', 'cprt-20240731.htm')]
+RBA [('10-K', '2026-02-25', '2025-12-31', '0001628280-26-011682', 'rba-20251231.htm'), ('10-K', '2025-02-26', '2024-12-31', '0001628280-25-008201', 'rba-20241231.htm')]
+CVNA [('10-K', '2026-02-18', '2025-12-31', '0001690820-26-000009', 'cvna-20251231.htm'), ('10-K', '2025-02-19', '2024-12-31', '0001690820-25-000074', 'cvna-20241231.htm')]
+KMX [('10-K', '2026-04-15', '2026-02-28', '0001170010-26-000021', 'kmx-20260228.htm'), ('10-K', '2025-04-11', '2025-02-28', '0001170010-25-000024', 'kmx-20250228.htm')]
+CRMT [('10-K', '2026-07-14', '2026-04-30', '0001628280-26-048191', 'crmt-20260430.htm'), ('10-K', '2025-08-08', '2025-04-30', '0001628280-25-039026', 'crmt-20250430.htm')]
+ACV Auctions total 40
+   28 ('ACV Auctions Inc.  (ACVA)  (CIK 0001637873)',)
+   4 ('RAND CAPITAL CORP  (RAND)  (CIK 0000081955)',)
+   2 ('OPENLANE, Inc.  (KAR)  (CIK 0001395942)',)
+   1 ('OPENLANE, Inc.  (OPLN)  (CIK 0001395942)',)
+   2 ('COPART INC  (CPRT)  (CIK 0000900075)',)
+   1 ('RB GLOBAL INC.  (RBA)  (CIK 0001046102)',)
+   1 ('CarGurus, Inc.  (CARG)  (CIK 0001494259)',)
+   1 ('Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)',)
+ACV Auctions total 40
+fts ACV in OPLN (8, 'https://efts.sec.gov/LATEST/search-index?q=%22ACV%22&forms=10-K&ciks=0001395942')
+fts ACV in CPRT (19, 'https://efts.sec.gov/LATEST/search-index?q=%22ACV%22&forms=10-K&ciks=0000900075')
+fts ACV in RBA (1, 'https://efts.sec.gov/LATEST/search-index?q=%22ACV%22&forms=10-K&ciks=0001046102')
+fts ACV in CVNA (0, 'https://efts.sec.gov/LATEST/search-index?q=%22ACV%22&forms=10-K&ciks=0001690820')
+fts ACV in KMX (0, 'https://efts.sec.gov/LATEST/search-index?q=%22ACV%22&forms=10-K&ciks=0001170010')
+fts ACV in CRMT (0, 'https://efts.sec.gov/LATEST/search-index?q=%22ACV%22&forms=10-K&ciks=0000799850')

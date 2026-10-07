@@ -1,0 +1,38 @@
+BLK: Q5 below the floor (COMPUTATION, NOT A CLEARANCE); Q6 refutation record; audit PASSES
+
+Q5, headed COMPUTATION - NOT A CLEARANCE under operator rule 3 because Q2 is OUT. Price
+US$1,069.78 (close 2026-09-18, aggregator, flagged; cross-checked against the 10-K's own "a
+closing stock price of $1,070" at 2025-12-31). Share count 162,476,186 from the 10-Q cover as of
+2026-07-31, accession 0001193125-26-337177 - 154,869,259 common plus 7,606,927 Subco Units, which
+are included because they are economically common stock and the contingent consideration will
+issue more of them. Market cap US$173,814M.
+
+Owner earnings yield 2.74% to 3.21% against a 5.34% sovereign, so the owner is paid MINUS 2.60 to
+MINUS 2.13 points against the government bond. Honest pre-tax expectancy 3.51% to 4.12% against
+the ~10% floor: a shortfall of 5.9 to 6.5 points, needing 5.88% to 6.49% growth in owner earnings
+per share forever against a four-year record of zero. Value roughly $550-650 conservative and
+$875-1,030 with 2% perpetual growth allowed; the price is above the whole range, which is the
+third outcome of the screamer test. Windage count ONE, applied at Q4.
+
+What the buyer is paying for, in words: 1.13% of $15.3 trillion of other people's savings for the
+right to earn 0.152% a year on it - nine years of gross base fees to return the purchase price -
+of which about $450 a share, some $73bn, is an option on the $400bn-by-2030 private-markets
+ambition and on Aladdin compounding from 8.2% of revenue.
+
+Q6 records six refutation tests tied to named filed series with two- and three-consecutive-year
+thresholds pre-committed [E1-02]. Nothing armed, no alerts band, no PORTFOLIO row - the file
+closed at Q2 on the business (the QLYS ruling).
+
+Self-audit: every box checked. 108 distinct ledger ids cited, all 108 verified against the 267-row
+ledger, zero phantom. python tools/check_framework.py PASSES.
+
+Survival shape #11 THE PASS-THROUGH, with a new shape proposed and argued: THE BOUGHT AVERAGE -
+the price of what the business already owns falls every year and the owner buys higher-priced
+businesses with its own shares so the blended price stands still, paying for the appearance of
+stability in dilution. Numbering left to the fold.
+
+Tooling defects recorded: sources.py _get defaults to a Mozilla UA that sec.gov Archives refuses
+with HTTP 403, and cik_for("BLK") returns a CIK whose companyfacts begins at FY2024 with no
+warning, because the holding company was created in October 2024.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

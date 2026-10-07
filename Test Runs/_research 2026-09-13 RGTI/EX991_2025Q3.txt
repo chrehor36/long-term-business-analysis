@@ -1,0 +1,1270 @@
+ 
+ EX-99.1
+ 2
+ rgti-20251110xex99d1.htm
+ EX-99.1
+ Exhibit 99.1 
+ ​ 
+ Rigetti Computing Reports Third Quarter 2025 Financial Results; 
+ Provides Technology Roadmap Updates for 2026 and 2027 
+ ​ 
+ BERKELEY, Calif., November 10, 2025 (GLOBE NEWSWIRE) -- Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced its financial results for the third quarter ended September 30, 2025.
+ ​ 
+ Third Quarter 2025 and Recent Financial Highlights 
+ ​ 
+ | ● | Total revenues for the three months ended September 30, 2025 were $1.9 million | 
+ | ● | Operating loss for the three months ended September 30 was $20.5 million | 
+ | ● | For the three months ended September 30, 2025: GAAP net loss $201.0 million; non-GAAP net loss $10.7 million | 
+ | ● | For the three months ended September 30, 2025: GAAP net loss per share $(0.62); non-GAAP net loss per share $(0.03) | 
+ | ● | As of September 30. 2025 cash, cash equivalents and available-for-sale investments totaled $558.9 million | 
+ | ● | Subsequent to September 30, 2025 and through November 6, 2025, proceeds of $46.5 million were received from the exercise of Warrants | 
+ | ● | As of November 6, 2025 cash, cash equivalents and available-for-sale investments totaled approximately $600.0 million. | 
+ ​ 
+ “This past quarter, we saw strong momentum with both the demand for our on-premises quantum computers and the development of collaborations to advance our own R&D and the quantum ecosystem more broadly,” says Dr. Subodh Kulkarni, Rigetti CEO. 
+ ​ 
+ “Rigetti’s open and modular architecture continues to allow us to integrate innovative solutions with our technology stack, including our Air Force Research Laboratory (AFRL)-funded project with QphoX and AFRL to advance superconducting quantum computer networking,” Dr. Kulkarni continues.
+ ​ 
+ “Our new collaborations with the Centre for Development of Advanced Computing (C-DAC) and Montana State University (MSU) showcase the increasing maturity of the quantum computing ecosystem. Rigetti is proud to be deepening our support for quantum computing capabilities in the academic and government sectors,” adds Dr. Kulkarni. “We are equally excited to support NVIDIA NVQLink, NVIDIA’s new open platform for AI supercomputer-quantum integration, which is a promising resource to accelerate hybrid computation development as we work towards quantum advantage.”
+ ​ 
+ “On the technology front, we remain on track to deliver our 100+ qubit chiplet-based quantum system with an anticipated 99.5% median two-qubit gate fidelity by the end of 2025.”
+ ​ 
+ 2026-2027 Technology Roadmap Updates 
+ ​ 
+ The Company expects to deploy a 150+ qubit system by or around the end of 2026 with an anticipated 99.7% median two-qubit gate fidelity, and a 1,000+ qubit system by or around the end of 2027 with an anticipated 99.8% median two-qubit gate fidelity. 
+ ​ 
+ Commercial Updates 
+ ​ 
+ Rigetti Announces Purchase Orders for Two Quantum Computing Systems Totaling Approximately $5.7 Million 
+ In September 2025, Rigetti announced that it secured purchase orders totaling approximately $5.7 million for two 9-qubit Novera™ quantum computing systems. Both systems are upgradeable, allowing the customers to increase the system qubit count for more complex computations and research. Delivery for both systems is expected in the first half of 2026. 
+ ​ 
+ One system is being purchased by an Asian technology manufacturing company. The system will serve as a testbed to develop internal quantum computing expertise. They also plan to benchmark and validate their own quantum computing technologies with the Novera system.
+ ​ 
+ The other system is being purchased by a California-based applied physics and artificial intelligence startup. The system will be used for quantum hardware and error correction research.
+ ​ 
+ Rigetti Announces Italy Expansion 
+ Rigetti plans to open an Italian subsidiary in the coming months. We believe that this development will allow the Company to accelerate its pursuit of business opportunities and talent in Italy as the region dedicates more resources and funding to bolstering its quantum computing initiatives. 
+ ​ 
+ Rigetti, in Collaboration with QphoX, Awarded $5.8M AFRL Contract to Advance Superconducting Quantum Networking 
+ In September 2025, Rigetti announced that it was awarded a three-year, $5.8 million contract from AFRL to advance superconducting quantum networking. Rigetti will be collaborating with QphoX on the project, a Dutch quantum technology startup developing leading frequency conversion systems for quantum applications. A key challenge to networking superconducting quantum computers is the need to convert the microwave signals, which are used to control superconducting qubits, to optical photons that can travel along those fibers. This project aims to deliver systems providing entanglement between superconducting qubits and optical photons, the essential building block of quantum networking.
+ ​ 
+ Rigetti Announces Update on DARPA QBI Participation 
+ Rigetti remains engaged with the Defense Advanced Research Projects Agency (DARPA) on Stage A of the Quantum Benchmarking Initiative (QBI). On November 6, DARPA announced the companies initially selected to participate in Stage B of QBI. Although Rigetti was not initially selected for Stage B, the Company received constructive input from DARPA regarding its proposal and its dialogue with DARPA is ongoing. Rigetti is optimistic about being chosen for Stage B in the coming months. 
+ ​ 
+ Partnership and Collaboration Updates 
+ ​ 
+ Rigetti Supports NVIDIA NVQLink, NVIDIA’s New Open Platform for AI Supercomputer-Quantum Integration 
+ Rigetti announced that it is supporting NVIDIA NVQLink, NVIDIA’s new open platform for integrating AI supercomputing with quantum computers. By providing low latency and high throughput integration between quantum hardware and AI supercomputing, NVQLink is a very promising resource to accelerate hybrid computation development on the path towards quantum advantage. 
+ ​ 
+ Rigetti Computing and MSU Collaborate to Advance Quantum Research and Innovation 
+ Rigetti announced a new collaboration with MSU to advance quantum computing research and innovation. Through the collaboration, Rigetti and MSU intend to collaborate on a variety of initiatives, including research projects related to quantum hardware and hybrid quantum systems, workforce development activities, and co-development and testing of enabling technologies and quantum system components. Rigetti may also support QCORE by providing strategic and technical input on its research and program development, offering workforce training opportunities, and supporting regional talent development, among other efforts to bolster the center. Collectively, these initiatives underscore the importance of public-private partnerships in advancing next-generation quantum technologies.
+ ​ 
+ MSU is the first academic institution with an on-premises Rigetti quantum computer. QCORE features a 9-qubit Novera™ QPU, which will be used by researchers to advance quantum computing R&D.
+ ​ 
+ Rigetti and India’s C-DAC Announce MOU to Explore Co-Development of Hybrid Quantum Computing Systems 
+ Rigetti signed an MOU with the C-DAC, India’s premier R&D organization of the Ministry of Electronics and Information Technology. With this MOU, Rigetti and C-DAC intend to collaborate on the design and development of hybrid quantum computing systems and related technologies and bring them to market. Rigetti and C-DAC expect to also explore use case and application workflow development leveraging hybrid computing infrastructure and participate in workforce development activities.
+ ​ 
+ Conference Call and Webcast 
+ Rigetti will host a conference call tomorrow, November 11, 2025, at 8:30 am ET, or 5:30 am PT, to discuss its third quarter 2025 financial results. 
+ ​ 
+ You can listen to a live audio webcast of the conference call at https://edge.media-server.com/mmc/p/8so362do/ or the "Events & Presentations" section of the Company's Investor Relations website at https://investors.rigetti.com/ . A replay of the conference call will be available at the same locations following the conclusion of the call for one year.
+ ​ 
+ To participate in the live call, you must register using the following link: https://register-conf.media-server.com/register/BI9d07be37ed2d4fc69d60a7d54d9669aa . Once registered, you will receive dial-in numbers and a unique PIN number. When you dial in, you will input your PIN and be routed into the call. If you register and forget your PIN, or lose the registration confirmation email, simply re-register to receive a new PIN.
+ ​ 
+ Non-GAAP Financial Measures 
+ To supplement Rigetti’s consolidated financial statements presented in accordance with U.S. generally accepted accounting principles (GAAP), the Company uses certain non-GAAP financial measures, non-GAAP net loss and non-GAAP net loss per share attributable to common stockholders-basic and diluted. The Company believes that providing these non-GAAP financial measures enhances the Company’s and investors’ ability to compare the Company’s past financial performance with its current performance. Non-GAAP net loss is defined as GAAP net loss excluding stock-based compensation expenses, change in fair value of derivative warrant liabilities and change in fair value of earn-out liabilities, and non-GAAP net loss per share attributable to common stockholders-basic and diluted is defined as non-GAAP net loss divided by the weighted average shares used to compute net loss per share attributable to common stockholders -basic and diluted. The Company excludes stock-based compensation expenses, change in fair value of derivative warrant liabilities and change in fair value of earn-out liabilities from non-GAAP net loss and non-GAAP net loss per share 
+ attributable to common stockholders -basic and diluted primarily because these are non-cash expenses that the Company believes are not reflective of ongoing operating results and such items may not be comparable from period to period due to changes in the fair market value of the Company’s common stock, which is influenced by external factors such as the volatility of public markets and the performance of the Company’s peers. These non-GAAP financial measures, which are included in this press release and which may be referred to on the conference call discussing the Company's third quarter financial results, are provided as supplemental information to the financial measures presented in this press release and discussed on the conference call that are calculated and presented in accordance with GAAP. Non-GAAP financial measures should not be considered a substitute for, or superior to, financial measures determined or calculated in accordance with GAAP. The Company’s definitions of its non-GAAP financial measures may not be comparable to similarly titled measures reported by other companies. For a reconciliation of each non-GAAP financial measure to its most directly comparable GAAP measure, please refer to the reconciliation tables at the end of this press release. 
+ ​ 
+ About Rigetti 
+ Rigetti is a pioneer in full-stack quantum computing. The Company has operated quantum computers over the cloud since 2017 and serves global enterprise, government, and research clients through its Rigetti Quantum Cloud Services platform. In 2021, Rigetti began selling on-premises quantum computing systems with qubit counts between 24 and 84 qubits, supporting national laboratories and quantum computing centers. Rigetti’s 9-qubit Novera QPU was introduced in 2023 supporting a broader R&D community with a high-performance, on-premises QPU designed to plug into a customer’s existing cryogenic and control systems. The Company’s proprietary quantum-classical infrastructure provides high-performance integration with public and private clouds for practical quantum computing. Rigetti has developed the industry’s first multi-chip quantum processor for scalable quantum computing systems. The Company designs and manufactures its chips in-house at Fab-1, the industry’s first dedicated and integrated quantum device manufacturing facility. Learn more at https://www.rigetti.com/ .
+ ​ 
+ Contacts 
+ Rigetti Computing Investor Contact:
+ IR@Rigetti.com 
+ ​ 
+ Rigetti Computing Media Contact:
+ press@rigetti.com 
+ ​ 
+ Cautionary Language and Forward-Looking Statements 
+ Certain statements in this communication may be considered “forward-looking statements” within the meaning of the federal securities laws, including statements with respect to the Company’s expectations with respect to its future success and performance, including expectations related to the Company’s ability to achieve milestones including delivery of a 100+ qubit chiplet-based quantum system with an anticipated 99.5% median two-qubit gate fidelity by the end of 2025; expectations to deploy a 150+ qubit system by or around the end of 2026 with an anticipated 99.7% median two-qubit gate fidelity, and a 1,000+ qubit system by or around the end of 2027 with an anticipated 99.8% median two-qubit gate fidelity; aims to deliver systems providing entanglement between superconducting qubits and optical photons through the AFRL project with QphoX; views that NVIDIA NVQLink is a very promising resource to accelerate hybrid computation development on the path towards quantum advantage; intentions for Rigetti and MSU to collaborate on a variety of initiatives, including research projects related to quantum hardware and hybrid quantum systems, workforce development activities, and co-development and testing of enabling technologies and quantum system components through their MOU; the intention for Rigetti and C-DAC to collaborate on the design and development of hybrid quantum computing systems and related technologies and bring them to market; the expectation for Rigetti and C-DAC to explore use case and application workflow development leveraging hybrid computing infrastructure and participate in workforce development activities; optimism about being chosen for Phase B in the coming months; plans to open an Italian subsidiary in the coming months; belief that the Italian subsidiary will allow the Company to accelerate its pursuit of business opportunities and talent in Italy; and the potential of the Company’s business and quantum computing generally. These forward-looking statements are based upon estimates and assumptions that, while considered reasonable by the Company and its management, are inherently uncertain. Factors that may cause actual results to differ materially from current expectations include, but are not limited to: the Company’s ability to achieve milestones, technological advancements, including with respect to its technology roadmap; the ability of the Company to obtain government contracts successfully and in a timely manner and the availability of government funding; the potential of quantum computing; the success of the Company’s partnerships and collaborations, including the strategic collaboration with Quanta, NVIDIA, MSU, QphoX, and C-DAC; the Company’s ability to accelerate its development of multiple generations of quantum processors; the outcome of any legal proceedings that may be instituted against the Company or others; the ability to maintain relationships with customers and suppliers and attract and retain management and key employees; costs related to operating as a public company; changes in applicable laws or regulations; the possibility that the Company may be adversely affected by other economic, business, or competitive factors; the Company’s estimates of expenses and profitability; the evolution of the markets in which the Company competes; the ability of the Company to implement its strategic initiatives and expansion plans; the expected use of proceeds from the Company’s past and future financings or other capital; the sufficiency of the Company’s cash resources; unfavorable conditions in the Company’s industry, the global economy or global supply chain, including rising inflation, tariffs, and interest rates, deteriorating international trade relations, political turmoil, natural catastrophes, warfare and terrorist attacks; and other risks and uncertainties set forth in the section entitled “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements” in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024 and Quarterly Report on Form 10-Q for the quarter ended September 30, 2025 and other 
+ documents filed by the Company from time to time with the Securities and Exchange Commission. These filings identify and address other important risks and uncertainties that could cause actual events and results to differ materially from those contained in the forward-looking statements. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and the Company assumes no obligation and does not intend to update or revise these forward-looking statements other than as required by applicable law. The Company does not give any assurance that it will achieve its expectations.
+ ​ 
+ RIGETTI COMPUTING, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (in thousands, except number of shares and par value) 
+ (unaudited) 
+ ​ 
+ ​ 
+ ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | 
+ ​ 
+ | 
+ | September 30, 
+ | 
+ | December 31, 
+ | 
+ ​ 
+ | ​ 
+ | 2025 
+ | ​ 
+ | 2024 
+ | 
+ Assets 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Current assets:
+ | ​ 
+ | 
+ | 
+ | ​ 
+ | 
+ | 
+ | 
+ Cash and cash equivalents
+ | ​ 
+ | $
+ | 26,133 
+ | ​ 
+ | $
+ | 67,674 
+ | 
+ Available-for-sale investments - short-term
+ | ​ 
+ | ​ 
+ | 420,850 
+ | ​ 
+ | ​ 
+ | 124,420 
+ | 
+ Accounts receivable
+ | ​ 
+ | ​ 
+ | 2,277 
+ | ​ 
+ | ​ 
+ | 2,427 
+ | 
+ Prepaid expenses 
+ | ​ 
+ | ​ 
+ | 3,658 
+ | ​ 
+ | ​ 
+ | 3,156 
+ | 
+ Other current assets
+ | ​ 
+ | ​ 
+ | 3,376 
+ | ​ 
+ | ​ 
+ | 9,081 
+ | 
+ Total current assets
+ | ​ 
+ | ​ 
+ | 456,294 
+ | ​ 
+ | ​ 
+ | 206,758 
+ | 
+ Available-for-sale investments - long-term
+ | ​ 
+ | ​ 
+ | 111,955 
+ | ​ 
+ | ​ 
+ | 25,068 
+ | 
+ Property and equipment, net
+ | ​ 
+ | ​ 
+ | 54,065 
+ | ​ 
+ | ​ 
+ | 44,643 
+ | 
+ Operating lease right-of-use assets
+ | ​ 
+ | ​ 
+ | 6,818 
+ | ​ 
+ | ​ 
+ | 7,993 
+ | 
+ Other assets
+ | ​ 
+ | ​ 
+ | 1,142 
+ | ​ 
+ | ​ 
+ | 325 
+ | 
+ Total assets
+ | ​ 
+ | $
+ | 630,274 
+ | ​ 
+ | $
+ | 284,787 
+ | 
+ ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | 
+ Liabilities and Stockholders' Equity 
+ | ​ 
+ | ​ 
+ | 
+ | ​ 
+ | ​ 
+ | 
+ | 
+ Current liabilities:
+ | ​ 
+ | ​ 
+ | 
+ | ​ 
+ | ​ 
+ | 
+ | 
+ Accounts payable
+ | ​ 
+ | $
+ | 3,279 
+ | ​ 
+ | $
+ | 1,590 
+ | 
+ Accrued expenses and other current liabilities
+ | ​ 
+ | ​ 
+ | 6,137 
+ | ​ 
+ | ​ 
+ | 8,005 
+ | 
+ Current portion of deferred revenue
+ | ​ 
+ | ​ 
+ | — 
+ | ​ 
+ | ​ 
+ | 113 
+ | 
+ Current portion of operating lease liabilities
+ | ​ 
+ | ​ 
+ | 2,218 
+ | ​ 
+ | ​ 
+ | 2,159 
+ | 
+ Total current liabilities
+ | ​ 
+ | ​ 
+ | 11,634 
+ | ​ 
+ | ​ 
+ | 11,867 
+ | 
+ Deferred revenue, less current portion
+ | ​ 
+ | ​ 
+ | 698 
+ | ​ 
+ | ​ 
+ | 698 
+ | 
+ Operating lease liabilities, less current portion
+ | ​ 
+ | ​ 
+ | 5,379 
+ | ​ 
+ | ​ 
+ | 6,641 
+ | 
+ Derivative warrant liabilities
+ | ​ 
+ | ​ 
+ | 240,737 
+ | ​ 
+ | ​ 
+ | 93,095 
+ | 
+ Earn-out liabilities
+ | ​ 
+ | ​ 
+ | — 
+ | ​ 
+ | ​ 
+ | 45,897 
+ | 
+ Total liabilities
+ | ​ 
+ | ​ 
+ | 258,448 
+ | ​ 
+ | ​ 
+ | 158,198 
+ | 
+ Commitments and contingencies
+ | ​ 
+ | ​ 
+ | 
+ | ​ 
+ | ​ 
+ | 
+ | 
+ Stockholders’ equity:
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | 
+ | 
+ Preferred stock, par value $0.0001 per share, 10,000,000 shares authorized, none outstanding
+ | ​ 
+ | ​ 
+ | — 
+ | ​ 
+ | ​ 
+ | — 
+ | 
+ Common stock, par value $0.0001 per share, 1,000,000,000 shares authorized, 325,307,895 shares issued and outstanding at September 30, 2025 and 283,546,871 shares issued and outstanding at December 31, 2024
+ | ​ 
+ | ​ 
+ | 33 
+ | ​ 
+ | ​ 
+ | 29 
+ | 
+ Additional paid-in capital
+ | ​ 
+ | ​ 
+ | 1,123,853 
+ | ​ 
+ | ​ 
+ | 681,202 
+ | 
+ Accumulated other comprehensive income
+ | ​ 
+ | ​ 
+ | 690 
+ | ​ 
+ | ​ 
+ | 105 
+ | 
+ Accumulated deficit
+ | ​ 
+ | ​ 
+ | (752,750) 
+ | ​ 
+ | ​ 
+ | (554,747) 
+ | 
+ Total stockholders’ equity
+ | ​ 
+ | ​ 
+ | 371,826 
+ | ​ 
+ | ​ 
+ | 126,589 
+ | 
+ Total liabilities and stockholders’ equity
+ | ​ 
+ | $
+ | 630,274 
+ | ​ 
+ | $
+ | 284,787 
+ | 
+ ​ 
+ ​ 
+ RIGETTI COMPUTING, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (in thousands, except per share data) 
+ (unaudited) 
+ ​ 
+ ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | 
+ ​ 
+ | ​ 
+ | ​ 
+ | 
+ | 
+ | ​ 
+ | 
+ | 
+ | ​ 
+ | 
+ ​ 
+ | ​ 
+ | Three Months Ended September 30, 
+ | 
+ | Nine Months Ended September 30, 
+ | 
+ ​ 
+ | 
+ | 2025 
+ | 2024 
+ | 
+ | 2025 
+ | 
+ | 2024 
+ | 
+ Revenue
+ | ​ 
+ | $
+ | 1,947 
+ | ​ 
+ | $
+ | 2,378 
+ | ​ 
+ | $
+ | 5,220 
+ | ​ 
+ | $
+ | 8,516 
+ | 
+ Cost of revenue
+ | ​ 
+ | ​ 
+ | 1,543 
+ | ​ 
+ | ​ 
+ | 1,174 
+ | ​ 
+ | ​ 
+ | 3,808 
+ | ​ 
+ | ​ 
+ | 3,822 
+ | 
+ Total gross profit
+ | ​ 
+ | 
+ | 404 
+ | ​ 
+ | ​ 
+ | 1,204 
+ | ​ 
+ | ​ 
+ | 1,412 
+ | ​ 
+ | ​ 
+ | 4,694 
+ | 
+ Operating expenses:
+ | ​ 
+ | ​ 
+ | 
+ | ​ 
+ | ​ 
+ | 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | 
+ | 
+ Research and development
+ | ​ 
+ | ​ 
+ | 15,020 
+ | ​ 
+ | ​ 
+ | 12,752 
+ | ​ 
+ | ​ 
+ | 43,997 
+ | ​ 
+ | ​ 
+ | 36,093 
+ | 
+ Selling, general and administrative
+ | ​ 
+ | ​ 
+ | 5,933 
+ | ​ 
+ | ​ 
+ | 5,798 
+ | ​ 
+ | ​ 
+ | 19,478 
+ | ​ 
+ | ​ 
+ | 18,617 
+ | 
+ Total operating expenses
+ | ​ 
+ | 
+ | 20,953 
+ | ​ 
+ | 
+ | 18,550 
+ | ​ 
+ | ​ 
+ | 63,475 
+ | ​ 
+ | ​ 
+ | 54,710 
+ | 
+ Loss from operations
+ | ​ 
+ | 
+ | (20,549) 
+ | ​ 
+ | 
+ | (17,346) 
+ | ​ 
+ | ​ 
+ | (62,063) 
+ | ​ 
+ | ​ 
+ | (50,016) 
+ | 
+ Other income (expense), net
+ | ​ 
+ | ​ 
+ | 
+ | ​ 
+ | ​ 
+ | 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | 
+ | 
+ Interest expense
+ | ​ 
+ | ​ 
+ | — 
+ | ​ 
+ | ​ 
+ | (733) 
+ | ​ 
+ | ​ 
+ | — 
+ | ​ 
+ | ​ 
+ | (2,809) 
+ | 
+ Interest income
+ | ​ 
+ | ​ 
+ | 5,598 
+ | ​ 
+ | ​ 
+ | 1,226 
+ | ​ 
+ | ​ 
+ | 10,792 
+ | ​ 
+ | ​ 
+ | 3,567 
+ | 
+ Change in fair value of derivative warrant liabilities
+ | ​ 
+ | ​ 
+ | (181,955) 
+ | ​ 
+ | ​ 
+ | 1,200 
+ | ​ 
+ | ​ 
+ | (149,250) 
+ | ​ 
+ | ​ 
+ | 717 
+ | 
+ Change in fair value of earn-out liabilities
+ | ​ 
+ | ​ 
+ | (4,062) 
+ | ​ 
+ | ​ 
+ | 820 
+ | ​ 
+ | ​ 
+ | 2,518 
+ | ​ 
+ | ​ 
+ | 514 
+ | 
+ Total other income (expense), net
+ | ​ 
+ | 
+ | (180,419) 
+ | ​ 
+ | 
+ | 2,513 
+ | ​ 
+ | ​ 
+ | (135,940) 
+ | ​ 
+ | ​ 
+ | 1,989 
+ | 
+ Net loss before provision for income taxes
+ | ​ 
+ | 
+ | (200,968) 
+ | ​ 
+ | 
+ | (14,833) 
+ | ​ 
+ | ​ 
+ | (198,003) 
+ | ​ 
+ | ​ 
+ | (48,027) 
+ | 
+ Provision for income taxes
+ | ​ 
+ | 
+ | — 
+ | ​ 
+ | 
+ | — 
+ | ​ 
+ | ​ 
+ | — 
+ | ​ 
+ | ​ 
+ | — 
+ | 
+ Net loss
+ | ​ 
+ | $
+ | (200,968) 
+ | ​ 
+ | $
+ | (14,833) 
+ | ​ 
+ | $
+ | (198,003) 
+ | ​ 
+ | $
+ | (48,027) 
+ | 
+ Net loss per share attributable to common stockholders – basic and diluted 
+ | ​ 
+ | $
+ | (0.62) 
+ | ​ 
+ | $
+ | (0.08) 
+ | ​ 
+ | $
+ | (0.65) 
+ | ​ 
+ | $
+ | (0.28) 
+ | 
+ Weighted average shares used to compute net loss per share attributable to common stockholders – basic and diluted
+ | ​ 
+ | ​ 
+ | 325,024 
+ | ​ 
+ | ​ 
+ | 188,389 
+ | ​ 
+ | ​ 
+ | 302,807 
+ | ​ 
+ | ​ 
+ | 170,665 
+ | 
+ ​ 
+ ​ 
+ ​ 
+ ​ 
+ ​ 
+ RIGETTI COMPUTING INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOW S 
+ (in thousands) 
+ (unaudited) 
+ ​ 
+ ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | 
+ ​ 
+ | ​ 
+ | ​ 
+ | 
+ ​ 
+ | 
+ | Nine Months Ended September 30, 
+ | 
+ ​ 
+ | 
+ | 2025 
+ | 
+ | 2024 
+ | 
+ Cash flows from operating activities: 
+ | ​ 
+ | ​ 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Net loss
+ | ​ 
+ | $
+ | (198,003) 
+ | ​ 
+ | $
+ | (48,027) 
+ | 
+ Adjustments to reconcile net loss to net cash used in operating activities:
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | 
+ Depreciation and amortization
+ | ​ 
+ | ​ 
+ | 5,797 
+ | ​ 
+ | ​ 
+ | 5,155 
+ | 
+ Stock-based compensation
+ | ​ 
+ | ​ 
+ | 12,027 
+ | ​ 
+ | ​ 
+ | 9,705 
+ | 
+ Change in fair value of earn-out liabilities
+ | ​ 
+ | ​ 
+ | (2,518) 
+ | ​ 
+ | ​ 
+ | (514) 
+ | 
+ Change in fair value of derivative warrant liabilities
+ | ​ 
+ | ​ 
+ | 149,250 
+ | ​ 
+ | ​ 
+ | (717) 
+ | 
+ Accretion of available-for-sale securities
+ | ​ 
+ | ​ 
+ | (7,025) 
+ | ​ 
+ | ​ 
+ | (2,752) 
+ | 
+ Amortization of debt issuance costs, commitment fees and accretion of final payment fees
+ | ​ 
+ | ​ 
+ | — 
+ | ​ 
+ | ​ 
+ | 741 
+ | 
+ Non-cash lease expense
+ | ​ 
+ | ​ 
+ | 1,175 
+ | ​ 
+ | ​ 
+ | 1,533 
+ | 
+ Changes in operating assets and liabilities:
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | 
+ Accounts receivable
+ | ​ 
+ | ​ 
+ | 150 
+ | ​ 
+ | ​ 
+ | (1,355) 
+ | 
+ Prepaid expenses, other current assets and other assets
+ | ​ 
+ | ​ 
+ | (1,846) 
+ | ​ 
+ | ​ 
+ | (1,955) 
+ | 
+ Deferred revenue
+ | ​ 
+ | ​ 
+ | (113) 
+ | ​ 
+ | ​ 
+ | 543 
+ | 
+ Accounts payable
+ | ​ 
+ | ​ 
+ | 569 
+ | ​ 
+ | ​ 
+ | (808) 
+ | 
+ Accrued expenses and operating lease liabilities
+ | ​ 
+ | ​ 
+ | (3,105) 
+ | ​ 
+ | ​ 
+ | (3,632) 
+ | 
+ Net cash used in operating activities
+ | ​ 
+ | ​ 
+ | (43,642) 
+ | ​ 
+ | ​ 
+ | (42,083) 
+ | 
+ Cash flows from investing activities: 
+ | ​ 
+ | ​ 
+ | 
+ | ​ 
+ | ​ 
+ | 
+ | 
+ Purchases of property and equipment
+ | ​ 
+ | ​ 
+ | (14,103) 
+ | ​ 
+ | ​ 
+ | (9,816) 
+ | 
+ Purchases of available-for-sale securities
+ | ​ 
+ | ​ 
+ | (522,605) 
+ | ​ 
+ | ​ 
+ | (98,451) 
+ | 
+ Maturities of available-for-sale securities 
+ | ​ 
+ | ​ 
+ | 147,000 
+ | ​ 
+ | ​ 
+ | 107,499 
+ | 
+ Net cash used in investing activities
+ | ​ 
+ | ​ 
+ | (389,708) 
+ | ​ 
+ | ​ 
+ | (768) 
+ | 
+ Cash flows from financing activities: 
+ | ​ 
+ | ​ 
+ | 
+ | ​ 
+ | ​ 
+ | 
+ | 
+ Payments of principal of notes payable
+ | ​ 
+ | ​ 
+ | — 
+ | ​ 
+ | ​ 
+ | (9,491) 
+ | 
+ Proceeds from sale of common stock through Common Stock Purchase Agreement
+ | ​ 
+ | ​ 
+ | — 
+ | ​ 
+ | ​ 
+ | 12,838 
+ | 
+ Proceeds from sale of common stock through At-The-Market (ATM) Offerings
+ | ​ 
+ | ​ 
+ | 346,719 
+ | ​ 
+ | ​ 
+ | 38,831 
+ | 
+ Proceeds from sale of common stock from Quanta private placement transaction
+ | ​ 
+ | ​ 
+ | 35,000 
+ | ​ 
+ | ​ 
+ | — 
+ | 
+ Payments of offering costs
+ | ​ 
+ | ​ 
+ | (888) 
+ | ​ 
+ | ​ 
+ | (476) 
+ | 
+ Net proceeds from tax withholdings on sell-to-cover equity award transactions
+ | ​ 
+ | ​ 
+ | 6,272 
+ | ​ 
+ | ​ 
+ | — 
+ | 
+ Proceeds from issuance of common stock upon exercise of stock options
+ | ​ 
+ | ​ 
+ | 1,809 
+ | ​ 
+ | ​ 
+ | 83 
+ | 
+ Proceeds from issuance of common stock upon exercise of warrants
+ | ​ 
+ | ​ 
+ | 3,000 
+ | ​ 
+ | ​ 
+ | — 
+ | 
+ Net cash provided by financing activities 
+ | ​ 
+ | ​ 
+ | 391,912 
+ | ​ 
+ | ​ 
+ | 41,785 
+ | 
+ Effects of exchange rate changes on cash and cash equivalents 
+ | ​ 
+ | ​ 
+ | (103) 
+ | ​ 
+ | ​ 
+ | (40) 
+ | 
+ Net decrease in cash and cash equivalents 
+ | ​ 
+ | ​ 
+ | (41,541) 
+ | ​ 
+ | ​ 
+ | (1,106) 
+ | 
+ Cash and cash equivalents – beginning of period 
+ | ​ 
+ | ​ 
+ | 67,674 
+ | ​ 
+ | ​ 
+ | 21,392 
+ | 
+ Cash and cash equivalents – end of period 
+ | ​ 
+ | $
+ | 26,133 
+ | ​ 
+ | $
+ | 20,286 
+ | 
+ Supplemental disclosures of other cash flow information: 
+ | ​ 
+ | ​ 
+ | 
+ | ​ 
+ | ​ 
+ | 
+ | 
+ Cash paid for interest
+ | ​ 
+ | $
+ | — 
+ | ​ 
+ | $
+ | 2,057 
+ | 
+ Non-cash investing and financing activities: 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | 
+ Capitalization of deferred costs to equity upon share issuance
+ | ​ 
+ | ​ 
+ | — 
+ | ​ 
+ | ​ 
+ | 190 
+ | 
+ Purchases of property and equipment recorded in accounts payable
+ | ​ 
+ | ​ 
+ | 1,586 
+ | ​ 
+ | ​ 
+ | 252 
+ | 
+ Purchases of property and equipment recorded in accrued expenses
+ | ​ 
+ | ​ 
+ | 184 
+ | ​ 
+ | ​ 
+ | 76 
+ | 
+ Non-cash addition to operating lease right-of-use asset and liability
+ | ​ 
+ | ​ 
+ | — 
+ | ​ 
+ | ​ 
+ | 2,268 
+ | 
+ Reclassification of earn-out liabilities to additional paid-in capital for vesting of Promote Sponsor Vesting Shares
+ | ​ 
+ | ​ 
+ | 43,379 
+ | ​ 
+ | ​ 
+ | — 
+ | 
+ Reclassification of derivative liabilities to additional paid-in capital due to exercise of Public Warrants
+ | ​ 
+ | ​ 
+ | 1,609 
+ | ​ 
+ | ​ 
+ | — 
+ | 
+ Unrealized gain on short term investments
+ | ​ 
+ | ​ 
+ | 687 
+ | ​ 
+ | ​ 
+ | 54 
+ | 
+ RIGETTI COMPUTING INC. 
+ Reconciliation of Net Loss to Non-GAAP Net Loss and Calculation of Non-GAAP Net Loss per share 
+ attributable to common stockholders – basic and diluted 
+ (in thousands, except per share data) 
+ (unaudited) 
+ ​ 
+ ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | 
+ ​ 
+ | ​ 
+ | Three Months Ended September 30, 
+ | 
+ | Nine Months Ended September 30, 
+ | 
+ ​ 
+ | 
+ | 2025 
+ | 2024 
+ | 
+ | 2025 
+ | 
+ | 2024 
+ | 
+ Net loss (GAAP Measure)
+ | ​ 
+ | $
+ | (200,968) 
+ | ​ 
+ | $
+ | (14,833) 
+ | ​ 
+ | $
+ | (198,003) 
+ | ​ 
+ | $
+ | (48,027) 
+ | 
+ Excluding: 
+ | ​ 
+ | ​ 
+ | 
+ | ​ 
+ | ​ 
+ | 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | ​ 
+ | 
+ | 
+ Stock-based compensation expense
+ | ​ 
+ | ​ 
+ | 4,299 
+ | ​ 
+ | ​ 
+ | 3,427 
+ | ​ 
+ | ​ 
+ | 12,027 
+ | ​ 
+ | ​ 
+ | 9,705 
+ | 
+ Change in fair value of derivative warrant liabilities
+ | ​ 
+ | ​ 
+ | 181,955 
+ | ​ 
+ | ​ 
+ | (1,200) 
+ | ​ 
+ | ​ 
+ | 149,250 
+ | ​ 
+ | ​ 
+ | (717) 
+ | 
+ Change in fair value of earn-out liabilities
+ | ​ 
+ | ​ 
+ | 4,062 
+ | ​ 
+ | ​ 
+ | (820) 
+ | ​ 
+ | ​ 
+ | (2,518) 
+ | ​ 
+ | ​ 
+ | (514) 
+ | 
+ Non-GAAP Net Loss
+ | ​ 
+ | $
+ | (10,652) 
+ | ​ 
+ | $
+ | (13,426) 
+ | ​ 
+ | $
+ | (39,244) 
+ | ​ 
+ | $
+ | (39,553) 
+ | 
+ Net loss per share attributable to common stockholders – basic and diluted (GAAP Measure)
+ | ​ 
+ | $
+ | (0.62) 
+ | ​ 
+ | $
+ | (0.08) 
+ | ​ 
+ | $
+ | (0.65) 
+ | ​ 
+ | $
+ | (0.28) 
+ | 
+ Non-GAAP Net loss per share attributable to common stockholders –basic and diluted
+ | ​ 
+ | $
+ | (0.03) 
+ | ​ 
+ | $
+ | (0.07) 
+ | ​ 
+ | $
+ | (0.13) 
+ | ​ 
+ | $
+ | (0.23) 
+ | 
+ Weighted average shares used to compute net loss per share attributable to common stockholders –basic and diluted
+ | ​ 
+ | ​ 
+ | 325,024 
+ | ​ 
+ | ​ 
+ | 188,389 
+ | ​ 
+ | ​ 
+ | 302,807 
+ | ​ 
+ | ​ 
+ | 170,665 
+ | 
+ ​ 

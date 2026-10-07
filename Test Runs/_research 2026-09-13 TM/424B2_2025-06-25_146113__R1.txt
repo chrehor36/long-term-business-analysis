@@ -1,0 +1,140 @@
+ 
+ XML
+ 6
+ R1.htm
+ IDEA: XBRL DOCUMENT
+ v3.25.2 
+ Submission
+ | 
+ Jun. 25, 2025
+ | 
+ Submission [Line Items] | 
+ | 
+ Central Index Key | 
+ 0001094517 
+ | 
+ Registrant Name | 
+ TOYOTA MOTOR CORP/ 
+ | 
+ Registration File Number | 
+ 333-288168 
+ | 
+ Form Type | 
+ F-3 
+ | 
+ Submission Type | 
+ 424B2 
+ | 
+ Fee Exhibit Type | 
+ EX-FILING FEES 
+ | 
+ X | 
+ - Definition A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.
+ + References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
+ + Details 
+ Name: | 
+ dei_EntityCentralIndexKey | 
+ Namespace Prefix: | 
+ dei_ | 
+ Data Type: | 
+ dei:centralIndexKeyItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - Definition The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.
+ + References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
+ + Details 
+ Name: | 
+ dei_EntityRegistrantName | 
+ Namespace Prefix: | 
+ dei_ | 
+ Data Type: | 
+ xbrli:normalizedStringItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References No definition available.
+ + Details 
+ Name: | 
+ ffd_FeeExhibitTp | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:feeExhibitTypeItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References No definition available.
+ + Details 
+ Name: | 
+ ffd_FormTp | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:submissionTypeItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References No definition available.
+ + Details 
+ Name: | 
+ ffd_RegnFileNb | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:fileNumberItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References No definition available.
+ + Details 
+ Name: | 
+ ffd_SubmissionLineItems | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ xbrli:stringItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References No definition available.
+ + Details 
+ Name: | 
+ ffd_SubmissnTp | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:submissionTypeItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 

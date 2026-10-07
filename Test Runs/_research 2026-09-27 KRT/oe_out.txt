@@ -1,0 +1,28 @@
+FY    OCF    SBC  capex   D&A   OE_capex  OE_da
+2017 1002 0 5510 3119 -4508 -2117
+2018 2717 0 31908 3960 -29191 -1243
+2019 -32 0 34811 5953 -34843 -5985
+2020 14547 0 36482 8569 -21935 5978
+2021 8679 2026 12381 10044 -5728 -3391
+2022 29474 2047 14747 10405 12680 17022
+2023 53379 770 9144 10783 43465 41826
+2024 47982 2065 4068 10675 41849 35242
+2025 33815 1182 4505 10891 28128 21742
+
+windows ending FY2025
+1 yrs 2025 - 2025 capex end 28.1 D&A end 21.7 yield 2.66% / 2.05%
+2 yrs 2024 - 2025 capex end 35.0 D&A end 28.5 yield 3.31% / 2.69%
+3 yrs 2023 - 2025 capex end 37.8 D&A end 32.9 yield 3.57% / 3.11%
+4 yrs 2022 - 2025 capex end 31.5 D&A end 29.0 yield 2.98% / 2.74%
+5 yrs 2021 - 2025 capex end 24.1 D&A end 22.5 yield 2.28% / 2.13%
+6 yrs 2020 - 2025 capex end 16.4 D&A end 19.7 yield 1.55% / 1.87%
+7 yrs 2019 - 2025 capex end 9.1 D&A end 16.1 yield 0.86% / 1.52%
+8 yrs 2018 - 2025 capex end 4.3 D&A end 13.9 yield 0.41% / 1.31%
+9 yrs 2017 - 2025 capex end 3.3 D&A end 12.1 yield 0.31% / 1.15%
+range, windows >=3y ending FY2025: 3.3 to 37.8  = 0.31% to 3.57% of cap
+every window >=3y anywhere: low -28.7 (2018, 2020, 0) high 37.8 (2023, 2025, 0)
+
+screen reproduction
+5y D&A end, tags only 22.4882
+3y capex end, tagged capex only 42.211333333333336
+3y capex end, with deposits 37.814

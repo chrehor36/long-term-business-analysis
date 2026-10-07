@@ -1,0 +1,35 @@
+BIP | common-group share YE2025 23.7% (YE2024 27.0%) x BN 27% = 6.4%
+    3yr FY2023-25 OCF mean 4901 {'(c)=D&A': (1432, 92), '(c)=total capex': (405, 26)}   (100% basis, BN share)
+    2yr FY2024-25 OCF mean 5312 {'(c)=D&A': (1478, 95), '(c)=total capex': (-188, -12)}   (100% basis, BN share)
+    OCF < D&A in years: []
+BEP | common-group share YE2025 25.4% (YE2024 23.0%) x BN 47% = 11.9%
+    3yr FY2023-25 OCF mean 1429 {'(c)=D&A': (-667, -80), '(c)=total capex': (-2948, -352)}   (100% basis, BN share)
+    2yr FY2024-25 OCF mean 1210 {'(c)=D&A': (-1007, -120), '(c)=total capex': (-3950, -471)}   (100% basis, BN share)
+    OCF < D&A in years: [2024, 2025]
+BBU | common-group share YE2025 35.6% (YE2024 29.6%) x BN 68% = 24.2%
+    3yr FY2023-25 OCF mean 2880 {'(c)=D&A': (-395, -96), '(c)=total capex': (591, 143), '(c)=filer maintenance capex': (2029, 491)}   (100% basis, BN share)
+    2yr FY2024-25 OCF mean 3256 {'(c)=D&A': (138, 34), '(c)=total capex': (966, 234), '(c)=filer maintenance capex': (2395, 580)}   (100% basis, BN share)
+    OCF < D&A in years: [2023]
+BPY | common-group share YE2025 54.5% (YE2024 56.3%) x BN 100% = 54.5%
+    3yr FY2023-25 OCF mean -82 {'(c)=D&A': (-458, -250), '(c)=total capex': (-646, -352), '(c)=0 (ceiling)': (-82, -45)}   (100% basis, BN share)
+    2yr FY2024-25 OCF mean 212 {'(c)=D&A': (-132, -72), '(c)=total capex': (-369, -201), '(c)=0 (ceiling)': (212, 115)}   (100% basis, BN share)
+    OCF < D&A in years: [2023, 2025]
+
+BAM share 74.69% {'3yr FY2023-25': (1247, 1338), '2yr FY2024-25': (1391, 1512)}
+Realized carried interest, net (BN): [570, 403, 560] 3yr mean 511 2yr mean 482
+Corporate (cash&other FFO + borrowings FFO + preferred + equity comp): [-749, -968, -874] 3yr -864 2yr -921
+
+== BN LOOK-THROUGH (excludes BWS and the direct fund stakes, valued as investments; see run file) ==
+3yr FY2023-25 conservative 12 | judged top 900 | display ceiling (INVALID ends) 1443
+2yr FY2024-25 conservative 222 | judged top 1097 | display ceiling (INVALID ends) 1742
+
+== COMPUTATION - NOT A CLEARANCE ==
+investments component: BWS ex double count 8651 + direct fund stakes 10876 = 19527
+OE range: conservative low 12, judged top 1097, display ceiling 1742
+sovereign 5.35% value/share at zero growth: 8.6 to 17.4 (display ceiling 22.7)
+floor 10% value/share at zero growth: 8.6 to 13.3 (display ceiling 16.1)
+cap 87817
+OE 12: yield on whole cap 0.01%; on cap less investments 0.02%; perpetual growth needed at sovereign 5.33%, at floor 9.98%
+OE 1097: yield on whole cap 1.25%; on cap less investments 1.61%; perpetual growth needed at sovereign 3.68%, at floor 8.26%
+OE 1742: yield on whole cap 1.98%; on cap less investments 2.55%; perpetual growth needed at sovereign 2.73%, at floor 7.26%
+cross-check, parts at their own marks: $103.2bn = $44.9/share

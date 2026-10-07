@@ -1,0 +1,15 @@
+ABNB fold: register entry, WAVE 5 strike, reading-list narrative, shape index, overnight log - Q1 IN / Q2 OUT
+
+Register entry under COMPLETED FROM THE QUEUE: FAIL at Q2 (OUT on [E3-03] criterion 2 as its pricing sentence,
+[E2-44](1) and [E4-37] test it); price US$170.19 x 589,585,682 shares (10-Q cover 0001559720-26-000027, Class A
+plus Class B, Class H subsidiary-held and excluded) = cap US$100,341.6M; USD 30-year 5.35% (US Treasury,
+09/11/2026). The capex tag gap tested: real, a presentation change from FY2023, D&A above capex, the [E5-20]
+label wrong for this name. Customer funds separated (host funds in financing); owner earnings 5y 2021-25
+$2,485-2,536M as filed, $1,118-1,176M incl. 2020, TTM $3,069-3,120M; SBC/OCF 49.6% since 2020, 31.7% ex-2020.
+COMPUTATION - NOT A CLEARANCE: yield 1.1-3.1%, value roughly $35-60 to $110-140 a share, price above the range.
+~~ABNB~~ struck in the WAVE 5 capex row. Narrative fold with the OTA competitor row, refuted priors and
+tooling defects (fts_count accepts embedded quotes; run.py single capex tag; cover_shares sums Class H).
+THE PERMIT added to the survival shapes index as proposed seventeenth. No alert or PORTFOLIO row (Q2 OUT).
+Overnight log line appended. check_framework PASS.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

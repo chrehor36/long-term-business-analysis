@@ -1,0 +1,1515 @@
+[
+ {
+  "phrase": "Vantage Data Centers",
+  "forms": null,
+  "range": "2021-01-01..2026-09-18",
+  "total": 10000,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Vantage+Data+Centers%22&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "Vantage Data Centers Holdings, LLC  (CIK 0001727983) ABS-15G",
+    20
+   ],
+   [
+    "Retained Vantage Data Centers, LP  (CIK 0001973889) ABS-15G",
+    14
+   ],
+   [
+    "Core Bond Portfolio  (CIK 0001104129) NPORT-P",
+    7
+   ],
+   [
+    "Calvert Social Investment Fund  (CIK 0000356682) NPORT-P",
+    7
+   ],
+   [
+    "CALVERT FUND  (CIK 0000701039) NPORT-P",
+    6
+   ],
+   [
+    "EATON VANCE MUTUAL FUNDS TRUST  (CIK 0000745463) NPORT-P",
+    5
+   ],
+   [
+    "DoubleLine ETF Trust  (CIK 0001886172) NPORT-P",
+    4
+   ],
+   [
+    "Calvert Variable Series, Inc.  (CIK 0000708950) NPORT-P",
+    4
+   ]
+  ],
+  "sample": [
+   [
+    "CA22 DC REIT, LLC  (CIK 0001819699)",
+    "D",
+    "2021-10-27",
+    "0001819699-21-000001:primary_doc.xml"
+   ],
+   [
+    "CA22 Holdings REIT, LLC  (CIK 0001819726)",
+    "D",
+    "2021-10-27",
+    "0001819726-21-000001:primary_doc.xml"
+   ],
+   [
+    "PROSHARES TRUST  (CIK 0001174610)",
+    "485APOS",
+    "2026-08-17",
+    "0001174610-26-000543:f45920d1.htm"
+   ],
+   [
+    "Vantage Data Centers Holdings, LLC  (CIK 000172798",
+    "ABS-15G",
+    "2025-10-30",
+    "0001140361-25-039876:ef20057970_ex99-1.htm"
+   ],
+   [
+    "Retained Vantage Data Centers, LP  (CIK 0001973889",
+    "ABS-15G",
+    "2025-08-11",
+    "0001140361-25-030236:ef20050859_ex99-2.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "Vantage Data Centers",
+  "forms": "10-K",
+  "range": "2021-01-01..2026-09-18",
+  "total": 22,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Vantage+Data+Centers%22&forms=10-K&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI, DBRG-PJ) 10-K",
+    7
+   ],
+   [
+    "ARES STRATEGIC INCOME FUND  (CIK 0001918712) 10-K",
+    2
+   ],
+   [
+    "Vacasa, Inc.  (VCSA)  (CIK 0001874944) 10-K/A",
+    1
+   ],
+   [
+    "BOX INC  (BOX)  (CIK 0001372612) 10-K/A",
+    1
+   ],
+   [
+    "Ares Core Infrastructure Fund  (CIK 0002031750) 10-K",
+    1
+   ],
+   [
+    "Liberty Energy Inc.  (LBRT)  (CIK 0001694028) 10-K",
+    1
+   ],
+   [
+    "ARES CAPITAL CORP  (ARCC)  (CIK 0001287750) 10-K",
+    1
+   ],
+   [
+    "CalEthos, Inc.  (GEDC)  (CIK 0001174891) 10-K",
+    1
+   ]
+  ],
+  "sample": [
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI",
+    "10-K",
+    "2022-02-28",
+    "0001679688-22-000008:exhibit211dbrg2021q4.htm"
+   ],
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI",
+    "10-K",
+    "2023-02-27",
+    "0001679688-23-000017:exhibit211dbrg2022q4.htm"
+   ],
+   [
+    "Vacasa, Inc.  (VCSA)  (CIK 0001874944)",
+    "10-K/A",
+    "2025-04-30",
+    "0001874944-25-000009:vcsa-20241231.htm"
+   ],
+   [
+    "ARES STRATEGIC INCOME FUND  (CIK 0001918712)",
+    "10-K",
+    "2026-03-09",
+    "0001918712-26-000018:asif-20251231.htm"
+   ],
+   [
+    "BOX INC  (BOX)  (CIK 0001372612)",
+    "10-K/A",
+    "2021-05-28",
+    "0001193125-21-177230:d523184d10ka.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "Stack Infrastructure",
+  "forms": null,
+  "range": "2021-01-01..2026-09-18",
+  "total": 9986,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Stack+Infrastructure%22&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "CALVERT FUND  (CIK 0000701039) NPORT-P",
+    16
+   ],
+   [
+    "STACK INFRASTRUCTURE PARENT, LLC  (CIK 0001765411) ABS-15G",
+    14
+   ],
+   [
+    "Tributary Funds, Inc.  (CIK 0000932381) NPORT-P",
+    13
+   ],
+   [
+    "Blue Owl Digital Infrastructure Trust  (CIK 0002069692) 10-K",
+    10
+   ],
+   [
+    "PAYDEN & RYGEL INVESTMENT GROUP  (CIK 0000885709) NPORT-P",
+    9
+   ],
+   [
+    "DoubleLine Funds Trust  (CIK 0001480207) NPORT-P",
+    8
+   ],
+   [
+    "Calvert Management Series  (CIK 0000319676) NPORT-P",
+    5
+   ],
+   [
+    "Short Duration Inflation-Protected Income Portfolio  (CIK 00 NPORT-P",
+    4
+   ]
+  ],
+  "sample": [
+   [
+    "Blue Owl Digital Infrastructure Trust  (CIK 000206",
+    "10-K",
+    "2026-03-11",
+    "0002069692-26-000016:exhibit211oditsubsidiaries.htm"
+   ],
+   [
+    "STACK Infrastructure USA III, LLC  (CIK 0001960581",
+    "D",
+    "2023-01-20",
+    "0001960581-23-000006:primary_doc.xml"
+   ],
+   [
+    "STACK INFRASTRUCTURE PARENT, LLC  (CIK 0001765411)",
+    "ABS-15G",
+    "2024-03-08",
+    "0001193125-24-063577:d716911dex991.htm"
+   ],
+   [
+    "STACK INFRASTRUCTURE PARENT, LLC  (CIK 0001765411)",
+    "ABS-15G",
+    "2025-05-06",
+    "0001193125-25-113886:d917941dex991.htm"
+   ],
+   [
+    "STACK INFRASTRUCTURE PARENT, LLC  (CIK 0001765411)",
+    "ABS-15G",
+    "2026-02-05",
+    "0001193125-26-039159:d77546dex991.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "Stack Infrastructure",
+  "forms": "10-K",
+  "range": "2021-01-01..2026-09-18",
+  "total": 21,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Stack+Infrastructure%22&forms=10-K&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "Blue Owl Digital Infrastructure Trust  (CIK 0002069692) 10-K",
+    11
+   ],
+   [
+    "Unusual Machines, Inc.  (UMAC)  (CIK 0001956955) 10-K",
+    3
+   ],
+   [
+    "INTERNATIONAL BUSINESS MACHINES CORP  (IBM)  (CIK 0000051143 10-K",
+    2
+   ],
+   [
+    "AUDDIA INC.  (AUUD, AUUDW)  (CIK 0001554818) 10-K",
+    1
+   ],
+   [
+    "CoreSite Realty Corp  (CIK 0001490892) 10-K",
+    1
+   ],
+   [
+    "Blue Owl Real Estate Net Lease Trust  (CIK 0001944366) 10-K",
+    1
+   ],
+   [
+    "WhiteFiber, Inc.  (WYFI)  (CIK 0002042022) 10-K",
+    1
+   ],
+   [
+    "Bit Digital, Inc  (BTBT)  (CIK 0001710350) 10-K",
+    1
+   ]
+  ],
+  "sample": [
+   [
+    "Blue Owl Digital Infrastructure Trust  (CIK 000206",
+    "10-K",
+    "2026-03-11",
+    "0002069692-26-000016:exhibit211oditsubsidiaries.htm"
+   ],
+   [
+    "Blue Owl Digital Infrastructure Trust  (CIK 000206",
+    "10-K",
+    "2026-03-11",
+    "0002069692-26-000016:exhibit414-stack2019x1xser.htm"
+   ],
+   [
+    "Blue Owl Digital Infrastructure Trust  (CIK 000206",
+    "10-K",
+    "2026-03-11",
+    "0002069692-26-000016:exhibit413-series2019x2sup.htm"
+   ],
+   [
+    "Blue Owl Digital Infrastructure Trust  (CIK 000206",
+    "10-K",
+    "2026-03-11",
+    "0002069692-26-000016:exhibit48-series2023x3supp.htm"
+   ],
+   [
+    "Blue Owl Digital Infrastructure Trust  (CIK 000206",
+    "10-K",
+    "2026-03-11",
+    "0002069692-26-000016:exhibit47-series2024x1supp.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "Aligned Data Centers",
+  "forms": null,
+  "range": "2021-01-01..2026-09-18",
+  "total": 10000,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Aligned+Data+Centers%22&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "JNL SERIES TRUST  (CIK 0000933691) NPORT-P",
+    12
+   ],
+   [
+    "Guardian Variable Products Trust  (CIK 0001668512) NPORT-P",
+    11
+   ],
+   [
+    "ADC Holdco, LLC  (CIK 0001872842) ABS-15G",
+    10
+   ],
+   [
+    "METROPOLITAN WEST FUNDS  (CIK 0001028621) NPORT-P",
+    10
+   ],
+   [
+    "North Square Investments Trust  (CIK 0001750821) NPORT-P",
+    9
+   ],
+   [
+    "PIMCO Flexible Real Estate Income Fund  (CIK 0001896329) NPORT-P",
+    7
+   ],
+   [
+    "JOHN HANCOCK STRATEGIC SERIES  (CIK 0000792858) NPORT-P",
+    7
+   ],
+   [
+    "Guggenheim Strategy Funds Trust  (CIK 0001601445) NPORT-P",
+    6
+   ]
+  ],
+  "sample": [
+   [
+    "Aligned IAD Holdings, LLC  (CIK 0002106330)",
+    "D",
+    "2026-01-21",
+    "0002106330-26-000001:primary_doc.xml"
+   ],
+   [
+    "Aligned.AI REIT I, LLC  (CIK 0002106303)",
+    "D",
+    "2026-01-21",
+    "0002106303-26-000001:primary_doc.xml"
+   ],
+   [
+    "ADC Holdco, LLC  (CIK 0001872842)",
+    "ABS-15G",
+    "2021-08-03",
+    "0001208646-21-000046:ex99-1.htm"
+   ],
+   [
+    "ADC Holdco, LLC  (CIK 0001872842)",
+    "ABS-15G",
+    "2022-10-31",
+    "0001193125-22-273828:d369526dex991.htm"
+   ],
+   [
+    "ADC Holdco, LLC  (CIK 0001872842)",
+    "ABS-15G",
+    "2026-06-17",
+    "0001193125-26-274262:d48705dex991.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "Aligned Data Centers",
+  "forms": "10-K",
+  "range": "2021-01-01..2026-09-18",
+  "total": 1188,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Aligned+Data+Centers%22&forms=10-K&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "Morgan Stanley Capital I Trust 2018-L1  (CIK 0001751743) 10-K",
+    1
+   ],
+   [
+    "Benchmark 2020-IG1 Mortgage Trust  (CIK 0001801338) 10-K",
+    1
+   ],
+   [
+    "BBCMS Mortgage Trust 2023-5C23  (CIK 0001998392) 10-K",
+    1
+   ],
+   [
+    "BBCMS Mortgage Trust 2022-C18  (CIK 0001950140) 10-K",
+    1
+   ],
+   [
+    "UBS Commercial Mortgage Trust 2017-C7  (CIK 0001724177) 10-K",
+    1
+   ],
+   [
+    "UBS Commercial Mortgage Trust 2017-C3  (CIK 0001713226) 10-K",
+    1
+   ],
+   [
+    "Benchmark 2023-V3 Mortgage Trust  (CIK 0001982178) 10-K",
+    1
+   ],
+   [
+    "Wells Fargo Commercial Mortgage Trust 2020-C55  (CIK 0001799 10-K",
+    1
+   ]
+  ],
+  "sample": [
+   [
+    "Morgan Stanley Capital I Trust 2018-L1  (CIK 00017",
+    "10-K",
+    "2025-03-27",
+    "0001888524-25-006100:msc18l01_35-7.htm"
+   ],
+   [
+    "Benchmark 2020-IG1 Mortgage Trust  (CIK 0001801338",
+    "10-K",
+    "2025-03-18",
+    "0001888524-25-004829:jpc20ig1_35-5.htm"
+   ],
+   [
+    "BBCMS Mortgage Trust 2023-5C23  (CIK 0001998392)",
+    "10-K",
+    "2025-03-13",
+    "0001888524-25-004513:bcr23c23_35-10.htm"
+   ],
+   [
+    "BBCMS Mortgage Trust 2022-C18  (CIK 0001950140)",
+    "10-K",
+    "2025-03-17",
+    "0001888524-25-004769:bcr22c18_35-4.htm"
+   ],
+   [
+    "UBS Commercial Mortgage Trust 2017-C7  (CIK 000172",
+    "10-K",
+    "2025-03-11",
+    "0001888524-25-004324:ubs17c07_35-2.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "NTT Global Data Centers",
+  "forms": null,
+  "range": "2021-01-01..2026-09-18",
+  "total": 4,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22NTT+Global+Data+Centers%22&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "Social Leverage Acquisition Corp I  (CIK 0001834755) PRER14A",
+    2
+   ],
+   [
+    "GDS Holdings Ltd  (GDS, GDHLF)  (CIK 0001526125) 6-K",
+    1
+   ],
+   [
+    "GDS Holdings Ltd  (GDS, GDHLF)  (CIK 0001526125) 20-F",
+    1
+   ]
+  ],
+  "sample": [
+   [
+    "GDS Holdings Ltd  (GDS, GDHLF)  (CIK 0001526125)",
+    "6-K",
+    "2021-04-12",
+    "0001104659-21-049318:a20-37574_36k.pdf"
+   ],
+   [
+    "GDS Holdings Ltd  (GDS, GDHLF)  (CIK 0001526125)",
+    "20-F",
+    "2021-04-12",
+    "0001104659-21-049104:gds-20201231x20f.htm"
+   ],
+   [
+    "Social Leverage Acquisition Corp I  (CIK 000183475",
+    "PRER14A",
+    "2023-04-07",
+    "0001193125-23-095395:d333945dprer14a.htm"
+   ],
+   [
+    "Social Leverage Acquisition Corp I  (CIK 000183475",
+    "PRER14A",
+    "2023-01-20",
+    "0001193125-23-012097:d333945dprer14a.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "NTT Global Data Centers",
+  "forms": "10-K",
+  "range": "2021-01-01..2026-09-18",
+  "total": 0,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22NTT+Global+Data+Centers%22&forms=10-K&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [],
+  "sample": []
+ },
+ {
+  "phrase": "Cologix",
+  "forms": null,
+  "range": "2021-01-01..2026-09-18",
+  "total": 6401,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Cologix%22&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "AMERICAN CENTURY ETF TRUST  (CIK 0001710607) NPORT-P",
+    13
+   ],
+   [
+    "EATON VANCE MUTUAL FUNDS TRUST  (CIK 0000745463) NPORT-P",
+    12
+   ],
+   [
+    "CALVERT FUND  (CIK 0000701039) NPORT-P",
+    11
+   ],
+   [
+    "DoubleLine Funds Trust  (CIK 0001480207) NPORT-P",
+    9
+   ],
+   [
+    "AMERICAN CENTURY INVESTMENT TRUST  (CIK 0000908406) NPORT-P",
+    8
+   ],
+   [
+    "Cologix US, Inc.  (CIK 0001896619) ABS-15G",
+    7
+   ],
+   [
+    "cfX Inc  (CIK 0001612212) MA-A",
+    6
+   ],
+   [
+    "DoubleLine ETF Trust  (CIK 0001886172) NPORT-P",
+    4
+   ]
+  ],
+  "sample": [
+   [
+    "Stonepeak Cologix Holdings (Lux) SCSp  (CIK 000190",
+    "D",
+    "2022-01-12",
+    "0001901526-22-000001:primary_doc.xml"
+   ],
+   [
+    "Stonepeak Cologix Holdings LP  (CIK 0001892603)",
+    "D",
+    "2021-12-20",
+    "0001892603-21-000001:primary_doc.xml"
+   ],
+   [
+    "Cologix US, Inc.  (CIK 0001896619)",
+    "ABS-15G",
+    "2026-01-26",
+    "0001193125-26-022269:d79509dex991.htm"
+   ],
+   [
+    "Cologix US, Inc.  (CIK 0001896619)",
+    "ABS-15G",
+    "2021-12-01",
+    "0001193125-21-345338:d211499dex991.htm"
+   ],
+   [
+    "CoreCivic, Inc.  (CXW)  (CIK 0001070985)",
+    "8-K",
+    "2025-03-07",
+    "0001193125-25-049990:d891854dex991.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "Cologix",
+  "forms": "10-K",
+  "range": "2021-01-01..2026-09-18",
+  "total": 11,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Cologix%22&forms=10-K&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "SilverSun Technologies, Inc.  (QXO)  (CIK 0001236275) 10-K",
+    3
+   ],
+   [
+    "GUGGENHEIM CREDIT INCOME FUND 2019  (CIK 0001618696) 10-K",
+    2
+   ],
+   [
+    "GUGGENHEIM CREDIT INCOME FUND 2016 T  (CIK 0001618694) 10-K",
+    2
+   ],
+   [
+    "GUGGENHEIM CREDIT INCOME FUND  (CIK 0001618697) 10-K",
+    2
+   ],
+   [
+    "Health Catalyst, Inc.  (HCAT)  (CIK 0001636422) 10-K/A",
+    1
+   ],
+   [
+    "Stonepeak-Plus Infrastructure Fund LP  (CIK 0002045458) 10-K",
+    1
+   ]
+  ],
+  "sample": [
+   [
+    "Health Catalyst, Inc.  (HCAT)  (CIK 0001636422)",
+    "10-K/A",
+    "2025-04-30",
+    "0001636422-25-000051:hcat-20241231.htm"
+   ],
+   [
+    "Stonepeak-Plus Infrastructure Fund LP  (CIK 000204",
+    "10-K",
+    "2026-03-31",
+    "0002045458-26-000012:sp-20251231.htm"
+   ],
+   [
+    "SilverSun Technologies, Inc.  (QXO)  (CIK 00012362",
+    "10-K",
+    "2024-03-14",
+    "0001185185-24-000237:silversun20231231_10k.htm"
+   ],
+   [
+    "GUGGENHEIM CREDIT INCOME FUND 2019  (CIK 000161869",
+    "10-K",
+    "2021-03-17",
+    "0001618696-21-000006:gcif2019form10-k2020.htm"
+   ],
+   [
+    "GUGGENHEIM CREDIT INCOME FUND 2016 T  (CIK 0001618",
+    "10-K",
+    "2021-03-17",
+    "0001618694-21-000005:gcif2016tform10-k2020.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "Flexential",
+  "forms": null,
+  "range": "2021-01-01..2026-09-18",
+  "total": 6956,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Flexential%22&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "Flexential Corp.  (CIK 0001889928) ABS-15G",
+    20
+   ],
+   [
+    "METROPOLITAN WEST FUNDS  (CIK 0001028621) NPORT-P",
+    6
+   ],
+   [
+    "Cavanal Hill Funds  (CIK 0000864508) NPORT-P",
+    3
+   ],
+   [
+    "PIPER SANDLER & CO.  (CIK 0000724683) ATS-N/CA",
+    2
+   ],
+   [
+    "PENN SERIES FUNDS INC  (CIK 0000702340) NPORT-P",
+    2
+   ],
+   [
+    "Partners Group Growth, LLC  (CIK 0001991706) NPORT-P",
+    1
+   ],
+   [
+    "WELLS FARGO INCOME OPPORTUNITIES FUND  (EAD)  (CIK 000121012 NPORT-P",
+    1
+   ],
+   [
+    "BANK 2019-BNK16  (CIK 0001763333) 10-K",
+    1
+   ]
+  ],
+  "sample": [
+   [
+    "Flexential Corp.  (CIK 0001889928)",
+    "ABS-15G",
+    "2023-09-22",
+    "0001140361-23-044914:ef20010949_ex99-1.htm"
+   ],
+   [
+    "Flexential Corp.  (CIK 0001889928)",
+    "ABS-15G",
+    "2023-09-22",
+    "0001140361-23-044915:ef20010951_ex99-1.htm"
+   ],
+   [
+    "Flexential Corp.  (CIK 0001889928)",
+    "ABS-15G",
+    "2025-10-17",
+    "0001140361-25-038432:ef20057185_ex99-1.htm"
+   ],
+   [
+    "Flexential Corp.  (CIK 0001889928)",
+    "ABS-15G",
+    "2025-10-17",
+    "0001140361-25-038429:ef20057184_ex99-1.htm"
+   ],
+   [
+    "Flexential Corp.  (CIK 0001889928)",
+    "ABS-15G",
+    "2026-02-20",
+    "0001140361-26-006248:ef20066177_ex99-1.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "Flexential",
+  "forms": "10-K",
+  "range": "2021-01-01..2026-09-18",
+  "total": 1564,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Flexential%22&forms=10-K&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "BANK 2019-BNK16  (CIK 0001763333) 10-K",
+    1
+   ],
+   [
+    "BBCMS Mortgage Trust 2024-5C25  (CIK 0002013825) 10-K",
+    1
+   ],
+   [
+    "CSAIL 2015-C1 Commercial Mortgage Trust  (CIK 0001634172) 10-K",
+    1
+   ],
+   [
+    "JPMBB Commercial Mortgage Securities Trust 2015-C28  (CIK 00 10-K",
+    1
+   ],
+   [
+    "Morgan Stanley Capital I Trust 2021-L7  (CIK 0001883246) 10-K",
+    1
+   ],
+   [
+    "BMO 2022-C2 Mortgage Trust  (CIK 0001932997) 10-K",
+    1
+   ],
+   [
+    "BBCMS Mortgage Trust 2023-C22  (CIK 0001994342) 10-K",
+    1
+   ],
+   [
+    "CD 2016-CD2 Mortgage Trust  (CIK 0001685054) 10-K",
+    1
+   ]
+  ],
+  "sample": [
+   [
+    "BANK 2019-BNK16  (CIK 0001763333)",
+    "10-K",
+    "2025-03-11",
+    "0001888524-25-004282:wcm19b16_35-3.htm"
+   ],
+   [
+    "BBCMS Mortgage Trust 2024-5C25  (CIK 0002013825)",
+    "10-K",
+    "2025-03-13",
+    "0001888524-25-004438:bcr24c25_35-5.htm"
+   ],
+   [
+    "CSAIL 2015-C1 Commercial Mortgage Trust  (CIK 0001",
+    "10-K",
+    "2025-03-12",
+    "0001888524-25-004401:csc15sa1_35-1.htm"
+   ],
+   [
+    "JPMBB Commercial Mortgage Securities Trust 2015-C2",
+    "10-K",
+    "2025-03-17",
+    "0001888524-25-004764:jpc15c28_35-5.htm"
+   ],
+   [
+    "Morgan Stanley Capital I Trust 2021-L7  (CIK 00018",
+    "10-K",
+    "2025-03-27",
+    "0001888524-25-005782:msc21l07_35-5.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "DataBank",
+  "forms": null,
+  "range": "2021-01-01..2026-09-18",
+  "total": 10000,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22DataBank%22&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "DataBank Holdings Ltd.  (CIK 0001822808) ABS-15G",
+    26
+   ],
+   [
+    "DoubleLine Funds Trust  (CIK 0001480207) NPORT-P",
+    19
+   ],
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI, DBRG-PJ) 8-K",
+    17
+   ],
+   [
+    "MANNING & NAPIER FUND, INC.  (CIK 0000751173) NPORT-P",
+    9
+   ],
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI, DBRG-PJ) 10-Q",
+    7
+   ],
+   [
+    "Centogene N.V.  (CNTGF)  (CIK 0001757097) 6-K",
+    6
+   ],
+   [
+    "DoubleLine ETF Trust  (CIK 0001886172) NPORT-P",
+    4
+   ],
+   [
+    "TRANSAMERICA FUNDS  (CIK 0000787623) NPORT-P",
+    4
+   ]
+  ],
+  "sample": [
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI",
+    "8-K",
+    "2022-06-16",
+    "0001679688-22-000082:dbrg8-k06162022pressrelease.htm"
+   ],
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI",
+    "8-K",
+    "2022-11-04",
+    "0001679688-22-000135:digitalbridge-3q22xearni.htm"
+   ],
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI",
+    "10-Q",
+    "2023-11-03",
+    "0001679688-23-000119:dbrg-20230930.htm"
+   ],
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI",
+    "8-K",
+    "2023-09-14",
+    "0001679688-23-000099:dbrg-20230914.htm"
+   ],
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI",
+    "8-K",
+    "2023-09-14",
+    "0001679688-23-000099:draftdbrgdatabankrecapcomp.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "DataBank",
+  "forms": "10-K",
+  "range": "2021-01-01..2026-09-18",
+  "total": 110,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22DataBank%22&forms=10-K&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "MSCI Inc.  (MSCI)  (CIK 0001408198) 10-K",
+    6
+   ],
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI, DBRG-PJ) 10-K",
+    6
+   ],
+   [
+    "Evofem Biosciences, Inc.  (EVFM)  (CIK 0001618835) 10-K",
+    6
+   ],
+   [
+    "AVENUE THERAPEUTICS, INC.  (ATXI)  (CIK 0001644963) 10-K",
+    6
+   ],
+   [
+    "CONSTELLATION BRANDS, INC.  (STZ)  (CIK 0000016918) 10-K",
+    6
+   ],
+   [
+    "MUSTANG BIO, INC.  (MBIO)  (CIK 0001680048) 10-K",
+    6
+   ],
+   [
+    "CAPRICOR THERAPEUTICS, INC.  (CAPR)  (CIK 0001133869) 10-K",
+    6
+   ],
+   [
+    "Option Care Health, Inc.  (OPCH)  (CIK 0001014739) 10-K",
+    5
+   ]
+  ],
+  "sample": [
+   [
+    "MSCI Inc.  (MSCI)  (CIK 0001408198)",
+    "10-K",
+    "2021-02-12",
+    "0001564590-21-005811:msci-ex211_209.htm"
+   ],
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI",
+    "10-K",
+    "2024-02-23",
+    "0001679688-24-000021:dbrg-20231231.htm"
+   ],
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI",
+    "10-K",
+    "2023-02-27",
+    "0001679688-23-000017:dbrg-20221231.htm"
+   ],
+   [
+    "DigitalBridge Group, Inc.  (DBRG, DBRG-PH, DBRG-PI",
+    "10-K",
+    "2022-02-28",
+    "0001679688-22-000008:dbrg-20211231.htm"
+   ],
+   [
+    "Colony Capital, Inc.  (DBRG, DBRG-PH, DBRG-PI, DBR",
+    "10-K",
+    "2021-03-01",
+    "0001679688-21-000018:clny-20201231.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "colocation",
+  "forms": "ABS-15G",
+  "range": "2021-01-01..2026-09-18",
+  "total": 33,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22colocation%22&forms=ABS-15G&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "Switch, Ltd.  (CIK 0002009131) ABS-15G",
+    10
+   ],
+   [
+    "ADC Holdco, LLC  (CIK 0001872842) ABS-15G",
+    5
+   ],
+   [
+    "SBA Depositor, LLC  (CIK 0001654193) ABS-15G",
+    4
+   ],
+   [
+    "Phoenix Data Center Acquisitions LLC  (CIK 0002025997) ABS-15G",
+    4
+   ],
+   [
+    "CyrusOne LP  (CIK 0001575810) ABS-15G",
+    3
+   ],
+   [
+    "CyrusOne Data Centers Issuer I LLC  (CIK 0001970578) ABS-15G",
+    2
+   ],
+   [
+    "CITIGROUP COMMERCIAL MORTGAGE SECURITIES INC  (CIK 000125836 ABS-15G",
+    1
+   ],
+   [
+    "Morgan Stanley Capital I Inc.  (CIK 0001547361) ABS-15G",
+    1
+   ]
+  ],
+  "sample": [
+   [
+    "CITIGROUP COMMERCIAL MORTGAGE SECURITIES INC  (CIK",
+    "ABS-15G",
+    "2026-06-23",
+    "0001539497-26-001842:n5985_x1-ex991.htm"
+   ],
+   [
+    "SBA Depositor, LLC  (CIK 0001654193)",
+    "ABS-15G",
+    "2022-11-07",
+    "0000950142-22-003110:eh220302673_ex9903.htm"
+   ],
+   [
+    "SBA Depositor, LLC  (CIK 0001654193)",
+    "ABS-15G",
+    "2024-08-28",
+    "0000950142-24-002282:eh240524795_ex9902.htm"
+   ],
+   [
+    "SBA Depositor, LLC  (CIK 0001654193)",
+    "ABS-15G",
+    "2021-10-01",
+    "0000950142-21-003035:eh210188688_ex9902.htm"
+   ],
+   [
+    "SBA Depositor, LLC  (CIK 0001654193)",
+    "ABS-15G",
+    "2021-04-21",
+    "0000950142-21-001335:eh210146318_ex9902.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "data center",
+  "forms": "ABS-EE",
+  "range": "2021-01-01..2026-09-18",
+  "total": 123,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22data+center%22&forms=ABS-EE&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "BBCMS Mortgage Trust 2019-C5  (CIK 0001790441) ABS-EE",
+    51
+   ],
+   [
+    "BBCMS Mortgage Trust 2023-C19  (CIK 0001966434) ABS-EE",
+    19
+   ],
+   [
+    "BBCMS Mortgage Trust 2025-5C33  (CIK 0002055003) ABS-EE",
+    14
+   ],
+   [
+    "Benchmark 2025-V13 Mortgage Trust  (CIK 0002049534) ABS-EE",
+    9
+   ],
+   [
+    "BBCMS 2023-C20  (CIK 0001981769) ABS-EE",
+    5
+   ],
+   [
+    "CITIGROUP COMMERCIAL MORTGAGE SECURITIES INC  (CIK 000125836 ABS-EE",
+    1
+   ],
+   [
+    "? ABS-EE",
+    1
+   ]
+  ],
+  "sample": [
+   [
+    "BBCMS Mortgage Trust 2019-C5  (CIK 0001790441)",
+    "ABS-EE",
+    "2024-07-30",
+    "0001888524-24-011190:exh_103.xml"
+   ],
+   [
+    "BBCMS Mortgage Trust 2019-C5  (CIK 0001790441)",
+    "ABS-EE",
+    "2024-05-29",
+    "0001888524-24-007632:exh_103.xml"
+   ],
+   [
+    "BBCMS Mortgage Trust 2019-C5  (CIK 0001790441)",
+    "ABS-EE",
+    "2026-06-30",
+    "0001888524-26-011796:exh_103.xml"
+   ],
+   [
+    "BBCMS Mortgage Trust 2019-C5  (CIK 0001790441)",
+    "ABS-EE",
+    "2022-03-31",
+    "0001888524-22-004081:exh_103.xml"
+   ],
+   [
+    "BBCMS Mortgage Trust 2019-C5  (CIK 0001790441)",
+    "ABS-EE",
+    "2023-12-26",
+    "0001888524-23-017424:exh_103.xml"
+   ]
+  ]
+ },
+ {
+  "phrase": "Vantage Data Centers Issuer",
+  "forms": null,
+  "range": "2021-01-01..2026-09-18",
+  "total": 10000,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Vantage+Data+Centers+Issuer%22&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "Frost Family of Funds  (CIK 0001762332) NPORT-P",
+    10
+   ],
+   [
+    "Retained Vantage Data Centers, LP  (CIK 0001973889) ABS-15G",
+    9
+   ],
+   [
+    "CALVERT FUND  (CIK 0000701039) NPORT-P",
+    9
+   ],
+   [
+    "PAYDEN & RYGEL INVESTMENT GROUP  (CIK 0000885709) NPORT-P",
+    8
+   ],
+   [
+    "AMERICAN CENTURY ETF TRUST  (CIK 0001710607) NPORT-P",
+    8
+   ],
+   [
+    "Vantage Data Centers Holdings, LLC  (CIK 0001727983) ABS-15G",
+    7
+   ],
+   [
+    "DoubleLine ETF Trust  (CIK 0001886172) NPORT-P",
+    5
+   ],
+   [
+    "STERLING CAPITAL FUNDS  (CIK 0000889284) NPORT-P",
+    5
+   ]
+  ],
+  "sample": [
+   [
+    "DoubleLine ETF Trust  (CIK 0001886172)",
+    "NPORT-P",
+    "2026-02-20",
+    "0002071691-26-002182:primary_doc.xml"
+   ],
+   [
+    "DoubleLine ETF Trust  (CIK 0001886172)",
+    "NPORT-P",
+    "2026-05-28",
+    "0002071691-26-012532:primary_doc.xml"
+   ],
+   [
+    "DoubleLine ETF Trust  (CIK 0001886172)",
+    "NPORT-P",
+    "2025-08-22",
+    "0001752724-25-197833:primary_doc.xml"
+   ],
+   [
+    "DoubleLine ETF Trust  (CIK 0001886172)",
+    "NPORT-P",
+    "2026-08-20",
+    "0002071691-26-018695:primary_doc.xml"
+   ],
+   [
+    "STERLING CAPITAL FUNDS  (CIK 0000889284)",
+    "NPORT-P",
+    "2026-03-02",
+    "0000910472-26-003719:primary_doc.xml"
+   ]
+  ]
+ },
+ {
+  "phrase": "DataBank Issuer",
+  "forms": null,
+  "range": "2021-01-01..2026-09-18",
+  "total": 10000,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22DataBank+Issuer%22&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "MANNING & NAPIER FUND, INC.  (CIK 0000751173) NPORT-P",
+    42
+   ],
+   [
+    "DoubleLine Funds Trust  (CIK 0001480207) NPORT-P",
+    23
+   ],
+   [
+    "BNY Mellon Investment Funds VII, Inc.  (CIK 0000889169) NPORT-P",
+    14
+   ],
+   [
+    "TRANSAMERICA FUNDS  (CIK 0000787623) NPORT-P",
+    12
+   ],
+   [
+    "DoubleLine ETF Trust  (CIK 0001886172) NPORT-P",
+    4
+   ],
+   [
+    "BNY Mellon Investment Funds III  (CIK 0000053808) NPORT-P",
+    2
+   ],
+   [
+    "MANNING & NAPIER FUND, INC.  (CIK 0000751173) NPORT-P/A",
+    1
+   ],
+   [
+    "DataBank Holdings Ltd.  (CIK 0001822808) ABS-15G",
+    1
+   ]
+  ],
+  "sample": [
+   [
+    "DoubleLine Funds Trust  (CIK 0001480207)",
+    "NPORT-P",
+    "2023-11-24",
+    "0001145549-23-070140:primary_doc.xml"
+   ],
+   [
+    "DoubleLine Funds Trust  (CIK 0001480207)",
+    "NPORT-P",
+    "2026-02-26",
+    "0001193125-26-075578:primary_doc.xml"
+   ],
+   [
+    "DoubleLine Funds Trust  (CIK 0001480207)",
+    "NPORT-P",
+    "2024-11-27",
+    "0001145549-24-076355:primary_doc.xml"
+   ],
+   [
+    "DoubleLine Funds Trust  (CIK 0001480207)",
+    "NPORT-P",
+    "2023-08-29",
+    "0001145549-23-055099:primary_doc.xml"
+   ],
+   [
+    "DoubleLine Funds Trust  (CIK 0001480207)",
+    "NPORT-P",
+    "2023-05-26",
+    "0001145549-23-033801:primary_doc.xml"
+   ]
+  ]
+ },
+ {
+  "phrase": "Stack Infrastructure Issuer",
+  "forms": null,
+  "range": "2021-01-01..2026-09-18",
+  "total": 9763,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Stack+Infrastructure+Issuer%22&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "CALVERT FUND  (CIK 0000701039) NPORT-P",
+    20
+   ],
+   [
+    "Tributary Funds, Inc.  (CIK 0000932381) NPORT-P",
+    15
+   ],
+   [
+    "Blue Owl Digital Infrastructure Trust  (CIK 0002069692) 10-K",
+    10
+   ],
+   [
+    "PAYDEN & RYGEL INVESTMENT GROUP  (CIK 0000885709) NPORT-P",
+    9
+   ],
+   [
+    "DoubleLine Funds Trust  (CIK 0001480207) NPORT-P",
+    8
+   ],
+   [
+    "Calvert Management Series  (CIK 0000319676) NPORT-P",
+    6
+   ],
+   [
+    "STACK INFRASTRUCTURE PARENT, LLC  (CIK 0001765411) ABS-15G",
+    6
+   ],
+   [
+    "Short Duration Inflation-Protected Income Portfolio  (CIK 00 NPORT-P",
+    5
+   ]
+  ],
+  "sample": [
+   [
+    "Blue Owl Digital Infrastructure Trust  (CIK 000206",
+    "8-K",
+    "2026-03-05",
+    "0002069692-26-000012:osnl-20260303.htm"
+   ],
+   [
+    "DoubleLine Funds Trust  (CIK 0001480207)",
+    "NPORT-P",
+    "2022-11-28",
+    "0001145549-22-072360:primary_doc.xml"
+   ],
+   [
+    "DoubleLine Funds Trust  (CIK 0001480207)",
+    "NPORT-P",
+    "2021-02-24",
+    "0001145549-21-010062:primary_doc.xml"
+   ],
+   [
+    "PAYDEN & RYGEL INVESTMENT GROUP  (CIK 0000885709)",
+    "NPORT-P",
+    "2023-12-20",
+    "0001752724-23-286856:primary_doc.xml"
+   ],
+   [
+    "DoubleLine Funds Trust  (CIK 0001480207)",
+    "NPORT-P",
+    "2021-05-28",
+    "0001145549-21-033435:primary_doc.xml"
+   ]
+  ]
+ },
+ {
+  "phrase": "cross-connects",
+  "forms": "10-K",
+  "range": "2021-01-01..2026-09-18",
+  "total": 30,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22cross-connects%22&forms=10-K&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "EQUINIX INC  (EQIX)  (CIK 0001101239) 10-K",
+    6
+   ],
+   [
+    "Interactive Brokers Group, Inc.  (IBKR)  (CIK 0001381197) 10-K",
+    6
+   ],
+   [
+    "DIGITAL REALTY TRUST, INC.  (DLR, DLR-PJ, DLR-PK, DLR-PL)  ( 10-K",
+    4
+   ],
+   [
+    "WhiteFiber, Inc.  (WYFI)  (CIK 0002042022) 10-K",
+    2
+   ],
+   [
+    "Cyxtera Technologies, Inc.  (CIK 0001794905) 10-K",
+    2
+   ],
+   [
+    "Switch, Inc.  (CIK 0001710583) 10-K",
+    2
+   ],
+   [
+    "CyrusOne Inc.  (CIK 0001553023) 10-K",
+    2
+   ],
+   [
+    "Altice USA, Inc.  (ATUS)  (CIK 0001702780) 10-K",
+    2
+   ]
+  ],
+  "sample": [
+   [
+    "WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)",
+    "10-K",
+    "2026-03-26",
+    "0001213900-26-034341:ea027830501ex10-29.htm"
+   ],
+   [
+    "Cyxtera Technologies, Inc.  (CIK 0001794905)",
+    "10-K",
+    "2022-03-25",
+    "0001794905-22-000022:cyxt-20211231.htm"
+   ],
+   [
+    "Switch, Inc.  (CIK 0001710583)",
+    "10-K",
+    "2022-03-01",
+    "0001710583-22-000009:swch-20211231.htm"
+   ],
+   [
+    "Switch, Inc.  (CIK 0001710583)",
+    "10-K",
+    "2021-03-01",
+    "0001710583-21-000013:swch-20201231.htm"
+   ],
+   [
+    "Cyxtera Technologies, Inc.  (CIK 0001794905)",
+    "10-K",
+    "2023-03-16",
+    "0001794905-23-000010:cyxt-20221231.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "interconnection revenue",
+  "forms": "10-K",
+  "range": "2021-01-01..2026-09-18",
+  "total": 25,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22interconnection+revenue%22&forms=10-K&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "DIGITAL REALTY TRUST, INC.  (DLR, DLR-PJ, DLR-PK, DLR-PL)  ( 10-K",
+    7
+   ],
+   [
+    "EQUINIX INC  (EQIX)  (CIK 0001101239) 10-K",
+    6
+   ],
+   [
+    "AMERICAN TOWER CORP /MA/  (AMT)  (CIK 0001053507) 10-K",
+    3
+   ],
+   [
+    "COGENT COMMUNICATIONS HOLDINGS, INC.  (CCOI)  (CIK 000115832 10-K",
+    3
+   ],
+   [
+    "CyrusOne Inc.  (CIK 0001553023) 10-K",
+    2
+   ],
+   [
+    "Cyxtera Technologies, Inc.  (CIK 0001794905) 10-K",
+    2
+   ],
+   [
+    "CoreSite Realty Corp  (CIK 0001490892) 10-K",
+    1
+   ],
+   [
+    "OTELCO INC.  (CIK 0001288359) 10-K",
+    1
+   ]
+  ],
+  "sample": [
+   [
+    "CoreSite Realty Corp  (CIK 0001490892)",
+    "10-K",
+    "2021-02-05",
+    "0001558370-21-000757:cor-20201231x10k.htm"
+   ],
+   [
+    "DIGITAL REALTY TRUST, INC.  (DLR, DLR-PJ, DLR-PK, ",
+    "10-K",
+    "2024-02-23",
+    "0001558370-24-001575:dlr-20231231xex10d60.htm"
+   ],
+   [
+    "CyrusOne Inc.  (CIK 0001553023)",
+    "10-K",
+    "2022-02-17",
+    "0001553023-22-000009:cone-20211231.htm"
+   ],
+   [
+    "CyrusOne Inc.  (CIK 0001553023)",
+    "10-K",
+    "2021-02-19",
+    "0001553023-21-000012:cone-20201231.htm"
+   ],
+   [
+    "EQUINIX INC  (EQIX)  (CIK 0001101239)",
+    "10-K",
+    "2026-02-11",
+    "0001101239-26-000032:eqix-20251231.htm"
+   ]
+  ]
+ },
+ {
+  "phrase": "colocation pricing",
+  "forms": "10-K",
+  "range": "2021-01-01..2026-09-18",
+  "total": 0,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22colocation+pricing%22&forms=10-K&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [],
+  "sample": []
+ },
+ {
+  "phrase": "oversupply",
+  "forms": "10-K",
+  "range": "2021-01-01..2026-09-18",
+  "total": 2606,
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22oversupply%22&forms=10-K&dateRange=custom&startdt=2021-01-01&enddt=2026-09-18",
+  "top_entities": [
+   [
+    "Seneca Foods Corp  (SENEA, SENEB, SENEL, SENEM)  (CIK 000008 10-K",
+    6
+   ],
+   [
+    "DIAMOND OFFSHORE DRILLING, INC.  (DO, DODRW)  (CIK 000094903 10-K",
+    4
+   ],
+   [
+    "HYDROFARM HOLDINGS GROUP, INC.  (HYFM)  (CIK 0001695295) 10-K",
+    4
+   ],
+   [
+    "SCOTTS MIRACLE-GRO CO  (SMG)  (CIK 0000825542) 10-K",
+    4
+   ],
+   [
+    "LAKE AREA CORN PROCESSORS LLC  (CIK 0001156174) 10-K",
+    4
+   ],
+   [
+    "CAL-MAINE FOODS INC  (CALM)  (CIK 0000016160) 10-K",
+    4
+   ],
+   [
+    "AIR LEASE CORP  (AL, AL-PA)  (CIK 0001487712) 10-K",
+    4
+   ],
+   [
+    "INDEPENDENCE REALTY TRUST, INC.  (IRT)  (CIK 0001466085) 10-K",
+    4
+   ]
+  ],
+  "sample": [
+   [
+    "DIAMOND OFFSHORE DRILLING, INC.  (DO, DODRW)  (CIK",
+    "10-K",
+    "2021-02-10",
+    "0001564590-21-005225:do-10k_20201231.htm"
+   ],
+   [
+    "HYDROFARM HOLDINGS GROUP, INC.  (HYFM)  (CIK 00016",
+    "10-K",
+    "2026-03-27",
+    "0001695295-26-000010:hyfm-20251231.htm"
+   ],
+   [
+    "Fortress Transportation & Infrastructure Investors",
+    "10-K",
+    "2021-02-26",
+    "0001590364-21-000002:ftai-20201231.htm"
+   ],
+   [
+    "FTAI Aviation Ltd.  (FTAI, FTAIM, FTAIN, FTAIO, FT",
+    "10-K",
+    "2023-02-27",
+    "0001590364-23-000007:ftai-20221231.htm"
+   ],
+   [
+    "FTAI Aviation Ltd.  (FTAI, FTAIM, FTAIN, FTAIO, FT",
+    "10-K",
+    "2024-02-26",
+    "0001590364-24-000003:ftai-20231231.htm"
+   ]
+  ]
+ }
+]

@@ -1,0 +1,44 @@
+==============================================================================
+SHOE STATION GROUP INC  (SHOE)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.63%   10/02/2026   US Treasury daily par yield curve
+  price     12.77 USD   2026-10-05   (aggregator — live quote only)
+  shares    27.2M      market cap 0.35B USD
+  share basis: dei cover-page count as of 2026-09-04
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2024-02-03        123        5        29         56         62         89
+    2025-02-01        103        8        31         33         62         64
+    2026-01-31         71        7        34         45         19         30
+          mean                                                  48         61
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 44 .. 66   yield 12.75%..18.90%
+  DIVERGENCE vs the 3-yr window: -6.9% on the conservative end
+
+  1. THE YIELD                 13.70% .. 17.53%   vs sovereign 5.63%
+  2. GROWTH THE PRICE ASSUMES  -28.2%  (at a 5.63% rate)
+  3. POINTS OVER THE SOVEREIGN +11.16 .. +15.14
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles    retained
+    2017-01-28           458         140         319          63           4         280           -           -         313
+    2018-02-03           416         108         307          48           6         260           -           -         327
+    2019-02-02           418         114         304          67           1         258           -           -         360
+    2020-02-01           628         331         297          62           3         259           -           -         396
+    2021-01-30           643         333         310         107           7         233           0           0         407
+    2022-01-29           812         360         453         117          14         285          11          33         553
+    2023-01-28           990         464         526          51           3         390          12          33         653
+    2024-02-03         1,042         459         583          99           3         346          12          33         715
+    2025-02-01         1,124         475         649         109           9         386          18          41         773
+    2026-01-31         1,202         512         690         117           6         440          18          41         809
+    accessions: 0000950170-22-004674, 0000950170-23-009730, 0000950170-24-035337, 0000950170-25-043195, 0001174947-17-000491, 0001174947-18-000534, 0001193125-26-126279, 0001564590-19-010585, 0001564590-20-014433, 0001564590-21-015810
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

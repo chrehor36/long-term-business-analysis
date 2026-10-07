@@ -1,0 +1,50 @@
+CL run: Q5 and Q6 recorded - Q1-Q4 all IN, Q5 BELOW the [E4-28] floor at $87.73, NOT RANKED
+
+Q5 output is reportable: the hard sequence was satisfied first (operator protocol 2), so no
+COMPUTATION - NOT A CLEARANCE banner is carried.
+
+THE PAIR WAS STRUCK FRESH AND BOTH PAIRS ARE RECORDED, per [E4-15].
+- Step 0, 2026-09-13, left as filed and NOT used: USD 5.35% (09/11/2026), $86.80 (2026-09-11),
+  cap $69,194.6M.
+- Struck 2026-09-18 and used for every figure: sovereign USD 30-year 5.29%, 09/17/2026, US
+  Treasury daily par yield curve through tools/sources.py sovereign("USD") - the issuing
+  authority, not FRED; price US$87.73, close of 2026-09-17, aggregator, flagged. Share count
+  re-confirmed at 797,172,829 from the 10-Q cover 0000021665-26-000042. EDGAR re-queried
+  2026-09-18: the only filings since 2026-09-13 are eight Forms 4 dated 2026-09-15, all code F,
+  RSU-vesting tax withholding, no open-market sale and no new periodic filing. Market cap
+  recomputed: 87.73 x 797,172,829 x 1.0 = US$69,936.0M.
+- Incidental cross-check worth keeping: those Forms 4 report the withholding at $86.80 on
+  2026-09-11, the identical figure the aggregator gave Step 0 for that date - a primary-filing
+  confirmation of an aggregator quote.
+
+THE ARITHMETIC (resume/q5.py). On EVERY window the owner-earnings yield is BELOW the
+thirty-year Treasury: 3.83% / 3.92% / 4.05% / 4.67% / 5.26% against 5.29%, or -1.46 to -0.03
+points. Multiple 19.0x to 26.1x. Adding the realised 2016-2025 growth in owner earnings per
+diluted share (+5.3%/yr, granted at face value) gives an expectancy of 9.13% to 10.56%; on the
+[E2-42] default five-year window it is 9.35%, which is 0.65 points BELOW the ~10% floor. Only
+the trailing-twelve-months reading, a single year rather than a mean, clears.
+
+What the price assumes: about 5.95%/yr of perpetual growth in owner earnings per share just to
+reach the floor, against a record of +5.3%/yr of which 1.1 points a year came from the share
+count and the rest from price, with units up 7.7 points in ten years. [E4-35] is NOT the
+binding constraint and is not misapplied - 5.95% is not a 15% claim - but [E4-44]'s ceiling is,
+and [E2-63]'s bound is named: returns on tangible operating capital are already 79-101% and
+cannot usefully rise.
+
+Value range in round numbers [E4-01]: roughly $50 to $75 a share on the default five-year
+window, widening to roughly $50 to $90 only if the three-year window and the full decade growth
+rate are both granted at once. The quote is $87.73. No end margin is subtracted on top, because
+Q4 already spent conservatism twice and counted it; stacking a third is the [E4-11] error. Bar
+2 returns "no": the conservative end is about $48-$51 and nothing screams.
+
+VERDICT: the business is IN and the price is not. BELOW THE [E4-28] FLOOR, NOT RANKED,
+WATCH-LIST ONLY - the ASML (2026-08-28) and PNR (2026-09-01) shape.
+
+Q6 sets the yardsticks prior to the act [E1-02]: two price lines, $75.61 (the floor met with
+the full 5.3% growth granted) and $50.77 (the floor met on g = 3.0%, the growth the
+hard-currency pricing record and the buyback actually support), each a prompt for a full re-run
+and not a purchase; five business falsifiers of the Q2 verdict read annually off the 10-K
+[E4-17]; three of Q3 and two of Q4. Standing note: no band repairs a gate, and a fall to
+$50.77 on a business that has failed a Q2 falsifier is a re-rating, not an opportunity [E5-08].
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

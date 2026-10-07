@@ -1,0 +1,143 @@
+{
+ "rows": {
+  "2023": {
+   "OCF": 393,
+   "SBC": 20,
+   "dep": 12,
+   "capex": 18,
+   "rp_wc": 17,
+   "OE_at_DA": 361,
+   "OE_at_capex": 355,
+   "OE_at_capex_ex_rp": 338
+  },
+  "2024": {
+   "OCF": 427,
+   "SBC": 28,
+   "dep": 13,
+   "capex": 15,
+   "rp_wc": -5,
+   "OE_at_DA": 386,
+   "OE_at_capex": 384,
+   "OE_at_capex_ex_rp": 389
+  },
+  "2025": {
+   "OCF": 485,
+   "SBC": 22,
+   "dep": 14,
+   "capex": 24,
+   "rp_wc": 14,
+   "OE_at_DA": 449,
+   "OE_at_capex": 439,
+   "OE_at_capex_ex_rp": 425
+  },
+  "TTM": {
+   "OCF": 441,
+   "SBC": 22,
+   "dep": 14,
+   "capex": 28,
+   "rp_wc": -27,
+   "OE_at_DA": 405,
+   "OE_at_capex": 391,
+   "OE_at_capex_ex_rp": 418
+  }
+ },
+ "windows": {
+  "3yr 2023-25": {
+   "OE_at_DA": 398.7,
+   "OE_at_capex": 392.7,
+   "OE_at_capex_ex_rp": 384.0,
+   "carveout_interest_paid": 16.3
+  },
+  "2yr 2024-25": {
+   "OE_at_DA": 417.5,
+   "OE_at_capex": 411.5,
+   "OE_at_capex_ex_rp": 407.0,
+   "carveout_interest_paid": 15.5
+  },
+  "FY2025": {
+   "OE_at_DA": 449.0,
+   "OE_at_capex": 439.0,
+   "OE_at_capex_ex_rp": 425.0,
+   "carveout_interest_paid": 14.0
+  },
+  "TTM Jun-26": {
+   "OE_at_DA": 405.0,
+   "OE_at_capex": 391.0,
+   "OE_at_capex_ex_rp": 418.0,
+   "carveout_interest_paid": 14.0
+  }
+ },
+ "bridge": {
+  "coupons_pretax": 110.6,
+  "coupons_after_tax": 81.8,
+  "standalone_after_tax_lo": 14.8,
+  "standalone_after_tax_hi": 19.2,
+  "standup_annual_lo": 13.1,
+  "standup_annual_hi": 17.4
+ },
+ "standalone": {
+  "3yr 2023-25": {
+   "optimistic (D&A c, rp in, low costs)": 301.1,
+   "conservative (capex c, rp out, high costs)": 277.7
+  },
+  "2yr 2024-25": {
+   "optimistic (D&A c, rp in, low costs)": 319.3,
+   "conservative (capex c, rp out, high costs)": 300.1
+  },
+  "FY2025": {
+   "optimistic (D&A c, rp in, low costs)": 349.7,
+   "conservative (capex c, rp out, high costs)": 317.0
+  },
+  "TTM Jun-26": {
+   "optimistic (D&A c, rp in, low costs)": 305.7,
+   "conservative (capex c, rp out, high costs)": 310.0
+  }
+ },
+ "range": [
+  277.7,
+  349.7
+ ],
+ "q5": {
+  "cap_$M": 5943.6,
+  "yield_lo_%": 4.67,
+  "yield_hi_%": 5.88,
+  "growth_needed_for_10pct_floor_lo_%": 4.12,
+  "growth_needed_for_10pct_floor_hi_%": 5.33,
+  "value_per_share_lo_hi": {
+   "floor10_g0": [
+    9.42,
+    11.86
+   ],
+   "sov_g0": [
+    17.61,
+    22.17
+   ],
+   "floor10_g3": [
+    13.86,
+    17.45
+   ],
+   "sov_g3": [
+    41.28,
+    51.99
+   ],
+   "floor10_g5": [
+    19.78,
+    24.91
+   ],
+   "sov_g5": [
+    282.58,
+    355.84
+   ],
+   "floor10_g6": [
+    24.96,
+    31.43
+   ]
+  }
+ },
+ "q4": {
+  "gross_debt_over_2025_OCF": 4.12,
+  "net_debt_$M": 1814.0,
+  "interest_cover_on_OE_before_interest": 4.39,
+  "dividend_annual_$M": 70.8
+ }
+}

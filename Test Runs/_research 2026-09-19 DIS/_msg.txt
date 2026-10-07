@@ -1,0 +1,15 @@
+SURVIVAL SHAPES: DIS added to #10 and #1, and IBM backfilled into #10
+
+No new shape is proposed by the DIS run. It named shape #10 THE CAMOUFLAGE as the mechanism
+with #1 CONTRACTED NOT TO STOP as a feature, and both rows are updated with the filed figures
+so that later briefs count correctly - which is the reason the index exists (the GFS finding of
+2026-09-13, that briefs had been quoting stale counts).
+
+Also backfilled: **IBM (2026-09-19) named #10 in its own run file and its fold did not update
+this index** - the same omission the index already records for RIVN and TSLA, and it is fixed
+the same way, by the next session that touched the file, with the attribution stated in the
+cell. The run file remains the authority.
+
+check_framework.py PASSES.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

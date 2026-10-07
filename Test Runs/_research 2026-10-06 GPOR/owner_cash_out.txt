@@ -1,0 +1,39 @@
+year   OCF    SBC  capex   pref  cashPSU  OWNER(capex)  OWNER(D&A)  per Mcfe
+2021c   465.2   3.2  309.4   1.5    0.0       151.1       236.8    0.41
+2022    739.1   5.7  460.8   5.4    0.0       267.2       460.2    0.74
+2023    723.2   9.5  537.4   4.8    0.0       171.5       389.2    0.45
+2024    650.0  11.0  454.1   4.2    0.0       180.7       309.1    0.47
+2025    803.2  12.2  527.6   1.7   12.3       249.4       472.8    0.66
+5-yr mean owner cash (all capex) 204.0; D&A variant 373.6; 4 successor full years 217.2
+pred 2014 -928.3
+pred 2015 -1265.5
+pred 2016 -394.5
+pred 2017 -391.2
+pred 2018 -119.6
+pred 2019 -1.0
+pred 2020 -272.0
+pred 2014-2020 sum -3372.1
+owner cash CAGR 2021c->2025 13.3 %
+production CAGR 2022->2025 (983 -> 1,039 MMcfe/d) 1.86 %
+5yr mean: base 204.0  no-growth 3604 ($203.80/sh)  shown-growth(prod 1.86%) 4177 ($236.19/sh)
+   shown growth on owner cash 13.3% x10y then flat: 10336 ($584.51/sh)
+   reserve-life variant 11 yrs then zero: 1637 ($92.58/sh)
+   reserve-life variant 15 yrs then zero: 2026 ($114.56/sh)
+   reserve-life variant 20 yrs then zero: 2406 ($136.03/sh)
+4yr successor: base 217.2  no-growth 3837 ($217.00/sh)  shown-growth(prod 1.86%) 4448 ($251.50/sh)
+   shown growth on owner cash 13.3% x10y then flat: 11006 ($622.39/sh)
+   reserve-life variant 11 yrs then zero: 1743 ($98.58/sh)
+   reserve-life variant 15 yrs then zero: 2157 ($121.98/sh)
+   reserve-life variant 20 yrs then zero: 2562 ($144.85/sh)
+realized incl hedges: 2015-2025 mean 3.10; 2021-2025 mean 3.34
+maintenance capex per Mcfe (2026 guide midpoint over guided volume) 1.091
+  price 2.60: pre-tax owner cash 4M; perpetuity at 5.66% 63M ($3.55/sh); 10% pre-tax price $2.01/sh
+  price 2.94: pre-tax owner cash 132M; perpetuity at 5.66% 2341M ($132.36/sh); 10% pre-tax price $74.92/sh
+  price 3.10: pre-tax owner cash 193M; perpetuity at 5.66% 3413M ($192.98/sh); 10% pre-tax price $109.22/sh
+  price 3.30: pre-tax owner cash 269M; perpetuity at 5.66% 4752M ($268.75/sh); 10% pre-tax price $152.11/sh
+  price 3.64: pre-tax owner cash 398M; perpetuity at 5.66% 7030M ($397.56/sh); 10% pre-tax price $225.02/sh
+fair (10% pre-tax on equity, no growth) from 5yr mean: $115.35/sh
+fair (10% pre-tax on equity, no growth) from 4yr successor: $122.82/sh
+fair on EV basis (owner cash + interest)/10% - net debt, 5yr: 101.09
+cheap: PDP PV-10 less net debt 84.59
+market cap at 157.84 2791.0

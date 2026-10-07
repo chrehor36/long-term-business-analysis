@@ -1,0 +1,64 @@
+== CRM
+  2016-01-31  revenue      6,667M  op income        115M  margin   1.7%  0001108524-16-000053
+  2017-01-31  revenue      8,437M  op income         64M  margin   0.8%  0001108524-19-000009
+  2018-01-31  revenue     10,540M  op income        236M  margin   2.2%  0001108524-19-000009
+  2019-01-31  revenue     13,282M  op income        535M  margin   4.0%  0001108524-19-000009
+  2020-01-31  revenue     17,098M  op income        297M  margin   1.7%  0001108524-20-000014
+  2021-01-31  revenue     21,252M  op income        455M  margin   2.1%  0001108524-21-000014
+  2022-01-31  revenue     26,492M  op income        548M  margin   2.1%  0001108524-22-000013
+  2023-01-31  revenue     31,352M  op income       1030M  margin   3.3%  0001108524-23-000011
+  2024-01-31  revenue     34,857M  op income       5011M  margin  14.4%  0001108524-24-000005
+  2025-01-31  revenue     37,895M  op income       7205M  margin  19.0%  0001108524-25-000006
+  2026-01-31  revenue     41,525M  op income       8331M  margin  20.1%  0001108524-26-000060
+== MSFT
+  2016-06-30  revenue     91,154M  op income      20182M  margin  22.1%  0001564590-18-019062
+  2017-06-30  revenue     96,571M  op income      22326M  margin  23.1%  0001564590-18-019062
+  2018-06-30  revenue    110,360M  op income      35058M  margin  31.8%  0001564590-18-019062
+  2019-06-30  revenue    125,843M  op income      42959M  margin  34.1%  0001564590-19-027952
+  2020-06-30  revenue    143,015M  op income      52959M  margin  37.0%  0001564590-20-034944
+  2021-06-30  revenue    168,088M  op income      69916M  margin  41.6%  0001564590-21-039151
+  2022-06-30  revenue    198,270M  op income      83383M  margin  42.1%  0001564590-22-026876
+  2023-06-30  revenue    211,915M  op income      88523M  margin  41.8%  0000950170-23-035122
+  2024-06-30  revenue    245,122M  op income     109433M  margin  44.6%  0000950170-24-087843
+  2025-06-30  revenue    281,724M  op income     128528M  margin  45.6%  0000950170-25-100235
+  2026-06-30  revenue    331,839M  op income     155237M  margin  46.8%  0001193125-26-323660
+  latest 10-K 2026-07-29 0001193125-26-323660 msft-20260630.htm saved
+== NOW
+  2015-12-31  revenue      1,005M  op income       -166M  margin -16.5%  0001373715-16-000324
+  2016-12-31  revenue      1,391M  op income       -423M  margin -30.4%  0001373715-19-000070
+  2017-12-31  revenue      1,918M  op income       -101M  margin  -5.3%  0001373715-19-000070
+  2018-12-31  revenue      2,609M  op income        -42M  margin  -1.6%  0001373715-19-000070
+  2019-12-31  revenue      3,460M  op income         42M  margin   1.2%  0001373715-20-000072
+  2020-12-31  revenue      4,519M  op income        199M  margin   4.4%  0001373715-21-000061
+  2021-12-31  revenue      5,896M  op income        257M  margin   4.4%  0001373715-22-000024
+  2022-12-31  revenue      7,245M  op income        355M  margin   4.9%  0001373715-23-000035
+  2023-12-31  revenue      8,971M  op income        762M  margin   8.5%  0001373715-24-000030
+  2024-12-31  revenue     10,984M  op income       1364M  margin  12.4%  0001373715-25-000010
+  2025-12-31  revenue     13,278M  op income       1824M  margin  13.7%  0001373715-26-000007
+  latest 10-K 2026-01-29 0001373715-26-000007 now-20251231.htm saved
+== HUBS
+  2015-12-31  revenue        182M  op income        -46M  margin -25.5%  0001564590-16-013204
+  2016-12-31  revenue        271M  op income        -45M  margin -16.5%  0001564590-19-002699
+  2017-12-31  revenue        376M  op income        -40M  margin -10.7%  0001564590-19-002699
+  2018-12-31  revenue        513M  op income        -48M  margin  -9.4%  0001564590-19-002699
+  2019-12-31  revenue        675M  op income        -47M  margin  -7.0%  0001564590-20-004381
+  2020-12-31  revenue        883M  op income        -51M  margin  -5.8%  0001564590-21-006083
+  2021-12-31  revenue      1,301M  op income        -55M  margin  -4.2%  0000950170-22-001221
+  2022-12-31  revenue      1,731M  op income       -109M  margin  -6.3%  0000950170-23-003077
+  2023-12-31  revenue      2,170M  op income       -208M  margin  -9.6%  0000950170-24-015277
+  2024-12-31  revenue      2,628M  op income        -68M  margin  -2.6%  0000950170-25-018873
+  2025-12-31  revenue      3,131M  op income          7M  margin   0.2%  0001193125-26-046646
+  latest 10-K 2026-02-11 0001193125-26-046646 hubs-20251231.htm saved
+== ORCL
+  2016-05-31  revenue     37,047M  op income      12604M  margin  34.0%  0001193125-16-628942
+  2017-05-31  revenue     37,792M  op income      12710M  margin  33.6%  0001564590-19-023119
+  2018-05-31  revenue     39,383M  op income      13679M  margin  34.7%  0001564590-19-023119
+  2019-05-31  revenue     39,506M  op income      13535M  margin  34.3%  0001564590-19-023119
+  2020-05-31  revenue     39,068M  op income      13896M  margin  35.6%  0001564590-20-030125
+  2021-05-31  revenue     40,479M  op income      15213M  margin  37.6%  0001564590-21-033616
+  2022-05-31  revenue     42,440M  op income      10926M  margin  25.7%  0001564590-22-023675
+  2023-05-31  revenue     49,954M  op income      13093M  margin  26.2%  0000950170-23-028914
+  2024-05-31  revenue     52,961M  op income      15353M  margin  29.0%  0000950170-24-075605
+  2025-05-31  revenue     57,399M  op income      17678M  margin  30.8%  0000950170-25-087926
+  2026-05-31  revenue     67,357M  op income      20606M  margin  30.6%  0001193125-26-277521
+  latest 10-K 2026-06-22 0001193125-26-277521 orcl-20260531.htm saved

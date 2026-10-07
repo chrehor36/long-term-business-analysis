@@ -1,0 +1,2597 @@
+{
+ "2011": {
+  "Net income": [
+   58.9,
+   146.3,
+   211.2
+  ],
+  "Loss on firm purchase commitment": [
+   18.5,
+   0.0,
+   0.0
+  ],
+  "Depreciation, depletion and amortization": [
+   58.4,
+   48.2,
+   32.3
+  ],
+  "Deferred income tax expense": [
+   24.0,
+   15.4,
+   15.2
+  ],
+  "Payments (in excess of) less than expense for retirement plans": [
+   5.8,
+   -6.0,
+   3.3
+  ],
+  "Accounts receivable": [
+   -18.3,
+   34.7,
+   -38.6
+  ],
+  "Inventories": [
+   -110.1,
+   0.0,
+   -27.1
+  ],
+  "Accounts payable and accrued liabilities": [
+   84.2,
+   54.2,
+   -8.3
+  ],
+  "Taxes payable": [
+   -16.9,
+   1.9,
+   -0.2
+  ],
+  "Other": [
+   -3.2,
+   1.9,
+   -0.6
+  ],
+  "Net cash provided by operating activities": [
+   101.3,
+   296.6,
+   187.2
+  ],
+  "Capital expenditures": [
+   -238.1,
+   -215.6,
+   -215.2
+  ],
+  "Acquisition of business, net of cash received": [
+   -37.6,
+   0.0,
+   0.0
+  ],
+  "Proceeds from sale of assets": [
+   0.0,
+   1.7,
+   0.1
+  ],
+  "Net cash used in investing activities": [
+   -275.7,
+   -213.9,
+   -215.1
+  ],
+  "Proceeds from issuance of long-term debt": [
+   727.9,
+   0.0,
+   0.0
+  ],
+  "Debt issuance costs": [
+   -19.1,
+   0.0,
+   0.0
+  ],
+  "Repayment of long-term debt": [
+   -1.6,
+   0.0,
+   0.0
+  ],
+  "Purchase of noncontrolling interest in Indiana Harbor facility": [
+   -34.0,
+   0.0,
+   0.0
+  ],
+  "Net (decrease) increase in advances from affiliate": [
+   -412.8,
+   -56.2,
+   25.5
+  ],
+  "Repayments of notes payable assumed in acquisition": [
+   -2.3,
+   0.0,
+   0.0
+  ],
+  "Contribution from parent": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "Increase in payable to affiliate": [
+   5.3,
+   30.8,
+   0.7
+  ],
+  "Cash distributions to noncontrolling interests in cokemaking operations": [
+   -1.6,
+   -20.9,
+   -18.6
+  ],
+  "Net cash provided by (used in) financing activities": [
+   261.8,
+   -45.3,
+   7.6
+  ],
+  "Net increase (decrease) in cash and cash equivalents": [
+   87.4,
+   37.4,
+   -20.3
+  ],
+  "Cash and cash equivalents at beginning of year": [
+   40.1,
+   2.7,
+   23.0
+  ]
+ },
+ "2012": {
+  "Net income": [
+   102.5,
+   58.9,
+   146.3
+  ],
+  "Loss on firm purchase commitment": [
+   0.0,
+   18.5,
+   0.0
+  ],
+  "Depreciation, depletion and amortization": [
+   80.8,
+   58.4,
+   48.2
+  ],
+  "Stock compensation expense": [
+   6.7,
+   0.0,
+   0.0
+  ],
+  "Deferred income tax expense": [
+   34.3,
+   24.0,
+   15.4
+  ],
+  "Payments (in excess of) less than expense for retirement plans": [
+   -6.6,
+   5.8,
+   -6.0
+  ],
+  "Receivables": [
+   -3.8,
+   -18.3,
+   34.7
+  ],
+  "Inventories": [
+   56.1,
+   -110.1,
+   0.0
+  ],
+  "Accounts payable": [
+   -49.0,
+   57.0,
+   31.4
+  ],
+  "Accrued liabilities": [
+   15.2,
+   15.7,
+   25.5
+  ],
+  "Interest payable": [
+   -0.2,
+   15.9,
+   0.0
+  ],
+  "Income taxes payable": [
+   -17.4,
+   -21.3,
+   -0.8
+  ],
+  "Other": [
+   -12.5,
+   -3.2,
+   1.9
+  ],
+  "Net cash provided by operating activities": [
+   206.1,
+   101.3,
+   296.6
+  ],
+  "Capital expenditures": [
+   -80.6,
+   -238.1,
+   -215.6
+  ],
+  "Acquisition of business, net of cash received": [
+   -3.5,
+   -37.6,
+   0.0
+  ],
+  "Proceeds from sale of assets": [
+   0.0,
+   0.0,
+   1.7
+  ],
+  "Net cash used in investing activities": [
+   -84.1,
+   -275.7,
+   -213.9
+  ],
+  "Proceeds from issuance of long-term debt": [
+   0.0,
+   727.9,
+   0.0
+  ],
+  "Debt issuance costs": [
+   0.0,
+   -19.1,
+   0.0
+  ],
+  "Repayment of long-term debt": [
+   -3.3,
+   -1.6,
+   0.0
+  ],
+  "Proceeds from exercise of stock options": [
+   4.7,
+   0.0,
+   0.0
+  ],
+  "Repurchase of common stock": [
+   -9.4,
+   0.0,
+   0.0
+  ],
+  "Purchase of noncontrolling interest in Indiana Harbor facility": [
+   0.0,
+   -34.0,
+   0.0
+  ],
+  "Net decrease in advances from affiliate": [
+   0.0,
+   -412.8,
+   -56.2
+  ],
+  "Repayments of notes payable assumed in acquisition": [
+   0.0,
+   -2.3,
+   0.0
+  ],
+  "Contribution from parent": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "Increase in payable to affiliate": [
+   0.0,
+   5.3,
+   30.8
+  ],
+  "Cash distributions to noncontrolling interests in cokemaking operations": [
+   -2.3,
+   -1.6,
+   -20.9
+  ],
+  "Net cash (used in) provided by financing activities": [
+   -10.3,
+   261.8,
+   -45.3
+  ],
+  "Net increase in cash and cash equivalents": [
+   111.7,
+   87.4,
+   37.4
+  ],
+  "Cash and cash equivalents at beginning of year": [
+   127.5,
+   40.1,
+   2.7
+  ]
+ },
+ "2013": {
+  "Net income": [
+   50.1,
+   102.5,
+   58.9
+  ],
+  "Depreciation, depletion and amortization": [
+   96.0,
+   80.8,
+   58.4
+  ],
+  "Share-based compensation expense": [
+   7.6,
+   6.7,
+   2.1
+  ],
+  "Deferred income tax expense": [
+   1.6,
+   34.3,
+   24.0
+  ],
+  "Payments (in excess of) less than expense for retirement plans": [
+   -2.2,
+   -6.6,
+   5.8
+  ],
+  "Loss from equity method investment": [
+   2.2,
+   0.0,
+   0.0
+  ],
+  "Loss on firm purchase commitment": [
+   0.0,
+   0.0,
+   18.5
+  ],
+  "Receivables": [
+   -18.1,
+   -3.8,
+   -18.3
+  ],
+  "Inventories": [
+   29.2,
+   56.1,
+   -110.1
+  ],
+  "Accounts payable": [
+   20.0,
+   -49.0,
+   57.0
+  ],
+  "Accrued liabilities": [
+   -24.7,
+   15.2,
+   15.7
+  ],
+  "Interest payable": [
+   2.5,
+   -0.2,
+   15.9
+  ],
+  "Income taxes payable": [
+   -10.2,
+   -17.4,
+   -21.3
+  ],
+  "Other": [
+   -2.7,
+   -12.5,
+   -5.3
+  ],
+  "Net cash provided by operating activities": [
+   151.3,
+   206.1,
+   101.3
+  ],
+  "Capital expenditures": [
+   -145.6,
+   -80.6,
+   -238.1
+  ],
+  "Acquisition of businesses, net of cash received": [
+   -113.3,
+   -3.5,
+   -37.6
+  ],
+  "Equity method investment in VISA SunCoke Limited": [
+   -67.7,
+   0.0,
+   0.0
+  ],
+  "Net cash used in investing activities": [
+   -326.6,
+   -84.1,
+   -275.7
+  ],
+  "Partners, L.P.": [
+   237.8,
+   0.0,
+   0.0
+  ],
+  "Proceeds from issuance of long-term debt": [
+   150.0,
+   0.0,
+   727.9
+  ],
+  "Repayment of long-term debt": [
+   -225.0,
+   -3.3,
+   -1.6
+  ],
+  "Debt issuance costs": [
+   -6.9,
+   0.0,
+   -19.1
+  ],
+  "Proceeds from revolving facility": [
+   40.0,
+   0.0,
+   0.0
+  ],
+  "Cash distributions to noncontrolling interests": [
+   -17.8,
+   -2.3,
+   -1.6
+  ],
+  "Repurchase of common stock": [
+   -10.9,
+   -9.4,
+   0.0
+  ],
+  "Proceeds from exercise of stock options": [
+   2.5,
+   4.7,
+   0.0
+  ],
+  "Purchase of noncontrolling interest in Indiana Harbor facility": [
+   0.0,
+   0.0,
+   -34.0
+  ],
+  "Net decrease in advances from affiliate": [
+   0.0,
+   0.0,
+   -412.8
+  ],
+  "Repayments of notes payable assumed in acquisition": [
+   0.0,
+   0.0,
+   -2.3
+  ],
+  "Increase in payable to affiliate": [
+   0.0,
+   0.0,
+   5.3
+  ],
+  "Net cash provided by (used in) financing activities": [
+   169.7,
+   -10.3,
+   261.8
+  ],
+  "Net (decrease) increase in cash and cash equivalents": [
+   -5.6,
+   111.7,
+   87.4
+  ],
+  "Cash and cash equivalents at beginning of year": [
+   239.2,
+   127.5,
+   40.1
+  ]
+ },
+ "2014": {
+  "Net (loss) income": [
+   -101.8,
+   50.1,
+   102.5
+  ],
+  "Loss (income) from discontinued operations, net of tax": [
+   106.0,
+   15.5,
+   -20.5
+  ],
+  "Asset impairment": [
+   16.8,
+   0.0,
+   0.0
+  ],
+  "Depreciation and amortization expense": [
+   96.1,
+   77.1,
+   65.0
+  ],
+  "Deferred income tax (benefit) expense": [
+   -6.0,
+   0.5,
+   30.4
+  ],
+  "Payments in excess of expense for retirement plans": [
+   -8.1,
+   -5.4,
+   -9.6
+  ],
+  "Share-based compensation expense": [
+   9.8,
+   7.6,
+   6.7
+  ],
+  "Excess tax benefit from share-based awards": [
+   -0.3,
+   0.0,
+   0.0
+  ],
+  "Loss from equity method investment": [
+   35.0,
+   2.2,
+   0.0
+  ],
+  "Loss on extinguishment/modification of debt": [
+   15.4,
+   0.0,
+   0.0
+  ],
+  "Receivables": [
+   9.9,
+   -17.1,
+   -5.7
+  ],
+  "Inventories": [
+   -10.5,
+   30.9,
+   57.8
+  ],
+  "Accounts payable": [
+   -27.5,
+   25.2,
+   -69.2
+  ],
+  "Accrued liabilities": [
+   -17.9,
+   -22.8,
+   11.0
+  ],
+  "Interest payable": [
+   1.7,
+   2.5,
+   -0.2
+  ],
+  "Income taxes": [
+   1.0,
+   -10.1,
+   -17.6
+  ],
+  "Accrual for black lung benefits": [
+   11.5,
+   -2.4,
+   1.3
+  ],
+  "Other": [
+   -1.1,
+   2.9,
+   -7.9
+  ],
+  "Net cash provided by continuing operating activities": [
+   130.0,
+   156.7,
+   144.0
+  ],
+  "Capital expenditures": [
+   -118.3,
+   -132.3,
+   -54.2
+  ],
+  "Acquisition of businesses, net of cash acquired": [
+   0.0,
+   -113.3,
+   0.0
+  ],
+  "Equity method investment in VISA SunCoke Limited": [
+   0.0,
+   -67.7,
+   0.0
+  ],
+  "Net cash used in continuing investing activities": [
+   -118.3,
+   -313.3,
+   -54.2
+  ],
+  "Proceeds from issuance of common units of SunCoke Energy Partners, L.P., net of offering costs": [
+   90.5,
+   237.8,
+   0.0
+  ],
+  "Proceeds from issuance of long-term debt": [
+   268.1,
+   150.0,
+   0.0
+  ],
+  "Repayment of long-term debt": [
+   -276.5,
+   -225.0,
+   -3.3
+  ],
+  "Debt issuance costs": [
+   -5.8,
+   -6.9,
+   0.0
+  ],
+  "Proceeds from revolving facility": [
+   40.0,
+   40.0,
+   0.0
+  ],
+  "Repayment of revolving facility": [
+   -80.0,
+   0.0,
+   0.0
+  ],
+  "Cash distributions to noncontrolling interests": [
+   -32.3,
+   -17.8,
+   -2.3
+  ],
+  "Shares repurchased": [
+   -85.1,
+   -10.9,
+   -9.4
+  ],
+  "Proceeds from exercise of stock options": [
+   2.9,
+   2.5,
+   4.7
+  ],
+  "Dividends paid": [
+   -3.8,
+   0.0,
+   0.0
+  ],
+  "Net cash (used in) provided by continuing financing activities": [
+   -81.7,
+   169.7,
+   -10.3
+  ],
+  "Net (decrease) increase in cash and cash equivalents from continuing operations": [
+   -70.0,
+   13.1,
+   79.5
+  ],
+  "Cash flows from discontinued operations - operating activities": [
+   -17.7,
+   -5.4,
+   62.1
+  ],
+  "Cash flows from discontinued operations - investing activities": [
+   -6.9,
+   -13.3,
+   -29.9
+  ],
+  "Net (decrease) increase in cash and cash equivalents from discontinued operations": [
+   -24.6,
+   -18.7,
+   32.2
+  ],
+  "Net (decrease) increase in cash and cash equivalents": [
+   -94.6,
+   -5.6,
+   111.7
+  ],
+  "Cash and cash equivalents at beginning of year": [
+   233.6,
+   239.2,
+   127.5
+  ]
+ },
+ "2015": {
+  "Net income (loss)": [
+   10.3,
+   -101.8,
+   50.1
+  ],
+  "Asset and goodwill impairment": [
+   0.0,
+   150.3,
+   0.0
+  ],
+  "Loss from equity method investment": [
+   21.6,
+   35.0,
+   2.2
+  ],
+  "Depreciation and amortization expense": [
+   109.1,
+   106.3,
+   96.0
+  ],
+  "Deferred income tax (benefit) expense": [
+   -5.6,
+   -64.4,
+   1.6
+  ],
+  "Settlement loss and payments in excess of expense for pension plan": [
+   13.1,
+   -7.5,
+   -0.1
+  ],
+  "Gain on curtailment and payments in excess of expense for postretirement plan benefits": [
+   -8.0,
+   -0.6,
+   -5.3
+  ],
+  "Share-based compensation expense": [
+   7.2,
+   9.8,
+   7.6
+  ],
+  "Excess tax benefit from share-based awards": [
+   0.0,
+   -0.3,
+   0.0
+  ],
+  "Loss on extinguishment of debt": [
+   0.5,
+   15.4,
+   0.0
+  ],
+  "Receivables": [
+   18.8,
+   13.3,
+   -18.1
+  ],
+  "Inventories": [
+   23.2,
+   -12.6,
+   29.2
+  ],
+  "Accounts payable": [
+   -17.9,
+   -33.0,
+   20.0
+  ],
+  "Accrued liabilities": [
+   -28.7,
+   -8.0,
+   -24.7
+  ],
+  "Interest payable": [
+   -1.0,
+   1.7,
+   2.5
+  ],
+  "Income taxes": [
+   -5.6,
+   1.0,
+   -10.2
+  ],
+  "Accrual for black lung benefits": [
+   6.0,
+   11.5,
+   -2.4
+  ],
+  "Other": [
+   -1.9,
+   -3.8,
+   2.9
+  ],
+  "Net cash provided by operating activities": [
+   141.1,
+   112.3,
+   151.3
+  ],
+  "Capital expenditures": [
+   -75.8,
+   -125.2,
+   -145.6
+  ],
+  "Acquisition of businesses, net of cash received": [
+   -191.7,
+   0.0,
+   -113.3
+  ],
+  "Restricted cash": [
+   -17.7,
+   0.0,
+   0.0
+  ],
+  "Equity method investment in VISA SunCoke Limited": [
+   0.0,
+   0.0,
+   -67.7
+  ],
+  "Net cash used in investing activities": [
+   -285.2,
+   -125.2,
+   -326.6
+  ],
+  "Proceeds from issuance of common units of SunCoke Energy Partners, L.P., net of offering costs": [
+   0.0,
+   90.5,
+   237.8
+  ],
+  "Proceeds from issuance of long-term debt": [
+   260.8,
+   268.1,
+   150.0
+  ],
+  "Repayment of long-term debt": [
+   -248.1,
+   -276.5,
+   -225.0
+  ],
+  "Debt issuance costs": [
+   -5.7,
+   -5.8,
+   -6.9
+  ],
+  "Proceeds from revolving facility": [
+   292.4,
+   40.0,
+   40.0
+  ],
+  "Repayment of revolving facility": [
+   -50.0,
+   -80.0,
+   0.0
+  ],
+  "Dividends paid": [
+   -28.0,
+   -3.8,
+   0.0
+  ],
+  "Cash distributions to noncontrolling interests": [
+   -43.3,
+   -32.3,
+   -17.8
+  ],
+  "Shares repurchased": [
+   -35.7,
+   -85.1,
+   -10.9
+  ],
+  "SunCoke Energy Partners, L.P. units repurchased": [
+   -12.8,
+   0.0,
+   0.0
+  ],
+  "Proceeds from exercise of stock options, net of shares withheld for taxes": [
+   -1.1,
+   2.9,
+   2.5
+  ],
+  "Net cash provided by (used in) financing activities": [
+   128.5,
+   -81.7,
+   169.7
+  ],
+  "Net decrease in cash and cash equivalents": [
+   -15.6,
+   -94.6,
+   -5.6
+  ],
+  "Cash and cash equivalents at beginning of year": [
+   139.0,
+   233.6,
+   239.2
+  ]
+ },
+ "2016": {
+  "Net income (loss)": [
+   59.5,
+   10.3,
+   -101.8
+  ],
+  "Loss on divestiture of business and impairments": [
+   14.7,
+   0.0,
+   150.3
+  ],
+  "Loss from equity method investment": [
+   0.0,
+   21.6,
+   35.0
+  ],
+  "Depreciation and amortization expense": [
+   114.2,
+   109.1,
+   106.3
+  ],
+  "Deferred income tax expense (benefit)": [
+   3.1,
+   -5.6,
+   -64.4
+  ],
+  "Settlement loss and payments in excess of expense for pension plan": [
+   0.0,
+   13.1,
+   -7.5
+  ],
+  "Gain on curtailment and payments in excess of expense for postretirement plan benefits": [
+   -2.6,
+   -8.0,
+   -0.6
+  ],
+  "Share-based compensation expense": [
+   6.5,
+   7.2,
+   9.8
+  ],
+  "(Gain) loss on extinguishment of debt, net": [
+   -25.0,
+   0.5,
+   15.4
+  ],
+  "Receivables": [
+   3.7,
+   18.8,
+   13.3
+  ],
+  "Inventories": [
+   29.4,
+   23.2,
+   -12.6
+  ],
+  "Accounts payable": [
+   -0.8,
+   -17.9,
+   -33.0
+  ],
+  "Accrued liabilities": [
+   6.8,
+   -24.3,
+   -8.0
+  ],
+  "Deferred revenue": [
+   0.4,
+   -4.4,
+   0.0
+  ],
+  "Interest payable": [
+   -2.7,
+   -1.0,
+   1.7
+  ],
+  "Income taxes": [
+   7.0,
+   -5.6,
+   1.0
+  ],
+  "Accrual for black lung benefits": [
+   0.3,
+   6.0,
+   11.5
+  ],
+  "Other": [
+   4.6,
+   -1.9,
+   -4.1
+  ],
+  "Net cash provided by operating activities": [
+   219.1,
+   141.1,
+   112.3
+  ],
+  "Capital expenditures": [
+   -63.7,
+   -75.8,
+   -125.2
+  ],
+  "Acquisition of businesses, net of cash received": [
+   0.0,
+   -191.7,
+   0.0
+  ],
+  "Decrease (increase) in restricted cash": [
+   17.7,
+   -17.7,
+   0.0
+  ],
+  "Divestiture of coal business": [
+   -12.8,
+   0.0,
+   0.0
+  ],
+  "Return of Brazilian investment": [
+   20.5,
+   0.0,
+   0.0
+  ],
+  "Other investing activities": [
+   2.1,
+   0.0,
+   0.0
+  ],
+  "Net cash used in investing activities": [
+   -36.2,
+   -285.2,
+   -125.2
+  ],
+  "Proceeds from issuance of common units of SunCoke Energy Partners, L.P., net of offering costs": [
+   0.0,
+   0.0,
+   90.5
+  ],
+  "Proceeds from issuance of long-term debt": [
+   0.0,
+   260.8,
+   268.1
+  ],
+  "Repayment of long-term debt": [
+   -66.1,
+   -248.1,
+   -276.5
+  ],
+  "Debt issuance costs": [
+   -0.2,
+   -5.7,
+   -5.8
+  ],
+  "Proceeds from revolving facility": [
+   28.0,
+   292.4,
+   40.0
+  ],
+  "Repayment of revolving facility": [
+   -98.4,
+   -50.0,
+   -80.0
+  ],
+  "Proceeds from financing obligation": [
+   16.2,
+   0.0,
+   0.0
+  ],
+  "Repayment of financing obligation": [
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "Dividends paid": [
+   0.0,
+   -28.0,
+   -3.8
+  ],
+  "Cash distributions to noncontrolling interests": [
+   -49.4,
+   -43.3,
+   -32.3
+  ],
+  "Shares repurchased": [
+   0.0,
+   -35.7,
+   -85.1
+  ],
+  "SunCoke Energy Partners, L.P. units repurchased": [
+   0.0,
+   -12.8,
+   0.0
+  ],
+  "Other financing activities": [
+   -1.4,
+   -1.1,
+   3.2
+  ],
+  "Net cash (used in) provided by financing activities": [
+   -172.3,
+   128.5,
+   -81.7
+  ],
+  "Net increase (decrease) in cash and cash equivalents": [
+   10.6,
+   -15.6,
+   -94.6
+  ],
+  "Cash and cash equivalents at beginning of year": [
+   123.4,
+   139.0,
+   233.6
+  ]
+ },
+ "2017": {
+  "Net income": [
+   103.5,
+   59.5,
+   10.3
+  ],
+  "Depreciation and amortization expense": [
+   128.2,
+   114.2,
+   109.1
+  ],
+  "Deferred income tax (benefit) expense": [
+   -87.2,
+   3.1,
+   -5.6
+  ],
+  "Gain on curtailment and payments in excess of expense for postretirement plan benefits": [
+   -1.8,
+   -2.6,
+   -8.0
+  ],
+  "Settlement loss and payments in excess of expense for pension plan": [
+   0.0,
+   0.0,
+   13.1
+  ],
+  "Share-based compensation expense": [
+   4.8,
+   6.5,
+   7.2
+  ],
+  "Loss (gain) on extinguishment of debt, net": [
+   20.4,
+   -25.0,
+   0.5
+  ],
+  "Loss on divestiture of business and impairments": [
+   0.0,
+   14.7,
+   0.0
+  ],
+  "Loss from equity method investment": [
+   0.0,
+   0.0,
+   21.6
+  ],
+  "Receivables": [
+   -7.8,
+   3.7,
+   18.8
+  ],
+  "Inventories": [
+   -18.5,
+   29.4,
+   23.2
+  ],
+  "Accounts payable": [
+   11.7,
+   -0.8,
+   -17.9
+  ],
+  "Accrued liabilities": [
+   2.6,
+   6.8,
+   -24.3
+  ],
+  "Deferred revenue": [
+   -0.8,
+   0.4,
+   -4.4
+  ],
+  "Interest payable": [
+   -10.8,
+   -2.7,
+   -1.0
+  ],
+  "Income taxes": [
+   -0.2,
+   7.0,
+   -5.6
+  ],
+  "Other": [
+   4.4,
+   4.9,
+   4.1
+  ],
+  "Net cash provided by operating activities": [
+   148.5,
+   219.1,
+   141.1
+  ],
+  "Capital expenditures": [
+   -75.6,
+   -63.7,
+   -75.8
+  ],
+  "Decrease (increase) in restricted cash": [
+   0.5,
+   17.7,
+   -17.7
+  ],
+  "Return of Brazilian investment": [
+   20.5,
+   20.5,
+   0.0
+  ],
+  "Divestiture of coal business": [
+   0.0,
+   -12.8,
+   0.0
+  ],
+  "Acquisition of businesses, net of cash received": [
+   0.0,
+   0.0,
+   -191.7
+  ],
+  "Other investing activities": [
+   0.0,
+   2.1,
+   0.0
+  ],
+  "Net cash used in investing activities": [
+   -54.6,
+   -36.2,
+   -285.2
+  ],
+  "Proceeds from issuance of long-term debt": [
+   693.7,
+   0.0,
+   260.8
+  ],
+  "Repayment of long-term debt": [
+   -644.9,
+   -66.1,
+   -248.1
+  ],
+  "Debt issuance costs": [
+   -17.4,
+   -0.2,
+   -5.7
+  ],
+  "Proceeds from revolving facility": [
+   350.0,
+   28.0,
+   292.4
+  ],
+  "Repayment of revolving facility": [
+   -392.0,
+   -98.4,
+   -50.0
+  ],
+  "Proceeds from financing obligation": [
+   0.0,
+   16.2,
+   0.0
+  ],
+  "Repayment of financing obligation": [
+   -2.5,
+   -1.0,
+   0.0
+  ],
+  "Cash distributions to noncontrolling interests": [
+   -47.0,
+   -49.4,
+   -43.3
+  ],
+  "Dividends paid": [
+   0.0,
+   0.0,
+   -28.0
+  ],
+  "Acquisition of additional interest in the Partnership": [
+   -48.7,
+   0.0,
+   0.0
+  ],
+  "Shares repurchased": [
+   0.0,
+   0.0,
+   -35.7
+  ],
+  "SunCoke Energy Partners, L.P. units repurchased": [
+   0.0,
+   0.0,
+   -12.8
+  ],
+  "Other financing activities": [
+   1.1,
+   -1.4,
+   -1.1
+  ],
+  "Net cash (used in) provided by financing activities": [
+   -107.7,
+   -172.3,
+   128.5
+  ],
+  "Net (decrease) increase in cash and cash equivalents": [
+   -13.8,
+   10.6,
+   -15.6
+  ],
+  "Cash and cash equivalents at beginning of year": [
+   134.0,
+   123.4,
+   139.0
+  ]
+ },
+ "2018": {
+  "Net income": [
+   47.0,
+   103.5,
+   59.5
+  ],
+  "Depreciation and amortization expense": [
+   141.6,
+   128.2,
+   114.2
+  ],
+  "Deferred income tax (benefit) expense": [
+   -3.4,
+   -87.2,
+   3.1
+  ],
+  "Payments in excess of expense for postretirement plan benefits": [
+   -2.4,
+   -1.8,
+   -2.6
+  ],
+  "Share-based compensation expense": [
+   3.1,
+   4.8,
+   6.5
+  ],
+  "Loss (gain) on extinguishment of debt, net": [
+   0.3,
+   20.4,
+   -25.0
+  ],
+  "Loss on divestiture of business": [
+   0.0,
+   0.0,
+   14.7
+  ],
+  "Loss from equity method investment": [
+   5.4,
+   0.0,
+   0.0
+  ],
+  "Receivables": [
+   -6.9,
+   -7.8,
+   3.7
+  ],
+  "Inventories": [
+   0.6,
+   -18.5,
+   29.4
+  ],
+  "Accounts payable": [
+   -0.7,
+   11.7,
+   -0.8
+  ],
+  "Accrued liabilities": [
+   -7.3,
+   2.6,
+   6.8
+  ],
+  "Deferred revenue": [
+   1.3,
+   -0.8,
+   0.4
+  ],
+  "Interest payable": [
+   -1.8,
+   -10.8,
+   -2.7
+  ],
+  "Income taxes": [
+   4.5,
+   -0.2,
+   7.0
+  ],
+  "Other": [
+   4.5,
+   4.4,
+   4.9
+  ],
+  "Net cash provided by operating activities": [
+   185.8,
+   148.5,
+   219.1
+  ],
+  "Capital expenditures": [
+   -100.3,
+   -75.6,
+   -63.7
+  ],
+  "Return of Brazilian investment": [
+   0.0,
+   20.5,
+   20.5
+  ],
+  "Divestiture of coal business": [
+   0.0,
+   0.0,
+   -12.8
+  ],
+  "Sale of equity method investment": [
+   4.0,
+   0.0,
+   0.0
+  ],
+  "Other investing activities": [
+   0.5,
+   0.0,
+   2.1
+  ],
+  "Net cash used in investing activities": [
+   -95.8,
+   -55.1,
+   -53.9
+  ],
+  "Proceeds from issuance of long-term debt": [
+   45.0,
+   693.7,
+   0.0
+  ],
+  "Repayment of long-term debt": [
+   -45.7,
+   -644.9,
+   -66.1
+  ],
+  "Debt issuance costs": [
+   -0.5,
+   -17.4,
+   -0.2
+  ],
+  "Proceeds from revolving facility": [
+   179.5,
+   350.0,
+   28.0
+  ],
+  "Repayment of revolving facility": [
+   -204.5,
+   -392.0,
+   -98.4
+  ],
+  "Proceeds from financing obligation": [
+   0.0,
+   0.0,
+   16.2
+  ],
+  "Repayment of financing obligation": [
+   -2.6,
+   -2.5,
+   -1.0
+  ],
+  "Cash distributions to noncontrolling interests": [
+   -31.9,
+   -47.0,
+   -49.4
+  ],
+  "Acquisition of additional interest in the Partnership": [
+   -4.2,
+   -48.7,
+   0.0
+  ],
+  "Other financing activities": [
+   0.4,
+   1.1,
+   -1.4
+  ],
+  "Net cash used in financing activities": [
+   -64.5,
+   -107.7,
+   -172.3
+  ],
+  "Net increase (decrease) in cash, cash equivalents and restricted cash": [
+   25.5,
+   -14.3,
+   -7.1
+  ],
+  "Cash, cash equivalents and restricted cash at beginning of year": [
+   120.2,
+   134.5,
+   141.6
+  ]
+ },
+ "2019": {
+  "Net (loss) income": [
+   -148.4,
+   47.0,
+   103.5
+  ],
+  "Long-lived asset and goodwill impairment": [
+   247.4,
+   0.0,
+   0.0
+  ],
+  "Depreciation and amortization expense": [
+   143.8,
+   141.6,
+   128.2
+  ],
+  "Deferred income tax benefit": [
+   -63.1,
+   -3.4,
+   -87.2
+  ],
+  "Payments in excess of expense for postretirement plan benefits": [
+   -1.9,
+   -2.4,
+   -1.8
+  ],
+  "Share-based compensation expense": [
+   4.5,
+   3.1,
+   4.8
+  ],
+  "(Gain) loss on extinguishment of debt, net": [
+   -1.5,
+   0.3,
+   20.4
+  ],
+  "Loss from equity method investment": [
+   0.0,
+   5.4,
+   0.0
+  ],
+  "Receivables, net": [
+   15.9,
+   -6.9,
+   -7.8
+  ],
+  "Inventories": [
+   -36.6,
+   0.6,
+   -18.5
+  ],
+  "Accounts payable": [
+   23.5,
+   -0.7,
+   11.7
+  ],
+  "Accrued liabilities": [
+   0.3,
+   -7.3,
+   2.6
+  ],
+  "Deferred revenue": [
+   -2.7,
+   1.3,
+   -0.8
+  ],
+  "Interest payable": [
+   -1.4,
+   -1.8,
+   -10.8
+  ],
+  "Income taxes": [
+   -1.5,
+   4.5,
+   -0.2
+  ],
+  "Other": [
+   3.6,
+   4.5,
+   4.4
+  ],
+  "Net cash provided by operating activities": [
+   181.9,
+   185.8,
+   148.5
+  ],
+  "Capital expenditures": [
+   -110.1,
+   -100.3,
+   -75.6
+  ],
+  "Return of Brazilian investment": [
+   0.0,
+   0.0,
+   20.5
+  ],
+  "Sale of equity method investment": [
+   0.0,
+   4.0,
+   0.0
+  ],
+  "Other investing activities": [
+   0.3,
+   0.5,
+   0.0
+  ],
+  "Net cash used in investing activities": [
+   -109.8,
+   -95.8,
+   -55.1
+  ],
+  "Proceeds from issuance of long-term debt": [
+   0.0,
+   45.0,
+   693.7
+  ],
+  "Repayment of long-term debt": [
+   -90.5,
+   -45.7,
+   -644.9
+  ],
+  "Debt issuance costs": [
+   -2.1,
+   -0.5,
+   -17.4
+  ],
+  "Proceeds from revolving facility": [
+   408.6,
+   179.5,
+   350.0
+  ],
+  "Repayment of revolving facility": [
+   -370.3,
+   -204.5,
+   -392.0
+  ],
+  "Repayment of financing obligation": [
+   -2.9,
+   -2.6,
+   -2.5
+  ],
+  "Cash distributions to noncontrolling interests": [
+   -14.2,
+   -31.9,
+   -47.0
+  ],
+  "Acquisition of additional interest in the Partnership": [
+   0.0,
+   -4.2,
+   -48.7
+  ],
+  "Shares repurchased": [
+   -36.3,
+   0.0,
+   0.0
+  ],
+  "Dividends paid": [
+   -5.1,
+   0.0,
+   0.0
+  ],
+  "Other financing activities": [
+   -7.9,
+   0.4,
+   1.1
+  ],
+  "Net cash used in financing activities": [
+   -120.7,
+   -64.5,
+   -107.7
+  ],
+  "Net (decrease) increase in cash and cash equivalents": [
+   -48.6,
+   25.5,
+   -14.3
+  ],
+  "Cash, cash equivalents and restricted cash at beginning of year": [
+   145.7,
+   120.2,
+   134.5
+  ]
+ },
+ "2020": {
+  "Years Ended December 31,": [
+   2020.0,
+   2019.0,
+   2018.0
+  ],
+  "Net income (loss)": [
+   8.8,
+   -148.4,
+   47.0
+  ],
+  "Long-lived asset and goodwill impairment": [
+   0.0,
+   247.4,
+   0.0
+  ],
+  "Depreciation and amortization expense": [
+   133.7,
+   143.8,
+   141.6
+  ],
+  "Deferred income tax expense (benefit)": [
+   12.1,
+   -63.1,
+   -3.4
+  ],
+  "Payments in excess of expense for postretirement plan benefits": [
+   -1.7,
+   -1.9,
+   -2.4
+  ],
+  "Share-based compensation expense": [
+   3.8,
+   4.5,
+   3.1
+  ],
+  "(Gain) loss on extinguishment of debt, net": [
+   -5.7,
+   -1.5,
+   0.3
+  ],
+  "Loss from equity method investment": [
+   0.0,
+   0.0,
+   5.4
+  ],
+  "Receivables, net": [
+   13.2,
+   15.9,
+   -6.9
+  ],
+  "Inventories": [
+   21.8,
+   -36.6,
+   0.6
+  ],
+  "Accounts payable": [
+   -38.0,
+   23.5,
+   -0.7
+  ],
+  "Accrued liabilities": [
+   2.5,
+   -2.4,
+   -6.0
+  ],
+  "Interest payable": [
+   -0.2,
+   -1.4,
+   -1.8
+  ],
+  "Income taxes": [
+   -3.3,
+   -1.5,
+   4.5
+  ],
+  "Other": [
+   10.8,
+   3.6,
+   4.5
+  ],
+  "Net cash provided by operating activities": [
+   157.8,
+   181.9,
+   185.8
+  ],
+  "Capital expenditures": [
+   -73.9,
+   -110.1,
+   -100.3
+  ],
+  "Sale of equity method investment": [
+   0.0,
+   0.0,
+   4.0
+  ],
+  "Other investing activities": [
+   -1.4,
+   0.3,
+   0.5
+  ],
+  "Net cash used in investing activities": [
+   -75.3,
+   -109.8,
+   -95.8
+  ],
+  "Proceeds from issuance of long-term debt": [
+   0.0,
+   0.0,
+   45.0
+  ],
+  "Repayment of long-term debt": [
+   -55.9,
+   -90.5,
+   -45.7
+  ],
+  "Debt issuance costs": [
+   0.0,
+   -2.1,
+   -0.5
+  ],
+  "Proceeds from revolving facility": [
+   629.9,
+   408.6,
+   179.5
+  ],
+  "Repayment of revolving facility": [
+   -684.9,
+   -370.3,
+   -204.5
+  ],
+  "Proceeds from financing obligation": [
+   10.0,
+   0.0,
+   0.0
+  ],
+  "Repayment of financing obligations": [
+   -3.0,
+   -2.9,
+   -2.6
+  ],
+  "Dividends paid": [
+   -19.9,
+   -5.1,
+   0.0
+  ],
+  "Shares repurchased": [
+   -7.0,
+   -36.3,
+   0.0
+  ],
+  "Acquisition of additional interest in the Partnership": [
+   0.0,
+   0.0,
+   -4.2
+  ],
+  "Cash distributions to noncontrolling interests": [
+   0.0,
+   -14.2,
+   -31.9
+  ],
+  "Other financing activities": [
+   -0.4,
+   -7.9,
+   0.4
+  ],
+  "Net cash used in financing activities": [
+   -131.2,
+   -120.7,
+   -64.5
+  ],
+  "Net (decrease) increase in cash and cash equivalents": [
+   -48.7,
+   -48.6,
+   25.5
+  ],
+  "Cash and cash equivalents at beginning of year": [
+   97.1,
+   145.7,
+   120.2
+  ],
+  "Cash and cash equivalents at end of year": [
+   48.4,
+   97.1,
+   145.7
+  ]
+ },
+ "2021": {
+  "Years Ended December 31,": [
+   2021.0,
+   2020.0,
+   2019.0
+  ],
+  "Net income (loss)": [
+   48.8,
+   8.8,
+   -148.4
+  ],
+  "Long-lived asset and goodwill impairment": [
+   0.0,
+   0.0,
+   247.4
+  ],
+  "Depreciation and amortization expense": [
+   133.9,
+   133.7,
+   143.8
+  ],
+  "Deferred income tax expense (benefit)": [
+   9.3,
+   12.1,
+   -63.1
+  ],
+  "Share-based compensation expense": [
+   6.1,
+   3.8,
+   4.5
+  ],
+  "Loss (gain) on extinguishment of debt, net": [
+   31.9,
+   -5.7,
+   -1.5
+  ],
+  "Receivables, net": [
+   -31.3,
+   13.2,
+   15.9
+  ],
+  "Inventories": [
+   -1.1,
+   21.8,
+   -36.6
+  ],
+  "Accounts payable": [
+   29.5,
+   -38.0,
+   23.5
+  ],
+  "Accrued liabilities": [
+   2.8,
+   2.5,
+   -2.4
+  ],
+  "Interest payable": [
+   -2.0,
+   -0.2,
+   -1.4
+  ],
+  "Income taxes": [
+   5.5,
+   -3.3,
+   -1.5
+  ],
+  "Other": [
+   -0.3,
+   9.1,
+   1.7
+  ],
+  "Net cash provided by operating activities": [
+   233.1,
+   157.8,
+   181.9
+  ],
+  "Capital expenditures": [
+   -98.6,
+   -73.9,
+   -110.1
+  ],
+  "Other investing activities": [
+   -0.7,
+   -1.4,
+   0.3
+  ],
+  "Net cash used in investing activities": [
+   -99.3,
+   -75.3,
+   -109.8
+  ],
+  "Proceeds from issuance of long-term debt": [
+   500.0,
+   0.0,
+   0.0
+  ],
+  "Repayment of long-term debt": [
+   -609.3,
+   -55.9,
+   -90.5
+  ],
+  "Proceeds from revolving facility": [
+   690.1,
+   629.9,
+   408.6
+  ],
+  "Repayment of revolving facility": [
+   -663.4,
+   -684.9,
+   -370.3
+  ],
+  "Proceeds from financing obligation": [
+   0.0,
+   10.0,
+   0.0
+  ],
+  "Repayment of financing obligation": [
+   -2.9,
+   -3.0,
+   -2.9
+  ],
+  "Debt issuance costs": [
+   -12.0,
+   0.0,
+   -2.1
+  ],
+  "Dividends paid": [
+   -20.1,
+   -19.9,
+   -5.1
+  ],
+  "Shares repurchased": [
+   0.0,
+   -7.0,
+   -36.3
+  ],
+  "Cash distributions to noncontrolling interests": [
+   0.0,
+   0.0,
+   -14.2
+  ],
+  "Other financing activities": [
+   -0.8,
+   -0.4,
+   -7.9
+  ],
+  "Net cash used in financing activities": [
+   -118.4,
+   -131.2,
+   -120.7
+  ],
+  "Net increase (decrease) in cash and cash equivalents": [
+   15.4,
+   -48.7,
+   -48.6
+  ],
+  "Cash and cash equivalents at beginning of year": [
+   48.4,
+   97.1,
+   145.7
+  ],
+  "Cash and cash equivalents at end of year": [
+   63.8,
+   48.4,
+   97.1
+  ]
+ },
+ "2022": {
+  "Years Ended December 31,": [
+   2022.0,
+   2021.0,
+   2020.0
+  ],
+  "Net income": [
+   104.9,
+   48.8,
+   8.8
+  ],
+  "Depreciation and amortization expense": [
+   142.5,
+   133.9,
+   133.7
+  ],
+  "Deferred income tax expense": [
+   2.3,
+   9.3,
+   12.1
+  ],
+  "Share-based compensation expense": [
+   6.7,
+   6.1,
+   3.8
+  ],
+  "Loss (gain) on extinguishment of debt, net": [
+   0.0,
+   31.9,
+   -5.7
+  ],
+  "Receivables, net": [
+   -32.3,
+   -31.3,
+   13.2
+  ],
+  "Inventories": [
+   -48.2,
+   -1.1,
+   21.8
+  ],
+  "Accounts payable": [
+   27.4,
+   29.5,
+   -38.0
+  ],
+  "Accrued liabilities": [
+   8.4,
+   6.3,
+   -1.0
+  ],
+  "Other": [
+   -2.8,
+   -0.3,
+   9.1
+  ],
+  "Net cash provided by operating activities": [
+   208.9,
+   233.1,
+   157.8
+  ],
+  "Capital expenditures": [
+   -75.5,
+   -98.6,
+   -73.9
+  ],
+  "Other investing activities": [
+   5.3,
+   -0.7,
+   -1.4
+  ],
+  "Net cash used in investing activities": [
+   -70.2,
+   -99.3,
+   -75.3
+  ],
+  "Proceeds from issuance of long-term debt": [
+   0.0,
+   500.0,
+   0.0
+  ],
+  "Repayment of long-term debt": [
+   0.0,
+   -609.3,
+   -55.9
+  ],
+  "Proceeds from revolving facility": [
+   596.0,
+   690.1,
+   629.9
+  ],
+  "Repayment of revolving facility": [
+   -676.0,
+   -663.4,
+   -684.9
+  ],
+  "Proceeds from financing obligation": [
+   0.0,
+   0.0,
+   10.0
+  ],
+  "Repayment of financing obligation": [
+   -3.2,
+   -2.9,
+   -3.0
+  ],
+  "Debt issuance costs": [
+   0.0,
+   -12.0,
+   0.0
+  ],
+  "Dividends paid": [
+   -23.6,
+   -20.1,
+   -19.9
+  ],
+  "Shares repurchased": [
+   0.0,
+   0.0,
+   -7.0
+  ],
+  "Cash distributions to noncontrolling interests": [
+   -4.4,
+   0.0,
+   0.0
+  ],
+  "Other financing activities": [
+   -1.3,
+   -0.8,
+   -0.4
+  ],
+  "Net cash used in financing activities": [
+   -112.5,
+   -118.4,
+   -131.2
+  ],
+  "Net increase (decrease) in cash and cash equivalents": [
+   26.2,
+   15.4,
+   -48.7
+  ],
+  "Cash and cash equivalents at beginning of year": [
+   63.8,
+   48.4,
+   97.1
+  ],
+  "Cash and cash equivalents at end of year": [
+   90.0,
+   63.8,
+   48.4
+  ]
+ },
+ "2023": {
+  "Years Ended December 31,": [
+   2023.0,
+   2022.0,
+   2021.0
+  ],
+  "Net income": [
+   63.5,
+   104.9,
+   48.8
+  ],
+  "Depreciation and amortization expense": [
+   142.8,
+   142.5,
+   133.9
+  ],
+  "Deferred income tax expense": [
+   18.6,
+   2.3,
+   9.3
+  ],
+  "Share-based compensation expense": [
+   5.1,
+   6.7,
+   6.1
+  ],
+  "Loss on extinguishment of debt": [
+   0.0,
+   0.0,
+   31.9
+  ],
+  "Receivables, net": [
+   16.8,
+   -32.3,
+   -31.3
+  ],
+  "Inventories": [
+   -7.2,
+   -48.2,
+   -1.1
+  ],
+  "Accounts payable": [
+   19.7,
+   27.4,
+   29.5
+  ],
+  "Accrued liabilities": [
+   -10.2,
+   8.4,
+   0.8
+  ],
+  "Income taxes": [
+   -1.4,
+   0.0,
+   5.5
+  ],
+  "Other": [
+   1.3,
+   -2.8,
+   -0.3
+  ],
+  "Net cash provided by operating activities": [
+   249.0,
+   208.9,
+   233.1
+  ],
+  "Capital expenditures": [
+   -109.2,
+   -75.5,
+   -98.6
+  ],
+  "Other investing activities": [
+   0.0,
+   5.3,
+   -0.7
+  ],
+  "Net cash used in investing activities": [
+   -109.2,
+   -70.2,
+   -99.3
+  ],
+  "Proceeds from issuance of long-term debt": [
+   0.0,
+   0.0,
+   500.0
+  ],
+  "Repayment of long-term debt": [
+   0.0,
+   0.0,
+   -609.3
+  ],
+  "Proceeds from revolving facility": [
+   291.0,
+   596.0,
+   690.1
+  ],
+  "Repayment of revolving facility": [
+   -326.0,
+   -676.0,
+   -663.4
+  ],
+  "Repayment of financing obligation": [
+   -8.8,
+   -3.2,
+   -2.9
+  ],
+  "Debt issuance costs": [
+   0.0,
+   0.0,
+   -12.0
+  ],
+  "Dividends paid": [
+   -30.7,
+   -23.6,
+   -20.1
+  ],
+  "Cash distributions to noncontrolling interests": [
+   -11.8,
+   -4.4,
+   0.0
+  ],
+  "Other financing activities": [
+   -3.4,
+   -1.3,
+   -0.8
+  ],
+  "Net cash used in financing activities": [
+   -89.7,
+   -112.5,
+   -118.4
+  ],
+  "Net increase in cash and cash equivalents": [
+   50.1,
+   26.2,
+   15.4
+  ],
+  "Cash and cash equivalents at beginning of year": [
+   90.0,
+   63.8,
+   48.4
+  ],
+  "Cash and cash equivalents at end of year": [
+   140.1,
+   90.0,
+   63.8
+  ]
+ },
+ "2024": {
+  "Years Ended December 31,": [
+   2024.0,
+   2023.0,
+   2022.0
+  ],
+  "Net income": [
+   103.5,
+   63.5,
+   104.9
+  ],
+  "Depreciation and amortization expense": [
+   118.9,
+   142.8,
+   142.5
+  ],
+  "Deferred income tax expense": [
+   4.5,
+   18.6,
+   2.3
+  ],
+  "Share-based compensation expense": [
+   4.0,
+   5.1,
+   6.7
+  ],
+  "Gain on extinguishment of legacy coal liabilities": [
+   -9.5,
+   0.0,
+   0.0
+  ],
+  "Receivables, net": [
+   -8.9,
+   16.8,
+   -32.3
+  ],
+  "Inventories": [
+   1.8,
+   -7.2,
+   -48.2
+  ],
+  "Accounts payable": [
+   -12.9,
+   19.7,
+   27.4
+  ],
+  "Accrued liabilities": [
+   -31.9,
+   -10.2,
+   8.4
+  ],
+  "Income taxes": [
+   1.4,
+   -1.4,
+   0.0
+  ],
+  "Other": [
+   -2.1,
+   1.3,
+   -2.8
+  ],
+  "Net cash provided by operating activities": [
+   168.8,
+   249.0,
+   208.9
+  ],
+  "Capital expenditures": [
+   -72.9,
+   -109.2,
+   -75.5
+  ],
+  "Other investing activities": [
+   0.6,
+   0.0,
+   5.3
+  ],
+  "Net cash used in investing activities": [
+   -72.3,
+   -109.2,
+   -70.2
+  ],
+  "Proceeds from revolving facility": [
+   11.0,
+   291.0,
+   596.0
+  ],
+  "Repayment of revolving facility": [
+   -11.0,
+   -326.0,
+   -676.0
+  ],
+  "Repayment of financing obligation": [
+   0.0,
+   -8.8,
+   -3.2
+  ],
+  "Dividends paid": [
+   -37.6,
+   -30.7,
+   -23.6
+  ],
+  "Cash distributions to noncontrolling interests": [
+   -8.1,
+   -11.8,
+   -4.4
+  ],
+  "Other financing activities": [
+   -1.3,
+   -3.4,
+   -1.3
+  ],
+  "Net cash used in financing activities": [
+   -47.0,
+   -89.7,
+   -112.5
+  ],
+  "Net increase in cash and cash equivalents": [
+   49.5,
+   50.1,
+   26.2
+  ],
+  "Cash and cash equivalents at beginning of year": [
+   140.1,
+   90.0,
+   63.8
+  ],
+  "Cash and cash equivalents at end of year": [
+   189.6,
+   140.1,
+   90.0
+  ]
+ },
+ "2025": {
+  "Years Ended December 31,": [
+   2025.0,
+   2024.0,
+   2023.0
+  ],
+  "Net (loss) income": [
+   -38.8,
+   103.5,
+   63.5
+  ],
+  "Depreciation and amortization expense": [
+   153.6,
+   118.9,
+   142.8
+  ],
+  "Long-lived asset impairment": [
+   90.3,
+   0.0,
+   0.0
+  ],
+  "Deferred income tax (benefit) expense": [
+   -23.1,
+   4.5,
+   18.6
+  ],
+  "Share-based compensation expense": [
+   2.4,
+   4.0,
+   5.1
+  ],
+  "Gain on extinguishment of legacy coal liabilities": [
+   0.0,
+   -9.5,
+   0.0
+  ],
+  "Receivables, net": [
+   31.0,
+   -8.9,
+   16.8
+  ],
+  "Inventories": [
+   -28.1,
+   1.8,
+   -7.2
+  ],
+  "Accounts payable": [
+   -18.6,
+   -12.9,
+   19.7
+  ],
+  "Accrued liabilities": [
+   -21.2,
+   -31.9,
+   -10.2
+  ],
+  "Interest payable": [
+   1.4,
+   0.0,
+   0.0
+  ],
+  "Income taxes": [
+   -25.2,
+   1.4,
+   -1.4
+  ],
+  "Other": [
+   -14.6,
+   -2.1,
+   1.3
+  ],
+  "Net cash provided by operating activities": [
+   109.1,
+   168.8,
+   249.0
+  ],
+  "Capital expenditures": [
+   -66.8,
+   -72.9,
+   -109.2
+  ],
+  "Acquisition of Phoenix Global, net of cash acquired": [
+   -271.5,
+   0.0,
+   0.0
+  ],
+  "Other investing activities": [
+   -0.9,
+   0.6,
+   0.0
+  ],
+  "Net cash used in investing activities": [
+   -339.2,
+   -72.3,
+   -109.2
+  ],
+  "Proceeds from revolving facility": [
+   431.0,
+   11.0,
+   291.0
+  ],
+  "Repayment of revolving facility": [
+   -238.0,
+   -11.0,
+   -326.0
+  ],
+  "Repayment of financing obligation": [
+   0.0,
+   0.0,
+   -8.8
+  ],
+  "Debt issuance costs": [
+   -2.1,
+   0.0,
+   0.0
+  ],
+  "Dividends paid": [
+   -41.4,
+   -37.6,
+   -30.7
+  ],
+  "Cash distributions to noncontrolling interests": [
+   -7.4,
+   -8.1,
+   -11.8
+  ],
+  "Repayment of finance lease liabilities": [
+   -10.3,
+   -0.2,
+   0.0
+  ],
+  "Other financing activities": [
+   -3.0,
+   -1.1,
+   -3.4
+  ],
+  "Net cash provided by (used in) financing activities": [
+   128.8,
+   -47.0,
+   -89.7
+  ],
+  "Effect of translation changes on cash": [
+   0.4,
+   0.0,
+   0.0
+  ],
+  "Net (decrease) increase in cash and cash equivalents": [
+   -100.9,
+   49.5,
+   50.1
+  ],
+  "Cash and cash equivalents at beginning of year": [
+   189.6,
+   140.1,
+   90.0
+  ],
+  "Cash and cash equivalents at end of year": [
+   88.7,
+   189.6,
+   140.1
+  ]
+ }
+}

@@ -1,0 +1,32 @@
+year      OCF   SBC  capex  fin.lease  D&A   owner cash(capex basis)  (D&A basis)
+FY2021   8,958  665 3,588    67 1,781    4,638    6,512
+FY2022   7,392  724 3,891   176 1,900    2,601    4,768
+FY2023  11,068  774 4,323   291 2,077    5,680    8,217
+FY2024  11,339  818 4,710   136 2,237    5,675    8,284
+FY2025  13,335  860 5,498   147 2,426    6,830   10,049
+FY2026  15,825  924 6,435    91 2,674    8,375   12,227
+
+=== Window A, FY2021-FY2025 (the filed 10-K years): five-year average owner cash 5,085 (capex basis); 7,566 (D&A basis); shown growth on aggregate owner cash, endpoints 4,638->6,830: 10.2%/yr
+  no growth                              g=  0.0%  EV    89,837  = $ 202.57/sh (EV)  $ 223.95/sh (equity, + net cash FY2025: cash 14,161 + ST inv 1,123 - debt 5,805)   [D&A basis EV $ 301.42/sh]
+  shown growth                           g= 10.2%  EV   200,742  = $ 452.65/sh (EV)  $ 474.03/sh (equity, + net cash FY2025: cash 14,161 + ST inv 1,123 - debt 5,805)   [D&A basis EV $ 673.53/sh]
+  shown growth capped at the sovereign   g=  5.7%  EV   140,685  = $ 317.23/sh (EV)  $ 338.61/sh (equity, + net cash FY2025: cash 14,161 + ST inv 1,123 - debt 5,805)   [D&A basis EV $ 472.03/sh]
+  range (EV, capex basis): $203 to $453 a share; top/bottom = 2.23; with net cash: $224 to $474
+  FAIR PRICE at 10% (midpoint of the two ends at the floor): EV $173/sh [ends $115 and $232]; equity (+ net cash) $195/sh
+  FAIR PRICE, capped-growth variant: EV $142/sh; equity $163/sh
+  expected return at $935.68 (EV = market cap 414,954 less net cash): no-growth 1.25%, shown-growth 3.01%
+
+=== Window B, FY2022-FY2026 (FY2026 from the unaudited 8-K release): five-year average owner cash 5,832 (capex basis); 8,709 (D&A basis); shown growth on aggregate owner cash, endpoints 2,601->8,375: 34.0%/yr
+  no growth                              g=  0.0%  EV   103,042  = $ 232.35/sh (EV)  $ 266.49/sh (equity, + net cash FY2026: cash 20,207 + ST inv 1,094 - debt 6,162)   [D&A basis EV $ 346.96/sh]
+  shown growth                           g= 34.0%  EV 1,373,989  = $3098.21/sh (EV)  $3132.34/sh (equity, + net cash FY2026: cash 20,207 + ST inv 1,094 - debt 6,162)   [D&A basis EV $4626.43/sh]
+  shown growth capped at the sovereign   g=  5.7%  EV   161,364  = $ 363.86/sh (EV)  $ 398.00/sh (equity, + net cash FY2026: cash 20,207 + ST inv 1,094 - debt 6,162)   [D&A basis EV $ 543.34/sh]
+  range (EV, capex basis): $232 to $3,098 a share; top/bottom = 13.33; with net cash: $266 to $3,132
+  FAIR PRICE at 10% (midpoint of the two ends at the floor): EV $764/sh [ends $132 and $1,397]; equity (+ net cash) $799/sh
+  FAIR PRICE, capped-growth variant: EV $163/sh; equity $197/sh
+  expected return at $935.68 (EV = market cap 414,954 less net cash): no-growth 1.46%, shown-growth 13.26%
+
+Cross-checks: FY2025 operating income/revenue 0.03772412665540356 ; owner cash FY2025 / market cap 0.016459638684057573 ; FY2026 0.020182939089162837
+Pre-tax operating income FY2021->FY2025 CAGR 11.540464829058351 ; revenue CAGR 8.868248129197177 ; FY2026 OI/rev 0.03854476602650798
+
+D&A-basis fair price, Window A: average 7,566, shown growth 11.5%; ends at 10%: $171 and $378; midpoint EV $274/sh, equity $296/sh
+D&A-basis range at the sovereign, Window A: $301 to $746 EV; with net cash $323 to $767
+Growth for ten years (then flat) at which the five-year-average owner cash of 5,085 returns 10% on today's EV of 405,475: 29.7%/yr

@@ -1,0 +1,42 @@
+A. CONTINUING OPERATIONS ex-Mobility (the perimeter being priced), $M
+    yr  contOCF   SBC  capex    D&A  NCIdist  OE(capex)  OE(D&A)  OE ex-wc
+  2023     3145   171    121    832      280       2573     1862      3033
+  2024     5092   247    106    858      287       4452     3700      4217
+  2025     5030   236    167    862      321       4306     3611      4738
+  3-yr mean 2023-25: capex end 3,777 | D&A end 3,058 | capex end, wc movement stripped 3,996
+
+B. CONSOLIDATED AS FILED, the [E2-42] five-year default 2021-2025, $M
+    yr    OCF   SBC  capex    D&A  NCIdist  OE(capex)  OE(D&A)
+  2021   3598   122     35    178      227       3214     3071
+  2022   2603   214     89   1013      270       2030     1106
+  2023   3710   171    143   1143      280       3116     2116
+  2024   5689   247    124   1173      287       5031     3982
+  2025   5651   236    195   1179      321       4899     3915
+  5-yr mean 2021-25: capex end 3,658 | D&A end 2,838
+
+C. PRE-MERGER LEGACY S&P GLOBAL, 2017-2021, $M
+  2017   2016    99    123    180      111       1683     1626
+  2018   2064    94    113    206      154       1703     1610
+  2019   2776    78    115    204      143       2440     2351
+  2020   3567    90     76    206      194       3207     3077
+  2021   3598   122     35    178      227       3214     3071
+  5-yr mean 2017-21: capex end 2,449 | D&A end 2,347
+
+D. WITHOUT the NCI-distribution deduction (the bare CONVENTION), continuing 2023-25
+  2023     2853
+  2024     4739
+  2025     4627
+  mean 4,073
+
+E. TTM to 2026-06-30, continuing (10-Q 0000064040-26-000045)
+  consolidated OCF 5729, capex 156, SBC 239, NCI dist 315
+  Mobility removed: op 380 + D&A 317 - tax 87 = 610
+  continuing OCF 5119, continuing capex 128
+  OE (capex end) = 4437
+
+F. THE [E4-41] CYCLE NORMALIZATION, as a sensitivity and NOT baked in
+  2023: Ratings transaction revenue 1425, billed issuance $2539bn, 5.61 bp
+  2024: Ratings transaction revenue 2326, billed issuance $3911bn, 5.95 bp
+  2025: Ratings transaction revenue 2470, billed issuance $4327bn, 5.71 bp
+  3-yr mean billed issuance $3,592bn at the 3-yr mean rate -> transaction revenue 2,068
+  against FY2025 actual 2,470 -> a shortfall of 402 pre-tax, 310 after tax at 23%

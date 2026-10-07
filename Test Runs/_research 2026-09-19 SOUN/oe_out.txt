@@ -1,0 +1,27 @@
+FY2021       OCF    -66.2 SBC    6.3 capex-end(c)   3.2 D&A   5.5 | OE capex-end    -75.7 | OE D&A-end    -78.0 | SBC/|OCF| n/a (OCF<0)
+FY2022       OCF    -94.0 SBC   28.8 capex-end(c)   2.6 D&A   4.0 | OE capex-end   -125.4 | OE D&A-end   -126.8 | SBC/|OCF| n/a (OCF<0)
+FY2023       OCF    -68.3 SBC   27.9 capex-end(c)   0.6 D&A   2.3 | OE capex-end    -96.7 | OE D&A-end    -98.5 | SBC/|OCF| n/a (OCF<0)
+FY2024       OCF   -108.9 SBC   33.1 capex-end(c)   0.8 D&A  16.1 | OE capex-end   -142.8 | OE D&A-end   -158.1 | SBC/|OCF| n/a (OCF<0)
+FY2025       OCF    -98.2 SBC   83.1 capex-end(c)   5.1 D&A  34.1 | OE capex-end   -186.3 | OE D&A-end   -215.4 | SBC/|OCF| n/a (OCF<0)
+TTM 2026-06  OCF   -114.5 SBC   82.9 capex-end(c)  11.1 D&A  39.7 | OE capex-end   -208.5 | OE D&A-end   -237.0 | SBC/|OCF| n/a (OCF<0)
+H1 2026      OCF    -60.0 SBC   41.1 capex-end(c)   6.4 D&A  21.1 | OE capex-end   -107.4 | OE D&A-end   -122.1 | SBC/|OCF| n/a (OCF<0)
+5y FY2021-25: capex-end   -125.4  D&A-end   -135.4
+4y FY2022-25: capex-end   -137.8  D&A-end   -149.7
+3y FY2023-25: capex-end   -142.0  D&A-end   -157.3
+cap cover 444,109,844: $2,633.6M
+   5y yield capex-end -4.8% D&A-end -5.1%
+   3y yield capex-end -5.4% D&A-end -6.0%
+   TTM yield -7.9% -9.0%
+   floor needs + 263.4 a year; sovereign-equal needs + 140.6
+cap pro forma 484.0M: $2,870.1M
+   5y yield capex-end -4.4% D&A-end -4.7%
+   3y yield capex-end -4.9% D&A-end -5.5%
+   TTM yield -7.3% -8.3%
+   floor needs + 287.0 a year; sovereign-equal needs + 153.3
+cap pro forma 486.8M: $2,886.5M
+   5y yield capex-end -4.3% D&A-end -4.7%
+   3y yield capex-end -4.9% D&A-end -5.5%
+   TTM yield -7.2% -8.2%
+   floor needs + 288.7 a year; sovereign-equal needs + 154.1
+RSU grant value FY2024 57.99771954 FY2025 168.18049026
+5y SBC sum 179.24099999999999 5y OCF sum -435.561

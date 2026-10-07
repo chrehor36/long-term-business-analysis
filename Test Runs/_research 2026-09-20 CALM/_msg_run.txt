@@ -1,0 +1,30 @@
+CALM run: Q1 IN, Q2 OUT -- [E3-03] criterion (2) fails on the registrant's own words
+
+Cal-Maine Foods, wave 7 name 5. Sovereign struck fresh from the US Treasury
+daily par yield curve, 30-year, 5.34% at 09/18/2026. 10-K for FY ended
+2026-05-30, accession 0001562762-26-000080, read; two figures cross-checked
+against the filed statements (share count vs the equity statement, operating
+cash flow and net income vs the cash-flow statement).
+
+Cap re-struck by hand: 46,917,080 shares from the 10-K cover as of 2026-07-22
+x US$72.89 (2026-09-18, aggregator, flagged) = US$3,419.8M. One share class:
+all 4.8M Class A shares converted to Common on 2025-04-14, so no summing arises.
+The screen's cap_flag is a false positive -- it compares a cap at today's price
+against a float struck at the prior half-year end and calls a 12.5% drawdown
+arithmetically impossible.
+
+Q2 OUT: shell eggs priced off a published third-party quote, an industry the
+filer calls intensely competitive and highly fragmented, prices out of its own
+control. The [E2-58] cost-advantage exception was tested against a sixteen-year
+ROE series and failed: -8.8% in FY2017 and +0.2% in FY2021, and the thirteen
+years without the three supply-shock spikes mean 10.4%. Competitor row built
+from four registrants' own 10-Ks; the rest of the industry's top ten are private.
+
+Owner earnings rebuilt over the whole 17-year filed history and both (c) ends,
+headed COMPUTATION -- NOT A CLEARANCE: $57.7M to $614.2M across eight windows,
+negative in three of seventeen years. SBC resolves for every year and is 1.2%
+of operating cash flow.
+
+check_framework.py PASS; ledger_verbatim.py 311 rows, 310 verbatim.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

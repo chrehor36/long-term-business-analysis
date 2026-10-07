@@ -1,0 +1,10 @@
+cap $M 425.3
+by year OCF-SBC-capex: {2019: -6.7, 2020: -35.2, 2021: 2.8, 2022: -9.1, 2023: 79.8, 2024: 56.0, 2025: 6.9}
+by year OCF-SBC-DA:    {2019: -6.6, 2020: -35.8, 2021: 9.7, 2022: -11.7, 2023: 78.9, 2024: 54.3, 2025: 3.8}
+7y FY2019-25: OCF 22.1 capex 4.4 DA 4.7 SBC 4.2 -> capex end 13.5 (3.17%)  DA end 13.2 (3.11%)
+5y FY2021-25: OCF 36.5 capex 4.7 DA 5.0 SBC 4.5 -> capex end 27.3 (6.41%)  DA end 27.0 (6.35%)
+3y FY2023-25: OCF 56.0 capex 3.1 DA 5.0 SBC 5.3 -> capex end 47.6 (11.18%)  DA end 45.7 (10.74%)
+TTM OCF 99.1 capex 2.2 SBC 4.7 DA 8.8 -> OE 92.2 (21.7%); less IEEPA refund 36.5 -> 55.7 (13.1%)
+5y mean operating profit 37.0 after 25.8% tax 27.5
+floor: OE needed for 10% on cap 42.5
+SBC/OCF 5y 12.3

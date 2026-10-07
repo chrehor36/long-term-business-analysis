@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+      <email>webmaster@sec.gov</email>
+      <name>Webmaster</name>
+    </author>
+    <company-info>
+      <addresses>
+        <address type="mailing">
+          <city>SARASOTA</city>
+          <state>FL</state>
+          <street1>6496 UNIVERSITY PARKWAY</street1>
+          <zip>34240</zip>
+        </address>
+        <address type="business">
+          <city>SARASOTA</city>
+          <phone>9415562601</phone>
+          <state>FL</state>
+          <street1>6496 UNIVERSITY PARKWAY</street1>
+          <zip>34240</zip>
+        </address>
+      </addresses>
+      <assigned-sic>3823</assigned-sic>
+      <assigned-sic-desc>INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL</assigned-sic-desc>
+      <assigned-sic-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;SIC=3823&amp;owner=include&amp;count=10</assigned-sic-href>
+      <cik>0000882835</cik>
+      <cik-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000882835&amp;owner=include&amp;count=10</cik-href>
+      <conformed-name>ROPER TECHNOLOGIES INC</conformed-name>
+      <fiscal-year-end>1231</fiscal-year-end>
+      <formerly-names count="3">
+        <names>
+          <date>2015-04-24</date>
+          <name>ROPER INDUSTRIES INC</name>
+        </names>
+        <names>
+          <date>2008-05-14</date>
+          <name>ROPER INDUSTRIES INC /DE/</name>
+        </names>
+        <names>
+          <date>2026-08-14</date>
+          <name>ROPER TECHNOLOGIES INC</name>
+        </names>
+      </formerly-names>
+      <state-location>FL</state-location>
+      <state-location-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;State=FL&amp;owner=include&amp;count=10</state-location-href>
+      <state-of-incorporation>DE</state-of-incorporation>
+    </company-info>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="10-K" />
+      <content type="text/xml">
+        <accession-number>0000882835-26-000009</accession-number>
+        <act>34</act>
+        <file-number>001-12273</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12273&amp;owner=include&amp;count=10</file-number-href>
+        <filing-date>2026-02-24</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/882835/000088283526000009/0000882835-26-000009-index.htm</filing-href>
+        <filing-type>10-K</filing-type>
+        <film-number>26673075</film-number>
+        <form-name>Annual report [Section 13 and 15(d), not S-K Item 405]</form-name>
+        <size>12 MB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=882835&amp;accession_number=0000882835-26-000009&amp;xbrl_type=f</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000882835-26-000009</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/882835/000088283526000009/0000882835-26-000009-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2026-02-24 &lt;b&gt;AccNo:&lt;/b&gt; 0000882835-26-000009 &lt;b&gt;Size:&lt;/b&gt; 12 MB</summary>
+      <title>10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]</title>
+      <updated>2026-02-24T17:25:37-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="10-K" />
+      <content type="text/xml">
+        <accession-number>0000882835-25-000008</accession-number>
+        <act>34</act>
+        <file-number>001-12273</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12273&amp;owner=include&amp;count=10</file-number-href>
+        <filing-date>2025-02-24</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/882835/000088283525000008/0000882835-25-000008-index.htm</filing-href>
+        <filing-type>10-K</filing-type>
+        <film-number>25658085</film-number>
+        <form-name>Annual report [Section 13 and 15(d), not S-K Item 405]</form-name>
+        <size>12 MB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=882835&amp;accession_number=0000882835-25-000008&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000882835-25-000008</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/882835/000088283525000008/0000882835-25-000008-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2025-02-24 &lt;b&gt;AccNo:&lt;/b&gt; 0000882835-25-000008 &lt;b&gt;Size:&lt;/b&gt; 12 MB</summary>
+      <title>10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]</title>
+      <updated>2025-02-24T17:06:17-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="10-K" />
+      <content type="text/xml">
+        <accession-number>0000882835-24-000008</accession-number>
+        <act>34</act>
+        <file-number>001-12273</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12273&amp;owner=include&amp;count=10</file-number-href>
+        <filing-date>2024-02-22</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/882835/000088283524000008/0000882835-24-000008-index.htm</filing-href>
+        <filing-type>10-K</filing-type>
+        <film-number>24665941</film-number>
+        <form-name>Annual report [Section 13 and 15(d), not S-K Item 405]</form-name>
+        <size>13 MB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=882835&amp;accession_number=0000882835-24-000008&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000882835-24-000008</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/882835/000088283524000008/0000882835-24-000008-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2024-02-22 &lt;b&gt;AccNo:&lt;/b&gt; 0000882835-24-000008 &lt;b&gt;Size:&lt;/b&gt; 13 MB</summary>
+      <title>10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]</title>
+      <updated>2024-02-22T17:05:32-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="10-K" />
+      <content type="text/xml">
+        <accession-number>0000882835-23-000016</accession-number>
+        <act>34</act>
+        <file-number>001-12273</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12273&amp;owner=include&amp;count=10</file-number-href>
+        <filing-date>2023-02-27</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/882835/000088283523000016/0000882835-23-000016-index.htm</filing-href>
+        <filing-type>10-K</filing-type>
+        <film-number>23675948</film-number>
+        <form-name>Annual report [Section 13 and 15(d), not S-K Item 405]</form-name>
+        <size>15 MB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=882835&amp;accession_number=0000882835-23-000016&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000882835-23-000016</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/882835/000088283523000016/0000882835-23-000016-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2023-02-27 &lt;b&gt;AccNo:&lt;/b&gt; 0000882835-23-000016 &lt;b&gt;Size:&lt;/b&gt; 15 MB</summary>
+      <title>10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]</title>
+      <updated>2023-02-27T16:48:06-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="10-K" />
+      <content type="text/xml">
+        <accession-number>0000882835-22-000012</accession-number>
+        <act>34</act>
+        <file-number>001-12273</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12273&amp;owner=include&amp;count=10</file-number-href>
+        <filing-date>2022-02-22</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/882835/000088283522000012/0000882835-22-000012-index.htm</filing-href>
+        <filing-type>10-K</filing-type>
+        <film-number>22659182</film-number>
+        <form-name>Annual report [Section 13 and 15(d), not S-K Item 405]</form-name>
+        <size>14 MB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=882835&amp;accession_number=0000882835-22-000012&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000882835-22-000012</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/882835/000088283522000012/0000882835-22-000012-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2022-02-22 &lt;b&gt;AccNo:&lt;/b&gt; 0000882835-22-000012 &lt;b&gt;Size:&lt;/b&gt; 14 MB</summary>
+      <title>10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]</title>
+      <updated>2022-02-22T17:02:07-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="10-K" />
+      <content type="text/xml">
+        <accession-number>0000882835-21-000011</accession-number>
+        <act>34</act>
+        <file-number>001-12273</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12273&amp;owner=include&amp;count=10</file-number-href>
+        <filing-date>2021-02-22</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/882835/000088283521000011/0000882835-21-000011-index.htm</filing-href>
+        <filing-type>10-K</filing-type>
+        <film-number>21658406</film-number>
+        <form-name>Annual report [Section 13 and 15(d), not S-K Item 405]</form-name>
+        <size>13 MB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=882835&amp;accession_number=0000882835-21-000011&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000882835-21-000011</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/882835/000088283521000011/0000882835-21-000011-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2021-02-22 &lt;b&gt;AccNo:&lt;/b&gt; 0000882835-21-000011 &lt;b&gt;Size:&lt;/b&gt; 13 MB</summary>
+      <title>10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]</title>
+      <updated>2021-02-22T08:59:47-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="10-K" />
+      <content type="text/xml">
+        <accession-number>0000882835-20-000006</accession-number>
+        <act>34</act>
+        <file-number>001-12273</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12273&amp;owner=include&amp;count=10</file-number-href>
+        <filing-date>2020-02-28</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/882835/000088283520000006/0000882835-20-000006-index.htm</filing-href>
+        <filing-type>10-K</filing-type>
+        <film-number>20668496</film-number>
+        <form-name>Annual report [Section 13 and 15(d), not S-K Item 405]</form-name>
+        <size>13 MB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=882835&amp;accession_number=0000882835-20-000006&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000882835-20-000006</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/882835/000088283520000006/0000882835-20-000006-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2020-02-28 &lt;b&gt;AccNo:&lt;/b&gt; 0000882835-20-000006 &lt;b&gt;Size:&lt;/b&gt; 13 MB</summary>
+      <title>10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]</title>
+      <updated>2020-02-28T14:02:08-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="10-K" />
+      <content type="text/xml">
+        <accession-number>0000882835-19-000010</accession-number>
+        <act>34</act>
+        <file-number>001-12273</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12273&amp;owner=include&amp;count=10</file-number-href>
+        <filing-date>2019-02-25</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/882835/000088283519000010/0000882835-19-000010-index.htm</filing-href>
+        <filing-type>10-K</filing-type>
+        <film-number>19628543</film-number>
+        <form-name>Annual report [Section 13 and 15(d), not S-K Item 405]</form-name>
+        <size>12 MB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=882835&amp;accession_number=0000882835-19-000010&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000882835-19-000010</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/882835/000088283519000010/0000882835-19-000010-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2019-02-25 &lt;b&gt;AccNo:&lt;/b&gt; 0000882835-19-000010 &lt;b&gt;Size:&lt;/b&gt; 12 MB</summary>
+      <title>10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]</title>
+      <updated>2019-02-25T11:44:47-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="10-K" />
+      <content type="text/xml">
+        <accession-number>0000882835-18-000011</accession-number>
+        <act>34</act>
+        <file-number>001-12273</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12273&amp;owner=include&amp;count=10</file-number-href>
+        <filing-date>2018-02-23</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/882835/000088283518000011/0000882835-18-000011-index.htm</filing-href>
+        <filing-type>10-K</filing-type>
+        <film-number>18636628</film-number>
+        <form-name>Annual report [Section 13 and 15(d), not S-K Item 405]</form-name>
+        <size>11 MB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=882835&amp;accession_number=0000882835-18-000011&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000882835-18-000011</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/882835/000088283518000011/0000882835-18-000011-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2018-02-23 &lt;b&gt;AccNo:&lt;/b&gt; 0000882835-18-000011 &lt;b&gt;Size:&lt;/b&gt; 11 MB</summary>
+      <title>10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]</title>
+      <updated>2018-02-23T16:10:12-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="https://www.sec.gov/" term="10-K" />
+      <content type="text/xml">
+        <accession-number>0000882835-17-000006</accession-number>
+        <act>34</act>
+        <file-number>001-12273</file-number>
+        <file-number-href>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12273&amp;owner=include&amp;count=10</file-number-href>
+        <filing-date>2017-02-27</filing-date>
+        <filing-href>https://www.sec.gov/Archives/edgar/data/882835/000088283517000006/0000882835-17-000006-index.htm</filing-href>
+        <filing-type>10-K</filing-type>
+        <film-number>17640875</film-number>
+        <form-name>Annual report [Section 13 and 15(d), not S-K Item 405]</form-name>
+        <size>10 MB</size>
+        <xbrl_href>https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=882835&amp;accession_number=0000882835-17-000006&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000882835-17-000006</id>
+      <link href="https://www.sec.gov/Archives/edgar/data/882835/000088283517000006/0000882835-17-000006-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-02-27 &lt;b&gt;AccNo:&lt;/b&gt; 0000882835-17-000006 &lt;b&gt;Size:&lt;/b&gt; 10 MB</summary>
+      <title>10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]</title>
+      <updated>2017-02-27T13:56:23-05:00</updated>
+    </entry>
+    <id>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000882835</id>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=ROP&amp;type=10-K&amp;start=0&amp;count=10" rel="alternate" type="text/html" />
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=ROP&amp;type=10-K&amp;start=0&amp;count=10&amp;output=atom" rel="self" type="application/atom+xml" />
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000882835&amp;type=10-K%25&amp;datea=&amp;dateb=&amp;owner=include&amp;count=10&amp;output=atom&amp;start=10" rel="next" type="application/atom+xml" />
+    <title>ROPER TECHNOLOGIES INC  (0000882835)</title>
+    <updated>2026-09-05T06:14:37-04:00</updated>
+  </feed>

@@ -1,0 +1,20 @@
+[
+ {
+  "id": "ESI-floor-band",
+  "ticker": "ESI",
+  "currency": "USD",
+  "op": "<=",
+  "threshold": 15.13,
+  "active": true,
+  "label": "ESI at/below $15.13: the E4-28 floor is met at g = 3.3% (the 10-Ks' organic sales growth FY2020-FY2025, currency, metal pass-through and purchases removed) on the five-year capex-end owner earnings of $237.8M (FY2021-FY2025, before EFC and Micromax) and 243,690,914 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW: no filed price series; the spread over materials held through the predecessor's 2001-2002 electronics depression, FY2019, FY2020 and FY2023; price raised in 2022 with volume soft and kept against deflating raw materials 2023-2025; 46-81% pre-tax on net tangible capital FY2019-FY2025; the falling-ASP industry, MacDermid's 2011 Asian write-down, the 2021-2022 lag and Atotech's higher margins the recorded caveats; E4-04 read as a lead maintained); Q5 quit on at $35.12 (yield 2.78-2.95% five-year against 5.49%, expectancy about 5.0-6.3%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag and converging Q3 prompts: Adjusted EBITDA as headline and pay metric; the 2022 stretch awards replaced by $37.1M of immediately vested shares; buybacks at about $18.90 in 2022; $1.7bn of purchases FY2019-H1 2026, $866M of it in 2026 on borrowed money; the terminated Solstice sale with 200-300% award acceleration). VOID if any falsifier has fired: a year of falling organic sales with the ex-metal gross margin down more than three points, or an MD&A naming price, pricing pressure or discounting as a cause of a segment margin fall; a filed price-and-volume bridge with price negative in a year of flat or falling raw-material costs; Electronics ex-metal adjusted EBITDA margin below Qnity Interconnect Solutions' two years; pre-tax return on net tangible capital below 40% two consecutive years; a goodwill impairment on Coventya, EFC or Micromax, or another borrowed purchase above $500M while net debt exceeds four times operating income before amortization; another long-lived pay target cancelled or replaced after it became unattainable, or a sale agreed with awards accelerated above target. SUSPENDED if a new merger agreement or tender offer is filed (the quote becomes a spread, the ROKU rule). Re-derive on the FY2026 10-K (about February 2027, the first year with EFC and Micromax). Source: Test Runs/2026-09-28 Run - ESI Element Solutions.md."
+ },
+ {
+  "id": "ESI-rerun-band",
+  "ticker": "ESI",
+  "currency": "USD",
+  "op": "<=",
+  "threshold": 21.73,
+  "active": true,
+  "label": "ESI at/below $21.73: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY, CAT, MSA, ECL and KEYS convention under E4-44) is granted on the five-year depreciation-end owner earnings ($252.2M, FY2021-FY2025). Prompt for a FULL v4.1 re-run in which the level, the growth, the metal working capital and the (c) end are re-tested before any is spent. Re-derive both ESI bands on the FY2026 10-K; VOID if any falsifier in ESI-floor-band has fired; SUSPENDED if a new bid is filed. Source: Test Runs/2026-09-28 Run - ESI Element Solutions.md."
+ }
+]

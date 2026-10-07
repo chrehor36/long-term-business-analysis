@@ -1,0 +1,38 @@
+==============================================================================
+Performance Food Group Co  (PFGC)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.56%   09/28/2026   US Treasury daily par yield curve
+  price     91.97 USD   2026-09-28   (aggregator — live quote only)
+  shares    157.5M      market cap 14.49B USD
+  share basis: dei cover-page count as of 2026-08-05
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2024-06-29      1,163       42       557        396        564        725
+    2025-06-28      1,210       48       718        506        444        656
+    2026-06-27      1,414       52       814        384        548        978
+          mean                                                 519        787
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 324 .. 579   yield 2.23%..4.00%
+  DIVERGENCE vs the 3-yr window: -37.6% on the conservative end
+  ** The spread is part of the RANGE [E4-25], not a tiebreak.
+     "Working with a range of possibilities is the better approach."
+     Do NOT pick a window and defend it. If the combined range
+     (window spread x capex band) is too wide to reach a conclusion,
+     THAT IS THE CONCLUSION [E4-25]. A wide spread is also a Q4
+     finding about earnings reliability [E5-11]. **
+
+  1. THE YIELD                  3.58% ..  5.43%   vs sovereign 5.56%
+  2. GROWTH THE PRICE ASSUMES   -1.5%  (at a 5.56% rate)
+  3. POINTS OVER THE SOVEREIGN +0.69 .. +2.62
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

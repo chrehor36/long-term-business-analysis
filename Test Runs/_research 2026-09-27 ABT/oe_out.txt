@@ -1,0 +1,41 @@
+| year | perimeter / named break | OCF | SBC | capex | depreciation | OE capex end | OE depreciation end | screen-style (c)=D+A |
+|---|---|---|---|---|---|---|---|---|
+| 2013 | post-AbbVie; pre-St. Jude | 3,324 | 262 | 1,145 | 928 | 1,917 | 2,134 | 1,343 |
+| 2014 | pre-St. Jude | 3,675 | 246 | 1,077 | 918 | 2,352 | 2,511 | 1,881 |
+| 2015 | Mylan/Zoetis sales; pre-St. Jude | 2,966 | 292 | 1,110 | 871 | 1,564 | 1,803 | 1,202 |
+| 2016 | pre-St. Jude (AMO still in) | 3,203 | 310 | 1,121 | 803 | 1,772 | 2,090 | 1,540 |
+| 2017 | St. Jude from 4 Jan, Alere from 3 Oct; AMO sold | 5,570 | 406 | 1,135 | 1,046 | 4,029 | 4,118 | 2,143 |
+| 2018 |  | 6,300 | 477 | 1,394 | 1,100 | 4,429 | 4,723 | 2,545 |
+| 2019 |  | 6,136 | 519 | 1,638 | 1,078 | 3,979 | 4,539 | 2,603 |
+| 2020 | COVID tests $3.9bn | 7,901 | 546 | 2,177 | 1,195 | 5,178 | 6,160 | 4,028 |
+| 2021 | COVID tests $7.7bn | 10,533 | 640 | 1,885 | 1,491 | 8,008 | 8,402 | 6,355 |
+| 2022 | COVID tests $8.4bn; Sturgis recall | 9,581 | 685 | 1,777 | 1,254 | 7,119 | 7,642 | 5,629 |
+| 2023 | COVID tests $1.6bn; CSI | 7,261 | 644 | 2,202 | 1,277 | 4,415 | 5,340 | 3,374 |
+| 2024 | COVID $0.7bn | 8,558 | 673 | 2,207 | 1,340 | 5,678 | 6,545 | 4,667 |
+| 2025 | COVID $0.3bn | 9,566 | 664 | 2,171 | 1,434 | 6,731 | 7,468 | 5,786 |
+
+Every trailing window ending 2025:
+   3y 2023-2025: $5,608M to $6,451M = 3.20% to 3.68%
+   4y 2022-2025: $5,986M to $6,749M = 3.42% to 3.85% [carries COVID 2020-22]
+   5y 2021-2025: $6,390M to $7,079M = 3.65% to 4.04% [carries COVID 2020-22]
+   6y 2020-2025: $6,188M to $6,926M = 3.53% to 3.95% [carries COVID 2020-22]
+   7y 2019-2025: $5,873M to $6,585M = 3.35% to 3.76% [carries COVID 2020-22]
+   8y 2018-2025: $5,692M to $6,352M = 3.25% to 3.62% [carries COVID 2020-22]
+   9y 2017-2025: $5,507M to $6,104M = 3.14% to 3.48% [carries COVID 2020-22]
+  10y 2016-2025: $5,134M to $5,703M = 2.93% to 3.25%  [spans pre-St. Jude perimeter] [carries COVID 2020-22]
+  11y 2015-2025: $4,809M to $5,348M = 2.74% to 3.05%  [spans pre-St. Jude perimeter] [carries COVID 2020-22]
+  12y 2014-2025: $4,604M to $5,112M = 2.63% to 2.92%  [spans pre-St. Jude perimeter] [carries COVID 2020-22]
+  13y 2013-2025: $4,398M to $4,883M = 2.51% to 2.79%  [spans pre-St. Jude perimeter] [carries COVID 2020-22]
+  6 non-COVID years of the 2017+ perimeter (2017-19, 2023-25): $4,877M to $5,456M = 2.78% to 3.11%
+  5 non-COVID years excl. St. Jude year (2018-19, 2023-25): $5,046M to $5,723M = 2.88% to 3.27%
+screen bottom check (3y, (c)=depreciation+amortization): 4,609.0; screen top check (5y capex end): 6,390.2
+TTM to 2026-06-30: OCF 9,905 SBC 718 capex 2,081 dep 1,524 -> OE 7,106 to 7,663; 4.05% to 4.37% (includes ~3 months of Exact Sciences and the cash settlement of its equity awards)
+  2017: dividends 1,849 + buybacks 117 = 1,966 vs OE capex end 4,029  (49%)
+  2018: dividends 1,974 + buybacks 238 = 2,212 vs OE capex end 4,429  (50%)
+  2019: dividends 2,270 + buybacks 718 = 2,988 vs OE capex end 3,979  (75%)
+  2020: dividends 2,560 + buybacks 403 = 2,963 vs OE capex end 5,178  (57%)
+  2021: dividends 3,202 + buybacks 2,299 = 5,501 vs OE capex end 8,008  (69%)
+  2022: dividends 3,309 + buybacks 3,795 = 7,104 vs OE capex end 7,119  (100%)
+  2023: dividends 3,556 + buybacks 1,227 = 4,783 vs OE capex end 4,415  (108%)
+  2024: dividends 3,836 + buybacks 1,295 = 5,131 vs OE capex end 5,678  (90%)
+  2025: dividends 4,116 + buybacks 893 = 5,009 vs OE capex end 6,731  (74%)

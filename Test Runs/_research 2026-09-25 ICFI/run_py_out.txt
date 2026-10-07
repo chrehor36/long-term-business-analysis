@@ -1,0 +1,32 @@
+==============================================================================
+ICF International, Inc.  (ICFI)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.47%   09/24/2026   US Treasury daily par yield curve
+  price     83.00 USD   2026-09-24   (aggregator — live quote only)
+  shares    17.9M      market cap 1.49B USD
+  share basis: dei cover-page count as of 2026-07-31
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-12-31        152       23        61         22         69        107
+    2024-12-31        172       25        54         21         93        125
+    2025-12-31        142       22        58         22         62         98
+          mean                                                  74        110
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 75 .. 104   yield 5.02%..6.96%
+  DIVERGENCE vs the 3-yr window: +0.3% on the conservative end
+
+  1. THE YIELD                  5.00% ..  7.40%   vs sovereign 5.47%
+  2. GROWTH THE PRICE ASSUMES   -9.2%  (at a 5.47% rate)
+  3. POINTS OVER THE SOVEREIGN +2.27 .. +4.77
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

@@ -1,0 +1,15 @@
+owner cash (OCF-SBC-capex): {2017: 63.9, 2018: 25.5, 2019: 54.9, 2020: 153.4, 2021: 52.7, 2022: 150.1, 2023: -158.6, 2024: 545.7, 2025: 246.0, 2026: 240.5}
+owner cash D&A basis: {2017: 56.3, 2018: 22.2, 2019: 45.3, 2020: 152.7, 2021: 30.1, 2022: 140.8, 2023: -164.9, 2024: 542.9, 2025: 260.1, 2026: 246.7}
+5yr avg 204.7  10yr avg 137.4  5yr D&A 205.1 10yr D&A 133.2
+non-capex investing 10yr 855.4, per yr 85.5; owner cash after all investing per yr 51.9
+growth shown owner cash FY22-26 12.51%; sales FY17-26 2.41%; sales FY22-26 1.68%
+A conv 5yr: base 204.7; value $3,637M-$9,778M = $84.82-$228.05/sh (g 12.5%), width 2.69x; yield at price 17.7% after tax, 24.6% pretax@28%
+A2 conv 5yr capped at sales growth: base 204.7; value $3,637M-$4,154M = $84.82-$96.88/sh (g 1.7%), width 1.14x; yield at price 17.7% after tax, 24.6% pretax@28%
+B whole cycle 10yr: base 137.4; value $2,441M-$2,955M = $56.92-$68.91/sh (g 2.4%), width 1.21x; yield at price 11.9% after tax, 16.5% pretax@28%
+C central: 10yr x0.72 run-off: base 98.9; value $1,757M-$2,127M = $40.98-$49.61/sh (g 2.4%), width 1.21x; yield at price 8.5% after tax, 11.9% pretax@28%
+D stress: after all investing: base 51.9; value $921M-$921M = $21.49-$21.49/sh (g 0.0%), width 1.00x; yield at price 4.5% after tax, 6.2% pretax@28%
+market cap 1157
+central fair price (10% pretax, no growth, tax 28%) $32.05
+stress fair price (10% pretax, no growth, tax 28%) $16.80
+5yr fair price (10% pretax, no growth, tax 28%) $66.32
+10yr fair price (10% pretax, no growth, tax 28%) $44.51

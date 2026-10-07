@@ -1,0 +1,2470 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1000184/000110465921031847
+ACCESSION: 0001104659-21-031847
+TICKER: SAP
+
+
+====================================================================================================
+## CONSOLIDATED INCOME STATEMENT   [R2.htm]
+====================================================================================================
+XML
+45
+R2.htm
+IDEA: XBRL DOCUMENT
+v3.20.4
+CONSOLIDATED INCOME STATEMENT - EUR (€) € in Millions
+12 Months Ended
+Dec. 31, 2020
+Dec. 31, 2019
+Dec. 31, 2018
+CONSOLIDATED INCOME STATEMENTS
+Cloud
+€ 8,080
+€ 6,933
+€ 4,993
+Software licenses
+3,642
+4,533
+4,647
+Software support
+11,506
+11,547
+10,981
+Software licenses and support
+15,148
+16,080
+15,628
+Cloud and software
+23,228
+23,012
+20,622
+Services
+4,110
+4,541
+4,086
+Total revenue
+27,338
+27,553
+24,708
+Cost of cloud
+(2,699)
+(2,534)
+(2,068)
+Cost of software licenses and support
+(2,008)
+(2,159)
+(2,092)
+Cost of cloud and software
+(4,707)
+(4,692)
+(4,160)
+Cost of services
+(3,178)
+(3,662)
+(3,302)
+Total cost of revenue
+(7,886)
+(8,355)
+(7,462)
+Gross profit
+19,453
+19,199
+17,246
+Research and development
+(4,454)
+(4,292)
+(3,624)
+Sales and marketing
+(7,106)
+(7,693)
+(6,781)
+General and administration
+(1,356)
+(1,629)
+(1,098)
+Restructuring
+3
+(1,130)
+(19)
+Other operating income/expense, net
+84
+18
+(20)
+Total operating expenses
+(20,715)
+(23,081)
+(19,005)
+Operating profit
+6,623
+4,473
+5,703
+Other non-operating income/expense, net
+(179)
+(74)
+(56)
+Finance income
+1,473
+787
+371
+Finance costs
+(697)
+(589)
+(418)
+Financial income, net
+776
+198
+(47)
+Profit before tax
+7,220
+4,596
+5,600
+Income tax expense
+(1,938)
+(1,226)
+(1,511)
+Profit after tax
+5,283
+3,370
+4,088
+Attributable to owners of parent
+5,145
+3,321
+4,083
+Attributable to non-controlling interests
+€ 138
+€ 50
+€ 6
+Earnings per share, basic (in Euro per share)
+€ 4.35
+€ 2.78
+€ 3.42
+Earnings per share, diluted (in Euro per share)
+€ 4.35
+€ 2.78
+€ 3.42
+X
+- DefinitionThe amount of expenses that the entity classifies as being administrative.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 26 -IssueDate 2020-01-01 -Paragraph 35 -Subparagraph b -Clause vi -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=26&code=ifrs-tx-2020-en-r&anchor=para_35_b_vi&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 103 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_103&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 99 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_99&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_AdministrativeExpense
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of profit (loss) attributable to ordinary equity holders of the parent entity (the numerator) divided by the weighted average number of ordinary shares outstanding during the period (the denominator).
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 33 -IssueDate 2020-01-01 -Paragraph 66 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=33&code=ifrs-tx-2020-en-r&anchor=para_66&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_BasicEarningsLossPerShare
+Namespace Prefix:
+ifrs-full_
+Data Type:
+num:perShareItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- DefinitionThe amount of costs relating to expenses directly or indirectly attributed to the goods or services sold, which may include, but are not limited to, costs previously included in the measurement of inventory that has now been sold, unallocated production overheads and abnormal amounts of production costs of inventories.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 99 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_99&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 103 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_103&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CostOfSales
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of profit (loss) attributable to ordinary equity holders of the parent entity (the numerator), divided by the weighted average number of ordinary shares outstanding during the period (the denominator), both adjusted for the effects of all dilutive potential ordinary shares. [Refer: Ordinary shares [member]; Weighted average [member]]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 33 -IssueDate 2020-01-01 -Paragraph 66 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=33&code=ifrs-tx-2020-en-r&anchor=para_66&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_DilutedEarningsLossPerShare
+Namespace Prefix:
+ifrs-full_
+Data Type:
+num:perShareItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- DefinitionThe amount of costs associated with financing activities of the entity.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 82 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_82_b&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_FinanceCosts
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of income associated with interest and other financing activities of the entity.
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 85 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_85&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_FinanceIncome
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of income or cost associated with interest and other financing activities of the entity.
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 85 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_85&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_FinanceIncomeCost
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of revenue less cost of sales. [Refer: Cost of sales; Revenue]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 103 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_103&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_GrossProfit
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- ReferencesNo definition available.
++ Details
+Name:
+ifrs-full_IncomeStatementAbstract
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- DefinitionThe aggregate amount included in the determination of profit (loss) for the period in respect of current tax and deferred tax. [Refer: Current tax expense (income); Deferred tax expense (income)]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 23 -Subparagraph h -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_23_h&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 26 -IssueDate 2020-01-01 -Paragraph 35 -Subparagraph b -Clause viii -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=26&code=ifrs-tx-2020-en-r&anchor=para_35_b_viii&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 12 -IssueDate 2020-01-01 -Paragraph 79 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=12&code=ifrs-tx-2020-en-r&anchor=para_79&doctype=Standard -URIDate 2020-01-01Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 12 -IssueDate 2020-01-01 -Paragraph 81 -Subparagraph c -Clause i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=12&code=ifrs-tx-2020-en-r&anchor=para_81_c_i&doctype=Standard -URIDate 2020-01-01Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 82 -Subparagraph d -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_82_d&doctype=Standard -URIDate 2020-01-01Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 12 -IssueDate 2020-01-01 -Paragraph 81 -Subparagraph c -Clause ii -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=12&code=ifrs-tx-2020-en-r&anchor=para_81_c_ii&doctype=Standard -URIDate 2020-01-01Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B13 -Subparagraph g -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B13_g&doctype=Appendix&subtype=B -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_IncomeTaxExpenseContinuingOperations
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of income arising from licence fees.
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 112 -Subparagraph c -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_112_c&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_LicenceFeeIncome
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of all operating expenses.
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 85 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_85&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OperatingExpense
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of operating income (expense) that the entity does not separately disclose in the same statement or note.
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 85 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_85&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherOperatingIncomeExpense
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe total of income less expenses from continuing and discontinued operations, excluding the components of other comprehensive income. [Refer: Other comprehensive income]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 18 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_18_b&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 1 -IssueDate 2020-01-01 -Paragraph 24 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=1&code=ifrs-tx-2020-en-r&anchor=para_24_b&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 1 -IssueDate 2020-01-01 -Paragraph 32 -Subparagraph a -Clause ii -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=1&code=ifrs-tx-2020-en-r&anchor=para_32_a_ii&doctype=Standard -URIDate 2020-01-01Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 28 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_28_b&doctype=Standard -URIDate 2020-01-01Reference 5: http://www.xbrl.org/2003/role/exampleRef -Note Effective on first application of IFRS 9 -Name IFRS -Number 4 -IssueDate 2020-01-01 -Paragraph 39L -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=4&code=ifrs-tx-2020-en-b&anchor=para_39L_e&doctype=Standard -URIDate 2020-01-01Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 23 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_23&doctype=Standard -URIDate 2020-01-01Reference 7: http://www.xbrl.org/2003/role/exampleRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B10 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B10_b&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 106 -Subparagraph d -Clause i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_106_d_i&doctype=Standard -URIDate 2020-01-01Reference 9: http://www.xbrl.org/2003/role/exampleRef -Note Effective 2021-01-01 -Name IFRS -Number 17 -IssueDate 2020-01-01 -Paragraph 113 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=17&code=ifrs-tx-2020-en-r&anchor=para_113_b&doctype=Standard -URIDate 2020-01-01Reference 10: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 81A -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_81A_a&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ProfitLoss
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe profit (loss) from continuing and discontinued operations attributable to non-controlling interests. [Refer: Profit (loss); Non-controlling interests]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph 12 -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_12_e&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 81B -Subparagraph a -Clause i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_81B_a_i&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ProfitLossAttributableToNoncontrollingInterests
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe profit (loss) from continuing and discontinued operations attributable to owners of the parent. [Refer: Profit (loss)]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 81B -Subparagraph a -Clause ii -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_81B_a_ii&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ProfitLossAttributableToOwnersOfParent
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe profit (loss) before tax expense or income. [Refer: Profit (loss)]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 28 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_28_b&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/exampleRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 23 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_23&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 103 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_103&doctype=Standard -URIDate 2020-01-01Reference 4: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 102 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_102&doctype=Standard -URIDate 2020-01-01Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 5 -IssueDate 2020-01-01 -Paragraph 33 -Subparagraph b -Clause i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=5&code=ifrs-tx-2020-en-r&anchor=para_33_b_i&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ProfitLossBeforeTax
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe profit (loss) from operating activities of the entity. [Refer: Profit (loss)]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 32 -IssueDate 2020-01-01 -Paragraph IE33 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=32&code=ifrs-tx-2020-en-r&anchor=para_IE33&doctype=Illustrative%20Examples -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 85 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_85&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ProfitLossFromOperatingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of expenditure directly attributable to research or development activities, recognised in profit or loss.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 38 -IssueDate 2020-01-01 -Paragraph 126 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=38&code=ifrs-tx-2020-en-r&anchor=para_126&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ResearchAndDevelopmentExpense
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe income arising in the course of an entity's ordinary activities. Income is increases in assets, or decreases in liabilities, that result in increases in equity, other than those relating to contributions from holders of equity claims.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 28 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_28_a&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 23 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_23_a&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 32 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_32&doctype=Standard -URIDate 2020-01-01Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 33 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_33_a&doctype=Standard -URIDate 2020-01-01Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 34 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_34&doctype=Standard -URIDate 2020-01-01Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 82 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_82_a&doctype=Standard -URIDate 2020-01-01Reference 7: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 103 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_103&doctype=Standard -URIDate 2020-01-01Reference 8: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 102 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_102&doctype=Standard -URIDate 2020-01-01Reference 9: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 5 -IssueDate 2020-01-01 -Paragraph 33 -Subparagraph b -Clause i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=5&code=ifrs-tx-2020-en-r&anchor=para_33_b_i&doctype=Standard -URIDate 2020-01-01Reference 10: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B12 -Subparagraph b -Clause v -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B12_b_v&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 11: http://www.xbrl.org/2003/role/exampleRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B10 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B10_b&doctype=Appendix&subtype=B -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_Revenue
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of revenue arising from the rendering of consulting services relating to information technology. [Refer: Revenue]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 112 -Subparagraph c -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_112_c&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_RevenueFromRenderingOfInformationTechnologyConsultingServices
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of revenue arising from the rendering of maintenance and support services relating to information technology. [Refer: Revenue]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 112 -Subparagraph c -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_112_c&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_RevenueFromRenderingOfInformationTechnologyMaintenanceAndSupportServices
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of expense relating to the marketing and selling of goods or services.
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 85 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_85&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_SalesAndMarketingExpense
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of expense arising from services.
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 85 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_85&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ServicesExpense
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of income arising from cloud subscription and support.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_CloudSubscriptionsAndSupportRevenue
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of expense arising from cloud and software.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_CostCloudSoftware
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of expense arising from cloud subscription and support.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_CostCloudSubscriptionsSupport
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of expense arising from software licenses and support.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_CostSoftwareLicensesSupport
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of impact of restructuring activities.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_ImpactOfRestructuringActivities
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of non-operating income and expense, net, that the entity does not separately disclose in the same statement or note.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_OtherNonOperatingIncomeExpensesNet
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of revenue arising from cloud and software.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_RevenueFromCloudAndSoftware
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of income arising from software licenses and support
++ ReferencesNo definition available.
++ Details
+Name:
+sap_SoftwareLicensesAndSupportRevenue
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+
+====================================================================================================
+## CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME   [R3.htm]
+====================================================================================================
+XML
+46
+R3.htm
+IDEA: XBRL DOCUMENT
+v3.20.4
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME - EUR (€) € in Millions
+12 Months Ended
+Dec. 31, 2020
+Dec. 31, 2019
+Dec. 31, 2018
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+Profit after tax
+€ 5,283
+€ 3,370
+€ 4,088
+Items that will not be reclassified to profit or loss
+Remeasurements on defined benefit pension plans, before tax
+39
+(57)
+12
+Income taxes relating to remeasurements on defined benefit pension plans
+(9)
+5
+(1)
+Remeasurements on defined benefit pension plans, net of tax
+30
+(52)
+11
+Other comprehensive income for items that will not be reclassified to profit or loss, net of tax
+30
+(52)
+11
+Items that will be reclassified subsequently to profit or loss
+Exchange differences, before tax
+(2,792)
+537
+910
+Income taxes relating to exchange differences on translation
+1
+0
+0
+Exchange differences, net of tax
+(2,791)
+537
+910
+Gains (losses) on cash flow hedges/cost of hedging, before tax
+20
+(24)
+(10)
+Reclassification adjustments on cash flow hedges/cost of hedging, before tax
+(6)
+22
+(22)
+Cash flow hedges/cost of hedging, before tax
+14
+(2)
+(32)
+Income taxes relating to cash flow hedges/cost of hedging
+(4)
+0
+9
+Cash flow hedges/cost of hedging, net of tax
+10
+(1)
+(23)
+Other comprehensive income for items that will be reclassified to profit or loss, net of tax
+(2,781)
+536
+887
+Other comprehensive income, net of tax
+(2,751)
+483
+898
+Total comprehensive income
+2,532
+3,854
+4,986
+Attributable to owners of parent
+2,394
+3,804
+4,980
+Attributable to non-controlling interests
+€ 138
+€ 50
+€ 6
+X
+- ReferencesNo definition available.
++ Details
+Name:
+ifrs-full_ComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTaxAbstract
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- ReferencesNo definition available.
++ Details
+Name:
+ifrs-full_ComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTaxAbstract
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- DefinitionThe amount of change in equity resulting from transactions and other events, other than those changes resulting from transactions with owners in their capacity as owners.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 1 -IssueDate 2020-01-01 -Paragraph 32 -Subparagraph a -Clause ii -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=1&code=ifrs-tx-2020-en-r&anchor=para_32_a_ii&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 1 -IssueDate 2020-01-01 -Paragraph 24 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=1&code=ifrs-tx-2020-en-r&anchor=para_24_b&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B12 -Subparagraph b -Clause ix -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B12_b_ix&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 106 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_106_a&doctype=Standard -URIDate 2020-01-01Reference 5: http://www.xbrl.org/2003/role/exampleRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B10 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B10_b&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 81A -Subparagraph c -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_81A_c&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ComprehensiveIncome
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of comprehensive income attributable to non-controlling interests. [Refer: Comprehensive income; Non-controlling interests]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 106 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_106_a&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 81B -Subparagraph b -Clause i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_81B_b_i&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of comprehensive income attributable to owners of the parent. [Refer: Comprehensive income]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 106 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_106_a&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 81B -Subparagraph b -Clause ii -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_81B_b_ii&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe gains (losses) recognised in other comprehensive income on cash flow hedges, before tax. [Refer: Cash flow hedges [member]]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 91 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_91_b&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Note Expiry date 2021-01-01 -Name IFRS -Number 7 -IssueDate 2020-01-01 -Paragraph 23 -Subparagraph c -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=7&code=ifrs-tx-2017-en-b&anchor=para_23_c&doctype=Standard&book=b -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_GainsLossesOnCashFlowHedgesBeforeTax
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of income tax relating to amounts recognised in other comprehensive income in relation to cash flow hedges. [Refer: Cash flow hedges [member]; Other comprehensive income]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 12 -IssueDate 2020-01-01 -Paragraph 81 -Subparagraph ab -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=12&code=ifrs-tx-2020-en-r&anchor=para_81_ab&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 90 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_90&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_IncomeTaxRelatingToCashFlowHedgesOfOtherComprehensiveIncome
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of income tax relating to amounts recognised in other comprehensive income in relation to exchange differences on the translation of financial statements of foreign operations. [Refer: Other comprehensive income; Reserve of exchange differences on translation]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 12 -IssueDate 2020-01-01 -Paragraph 81 -Subparagraph ab -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=12&code=ifrs-tx-2020-en-r&anchor=para_81_ab&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 90 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_90&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_IncomeTaxRelatingToExchangeDifferencesOnTranslationOfOtherComprehensiveIncome
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of income tax relating to amounts recognised in other comprehensive income in relation to remeasurements of defined benefit plans. [Refer: Other comprehensive income; Reserve of remeasurements of defined benefit plans; Defined benefit plans [member]]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 12 -IssueDate 2020-01-01 -Paragraph 81 -Subparagraph ab -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=12&code=ifrs-tx-2020-en-r&anchor=para_81_ab&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 90 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_90&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_IncomeTaxRelatingToRemeasurementsOfDefinedBenefitPlansOfOtherComprehensiveIncome
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of income and expense (including reclassification adjustments) that is not recognised in profit or loss as required or permitted by IFRSs. [Refer: IFRSs [member]]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 106 -Subparagraph d -Clause ii -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_106_d_ii&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B12 -Subparagraph b -Clause viii -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B12_b_viii&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 81A -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_81A_b&doctype=Standard -URIDate 2020-01-01Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 91 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_91_a&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherComprehensiveIncome
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of other comprehensive income, before tax, related to cash flow hedges. [Refer: Cash flow hedges [member]; Other comprehensive income, before tax]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 91 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_91_b&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 7 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_7&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherComprehensiveIncomeBeforeTaxCashFlowHedges
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of other comprehensive income, before tax, related to exchange differences on translation of financial statements of foreign operations. [Refer: Other comprehensive income, before tax]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 91 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_91_b&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 7 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_7&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherComprehensiveIncomeBeforeTaxExchangeDifferencesOnTranslation
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of other comprehensive income, before tax, related to gains (losses) on remeasurements of defined benefit plans, which comprise actuarial gains and losses; the return on plan assets, excluding amounts included in net interest on the net defined benefit liability (asset); and any change in the effect of the asset ceiling, excluding amounts included in net interest on the net defined benefit liability (asset). [Refer: Other comprehensive income, before tax; Defined benefit plans [member]; Plan assets [member]; Net defined benefit liability (asset)]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 91 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_91_b&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 7 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_7&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of other comprehensive income, net of tax, related to cash flow hedges. [Refer: Cash flow hedges [member]; Other comprehensive income]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 91 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_91_a&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 7 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_7&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of other comprehensive income, net of tax, related to exchange differences when financial statements of foreign operations are translated. [Refer: Other comprehensive income]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 91 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_91_a&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 7 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_7&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of other comprehensive income, net of tax, related to gains (losses) on remeasurements of defined benefit plans, which comprise actuarial gains and losses; the return on plan assets, excluding amounts included in net interest on the net defined benefit liability (asset); and any change in the effect of the asset ceiling, excluding amounts included in net interest on the net defined benefit liability (asset). [Refer: Other comprehensive income; Defined benefit plans [member]; Plan assets [member]; Net defined benefit liability (asset)]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 91 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_91_a&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 7 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_7&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of other comprehensive income that will be reclassified to profit or loss, net of tax. [Refer: Other comprehensive income]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph IG6 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_IG6&doctype=Implementation%20Guidance -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 82A -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_82A&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of other comprehensive income that will not be reclassified to profit or loss, net of tax. [Refer: Other comprehensive income]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph IG6 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_IG6&doctype=Implementation%20Guidance -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 82A -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_82A&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe total of income less expenses from continuing and discontinued operations, excluding the components of other comprehensive income. [Refer: Other comprehensive income]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 18 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_18_b&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 1 -IssueDate 2020-01-01 -Paragraph 24 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=1&code=ifrs-tx-2020-en-r&anchor=para_24_b&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 1 -IssueDate 2020-01-01 -Paragraph 32 -Subparagraph a -Clause ii -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=1&code=ifrs-tx-2020-en-r&anchor=para_32_a_ii&doctype=Standard -URIDate 2020-01-01Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 28 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_28_b&doctype=Standard -URIDate 2020-01-01Reference 5: http://www.xbrl.org/2003/role/exampleRef -Note Effective on first application of IFRS 9 -Name IFRS -Number 4 -IssueDate 2020-01-01 -Paragraph 39L -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=4&code=ifrs-tx-2020-en-b&anchor=para_39L_e&doctype=Standard -URIDate 2020-01-01Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 23 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_23&doctype=Standard -URIDate 2020-01-01Reference 7: http://www.xbrl.org/2003/role/exampleRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B10 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B10_b&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 106 -Subparagraph d -Clause i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_106_d_i&doctype=Standard -URIDate 2020-01-01Reference 9: http://www.xbrl.org/2003/role/exampleRef -Note Effective 2021-01-01 -Name IFRS -Number 17 -IssueDate 2020-01-01 -Paragraph 113 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=17&code=ifrs-tx-2020-en-r&anchor=para_113_b&doctype=Standard -URIDate 2020-01-01Reference 10: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 81A -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_81A_a&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ProfitLoss
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of reclassification adjustments related to cash flow hedges, before tax. Reclassification adjustments are amounts reclassified to profit (loss) in the current period that were recognised in other comprehensive income in the current or previous periods. [Refer: Cash flow hedges [member]; Other comprehensive income]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 92 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_92&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Note Expiry date 2021-01-01 -Name IFRS -Number 7 -IssueDate 2020-01-01 -Paragraph 23 -Subparagraph d -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=7&code=ifrs-tx-2017-en-b&anchor=para_23_d&doctype=Standard&book=b -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ReclassificationAdjustmentsOnCashFlowHedgesBeforeTax
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- ReferencesNo definition available.
++ Details
+Name:
+ifrs-full_StatementOfComprehensiveIncomeAbstract
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+
+====================================================================================================
+## CONSOLIDATED STATEMENTS OF FINANCIAL POSITION   [R4.htm]
+====================================================================================================
+XML
+47
+R4.htm
+IDEA: XBRL DOCUMENT
+v3.20.4
+CONSOLIDATED STATEMENTS OF FINANCIAL POSITION - EUR (€) € in Millions
+Dec. 31, 2020
+Dec. 31, 2019
+CONSOLIDATED STATEMENTS OF FINANCIAL POSITION
+Cash and cash equivalents
+€ 5,311
+€ 5,314
+Other financial assets
+1,635
+297
+Trade and other receivables
+6,593
+7,908
+Other non-financial assets
+1,321
+1,188
+Tax assets
+210
+506
+Total current assets
+15,069
+15,213
+Goodwill
+27,560
+29,159
+Intangible assets
+3,784
+4,491
+Property, plant, and equipment
+5,041
+5,496
+Other financial assets
+3,512
+2,336
+Trade and other receivables
+137
+129
+Other non-financial assets
+1,926
+1,701
+Tax assets
+271
+435
+Deferred tax assets
+1,173
+1,251
+Total non-current assets
+43,402
+44,999
+Total assets
+58,472
+60,212
+Trade and other payables
+1,213
+1,581
+Tax liabilities
+414
+255
+Financial liabilities
+2,348
+3,273
+Other non-financial liabilities
+4,643
+4,839
+Provisions
+73
+247
+Contract liabilities
+4,150
+4,266
+Total current liabilities
+12,842
+14,462
+Trade and other payables
+98
+8
+Tax liabilities
+667
+538
+Financial liabilities
+13,605
+12,923
+Other non-financial liabilities
+770
+957
+Provisions
+368
+335
+Deferred tax liabilities
+158
+79
+Contract liabilities
+36
+89
+Total non-current liabilities
+15,702
+14,929
+Total liabilities
+28,544
+29,390
+Issued capital
+1,229
+1,229
+Share premium
+545
+545
+Retained earnings
+32,026
+28,783
+Other components of equity
+(1,011)
+1,770
+Treasury shares
+(3,072)
+(1,580)
+Equity attributable to owners of parent
+29,717
+30,746
+Non-controlling interests
+211
+76
+Total equity
+29,928
+30,822
+Total equity and liabilities
+€ 58,472
+€ 60,212
+X
+- DefinitionThe amount received or receivable from the issuance of the entity's shares in excess of nominal value and amounts received from other transactions involving the entity's stock or stockholders.
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 55 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_55&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_AdditionalPaidinCapital
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of a present economic resource controlled by the entity as a result of past events. Economic resource is a right that has the potential to produce economic benefits.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 13 -IssueDate 2020-01-01 -Paragraph 93 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=13&code=ifrs-tx-2020-en-r&anchor=para_93_a&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 28 -Subparagraph c -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_28_c&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 13 -IssueDate 2020-01-01 -Paragraph 93 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=13&code=ifrs-tx-2020-en-r&anchor=para_93_b&doctype=Standard -URIDate 2020-01-01Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 13 -IssueDate 2020-01-01 -Paragraph 93 -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=13&code=ifrs-tx-2020-en-r&anchor=para_93_e&doctype=Standard -URIDate 2020-01-01Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 55 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_55&doctype=Standard -URIDate 2020-01-01Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 23 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_23&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_Assets
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe amount of cash on hand and demand deposits, along with short-term, highly liquid investments that are readily convertible to known amounts of cash and that are subject to an insignificant risk of changes in value. [Refer: Cash; Cash equivalents]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 45 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_45&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B13 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B13_a&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_i&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CashAndCashEquivalents
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe amount of assets that the entity (a) expects to realise or intends to sell or consume in its normal operating cycle; (b) holds primarily for the purpose of trading; (c) expects to realise within twelve months after the reporting period; or (d) classifies as cash or cash equivalents (as defined in IAS 7) unless the asset is restricted from being exchanged or used to settle a liability for at least twelve months after the reporting period. [Refer: Assets]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B12 -Subparagraph b -Clause i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B12_b_i&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 66 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_66&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/exampleRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B10 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B10_b&doctype=Appendix&subtype=B -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CurrentAssets
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe amount of current contract liabilities. [Refer: Contract liabilities]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 15 -IssueDate 2020-01-01 -Paragraph 105 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=15&code=ifrs-tx-2020-en-r&anchor=para_105&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CurrentContractLiabilities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of current financial liabilities. [Refer: Financial liabilities]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 7 -IssueDate 2020-01-01 -Paragraph 25 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=7&code=ifrs-tx-2020-en-r&anchor=para_25&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CurrentFinancialLiabilities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of liabilities that: (a) the entity expects to settle in its normal operating cycle; (b) the entity holds primarily for the purpose of trading; (c) are due to be settled within twelve months after the reporting period; or (d) the entity does not have an unconditional right to defer settlement for at least twelve months after the reporting period.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B12 -Subparagraph b -Clause iii -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B12_b_iii&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 69 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_69&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/exampleRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B10 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B10_b&doctype=Appendix&subtype=B -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CurrentLiabilities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of current provisions. [Refer: Provisions]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph l -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_l&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CurrentProvisions
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe excess of amount paid for current tax in respect of current and prior periods over the amount due for those periods. Current tax is the amount of income taxes payable (recoverable) in respect of the taxable profit (tax loss) for a period.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph n -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_n&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CurrentTaxAssets
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe non-current amount of current tax assets. [Refer: Current tax assets]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph n -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_n&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CurrentTaxAssetsNoncurrent
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe amount of current tax for current and prior periods to the extent unpaid. Current tax is the amount of income taxes payable (recoverable) in respect of the taxable profit (tax loss) for a period.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph n -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_n&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CurrentTaxLiabilities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe non-current amount of current tax liabilities. [Refer: Current tax liabilities]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph n -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_n&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CurrentTaxLiabilitiesNoncurrent
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of residual interest in the assets of the entity after deducting all its liabilities.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 1 -IssueDate 2020-01-01 -Paragraph 24 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=1&code=ifrs-tx-2020-en-r&anchor=para_24_a&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 1 -IssueDate 2020-01-01 -Paragraph 32 -Subparagraph a -Clause i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=1&code=ifrs-tx-2020-en-r&anchor=para_32_a_i&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 13 -IssueDate 2020-01-01 -Paragraph 93 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=13&code=ifrs-tx-2020-en-r&anchor=para_93_a&doctype=Standard -URIDate 2020-01-01Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 13 -IssueDate 2020-01-01 -Paragraph 93 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=13&code=ifrs-tx-2020-en-r&anchor=para_93_b&doctype=Standard -URIDate 2020-01-01Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 13 -IssueDate 2020-01-01 -Paragraph 93 -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=13&code=ifrs-tx-2020-en-r&anchor=para_93_e&doctype=Standard -URIDate 2020-01-01Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 55 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_55&doctype=Standard -URIDate 2020-01-01Reference 7: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 78 -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_78_e&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_Equity
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of the entity's equity and liabilities. [Refer: Equity; Liabilities]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 55 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_55&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_EquityAndLiabilities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of equity attributable to the owners of the parent. This specifically excludes non-controlling interest.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph r -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_r&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_EquityAttributableToOwnersOfParent
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of assets representing the future economic benefits arising from other assets acquired in a business combination that are not individually identified and separately recognised. [Refer: Business combinations [member]]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 3 -IssueDate 2020-01-01 -Paragraph B67 -Subparagraph d -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=3&code=ifrs-tx-2020-en-r&anchor=para_B67_d&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 36 -IssueDate 2020-01-01 -Paragraph 134 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=36&code=ifrs-tx-2020-en-r&anchor=para_134_a&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 36 -IssueDate 2020-01-01 -Paragraph 135 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=36&code=ifrs-tx-2020-en-r&anchor=para_135_a&doctype=Standard -URIDate 2020-01-01Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph c -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_c&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_Goodwill
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe amount of identifiable non-monetary assets without physical substance. This amount does not include goodwill. [Refer: Goodwill]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 38 -IssueDate 2020-01-01 -Paragraph 118 -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=38&code=ifrs-tx-2020-en-r&anchor=para_118_e&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph c -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_c&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_IntangibleAssetsOtherThanGoodwill
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe nominal value of capital issued.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 78 -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_78_e&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_IssuedCapital
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of a present obligation of the entity to transfer an economic resource as a result of past events. Economic resource is a right that has the potential to produce economic benefits.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 13 -IssueDate 2020-01-01 -Paragraph 93 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=13&code=ifrs-tx-2020-en-r&anchor=para_93_a&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 13 -IssueDate 2020-01-01 -Paragraph 93 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=13&code=ifrs-tx-2020-en-r&anchor=para_93_b&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 13 -IssueDate 2020-01-01 -Paragraph 93 -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=13&code=ifrs-tx-2020-en-r&anchor=para_93_e&doctype=Standard -URIDate 2020-01-01Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 28 -Subparagraph d -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_28_d&doctype=Standard -URIDate 2020-01-01Reference 5: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 23 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_23&doctype=Standard -URIDate 2020-01-01Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 55 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_55&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_Liabilities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of deferred tax assets net of deferred tax liabilities, when the absolute amount of deferred tax assets is greater than the absolute amount of deferred tax liabilities. [Refer: Deferred tax assets; Deferred tax liabilities]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 12 -IssueDate 2020-01-01 -Paragraph 81 -Subparagraph g -Clause i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=12&code=ifrs-tx-2020-en-r&anchor=para_81_g_i&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_NetDeferredTaxAssets
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe amount of deferred tax liabilities net of deferred tax assets, when the absolute amount of deferred tax liabilities is greater than the absolute amount of deferred tax assets. [Refer: Deferred tax assets; Deferred tax liabilities]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 12 -IssueDate 2020-01-01 -Paragraph 81 -Subparagraph g -Clause i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=12&code=ifrs-tx-2020-en-r&anchor=para_81_g_i&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_NetDeferredTaxLiabilities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of equity in a subsidiary not attributable, directly or indirectly, to a parent. [Refer: Subsidiaries [member]]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph 12 -Subparagraph f -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_12_f&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph q -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_q&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 10 -IssueDate 2020-01-01 -Paragraph 22 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=10&code=ifrs-tx-2020-en-r&anchor=para_22&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_NoncontrollingInterests
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of assets that do not meet the definition of current assets. [Refer: Current assets]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 66 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_66&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B12 -Subparagraph b -Clause ii -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B12_b_ii&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/exampleRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B10 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B10_b&doctype=Appendix&subtype=B -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_NoncurrentAssets
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe amount of non-current contract liabilities. [Refer: Contract liabilities]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 15 -IssueDate 2020-01-01 -Paragraph 105 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=15&code=ifrs-tx-2020-en-r&anchor=para_105&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_NoncurrentContractLiabilities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of non-current financial liabilities. [Refer: Financial liabilities]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 7 -IssueDate 2020-01-01 -Paragraph 25 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=7&code=ifrs-tx-2020-en-r&anchor=para_25&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_NoncurrentFinancialLiabilities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of liabilities that do not meet the definition of current liabilities. [Refer: Current liabilities]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B12 -Subparagraph b -Clause iv -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B12_b_iv&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 69 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_69&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/exampleRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B10 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B10_b&doctype=Appendix&subtype=B -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_NoncurrentLiabilities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of non-current trade payables and non-current other payables. [Refer: Other non-current payables; Non-current trade payables]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph k -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_k&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_NoncurrentPayables
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of non-current provisions. [Refer: Provisions]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph l -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_l&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_NoncurrentProvisions
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of non-current trade receivables and non-current other receivables. [Refer: Non-current trade receivables; Other non-current receivables]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph h -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_h&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 78 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_78_b&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_NoncurrentReceivables
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe amount of current financial assets that the entity does not separately disclose in the same statement or note. [Refer: Other financial assets; Current financial assets]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph d -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_d&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherCurrentFinancialAssets
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe amount of current non-financial assets that the entity does not separately disclose in the same statement or note. [Refer: Financial assets]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 55 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_55&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherCurrentNonfinancialAssets
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe amount of current non-financial liabilities that the entity does not separately disclose in the same statement or note. [Refer: Other financial liabilities]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 55 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_55&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherCurrentNonfinancialLiabilities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of non-current financial assets that the entity does not separately disclose in the same statement or note. [Refer: Other financial assets]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph d -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_d&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherNoncurrentFinancialAssets
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe amount of non-current non-financial assets that the entity does not separately disclose in the same statement or note. [Refer: Financial assets]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 55 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_55&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherNoncurrentNonfinancialAssets
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe amount of non-current non-financial liabilities that the entity does not separately disclose in the same statement or note. [Refer: Other financial liabilities]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 55 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_55&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherNoncurrentNonfinancialLiabilities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of tangible assets that: (a) are held for use in the production or supply of goods or services, for rental to others, or for administrative purposes; and (b) are expected to be used during more than one period.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 16 -IssueDate 2020-01-01 -Paragraph 73 -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=16&code=ifrs-tx-2020-en-r&anchor=para_73_e&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_a&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_PropertyPlantAndEquipment
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionA component of equity representing the entity's cumulative undistributed earnings or deficit.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 78 -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_78_e&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph IG6 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_IG6&doctype=Implementation%20Guidance -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_RetainedEarnings
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- ReferencesNo definition available.
++ Details
+Name:
+ifrs-full_StatementOfFinancialPositionAbstract
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- DefinitionThe amount of current trade payables and current other payables. [Refer: Current trade payables; Other current payables]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph k -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_k&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_TradeAndOtherCurrentPayables
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- DefinitionThe amount of current trade receivables and current other receivables. [Refer: Current trade receivables; Other current receivables]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph h -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_h&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 78 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_78_b&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_TradeAndOtherCurrentReceivables
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionAn entity’s own equity instruments, held by the entity or other members of the consolidated group.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 78 -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_78_e&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 32 -IssueDate 2020-01-01 -Paragraph 34 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=32&code=ifrs-tx-2020-en-r&anchor=para_34&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_TreasuryShares
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe amount of diverse components of equity.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_DiverseComponentsOfEquity
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+
+====================================================================================================
+## CONSOLIDATED STATEMENTS OF CASH FLOWS   [R6.htm]
+====================================================================================================
+XML
+49
+R6.htm
+IDEA: XBRL DOCUMENT
+v3.20.4
+CONSOLIDATED STATEMENTS OF CASH FLOWS - EUR (€) € in Millions
+12 Months Ended
+Dec. 31, 2020
+Dec. 31, 2019
+Dec. 31, 2018
+Net cash flows from operating activities
+Profit after tax
+€ 5,283
+€ 3,370
+€ 4,088
+Adjustments to reconcile profit after tax to net cash flow from operating activities:
+Depreciation and amortization
+1,831
+1,872
+1,362
+Share-based payment expense
+1,084
+1,835
+830
+Income tax expense
+1,938
+1,226
+1,511
+Financial income, net
+(776)
+(198)
+47
+Decrease/increase in allowances on trade receivables
+68
+14
+(67)
+Other adjustments for non-cash items
+(198)
+(54)
+3
+Decrease/increase in trade and other receivables
+821
+(1,469)
+136
+Decrease/increase in other assets
+(651)
+(583)
+(477)
+Increase/decrease in trade payables, provisions, and other liabilities
+293
+328
+240
+Increase/decrease in contract liabilities
+128
+984
+(561)
+Share-based payments
+(1,310)
+(1,257)
+(971)
+Interest paid
+(244)
+(341)
+(251)
+Interest received
+122
+97
+99
+Income taxes paid, net of refunds
+(1,194)
+(2,329)
+(1,687)
+Net cash flows from operating activities
+7,194
+3,496
+4,303
+Net cash flows from investing activities
+Cash flows for business combinations, net of cash and cash equivalents acquired
+(662)
+(6,215)
+(2,140)
+Proceeds from sale of subsidiaries or businesses
+203
+61
+0
+Purchase of intangible assets and property, plant, and equipment
+(816)
+(817)
+(1,458)
+Proceeds from sales of intangible assets or property, plant, and equipment
+88
+71
+57
+Purchase of equity or debt instruments of other entities
+(2,535)
+(900)
+(1,013)
+Proceeds from sales of equity or debt instruments of other entities
+735
+778
+1,488
+Net cash flows from investing activities
+(2,986)
+(7,021)
+(3,066)
+Net cash flows from financing activities
+Dividends paid
+(1,864)
+(1,790)
+(1,671)
+Dividends paid on non-controlling interests
+(2)
+(17)
+(7)
+Purchase of treasury shares
+(1,492)
+0
+0
+Proceeds from changes in ownership interests in subsidiaries that do not result in the loss of control
+95
+0
+0
+Proceeds from borrowings
+2,132
+3,622
+6,368
+Repayments of borrowings
+(2,430)
+(1,309)
+(1,407)
+Payments of lease liabilities
+(378)
+(403)
+0
+Transactions with non-controlling interests
+(59)
+0
+0
+Net cash flows from financing activities
+(3,997)
+102
+3,283
+Effect of foreign currency rates on cash and cash equivalents
+(214)
+110
+97
+Net decrease/increase in cash and cash equivalents
+(4)
+(3,313)
+4,617
+Cash and cash equivalents at the beginning of the period
+5,314
+8,627
+4,011
+Cash and cash equivalents at the end of the period
+€ 5,311
+€ 5,314
+€ 8,627
+X
+- DefinitionAdjustments for decrease (increase) in other assets to reconcile profit (loss) to net cash flow from (used in) operating activities. [Refer: Other assets; Profit (loss)]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 20 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_20&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionAdjustments for decrease (increase) in trade and other receivables to reconcile profit (loss) to net cash flow from (used in) operating activities. [Refer: Trade and other receivables; Profit (loss)]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 20 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_20&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAndOtherReceivables
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionAdjustments for depreciation and amortisation expense to reconcile profit (loss) to net cash flow from (used in) operating activities. [Refer: Depreciation and amortisation expense; Profit (loss)]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 20 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_20_b&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_AdjustmentsForDepreciationAndAmortisationExpense
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionAdjustments for net finance income or cost to reconcile profit (loss) to net cash flow from (used in) operating activities. [Refer: Finance income (cost); Profit (loss)]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 20 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_20&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_AdjustmentsForFinanceIncomeCost
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionAdjustments for impairment loss (reversal of impairment loss) on trade and other receivables recognised in profit or loss to reconcile profit (loss) to net cash flow from (used in) operating activities. [Refer: Trade and other receivables; Impairment loss; Adjustments for impairment loss (reversal of impairment loss) recognised in profit or loss; Impairment loss (reversal of impairment loss) recognised in profit or loss]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 20 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_20&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_AdjustmentsForImpairmentLossReversalOfImpairmentLossRecognisedInProfitOrLossTradeAndOtherReceivables
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionAdjustments for income tax expense to reconcile profit (loss) to net cash flow from (used in) operating activities. [Refer: Profit (loss)]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 35 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_35&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_AdjustmentsForIncomeTaxExpense
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- ReferencesNo definition available.
++ Details
+Name:
+ifrs-full_AdjustmentsForReconcileProfitLossAbstract
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- DefinitionAdjustments for share-based payments to reconcile profit (loss) to net cash flow from (used in) operating activities. [Refer: Profit (loss)]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 20 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_20_b&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_AdjustmentsForSharebasedPayments
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe amount of cash on hand and demand deposits, along with short-term, highly liquid investments that are readily convertible to known amounts of cash and that are subject to an insignificant risk of changes in value. [Refer: Cash; Cash equivalents]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 45 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_45&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B13 -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B13_a&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 54 -Subparagraph i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_54_i&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CashAndCashEquivalents
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- DefinitionThe aggregate cash flows arising from losing control of subsidiaries or other businesses, classified as investing activities. [Refer: Subsidiaries [member]]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 39 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_39&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CashFlowsFromLosingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe cash flows from (used in) financing activities, which are activities that result in changes in the size and composition of the contributed equity and borrowings of the entity.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 10 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_10&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 50 -Subparagraph d -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_50_d&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CashFlowsFromUsedInFinancingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- ReferencesNo definition available.
++ Details
+Name:
+ifrs-full_CashFlowsFromUsedInFinancingActivitiesAbstract
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- DefinitionThe cash flows from (used in) investing activities, which are the acquisition and disposal of long-term assets and other investments not included in cash equivalents.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 10 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_10&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 50 -Subparagraph d -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_50_d&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CashFlowsFromUsedInInvestingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- ReferencesNo definition available.
++ Details
+Name:
+ifrs-full_CashFlowsFromUsedInInvestingActivitiesAbstract
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- DefinitionThe cash flows from (used in) operating activities, which are the principal revenue-producing activities of the entity and other activities that are not investing or financing activities. [Refer: Revenue]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 10 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_10&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 50 -Subparagraph d -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_50_d&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_CashFlowsFromUsedInOperatingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- ReferencesNo definition available.
++ Details
+Name:
+ifrs-full_CashFlowsFromUsedInOperatingActivitiesAbstract
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- DefinitionThe cash outflow for dividends paid to equity holders of the parent, classified as financing activities.
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 17 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_17&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_DividendsPaidToEquityHoldersOfParentClassifiedAsFinancingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe cash outflow for dividends paid to non-controlling interests, classified as financing activities. [Refer: Non-controlling interests; Dividends paid to non-controlling interests]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 17 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_17&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_DividendsPaidToNoncontrollingInterestsClassifiedAsFinancingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe effect of exchange rate changes on cash and cash equivalents held or due in a foreign currency. [Refer: Cash and cash equivalents]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 25 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_25&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 28 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_28&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe cash flows from income taxes paid or refunded, classified as operating activities. [Refer: Income taxes paid (refund)]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 35 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_35&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 14 -Subparagraph f -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_14_f&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe increase (decrease) in cash and cash equivalents. [Refer: Cash and cash equivalents]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 45 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_45&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_IncreaseDecreaseInCashAndCashEquivalents
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe cash outflow for interest paid, classified as operating activities.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 31 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_31&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_InterestPaidClassifiedAsOperatingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe cash inflow from interest received, classified as operating activities.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 31 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_31&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_InterestReceivedClassifiedAsOperatingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionAdjustments for non-cash items to reconcile profit (loss) to net cash flow from (used in) operating activities that the entity does not separately disclose in the same statement or note. [Refer: Profit (loss)]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 20 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_20_b&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherAdjustmentsForNoncashItems
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe cash outflow to acquire equity or debt instruments of other entities (other than payments for those instruments considered to be cash equivalents or those held for dealing or trading purposes), classified as investing activities.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 16 -Subparagraph c -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_16_c&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherCashPaymentsToAcquireEquityOrDebtInstrumentsOfOtherEntitiesClassifiedAsInvestingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe cash inflow from sales of equity or debt instruments of other entities (other than receipts for those instruments considered to be cash equivalents and those held for dealing or trading purposes), classified as investing activities.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 16 -Subparagraph d -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_16_d&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_OtherCashReceiptsFromSalesOfEquityOrDebtInstrumentsOfOtherEntitiesClassifiedAsInvestingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe cash outflow for payment of lease liabilities, classified as financing activities. [Refer: Lease liabilities]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 17 -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_17_e&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe cash outflow to acquire or redeem entity's shares.
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 17 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_17_b&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_PaymentsToAcquireOrRedeemEntitysShares
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe cash inflow from borrowings obtained. [Refer: Borrowings]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 17 -Subparagraph c -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_17_c&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe cash inflow from changes in ownership interests in subsidiaries that do not result in a loss of control. [Refer: Subsidiaries [member]]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 42A -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_42A&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 42B -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_42B&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ProceedsFromChangesInOwnershipInterestsInSubsidiaries
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe cash inflow from the disposal of property, plant and equipment, intangible assets other than goodwill, investment property and other non-current assets. [Refer: Intangible assets other than goodwill; Investment property; Other non-current assets; Property, plant and equipment]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 16 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_16&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ProceedsFromDisposalsOfPropertyPlantAndEquipmentIntangibleAssetsOtherThanGoodwillInvestmentPropertyAndOtherNoncurrentAssets
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe total of income less expenses from continuing and discontinued operations, excluding the components of other comprehensive income. [Refer: Other comprehensive income]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 18 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_18_b&doctype=Standard -URIDate 2020-01-01Reference 2: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 1 -IssueDate 2020-01-01 -Paragraph 24 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=1&code=ifrs-tx-2020-en-r&anchor=para_24_b&doctype=Standard -URIDate 2020-01-01Reference 3: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 1 -IssueDate 2020-01-01 -Paragraph 32 -Subparagraph a -Clause ii -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=1&code=ifrs-tx-2020-en-r&anchor=para_32_a_ii&doctype=Standard -URIDate 2020-01-01Reference 4: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 28 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_28_b&doctype=Standard -URIDate 2020-01-01Reference 5: http://www.xbrl.org/2003/role/exampleRef -Note Effective on first application of IFRS 9 -Name IFRS -Number 4 -IssueDate 2020-01-01 -Paragraph 39L -Subparagraph e -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=4&code=ifrs-tx-2020-en-b&anchor=para_39L_e&doctype=Standard -URIDate 2020-01-01Reference 6: http://www.xbrl.org/2003/role/disclosureRef -Name IFRS -Number 8 -IssueDate 2020-01-01 -Paragraph 23 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=8&code=ifrs-tx-2020-en-r&anchor=para_23&doctype=Standard -URIDate 2020-01-01Reference 7: http://www.xbrl.org/2003/role/exampleRef -Name IFRS -Number 12 -IssueDate 2020-01-01 -Paragraph B10 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=12&code=ifrs-tx-2020-en-r&anchor=para_B10_b&doctype=Appendix&subtype=B -URIDate 2020-01-01Reference 8: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 106 -Subparagraph d -Clause i -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_106_d_i&doctype=Standard -URIDate 2020-01-01Reference 9: http://www.xbrl.org/2003/role/exampleRef -Note Effective 2021-01-01 -Name IFRS -Number 17 -IssueDate 2020-01-01 -Paragraph 113 -Subparagraph b -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IFRS&num=17&code=ifrs-tx-2020-en-r&anchor=para_113_b&doctype=Standard -URIDate 2020-01-01Reference 10: http://www.xbrl.org/2003/role/disclosureRef -Name IAS -Number 1 -IssueDate 2020-01-01 -Paragraph 81A -Subparagraph a -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=1&code=ifrs-tx-2020-en-r&anchor=para_81A_a&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_ProfitLoss
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe cash outflow for the purchase of property, plant and equipment, intangible assets other than goodwill, investment property and other non-current assets. [Refer: Intangible assets other than goodwill; Investment property; Other non-current assets; Property, plant and equipment]
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 16 -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_16&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_PurchaseOfPropertyPlantAndEquipmentIntangibleAssetsOtherThanGoodwillInvestmentPropertyAndOtherNoncurrentAssets
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe cash outflow to settle borrowings, classified as financing activities. [Refer: Borrowings]
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef -Name IAS -Number 7 -IssueDate 2020-01-01 -Paragraph 17 -Subparagraph d -URI http://eifrs.ifrs.org/eifrs/xifrs-link?type=IAS&num=7&code=ifrs-tx-2020-en-r&anchor=para_17_d&doctype=Standard -URIDate 2020-01-01
++ Details
+Name:
+ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities
+Namespace Prefix:
+ifrs-full_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionAdjustments for increase (decrease) in contract liabilities to reconcile profit (loss) to net cash flow from (used in) operating activities.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_AdjustmentsForIncreaseDecreaseInContractLiabilities
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionAdjustments for increase (decrease) in trade accounts payable, provisions and other liabilities to reconcile profit (loss) to net cash flow from (used in) operating activities.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_AdjustmentsForIncreaseDecreaseInTradePayableProvisionsAndOtherLiabilities
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- DefinitionThe aggregate cash flows used in obtaining control of subsidiaries or other businesses and related derivative financial instruments, classified as investing activities.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_CashFlowsForBusinessCombinationsAndRelatedDerivativeFinancialInstrumentsNetCashCashEquivalentsAcquired
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionShare-based payments to reconcile profit (loss) to net cash flow from (used in) operating activities.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_ShareBasedPaymentsClassifiedAsOperatingActivities
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- DefinitionThe amount of transactions with noncontrolling interests.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_TransactionsWithNoncontrollingInterests
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+
+====================================================================================================
+## Reconciliation of Segment Measures to the Consolidated Income Statements   [R20.htm]
+====================================================================================================
+XML
+63
+R20.htm
+IDEA: XBRL DOCUMENT
+v3.20.4
+Reconciliation of Segment Measures to the Consolidated Income Statements
+12 Months Ended
+Dec. 31, 2020
+Reconciliation of Segment Measures to the Consolidated Income Statements
+Reconciliation of Segment Measures to the Consolidated Income Statements
+(C.2) Reconciliation of Segment Measures to the Consolidated Income Statements​​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+€ millions | ​ | 2020 | ​ | 2019 | ​ | 2018
+​ | ​ | Actual | ​ | Constant | ​ | Actual | ​ | Constant | ​ | Actual
+​ | Currency | Currency1 | Currency | Currency1 | Currency
+Applications, Technology & Support | ​ | 21,680 | ​ | 22,144 | ​ | 21,664 | ​ | 21,132 | ​ | 19,873
+Services | ​ | 3,157 | ​ | 3,208 | ​ | 3,447 | ​ | 3,359 | ​ | 3,165
+Qualtrics | ​ | 681 | ​ | 696 | ​ | 508 | ​ | 483 | ​ | NA
+Concur | ​ | 1,505 | ​ | 1,526 | ​ | 1,609 | ​ | 1,539 | ​ | 1,338
+Total segment revenue for reportable segments | ​ | 27,023 | ​ | 27,574 | ​ | 27,229 | ​ | 26,513 | ​ | 24,376
+Other revenue | ​ | 320 | ​ | 323 | ​ | 405 | ​ | 393 | ​ | 366
+Adjustment for currency impact | ​ | 0 | ​ | -554 | ​ | 0 | ​ | 728 | ​ | 0
+Adjustment of revenue under fair value accounting | ​ | -5 | ​ | -5 | ​ | -81 | ​ | -81 | ​ | -33
+ Total revenue | ​ | 27,338 | ​ | 27,338 | ​ | 27,553 | ​ | 27,553 | ​ | 24,708
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+Applications, Technology & Support | ​ | 9,423 | ​ | 9,633 | ​ | 9,454 | ​ | 9,201 | ​ | 8,583
+Services | ​ | 499 | ​ | 494 | ​ | 362 | ​ | 340 | ​ | 249
+Qualtrics | ​ | 19 | ​ | 20 | ​ | 8 | ​ | 9 | ​ | NA
+Concur | ​ | 564 | ​ | 569 | ​ | 620 | ​ | 590 | ​ | 482
+Total segment profit for reportable segments | ​ | 10,506 | 10,716 | 10,444 | 10,141 | 9,314
+Other revenue | ​ | 320 | 323 | 405 | 393 | 366
+Other expenses | ​ | -2,538 | -2,536 | -2,642 | -2,580 | -2,517
+Adjustment for currency impact | ​ | 0 | -216 | 0 | 255 | 0
+Adjustment for | ​ | ​ | ​ | ​ | ​ | ​
+Revenue under fair value accounting | ​ | -5 | -5 | -81 | -81 | -33
+Acquisition-related charges | ​ | -577 | -577 | -689 | -689 | -577
+Share-based payment expenses | ​ | -1,084 | -1,084 | -1,835 | -1,835 | -831
+ Restructuring | ​ | 3 | 3 | -1,130 | -1,130 | -19
+ Operating profit | ​ | 6,623 | ​ | 6,623 | ​ | 4,473 | ​ | 4,473 | ​ | 5,703
+ Other non-operating income/expense, net | ​ | -179 | ​ | -179 | ​ | -74 | ​ | -74 | ​ | -56
+ Financial income, net | ​ | 776 | ​ | 776 | ​ | 198 | ​ | 198 | ​ | -47
+ Profit before tax | ​ | 7,220 | ​ | 7,220 | ​ | 4,596 | ​ | 4,596 | ​ | 5,600
+​1 The 2020 constant currency amounts are only comparable to 2019 actual currency amounts;  2019 constant currency amounts are only comparable to 2018 actual currency amounts.
+X
+- ReferencesNo definition available.
++ Details
+Name:
+sap_ReconciliationOfTotalSegmentProfitForReportableSegmentsToProfitBeforeTaxAbstract
+Namespace Prefix:
+sap_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- DefinitionThe disclosure of reconciliation of Total segment profit for reportable segments to profit before tax.
++ ReferencesNo definition available.
++ Details
+Name:
+sap_ReconciliationOfTotalSegmentProfitForReportableSegmentsToProfitBeforeTextBlock
+Namespace Prefix:
+sap_
+Data Type:
+nonnum:textBlockItemType
+Balance Type:
+na
+Period Type:
+duration

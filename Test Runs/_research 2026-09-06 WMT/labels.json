@@ -1,0 +1,212 @@
+{
+ "q1fy17": {
+  "tran": "Traffic",
+  "tick": "Ticket",
+  "ecom": "E-commerce"
+ },
+ "q2fy17": {
+  "tran": "Traffic",
+  "tick": "Ticket",
+  "ecom": "E-commerce"
+ },
+ "q3fy17": {
+  "tran": "Traffic",
+  "tick": "Ticket",
+  "ecom": "E-commerce"
+ },
+ "q4fy17": {
+  "tran": "Traffic",
+  "tick": "Ticket",
+  "ecom": "E-commerce"
+ },
+ "q1fy18": {
+  "tran": "Traffic",
+  "tick": "Ticket",
+  "ecom": "E-commerce"
+ },
+ "q2fy18": {
+  "tran": "Traffic",
+  "tick": "Ticket",
+  "ecom": "E-commerce"
+ },
+ "q3fy18": {
+  "tran": "Traffic",
+  "tick": "Ticket",
+  "ecom": "eCommerce"
+ },
+ "q4fy18": {
+  "tran": "Traffic",
+  "tick": "Ticket",
+  "ecom": "eCommerce"
+ },
+ "q1fy19": {
+  "tran": "Traffic",
+  "tick": "Ticket",
+  "ecom": "eCommerce"
+ },
+ "q2fy19": {
+  "tran": "Traffic",
+  "tick": "Ticket",
+  "ecom": "eCommerce"
+ },
+ "q3fy19": {
+  "tran": "Traffic",
+  "tick": "Ticket",
+  "ecom": "eCommerce"
+ },
+ "q4fy19": {
+  "tran": "Traffic",
+  "tick": "Ticket",
+  "ecom": "eCommerce"
+ },
+ "q1fy20": {
+  "tran": "Transactions",
+  "tick": "Ticket",
+  "ecom": "eCommerce"
+ },
+ "q2fy20": {
+  "tran": "Transactions",
+  "tick": "Ticket",
+  "ecom": "eCommerce"
+ },
+ "q3fy20": {
+  "tran": "Transactions",
+  "tick": "Ticket",
+  "ecom": "eCommerce"
+ },
+ "q4fy20": {
+  "tran": "Transactions",
+  "tick": "Ticket",
+  "ecom": "eCommerce"
+ },
+ "q1fy21": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce"
+ },
+ "q2fy21": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution"
+ },
+ "q3fy21": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution"
+ },
+ "q4fy21": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution"
+ },
+ "q1fy22": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution"
+ },
+ "q2fy22": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution"
+ },
+ "q3fy22": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution"
+ },
+ "q4fy22": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution"
+ },
+ "q1fy23": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution"
+ },
+ "q2fy23": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution"
+ },
+ "q3fy23": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution"
+ },
+ "q4fy23": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution"
+ },
+ "q1fy24": {
+  "tran": "Transactions",
+  "tick": "Average Ticket",
+  "ecom": "eCommerce contribution to comp"
+ },
+ "q2fy24": {
+  "tran": "Transactions",
+  "tick": "Average Ticket",
+  "ecom": "eCommerce contribution to comp"
+ },
+ "q3fy24": {
+  "tran": "Transactions",
+  "tick": "Average Ticket",
+  "ecom": "eCommerce contribution to comp"
+ },
+ "q4fy24": {
+  "tran": "Transactions",
+  "tick": "Average Ticket",
+  "ecom": "eCommerce contribution to comp"
+ },
+ "q1fy25": {
+  "tran": "Transactions",
+  "tick": "Average Ticket",
+  "ecom": "eCommerce contribution to comp"
+ },
+ "q2fy25": {
+  "tran": "Transactions",
+  "tick": "Average Ticket",
+  "ecom": "eCommerce contribution to comp"
+ },
+ "q3fy25": {
+  "tran": "Transactions",
+  "tick": "Average Ticket",
+  "ecom": "eCommerce contribution to comp"
+ },
+ "q4fy25": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution to comp"
+ },
+ "q1fy26": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution to comp"
+ },
+ "q2fy26": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution to comp"
+ },
+ "q3fy26": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution to comp"
+ },
+ "q4fy26": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution to comp"
+ },
+ "q1fy27": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution to comp"
+ },
+ "q2fy27": {
+  "tran": "Transactions",
+  "tick": "Average ticket",
+  "ecom": "eCommerce contribution to comp"
+ }
+}

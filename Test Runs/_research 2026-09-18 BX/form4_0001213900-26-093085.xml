@@ -1,0 +1,363 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0002049733</issuerCik>
+        <issuerName>Blackstone Private Real Estate Credit &amp; Income Fund</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001404077</rptOwnerCik>
+            <rptOwnerName>Blackstone Holdings IV L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BLACKSTONE INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001404075</rptOwnerCik>
+            <rptOwnerName>Blackstone Holdings IV GP L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BLACKSTONE INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001758232</rptOwnerCik>
+            <rptOwnerName>Blackstone Holdings IV GP Management (Delaware) L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BLACKSTONE INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001404074</rptOwnerCik>
+            <rptOwnerName>Blackstone Holdings IV GP Management L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BLACKSTONE INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001464694</rptOwnerCik>
+            <rptOwnerName>Blackstone Holdings I L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BLACKSTONE INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001464695</rptOwnerCik>
+            <rptOwnerName>Blackstone Holdings I/II GP L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BLACKSTONE INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001393818</rptOwnerCik>
+            <rptOwnerName>Blackstone Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>345 PARK AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001404071</rptOwnerCik>
+            <rptOwnerName>Blackstone Group Management L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BLACKSTONE INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001070844</rptOwnerCik>
+            <rptOwnerName>SCHWARZMAN STEPHEN A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O BLACKSTONE INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>345 PARK AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10154</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares of Beneficial Interest</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>248661.056</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>26.14</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8704419.416</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares of Beneficial Interest</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>23980.860</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>26.14</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28762.803</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares of Beneficial Interest</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18628294.597</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects common shares of beneficial interest (the &quot;Common Shares&quot;) of Blackstone Private Real Estate Credit and Income Fund (the &quot;Issuer&quot;) held directly by Blackstone Private Multi-Asset Credit and Income Fund (&quot;BMACX&quot;). Blackstone Private Credit Strategies LLC is the investment adviser of BMACX. Blackstone Holdings I L.P. is the sole member of Blackstone Private Credit Strategies LLC. Blackstone Holdings I/II GP L.L.C. is the general partner of Blackstone Holdings I L.P.</footnote>
+        <footnote id="F2">Reflects Common Shares of the Issuer held directly by Blackstone Private Real Estate Credit &amp; Income Fund (Offshore Strategic Feeder Fund) L.P. (&quot;BREC-S&quot;). BREC Offshore Feeder GP, L.L.C. is the general partner of BREC-S. Blackstone Holdings IV L.P. is the sole member of BREC Offshore Feeder GP, L.L.C. Blackstone Holdings IV GP L.P. is the general partner of Blackstone Holdings IV L.P. Blackstone Holdings IV GP Management (Delaware) L.P. is the general partner of Blackstone Holdings IV GP L.P. Blackstone Holdings IV GP Management L.L.C. is the general partner of Blackstone Holdings IV GP Management (Delaware) L.P.</footnote>
+        <footnote id="F3">Reflects Common Shares of the Issuer held directly by BCRED X Holdings LLC (&quot;BCRED X&quot; and together with BMACX and BREC-S, the &quot;Blackstone Holders&quot;). Blackstone Private Credit Fund is the sole member of BCRED X. Blackstone Private Credit Strategies LLC is the investment adviser of Blackstone Private Credit Fund. Blackstone Holdings I L.P. is the sole member of Blackstone Private Credit Strategies LLC. Blackstone Credit BDC Advisors LLC is the sub-adviser of Blackstone Private Credit Fund. Blackstone Alternative Credit Advisors LP is the sole member of Blackstone Credit BDC Advisors LLC. GSO Capital Partners GP L.L.C. is the general partner of Blackstone Alternative Credit Advisors LP. StoneCo IV Corporation is the sole member of GSO Capital Partners GP L.L.C. Blackstone Holdings AI L.P. is the sole shareholder of StoneCo IV Corporation. Blackstone Holdings I/II GP L.L.C. is the general partner of Blackstone Holdings AI L.P. and Blackstone Holdings I L.P.</footnote>
+        <footnote id="F4">Blackstone Inc. is the sole member of Blackstone Holdings I/II GP L.L.C. and Blackstone Holdings IV GP Management L.L.C. Blackstone Group Management L.L.C. is the sole holder of the Series II preferred stock of Blackstone Inc. Blackstone Group Management L.L.C. is wholly-owned by Blackstone Inc.'s senior managing directors and controlled by its founder, Stephen A. Schwarzman.</footnote>
+        <footnote id="F5">Each such Reporting Person may be deemed to beneficially own the Common Shares of the Issuer directly held by the Blackstone Holders directly or indirectly controlled by such Reporting Person, but each (other than each of the Blackstone Holders, to the extent of their respective direct holdings) disclaims beneficial ownership of the securities reported herein, except to the extent of such Reporting Person's pecuniary interest therein, and this filing shall not be deemed an admission that any of the Reporting Persons (other than the Blackstone Holders, to the extent each directly holds securities of the Issuer) is the beneficial owner of such securities for purposes of Section 16 or any other purpose.</footnote>
+        <footnote id="F6">Information with respect to each of the Reporting Persons is given solely by such Reporting Person, and no Reporting Person has responsibility for the accuracy or completeness of information supplied by another Reporting Person.</footnote>
+    </footnotes>
+
+    <remarks>Because no more than 10 reporting persons can file any one Form 4 through the Securities and Exchange Commission's EDGAR system, certain affiliates of the Reporting Persons have filed separate Forms 4.</remarks>
+
+    <ownerSignature>
+        <signatureName>See Exhibit 99.1</signatureName>
+        <signatureDate>2026-08-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

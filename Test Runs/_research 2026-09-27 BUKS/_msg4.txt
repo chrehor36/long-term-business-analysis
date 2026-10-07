@@ -1,0 +1,5 @@
+Fold: BUKS Butler National FAIL at Q2 (OUT, on the business) - register entry 207, wave 7 name 65 of 218
+
+Register entry inserted by line (206 before, 207 after); no roster held BUKS, so nothing to strike; BUKS appended to the wave 7 done file (65 lines); reading-list fold appended; no alert band and no PORTFOLIO row (failed at Q2, the QLYS ruling); python tools/check_framework.py PASS before this commit.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

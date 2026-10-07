@@ -1,0 +1,34 @@
+year  revenue  GM%   OM%   R&D%  SBC%rev  acq
+2008    39540  64.1  23.9   nan   2.8     398
+2009    36117  63.9  20.3   nan   3.4     426
+2010    40040  64.0  22.9   nan   3.8    5279
+2011    43218  61.4  17.8  13.5   3.7     266
+2012    46061  61.2  21.9  11.9   3.0     375
+2013    48607  60.6  23.0  12.2   2.3    6766
+2014    47142  58.9  19.8  13.4   2.9    2989
+2015    49161  60.4  21.9  12.6   2.9     326
+2016    49247  62.9  25.7  12.8   3.0    3161
+2017    48005  63.0  24.9  12.6   3.2    3324
+2018    49330  62.0  25.0  12.8   3.2    3006
+2019    51904  62.9  27.4  12.7   3.0       0
+2020    49301  64.3  27.6  12.9   3.2       0
+2021    49818  64.0  25.8  13.1   3.5       0
+2022    51557  62.5  27.1  13.1   3.7     373
+2023    56998  62.7  26.4  13.2   4.1     301
+2024    53803  64.7  22.6  14.8   5.7   25994
+2025    56654  64.9  20.8  16.4   6.4     291
+2026    63325  64.5  24.3  15.1   6.0     516
+revenue CAGR FY2008-FY2026: 2.65%
+revenue CAGR FY2016-FY2026: 2.55%
+acquisitions net of cash, sum of tagged years (FY2019-FY2021 untagged): 53791
+diluted shares FY2008 6163 -> FY2026 3987 (-35.3%)
+2022 OCF 13226 SBC 1886 capex 477 owner cash 10863
+2023 OCF 19886 SBC 2353 capex 849 owner cash 16684
+2024 OCF 10880 SBC 3074 capex 670 owner cash 7136
+2025 OCF 14193 SBC 3641 capex 905 owner cash 9647
+2026 OCF 14177 SBC 3830 capex 1410 owner cash 8937
+five-year mean owner cash 10653; per share 2.70; yield at $112.82: 2.40%
+aggregate owner-cash growth FY2022-FY2026: -4.8% a year
+COMPUTATION ONLY: no-growth value at sovereign 5.66%: $188.2B, $47.74/share
+COMPUTATION ONLY: no-growth value at 10%: $106.5B, $27.02/share
+market cap $444.8B

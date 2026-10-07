@@ -1,0 +1,23 @@
+SOV (5.49, '09/25/2026', 'US Treasury daily par yield curve')
+PRICE (532.36, '2026-09-28', 'USD')
+{'regularMarketTime': 1790625603, 'exchangeName': 'NYQ', 'fullExchangeName': 'NYSE', 'currency': 'USD', 'regularMarketPrice': 532.36, 'chartPreviousClose': 91.31}
+regularMarketTime UTC 2026-09-28T20:00:03
+2026-09-11T13:30:00 558.9000244140625
+2026-09-14T13:30:00 551.2100219726562
+2026-09-15T13:30:00 562.8499755859375
+2026-09-16T13:30:00 570.0399780273438
+2026-09-17T13:30:00 567.4500122070312
+2026-09-18T13:30:00 568.27001953125
+2026-09-21T13:30:00 568.02001953125
+2026-09-22T13:30:00 550.27001953125
+2026-09-23T13:30:00 545.1500244140625
+2026-09-24T13:30:00 544.2100219726562
+2026-09-25T13:30:00 539.72998046875
+2026-09-28T13:30:00 532.3599853515625
+CIK ('0000026324', 'CURTISS WRIGHT CORP')
+SPLITS None
+DEAL_NOTE ('0000026324', 'CURTISS WRIGHT CORP') -> 'deal check FAILED (TypeError) - run it by hand'
+DEAL_NOTE 'CW' -> 'deal check FAILED (ValueError) - run it by hand'
+DEAL_NOTE 26324 -> '1 8-K Item 1.01 filing(s) since 2026-02-12, none carrying a merger agreement (EX-2.1) - most likely a credit facility or offering; open them only if something else is odd.'
+DEAL_NOTE '0000026324' -> '1 8-K Item 1.01 filing(s) since 2026-02-12, none carrying a merger agreement (EX-2.1) - most likely a credit facility or offering; open them only if something else is odd.'
+DEAL_FILINGS ([], [('8-K', '2026-05-20', '0001628280-26-036955')], '2026-02-12')

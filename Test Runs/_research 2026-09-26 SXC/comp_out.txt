@@ -1,0 +1,7 @@
+WC fy25 -75.3 h1-26 -60.9 h1-25 -36.3 ttm -99.9
+TTM capex end ex-WC 107.0 D&A end ex-WC 23.3
+cov 2025 2.12 TTM int 35.599999999999994 cov ttm 1.45
+floor 10%: 290-965 M, per share 3.42-11.37
+sov 5.49%: 528-1758 M, per share 6.22-20.71
+0.1 [6.21, -1.68]
+0.0549 [1.85, -5.71]

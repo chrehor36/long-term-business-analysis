@@ -1,0 +1,116 @@
+diff --git a/Screens/WATCHLIST RUN QUEUE.md b/Screens/WATCHLIST RUN QUEUE.md
+index b0e1293..7927859 100644
+--- a/Screens/WATCHLIST RUN QUEUE.md	
++++ b/Screens/WATCHLIST RUN QUEUE.md	
+@@ -9921,6 +9921,79 @@ repository. Only the operator's screenshots can close that gap.
+   not ranked. Alerts armed: re-run at/below $240, ranks at/below $150.** *(The run file says
+   "seventeenth" gate-clearer; by this ledger's standing count it is the twenty-second. Ordinal
+   recorded, not edited — as AVGO's was on 2026-09-06.)*
++  *Dated note, **2026-09-21**, added beneath this entry rather than as a new one, because a
++  RE-LOOK is not a run — the register count is unchanged (158 before, 158 after).*
++  **THE $240 BAND FIRED AT $237.50 AND THE NAME IS QUIT ON A SECOND TIME.**
++  `Test Runs/2026-09-21 RE-LOOK - CRM Salesforce at the first level.md`. Price **$237.50**
++  (2026-09-21, aggregator, live quote only, flagged) x the **same 823.0M cover count**
++  (10-Q `0001108524-26-000190`, *"As of August 20, 2026"*) = cap **$195,462M**, down 8.38%.
++  Sovereign **5.34%** (US Treasury daily par yield curve, 30 Yr, **2026-09-18**, issuing
++  authority, struck fresh; the 09-21 curve had not posted) — **up 10bp on the 5.24% of
++  2026-09-07, against the name.** **EIGHT FILINGS READ, AND NO PERIODIC FILING AMONG THEM** —
++  S-8 `…-000204` (Intercom/**Fin** closed 2026-09-10, 1,325,957 shares), S-8 `…-000195`
++  (**Contentful** closed 2026-09-01, 600,418 shares), 8-K `…-000210` (Items 7.01/9.01, the
++  **Investor Day** deck of 2026-09-16), 8-K `…-000197` (Item 5.02(e), an Executive Deferred
++  Compensation Plan), and three Form 4s. **Q1-Q4 ALL STAND; NOT ONE OF THE SIX Q6 TRIPWIRES
++  FIRED, and three moved AWAY from reopening the name** (FY2027 free cash flow reaffirmed at
++  ~$15bn ≈ 4% growth against an 8%-for-two-years threshold; sales and marketing **34.0%**
++  against 37%; the price against *"below about $130"*).
++  **THE RE-LOOK'S OWN FINDING, AND IT DECIDES THE FILE: THE 2026-09-07 RUN USED THE FORWARD
++  INTEREST RUN-RATE AT Q4 AND THEN BUILT Q5 FROM CASH FLOWS THAT DO NOT BEAR IT.** That run's
++  *"interest coverage 7.3x"* is ($14,996 − $1,178) ÷ **$1,892M** and reproduces exactly — so it
++  held the number — yet the trailing twelve months bear **$979M accrued and only $240M of H1
++  FY2027 cash interest PAID** (10-Q Supplemental Cash Flow Disclosure: $153M for the quarter,
++  against $87M a year earlier), because the March 2026 coupons had not fallen due. The forward
++  cost, built two ways that agree to 3.7%: **$1,824M** from Note 8's principal x contractual
++  rate across fourteen instruments ($39,500M outstanding, 1.50%-6.70%), and **$1,892M** from
++  Q2 FY2027's $473M annualised. **The lower figure is used, because windage is spent in one
++  direction.** **UNADJUSTED, 3 OF 40 CONSTRUCTIONS CLEAR THE ~10% FLOOR AT $237.50 AND THREE
++  PAY MORE THAN THE SOVEREIGN** (TTM/(c)=capex **10.38%, +0.54 pts**; FY2026/(c)=capex 10.07%;
++  TTM judged **10.06%, +0.22 pts**) — the first constructions in this name's history to beat the
++  bond, and **that is the strongest fact against the verdict, stated in the run file before the
++  adjustment that removes it.** **NORMALISED, 0 OF 40 CLEAR**: best **9.65%** (TTM, capex only,
++  0.35 short), judged **9.34%** (0.66 short), corpus-default five-year **6.75%**, ten-year
++  **5.51%**; **no construction reaches the 5.34% sovereign, best 5.15%, 0.19 points short.**
++  Robust to the ASR's remaining ~26M shares (797M -> best 9.82%, still short). Value
++  **~$45 to ~$210, centre ~$100** normalised against **~$80 to ~$240, centre ~$133** as-run —
++  and **$237.50 is ABOVE THE WHOLE NORMALISED RANGE**, 1% below the top of the unadjusted one.
++  **Growth required forever: 5.16% at the most generous end, 7.75% at the corpus default —
++  inside [E4-35]'s base rate, and STILL a requirement that Salesforce beat its own 4-5%
++  operating-cash-flow guidance in perpetuity merely to reach the floor.** **Windage: ONE
++  material conservative adjustment ([E4-41]) against FOUR in the company's favour, the largest
++  worth $2,453M a year — net in the company's favour, and it still fails.**
++  **Q3's live flag is ENLARGED by the Investor Day deck**, which reports the return on the
++  $25bn ASR as *"Over 40% return on our investment"* against *"$182 expected average share
++  price"* — and the footnote says the method is **the share price on 8/31/2026 divided by the
++  average price paid.** At $237.50 that "return" is **30.5%**, 12 points lower in three weeks on
++  no filing and no event: **a quotation, not a result**, on the capital-allocation slide.
++  Same deck: *"**190% of Free Cash Flow returned in FY27**"* (checked: ~$28.6bn returned against
++  ~$15bn of free cash flow, the $13.6bn excess borrowed) and *"Our biggest bet in FY27 is
++  Salesforce"* — **[E5-39] in the company's own words.** The exhibit is thirty slide IMAGES
++  whose content survives only as a **1pt white-font text layer**, which also carries the deck's
++  own unredacted *"Design Notes … Edits needed:"* — recorded, not scored, on a furnished Item
++  7.01 exhibit.
++  **THREE MORE DEFECTS IN THE 2026-09-07 RUN:** its Q6 catalyst asserted the Contentful and Fin
++  terms were *"in no filing read here"* when **both are in Note 6 of the 10-Q it recorded as
++  read** ($1.5bn and $3.6bn cash) — an **absence claim the acceptance test cannot see**; its TTM
++  (c) of $1,166M rebuilds to **$1,208M** line by line; and its published centre of *"~$150"*
++  does not reproduce from its own corpus-default window, which gives **$133**. All recorded,
++  none edited (operator rule 6). **TWO NEW TOOLING DEFECTS:** `alerts.json` has **no state for
++  a band that has fired and been answered**, so a level at $240 with the price at $237.50
++  re-commissions this same re-look daily — the level is moved as a workaround, the repair
++  (a resolved-at field) is proposed not built; and **nothing in the tooling puts accrued
++  interest beside cash interest paid**, the one comparison that decided this file, though both
++  are tagged. **`run.py`'s weighted-average share count is UNCHANGED and still 16.2% high.**
++  **AND ONE IN THE BRIEF:** it named the (c) defect class to hunt (already closed by the prior
++  run) and not the one that mattered — the mirror of *"never tell a run which gate will be
++  boring."*
++  **BANDS: `CRM-rerun-band` MOVED $240 -> $210** ($209 is where the most generous of forty
++  normalised constructions first clears the floor; above it none does and a re-run decides
++  nothing). **`CRM-ranks-band` LEFT AT $150**, which survives on a second independent derivation
++  ($149, the three-year window normalised) and is **deliberately NOT tightened to the new ~$100
++  centre — operator rule 9: the analyst who just wrote the adjustment that keeps a name out has
++  an incentive to set the next look further away.** **Nothing new armed. No buy language
++  anywhere; the operator decides.** `check_framework.py` PASS; 311 ledger rows, 35 ids cited,
++  0 phantom.
+ 
+ - **DAL (Delta Air Lines), 2026-09-07 — FAIL at Q2 (OUT). Q1 IN.** `Test Runs/2026-09-07 Run -
+   DAL Delta Air Lines.md`. Price **$80.17** (2026-09-04, Stooq, flagged); **shares
+diff --git a/tools/alerts.json b/tools/alerts.json
+index e46370f..c720e67 100644
+--- a/tools/alerts.json
++++ b/tools/alerts.json
+@@ -583,9 +583,9 @@
+    "ticker": "CRM",
+    "currency": "USD",
+    "op": "<=",
+-   "threshold": 240,
++   "threshold": 210,
+    "active": true,
+-   "label": "CRM at/below $240: the top of the value band ($80-240, centre ~$150). TWENTY-SECOND name to clear all four gates (2026-09-07). Honest pre-tax expectancy 6.22-9.62% against the ~10% floor, and NOT ONE OF 33 CONSTRUCTIONS yields as much as the 5.24% sovereign - the best is 5.12%, 0.12 points short. Windage count ZERO conservative adjustments, one in the company's favour. (c) resolved to a THIRD number, not either end: D&A decomposes 46.5% acquisition amortisation (excluded - R&D above the OCF line already renews it, the QCOM ruling), 20.5% ROU amortisation (excluded - already rent inside OCF), 33% fixed-asset depreciation, so (c) = capex $594M + financing-obligation principal $584M = $1,178M, which independently equals the $1,200M of fixed-asset depreciation. THE STANDING COUNTER: $79bn of deployed capital became $10.0bn of incremental owner earnings over ten years - 12.7% pre-tax, 19.3% over five - at or above [E5-40], which is why Q4 reads GOOD rather than gruesome. Source: Test Runs/2026-09-07 Run - CRM Salesforce.md"
++   "label": "CRM at/below $210: full v4.1 re-run. LEVEL MOVED DOWN FROM $240 ON 2026-09-21, because the $240 band FIRED at $237.50 and the re-look QUIT ON THE NAME A SECOND TIME - $209 is the price at which the most generous of forty constructions (TTM to 2026-07-31, (c)=capex, interest-normalised) first clears the ~10% floor; above $210 not one of the forty clears and a re-run decides nothing. Business still clears Q1-Q4; no Q6 tripwire has fired and three moved AWAY from reopening. THE FINDING THAT DECIDED THE RE-LOOK: the 2026-09-07 run used the forward interest run-rate at Q4 (coverage 7.3x on $1,892M, which reproduces exactly) and then built Q5 from operating cash flow that does not bear it - H1 FY2027 ACCRUED $790M of interest and PAID $240M in cash, because the March 2026 coupons had not fallen due. Forward cost $1,824M from Note 8 (principal x contractual rate, $39,500M across fourteen instruments at 1.50-6.70%), cross-checked at $1,892M from Q2's $473M annualised. Unadjusted, 3 of 40 constructions clear the floor at $237.50 and three pay MORE than the sovereign (best 10.38%, +0.54 pts) - the first in this name's history to beat the bond, and the strongest fact against the verdict. Normalised, 0 of 40 clear: best 9.65%, judged 9.34%, corpus-default 6.75%; no construction reaches the 5.34% sovereign (best 5.15%). Value ~$45-210 normalised (centre ~$100) against ~$80-240 as-run (centre ~$133). FIRST RE-TEST, pre-registered: Q3 FY2027 results, late November 2026, the first period whose coupons are fully in CASH - if quarterly cash interest paid lands near $450M the normalisation is confirmed; if full-year FY2027 operating cash flow still reaches the guided ~$15.6bn with the coupon paid, the interest is absorbed and the unadjusted 10.06% was the better estimate, in which case this file was wrong. Source: Test Runs/2026-09-21 RE-LOOK - CRM Salesforce at the first level.md (re-look of Test Runs/2026-09-07 Run - CRM Salesforce.md). A ping is a prompt to re-run the gates, never an action."
+   },
+   {
+    "id": "CRM-ranks-band",
+@@ -594,7 +594,7 @@
+    "op": "<=",
+    "threshold": 150,
+    "active": true,
+-   "label": "CRM at/below $150: the judged centre. Watch the pay disclosure, which is WORSE than the AVGO case: 'non-GAAP' appears ZERO times in ten consecutive 10-Ks yet 50% of the bonus and half the PRSUs vest on it; 'Agentforce & Data 360 ARR' (33% of equity, vested at 200%) appears zero times anywhere filed; and the only clean GAAP metric, operating cash flow, was DROPPED for FY2026 [E4-52]. Also watch the buyback, which is PHASE-DEPENDENT and which a single verdict misdescribes: FY2017-22 pure dilution with no programme (+39% shares); FY2023-26 $782M of cash per million net shares retired, mostly payroll settled in cash; H1 FY2027 a real 11.4% cut PAID FOR WITH $31bn of 4.2-6.7% debt at $198.34. Ten years: diluted shares +36.5%. And the margin lever is spent on the company's own guidance - FY2027 GAAP operating margin 20.1%, exactly flat, with OCF growing 4-5% on revenue of 11-12%. A ping is a prompt to re-run the gates, never an action."
++   "label": "CRM at/below $150: the name would rank. LEVEL UNCHANGED ON 2026-09-21 and now carrying a SECOND, independent derivation - $149 is the price at which the three-year window clears the ~10% floor on the interest-normalised arithmetic, so the trigger survives its original one (the as-run centre, ~$150). It is DELIBERATELY NOT tightened to the re-look's new normalised centre of ~$100: operator rule 9 - the analyst who has just written the adjustment that keeps a name out has an incentive to set the next look further away, and leaving this level where it is costs one extra reading and removes that incentive. WATCH, and the first item is new: the Investor Day deck of 2026-09-16 (8-K 0001108524-26-000210, Item 7.01) reports the return on the $25bn ASR as 'Over 40% return on our investment' against a '$182 expected average share price', and the footnote states the method - the share price on 8/31/2026 divided by the average price paid. At $237.50 that 'return' is 30.5%, twelve points lower in three weeks on no filing and no event: a quotation, not a result, printed on the capital-allocation slide. Same deck: '190% of Free Cash Flow returned in FY27' (~$28.6bn returned against ~$15bn of free cash flow, the $13.6bn excess borrowed) and 'Our biggest bet in FY27 is Salesforce' - [E5-39] in the company's own words. Also still watch the pay disclosure ('non-GAAP' appears ZERO times in ten consecutive 10-Ks yet 50% of the bonus and half the PRSUs vest on it; 'Agentforce & Data 360 ARR', 33% of equity vested at 200%, appears zero times anywhere filed; operating cash flow, the only clean GAAP metric, was DROPPED for FY2026), the margin lever the company itself guides FLAT (FY2027 GAAP operating margin 20.1% against 20.06%), and the acquisition pace - $6.3bn of CASH closed in the first eight months of FY2027 (Qualified $1.2bn, Contentful $1.5bn on 2026-09-01, Fin/Intercom $3.6bn on 2026-09-10) against a five-year mean of $8,282M a year, which keeps alive the unadopted third reading of (c) in which acquisitions ARE maintenance capital and owner earnings are NEGATIVE. A ping is a prompt to re-run the gates, never an action."
+   },
+   {
+    "id": "LRCX-rerun",
+@@ -795,4 +795,4 @@
+    "label": "JPM deep band: quote at/below USD 190, 1.68x the 2026-06-30 tangible book value per share of $113.35 and below anything the Firm itself has paid for its own stock since 2023 ($142.42 average in 2023, $276.55 in 2025). RE-STRIKE ANNUALLY. Source: Test Runs/2026-09-19 Run - JPM JPMorgan Chase.md. Review only."
+   }
+  ]
+-}
+\ No newline at end of file
++}

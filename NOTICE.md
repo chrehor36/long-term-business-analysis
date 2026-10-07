@@ -41,8 +41,22 @@ Transcript and OCR artifacts are kept as found and never smoothed (PRIME RULE 1 
 - *(From 2026-10-05, at the owner's instruction:)* **the holding files in `Test Runs/`**: holding reviews, notes on
   holdings, hold reads and research passes. They carry the owner's share counts, cost bases, accounts and keep-or-sell
   words. The purchase runs, written blind and carrying no position, stay public.
-- **`Test Runs/_research*/`**, the raw filings, data pulls and scratch files behind each run (about 2.4 GB). Every
-  run file names its filings by accession number so they can be fetched from SEC EDGAR.
+- *(Until 2026-10-06, when the owner asked for the research behind each run to be shown:)* **`Test Runs/_research*/`**,
+  the raw filings, data pulls and scratch files behind each run. **From 2026-10-06 the research folders are published**:
+  the scripts, their outputs and the working notes behind every published purchase run (about 180 MB), which is what a
+  reader needs to reproduce a run's arithmetic. Three things inside them stay out, by the same name patterns the working
+  repository's `.gitignore` uses plus a size cap of 200 KB a file: the raw filings (.htm, .pdf, stripped 10-K, 10-Q,
+  proxy and 8-K text), the SEC XBRL data pulls (companyfacts and submissions JSON), and any cache folder. Measured on
+  2026-10-06 these came to 11 GB on disk plus 3.3 GB of dumps committed before the ignore rules, which no GitHub repository
+  carries; they are the SEC's own documents, and the SEC's copy is the authoritative one. The research folder of a
+  withheld run kind (a research pass, a re-look on a holding) stays withheld with it.
+- **How to reach any filing a run cites.** Every run records the document, its date and its accession number (operator
+  rule 4). An accession number resolves to one EDGAR address: for accession `0000909832-26-000051` of a filer whose CIK is
+  909832, the filing index is `https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/` (the CIK without
+  leading zeros, then the accession number without its hyphens). The CIK is the first block of the accession number for
+  a self-filed document, and otherwise is on the filer's EDGAR page. The full-text search at
+  `https://www.sec.gov/edgar/search/` and the company page at `https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=<ticker>`
+  reach the same documents by ticker.
 - **`MBA - UNG/`** and **`Curriculum/`**, coursework and a class charter that share the working repository and have
   nothing to do with the framework.
 - Caches (`tools/_cache/`, `Backtests/bt17_cache/`), logs and the lock file, which are gitignored in both copies.

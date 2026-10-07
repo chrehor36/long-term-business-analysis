@@ -1,0 +1,33 @@
+FC Step 0 + Q1 IN + Q2 OUT: it is a business, not a franchise -- the filer's own 10-K names 24 competitors and lists "Competitive pricing" as a principal competitive factor, and the 12-year EBIT/capital-employed row puts FC (10.9%) on Korn Ferry's number, a third of Accenture's
+
+STEP 0, four flags resolved by hand before Q1 opened.
+
+(i) cap_flag WRONG BY 18%. Float $349.5M at $31.98 on 2025-02-28 is right (the aggregator
+reproduces that close to the cent); the cap is not. Re-struck by hand: 11,293,873 shares from
+the Q3 FY2026 10-Q cover (accession 0001193125-26-297572, as of 2026-06-30) x $17.27 close of
+2026-09-18 = US$195.0M, against the screen's $231M. The CALM/EMBC/BRBR branch -- a genuine 46%
+drawdown with nineteen months between the two dates, affiliate block only ~8-10%, no fifth
+branch. NEW TOOLING DEFECT: the screen priced off the ANNUAL cover count when a newer 10-Q
+cover count existed and was 7.1% lower, on a company retiring ~5% of its shares a year.
+
+(ii) wc_note RIGHT, for the first time in four runs. Ranked every FY2021 working-capital line
+with its sign: deferred revenue +$19,788k is genuinely the largest at +42.9% of OCF and it
+genuinely PRODUCED the cash. The EMBC/MCFT/BRBR inversion pattern does not reproduce.
+
+(iii) spread_caveat REFUTED, and this is the big one. Rebuilt EIGHTEEN fiscal years (FY2008-
+FY2025) by hand from the cash-flow statements of eight 10-Ks. The screen's $24-31M band is the
+FY2021-2025 window and nothing else; the 18-year mean is $9.5M to $13.3M. SECOND TOOLING
+DEFECT: FC tags capitalized curriculum development under the company extension
+fc:PaymentsForCurriculumDevelopmentCosts, which companyfacts does not carry at all, so the
+screen sees 45% of the real capex ($67.4M of $149.1M over 18 years). THIRD: the D&A tags
+resolve to $4.1M for FY2025 against a filed $12.9M.
+
+(iv) acq_note empty is FALSE -- nine acquisitions, ~$41.6M. deal_note empty is true for a live
+deal but missed the FY2008 Consumer Solutions divestiture and the FY2025 France licensee
+conversion. name_change_note empty is GENUINELY CORRECT and verified in the filing history:
+Franklin Quest -> Franklin Covey is a 1997 rebrand after a merger on an unbroken CIK and file
+number, eleven years before the series starts. No BRBR-class substitution.
+
+Q1 IN. Q2 OUT on the business.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

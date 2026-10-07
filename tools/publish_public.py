@@ -20,7 +20,38 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_DEST = os.path.join(os.path.expanduser("~"), "BRK-public")
 
 # What the public copy withholds (NOTICE.md, "What the public copy withholds").
-DENY_PREFIXES = ("MBA - UNG/", "Curriculum/", "Test Runs/_research", ".claude/")
+# 2026-10-06, the owner's decision on transparency: the research folders are published (their scripts, outputs and
+# working notes), minus the filing dumps, so "Test Runs/_research" left this tuple; see research_allowed().
+DENY_PREFIXES = ("MBA - UNG/", "Curriculum/", ".claude/")
+
+# 2026-10-06: what a research folder keeps in the public copy. The raw filings and data pulls are 11 GB on disk and
+# re-fetchable from EDGAR by the accession numbers every run records (operator rule 4); the tracked dumps committed
+# before the ignore rules are 3.3 GB. Neither fits a GitHub repository. The scripts, outputs and notes (about 180 MB)
+# are what a reader needs to reproduce a run's arithmetic, and they are published. Three tests, all three must pass:
+# the folder belongs to a published run (a withheld kind's folder stays withheld with it); the file name is not a
+# filing or XBRL dump by the same patterns .gitignore uses; the file is under RESEARCH_MAX_BYTES.
+RESEARCH_DUMP = re.compile(r"(10-?K|10-?Q|DEF ?_?14A|8-?K|20-?F|\btenk|\btenq|ten-k|ten-q|_body\b|_fy20|_FY20|"
+                           r"companyfacts|submissions|\bsubs\.json|_raw\.json|\.htm$|\.html$|\.pdf$|\.xlsx$)", re.I)
+RESEARCH_MAX_BYTES = 200_000
+RESEARCH_DIR = re.compile(r"^Test Runs/_research (\d{4}-\d{2}-\d{2}) ([A-Za-z0-9.\-]+)(?: |/)")
+PUBLIC_RUNS = set()  # (date, ticker) of every published purchase run; filled in main()
+
+
+def research_allowed(rel):
+    if not rel.startswith("Test Runs/_research"):
+        return True
+    m = RESEARCH_DIR.match(rel)
+    # A folder named by date and ticker belongs to that run and is published only if the run is; a folder named
+    # otherwise (the batch folders of 2026-08-26 and earlier) belongs to no withheld kind and gets the file tests alone.
+    if m and (m.group(1), m.group(2)) not in PUBLIC_RUNS:
+        return False
+    base = rel.rsplit("/", 1)[-1]
+    if RESEARCH_DUMP.search(base) or "/cache/" in rel:
+        return False
+    try:
+        return os.path.getsize(os.path.join(ROOT, rel)) < RESEARCH_MAX_BYTES
+    except OSError:
+        return False
 # 2026-10-05: v5 adopted, so principle_ledger_v5.csv is published (the governing documents cite it).
 DENY_EXACT = {"PORTFOLIO.md"}
 POINTER_DOCS = ("CLAUDE.md", "README.md", "Framework/README.md", "Framework/OPERATOR-PROTOCOL.md")
@@ -54,7 +85,22 @@ def allowed(rel):
         return False
     if DENY_RUN_KINDS.match(rel):
         return False
+    if not research_allowed(rel):
+        return False
     return not any(rel.startswith(p) for p in DENY_PREFIXES)
+
+
+RUN_FILE = re.compile(r"^Test Runs/(\d{4}-\d{2}-\d{2}) Run - ([A-Za-z0-9.\-]+) ")
+
+
+def public_runs(tracked):
+    """(date, ticker) of every tracked purchase run file; the research folders of these are published."""
+    out = set()
+    for f in tracked:
+        m = RUN_FILE.match(f)
+        if m and not DENY_RUN_KINDS.match(f):
+            out.add((m.group(1), m.group(2)))
+    return out
 
 
 def main():
@@ -76,8 +122,10 @@ def main():
             sys.exit(f"refused: {dest} is on branch '{br}', not master. The export writes master only; "
                      f"branch work is done in its own folder, never through this script.")
 
-    files = [f for f in tracked_files() if allowed(f)]
-    withheld = [f for f in tracked_files() if not allowed(f)]
+    tracked = tracked_files()
+    PUBLIC_RUNS.update(public_runs(tracked))
+    files = [f for f in tracked if allowed(f)]
+    withheld = [f for f in tracked if not allowed(f)]
     copied = 0
     for rel in files:
         src = os.path.join(ROOT, rel)

@@ -1,0 +1,18 @@
+year         OCF    SBC  grant capex+sw    D&A   film  OEcapex  OE D&A  OEgrant OEexFilm  OE/rev
+FY2021*    -22.0   23.6    n/r     16.0   22.1    0.0    -61.6   -67.7    -61.6    -61.6  -16.1%
+FY2022       7.0   18.6    n/r     17.8   22.7    0.0    -29.4   -34.3    -29.4    -29.4   -9.0%
+FY2023      -0.7    5.3    6.9     14.9   20.3   -1.7    -20.9   -26.3    -22.5    -19.2   -9.1%
+FY2024      -5.7    5.5   17.3     12.8   19.1   -0.0    -24.0   -30.4    -35.7    -24.0  -12.6%
+FY2025     -18.7    5.8    6.3     14.4   15.8  -18.5    -38.9   -40.4    -39.4    -20.4  -21.0%
+5y FY2021*-25 (splice of two vintages) capex end -35.0 | D&A end -39.8 | larger of charge/grant -37.7 | capex end without film outlay -30.9
+4y FY2022-25 (one basis) capex end -28.3 | D&A end -32.8 | larger of charge/grant -31.7 | capex end without film outlay -23.2
+3y FY2023-25 (one basis) capex end -27.9 | D&A end -32.4 | larger of charge/grant -32.5 | capex end without film outlay -21.2
+TTM to 2026-06-30: OCF -15.3 SBC 6.2 capex+sw 14.4 D&A 15.5 film -17.8 -> OE capex end -35.9, D&A end -37.0, capex end without film -18.1
+H1 2026 alone: OCF -5.3, SBC 3.1, capex+sw 7.2 -> OE -15.6 (half-year)
+cap cover 93.3 ; cap after 2026-09-11 95.2
+  5y capex end   OE  -35.0 -> yield on cap  -37.5%
+  4y capex end   OE  -28.3 -> yield on cap  -30.3%
+  3y capex end   OE  -27.9 -> yield on cap  -29.9%
+  3y D&A end     OE  -32.4 -> yield on cap  -34.7%
+  TTM capex end  OE  -35.9 -> yield on cap  -38.4%
+OE needed for 10% on cap: 9.3 ; for 5.34%: 5.0

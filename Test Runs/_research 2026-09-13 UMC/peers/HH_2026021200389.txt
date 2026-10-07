@@ -1,0 +1,966 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of
+the contents of this announcement.
+
+             HUA HONG SEMICONDUCTOR LIMITED
+                          
+
+                                              (Incorporated in Hong Kong with limited liability)
+
+                                                Stock Code (01347)
+
+                           News Release
+
+                Reports 2025 Fourth Quarter Results
+
+                All currency figures in this report are in US Dollars unless indicated otherwise.
+               The consolidated financial statements are prepared in accordance with HKFRS.
+
+Hong Kong Special Administrative Region of the People's Republic of China ­ February 12, 2026.
+Hua Hong Semiconductor Limited (SEHK: 01347; SSE STAR MARKET: 688347) (the "Company"), a
+global, leading pure-play foundry, today announced its consolidated operational results for the quarter
+ending December 31, 2025.
+
+Fourth Quarter 2025 Highlights (Unaudited)
+ Revenue reached another all-time high of US$659.9 million, 22.4% over 4Q 2024 and 3.9% above
+
+    3Q 2025.
+ Gross margin was 13.0%, 1.6 percentage points over 4Q 2024 and 0.5 percentage point dip from
+
+    3Q 2025.
+ Net profit attributable to shareholders of the parent company was US$17.5 million, compared to a
+
+    loss of US$25.2 million in 4Q 2024, and a profit of US$25.7 million in 3Q 2025.
+
+First Quarter 2026 Guidance
+ We expect revenue to be approximately US$650 million to US$660 million.
+ We expect gross margin to be in the range of 13% to 15%.
+
+                                                                                                                                                                        1
+President's Message
+Dr. Peng Bai, Chairman and President of the Company, commented on the fourth quarter and the full
+year performance for 2025:
+" Fourth quarter 2025 sales revenue for Hua Hong Semiconductor reached an all-time high of US$659.9
+million, with a gross margin of 13.0% for the quarter, both in line with guidance. For the full year of 2025,
+the company reported sales revenue of US$2,402.1 million and a gross margin of 11.8%, both achieving
+year-on-year growth and meeting management expectations. Against the backdrop of the global
+semiconductor market being driven by demand for AI and related products, coupled with a recovery in
+consumer demand led by the domestic market, the company maintained full-capacity operations
+throughout the year at an average capacity utilization rate of 106.1%, which ranked among the leading
+levels in the foundry industry."
+Dr. Bai continued: "By optimizing product mix, reducing costs, and improving operational efficiency, we
+achieved strong performance across various specialty technology platforms, especially in Standalone
+NVM and Power Management areas, effectively supporting the company's revenue growth and margin
+expansion. In 2025, the company continued to advance its strategic plans for capacity expansion. The
+first phase of capacity construction for the second 12-inch production line in Wuxi (FAB9) exceeded
+expectations for completion, and the Shanghai 12-inch manufacturing base (FAB5) acquisition
+progressed as planned. Looking ahead, the company will maintain strong focus on developing world
+class specialty technology platforms with innovations and through rapid generational iteration, while
+deepening collaborations with strategic customers, both domestically and internationally. We remain
+confident in our ability to seize growth opportunities amid changes in the global semiconductor industry
+and are striving to meet shareholders' long-term expectations."
+
+                                                                                                                                                                        2
+Webcast/Conference Call Announcement
+
+Date:     Thursday, February 12, 2026
+
+Time:     17:00 Hong Kong/Shanghai Time
+          04:00 EST
+
+Presenters: Dr. Peng Bai, Chairman and President of the Company
+
+          Mr. Daniel Wang, Executive Vice President and Chief Financial Officer
+
+Webcast:  The call will be webcast live with audio and slides at:
+
+          https://www.huahonggrace.com/html/ir_calendar.php or
+
+          https://edge.media-server.com/mmc/p/eicdo4wo
+          (Note: registration is required to access the webcast.)
+
+Dial-in Details: Please register in advance of the conference using the link provided below. Upon
+                     registering, you will be provided with participant dial-in numbers and personal PIN.
+
+          https://register-conf.media-server.com/register/BIc6a59cc45c954742a912c5e8cd37e5a3
+
+Replay:   Important Note: Before the meeting starts, you will need the personal PIN to join the
+          call. Please check and save the confirmation email after registering. For security
+          reasons, please do not share your personal PIN with anyone else.
+
+          A recording will be available for replay at the below website about 2 hours after the
+          event and will be available for 12 months.
+
+          https://www.huahonggrace.com/html/ir_calendar.php
+
+About the Company
+
+Hua Hong Semiconductor Limited (Stock Code: 688347.SH/ 01347.HK) (the "Company") is a global
+leading pure-play foundry with specialty technologies which offers a diverse array of wafer foundry and
+supporting services to its customers, implementing "8-inch + 12-inch" and advanced "Specialty IC +
+Power Discrete" development strategies. The Company focuses on continuous innovation of specialty
+technologies, including embedded/standalone non-volatile memory (NVM), power discrete, analog &
+power management, and logic & RF, supporting applications in emerging areas, such as new energy
+vehicles, green energy, and the Internet of Things. Of special note is the Company's outstanding quality
+control system that satisfies the strict requirements of automotive chip manufacturing. The Company is
+a member of the Hua Hong Group, which is an industrial group in China that owns mainstream "8-inch
++ 12-inch" advanced IC manufacturing process technologies.
+
+The Company operates three 8-inch wafer fabrication facilities in Shanghai Jinqiao and Shanghai
+Zhangjiang. In addition, the Company has built two global leading 12-inch wafer fabrication facilities
+devoted to specialty processes in Wuxi National Hi-Tech District, one of which is the world's first 12-
+inch power semiconductor foundry.
+
+For more information, please visit: www.huahonggrace.com.
+
+                                                                                 3
+                        Summary of Operating Results
+(Amounts in US$ thousands, except for EPS and operating data)
+
+Revenue                                4Q 2025         4Q 2024         3Q 2025         YoY       QoQ
+Gross profit                         (Unaudited)     (Unaudited)     (Unaudited)     Change    Change
+Gross margin
+Operating expenses                        659,882         539,177         635,180      22.4 %      3.9 %
+Other income / (loss) net                   85,464          61,426          85,854     39.1 %     (0.5)%
+(Loss) / profit before tax                   13.0 %          11.4 %          13.5 %               (0.5)
+Income tax expense                                                                       1.6     29.6 %
+Loss for the period                      (130,165)       (110,626)       (100,433)     17.7 %    92.1 %
+Net profit margin                           34,110         (40,468)         17,752   (184.3)%  (433.8)%
+Attributable to:                           (10,591)        (89,668)           3,173   (88.2)%   (22.1)%
+                                            (8,069)         (6,596)        (10,363)    22.3 %   159.5 %
+    Owners of the parent                   (18,660)        (96,264)         (7,190)   (80.6)%     (1.7)
+    Non-controlling interests                (2.8)%        (17.9)%           (1.1)%     15.1
+                                                                                                (32.2)%
+                                      17,454         (25,199)         25,725         (169.3)%      9.7 %
+                                     (36,114)        (71,065)        (32,915)         (49.2)%
+
+Earnings per share attributable to     0.010          (0.015)          0.015         (166.7)%  (33.3)%
+ owners of the parent                  0.010          (0.015)          0.015         (166.7)%  (33.3)%
+    Basic
+                                       1,448           1,213           1,400           19.4 %    3.4 %
+    Diluted
+Wafers shipped                       103.8 %         103.2 %         109.5 %             0.6    (5.7)
+(in thousands 8" equivalent wafers)     1.2 %          (1.6)%           1.6 %            2.8    (0.4)
+Capacity utilization1
+ROE2
+
+  Fourth Quarter 2025
+
+· Revenue reached another all-time high of US$659.9 million, 22.4% over 4Q 2024, and 3.9%
+     over 3Q 2025, primarily driven by increased wafer shipments and improved average selling
+     price.
+
+· Gross margin was 13.0%, 1.6 percentage points over 4Q 2024, primarily driven by improved
+     average selling price and cost reduction efforts, and 0.5 percentage point dip from 3Q 2025,
+     primarily due to increased labor costs.
+
+· Operating expenses were US$130.2 million, 17.7% over 4Q 2024, primarily due to increased
+     labor costs and depreciation expenses, and 29.6% over 3Q 2025, mainly due to increased labor
+     costs.
+
+· Other income net was US$34.1 million, compared to other loss net of US$40.5 million in 4Q
+     2024, primarily due to foreign exchange gains versus foreign exchange losses in 4Q 2024,
+     decreased finance costs and increased government subsidies. It was 92.1% over 3Q 2025,
+     mainly due to decreased finance costs.
+
+· Income tax expense was US$8.1 million, 22.3% higher than 4Q 2024, primarily due to increased
+     taxable income.
+
+· Net loss for the period was US$18.7 million, narrowed by 80.6% compared to 4Q 2024, and a
+     widening of 159.5% in loss from 3Q 2025.
+
+· Net profit attributable to shareholders of the parent company was US$17.5 million, compared
+     to a loss of US$25.2 million in 4Q 2024, and a profit of US$25.7 million in 3Q 2025.
+
+· Basic earnings per share was US$0.010.
+
+· ROE (annualized) was 1.2%.
+
+1The capacity utilization is calculated based on average monthly equivalent wafers output divided by total estimated monthly capacity.
+2Profit attributable to owners of the parent / weighted average net assets attributable to owners of the parent.
+
+                                                                                                                                                                             4
+                                      Summary of Operating Results
+              (Amounts in US$ thousands, except for EPS and operating data)
+
+                                                         2025         2024          YoY
+                                                                                  Change
+                                                         (Unaudited)  (Audited)
+                                                                                    19.9 %
+Revenue                                                  2,402,064    2,003,993     37.9 %
+Gross profit                                               282,926      205,128
+Gross margin                                                 11.8 %       10.2 %      1.6
+                                                                                    17.9 %
+Operating expenses                                       (425,625)    (360,904)    146.4 %
+Other income net                                           54,170       21,984     (33.8)%
+                                                                                   238.0 %
+Loss before tax                                           (88,529)    (133,792)    (21.1)%
+Income tax expense                                        (22,284)       (6,593)
+Loss for the year                                        (110,813)                    2.4
+Net profit margin                                                     (140,385)
+                                                             (4.6)%       (7.0)%     (5.6)%
+                                                                                   (16.5)%
+Attributable to:                                           54,881       58,108
+   Owners of the parent                                  (165,694)    (198,493)      (5.9)%
+   Non-controlling interests                                                         (5.9)%
+                                                                                    18.5 %
+Earnings per share attributable to owners of the parent    0.032       0.034          6.6
+    Basic                                                  0.032       0.034
+    Diluted                                                5,384       4,545              -
+                                                         106.1 %      99.5 %
+Wafers shipped (in thousands 8" equivalent wafers)          0.9 %      0.9 %
+Capacity utilization
+ROE
+
+Full Year 2025
+
+· Revenue was US$2,402.1 million, a growth of 19.9% over the prior year, primarily driven by
+     increased wafer shipments.
+
+· Gross margin was 11.8%, 1.6 percentage points over 2024, primarily driven by improved average
+     selling price and cost reduction effort, partially offset by higher depreciation costs.
+
+· Operating expenses were US$425.6 million, 17.9% over 2024, largely attributable to increased
+     research and development expenses.
+
+· Other income net was US$54.2 million, 146.4% above 2024, primarily due to decreased finance
+     costs and foreign exchange losses and increased government subsidies, partially offset by
+     decreased interest income.
+
+· Loss for the year was US$110.8 million, narrowed by 21.1% compared to 2024.
+
+· Net profit attributable to shareholders of the parent company was US$54.9 million, 5.6% dip from
+     2024.
+
+· Basic earnings per share was US$0.032.
+
+· ROE was 0.9%.
+
+                                                                                                    5
+                        Analysis of Revenue
+
+Revenue by     4Q 2025 4Q 2025 4Q 2024 4Q 2024                     YoY                   YoY
+service type                                                    Change                 Change
+               US$000   %        US$000      %                   US$000
+Wafers                                                          121,754                    %
+Others         (Unaudited) (Unaudited) (Unaudited) (Unaudited)                          23.7 %
+Total revenue                                                     (1,049)
+               634,431  96.1 %   512,677     95.1 %                                     (4.0)%
+                                                                120,705
+               25,451   3.9 %    26,500      4.9 %                                      22.4 %
+
+               659,882  100.0 %  539,177     100.0 %
+
+ 96.1% of total revenue was derived from the sale of semiconductor wafers in 4Q 2025.
+
+                        Analysis of Revenue
+
+Revenue by     4Q 2025 4Q 2025 4Q 2024 4Q 2024                     YoY                   YoY
+wafer size                                                      Change                 Change
+               US$000   %        US$000      %                   US$000
+8" wafers                                                                                  %
+12" wafers     (Unaudited) (Unaudited) (Unaudited) (Unaudited)       612                  0.2 %
+Total revenue
+               252,846  38.3 %   252,234     46.8 %             120,093                 41.9 %
+
+               407,036  61.7 %   286,943     53.2 %             120,705                 22.4 %
+
+               659,882  100.0 %  539,177     100.0 %
+
+ Revenues from 8" wafers and 12" wafers were US$252.8 million and US$407.0 million, respectively,
+    in 4Q 2025.
+
+                                                                                                   6
+                         Analysis of Revenue
+
+Revenue by      4Q 2025 4Q 2025 4Q 2024 4Q 2024                     YoY      YoY
+geography                                                        Change    Change
+                US$000   %        US$000      %                   US$000
+China3                                                            88,563       %
+North America4  (Unaudited) (Unaudited) (Unaudited) (Unaudited)   24,705    19.6 %
+Other Asia5                                                                 51.3 %
+Europe          539,345  81.8 %   450,782     83.7 %                2,361
+Total revenue                                                       5,076     9.1 %
+                72,825   11.0 %   48,120      8.9 %              120,705    35.6 %
+                                                                            22.4 %
+                28,378   4.3 %    26,017      4.8 %
+
+                19,334   2.9 %    14,258      2.6 %
+
+                659,882  100.0 %  539,177     100.0 %
+
+ Revenue from China was US$539.3 million, contributing 81.8% of total revenue and an increase
+    of 19.6% compared to 4Q 2024, mainly driven by increased demand for other PMIC, MCU, flash
+    and CIS products.
+
+ Revenue from North America was US$72.8 million, an increase of 51.3% compared to 4Q 2024,
+    mainly driven by increased demand for other PMIC and MCU products.
+
+ Revenue from Other Asia was US$28.4 million, an increase of 9.1% compared to 4Q 2024.
+
+ Revenue from Europe was US$19.3 million, an increase of 35.6% compared to 4Q 2024, mainly
+    driven by increased demand for MCU and IGBT products.
+
+3Includes Chinese Mainland and Hong Kong.
+4Includes a major customer in US that was acquired by an Europe headquartered company in 2020.
+5Includes Taiwan, China and Japan.
+
+                                                                                                                                                                             7
+                         Analysis of Revenue
+
+Revenue by      4Q 2025 4Q 2025 4Q 2024 4Q 2024                     YoY      YoY
+technology                                                       Change    Change
+platform        US$000   %        US$000      %                   US$000
+Embedded NVM                                                      43,003       %
+Standalone NVM  (Unaudited) (Unaudited) (Unaudited) (Unaudited)   10,554    31.3 %
+Power Discrete                                                              22.9 %
+Logic & RF      180,187  27.3 %   137,184     25.4 %                3,905
+Analog & PM                                                       12,933      2.4 %
+Total revenue   56,610   8.6 %    46,056      8.5 %               50,310    19.2 %
+                                                                 120,705    40.7 %
+                168,859  25.6 %   164,954     30.7 %                        22.4 %
+
+                80,424   12.2 %   67,491      12.5 %
+
+                173,802  26.3 %   123,492     22.9 %
+
+                659,882  100.0 %  539,177     100.0 %
+
+ Revenue from embedded NVM was US$180.2 million, an increase of 31.3% compared to 4Q 2024,
+    mainly driven by increased demand for MCU and smart card ICs.
+
+ Revenue from standalone NVM was US$56.6 million, an increase of 22.9% compared to 4Q 2024,
+    mainly driven by increased demand for flash products.
+
+ Revenue from power discrete was US$168.9 million, an increase of 2.4% compared to 4Q 2024,
+    mainly driven by increased demand for general MOSFET products.
+
+ Revenue from logic & RF was US$80.4 million, an increase of 19.2% over 4Q 2024, mainly driven
+    by increased demand for CIS products.
+
+ Revenue from analog & power management was US$173.8 million, an increase of 40.7% over 4Q
+    2024, mainly driven by increased demand for other PMIC products.
+
+                                                                                                8
+                          Analysis of Revenue
+
+Revenue by       4Q 2025 4Q 2025 4Q 2024 4Q 2024                     YoY       YoY
+process                                                           Change     Change
+technology node  US$000   %        US$000      %                   US$000
+65nm                                                               57,654        %
+90nm & 95nm      (Unaudited) (Unaudited) (Unaudited) (Unaudited)   57,515     44.7 %
+0.11µm & 0.13µm                                                               54.0 %
+0.15µm & 0.18µm  186,687  28.3 %   129,033     23.9 %                 (466)   (0.7)%
+0.25µm                                                               2,215
+0.35µm           163,929  24.8 %   106,414     19.7 %                 (872)     7.1 %
+Total revenue                                                        4,659   (32.0)%
+                 69,767   10.6 %   70,233      13.0 %             120,705
+                                                                                2.3 %
+                 33,543   5.1 %    31,328      5.8 %                          22.4 %
+
+                 1,852    0.3 %    2,724       0.5 %
+
+                 204,104  30.9 %   199,445     37.1 %
+
+                 659,882  100.0 %  539,177     100.0 %
+
+ Revenue from 65nm and below technology nodes was US$186.7 million, an increase of 44.7%
+    over 4Q 2024, mainly driven by increased demand for other PMIC, flash, MCU, CIS, logic and RF
+    products.
+
+ Revenue from the 90nm & 95nm technology nodes was US$163.9 million, an increase of 54.0%
+    over 4Q 2024, mainly driven by increased demand for other PMIC, MCU and smart card ICs.
+
+ Revenue from the 0.11µm & 0.13µm technology nodes was US$69.8 million, flat from 4Q 2024.
+
+ Revenue from the 0.15µm & 0.18µm technology nodes was US$33.5 million, an increase of 7.1%
+    mainly driven by increased demand for MCU and other PMIC products.
+
+ Revenue from the 0.25µm technology node was US$1.9 million, a decrease of 32.0% compared
+    to 4Q 2024, mainly due to decreased demand for discrete products.
+
+ Revenue from the 0.35µm and above technology nodes was US$204.1 million, an increase of
+    2.3% compared to 4Q 2024, mainly driven by increased demand for general MOSFET products.
+
+                                                                                                   9
+                                 Analysis of Revenue
+
+Revenue by            4Q 2025 4Q 2025 4Q 2024 4Q 2024                           YoY      YoY
+end market                                                                   Change    Change
+distribution          US$000     %        US$000                     %       US$000
+                                                                              75,041       %
+                      (Unaudited) (Unaudited) (Unaudited) (Unaudited)                   21.8 %
+                                                                              22,687
+Consumer electronics 419,635     63.7 %   344,594      63.9 %                 18,835    18.3 %
+                                                                                        29.1 %
+Industrial & automotive 146,724  22.2 %   124,037      23.0 %                   4,142
+                                                                             120,705    69.9 %
+Communications        83,454     12.6 %        64,619  12.0 %                           22.4 %
+
+Computing             10,069     1.5 %         5,927                 1.1 %
+
+Total revenue         659,882    100.0 %  539,177      100.0 %
+
+ Revenue from consumer electronics, our largest end market segment, contributed US$419.6
+    million, reaching 63.7% of total revenue, an increase of 21.8% over 4Q 2024, mainly driven by
+    increased demand for other PMIC, MCU and flash products.
+
+ Revenue from industrial & automotive was US$146.7 million, an increase of 18.3% compared to
+    4Q 2024, mainly driven by increased demand for other PMIC and smart card ICs.
+
+ Revenue from communications was US$83.5 million, an increase of 29.1% compared to 4Q 2024,
+    mainly driven by increased demand for CIS, RF, smart card ICs and analog products.
+
+ Revenue from computing was US$10.1 million, an increase of 69.9% compared to 4Q 2024, mainly
+    driven by increased demand for general MOSFET and MCU products.
+
+                                 Capacity6 and Capacity Utilization
+
+                                   4Q 2025               4Q 2024               3Q 2025
+                                 (Unaudited)           (Unaudited)           (Unaudited)
+
+Total capacity (in thousands 8"           486                           391          468
+    equivalent wafers)
+                                    103.8%             103.2%                   109.5%
+Overall capacity utilization
+
+ Monthly capacity was 486,000 8-inch equivalent wafers at the end of 4Q 2025. Overall capacity
+    utilization was 103.8% in 4Q 2025.
+
+                                 Wafer Shipments
+
+in thousands 8"                    4Q 2025 4Q 2024 3Q 2025                     YoY       QoQ
+   equivalent wafers             (Unaudited) (Unaudited) (Unaudited)         Change    Change
+
+Wafer shipments                  1,448         1,213                 1,400     19.4 %      3.4 %
+
+ Wafer shipments were 1,448,000, an increase of 19.4% year over year, and 3.4% quarter over
+    quarter.
+
+6 Wafers per month at the end of the period, calculated on a 30-day basis for comparison purposes.
+
+                                                                                                                                                                            10
+                                        Operating Expenses Analysis
+
+Amounts in US$ thousands                4Q 2025  4Q 2024             3Q 2025     YoY       QoQ
+                                                                               Change     Change
+Selling and distribution expenses       (Unaudited) (Unaudited) (Unaudited)                62.6 %
+Administrative expenses7                                                          44.9 %   28.8 %
+Operating expenses                      3,791    2,617                 2,332      17.0 %
+                                                                                           29.6 %
+                                        126,374  108,009               98,101     17.7 %
+
+                                        130,165  110,626             100,433
+
+ Operating expenses were US$130.2 million, 17.7% over 4Q 2024, primarily due to increased labor
+    costs and depreciation expenses, and 29.6% over 3Q 2025, mainly due to increased labor costs.
+
+                                   Other Income / (Loss) Net Analysis
+
+Amounts in US$ thousands                4Q 2025  4Q 2024             3Q 2025     YoY        QoQ
+                                                                               Change     Change
+                                        (Unaudited) (Unaudited) (Unaudited)
+                                                                                  13.0 %       8.5 %
+Rental income                           3,932    3,481                 3,625     (25.5)%     10.7 %
+                                                                               (114.4)%      87.2 %
+Interest income                         15,228   20,450                13,762  (391.2)%     (31.6)%
+                                                                                 (58.8)%    (53.9)%
+Foreign exchange gains / (losses)       7,014    (48,664)              3,746    246.0 %      27.8 %
+                                                                               (398.5)%   (519.4)%
+Share of profit / (loss) of associates  1,261    (433)                 1,843   (184.3)%      92.1 %
+
+Finance costs                           (8,414)  (20,406)            (18,249)
+
+Government subsidies                    16,280   4,705                 12,741
+
+Others                                  (1,191)  399                   284
+
+Other income net                        34,110   (40,468)              17,752
+
+ Other income net was US$34.1 million, compared to other loss net of US$40.5 million in 4Q 2025,
+    primarily due to foreign exchange gains versus foreign exchange losses in 4Q 2024, decreased
+    finance costs and increased government subsidies. It was 92.1% over 3Q 2025, mainly due to
+    decreased finance costs.
+
+7Administrative expenses include government grants recognized as an offset item.
+
+                                                                                                                                                                            11
+                                   Cash Flow Analysis
+
+Amounts in US$ thousands           4Q 2025     4Q 2024       3Q 2025           YoY       QoQ
+                                                                             Change    Change
+Net cash flows generated from      (Unaudited) (Unaudited) (Unaudited)
+   operating activities                                                       (29.5)%    33.6 %
+                                   246,026     348,783       184,150
+Net cash flows used in
+   investing activities            (585,659) (1,484,688) (253,296) (60.6)% 131.2 %
+
+Net cash flows generated from /    1,361,101       (50,929)  104,163 (2,772.5)% 1,206.7 %
+   (used in) financing activities
+                                       34,759    (120,783)   22,816          (128.8)% 52.3 %
+Effect of exchange rate changes    1,056,227   (1,307,617)   57,833          (180.8)% 1,726.3 %
+Net change in cash
+
+ Net cash flows generated from operating activities was US$246.0 million, 29.5% lower than 4Q
+    2024, mainly due to increased payment for suppliers and decreased receipts of government
+    subsidies, partially offset by increased receipts from customers. It was 33.6% over 3Q 2025,
+    largely driven by increased receipts of government subsidies.
+
+ Net cash flows used in investing activities was US$585.7 million, including US$633.5 million
+    investment in fixed assets and US$3.6 million investment in an equity instrument, partially offset
+    by US$36.6 million receipts of government grants of equipment, US$13.6 million interest income
+    and US$1.2 million receipts of disposal of equipment.
+
+ Net cash flows generated from financing activities was US$1,361.1 million, including US$919.0
+    million proceeds from bank borrowings, US$594.6 million from other financing activities,
+    US$12.1 million receipts of government grants for finance costs, and US$4.7 million proceeds
+    from share option exercises, partially offset by US$136.1 million of bank principal repayments,
+    US$32.8 million interest payments and US$0.4 million lease payments.
+
+                                   Capital Structure
+
+Amounts in US$ thousands                                     31-Dec-2025     30-Sep-2025
+Total assets                                                  (Unaudited)     (Unaudited)
+Total liabilities                                              14,453,772      12,511,666
+Total equity                                                     5,289,541       3,502,618
+Debt ratio8                                                      9,164,231       9,009,048
+                                                                      36.6%           28.0%
+Amounts in US$ thousands
+Hua Hong 8"                        Capital Expenditures
+Hua Hong 12"
+Total                                                            4Q 2025         3Q 2025
+                                                             (Unaudited)     (Unaudited)
+
+                                                                   74,527          19,305
+
+                                                                  558,956         242,589
+                                                                  633,483         261,894
+
+ Capital expenditures were US$633.5 million in 4Q 2025, including US$559.0 million for Hua Hong
+    12" and US$74.5 million for Hua Hong 8".
+
+8 Debt ratio is calculated based on total liabilities / total assets.
+
+                                                                                                                                                                            12
+                          Liquidity
+
+Amounts in US$ thousands                         31-Dec-2025      30-Sep-2025
+                                                 (Unaudited)      (Unaudited)
+Completed properties held for sale
+Inventories                                            215,511         223,302
+Trade and notes receivables                            544,368         526,840
+Prepayments, other receivables and other assets        282,053         257,067
+Due from related parties                               561,328         494,222
+Restricted and time deposits
+Cash and cash equivalents                               10,135          22,150
+Total current assets                                    32,342          31,993
+Trade payables                                      4,960,960       3,904,733
+Other payables and accruals                         6,606,697       5,460,307
+Interest-bearing bank borrowings                       330,370         275,064
+Lease liabilities                                  1,008,586           704,754
+Government grants                                      403,748         340,686
+Due to related parties
+Income tax payable                                        3,229           3,598
+Total current liabilities                               89,049          66,498
+Net working capital
+Quick ratio                                               6,225           7,832
+Current ratio                                           15,014          14,341
+Trade and notes receivables turnover days           1,856,221       1,412,773
+Inventories turnover days                           4,750,476       4,047,534
+
+                                                            3.1x            3.3x
+                                                            3.6x            3.9x
+
+                                                              37              37
+                                                              83              85
+
+ Trade and notes receivables increased from US$257.1 million on 30 September 2025 to
+    US$282.1 million on 31 December 2025, mainly due to increased revenue.
+
+ Prepayments, other receivables and other assets increased from US$494.2 million on 30
+    September 2025 to US$561.3 million on 31 December 2025, mainly due to increased value-
+    added tax credit.
+
+ Due from related parties decreased from US$22.2 million on 30 September 2025 to US$10.1
+    million on 31 December 2025, mainly due to receipt of rental receivables from one of our related
+    parties.
+
+ Trade payables increased from US$275.1 million on 30 September 2025 to US$330.4 million on
+    31 December 2025, due to increased purchase.
+
+ Other payables and accruals increased from US$704.8 million on 30 September 2025 to
+    US$1,008.6 million on 31 December 2025, mainly due to increased payables for capital
+    expenditures.
+
+ Interest-bearing bank borrowings increased from US$340.7 million on 30 September 2025 to
+    US$403.7 million on 31 December 2025, mainly due to the increase in the current portion of long
+    term bank borrowings.
+
+ Government grants increased from US$66.5 million on 30 September 2025 to US$89.0 million
+    on 31 December 2025, primarily due to increased receipts of government funding.
+
+ On 31 December 2025, net working capital was US$4,750.5 million and the current ratio was 3.6.
+
+ Trade and notes receivables turnover days were 37.
+
+ Inventories turnover days were 83.
+
+Please visit Company's website at www.huahonggrace.com
+        for further details regarding recent announcements.
+
+                                                                                                                                         13
+                                       Hua Hong Semiconductor Limited
+                         Condensed Consolidated Statements of Profit or Loss
+
+                                   (In US$ Thousands Except Share Data)
+
+                                                                                    For the Three Months Ended
+
+                                                       31-Dec-2025 31-Dec-2024 30-Sep-2025
+                                                       (Unaudited) (Unaudited) (Unaudited)
+
+Revenue                                                659,882    539,177    635,180
+
+Cost of sales                                          (574,418)  (477,751)  (549,326)
+
+Gross profit                                           85,464     61,426     85,854
+
+Other income and gains                                 44,107     29,155     34,361
+
+Fair value loss on an investment property              (2,844)    (39)
+
+Selling and distribution expenses                      (3,791)    (2,617)                                       (2,332)
+
+Administrative expenses                                (126,374)  (108,009)  (98,101)
+
+Other expenses                                         -          (48,745)                                      (203)
+
+Finance costs                                          (8,414)    (20,406)   (18,249)
+
+Share of profit / (loss) of associates                 1,261      (433)                                         1,843
+
+(Loss) / profit before tax                             (10,591)   (89,668)                                      3,173
+
+Income tax expense                                     (8,069)    (6,596)    (10,363)
+
+Loss for the period                                    (18,660)   (96,264)                                      (7,190)
+
+Attributable to:
+
+Owners of the parent                                   17,454     (25,199)   25,725
+
+Non-controlling interests                              (36,114)   (71,065)   (32,915)
+
+Earnings per share attributable to owners of parent
+
+Basic                                                  0.010      (0.015)                                       0.015
+
+Diluted                                                0.010      (0.015)                                       0.015
+
+Shares used in calculating basic earnings per share    1,736,132,077 1,718,222,223 1,731,461,953
+   attributable to owners of parent                    1,736,269,454 1,724,086,667 1,733,014,365
+
+Shares used in calculating diluted earnings per share
+   attributable to owners of parent
+
+                                                                                                                14
+                                       Hua Hong Semiconductor Limited
+                         Condensed Consolidated Statements of Profit or Loss
+
+                                   (In US$ Thousands Except Share Data)
+
+                                                                                              For the Year Ended
+
+                                                       31-Dec-2025    31-Dec-2024
+                                                       (Unaudited)        (Audited)
+
+Revenue                                                2,402,064      2,003,993
+
+Cost of sales                                          (2,119,138)    (1,798,865)
+
+Gross profit                                           282,926                                                    205,128
+
+Other income and gains                                 127,408                                                    149,072
+
+Fair value loss on an investment property              (2,844)                                                    (39)
+
+Selling and distribution expenses                      (10,967)                                                   (9,628)
+
+Administrative expenses                                (414,658)                                                  (351,276)
+
+Other expenses                                         (6,527)                                                    (33,395)
+
+Finance costs                                          (68,214)                                                   (97,113)
+
+Share of profit of associates                          4,347                                                      3,459
+
+Loss before tax                                        (88,529)                                                   (133,792)
+
+Income tax expense                                     (22,284)                                                   (6,593)
+
+Loss for the year                                      (110,813)                                                  (140,385)
+
+Attributable to:
+
+Owners of the parent                                   54,881                                                     58,108
+
+Non-controlling interests                              (165,694)                                                  (198,493)
+
+Earnings per share attributable to owners of parent
+
+Basic                                                  0.032                                                      0.034
+
+Diluted                                                0.032                                                      0.034
+
+Shares used in calculating basic earnings per share    1,728,942,231  1,717,346,778
+   attributable to owners of parent                    1,729,052,605  1,721,085,846
+
+Shares used in calculating diluted earnings per share
+   attributable to owners of parent
+
+                                                                                                                  15
+                                             Hua Hong Semiconductor Limited
+             Condensed Consolidated Statements of Financial Position (In US$ Thousands)
+
+                                                                As of
+
+                                                     31-Dec-2025 30-Sep-2025 31-Dec-2024
+
+                                                     (Unaudited) (Unaudited)  (Audited)
+
+ASSETS
+
+NON-CURRENT ASSETS
+
+Property, plant and equipment                        6,676,442  6,162,217     5,859,117
+
+Investment property                                  219,772    220,223                  164,153
+
+Right-of-use assets                                  64,482     65,141                   77,761
+
+Intangible assets                                    35,509     33,982                   31,456
+
+Investment in associates                             150,222    147,349                  139,799
+
+Equity instruments designated at fair value through  478,799    381,305                  289,311
+ other comprehensive income
+
+Long term prepayment                                 221,849    41,142                   21,008
+
+Total non-current assets                             7,847,075  7,051,359     6,582,605
+
+CURRENT ASSETS
+
+Completed properties held for sale                   215,511    223,302                  221,905
+
+Inventories                                          544,368    526,840                  467,060
+
+Trade and notes receivables                          282,053    257,067                  270,461
+
+Prepayments, other receivables and other assets      561,328    494,222                  363,997
+
+Due from related parties                             10,135     22,150                   18,324
+
+Restricted and time deposits                         32,342     31,993                   31,624
+
+Cash and cash equivalents                            4,960,960  3,904,733     4,459,132
+
+Total current assets                                 6,606,697  5,460,307     5,832,503
+
+CURRENT LIABILITIES
+
+Trade payables                                       330,370    275,064                  298,372
+
+Other payables and accruals                          1,008,586  704,754                  880,447
+
+Interest-bearing bank borrowings                     403,748    340,686                  280,704
+
+Lease liabilities                                    3,229      3,598                    4,912
+
+Government grants                                    89,049     66,498                   57,563
+
+Due to related parties                               6,225      7,832                    9,125
+
+Income tax payable                                   15,014     14,341                   31,115
+
+Total current liabilities                            1,856,221  1,412,773     1,562,238
+
+NET CURRENT ASSETS                                   4,750,476  4,047,534     4,270,265
+
+TOTAL ASSETS LESS CURRENT LIABILITIES                12,597,551 11,098,893 10,852,870
+
+Non-current liabilities
+
+Interest-bearing bank borrowings                     2,787,096  2,056,802     1,917,235
+
+Lease liabilities                                    15,679     15,329                   18,068
+
+Deferred tax liabilities                             35,964     17,714                   10,948
+
+Other long-term liabilities                          594,581           -                 -
+
+Total non-current liabilities                        3,433,320  2,089,845     1,946,251
+
+Net assets                                           9,164,231  9,009,048     8,906,619
+
+Equity and liabilities capital and reserves
+
+Share capital                                        4,987,482  4,982,556     4,938,457
+
+Reserves                                             1,625,181  1,466,529     1,308,569
+
+Equity attributable to the owners of the company     6,612,663  6,449,085     6,247,026
+
+Non-controlling interests                            2,551,568  2,559,963     2,659,593
+
+Total equity                                         9,164,231  9,009,048     8,906,619
+
+                                                                                         16
+                                          Hua Hong Semiconductor Limited
+               Condensed Consolidated Statement of Cash Flows (In US$ Thousands)
+
+                                                        For the Three Months Ended
+
+                                                        31-Dec-2025 31-Dec-2024 30-Sep-2025
+                                                        (Unaudited) (Unaudited) (Unaudited)
+
+Cash flows from operating activities:
+
+(Loss) / profit before tax                              (10,591)    (89,668)        3,173
+
+Depreciation and amortization                           195,876     142,306         187,269
+
+Share of (profit) / loss of associates                  (1,261)     433             (1,843)
+
+Changes in working capital and others                   62,002      295,712         (4,449)
+
+Net cash flows generated from operating activities      246,026     348,783         184,150
+
+Cash flows from investing activities:
+
+Payments for property, plant and equipment and          (633,483)   (1,546,384)     (261,894)
+   intangible assets                                       (3,557)               -   (14,030)
+
+Investment in an equity instrument
+
+Receipt of government grants of equipment               36,596      41,149          -
+
+Other cash flow generated from investing activities     14,785      20,547          22,628
+
+Net cash flows used in investing activities             (585,659) (1,484,688)       (253,296)
+
+Cash flows from financing activities:
+
+New bank loans                                          919,025     84,551          99,923
+
+Proceeds from issue of shares                           4,740       1,478           14,376
+
+Repayment of bank borrowings                            (136,107)   (91,518)        (3,284)
+
+Interest paid                                           (32,834)    (50,498)        (4,971)
+
+Payment of lease liabilities                            (428)       (401)           (1,881)
+
+Receipt of government grants for interest expenses      12,124      5,459           -
+
+Other cash flow generated from financing activities       594,581            -               -
+                                                        1,361,101   (50,929)        104,163
+Net cash flows generated from / (used in)
+   financing activities
+
+Net increase / (decrease) in cash and cash equivalents  1,021,468 (1,186,834)       35,017
+
+Cash and cash equivalents, beginning of period          3,904,733   5,766,749       3,846,900
+
+Effects of exchange rate changes                        34,759      (120,783)       22,816
+
+Cash and cash equivalents, ending of period             4,960,960   4,459,132       3,904,733
+
+                                                                                    17
+                                           Hua Hong Semiconductor Limited
+                Condensed Consolidated Statement of Cash Flows (In US$ Thousands)
+
+                                                                  For the Year Ended
+
+                                                                  31-Dec-2025      31-Dec-2024
+                                                                  (Unaudited)          (Audited)
+
+Cash flows from operating activities:
+
+Loss before tax                                                   (88,529)         (133,792)
+
+Depreciation and amortization                                     734,928          555,832
+
+Share of profit of associates                                     (4,347)             (3,459)
+
+Changes in working capital and others                             7,940               40,914
+
+Net cash flows generated from operating activities                649,992          459,495
+
+Cash flows from investing activities:
+
+Payments for property, plant and equipment and intangible assets  (1,813,956)      (2,779,857)
+
+Purchase of an equity investment                                  (17,587)         (17,618)
+
+Investment in an associate                                        (2,794)             -
+
+Receipt of government grants of equipment                         49,186              41,149
+
+Other cash flow generated from investing activities               66,349              84,794
+
+Net cash flows used in investing activities                       (1,718,802)      (2,671,532)
+
+Cash flows from financing activities:
+
+Proceeds from issue of shares                                     34,411              3,642
+
+Capital contribution from non-controlling interests               -                1,181,880
+
+New bank loans                                                    2,018,029        289,285
+
+Repayment of bank borrowings                                      (1,076,224)      (183,524)
+
+Interest paid                                                     (79,680)         (105,736)
+
+Dividends paid                                                    -                (36,247)
+
+Receipt of government grants for interest expenses                12,124              5,459
+
+Principal portion of lease payments                               (4,025)             (4,634)
+
+Other cash flow generated from financing activities               594,581             -
+
+Net cash flows generated from financing activities                1,499,216        1,150,125
+
+Net increase / (decrease) in cash and cash equivalents            430,406          (1,061,912)
+
+Cash and cash equivalents, beginning of period                    4,459,132        5,585,181
+
+Effects of exchange rate changes                                  71,422           (64,137)
+
+Cash and cash equivalents, ending of period                       4,960,960        4,459,132
+
+                                                                                      18
+As of the date of this announcement, the directors of the Company are:
+Executive Directors
+Peng Bai (Chairman and President)
+Non-Executive Directors
+Jun Ye
+Guodong Sun
+Bo Chen
+Chengyan Xiong
+Independent Non-Executive Directors
+Stephen Tso Tung Chang
+Kwai Huen Wong, JP
+Songlin Feng
+By order of the Board
+Hua Hong Semiconductor Limited
+Peng Bai
+Chairman and Executive Director
+Hong Kong SAR, PRC
+February 12, 2026
+
+                                                                                                                                                                            19
+

@@ -1,0 +1,111 @@
+cap $131419M at $340.64 on 2026-09-18 on 385799859 shares
+
+== CHECK B = A - CATgross + PPDgross, and the independently built series ==
+year | reported CR | CAY incl CAT (built) | PPD pts (built) | UW income $M | expense ratio
+ 2019 | 90.6 | 93.33 | 2.75 | 2726 | 28.5
+ 2020 | 96.1 | 97.34 | 1.29 | 1210 | 27.6
+ 2021 | 89.1 | 91.86 | 2.74 | 3696 | 26.5
+ 2022 | 87.6 | 90.08 | 2.45 | 4555 | 25.6
+ 2023 | 86.5 | 88.40 | 1.94 | 5460 | 25.8
+ 2024 | 86.6 | 88.57 | 2.00 | 5850 | 26.2
+ 2025 | 85.7 | 88.22 | 2.48 | 6528 | 26.6
+
+== THE DECISIVE SERIES, from the filer own published points ==
+year | CAY ex CAT CR | cats | CAY INCL CAT CR | fav PPD | reported CR | expense ratio
+ 2016 | 88.6 | 4.0 | **92.6** | 4.3 | 88.3 | 30.6
+ 2017 | 87.7 | 10.2 | **97.9** | 3.2 | 94.7 | 28.9
+ 2018 | 88.1 | 5.8 | **93.9** | 3.3 | 90.6 | 28.5
+ 2019 | 89.3 | 4.1 | **93.4** | 2.8 | 90.6 | 28.5
+ 2020 | 86.8 | 10.6 | **97.4** | 1.3 | 96.1 | 27.6
+ 2021 | 84.8 | 7.1 | **91.9** | 2.8 | 89.1 | 26.5
+ 2022 | 84.4 | 6.0 | **90.4** | 2.8 | 87.6 | 25.6
+ 2023 | 84.1 | 4.5 | **88.6** | 1.9 | 86.5 | 25.9
+ 2024 | 83.2 | 5.5 | **88.7** | 2.0 | 86.6 | 26.2
+ 2025 | 81.9 | 6.3 | **88.2** | 2.5 | 85.7 | 26.6
+10-yr mean: CAY incl CAT 92.3 | reported 89.6 | fav PPD 2.69 | expense 27.5
+5-yr (2021-25) mean: CAY incl CAT 89.6 | reported 87.1 | fav PPD 2.40
+worst CAY incl CAT year: 97.9 (2017)
+
+== FLOAT (CONVENTION 4) AND BOTH STAGE 0(b) RATIOS ==
+ 2020 float 53989 ( less prepaid reins 51220 ) | float/inv 45.5% | inv/equity 2.06x | float/equity 0.94x | equity 57691
+ 2021 float 57843 ( less prepaid reins 54815 ) | float/inv 47.3% | inv/equity 2.10x | float/equity 0.99x | equity 58328
+ 2022 float 58637 ( less prepaid reins 55501 ) | float/inv 51.6% | inv/equity 2.25x | float/equity 1.16x | equity 50519
+ 2023 float 61690 ( less prepaid reins 58469 ) | float/inv 45.1% | inv/equity 2.30x | float/equity 1.04x | equity 59507
+ 2024 float 64947 ( less prepaid reins 61569 ) | float/inv 43.1% | inv/equity 2.35x | float/equity 1.01x | equity 64021
+ 2025 float 68007 ( less prepaid reins 64133 ) | float/inv 40.3% | inv/equity 2.29x | float/equity 0.92x | equity 73757
+ calibration: BRK 2010 [E5-46] 41.8%% / 0.45x | BRK 6/30/26 24.6%% / 0.96x | MKL 50.3%% / 2.01x | WTM 22.0%% | L consol 41.8%% / 2.96x
+
+== COST OF FLOAT [E3-69] - DIAGNOSTIC, NOT ADDITIVE ==
+ 2021 | P&C underwriting income $3696M | average float $55916M | cost of float -6.61%
+ 2022 | P&C underwriting income $4555M | average float $58240M | cost of float -7.82%
+ 2023 | P&C underwriting income $5460M | average float $60163M | cost of float -9.08%
+ 2024 | P&C underwriting income $5850M | average float $63318M | cost of float -9.24%
+ 2025 | P&C underwriting income $6528M | average float $66477M | cost of float -9.82%
+ 5-yr (2021-25): underwriting $26089M on mean float $60823M -> -8.58%
+ BRK on the SAME five years, from this project BRK run: -3.6%%/yr on ~$162bn
+
+== COMPONENT 2 - pre-tax earnings of everything else, dividends/interest REMOVED [E5-48] ==
+ 2021 | component 2 $2850M | pre-tax operating income $6558M | less NCI $0M -> $6558M
+ 2022 | component 2 $3837M | pre-tax operating income $7740M | less NCI $0M -> $7740M
+ 2023 | component 2 $4667M | pre-tax operating income $9936M | less NCI $-13M -> $9949M
+ 2024 | component 2 $4525M | pre-tax operating income $10817M | less NCI $368M -> $10449M
+ 2025 | component 2 $5359M | pre-tax operating income $12312M | less NCI $312M -> $12000M
+ component 2: 5-yr mean $4247M | 3-yr mean $4850M
+ pre-tax operating attributable: 5-yr mean $9339M | 3-yr mean $10799M | 2025 $12000M
+ 2019 $5779M  2020 $4660M (pre-LDTI; private-equity marks NOT separately disclosed for those years - stated)
+ 7-yr (2019-25) mean pre-tax operating $8162M
+ 2025 bottom-up cross-check: P&C UW 6528 + Life UW -12 - interest 764 - amort 301 - integration 79 = 5372 vs top-down 5359
+
+== Q5 - THE YIELD; THE WINDOW SPREAD IS PART OF THE RANGE [E4-25, E4-38] ==
+ 2025 only      pre-tax $ 12000M -> yield 9.13% | sovereign 5.34% | +3.79 pts over
+ 3-yr 2023-25   pre-tax $ 10799M -> yield 8.22% | sovereign 5.34% | +2.88 pts over
+ 5-yr 2021-25   pre-tax $  9339M -> yield 7.11% | sovereign 5.34% | +1.77 pts over
+ 7-yr 2019-25   pre-tax $  8162M -> yield 6.21% | sovereign 5.34% | +0.87 pts over
+ perpetual growth needed to reach the ~10%% floor [E4-28] from each window:
+   2025 only      0.87%/yr
+   3-yr 2023-25   1.78%/yr
+   5-yr 2021-25   2.89%/yr
+   7-yr 2019-25   3.79%/yr
+
+== THE LOEWS TEST - what an OCF-based owner-earnings number would have claimed ==
+ OCF 2025 $12816M less SBC $400M = $12416M -> 9.45% of cap  (WRONG: double-counts the portfolio, counts reserve growth as cash)
+ strip net reserve growth $3402M and unearned-premium growth $2775M -> $6239M (4.75% of cap): a 50% collapse
+
+== Q3 PRIMARY TEST [E2-01] - earnings rate on equity capital employed ==
+ 2021 ROE 14.70% | ROE on equity EX-AOCI 14.69%
+ 2022 ROE 9.64% | ROE on equity EX-AOCI 8.74%
+ 2023 ROE 16.41% | ROE on equity EX-AOCI 14.22%
+ 2024 ROE 15.01% | ROE on equity EX-AOCI 13.34%
+ 2025 ROE 14.97% | ROE on equity EX-AOCI 13.62%
+ 5-yr mean ROE 14.14% | ex-AOCI 12.92%
+ 2025 return on TANGIBLE equity ([E2-43] unleveraged net tangible denominator) 26.0%  (tangible equity 2025 $44334M, 2024 $34842M)
+ the goodwill wedge, reported separately and not hidden in book equity: $29423M = 40% of Chubb equity
+
+== [E3-54] $1 of market value per $1 retained, five-year rolling ==
+ cap 12/31/20 $69377M (450732625 sh @ $153.92) -> cap 12/31/25 $122071M (391101227 sh @ $312.12): +52694M
+ net income to Chubb 2021-25 $42381M less dividends declared $7147M = retained $35234M
+ -> $1.50 of market value per $1 retained (dividends only as distribution)
+ -> $2.71 if buybacks $15764M are also treated as distributions
+ book value per share 12/31/20 $127.99 -> 12/31/25 $188.59 = +47.3% (8.06%/yr); price +102.8% (15.19%/yr)
+ price/book now 1.78x | price/TANGIBLE book 2.96x | BVPS 12/31/25 $188.59 | TBVPS $113.36
+   2023 buybacks executed at $209.52 avg = 1.43x that year-end book value per share ($146.83)
+   2024 buybacks executed at $269.23 avg = 1.69x that year-end book value per share ($159.77)
+   2025 buybacks executed at $282.57 avg = 1.50x that year-end book value per share ($188.59)
+
+== Q4 NAMED DEATH, QUANTIFIED FROM FILED FIGURES [E3-24, E4-40] ==
+ NA Comm workers comp, 1pt tail factor            +/- $1100M on $ 10015M of net reserves (11.0%)
+ NA Comm US excess/umbrella, 5pt tail factor      +/- $ 900M on $  4900M of net reserves (18.4%)
+ Overseas General long-tail, 6-month lengthening  +/- $ 540M on $  5600M of net reserves (9.6%)
+ Global Reinsurance, 20% pattern change           +/- $ 224M on $  1040M of net reserves (21.5%)
+ sum of the filer OWN reasonably likely deviations: $2764M = 3.7% of Chubb equity, 23% of 2025 pre-tax operating income
+ scenario: long-tail PPD flips from +$61M favourable to $2000M adverse AND the 2.5 pts of favourable PPD is lost:
+   P&C combined ratio 85.7 -> 92.6 | underwriting income $6,528M -> $3403M | pre-tax operating $12000M -> $8875M | yield 9.13% -> 6.75%
+ filed natural-cat PML (net, pre-tax, 10-K p.73): 1-in-10 $3,003M (4.1%% of equity) | 1-in-100 $5,862M (7.9%%) | 1-in-250 $9,285M (12.6%%)
+ realised catastrophe losses 2019-25: 1175 3249 2411 2231 1828 2401 2863 -> mean $2308M, i.e. AT the modelled 1-in-10, on a book whose premium was 58% smaller at the start of the window
+
+== PER SHARE, AT THE CURRENT COUNT (385,799,859) ==
+ 2025 only      pre-tax operating per share $31.10
+ 3-yr 2023-25   pre-tax operating per share $27.99
+ 5-yr 2021-25   pre-tax operating per share $24.21
+ 7-yr 2019-25   pre-tax operating per share $21.16
+ dividend declared 2025 $3.82/share; shareholder-approved ceiling $3.88 for the year to the 2026 AGM

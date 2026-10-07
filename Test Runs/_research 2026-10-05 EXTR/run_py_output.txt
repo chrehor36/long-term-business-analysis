@@ -1,0 +1,46 @@
+==============================================================================
+EXTREME NETWORKS INC  (EXTR)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.63%   10/02/2026   US Treasury daily par yield curve
+  price     23.41 USD   2026-10-05   (aggregator — live quote only)
+  shares    130.5M      market cap 3.05B USD
+  share basis: dei cover-page count as of 2026-08-07
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2024-06-30         55       77        26         18        -47        -39
+    2025-06-30        152       82        17         25         45         53
+    2026-06-30        123       88        18         28          7         17
+          mean                                                   2         10
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 46 .. 54   yield 1.50%..1.78%
+  DIVERGENCE vs the 3-yr window: +2941.1% on the conservative end
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                  0.05% ..  0.34%   vs sovereign 5.63%
+  2. GROWTH THE PRICE ASSUMES  121.1%  (at a 5.63% rate)
+  3. POINTS OVER THE SOVEREIGN -3.08 .. -2.78
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2017-06-30           483         107         130         121          46          80          25          80        -800
+    2018-06-30           770         113         121         212          64         139          77         189        -828
+    2019-06-30           757         116           -         174          64         139          51         170        -853
+    2020-06-30           979           5           -         123          63         331          68         395        -980
+    2021-06-30         1,010          54           -         156          33         331          36         316        -978
+    2022-06-30         1,069          90         195         184          49         400          33         271        -934
+    2023-06-30         1,142         117         235         182          89         395          16         188        -856
+    2024-06-30         1,043          25         157          90         141         394          11         178        -942
+    2025-06-30         1,153          66         232         127         103         400           7         164        -949
+    2026-06-30         1,178          89         212         165          70         398           3         144        -907
+    accessions: 0000950170-23-044385, 0000950170-24-098129, 0000950170-25-109742, 0001193125-26-352872, 0001564590-17-018633, 0001564590-18-022453, 0001564590-19-033615, 0001564590-20-042032, 0001564590-21-046138, 0001564590-22-030248
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

@@ -1,0 +1,28 @@
+--- 2009-2025: sum net income | sum (OCF - capex) | NI/revenue | loss years | missing
+  PTEN     -2421     1644    -5.5%   9  []
+  HP        3458     3087     8.1%   6  []
+  NBR      -5034      612    -7.8%  12  []
+  HAL      14213    14828     3.8%   5  []
+  LBRT      1398      498     5.2%   3  [2009, 2010, 2011, 2012, 2013, 2014, 2015]
+  PUMP        41       61     0.3%   5  [2009, 2010, 2011, 2012, 2013, 2014]
+--- 2015-2025: sum net income | sum (OCF - capex) | NI/revenue | loss years | missing
+  PTEN     -3472     2064   -11.4%   8  []
+  HP         487     2399     1.9%   6  []
+  NBR      -4920      253   -16.0%  10  []
+  HAL        134    11032     0.1%   5  []
+  LBRT      1398      498     5.2%   3  [2015]
+  PUMP        41       61     0.3%   5  []
+--- 2019-2025: sum net income | sum (OCF - capex) | NI/revenue | loss years | missing
+  PTEN     -2543     1800   -11.6%   5  []
+  HP        -233     1579    -1.4%   4  []
+  NBR      -2329      770   -12.3%   6  []
+  HAL       5375    10585     3.8%   2  []
+  LBRT      1164      666     5.1%   2  []
+  PUMP       -47      143    -0.5%   3  []
+--- 2021-2025: sum net income | sum (OCF - capex) | NI/revenue | loss years | missing
+  PTEN     -1314     1318    -7.2%   3  []
+  HP         295      783     2.3%   2  []
+  NBR       -820      359    -5.9%   4  []
+  HAL       9451     8517     9.1%   0  []
+  LBRT      1241      619     6.3%   1  []
+  PUMP      -103      153    -1.6%   2  []

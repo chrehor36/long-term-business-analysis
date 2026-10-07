@@ -1,0 +1,112 @@
+{
+ "cap": 26229.01568295,
+ "netcash": 2181,
+ "5-yr D&A end": {
+  "oe": 233.6,
+  "yield_pct": 0.89,
+  "vs_sov": -4.46,
+  "perp_g_for_10": 9.0,
+  "decade_g_for_10": 30.8,
+  "value_per_share_0_5_10": [
+   4.9,
+   7.1,
+   10.3
+  ]
+ },
+ "5-yr capex end": {
+  "oe": 248.4,
+  "yield_pct": 0.95,
+  "vs_sov": -4.4,
+  "perp_g_for_10": 9.0,
+  "decade_g_for_10": 29.9,
+  "value_per_share_0_5_10": [
+   5.3,
+   7.6,
+   11.0
+  ]
+ },
+ "5-yr capex end less acquisitions (display)": {
+  "oe": 98.2,
+  "yield_pct": 0.37,
+  "vs_sov": -4.98,
+  "perp_g_for_10": 9.6,
+  "decade_g_for_10": 43.5,
+  "value_per_share_0_5_10": [
+   2.1,
+   3.0,
+   4.3
+  ]
+ },
+ "4-yr D&A end": {
+  "oe": 484.1,
+  "yield_pct": 1.85,
+  "vs_sov": -3.5,
+  "perp_g_for_10": 8.0,
+  "decade_g_for_10": 20.6,
+  "value_per_share_0_5_10": [
+   10.2,
+   14.8,
+   21.4
+  ]
+ },
+ "4-yr capex end": {
+  "oe": 519.1,
+  "yield_pct": 1.98,
+  "vs_sov": -3.37,
+  "perp_g_for_10": 7.9,
+  "decade_g_for_10": 19.7,
+  "value_per_share_0_5_10": [
+   11.0,
+   15.8,
+   23.0
+  ]
+ },
+ "3-yr D&A end": {
+  "oe": 395.9,
+  "yield_pct": 1.51,
+  "vs_sov": -3.84,
+  "perp_g_for_10": 8.4,
+  "decade_g_for_10": 23.4,
+  "value_per_share_0_5_10": [
+   8.4,
+   12.1,
+   17.5
+  ]
+ },
+ "3-yr capex end (INVALID, display)": {
+  "oe": 890.2,
+  "yield_pct": 3.39,
+  "vs_sov": -1.96,
+  "perp_g_for_10": 6.4,
+  "decade_g_for_10": 12.4,
+  "value_per_share_0_5_10": [
+   18.8,
+   27.2,
+   39.4
+  ]
+ },
+ "5-yr no prepayment strip, capex end (display)": {
+  "oe": 467.4,
+  "yield_pct": 1.78,
+  "vs_sov": -3.57,
+  "perp_g_for_10": 8.1,
+  "decade_g_for_10": 21.1,
+  "value_per_share_0_5_10": [
+   9.9,
+   14.3,
+   20.7
+  ]
+ },
+ "TTM D&A end (display)": {
+  "oe": 1072,
+  "yield_pct": 4.09,
+  "vs_sov": -1.26,
+  "perp_g_for_10": 5.7,
+  "decade_g_for_10": 9.9,
+  "value_per_share_0_5_10": [
+   22.7,
+   32.7,
+   47.4
+  ]
+ }
+}
