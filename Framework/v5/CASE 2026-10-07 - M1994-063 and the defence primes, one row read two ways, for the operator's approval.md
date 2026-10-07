@@ -94,3 +94,7 @@ is the operator's call and would be a new file under the rule in force on its da
 1. Which reading governs: 1, 2 (recommended; it is the speaker's own) or 3.
 2. Whether the paragraph enters Q2.
 3. Whether LMT is re-run.
+
+---
+# DECIDED 2026-10-07
+**The operator agreed with the recommendation:** reading two governs, and the paragraph "A row about one company" entered Q2 of `Framework/THE FRAMEWORK v5.md` the same day, with its line in section VI. LMT is not re-run: the case recommended none, and the operator ordered none; the LMT and GD runs bind as written, and a later run of either name reads the paragraph.
