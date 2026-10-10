@@ -1,0 +1,28 @@
+owner cash after interest (equity-only): [2457, 1600, 2748, 3243, 3322] avg 2674
+owner cash before interest (all-equity): [2536, 1718, 2927, 3416, 3470] avg 2813
+market cap 69,553; plus net debt 75,957
+
+ALL-EQUITY, acquisitions deducted, total growth credited (central, default pair)
+  series: [2536, 909, 2927, 3416, 3177]  five-year average 2,593; growth between end years 5.79%
+  range (whole): 45,975 to 72,770  width 1.58 to one; midpoint 59,372
+  per share: $49.64 to $83.25, midpoint $66.45; fair price $32.44; price $87.25
+  expected return at the price (75,957): no-growth 3.41%, shown growth 5.42%
+
+EQUITY-ONLY, acquisitions deducted, total growth credited
+  series: [2457, 791, 2748, 3243, 3029]  five-year average 2,454; growth between end years 5.37%
+  range (whole): 43,504 to 66,606  width 1.53 to one; midpoint 55,055
+  per share: $54.57 to $83.55, midpoint $69.06; fair price $37.64; price $87.25
+  expected return at the price (69,553): no-growth 3.53%, shown growth 5.42%
+
+ALL-EQUITY, organic pair: base 2,813, organic growth 5.73%: $54.54 to $90.53 a share; fair $35.77; return at price 3.70% to 5.82%
+
+EQUITY-ONLY, organic pair: base 2,674, organic growth 5.73%: $59.47 to $93.68 a share; fair $41.64; return at price 3.84% to 6.02%
+
+ALL-EQUITY, maintenance-only spending (guess $525M), acquisitions deducted, shown growth
+  series: [2578, 1080, 3107, 3452, 3216]  five-year average 2,687; growth between end years 5.68%
+  range (whole): 47,634 to 74,732  width 1.57 to one; midpoint 61,183
+  per share: $51.72 to $85.71, midpoint $68.72; fair price $33.71; price $87.25
+  expected return at the price (75,957): no-growth 3.54%, shown growth 5.56%
+
+longer record, 2014-16 to 2023-25 averages: 2,288 to 3,172, 3.70% a year
+  central base at that growth: top $69.28 a share; return at price 4.63%

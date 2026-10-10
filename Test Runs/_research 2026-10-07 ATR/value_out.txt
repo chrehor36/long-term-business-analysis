@@ -1,0 +1,10 @@
+net debt 1170.4, minority 46.2, market cap 7,646, EV at market 8,862
+cycle 2019-25, g=5.0%: EV range 5,654 to 6,112 (no-growth 5,654; growth case 6,112); per share 69.80 to 76.99; width 1.08x; fair EV at 10% 3,020 -> 28.37/sh
+cycle 2019-25, g=8.8%: EV range 5,654 to 8,020 (no-growth 5,654; growth case 8,020); per share 69.80 to 107.01; width 1.42x; fair EV at 10% 3,409 -> 34.49/sh
+cycle 2019-25, g=10.3%: EV range 5,654 to 8,951 (no-growth 5,654; growth case 8,951); per share 69.80 to 121.65; width 1.58x; fair EV at 10% 3,598 -> 37.45/sh
+literal window 2021-25, g=5.0%: EV range 5,326 to 5,874 (no-growth 5,326; growth case 5,874); per share 64.64 to 73.26; width 1.10x; fair EV at 10% 2,892 -> 26.36/sh
+literal window 2021-25, g=8.8%: EV range 5,326 to 7,698 (no-growth 5,326; growth case 7,698); per share 64.64 to 101.94; width 1.45x; fair EV at 10% 3,269 -> 32.27/sh
+literal window 2021-25, g=10.3%: EV range 5,326 to 8,587 (no-growth 5,326; growth case 8,587); per share 64.64 to 115.92; width 1.61x; fair EV at 10% 3,451 -> 35.14/sh
+equity-only (cycle, g=5.0%): 5,137 to 5,400 -> per share 80.79 to 84.93; fair at 10%: 42.19
+rate at which the cycle case (g=0%) equals EV at market 8,862: 3.60%
+rate at which the cycle case (g=5%) equals EV at market 8,862: 4.19%

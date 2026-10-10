@@ -1,0 +1,323 @@
+ticker,company,group
+AMBI,Ambiq Micro,0
+BLTH,"American Battery Materials, Inc.",0
+ADRZY,Andritz,0
+ASHTY,Ashtead Group,0
+BOUYF,Bouygues,0
+CLIR,ClearSign Technologies,0
+DPMAY,Diploma Plc (Unsponsored ADR),0
+DSGR,Distribution Solutions Group,0
+BOOM,DMC Global,0
+EOSE,Eos Energy Enterprises,0
+EQPT,EquipmentShare.com Inc.,0
+EVI,"EVI Industries, Inc.",0
+FSRDQ,Fast Radius,0
+FAST,Fastenal,0
+HTOO,Fusion Elements,0
+GIC,Global Industrial Company,0
+GRFXY,Graphex Group Limited (Sponsored ADR),0
+HRIBF,Horiba,0
+HDSN,Hudson Technologies,0
+JCSE,JE Cleantech,0
+KIGRY,Kion Group,0
+LZ,LegalZoom.com,0
+LHSW,Lianhe Sowell International Group Ltd,0
+MSM,MSC Industrial Direct,0
+SQFT,Presidio Property Trust,0
+SIEGY,Siemens,0
+SITE,SiteOne Landscape Supply,0
+TPICQ,TPI Composites,0
+VELO,"Velo3D, Inc.",0
+GWW,W.W. Grainger,0
+ASTE,Astec Industries,1
+CAT,Caterpillar,1
+EMAT,Evolution Metals & Technologies Corp.,1
+HTCMY,Hitachi Construction Machinery,1
+HY,"Hyster-Yale, Inc.",1
+KMTUY,Komatsu,1
+LONKF,Lonking Holdings,1
+TEX,Terex,1
+MTW,The Manitowoc Company,1
+ACHC,Acadia Healthcare,2
+AMBBY,Ambu A/S Unsponsored ADR,2
+CYH,Community Health Systems,2
+THC,Tenet Healthcare,2
+UHS,Universal Health Services,2
+CLF,Cleveland-Cliffs,3
+STLD,Steel Dynamics,3
+CMC,Commercial Metals,3
+NUE,Nucor,3
+TX,Ternium,3
+MT,ArcelorMittal,3
+FSTR,L.B. Foster,3
+APEMY,Aperam,3
+ANIOY,Acerinox,3
+GGB,Gerdau,3
+SID,National Steel,3
+USNZY,Usinas Siderurgicas,3
+OUTKY,Outokumpu,3
+SSAAY,SSAB,3
+SZGPY,Salzgitter,3
+TKAMY,ThyssenKrupp,3
+MAR,Marriott International,4
+HLT,Hilton Worldwide,4
+CHH,Choice Hotels International,4
+IHG,InterContinental Hotels Group,4
+WH,Wyndham Hotels & Resorts,4
+HGV,Hilton Grand Vacations,4
+H,Hyatt Hotels,4
+HTHT,H World Group Limited,4
+GXYYY,Galaxy Entertainment Group,4
+SCHYY,Sands China,4
+FET,Forum Energy Technologies,5
+NOV,NOV Inc.,5
+HMH,HMH Holding Inc.,5
+USAC,USA Compression Partners,5
+OIS,Oil States International,5
+NGS,Natural Gas Services Group,5
+SEI,"Solaris Energy Infrastructure, Inc.",5
+NESR,National Energy Services Reunited,5
+INVX,"Innovex International, Inc.",5
+OMSE,OMS Energy Technologies Inc.,5
+RCON,Recon Technology,5
+PED,Pedevco,5
+KGS,"Kodiak Gas Services, Inc.",5
+NOA,North American Construction Group,5
+CTBG,Coil Tubing Technology,5
+ENYN,EnerNorth Industries,5
+IOGPQ,Ion Geophysical,5
+JUTOY,Jutai Offshore Oil Services,5
+LSE,"Leishen Energy Holding Co., Ltd.",5
+STAK,STAK Inc.,5
+SPNX,Superior Energy Services,5
+AER,AerCap Holdings,6
+R,Ryder System,6
+WAB,Wabtec,6
+GATX,GATX Corporation,6
+HRI,Herc Holdings,6
+WLFC,Willis Lease Finance,6
+GBX,The Greenbrier Companies,6
+TRN,Trinity Industries,6
+LZRFY,Localiza Rent A Car (ADR),6
+RAIL,FreightCar America,6
+PONY,Pony AI Inc. (ADR),6
+AMMX,AmeraMex International,6
+NCTKF,Nabtesco,6
+TEUFF,Box Ships,6
+STRL,"Sterling Infrastructure, Inc.",7
+PWR,Quanta Services,7
+KAI,Kadant,7
+VSEC,VSE Corporation,7
+ACM,AECOM,7
+KBR,KBR,7
+ARCAY,Arcadis,7
+AMTM,"Amentum Holdings, Inc.",7
+FLR,Fluor,7
+ALFVY,Alfa Laval,7
+MPTI,"M-tron Industries, Inc.",7
+CDNL,Cardinal Infrastructure Group Inc.,7
+TTEK,Tetra Tech,7
+INOD,Innodata Inc.,7
+FER,Ferrovial N.V.,7
+BCKIY,Babcock International Group,7
+LGN,Legence Corp.,7
+MTRX,Matrix Service,7
+MEC,Mayville Engineering,7
+TSSI,TSS,7
+SHIM,Shimmick Corporation,7
+BLGO,BioLargo,7
+CHYCY,Chiyoda,7
+HLEO,Helio Corporation,7
+KGHI,Kaiser Group,7
+MAGN,Magnera Corporation,7
+MAGH,Magnitude International Ltd,7
+MLLUY,Metallurgical Corp. of China,7
+NWCL,Newcleo plc,7
+SNIRF,SENIOR,7
+SKK,SKK Holdings Limited,7
+KAZR,Skyline Builders Group Holding Limited,7
+SUGP,SU Group Holdings Limited,7
+CKSNY,VESUVIUS PLC,7
+WLGSF,"WANG & LEE GROUP, Inc.",7
+DEER,Deer Consumer Products,8
+ELUXY,Electrolux AB,8
+HBB,Hamilton Beach Brands,8
+HWDJY,Howden Joinery Group,8
+LBYYQ,Libbey Inc.,8
+VUOC,Vu1 Corporation,8
+WHR,Whirlpool Corporation,8
+ATO,Atmos Energy,9
+BROGF,Brooge Energy,9
+BIPC,Brookfield Infrastructure,9
+CPYYY,Centrica,9
+CPK,Chesapeake Utilities,9
+CLNE,Clean Energy Fuels,9
+CNIG,Corning Natural Gas Holding,9
+ENGGY,Enagas,9
+XNGSY,ENN Energy,9
+HOKCY,Hong Kong & China Gas Co.,9
+MDU,MDU Resources Group,9
+NJR,New Jersey Resources,9
+NWN,Northwest Natural,9
+OGS,ONE Gas,9
+SWX,Southwest Gas,9
+SR,Spire,9
+UGI,UGI,9
+AES,AES,10
+AQN,Algonquin Power & Utilities,10
+LNT,Alliant Energy,10
+AEE,Ameren,10
+AEP,American Electric Power,10
+AVA,Avista,10
+AXIAY,AXIA ENERGIA,10
+BLDP,Ballard Power Systems,10
+BESS,Bimergen Energy Corporation,10
+BKH,Black Hills,10
+BEP,Brookfield Renewable Partners,10
+CNP,CenterPoint Energy,10
+CTRI,"Centuri Holdings, Inc.",10
+CMS,CMS Energy,10
+ELPC,Companhia Paranaense de Energia - Copel,10
+ED,Consolidated Edison,10
+D,Dominion Energy,10
+DTE,DTE Energy,10
+DUK,Duke Energy,10
+EIX,Edison International,10
+EDN,Edenor,10
+ENIC,Enel Chile S.A.,10
+ETR,Entergy,10
+EVRG,Evergy,10
+ES,Eversource Energy,10
+FE,FirstEnergy,10
+FTS,Fortis,10
+HE,Hawaiian Electric Industries,10
+IDA,IDACORP,10
+KEP,Korea Electric Power,10
+MGEE,MGE Energy,10
+NEE,NextEra Energy,10
+NI,NiSource,10
+NWE,NorthWestern,10
+NRG,NRG Energy,10
+OGE,OGE Energy,10
+OTTR,Otter Tail,10
+PAM,Pampa Energia,10
+PCG,PG&E,10
+PNW,Pinnacle West Capital,10
+PPL,PPL,10
+PEG,Public Service Enterprise Group,10
+RWEOY,RWE AG,10
+SO,The Southern Company,10
+TAC,TransAlta,10
+UTL,Unitil,10
+VGNT,Versigent PLC,10
+VST,Vistra,10
+WEC,WEC Energy Group,10
+XEL,Xcel Energy,10
+AWK,American Water Works,11
+AWR,American States Water,11
+CWT,California Water Service Group,11
+WTRG,Essential Utilities,11
+CWCO,Consolidated Water,11
+SBS,Sabesp (Cia. de Saneamento Básico),11
+GWRS,Global Water Resources,11
+CDZI,Cadiz Inc.,11
+ARTNA,Artesian Resources,11
+MSEX,Middlesex Water Company,11
+YORW,The York Water Company,11
+PCYO,Pure Cycle Corp.,11
+WATR,Air Water Ventures Ltd.,11
+TURV,Two Rivers Water & Farming Co.,11
+SCWO,374Water Inc.,12
+AQMS,"Aqua Metals, Inc.",12
+CWST,"Casella Waste Systems, Inc.",12
+CDTG,CDT Environmental Technology Investment Holdings,12
+CHFFF,China Everbright Environment Group,12
+CLH,"Clean Harbors, Inc.",12
+LODE,Comstock Inc.,12
+BBCP,"Concrete Pumping Holdings, Inc.",12
+DXST,Decent Holding Inc.,12
+NVRI,Enviri Corporation,12
+GDC,GD Culture Group Limited,12
+GFL,GFL Environmental Inc.,12
+GLYE,"GlyEco, Inc.",12
+HTO,H2O America,12
+JBDI,JBDI Holdings Limited,12
+LNZA,"LanzaTech Global, Inc.",12
+NWMH,"National Waste Management Holdings, Inc.",12
+NVIC,NViro International Corp.,12
+YDDL,"One and One Green Technologies, Inc.",12
+PEGRY,Pennon Group PLC - Unsponsored ADR,12
+PNR,Pentair plc,12
+PTOI,"Plastic2Oil, Inc.",12
+PCT,"PureCycle Technologies, Inc.",12
+QRHC,Quest Resource Holding Corporation,12
+RSG,"Republic Services, Inc.",12
+RINO,Rino International Corporation,12
+WTTR,"Select Water Solutions, Inc.",12
+SMSMY,Sims Limited - Unsponsored ADR,12
+CREG,Smart Powerr Corp.,12
+SENR,Strategic Environmental & Energy Resources,12
+SCST,Suncast Solar Inc.,12
+TOMZ,"TOMI Environmental Solutions, Inc.",12
+TOPP,Toppoint Holdings Inc.,12
+TBLZ,"Trailblazer Resources, Inc.",12
+TGGI,"Trans Global Group, Inc.",12
+VEOEY,Veolia Environnement SA - ADR,12
+VLTO,Veralto Corporation,12
+WCN,"Waste Connections, Inc.",12
+WM,"Waste Management, Inc.",12
+XYL,Xylem Inc.,12
+ZWS,Zurn Elkay Water Solutions Corporation,12
+ADBT,"Advasa Holdings, Inc.",13
+AGTK,Agritek Holdings,13
+APCX,AppTech Payments Corp.,13
+ATCH,"AtlasClear Holdings, Inc.",13
+BCO,Brink's Company (The),13
+CD,Chaince Digital Holdings Inc.,13
+CPAY,"Corpay, Inc.",13
+CUEN,Cuentas Inc.,13
+FAASF,DigiAsia Corp.,13
+DLO,dLocal Limited,13
+EEFT,"Euronet Worldwide, Inc.",13
+EVTC,"Evertec, Inc.",13
+EXFY,"Expensify, Inc.",13
+FIS,Fidelity National Information Services,13
+FCFS,"FirstCash Holdings, Inc.",13
+FISV,"Fiserv, Inc.",13
+CRGO,Freightos Limited,13
+GPN,Global Payments Inc.,13
+GDOT,Green Dot Corporation,13
+IMXI,"International Money Express, Inc.",13
+KSPI,Joint Stock Company Kaspi.kz ADR,13
+KLAR,Klarna Group plc,13
+LFIN,LongFin Corp.,13
+LOIMF,Loomis AB,13
+MQ,"Marqeta, Inc.",13
+MA,Mastercard Incorporated,13
+REFG,Medical Cannabis Payment Solutions,13
+NYAX,Nayax Ltd.,13
+OPFI,OppFi Inc.,13
+PAGS,PagSeguro Digital Ltd.,13
+PAR,PAR Technology Corporation,13
+PXGYF,PAX Global Technology Limited,13
+PAY,"Paymentus Holdings, Inc.",13
+PAYO,Payoneer Global Inc.,13
+PYPL,"PayPal Holdings, Inc.",13
+PAYP,PayPay Corporation,13
+PYPTF,PayPoint plc,13
+PSFE,Paysafe Limited,13
+PAYS,"Paysign, Inc.",13
+QIWI,QIWI plc,13
+RBA,"RB Global, Inc.",13
+RELY,"Remitly Global, Inc.",13
+RPAY,Repay Holdings Corporation,13
+SEZL,Sezzle Inc.,13
+FOUR,"Shift4 Payments, Inc.",13
+STBXF,Starbox Group Holdings Ltd.,13
+PKKFF,Tenet Fintech Group Inc.,13
+USIO,"Usio, Inc.",13
+V,Visa Inc.,13
+WU,Western Union Company (The),13
+WEX,WEX Inc.,13
+WWLNF,Worldline SA,13
+XTMIF,XTM Inc.,13

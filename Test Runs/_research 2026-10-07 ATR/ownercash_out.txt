@@ -1,0 +1,19 @@
+tax rate used 23.0%
+year  maint-basis  all-capex  acquisitions  all-capex-after-acq   (equity-only maint: less after-tax interest)
+2015    193.8     179.1         -         -  eq-only   169.4
+2016    187.2     203.7     203.0       0.7  eq-only   159.2
+2017    194.9     181.1       5.0     176.1  eq-only   165.0
+2018    166.2     111.2     537.9    -426.7  eq-only   141.6
+2019    349.7     274.3     109.8     164.5  eq-only   323.2
+2020    380.4     314.9     203.8     111.1  eq-only   354.8
+2021    158.3      46.2     152.9    -106.7  eq-only   135.9
+2022    269.8     177.3       2.5     174.8  eq-only   242.5
+2023    359.7     251.3      33.8     217.5  eq-only   329.2
+2024    393.4     336.6      99.1     237.5  eq-only   359.9
+2025    320.8     296.0      66.5     229.5  eq-only   282.3
+5yr window 2021-25: maint 300.4  all-capex 221.5  acq 71.0  all-after-acq 150.5
+cycle 2019-25:      maint 318.9  all-capex 242.4  acq 95.5  all-after-acq 146.9
+prior span 2015-18: maint 185.5
+growth, maint-basis, 2015-18 avg -> 2019-25 avg (midpoints 2016.5 -> 2022): 10.3%/yr
+growth, window halves 2021-22 -> 2024-25 (3 yrs): 18.6%/yr
+operating income growth 2015-18 avg -> 2019-25 avg: 5.0%/yr

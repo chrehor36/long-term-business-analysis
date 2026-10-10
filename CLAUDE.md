@@ -101,6 +101,8 @@ flagged, never smoothed (PRIME RULE 1).
 | Path | What it is | Status |
 |---|---|---|
 | `Screens/WATCHLIST RUN QUEUE.md` | the register and the working rules (see READ FIRST) | LIVE |
+| `Screens/V5 PASSERS - the alert list.md` | every business that cleared the business questions under v5, its run of record and its active alert; a row added or replaced at the FOLD (step 4); below it, the v4.1 gate-clearers still awaiting a v5 run (operator instruction 2026-10-07) | LIVE |
+| `Screens/_daily/_v5_rerun_order.txt`, `Screens/_daily/_v5_rerun_done.txt` | every name run under v4.1 and not yet under v5, gate-clearers first, and the done file (operator instruction 2026-10-07: everything run in v4.1 is run in v5); from 2026-10-10 the operator's sheet (`Screens/_input/list_operator_sheet_2026-10-10.csv`) is inserted after the gate-clearers, in its own group order, financials and foreign names included | LIVE |
 | `Screens/SURVIVAL SHAPES - index.md` | the named ways a business dies, each line citing its ledger rows; every v4.1 run named a shape and new shapes were added at fold. Retired for v5 runs on 2026-10-06 at the operator's decision: the v5 template has no shape field and no run dated after 2026-10-05 names one; the index stands as the record of the v4.1 runs *(this row said "every run names a shape and new shapes are added at fold \| LIVE" until 2026-10-06)* | HISTORY |
 | `Screens/RESUME STATE 2026-09-12 - Opus session, note for Fable.md` | the session-state file (see READ FIRST); `Screens/RESUME STATE 2026-09-02 - four runs killed at the session limit.md` is its predecessor | LIVE / HISTORY |
 | `Screens/2026-09-02 MASTER RUN QUEUE (corrected).csv` | the screen row every brief carries: owner earnings, deal note, SBC, level shifts | LIVE |
@@ -133,7 +135,7 @@ The tooling test is in the protocol: a tool may get the same number sooner; it m
 |---|---|---|
 | Windows tasks `BRK-overnight` (hourly), `BRK daily fetch`, `BRK price alerts`, `BRK resume queue`, `BRK-wake` (disabled) | the scheduled work | LIVE |
 | `Screens/_daily/_dispatch_brief.md` | the canonical brief for a purchase run dispatched to a blind analyst (operator rule ten, 2026-10-06): per-question pathspec commits, the lock held by the dispatcher, the blind rule as a whitelist, the reporting figures with one stated definition, the fold before the next batch | LIVE |
-| `Screens/_daily/_overnight.ps1`, `Screens/_daily/_overnight_prompt.md` | the hourly headless cycle and its instructions; the prompt is the document that explains how the cycle works | LIVE |
+| `Screens/_daily/_overnight.ps1`, `Screens/_daily/_overnight_prompt.md` | the hourly headless cycle and its instructions; the prompt is the document that explains how the cycle works. Rewritten 2026-10-10 for the v5 re-run queue (one name a cycle under the canonical brief, folded by the cycle) *(until 2026-10-10 the prompt described a v4.1 wave 7 run and the task was disabled)* | LIVE |
 | `Screens/_daily/_wave7_order.txt`, `Screens/_daily/_wave7_done.txt` | the current queue and its done file; a name is done when it is in both the register and the done file | LIVE |
 | _overnight.lock in `Screens/_daily/` | the lock, present only while a session holds it: an interactive holder is honoured while fresh under 75 minutes; a headless holder needs a live PID under 180 minutes; a cycle releases only the lock it wrote. An interactive session running a name writes this lock first | LIVE, gitignored |
 | `Screens/_daily/OVERNIGHT LOG.md` | one line per name: price, pass or fail, commit | LIVE |
@@ -148,6 +150,7 @@ The tooling test is in the protocol: a tool may get the same number sooner; it m
 | `Screens/_daily/V5 READ LOG.md` | one line per unit: rows by prefix, verifier result, commit | HISTORY |
 | _v5_logs/ in `Screens/_daily/` | one log per headless v5 cycle and its scheduler trace | GENERATED, gitignored |
 | `Screens/_daily/V5 READ COMPLETE.md` | written when the order file was exhausted, 2026-10-04 | HISTORY |
+| `tools/v5_rerun_fold.py` | the FOLD's bookkeeping for a v5 re-run (register entry, done file, narrative, v4.1 bands retired, the fair-price alert, the passers list regenerated), from a batch file whose text comes from the run file; used by the overnight cycle and the interactive session (2026-10-10). Same number sooner, no number added | LIVE |
 | `tools/v5_ledger.py` | the only way rows enter the v5 ledger: validate, match the quote against its source with `tools/ledger_verbatim.py`'s matcher, refuse a failing batch, assign the id, append with csv.writer; also `unit`, `status`, `count`, `verify`. Same number sooner, no number added | LIVE |
 
 ### Backtests/

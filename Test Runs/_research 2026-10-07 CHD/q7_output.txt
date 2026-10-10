@@ -1,0 +1,33 @@
+year  OC_all  OC_maint  aftertax_int  U_all  U_maint  net_acq
+2016 589.5 579.6 18.0 607.5 597.6 305.3
+2017 618.4 602.5 34.2 652.6 636.7 1260.0
+2018 679.9 675.9 62.7 742.6 738.6 49.8
+2019 770.0 779.9 58.6 828.6 838.5 475.0
+2020 869.9 902.6 49.2 919.1 951.8 505.7
+2021 851.3 901.7 43.7 895.0 945.4 556.0
+2022 674.1 785.9 70.9 745.0 856.8 546.8
+2023 743.5 894.2 76.5 820.0 970.7 0.0
+2024 917.2 1013.8 53.2 970.4 1067.0 13.3
+2025 1035.0 1067.7 55.2 1090.2 1122.9 495.7
+
+net debt 2001.4  market cap 22900  EV at price 24901
+
+== 5-year window 2021-2025: avg U_all 904.1  avg U_maint 992.5  avg net acquisitions 322.4  total growth 5.06%  organic 3.24%
+  A no growth, maintenance only            cash   992.5 g  0.00%  EV    17598  per share $ 65.75  IRR at price  3.99%  EV at 10%    9925
+  B total growth, purchases deducted       cash   581.7 g  5.06%  EV    15402  per share $ 56.49  IRR at price  3.60%  EV at 10%    8230
+  C organic growth, purchases left out     cash   904.1 g  3.24%  EV    20724  per share $ 78.93  IRR at price  4.73%  EV at 10%   11280
+  default range (B..A): $56.49 to $65.75  ratio 1.14; organic pair (A..C): $65.75 to $78.93
+  FAIR (all-equity) default pair $29.83; organic pair $36.26
+
+== 10-year whole-cycle variant 2016-2025: avg U_all 827.1  avg U_maint 872.6  avg net acquisitions 420.8  total growth 6.71%  organic 4.02%
+  A no growth, maintenance only            cash   872.6 g  0.00%  EV    15472  per share $ 56.79  IRR at price  3.50%  EV at 10%    8726
+  B total growth, purchases deducted       cash   406.3 g  6.71%  EV    12268  per share $ 43.28  IRR at price  2.93%  EV at 10%    6452
+  C organic growth, purchases left out     cash   827.1 g  4.02%  EV    20169  per share $ 76.59  IRR at price  4.62%  EV at 10%   10890
+  default range (B..A): $43.28 to $56.79  ratio 1.26; organic pair (A..C): $56.79 to $76.59
+  FAIR (all-equity) default pair $23.56; organic pair $32.91
+
+== equity-only (5-yr): avg OC_maint 932.7 avg OC_all 844.2 growth 5.01%
+  A equity value    16537 per share $ 69.71  IRR at market cap  4.07%
+  B equity value    13762 per share $ 58.02  IRR at market cap  3.50%
+  C equity value    19351 per share $ 81.58  IRR at market cap  4.80%
+  FAIR (equity-only) default $35.17; organic $41.86

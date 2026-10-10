@@ -229,3 +229,4 @@ One line per overnight cycle: timestamp | ticker | verdict | price | check_frame
 - 2026-10-06 11:48 | FIX (Comfort Systems USA, Inc., cover 0001104659-26-086258) | OUT at Q2 | price $1,720.32 | run 2026-10-05, interactive dispatch, folded 2026-10-06 (register backfill) | not a cycle run
 - 2026-10-06 11:48 | LINC (Lincoln Educational Services Corporation, cover 0001140361-26-031995) | OUT at Q2 | price $22.28 | run 2026-10-05, interactive dispatch, folded 2026-10-06 (register backfill) | not a cycle run
 - 2026-10-06 11:48 | OSIS (OSI Systems, Inc., cover 0001104659-26-099752) | OUT at Q2 | price $197.93 | run 2026-10-05, interactive dispatch, folded 2026-10-06 (register backfill) | not a cycle run
+- 2026-10-10 15:48 | OTIS | v5 re-run (fold only; run committed by batch 9 at 258053ed, no dispatch) | OUT at Q7, on price | price $65.95 | fair $15.20 | PASS | 6b93b165

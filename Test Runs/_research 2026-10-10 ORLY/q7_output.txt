@@ -1,0 +1,17 @@
+maintenance-only equity by year {2016: 1217, 2017: 1151, 2018: 1449, 2019: 1381, 2020: 2335, 2021: 2674, 2022: 2576, 2023: 2593, 2024: 2560, 2025: 2216}
+maintenance-only unlevered by year {2016: 1267, 2017: 1211, 2018: 1540, 2019: 1486, 2020: 2459, 2021: 2785, 2022: 2697, 2023: 2740, 2024: 2722, 2025: 2392}
+  2021-25 avg unlevered 2667, equity 2524; 2016-20 avg unlevered 1593; growth between averages 10.86%; literal 2021->2025 -3.73%
+all-spending equity by year {2016: 905, 2017: 921, 2018: 1174, 2019: 889, 2020: 2199, 2021: 2566, 2022: 2382, 2023: 2010, 2024: 1855, 2025: 1574}
+all-spending unlevered by year {2016: 955, 2017: 981, 2018: 1265, 2019: 994, 2020: 2323, 2021: 2678, 2022: 2503, 2023: 2158, 2024: 2017, 2025: 1750}
+  2021-25 avg unlevered 2221, equity 2078; 2016-20 avg unlevered 1304; growth between averages 11.25%; literal 2021->2025 -10.09%
+  maint no-growth        EV    47630  per share $  50.53
+  all-spend growth       EV    96680  per share $ 111.16
+  all-spend no-growth    EV    39663  per share $  40.68
+  maint growth           EV   112666  per share $ 130.93
+CENTRAL RANGE (all-equity basis, sovereign 5.6000000000000005%): $50.53 to $111.16  ratio 2.20  price $86.45
+BESIDE all-spending both ends: $40.68 to $111.16
+LITERAL WINDOW (growth 2021->2025 negative, carried as bottom; no growth top): all-spending $14.06 to $40.68; maintenance $35.51 to $50.53
+FAIR all-equity: EV 37587 -> $38.12 a share
+FAIR equity-only (owner cash after interest, growth 11.28%): equity value 35354 -> $43.70 a share
+EV at price 76687; implied return on the midpoint of the two end streams at the price: 5.30%
+sensitivity: all-spending growth 2018-20 avg to 2023-25 avg 5.27%: top $66.18

@@ -88,11 +88,11 @@ Does owning this put the buyer at risk of ruin (the buyer's conduct, not the tar
 - The floor (CONVENTION): about ten percent pre-tax expected return, as the speakers stated and qualified it; below it
   the name is quit on, not ranked. Applied to owner cash after the company's own income tax, no conversion; a
   carryforward or credit that runs out inside ten years is priced separately (section E).
-- **Value range:** $ ___ to $ ___ a share against $ ___. **Closes:** TOO HARD if the range is wider than about three
+- **Value range:** $ ___ to $ ___ a share against $ ___. **Closes:** OUT if no case earns the floor at the price (tested first, 2026-10-10); else TOO HARD if the range is wider than about three
   to one; OUT if the price sits inside or just below a narrower range (not a screamer); IN only if the price is so far
   below that no pencil is needed.
 - **Fair price (a reporting figure, never a verdict; Part VII):** $ ___ a share, the price at which the midpoint of the
-  range earns the floor, after the company's own tax; the central figure on the all-equity basis (owner cash before interest
+  range earns the floor (each end case valued at ten percent, the two averaged; Part VII, 2026-10-10), after the company's own tax; the central figure on the all-equity basis (owner cash before interest
   against market value plus net debt at the latest filed date, stated subsequent events added) and the equity-only figure
   $ ___ beside it. No cheap price is reported. *(basis named 2026-10-06, section H.)*
 - **VERDICT: IN / OUT / TOO HARD**, with ids.

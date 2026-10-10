@@ -1,0 +1,75 @@
+==============================================================================
+Broadcom Inc.  (AVGO)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.64%   10/06/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     375.81 USD   2026-10-06   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                              4,773.630M  as of 2026-08-28  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                               4,774.000M  as of 2026-08-02  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)    4,774.000M  as of 2026-08-02  (CommonStockSharesIssued)
+  shares    4,773.6M      market cap 1,793.98B USD
+  share basis: dei cover-page count as of 2026-08-28 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-10-29     18,085    2,171     3,749        452      15,462      12,165
+    2024-11-03     19,962    5,741     9,860        548      13,673       4,361
+    2025-11-02     27,537    7,568     8,636        623      19,346      11,333
+          mean                                               16,160       9,286
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: D&A basis in 2023, 2024, 2025
+  mean of the year-by-year lower: 9,286;  of the higher: 16,160  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 ShareBasedCompensation; 2024 ShareBasedCompensation; 2025 ShareBasedCompensation
+  capex tag by year: 2023 PaymentsToAcquirePropertyPlantAndEquipment; 2024 PaymentsToAcquirePropertyPlantAndEquipment; 2025 PaymentsToAcquirePropertyPlantAndEquipment
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0001730168-25-000121, 0001730168-24-000139, 0001730168-23-000096
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 14,975  OE D&A 10,811   yield 0.83% (capex) 0.60% (D&A)
+  DIVERGENCE vs the 3-yr window: +16.4% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis  0.90%   D&A basis  0.52%   vs sovereign 5.64%
+  2. GROWTH THE PRICE ASSUMES   46.4%  (at a 5.64% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN -2.60 (lower mean) .. -2.19 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2016-10-30             -           -      21,876       3,097           -           -      24,732           -           -           -
+    2017-10-29        54,418      31,232      20,285      11,204       2,448       1,447      24,706      10,832      17,431        -129
+    2018-11-04        50,124      23,467      26,657       4,292       3,325       1,124      26,913      10,762      17,493       3,487
+    2019-11-03        67,493      42,523      24,941       5,055       3,259         874      36,714      17,554      30,011           0
+    2020-11-01        75,933      52,032      23,874       7,618       2,297       1,003      43,447      16,782      40,235           0
+    2021-10-31        75,570      50,581      24,962      12,163       2,071       1,297      43,450      11,374      39,440         748
+    2022-10-30        73,249      50,540      22,709      12,416       2,958       1,925      43,614       7,111           -       1,604
+    2023-10-29        72,861      48,873      23,988      14,189       3,154       1,898      43,653       3,867           -       2,682
+    2024-11-03       165,645      97,967      67,678       9,348       4,416       1,760      97,873      40,583           -           0
+    2025-11-02       171,092      89,800      81,292      16,178       7,145       2,270      97,801      32,273           -       9,761
+    accessions: 0001730168-18-000084, 0001730168-19-000144, 0001730168-20-000226, 0001730168-21-000153, 0001730168-22-000118, 0001730168-23-000096, 0001730168-24-000139, 0001730168-25-000121
+    equity: StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (2016, 2020, 2021, 2022, 2023, 2024, 2025); StockholdersEquity (2017, 2018, 2019)
+    lt debt: LongTermDebtNoncurrent (2017, 2018, 2019, 2020, 2021)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD millions; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        sum
+    2021-10-31         290    39,440     39,730
+    2022-10-30         440    39,075     39,515
+    2023-10-29       1,608    37,621     39,229
+    2024-11-03       1,271    66,295     67,566
+    2025-11-02       3,152    61,984     65,136
+    d1 = us-gaap:LongTermDebtAndCapitalLeaseObligationsCurrent
+    d2 = us-gaap:LongTermDebtAndCapitalLeaseObligations
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

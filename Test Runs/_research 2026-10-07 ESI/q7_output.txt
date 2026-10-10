@@ -1,0 +1,14 @@
+owner cash after interest [239.6, 230.4, 271.5, 278.8, 168.5] mean 237.8
+owner cash before interest [282.4, 270.8, 310.4, 323.3, 210.7] mean 279.5
+acquisitions net mean 91.3
+growth unlevered literal -7.06% halves -1.18%; equity literal -8.42% halves -1.64%; organic 2.40%
+--- ALL-EQUITY basis (central): owner cash before interest, less net debt at 2026-06-30 1929.8
+default, cycle reading (halves): base 188.2, growth ends -1.18%..0.00%: whole 3041..3337M -> $4.56..$5.78/sh; fair price (midpoint growth -0.59% at 10%) $-0.50
+default, literal window: base 188.2, growth ends -7.06%..0.00%: whole 1921..3337M -> $-0.03..$5.78/sh; fair price (midpoint growth -3.53% at 10%) $-1.82
+organic pair: base 279.5, growth ends 0.00%..2.40%: whole 4956..5996M -> $12.42..$16.69/sh; fair price (midpoint growth 1.20% at 10%) $4.53
+--- EQUITY-ONLY (beside): owner cash after interest, less the 2026 deals' price 861
+default, cycle reading (halves): base 146.4, growth ends -1.64%..0.00%: whole 2282..2596M -> $5.83..$7.12/sh; fair price (midpoint growth -0.82% at 10%) $2.15
+default, literal window: base 146.4, growth ends -8.42%..0.00%: whole 1347..2596M -> $1.99..$7.12/sh; fair price (midpoint growth -4.21% at 10%) $1.01
+organic pair: base 237.8, growth ends 0.00%..2.40%: whole 4216..5100M -> $13.77..$17.39/sh; fair price (midpoint growth 1.20% at 10%) $7.05
+market cap 8924.0 EV 10854.0
+owner cash yield on EV (before interest, 5yr mean) 2.58%

@@ -71,8 +71,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 250,
-   "active": true,
-   "label": "CSL at/below $250: ranks on bottom-boundary owner earnings ($699M). Watch: CCM margin reversion (each point is $37.2M pre-tax and CCM sits 9.4 points above its 2018-20 mean), and that the buyback was 64.2% funded by divestiture proceeds - there is nothing left to sell."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). CSL at/below $250: ranks on bottom-boundary owner earnings ($699M). Watch: CCM margin reversion (each point is $37.2M pre-tax and CCM sits 9.4 points above its 2018-20 mean), and that the buyback was 64.2% funded by divestiture proceeds - there is nothing left to sell."
   },
   {
    "id": "CSL-rerun-band",
@@ -80,8 +80,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 280,
-   "active": true,
-   "label": "CSL at/below $280: the E4-28 floor clears on judged owner earnings ($775M). Business cleared Q1-Q4 on 2026-08-31 - first of four peers on operating margin AND on return on total invested capital including goodwill (17.13% vs 7.5-12.4%). Best-covered dividend the queue has seen (4.00x). FIRST re-test: the two-customer concentration (QXO/Beacon 16.7% + ABC Supply 16.3% = 33% of revenue). Source: Test Runs/2026-08-31 Run - CSL (Carlisle Companies) v4.1.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). CSL at/below $280: the E4-28 floor clears on judged owner earnings ($775M). Business cleared Q1-Q4 on 2026-08-31 - first of four peers on operating margin AND on return on total invested capital including goodwill (17.13% vs 7.5-12.4%). Best-covered dividend the queue has seen (4.00x). FIRST re-test: the two-customer concentration (QXO/Beacon 16.7% + ABC Supply 16.3% = 33% of revenue). Source: Test Runs/2026-08-31 Run - CSL (Carlisle Companies) v4.1.md."
   },
   {
    "id": "RPM-rank-band",
@@ -107,8 +107,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 160,
-   "active": true,
-   "label": "ITW at/below $160: the E4-28 floor comes within reach on judged owner earnings ($2.6bn). Business cleared Q1-Q4 on 2026-08-31 with the WIDEST Q2 the project has recorded (28.3% return on TOTAL invested capital vs 5.7-15.8% for DHR/EMR/DOV/PH - ITW built its returns, peers bought theirs). It failed on price: yield 3.30% vs a 5.19% bond. Re-test the operating margin first - the margin IS the earnings. Source: Test Runs/2026-08-31 Run - ITW (Illinois Tool Works) v4.1.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). ITW at/below $160: the E4-28 floor comes within reach on judged owner earnings ($2.6bn). Business cleared Q1-Q4 on 2026-08-31 with the WIDEST Q2 the project has recorded (28.3% return on TOTAL invested capital vs 5.7-15.8% for DHR/EMR/DOV/PH - ITW built its returns, peers bought theirs). It failed on price: yield 3.30% vs a 5.19% bond. Re-test the operating margin first - the margin IS the earnings. Source: Test Runs/2026-08-31 Run - ITW (Illinois Tool Works) v4.1.md."
   },
   {
    "id": "ITW-rank-band",
@@ -116,8 +116,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 130,
-   "active": true,
-   "label": "ITW at/below $130: ranks on bottom-boundary owner earnings ($2.4bn). Watch items: operating margin reversion (every 100bp is 4.9% of owner earnings), dividend coverage only 1.31x at the bottom boundary, buybacks executed above value every year."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). ITW at/below $130: ranks on bottom-boundary owner earnings ($2.4bn). Watch items: operating margin reversion (every 100bp is 4.9% of owner earnings), dividend coverage only 1.31x at the bottom boundary, buybacks executed above value every year."
   },
   {
    "id": "LOW-rerun-band",
@@ -125,8 +125,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 170,
-   "active": true,
-   "label": "LOW at/below $170: the E4-28 floor comes within reach on judged owner earnings ($6.64bn). Business cleared Q1-Q4 on 2026-08-31; it failed on GROWTH, not price - expectancy was ~8% vs the ~10% floor. Re-run must re-test the transaction series (780M vs 1,046M five years ago) before anything else. Source: Test Runs/2026-08-31 Run - LOW (Lowes) v4.1.md."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). LOW at/below $170: the E4-28 floor comes within reach on judged owner earnings ($6.64bn). Business cleared Q1-Q4 on 2026-08-31; it failed on GROWTH, not price - expectancy was ~8% vs the ~10% floor. Re-run must re-test the transaction series (780M vs 1,046M five years ago) before anything else. Source: Test Runs/2026-08-31 Run - LOW (Lowes) v4.1.md."
   },
   {
    "id": "LOW-rank-band",
@@ -134,8 +134,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 150,
-   "active": true,
-   "label": "LOW at/below $150: ranks on bottom-boundary owner earnings ($6.0bn). Gates re-checked before any action; watch items are the units series, the $10.1bn acquisition returns, and net debt/EBITDA 3.12x."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). LOW at/below $150: ranks on bottom-boundary owner earnings ($6.0bn). Gates re-checked before any action; watch items are the units series, the $10.1bn acquisition returns, and net debt/EBITDA 3.12x."
   },
   {
    "id": "COST-rerun-band",
@@ -170,8 +170,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 130,
-   "active": true,
-   "label": "LOPE at/below $130: full v4.1 re-run. Business cleared Q1-Q4 on 2026-09-01 and failed the floor everywhere in the range (8.32% to 9.01% expectancy against the 10% floor [E4-28]). $130 is the top of the central band at the underwritten 3% growth. FIRST re-test: operating margin ex one-time items, which is the metric that decides the file - the entire gap between the 9.2% and 0.8% growth readings is margin, and it fell from 34.05% to 27.20% as the off-campus site business grew to 47 locations. Source: Test Runs/2026-09-01 Run - LOPE Grand Canyon Education.md."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). LOPE at/below $130: full v4.1 re-run. Business cleared Q1-Q4 on 2026-09-01 and failed the floor everywhere in the range (8.32% to 9.01% expectancy against the 10% floor [E4-28]). $130 is the top of the central band at the underwritten 3% growth. FIRST re-test: operating margin ex one-time items, which is the metric that decides the file - the entire gap between the 9.2% and 0.8% growth readings is margin, and it fell from 34.05% to 27.20% as the off-campus site business grew to 47 locations. Source: Test Runs/2026-09-01 Run - LOPE Grand Canyon Education.md."
   },
   {
    "id": "LOPE-floor-band",
@@ -179,8 +179,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 110,
-   "active": true,
-   "label": "LOPE at/below $110: the bottom of the central band, where the 10% floor is met at the underwritten 3% growth. Before acting, check the NAMED DEATH first, because it is a signature and not a number: any published change, proposal or judicial ruling affecting Example 2-B of the 2011 bundled-services Dear Colleague Letter is an immediate re-run REGARDLESS OF PRICE. Also check whether the 60% MSA share was reduced again - it has been cut at least three times, most recently $20M a year effective July."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). LOPE at/below $110: the bottom of the central band, where the 10% floor is met at the underwritten 3% growth. Before acting, check the NAMED DEATH first, because it is a signature and not a number: any published change, proposal or judicial ruling affecting Example 2-B of the 2011 bundled-services Dear Colleague Letter is an immediate re-run REGARDLESS OF PRICE. Also check whether the 60% MSA share was reduced again - it has been cut at least three times, most recently $20M a year effective July."
   },
   {
    "id": "OTIS-rerun-band",
@@ -188,8 +188,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 59,
-   "active": true,
-   "label": "OTIS at/below $59: the TOP of the bond-substitute range, where Otis stops being worse than a 30-year Treasury at zero growth. Business cleared Q1-Q4 on 2026-09-01 and failed the floor by a wide margin: 4.68% yield against a 5.25% sovereign, needing 5.32% perpetual growth against a record of +0.20%/yr over seven years and MINUS 2.47%/yr over four. FIRST re-test: Net Portfolio Unit Gain, which paid ZERO on the 2025 scorecard (87k actual against an 88k threshold) and then vanished from three consecutive earnings releases [E2-49]. Source: Test Runs/2026-09-01 Run - OTIS Otis Worldwide.md."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). OTIS at/below $59: the TOP of the bond-substitute range, where Otis stops being worse than a 30-year Treasury at zero growth. Business cleared Q1-Q4 on 2026-09-01 and failed the floor by a wide margin: 4.68% yield against a 5.25% sovereign, needing 5.32% perpetual growth against a record of +0.20%/yr over seven years and MINUS 2.47%/yr over four. FIRST re-test: Net Portfolio Unit Gain, which paid ZERO on the 2025 scorecard (87k actual against an 88k threshold) and then vanished from three consecutive earnings releases [E2-49]. Source: Test Runs/2026-09-01 Run - OTIS Otis Worldwide.md."
   },
   {
    "id": "OTIS-floor-band",
@@ -197,8 +197,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 49,
-   "active": true,
-   "label": "OTIS at/below $49: the top of the range where the E4-28 10% floor is actually met (roughly $31-49 at 0-3% growth). Before acting, check the two things the run could not resolve: Otis does not disclose how maintenance-portfolio additions split between conversion, recapture and acquisition, which is why $1,185M is the bottom boundary; and Otis publishes NO retention rate at all, while KONE publishes ~90% and TKE over 90%. Also check China: ~$104M/yr of owner earnings leaks to noncontrolling holders of Otis China."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). OTIS at/below $49: the top of the range where the E4-28 10% floor is actually met (roughly $31-49 at 0-3% growth). Before acting, check the two things the run could not resolve: Otis does not disclose how maintenance-portfolio additions split between conversion, recapture and acquisition, which is why $1,185M is the bottom boundary; and Otis publishes NO retention rate at all, while KONE publishes ~90% and TKE over 90%. Also check China: ~$104M/yr of owner earnings leaks to noncontrolling holders of Otis China."
   },
   {
    "id": "LSTR-rerun-band",
@@ -206,8 +206,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 116,
-   "active": true,
-   "label": "LSTR at/below $116: the TOP of the value range, where the E4-28 floor is met at the best end of the owner-earnings band. Business cleared Q1-Q4 on 2026-09-01 and failed the floor at every point of the range on every window. FIRST re-test: return on unleveraged net tangible operating assets against C.H. Robinson, same formula both sides - Landstar went 61.0 to 40.7 to 27.0 while Robinson went 42.1 to 50.2 to 62.7. THEY CROSSED. Second: the BCO fleet, 28% below peak and 12% below 2017. Source: Test Runs/2026-09-01 Run - LSTR Landstar System.md."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). LSTR at/below $116: the TOP of the value range, where the E4-28 floor is met at the best end of the owner-earnings band. Business cleared Q1-Q4 on 2026-09-01 and failed the floor at every point of the range on every window. FIRST re-test: return on unleveraged net tangible operating assets against C.H. Robinson, same formula both sides - Landstar went 61.0 to 40.7 to 27.0 while Robinson went 42.1 to 50.2 to 62.7. THEY CROSSED. Second: the BCO fleet, 28% below peak and 12% below 2017. Source: Test Runs/2026-09-01 Run - LSTR Landstar System.md."
   },
   {
    "id": "LSTR-floor-band",
@@ -215,8 +215,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 90,
-   "active": true,
-   "label": "LSTR at/below $90: the floor is met across most of the owner-earnings range ($70-116). Before acting, note what the screen got WRONG and the run fixed: Landstar buys most of its trailers with FINANCE LEASES, so cash capex misses about $33M a year and the true capex/depreciation ratio is 1.10x, not 0.43x. Also check the eleven consecutive years of net unfavourable claims development ($117.9M, not one favourable year) - published every year, which is candour, one-directional, which is the bias."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). LSTR at/below $90: the floor is met across most of the owner-earnings range ($70-116). Before acting, note what the screen got WRONG and the run fixed: Landstar buys most of its trailers with FINANCE LEASES, so cash capex misses about $33M a year and the true capex/depreciation ratio is 1.10x, not 0.43x. Also check the eleven consecutive years of net unfavourable claims development ($117.9M, not one favourable year) - published every year, which is candour, one-directional, which is the bias."
   },
   {
    "id": "ORLY-rerun-band",
@@ -224,8 +224,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 65,
-   "active": true,
-   "label": "ORLY at/below $65: full v4.1 re-run. The EIGHTH business to clear Q1-Q4 and the FIRST from the operator's watchlist; failed at Q5 on price at $86.86, yield 2.19-3.87% against a 5.27% bond. FIRST RE-TEST, and it is the run's own strongest counter-argument, which it could not refute: owner earnings fell 43.1% across four declines from the 2021 peak on a distribution-centre build that will not repeat. H1-2026 capex is already -6.1% y/y and TTM owner earnings have recovered to $2,122M. IF CAPEX NORMALISES TO ~$800M, owner earnings are ~$2.7bn and the floor is nearly cleared at ~$64 WITHOUT the price moving. So watch the FY2026 10-K cash-flow statement, not only the quote. Source: Test Runs/2026-09-02 Run - ORLY OReilly Automotive.md"
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). ORLY at/below $65: full v4.1 re-run. The EIGHTH business to clear Q1-Q4 and the FIRST from the operator's watchlist; failed at Q5 on price at $86.86, yield 2.19-3.87% against a 5.27% bond. FIRST RE-TEST, and it is the run's own strongest counter-argument, which it could not refute: owner earnings fell 43.1% across four declines from the 2021 peak on a distribution-centre build that will not repeat. H1-2026 capex is already -6.1% y/y and TTM owner earnings have recovered to $2,122M. IF CAPEX NORMALISES TO ~$800M, owner earnings are ~$2.7bn and the floor is nearly cleared at ~$64 WITHOUT the price moving. So watch the FY2026 10-K cash-flow statement, not only the quote. Source: Test Runs/2026-09-02 Run - ORLY OReilly Automotive.md"
   },
   {
    "id": "ORLY-ranks-band",
@@ -233,8 +233,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 53,
-   "active": true,
-   "label": "ORLY at/below $53: the judged zero-growth value against the sovereign. Watch [E2-60], which fires almost exactly - buybacks exceeded owner earnings by $3,456M over 3.5 years while debt rose $3,188M, a 0.92:1 ratio - and the fact that ORLY beat FY2025 guidance on every income-statement line and MISSED it on both cash-flow lines. A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). ORLY at/below $53: the judged zero-growth value against the sovereign. Watch [E2-60], which fires almost exactly - buybacks exceeded owner earnings by $3,456M over 3.5 years while debt rose $3,188M, a 0.92:1 ratio - and the fact that ORLY beat FY2025 guidance on every income-statement line and MISSED it on both cash-flow lines. A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "BRK-rerun-band",
@@ -242,8 +242,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 470,
-   "active": true,
-   "label": "BRK-B at/below $470: the price crosses the conservative sum and Bar 2's bottom row goes live. Re-run the Q5 arithmetic only - one session, the components are on file. Q1-Q4 all IN on 2026-09-02 (the second name ever, after ORLY, to clear all four business gates); failed at Q5 ABOVE the bond (look-through 5.6-6.1% vs 5.27%) but BELOW the ~10% floor (expectancy 6.7-9.7%). Value ~$470/$590/$640. Non-price re-read triggers from the run's own Q6: does the $324.9bn bill pile shrink (deployment vs drag); accident-year combined ratio direction; the retention window starting to grade Abel rather than the founder. Source: Test Runs/2026-09-02 Run - BRK Berkshire Hathaway.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-05 and its alert). BRK-B at/below $470: the price crosses the conservative sum and Bar 2's bottom row goes live. Re-run the Q5 arithmetic only - one session, the components are on file. Q1-Q4 all IN on 2026-09-02 (the second name ever, after ORLY, to clear all four business gates); failed at Q5 ABOVE the bond (look-through 5.6-6.1% vs 5.27%) but BELOW the ~10% floor (expectancy 6.7-9.7%). Value ~$470/$590/$640. Non-price re-read triggers from the run's own Q6: does the $324.9bn bill pile shrink (deployment vs drag); accident-year combined ratio direction; the retention window starting to grade Abel rather than the founder. Source: Test Runs/2026-09-02 Run - BRK Berkshire Hathaway.md"
   },
   {
    "id": "MCD-rerun-band",
@@ -269,8 +269,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 80,
-   "active": true,
-   "label": "HAS at/below $80: the judged zero-growth value. FOURTH name to clear all four business gates (2026-09-03): Q2 IN NARROW on Wizards of the Coast, which is 46.5% of revenue but ~92-97% of segment operating profit three years running ($1,006.8M at a 46.0% margin on $12.9M of segment capex) - a franchise with a toy company attached, NOT the QCOM shape. Failed at Q5 at the floor: judged OE $600M, yield 4.57%, expectancy 4.6-7.6% vs ~10%. FIRST RE-TEST: the MTG tabletop plateau - revenue flat three years (1,067 -> 1,072 -> 1,040, 2022-24) while Bandai's data shows the Japan card category grew ~5x, and NO unit or player series has ever been filed, so the record 2025 (+62.2% on royalty-bearing borrowed IP) cannot be decomposed into price vs volume. If the plateau was volume decline masked by pricing, the class is a shrinking franchise hiding in dollars. Source: Test Runs/2026-09-03 Run - HAS Hasbro.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). HAS at/below $80: the judged zero-growth value. FOURTH name to clear all four business gates (2026-09-03): Q2 IN NARROW on Wizards of the Coast, which is 46.5% of revenue but ~92-97% of segment operating profit three years running ($1,006.8M at a 46.0% margin on $12.9M of segment capex) - a franchise with a toy company attached, NOT the QCOM shape. Failed at Q5 at the floor: judged OE $600M, yield 4.57%, expectancy 4.6-7.6% vs ~10%. FIRST RE-TEST: the MTG tabletop plateau - revenue flat three years (1,067 -> 1,072 -> 1,040, 2022-24) while Bandai's data shows the Japan card category grew ~5x, and NO unit or player series has ever been filed, so the record 2025 (+62.2% on royalty-bearing borrowed IP) cannot be decomposed into price vs volume. If the plateau was volume decline masked by pricing, the class is a shrinking franchise hiding in dollars. Source: Test Runs/2026-09-03 Run - HAS Hasbro.md"
   },
   {
    "id": "HAS-ranks-band",
@@ -278,8 +278,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 55,
-   "active": true,
-   "label": "HAS at/below $55: the top of the floor band ($35-55, judged $43). Watch the 2027 EXODUS/WARLOCK releases (first test of the $385.6M capitalized video-game bet), Universes Beyond royalty share, and the two Q3 flags: 2025 incentives paid 200% of target - the plan max - in a $318.2M net-loss year, and H1-2026 buybacks at $86.1 average, the top of the zero-growth band. A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). HAS at/below $55: the top of the floor band ($35-55, judged $43). Watch the 2027 EXODUS/WARLOCK releases (first test of the $385.6M capitalized video-game bet), Universes Beyond royalty share, and the two Q3 flags: 2025 incentives paid 200% of target - the plan max - in a $318.2M net-loss year, and H1-2026 buybacks at $86.1 average, the top of the zero-growth band. A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "COKE-rerun-band",
@@ -287,8 +287,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 145,
-   "active": true,
-   "label": "COKE at/below $145: the run's own pre-committed re-look (judged zero-growth value; recompute at the rate of the day). FIFTH name to clear all four gates and the FIRST BOTTLER (2026-09-04): Q2 IN NARROW - the CBA is renewable BY THE BOTTLER indefinitely in 10-year terms (8-K 2017-04-04), no QCOM/AATC expiry wall; Charlotte KEPT the pricing wave (GM 35.1%->39.7% through 2022-24); and the unit series HELD (-1.3% over five years of +52% pricing) - the first name to pass [E2-44](1) through its own wave. Judged OE $500M, yield 3.81%, expectancy ~8-9% vs the 10% floor. FIRST RE-TEST: the Atlanta lever - equity alignment ended 2025-11-07 (stake repurchased, board seat extinguished), H1-26 GM already -125bp; a -$330M pre-tax pull takes judged OE to ~$170M. Source: Test Runs/2026-09-04 Run - COKE Coca-Cola Consolidated.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). COKE at/below $145: the run's own pre-committed re-look (judged zero-growth value; recompute at the rate of the day). FIFTH name to clear all four gates and the FIRST BOTTLER (2026-09-04): Q2 IN NARROW - the CBA is renewable BY THE BOTTLER indefinitely in 10-year terms (8-K 2017-04-04), no QCOM/AATC expiry wall; Charlotte KEPT the pricing wave (GM 35.1%->39.7% through 2022-24); and the unit series HELD (-1.3% over five years of +52% pricing) - the first name to pass [E2-44](1) through its own wave. Judged OE $500M, yield 3.81%, expectancy ~8-9% vs the 10% floor. FIRST RE-TEST: the Atlanta lever - equity alignment ended 2025-11-07 (stake repurchased, board seat extinguished), H1-26 GM already -125bp; a -$330M pre-tax pull takes judged OE to ~$170M. Source: Test Runs/2026-09-04 Run - COKE Coca-Cola Consolidated.md"
   },
   {
    "id": "COKE-ranks-band",
@@ -296,8 +296,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 95,
-   "active": true,
-   "label": "COKE at/below $95: the top of the floor band ($60-95). Watch [E2-60] (FY2024-25 leveraged buyback, equity -$740M), [E5-11](2) failing today, the $900M 2028 refi, and the perpetual CCR royalty ($50-70M/yr classified as FINANCING, outside OCF). A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). COKE at/below $95: the top of the floor band ($60-95). Watch [E2-60] (FY2024-25 leveraged buyback, equity -$740M), [E5-11](2) failing today, the $900M 2028 refi, and the perpetual CCR royalty ($50-70M/yr classified as FINANCING, outside OCF). A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "TSCO-rerun-band",
@@ -305,8 +305,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 31,
-   "active": true,
-   "label": "TSCO at/below $31: the run's pre-committed re-look (judged zero-growth ~$30-32, recompute at the rate of the day). SIXTH name to clear all four gates and the FIRST MERCHANT RETAILER (2026-09-04): Q2 IN NARROW - comp transactions held through the whole 2022-25 price cycle (-0.6/-0.4/+0.8/+1.4 with the +18.8% pandemic surge retained) while gross margin ROSE; the series was never withdrawn in ten vintages. Judged OE $875M off TSCO's own filed five-way capex split; yield 4.80% vs 5.25%. FIRST RE-TEST, pre-committed at Q6: if FY2026 full-year transactions print negative, the Q2 direction question REOPENS - H1-2026 is -1.4%, real comps negative four straight years, and flat NI is manufactured by a FINITE engine (sale-leaseback gains $41.7M->$91.7M masking three declines in ex-gain operating income, ~3% of stores left to sell). Source: Test Runs/2026-09-04 Run - TSCO Tractor Supply.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-05 and its alert). TSCO at/below $31: the run's pre-committed re-look (judged zero-growth ~$30-32, recompute at the rate of the day). SIXTH name to clear all four gates and the FIRST MERCHANT RETAILER (2026-09-04): Q2 IN NARROW - comp transactions held through the whole 2022-25 price cycle (-0.6/-0.4/+0.8/+1.4 with the +18.8% pandemic surge retained) while gross margin ROSE; the series was never withdrawn in ten vintages. Judged OE $875M off TSCO's own filed five-way capex split; yield 4.80% vs 5.25%. FIRST RE-TEST, pre-committed at Q6: if FY2026 full-year transactions print negative, the Q2 direction question REOPENS - H1-2026 is -1.4%, real comps negative four straight years, and flat NI is manufactured by a FINITE engine (sale-leaseback gains $41.7M->$91.7M masking three declines in ex-gain operating income, ~3% of stores left to sell). Source: Test Runs/2026-09-04 Run - TSCO Tractor Supply.md"
   },
   {
    "id": "TSCO-ranks-band",
@@ -314,8 +314,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 18.5,
-   "active": true,
-   "label": "TSCO at/below $18.50: the top of the floor band ($11-18.5). Watch the pet flank (24% of sales, conceded on TSCO's own filings - Petsense goodwill to zero, ~75 of 209 stores closing) and BOOT earning the same return while expanding. A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-05 and its alert). TSCO at/below $18.50: the top of the floor band ($11-18.5). Watch the pet flank (24% of sales, conceded on TSCO's own filings - Petsense goodwill to zero, ~75 of 209 stores closing) and BOOT earning the same return while expanding. A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "SBUX-rerun-band",
@@ -341,8 +341,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 95,
-   "active": true,
-   "label": "ACLS at/below $95: the top of the zero-growth band ($50-95, judged $60-65, net cash $17.70/sh credited). FIRST SEMICONDUCTOR NAME to clear all four gates (2026-09-05, eighth overall): Q2 IN NARROW on the one test a no-moat supplier cannot pass - the filed price range ROSE ($2.4-10.0M -> $2.6-12.0M) and GM rose through a 26% revenue collapse. Judged OE $70M after the loudest [E4-41] boom signature in the queue (pre-boom mean $15.9M vs boom $126.5M, an 8x step). NON-PRICE TRIGGER THAT OUTRANKS THIS ALERT: the all-stock VEECO merger of equals (0.3575x, ACLS ~58.4%, votes passed 2026-02-06, only China SAMR left, expected H2 2026) - THE FILE RE-OPENS AT CLOSE regardless of price; Veeco runs a 5.4% op margin and its holders get ~41.6% of the equity for ~22% of combined net income [E5-44]. Source: Test Runs/2026-09-05 Run - ACLS Axcelis.md LIVE MERGER AGREEMENT ON FILE (found 2026-09-12 by the deal check the ROKU run prompted): the 425 of 2026-04-29 references a Merger Agreement and an S-4 filed 2025-12-08, amended 2025-12-29. AXCELIS IS PARTY TO A MERGER, so this band now tracks DEAL TERMS rather than intrinsic value - a ping means read the merger documents first, and the gates cannot be re-run on a quote that is a spread."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). ACLS at/below $95: the top of the zero-growth band ($50-95, judged $60-65, net cash $17.70/sh credited). FIRST SEMICONDUCTOR NAME to clear all four gates (2026-09-05, eighth overall): Q2 IN NARROW on the one test a no-moat supplier cannot pass - the filed price range ROSE ($2.4-10.0M -> $2.6-12.0M) and GM rose through a 26% revenue collapse. Judged OE $70M after the loudest [E4-41] boom signature in the queue (pre-boom mean $15.9M vs boom $126.5M, an 8x step). NON-PRICE TRIGGER THAT OUTRANKS THIS ALERT: the all-stock VEECO merger of equals (0.3575x, ACLS ~58.4%, votes passed 2026-02-06, only China SAMR left, expected H2 2026) - THE FILE RE-OPENS AT CLOSE regardless of price; Veeco runs a 5.4% op margin and its holders get ~41.6% of the equity for ~22% of combined net income [E5-44]. Source: Test Runs/2026-09-05 Run - ACLS Axcelis.md LIVE MERGER AGREEMENT ON FILE (found 2026-09-12 by the deal check the ROKU run prompted): the 425 of 2026-04-29 references a Merger Agreement and an S-4 filed 2025-12-08, amended 2025-12-29. AXCELIS IS PARTY TO A MERGER, so this band now tracks DEAL TERMS rather than intrinsic value - a ping means read the merger documents first, and the gates cannot be re-run on a quote that is a spread."
   },
   {
    "id": "ACLS-ranks-band",
@@ -350,8 +350,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 40,
-   "active": true,
-   "label": "ACLS at/below $40: the [E4-28] floor. Watch the backlog-misstatement class (every 10-K 2019-2023 overstated backlog one direction, peak -$151M, corrected by 8-K 2024-11-06 - weak-accounting flag held open) and the 2025 pay switch to a single adjusted-EBITDA metric with the target set below 2024's own actual [E2-49]. A ping is a prompt to re-run the gates, never an action. LIVE MERGER AGREEMENT ON FILE (found 2026-09-12 by the deal check the ROKU run prompted): the 425 of 2026-04-29 references a Merger Agreement and an S-4 filed 2025-12-08, amended 2025-12-29. AXCELIS IS PARTY TO A MERGER, so this band now tracks DEAL TERMS rather than intrinsic value - a ping means read the merger documents first, and the gates cannot be re-run on a quote that is a spread."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). ACLS at/below $40: the [E4-28] floor. Watch the backlog-misstatement class (every 10-K 2019-2023 overstated backlog one direction, peak -$151M, corrected by 8-K 2024-11-06 - weak-accounting flag held open) and the 2025 pay switch to a single adjusted-EBITDA metric with the target set below 2024's own actual [E2-49]. A ping is a prompt to re-run the gates, never an action. LIVE MERGER AGREEMENT ON FILE (found 2026-09-12 by the deal check the ROKU run prompted): the 425 of 2026-04-29 references a Merger Agreement and an S-4 filed 2025-12-08, amended 2025-12-29. AXCELIS IS PARTY TO A MERGER, so this band now tracks DEAL TERMS rather than intrinsic value - a ping means read the merger documents first, and the gates cannot be re-run on a quote that is a spread."
   },
   {
    "id": "BMI-rerun-band",
@@ -359,8 +359,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 105,
-   "active": true,
-   "label": "BMI at/below $105: the top of the zero-growth band ($50-105, judged ~$70). NINTH name to clear all four gates (2026-09-05) with the best business economics in the queue: ~138% pre-tax on net tangible operating assets, zero debt, $0 interest paid (filed, three years), GAAP-only, E&Y since 1927. Judged OE $105M after decomposing the step-up - the 2023-25 crest is AMI-wave plus backlog catch-up, filed by all three competitors AND BMI's own H1-2026 (utility sales -8.8%, OE -34%); the durable part is the installed base and the SaaS series ($42.2M -> $73.6M filed). Yield 2.73% judged vs 5.24%. THE HONEST HOSTAGE: matching the bare bond needs only +2.5%/yr, a rate BMI has beaten in every five-year stretch on record - if 2023-25 is the new base rather than a crest, the $105M judgment is the error. Source: Test Runs/2026-09-05 Run - BMI Badger Meter.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). BMI at/below $105: the top of the zero-growth band ($50-105, judged ~$70). NINTH name to clear all four gates (2026-09-05) with the best business economics in the queue: ~138% pre-tax on net tangible operating assets, zero debt, $0 interest paid (filed, three years), GAAP-only, E&Y since 1927. Judged OE $105M after decomposing the step-up - the 2023-25 crest is AMI-wave plus backlog catch-up, filed by all three competitors AND BMI's own H1-2026 (utility sales -8.8%, OE -34%); the durable part is the installed base and the SaaS series ($42.2M -> $73.6M filed). Yield 2.73% judged vs 5.24%. THE HONEST HOSTAGE: matching the bare bond needs only +2.5%/yr, a rate BMI has beaten in every five-year stretch on record - if 2023-25 is the new base rather than a crest, the $105M judgment is the error. Source: Test Runs/2026-09-05 Run - BMI Badger Meter.md"
   },
   {
    "id": "BMI-ranks-band",
@@ -368,8 +368,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 45,
-   "active": true,
-   "label": "BMI at/below $45: the top of the floor band ($27-45, judged $36). Watch the [E5-08] condition-2 flag - $63.5M repurchased H1-2026 at ~$157-159 against ~$70 judged value, more than 2x - and the sewer-M&A multiple watch item. A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). BMI at/below $45: the top of the floor band ($27-45, judged $36). Watch the [E5-08] condition-2 flag - $63.5M repurchased H1-2026 at ~$157-159 against ~$70 judged value, more than 2x - and the sewer-M&A multiple watch item. A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "EFX-rerun-band",
@@ -377,8 +377,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 145,
-   "active": true,
-   "label": "EFX at/below $145: the top of the zero-growth band ($80-145, judged ~$115). TENTH name to clear all four gates and the first credit bureau (2026-09-05): Q2 IN NARROW with EWS WIDE inside - The Work Number's contributory database ran 330M -> 813M records across nine vintages, active records +11%/yr THROUGH the mortgage trough, EWS OI $969M at the 2023 trough vs $1,001M at the 2021 crest, and the best attacker (Experian Verify) is at 1/3 scale. Judged OE $700M (decade series contains -$136M breach year and a $70M trough); judged yield 3.37%; THE LOUDEST FACT: the best year in the filed decade yields 5.08% at this price, below the Treasury. THE SOFT JOINT, stated: the volume cycle sits at a 30-YEAR TROUGH while the record base compounds - if mortgage volumes merely normalize, the floor's +6.6%/yr needs no price increases at all. The run judged that growth non-creditable against +1.5%/yr realised; that judgment is where it could be wrong. Source: Test Runs/2026-09-05 Run - EFX Equifax.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). EFX at/below $145: the top of the zero-growth band ($80-145, judged ~$115). TENTH name to clear all four gates and the first credit bureau (2026-09-05): Q2 IN NARROW with EWS WIDE inside - The Work Number's contributory database ran 330M -> 813M records across nine vintages, active records +11%/yr THROUGH the mortgage trough, EWS OI $969M at the 2023 trough vs $1,001M at the 2021 crest, and the best attacker (Experian Verify) is at 1/3 scale. Judged OE $700M (decade series contains -$136M breach year and a $70M trough); judged yield 3.37%; THE LOUDEST FACT: the best year in the filed decade yields 5.08% at this price, below the Treasury. THE SOFT JOINT, stated: the volume cycle sits at a 30-YEAR TROUGH while the record base compounds - if mortgage volumes merely normalize, the floor's +6.6%/yr needs no price increases at all. The run judged that growth non-creditable against +1.5%/yr realised; that judgment is where it could be wrong. Source: Test Runs/2026-09-05 Run - EFX Equifax.md"
   },
   {
    "id": "EFX-ranks-band",
@@ -386,8 +386,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 77,
-   "active": true,
-   "label": "EFX at/below $77: the top of the floor band ($43-77, judged ~$60). Watch the FY2025 10-K's total silence on FHFA score choice/VantageScore/FICO-direct while peers file it; the guidance ratchet and loud [E4-29]; and the condition-2 buyback flag ($927M at $231.48 avg, CP-funded at the margin, 24% underwater). A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). EFX at/below $77: the top of the floor band ($43-77, judged ~$60). Watch the FY2025 10-K's total silence on FHFA score choice/VantageScore/FICO-direct while peers file it; the guidance ratchet and loud [E4-29]; and the condition-2 buyback flag ($927M at $231.48 avg, CP-funded at the margin, 24% underwater). A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "CMG-rerun-band",
@@ -395,8 +395,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 25,
-   "active": true,
-   "label": "CMG at/below $25: the run's pre-committed re-look (~$25-26 = the value with the full visible unit runway credited). ELEVENTH name to clear all four gates (2026-09-05, by a 100-second commit margin over CTAS): Q2 IN NARROW on the best [E4-55] physical series in the cohort - transactions filed split from price every year, never withdrawn, both collapses displayed. THE UNIQUE FACT: the only name in queue history whose floor requirement (+6.5-7.6%/yr) sits BELOW its filed delivered growth (units +8.4-8.5%/yr for a decade, internally funded at ~60% cash-on-cash, filed 7,000-box goal). Refused because the record covers an 8-YEAR RUNWAY, not a perpetuity [E4-35, in writing]. Judged OE $1,400M, yield 2.99%, value ~$16-23 judged ~$21 vs $36.96. THE THESIS-BREAKER, named: CAVA's 2026 traffic +6.8/+5.3 vs CMG's +1.0 - the attacker is taking the marginal customer. Source: Test Runs/2026-09-05 Run - CMG Chipotle.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). CMG at/below $25: the run's pre-committed re-look (~$25-26 = the value with the full visible unit runway credited). ELEVENTH name to clear all four gates (2026-09-05, by a 100-second commit margin over CTAS): Q2 IN NARROW on the best [E4-55] physical series in the cohort - transactions filed split from price every year, never withdrawn, both collapses displayed. THE UNIQUE FACT: the only name in queue history whose floor requirement (+6.5-7.6%/yr) sits BELOW its filed delivered growth (units +8.4-8.5%/yr for a decade, internally funded at ~60% cash-on-cash, filed 7,000-box goal). Refused because the record covers an 8-YEAR RUNWAY, not a perpetuity [E4-35, in writing]. Judged OE $1,400M, yield 2.99%, value ~$16-23 judged ~$21 vs $36.96. THE THESIS-BREAKER, named: CAVA's 2026 traffic +6.8/+5.3 vs CMG's +1.0 - the attacker is taking the marginal customer. Source: Test Runs/2026-09-05 Run - CMG Chipotle.md"
   },
   {
    "id": "CMG-ranks-band",
@@ -404,8 +404,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 12,
-   "active": true,
-   "label": "CMG at/below $12: the top of the floor band ($8-12). Watch the buyback condition-2 flag (FY2024 at $57.21 avg = 2.6-2.9x judged zero-growth value; H1-2026 still above the band with cash drained to $228M), the Stradford suit, and the NYC second audit. A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). CMG at/below $12: the top of the floor band ($8-12). Watch the buyback condition-2 flag (FY2024 at $57.21 avg = 2.6-2.9x judged zero-growth value; H1-2026 still above the band with cash drained to $228M), the Stradford suit, and the NYC second audit. A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "CTAS-rerun-band",
@@ -413,8 +413,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 85,
-   "active": true,
-   "label": "CTAS at/below $85: the top of the zero-growth band ($70-85, judged ~$75). TWELFTH name to clear all four gates (2026-09-05): Q2 IN NARROW-WIDENING on DENSITY, not price - margin ladder CTAS 23.1% / UNF 7.6% / VSTS 2.4% on identical formulas, and the ALG inversion REFUTED by the attackers' own filings (VSTS with a 20-point price umbrella LOST volume, took covenant relief, burned three CEOs). First queue name whose filed record exceeds the floor's required growth on every window (OE +9.7%/5yr, +14.8%/8yr) - failed on the [E4-44]/[E2-63] decomposition: the decade was revenue 1.74x TIMES margin 1.57x and the margin lever is arithmetically near-spent. FLIP CONDITION stated in the file: honest perpetual ~8% instead of ~6.5-7% re-runs it. NON-PRICE TRIGGER THAT OUTRANKS THIS ALERT: the $5.5bn UniFirst acquisition (signed 2026-03-10, UNF holders approved, FTC SECOND REQUEST pending, ~$5.2bn consolidated debt planned) - THE FILE RE-OPENS AT CLOSE. Source: Test Runs/2026-09-05 Run - CTAS Cintas.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). CTAS at/below $85: the top of the zero-growth band ($70-85, judged ~$75). TWELFTH name to clear all four gates (2026-09-05): Q2 IN NARROW-WIDENING on DENSITY, not price - margin ladder CTAS 23.1% / UNF 7.6% / VSTS 2.4% on identical formulas, and the ALG inversion REFUTED by the attackers' own filings (VSTS with a 20-point price umbrella LOST volume, took covenant relief, burned three CEOs). First queue name whose filed record exceeds the floor's required growth on every window (OE +9.7%/5yr, +14.8%/8yr) - failed on the [E4-44]/[E2-63] decomposition: the decade was revenue 1.74x TIMES margin 1.57x and the margin lever is arithmetically near-spent. FLIP CONDITION stated in the file: honest perpetual ~8% instead of ~6.5-7% re-runs it. NON-PRICE TRIGGER THAT OUTRANKS THIS ALERT: the $5.5bn UniFirst acquisition (signed 2026-03-10, UNF holders approved, FTC SECOND REQUEST pending, ~$5.2bn consolidated debt planned) - THE FILE RE-OPENS AT CLOSE. Source: Test Runs/2026-09-05 Run - CTAS Cintas.md"
   },
   {
    "id": "CTAS-ranks-band",
@@ -422,8 +422,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 44,
-   "active": true,
-   "label": "CTAS at/below $44: the top of the floor band ($36-44, judged $40). Watch the [E4-55] absence finding ('more than one million businesses' verbatim-frozen for a decade; no customer count, retention or price/volume split ever filed) and the UniFirst integration debt. A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). CTAS at/below $44: the top of the floor band ($36-44, judged $40). Watch the [E4-55] absence finding ('more than one million businesses' verbatim-frozen for a decade; no customer count, retention or price/volume split ever filed) and the UniFirst integration debt. A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "WMT-rerun-band",
@@ -449,8 +449,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 140,
-   "active": true,
-   "label": "GRMN at/below $140: the run's pre-committed re-open (top of the $90-140 band, judged ~$125, net cash $22.66/sh credited). FOURTEENTH name to clear all four gates (2026-09-06). Q2 IN NARROW-WIDENING, with BOTH operator priors inverted: fitness+outdoor is 75.5% of segment OI and is WIDENING (fitness margin 9.4% -> 30.8% since 2022) while AVIATION - the expected franchise - is NARROWING (34.4% in 2019 -> 26.1%). Judged OE $1,050M; yield 1.24-2.44%, below the bond on every construction INCLUDING the best year in company history. Second name after CTAS whose filed decade (+8.52%/yr) EXCEEDS its required rate (+7.86%) - refused on the decomposition: growth was units 1.23x x real rev/unit 1.45x x inflation 1.34x, and the rev-per-unit lever was the one-time $100-PND-to-$600-watch migration, COMPLETE, with its last three filed years reading -1.8%. CATALYST: Honeywell's Q3-2026 aerospace spin-off puts stand-alone avionics financials on the filing rung for the first time. Source: Test Runs/2026-09-06 Run - GRMN Garmin.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). GRMN at/below $140: the run's pre-committed re-open (top of the $90-140 band, judged ~$125, net cash $22.66/sh credited). FOURTEENTH name to clear all four gates (2026-09-06). Q2 IN NARROW-WIDENING, with BOTH operator priors inverted: fitness+outdoor is 75.5% of segment OI and is WIDENING (fitness margin 9.4% -> 30.8% since 2022) while AVIATION - the expected franchise - is NARROWING (34.4% in 2019 -> 26.1%). Judged OE $1,050M; yield 1.24-2.44%, below the bond on every construction INCLUDING the best year in company history. Second name after CTAS whose filed decade (+8.52%/yr) EXCEEDS its required rate (+7.86%) - refused on the decomposition: growth was units 1.23x x real rev/unit 1.45x x inflation 1.34x, and the rev-per-unit lever was the one-time $100-PND-to-$600-watch migration, COMPLETE, with its last three filed years reading -1.8%. CATALYST: Honeywell's Q3-2026 aerospace spin-off puts stand-alone avionics financials on the filing rung for the first time. Source: Test Runs/2026-09-06 Run - GRMN Garmin.md"
   },
   {
    "id": "GRMN-ranks-band",
@@ -458,8 +458,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 90,
-   "active": true,
-   "label": "GRMN at/below $90: the bottom of the zero-growth band. Watch the auto-OEM segment - six consecutive loss years, ~-$283M cumulative, invisible inside the blended 18.5% ROE ([E2-56]'s Pro-Am effect in exact form) - and the open [E5-30]/[E3-48] guidance question (earnings releases were not swept). A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). GRMN at/below $90: the bottom of the zero-growth band. Watch the auto-OEM segment - six consecutive loss years, ~-$283M cumulative, invisible inside the blended 18.5% ROE ([E2-56]'s Pro-Am effect in exact form) - and the open [E5-30]/[E3-48] guidance question (earnings releases were not swept). A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "MSFT-rerun-band",
@@ -512,8 +512,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 260,
-   "active": true,
-   "label": "AVGO at/below $260: the top of the judged band ($100-260, centre ~$180). EIGHTEENTH name to clear all four gates (2026-09-06). THE LARGEST (c) INVERSION THE QUEUE HAS RECORDED: D&A of $8,775M is 14.1x capex of $623M, so THE D&A END IS THE CONSERVATIVE END here - the reverse of an ordinary filer, and the CVX purchase-accounting finding at its extreme. The acquisition amortisation renews nothing that $10,977M of R&D above the OCF line does not already renew. VMware perimeter: Broadcom FILED the pro forma - combined revenue +8.2% and combined net income MINUS 21.2% - and two years after paying $86.3bn combined owner earnings are 7.3% above where the two companies stood together. THE STANDING COUNTER: owner earnings compounded ~32%/yr for nine and three-quarter years ($2,009M to $30,921M), and AVGO took a business earning a 15.1% operating margin and made it earn 76.8%. The floor is reachable ONLY by stacking two generous assumptions - annualising the peak quarter AND assuming 7.26% perpetual growth from it. Source: Test Runs/2026-09-06 Run - AVGO Broadcom.md DEAL CHECK READ AND CLEARED 2026-09-12: three S-4s since the FY2025 10-K, and the text is EXCHANGE-OFFER representation language ('will be acquired in the ordinary course of its business ... no arrangement or understanding with anyone to distribute'). No Merger Agreement or Agreement and Plan of Merger appears. Consistent with a securities exchange offer, not a takeover - THE BAND STANDS. Recorded because the same flag on ACLS was a real merger."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). AVGO at/below $260: the top of the judged band ($100-260, centre ~$180). EIGHTEENTH name to clear all four gates (2026-09-06). THE LARGEST (c) INVERSION THE QUEUE HAS RECORDED: D&A of $8,775M is 14.1x capex of $623M, so THE D&A END IS THE CONSERVATIVE END here - the reverse of an ordinary filer, and the CVX purchase-accounting finding at its extreme. The acquisition amortisation renews nothing that $10,977M of R&D above the OCF line does not already renew. VMware perimeter: Broadcom FILED the pro forma - combined revenue +8.2% and combined net income MINUS 21.2% - and two years after paying $86.3bn combined owner earnings are 7.3% above where the two companies stood together. THE STANDING COUNTER: owner earnings compounded ~32%/yr for nine and three-quarter years ($2,009M to $30,921M), and AVGO took a business earning a 15.1% operating margin and made it earn 76.8%. The floor is reachable ONLY by stacking two generous assumptions - annualising the peak quarter AND assuming 7.26% perpetual growth from it. Source: Test Runs/2026-09-06 Run - AVGO Broadcom.md DEAL CHECK READ AND CLEARED 2026-09-12: three S-4s since the FY2025 10-K, and the text is EXCHANGE-OFFER representation language ('will be acquired in the ordinary course of its business ... no arrangement or understanding with anyone to distribute'). No Merger Agreement or Agreement and Plan of Merger appears. Consistent with a securities exchange offer, not a takeover - THE BAND STANDS. Recorded because the same flag on ACLS was a real merger."
   },
   {
    "id": "AVGO-ranks-band",
@@ -521,8 +521,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 180,
-   "active": true,
-   "label": "AVGO at/below $180: the judged centre. Watch two disclosure facts: Broadcom named Apple at ~20% of revenue in the FY2023 10-K and WITHDREW both the name and the figure in FY2024 - in the same document where top-five concentration rose 35% to 40% [E2-49]; and the CEO's $607M-at-maximum award vests against 'AI Revenue', a metric appearing ZERO times in any 10-K or 10-Q, existing only in furnished 8-Ks that management also guides on quarterly [E4-52]. A ping is a prompt to re-run the gates, never an action. DEAL CHECK READ AND CLEARED 2026-09-12: three S-4s since the FY2025 10-K, and the text is EXCHANGE-OFFER representation language ('will be acquired in the ordinary course of its business ... no arrangement or understanding with anyone to distribute'). No Merger Agreement or Agreement and Plan of Merger appears. Consistent with a securities exchange offer, not a takeover - THE BAND STANDS. Recorded because the same flag on ACLS was a real merger."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). AVGO at/below $180: the judged centre. Watch two disclosure facts: Broadcom named Apple at ~20% of revenue in the FY2023 10-K and WITHDREW both the name and the figure in FY2024 - in the same document where top-five concentration rose 35% to 40% [E2-49]; and the CEO's $607M-at-maximum award vests against 'AI Revenue', a metric appearing ZERO times in any 10-K or 10-Q, existing only in furnished 8-Ks that management also guides on quarterly [E4-52]. A ping is a prompt to re-run the gates, never an action. DEAL CHECK READ AND CLEARED 2026-09-12: three S-4s since the FY2025 10-K, and the text is EXCHANGE-OFFER representation language ('will be acquired in the ordinary course of its business ... no arrangement or understanding with anyone to distribute'). No Merger Agreement or Agreement and Plan of Merger appears. Consistent with a securities exchange offer, not a takeover - THE BAND STANDS. Recorded because the same flag on ACLS was a real merger."
   },
   {
    "id": "TXN-rerun-band",
@@ -548,8 +548,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 50,
-   "active": true,
-   "label": "KLAC at/below $50: the top of the zero-growth band (conservative ~$22, judged ~$38, optimistic ~$50). TWENTIETH name to clear all four gates (2026-09-07), and on the [E2-43]/[E2-44] evidence the best business the queue has run. Q2 IN NARROW, the strongest narrow in queue history: the ACLS test passes at the SEGMENT level, mix-free - Semiconductor Process Control gross margin ROSE 63.89% to 64.46% while that segment's revenue FELL 6.3% in FY2024, cross-checked to the dollar across two vintages. Judged yield 1.07% (band 0.61-1.44%) against 5.24%, below the bond on every window and both capex ends INCLUDING the best year KLA has ever filed. THE STANDING COUNTER: KLA's own filed owner-earnings CAGR EXCEEDS the rate the floor demands on every window from eight to fifteen years (+15.4%/8yr, +17.6%/10yr, +11.3%/15yr against 8.93% required) - refused on three bounds: [E4-38] terminal-date selection (every window ends at the top of the wave), [E4-44]/[E2-63] decomposition (the margin lever is nearly spent at a 41.7% operating margin, the highest in the row), and [E4-35]'s base rate. Source: Test Runs/2026-09-07 Run - KLAC KLA.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). KLAC at/below $50: the top of the zero-growth band (conservative ~$22, judged ~$38, optimistic ~$50). TWENTIETH name to clear all four gates (2026-09-07), and on the [E2-43]/[E2-44] evidence the best business the queue has run. Q2 IN NARROW, the strongest narrow in queue history: the ACLS test passes at the SEGMENT level, mix-free - Semiconductor Process Control gross margin ROSE 63.89% to 64.46% while that segment's revenue FELL 6.3% in FY2024, cross-checked to the dollar across two vintages. Judged yield 1.07% (band 0.61-1.44%) against 5.24%, below the bond on every window and both capex ends INCLUDING the best year KLA has ever filed. THE STANDING COUNTER: KLA's own filed owner-earnings CAGR EXCEEDS the rate the floor demands on every window from eight to fifteen years (+15.4%/8yr, +17.6%/10yr, +11.3%/15yr against 8.93% required) - refused on three bounds: [E4-38] terminal-date selection (every window ends at the top of the wave), [E4-44]/[E2-63] decomposition (the margin lever is nearly spent at a 41.7% operating margin, the highest in the row), and [E4-35]'s base rate. Source: Test Runs/2026-09-07 Run - KLAC KLA.md"
   },
   {
    "id": "KLAC-ranks-band",
@@ -557,8 +557,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 25,
-   "active": true,
-   "label": "KLAC at/below $25: the floor band ($11-25, judged ~$20). Watch the four ABSENCES that cap the class at NARROW: no service gross profit in six vintages (the profit-mix test cannot be run), no physical or unit series of any kind [E4-55] (worse than ACLS, which filed ~3,400 tools), no ASP or price range (the instrument that cleared ACLS does not exist here), and no process-control share figure in KLA's filing or any of seven peers'. Also: [E3-48] fires with quarterly EPS guidance beaten 16 of 16 above its own midpoint, and [E5-08](2) fails hard - the smallest buyback in eleven years at the lowest price, the largest near the cycle top on fresh debt. A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). KLAC at/below $25: the floor band ($11-25, judged ~$20). Watch the four ABSENCES that cap the class at NARROW: no service gross profit in six vintages (the profit-mix test cannot be run), no physical or unit series of any kind [E4-55] (worse than ACLS, which filed ~3,400 tools), no ASP or price range (the instrument that cleared ACLS does not exist here), and no process-control share figure in KLA's filing or any of seven peers'. Also: [E3-48] fires with quarterly EPS guidance beaten 16 of 16 above its own midpoint, and [E5-08](2) fails hard - the smallest buyback in eleven years at the lowest price, the largest near the cycle top on fresh debt. A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "AMAT-rerun-band",
@@ -566,8 +566,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 163,
-   "active": true,
-   "label": "AMAT at/below $163: the top of the zero-growth band (conservative ~$77, judged ~$119, optimistic ~$163). TWENTY-FIRST name to clear all four gates (2026-09-07), and the CHEAPEST of the three equipment names run: -3.99 points vs KLAC's -4.17, at 2.80x its band vs KLA's 3.9x. Yield 1.254% (band 0.767-2.136%) against 5.24%; the floor needs +8.75%/yr perpetual against a filed 18-year owner-earnings CAGR of 5.12%. THE FINDING THAT KILLED THE SERVICE-ANNUITY CLAIM, and AMAT is the FIRST equipment name where the test could be run at all: it adopted ASU 2023-07 in Q4 FY2025, so Note 15 prints segment gross profit - AGS gross margin 33.4% against Semiconductor Systems' 54.2%, and AGS is 22.5% of revenue but only 15.5% of gross profit. THE ANNUITY IS THE LOW-MARGIN HALF. Source: Test Runs/2026-09-07 Run - AMAT Applied Materials.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). AMAT at/below $163: the top of the zero-growth band (conservative ~$77, judged ~$119, optimistic ~$163). TWENTY-FIRST name to clear all four gates (2026-09-07), and the CHEAPEST of the three equipment names run: -3.99 points vs KLAC's -4.17, at 2.80x its band vs KLA's 3.9x. Yield 1.254% (band 0.767-2.136%) against 5.24%; the floor needs +8.75%/yr perpetual against a filed 18-year owner-earnings CAGR of 5.12%. THE FINDING THAT KILLED THE SERVICE-ANNUITY CLAIM, and AMAT is the FIRST equipment name where the test could be run at all: it adopted ASU 2023-07 in Q4 FY2025, so Note 15 prints segment gross profit - AGS gross margin 33.4% against Semiconductor Systems' 54.2%, and AGS is 22.5% of revenue but only 15.5% of gross profit. THE ANNUITY IS THE LOW-MARGIN HALF. Source: Test Runs/2026-09-07 Run - AMAT Applied Materials.md"
   },
   {
    "id": "AMAT-ranks-band",
@@ -575,8 +575,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 90,
-   "active": true,
-   "label": "AMAT at/below $90: the [E4-28] floor band ($45-90, judged ~$67). Watch three things. (1) THE COMPETITOR ROW READS AGAINST AMAT: Lam Research names AMAT by name as its 'primary competitor' in both deposition and etch AND out-earns it (35.3% vs 29.9% operating margin), while AMAT names no competitor anywhere in its own 10-K - the reverse of KLA's file, and why a reasonable analyst could write NONE at Q2 rather than NARROW. (2) The mix-free segment pricing test CANNOT be run (segment gross margin exists only for FY2023/24/25, revenue rose in all three), and the consolidated substitute FAILS in three of four filed downturns. (3) A $253M BIS export-controls settlement (2026-02-11) with a SUSPENDED DENIAL ORDER, where the FY2025 10-K said sixty-one days earlier it could not estimate a loss 'if any', with no reserve; DOJ/SEC matters remain open. A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). AMAT at/below $90: the [E4-28] floor band ($45-90, judged ~$67). Watch three things. (1) THE COMPETITOR ROW READS AGAINST AMAT: Lam Research names AMAT by name as its 'primary competitor' in both deposition and etch AND out-earns it (35.3% vs 29.9% operating margin), while AMAT names no competitor anywhere in its own 10-K - the reverse of KLA's file, and why a reasonable analyst could write NONE at Q2 rather than NARROW. (2) The mix-free segment pricing test CANNOT be run (segment gross margin exists only for FY2023/24/25, revenue rose in all three), and the consolidated substitute FAILS in three of four filed downturns. (3) A $253M BIS export-controls settlement (2026-02-11) with a SUSPENDED DENIAL ORDER, where the FY2025 10-K said sixty-one days earlier it could not estimate a loss 'if any', with no reserve; DOJ/SEC matters remain open. A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "CRM-rerun-band",
@@ -602,8 +602,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 75,
-   "active": true,
-   "label": "LRCX at/below $75: the top of the zero-growth band at the sovereign (conservative ~$43, judged ~$54, optimistic ~$75; net cash $1.46/sh credited). TWENTY-THIRD name to clear all four gates (2026-09-07) and the third leg of the equipment cohort. FIRST in the cohort on ex-cash return on operating capital (81.0%) and on incremental return (107.2%), and LAST on the pricing measure - gross margin 50.5% vs KLA 61.3%. Q2 IN NARROW: BOTH cohort tests are unrunnable - one reportable segment (segment gross margin filed 3 years, all rising revenue) and no gross profit filed for the CSBG annuity in seven vintages. A ping is a prompt to re-run the gates, never an action. Source: Test Runs/2026-09-07 Run - LRCX Lam Research.md"
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). LRCX at/below $75: the top of the zero-growth band at the sovereign (conservative ~$43, judged ~$54, optimistic ~$75; net cash $1.46/sh credited). TWENTY-THIRD name to clear all four gates (2026-09-07) and the third leg of the equipment cohort. FIRST in the cohort on ex-cash return on operating capital (81.0%) and on incremental return (107.2%), and LAST on the pricing measure - gross margin 50.5% vs KLA 61.3%. Q2 IN NARROW: BOTH cohort tests are unrunnable - one reportable segment (segment gross margin filed 3 years, all rising revenue) and no gross profit filed for the CSBG annuity in seven vintages. A ping is a prompt to re-run the gates, never an action. Source: Test Runs/2026-09-07 Run - LRCX Lam Research.md"
   },
   {
    "id": "LRCX-floor",
@@ -611,8 +611,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 40,
-   "active": true,
-   "label": "LRCX at/below $40: the top of the [E4-28] floor band ($23-40, judged ~$29). Before acting, check three things. (1) CHINA is 33.8% of revenue at an ALL-TIME HIGH IN DOLLARS ($7,859.8M, +26.7%) - it matches NEITHER cohort pattern, and China is also the source of rare earths whose export controls are suspended only until November 2026. (2) The [E5-08] DIRECTION passes and the LEVEL fails: across eight filed quarters the price rose 4.3x while quarterly buying fell 95% - but the $2.00bn commercial paper programme was enlarged in March 2026 earmarked for repurchases; ANY DRAW ON IT reverses the finding. (3) [E2-44](1) has never once passed clean in eighteen filed years. Source: Test Runs/2026-09-07 Run - LRCX Lam Research.md"
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). LRCX at/below $40: the top of the [E4-28] floor band ($23-40, judged ~$29). Before acting, check three things. (1) CHINA is 33.8% of revenue at an ALL-TIME HIGH IN DOLLARS ($7,859.8M, +26.7%) - it matches NEITHER cohort pattern, and China is also the source of rare earths whose export controls are suspended only until November 2026. (2) The [E5-08] DIRECTION passes and the LEVEL fails: across eight filed quarters the price rose 4.3x while quarterly buying fell 95% - but the $2.00bn commercial paper programme was enlarged in March 2026 earmarked for repurchases; ANY DRAW ON IT reverses the finding. (3) [E2-44](1) has never once passed clean in eighteen filed years. Source: Test Runs/2026-09-07 Run - LRCX Lam Research.md"
   },
   {
    "id": "SHOP-floor-band",
@@ -674,8 +674,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 50.77,
-   "active": true,
-   "label": "CL at/below $50.77: the E4-28 floor is met on g = 3.0% (hard-currency pricing ~1%/yr plus the ~1.1%/yr buyback), the growth the filed record actually supports. Q1-Q4 all IN on 2026-09-18; Q5 failed the floor by 0.65 points at $87.73. Prompt for a FULL v4.1 re-run, not a purchase. VOID if any Q2 falsifier has fired: global toothpaste share below 39.4%; a third and fourth consecutive year of negative North American net selling price; advertising above 14.0% of sales with share still below 41.3%; two consecutive negative worldwide volume years. Source: Test Runs/2026-09-13 Run - CL Colgate-Palmolive.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). CL at/below $50.77: the E4-28 floor is met on g = 3.0% (hard-currency pricing ~1%/yr plus the ~1.1%/yr buyback), the growth the filed record actually supports. Q1-Q4 all IN on 2026-09-18; Q5 failed the floor by 0.65 points at $87.73. Prompt for a FULL v4.1 re-run, not a purchase. VOID if any Q2 falsifier has fired: global toothpaste share below 39.4%; a third and fourth consecutive year of negative North American net selling price; advertising above 14.0% of sales with share still below 41.3%; two consecutive negative worldwide volume years. Source: Test Runs/2026-09-13 Run - CL Colgate-Palmolive.md."
   },
   {
    "id": "CL-rerun-band",
@@ -683,8 +683,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 75.61,
-   "active": true,
-   "label": "CL at/below $75.61: the E4-28 floor is met only if the full realised 5.3%/yr decade growth in owner earnings per share is granted in perpetuity. Prompt for a FULL v4.1 re-run in which that growth assumption is re-tested against the then-current toothpaste-share and worldwide-volume series before it is spent. Owner earnings 5-yr $2,833M; re-derive the bands at the FY2026 10-K (expected February 2027)."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). CL at/below $75.61: the E4-28 floor is met only if the full realised 5.3%/yr decade growth in owner earnings per share is granted in perpetuity. Prompt for a FULL v4.1 re-run in which that growth assumption is re-tested against the then-current toothpaste-share and worldwide-volume series before it is spent. Owner earnings 5-yr $2,833M; re-derive the bands at the FY2026 10-K (expected February 2027)."
   },
   {
    "id": "SPGI-floor-band",
@@ -728,8 +728,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 82,
-   "active": true,
-   "label": "GFF at/below $82: the E4-28 floor is met on $253.8M of owner earnings (three-year continuing mean FY2023-25 from the August 2026 recast, capex end, plus pro forma interest) only if 2.5% perpetual growth is granted, growth the last three filed years do not show (continuing owner earnings about -4.6%/yr). Q1-Q4 all IN on 2026-09-19 (Q2 NARROW: Clopay door margin ~30% vs Overhead Door ~16%); Q5 quit on at $93.22 (yield 6.41% vs 5.34%; the floor needs 3.4% forever). Prompt for a FULL v4.1 re-run in which that growth is re-tested before it is spent, not a purchase. VOID if a Q2 falsifier has fired: price/mix negative in a fiscal year of lower material cost; continuing gross margin below 42% two years running; the Home Depot or Menards exclusivity sentence removed from the 10-K; price/volume disclosure withdrawn. Any acquisition outside doors reopens the file at Q3 before any price is read. Re-derive at the FY2026 10-K (expected mid-November 2026), the first annual report on the continuing perimeter. Source: Test Runs/2026-09-19 Run - GFF Griffon.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). GFF at/below $82: the E4-28 floor is met on $253.8M of owner earnings (three-year continuing mean FY2023-25 from the August 2026 recast, capex end, plus pro forma interest) only if 2.5% perpetual growth is granted, growth the last three filed years do not show (continuing owner earnings about -4.6%/yr). Q1-Q4 all IN on 2026-09-19 (Q2 NARROW: Clopay door margin ~30% vs Overhead Door ~16%); Q5 quit on at $93.22 (yield 6.41% vs 5.34%; the floor needs 3.4% forever). Prompt for a FULL v4.1 re-run in which that growth is re-tested before it is spent, not a purchase. VOID if a Q2 falsifier has fired: price/mix negative in a fiscal year of lower material cost; continuing gross margin below 42% two years running; the Home Depot or Menards exclusivity sentence removed from the 10-K; price/volume disclosure withdrawn. Any acquisition outside doors reopens the file at Q3 before any price is read. Re-derive at the FY2026 10-K (expected mid-November 2026), the first annual report on the continuing perimeter. Source: Test Runs/2026-09-19 Run - GFF Griffon.md"
   },
   {
    "id": "GFF-floor-band",
@@ -737,8 +737,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 62,
-   "active": true,
-   "label": "GFF at/below $62: the E4-28 floor is met on $253.8M of owner earnings with zero growth (the filed record), JV stakes and PIK notes at 75% of carrying value. A ping is a prompt to re-run the gates, never an action; recompute both bands at the rate of the day and at the FY2026 10-K. The capital-allocation flag is live (Hunter/AMES Pro-Am; recent buybacks above value): pre-committed SIZED DOWN if it ever clears. tools/run.py reads the pre-disposal perimeter for this filer (the recast is an 8-K) and overstates owner earnings by ~$50M a year; do not re-derive from it. Source: Test Runs/2026-09-19 Run - GFF Griffon.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). GFF at/below $62: the E4-28 floor is met on $253.8M of owner earnings with zero growth (the filed record), JV stakes and PIK notes at 75% of carrying value. A ping is a prompt to re-run the gates, never an action; recompute both bands at the rate of the day and at the FY2026 10-K. The capital-allocation flag is live (Hunter/AMES Pro-Am; recent buybacks above value): pre-committed SIZED DOWN if it ever clears. tools/run.py reads the pre-disposal perimeter for this filer (the recast is an 8-K) and overstates owner earnings by ~$50M a year; do not re-derive from it. Source: Test Runs/2026-09-19 Run - GFF Griffon.md"
   },
   {
    "id": "CB-rerun-band",
@@ -746,8 +746,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 310,
-   "active": true,
-   "label": "CB at/below $310: the [E4-28] ~10% floor is met ONLY on 2025's record pre-tax operating income of $12,000M, which is above the normalised base and which management's own words call a cyclical peak (rate decreases in Large Risk and E&S property in the FY2025 10-K; soft conditions spreading to casualty in the Q2 2026 release). All four business gates IN on 2026-09-19 (Q2 NARROW: current-accident-year combined ratio including catastrophes below 100 in ten of ten years, worst 97.9; cost of float -8.58% over five years against Berkshire's -3.6%; third of seven on the honest peer basis). A prompt for a FULL v4.1 re-run in which that cyclical peak is re-tested before it is spent, NOT a purchase. VOID if any falsifier has fired: the current-accident-year combined ratio including catastrophes exceeds 100 in a year that is not a named 1-in-100 catastrophe year; long-tail prior-period development turns net adverse two years running (it was +$110M favourable in 2025, +$8M in 2024); North America Commercial Liability adverse development exceeds $500M in a year; the five-year cost of float turns positive. Any acquisition outside insurance or above $3bn reopens the file at Q3 before any price is read. A CEO succession announcement reopens Q2 ([E4-23] is live and unanswered). Re-derive at the FY2026 10-K, expected late February 2027. Source: Test Runs/2026-09-19 Run - CB Chubb.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). CB at/below $310: the [E4-28] ~10% floor is met ONLY on 2025's record pre-tax operating income of $12,000M, which is above the normalised base and which management's own words call a cyclical peak (rate decreases in Large Risk and E&S property in the FY2025 10-K; soft conditions spreading to casualty in the Q2 2026 release). All four business gates IN on 2026-09-19 (Q2 NARROW: current-accident-year combined ratio including catastrophes below 100 in ten of ten years, worst 97.9; cost of float -8.58% over five years against Berkshire's -3.6%; third of seven on the honest peer basis). A prompt for a FULL v4.1 re-run in which that cyclical peak is re-tested before it is spent, NOT a purchase. VOID if any falsifier has fired: the current-accident-year combined ratio including catastrophes exceeds 100 in a year that is not a named 1-in-100 catastrophe year; long-tail prior-period development turns net adverse two years running (it was +$110M favourable in 2025, +$8M in 2024); North America Commercial Liability adverse development exceeds $500M in a year; the five-year cost of float turns positive. Any acquisition outside insurance or above $3bn reopens the file at Q3 before any price is read. A CEO succession announcement reopens Q2 ([E4-23] is live and unanswered). Re-derive at the FY2026 10-K, expected late February 2027. Source: Test Runs/2026-09-19 Run - CB Chubb.md"
   },
   {
    "id": "CB-floor-band",
@@ -755,8 +755,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 255,
-   "active": true,
-   "label": "CB at/below $255: the [E4-28] floor is met on the FAIRLY NORMALISED base of about $9,800M of pre-tax operating income - the hard-market margin taken out (expense ratio held at 26.6, catastrophe load at the ten-year mean, current-accident-year loss ratio at the five-year mean), no growth granted, and the reserve cushion at zero. The band where the arithmetic works on the filed record rather than on the cycle. A ping is a prompt to re-run the gates, never an action; recompute both bands at the rate of the day and at the FY2026 10-K. The capital-allocation flag is LIVE (repurchases at 1.43x, 1.69x and 1.50x year-end book in 2023-25 and 2.5x tangible book in H1 2026, with no published repurchase condition where [E5-25] shows Berkshire publishing both as numbers), so if this name ever clears it is PRE-COMMITTED SIZED DOWN, and [E2-62] denies this balance sheet the concentration licence Berkshire's has. Note for any future re-derivation: no owner-earnings number exists for this filer - the sector method's two components plus a judgment govern, and an OCF-based yield would read 9.45% and be wrong by half. Source: Test Runs/2026-09-19 Run - CB Chubb.md"
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). CB at/below $255: the [E4-28] floor is met on the FAIRLY NORMALISED base of about $9,800M of pre-tax operating income - the hard-market margin taken out (expense ratio held at 26.6, catastrophe load at the ten-year mean, current-accident-year loss ratio at the five-year mean), no growth granted, and the reserve cushion at zero. The band where the arithmetic works on the filed record rather than on the cycle. A ping is a prompt to re-run the gates, never an action; recompute both bands at the rate of the day and at the FY2026 10-K. The capital-allocation flag is LIVE (repurchases at 1.43x, 1.69x and 1.50x year-end book in 2023-25 and 2.5x tangible book in H1 2026, with no published repurchase condition where [E5-25] shows Berkshire publishing both as numbers), so if this name ever clears it is PRE-COMMITTED SIZED DOWN, and [E2-62] denies this balance sheet the concentration licence Berkshire's has. Note for any future re-derivation: no owner-earnings number exists for this filer - the sector method's two components plus a judgment govern, and an OCF-based yield would read 9.45% and be wrong by half. Source: Test Runs/2026-09-19 Run - CB Chubb.md"
   },
   {
    "id": "ACNB-rerun-band",
@@ -764,8 +764,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 58.7,
-   "active": true,
-   "label": "ACNB at/below $58.70: the ~10% [E4-28] floor is met on the CENTRE of the earning-power range (pre-tax owner earnings ~$47.8M plus 2% growth). A prompt for a FULL RE-RUN, not a purchase. Source: Test Runs/2026-09-19 Run - ACNB ACNB Corporation.md. VOID if any Q6 falsifier fires - chiefly the cost-of-funding advantage over the 56-bank FDIC market median falling below 20bp for two consecutive quarters, noninterest-bearing deposits below 20% of deposits, net charge-offs above 0.30%, the CRE basket above 300% of Bank total risk-based capital, or a second provision reversal above 5% of pre-tax income."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). ACNB at/below $58.70: the ~10% [E4-28] floor is met on the CENTRE of the earning-power range (pre-tax owner earnings ~$47.8M plus 2% growth). A prompt for a FULL RE-RUN, not a purchase. Source: Test Runs/2026-09-19 Run - ACNB ACNB Corporation.md. VOID if any Q6 falsifier fires - chiefly the cost-of-funding advantage over the 56-bank FDIC market median falling below 20bp for two consecutive quarters, noninterest-bearing deposits below 20% of deposits, net charge-offs above 0.30%, the CRE basket above 300% of Bank total risk-based capital, or a second provision reversal above 5% of pre-tax income."
   },
   {
    "id": "ACNB-floor-band",
@@ -773,8 +773,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 51.5,
-   "active": true,
-   "label": "ACNB at/below $51.50: the ~10% [E4-28] floor is met at the BOTTOM BOUNDARY of the earning-power range, which is the end [E5-34] requires (ex-accretion FY2025 pro-forma, pre-tax owner earnings ~$41.9M plus 2% growth). Still a prompt for a full re-run, not a purchase; the capital-allocation flag is live and pre-commits SIZED DOWN. Same VOID conditions as ACNB-rerun-band."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). ACNB at/below $51.50: the ~10% [E4-28] floor is met at the BOTTOM BOUNDARY of the earning-power range, which is the end [E5-34] requires (ex-accretion FY2025 pro-forma, pre-tax owner earnings ~$41.9M plus 2% growth). Still a prompt for a full re-run, not a purchase; the capital-allocation flag is live and pre-commits SIZED DOWN. Same VOID conditions as ACNB-rerun-band."
   },
   {
    "id": "JPM-floor-band",
@@ -818,8 +818,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 60.34,
-   "active": true,
-   "label": "CHD at/below $60.34: the E4-28 floor is met at g = 4.0% (the filed organic sales rate 2016-2025, volume +23.4% and price/mix +20.0%, and the growth of five-year owner earnings 2016-20 to 2021-25) on the five-year capex-end owner earnings of $858.8M and 237,203,907 cover shares. Q1-Q4 all IN on 2026-09-26 (Q2 NARROW); Q5 quit on at $96.38 (yield 3.76-4.14% against a 5.49% sovereign, expectancy 7.8-9.1%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (growth-target flag, acquisition habit and E5-08(2) capital-allocation flag live). VOID if any Q2 falsifier has fired: two consecutive years of negative consolidated product volumes; price/mix negative two years running with promotion named as the cause; pre-tax return on operating capital including goodwill and intangibles, ex-items, below 14% two years running; a further purchased trade-name impairment of $100M or more or a third purchase exited at a loss; Walmart above 25% of net sales or the top four above 50%. Source: Test Runs/2026-09-26 Run - CHD Church & Dwight.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). CHD at/below $60.34: the E4-28 floor is met at g = 4.0% (the filed organic sales rate 2016-2025, volume +23.4% and price/mix +20.0%, and the growth of five-year owner earnings 2016-20 to 2021-25) on the five-year capex-end owner earnings of $858.8M and 237,203,907 cover shares. Q1-Q4 all IN on 2026-09-26 (Q2 NARROW); Q5 quit on at $96.38 (yield 3.76-4.14% against a 5.49% sovereign, expectancy 7.8-9.1%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (growth-target flag, acquisition habit and E5-08(2) capital-allocation flag live). VOID if any Q2 falsifier has fired: two consecutive years of negative consolidated product volumes; price/mix negative two years running with promotion named as the cause; pre-tax return on operating capital including goodwill and intangibles, ex-items, below 14% two years running; a further purchased trade-name impairment of $100M or more or a third purchase exited at a loss; Walmart above 25% of net sales or the top four above 50%. Source: Test Runs/2026-09-26 Run - CHD Church & Dwight.md."
   },
   {
    "id": "CHD-rerun-band",
@@ -827,8 +827,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 80.67,
-   "active": true,
-   "label": "CHD at/below $80.67: the E4-28 floor is met only if the full 4.7%/yr per-share rate (4.0% organic plus about 0.78%/yr share-count decline) is granted in perpetuity on the three-year depreciation-end owner earnings ($1,014.2M). Prompt for a FULL v4.1 re-run in which that rate is re-tested against the then-current volume and price/mix series before it is spent. Re-derive both CHD bands on the 2026 10-K (about February 2027)."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). CHD at/below $80.67: the E4-28 floor is met only if the full 4.7%/yr per-share rate (4.0% organic plus about 0.78%/yr share-count decline) is granted in perpetuity on the three-year depreciation-end owner earnings ($1,014.2M). Prompt for a FULL v4.1 re-run in which that rate is re-tested against the then-current volume and price/mix series before it is spent. Re-derive both CHD bands on the 2026 10-K (about February 2027)."
   },
   {
    "id": "UNP-floor-band",
@@ -854,8 +854,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 81.3,
-   "active": true,
-   "label": "JKHY at/below $81.30: the E4-28 floor is met at g = 3.2% (five-year owner earnings 2016-20 to 2021-25, capex end; revenue 7.5% a year FY2009-2026 but owner earnings slower) on the three-year capex-end owner earnings of $387.6M and 70,112,608 cover shares. Q1-Q4 all IN on 2026-09-27 (Q2 NARROW, flat to narrowing); Q5 quit on at $147.79 (yield 3.74-4.21% against a 5.49% sovereign, expectancy 6.9-9.2%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag live: FY2026 buybacks at an average $152, above the run's $80-$125 range). VOID if any Q2 falsifier has fired: contract assets (client incentives) above 8% of revenue or growing faster than revenue in both FY2027 and FY2028; core banks below 20% or core credit unions below 15% of the filer's market count, or both shares falling two 10-Ks running; pre-tax return on operating capital ex goodwill below 30% for two years; GAAP operating margin below 21%. Source: Test Runs/2026-09-27 Run - JKHY Jack Henry.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). JKHY at/below $81.30: the E4-28 floor is met at g = 3.2% (five-year owner earnings 2016-20 to 2021-25, capex end; revenue 7.5% a year FY2009-2026 but owner earnings slower) on the three-year capex-end owner earnings of $387.6M and 70,112,608 cover shares. Q1-Q4 all IN on 2026-09-27 (Q2 NARROW, flat to narrowing); Q5 quit on at $147.79 (yield 3.74-4.21% against a 5.49% sovereign, expectancy 6.9-9.2%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag live: FY2026 buybacks at an average $152, above the run's $80-$125 range). VOID if any Q2 falsifier has fired: contract assets (client incentives) above 8% of revenue or growing faster than revenue in both FY2027 and FY2028; core banks below 20% or core credit unions below 15% of the filer's market count, or both shares falling two 10-Ks running; pre-tax return on operating capital ex goodwill below 30% for two years; GAAP operating margin below 21%. Source: Test Runs/2026-09-27 Run - JKHY Jack Henry.md."
   },
   {
    "id": "JKHY-rerun-band",
@@ -863,8 +863,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 124.43,
-   "active": true,
-   "label": "JKHY at/below $124.43: the E4-28 floor is met only if E4-44's 5% ceiling on perpetual growth is granted on the three-year D&A-end owner earnings ($436.2M), above the latest five-year owner-earnings rate (3.2%). Prompt for a FULL v4.1 re-run in which the growth and the (c) end are re-tested before either is spent; re-derive both JKHY bands on the FY2027 10-K (about late August 2027). VOID if any Q2 falsifier in JKHY-floor-band has fired."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). JKHY at/below $124.43: the E4-28 floor is met only if E4-44's 5% ceiling on perpetual growth is granted on the three-year D&A-end owner earnings ($436.2M), above the latest five-year owner-earnings rate (3.2%). Prompt for a FULL v4.1 re-run in which the growth and the (c) end are re-tested before either is spent; re-derive both JKHY bands on the FY2027 10-K (about late August 2027). VOID if any Q2 falsifier in JKHY-floor-band has fired."
   },
   {
    "id": "NDSN-floor-band",
@@ -872,8 +872,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 125.02,
-   "active": true,
-   "label": "NDSN at/below $125.02: the E4-28 floor is met at g = 2.6% (organic sales FY2016-FY2025; about 3.5% FY2003-FY2025) on the five-year depreciation-end owner earnings of $515.3M and 55,699,366 cover shares. Q1-Q4 all IN on 2026-09-27 (Q2 NARROW); Q5 quit on at $325.77 (yield 2.84-2.88% five-year against a 5.49% sovereign, expectancy 5.4-7.7%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag live: buybacks at $224.80 and $287.34 against the run's values; 82% of 26 years' owner earnings spent on purchases). VOID if any Q2 falsifier has fired: gross margin below 52% two consecutive fiscal years without a quantified one-time cause; the filer reporting price given back two consecutive years; FY2026 organic sales negative (a fourth year running); a further write-down of a purchased business of $100M or more or a purchase exited at a loss; pre-tax return on all operating capital, goodwill and intangibles included, below 12% two consecutive years. Source: Test Runs/2026-09-27 Run - NDSN Nordson.md."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). NDSN at/below $125.02: the E4-28 floor is met at g = 2.6% (organic sales FY2016-FY2025; about 3.5% FY2003-FY2025) on the five-year depreciation-end owner earnings of $515.3M and 55,699,366 cover shares. Q1-Q4 all IN on 2026-09-27 (Q2 NARROW); Q5 quit on at $325.77 (yield 2.84-2.88% five-year against a 5.49% sovereign, expectancy 5.4-7.7%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag live: buybacks at $224.80 and $287.34 against the run's values; 82% of 26 years' owner earnings spent on purchases). VOID if any Q2 falsifier has fired: gross margin below 52% two consecutive fiscal years without a quantified one-time cause; the filer reporting price given back two consecutive years; FY2026 organic sales negative (a fourth year running); a further write-down of a purchased business of $100M or more or a purchase exited at a loss; pre-tax return on all operating capital, goodwill and intangibles included, below 12% two consecutive years. Source: Test Runs/2026-09-27 Run - NDSN Nordson.md."
   },
   {
    "id": "NDSN-rerun-band",
@@ -881,8 +881,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 202.93,
-   "active": true,
-   "label": "NDSN at/below $202.93: the E4-28 floor is met only if 3.8%/yr (organic FY2003-FY2025 plus the FY2016-FY2025 share-count decline) is granted in perpetuity on the TTM capex-end owner earnings ($700.8M to 2026-07-31). Prompt for a FULL v4.1 re-run in which that rate is re-tested against the then-current organic series before it is spent. Re-derive both NDSN bands on the FY2026 10-K (about mid-December 2026); VOID if any falsifier in NDSN-floor-band has fired."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). NDSN at/below $202.93: the E4-28 floor is met only if 3.8%/yr (organic FY2003-FY2025 plus the FY2016-FY2025 share-count decline) is granted in perpetuity on the TTM capex-end owner earnings ($700.8M to 2026-07-31). Prompt for a FULL v4.1 re-run in which that rate is re-tested against the then-current organic series before it is spent. Re-derive both NDSN bands on the FY2026 10-K (about mid-December 2026); VOID if any falsifier in NDSN-floor-band has fired."
   },
   {
    "id": "EPAC-floor-band",
@@ -890,8 +890,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 11.63,
-   "active": true,
-   "label": "EPAC at/below $11.63: the E4-28 floor is met at g = 1.1% (core sales compounded FY2019-FY2025) on the five-year capex-end owner earnings of $53.0M (continuing operations) and 51,137,646 cover shares. Q1-Q4 all IN on 2026-09-27 (Q2 NARROW); Q5 quit on at $35.70 (yield 2.90-2.94% five-year and 5.44-5.48% TTM against a 5.49% sovereign; expectancy 4.0-8.6%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag live: buybacks at about $39-40 against the run's values; the registrant's own Actuant acquisition record; the SFE Group purchase at 10.6x adjusted EBITDA) and for staying power until the secured facility maturing September 2027 is extended. VOID if any Q2 falsifier has fired: consolidated gross margin below 46% two consecutive fiscal years without a quantified one-time cause; the filer reporting price given back or competitive pricing as a cause of a margin decline two consecutive years; IT&S product organic sales negative two consecutive years; a write-down of SFE Group or any purchased business of $50M or more, or a purchase exited at a loss; pre-tax return on all operating capital, goodwill and intangibles included, below 15% two consecutive years. Re-derive on the post-purchase perimeter once SFE Group's audited statements are filed. Source: Test Runs/2026-09-27 Run - EPAC Enerpac Tool Group.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). EPAC at/below $11.63: the E4-28 floor is met at g = 1.1% (core sales compounded FY2019-FY2025) on the five-year capex-end owner earnings of $53.0M (continuing operations) and 51,137,646 cover shares. Q1-Q4 all IN on 2026-09-27 (Q2 NARROW); Q5 quit on at $35.70 (yield 2.90-2.94% five-year and 5.44-5.48% TTM against a 5.49% sovereign; expectancy 4.0-8.6%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag live: buybacks at about $39-40 against the run's values; the registrant's own Actuant acquisition record; the SFE Group purchase at 10.6x adjusted EBITDA) and for staying power until the secured facility maturing September 2027 is extended. VOID if any Q2 falsifier has fired: consolidated gross margin below 46% two consecutive fiscal years without a quantified one-time cause; the filer reporting price given back or competitive pricing as a cause of a margin decline two consecutive years; IT&S product organic sales negative two consecutive years; a write-down of SFE Group or any purchased business of $50M or more, or a purchase exited at a loss; pre-tax return on all operating capital, goodwill and intangibles included, below 15% two consecutive years. Re-derive on the post-purchase perimeter once SFE Group's audited statements are filed. Source: Test Runs/2026-09-27 Run - EPAC Enerpac Tool Group.md."
   },
   {
    "id": "EPAC-rerun-band",
@@ -899,8 +899,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 28.57,
-   "active": true,
-   "label": "EPAC at/below $28.57: the E4-28 floor is met only if 3.1%/yr (the Industrial segment's sales growth FY2007-FY2017, purchases included) is granted in perpetuity on the TTM depreciation-end owner earnings ($100.1M to 2026-05-31, the best twelve months filed, after a margin restoration). Prompt for a FULL v4.1 re-run in which that rate is re-tested against the then-current organic series before it is spent. Re-derive both EPAC bands on the FY2026 10-K (about mid-October 2026) and on the post-SFE perimeter; VOID if any falsifier in EPAC-floor-band has fired; Q4 re-opens if the September 2027 facility is not refinanced by the 10-Q for the quarter to 2027-02-28."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). EPAC at/below $28.57: the E4-28 floor is met only if 3.1%/yr (the Industrial segment's sales growth FY2007-FY2017, purchases included) is granted in perpetuity on the TTM depreciation-end owner earnings ($100.1M to 2026-05-31, the best twelve months filed, after a margin restoration). Prompt for a FULL v4.1 re-run in which that rate is re-tested against the then-current organic series before it is spent. Re-derive both EPAC bands on the FY2026 10-K (about mid-October 2026) and on the post-SFE perimeter; VOID if any falsifier in EPAC-floor-band has fired; Q4 re-opens if the September 2027 facility is not refinanced by the 10-Q for the quarter to 2027-02-28."
   },
   {
    "id": "ATR-floor-band",
@@ -908,8 +908,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 46.22,
-   "active": true,
-   "label": "ATR at/below $46.22: the E4-28 floor is met at g = 3.6% (net sales 2008-2025, purchases included) on the five-year capex-end owner earnings of $188.1M and 63,581,129 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW, level, carried by the Pharma segment at 79% of segment operating profit); Q5 quit on at $123.87 (yield 2.39-3.47% five-year against a 5.49% sovereign, expectancy 6.0-9.2%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag live: 2025 buybacks at about $120 against the run's values; purchases into a Beauty segment earning 4% on its assets). VOID if any Q2 falsifier has fired: Pharma segment margin (Adjusted EBITDA less its own depreciation and amortization) below 24.1% two consecutive years without a quantified one-time cause; the filer reporting Pharma price given back two consecutive years; Pharma core sales negative two consecutive years; the company's pre-tax return on operating capital below 12% two consecutive years, or a write-down of a purchased business of $100M or more; the ARS antitrust claim decided against Aptar. Source: Test Runs/2026-09-28 Run - ATR AptarGroup.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). ATR at/below $46.22: the E4-28 floor is met at g = 3.6% (net sales 2008-2025, purchases included) on the five-year capex-end owner earnings of $188.1M and 63,581,129 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW, level, carried by the Pharma segment at 79% of segment operating profit); Q5 quit on at $123.87 (yield 2.39-3.47% five-year against a 5.49% sovereign, expectancy 6.0-9.2%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag live: 2025 buybacks at about $120 against the run's values; purchases into a Beauty segment earning 4% on its assets). VOID if any Q2 falsifier has fired: Pharma segment margin (Adjusted EBITDA less its own depreciation and amortization) below 24.1% two consecutive years without a quantified one-time cause; the filer reporting Pharma price given back two consecutive years; Pharma core sales negative two consecutive years; the company's pre-tax return on operating capital below 12% two consecutive years, or a write-down of a purchased business of $100M or more; the ARS antitrust claim decided against Aptar. Source: Test Runs/2026-09-28 Run - ATR AptarGroup.md."
   },
   {
    "id": "ATR-rerun-band",
@@ -917,8 +917,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 103.8,
-   "active": true,
-   "label": "ATR at/below $103.80: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY convention under E4-44) is granted on the three-year depreciation-end owner earnings ($330.0M, 2023-2025), above the record's 4.4% (capex end) owner-earnings-per-share growth. Prompt for a FULL v4.1 re-run in which the growth and the (c) end are re-tested before either is spent. Re-derive both ATR bands on the 2026 10-K (about early February 2027); VOID if any falsifier in ATR-floor-band has fired. Source: Test Runs/2026-09-28 Run - ATR AptarGroup.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). ATR at/below $103.80: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY convention under E4-44) is granted on the three-year depreciation-end owner earnings ($330.0M, 2023-2025), above the record's 4.4% (capex end) owner-earnings-per-share growth. Prompt for a FULL v4.1 re-run in which the growth and the (c) end are re-tested before either is spent. Re-derive both ATR bands on the 2026 10-K (about early February 2027); VOID if any falsifier in ATR-floor-band has fired. Source: Test Runs/2026-09-28 Run - ATR AptarGroup.md."
   },
   {
    "id": "CAT-floor-band",
@@ -944,8 +944,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 115.14,
-   "active": true,
-   "label": "MSA at/below $115.14: the E4-28 floor is met at g = 4.8% (the record's constant-currency and organic sales growth FY2020-FY2025, carried by the 2022-2023 inflation years) on the five-year ex-legacy D&A-end owner earnings of $220.4M and 38,578,289 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW, widening: E3-43 pricing shown since FY2011, gross margin 44-47% held through FY2015-FY2016 and FY2020, about twice Draeger's safety-division margin; price named among the grounds of competition every year, breathing-set share re-won each standard cycle, International at Draeger's level); Q5 quit on at $182.46 (yield 3.13-3.28% five-year ex-legacy against 5.49%, expectancy about 6-8%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag: buybacks at $156.81-169.58; E4-29 and E4-27 converge, pay on revenue including acquisitions and on adjusted EBITDA margin). VOID if any falsifier has fired: gross margin below 43% two consecutive years or a filed statement of price reductions or pricing pressures in the Americas; Americas adjusted margin at or below International's for a year; breathing-apparatus sales down more than 15% outside a standard transition, or a filed loss of a major tender to a named rival; a Globe PFAS accrual or settlement above $300M, or any claim returned under the 2023 MSA LLC indemnity; a purchase above $1bn or a goodwill impairment. Re-derive on the FY2026 10-K (about mid-February 2027, the first year with Autronica). Source: Test Runs/2026-09-28 Run - MSA MSA Safety.md."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). MSA at/below $115.14: the E4-28 floor is met at g = 4.8% (the record's constant-currency and organic sales growth FY2020-FY2025, carried by the 2022-2023 inflation years) on the five-year ex-legacy D&A-end owner earnings of $220.4M and 38,578,289 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW, widening: E3-43 pricing shown since FY2011, gross margin 44-47% held through FY2015-FY2016 and FY2020, about twice Draeger's safety-division margin; price named among the grounds of competition every year, breathing-set share re-won each standard cycle, International at Draeger's level); Q5 quit on at $182.46 (yield 3.13-3.28% five-year ex-legacy against 5.49%, expectancy about 6-8%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag: buybacks at $156.81-169.58; E4-29 and E4-27 converge, pay on revenue including acquisitions and on adjusted EBITDA margin). VOID if any falsifier has fired: gross margin below 43% two consecutive years or a filed statement of price reductions or pricing pressures in the Americas; Americas adjusted margin at or below International's for a year; breathing-apparatus sales down more than 15% outside a standard transition, or a filed loss of a major tender to a named rival; a Globe PFAS accrual or settlement above $300M, or any claim returned under the 2023 MSA LLC indemnity; a purchase above $1bn or a goodwill impairment. Re-derive on the FY2026 10-K (about mid-February 2027, the first year with Autronica). Source: Test Runs/2026-09-28 Run - MSA MSA Safety.md."
   },
   {
    "id": "MSA-rerun-band",
@@ -953,8 +953,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 169.89,
-   "active": true,
-   "label": "MSA at/below $169.89: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY and CAT convention under E4-44) is granted on the TTM D&A-end owner earnings ($312.1M to 2026-06-30, carrying tariff refunds; the capex end, $335.5M, is flattered by a capital-spending dip and would meet the floor at $182.63). Prompt for a FULL v4.1 re-run in which the level, the growth and the (c) end are re-tested before any is spent. Re-derive both MSA bands on the FY2026 10-K; VOID if any falsifier in MSA-floor-band has fired. Source: Test Runs/2026-09-28 Run - MSA MSA Safety.md."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). MSA at/below $169.89: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY and CAT convention under E4-44) is granted on the TTM D&A-end owner earnings ($312.1M to 2026-06-30, carrying tariff refunds; the capex end, $335.5M, is flattered by a capital-spending dip and would meet the floor at $182.63). Prompt for a FULL v4.1 re-run in which the level, the growth and the (c) end are re-tested before any is spent. Re-derive both MSA bands on the FY2026 10-K; VOID if any falsifier in MSA-floor-band has fired. Source: Test Runs/2026-09-28 Run - MSA MSA Safety.md."
   },
   {
    "id": "ECL-floor-band",
@@ -962,8 +962,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 115.22,
-   "active": true,
-   "label": "ECL at/below $115.22: the E4-28 floor is met at g = 4.6% (the filer's organic, acquisition-adjusted fixed-currency sales change FY2018-FY2025, carried by the 2022-2023 inflation years) on the five-year depreciation-end owner earnings of $1,667.5M (post-ChampionX continuing operations) and 280,328,603 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW, widening since 2022: the filed price line never negative in any consolidated year FY2007-FY2025, +3% in 2009 at volume -3%, +1-2% in every non-energy segment in 2015-2016, +2% in 2020 at Institutional volume -21%; 44-86% pre-tax on net tangible capital; the 2019-2022 six-point gross-margin loss the recorded caveat); Q5 quit on at $279.49 (yield 1.87-2.13% five-year against 5.49%, expectancy about 6.4-7.5%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag: buybacks at $252.41-263.91; E4-22, E4-27 and E2-30 converge: adjusted-EPS guidance, a bonus target below the public guidance, about $10.8bn of acquisition cash 2021-2026). VOID if any falsifier has fired: a negative consolidated price figure in any year, or a negative price in Global Water or Global Institutional & Specialty outside a year of falling raw-material costs the filer names; gross margin below 40% two consecutive years; pre-tax return on net tangible capital below 44.3% two consecutive years; an impairment of CoolIT, Ovivo or Purolite, or a purchase above $2bn before net debt is back to the filer's own 2x; any claim under the ChampionX tax undertaking or a TPC accrual above insurance; the adjusted-EPS bonus target again below the public guidance. Re-derive on the FY2026 10-K (about late February 2027, the first year with CoolIT's cash flows and the May 2026 coupons). Source: Test Runs/2026-09-28 Run - ECL Ecolab.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). ECL at/below $115.22: the E4-28 floor is met at g = 4.6% (the filer's organic, acquisition-adjusted fixed-currency sales change FY2018-FY2025, carried by the 2022-2023 inflation years) on the five-year depreciation-end owner earnings of $1,667.5M (post-ChampionX continuing operations) and 280,328,603 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW, widening since 2022: the filed price line never negative in any consolidated year FY2007-FY2025, +3% in 2009 at volume -3%, +1-2% in every non-energy segment in 2015-2016, +2% in 2020 at Institutional volume -21%; 44-86% pre-tax on net tangible capital; the 2019-2022 six-point gross-margin loss the recorded caveat); Q5 quit on at $279.49 (yield 1.87-2.13% five-year against 5.49%, expectancy about 6.4-7.5%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag: buybacks at $252.41-263.91; E4-22, E4-27 and E2-30 converge: adjusted-EPS guidance, a bonus target below the public guidance, about $10.8bn of acquisition cash 2021-2026). VOID if any falsifier has fired: a negative consolidated price figure in any year, or a negative price in Global Water or Global Institutional & Specialty outside a year of falling raw-material costs the filer names; gross margin below 40% two consecutive years; pre-tax return on net tangible capital below 44.3% two consecutive years; an impairment of CoolIT, Ovivo or Purolite, or a purchase above $2bn before net debt is back to the filer's own 2x; any claim under the ChampionX tax undertaking or a TPC accrual above insurance; the adjusted-EPS bonus target again below the public guidance. Re-derive on the FY2026 10-K (about late February 2027, the first year with CoolIT's cash flows and the May 2026 coupons). Source: Test Runs/2026-09-28 Run - ECL Ecolab.md."
   },
   {
    "id": "ECL-rerun-band",
@@ -971,8 +971,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 165.71,
-   "active": true,
-   "label": "ECL at/below $165.71: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY, CAT and MSA convention under E4-44) is granted on the TTM depreciation-end owner earnings ($2,212.0M to 2026-06-30, before CoolIT's $250.6M a year of new coupons; the capex end, $1,738.7M, would need more). Prompt for a FULL v4.1 re-run in which the level, the growth and the (c) end are re-tested before any is spent. Re-derive both ECL bands on the FY2026 10-K; VOID if any falsifier in ECL-floor-band has fired. Source: Test Runs/2026-09-28 Run - ECL Ecolab.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). ECL at/below $165.71: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY, CAT and MSA convention under E4-44) is granted on the TTM depreciation-end owner earnings ($2,212.0M to 2026-06-30, before CoolIT's $250.6M a year of new coupons; the capex end, $1,738.7M, would need more). Prompt for a FULL v4.1 re-run in which the level, the growth and the (c) end are re-tested before any is spent. Re-derive both ECL bands on the FY2026 10-K; VOID if any falsifier in ECL-floor-band has fired. Source: Test Runs/2026-09-28 Run - ECL Ecolab.md."
   },
   {
    "id": "KEYS-floor-band",
@@ -980,8 +980,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 110.11,
-   "active": true,
-   "label": "KEYS at/below $110.11: the E4-28 floor is met at g = 4.4% (the 10-Ks' revenue change less acquisitions and currency, FY2015-FY2025) on the five-year depreciation-end owner earnings of $1,012.4M (FY2021-FY2025, before Spirent and OSG) and 170,244,745 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW: price increases named in FY2022, FY2023 on flat revenue and FY2025; 46-77% pre-tax on net tangible capital since FY2019; the FY2002-FY2003 losses with price erosion and Tektronix's higher gross margins FY2002-FY2007 the recorded caveats; E4-04 read as a lead maintained); Q5 quit on at $362.15 (yield 1.57-1.64% five-year against 5.49%, expectancy about 5.5-6.4%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag: buybacks at $143-157 FY2021-FY2025 and about $280 in FY2026; non-GAAP guidance beaten every quarter, PSU margin targets reset down, about $6.2bn of purchases FY2015-FY2025). VOID if any falsifier has fired: a filed MD&A naming price, pricing pressure or discounting as a cause of a consolidated gross-margin fall; gross margin more than five points below 64.6% in a year of flat or falling revenue without a named volume or mix cause; pre-tax return on net tangible capital below 35% two consecutive years; operating margin inside the Viavi and Ralliant-segment band three years; a goodwill impairment of Spirent, ESI Group or OSG, or a purchase above $2bn; the PSU margin target again reset below the prior year's actual while the margin falls. Re-derive on the FY2026 10-K (about mid-December 2026, the first year with Spirent and OSG). Source: Test Runs/2026-09-28 Run - KEYS Keysight Technologies.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). KEYS at/below $110.11: the E4-28 floor is met at g = 4.4% (the 10-Ks' revenue change less acquisitions and currency, FY2015-FY2025) on the five-year depreciation-end owner earnings of $1,012.4M (FY2021-FY2025, before Spirent and OSG) and 170,244,745 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW: price increases named in FY2022, FY2023 on flat revenue and FY2025; 46-77% pre-tax on net tangible capital since FY2019; the FY2002-FY2003 losses with price erosion and Tektronix's higher gross margins FY2002-FY2007 the recorded caveats; E4-04 read as a lead maintained); Q5 quit on at $362.15 (yield 1.57-1.64% five-year against 5.49%, expectancy about 5.5-6.4%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag: buybacks at $143-157 FY2021-FY2025 and about $280 in FY2026; non-GAAP guidance beaten every quarter, PSU margin targets reset down, about $6.2bn of purchases FY2015-FY2025). VOID if any falsifier has fired: a filed MD&A naming price, pricing pressure or discounting as a cause of a consolidated gross-margin fall; gross margin more than five points below 64.6% in a year of flat or falling revenue without a named volume or mix cause; pre-tax return on net tangible capital below 35% two consecutive years; operating margin inside the Viavi and Ralliant-segment band three years; a goodwill impairment of Spirent, ESI Group or OSG, or a purchase above $2bn; the PSU margin target again reset below the prior year's actual while the margin falls. Re-derive on the FY2026 10-K (about mid-December 2026, the first year with Spirent and OSG). Source: Test Runs/2026-09-28 Run - KEYS Keysight Technologies.md."
   },
   {
    "id": "KEYS-rerun-band",
@@ -989,8 +989,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 154.81,
-   "active": true,
-   "label": "KEYS at/below $154.81: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY, CAT, MSA and ECL convention under E4-44) is granted on the TTM capex-end owner earnings ($1,255M to 2026-07-31, three quarters of it with Spirent and OSG). Prompt for a FULL v4.1 re-run in which the level, the growth and the (c) end are re-tested before any is spent. Re-derive both KEYS bands on the FY2026 10-K; VOID if any falsifier in KEYS-floor-band has fired. Source: Test Runs/2026-09-28 Run - KEYS Keysight Technologies.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). KEYS at/below $154.81: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY, CAT, MSA and ECL convention under E4-44) is granted on the TTM capex-end owner earnings ($1,255M to 2026-07-31, three quarters of it with Spirent and OSG). Prompt for a FULL v4.1 re-run in which the level, the growth and the (c) end are re-tested before any is spent. Re-derive both KEYS bands on the FY2026 10-K; VOID if any falsifier in KEYS-floor-band has fired. Source: Test Runs/2026-09-28 Run - KEYS Keysight Technologies.md."
   },
   {
    "id": "ESI-floor-band",
@@ -998,8 +998,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 15.13,
-   "active": true,
-   "label": "ESI at/below $15.13: the E4-28 floor is met at g = 3.3% (the 10-Ks' organic sales growth FY2020-FY2025, currency, metal pass-through and purchases removed) on the five-year capex-end owner earnings of $237.8M (FY2021-FY2025, before EFC and Micromax) and 243,690,914 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW: no filed price series; the spread over materials held through the predecessor's 2001-2002 electronics depression, FY2019, FY2020 and FY2023; price raised in 2022 with volume soft and kept against deflating raw materials 2023-2025; 46-81% pre-tax on net tangible capital FY2019-FY2025; the falling-ASP industry, MacDermid's 2011 Asian write-down, the 2021-2022 lag and Atotech's higher margins the recorded caveats; E4-04 read as a lead maintained); Q5 quit on at $35.12 (yield 2.78-2.95% five-year against 5.49%, expectancy about 5.0-6.3%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag and converging Q3 prompts: Adjusted EBITDA as headline and pay metric; the 2022 stretch awards replaced by $37.1M of immediately vested shares; buybacks at about $18.90 in 2022; $1.7bn of purchases FY2019-H1 2026, $866M of it in 2026 on borrowed money; the terminated Solstice sale with 200-300% award acceleration). VOID if any falsifier has fired: a year of falling organic sales with the ex-metal gross margin down more than three points, or an MD&A naming price, pricing pressure or discounting as a cause of a segment margin fall; a filed price-and-volume bridge with price negative in a year of flat or falling raw-material costs; Electronics ex-metal adjusted EBITDA margin below Qnity Interconnect Solutions' two years; pre-tax return on net tangible capital below 40% two consecutive years; a goodwill impairment on Coventya, EFC or Micromax, or another borrowed purchase above $500M while net debt exceeds four times operating income before amortization; another long-lived pay target cancelled or replaced after it became unattainable, or a sale agreed with awards accelerated above target. SUSPENDED if a new merger agreement or tender offer is filed (the quote becomes a spread, the ROKU rule). Re-derive on the FY2026 10-K (about February 2027, the first year with EFC and Micromax). Source: Test Runs/2026-09-28 Run - ESI Element Solutions.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). ESI at/below $15.13: the E4-28 floor is met at g = 3.3% (the 10-Ks' organic sales growth FY2020-FY2025, currency, metal pass-through and purchases removed) on the five-year capex-end owner earnings of $237.8M (FY2021-FY2025, before EFC and Micromax) and 243,690,914 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW: no filed price series; the spread over materials held through the predecessor's 2001-2002 electronics depression, FY2019, FY2020 and FY2023; price raised in 2022 with volume soft and kept against deflating raw materials 2023-2025; 46-81% pre-tax on net tangible capital FY2019-FY2025; the falling-ASP industry, MacDermid's 2011 Asian write-down, the 2021-2022 lag and Atotech's higher margins the recorded caveats; E4-04 read as a lead maintained); Q5 quit on at $35.12 (yield 2.78-2.95% five-year against 5.49%, expectancy about 5.0-6.3%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag and converging Q3 prompts: Adjusted EBITDA as headline and pay metric; the 2022 stretch awards replaced by $37.1M of immediately vested shares; buybacks at about $18.90 in 2022; $1.7bn of purchases FY2019-H1 2026, $866M of it in 2026 on borrowed money; the terminated Solstice sale with 200-300% award acceleration). VOID if any falsifier has fired: a year of falling organic sales with the ex-metal gross margin down more than three points, or an MD&A naming price, pricing pressure or discounting as a cause of a segment margin fall; a filed price-and-volume bridge with price negative in a year of flat or falling raw-material costs; Electronics ex-metal adjusted EBITDA margin below Qnity Interconnect Solutions' two years; pre-tax return on net tangible capital below 40% two consecutive years; a goodwill impairment on Coventya, EFC or Micromax, or another borrowed purchase above $500M while net debt exceeds four times operating income before amortization; another long-lived pay target cancelled or replaced after it became unattainable, or a sale agreed with awards accelerated above target. SUSPENDED if a new merger agreement or tender offer is filed (the quote becomes a spread, the ROKU rule). Re-derive on the FY2026 10-K (about February 2027, the first year with EFC and Micromax). Source: Test Runs/2026-09-28 Run - ESI Element Solutions.md."
   },
   {
    "id": "ESI-rerun-band",
@@ -1007,8 +1007,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 21.73,
-   "active": true,
-   "label": "ESI at/below $21.73: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY, CAT, MSA, ECL and KEYS convention under E4-44) is granted on the five-year depreciation-end owner earnings ($252.2M, FY2021-FY2025). Prompt for a FULL v4.1 re-run in which the level, the growth, the metal working capital and the (c) end are re-tested before any is spent. Re-derive both ESI bands on the FY2026 10-K; VOID if any falsifier in ESI-floor-band has fired; SUSPENDED if a new bid is filed. Source: Test Runs/2026-09-28 Run - ESI Element Solutions.md."
+   "active": false,
+   "label": "RETIRED 2026-10-07 (a v4.1 band; superseded by the v5 run of 2026-10-07). ESI at/below $21.73: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY, CAT, MSA, ECL and KEYS convention under E4-44) is granted on the five-year depreciation-end owner earnings ($252.2M, FY2021-FY2025). Prompt for a FULL v4.1 re-run in which the level, the growth, the metal working capital and the (c) end are re-tested before any is spent. Re-derive both ESI bands on the FY2026 10-K; VOID if any falsifier in ESI-floor-band has fired; SUSPENDED if a new bid is filed. Source: Test Runs/2026-09-28 Run - ESI Element Solutions.md."
   },
   {
    "id": "MA-floor-band",
@@ -1016,8 +1016,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 361.98,
-   "active": true,
-   "label": "MA at/below $361.98: the E4-28 floor is met at the E4-44 5% perpetual-growth ceiling (the JKHY, CAT, MSA, ECL, KEYS and ESI convention) on FY2025 owner earnings normalized for the cash-tax dip ($15.1bn; $15,836M as reported, property plus capitalized software as (c)) and 876,009,940 cover shares (Class A and Class B summed, one-for-one convertible), with no decade of double-digit growth assumed. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW: payment-network net take 15.6bp to 18.3bp of GDV FY2020-FY2025 after rebates, owner earnings +16.2%/yr FY2016-FY2025; NARROW because rebates are 51.3% of gross network fees and rising, Visa earns more every year, and interchange is capped with the network fees a filed regulatory target; Q4 GREAT, named death #17 THE PERMIT); Q5 quit on at $568.26 (yield 3.03-3.18% on the level against 5.49%; the price needs about 10.2-10.8%/yr for ten years then 5%; judged expectancy about 9.1-9.9%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag: $69.5bn of buybacks FY2016-FY2025 at 1.3-2.0x a floor-conservative value, H1 2026 buybacks funded with $5.6bn of new debt; litigation provisions excluded from adjusted EPS and pay). VOID if any falsifier has fired: payment-network net revenue per $ of GDV below 16bp two consecutive years; payment-network rebates above 55% of gross network fees; a law, regulation or decision capping or setting Mastercard's own network fees in the US, EU or UK; a US credit routing mandate enacted; GDV growing slower than Visa's total nominal volume two consecutive years while the operating margin before provisions falls; a litigation or settlement loss above $5bn in a year, a settlement-guarantee loss above $1bn, another year of buybacks above owner earnings funded by net new debt, or a purchase above $5bn. SUSPENDED if a merger agreement or tender offer naming Mastercard as target is filed. Re-derive on the FY2026 10-K (about February 2027). Source: Test Runs/2026-09-28 Run - MA Mastercard.md."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). MA at/below $361.98: the E4-28 floor is met at the E4-44 5% perpetual-growth ceiling (the JKHY, CAT, MSA, ECL, KEYS and ESI convention) on FY2025 owner earnings normalized for the cash-tax dip ($15.1bn; $15,836M as reported, property plus capitalized software as (c)) and 876,009,940 cover shares (Class A and Class B summed, one-for-one convertible), with no decade of double-digit growth assumed. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW: payment-network net take 15.6bp to 18.3bp of GDV FY2020-FY2025 after rebates, owner earnings +16.2%/yr FY2016-FY2025; NARROW because rebates are 51.3% of gross network fees and rising, Visa earns more every year, and interchange is capped with the network fees a filed regulatory target; Q4 GREAT, named death #17 THE PERMIT); Q5 quit on at $568.26 (yield 3.03-3.18% on the level against 5.49%; the price needs about 10.2-10.8%/yr for ten years then 5%; judged expectancy about 9.1-9.9%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag: $69.5bn of buybacks FY2016-FY2025 at 1.3-2.0x a floor-conservative value, H1 2026 buybacks funded with $5.6bn of new debt; litigation provisions excluded from adjusted EPS and pay). VOID if any falsifier has fired: payment-network net revenue per $ of GDV below 16bp two consecutive years; payment-network rebates above 55% of gross network fees; a law, regulation or decision capping or setting Mastercard's own network fees in the US, EU or UK; a US credit routing mandate enacted; GDV growing slower than Visa's total nominal volume two consecutive years while the operating margin before provisions falls; a litigation or settlement loss above $5bn in a year, a settlement-guarantee loss above $1bn, another year of buybacks above owner earnings funded by net new debt, or a purchase above $5bn. SUSPENDED if a merger agreement or tender offer naming Mastercard as target is filed. Re-derive on the FY2026 10-K (about February 2027). Source: Test Runs/2026-09-28 Run - MA Mastercard.md."
   },
   {
    "id": "MA-rerun-band",
@@ -1025,8 +1025,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 534.35,
-   "active": true,
-   "label": "MA at/below $534.35: the E4-28 floor is met at the run's judged central construction, owner earnings of $15.1bn (FY2025 normalized) growing 10% a year for ten years and 5% thereafter (a two-stage engine that casts no vote; the record did 16.2%/yr in owner earnings and 13.2%/yr in revenue FY2016-FY2025, and E4-35 is the burden). Prompt for a FULL v4.1 re-run in which the level, the decade's growth, the rebate share and the regulatory perimeter are re-tested before any is spent. Re-derive both MA bands on the FY2026 10-K; VOID if any falsifier in MA-floor-band has fired; SUSPENDED if a bid for Mastercard is filed. Source: Test Runs/2026-09-28 Run - MA Mastercard.md."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). MA at/below $534.35: the E4-28 floor is met at the run's judged central construction, owner earnings of $15.1bn (FY2025 normalized) growing 10% a year for ten years and 5% thereafter (a two-stage engine that casts no vote; the record did 16.2%/yr in owner earnings and 13.2%/yr in revenue FY2016-FY2025, and E4-35 is the burden). Prompt for a FULL v4.1 re-run in which the level, the decade's growth, the rebate share and the regulatory perimeter are re-tested before any is spent. Re-derive both MA bands on the FY2026 10-K; VOID if any falsifier in MA-floor-band has fired; SUSPENDED if a bid for Mastercard is filed. Source: Test Runs/2026-09-28 Run - MA Mastercard.md."
   },
   {
    "id": "TECH-floor-band",
@@ -1052,8 +1052,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 259,
-   "active": true,
-   "label": "HUBB at/below $259: top of the v5 fair-price band (value $204-$405; expected return at least ~10% pre-tax only below this). Source: Test Runs/2026-10-05 Run - HUBB Hubbell.md (IN at Q1-Q5, OUT at Q7 on price at $482). Re-read the latest 10-Q first. A prompt to read, never a verdict."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (superseded by the restated fair-price alert). HUBB at/below $259: top of the v5 fair-price band (value $204-$405; expected return at least ~10% pre-tax only below this). Source: Test Runs/2026-10-05 Run - HUBB Hubbell.md (IN at Q1-Q5, OUT at Q7 on price at $482). Re-read the latest 10-Q first. A prompt to read, never a verdict."
   },
   {
    "id": "HUBB-v5-cheap",
@@ -1070,8 +1070,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 338,
-   "active": true,
-   "label": "ETN at/below $338: top of the v5 fair-price band if recent growth is credited uncapped (capped band tops at $122). Source: Test Runs/2026-10-05 Run - ETN Eaton.md (IN at Q1-Q6, OUT at Q7 on price at $438). Check the Boyd debt and margin trend first. A prompt to read, never a verdict."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (superseded by the restated fair-price alert). ETN at/below $338: top of the v5 fair-price band if recent growth is credited uncapped (capped band tops at $122). Source: Test Runs/2026-10-05 Run - ETN Eaton.md (IN at Q1-Q6, OUT at Q7 on price at $438). Check the Boyd debt and margin trend first. A prompt to read, never a verdict."
   },
   {
    "id": "ETN-v5-fair-top-capped",
@@ -1079,8 +1079,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 122,
-   "active": true,
-   "label": "ETN at/below $122: top of the v5 fair-price band with growth capped at sales growth. Source: Test Runs/2026-10-05 Run - ETN Eaton.md. A prompt to read, never a verdict."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (superseded by the restated fair-price alert). ETN at/below $122: top of the v5 fair-price band with growth capped at sales growth. Source: Test Runs/2026-10-05 Run - ETN Eaton.md. A prompt to read, never a verdict."
   },
   {
    "id": "ETN-v5-cheap",
@@ -1106,17 +1106,17 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 16.76,
-   "active": true,
-   "label": "MWA at/below $16.76: top of the v5 value range. Source: Test Runs/2026-10-05 Run - MWA Mueller Water Products.md (IN at Q1-Q5, OUT at Q7 on price at $22.02). Check the inventory build and the latest-quarter margin first. A prompt to read, never a verdict."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (superseded by the restated fair-price alert). MWA at/below $16.76: top of the v5 value range. Source: Test Runs/2026-10-05 Run - MWA Mueller Water Products.md (IN at Q1-Q5, OUT at Q7 on price at $22.02). Check the inventory build and the latest-quarter margin first. A prompt to read, never a verdict."
   },
   {
    "id": "MWA-v5-fair",
    "ticker": "MWA",
    "currency": "USD",
    "op": "<=",
-   "threshold": 13.4,
+   "threshold": 7.47,
    "active": true,
-   "label": "MWA at/below $13.40: the v5 fair price (central case clears about 10% pre-tax). Source: Test Runs/2026-10-05 Run - MWA Mueller Water Products.md. A prompt to read, never a verdict."
+   "label": "MWA at/below $7.47: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "MWA-v5-cheap",
@@ -1133,17 +1133,17 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 145,
-   "active": true,
-   "label": "CSW at/below $145: top of the v5 value range (pro forma variant tops at $218). Source: Test Runs/2026-10-05 Run - CSW CSW Industrials.md (IN at Q1-Q5, OUT at Q7 on price at $305.83). Check the MARS and Aspen results and the debt first. A prompt to read, never a verdict."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (superseded by the restated fair-price alert). CSW at/below $145: top of the v5 value range (pro forma variant tops at $218). Source: Test Runs/2026-10-05 Run - CSW CSW Industrials.md (IN at Q1-Q5, OUT at Q7 on price at $305.83). Check the MARS and Aspen results and the debt first. A prompt to read, never a verdict."
   },
   {
    "id": "CSW-v5-fair",
    "ticker": "CSW",
    "currency": "USD",
    "op": "<=",
-   "threshold": 85,
+   "threshold": 35.71,
    "active": true,
-   "label": "CSW at/below $85: the v5 fair price (central case clears about 10% pre-tax). Source: Test Runs/2026-10-05 Run - CSW CSW Industrials.md. A prompt to read, never a verdict."
+   "label": "CSW at/below $35.71: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "CSW-v5-cheap",
@@ -1177,9 +1177,9 @@
    "ticker": "POOL",
    "currency": "USD",
    "op": "<=",
-   "threshold": 130,
+   "threshold": 141.59,
    "active": true,
-   "label": "POOL at/below $130: the v5 fair price (central case returns about 10%). Source: Test Runs/2026-10-05 Run - POOL Pool Corporation.md (IN at Q1, Q2 narrowly, Q4, Q5; OUT at Q7 at $159.38). Check Home Depot's Heritage and the new CEO first. A prompt to read, never a verdict."
+   "label": "POOL at/below $141.59: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "POOL-v5-cheap",
@@ -1195,9 +1195,9 @@
    "ticker": "REYN",
    "currency": "USD",
    "op": "<=",
-   "threshold": 16.14,
+   "threshold": 14.48,
    "active": true,
-   "label": "REYN at/below $16.14: the v5 fair price (central case clears 10% pre-tax on equity plus net debt). Source: Test Runs/2026-10-06 Run - REYN Reynolds Consumer Products.md (IN at Q1, Q2 narrowly, Q4, Q5; OUT at Q7 at $22.23). Check foil and tableware margins and Walmart's share first. A prompt to read, never a verdict."
+   "label": "REYN at/below $14.48: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "REYN-v5-cheap",
@@ -1214,8 +1214,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 163,
-   "active": true,
-   "label": "ABG at/below $163: the run's own re-open level (Test Runs/2026-10-05 Run - ABG Asbury Automotive.md, Q7: the price at which the bottom whole-cycle case still earns the ~10% pre-tax floor under the +200bp stress of [M2007-096]; 'levels at which the file would be re-opened, not buy signals'). The price at the run, $171.62, was already under the central fair price of $216 and the run closed OUT as a pencil case, so the alert sits at the run's lower level. Re-run Q7 on the whole-cycle base and check the FTC action first. A prompt to read, never a verdict (operator, 2026-10-06)."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (superseded by the restated fair-price alert). ABG at/below $163: the run's own re-open level (Test Runs/2026-10-05 Run - ABG Asbury Automotive.md, Q7: the price at which the bottom whole-cycle case still earns the ~10% pre-tax floor under the +200bp stress of [M2007-096]; 'levels at which the file would be re-opened, not buy signals'). The price at the run, $171.62, was already under the central fair price of $216 and the run closed OUT as a pencil case, so the alert sits at the run's lower level. Re-run Q7 on the whole-cycle base and check the FTC action first. A prompt to read, never a verdict (operator, 2026-10-06)."
   },
   {
    "id": "PBH-v5-relook",
@@ -1223,26 +1223,26 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 37.87,
-   "active": true,
-   "label": "PBH at/below $37.87: the run's own fair price in the shown-decline case (Test Runs/2026-10-05 Run - PBH Prestige Consumer Healthcare.md, Q7: central fair $47.74, shown-decline $37.87, on equity plus $2.1B net debt; OUT at Q7 at $45.61 as a pencil case on the floor). The price is already under the central fair, so the alert sits where the worse case also clears the floor. Re-run Q7 with Breathe Right's audited results and the floating-rate debt first. A reporting figure, never a verdict; a prompt to read (operator, 2026-10-06)."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (superseded by the restated fair-price alert). PBH at/below $37.87: the run's own fair price in the shown-decline case (Test Runs/2026-10-05 Run - PBH Prestige Consumer Healthcare.md, Q7: central fair $47.74, shown-decline $37.87, on equity plus $2.1B net debt; OUT at Q7 at $45.61 as a pencil case on the floor). The price is already under the central fair, so the alert sits where the worse case also clears the floor. Re-run Q7 with Breathe Right's audited results and the floating-rate debt first. A reporting figure, never a verdict; a prompt to read (operator, 2026-10-06)."
   },
   {
    "id": "CAT-v5-fair",
    "ticker": "CAT",
    "currency": "USD",
    "op": "<=",
-   "threshold": 551,
+   "threshold": 281.63,
    "active": true,
-   "label": "CAT at/below $551: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - CAT Caterpillar.md; OUT AT Q7, ON PRICE at $848.14): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+   "label": "CAT at/below $281.63: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "V-v5-fair",
    "ticker": "V",
    "currency": "USD",
    "op": "<=",
-   "threshold": 114,
+   "threshold": 143.74,
    "active": true,
-   "label": "V at/below $114: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - V Visa.md; OUT AT Q7, ON PRICE at $369.71): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06). The holding review's own add band (V-v5-add, $300) stands beside this purchase-run figure; reconcile at the next review."
+   "label": "V at/below $143.74: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "TRV-v5-fair",
@@ -1258,36 +1258,36 @@
    "ticker": "SHW",
    "currency": "USD",
    "op": "<=",
-   "threshold": 161,
+   "threshold": 99.37,
    "active": true,
-   "label": "SHW at/below $161: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - SHW Sherwin-Williams.md; OUT AT Q7, ON PRICE at $318.46): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+   "label": "SHW at/below $99.37: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "AXP-v5-fair",
    "ticker": "AXP",
    "currency": "USD",
    "op": "<=",
-   "threshold": 102,
+   "threshold": 137.51,
    "active": true,
-   "label": "AXP at/below $102: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - AXP American Express.md; OUT AT Q7, ON PRICE at $304.02): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+   "label": "AXP at/below $137.51: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "HD-v5-fair",
    "ticker": "HD",
    "currency": "USD",
    "op": "<=",
-   "threshold": 153.5,
+   "threshold": 128.76,
    "active": true,
-   "label": "HD at/below $153.5: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - HD Home Depot.md; OUT AT Q7, ON PRICE at $281.15): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+   "label": "HD at/below $128.76: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "MCD-v5-fair",
    "ticker": "MCD",
    "currency": "USD",
    "op": "<=",
-   "threshold": 138.83,
+   "threshold": 100.41,
    "active": true,
-   "label": "MCD at/below $138.83: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - MCD McDonalds.md; OUT AT Q7, ON PRICE at $233.04): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+   "label": "MCD at/below $100.41: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "HON-v5-fair",
@@ -1303,63 +1303,306 @@
    "ticker": "PG",
    "currency": "USD",
    "op": "<=",
-   "threshold": 83,
+   "threshold": 65.38,
    "active": true,
-   "label": "PG at/below $83: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - PG Procter & Gamble.md; OUT AT Q7, ON PRICE at $145.94): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+   "label": "PG at/below $65.38: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "WMT-v5-fair",
    "ticker": "WMT",
    "currency": "USD",
    "op": "<=",
-   "threshold": 19.67,
+   "threshold": 13.36,
    "active": true,
-   "label": "WMT at/below $19.67: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - WMT Walmart.md; OUT AT Q7, ON PRICE at $105.07): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+   "label": "WMT at/below $13.36: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "KO-v5-fair",
    "ticker": "KO",
    "currency": "USD",
    "op": "<=",
-   "threshold": 27.53,
+   "threshold": 24.15,
    "active": true,
-   "label": "KO at/below $27.53: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - KO Coca-Cola.md; OUT AT Q7, ON PRICE at $86.51): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+   "label": "KO at/below $24.15: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "PM-v5-fair",
    "ticker": "PM",
    "currency": "USD",
    "op": "<=",
-   "threshold": 70.27,
+   "threshold": 58.07,
    "active": true,
-   "label": "PM at/below $70.27: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - PM Philip Morris International.md; OUT AT Q7, ON PRICE at $189.53): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+   "label": "PM at/below $58.07: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "ADP-v5-fair",
    "ticker": "ADP",
    "currency": "USD",
    "op": "<=",
-   "threshold": 171,
+   "threshold": 108.88,
    "active": true,
-   "label": "ADP at/below $171: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - ADP Automatic Data Processing.md; OUT AT Q7, ON PRICE at $260.26): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+   "label": "ADP at/below $108.88: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "GD-v5-fair",
    "ticker": "GD",
    "currency": "USD",
    "op": "<=",
-   "threshold": 274,
+   "threshold": 142.9,
    "active": true,
-   "label": "GD at/below $274: the fair price of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - GD General Dynamics.md; OUT AT Q7, ON PRICE at $331.72): the price at which the run's central case earns the floor of about ten percent pre-tax, on the basis the run states. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+   "label": "GD at/below $142.9: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
    "id": "COST-v5-fair",
    "ticker": "COST",
    "currency": "USD",
    "op": "<=",
-   "threshold": 195,
+   "threshold": 174.0,
    "active": true,
-   "label": "COST at/below $195: the fair price on the equity of the blind v5 purchase run of 2026-10-06 (Test Runs/2026-10-06 Run - COST Costco Wholesale.md; OUT at Q7 on price at $935.68; $173 on equity plus net debt); the price at which the run's central case earns the floor of about ten percent pre-tax on owner cash after the company's tax. A prompt to re-run Q7, never a verdict; no cheap price is reported (section F, 2026-10-06)."
+   "label": "COST at/below $174.0: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "BRK.B-v5-range-bottom",
+   "ticker": "BRK-B",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 316,
+   "active": true,
+   "label": "BRK.B at/below $316: the bottom of the value range of the blind v5 purchase run of 2026-10-05 (Test Runs/2026-10-05 Run - BRK.B Berkshire Hathaway.md; range $316 to $347 net of float; OUT at Q7 at $504.75). The run predates the fair-price convention and states no fair price, so the alert sits at the run's own range bottom; the fair price is owed at the next run. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "TSCO-v5-floor-value",
+   "ticker": "TSCO",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 21.71,
+   "active": false,
+   "label": "RETIRED 2026-10-10 (superseded by the restated fair-price alert). TSCO at/below $21.71: the value at the ten percent floor on the shown-growth stream, the run's own figure (Test Runs/2026-10-05 Run - TSCO Tractor Supply.md, Q7; range $19.00 to $42.65; OUT at Q7 at $30.80). The run predates the fair-price convention; this is its nearest stated figure. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "ATR-v5-fair",
+   "ticker": "ATR",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 28.37,
+   "active": true,
+   "label": "ATR at/below $28.37: the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-07 (Test Runs/2026-10-07 Run - ATR AptarGroup.md; OUT at Q7 at $120.25; $42.19 equity-only); the price at which the midpoint of the range earns the floor on owner cash after the company's tax. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "BMI-v5-fair",
+   "ticker": "BMI",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 38.2,
+   "active": true,
+   "label": "BMI at/below $38.2: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "CB-v5-fair",
+   "ticker": "CB",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 115.5,
+   "active": true,
+   "label": "CB at/below $115.5: the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-07 (Test Runs/2026-10-07 Run - CB Chubb.md; OUT at Q7 at $334.21 under the insurer sector method; $147.4 equity-only). A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "CHD-v5-fair",
+   "ticker": "CHD",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 34.13,
+   "active": true,
+   "label": "CHD at/below $34.13: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "CL-v5-fair",
+   "ticker": "CL",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 33.91,
+   "active": true,
+   "label": "CL at/below $33.91: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "CMG-v5-fair",
+   "ticker": "CMG",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 13.24,
+   "active": true,
+   "label": "CMG at/below $13.24: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "CSL-v5-fair",
+   "ticker": "CSL",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 143.72,
+   "active": true,
+   "label": "CSL at/below $143.72: the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-07 (Test Runs/2026-10-07 Run - CSL Carlisle.md; OUT at Q7 at $325.74; $183.65 equity-only). A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "CTAS-v5-fair",
+   "ticker": "CTAS",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 51.72,
+   "active": true,
+   "label": "CTAS at/below $51.72: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "ECL-v5-fair",
+   "ticker": "ECL",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 8.09,
+   "active": true,
+   "label": "ECL at/below $8.09: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "EFX-v5-fair",
+   "ticker": "EFX",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 40.36,
+   "active": true,
+   "label": "EFX at/below $40.36: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md; the default pair gives no positive fair price, so the organic pair's figure is used (specific (c) as amended). A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "EPAC-v5-fair",
+   "ticker": "EPAC",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 11.23,
+   "active": true,
+   "label": "EPAC at/below $11.23: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "ITW-v5-fair",
+   "ticker": "ITW",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 68.5,
+   "active": true,
+   "label": "ITW at/below $68.5: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "JKHY-v5-fair",
+   "ticker": "JKHY",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 57.11,
+   "active": true,
+   "label": "JKHY at/below $57.11: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "AME-v5-fair",
+   "ticker": "AME",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 32.18,
+   "active": true,
+   "label": "AME at/below $32.18: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "LOW-v5-fair",
+   "ticker": "LOW",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 110.05,
+   "active": true,
+   "label": "LOW at/below $110.05: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "MA-v5-fair",
+   "ticker": "MA",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 259.13,
+   "active": true,
+   "label": "MA at/below $259.13: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "MSA-v5-fair",
+   "ticker": "MSA",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 48.82,
+   "active": true,
+   "label": "MSA at/below $48.82: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "NDSN-v5-fair",
+   "ticker": "NDSN",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 77.13,
+   "active": true,
+   "label": "NDSN at/below $77.13: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "ORLY-v5-fair",
+   "ticker": "ORLY",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 38.12,
+   "active": true,
+   "label": "ORLY at/below $38.12: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "OTIS-v5-fair",
+   "ticker": "OTIS",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 15.2,
+   "active": true,
+   "label": "OTIS at/below $15.20: the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-10 (Test Runs/2026-10-10 Run - OTIS Otis Worldwide.md; OUT at Q7 at $65.95; $31.21 equity-only). A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "HUBB-v5-fair",
+   "ticker": "HUBB",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 137.02,
+   "active": true,
+   "label": "HUBB at/below $137.02: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "ETN-v5-fair",
+   "ticker": "ETN",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 94.09,
+   "active": true,
+   "label": "ETN at/below $94.09: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "ABG-v5-fair",
+   "ticker": "ABG",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 166.1,
+   "active": true,
+   "label": "ABG at/below $166.1: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "TSCO-v5-fair",
+   "ticker": "TSCO",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 16.2,
+   "active": true,
+   "label": "TSCO at/below $16.2: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "PBH-v5-fair",
+   "ticker": "PBH",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 24.97,
+   "active": true,
+   "label": "PBH at/below $24.97: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   }
  ]
 }

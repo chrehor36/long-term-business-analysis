@@ -1,0 +1,33 @@
+year   OC(equity-only)  OC(all-equity)
+2014     47.2     49.2
+2015    167.8    169.6
+2016    117.4    119.8
+2017     68.9     70.9
+2018    226.6    229.1
+2019    239.6    242.0
+2020    131.8    134.8
+2021    188.3    191.3
+2022    545.2    547.9
+2023    327.2    324.2
+2024    221.2    217.0
+2025    175.8    176.6
+
+ALL-EQUITY (central): literal window 2021-25 avg 291.4, growth 2021->2025 -2.0%/yr
+  cycle base (trough 2020 to trough 2025: 2020-24 avg) 283.0; prior cycle 2016-19 avg 165.4; growth between cycle averages 12.7%/yr
+  net cash added 304.8
+  range whole business 5,054 to 13,781; width 2.73x
+  per share $157.92 to $415.05; midpoint $286.48
+  fair price (midpoint of the two cases valued at the 10% floor) $151.41
+  literal window beside: $140.01 (growth -2.0%) to $162.32 (no growth)
+
+EQUITY-ONLY (beside): literal window 2021-25 avg 291.5, growth 2021->2025 -1.7%/yr
+  cycle base (trough 2020 to trough 2025: 2020-24 avg) 282.7; prior cycle 2016-19 avg 163.1; growth between cycle averages 13.0%/yr
+  net cash added 0.0
+  range whole business 5,049 to 14,122; width 2.80x
+  per share $148.77 to $416.11; midpoint $282.44
+  fair price (midpoint of the two cases valued at the 10% floor) $144.63
+  literal window beside: $134.08 (growth -1.7%) to $153.40 (no growth)
+
+OI cycle check: 2016-19 avg 274.5, 2020-24 avg 384.5, growth 7.8%/yr
+price 169.11 x shares 33.936925 = market cap 5739.1; EV = 5434.2
+owner-cash yield on EV at cycle base: 5.21%

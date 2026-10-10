@@ -1,0 +1,42 @@
+2009 27.6 28.7 0.0
+2010 7.8 10.3 7.3
+2011 24.5 22.7 4.0
+2012 25.3 25.9 51.5
+2013 19.1 24.9 15.4
+2014 22.0 25.4 20.8
+2015 14.5 24.3 1.9
+2016 44.1 44.0 1.8
+2017 33.5 36.5 20.376
+2018 48.4 45.6 8.048
+2019 72.2 68.1 0.0
+2020 79.1 75.9 29.1
+2021 78.5 73.9 45.3
+2022 73.1 67.9 0.0
+2023 89.9 91.0 17.127
+2024 129.6 131.3 3.0
+2025 156.6 159.6 184.024
+mcap 3586.5 net debt -83.7 EV 3502.8
+literal window avg OC 105.5 acq avg 49.9 growth 2021-25 18.9
+cycle 2019-25 avg OC 97.0 acq avg 39.8 prior cycle 2011-18 avg 28.9 growth between cycle avgs 17.5
+sales peak-to-peak 2008-2025 CAGR 7.24
+W1 window, acq deducted, total growth: base 55.6 g 18.9% | value 987-4334 ($M) ratio 4.39 | per share $36.93-$152.39 | fair(10%) EV 1318 -> $48.37/sh | EV/hi 0.81
+W2 window, acq left out, total growth (NOT ALLOWED, shown for scale): base 105.5 g 18.9% | value 1871-8219 ($M) ratio 4.39 | per share $67.44-$286.43 | fair(10%) EV 2501 -> $89.15/sh | EV/hi 0.43
+C1 cycle 2019-25, acq deducted, growth between cycles: base 57.2 g 17.5% | value 1014-4014 ($M) ratio 3.96 | per share $37.88-$141.37 | fair(10%) EV 1258 -> $46.27/sh | EV/hi 0.87
+X1 window base acq deducted, growth cut back to sales p2p: base 55.6 g 7.2% | value 987-1751 ($M) ratio 1.77 | per share $36.93-$63.29 | fair(10%) EV 736 -> $28.29/sh | EV/hi 2.00
+X2 cycle base acq deducted, growth cut back to sales p2p: base 57.2 g 7.2% | value 1014-1800 ($M) ratio 1.77 | per share $37.88-$64.99 | fair(10%) EV 757 -> $29.01/sh | EV/hi 1.95
+D1 depreciation variant window acq deducted, total growth: base 54.8 g 21.2% | value 972-5111 ($M) ratio 5.26 | per share $36.42-$179.21 | fair(10%) EV 1485 -> $54.11/sh | EV/hi 0.69
+EQ window acq deducted total growth: base 58.4 value 1035-4548 per share $35.72-$156.90 fair $47.73
+EQ cycle acq deducted cut back: base 59.1 value 1049-1861 per share $36.18-$64.20 fair $27.00
+growth for 10 yrs needed to earn 10% at EV on W1 26.3 %
+growth for 10 yrs needed to earn 10% at EV on C1 25.9 %
+growth for 10 yrs needed to earn 10% at EV on 2025 alone, no acq 11.6 %
+owner-cash yield on EV: 2025 4.47 % ; window avg 3.01 % ; window avg less acq 1.59 %
+--- additions
+EQ window acq deducted cut back (central X1, equity-only): base 58.4 value 1035-1838 per share $35.72-$63.39 fair $26.66
+organic sales growth by year [9.2, 12.0, 24.4, 17.5, 6.1] CAGR 2021-2025 (4 yrs) 14.8
+O1 organic pair: acq left out, organic growth: base 105.5 g 14.8% | value 1871-6005 ($M) ratio 3.21 | per share $67.44-$210.06 | fair(10%) EV 2007 -> $72.13/sh | EV/hi 0.58
+O2 organic pair cut back to sales p2p: base 105.5 g 7.2% | value 1871-3321 ($M) ratio 1.77 | per share $67.44-$117.45 | fair(10%) EV 1397 -> $51.07/sh | EV/hi 1.05
+growth at which the TOP of the range (5.64%) equals EV, W1 base 16.1 %
+growth at which the TOP of the range (5.64%) equals EV, O base (acq left out) 7.9 %
+2025 OC margin 17.1 % ; margin needed in yr10 at 18.9% OC growth with 7.24% sales growth 47.8 %
+gross margin 2025 41.7% (10-K)

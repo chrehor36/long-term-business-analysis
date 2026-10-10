@@ -1,0 +1,15 @@
+('ae', 'all', {2022: 1096.5, 2023: 1192.3, 2024: 1430.8, 2025: 1496.2, 2026: 1669.4}, 1377.0, 11.08, 11.42)
+('ae', 'noacq', {2022: 1260.7, 2023: 1238.7, 2024: 1617.6, 2025: 1729.1, 2026: 1833.9}, 1536.0, 9.82, 12.55)
+('ae', 'maint', {2022: 1252.0, 2023: 1312.8, 2024: 1746.2, 2025: 1810.6, 2026: 1910.4}, 1606.4, 11.14, 13.21)
+('eq', 'all', {2022: 1023.4, 2023: 1105.1, 2024: 1355.2, 2025: 1419.8, 2026: 1588.6}, 1298.4, 11.62, 12.22)
+('eq', 'noacq', {2022: 1187.6, 2023: 1151.5, 2024: 1542.0, 2025: 1652.7, 2026: 1753.1}, 1457.4, 10.23, 13.34)
+('eq', 'maint', {2022: 1178.9, 2023: 1225.6, 2024: 1670.6, 2025: 1734.2, 2026: 1829.6}, 1527.8, 11.61, 14.02)
+net debt 2196.0
+DEFAULT (c): all spending incl. acquisitions; no growth / total growth [ae] range $55.53 to $141.17  width 2.54x  fair $48.86  return at price 1.70% (end 1) to 4.25% (end 2)
+CENTRAL (e): maintenance-only no growth / all spending at total growth [ae] range $65.69 to $141.17  width 2.15x  fair $51.72  return at price 1.98% (end 1) to 4.25% (end 2)
+ORGANIC PAIR: acquisitions left out; organic revenue growth 9.1% [ae] range $62.57 to $134.47  width 2.15x  fair $49.73  return at price 1.90% (end 1) to 4.05% (end 2)
+DEFAULT (c): all spending incl. acquisitions; no growth / total growth [eq] range $57.53 to $144.25  width 2.51x  fair $52.60  return at price 1.65% (end 1) to 4.29% (end 2)
+CENTRAL (e): maintenance-only no growth / all spending at total growth [eq] range $67.69 to $144.25  width 2.13x  fair $55.46  return at price 1.94% (end 1) to 4.29% (end 2)
+ORGANIC PAIR: acquisitions left out; organic revenue growth 9.1% [eq] range $64.57 to $132.80  width 2.06x  fair $52.39  return at price 1.85% (end 1) to 3.96% (end 2)
+UniFirst owner cash ex-acq [71.7, -30.8, 34.7, 125.1, 130.4] avg 66.2 cash paid 2863.4
+COMBINED (beside) [ae] range $59.86 to $132.74  fair $45.14

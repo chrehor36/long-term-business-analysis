@@ -1,0 +1,28 @@
+year   OCF   SBC capex  D&A  acq | OC all  OC maint
+2014  1800   177   241  375   12 |   1370    1236
+2015  1163   187   215  371    4 |    757     601
+2016  2566   201   253  389   16 |   2096    1960
+2017  3789   220   345  407   68 |   3156    3094
+2018  3787   258   622  457    6 |   2901    3066
+2019  3247   263   441  363   28 |   2515    2593
+2020  3804   307   422  376  107 |   2968    3014
+2021  5442   346   668  394   12 |   4416    4690
+2022  5399   413   787  444  441 |   3758    4101
+2023  8700   490  1106  515   25 |   7072    7663
+2024  8677   577  1190  392    0 |   6808    7606
+2025  7958   668  2260  435   29 |   5001    6826
+
+market cap 420,821  net debt -7,957  EV 412,864
+
+LITERAL WINDOW FY2021-25, maint-only   equity-only base   6,177 g shown   9.8% used   9.8%  range $   138 - $   301 /sh (width 2.18x)  fair $   116  (mid-case g  5.8%)
+LITERAL WINDOW FY2021-25, maint-only   all-equity  base   6,176 g shown   8.5% used   8.5%  range $   148 - $   280 /sh (width 1.95x)  fair $   119  (mid-case g  4.9%)
+LITERAL WINDOW FY2021-25, all spending equity-only base   5,411 g shown   3.2% used   3.2%  range $   121 - $   155 /sh (width 1.28x)  fair $    76  (mid-case g  1.7%)
+LITERAL WINDOW FY2021-25, all spending all-equity  base   5,410 g shown   1.7% used   1.7%  range $   131 - $   148 /sh (width 1.14x)  fair $    82  (mid-case g  0.9%)
+WHOLE CYCLE FY2019-25 base, maint-only equity-only base   5,213 g shown  17.4% used  17.4%  range $   116 - $   457 /sh (width 3.93x)  fair $   145  (mid-case g 11.4%)
+WHOLE CYCLE FY2019-25 base, maint-only all-equity  base   5,212 g shown  17.4% used  17.4%  range $   126 - $   467 /sh (width 3.93x)  fair $   155  (mid-case g 11.4%)
+WHOLE CYCLE FY2019-25 base, all spending equity-only base   4,648 g shown  14.6% used  14.6%  range $   104 - $   328 /sh (width 3.15x)  fair $   111  (mid-case g  9.2%)
+WHOLE CYCLE FY2019-25 base, all spending all-equity  base   4,647 g shown  14.6% used  14.6%  range $   114 - $   338 /sh (width 3.15x)  fair $   121  (mid-case g  9.2%)
+
+all-equity maint-only base 6,176; EV at price 412,864; growth for ten years the price needs at 5.64%: 16.9%; at 10%: 27.2%
+owner-cash yield at price, equity-only maint-only: 1.47%; all spending: 1.29%
+cash tax rate FY2021-25 15.7%; extra tax at 21% statutory per year 422

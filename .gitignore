@@ -109,5 +109,21 @@ Framework/v5/_inbox/*
 Framework/v5/synthesis/_work/
 Framework/v5/tests/_work_*/
 
+# XBRL fact dumps saved as <TICKER>_facts.json, added 2026-10-07 by the ATR re-run (12 MB of peers committed). Re-fetchable;
+# not the provenance record. Prevents future additions; the committed files are untracked with git rm --cached.
+Test Runs/_research*/**/*_facts.json
+
+# MORE FILING-DUMP SHAPES, added 2026-10-07 at the v5 re-run batch 2 fold: 26 files over 200 KB entered the index in one
+# morning under names no pattern above caught (facts.json bare, <TICKER>_k2025.txt, k2025t.txt, jointproxy_424b3.txt).
+# Re-fetchable from EDGAR; not the provenance record. From this fold on, every re-run fold also lists the batch's tracked
+# research files over 200 KB and untracks the filing dumps among them, so a new naming shape is caught the day it appears.
+Test Runs/_research*/**/*facts.json
+Test Runs/_research*/**/*_k20*.txt
+Test Runs/_research*/**/k20*.txt
+Test Runs/_research*/**/*_q20*.txt
+Test Runs/_research*/**/*424b*.txt
+Test Runs/_research*/**/*424B*.txt
+Test Runs/_research*/**/*proxy*.txt
+
 # coursework, never published
 MBA - UNG/

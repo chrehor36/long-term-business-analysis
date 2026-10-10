@@ -1,0 +1,54 @@
+year  OCFcont   SBC   capex  ATnetint  owner cash (all-equity)  equity-only
+2021    332.1   27.0   105.5     62.3      261.9      199.6
+2022    940.4   25.0   158.8     60.4      817.0      756.6
+2023   1037.2   31.7   110.8     42.9      937.6      894.7
+2024   1039.2   32.9   100.9     10.1      915.5      905.4
+2025   1103.6   34.8   131.2     41.2      853.8      812.6
+literal window 2021-25 mean: all-equity 757.1, equity-only 713.8
+cycle base 2022-25 mean:     all-equity 881.0, equity-only 842.3
+acquisitions mean: literal 483.7, cycle 211.8
+halves growth literal window (2021-22 vs 2024-25, 3 yrs): 0.1793
+halves growth cycle base (2022-23 vs 2024-25, 2 yrs): 0.0042
+end-year growth cycle base 2022->2025: 0.0148
+organic: 2022 0.3118 2023 -0.1584 2024 0.0716 2025 -0.0290; 2021-25 CAGR 0.0353; 2022-25 CAGR -0.0433
+
+market cap 12936, net debt 2224.6, EV 15161
+CCM margin 2022-25 0.2863, 2020-21 recast 0.2208; after-tax owner cash not credited: 184.8
+A credited, cycle base, no growth: C=881.0 g=0.0000  EV=15,620  per share $337.29
+B credited, cycle base, organic 2021-25 growth: C=881.0 g=0.0353  EV=20,661  per share $464.22
+C uncredited (CCM at 2020-21 margin), no growth: C=696.2 g=0.0000  EV=12,344  per share $254.79
+D default pair: cycle base less acquisitions, total growth (end years 2022-25): C=669.1 g=0.0148  EV=13,337  per share $279.82
+E literal window 2021-25, no growth: C=757.1 g=0.0000  EV=13,425  per share $282.01
+F literal window less acquisitions, halves growth 2021-25: C=273.4 g=0.1793  EV=19,829  per share $443.28
+
+RANGE (all-equity): $254.79 to $464.22; width 1.82 to one; midpoint $359.51
+fair EV at 10%: 9,087; fair price all-equity $172.79
+expected return at the price (midpoint stream, all-equity): 0.0612
+expected return at the price, top case alone: 0.0755; bottom alone: 0.0459
+equity-only: after-tax net interest run-rate 63.9; range $282.28 to $482.50; fair price equity-only $210.52; expected return at price 0.0658
+
+==== Q7 CENTRAL CONSTRUCTION ====
+capex 2022-25 mean 125.4; maintenance (2025 depreciation) 74.6; growth and cost-reduction spending 50.8
+CWT share of 2022-25 segment operating income 0.1243 (carried at no growth)
+BOTTOM uncredited no growth (maint only): year-1 cash 747.0; EV 13,245; per share $277.48; return at price 0.0493
+TOP credited organic growth: year-1 cash 908.2; EV 20,555; per share $461.55; return at price 0.0750
+credited no growth (maint only): year-1 cash 931.8; EV 16,521; per share $359.99; return at price 0.0615
+literal window no growth (maint only): year-1 cash 808.0; EV 14,326; per share $304.71; return at price 0.0533
+all-spending top, beside: year-1 cash 908.2; EV 20,034; per share $448.44; return at price 0.0734
+RANGE all-equity $277.48 to $461.55; width 1.66:1; midpoint $369.52
+FAIR PRICE all-equity: EV 9,289 less net debt -> $177.89; expected return at the price 0.0626
+EQUITY-ONLY: after-tax interest 63.9; range $304.97 to $489.04; fair price $217.82; expected return at price 0.0682
+old-basis CCM margin 0.1465: owner cash 486.7; per share $183.95
+
+==== DEFAULT PAIR, as the brief and Q7 (c) name it ====
+total growth of aggregate owner cash 2022->2025 (end years): 0.0148; acquisitions + growth spending per year 262.6
+credited, no growth, maintenance only (no purchases): yr1 931.8; EV 16,521; $359.99; return at price 0.0615
+credited, total growth, purchases deducted: yr1 681.2; EV 16,351; $355.71; return at price 0.0604
+uncredited, no growth, maintenance only: yr1 747.0; EV 13,245; $277.48; return at price 0.0493
+uncredited, total growth, purchases deducted: yr1 494.0; EV 12,718; $264.23; return at price 0.0483
+literal window 2021-25, no growth, maintenance only: yr1 808.0; EV 14,326; $304.71; return at price 0.0533
+organic pair beside: credited, organic growth, growth spending charged: yr1 908.2; EV 20,555; $461.55; return at price 0.0750
+RANGE (default pair, change not credited at the bottom): $264.23 to $359.99; width 1.36:1; midpoint $312.11
+FAIR PRICE all-equity $143.72 (fair EV 7,932); expected return at the price on the midpoint stream 0.0545
+EQUITY-ONLY range $291.72 to $387.47; fair price $183.65; expected return at the price 0.0586
+credited-only default pair: $355.71 to $359.99; fair $169.14

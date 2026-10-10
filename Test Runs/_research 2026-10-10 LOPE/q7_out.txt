@@ -1,0 +1,11 @@
+2021 eff tax 21.4%  invest inc pre 49.1 after 38.6  owner cash all-equity 234.1  equity-only 272.7
+2022 eff tax 23.1%  invest inc pre 2.6 after 2.0  owner cash all-equity 171.0  equity-only 173.0
+2023 eff tax 21.1%  invest inc pre 10.4 after 8.2  owner cash all-equity 177.8  equity-only 186.0
+2024 eff tax 22.3%  invest inc pre 15.9 after 12.3  owner cash all-equity 226.3  equity-only 238.6
+2025 eff tax 22.8%  invest inc pre 14.0 after 10.8  owner cash all-equity 214.3  equity-only 225.1
+ALL-EQUITY literal           base  204.7 growth[end-to-end] -2.19%  range $128.50-$150.76  width 1.19x  mid(at r) $139.14  FAIR(mid at 10%) $ 83.49  price-implied yr1 yield 5.26%
+ALL-EQUITY literal           base  204.7 growth[halves]  2.83%  range $150.76-$186.14  width 1.25x  mid(at r) $167.44  FAIR(mid at 10%) $ 97.00  price-implied yr1 yield 5.26%
+EQUITY-ONLY literal          base  219.1 growth[end-to-end] -4.68%  range $103.83-$150.09  width 1.45x  mid(at r) $124.75  FAIR(mid at 10%) $ 71.85  price-implied yr1 yield 5.26%
+EQUITY-ONLY literal          base  219.1 growth[halves]  1.33%  range $150.09-$166.77  width 1.11x  mid(at r) $158.21  FAIR(mid at 10%) $ 87.92  price-implied yr1 yield 5.26%
+ALL-EQUITY ex-settlement     base  211.4 growth[end-to-end]  1.42%  range $155.34-$172.59  width 1.12x  mid(at r) $163.72  FAIR(mid at 10%) $ 95.62  price-implied yr1 yield 5.43%
+ALL-EQUITY ex-settlement     base  211.4 growth[halves]  5.37%  range $155.34-$232.35  width 1.53x  mid(at r) $189.73  FAIR(mid at 10%) $107.91  price-implied yr1 yield 5.43%

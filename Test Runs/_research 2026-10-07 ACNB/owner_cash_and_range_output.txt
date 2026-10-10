@@ -1,0 +1,29 @@
+year  NI    normCredit  OC    OC/avgA%
+2018  21.75   2.26   21.83  1.347
+2019  23.72   2.32   22.85  1.353
+2020  18.39   3.01   24.24  1.025
+2021  27.83   2.79   26.59  0.985
+2022  35.75   2.71   34.79  1.279
+2023  31.69   2.83   31.24  1.306
+2024  31.85   3.00   28.27  1.161
+2025  37.05   4.15   40.87  1.278
+literal 5-yr (2021-25) mean OC 32.35 mean OC/assets % 1.202
+cycle 2018-25 mean OC/assets % 1.217
+assets base 3273.5 TCE ratio % 10.47
+cycle base 2018-25 OC0 39.83 no-growth 706.2 69.44 /sh  2% growth 771.8 75.89 /sh
+literal window 2021-25 OC0 39.34 no-growth 697.5 68.58 /sh  2% growth 761.5 74.88 /sh
+literal as-reported aggregate mean OC 32.35 no-growth value/sh 56.4
+
+--- all-equity basis (holding-company debt is the financing; deposits and FHLB advances are the bank's raw material) ---
+holding-company net debt -4.14 after-tax holdco interest 0.96
+cycle base all-equity OC 40.79 range/sh 71.52 to 78.26
+  fair price all-equity 41.18  equity-only 39.76
+literal window all-equity OC 40.3 range/sh 70.67 to 77.25
+  fair price all-equity 40.67  equity-only 39.25
+mcap 648.1 EV 644.0
+expected return at price, midpoint case, all-equity 6.58 %; equity-only 6.38 %
+owner-cash yield at price (cycle base, equity) 6.15 %
+
+--- Q6 deal test (Traditions, closed 1 Feb 2025, 2,035,246 shares at $41.10) ---
+standalone OC 29.63 value/sh at 5.64% 61.42  at 10% 34.64
+issue price/no-growth value at 5.64% 0.669

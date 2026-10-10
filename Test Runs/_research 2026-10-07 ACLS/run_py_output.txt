@@ -1,0 +1,72 @@
+==============================================================================
+AXCELIS TECHNOLOGIES INC  (ACLS)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.64%   10/06/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     141.15 USD   2026-10-06   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                 30.881M  as of 2026-08-03  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                                  30.881M  as of 2026-06-30  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)       30.881M  as of 2026-06-30  (CommonStockSharesIssued)
+  shares    30.9M      market cap 4.36B USD
+  share basis: dei cover-page count as of 2026-08-03 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-12-31      156.9     18.3      13.1       20.7       117.9       125.5
+    2024-12-31      140.8     21.0      15.8       12.2       107.6       104.0
+    2025-12-31      118.3     20.8      17.6       11.3        86.2        79.9
+          mean                                                103.9       103.1
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: capex basis in 2023; D&A basis in 2024, 2025
+  mean of the year-by-year lower: 100.6;  of the higher: 106.4  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 AllocatedShareBasedCompensationExpense; 2024 AllocatedShareBasedCompensationExpense; 2025 AllocatedShareBasedCompensationExpense
+  capex tag by year: 2023 PaymentsToAcquirePropertyPlantAndEquipment; 2024 PaymentsToAcquirePropertyPlantAndEquipment; 2025 PaymentsToAcquirePropertyPlantAndEquipment
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0001104659-26-020461, 0001558370-25-001855, 0001558370-24-001628
+    2023-12-31  other capital payment (not in capex)  us-gaap:FinanceLeasePrincipalPayments (financing section)  1.2
+    2024-12-31  other capital payment (not in capex)  us-gaap:FinanceLeasePrincipalPayments (financing section)  1.5
+    2025-12-31  other capital payment (not in capex)  us-gaap:FinanceLeasePrincipalPayments (financing section)  1.4
+
+        FY end  OCF filed OCF ex-sec  SBC+other    capex  capex alt  OE capex alt  OE D&A alt
+    2023-12-31      156.9      156.9       18.3     20.7       21.9         116.7       125.5
+    2024-12-31      140.8      140.8       21.0     12.2       13.7         106.1       104.0
+    2025-12-31      118.3      118.3       20.8     11.3       12.7          84.9        79.9
+          mean                                                              102.5       103.1
+  OCF ex-sec = OCF as filed less the securities lines' and PIK interest's effect; SBC+other = the SBC column plus
+  the other stock-pay lines; capex alt = capex plus the other capital payments. The columns
+  above are AS FILED; these are the ALTERNATES. Neither is chosen here.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 126.5  OE D&A 125.4   yield 2.90% (capex) 2.88% (D&A)
+  DIVERGENCE vs the 3-yr window: +23.2% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis  2.38%   D&A basis  2.37%   vs sovereign 5.64%
+  2. GROWTH THE PRICE ASSUMES    8.9%  (at a 5.64% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN -0.72 (lower mean) .. -0.58 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    retained
+    2016-12-31           302         101         201          71          51         114        -332
+    2017-12-31           488         135         354         133          75         121        -205
+    2018-12-31           548         140         408         178          79         129        -157
+    2019-12-31           548         129         419         140          84         140        -140
+    2020-12-31           625         143         482         203          87         161         -92
+    2021-12-31           753         214         539         295         104         195         -23
+    2022-12-31         1,014         346         667         186         170         242         119
+    2023-12-31         1,282         417         865         167         218         306         320
+    2024-12-31         1,349         336       1,013         124         203         282         470
+    2025-12-31         1,361         327       1,035         145         168         329         504
+    accessions: 0001104659-26-020461, 0001558370-17-001778, 0001558370-18-002060, 0001558370-19-001791, 0001558370-20-001858, 0001558370-21-001972, 0001558370-22-002096, 0001558370-23-002006, 0001558370-24-001628, 0001558370-25-001855
+    equity: StockholdersEquity (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings
