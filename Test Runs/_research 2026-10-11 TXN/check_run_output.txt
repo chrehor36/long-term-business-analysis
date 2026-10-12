@@ -1,0 +1,15 @@
+E-ids: none
+ids cited: 159 occurrences, 117 distinct; missing: none
+quoted fragments checked beside ids: 50; not found in the row: 8
+   earlier-in-clause ['M2011-083'] | free cash flow
+   earlier-in-clause ['M2011-083'] | accretive
+   earlier-in-clause ['M2011-083'] | excluding transaction-related costs
+   earlier-in-clause ['L2019-006'] | revenue in the range of $5.65 billion to $6.15 billion and earnings per share between $2.23 and $2.57
+   earlier-in-clause ['M2000-051'] | return 100% of free cash flow to shareholders over   time via dividends and share repurchases
+   earlier-in-clause ['L2016-008'] | ~$450 million of annual manufacturing and   operational synergies within three years post-close
+   earlier-in-clause ['L2017-004'] | accretive to Texas Instruments’ earnings per share, excluding transaction-related   costs, in the first full year
+   earlier-in-clause ['L2005-003'] | After a sustained period of growth, a market correction began in 2022
+
+Reviewed by hand: every "earlier-in-clause" flag is a quotation from a filing (TI's 10-K, 10-Q, 8-K exhibits or proxy),
+each with its filing source in the same sentence, sharing a sentence with a ledger fragment that the check found in the
+cited row (the NEAREST fragment). No ledger id stands beside words that are not the row's own.

@@ -1,0 +1,18 @@
+year  rev    OC_maint(all-eq)  OC_allcapex(all-eq)  OC_maint(eq)  OC_allcapex(eq)  OCm%rev
+2014 13045 2932 3397 2868 3333 22.5
+2015 13000 3388 3603 3297 3512 26.1
+2016 13370 3673 3747 3726 3800 27.5
+2017 14961 4535 4379 4535 4379 30.3
+2018 15784 6334 5793 6321 5780 40.1
+2019 14383 5655 5516 5670 5531 39.3
+2020 14461 5018 5102 5121 5205 34.7
+2021 18344 7744 6037 7714 6007 42.2
+2022 20028 7525 5653 7452 5580 37.6
+2023 17519 4681 830 4775 924 26.7
+2024 15641 3586 1021 3604 1039 22.9
+2025 17682 4293 2684 4047 2438 24.3
+maint_alleq: window avg 5566; literal CAGR 2021-25 -13.71%; halves CAGR -19.79%; cycle1(2015-18) 4482; cycle2(2019-23) 6124; growth between cycles 7.18%
+allcapex_alleq: window avg 3245; literal CAGR 2021-25 -18.34%; halves CAGR -31.82%; cycle1(2015-18) 4380; cycle2(2019-23) 4627; growth between cycles 1.23%
+maint_eq: window avg 5518; literal CAGR 2021-25 -14.89%; halves CAGR -20.39%; cycle1(2015-18) 4470; cycle2(2019-23) 6146; growth between cycles 7.34%
+allcapex_eq: window avg 3198; literal CAGR 2021-25 -20.18%; halves CAGR -33.05%; cycle1(2015-18) 4368; cycle2(2019-23) 4649; growth between cycles 1.40%
+revenue growth between cycle averages 3.88%; revenue CAGR 2014-2025 2.80%; revenue 2015->2025 3.12%

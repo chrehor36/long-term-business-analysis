@@ -1,0 +1,1 @@
+EQPT: no overlapping OCF/D&A/capex annual facts. UNRESEARCHED.

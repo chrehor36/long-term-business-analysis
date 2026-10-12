@@ -11,3 +11,15 @@ Working notes for the run file `Test Runs/2026-10-10 Run - PNR Pentair.md`. Raw 
 - Q2 written: IN (Pool decides 49.1%; POOL supplier shares 2014-2025; 2026 destock vs Hayward/POOL).
 - Q3 WEIGHS FOR; Q4 WEIGHS AGAINST, no STOP (receivables looked at twice, collected). Q3 and Q4 committed together (one commit).
 - Q5: integrity IN (closest call, recorded), ability WEIGHS AGAINST.
+- RESUME (second session, same day): run file and notes read; resumed at Q6. Q7 draft (q7.py / q7_out.txt) checked: inputs
+  match the filed cash-flow statements, but it predates the 2026-10-10 amendments (c: purchases stop after year ten;
+  f: sales-growth cut; floor tested first), so it is kept as the record and superseded by q7_final.py / q7_final_out.txt.
+- Q6 WEIGHS AGAINST (A: fixed-sum buybacks at $71-$100 above every cut range; growth bought; Taco $1.425B debt-financed,
+  no filed record; all-stock STOP not met. B: pay on adjusted figures and revenue, 10-yr fixed options, Aon benchmarking;
+  independent chair, ROIC element). Buyback line uses Q7 bottom $36.95.
+- Q7 OUT: central all-equity default pair, g cut 9.08% -> 2.62% (sales), $36.95-$49.63 vs $52.47; expected return 4.5-5.4%;
+  no case reaches 10% (max allowed 8.04% uncut; bound 9.44%). Fair $13.43 all-equity, $17.49 equity-only. Taco beside $28.03-$40.71.
+- Tax: low rate structural (Swiss rate difference), carryforwards not a rate driver; Q7 statutory convention not triggered.
+- Q5 misquote corrected before completion: M1994-008 "treat their owners" (was "treat the shareholders"); self-audit records it.
+- rows.py (ledger lookup), check_quotes.py (no E-ids; ids exist; fragments in rows).
+- Final: Q8-Q12 NOT REACHED; box OUT at Q7; AFTER THE STOP, self-audit, framework notes written; check_quotes 0 problems; check_framework PASS.

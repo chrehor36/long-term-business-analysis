@@ -1,0 +1,58 @@
+year  OCF   SBC  capex  ownercash(eq) +int(1-t)=unlev  NCIdist  unlev-NCI  eq-NCI  D&Avariant  acq   sales  unlev%sales
+2021   -12.8   6.6    8.7     -27.0         -27.0      0.0     -27.0   -27.0     -32.1  285.9   260.1    -10.4
+2022    44.9  10.1   18.6      16.4          21.3     12.3       9.0     4.1     -16.3    2.4   654.1      3.3
+2023    65.9  10.3   16.0      40.0          47.3     13.5      33.8    26.5      19.2    0.0   719.2      6.6
+2024    46.6   6.9   17.3      22.5          28.4     10.9      17.5    11.6       4.7    0.0   642.9      4.4
+2025    53.5   5.5   16.5      31.5          35.4      6.4      29.0    25.1      14.0    0.0   609.8      5.8
+
+DEFAULT literal 2021-25 base (unlev, after NCI dist, acquisitions deducted): -45.2
+DEFAULT literal equity-only base: -49.61
+A all-equity (NCI dist deducted), net debt halves 21.38 23.27 g 4.32
+A all-equity (NCI dist deducted), net debt: base 22.32, g 4.3%: whole 398.6-561.8; per share 17.92 to 25.87; width 1.41; fair/share 11.25; claims 30.5
+A equity-only halves 15.28 18.35 g 9.58
+A equity-only: base 16.82, g 9.6%: whole 300.3-642.0; per share 14.62 to 31.25; width 2.14; fair/share 12.04; claims 0.0
+B all-equity, put claim + net debt halves 34.28 31.94 g -3.48
+B all-equity, put claim + net debt: base 33.11, g -3.5%: whole 449.2-591.3; per share 12.49 to 19.40; width 1.32; fair/share 5.07; claims 192.7
+B equity-only, put claim halves 28.19 27.02 g -2.09
+B equity-only, put claim: base 27.61, g -2.1%: whole 417.9-493.0; per share 12.45 to 16.11; width 1.18; fair/share 4.67; claims 162.2
+default pair in combined window g 7.39
+A default 2022-25: base 21.72, g 7.4%: whole 387.9-697.2; per share 17.40 to 32.46; width 1.80; fair/share 12.60; claims 30.5
+market cap 116.3 EV(A) 146.8 EV(B) 309.0
+max unlev owner cash share of sales 0.0657484830113962
+
+--- the cap of specific (f): growth carried ten years against the highest share of sales of the same series ---
+sales halves 686.6 626.3 sales growth -4.49
+A all-equity: shown g 4.3%, yr10 share 5.6% vs max 4.8% -> CUT to sales growth -4.5%
+   A all-equity: base 22.32, g -4.5%: whole 279.9-398.6; per share 12.14 to 17.92; width 1.42; fair/share 7.98; claims 30.5
+A equity-only: shown g 9.6%, yr10 share 6.9% vs max 4.1% -> CUT to sales growth -4.5%
+   A equity-only: base 16.82, g -4.5%: whole 210.9-300.3; per share 10.27 to 14.62; width 1.42; fair/share 7.13; claims 0.0
+B all-equity: shown g -3.5%, yr10 share 3.8% vs max 6.6% -> kept -3.5%
+   B all-equity: base 33.11, g -3.5%: whole 449.2-591.3; per share 12.49 to 19.40; width 1.32; fair/share 5.07; claims 192.7
+B equity-only: shown g -2.1%, yr10 share 3.7% vs max 5.6% -> kept -2.1%
+   B equity-only: base 27.61, g -2.1%: whole 417.9-493.0; per share 12.45 to 16.11; width 1.18; fair/share 4.67; claims 162.2
+A default 2022-25: shown g 7.4%, yr10 share 7.3% vs max 4.8% -> CUT to sales growth -4.5%
+   A default 2022-25: base 21.72, g -4.5%: whole 272.3-387.9; per share 11.77 to 17.40; width 1.42; fair/share 7.72; claims 30.5
+
+--- the reporting set (combined window 2022-25; growth after the cap of (f)) ---
+A default all-equity (CENTRAL): shown g 7.4% cut to -4.5%
+   : base 21.72, g -4.5%: whole 272.3-387.9; per share 11.77 to 17.40; width 1.42; fair/share 7.72; claims 30.5
+A default equity-only: shown g 14.2% cut to -4.5%
+   : base 16.22, g -4.5%: whole 203.3-289.6; per share 9.90 to 14.10; width 1.42; fair/share 6.88; claims 0.0
+A acq left out all-equity: shown g 4.3% cut to -4.5%
+   : base 22.32, g -4.5%: whole 279.9-398.6; per share 12.14 to 17.92; width 1.42; fair/share 7.98; claims 30.5
+A acq left out equity-only: shown g 9.6% cut to -4.5%
+   : base 16.82, g -4.5%: whole 210.9-300.3; per share 10.27 to 14.62; width 1.42; fair/share 7.13; claims 0.0
+B default all-equity: shown g -1.7% kept
+   : base 32.51, g -1.7%: whole 505.7-580.5; per share 15.24 to 18.88; width 1.15; fair/share 5.57; claims 192.7
+B default equity-only: shown g 0.1% kept
+   : base 27.01, g 0.1%: whole 482.3-484.8; per share 15.58 to 15.70; width 1.01; fair/share 5.28; claims 162.2
+
+literal window 2021-25, default pair: all-equity base -45.2 ; per-share value of the no-growth case -40.78 ; at 10% -23.49
+depreciation-only variant 2024, 2025: 25.8 33.1 vs capex basis 22.5 31.5
+book equity per share 2025: 11.78
+
+--- beside: the cap read on all filings read (2019 consolidated owner cash 33.3 on sales 397.6 = 8.4%), i.e. A uncut ---
+A default all-equity, uncut 7.3 % of 2025 sales in year ten
+   : base 21.72, g 7.4%: whole 387.9-697.2; per share 17.40 to 32.46; width 1.80; fair/share 12.60; claims 30.5
+A default equity-only, uncut 10.0 % of 2025 sales in year ten
+   : base 16.22, g 14.2%: whole 289.6-886.5; per share 14.10 to 43.16; width 3.06; fair/share 14.54; claims 0.0

@@ -5,8 +5,9 @@
 
 | ticker | company | run of record | active alert(s) |
 |---|---|---|---|
-| ABG | Asbury Automotive Group, Inc. | `Test Runs/2026-10-05 Run - ABG Asbury Automotive.md` | `ABG-v5-fair` $166.1 |
+| ABG | Asbury Automotive Group, Inc. | `Test Runs/2026-10-12 Run - ABG Asbury Automotive.md` | `ABG-v5-fair` $102.33 |
 | ADP | Automatic Data Processing, Inc. | `Test Runs/2026-10-06 Run - ADP Automatic Data Processing.md` | `ADP-v5-fair` $108.88 |
+| ADRZY | Andritz AG | `Test Runs/2026-10-12 Run - ADRZY Andritz.md` | `ADRZY-v5-fair` EUR 35.02 |
 | AME | AMETEK, Inc. | `Test Runs/2026-10-10 Run - AME AMETEK.md` | `AME-v5-fair` $32.18 |
 | ATR | AptarGroup, Inc. | `Test Runs/2026-10-07 Run - ATR AptarGroup.md` | `ATR-v5-fair` $28.37 |
 | AXP | American Express Company | `Test Runs/2026-10-06 Run - AXP American Express.md` | `AXP-v5-fair` $137.51 |
@@ -21,10 +22,12 @@
 | CSL | Carlisle Companies Incorporated | `Test Runs/2026-10-07 Run - CSL Carlisle.md` | `CSL-v5-fair` $143.72 |
 | CSW | CSW Industrials, Inc. | `Test Runs/2026-10-05 Run - CSW CSW Industrials.md` | `CSW-v5-fair` $35.71 |
 | CTAS | Cintas Corporation | `Test Runs/2026-10-07 Run - CTAS Cintas.md` | `CTAS-v5-fair` $51.72 |
+| DPMAY | Diploma PLC | `Test Runs/2026-10-12 Run - DPMAY Diploma.md` | `DPMAY-v5-fair` GBp 453.0 |
 | ECL | Ecolab Inc. | `Test Runs/2026-10-07 Run - ECL Ecolab.md` | `ECL-v5-fair` $8.09 |
 | EFX | Equifax Inc. | `Test Runs/2026-10-07 Run - EFX Equifax.md` | `EFX-v5-fair` $40.36 |
 | EPAC | Enerpac Tool Group Corp. | `Test Runs/2026-10-07 Run - EPAC Enerpac.md` | `EPAC-v5-fair` $11.23 |
 | ETN | Eaton Corporation plc | `Test Runs/2026-10-05 Run - ETN Eaton.md` | `ETN-v5-fair` $94.09 |
+| FAST | Fastenal Company | `Test Runs/2026-10-12 Run - FAST Fastenal.md` | `FAST-v5-fair` $11.29 |
 | GD | General Dynamics Corporation | `Test Runs/2026-10-06 Run - GD General Dynamics.md` | `GD-v5-fair` $142.9 |
 | HD | The Home Depot, Inc. | `Test Runs/2026-10-06 Run - HD Home Depot.md` | `HD-v5-fair` $128.76 |
 | HON | Honeywell International Inc. | `Test Runs/2026-10-06 Run - HON Honeywell.md` | `HON-v5-fair` $89 |
@@ -43,17 +46,20 @@
 | PBH | Prestige Consumer Healthcare Inc. | `Test Runs/2026-10-05 Run - PBH Prestige Consumer Healthcare.md` | `PBH-v5-fair` $24.97 |
 | PG | The Procter & Gamble Company | `Test Runs/2026-10-06 Run - PG Procter & Gamble.md` | `PG-v5-fair` $65.38 |
 | PM | Philip Morris International Inc. | `Test Runs/2026-10-06 Run - PM Philip Morris International.md` | `PM-v5-fair` $58.07 |
+| PNR | Pentair plc | `Test Runs/2026-10-10 Run - PNR Pentair.md` | `PNR-v5-fair` $13.43 |
 | POOL | Pool Corporation | `Test Runs/2026-10-05 Run - POOL Pool Corporation.md` | `POOL-v5-fair` $141.59 |
 | REYN | Reynolds Consumer Products Inc. | `Test Runs/2026-10-06 Run - REYN Reynolds Consumer Products.md` | `REYN-v5-fair` $14.48 |
+| SBUX | Starbucks Corporation | `Test Runs/2026-10-10 Run - SBUX Starbucks.md` | `SBUX-v5-fair` $33.48 |
 | SHW | The Sherwin-Williams Company | `Test Runs/2026-10-06 Run - SHW Sherwin-Williams.md` | `SHW-v5-fair` $99.37 |
+| TECH | Bio-Techne Corporation | `Test Runs/2026-10-11 Run - TECH Bio-Techne.md` | `TECH-v5-fair` $13.96 |
 | TRV | The Travelers Companies, Inc. | `Test Runs/2026-10-06 Run - TRV Travelers.md` | `TRV-v5-fair` $156 |
 | TSCO | Tractor Supply Company | `Test Runs/2026-10-05 Run - TSCO Tractor Supply.md` | `TSCO-v5-fair` $16.2 |
+| TXN | Texas Instruments Incorporated | `Test Runs/2026-10-11 Run - TXN Texas Instruments.md` | `TXN-v5-fair` $74.1 |
+| UNP | Union Pacific Corporation | `Test Runs/2026-10-11 Run - UNP Union Pacific.md` | `UNP-v5-fair` $59.3 |
 | V | Visa Inc. | `Test Runs/2026-10-06 Run - V Visa.md` | `V-v5-add` $300; `V-v5-fair` $143.74 |
 | WMT | Walmart Inc. | `Test Runs/2026-10-06 Run - WMT Walmart.md` | `WMT-v5-fair` $13.36 |
-
-*Dated note 2026-10-10: every alert in the table was restated that day under Part VII's fair-price definition (each end case valued at ten percent, the two averaged, less net debt where the run gives it); CB, BRK.B, TRV, HON, ATR and CSL could not be restated from their runs' own figures and keep their earlier alerts. The record is `Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md`.*
 
 ## The v4.1 gate-clearers awaiting a v5 run
 *Names that cleared Q1 to Q4 under the archived v4.1 and have not yet been run under v5. Their v4.1 bands stay active until the v5 run replaces them; each leaves this list when its v5 run is folded (and enters the table above if it passes). The order is `Screens/_daily/_v5_rerun_order.txt`.*
 
-PNR, RPM, SBUX, SHOP, SPGI, TECH, TXN, UNP.
+.

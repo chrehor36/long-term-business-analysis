@@ -4,6 +4,16 @@
 # 2026-10-10: the operator's sheet (Screens/_input/list_operator_sheet_2026-10-10.csv, the new names only) is inserted
 # after the v4.1 gate-clearers and before the rest of the v4.1 names, in the sheet's own group order, financials and foreign
 # names included (operator's choices of 2026-10-10). The done file is shared: a name is done when its ticker is a line in it.
+# 2026-10-12: the Japanese list (resume-state to-do item 9, owed since 2026-10-02) placed first at the operator's request; four are trading-house peers of a holding.
+MTSUY
+ITOCY
+MARUY
+SSUMY
+NPNYY
+FUJIY
+FJTSY
+JAPAY
+NTDOY
 ACLS
 ACNB
 AMAT

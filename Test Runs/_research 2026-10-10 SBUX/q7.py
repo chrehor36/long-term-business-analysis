@@ -19,7 +19,7 @@ DEBT = 1498.4 + 11780.2                  # 10-Q Jun 28 2026: current + long-term
 CASHLIKE = 3449.8 + 160.5 + 313.2        # cash, short-term and long-term investments
 NETDEBT = DEBT - CASHLIKE
 CHINA_GIVEN = 0.60 * 4000.0             # 60% of the deal's filed enterprise value (~$4bn), after-window divestiture
-CHINA_GOT = 3100.0                       # total consideration filed; already inside NETDEBT at Jun 28 2026
+CHINA_GOT = 2500.0                       # net proceeds per 10-Q Q3 FY2026 cash flow discussion (total consideration $3.1bn incl. share of JV debt); already inside NETDEBT at Jun 28 2026; credited only in the equity-only figure
 
 def avg(x): return sum(x) / len(x)
 def oc(include_divest=True, levered=True, basis="capex"):

@@ -1,0 +1,52 @@
+FIELD RETURNS, computed from XBRL facts of each rival's 10-K (SEC companyfacts, fetched 2026-10-12).
+Return = operating income (or pre-tax income + interest where operating income is untagged) / (debt + equity - cash) at year end. Pre-tax, on capital including goodwill. A reporting construction of this run, labelled CONVENTION in the run file.
+
+United Rentals (URI, CIK 1067701)
+year  revenue  EBIT  margin  capital  return
+2010     2237    197    8.8%  n/a  n/a
+2011     2611    396   15.2%    3015   13.1%
+2012     4117    591   14.4%    8715    6.8%
+2013     4955   1078   21.8%    8790   12.3%
+2014     5685   1391   24.5%    9630   14.4%
+2015     5817   1518   26.1%    9503   16.0%
+2016     5762   1415   24.6%    9179   15.4%
+2017     6641   1507   22.7%   12270   12.3%
+2018     8047   1951   24.2%   15194   12.8%
+2019     9351   2152   23.0%   15294   14.1%
+2020     8530   1800   21.1%   14098   12.8%
+2021     9716   2277   23.4%   15601   14.6%
+2022    11642   3232   27.8%   18403   17.6%
+2023    14332   3827   26.7%   19349   19.8%
+2024    15345   4065   26.5%   21637   18.8%
+2025    16099   3973   24.7%   22811   17.4%
+
+Herc Holdings (HRI, CIK 1364479; 2016 onward is the standalone rental company)
+year  revenue  EBIT  margin  capital  return
+2016     1555  n/a  n/a    2472  n/a
+2017     1754  n/a  n/a    2606  n/a
+2021     2073    377   18.2%    2858   13.2%
+2022     2740    556   20.3%    3976   14.0%
+2023     3282  n/a  n/a    4875  n/a
+2024     3568  n/a  n/a    5382  n/a
+2025     4376  n/a  n/a    9917  n/a
+
+EquipmentShare (EQPT, CIK 1693736)
+year  revenue  EBIT  margin  capital  return
+2023     2557    250    9.8%  n/a  n/a
+2024     3764    218    5.8%    2689    8.1%
+2025     4379    297    6.8%    3494    8.5%
+
+Herc, from the FY2025 10-K text (accession 0001364479-26-000050), lines "Interest expense, net" and "Income before income taxes":
+2023: pre-tax 447 + interest 224 = EBIT 671 on revenue 3,282 (20.4%); capital 4,875 -> 13.8%
+2024: 291 + 260 = 551 on 3,568 (15.4%); capital 5,382 -> 10.2%
+2025: 1 + 416 = 417 on 4,376 (9.5%); capital 9,917 (after the H&E acquisition) -> 4.2%
+Herc 2018-2020 from XBRL pre-tax + interest: 2018 206 on 1,977 (10.4%), capital 2,675 -> 7.7%; 2019 238 on 1,999 (11.9%), capital 2,663 -> 8.9%; 2020 187 on 1,781 (10.5%), capital 2,361 -> 7.9%.
+
+URI rental rates through the last deep downturn (URI 10-K FY2010, accession 0001193125-11-020326): 2009 equipment rentals -26.7%, "an 11.8 percent decrease in rental rates and a 12.4 percent decrease in the volume of OEC on rent"; 2010 "a 2.1 percent decrease in rental rates". URI 2020 (10-K FY2020, accession 0001067701-21-000008): equipment rentals -10.3%, "Fleet productivity decreased 6.9 percent" (rates, time utilization and mix combined; rates not given separately).
+
+Sunbelt/Ashtead (filer): Return on investment as Ashtead defined it (LTM adjusted operating profit / average net tangible and intangible fixed assets plus net working capital, ex IFRS 16; AR2025 glossary), pre-tax:
+FY2003 4.9 | 2004 6.9 | 2005 11.0 | 2006 14.7 | 2007 12.9 | 2008 14.0 | 2009 9.7 | 2010 4.6 | 2011 7.0 | 2012 12.0  (AR2012 p.80, GBP-based)
+FY2013 16.2 | 2014 18.6 | 2015 19.4 | 2016 18.9 | 2017 17.3 | 2018 17.6 | 2019 17.8 | 2020 15.2 | 2021 14.9 | 2022 18.2 | 2023 19.2 | 2024 16.3 | 2025 14.5  (AR2022 p.168, AR2025 p.166)
+Segment RoI FY2025 excluding goodwill and intangibles: General Tool 20%, Specialty 30%, UK 7% (AR2025 glossary).
+Same basis as the rivals (year-end operating income / debt + finance leases + equity - cash), US GAAP: FY2026 2,181 / (7,583 + 171 + 7,409 - 29 = 15,134) = 14.4% (adjusted operating profit 2,500 -> 16.5%); EBIT margin 19.6% (adjusted 22.4%).
+Ashtead GFC: revenue GBP 1,073.5m (FY2009) -> 836.8m (FY2010), -22%; pre-tax profit before exceptionals GBP 87.4m -> 5.0m; capital expenditure GBP 238.3m -> 63.4m (AR2012 p.80).

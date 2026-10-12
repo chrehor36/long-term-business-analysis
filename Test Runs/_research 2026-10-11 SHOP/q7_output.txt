@@ -1,0 +1,25 @@
+effective tax rate used for interest 0.1842
+net loan originations [31.3, 158.6, 523, 464, 579]
+A central: acquisitions and net loans deducted, interest out [19.3, -2712.3, -460.6, 421.7, 653.0] mean -415.8 first half -1346.5 second half 537.4
+   share of sales [0.42, -48.44, -6.52, 4.75, 5.65]
+   no-growth value $M -7425 per share all-equity -1.52
+B organic pair: acquisitions left out [78.9, -958.6, -429.6, 451.7, 709.0] mean -29.7 first half -439.8 second half 580.4
+   share of sales [1.71, -17.12, -6.09, 5.09, 6.14]
+   no-growth value $M -531 per share all-equity 3.84
+C as-filed investing: loans not deducted, acquisitions left out [110.2, -800.0, 93.4, 915.7, 1288.0] mean 321.5 first half -344.9 second half 1101.9
+   share of sales [2.39, -14.29, 1.32, 10.31, 11.15]
+   no-growth value $M 5740 per share all-equity 8.71
+D equity-only: interest kept, acquisitions and loans deducted [31.9, -2647.8, -264, 673, 923] mean -256.8 first half -1308.0 second half 798.0
+   share of sales [0.69, -47.28, -3.74, 7.58, 7.99]
+   no-growth value $M -4585 per share all-equity 0.69
+revenue CAGR 2021-2025 0.2581
+E 2025 year alone, central definition base 653.0
+   range at 5.6%: $M 11660 86562  per share 13.32 71.53
+   at 10%: $M 6530 39730  fair per share 22.23
+   year-10 owner cash share of 2025 sales grown at same rate 5.65 %
+F 2025 year alone, loans not deducted, acq out base 1288.0
+   range at 5.6%: $M 23000 170741  per share 22.13 136.96
+   at 10%: $M 12880 78367  fair per share 39.71
+   year-10 owner cash share of 2025 sales grown at same rate 11.15 %
+market cap $M 219823 EV $M 214351
+net cash per share 4.25 with fair-value equity investments 6.82

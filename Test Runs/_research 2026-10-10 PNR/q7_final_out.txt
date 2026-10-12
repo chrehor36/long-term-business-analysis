@@ -1,0 +1,63 @@
+YEAR   UOC    EOC    ACQ   UOC/sales
+2019   294.3   265.3   272.5   10.0%
+2020   527.0   491.7    58.0   17.5%
+2021   549.3   523.6   337.1   14.6%
+2022   303.2   254.2  1580.9    7.4%
+2023   641.6   515.7     0.6   15.6%
+2024   778.0   652.8   108.0   19.1%
+2025   777.6   709.0   292.1   18.6%
+
+window FY2021-25: avg UOC 610.0, avg EOC 531.1, avg acquisitions 463.7, avg sales 4050
+shown growth: UOC 9.08%, EOC 7.87%; sales 2.62% (total); organic (core) 0.62%
+(f) test: UOC carried 10y at 9.08% = 1454 on sales 5247 = 27.7% of sales; highest UOC/sales 2019-2025 19.1% -> CUT to sales growth
+(f) test equity-only: EOC carried 10y at 7.87% = 1133 = 21.6% of sales -> cut
+
+price 52.47; market value 8376; net debt 1514.2; EV 9890
+
+== CENTRAL: all-equity, default pair (acquisitions deducted to year ten, total growth credited, cut to sales growth)
+all-equity, default pair, g = sales growth
+   whole    7413 to    9438 (width 1.27x); per share $ 36.95 to $ 49.63
+   at 10%:   3250 /   4065; FAIR per share $ 13.43
+   expected return at the price: no-growth end  4.50%, growth end  5.41%
+
+== BESIDE
+equity-only, default pair, g = sales growth (against market value)
+   whole    6004 to    7703 (width 1.28x); per share $ 37.61 to $ 48.25
+   at 10%:   2461 /   3122; FAIR per share $ 17.49
+   expected return at the price: no-growth end  4.40%, growth end  5.28%
+all-equity, default pair, shown growth UNCUT (literal, before (f))
+   whole    7413 to   16816 (width 2.27x); per share $ 36.95 to $ 95.85
+   at 10%:   3250 /   7004; FAIR per share $ 22.63
+   expected return at the price: no-growth end  4.50%, growth end  8.04%
+all-equity, default pair, Taco added to net debt, credited at nothing (no filed record)
+   whole    7413 to    9438 (width 1.27x); per share $ 28.03 to $ 40.71
+   at 10%:   3250 /   4065; FAIR per share $  4.50
+   expected return at the price: no-growth end  4.05%, growth end  4.89%
+all-equity, the no-growth end read as no purchases at all (alternative reading of (c)): owner cash flat, no growth
+   whole   10892 to   10892 (width 1.00x); per share $ 58.74 to $ 58.74
+   at 10%:   6100 /   6100; FAIR per share $ 28.72
+   expected return at the price: no-growth end  6.17%, growth end  6.17%
+all-equity, organic pair (acquisitions left out, core growth)
+   whole   10892 to   11441 (width 1.05x); per share $ 58.74 to $ 62.18
+   at 10%:   6100 /   6361; FAIR per share $ 29.54
+   expected return at the price: no-growth end  6.17%, growth end  6.47%
+equity-only, organic pair
+   whole    9483 to    9961 (width 1.05x); per share $ 59.40 to $ 62.40
+   at 10%:   5311 /   5538; FAIR per share $ 33.98
+   expected return at the price: no-growth end  6.34%, growth end  6.65%
+all-equity, organic pair, depreciation for capex
+   whole   11177 to   11740 (width 1.05x); per share $ 60.53 to $ 64.06
+   at 10%:   6259 /   6528; FAIR per share $ 30.57
+   expected return at the price: no-growth end  6.33%, growth end  6.64%
+all-equity, seven-year 2019-2025, acquisitions deducted, sales growth 5.92%
+   whole    7036 to   11955 (width 1.70x); per share $ 34.59 to $ 65.40
+   at 10%:   3205 /   5216; FAIR per share $ 16.89
+   expected return at the price: no-growth end  4.28%, growth end  6.43%
+all-equity, BEST YEAR owner cash 778 with no purchases, total sales growth (an upper bound no convention allows)
+   whole   13893 to   17109 (width 1.23x); per share $ 77.54 to $ 97.69
+   at 10%:   7780 /   9304; FAIR per share $ 44.02
+   expected return at the price: no-growth end  7.87%, growth end  9.44%
+
+TTM to 2026-06-30 equity-only owner cash 637.7 (FY2025 709.0), direction only
+
+REPORT: central range $36.95 to $49.63; fair (all-equity) $13.43; equity-only range $37.61 to $48.25, fair $17.49

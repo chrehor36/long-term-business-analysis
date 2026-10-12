@@ -4,7 +4,7 @@ under the canonical brief `Screens/_daily/_dispatch_brief.md`. Every judgment ci
 carries its accession; a STOP that returns OUT or TOO HARD closes the run and later questions are marked NOT REACHED.
 Copied from the template before any fetch (commit acc64c21).
 
-**POSITION NOTE, declared before any verdict:** blind run: not checked, by the brief's blind rule.
+**POSITION NOTE, declared before any verdict:** blind run: not checked, by the brief's blind rule. *Filled by the dispatching session at the fold (overnight cycle, 2026-10-10), after the run was committed: **not held**; `PORTFOLIO.md` carries RPM only as a row of the ranked opportunity set from the v4.1 run of 2026-08-31, in no account.*
 
 **CONTAMINATION, declared as found (the blind rule):**
 - The session's opening git status listed other files by name only, not opened: `Test Runs/2026-10-10 Run - OTIS Otis
@@ -374,3 +374,249 @@ growth spending above depreciation and the working capital.
 confusion over what the business earns **[M1995-063]**, and the tells found (an unexplained prepaid rise of about 1% of assets,
 a low-end accrual fully disclosed) do not rise to suspicion of the accounts themselves **[M1995-065]**. Against: a management
 that features adjusted figures, now EBITDA, gives guidance and counts its records **[M1994-018]**, **[M2002-026]**; carried to Q5.
+
+## Q5 — WHO RUNS IT: able, honest, in love with the business, the same after being paid. STOP on integrity.
+**The people** (proxy `0001193125-26-365259`; 10-K FY2026 executive officers; 8-K `0001193125-26-311276`): Frank C. Sullivan,
+Chairman and CEO (a director since 1995, CEO since 2008, son of the former chairman); David C. Dennsteadt, President and COO
+from 2026-07-17; Russell L. Gordon, CFO; Tracy D. Crandall, General Counsel and Chief Compliance Officer, "elected [...] in
+2024" (10-K FY2026, executive officers). Twelve director nominees, eleven independent, Robert A. Livingston Lead Director
+(director since 2017); the board declassified by the 2024 annual meeting. The CEO's brother, Thomas C. Sullivan, Jr., is Vice
+President, Corporate Development, and "earned $640,000 in salary and bonus in fiscal 2026" (proxy, Related Person
+Transactions). CEO total pay $11,133,668, a pay ratio of 185:1 (proxy, Pay Ratio Disclosure).
+
+### The first yardstick: how well they run it **[M1994-008]**
+Sales from $3.4B (FY2010) to $7.9B (FY2026); returns on the tangible capital the business needs high in every year of the span
+(Q3); the construction margin raised by about four points since FY2020 under two restructuring programmes (Q2), not yet tested
+by a construction downturn. Read against the hand dealt: a mature, fragmented field in which the larger filers (Sherwin-Williams,
+Carlisle) earn more on sales (Q2's competitor row). Capital allocation belongs to Q6. **Ability WEIGHS FOR**, with two
+reservations: the margin gains are recent, and the "records" the company counts are adjusted figures (Q4).
+
+### The habits carried from Q4, read with the integrity record
+"things that they do in public in relation to their investors and the promises they make" **[M2004-067]**: quarterly and annual
+outlooks; a featured adjusted figure, adjusted EBIT and now adjusted EBITDA; "the 16th time we have generated record adjusted EBIT
+out of the past 18 quarters" (Q4). The rows: of CEOs who "consistently reach their declared targets", "we become downright
+incredulous" **[L2002-041]**. To the company's credit, the record does not show targets always made: the three-year PSUs for
+June 2023 to May 2026 paid nothing, "each recipient earned 0.0% of the recipient's grant and forfeited 100.0% of such grant", and
+the fiscal 2026 PERS grants were awarded "at 44.4% of target" (proxy, CD&A and the outstanding-awards notes). Against that, the
+annual cash incentive for fiscal 2026 paid "approximately 130% of their salaries for fiscal 2026 or 120% of target bonus level"
+(proxy, CD&A), from a pool set at 1.5% of pre-tax income. The pay plan let the executives miss on the long-term measures; the
+habit of the featured adjusted figure and the guidance stands.
+
+### The integrity record, from the primary documents
+1. **The DOJ matter.** From 2011 to 2013 RPM and a subsidiary (Tremco Roofing, in its government contracts) were under DOJ
+   investigation for overcharging the government; the company expected to pay "approximately $65.1 million" to resolve it
+   (annual report FY2013, Exhibit 13 to `0001193125-13-300693`). The SEC's account: "RPM sent DOJ estimates showing RPM's
+   subsidiary overcharged the government on the contracts under investigation by a material amount", and "prior to submitting the
+   settlement offer to DOJ, RPM's overcharge estimates increased substantially to at least $28 million" (SEC Litigation Release
+   No. 23639, 2016-09-09, sec.gov, a primary source; saved in the research folder's cache).
+2. **What the General Counsel did not tell.** The SEC alleged that Edward W. Moore, "RPM's General Counsel and Chief Compliance
+   Officer, oversaw RPM's response to the DOJ investigation" and "did not inform RPM's CEO, CFO, Audit Committee, and independent
+   auditors, of material facts about the investigation" (same release). RPM restated three quarters of FY2013 in August 2014 and
+   disclosed a material weakness in internal control for the first two quarters of FY2013 (SEC Litigation Release No. 24994,
+   2020-12-23). The audit committee's investigation "concluded that there was no intentional misconduct on the part of any of our
+   officers" (10-K FY2016, `0001564590-16-021706`). The Wells notice of 2015 proposed a clawback of the CEO's and CFO's incentive
+   pay for the periods before the restatement; "The Staff did not indicate an intention to recommend any charges against either
+   of these officers" (10-K FY2016).
+3. **How the company answered.** After the SEC sued in 2016 the company said it believed "the allegations in the complaint
+   mischaracterize both our and our General Counsel's actions [...] and are without merit" and that it would "contest the
+   allegations in the complaint vigorously" (10-K FY2017, `0001564590-17-013863`). On 2020-12-22 it consented to a final judgment,
+   a $2.0M penalty and permanent injunctions under the reporting, books-and-records and internal-controls provisions; Moore paid
+   $22,500 and was "permanently enjoined from violating the books and records provision of Exchange Act Rule 13b2-1"; both
+   "neither admitted nor denied" (10-K FY2021, `0001564590-21-037949`; Litigation Release No. 24994).
+4. **What the board did with the man.** Moore remained General Counsel and Chief Compliance Officer, and a named executive
+   officer, into fiscal 2025 (proxy 2026, pay-versus-performance notes list him among the non-PEO NEOs for fiscal 2022 to 2025;
+   his successor was "elected [...] in 2024", 10-K FY2026): about eleven years after the conduct alleged and nearly four after
+   the injunction. Four of today's directors, the Lead Director among them, sat on the board through those years (Nance since
+   2007, Fazzolari since 2013, Deckard since 2015, Livingston since 2017; proxy). The framework's inversion of Berkshire's own rule
+   asks whether a management acted when it learned of a problem, and the row is "the main problem was they didn’t act when they
+   learned about it" **[M2017-005]**; "a pound of cure, promptly applied, is worth a ton of cure that’s delayed" **[M2017-007]**;
+   the instruction to managers is "tell us the bad news immediately" **[M1998-039]**. The conduct alleged was the opposite: rising
+   overcharge estimates kept from the CEO, the CFO, the audit committee and the auditors, the people whose job is to hear bad
+   news, while the shareholders' filings omitted the contingency.
+5. **A jury's finding of fraud at a subsidiary (2024).** A Consumer subsidiary was found by a jury to have breached contracts with
+   a former supplier, misappropriated trade secrets and committed fraud; judgment $110.8M plus interest; the company is appealing
+   and accrues $0.5M (10-K FY2026, Note P; 10-Q, Note 13). Disputed and on appeal; recorded, given less weight than the settled
+   matter.
+6. **What weighs the other way.** The restatement moved accruals between quarters and changed no fiscal year; the CEO and CFO were
+   not charged; the General Counsel was replaced in 2024; incentive pay has been allowed to fail (above); at least six of the
+   eleven independent nominees joined the board in 2021 or later (Whited 2021, Pawlikowski 2022, Beck, Mapes and Morford 2025,
+   Gentile 2026; proxy); the litigation disclosures I read in the 10-K and 10-Q are full and plain (Q4).
+
+### The judgment
+The test is not proof but doubt: "If you’ve got doubts, forget it." **[M2013-088]**; the speakers accept the cost, "we rule out
+90 percent of the times. And we may be wrong about a fair number that we’re ruling out" **[M2007-092]**; "trustworthiness is more
+important than the brains" **[M2015-047]**. The question for a part-owner is the second yardstick, "how well that they treat their
+owners" **[M1994-008]**, and whether I can count on this management to tell the owners and their auditors the bad news when it is
+theirs to hear. The record is a government-overcharging investigation in the company's largest business; on the SEC's account a
+chief compliance officer who kept the rising estimates from the CEO, the CFO, the audit committee and the auditors; a company that
+called the case meritless for four years and then took a permanent injunction; and a CEO and a board, whose senior members are
+still in place, who left the same man in charge of compliance for nearly four years after he was enjoined under the rule against
+falsifying books and records. Read with it, today's habits: the featured adjusted figure, now one that leaves out depreciation,
+which the rows call "an economic cost every bit as real as wages, materials, or taxes" **[R1996-023]**, and of the talk of which
+they say "either they’re trying to con you in some way, or they’ve conned themselves" **[M2002-026]**. "There are also readings in
+corporate culture that have to be made" **[M1998-121]**; "people leave track records in life" **[M1998-168]**; "everybody mouths
+the integrity, even when it’s lacking" **[M2010-069]**. I do not find dishonesty proved against the present CEO, and the SEC's own
+account puts the knowledge with the General Counsel, not with him; what the record leaves me is doubt about the culture of candour
+with owners and auditors at the top of this company, which the board's retention of its compliance officer shows was not treated
+as disqualifying. That is the kind of doubt the rows say closes the file **[M2013-088]**, **[M2015-047]**.
+
+**VERDICT on integrity: OUT (on doubt, M2013-088).** Ability WEIGHS FOR. The file closes here; Q6 to Q12 are NOT REACHED as
+judgments. Facts already found for later questions are written under AFTER THE STOP, and the Q7 arithmetic the owner asks for is
+reported there under COMPUTATION, NOT A CLEARANCE.
+
+## Q6 — WHAT WILL THEY DO WITH THE MONEY AND THE OWNERS? WEIGHING.
+NOT REACHED (the file closed at Q5). Facts found are under AFTER THE STOP.
+
+## Q7 — WHAT IS IT WORTH? STOP.
+NOT REACHED as a judgment. The arithmetic is under AFTER THE STOP, headed COMPUTATION, NOT A CLEARANCE.
+
+## Q8 — IS IT BETTER THAN THE ALTERNATIVES? STOP.
+NOT REACHED.
+
+## Q9 — COULD IT RUIN US: the target's debt and exposures. WEIGHING.
+NOT REACHED. Facts found are under AFTER THE STOP.
+
+## Q10 — IS IT THE FAT PITCH, and am I buying enough? WEIGHING.
+NOT REACHED.
+
+## Q12 (optional) — WOULD WE BE PROUD OF HOW THE MONEY IS MADE?
+NOT REACHED.
+
+---
+## THE BOX
+**OUT, at Q5 (integrity, on doubt).** Q1 IN, Q2 IN, Q3 weighs for modestly, Q4 weighs against without a STOP, Q5 OUT. The
+integrity facts were judged at Q5, so the flag "recorded, not judged" does not apply. For the owner's record only, the Q7
+arithmetic done after the stop (COMPUTATION, NOT A CLEARANCE): value range $71.94 to $89.52 a share, all-equity, against $97.73;
+no case computed earns the floor at the price.
+
+## AFTER THE STOP: FACTS FOUND, NOT WEIGHED
+Written down under the question each bears on **[M1997-127]**; no verdict; the box is unchanged (operator rule 2).
+
+### Bearing on Q6 (the money and the owners)
+- **Buybacks and their prices.** "we may repurchase shares [...] for prices that our management deems appropriate" (10-K FY2026,
+  Note I); no value is stated. Prices paid under the programme: FY2024 526,113 shares at an average $104.50; FY2025 581,759 at
+  $120.32; FY2026 699,931 at $110.72 (Note I); first quarter of FY2027 196 thousand shares for $22.386M, about $114.21 (10-Q,
+  equity statement and cash-flow statement). Every one of these prices is above the top of the computed range below ($89.52
+  all-equity). Earlier: $200.2M in FY2019 and $125.0M in FY2020 under a goal to "return $1.0 billion in capital to stockholders by
+  May 31, 2021" (Note I; XBRL PaymentsForRepurchaseOfCommonStock). Remaining authorization $114.8M at 2026-05-31.
+- **Dividends.** $271.7M in FY2026, about 42% of that year's owner cash (Q4 table); paid every year of the span, rising.
+- **Deals.** Cash paid for businesses about $1.75B in FY2017 to FY2026 (Q3), all in cash on the filed cash-flow statements; no
+  all-stock acquisition found in the filings read. Goodwill and intangible write-downs of about $244M in the same years (Q4).
+- **Pay and the board.** The annual cash pool is 1.5% of pre-tax income, paid at 120% of target in FY2026; the PSUs of FY2026 are
+  measured on "Adjusted EBIT Margin" and adjusted revenue growth (proxy, CD&A); the PSUs for FY2024 to FY2026 paid 0.0%. The CEO's
+  brother is employed as a vice president (Q5). CEO pay $11.1M, ratio 185:1.
+
+### Bearing on Q7: COMPUTATION, NOT A CLEARANCE
+Script `q7calc.py`, output `q7calc_out.txt`, in the research folder. USD millions unless stated. Inputs from the filed cash-flow
+statements (10-Ks FY2017 to FY2026, accessions in Step 0) and the 10-Q of 2026-08-31 (`0001193125-26-415321`).
+- **The window and the cycle (specific (a)).** The literal window is FY2022 to FY2026. FY2022 is aberrational on the filer's own
+  description (inventory built in raw-material inflation and supply shortages, 10-K FY2022, MD&A, as Q4 records) and FY2024 is the release ($179.8M of
+  inventory cash); both lie inside the window, which therefore holds the whole build and release, and its average serves as the
+  cycle base. The six-year mean FY2021 to FY2026 on the all-capex basis (469.1) is shown beside the five-year (449.3).
+- **The cash series.** Owner cash after all capital spending (OCF less stock pay less capital spending): mean 449.3. After
+  maintenance only, depreciation standing for maintenance as Q3 disclosed its guess (OCF less stock pay less depreciation): mean
+  547.3. Acquisitions net of the filer's single line "Proceeds from sales of assets and businesses": 50.9, -10.8, 8.6, 595.8,
+  179.2, mean 164.7; owner cash after all spending and purchases: mean 284.5. Working capital is inside operating cash in every
+  case (specific (d)).
+- **The growth shown.** The series changes sign (FY2022 negative), and the halves of the window give a meaningless multiple from an
+  inventory year (specific (b)); growth is therefore measured between the averages of the two successive five-year blocks FY2017
+  to FY2021 and FY2022 to FY2026 (CONVENTION of this run: (a) names growth between the averages of successive cycles, and the run
+  has no cleaner cycle than the two blocks; rationale: the only measure in the text that the series allows). Aggregate, not per
+  share. After purchases, the default pair of (c): 157.6 to 284.5, **12.5% a year**. All-capex before purchases: 310.6 to 449.3,
+  7.7% a year. Sales over the same blocks: 5,491.5 to 7,307.1, **5.9% a year**. Organic growth as the filer reports it
+  (consolidated, FY2022 to FY2026): 4.5% a year compounded.
+- **The cap (Q3 and specific (f)).** The shown 12.5% is owner-cash growth well above sales growth, and the difference is the
+  margin gain of FY2021 to FY2026 that Q2 did not credit (one inflation passed, no construction downturn). Q3's growth arithmetic
+  (about 17% to 20% pretax on the capital added, reinvestment of roughly the size of the purchases plus spending above
+  depreciation) supports growth near the sales rate. The growth carried is therefore capped at the sales growth, 5.9%; the
+  uncapped 12.5% is shown beside. (The absurdity test of (f) does not bind: 12.5% for ten years would put owner cash after
+  purchases near 7% of sales, below the 12.0% of FY2024.)
+- **Tax and basis.** Owner cash is after the company's own cash taxes (Q7, Whose tax). All-equity: after-tax interest added back,
+  interest mean 106.6 at the window's own tax rate (tax expense over pre-tax income FY2022 to FY2026, 21.4%; CONVENTION of this
+  run: the company's own average rate rather than a statutory figure; rationale: the floor is applied after the company's own
+  tax), 83.8. Net debt at 2026-08-31: current debt 407.5 plus long-term debt 1,999.0 less cash 312.8 = **2,093.7**; operating
+  lease liabilities ($334.7M long-term) left out; the captive insurers' marketable securities, held inside other assets against
+  insurance liabilities and not on the face of the balance sheet, not subtracted (CONVENTION of this run; rationale: they back
+  reserves). No subsequent event in the 10-Q changes it. Shares 127.534M.
+- **The two ends (specific (e)).** The filing allows the maintenance guess (Q3), so the case without growth is owner cash after
+  maintenance only, with no purchases; the growth case charges all spending, purchases included, against the growth it buys,
+  carried ten years, then zero nominal growth with purchases stopped (on owner cash before purchases, after all capital spending).
+  The growth case comes out above the no-growth case at the sovereign, so the growth bought is worth more than its cost at 5.60%;
+  at ten percent the two ends nearly meet (33.06 against 35.66), so at the floor the growth bought roughly breaks even.
+
+| case, per share | all-equity at 5.60% | equity-only at 5.60% | all-equity at 10% | equity-only at 10% |
+|---|---|---|---|---|
+| no growth, after maintenance only (**bottom**) | **$71.94** | $76.63 | $33.06 | $42.91 |
+| growth 5.9% (capped), all spending and purchases deducted (**top**) | **$89.52** | $87.22 | $35.66 | $42.24 |
+| beside: growth 12.5% uncapped, same spending | $166.29 | $151.05 | $68.90 | $69.60 |
+| beside: no growth, after all capital spending | $58.22 | $62.90 | $25.38 | $35.23 |
+| beside: organic pair (purchases left out, 4.5%) | $90.65 | $90.23 | $40.65 | $48.09 |
+
+- **The floor tested first.** The expected return at $97.73, all-equity: no-growth maintenance case 4.33%; capped growth case 5.26%;
+  even the uncapped 12.5% case 8.06%. No case reaches about ten percent **[M2003-149]**. The price is above the top of the range,
+  and the range (about 1.24 to one) is narrow. Were Q7 reached, this arithmetic would close it OUT, not TOO HARD.
+- **Fair price (Part VII's definition, reporting only):** all-equity ($33.06 + $35.66) / 2 = **$34.36**; equity-only ($42.91 +
+  $42.24) / 2 = **$42.57**.
+
+### Bearing on Q8 (the alternatives)
+- The 30-year Treasury at 5.60% (Step 0). Owner cash on the all-capex basis over the market value is 3.6% (449.3 over $12,464M);
+  on the all-equity basis 3.7% (533.1 over $14,558M). Below the bond with no growth.
+
+### Bearing on Q9 (the target's debt and exposures)
+- Debt $2,406.5M at 2026-08-31 (net $2,093.7M), about 5.4 times the five-year mean owner cash after all capital spending; income
+  before tax and interest covered interest about 8.8 times in FY2026 (982 over 111.5). The revolver was extended to 2031 with the
+  interest-coverage covenant removed and a 3.75x leverage covenant kept (8-K `0001193125-26-094139`); a receivables securitization
+  facility amended (8-K `0001193125-26-253577`). Operating lease liabilities $334.7M long-term (10-Q balance sheet).
+- Exposures: the $110.8M judgment plus 9% prejudgment interest against a $0.5M accrual (range to $152.5M); product-liability risk
+  carried in captive insurers with warranty reserves (Note P); the asbestos liability of the former Bondex/SPHC units resolved
+  through a section 524(g) trust (payments FY2015 and FY2018, Q4); pension plans (a favourable $44.3M change in FY2026, MD&A).
+
+### Bearing on Q12
+- Nothing found: specialty coatings, sealants, roofing and DIY products. The FY2013 government-overcharging matter is recorded at Q5.
+
+## SELF-AUDIT
+- [x] Copied to the dated file before any fetch (acc64c21); written question by question; committed after each (Step 0 eb3f4cb8,
+      Q1 ccf8c842, Q2 cddb0d02, Q3 0d340cb9, Q4 1b701c47, Q5 f6804362, this close). The run was killed after Q4 and resumed by the
+      same analyst brief from the committed file and the research folder; no closed question was redone.
+- [x] Dispatched: the brief allowed per-question pathspec commits; the dispatcher holds the lock (`Screens/_daily/_overnight.lock`,
+      read once in the first session). The fold is the dispatcher's.
+- [x] No other run file, holding review or `PORTFOLIO.md` was opened, listed or searched. Seen by accident and declared, not used
+      (resumed session, in addition to the list at the top): the session's opening git status again named other research folders
+      (AYI, ARCB), daily digests and coursework files, by name only; the five most recent commit subjects named another company's
+      run and fold (PNR: "OUT at Q7 on price", its range and a fair-price alert) and a restatement of fair-price alerts across 44
+      runs naming CB, BRK.B, TRV, HON, ATR, CSL and EFX; a directory listing of the system temp folder showed a file name with the
+      ticker LRCX. None is about RPM; none was used.
+- [x] Every v5 id resolves (`check_quotes.py` in the research folder: 69 ids, none missing, no E-ids; every fragment standing
+      directly before an id is in that row). Every filing fact carries its accession or names its filing and note; the two SEC
+      litigation releases are primary documents from sec.gov, saved to the research folder's cache.
+- [x] The order was kept; Q5 closed the file; everything after it is under AFTER THE STOP, and the Q7 figures are headed
+      COMPUTATION, NOT A CLEARANCE and carry no entry language.
+- [x] Owner cash after every real cost from the filed cash-flow statements, never a net-income proxy; the sovereign from the US
+      Treasury par yield curve, dated; the price an aggregator quote, flagged.
+- [x] Contrary evidence written down as found (the foundations list; Q5's integrity record).
+- [x] No point-in-time anchor; not applicable.
+- [x] Only the arithmetic lines of `tools/run.py` were used.
+- [x] `python tools/check_framework.py` PASS before the final commit (see the commit).
+- **Corrections found on resuming:** my own uncommitted Q5 draft said the board had thirteen directors, twelve independent; the proxy
+  has twelve nominees, eleven independent, and the run says so. The draft said the General Counsel was a named executive officer
+  "through fiscal 2024"; the proxy lists him among the NEOs for fiscal 2025 too, and the run says "into fiscal 2025". The draft
+  omitted that the FY2026 cash incentive paid 120% of target; added. No closed question (Step 0 to Q4) needed correction.
+- **Doubts about my own judgment, stated:** the Q5 close rests on a matter of FY2013 settled without admission, and on the board's
+  retention of the officer the SEC charged; a reader who weighs the age of the matter and the new board more heavily could pass Q5.
+  The box would not change: the Q7 arithmetic finds no case earning the floor at the price.
+
+## WHAT IN THE FRAMEWORK WAS WRONG OR UNCLEAR
+(1) **The Q3 cap against Q2's uncredited improvement.** Q2's convention credits a change for the better only on a full cycle, and
+Q7 carries "the growth the business has actually shown [...] capped by the growth arithmetic of Q3"; neither says how an improvement
+Q2 declined to credit is removed from Q7's growth. Here the shown owner-cash growth (12.5%) is mostly that margin gain. I capped at
+the business's own sales growth (5.9%), which is the figure (f) uses for the absurdity cut, and showed the uncapped case beside. A
+sentence in Q7 saying which growth carries a margin gain Q2 did not credit would settle it. (2) **Specific (b) and (a) on a
+sign-changing series.** The halves of a five-year window are meaningless when one year is an inventory build; (a) speaks of
+"successive cycles" but gives no fallback where cycles cannot be dated from the series. I used successive five-year blocks and
+confessed it. (3) **The no-growth end and purchases.** The text stops acquisition spending "after year ten, when growth stops"; it
+does not say that the no-growth case spends nothing on purchases in years one to ten. I read it so (a business that buys no growth
+spends nothing to buy it, the rationale the text gives) and said so. (4) **Q5's row for doubt.** **[M2013-088]** is short and, in
+its own row, follows a remark about hiring salesmen; the framework uses it as the integrity rule. It carries the rule well enough
+read with **[M2015-047]** and **[M2007-092]**, but the doubt rule leans on a thin row. (5) **The "recorded, not judged" flag** of
+Part VII is written for a file closed before Q5; for a file closed at Q5 itself the template's box line has no wording, and I wrote
+that the flag does not apply.

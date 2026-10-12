@@ -77,7 +77,13 @@ for f in os.listdir(ROOT + r"\Test Runs"):
     if m: files.setdefault(norm(m.group(2)), []).append(f)
 al = {}
 for a in d["alerts"]:
-    if a["active"]: al.setdefault(norm(a["ticker"]), []).append(f"`{a['id']}` ${a['threshold']}")
+    if not a["active"]: continue
+    # 2026-10-12: key by the alert's id prefix as well as its quoted ticker, because a foreign name's alert quotes the
+    # home-exchange share (ANDR.VI, DPLM.L) while the register lists the run's ticker (ADRZY, DPMAY).
+    keys = {norm(a["ticker"])}
+    if "-v5-" in a["id"]: keys.add(norm(a["id"].split("-v5-")[0]))
+    for k in keys:
+        al.setdefault(k, []).append(f"`{a['id']}` {a.get('currency','USD') if a.get('currency','USD')!='USD' else '$'}{a['threshold']}")
 P = ROOT + r"\Screens\V5 PASSERS - the alert list.md"
 old = open(P, encoding="utf-8").read()
 head = old.split("| ticker |")[0].rstrip("\n")

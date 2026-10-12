@@ -1,0 +1,17 @@
+2021 owner cash (OCF-SBC-capex) -498741 before interest -498741 after all interest -1259404
+2022 owner cash (OCF-SBC-capex) -972789 before interest -911813 after all interest -1506937
+2023 owner cash (OCF-SBC-capex) -2659671 before interest -2659671 after all interest -2862958
+2024 owner cash (OCF-SBC-capex) -817897 before interest -817897 after all interest -1264175
+2025 owner cash (OCF-SBC-capex) -1337774 before interest -1337774 after all interest -2057753
+5yr avg literal -1257374 all-equity -1245179 equity-only -1790245 | 2022-25 all-equity -1431789
+net debt central 12665243 alt (S-1/A) 18482372
+--- shares 4402061 market cap 17608244.0
+ value range (no-growth case alone) all-equity per share -7.93  equity-only -7.26
+ fair price all-equity -5.71  equity-only -4.07
+ 2022-25 base all-equity value -8.69 fair -6.13
+ alt net debt (S-1/A) all-equity value -9.25 fair -7.03
+--- shares 3789585 market cap 15158340.0
+ value range (no-growth case alone) all-equity per share -9.21  equity-only -8.44
+ fair price all-equity -6.63  equity-only -4.72
+ 2022-25 base all-equity value -10.09 fair -7.12
+ alt net debt (S-1/A) all-equity value -10.74 fair -8.16

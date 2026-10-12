@@ -1,0 +1,46 @@
+year  adjCFO   SBC  capex  int*(1-t)  OC_before_acq(all-equity)  OC_equity  net_acq  OC_after_acq  OC/rev
+2019   282.3  12.5   71.7     41.2      239.3      198.1     129.7     109.6   3.32%
+2020   442.6  12.6   48.8     42.5      423.7      381.2     705.0    -281.3   5.94%
+2021   632.1  16.2  299.1     70.4      387.2      316.8    3425.4   -3038.2   3.94%
+2022   987.0  20.6  107.9    114.1      972.6      858.5    -647.8    1620.5   6.30%
+2023   705.3  23.5  142.3    117.1      656.6      539.5    1213.2    -556.6   4.44%
+2024   688.4  26.7  320.1    134.3      475.9      341.6    -157.5     633.4   2.77%
+2025   651.4  27.7  205.3    140.6      559.0      418.4    1023.3    -464.3   3.11%
+
+literal window 2021-2025: OC_before avg 610.3  OC_equity avg 495.0  net acq avg 971.3  OC_after avg -361.0
+cycle 2019-2024 (trough to trough): OC_before avg 525.9  OC_equity avg 439.3  net acq avg 778.0  OC_after avg -252.1
+capex vs D&A 2025: 205.3 vs 82.4 ; ex-RE capex vs D&A: 186.0
+
+market cap 2967.1  net debt 3422.0  EV 6389.1  floor plan beside 1839.5
+
+== CYCLE 2019-2024 (central base)
+default pair (acq deducted, no-growth alone) @ 5.6%: equity    132.8  per share     7.39
+default pair (acq deducted, no-growth alone) @ 10.0%: equity  -2943.5  per share  -163.97
+organic pair g=+0% @ 5.6%: equity   5969.0  per share   332.50
+organic pair g=+0% @ 10.0%: equity   1837.0  per share   102.33
+organic pair g=-2% @ 5.6%: equity   4595.8  per share   256.01
+organic pair g=-2% @ 10.0%: equity   1176.5  per share    65.54
+equity-only beside: owner cash after interest 439.3; at 5.6% value 7844 = 436.96/sh; at 10% 4393 = 244.70/sh; yield at price 14.81%
+all-equity yield at price, no growth: 8.23%  (floor ~10%)
+
+== LITERAL WINDOW 2021-2025 (beside)
+default pair (acq deducted, no-growth alone) @ 5.6%: equity    189.4  per share    10.55
+default pair (acq deducted, no-growth alone) @ 10.0%: equity  -3287.5  per share  -183.13
+organic pair g=+0% @ 5.6%: equity   7475.9  per share   416.44
+organic pair g=+0% @ 10.0%: equity   2680.8  per share   149.33
+organic pair g=-2% @ 5.6%: equity   5882.4  per share   327.67
+organic pair g=-2% @ 10.0%: equity   1914.4  per share   106.64
+equity-only beside: owner cash after interest 495.0; at 5.6% value 8839 = 492.35/sh; at 10% 4950 = 275.71/sh; yield at price 16.68%
+all-equity yield at price, no growth: 9.55%  (floor ~10%)
+
+owner cash needed at no growth to earn 10% at the price: 638.9
+growth for 10 years needed for the cycle-base organic case valued at 10% to reach the price: 2.85% a year
+revenue CAGR 2019-2025: 16.5%
+OC_before CAGR 2019-2025: 15.2%
+
+== BESIDE
+cycle 2019-2024: D&A variant base 636.2 @ 5.6%: per share   442.18 ; organic with floor plan in net debt:   230.03
+cycle 2019-2024: D&A variant base 636.2 @ 10.0%: per share   163.75 ; organic with floor plan in net debt:    -0.14
+window 2021-2025: D&A variant base 758.0 @ 5.6%: per share   563.40 ; organic with floor plan in net debt:   313.97
+window 2021-2025: D&A variant base 758.0 @ 10.0%: per share   231.63 ; organic with floor plan in net debt:    46.86
+same-share check: fair price central (default pair) not positive -> alert on organic pair (Q7 (c), 2026-10-10)

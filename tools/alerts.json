@@ -17,8 +17,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 44.54,
-   "active": true,
-   "label": "PNR at/below $44.54: the E4-28 floor is met at the bottom boundary on 3% growth. Watch: Taco Group close and permanent financing (Q4 2026), the December board meeting for the 51st increase, and the permanent CFO appointment (seven executive changes in 14 months)."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). PNR at/below $44.54: the E4-28 floor is met at the bottom boundary on 3% growth. Watch: Taco Group close and permanent financing (Q4 2026), the December board meeting for the 51st increase, and the permanent CFO appointment (seven executive changes in 14 months)."
   },
   {
    "id": "PNR-rerun-band",
@@ -26,8 +26,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 50,
-   "active": true,
-   "label": "PNR at/below $50: full v4.1 re-run. Business cleared Q1-Q4 on 2026-09-01; failed the floor by 1.84 points. FIRST re-test: channel inventory at its largest customer - one distributor removed $170M of Pool sales and $105M of segment income in ninety days, eleven weeks after guidance of +1%. Source: Test Runs/2026-09-01 Run - PNR (Pentair) v4.1.md."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). PNR at/below $50: full v4.1 re-run. Business cleared Q1-Q4 on 2026-09-01; failed the floor by 1.84 points. FIRST re-test: channel inventory at its largest customer - one distributor removed $170M of Pool sales and $105M of segment income in ninety days, eleven weeks after guidance of +1%. Source: Test Runs/2026-09-01 Run - PNR (Pentair) v4.1.md."
   },
   {
    "id": "HD-rank-band",
@@ -89,8 +89,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 70,
-   "active": true,
-   "label": "RPM at/below $70: ranks on bottom-boundary owner earnings ($450M). Watch: the 70.6%-wide owner-earnings window, the Oregon fraud judgment ($110.8M entered, accrued at $0.5M), and whether adjusted-EBITDA promotion continues."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). RPM at/below $70: ranks on bottom-boundary owner earnings ($450M). Watch: the 70.6%-wide owner-earnings window, the Oregon fraud judgment ($110.8M entered, accrued at $0.5M), and whether adjusted-EBITDA promotion continues."
   },
   {
    "id": "RPM-rerun-band",
@@ -98,8 +98,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 86,
-   "active": true,
-   "label": "RPM at/below $86: the E4-28 floor comes within reach on judged owner earnings ($550M). Business cleared Q1-Q4 on 2026-08-31 and missed the floor by ~0.9 points (9.1% expectancy) - the closest any name has come. FIRST re-test: does the Consumer segment stop raising price into falling volume (-1.8/-1.7/-2.6% three years running)? Source: Test Runs/2026-08-31 Run - RPM (RPM International) v4.1.md."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). RPM at/below $86: the E4-28 floor comes within reach on judged owner earnings ($550M). Business cleared Q1-Q4 on 2026-08-31 and missed the floor by ~0.9 points (9.1% expectancy) - the closest any name has come. FIRST re-test: does the Consumer segment stop raising price into falling volume (-1.8/-1.7/-2.6% three years running)? Source: Test Runs/2026-08-31 Run - RPM (RPM International) v4.1.md."
   },
   {
    "id": "ITW-rerun-band",
@@ -323,8 +323,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 50,
-   "active": true,
-   "label": "SBUX at/below $50: the judged zero-growth value. SEVENTH name to clear all four gates (2026-09-04): Q2 IN NARROW on the 26-year never-negative ticket record, the prepayment franchise ($15.2bn/yr deferred, $1.75bn covenant-free float, $222M/yr breakage), and the category-wide traffic decline (BROS's own transactions were -4.5/-0.1 - the attacker did not win; the category shrank). China LEFT THE PERIMETER 2026-03-30 (Boyu 60% at $4bn EV). Judged OE $2,600M, yield 2.18% vs 5.25% - the widest price-to-value gap of any gate-clearer (price 2x judged). FIRST RE-TEST, pre-committed: if the FY2026 10-K shows traffic fading as the labor spend annualizes, the Q2 IN was wrong - chained US transactions are -13 to -17% below FY2019, WORSE than the Olive Garden number that convicted DRI. Source: Test Runs/2026-09-04 Run - SBUX Starbucks.md"
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). SBUX at/below $50: the judged zero-growth value. SEVENTH name to clear all four gates (2026-09-04): Q2 IN NARROW on the 26-year never-negative ticket record, the prepayment franchise ($15.2bn/yr deferred, $1.75bn covenant-free float, $222M/yr breakage), and the category-wide traffic decline (BROS's own transactions were -4.5/-0.1 - the attacker did not win; the category shrank). China LEFT THE PERIMETER 2026-03-30 (Boyu 60% at $4bn EV). Judged OE $2,600M, yield 2.18% vs 5.25% - the widest price-to-value gap of any gate-clearer (price 2x judged). FIRST RE-TEST, pre-committed: if the FY2026 10-K shows traffic fading as the labor spend annualizes, the Q2 IN was wrong - chained US transactions are -13 to -17% below FY2019, WORSE than the Olive Garden number that convicted DRI. Source: Test Runs/2026-09-04 Run - SBUX Starbucks.md"
   },
   {
    "id": "SBUX-ranks-band",
@@ -332,8 +332,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 33,
-   "active": true,
-   "label": "SBUX at/below $33: the top of the floor band ($19-33). Watch [E2-60] (decade: $49.6bn returned vs $25.8bn OE, equity -$8.1bn), the RPM dividend decomposition failing (earnings contribution NEGATIVE), NA store opex 51.4->56.4% of revenue, and [E4-23] key-person dependence recorded at Q2 as a moat defect. A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-10 (a v4.1 band; superseded by the v5 run of 2026-10-10). SBUX at/below $33: the top of the floor band ($19-33). Watch [E2-60] (decade: $49.6bn returned vs $25.8bn OE, equity -$8.1bn), the RPM dividend decomposition failing (earnings contribution NEGATIVE), NA store opex 51.4->56.4% of revenue, and [E4-23] key-person dependence recorded at Q2 as a moat defect. A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "ACLS-rerun-band",
@@ -530,8 +530,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 166,
-   "active": true,
-   "label": "TXN at/below $166: the top of the value band ($57-166, centre ~$110). NINETEENTH name to clear all four gates (2026-09-06). Q2 IN NARROW and NARROWING - the best analog business in an eight-name row, mid-way through a $19.7bn capacity build whose returns are NOT YET VISIBLE, priced at 47x earnings and 14.5x book for a 2.20% owner-earnings yield. Judged OE $5,200M; expectancy ~6.5% against ~10%. THE PRE-REGISTERED CONFIRMER, so it cannot be rationalised away later: capex holding at or BELOW $3bn for two consecutive years WHILE gross margin returns above 62% - that is [E3-62] answered in TXN's favour and would mean the 40% cost advantage is finally sticking to the owners' ribs. Second confirmer: incremental pre-tax return on the FY2021-25 build rising through 12% [E5-40], i.e. operating profit above ~$8.3bn on the current asset base. BREAKERS: capex guided back above $4bn for any year (the filed escape hatch resets every window), or gross margin below 56% for two consecutive quarters. Source: Test Runs/2026-09-06 Run - TXN Texas Instruments.md"
+   "active": false,
+   "label": "RETIRED 2026-10-11 (a v4.1 band; superseded by the v5 run of 2026-10-11). TXN at/below $166: the top of the value band ($57-166, centre ~$110). NINETEENTH name to clear all four gates (2026-09-06). Q2 IN NARROW and NARROWING - the best analog business in an eight-name row, mid-way through a $19.7bn capacity build whose returns are NOT YET VISIBLE, priced at 47x earnings and 14.5x book for a 2.20% owner-earnings yield. Judged OE $5,200M; expectancy ~6.5% against ~10%. THE PRE-REGISTERED CONFIRMER, so it cannot be rationalised away later: capex holding at or BELOW $3bn for two consecutive years WHILE gross margin returns above 62% - that is [E3-62] answered in TXN's favour and would mean the 40% cost advantage is finally sticking to the owners' ribs. Second confirmer: incremental pre-tax return on the FY2021-25 build rising through 12% [E5-40], i.e. operating profit above ~$8.3bn on the current asset base. BREAKERS: capex guided back above $4bn for any year (the filed escape hatch resets every window), or gross margin below 56% for two consecutive quarters. Source: Test Runs/2026-09-06 Run - TXN Texas Instruments.md"
   },
   {
    "id": "TXN-ranks-band",
@@ -539,8 +539,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 110,
-   "active": true,
-   "label": "TXN at/below $110: the judged centre. [E2-49] fires four times in this file. A ping is a prompt to re-run the gates, never an action."
+   "active": false,
+   "label": "RETIRED 2026-10-11 (a v4.1 band; superseded by the v5 run of 2026-10-11). TXN at/below $110: the judged centre. [E2-49] fires four times in this file. A ping is a prompt to re-run the gates, never an action."
   },
   {
    "id": "KLAC-rerun-band",
@@ -620,8 +620,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 31,
-   "active": true,
-   "label": "SHOP at/below $31: the top of the ZERO-GROWTH value range at the bare 5.24% sovereign ($18-$31/sh; $13.50-$20 at the E4-28 floor), with all $10,885M of cash and investments credited at face. Shopify cleared Q1-Q4 on 2026-09-07 and was quit on at Q5 at $145.09 - a business failure it is NOT, which is why a price band is the right instrument. RE-TEST FIRST: the net take rate (merchant-solutions gross profit / GMV), 0.878% in FY2025, +0.4bp on 29.5% GMV growth. Source: Test Runs/2026-09-07 Run - SHOP Shopify.md."
+   "active": false,
+   "label": "RETIRED 2026-10-11 (a v4.1 band; superseded by the v5 run of 2026-10-11). SHOP at/below $31: the top of the ZERO-GROWTH value range at the bare 5.24% sovereign ($18-$31/sh; $13.50-$20 at the E4-28 floor), with all $10,885M of cash and investments credited at face. Shopify cleared Q1-Q4 on 2026-09-07 and was quit on at Q5 at $145.09 - a business failure it is NOT, which is why a price band is the right instrument. RE-TEST FIRST: the net take rate (merchant-solutions gross profit / GMV), 0.878% in FY2025, +0.4bp on 29.5% GMV growth. Source: Test Runs/2026-09-07 Run - SHOP Shopify.md."
   },
   {
    "id": "SHOP-reread-band",
@@ -629,8 +629,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 60,
-   "active": true,
-   "label": "SHOP at/below $60: READ AGAIN, do not buy on this ping. $60 is where a buyer underwriting 15% owner-earnings growth for a decade reaches the E4-28 floor - and E4-35 says that rate is a fewer-than-1-in-20 event among the 200 most profitable companies on earth. Watch the three business falsifiers that would CLOSE the file and void both bands: net take rate falling in a filed year; merchant-solutions gross margin below 36%; Shopify Payments adoption below 85% in North America (88% at 2025-12-31, down from 91%)."
+   "active": false,
+   "label": "RETIRED 2026-10-11 (a v4.1 band; superseded by the v5 run of 2026-10-11). SHOP at/below $60: READ AGAIN, do not buy on this ping. $60 is where a buyer underwriting 15% owner-earnings growth for a decade reaches the E4-28 floor - and E4-35 says that rate is a fewer-than-1-in-20 event among the 200 most profitable companies on earth. Watch the three business falsifiers that would CLOSE the file and void both bands: net take rate falling in a filed year; merchant-solutions gross margin below 36%; Shopify Payments adoption below 85% in North America (88% at 2025-12-31, down from 91%)."
   },
   {
    "id": "SNPS-rerun-band",
@@ -692,8 +692,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 256.24,
-   "active": true,
-   "label": "SPGI at/below $256.24: the E4-28 floor is met on g = 5.0%, below the +6.1%/yr realised rate because that rate runs from a mid-cycle issuance year (FY2019) TO a boom year (FY2025) and the four-year rate across the IHS Markit merger is +1.5%/yr. Q1-Q4 all IN on 2026-09-18; Q5 failed the floor by 0.73 points at $404.11 (expectancy 9.27%, owner-earnings yield 3.17% against a 5.29% sovereign). Prompt for a FULL v4.1 re-run, not a purchase, and sized DOWN if it clears because the E5-08(2) flag is live. VOID if any Q2 falsifier has fired: any enacted US, EU or UK rule regulating rating remuneration, mandating rotation, or removing a regulatory reference to ratings (E2-59 - this one voids Q2 outright); S&P's share of NRSRO ratings outstanding below 45% (Form NRSRO Item 7A, filed each March; 49.4% now); the Ratings segment margin below Moody's MIS's for two consecutive years (the gap is +2.9 points and narrowing); Ratings transaction revenue per dollar of total billed issuance below 5.0 bp for two years (5.71 bp in 2025, now published monthly); the S&P DJI EBITDA-margin gap to MSCI's Index segment widening past 8 points (5.4 now). Source: Test Runs/2026-09-18 Run - SPGI S&P Global.md."
+   "active": false,
+   "label": "RETIRED 2026-10-11 (a v4.1 band; superseded by the v5 run of 2026-10-11). SPGI at/below $256.24: the E4-28 floor is met on g = 5.0%, below the +6.1%/yr realised rate because that rate runs from a mid-cycle issuance year (FY2019) TO a boom year (FY2025) and the four-year rate across the IHS Markit merger is +1.5%/yr. Q1-Q4 all IN on 2026-09-18; Q5 failed the floor by 0.73 points at $404.11 (expectancy 9.27%, owner-earnings yield 3.17% against a 5.29% sovereign). Prompt for a FULL v4.1 re-run, not a purchase, and sized DOWN if it clears because the E5-08(2) flag is live. VOID if any Q2 falsifier has fired: any enacted US, EU or UK rule regulating rating remuneration, mandating rotation, or removing a regulatory reference to ratings (E2-59 - this one voids Q2 outright); S&P's share of NRSRO ratings outstanding below 45% (Form NRSRO Item 7A, filed each March; 49.4% now); the Ratings segment margin below Moody's MIS's for two consecutive years (the gap is +2.9 points and narrowing); Ratings transaction revenue per dollar of total billed issuance below 5.0 bp for two years (5.71 bp in 2025, now published monthly); the S&P DJI EBITDA-margin gap to MSCI's Index segment widening past 8 points (5.4 now). Source: Test Runs/2026-09-18 Run - SPGI S&P Global.md."
   },
   {
    "id": "SPGI-rerun-band",
@@ -701,8 +701,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 328.51,
-   "active": true,
-   "label": "SPGI at/below $328.51: the E4-28 floor is met only if the full realised +6.1%/yr growth in owner earnings per diluted share (FY2019-FY2025, continuing) is granted in perpetuity. Prompt for a FULL v4.1 re-run in which that growth assumption is re-tested first - the same measure on comparable ex-Mobility perimeters four years apart is +1.5%/yr. Owner earnings three-year continuing mean $3,777M, band $3,050-3,800M. RE-DERIVE THE BANDS AT THE Q3 2026 10-Q (late October 2026), which is the FIRST filing to present Mobility as discontinued operations and reallocate the stranded corporate costs, and again at the FY2026 10-K (February 2027)."
+   "active": false,
+   "label": "RETIRED 2026-10-11 (a v4.1 band; superseded by the v5 run of 2026-10-11). SPGI at/below $328.51: the E4-28 floor is met only if the full realised +6.1%/yr growth in owner earnings per diluted share (FY2019-FY2025, continuing) is granted in perpetuity. Prompt for a FULL v4.1 re-run in which that growth assumption is re-tested first - the same measure on comparable ex-Mobility perimeters four years apart is +1.5%/yr. Owner earnings three-year continuing mean $3,777M, band $3,050-3,800M. RE-DERIVE THE BANDS AT THE Q3 2026 10-Q (late October 2026), which is the FIRST filing to present Mobility as discontinued operations and reallocate the stranded corporate costs, and again at the FY2026 10-K (February 2027)."
   },
   {
    "id": "KO-rerun-band",
@@ -836,8 +836,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 128.47,
-   "active": true,
-   "label": "UNP at/below $128.47: the E4-28 floor is met at g = 3.1% (nominal freight revenue 1997-2025 and five-year owner earnings 2016-20 to 2021-25; carloads flat over 28 years) on the three-year capex-end owner earnings of $5,266.3M and 594,075,498 cover shares. Q1-Q4 all IN on 2026-09-27 (Q2 NARROW); Q5 quit on at $273.79 (yield 3.24-3.99% against a 5.49% sovereign, expectancy 6.3-9.0%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag live on the Norfolk Southern merger and the 2021-25 buybacks). STANDALONE ONLY: VOID on the merger's closing (about 225M new shares and $20bn of new debt), re-derive on the combined perimeter (about $105-$251 a share on the run's constructions); re-derive after the $2.5bn fee if the STB refuses. VOID if any Q2 falsifier has fired: an STB rate standard built on revenue adequacy, a general reciprocal-switching rule, or merger conditions opening UNP corridors to another carrier; real freight revenue per carload ex fuel below the prior year in 2026 and 2027; the operating ratio within 3 points of BNSF's for two years; ROIC as adjusted below 12% for two years. Source: Test Runs/2026-09-27 Run - UNP Union Pacific.md."
+   "active": false,
+   "label": "RETIRED 2026-10-11 (a v4.1 band; superseded by the v5 run of 2026-10-11). UNP at/below $128.47: the E4-28 floor is met at g = 3.1% (nominal freight revenue 1997-2025 and five-year owner earnings 2016-20 to 2021-25; carloads flat over 28 years) on the three-year capex-end owner earnings of $5,266.3M and 594,075,498 cover shares. Q1-Q4 all IN on 2026-09-27 (Q2 NARROW); Q5 quit on at $273.79 (yield 3.24-3.99% against a 5.49% sovereign, expectancy 6.3-9.0%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag live on the Norfolk Southern merger and the 2021-25 buybacks). STANDALONE ONLY: VOID on the merger's closing (about 225M new shares and $20bn of new debt), re-derive on the combined perimeter (about $105-$251 a share on the run's constructions); re-derive after the $2.5bn fee if the STB refuses. VOID if any Q2 falsifier has fired: an STB rate standard built on revenue adequacy, a general reciprocal-switching rule, or merger conditions opening UNP corridors to another carrier; real freight revenue per carload ex fuel below the prior year in 2026 and 2027; the operating ratio within 3 points of BNSF's for two years; ROIC as adjusted below 12% for two years. Source: Test Runs/2026-09-27 Run - UNP Union Pacific.md."
   },
   {
    "id": "UNP-rerun-band",
@@ -845,8 +845,8 @@
    "currency": "USD",
    "op": "<=",
    "threshold": 218.46,
-   "active": true,
-   "label": "UNP at/below $218.46: the E4-28 floor is met only if E4-44's 5% ceiling on perpetual growth is granted on the three-year depreciation limit ($6,489.0M), a (c) end the filings say is never reached (capex above depreciation in all 23 filed years; E5-20). Prompt for a FULL v4.1 re-run in which the growth and the (c) end are re-tested before either is spent. STANDALONE ONLY: VOID on the merger's closing; re-derive both UNP bands on the 2026 10-K (about February 2027) or at the closing, whichever is first."
+   "active": false,
+   "label": "RETIRED 2026-10-11 (a v4.1 band; superseded by the v5 run of 2026-10-11). UNP at/below $218.46: the E4-28 floor is met only if E4-44's 5% ceiling on perpetual growth is granted on the three-year depreciation limit ($6,489.0M), a (c) end the filings say is never reached (capex above depreciation in all 23 filed years; E5-20). Prompt for a FULL v4.1 re-run in which the growth and the (c) end are re-tested before either is spent. STANDALONE ONLY: VOID on the merger's closing; re-derive both UNP bands on the 2026 10-K (about February 2027) or at the closing, whichever is first."
   },
   {
    "id": "JKHY-floor-band",
@@ -1578,15 +1578,6 @@
    "label": "ETN at/below $94.09: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
   },
   {
-   "id": "ABG-v5-fair",
-   "ticker": "ABG",
-   "currency": "USD",
-   "op": "<=",
-   "threshold": 166.1,
-   "active": true,
-   "label": "ABG at/below $166.1: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
-  },
-  {
    "id": "TSCO-v5-fair",
    "ticker": "TSCO",
    "currency": "USD",
@@ -1603,6 +1594,87 @@
    "threshold": 24.97,
    "active": true,
    "label": "PBH at/below $24.97: the restated fair price. RESTATED 2026-10-10 under Part VII's fair-price definition (each end case valued at 10%, the two averaged, less net debt where the run gives it), Test Runs/ADDENDUM 2026-10-10 - fair prices restated under the 2026-10-10 definition.md. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "PNR-v5-fair",
+   "ticker": "PNR",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 13.43,
+   "active": true,
+   "label": "PNR at/below $13.43: the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-10 (Test Runs/2026-10-10 Run - PNR Pentair.md; OUT at Q7 at $52.47; $17.49 equity-only; $4.50 with Taco added to net debt). A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "SBUX-v5-fair",
+   "ticker": "SBUX",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 33.48,
+   "active": true,
+   "label": "SBUX at/below $33.48: the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-10 (Test Runs/2026-10-10 Run - SBUX Starbucks.md; OUT at Q7 at $90.75; $38.74 equity-only; $12.49 on the literal window). A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "TECH-v5-fair",
+   "ticker": "TECH",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 13.96,
+   "active": true,
+   "label": "TECH at/below $13.96: the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-11 (Test Runs/2026-10-11 Run - TECH Bio-Techne.md; OUT at Q7 at $72.46; $12.85 equity-only; the literal window is the base). The quote is pinned by Merck KGaA's $73.00 cash merger. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "TXN-v5-fair",
+   "ticker": "TXN",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 74.1,
+   "active": true,
+   "label": "TXN at/below $74.10: the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-11 (Test Runs/2026-10-11 Run - TXN Texas Instruments.md; OUT at Q7 at $283.74; $79.76 equity-only; base the 2020-2023 cycle; $65.89 with Silicon Labs as if closed). A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "UNP-v5-fair",
+   "ticker": "UNP",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 59.3,
+   "active": true,
+   "label": "UNP at/below $59.30: the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-11 (Test Runs/2026-10-11 Run - UNP Union Pacific.md; OUT at Q7 at $278.34; $88.94 equity-only; literal FY2021-FY2025 window; standalone, the Norfolk Southern merger pending, $80.81-$115.58 a share as if closed). A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "ADRZY-v5-fair",
+   "ticker": "ANDR.VI",
+   "currency": "EUR",
+   "op": "<=",
+   "threshold": 35.02,
+   "active": true,
+   "label": "ADRZY (Andritz AG; alert on the Vienna ordinary share ANDR.VI in euros) at/below EUR 35.02: the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-12 (Test Runs/2026-10-12 Run - ADRZY Andritz.md; OUT at Q7 at EUR 81.40; EUR 31.84 equity-only; 2016-2025 owner-cash base). Set by hand at the fold because tools/v5_rerun_fold.py arms alerts in USD on the register ticker. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "DPMAY-v5-fair",
+   "ticker": "DPLM.L",
+   "currency": "GBp",
+   "op": "<=",
+   "threshold": 453.0,
+   "active": true,
+   "label": "DPMAY (Diploma PLC; alert on the London ordinary share DPLM.L in pence) at/below 453p (GBP 4.53): the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-12 (Test Runs/2026-10-12 Run - DPMAY Diploma.md; OUT at Q7 at 7,785p; GBP 7.00 equity-only; FY2021-FY2025 window). Set by hand at the fold because tools/v5_rerun_fold.py arms alerts in USD on the register ticker. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "FAST-v5-fair",
+   "ticker": "FAST",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 11.29,
+   "active": true,
+   "label": "FAST at/below $11.29: the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-12 (Test Runs/2026-10-12 Run - FAST Fastenal.md; OUT at Q7 at $51.55; $11.16 equity-only; literal FY2021-FY2025 window, growth cut to the 8.07% sales rate). A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "ABG-v5-fair",
+   "ticker": "ABG",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 102.33,
+   "active": true,
+   "label": "ABG at/below $102.33: the fair price on the organic case, all-equity, of the blind v5 re-run of 2026-10-12 (Test Runs/2026-10-12 Run - ABG Asbury Automotive.md; OUT at Q7 at $165.28; the central case is negative at ten percent; $244.70 equity-only; floor-plan notes outside net debt by the run's convention). A prompt to re-run Q7, never a verdict."
   }
  ]
 }

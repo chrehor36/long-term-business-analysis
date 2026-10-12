@@ -4,7 +4,7 @@ the one fifteen test runs used (`Framework/v5/tests/PROTOCOL - running a name un
 bottom; every judgment cites a v5 ledger id in bold; every filing fact carries its accession; a STOP that returns OUT or
 TOO HARD closes the run and later questions are marked NOT REACHED. **Copy this file to its dated name before any fetch.**
 
-**POSITION NOTE, declared before any verdict:** blind run: not checked, by the brief's blind rule.
+**POSITION NOTE, declared before any verdict:** blind run: not checked, by the brief's blind rule. *Filled by the dispatching session at the fold (overnight cycle, 2026-10-11), after the run was committed: **not held**; `PORTFOLIO.md` carries SBUX only as a row of the ranked opportunity set from the v4.1 run of 2026-09-04, in no account.*
 
 **Dispatched run.** Brief: `Screens/_daily/_dispatch_brief.md`, slots filled by the dispatching session's message of
 2026-10-10. Working folder `Test Runs/_research 2026-10-10 SBUX/` (notes in `notes.md`; arithmetic in `q7.py`; raw filings
@@ -306,85 +306,308 @@ weighed above as the narrowing.
   cash flow statements: operating cash less stock pay less all capital spending less acquisitions (Q7).
 
 ## Q5 — WHO RUNS IT: able, honest, in love with the business, the same after being paid. STOP on integrity.
-- The two yardsticks; the tells of dishonesty (the proxy, the letters, how they talk about mistakes); love of the
-  business; what ability shows in. Integrity applied on doubt alone.
-- The habits carried from Q4 (targets made or beaten, guidance, the adjusted figure featured), read with the integrity
-  record; doubt closes **[M2013-088]**.
-- **VERDICT on integrity: IN / OUT; ability WEIGHS FOR / AGAINST**, with ids.
+*(Resumed 2026-10-11 by a dispatched analyst after the run was killed at the session limit; Q5 onward written in that
+session from the research folder's cache, no file refetched. The resume's reading of the file above it changed nothing
+in it.)*
+
+The question: "do we really want to be in partnership with this person" **[M2015-005]**, answered for a marketable stock by
+reading, not meeting **[M2007-081]**. The people are the chairman and chief executive since September 2024, Brian Niccol,
+the chief financial officer since 2025, Cathy Smith, and the board that chose them.
+
+- **The first yardstick: the record against "the hand they were dealt"** **[M1994-008]**. The hand in September 2024:
+  North America comparable transactions -5% in FY2024 after pricing past the customer (Q2, test 4), a segment margin of
+  19.8% falling, China losing to Luckin. The record since: comparable transactions fell a further 4% in FY2025, then rose
+  3.9% in the first three quarters of FY2026 and 4.5% in the third quarter, with ticket up rather than given back (10-Q Q3
+  FY2026; EX-99.1 to `0000829224-26-000129`); 627 stores closed in the fourth quarter of FY2025 (10-K FY2025 store table
+  note) and about 250 more announced on 2026-09-24 (`0000829224-26-000145`); China sold down to 40% at a filed gain of
+  $536.3M (10-Q Q3 FY2026, Note 2 and income statement); debt cut from $16.1B to $13.3B (Q4). Against it: the margin has
+  not come back (11.5% FY2025, 11.8% for three quarters of FY2026), and two years is short: the rows buy a record where
+  "we’ve actually seen they batted .350" **[M2005-039]**. His record before Starbucks is in another company's filings,
+  which were not read for this run, and is not used.
+- **The second yardstick: "see how they treat themselves versus how they treat the shareholders"** **[M1994-009]** (DEF 14A
+  `0001213900-26-007780`, summary compensation table and its notes; DEF 14A `0001213900-25-006516`).
+  - FY2024: $95,801,676, of which $90,291,772 in stock awards, the "make whole" replacement grants of a target value of
+    $80,000,000 for equity forfeited at his former employer, and a $5,000,000 signing bonus.
+  - FY2025: $30,992,773: salary $1,599,998; bonus $5,000,000 (the second signing instalment); stock awards $19,881,585;
+    annual cash incentive $1,971,000, which is 54.8% of the $3,600,000 target, the financial part paying 39.7% of target;
+    all other $2,540,190. The formula part of the pay fell with the results.
+  - Perquisites: the offer letter provided "a remote office in his city of primary residence", which the company opened in
+    FY2025; commuting between that city and Seattle on company aircraft; personal use of the aircraft limited to $250,000 a
+    year until September 2025, when the independent directors replaced the limit with a quarterly review by two directors,
+    on a security study's recommendation; aircraft cost $997,392 and security $1,142,700 in FY2025; "In fiscal year 2025,
+    Mr. Niccol paid Starbucks $0 pursuant to his time-sharing agreement." All of it is disclosed, itemised and explained.
+    It is a fact about how a chief executive treats himself, weighed at Q6, Part B; it is not concealment.
+- **The reports** **[M1998-036]**, read against "accounting can offer you a lot of insight into the character of
+  management" **[M1995-064]**. The 10-K tells an owner what he would want to know: comparable transactions and ticket
+  separately for each segment, stores opened and closed by market, each restructuring plan with its charges by kind, the
+  Nestle prepayment and how it is used. The industry's key figure, traffic, is given every quarter, including in the two
+  years it fell; it is not "touched on [...] in a dishonest manner" **[M2007-082]**. Bad news is told: the closures of
+  September 2025 are explained in the filer's own words as stores that "did not demonstrate a viable path to profitability"
+  (10-K FY2025 MD&A), and the risk factors say "We have in the past failed, and may in the future fail, to meet announced
+  guidance or market expectations" (10-K FY2025 Item 1A). That is the conduct the rows ask for, "tell us the bad news
+  immediately" **[M1998-039]**, and the opposite of the taboo that "always made me nervous" **[L2024-003]**.
+- **The habits carried from Q4, read with the rest** **[M2004-067]**. Guidance in non-GAAP terms, the non-GAAP EPS printed
+  beside the GAAP figure, and restructuring that has recurred since FY2019 presented as excludable. Against a finding of
+  doubt: the GAAP figure leads the release; the reconciliation is short and names every item (restructuring and
+  transformation costs, transaction costs, the China gain and their tax); stock pay is not excluded; no EBITDA appears;
+  the company itself warns that its guidance has been missed. No target is shown to have been made by accounting: the
+  FY2025 bonus paid at 54.8% of target and the 10-K reports the misses. Under the rows' wording these habits are "a
+  negative" **[M1994-018]**, carried into Q6, Part B (guidance and the adjusted metric in the share awards).
+- **The integrity record in the filings read.** No restatement, no SEC enforcement action, no auditor dismissal (Deloitte
+  ratified in 2025 and 2026, 8-Ks `0000829224-25-000024` and `0000829224-26-000058`), no related-party dealings with the
+  principal accounting officer (8-K `0000829224-26-000106`). Legal proceedings are "litigation matters associated with labor
+  union organizing efforts and certain employment litigation" said not to be material (10-K FY2025 Note 16, Commitments and Contingencies, on legal
+  proceedings), and the risk factors concede that the company's "position with respect to unions" could "expose us to
+  legal risk". The rows' front-page test reaches conduct toward employees as well as owners **[M2016-033]**. The decisions of
+  the labour board are not SEC filings and were not read: **a gap, recorded, not filled by impression.** On what was read,
+  the dealings with owners show no tell the rows name: nothing too good to be true **[M2002-028]**, no stock price in the
+  lobby **[M2004-067]**, no figure obscured.
+- **Love of the business.** Not readable from filings for a hired chief executive beyond conduct: he took the job and its
+  replacement grants; the 2025 "Back to Starbucks" share awards ($6M target) pay only if operating expense falls and the
+  service, store-uplift, menu and rewards programmes are delivered (DEF 14A 2026). The rows say there is "no checklist in
+  the world" for the after-the-cheque question **[M2016-066]**; for a stock, the yardsticks carry the weight **[M2007-081]**.
+- **Ability.** The rows weigh it heavily for a retailer: "Buying a retailer without good management is like buying the
+  Eiffel Tower without an elevator." **[L1995-006]**; and it enters value as "the degree of certainty" **[M1999-104]**. The
+  turnaround has restored traffic in three quarters and has not yet restored margin; the finance chair has changed twice
+  in 2025 (the former chief financial officer terminated without cause in March 2025, an interim, then Ms Smith; DEF 14A
+  2026), and the principal accounting officer role moved in June 2026.
+- **VERDICT on integrity: IN.** On the filings read there is no doubt about honesty with owners **[M2013-088]**: the
+  reports tell the bad news and the key figure **[M1998-036]**, **[M1998-039]**, and the Q4 habits are disclosed and
+  reconciled, a negative and not a tell **[M1994-018]**. The labour-board record is an unread gap, named under SELF-AUDIT.
+  **Ability WEIGHS FOR, thinly**: traffic restored against a bad hand **[M1994-008]**, but two years is not a long record
+  **[M2005-039]**, and for a retailer the weight on the manager is heavy **[L1995-006]**.
 
 ## Q6 — WHAT WILL THEY DO WITH THE MONEY AND THE OWNERS? WEIGHING.
-- Part A: the retention test (a dollar kept worth more than a dollar, over time); buybacks (only below value; a buyback
-  with no stated price weighs against unless the prices paid sit at or below the bottom of the Q7 range); issuance and
-  deals (value given against value got; an all-stock deal at an undervalued price is the one STOP here).
-- Part B: pay tied to what the person controls; the board; the owners as partners.
-- **WEIGHS FOR / AGAINST / UNDECIDED**, one sentence per part, with ids.
+**Part A: the money.** (Cash flow statements and equity notes, 10-Ks FY2018, FY2020, FY2022 to FY2025; `q7.py`,
+`q7_cycle.py`.)
+- **The retention test** **[R1995-009]**, **[M1998-110]**. Nothing was retained to be tested. From FY2016 to FY2025 net
+  earnings were $31,971M; the company paid $20,227M in dividends and $29,357M for its own shares, $49,584M in all, about
+  155% of what it earned. The difference came from the Nestle prepayment of about $7B (FY2018) and from borrowing (long-term
+  debt $3.9B at FY2017, $14.6B at FY2025). The rows' test asks whether a dollar retained becomes worth more than a dollar; here the
+  question is the reverse, whether the dollars borrowed and paid out were paid out at sense **[M2000-050]**, and that is the
+  buyback test below.
+- **Buybacks.** The programme names share counts, never a price: "The timing, manner, price, and amount of repurchases will
+  be determined at our discretion" (10-K FY2025 Item 5), the case of "repurchase announcements almost never refer to a price
+  above which repurchases will be eschewed" **[L2016-002]**. Prices actually paid, as the filings state them (shares and
+  cost; average my division): FY2016 37.5M for $2.1B (about $56); FY2017 34.9M for about $2.0B (about $58); FY2018 131.5M for
+  $7.2B (about $55); FY2019 139.6M for $10.1B (about $72); FY2020 20.3M for $1.7B (about $84); FY2022 36.3M for $4.0B (about
+  $110); FY2023 10.0M for $1.0B (about $100); FY2024 12.8M for $1.3B (about $99) (10-Ks FY2018, FY2019, FY2020, FY2022,
+  FY2023, FY2024, equity notes). Bought with "cash plus sensible borrowing capacity" **[L1999-023]**? Partly with borrowing
+  that has since been reduced with the China proceeds. Bought while the stores needed the money? The FY2022 to FY2024
+  purchases, $6.3B at about $99 to $110, came in the years when traffic fell and the turnaround then had to buy back staffing
+  and store uplifts; the rows put "the internal need for funds" first **[L2016-003]**. **Written back from Q7 (committed with Q7):** the bottom of the central Q7 range is $45.46 a share on the all-equity
+  basis ($50.71 equity-only), "the bottom boundary of our estimate" **[L2013-012]**. Every price paid, about $55 to $110,
+  sits above it, and the FY2022 purchases at about $110 sit above the top ($99.49). The purchases are therefore not
+  cleared by what they did, and the programme with no stated price weighs against **[L2016-002]**: "If you’re
+  repurchasing shares above a rationally calculated intrinsic value, you are harming your shareholders" **[M1996-013]**.
+- **Issuance and deals.** No stock issued for a deal; the share count fell from 1,460.5M (2016-10-02, XBRL from the FY2016 10-K) to 1,140.0M, so the
+  serial-issuer sign **[L2014-015]** is absent and the all-stock STOP **[L2009-019]** does not arise. Deals for cash: the East
+  China joint venture bought for $1,311.3M (FY2018), and China retail sold down to 40% at a $4B enterprise value in 2026 with a
+  filed gain of $536.3M (10-Q Q3 FY2026); the row asks whether "we receive less in value than we give" **[M1995-001]**, and on the filed
+  record the China round trip did not lose book value, though the 60% was sold after the business lost its position to Luckin
+  (Q2).
+- **Dividends.** $0.62 a quarter (EX-99.1, `0000829224-26-000129`), about $2.83B a year on 1,140M shares, against owner cash
+  after interest of $1,947M in FY2025 and a five-year average of $3,231M (`q7.py`). FY2025 dividends of $2,771.4M exceeded
+  net earnings of $1,856.4M and owner cash. The release presents "65 consecutive quarters of dividend payouts with CAGR of
+  17%" as a commitment. The rows want "dividend policy should always be clear, consistent and rational." **[L2012-015]**: it
+  is clear and consistent; whether paying more than the business throws off, with debt still above its FY2024 level less the
+  China repayments, is rational is doubtful, and it is weighed against.
+
+**Part B: the pay, the board and the owners.** (DEF 14A `0001213900-26-007780` and `0001213900-25-006516`; 8-Ks of the
+annual meetings.)
+- **Pay tied to what the person controls** **[M2003-019]**. The annual bonus pays on financial results (75%) and an individual
+  factor (25%); FY2025 paid 54.8% of target. The annual share awards pay 50% on three-year average adjusted EPS and 50% on
+  three-year comparable store sales, with a relative-return modifier; the 2025 "Back to Starbucks" awards pay on operating
+  expense reduction and four programmes. Comparable sales and expense are under the managers' control; adjusted EPS is a
+  figure the managers define, and the rows say "I hate, with a passion, rewarding anything that can be easily faked"
+  **[M1996-089]**. The 2023 and 2024 awards were amended in March 2025 to fix three non-financial modifiers at 0.9, below
+  threshold, which lowered rather than raised them.
+- **Both directions** **[L1994-020]**. The bonus fell to 54.8% when results fell; the replacement grants of FY2024 ($80M
+  target) made the new chief executive whole for what he left, which is a purchase price for the man, not pay for
+  results here. The signing bonus of $10M was paid in two instalments regardless of results.
+- **The board.** The board's first job "is to have the right CEO" **[M2007-120]**: it has chosen three chief executives
+  since April 2022 (the founder as interim, Mr Narasimhan from 2023 to August 2024 with severance under his offer letter and
+  the severance plan, DEF 14A 2025, and Mr Niccol), and that record weighs against the board. The chief executive is also
+  chairman; an independent-chair proposal failed in 2025 (124.5M for, 684.4M against) and 2026 (107.8M for, 763.8M
+  against). The row is "I've seen how hard it is to replace a mediocre CEO if that person is also Chairman."
+  **[L2014-026]**; nothing here shows the present one mediocre, so it is a structural weight only. Directors' holdings are
+  mostly deferred stock units received as fees: of the ten non-executive nominees, four hold shares beyond units (whether
+  bought or vested is not stated), the largest 33,587 shares, about $3.0M at the price (DEF 14A 2026, beneficial ownership
+  table at 2026-01-16; Mr Niccol holds 69,382); the rows prefer directors "purchasing
+  shares with their savings, rather than simply having been the recipients of grants" **[L2019-008]**. The supermajority
+  proposal passed in 2026 with the board making no recommendation (8-K `0000829224-26-000058`).
+- **Owners as partners.** Earnings guidance is given every quarter in adjusted terms (Q4); by inversion of Berkshire's rule,
+  "I can’t imagine anything more destructive" **[M2022-054]**. The perquisites of Q5 (unlimited personal use of the aircraft
+  under review, $0 reimbursed in FY2025, a remote office) are how the chief executive treats himself **[M1994-009]**, at a
+  cost small against the company and large against the rows' picture of a partner. Say-on-pay passed with about 86% in 2025
+  and about 88% in 2026 of votes cast (8-Ks `0000829224-25-000024`, `0000829224-26-000058`). The rows also say
+  "There are more problems with having the wrong manager than with having the wrong compensation system."
+  **[M2007-006]**, so Part B is weighed below the man.
+- **WEIGHS AGAINST.** Part A: a decade of distributions above earnings, financed in part with debt, by a programme that
+  names no price **[L2016-002]**, at prices tested against Q7 below **[L1999-023]**, and a dividend above owner cash
+  **[L2012-015]**. Part B: share awards half on an adjusted figure **[M1996-089]**, guidance **[M2022-054]**, a combined
+  chair, three chief executives in three years **[M2007-120]**, and directors who mostly hold what they were given
+  **[L2019-008]**; against these, the bonus fell with results **[L1994-020]**.
 
 ## Q7 — WHAT IS IT WORTH? STOP.
-- How much cash, how sure, how soon, at the long government rate, as a range (the CONVENTION construction: five-year
-  average of owner cash after every real cost, carried at the growth shown and capped by Q3, ten years then no real
-  growth, at the sovereign; the ends are the no-growth and shown-growth cases; the six specifics: the cycle base where an
-  end year is aberrational, negative growth carried as the bottom, acquisitions deducted with total growth credited and the
-  organic pair beside, working capital counted, the maintenance-only case central where the filing allows the guess, the cap;
-  a deal closed after the window on its own filed record).
-- The floor (CONVENTION): about ten percent pre-tax expected return, as the speakers stated and qualified it; below it
-  the name is quit on, not ranked. Applied to owner cash after the company's own income tax, no conversion; a
-  carryforward or credit that runs out inside ten years is priced separately (section E).
-- **Value range:** $ ___ to $ ___ a share against $ ___. **Closes:** TOO HARD if the range is wider than about three
-  to one; OUT if the price sits inside or just below a narrower range (not a screamer); IN only if the price is so far
-  below that no pencil is needed.
-- **Fair price (a reporting figure, never a verdict; Part VII):** $ ___ a share, the price at which the midpoint of the
-  range earns the floor, after the company's own tax; the central figure on the all-equity basis (owner cash before interest
-  against market value plus net debt at the latest filed date, stated subsequent events added) and the equity-only figure
-  $ ___ beside it. No cheap price is reported. *(basis named 2026-10-06, section H.)*
-- **VERDICT: IN / OUT / TOO HARD**, with ids.
+Value is "the discounted value of the cash that can be taken out of a business during its remaining life" **[R1996-018]**,
+at the long government rate **[L2000-021]**, held as a range **[L2000-024]**. All figures below are from `q7.py` and
+`q7_cycle.py` in the research folder, inputs from the filed cash flow statements named there; USD millions unless a per-share
+figure. **Price and rate not refreshed:** the price ($90.75, close 2026-10-09) and the sovereign (5.60%, 2026-10-09) of
+Step 0 are used unchanged; the result is not near enough to either to need a refresh.
+
+- **The cash input** (Q4's recast): operating cash less stock pay less all capital spending less cash paid for businesses
+  plus cash received for businesses sold, specific (c), the default pair: acquisitions deducted, the total growth credited
+  (the filer reports no organic owner-cash figure, so the organic pair is not shown). On the all-equity basis **[L2017-004]**
+  the after-tax net interest is added back (interest paid less interest income where filed, times one less the year's
+  effective rate). Working capital is inside operating cash, specific (d). Unlevered owner cash, FY2016 to FY2025: 3,036;
+  2,629; 2,115 (the Nestle prepayment removed, below); 3,858; 181; 5,697; 2,637; 3,821; 3,349; 2,298.
+- **Growth spending, specific (e).** The filer gives no maintenance figure (Q3), so the filing does not allow the maintenance
+  guess; the central case charges all capital spending, with depreciation in place of capital spending shown beside.
+- **The window and the cycle, specific (a).** Both end years of the literal window FY2021 to FY2025 are aberrational on the
+  filer's own description: FY2021 carries the recovery from the pandemic and $1,175.0M of cash from the divestiture of the
+  South Korea joint venture (10-K FY2022, which describes the conversion of Korea to a fully licensed market); FY2025 is the
+  year of the "Back to Starbucks" restructuring, $892.0M of charges and 627 store closures (10-K FY2025). "If either year
+  was aberrational, any calculation of growth will be distorted." **[L2005-003]**. **CONVENTION of this run:** the cycles
+  are FY2016 to FY2020 and FY2021 to FY2025, each running from a normal year to a year the filer describes as disrupted (the
+  pandemic; the restructuring); rationale: the filings name no other cycle and these are the two complete ones in the ten
+  years read. **CONVENTION of this run:** the Nestle up-front payment of "approximately $7 billion primarily of prepaid
+  royalties" (10-K FY2018) is removed from FY2018 operating cash; rationale: it is decades of royalties received at once, and
+  every later year's operating cash already lacks the royalties it prepaid. The variant that keeps it is shown.
+- **The base and the growth.** Cycle averages: FY2016 to FY2020, 2,364; FY2021 to FY2025, 3,560 (the same as the literal
+  window's average). Growth between the cycle averages: 8.5% a year (7.9% on owner cash after interest). The base is the
+  last cycle's average, 3,560.
+- **The cap, specific (f).** 3,560 carried ten years at 8.5% is 8,050 in year ten; sales carried at the business's own
+  growth between the same cycles (averages 23,690 and 34,129, 7.6% a year) would be about 70,900, so the year-ten owner cash
+  is 11.4% of sales, under the highest share earned in a year of the ten read without a business sale (14.6%, FY2019). The
+  cap does not cut. Nothing is carried after year ten (zero nominal growth) **[M1997-095]**.
+- **The China sale, closed after the window and before the price date, specific (c).** On its own filed record: 60% sold at
+  a $4B enterprise value, $3.1B of consideration, $2.5B of net proceeds in the cash flow discussion (10-Q Q3 FY2026). The
+  proceeds are inside net debt at 2026-06-28. The five-year base still holds 100% of the China business's cash, which is not
+  filed separately. **CONVENTION of this run:** the value given is taken as 60% of the filed enterprise value, $2.4B,
+  deducted from the whole-business value; rationale: it is the only filed measure of the part sold; the retained 40% and the
+  licence stay in the base. It moves every figure by about $2.1 a share.
+- **Net debt** at 2026-06-28 (10-Q Q3 FY2026): borrowings $13,278.6M (current $1,498.4M, long-term $11,780.2M) less cash,
+  short-term and long-term investments $3,923.5M = **$9,355.1M**. Operating leases (about $12.4B undiscounted at FY2025) are
+  left out, as the convention says, and belong to Q9. Shares 1,140.0M.
+
+**The range (all-equity central, equity-only beside), per share:**
+
+| case | base | growth, years 1 to 10 | all-equity | equity-only |
+|---|---|---|---|---|
+| **central, cycle (a), Nestle removed: no growth (bottom)** | 3,560 | 0% | **$45.46** | $50.71 |
+| **central, cycle (a), Nestle removed: shown growth (top)** | 3,560 | 8.5% (7.9% after interest) | **$99.49** | $94.95 |
+| cycle, Nestle prepayment kept as proceeds of a business sold | 3,560 | -1.1% | $40.79 to $45.46 | $42.69 to $50.71 |
+| literal window FY2021 to FY2025, decline carried as the bottom (b) | 3,560 | -12.2% (halves) | $11.52 to $45.46 | $17.77 to $50.71 |
+| literal window, depreciation in place of capital spending | 4,133 | -5.0% (halves) | $33.37 to $54.42 | $37.98 to $59.67 |
+| literal window, in-window divestiture proceeds left out | 3,292 | -7.3% (halves) | $18.71 to $41.25 | $23.88 to $46.50 |
+
+(The literal window's growth is measured between its halves, as `q7.py` does; measured between its end years it would be
+-20.3% a year and its bottom lower still. Its end years are what specific (a) replaces.)
+
+- **Value range (central): $45.46 to $99.49 a share** against **$90.75**; width 2.19 to one.
+- **The floor first** (Q7, adopted 2026-10-10). At $90.75 the expected return on the central growth case is about 6.0% a
+  year and on the no-growth case about 3.1% (the rates that discount each case to the price); the floor is about ten
+  percent. On the central base, ten years of growth at 16.8% a year would be needed for the price to earn the floor. No case
+  in the table earns it. The most generous reading I could construct (the best five-year average, 3,560, carried at the
+  business's own revenue growth of FY2016 to FY2025, 6.4% a year) is worth $82.23 a share at the sovereign and $38.13 at ten
+  percent. "there’s just a point at which we drop out of the game" **[M2003-149]**.
+- **The price against the range.** The price sits inside the central range, in its upper half; only the shown-growth end
+  stands above it, by about 10%. That is the opposite of "It should scream at you." **[M2009-005]**; "if you have to
+  actually do it on — with pencil and paper, it’s too close to think about" **[M1996-084]**.
+- **Fair price (a reporting figure, never a verdict; Part VII):** **$33.48 a share** on the all-equity basis (each end of the
+  central range valued at ten percent: $20.92 and $45.90 after net debt and the China deduction, averaged), after the
+  company's own tax, no conversion; **$38.74** on the equity-only basis beside it. On the literal window the fair price is
+  $12.49 (equity-only $20.21). No cheap price is reported.
+- **No tax shelter** to price separately: the effective rates of FY2021 to FY2025 run from 21.6% to 25.9% (income tax over
+  pre-tax income, 10-Ks), near the statutory rate.
+- **VERDICT: OUT.** The business can be valued, and its value does not reach the price at the floor on any case the filings
+  support **[M2003-149]**: the price sits inside the range, not below it **[M2009-005]**, and the growth case that lifts the
+  top above the price rests on a cycle comparison whose first cycle holds the pandemic year, the kind of base the rows warn
+  can "produce a breathtaking, but meaningless, growth rate" **[L2005-003]**. The width (2.19 to one) is under three, so
+  the close is OUT and not TOO HARD; under the floor-first order it would be OUT whatever the width.
 
 ## Q8 — IS IT BETTER THAN THE ALTERNATIVES: the bond, more of what I already own, the company's own stock? STOP.
-- The bond as the first filter, then the ranking against the best thing already held (for a private holder, more of
-  what he owns; for a company, its own stock below value).
-- **VERDICT: IN / OUT**, with ids.
+**NOT REACHED.** Q7 closed the file OUT. Facts found are under AFTER THE STOP.
 
 ## Q9 — COULD IT RUIN US: the target's debt and exposures. WEIGHING.
-- Debt in the business, demands for sudden large sums, counterparties, aggregation; "little or no debt" is the one STOP
-  for a whole business bought.
-- **WEIGHS FOR / AGAINST**, with ids.
+**NOT REACHED.** Facts found are under AFTER THE STOP.
 
 ## Q10 — IS IT THE FAT PITCH, and am I buying enough? WEIGHING.
-- Inaction as the default; sizing when sure; the omission as the costliest error. No position is taken here; say what
-  the draft would have the buyer do.
+**NOT REACHED.**
 
 ## Q12 (optional) — WOULD WE BE PROUD OF HOW THE MONEY IS MADE?
-- The newspaper test; the businesses named. **STOP for named businesses; otherwise WEIGHS FOR / AGAINST.**
+**NOT REACHED.** Facts found are under AFTER THE STOP.
 
 ---
 ## THE BOX
-One line: **IN / OUT / TOO HARD (WORK) / TOO HARD (NATURE)**, the question that decided it, and for a name that reached
-Q7 the range beside the price. A TOO HARD names its cause (the framework's section I, the two causes): WORK when the
-deciding question is knowable and the work is not done, which opens a research file (Part VII); NATURE when the
-industry's insiders would not write the forecast down. Q11 (has the business changed, or only its price) belongs to the holding review, not to a purchase run. A file closed by
-a STOP with integrity facts already found adds "integrity facts recorded, not judged" to this line (Part VII).
+**OUT at Q7** (the floor: no case in the range earns about ten percent at the price; the price sits inside the range).
+Central value range **$45.46 to $99.49 a share** (all-equity; equity-only $50.71 to $94.95) against **$90.75** (close
+2026-10-09); fair price $33.48 all-equity, $38.74 equity-only (reporting figures, not verdicts). Q1 IN, Q2 IN, Q3 weighs
+against, Q4 weighs against, Q5 integrity IN and ability weighs for thinly, Q6 weighs against.
 
 ## AFTER THE STOP: FACTS FOUND, NOT WEIGHED
-*(Only when a STOP closed the file.)* Facts already found that bear on a later question, under the question each bears
-on, each with its source **[M1997-127]**; written down, not weighed; no verdict; the box unchanged (operator rule 2).
+Facts already found that bear on a later question, each with its source **[M1997-127]**; written down, not weighed; no
+verdict; the box unchanged (operator rule 2).
+- **Q8 (the bond).** The 30-year Treasury par yield was 5.60% on 2026-10-09 (Step 0). The central base of 3,560 of
+  unlevered owner cash is 3.16% of the market value plus net debt at the price ($103,455M + $9,355.1M) (`q7.py`).
+- **Q9 (debt and exposures).** Borrowings $13,278.6M at 2026-06-28 after $2.8B of repayments in FY2026, $1.3B of them by
+  tender with the China proceeds (10-Q Q3 FY2026, debt note); a commercial paper programme backstopped by the 2025 credit
+  facility (same note); operating lease obligations of about $12.4B undiscounted at FY2025 (10-K FY2025, material cash
+  requirements); shareholders' equity -$7,674M at 2026-06-28; interest paid $588.3M in FY2025 against operating income of
+  $2,936.6M; dividends of about $2.83B a year at the current rate against FY2025 owner cash after interest of $1,947M; the
+  stored-value card liability and deferred revenue (customers' prepaid money, $1,840.6M current at FY2025) and the Nestle
+  deferred revenue ($5,772.6M long-term at FY2025) are liabilities that are not debt (Q4).
+- **Q12 (how the money is made).** A coffeehouse chain; none of the businesses the rows name. Unions represent partners
+  in about 6% of US company-operated stores; litigation "associated with labor union organizing efforts" is disclosed as
+  not material (10-K FY2025 Item 1A and Note 16). The labour board's decisions were not read (a gap, SELF-AUDIT).
 
 ## SELF-AUDIT
-- [ ] Copied to the dated file before any fetch; written question by question; committed after each (write-early).
-- [ ] If dispatched to an analyst: the brief allowed the per-question commits and the lock was held by the dispatching
-      session; the run is folded into the register before the dispatcher moves on (operator rule ten). A run not in the
-      register binds nothing.
-- [ ] No other run file, holding review or `PORTFOLIO.md` was opened, listed or searched (the blind rule); anything of
-      them seen by accident is declared under contamination, not used.
-- [ ] Every v5 id resolves (grep it in `principle_ledger_v5.csv`); every filing fact has its accession; no number
-      without a row or a filing.
-- [ ] The order was kept; the first STOP that failed closed the run; nothing after it is a clearance.
-- [ ] Owner cash after every real cost, never a net-income proxy (operator rule 5); the sovereign from the issuing
-      authority; aggregator quotes flagged.
-- [ ] Contrary evidence was written down as it was found **[M1997-127]**; if a STOP closed the file, the facts found for
-      later questions are under AFTER THE STOP, with the integrity flag in the box line where they bear on Q5.
-- [ ] No row dated after the anchor is cited in a point-in-time run (Part VII).
-- [ ] Only the arithmetic lines of `tools/run.py` were used (Part VII).
-- [ ] `python tools/check_framework.py` PASS before the commit.
+- [x] Copied to the dated file before any fetch (aa564f4a); written question by question; committed after each (the first
+      session to Q4, last 14213758; this resume: Q5 315ba74b, Q6 d05ab82a, Q7 39c5e19f, and the close).
+- [x] Dispatched: the brief allowed the per-question pathspec commits; the lock and the fold are the dispatching session's
+      (operator rule ten) and were not checked by me. A run not in the register binds nothing.
+- [x] No other run file, holding review or `PORTFOLIO.md` was opened, listed or searched. **Contamination in the resume
+      session, declared and not used:** the session's opening git status listed research folders of AYI and ARCB and other
+      dated daily digests, and the recent commit subjects named the RPM and PNR folds with RPM's box and figures; the
+      memory index loaded at start carries lines on the queue state, the count of gate-clearers and owed holding reviews.
+      None names Starbucks; none was opened.
+- [x] Every v5 id resolves and every quoted fragment beside an id is in that row (`check_quotes.py`: 0 problems); every
+      filing fact carries its accession or names its filing in Step 0's list.
+- [x] The order was kept: Q5 (a STOP) was answered before Q7; Q3, Q4 and Q6 are weighings carried; Q7 failed and closed
+      the file; nothing after it is answered.
+- [x] Owner cash after every real cost from the cash flow statements, never a net-income proxy (operator rule 5); the
+      sovereign from the US Treasury; the price is an aggregator quote, flagged in Step 0.
+- [x] Contrary evidence written down as found **[M1997-127]** (the foundations, Q2 to Q7); facts for later questions are
+      under AFTER THE STOP. Q5 was reached and judged, so the box line carries no integrity flag.
+- [x] Not a point-in-time run; no row dated after the run date is cited.
+- [x] Only the arithmetic lines of `tools/run.py` were used (Part VII).
+- [x] `python tools/check_framework.py` PASS before the closing commit.
+- **What I could not get, or chose not to:** (1) the labour board's decisions on the organising campaign, which are not SEC
+  filings; Q5's integrity verdict rests on the filings read; (2) China's owner cash, which is not filed separately, so 60%
+  of the deal's enterprise value stands in for it (a confessed convention); (3) a maintenance figure, which the filer does
+  not give; (4) the chief executive's record at his former employer, in filings not read; (5) for FY2016 to FY2020 interest
+  income was not netted in the unlevered add-back (the figures used were filed only from FY2021 in my series), which raises
+  the first cycle a little and lowers the shown growth a little; (6) the price and the sovereign were not refreshed on
+  2026-10-11, since the result is not close to either.
 
 ## WHAT IN THE FRAMEWORK WAS WRONG OR UNCLEAR
-One paragraph: the instruction found ambiguous, missing or unworkable in this run, and what was done. Every run so far
-has had one; a run that reports none is suspect.
+Five things, all in Q7's specifics. (1) Specific (a) says a year is aberrational "on the filer's own description" and then
+asks for the last full cycle "peak to peak or trough to trough", but this filer describes disrupted years (the pandemic, the
+restructuring) and never a peak; I took two five-year blocks each ending in a disrupted year and confessed it. (2) The cycle
+average of the first block holds the pandemic year (unlevered owner cash of 181), so the growth between cycles (8.5% a year)
+is lifted by exactly the "base year in which earnings were poor" that **[L2005-003]** warns of; specific (a) guards the end
+years of the window but not a poor year inside a cycle average, and the 8.5% contradicts Q3's finding that the decade's
+capital bought no growth in owner cash. The range convention says the growth is "capped by the growth arithmetic of Q3", but
+Q3 is a weighing with no number, so the cap could not be applied as a number; I carried 8.5% as the top and said why it is
+weak. It did not decide the box: the price fails the floor on that case too. (3) Specific (f)'s share-of-sales cap does not
+say which sales the year-ten owner cash is set against; read against sales carried at their own growth it does not cut,
+read against today's sales it would cut the rate to the 7.6% sales growth and lower the top a little; I used the first and
+say so here. (4) Specific (c) values a deal closed after the window "on its own filed record, its financing added to today's
+net debt", written for a purchase; for a sale of part of a business whose cash is inside the base and is not filed
+separately there is no rule, and I confessed 60% of the filed enterprise value as the value given. (5) A prepaid royalty
+received in operating cash (Nestle's $7B in FY2018) is neither an acquisition, a divestiture nor working capital in the
+specifics' terms; I removed it from the cycle base as a convention of this run and showed the variant that keeps it. Also
+noted, outside Q7: Q5's integrity test reaches conduct toward employees through the front-page row **[M2016-033]**, but the
+run brief's evidence list (proxy and Item 5.02 8-Ks) does not reach the labour board's record, which is where that conduct
+would show for this company.
