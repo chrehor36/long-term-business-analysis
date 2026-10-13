@@ -1,0 +1,206 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+===== page 40
+            Consolidated          Statement        of  Cash     Flows
+            ITOCHU Corporation and its Subsidiaries
+            Fiscal years ended March 31, 2023 and 2022
+            Prepared in conformity with IFRSs
+                                                                                                           Millions of
+                                                                                      Millions of Yen     U.S. Dollars
+                                                                                   2023         2022         2023
+            Cash flows from operating activities
+              Net profit                                                          ? 844,681   ? 878,973     $ 6,326
+              Adjustments to reconcile net profit to net cash provided by operating activities
+               Depreciation and amortization                                       409,962      404,184       3,070
+               (Gains) losses on investments                                        (67,157)    (211,851)      (503)
+               (Gains) losses on property, plant, equipment and intangible assets   50,118       17,601        376
+               Financial (income) loss                                              (52,172)     (72,177)      (391)
+               Equity in earnings of associates and joint ventures                 (320,666)    (291,435)    (2,401)
+               Income tax expense                                                  262,180      271,056       1,963
+               Provision for doubtful accounts and other provisions                  (3,338)      (2,836)       (25)
+               Change in trade receivables                                          (58,394)    (304,709)      (437)
+               Change in inventories                                               (197,452)    (153,200)    (1,479)
+               Change in trade payables                                             50,118      314,373        375
+               Other-net                                                            22,010       (98,114)      165
+              Proceeds from interest                                                35,029       19,706        262
+              Proceeds from dividends                                              233,884      201,532       1,751
+              Payments for interest                                                 (57,855)     (29,807)      (433)
+              Payments for income taxes                                            (212,890)    (142,133)    (1,594)
+                 Net cash provided by (used in) operating activities               938,058      801,163       7,025
+            Cash flows from investing activities
+              Payments for purchase of investments accounted for by the equity method (328,634)  (34,723)    (2,461)
+              Proceeds from sale of investments accounted for by the equity method  33,744      101,766        252
+              Payments for purchase of other investments                            (60,776)     (70,381)      (455)
+              Proceeds from sale of other investments                               39,585      184,158        297
+              Payments for acquisition of subsidiaries or businesses (Notes 5 and 34) (26,033)       ?         (195)
+              Proceeds from sale of subsidiaries or businesses (Notes 8, 34 and 35) 70,161       (30,433)      525
+              Origination of loans receivable                                      (104,359)     (53,760)      (782)
+              Collections of loans receivable                                       84,324       69,432        632
+              Payments for purchase of property, plant, equipment and intangible assets (194,081) (157,142)  (1,453)
+              Proceeds from sale of property, plant, equipment and intangible assets 28,360      32,259        212
+              Net change in time deposits                                            3,903        (2,539)       29
+               Net cash provided by (used in) investing activities                 (453,806)     38,637      (3,399)
+            Cash flows from financing activities
+              Proceeds from debentures and loans payable (Note 34)                 699,001      456,698       5,235
+              Repayments of debentures and loans payable (Note 34)                 (801,893)    (717,291)    (6,005)
+              Repayments of lease liabilities (Note 34)                            (261,271)    (266,974)    (1,956)
+              Net change in other loans payable (Note 34)                           86,416       (88,757)      647
+              Equity transactions with non-controlling interests                    54,766       (14,093)      410
+              Cash dividends (Note 23)                                             (188,372)    (135,356)    (1,411)
+              Cash dividends to non-controlling interests                           (28,547)     (20,897)      (214)
+              Net change in treasury stock                                          (60,181)     (60,036)      (451)
+                 Net cash provided by (used in) financing activities               (500,081)    (846,706)    (3,745)
+            Net change in cash and cash equivalents                                 (15,829)      (6,906)      (119)
+            Cash and cash equivalents at the beginning of the year
+             (Opening balance on the consolidated statement of financial position) 611,715      544,009       4,581
+            Reclassification of cash and cash equivalents included in assets held
+             for sale in the opening balance (Note 8)                                   ?        44,331         ?
+            Cash and cash equivalents at the beginning of the year                 611,715      588,340       4,581
+            Effect of exchange rate changes on cash and cash equivalents            10,116       30,281         76
+            Cash and cash equivalents at the end of the year                      ? 606,002   ? 611,715     $ 4,538
+            Refer to Notes to Consolidated Financial Statements.
+            38    ITOCHU CORPORATION FINANCIAL INFORMATION REPORT 2023
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+===== page 35
+              Consolidated          Statement        of  Financial       Position
+              ITOCHU Corporation and its Subsidiaries
+              As of March 31, 2023 and 2022
+              Prepared in conformity with IFRSs
+                                                                                                              Millions of
+                                                                                         Millions of Yen     U.S. Dollars
+              Assets                                                                 2023         2022         2023
+              Current assets
+                Cash and cash equivalents                                         ?   606,002  ?   611,715    $ 4,538
+                Time deposits                                                           9,467       11,185         71
+                Trade receivables (Note 6)                                          2,533,297    2,458,991     18,972
+                Other current receivables (Note 6)                                    243,043      236,864      1,820
+                Other current financial assets (Note 13)                               73,336      101,932        549
+                Inventories (Note 7)                                                1,304,942    1,077,160      9,773
+                Advances to suppliers                                                 142,862      123,382      1,070
+                Other current assets (Note 28)                                        208,419      188,727      1,561
+              Total current assets                                                  5,121,368    4,809,956     38,354
+              Non-current assets
+                Investments accounted for by the equity method (Note 14)            2,825,102    2,288,762     21,157
+                Other investments (Note 13)                                           943,270      958,218      7,064
+                Non-current receivables (Note 6)                                      805,159      728,965      6,030
+                Non-current financial assets other than investments and receivables   162,768      172,191      1,219
+                Property, plant and equipment (Notes 9 and 17)                      1,998,485    1,936,044     14,967
+                Investment property (Note 10)                                          44,050       47,742        330
+                Goodwill (Note 12)                                                    366,659      368,989      2,746
+                Intangible assets (Note 12)                                           712,594      712,618      5,336
+                Deferred tax assets (Note 20)                                          54,478       54,639        408
+                Other non-current assets                                               77,719       75,534        582
+              Total non-current assets                                              7,990,284    7,343,702     59,839
+              Total assets (Note 4)                                               ?13,111,652  ?12,153,658    $98,193
+              Refer to Notes to Consolidated Financial Statements.
+                                                                                  ITOCHU CORPORATION FINANCIAL INFORMATION REPORT 2023 33
+===== page 36
+                                                                                                           Millions of
+                                                                                      Millions of Yen     U.S. Dollars
+            Liabilities and Equity                                                 2023         2022         2023
+            Current liabilities
+              Short-term debentures and borrowings (Notes 16 and 34)            ?  659,710   ?  522,448     $ 4,941
+              Lease liabilities (short-term) (Notes 17)                            238,289      235,791       1,785
+              Trade payables (Note 15)                                            2,042,608    1,967,117     15,297
+              Other current payables (Note 15)                                     190,014      210,857       1,423
+              Other current financial liabilities                                   71,642       83,724        537
+              Current tax liabilities (Note 20)                                    118,109       74,026        884
+              Advances from customers (Note 28)                                    162,409      132,513       1,216
+              Other current liabilities (Notes 19 and 28)                          462,044      424,071       3,460
+            Total current liabilities                                             3,944,825    3,650,547     29,543
+            Non-current liabilities
+              Long-term debentures and borrowings (Notes 16 and 34)               2,346,928    2,383,455     17,576
+              Lease liabilities (long-term) (Notes 17)                             766,278      775,180       5,739
+              Other non-current financial liabilities                               56,543       58,217        423
+              Non-current liabilities for employee benefits (Note 18)               96,942      103,975        726
+              Deferred tax liabilities (Note 20)                                   273,123      250,999       2,045
+              Other non-current liabilities (Note 19)                              163,386      167,585       1,224
+            Total non-current liabilities                                         3,703,200    3,739,411     27,733
+            Total liabilities                                                     7,648,025    7,389,958     57,276
+            Equity
+              Common stock (Note 22)                                               253,448      253,448       1,898
+              Capital surplus (Note 22)                                            (169,322)    (161,917)    (1,268)
+              Retained earnings (Notes 22 and 23)                                 4,427,244    3,811,991     33,155
+            Other components of equity (Note 24)
+              Translation adjustments                                              458,560      383,215       3,434
+              FVTOCI financial assets (Note 13)                                    120,681      146,638        904
+              Cash flow hedges (Note 26)                                            30,840        7,154        231
+              Total other components of equity                                     610,081      537,007       4,569
+              Treasury stock (Note 22)                                             (301,940)    (241,204)    (2,261)
+              Total shareholders? equity                                          4,819,511    4,199,325     36,093
+              Non-controlling interests (Note 35)                                  644,116      564,375       4,824
+            Total equity                                                          5,463,627    4,763,700     40,917
+            Total liabilities and equity                                        ?13,111,652  ?12,153,658    $98,193
+            34    ITOCHU CORPORATION FINANCIAL INFORMATION REPORT 2023
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+===== page 23
+              Analysis   of Results   of Operations   in FYE  2023
+              The analysis of the financial position and results of operations for Development Co., Ltd., in addition to the realization of foreign
+              FYE 2023 were as follows.                               exchange gains due to the de-consolidation of ITOCHU Coal
+                                                                      Americas Inc. in the previous fiscal year, partially offset by the gains
+              Revenues                                                on the sales of a  North American beverage-equipment-
+              Revenues for the fiscal year ended March 31, 2023 increased by maintenance company and CONEXIO Corporation.
+              13.4%, or 1,652.3 billion yen, compared to the previous fiscal year
+              to 13,945.6 billion yen (US$104,438 million). This increase was Gains (Losses) on Property, Plant, Equipment and
+              attributable to higher revenue from Energy & Chemicals Company, Intangible Assets
+              due to higher market prices in energy trading transactions, Gains (losses) on property, plant, equipment and intangible assets
+                                                                      deteriorated by 32.5 billion yen, compared to the previous fiscal
+              chemical-related transactions, and energy-related companies;
+              higher revenue from Food Company, due to higher market prices in year to a loss of 50.1 billion yen (US$376 million), due to the
+                                                                      impairment loss in Dole.
+              provisions-related transactions and higher transaction volume in
+              food-distribution-related companies; higher revenue from General
+                                                                      Other-net
+              Products & Realty Company, due to higher market prices in
+              construction materials business, the improvement in profitability in Other-net increased by 5.4 billion yen, compared to the previous
+              European Tyre Enterprise Limited (European tire-related company), fiscal year to a gain of 15.1 billion yen (US$113 million), due to the
+              and the conversion of a North American engineered wood products gains on a specific overseas project and business.
+              company into a subsidiary; and higher revenue from Metals &
+              Minerals Company, due to higher coal prices and the depreciation Total Financial Income (Net of Interest Income,
+              of the yen, partially offset by lower iron ore prices. Furthermore, the Interest Expense, and Dividends Received)
+              breakdown of Revenues for the fiscal year ended March 31, 2023 Net interest expenses, which is the total of Interest income and
+              was ?12,605.6 billion (US$94,403 million) for Revenues from sale Interest expense, deteriorated by 18.9 billion yen, compared to the
+              of goods, and ?1,340.0 billion (US$10,035 million) for Revenues previous fiscal year to expenses of 27.5 billion yen (US$206
+              from rendering of services and royalties.               million), due to the increase in interest expense with higher U.S.
+                                                                      dollar interest rates. Dividends received decreased by 1.3%, or 1.1
+              Gross Trading Profit                                    billion yen, compared to the previous fiscal year to 79.7 billion yen
+              Gross trading profit increased by 9.9%, or 192.7 billion yen, (US$597 million), due to the decrease in dividends from oil and gas
+              compared to the previous fiscal year to 2,129.9 billion yen (US related investments in upstream interests, partially offset by the
+              $15,951 million). Gross trading profits increased in Energy & increase in dividends from LNG projects and Brazilian iron-ore-
+              Chemicals Company, due to the improvement in profitability in related investments. Net financial income, which is the total of net
+              energy trading transactions resulting from higher market prices and interest expenses and dividends received, decreased by 20.0 billion
+              the stable performance in electricity transactions; in Metals & yen, compared to the previous fiscal year to a gain of 52.2 billion
+              Minerals Company, due to higher coal prices and the depreciation yen (US$391 million).
+              of the yen, partially offset by lower iron ore prices; in General
+              Products & Realty Company, due to the stable performance in Equity in Earnings of Associates and Joint Ventures
+              domestic real estate companies, the improvement in profitability in Equity in earnings of associates and joint ventures increased by
+              European Tyre Enterprise Limited, and the conversion of a North 10.0%, or 29.2 billion yen, compared to the previous fiscal year to
+              American engineered wood products company into a subsidiary; 320.7 billion yen (US$2,401 million). This increase was attributable
+              and  in Machinery Company, due to the favorable sales in to increases in Others, Adjustments & Eliminations (Note), due to
+              automobile-related companies and North American construction higher earnings in CITIC Limited resulting from the stable
+              machinery companies.                                    performance in comprehensive financial business, revaluation gain
+                                                                      on securities business, and the depreciation of the yen even with
+              Selling, General and Administrative Expenses            the impact of lower iron ore prices and the impairment losses on its
+              Selling, general and administrative expenses increased by 5.4%, or group companies; in Metals & Minerals Company, due to higher
+              72.4 billion yen, compared to the previous fiscal year to 1,419.1 earnings in Marubeni-Itochu Steel Inc. resulting from the stable
+              billion yen (US$10,628 million), due to the increase in expenses performance in North American business and the depreciation of
+              resulting from the stable growth in revenue and the depreciation of the yen, partially offset by lower earnings in iron ore companies
+              the yen, partially offset by the decrease because of the conversion resulting from lower prices; in General Products & Realty Company,
+              of Taiwan FamilyMart Co., Ltd. (?Taiwan FamilyMart?) into an due to the gain on sales of properties in overseas real estate
+              investment accounted for by the equity method from a subsidiary at business and higher earnings in ITOCHU FIBRE LIMITED
+              the end of the first quarter of previous fiscal year.   (European pulp-related company) resulting from higher pulp prices;
+                                                                      and a decrease in Food Company, due to lower earnings in North
+              Provision for Doubtful Accounts                         American meat-products-related companies resulting from lower
+              Provision for doubtful accounts increased by 0.9 billion yen, sales prices in China, unfavorable sales to Japan caused by the
+              compared to the previous fiscal year to a loss of 8.9 billion yen (US depreciation of the yen, the increase in production cost caused by
+              $66 million), due to the increases in provision for doubtful accounts higher grain prices, and the impairment losses, partially offset by
+              in general receivables.                                 the stable performance in North American grain-related companies.
+              Gains (Losses) on Investments                           (Note) Others, Adjustments & Eliminations includes gains and losses which do not
+                                                                          belong to any operating segment and internal eliminations between operating
+              Gains (losses) on investments decreased by 68.3%, or 144.7 billion
+                                                                          segments.
+              yen, compared to the previous fiscal year to a gain of 67.2 billion
+              yen (US$503 million), due to the deterioration of remeasurement
+              gains (losses) for fund held investments and the absence of gains
+              on the partial sale of Taiwan FamilyMart, the de-consolidation of
+              Paidy Inc., and the sale of Japan Brazil Paper & Pulp Resources
+                                                                                  ITOCHU CORPORATION FINANCIAL INFORMATION REPORT 2023 21

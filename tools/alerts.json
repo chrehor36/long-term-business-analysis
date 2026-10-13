@@ -1675,6 +1675,24 @@
    "threshold": 102.33,
    "active": true,
    "label": "ABG at/below $102.33: the fair price on the organic case, all-equity, of the blind v5 re-run of 2026-10-12 (Test Runs/2026-10-12 Run - ABG Asbury Automotive.md; OUT at Q7 at $165.28; the central case is negative at ten percent; $244.70 equity-only; floor-plan notes outside net debt by the run's convention). A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "MITSY-v5-fair",
+   "ticker": "MITSY",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 65,
+   "active": true,
+   "label": "MITSY v5 fair price, all-equity, per ADS (20 shares) at the run's yen rate: $65 (\u00a5516 a share; equity-only \u00a51,758, ADS $222). Run 2026-10-12. Reporting figure, not a buy signal."
+  },
+  {
+   "id": "ITOCY-v5-fair",
+   "ticker": "ITOCY",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 1.82,
+   "active": true,
+   "label": "ITOCY v5 fair price, all-equity, per ADS (one share) at the run's yen rate of 158.56: $1.82 (\u00a5289 a share; equity-only \u00a5789, ADS $4.97). Run 2026-10-12 (Test Runs/2026-10-12 Run - ITOCY ITOCHU Corporation.md; OUT at Q7 at \u00a52,155). Reporting figure, a prompt to re-run Q7, not a buy signal."
   }
  ]
 }

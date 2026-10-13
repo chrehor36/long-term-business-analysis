@@ -1,0 +1,195 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+===== page 31
+               Consolidated          Statement       of  Cash     Flows
+               ITOCHU Corporation and its Subsidiaries
+               Years ended March 31, 2018 and 2017
+               Prepared in conformity with IFRSs
+                                                                                                              Millions of
+                                                                                            Millions of Yen   U.S. Dollars
+                                                                                         2018       2017        2018
+               Cash flows from operating activities
+               ? Net profit                                                            ??431,720 ?? ??374,593  $?4,064
+               ? Adjustments to reconcile net profit to net cash provided by operating activities
+               ? ? Depreciation and amortization                                         114,102    107,046     1,074
+               ? ? (Gains) losses on investments                                          (7,080)    (32,144)     (67)
+               ? ? (Gains) losses on property, plant, equipment and intangible assets     29,629     16,696       279
+               ? ? Financial (income) loss                                               (27,526)    (16,275)    (259)
+               ? ? Equity in earnings of associates and joint ventures                  (216,228)   (185,158)   (2,035)
+               ? ? Income tax expense                                                    106,138    125,262       999
+               ? ? Provision for doubtful accounts and other provisions                   12,995      3,599       122
+               ? ? Change in trade receivables                                          (185,873)   (117,284)   (1,750)
+               ? ? Change in inventories                                                 (53,414)    (65,085)    (503)
+               ? ? Change in trade payables                                              171,562    129,978     1,615
+               ? ? Other?net                                                                         22,349
+                                                                                          (5,117)                 (48)
+               ? Proceeds from interest                                                   31,321     26,693       295
+               ? Proceeds from dividends                                                 110,518     88,498     1,040
+               ? Payments for interest                                                   (38,703)    (27,757)    (364)
+               ? Payments for income taxes                                               (85,832)    (61,318)    (808)
+               ? ? ? Net cash provided by (used in) operating activities                 388,212    389,693     3,654
+               Cash flows from investing activities
+               ? Payments for purchase of investments accounted for by the equity method (136,420)   (51,993)   (1,284)
+               ? Proceeds from sale of investments accounted for by the equity method     11,274     34,878       106
+               ? Payments for purchase of other investments                              (76,641)    (43,933)    (721)
+               ? Proceeds from sale of other investments                                  58,698     38,656       552
+               ? Acquisitions of subsidiaries, net of cash acquired (Note 32)            (38,890)        ?       (366)
+               ? Origination of loans receivable                                         (21,899)    (45,805)    (206)
+               ? Collections of loans receivable                                          43,206     74,955       407
+               ? Payments for purchase of property, plant, equipment and intangible assets (107,829) (89,317)   (1,015)
+               ? Proceeds from sale of property, plant, equipment and intangible assets   20,810     12,473       196
+               ? Net change in time deposits                                              (8,659)    (11,220)     (82)
+               ? ? Net cash provided by (used in) investing activities                               (81,306)
+                                                                                        (256,350)               (2,413)
+               Cash flows from financing activities
+               ? Proceeds from debentures and loans payable (Note 32)                    739,832   1,030,444    6,964
+               ? Repayments of debentures and loans payable (Note 32)                   (916,755) (1,242,701)   (8,629)
+               ? Net change in other loans payable (Note 32)                              16,065     (14,290)     151
+               ? Equity transactions with non-controlling interests                       (3,806)      670        (36)
+               ? Cash dividends (Note 22)                                                (92,845)    (83,037)    (874)
+               ? Cash dividends to non-controlling interests                             (10,732)     (9,726)    (101)
+               ? Net change in treasury stock                                            (27,895)    (16,756)    (262)
+               ? ? ? Net cash provided by (used in) financing activities                (296,136)   (335,396)   (2,787)
+               Net change in cash and cash equivalents                                  (164,274)    (27,009)   (1,546)
+               Cash and cash equivalents at the beginning of the year                    605,589    632,871     5,700
+               Effect of exchange rate changes on cash and cash equivalents               (9,175)      (273)      (86)
+               Cash and cash equivalents at the end of the year                        ??432,140 ?? ??605,589  $?4,068
+               Refer to Notes to Consolidated Financial Statements.
+                                                                                         ITOCHU CORPORATION FINANCIAL SECTION 2018 29
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+===== page 26
+            Consolidated          Statement       of  Financial      Position
+            ITOCHU Corporation and its Subsidiaries
+            As of March 31, 2018 and 2017
+            Prepared in conformity with IFRSs
+                                                                                                           Millions of
+                                                                                         Millions of Yen   U.S. Dollars
+            Assets                                                                    2018       2017        2018
+            Current assets
+            ? Cash and cash equivalents                                            ?? ?432,140 ?? ?605,589 $? 4,068
+            ? Time deposits                                                            26,915      8,381       253
+            ? Trade receivables (Note 6)                                            2,183,349   1,949,049   20,551
+            ? Other current receivables (Note 6)                                       84,146     74,322       792
+            ? Other current financial assets (Note 12)                                 34,329     28,999       323
+            ? Inventories (Note 7)                                                    870,352    775,396     8,192
+            ? Advances to suppliers                                                   179,760    161,855     1,692
+            ? Other current assets                                                    112,370     97,224     1,058
+            Total current assets                                                    3,923,361   3,700,815   36,929
+            Non-current assets
+            ? Investments accounted for by the equity method (Note 13)              1,844,871   1,626,583   17,365
+            ? Other investments (Note 12)                                             816,510    793,589     7,686
+            ? Non-current receivables (Note 6)                                        617,719    656,774     5,814
+            ? Non-current financial assets other than investments and receivables      82,379    118,511       776
+            ? Property, plant and equipment (Notes 8 and 16)                          813,294    680,375     7,655
+            ? Investment property (Note 9)                                             19,134     26,605       180
+            ? Goodwill (Note 11)                                                      129,283    131,662     1,217
+            ? Intangible assets (Note 11)                                             233,288    237,716     2,196
+            ? Deferred tax assets (Note 19)                                            62,259     54,660       586
+            ? Other non-current assets                                                121,839     94,742     1,147
+            Total non-current assets                                                4,740,576   4,421,217   44,622
+            Total assets (Note 4)                                                  ?8,663,937  ?8,122,032  $81,551
+            Refer to Notes to Consolidated Financial Statements.
+            24    ITOCHU CORPORATION FINANCIAL SECTION 2018
+===== page 27
+                                                                                                              Millions of
+                                                                                            Millions of Yen   U.S. Dollars
+               Liabilities and Equity                                                    2018        2017       2018
+               Current liabilities
+               ? Short-term debentures and borrowings (Notes 15 and 32)               ?? ?526,867 ?? ?563,033 $? 4,959
+               ? Trade payables (Note 14)                                              1,825,859   1,588,783   17,186
+               ? Other current payables (Note 14)                                         79,200     53,494       746
+               ? Other current financial liabilities                                      26,791     15,729       252
+               ? Current tax liabilities (Note 19)                                        53,241     40,660       501
+               ? Advances from customers                                                 157,167    149,921     1,479
+               ? Other current liabilities (Note 18)                                     319,777    288,785     3,010
+               Total current liabilities                                               2,988,902   2,700,405   28,133
+               Non-current liabilities
+               ? Long-term debentures and borrowings (Notes 15 and 32)                 2,252,606   2,381,620   21,203
+               ? Other non-current financial liabilities (Note 14)                       114,627    108,333     1,079
+               ? Non-current liabilities for employee benefits (Note 17)                  97,955     59,614       922
+               ? Deferred tax liabilities (Note 19)                                      129,579    123,374     1,220
+               ? Other non-current liabilities (Note 18)                                  95,917     85,875       903
+               Total non-current liabilities                                           2,690,684   2,758,816   25,327
+               Total liabilities                                                       5,679,586   5,459,221   53,460
+               Equity
+               ? Common  stock (Note 21)                                                 253,448    253,448     2,386
+               ? Capital surplus (Note 21)                                               160,271    162,038     1,509
+               ? Retained earnings (Notes 21 and 22)                                   2,324,766   2,020,018   21,882
+               Other components of equity (Note 23)
+               ? Translation adjustments                                                 136,729    137,085     1,287
+               ? FVTOCI financial assets (Note 12)                                       (61,484)    (50,353)    (579)
+               ? Cash flow hedges (Note 25)                                                5,961      1,997        56
+               ? Total other components of equity                                         81,206     88,729       764
+               ? Treasury stock (Note 21)                                               (150,208)   (122,340)   (1,414)
+               ? Total shareholders? equity                                            2,669,483   2,401,893   25,127
+               ? Non-controlling interests                                               314,868    260,918     2,964
+               Total equity                                                            2,984,351   2,662,811   28,091
+               Total liabilities and equity                                           ?8,663,937  ?8,122,032  $81,551
+                                                                                         ITOCHU CORPORATION FINANCIAL SECTION 2018 25
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+===== page 5
+               Six-year      Summary        (U.S.    GAAP)
+               ITOCHU Corporation and its Subsidiaries
+                                                                                     Millions of Yen
+               Years ended March 31                           2014      2013      2012      2011      2010       2009
+               P/L (For the year):
+               ? Revenue                                    ?5,530,895 ?4,579,763 ?4,197,525 ?3,581,795 ?3,418,220 ?3,419,061
+               ? Gross trading profit                        1,028,273  915,879    956,920   906,587   860,187  1,060,521
+               ? Net income attributable to ITOCHU            310,267   280,297    300,505   161,114   128,905   165,390
+               ? Comprehensive income (loss) attributable to ITOCHU 446,214 475,819 249,983  106,041   270,570   (92,334)
+               ? Per share (Yen):
+               ? ? Basic net income attributable to ITOCHU (Note 1) 196.31 177.35  190.13     101.93    81.56     104.64
+               ? ? Cash dividends                                46.0      40.0      44.0      18.0      15.0      18.5
+               ? ? Stockholders? equity (Note 1)              1,358.42  1,117.01   862.88     731.57    695.75    537.43
+               B/S (At year-end):
+               ? Total assets                               ?7,848,440 ?7,117,446 ?6,507,273 ?5,676,709 ?5,478,873 ?5,192,092
+               ? Current interest-bearing debt                464,992   482,544    450,968   288,973   289,963   628,792
+               ? Long-term interest-bearing debt             2,420,272 2,279,915 2,082,592 1,979,967 1,919,588  1,760,530
+               ? Interest-bearing debt                       2,885,264 2,762,459 2,533,560 2,268,940 2,209,551  2,389,322
+               ? Net interest-bearing debt                   2,224,279 2,185,623 2,014,898 1,630,764 1,721,464  1,756,764
+               ? Long-term debt, excluding current maturities
+                 ? (including long-term interest-bearing debt) 2,628,937 2,447,868 2,259,717 2,160,772 2,108,081 1,934,421
+               ? Stockholders? equity                        2,146,963 1,765,435 1,363,797 1,156,270 1,099,639   849,411
+               Cash flows (For the year):
+               ? Cash flows from operating activities       ??? 418,396 ??? 245,661 ??? 212,830 ??? 335,361 ??? 293,597 ?? ?276,854
+               ? Cash flows from investing activities         (266,692) (199,990) (416,315) (230,866) (195,698) (326,033)
+               ? Cash flows from financing activities          (71,707)  (11,323)  84,704     53,202  (256,568)  258,322
+               ? Cash and cash equivalents at the end of the year 653,332 569,716  513,489   633,756   480,564   628,820
+               Ratios:
+               ? ROA (%)                                          4.1       4.1       4.9       2.9       2.4       3.2
+               ? ROE (%)                                         15.9      17.9      23.8      14.3      13.2      18.1
+               ? Ratio of stockholders? equity to total assets (%) 27.4    24.8      21.0      20.4      20.1      16.4
+               ? Net debt-to-equity ratio (times)                 1.0       1.2       1.5       1.4       1.6       2.1
+               ? Interest coverage (times) (Note 2)              13.1      12.4      13.5      10.7       5.3       7.2
+               Common stock information (For the year):
+               ? Stock price (Yen):
+               ? ? Opening price                            ?? ? 1,125.0 ?? ? ? ?925.0 ??? ? ? 870.0 ?? ?? ? 829.0 ?? ? ?? 487.0 ?? ? ? ?994.0
+               ? ? High                                        1,568.0   1,241.0    966.0     930.0     821.0    1,337.0
+               ? ? Low                                         1,033.0    755.0     676.0     659.0     486.0      380.0
+               ? ? Closing price                               1,206.0   1,131.0    903.0     871.0     819.0      478.0
+               ? Market capitalization (Yen in billions)        1,906     1,788     1,427     1,377     1,294       756
+               ? Trading volume (yearly, million shares)       1,782.0   1,783.0   1,882.0   2,287.0   2,616.0   2,913.0
+               ? Number of shares of common stock
+                 ? issued (at year-end, 1,000 shares)        1,584,889 1,584,889 1,584,889 1,584,889 1,584,889  1,584,889
+               Exchange rates into U.S. currency
+               ? (Federal Reserve Bank of New York):
+               ? At year-end                                ?? ?? 102.98 ?? ?? ??94.16 ?? ?? ??82.41 ?? ?? ??82.76 ?? ?? ??93.40 ?? ?? ?? 99.15
+               ? Average for the year                          100.46     83.26     78.86     85.00     92.49     100.85
+               ? Range:
+               ? ? Low                                         105.25     96.16     85.26     94.68     100.71    110.48
+               ? ? High                                         92.96     77.41     75.72     78.74     86.12      87.80
+               Number of employees (At year-end, consolidated) 102,376   77,513    70,639     62,635    62,379    55,431
+               Notes: 1. Basic net income attributable to ITOCHU and Stockholders? equity per share are calculated by using the number of shares outstanding for each year.
+                   2. Interest coverage = (Gross trading profit + Selling, general and administrative expenses + Provision for doubtful receivables + interest income + Dividends received) /
+                     Interest expense
+                   3. The Consolidated Financial Statements for the year ended March 31, 2014, in accordance with U.S. GAAP are not audited pursuant to the first paragraph of Article 193-2
+                     of the Financial Instruments and Exchange Act.
+                   4. Certain subsidiaries changed their fiscal periods in the year ended March 31, 2012. The effect of these changes has been reflected in figures of certain items for the years
+                     ended March 31, 2011 and 2010.
+                   5. As a result of the ITOCHU Group?s integration of the food distribution and marketing business, the items in which distribution cost related to these operations has been
+                     included were changed from the beginning of the year ended March 31, 2012. The relevant amounts in the years ended March 31, 2011 and 2010 have been reclassified
+                     based on this new classification.
+                   6. With respect to distribution cost related to the ITOCHU Group?s food distribution and marketing business, ITOCHU has made a change in presentation in the financial
+                     statements related to the ITOCHU Group?s portion of operational cost arising at the distribution centers of the ITOCHU Group?s customers, such as mass merchandisers,
+                     and delivery costs from the distribution centers to the customers? stores since the beginning of the year ended March 31, 2013. The aforementioned distribution cost for
+                     the years ended March 31, 2012 and 2011 has been reclassified in the same manner.
+                                                                                         ITOCHU CORPORATION FINANCIAL SECTION 2018 3

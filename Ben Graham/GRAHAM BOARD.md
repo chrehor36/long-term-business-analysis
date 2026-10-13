@@ -20,7 +20,7 @@ https://claude.ai/code/artifact/fee38d43-24d0-4f04-b105-38e6756bac1c
 Book Two appraisal per run file, capped at +50%)
 | Ticker | Business | Price | Sell target | Gain | Broken if |
 |---|---|---|---|---|---|
-| EFOR | IT staffing (fka ASGN) — **HELD (user, brokerage)** | — | +40-50% band | — | NI falls faster than the −20%/yr already assumed, or a loss year |
+| EFOR | IT staffing (fka ASGN) — *(corrected 2026-10-12: the operator never held EFOR; this row said "**HELD (user, brokerage)**")* | — | +40-50% band | — | NI falls faster than the −20%/yr already assumed, or a loss year |
 | CMCSA | Comcast, mid-breakup | $24.28 | ~$32.75 | +35% | broadband losses re-accelerate past FY2025 rate; NBCU/Sky separation pulled |
 | CTSH | Cognizant | $44.04 | ~$65.40 | +48% | revenue decline + disclosed client GCC-insourcing (the Gartner scenario) |
 | UHS | Universal Health | $155.10 | ~$220.70 | +42% | adverse reimbursement ruling; conduct history → enforcement |
@@ -39,6 +39,6 @@ shelf per the 2026-07-13 shelf amendment.
 
 ## Automated candidate pool (2026-07-17 screen — POOL, not positions)
 The G3(b) machine's 11 passers, for when/if a basket is ever funded:
-WU, VSNT, BBWI, ASO, KBH, RITM, HOG, RDN (+EFOR held; SBH/ESNT belong to
+WU, VSNT, BBWI, ASO, KBH, RITM, HOG, RDN (+EFOR, listed as held until 2026-10-12, never held; SBH/ESNT belong to
 the main framework). Pilot shelved by user decision — this section is the
 automation's standing output, refreshed on future screen runs.

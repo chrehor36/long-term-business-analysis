@@ -7,7 +7,7 @@
 |---|---|---|---|
 | ABG | Asbury Automotive Group, Inc. | `Test Runs/2026-10-12 Run - ABG Asbury Automotive.md` | `ABG-v5-fair` $102.33 |
 | ADP | Automatic Data Processing, Inc. | `Test Runs/2026-10-06 Run - ADP Automatic Data Processing.md` | `ADP-v5-fair` $108.88 |
-| ADRZY | Andritz AG | `Test Runs/2026-10-12 Run - ADRZY Andritz.md` | `ADRZY-v5-fair` EUR 35.02 |
+| ADRZY | Andritz AG | `Test Runs/2026-10-12 Run - ADRZY Andritz.md` | `ADRZY-v5-fair` EUR35.02 |
 | AME | AMETEK, Inc. | `Test Runs/2026-10-10 Run - AME AMETEK.md` | `AME-v5-fair` $32.18 |
 | ATR | AptarGroup, Inc. | `Test Runs/2026-10-07 Run - ATR AptarGroup.md` | `ATR-v5-fair` $28.37 |
 | AXP | American Express Company | `Test Runs/2026-10-06 Run - AXP American Express.md` | `AXP-v5-fair` $137.51 |
@@ -22,7 +22,7 @@
 | CSL | Carlisle Companies Incorporated | `Test Runs/2026-10-07 Run - CSL Carlisle.md` | `CSL-v5-fair` $143.72 |
 | CSW | CSW Industrials, Inc. | `Test Runs/2026-10-05 Run - CSW CSW Industrials.md` | `CSW-v5-fair` $35.71 |
 | CTAS | Cintas Corporation | `Test Runs/2026-10-07 Run - CTAS Cintas.md` | `CTAS-v5-fair` $51.72 |
-| DPMAY | Diploma PLC | `Test Runs/2026-10-12 Run - DPMAY Diploma.md` | `DPMAY-v5-fair` GBp 453.0 |
+| DPMAY | Diploma PLC | `Test Runs/2026-10-12 Run - DPMAY Diploma.md` | `DPMAY-v5-fair` GBp453.0 |
 | ECL | Ecolab Inc. | `Test Runs/2026-10-07 Run - ECL Ecolab.md` | `ECL-v5-fair` $8.09 |
 | EFX | Equifax Inc. | `Test Runs/2026-10-07 Run - EFX Equifax.md` | `EFX-v5-fair` $40.36 |
 | EPAC | Enerpac Tool Group Corp. | `Test Runs/2026-10-07 Run - EPAC Enerpac.md` | `EPAC-v5-fair` $11.23 |
@@ -32,12 +32,14 @@
 | HD | The Home Depot, Inc. | `Test Runs/2026-10-06 Run - HD Home Depot.md` | `HD-v5-fair` $128.76 |
 | HON | Honeywell International Inc. | `Test Runs/2026-10-06 Run - HON Honeywell.md` | `HON-v5-fair` $89 |
 | HUBB | Hubbell Incorporated | `Test Runs/2026-10-05 Run - HUBB Hubbell.md` | `HUBB-v5-fair` $137.02 |
+| ITOCY | ITOCHU Corporation | `Test Runs/2026-10-12 Run - ITOCY ITOCHU Corporation.md` | `ITOCY-v5-fair` $1.82 |
 | ITW | Illinois Tool Works Inc. | `Test Runs/2026-10-07 Run - ITW Illinois Tool Works.md` | `ITW-v5-fair` $68.5 |
 | JKHY | Jack Henry & Associates, Inc. | `Test Runs/2026-10-07 Run - JKHY Jack Henry.md` | `JKHY-v5-fair` $57.11 |
 | KO | The Coca-Cola Company | `Test Runs/2026-10-06 Run - KO Coca-Cola.md` | `KO-v5-fair` $24.15 |
 | LOW | Lowe's Companies, Inc. | `Test Runs/2026-10-10 Run - LOW Lowe's.md` | `LOW-v5-fair` $110.05 |
 | MA | Mastercard Incorporated | `Test Runs/2026-10-10 Run - MA Mastercard.md` | `MA-v5-fair` $259.13 |
 | MCD | McDonald's Corporation | `Test Runs/2026-10-06 Run - MCD McDonalds.md` | `MCD-v5-fair` $100.41 |
+| MITSY | Mitsui & Co., Ltd. | `Test Runs/2026-10-12 Run - MITSY Mitsui and Co.md` | `MITSY-v5-fair` $65 |
 | MSA | MSA Safety Incorporated | `Test Runs/2026-10-10 Run - MSA MSA Safety.md` | `MSA-v5-fair` $48.82 |
 | MWA | Mueller Water Products, Inc. | `Test Runs/2026-10-05 Run - MWA Mueller Water Products.md` | `MWA-v5-fair` $7.47 |
 | NDSN | Nordson Corporation | `Test Runs/2026-10-10 Run - NDSN Nordson.md` | `NDSN-v5-fair` $77.13 |

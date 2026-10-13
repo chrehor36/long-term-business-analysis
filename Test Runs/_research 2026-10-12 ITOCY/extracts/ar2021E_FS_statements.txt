@@ -1,0 +1,195 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+===== page 31
+               Consolidated          Statement       of  Cash     Flows
+               ITOCHU Corporation and its Subsidiaries
+               Fiscal years ended March 31, 2021 and 2020
+               Prepared in conformity with IFRSs
+                                                                                                              Millions of
+                                                                                           Millions of Yen    U.S. Dollars
+                                                                                        2021        2020        2021
+               Cash flows from operating activities
+               ? Net profit                                                           ??? 440,883 ??? 559,209 $?3,982
+               ? Adjustments to reconcile net profit to net cash provided by operating activities
+               ? ? Depreciation and amortization                                         424,297    422,624     3,833
+               ? ? (Gains) losses on investments                                          (4,105)    (57,801)     (37)
+               ? ? (Gains) losses on property, plant, equipment and intangible assets    157,524      4,396     1,423
+               ? ? Financial (income) loss                                               (40,041)    (44,141)    (362)
+               ? ? Equity in earnings of associates and joint ventures                  (228,636)   (205,860)  (2,065)
+               ? ? Income tax expense                                                     71,592    142,221      647
+               ? ? Provision for doubtful accounts and other provisions                   30,504     22,154      276
+               ? ? Change in trade receivables                                            (4,876)   252,470       (44)
+               ? ? Change in inventories                                                  38,527     (11,349)    348
+               ? ? Change in trade payables                                              (47,115)   (222,887)    (426)
+               ? ? Other?net                                                                          5,340
+                                                                                          72,440                 654
+               ? Proceeds from interest                                                   24,142     34,460      218
+               ? Proceeds from dividends                                                 144,732    152,862     1,307
+               ? Payments for interest                                                   (39,412)    (62,775)    (356)
+               ? Payments for income taxes                                              (144,556)   (112,790)  (1,306)
+               ? ? ? Net cash provided by (used in) operating activities                 895,900    878,133     8,092
+               Cash flows from investing activities
+               ? Payments for purchase of investments accounted for by the equity method (66,364)    (70,164)    (599)
+               ? Proceeds from sale of investments accounted for by the equity method     45,670     19,249      413
+               ? Payments for purchase of other investments                              (86,458)   (171,729)    (781)
+               ? Proceeds from sale of other investments                                  35,545     88,412      321
+               ? Acquisitions of subsidiaries, net of cash acquired (Note 34)                ?       13,935        ?
+               ? Origination of loans receivable                                         (34,796)    (34,335)    (314)
+               ? Collections of loans receivable                                          58,096     55,746      525
+               ? Payments for purchase of property, plant, equipment and intangible assets (165,022) (199,527) (1,491)
+               ? Proceeds from sale of property, plant, equipment and intangible assets   12,439     51,839      112
+               ? Net change in time deposits                                              (6,406)     (2,192)     (58)
+               ? ? Net cash provided by (used in) investing activities                              (248,766)
+                                                                                        (207,296)              (1,872)
+               Cash flows from financing activities
+               ? Proceeds from debentures and loans payable (Note 34)                  1,019,577    851,842     9,209
+               ? Repayments of debentures and loans payable (Note 34)                   (729,386) (1,001,359)  (6,588)
+               ? Repayments of lease liabilities (Note 34)                              (277,493)   (267,193)  (2,507)
+               ? Net change in other loans payable (Note 34)                             (38,585)    69,791      (349)
+               ? Equity transactions with non-controlling interests (Note 35)           (531,774)     (5,774)  (4,803)
+               ? Cash dividends (Note 23)                                               (129,008)   (133,537)  (1,165)
+               ? Cash dividends to non-controlling interests                             (27,832)    (27,236)    (251)
+               ? Net change in treasury stock                                            (14,266)    (62,016)    (129)
+               ? ? ? Net cash provided by (used in) financing activities                (728,767)   (575,482)  (6,583)
+               Net change in cash and cash equivalents                                   (40,163)    53,885      (363)
+               Cash and cash equivalents at the beginning of the year                    611,223    572,030     5,521
+               Effect of exchange rate changes on cash and cash equivalents               17,280     (14,692)    156
+               Cash and cash equivalents included in assets held for sale (Note 8)       (44,331)        ?       (400)
+               Cash and cash equivalents at the end of the year                       ??? 544,009 ??? 611,223 $?4,914
+               Refer to Notes to Consolidated Financial Statements.
+                                                                                         ITOCHU CORPORATION FINANCIAL SECTION 2021 29
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+===== page 26
+            Consolidated          Statement       of  Financial      Position
+            ITOCHU Corporation and its Subsidiaries
+            As of March 31, 2021 and 2020
+            Prepared in conformity with IFRSs
+                                                                                                           Millions of
+                                                                                       Millions of Yen    U.S. Dollars
+            Assets                                                                  2021        2020        2021
+            Current assets
+            ? Cash and cash equivalents                                          ?? ? ?544,009 ?? ? ?611,223 $? ? 4,914
+            ? Time deposits                                                           9,945       8,858         90
+            ? Trade receivables (Note 6)                                           2,122,815   2,113,746    19,174
+            ? Other current receivables (Note 6)                                    166,282     176,691      1,502
+            ? Other current financial assets (Note 13)                               44,930      45,315        406
+            ? Inventories (Note 7)                                                  898,692     952,029      8,117
+            ? Advances to suppliers                                                  80,521      89,425        727
+            ? Other current assets                                                  161,256     135,774      1,457
+            ? Assets held for sale (Note 8)                                         248,861          ?       2,248
+            Total current assets                                                   4,277,311   4,133,061    38,635
+            Non-current assets
+            ? Investments accounted for by the equity method (Note 14)             1,867,777   1,640,286    16,871
+            ? Other investments (Note 13)                                           952,374     816,518      8,603
+            ? Non-current receivables (Note 6)                                      658,658     660,578      5,949
+            ? Non-current financial assets other than investments and receivables   166,611     172,417      1,505
+            ? Property, plant and equipment (Notes 9 and 17)                       1,939,791   2,137,474    17,521
+            ? Investment property (Note 10)                                          50,665      58,595        458
+            ? Goodwill (Note 12)                                                    396,869     403,940      3,585
+            ? Intangible assets (Note 12)                                           728,967     759,167      6,584
+            ? Deferred tax assets (Note 20)                                          60,446      61,051        546
+            ? Other non-current assets                                               78,963      76,511        713
+            Total non-current assets                                               6,901,121   6,786,537    62,335
+            Total assets (Note 4)                                                ?11,178,432 ?10,919,598  $100,970
+            Refer to Notes to Consolidated Financial Statements.
+            24    ITOCHU CORPORATION FINANCIAL SECTION 2021
+===== page 27
+                                                                                                              Millions of
+                                                                                          Millions of Yen    U.S. Dollars
+               Liabilities and Equity                                                  2021        2020        2021
+               Current liabilities
+               ? Short-term debentures and borrowings (Notes 16 and 34)             ?? ? ?710,213 ?? ? ?684,406 $? ? 6,415
+               ? Lease liabilities (short-term) (Notes 17)                             238,446      242,076     2,154
+               ? Trade payables (Note 15)                                             1,628,766   1,707,472    14,712
+               ? Other current payables (Note 15)                                      199,757      215,175     1,804
+               ? Other current financial liabilities                                    40,172       35,699       363
+               ? Current tax liabilities (Note 20)                                      57,370       67,074       518
+               ? Advances from customers (Note 28)                                      84,699       81,799       765
+               ? Other current liabilities (Notes 19 and 28)                           374,489      368,163     3,383
+               ? Liabilities held for sale (Note 8)                                    220,722          ?       1,994
+               Total current liabilities                                              3,554,634   3,401,864    32,108
+               Non-current liabilities
+               ? Long-term debentures and borrowings (Notes 16 and 34)                2,445,099   2,192,557    22,086
+               ? Lease liabilities (long-term) (Notes 17)                              825,170      937,345     7,453
+               ? Other non-current financial liabilities                                53,483       68,900       483
+               ? Non-current liabilities for employee benefits (Note 18)               116,631      133,138     1,054
+               ? Deferred tax liabilities (Note 20)                                    150,275      200,912     1,357
+               ? Other non-current liabilities (Note 19)                               162,900      144,273     1,471
+               Total non-current liabilities                                          3,753,558   3,677,125    33,904
+               Total liabilities                                                      7,308,192   7,078,989    66,012
+               Equity
+               ? Common  stock (Note 22)                                               253,448      253,448     2,289
+               ? Capital surplus (Note 22)                                             (155,210)     50,677     (1,402)
+               ? Retained earnings (Notes 22 and 23)                                  3,238,948   2,948,135    29,256
+               Other components of equity (Note 24)
+               ? Translation adjustments                                               131,612      (37,836)    1,189
+               ? FVTOCI financial assets (Note 13)                                      38,740      (31,972)      350
+               ? Cash flow hedges (Note 26)                                              (9,897)    (19,163)      (90)
+               ? Total other components of equity                                      160,455      (88,971)    1,449
+               ? Treasury stock (Note 22)                                              (181,360)   (167,338)    (1,638)
+               ? Total shareholders? equity                                           3,316,281   2,995,951    29,954
+               ? Non-controlling interests (Note 35)                                   553,959      844,658     5,004
+               Total equity                                                           3,870,240   3,840,609    34,958
+               Total liabilities and equity                                         ?11,178,432 ?10,919,598  $100,970
+                                                                                         ITOCHU CORPORATION FINANCIAL SECTION 2021 25
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+===== page 13
+               Analysis  of Results  of Operations   in Fiscal Year  2021
+               The analysis of the financial position and results of operations for Packers, Ltd. into a consolidated subsidiary in the third quarter of
+               Fiscal Year 2021 were as follows.                      the previous fiscal year, partially offset by lower transaction volume
+                                                                      in provisions-related companies, and lower transaction volume in
+               Revenues                                               business for CVS and food service in NIPPON ACCESS, INC. re-
+               Revenues for the fiscal year ended March 31, 2021 decreased by sulting from COVID-19.
+               5.6%, or 620.3 billion yen, compared to the previous fiscal year to
+               10,362.6 billion yen (US$93,602 million). This decrease was attrib- Selling, General and Administrative Expenses
+               utable to lower revenue from the Energy & Chemicals Company, Selling, general and administrative expenses decreased by 1.0%,
+               due to lower sales prices and transaction volume in energy-related or 14.5 billion yen, compared to the previous fiscal year to 1,366.5
+               companies and chemical-related transactions; lower revenue from billion yen (US$12,343 million), due to expense reduction and lower
+               the Machinery Company, due to lower sales volume in overseas travel expenses resulting from COVID-19, partially offset by the in-
+               automobile-related companies, automobile-related and aircraft-re- crease as a result of the conversion of Prima Meat Packers, Ltd.
+               lated transactions resulting from COVID-19, partially offset by sales and HOKEN NO MADOGUCHI GROUP Inc. into consolidated sub-
+               recovery of YANASE & CO., LTD.; lower revenue from the Textile sidiaries in the third quarter of the previous fiscal year.
+               Company, due to the decline in sales in overall transactions, espe-
+               cially from sales in apparel-related companies resulting from Provision for Doubtful Accounts
+               COVID-19; and higher revenue from the Food Company, due to the Provision for doubtful accounts decreased by 6.6 billion yen com-
+               conversion of Prima Meat Packers, Ltd. into a consolidated subsid- pared to the previous fiscal year to a loss of 10.8 billion yen (US$98
+               iary in the third quarter of the previous fiscal year, partially offset by million), due to the absence of the provisions for foreign receivables
+               lower transaction volume in provisions-related companies. Further- in the previous fiscal year.
+               more, the breakdown of Revenues for the fiscal year ended March
+               31, 2021 was ?9,156.2 billion (US$82,705 million) for Revenues Gains on Investments
+               from sale of goods, and ?1,206.4 billion (US$10,897 million) for Gains on investments decreased by 92.9%, or 53.7 billion yen,
+               Revenues from rendering of services and royalties.     compared to the previous fiscal year to 4.1 billion yen (US$37 mil-
+                                                                      lion), due to an impairment loss in a foreign company of the Food,
+               Gross Trading Profit                                   an impairment loss on Orient Corporation, the absence of the gain
+               Gross trading profit decreased by 0.9%, or 17.0 billion yen, com- on the partial sale of the foreign business in the General Products &
+               pared to the previous fiscal year to 1,780.7 billion yen (US$16,085 Realty and the revaluation gain resulting from the conversion of
+               million). Gross trading profits decreased in The 8th Company due Prima Meat Packers, Ltd. into a consolidated subsidiary in the pre-
+               to lower daily sales in FamilyMart Co., Ltd. resulting from COVID- vious fiscal year, partially offset by the gain on the partial sale of
+               19; in the Machinery Company due to lower sales volume in over- eGuarantee, Inc. in the current fiscal year.
+               seas automobile-related companies, automobile-related and
+               aircraft- related transactions resulting from COVID-19, partially off- Losses on Property, Plant, Equipment and Intangible Assets
+               set by sales recovery of YANASE & CO., LTD.; in the Textile Com- Losses on property, plant, equipment and intangible assets dete?
+               pany due to the decline in sales in overall transactions, especially riorated by 153.1 billion yen, compared to the previous fiscal year
+               from sales in apparel-related companies resulting from COVID-19; to a loss of 157.5 billion yen (US$1,423 million), due to the impair-
+               and increased in the ICT & Financial Business Company due to ment losses in FamilyMart Co., Ltd. and Australian coal-related
+               stable performance in ITOCHU Techno-Solutions Corporation and company and the impairment loss on foreign companies of
+               the conversion of HOKEN NO MADOGUCHI GROUP Inc. into a Machinery.
+               consolidated subsidiary in the third quarter of the previous fiscal
+               year; in the Food Company due to the conversion of Prima Meat
+               Gross Trading Profit;
+               Selling, General and Administrative Expenses
+               (Billions of Yen)
+                2,000
+                                         1,797.8 1,780.7
+                                 1,536.8
+                1,500
+                                              1,380.9 1,366.5
+                        1,210.4      1,193.3
+                1,000
+                             890.3
+                 500
+                   0
+                            18      19      20       21
+                 Gross Trading Profit
+                 Selling, General and Administrative Expenses
+               * For fiscal years
+                                                                                         ITOCHU CORPORATION FINANCIAL SECTION 2021 11

@@ -1,0 +1,9 @@
+Fold: MITSY (Mitsui & Co.) v5 purchase run, OUT at Q7 on price, fair Y516 all-equity (ADS $65); overnight 2026-10-12
+
+The brief was dispatched under the queue's MTSUY slot with Mitsui's description: the dispatcher's ticker error
+(MTSUY is Mitsubishi Corporation). The analyst caught it and ran Mitsui. Run file and research folder renamed from
+MTSUY to MITSY, contents unchanged but the dispatcher's POSITION NOTE (held, 8 ADRs). Folded under operator rule
+10(c) as an unordered purchase run of a held name; MITSY kept out of the done file; MTSUY stays owed. Addendum filed.
+Dispatcher quote check 27 fragments, 0 slips. check_framework PASS.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>

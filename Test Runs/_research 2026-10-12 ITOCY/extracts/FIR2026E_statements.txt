@@ -1,0 +1,184 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+===== page 40
+            Consolidated          Statement        of  Cash     Flows
+            ITOCHU Corporation and its Subsidiaries
+            Fiscal years ended March 31, 2026 and 2025
+            Prepared in conformity with IFRSs
+                                                                                                           Millions of
+                                                                                      Millions of Yen      U.S. Dollars
+                                                                                   2026         2025         2026
+            Cash flows from operating activities
+              Net profit                                                         ?  937,458   ?  933,015   $  5,864
+              Adjustments to reconcile net profit to net cash provided by operating activities
+               Depreciation and amortization                                        458,696      450,007      2,869
+               (Gains) losses on investments                                       (175,214)     (83,198)    (1,096)
+               (Gains) losses on property, plant, equipment and intangible assets    12,831       14,787        80
+               Financial (income) loss                                               (2,875)     (24,903)      (18)
+               Equity in earnings of associates and joint ventures                 (323,514)     (349,297)   (2,024)
+               Income tax expense                                                   262,008      222,044      1,639
+               Provision for doubtful accounts and other provisions                  25,306       12,236       158
+               Change in trade receivables                                         (157,448)        (626)     (985)
+               Change in inventories                                                (29,037)     (90,930)     (182)
+               Change in trade payables                                              95,082      (97,685)      595
+               Other-net                                                             33,896       16,093       212
+              Proceeds from interest                                                 40,850       47,839       256
+              Proceeds from dividends                                               265,552      237,948      1,661
+              Payments for interest                                                (101,803)     (102,845)    (637)
+              Payments for income taxes                                            (209,951)     (187,207)   (1,313)
+                 Net cash provided by (used in) operating activities              1,131,837      997,278      7,079
+            Cash flows from investing activities
+              Payments for purchase of investments accounted for by the equity method (318,088)  (214,130)   (1,989)
+              Proceeds from sale of investments accounted for by the equity method  215,430       83,918      1,347
+              Payments for purchase of other investments                           (138,317)     (129,397)    (865)
+              Proceeds from sale of other investments                                99,462       54,653       622
+              Payments for acquisition of subsidiaries or businesses (Notes 5 and 33)   ?        (109,847)      ?
+              Origination of loans receivable                                      (114,884)     (115,266)    (719)
+              Collections of loans receivable                                       139,357      118,270       872
+              Payments for purchase of property, plant, equipment and intangible assets (284,991) (227,465)  (1,783)
+              Proceeds from sale of property, plant, equipment and intangible assets 24,908       34,831       156
+              Net change in time deposits                                           (11,749)     (11,834)      (73)
+                 Net cash provided by (used in) investing activities               (388,872)     (516,267)   (2,432)
+            Cash flows from financing activities
+              Proceeds from debentures and loans payable (Note 33)                1,123,862     1,011,232     7,029
+              Repayments of debentures and loans payable (Note 33)                (1,005,483)    (892,421)   (6,289)
+              Repayments of lease liabilities (Note 33)                            (259,227)     (260,320)   (1,621)
+              Net change in other loans payable (Note 33)                           (49,215)     100,363      (308)
+              Equity transactions with non-controlling interests                    (57,557)     (45,755)     (360)
+              Cash dividends (Note 22)                                             (282,692)     (258,614)   (1,768)
+              Cash dividends to non-controlling interests                           (25,887)     (25,626)     (162)
+              Net change in treasury stock                                         (170,278)     (153,857)   (1,065)
+                 Net cash provided by (used in) financing activities               (726,477)     (524,998)   (4,544)
+            Net change in cash and cash equivalents                                  16,488      (43,987)      103
+            Cash and cash equivalents at the beginning of the year                  549,573      600,435      3,438
+            Effect of exchange rate changes on cash and cash equivalents             27,705       (6,875)      173
+            Cash and cash equivalents at the end of the year                     ?  593,766   ?  549,573   $  3,714
+            Refer to Notes to Consolidated Financial Statements.
+            38    ITOCHU CORPORATION FINANCIAL INFORMATION REPORT 2026
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+===== page 35
+              Consolidated          Statement        of  Financial       Position
+              ITOCHU Corporation and its Subsidiaries
+              As of March 31, 2026 and 2025
+              Prepared in conformity with IFRSs
+                                                                                                              Millions of
+                                                                                         Millions of Yen     U.S. Dollars
+              Assets                                                                 2026         2025         2026
+              Current assets
+                Cash and cash equivalents                                         ?   593,766  ?   549,573  $   3,714
+                Time deposits                                                          54,671       39,914        342
+                Trade receivables (Note 6)                                          3,032,965    2,835,461     18,971
+                Other current receivables (Note 6)                                    291,933      240,935      1,826
+                Other current financial assets (Note 12)                              153,024       47,424        957
+                Inventories (Note 7)                                                1,544,795    1,482,337      9,662
+                Advances to suppliers                                                 339,084      274,774      2,121
+                Other current assets (Note 27)                                        259,847      253,381      1,625
+              Total current assets                                                  6,270,085    5,723,799     39,218
+              Non-current assets
+                Investments accounted for by the equity method (Note 13)            4,104,790    3,560,577     25,674
+                Other investments (Note 12)                                         1,398,083    1,156,224      8,745
+                Non-current receivables (Note 6)                                      927,347      892,428      5,800
+                Non-current financial assets other than investments and receivables   158,754      147,917        993
+                Property, plant and equipment (Notes 8 and 16)                      2,416,885    2,231,398     15,117
+                Investment property (Note 9)                                           33,356       39,237        209
+                Goodwill (Note 11)                                                    427,666      405,339      2,675
+                Intangible assets (Note 11)                                           800,762      804,049      5,008
+                Deferred tax assets (Note 19)                                          69,820       69,310        437
+                Other non-current assets                                              125,267      103,986        783
+              Total non-current assets                                             10,462,730    9,410,465     65,441
+              Total assets (Note 4)                                               ?16,732,815  ?15,134,264  $ 104,659
+              Refer to Notes to Consolidated Financial Statements.
+                                                                                  ITOCHU CORPORATION FINANCIAL INFORMATION REPORT 2026 33
+===== page 36
+                                                                                                           Millions of
+                                                                                      Millions of Yen     U.S. Dollars
+            Liabilities and Equity                                                 2026         2025         2026
+            Current liabilities
+              Short-term debentures and borrowings (Notes 15 and 33)            ?  746,882   ?  827,128   $   4,671
+              Lease liabilities (short-term) (Note 16)                             242,355      235,315       1,516
+              Trade payables (Note 14)                                            2,402,189    2,262,449     15,025
+              Other current payables (Note 14)                                     242,628      279,730       1,518
+              Other current financial liabilities                                  141,930       45,911        888
+              Current tax liabilities (Note 19)                                    115,610      103,255        723
+              Advances from customers (Note 27)                                    289,891      227,803       1,813
+              Other current liabilities (Notes 18 and 27)                          582,609      504,993       3,644
+            Total current liabilities                                             4,764,094    4,486,584     29,798
+            Non-current liabilities
+              Long-term debentures and borrowings (Notes 15 and 33)               2,925,827    2,723,640     18,300
+              Lease liabilities (long-term) (Note 16)                              843,005      835,622       5,273
+              Other non-current financial liabilities                              165,140       82,612       1,033
+              Non-current liabilities for employee benefits (Note 17)               87,785       91,191        549
+              Deferred tax liabilities (Note 19)                                   524,616      437,187       3,281
+              Other non-current liabilities (Note 18)                              234,089      186,716       1,464
+            Total non-current liabilities                                         4,780,462    4,356,968     29,900
+            Total liabilities                                                     9,544,556    8,843,552     59,698
+            Equity
+              Common stock (Note 21)                                               253,448      253,448       1,585
+              Capital surplus (Note 21)                                            (459,335)    (443,645)    (2,873)
+              Retained earnings (Notes 21 and 22)                                 6,269,767    5,658,294     39,215
+            Other components of equity (Note 23)
+              Translation adjustments                                             1,047,417     667,754       6,552
+              FVTOCI financial assets (Note 12)                                    160,587      147,195       1,004
+              Cash flow hedges (Note 25)                                            46,156       31,566        289
+              Total other components of equity                                    1,254,160     846,515       7,845
+              Treasury stock (Note 21)                                             (728,074)    (559,540)    (4,554)
+              Total shareholders? equity                                          6,589,966    5,755,072     41,218
+              Non-controlling interests (Note 34)                                  598,293      535,640       3,743
+            Total equity                                                          7,188,259    6,290,712     44,961
+            Total liabilities and equity                                        ?16,732,815  ?15,134,264  $ 104,659
+            34    ITOCHU CORPORATION FINANCIAL INFORMATION REPORT 2026
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+===== page 25
+              Analysis   of Results   of Operations   in FYE  2026
+                                                                                                               Millions of
+                                                     Billions of Yen                                          U.S. Dollars
+                                                                  Increase          Summary of changes
+                                             2026       2025                                                    2026
+                                                                 (Decrease)       (?):Increase, (?):Decrease
+                                                                           (?) ICT & Financial Business, Food, and Textile
+              Revenues                      ? 14,823.1 ? 14,724.2   ? 98.9                                      $ 92,714
+                                                                           (?) Energy & Chemicals, Metals & Minerals
+                                                                           (?) Textile, ICT & Financial Business, The 8th,
+              Gross trading profit            2,480.5    2,376.5     104.1    and Food                           15,515
+                                                                           (?) Metals & Minerals
+                                                                           (?) Conversion into a subsidiary of
+              Selling, general and administrative                             DESCENTE LTD. in the third quarter of the
+                                             (1,763.2)  (1,678.4)    (84.8)                                      (11,028)
+              expenses                                                        previous fiscal year
+                                                                           (?) Increase in personnel expenses
+                                                                           (?) Increase in provision for doubtful accounts in
+              Provision for doubtful accounts  (15.5)     (14.2)      (1.3)                                         (97)
+                                                                              general receivables
+                                                                           (?) Sale of C.P. Pokphand Co. Ltd.
+                                                                           (?) Group reorganization of pulp business
+                                                                           (?) Absence of the revaluation gain resulting from
+                                                                              the conversion of DESCENTE LTD. into a
+              Gains (losses) on investments    175.2       83.2       92.0                                        1,096
+                                                                              subsidiary in the third quarter of the previous
+                                                                              fiscal year
+                                                                           (?) Absence of the gain on the partial sale of an
+                                                                              overseas company in the previous fiscal year
+                                                                           (?) Absence of the impairment loss on a North
+              Gains (losses) on property, plant,
+                                               (12.8)     (14.8)      2.0     American synthetic resin-related company in (80)
+              equipment and intangible assets
+                                                                              the previous fiscal year
+                                                                           (?) Decrease in foreign exchange gains and
+              Other-net                         8.8        28.5      (19.7)                                         55
+                                                                              losses
+              Net interest expenses
+                                                                           (?) Deterioration in net interest expenses due to
+              (The total of interest income and (56.9)    (53.5)      (3.4)                                        (356)
+                                                                              higher yen interest rate
+               interest expense)
+              Dividends received                59.8       78.4      (18.6) (?) Decrease in dividends received from investees 374
+              Equity in earnings of associates and                         (?) The 8th
+                                               323.5      349.3      (25.8)                                       2,024
+              joint ventures                                               (?) Machinery
+              Profit before tax               1,199.5    1,155.1      44.4                                        7,503
+              Income tax expense              (262.0)    (222.0)     (40.0) (?) Increase of profit before tax     (1,639)
+              Net profit                       937.5      933.0       4.4                                         5,864
+              Net profit attributable to ITOCHU ? 900.3 ? 880.3     ? 20.0                                      $ 5,631
+                                                                           (?) The 8th, ICT & Financial Business, Food,
+              (Reference) Trading income       701.9      683.9       18.0    Energy & Chemicals, and Textile     4,390
+                                                                           (?) Metals & Minerals, General Products & Realty
+                                                                                  ITOCHU CORPORATION FINANCIAL INFORMATION REPORT 2026 23

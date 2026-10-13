@@ -1,0 +1,48 @@
+
+## Q6: WHAT WILL THEY DO WITH THE MONEY AND THE OWNERS? WEIGHING.
+**Part A, the money.**
+- **The retention test** **[R1995-009]**, **[M1998-033]**. FY2018-26: profit attributable ¥6,403 bn, dividends paid
+  ¥1,684 bn, so about ¥4.7 tn kept before buybacks (cash-flow statements). Market value: about ¥2.9 tn at March 2017
+  (FY2017 profit ¥306,136 mn / EPS ¥171.20 = 1,788 mn weighted shares, at the price implied by the reported PER of 9.42,
+  ¥1,613; computed, labelled) against about ¥17.0 tn at March 2026 (EPS ¥291.12 × PER 20.47 = ¥5,959 on 2,847.6 mn
+  shares) and ¥13.6 tn today. Each yen kept has been matched by well over a yen of market value; part of that is a
+  re-rating from 0.8 times book (book per share ¥2,115.80 against ¥1,613 in 2017) to about twice book. Against intrinsic
+  value, the bottom of the Q7 range on the equity (¥11.8 tn, all-equity basis) also exceeds the equity of 2017 plus what
+  was kept. **Weighs FOR.** The forward question, "Can you keep using all of the capital you generate, effectively, for a
+  very long time?" **[M2010-097]**, is answered by the plan: ¥970 bn of growth investment decided and ¥2.4 tn of
+  "Management Allocation" to be split between investment and returns (Q1 FY2027 presentation).
+- **Buybacks.** Every programme names an amount and a share count and no price: August 4, 2026, "Up to 60 million shares
+  [...] Up to 200 billion yen"; November 5, 2025, "Up to 80 million shares [...] Up to 200 billion yen". The rows find a
+  repurchase's worth "entirely purchase-price dependent" **[L2016-002]** and want the stock "below its intrinsic value,
+  conservatively-calculated" **[L1999-023]**; "what is smart at one price is dumb at another" **[L2011-003]**. So by the
+  convention the prices paid are read against the bottom of the Q7 range. Prices paid (treasury-stock tables; split-adjusted
+  to today's shares): FY2023 programmes ¥1,582 and ¥1,875 a share (¥100.0 bn for 31,608,000 and ¥170.0 bn for 45,337,900
+  pre-split shares); FY2025 ¥3,275 (¥400.0 bn for 122,138,700 shares, the count as the 106th report prints it after the
+  July 2024 split); FY2026 ¥4,869 (¥200.0 bn for 41,075,000 shares, November 2025 to March 2026); FY2027 to September 30,
+  ¥5,083 (¥42.1 bn for 8,285,900 shares). **Bottom of the Q7 range: [WRITTEN BACK AT Q7].**
+- **Issuance and deals** **[L2014-012]**, **[L2009-019]**: no shares issued for deals (the count has fallen every year);
+  Rhodes Ridge paid in cash (¥723.8 bn); the July 22, 2026 proposal with Penske Corporation to buy PAG's free float
+  (US$210 a share, US$3.8 bn for both buyers) is non-binding, to be paid with "new equity as well as [...] debt financing
+  from one or more third parties", that is the buyers' cash and borrowing, not Mitsui stock. **The all-stock STOP does
+  not apply.** The Penske price was not tested against PAG's value (outside this run's scope; recorded under Q9 facts).
+- **Dividends** **[M2004-089]**, **[L2012-015]**: a progressive policy with a floor of ¥140 a share and total returns set
+  at "the 50% level" of Core Operating Cash Flow over the plan. Clear and consistent, but a ratio, which the rows call
+  "nuts" as a way to set a payout **[M2000-051]**; and the ratio is set on the adjusted figure that is before investment.
+  Weighs slightly against.
+
+**Part B, the pay, the board and the owners.**
+- **Pay** (107th report, Corporate Governance (4)): directors' basic pay, a cash bonus of 0.12% of profit and of Core
+  Operating Cash Flow (half each) times a position coefficient (capped at ¥1.5 bn in total), performance-linked restricted
+  stock on three-year ROE and ESG measures, and tenure-linked restricted stock. Eight internal directors received
+  ¥2,491 mn in FY2026 against profit of ¥834.0 bn. The bonus rises with profit and cash flow whatever capital was added to
+  earn them; the rows ask for a charge on incremental capital **[L1994-019]** and warn against "a royalty on money that you
+  left with me" **[M1997-043]**; the ROE leg of the stock award partly answers that. Pay is tied to whole-company results,
+  which for the top officers is what they control **[M2003-019]**. The Remuneration Committee, chaired by an external
+  director, sets levels "based on trends at other companies", the comparative-data habit the rows distrust **[L2005-015]**.
+  Weighs slightly AGAINST; the sums are small against the business.
+- **The board**: twelve directors, six external; the chair and the president are separate offices (bonus coefficients
+  list both), so the chair-and-CEO concern **[L2014-026]** does not arise. Clawback provisions exist.
+- **The owners**: the report gives the owner what an owner needs (Q5), and treats holders alike; guidance (Q4) is the
+  departure from the speakers' own practice **[M2016-002]**.
+
+**WEIGHS**: Part A [COMPLETED AT Q7] (retention for; a ratio dividend against; no STOP). Part B **slightly AGAINST** (no capital charge in the bonus; peer-set levels).
