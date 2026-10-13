@@ -88,3 +88,7 @@ of 2026-10-12 (the register's dated note), and the paragraph itself awaits appro
 1. Approve the commodity-business paragraph, or amend it.
 2. Approve the research-pass rule, or refuse it.
 3. Whether MTSUY and MARUY are re-run under the paragraph.
+
+---
+# DECIDED 2026-10-12
+**The operator approved both paragraphs as written ("Go") and chose not to re-run MTSUY and MARUY**: both are priced above every case their runs computed. Each instead carries a re-look note in the register: re-run when its price falls below the top of its computed all-equity range (MTSUY ¥6,310, MARUY ¥4,391), with an alert at that level. Applied the same day to Q2, Part VII and section VI of `Framework/THE FRAMEWORK v5.md`; the five remaining Japanese names returned to the front of the order.

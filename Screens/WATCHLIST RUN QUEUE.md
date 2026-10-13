@@ -17174,6 +17174,9 @@ COMPUTATION where the file closed before Q7. The count of entries rises by the n
 ### Dated note 2026-10-12: the SSUMY research pass closed unrun
 *At the operator's "Go" on the recommendation of 2026-10-12, the research pass written (steps 1 and 2) in the SSUMY run of 2026-10-12 is closed without being run: the computation beneath the stop shows no case earning the floor at the price (central range ¥899 to ¥1,594 against ¥1,708; all-equity fair price ¥26), so no answer to the pass's question could make the name a purchase at that price. The run binds as written, TOO HARD (WORK) at Q2. The rule this applies is proposed in `Framework/v5/CASE 2026-10-12 - where a commodity business is judged, for the operator's approval.md` and awaits the operator; the trading-house placement question in the same case is open, and the remaining Japanese names wait behind the sheet.*
 
+### Dated note 2026-10-12: MTSUY and MARUY, re-look conditions
+*At the operator's decision on `Framework/v5/CASE 2026-10-12 - where a commodity business is judged, for the operator's approval.md`, the MTSUY (TOO HARD (NATURE) at Q1) and MARUY (TOO HARD (NATURE) at Q2) runs of 2026-10-12 are not re-run under the commodity-business paragraph: both are priced above every case computed. Each is re-run when its price falls below the top of its computed all-equity range, MTSUY ¥6,310 and MARUY ¥4,391 (ADS equivalents in `tools/alerts.json`), and alerts `MTSUY-v5-relook` and `MARUY-v5-relook` are armed at those levels as prompts to re-run, never verdicts.*
+
 ## THE WRITE-EARLY PROTOCOL - mandatory for every run in this queue
 *Added 2026-09-02 after the fourth consecutive session-limit loss.*
 

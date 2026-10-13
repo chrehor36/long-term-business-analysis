@@ -8,6 +8,12 @@
 # 2026-10-12: the 91 wave 7 names never run and the 45 wave 7 financials held out since 2026-08-30 (the operator lifted the hold) are placed after the operator's sheet and before the v4.1 remainder, wave 7 order kept.
 # 2026-10-12: NEWTG, NEWTH, NEWTI, NEWTO, NEWTP (NewtekOne's notes and preferred) and MNSBP (MainStreet Bank's preferred) left out: they are securities of NEWT and MNSB, which are run once each as businesses.
 # 2026-10-12 20:55: the remaining Japanese names (NPNYY, FUJIY, FJTSY, JAPAY, NTDOY) moved behind the operator's sheet until the trading-house case (where commodity exposure is judged) is decided; the one running now finishes.
+# 2026-10-12 21:30: the commodity-business case decided; the five Japanese names returned to the front.
+NPNYY
+FUJIY
+FJTSY
+JAPAY
+NTDOY
 MTSUY
 ITOCY
 MARUY
@@ -362,11 +368,6 @@ WU
 WEX
 WWLNF
 XTMIF
-NPNYY
-FUJIY
-FJTSY
-JAPAY
-NTDOY
 BWXT
 FCX
 DXCM

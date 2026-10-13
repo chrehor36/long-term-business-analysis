@@ -1693,6 +1693,24 @@
    "threshold": 1.82,
    "active": true,
    "label": "ITOCY v5 fair price, all-equity, per ADS (one share) at the run's yen rate of 158.56: $1.82 (\u00a5289 a share; equity-only \u00a5789, ADS $4.97). Run 2026-10-12 (Test Runs/2026-10-12 Run - ITOCY ITOCHU Corporation.md; OUT at Q7 at \u00a52,155). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "MTSUY-v5-relook",
+   "ticker": "MTSUY",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 39.92,
+   "active": true,
+   "label": "MTSUY at/below $39.92 an ADS (one share per ADS; the run's USDJPY 158.06; \u00a56,310 a share): the top of the computed all-equity range of the blind v5 run of 2026-10-12, TOO HARD (NATURE) at Q1 on the commodity question that the case of 2026-10-12 has since placed at Q7. The operator chose not to re-run; a price below this level is the re-look condition (register note 2026-10-12). A prompt to re-run, never a verdict."
+  },
+  {
+   "id": "MARUY-v5-relook",
+   "ticker": "MARUY",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 27.78,
+   "active": true,
+   "label": "MARUY at/below $27.78 an ADS (one share per ADS; the run's USDJPY 158.06; \u00a54,391 a share): the top of the computed all-equity range of the blind v5 run of 2026-10-12, TOO HARD (NATURE) at Q2 on the commodity question that the case of 2026-10-12 has since placed at Q7. The operator chose not to re-run; a price below this level is the re-look condition (register note 2026-10-12). A prompt to re-run, never a verdict."
   }
  ]
 }

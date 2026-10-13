@@ -1,0 +1,36 @@
+YE-Mar  OCF   capex  lease  netacq  OC(equity)  OC(all-eq)  +vessel-sale proceeds  D&A-variant  OC/rev
+2016 142857 115913 0 -9437 36381 48631 110525 48947 1.6%
+2017 27924 156229 0 2253 -130558 -119511 -100049 -66333 -6.8%
+2018 89090 199240 0 8345 -118495 -106091 -47511 -7094 -5.4%
+2019 45260 169614 2402 -7710 -119046 -101962 -33690 -39145 -6.5%
+2020 116931 138766 19275 45 -41155 -22738 29682 -6446 -2.5%
+2021 159336 102087 19903 -2066 39412 51419 115438 42696 2.5%
+2022 507762 192726 20389 -35957 330604 339002 366039 421734 14.5%
+2023 824853 198360 24226 12850 589417 599701 618426 666119 22.5%
+2024 401414 336281 27037 -4009 42105 51087 121940 236781 1.8%
+2025 510755 206506 25955 -85824 364118 378820 452464 415992 14.1%
+2026 473358 304502 29405 263061 -123610 -108766 -41313 5710 -5.1%
+literal 5y YE22-26 OC eq 240527 OC all-eq 251969 OC+proceeds 303511 D&A var 349267
+cycle YE17-24 OC eq 74036 OC all-eq 86363 OC+proceeds 133784 D&A var 156039
+all 11y YE16-26 OC eq 79016 OC all-eq 91781 OC+proceeds 144723 D&A var 156269
+net debt 1135667 shares 403555618 mktcap 2969362
+cycle base (central): no-growth value all-eq 2,425 yen/sh; equity-only 4,491; FAIR all-eq -674; equity-only 1,835; ADS fair $-0.85; price 7358.0 (ADS $9.31)
+   earnings yield at price, all-eq: 2.10%; equity-only 2.49%
+literal window (beside): no-growth value all-eq 12,470 yen/sh; equity-only 14,590; FAIR all-eq 3,430; equity-only 5,960; ADS fair $4.34; price 7358.0 (ADS $9.31)
+   earnings yield at price, all-eq: 6.14%; equity-only 8.10%
+11y (beside): no-growth value all-eq 2,753 yen/sh; equity-only 4,793; FAIR all-eq -540; equity-only 1,958; ADS fair $-0.68; price 7358.0 (ADS $9.31)
+   earnings yield at price, all-eq: 2.24%; equity-only 2.66%
+   earnings yield at price, all-eq: 2.24%; equity-only 2.66%
+
+YE-Mar 2008-2015 owner cash (gross capex): {2008: -301851, 2009: -267412, 2010: -181939, 2011: -104026, 2012: -284863, 2013: -213349, 2014: -98386, 2015: -55237}
+same, with vessel-sale proceeds: {2008: -84767, 2009: -19179, 2010: 1793, 2011: 17894, 2012: -111591, 2013: -54851, 2014: 148200, 2015: 130061}
+19y YE2008-2026 sum gross -637890 avg -33573 | with proceeds sum 1619511 avg 85237
+previous cycle YE2010-2016 avg -128774 | last cycle YE2017-2023 avg 78597 | YE2017-2024 avg 74036
+consolidated 5y 3076286 check sum of parts 3076274
+Liner trade: 1,916,932  share of consolidated 62.3%
+Air cargo: 164,610  share of consolidated 5.4%
+Logistics: 170,447  share of consolidated 5.5%
+Bulk (Automotive+Dry bulk+Energy): 859,411  share of consolidated 27.9%
+Others (real estate, other services): 13,361  share of consolidated 0.4%
+Elimination: -48,487  share of consolidated -1.6%
+Automotive 3y 317170 Dry bulk 3y 45718 Energy 3y 146983
