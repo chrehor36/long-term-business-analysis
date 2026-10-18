@@ -1,0 +1,47 @@
+owner cash by year (all-equity, acquisitions net deducted):
+  2008 -1160  before acq 1848  equity-only -1160  depreciation basis -1003  share of sales 13.8%
+  2009 1204  before acq 1777  equity-only 1204  depreciation basis 1205  share of sales 14.0%
+  2010 688  before acq 1244  equity-only 688  depreciation basis 658  share of sales 10.2%
+  2011 549  before acq 1587  equity-only 549  depreciation basis 753  share of sales 10.8%
+  2012 -2923  before acq -43  equity-only -2923  depreciation basis -2663  share of sales -0.2%
+  2013 239  before acq 2636  equity-only 239  depreciation basis 516  share of sales 11.5%
+  2014 1589  before acq 1880  equity-only 1523  depreciation basis 1875  share of sales 8.8%
+  2015 754  before acq 840  equity-only 684  depreciation basis 816  share of sales 5.7%
+  2016 407  before acq 637  equity-only 339  depreciation basis 321  share of sales 8.8%
+  2017 481  before acq 567  equity-only 424  depreciation basis 314  share of sales 7.8%
+  2018 -70  before acq 210  equity-only -121  depreciation basis -175  share of sales 2.5%
+  2019 190  before acq 370  equity-only 139  depreciation basis 68  share of sales 4.4%
+  2020 610  before acq 624  equity-only 550  depreciation basis 534  share of sales 10.2%
+  2021 -13  before acq 39  equity-only -66  depreciation basis -76  share of sales 0.7%
+  2022 -489  before acq -440  equity-only -533  depreciation basis -525  share of sales -6.1%
+  2023 -206  before acq -184  equity-only -251  depreciation basis -183  share of sales -2.1%
+  2024 771  before acq 893  equity-only 733  depreciation basis 828  share of sales 10.1%
+  2025 808  before acq 808  equity-only 781  depreciation basis 883  share of sales 9.2%
+
+cycle base 2015-2024 all-equity 243.6; before acq 355.7; equity-only 189.8; depreciation basis 192.3
+prior cycle 2008-2014 all-equity 26.6; before acq 1561.3
+literal window 2021-2025 all-equity 174.2; equity-only 132.8
+growth between cycle averages (midpoints 2011 to 2019.5, 8.5 years): default pair 29.8%/yr; organic pair -16.0%/yr; sales -8.0%/yr
+net purchases / owner cash before purchases, cycle 2015-2024: 37% (serial-acquirer test at one half)
+default-pair growth carried 10y needs owner cash/sales 40% vs highest filed 14.0% -> cap (f) cuts to sales growth -8.0%
+
+price 18.64, shares 356.478125M, mcap 6645, net debt 2026-06-30 542 (debt 1,706 less cash 1,164; operating leases left out), EV 7187
+CENTRAL (cycle base, all-equity, acquisitions deducted, cap applied):
+  top: no growth                                 cf   243.6 g    0.0%  value@5.43%     4486  per share   11.06   value@10%    2436 per share   5.31
+  bottom: decline at sales growth between cycles cf   243.6 g   -8.0%  value@5.43%     2391  per share    5.19   value@10%    1445 per share   2.53
+  RANGE per share 5.19 to 11.06; width 1.88 to 1 (whole-business)
+  FAIR PRICE all-equity (each end at 10%, averaged, less net debt): 3.92
+EQUITY-ONLY beside (owner cash after interest, against market value, no net debt deducted):
+  top: no growth, equity-only                    cf   189.8 g    0.0%  value@5.43%     3495  per share    9.81   value@10%    1898 per share   5.32
+  bottom: decline, equity-only                   cf   189.8 g   -8.0%  value@5.43%     1863  per share    5.23   value@10%    1126 per share   3.16
+  equity-only range per share 5.23 to 9.81; fair 4.24
+BESIDE:
+  organic pair top: before acquisitions, no growth cf   355.7 g    0.0%  value@5.43%     6551  per share   16.86   value@10%    3557 per share   8.46
+  organic pair bottom: organic decline           cf   355.7 g  -16.0%  value@5.43%     1930  per share    3.89   value@10%    1314 per share   2.16
+  literal window 2021-2025, no growth            cf   174.2 g    0.0%  value@5.43%     3208  per share    7.48   value@10%    1742 per share   3.37
+  depreciation basis, cycle base, no growth      cf   192.3 g    0.0%  value@5.43%     3541  per share    8.41   value@10%    1923 per share   3.87
+FLOOR TEST: expected return at the price on each case (no growth = cf/EV):
+  cycle base                                                               243.6 / EV 7187 = 3.4%
+  cycle base before acquisitions                                           355.7 / EV 7187 = 4.9%
+  literal window                                                           174.2 / EV 7187 = 2.4%
+  2024-2025 average (not a case of the range; shown for the evidence for)   789.4 / EV 7187 = 11.0%

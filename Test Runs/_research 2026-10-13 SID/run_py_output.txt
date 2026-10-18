@@ -1,0 +1,8 @@
+==============================================================================
+NATIONAL STEEL CO  (SID)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign BRL   NO ISSUING-AUTHORITY SOURCE configured for BRL in tools/sources.py (have EUR, JPY, USD); no rate printed
+  earnings currency: BRL (typed with --currency)
+  ** --currency BRL was typed; the XBRL earnings unit is USD. The sovereign below is for BRL, as typed. **
+  price     6.45 BRL   2026-10-13  via CSNA3.SA   (aggregator — live quote only)
+  ** CURRENCY MISMATCH: earnings in USD, quote in BRL. Refusing to convert. Pass --quote with the home listing. **

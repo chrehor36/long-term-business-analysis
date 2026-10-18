@@ -1,0 +1,21 @@
+year   OCF     SBC    capex  FLprin  dNCI   EO(all spend)  interest   AE(before int)  EO(D&A basis)
+2022   -154.8    13.2    12.0    0.9    0.0       -180.8        9.0         -189.8       -185.6
+2023   -115.4     3.3     5.1    1.1    0.0       -124.8       16.4         -141.2       -134.1
+2024   -110.8   127.0    11.4    1.0    0.0       -250.2       14.7         -264.9       -247.1
+2025   -165.0    30.8    43.9    1.0    6.4       -247.0       22.7         -269.7       -209.4
+4-yr mean: EO -200.7  AE -216.4  EO D&A basis -194.0
+beside, 2024 without the IPO catch-up of 120.7: EO mean -170.5  AE mean -186.2
+AE halves: -165.5 -> -267.3 (losses widening)
+sales growth 2022-2025 compound: 9.6%
+H1 2026: OCF -118.215, capex -44.618, SBC 13.618 -> EO -176.5 ; H1 2025: OCF -79.570, capex -14.464, SBC 16.217 -> EO -110.3
+TTM to 2026-06-30 EO (approx, FL and dNCI as FY2025): -313.2
+shares 435.184M  mcap 2145.5  net cash 1390.5  EV 755.0
+CNY 30y sovereign 2.06%: AE no-growth whole -10,505 -> per share -20.94;  deterioration at sales growth -24,669 -> -53.49
+   equity-only EO: no-growth -22.39  deterioration -52.58 per share
+USD 30y Treasury 5.43% (beside): AE no-growth whole -3,985 -> per share -5.96;  deterioration at sales growth -8,561 -> -16.48
+   equity-only EO: no-growth -8.49  deterioration -18.25 per share
+floor 10%: AE no-growth whole -2,164 -> per share -1.78;  deterioration at sales growth -4,204 -> -6.47
+   equity-only EO: no-growth -4.61  deterioration -8.96 per share
+fair price, no-growth case alone (range is the no-growth case alone by (b)): AE -1.78  EO -4.61
+fair price if the deterioration end were admitted as the bottom: AE -4.12  EO -6.79
+price 4.93 ; net cash per share 3.20

@@ -1,0 +1,6 @@
+E-ids: []
+distinct M/L/R ids: 105 missing: []
+fragments checked: 60 not found in row: 0
+
+tools/check_framework.py, run 2026-10-14 after the close was written:
+PASS — every number resolves to a verbatim source or a confessed convention,

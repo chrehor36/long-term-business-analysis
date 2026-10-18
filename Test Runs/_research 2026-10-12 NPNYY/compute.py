@@ -61,3 +61,14 @@ tot=[1003154,1109790,261341,490866,211135]
 print("consolidated 5y", sum(tot), "check sum of parts", sum(sum(v) for v in seg.values()))
 for k,v in seg.items(): print(f"{k}: {sum(v):,}  share of consolidated {sum(v)/sum(tot):.1%}")
 print("Automotive 3y", 105855+113380+97935, "Dry bulk 3y", 18040+18104+9574, "Energy 3y", 46393+46172+54418)
+
+# --- (c) purchases stop after year ten: ten years of owner cash with net acquisitions, then perpetuity before purchases
+def val_stop(ocu_avg, acq_avg, rate):
+    pv10=sum(ocu_avg/(1+rate)**t for t in range(1,11))
+    tv=(ocu_avg+acq_avg)/rate/(1+rate)**10
+    return pv10+tv
+for nm,s in [("cycle YE17-24",C),("literal YE22-26",W)]:
+    u=avg(ocu[s]); e=avg(oc[s]); a=avg(ACQ[s])
+    v=per(val_stop(u,a,r)-ND); f=per(val_stop(u,a,0.10)-ND)
+    ve=per(val_stop(e,a,r)); fe=per(val_stop(e,a,0.10))
+    print(f"{nm} with year-10 stop: net acq avg {a:,.0f}; value all-eq {v:,.0f} (equity-only {ve:,.0f}); FAIR all-eq {f:,.0f} (equity-only {fe:,.0f}); ADS fair all-eq ${f*ADS/FX:.2f}, equity-only ${fe*ADS/FX:.2f}")

@@ -20,7 +20,6 @@ literal window (beside): no-growth value all-eq 12,470 yen/sh; equity-only 14,59
    earnings yield at price, all-eq: 6.14%; equity-only 8.10%
 11y (beside): no-growth value all-eq 2,753 yen/sh; equity-only 4,793; FAIR all-eq -540; equity-only 1,958; ADS fair $-0.68; price 7358.0 (ADS $9.31)
    earnings yield at price, all-eq: 2.24%; equity-only 2.66%
-   earnings yield at price, all-eq: 2.24%; equity-only 2.66%
 
 YE-Mar 2008-2015 owner cash (gross capex): {2008: -301851, 2009: -267412, 2010: -181939, 2011: -104026, 2012: -284863, 2013: -213349, 2014: -98386, 2015: -55237}
 same, with vessel-sale proceeds: {2008: -84767, 2009: -19179, 2010: 1793, 2011: 17894, 2012: -111591, 2013: -54851, 2014: 148200, 2015: 130061}
@@ -34,3 +33,5 @@ Bulk (Automotive+Dry bulk+Energy): 859,411  share of consolidated 27.9%
 Others (real estate, other services): 13,361  share of consolidated 0.4%
 Elimination: -48,487  share of consolidated -1.6%
 Automotive 3y 317170 Dry bulk 3y 45718 Energy 3y 146983
+cycle YE17-24 with year-10 stop: net acq avg -3,281; value all-eq 2,291 (equity-only 4,358); FAIR all-eq -705 (equity-only 1,803); ADS fair all-eq $-0.89, equity-only $2.28
+literal YE22-26 with year-10 stop: net acq avg 30,024; value all-eq 13,691 (equity-only 15,811); FAIR all-eq 3,716 (equity-only 6,247); ADS fair all-eq $4.70, equity-only $7.90

@@ -1,0 +1,25 @@
+year owner_cash net_purchases after_purch after-tax_interest
+2016 504 12 492 148.5
+2017 532 35 497 135.8
+2018 588 -135 723 137.2
+2019 648 -1174 1822 145.5
+2020 1023 -166 1189 144.8
+2021 1569 137 1432 126.8
+2022 762 2998 -2236 120.8
+2023 333 4 329 277.5
+2024 356 150 206 264.0
+2025 53 129 -76 262.5
+sum owner cash 6368 sum net purchases 1990  half of owner cash 3184.0
+default pair (purchases deducted): avg equity-only 437.8, all-equity 614.1; halves 944.6 -> -69.0 (sign change: no-growth case alone)
+organic pair (purchases left out): avg equity-only 636.8, all-equity 813.1; halves 659.0 -> 614.6, g = -1.39%/yr
+net debt 5829, shares 73.532M, EV at price 7880
+central default no-growth, all-equity         value/share at 5.43%    74.54   at 10%     4.25
+central default no-growth, equity-only        value/share at 5.43%   109.65   at 10%    59.54
+organic top no-growth, all-equity             value/share at 5.43%   124.38   at 10%    31.31
+organic bottom shown growth, all-equity       value/share at 5.43%   103.10   at 10%    21.47
+organic top no-growth, equity-only            value/share at 5.43%   159.49   at 10%    86.60
+organic bottom shown growth, equity-only      value/share at 5.43%   142.83   at 10%    78.90
+no-growth yields at the price: default all-equity 7.8%, organic all-equity 10.3%, default equity-only 21.3%, organic equity-only 31.1%
+literal window 2021-25: default equity-only -69.0, all-equity 141.3 -> per share at 5.43% -43.88; organic equity-only 614.6 all-equity 824.9 -> 127.33
+D&A variant: avg capex 536.0 vs avg D&A 511.0
+2026 outlook-implied equity-only owner cash ~ 272

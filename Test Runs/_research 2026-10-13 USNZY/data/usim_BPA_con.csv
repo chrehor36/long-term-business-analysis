@@ -1,0 +1,898 @@
+SRC,DT_REFER,VERSAO,DT_INI_EXERC,DT_FIM_EXERC,CD_CONTA,DS_CONTA,ESCALA_MOEDA,VL_CONTA
+dfp,2016-12-31,1,,2016-12-31,1,Ativo Total,MIL,26254745.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01,Ativo Circulante,MIL,6420478.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.01,Caixa e Equivalentes de Caixa,MIL,719870.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.02,Aplicações Financeiras,MIL,1537584.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.02.01.01,Títulos para Negociação,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.02.01.02,Títulos Disponíveis para Venda,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.02.02,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.02.02.01,Títulos Mantidos até o Vencimento,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.03,Contas a Receber,MIL,1179212.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.03.01,Clientes,MIL,1179212.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.03.02,Outras Contas a Receber,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.04,Estoques,MIL,2604306.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.05,Ativos Biológicos,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.06,Tributos a Recuperar,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.06.01,Tributos Correntes a Recuperar,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.07,Despesas Antecipadas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.08,Outros Ativos Circulantes,MIL,379506.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.08.03,Outros,MIL,379506.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.08.03.01,Impostos a Recuperar,MIL,125191.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.08.03.02,Imposto de Renda e Contribuição Social Antecipados,MIL,113409.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.08.03.03,Dividendos a Receber,MIL,2463.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.08.03.04,Adiantamentos a Fornecedores,MIL,7226.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.08.03.05,Outras Contas a Receber,MIL,86548.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.01.08.03.06,Instrumentos Financeiros,MIL,44669.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02,Ativo Não Circulante,MIL,19834267.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01,Ativo Realizável a Longo Prazo,MIL,4265283.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.01.01,Títulos para Negociação,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.01.02,Títulos Disponíveis para Venda,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.02,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.02.01,Títulos Mantidos até o Vencimento,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.03,Contas a Receber,MIL,163723.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.03.01,Clientes,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.03.02,Outras Contas a Receber,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.04,Estoques,MIL,22657.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.05,Ativos Biológicos,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.06,Tributos Diferidos,MIL,3120368.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.06.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.07,Despesas Antecipadas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.08,Créditos com Partes Relacionadas,MIL,3842.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.08.01,Créditos com Coligadas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.08.03,Créditos com Controladores,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.08.04,Créditos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.09,Outros Ativos Não Circulantes,MIL,954693.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.09.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.09.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.09.03,Tributos  Diferidos,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.09.04,Depósitos Judiciais,MIL,660229.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.09.05,Instrumentos Financeiros,MIL,100670.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.09.06,Impostos a Recuperar,MIL,96070.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.09.07,Imposto de Renda e Contribuição Social Antecipados,MIL,68172.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.01.09.08,Outros,MIL,29552.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.02,Investimentos,MIL,1126176.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.02.01,Participações Societárias,MIL,1126176.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.02.01.01,Participações em Coligadas,MIL,525309.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.02.01.04,Outras Participações Societárias,MIL,600867.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.02.02,Propriedades para Investimento,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.03,Imobilizado,MIL,13748890.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.03.01,Imobilizado em Operação,MIL,12856285.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.03.02,Imobilizado Arrendado,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.03.03,Imobilizado em Andamento,MIL,892605.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.04,Intangível,MIL,693918.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.04.01,Intangíveis,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.04.01.01,Contrato de Concessão,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,1.02.04.02,Goodwill,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1,Ativo Total,MIL,25984477.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01,Ativo Circulante,MIL,7254755.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.01,Caixa e Equivalentes de Caixa,MIL,1770573.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.02,Aplicações Financeiras,MIL,543715.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.02.01.01,Títulos para Negociação,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.02.01.02,Títulos Disponíveis para Venda,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.02.02,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.02.02.01,Títulos Mantidos até o Vencimento,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.03,Contas a Receber,MIL,1555494.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.03.01,Clientes,MIL,1555494.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.03.02,Outras Contas a Receber,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.04,Estoques,MIL,2763496.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.05,Ativos Biológicos,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.06,Tributos a Recuperar,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.06.01,Tributos Correntes a Recuperar,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.07,Despesas Antecipadas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.08,Outros Ativos Circulantes,MIL,621477.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.08.03,Outros,MIL,621477.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.08.03.01,Impostos a Recuperar,MIL,176851.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.08.03.02,Imposto de Renda e Contribuição Social Antecipados,MIL,185614.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.08.03.03,Dividendos a Receber,MIL,139078.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.08.03.04,Adiantamentos a Fornecedores,MIL,4332.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.08.03.05,Outras Contas a Receber,MIL,115590.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.01.08.03.06,Instrumentos Financeiros,MIL,12.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02,Ativo Não Circulante,MIL,18729722.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01,Ativo Realizável a Longo Prazo,MIL,4115862.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.01.01,Títulos para Negociação,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.01.02,Títulos Disponíveis para Venda,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.02,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.02.01,Títulos Mantidos até o Vencimento,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.03,Contas a Receber,MIL,247284.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.03.01,Clientes,MIL,131458.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.03.02,Outras Contas a Receber,MIL,115826.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.04,Estoques,MIL,39037.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.05,Ativos Biológicos,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.06,Tributos Diferidos,MIL,3046112.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.06.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.07,Despesas Antecipadas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.08,Créditos com Partes Relacionadas,MIL,3147.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.08.01,Créditos com Coligadas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.08.03,Créditos com Controladores,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.08.04,Créditos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.09,Outros Ativos Não Circulantes,MIL,780282.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.09.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.09.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.09.03,Tributos  Diferidos,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.09.04,Depósitos Judiciais,MIL,675600.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.09.05,Instrumentos Financeiros,MIL,1184.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.09.06,Impostos a Recuperar,MIL,54881.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.09.07,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.01.09.08,Outros,MIL,48617.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.02,Investimentos,MIL,1054052.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.02.01,Participações Societárias,MIL,1054052.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.02.01.01,Participações em Coligadas,MIL,447315.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.02.01.04,Outras Participações Societárias,MIL,606737.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.02.02,Propriedades para Investimento,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.03,Imobilizado,MIL,12882618.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.03.01,Imobilizado em Operação,MIL,12038393.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.03.02,Imobilizado Arrendado,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.03.03,Imobilizado em Andamento,MIL,844225.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.04,Intangível,MIL,677190.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.04.01,Intangíveis,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.04.01.01,Contrato de Concessão,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,1.02.04.02,Goodwill,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1,Ativo Total,MIL,26523851.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01,Ativo Circulante,MIL,8324317.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.01,Caixa e Equivalentes de Caixa,MIL,1106790.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.02,Aplicações Financeiras,MIL,586559.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.02.01.01,Títulos para Negociação,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.02.01.02,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.03,Contas a Receber,MIL,1894291.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.03.01,Clientes,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.03.02,Outras Contas a Receber,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.04,Estoques,MIL,3880635.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.05,Ativos Biológicos,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.06,Tributos a Recuperar,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.06.01,Tributos Correntes a Recuperar,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.07,Despesas Antecipadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08,Outros Ativos Circulantes,MIL,856042.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.01.01,Impostos a Recuperar,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.01.02,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.01.03,Dividendos a Receber,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.01.04,Adiantamentos a Fornecedores,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.01.05,Instrumentos financeiros,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.01.06,Outros,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.03,Outros,MIL,856042.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.03.01,Impostos a Recuperar,MIL,617731.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.03.02,Imposto de Renda e Contribuição Social Antecipados,MIL,130197.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.03.03,Dividendos a Receber,MIL,13562.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.03.04,Adiantamentos a Fornecedores,MIL,4050.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.03.05,Instrumentos financeiros,MIL,347.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.01.08.03.06,Outros,MIL,90155.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02,Ativo Não Circulante,MIL,18199534.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01,Ativo Realizável a Longo Prazo,MIL,4700822.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.01.01,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.04,Contas a Receber,MIL,64058.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.04.01,Clientes,MIL,64058.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.04.02,Outras Contas a Receber,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.05,Estoques,MIL,26899.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.06,Ativos Biológicos,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.07,Tributos Diferidos,MIL,2765356.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.08,Despesas Antecipadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.09,Créditos com Partes Relacionadas,MIL,2342.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.09.01,Créditos com Coligadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.09.03,Créditos com Controladores,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.09.04,Créditos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.10,Outros Ativos Não Circulantes,MIL,1842167.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.10.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.10.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.10.03,Depósitos Judiciais,MIL,523557.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.10.04,Instrumentos Financeiros,MIL,3553.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.10.05,Impostos a Recuperar,MIL,454284.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.10.06,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.10.07,Valores a receber Eletrobrás,MIL,676023.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.01.10.08,Outros,MIL,184750.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.02,Investimentos,MIL,1088094.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.02.01,Participações Societárias,MIL,1088094.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.02.01.01,Participações em Coligadas,MIL,473765.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.02.01.04,Participações em Controladas em Conjunto,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.02.01.05,Outros Investimentos,MIL,614329.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.02.02,Propriedades para Investimento,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.03,Imobilizado,MIL,11715022.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.03.01,Imobilizado em Operação,MIL,10869010.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.03.02,Direito de Uso em Arrendamento,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.03.03,Imobilizado em Andamento,MIL,846012.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.04,Intangível,MIL,695596.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.04.01,Intangíveis,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.04.01.01,Contrato de Concessão,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,1.02.04.02,Goodwill,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1,Ativo Total,MIL,26337032.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01,Ativo Circulante,MIL,8861282.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.01,Caixa e Equivalentes de Caixa,MIL,1252966.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.02,Aplicações Financeiras,MIL,668175.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.02.01.01,Títulos para Negociação,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.02.01.02,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.03,Contas a Receber,MIL,1938440.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.03.01,Clientes,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.03.02,Outras Contas a Receber,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.04,Estoques,MIL,3795832.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.05,Ativos Biológicos,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.06,Tributos a Recuperar,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.06.01,Tributos Correntes a Recuperar,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.07,Despesas Antecipadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08,Outros Ativos Circulantes,MIL,1205869.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.01.01,Impostos a Recuperar,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.01.02,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.01.03,Dividendos a Receber,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.01.04,Adiantamentos a Fornecedores,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.01.05,Instrumentos financeiros,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.01.06,Outros,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.03,Outros,MIL,1205869.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.03.01,Impostos a Recuperar,MIL,731049.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.03.02,Imposto de Renda e Contribuição Social Antecipados,MIL,48496.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.03.03,Dividendos a Receber,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.03.04,Adiantamentos a Fornecedores,MIL,1225.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.03.05,Instrumentos financeiros,MIL,762.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.03.06,Valores a Receber Eletrobras,MIL,305848.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.01.08.03.07,Outros,MIL,118489.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02,Ativo Não Circulante,MIL,17475750.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01,Ativo Realizável a Longo Prazo,MIL,4180797.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.01.01,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.04,Contas a Receber,MIL,344370.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.04.01,Clientes,MIL,131452.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.04.02,Outras Contas a Receber,MIL,212918.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.05,Estoques,MIL,47766.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.06,Ativos Biológicos,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.07,Tributos Diferidos,MIL,3037626.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.08,Despesas Antecipadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.09,Créditos com Partes Relacionadas,MIL,1651.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.09.01,Créditos com Coligadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.09.03,Créditos com Controladores,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.09.04,Créditos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.10,Outros Ativos Não Circulantes,MIL,749384.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.10.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.10.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.10.03,Depósitos Judiciais,MIL,543658.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.10.04,Instrumentos Financeiros,MIL,6950.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.10.05,Impostos a Recuperar,MIL,152336.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.10.06,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.10.07,Valores a receber Eletrobrás,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.01.10.08,Outros,MIL,46440.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.02,Investimentos,MIL,1143340.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.02.01,Participações Societárias,MIL,1053138.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.02.01.01,Participações em Coligadas,MIL,515271.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.02.01.04,Participações em Controladas em Conjunto,MIL,537867.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.02.01.05,Outros Investimentos,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.02.02,Propriedades para Investimento,MIL,90202.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.03,Imobilizado,MIL,11424691.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.03.01,Imobilizado em Operação,MIL,10514306.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.03.02,Direito de Uso em Arrendamento,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.03.03,Imobilizado em Andamento,MIL,910385.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.04,Intangível,MIL,726922.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.04.01,Intangíveis,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.04.01.01,Contrato de Concessão,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,1.02.04.02,Goodwill,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1,Ativo Total,MIL,29952137.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01,Ativo Circulante,MIL,11829602.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.01,Caixa e Equivalentes de Caixa,MIL,3261288.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.02,Aplicações Financeiras,MIL,1606816.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.02.01.01,Títulos para Negociação,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.02.01.02,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.03,Contas a Receber,MIL,2372791.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.03.01,Clientes,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.03.02,Outras Contas a Receber,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.04,Estoques,MIL,3889695.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.05,Ativos Biológicos,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.06,Tributos a Recuperar,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.06.01,Tributos Correntes a Recuperar,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.07,Despesas Antecipadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08,Outros Ativos Circulantes,MIL,699012.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.01.01,Impostos a Recuperar,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.01.02,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.01.03,Dividendos a Receber,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.01.04,Adiantamentos a Fornecedores,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.01.05,Instrumentos financeiros,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.01.06,Outros,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.03,Outros,MIL,699012.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.03.01,Impostos a Recuperar,MIL,441572.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.03.02,Imposto de Renda e Contribuição Social Antecipados,MIL,35780.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.03.03,Dividendos a Receber,MIL,11686.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.03.04,Adiantamentos a Fornecedores,MIL,86177.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.03.05,Instrumentos financeiros,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.03.06,Valores a Receber Eletrobras,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.01.08.03.07,Outros,MIL,123797.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02,Ativo Não Circulante,MIL,18122535.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01,Ativo Realizável a Longo Prazo,MIL,4295372.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.01.01,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.04,Contas a Receber,MIL,258411.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.04.01,Clientes,MIL,87321.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.04.02,Outras Contas a Receber,MIL,171090.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.05,Estoques,MIL,97267.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.06,Ativos Biológicos,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.07,Tributos Diferidos,MIL,2914338.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.08,Despesas Antecipadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.09,Créditos com Partes Relacionadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.09.01,Créditos com Coligadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.09.03,Créditos com Controladores,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.09.04,Créditos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.10,Outros Ativos Não Circulantes,MIL,1025356.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.10.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.10.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.10.03,Depósitos Judiciais,MIL,543408.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.10.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.10.05,Impostos a Recuperar,MIL,174004.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.10.06,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.10.07,Valores a receber Eletrobrás,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.10.08,Indenização de Seguro a Receber,MIL,262077.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.01.10.09,Outros,MIL,45867.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.02,Investimentos,MIL,1222930.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.02.01,Participações Societárias,MIL,1058708.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.02.01.01,Participações em Coligadas,MIL,535977.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.02.01.04,Participações em Controladas em Conjunto,MIL,522731.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.02.01.05,Outros Investimentos,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.02.02,Propriedades para Investimento,MIL,164222.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.03,Imobilizado,MIL,11006034.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.03.01,Imobilizado em Operação,MIL,9697130.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.03.02,Direito de Uso em Arrendamento,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.03.03,Imobilizado em Andamento,MIL,1308904.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.04,Intangível,MIL,1598199.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.04.01,Intangíveis,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.04.01.01,Contrato de Concessão,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,1.02.04.02,Goodwill,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1,Ativo Total,MIL,39481569.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01,Ativo Circulante,MIL,19999470.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.01,Caixa e Equivalentes de Caixa,MIL,6341017.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.02,Aplicações Financeiras,MIL,682532.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.02.01.01,Títulos para Negociação,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.02.01.02,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.03,Contas a Receber,MIL,3563328.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.03.01,Clientes,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.03.02,Outras Contas a Receber,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.04,Estoques,MIL,7516240.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.05,Ativos Biológicos,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.06,Tributos a Recuperar,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.06.01,Tributos Correntes a Recuperar,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.07,Despesas Antecipadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08,Outros Ativos Circulantes,MIL,1896353.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.01.01,Impostos a Recuperar,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.01.02,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.01.03,Dividendos a Receber,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.01.04,Adiantamentos a Fornecedores,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.01.05,Instrumentos financeiros,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.01.06,Outros,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.03,Outros,MIL,1896353.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.03.01,Impostos a Recuperar,MIL,1679278.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.03.02,Imposto de Renda e Contribuição Social Antecipados,MIL,35011.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.03.03,Dividendos a Receber,MIL,18182.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.03.04,Adiantamentos a Fornecedores,MIL,2464.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.03.05,Instrumentos financeiros,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.03.06,Valores a Receber Eletrobras,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.01.08.03.07,Outros,MIL,161418.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02,Ativo Não Circulante,MIL,19482099.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01,Ativo Realizável a Longo Prazo,MIL,5448312.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.01.01,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.04,Contas a Receber,MIL,271513.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.04.01,Clientes,MIL,88945.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.04.02,Outras Contas a Receber,MIL,182568.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.05,Estoques,MIL,185800.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.06,Ativos Biológicos,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.07,Tributos Diferidos,MIL,2982251.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,MIL,2982251.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.08,Despesas Antecipadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.09,Créditos com Partes Relacionadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.09.01,Créditos com Coligadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.09.03,Créditos com Controladores,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.09.04,Créditos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.10,Outros Ativos Não Circulantes,MIL,2008748.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.10.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.10.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.10.03,Depósitos Judiciais,MIL,489316.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.10.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.10.05,Impostos a Recuperar,MIL,835988.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.10.06,Imposto de Renda e Contribuição Social Antecipados,MIL,293790.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.10.07,Valores a receber Eletrobrás,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.10.08,Indenização de Seguro a Receber,MIL,349031.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.01.10.09,Outros,MIL,40623.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.02,Investimentos,MIL,1297456.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.02.01,Participações Societárias,MIL,1138402.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.02.01.01,Participações em Coligadas,MIL,607214.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.02.01.04,Participações em Controladas em Conjunto,MIL,531188.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.02.01.05,Outros Investimentos,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.02.02,Propriedades para Investimento,MIL,159054.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.03,Imobilizado,MIL,11085685.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.03.01,Imobilizado em Operação,MIL,9176314.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.03.02,Direito de Uso em Arrendamento,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.03.03,Imobilizado em Andamento,MIL,1909371.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.04,Intangível,MIL,1650646.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.04.01,Intangíveis,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.04.01.01,Contrato de Concessão,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,1.02.04.02,Goodwill,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1,Ativo Total,MIL,40000451.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01,Ativo Circulante,MIL,20358661.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.01,Caixa e Equivalentes de Caixa,MIL,2916047.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.02,Aplicações Financeiras,MIL,2156314.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.02.01.01,Títulos para Negociação,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.02.01.02,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.03,Contas a Receber,MIL,3547946.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.03.01,Clientes,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.03.02,Outras Contas a Receber,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.04,Estoques,MIL,9965172.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.05,Ativos Biológicos,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.06,Tributos a Recuperar,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.06.01,Tributos Correntes a Recuperar,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.07,Despesas Antecipadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08,Outros Ativos Circulantes,MIL,1773182.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.01.01,Impostos a Recuperar,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.01.02,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.01.03,Dividendos a Receber,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.01.04,Adiantamentos a Fornecedores,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.01.05,Instrumentos financeiros,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.01.06,Outros,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.03,Outros,MIL,1773182.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.03.01,Impostos a Recuperar,MIL,748983.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.03.02,Imposto de Renda e Contribuição Social Antecipados,MIL,163436.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.03.03,Dividendos a Receber,MIL,22729.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.03.04,Adiantamentos a Fornecedores,MIL,623381.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.03.05,Instrumentos financeiros,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.03.06,Valores a Receber Eletrobras,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.01.08.03.07,Outros,MIL,214653.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02,Ativo Não Circulante,MIL,19641790.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01,Ativo Realizável a Longo Prazo,MIL,5492446.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.01.01,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.04,Contas a Receber,MIL,206194.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.04.01,Clientes,MIL,48982.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.04.02,Outras Contas a Receber,MIL,157212.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.05,Estoques,MIL,255337.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.06,Ativos Biológicos,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.07,Tributos Diferidos,MIL,2410456.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,MIL,2410456.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.08,Despesas Antecipadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.09,Créditos com Partes Relacionadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.09.01,Créditos com Coligadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.09.03,Créditos com Controladores,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.09.04,Créditos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.10,Outros Ativos Não Circulantes,MIL,2620459.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.10.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.10.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.10.03,Depósitos Judiciais,MIL,513777.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.10.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.10.05,Impostos a Recuperar,MIL,1398912.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.10.06,Imposto de Renda e Contribuição Social a Recuperar,MIL,314416.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.10.07,Valores a receber Eletrobrás,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.10.08,Indenização de Seguro a Receber,MIL,352661.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.01.10.09,Outros,MIL,40693.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.02,Investimentos,MIL,1352833.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.02.01,Participações Societárias,MIL,1211337.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.02.01.01,Participações em Coligadas,MIL,684972.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.02.01.04,Participações em Controladas em Conjunto,MIL,526365.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.02.01.05,Outros Investimentos,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.02.02,Propriedades para Investimento,MIL,141496.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.03,Imobilizado,MIL,10820571.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.03.01,Imobilizado em Operação,MIL,7686335.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.03.02,Direito de Uso em Arrendamento,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.03.03,Imobilizado em Andamento,MIL,3134236.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.04,Intangível,MIL,1975940.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.04.01,Intangíveis,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.04.01.01,Contrato de Concessão,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,1.02.04.02,Goodwill,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1,Ativo Total,MIL,40161751.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01,Ativo Circulante,MIL,17931648.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.01,Caixa e Equivalentes de Caixa,MIL,5323851.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.02,Aplicações Financeiras,MIL,685982.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.02.01.01,Títulos para Negociação,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.02.01.02,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.03,Contas a Receber,MIL,3509027.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.03.01,Clientes,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.03.02,Outras Contas a Receber,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.04,Estoques,MIL,7492964.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.05,Ativos Biológicos,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.06,Tributos a Recuperar,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.06.01,Tributos Correntes a Recuperar,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.07,Despesas Antecipadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08,Outros Ativos Circulantes,MIL,919824.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.01.01,Impostos a Recuperar,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.01.02,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.01.03,Dividendos a Receber,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.01.04,Adiantamentos a Fornecedores,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.01.05,Instrumentos financeiros,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.01.06,Outros,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.03,Outros,MIL,919824.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.03.01,Impostos a Recuperar,MIL,555553.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.03.02,Imposto de Renda e Contribuição Social Antecipados,MIL,165812.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.03.03,Dividendos a Receber,MIL,32879.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.03.04,Adiantamentos a Fornecedores,MIL,5613.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.03.05,Instrumentos financeiros,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.03.06,Valores a Receber Eletrobras,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.01.08.03.07,Outros,MIL,159967.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02,Ativo Não Circulante,MIL,22230103.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01,Ativo Realizável a Longo Prazo,MIL,5933300.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.01.01,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.04,Contas a Receber,MIL,157208.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.04.01,Clientes,MIL,7848.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.04.02,Outras Contas a Receber,MIL,149360.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.05,Estoques,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.06,Ativos Biológicos,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.07,Tributos Diferidos,MIL,3100369.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,MIL,3100369.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.08,Despesas Antecipadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.09,Créditos com Partes Relacionadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.09.01,Créditos com Coligadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.09.03,Créditos com Controladores,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.09.04,Créditos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.10,Outros Ativos Não Circulantes,MIL,2675723.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.10.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.10.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.10.03,Depósitos Judiciais,MIL,514476.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.10.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.10.05,Impostos a Recuperar,MIL,1364359.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.10.06,Imposto de Renda e Contribuição Social a Recuperar,MIL,348073.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.10.07,Valores a receber Eletrobrás,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.10.08,Indenização de Seguro a Receber,MIL,63413.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.01.10.09,Outros,MIL,385402.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.02,Investimentos,MIL,1453531.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.02.01,Participações Societárias,MIL,1303981.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.02.01.01,Participações em Coligadas,MIL,801121.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.02.01.04,Participações em Controladas em Conjunto,MIL,502860.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.02.01.05,Outros Investimentos,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.02.02,Propriedades para Investimento,MIL,149550.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.03,Imobilizado,MIL,12878818.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.03.01,Imobilizado em Operação,MIL,10553466.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.03.02,Direito de Uso em Arrendamento,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.03.03,Imobilizado em Andamento,MIL,2325352.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.04,Intangível,MIL,1964454.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.04.01,Intangíveis,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.04.01.01,Contrato de Concessão,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,1.02.04.02,Goodwill,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1,Ativo Total,MIL,39871790.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01,Ativo Circulante,MIL,17430918.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.01,Caixa e Equivalentes de Caixa,MIL,5200342.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.02,Aplicações Financeiras,MIL,753639.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.02.01.01,Títulos para Negociação,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.02.01.02,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.03,Contas a Receber,MIL,3157262.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.03.01,Clientes,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.03.02,Outras Contas a Receber,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.04,Estoques,MIL,7451981.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.05,Ativos Biológicos,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.06,Tributos a Recuperar,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.06.01,Tributos Correntes a Recuperar,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.07,Despesas Antecipadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08,Outros Ativos Circulantes,MIL,867694.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.01.01,Impostos a Recuperar,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.01.02,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.01.03,Dividendos a Receber,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.01.04,Adiantamentos a Fornecedores,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.01.05,Instrumentos financeiros,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.01.06,Outros,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.03,Outros,MIL,867694.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.03.01,Impostos a Recuperar,MIL,554786.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.03.02,Imposto de Renda e Contribuição Social Antecipados,MIL,145332.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.03.03,Dividendos a Receber,MIL,38524.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.03.04,Adiantamentos a Fornecedores,MIL,1649.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.03.05,Instrumentos financeiros,MIL,1045.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.03.06,Valores a Receber Eletrobras,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.01.08.03.07,Outros,MIL,126358.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02,Ativo Não Circulante,MIL,22440872.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01,Ativo Realizável a Longo Prazo,MIL,6107359.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.01.01,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.04,Contas a Receber,MIL,158671.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.04.01,Clientes,MIL,558.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.04.02,Outras Contas a Receber,MIL,158113.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.05,Estoques,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.06,Ativos Biológicos,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.07,Tributos Diferidos,MIL,3258060.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,MIL,3258060.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.08,Despesas Antecipadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.09,Créditos com Partes Relacionadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.09.01,Créditos com Coligadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.09.03,Créditos com Controladores,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.09.04,Créditos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.10,Outros Ativos Não Circulantes,MIL,2690628.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.10.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.10.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.10.03,Depósitos Judiciais,MIL,554444.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.10.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.10.05,Impostos a Recuperar,MIL,1229014.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.10.06,Imposto de Renda e Contribuição Social a Recuperar,MIL,376454.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.10.07,Valores a receber Eletrobrás,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.10.08,Indenização de Seguro a Receber,MIL,12758.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.10.09,Adiantamentos Contratuais,MIL,367406.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.01.10.10,Outros,MIL,150552.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.02,Investimentos,MIL,1593866.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.02.01,Participações Societárias,MIL,1442285.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.02.01.01,Participações em Coligadas,MIL,930723.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.02.01.04,Participações em Controladas em Conjunto,MIL,511562.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.02.01.05,Outros Investimentos,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.02.02,Propriedades para Investimento,MIL,151581.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.03,Imobilizado,MIL,12766827.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.03.01,Imobilizado em Operação,MIL,10411790.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.03.02,Direito de Uso em Arrendamento,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.03.03,Imobilizado em Andamento,MIL,2355037.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.04,Intangível,MIL,1972820.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.04.01,Intangíveis,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.04.01.01,Contrato de Concessão,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,1.02.04.02,Goodwill,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1,Ativo Total,MIL,35684766.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01,Ativo Circulante,MIL,16801273.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.01,Caixa e Equivalentes de Caixa,MIL,5141617.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.02,Aplicações Financeiras,MIL,1801978.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.02.01.01,Títulos para Negociação,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.02.01.02,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.03,Contas a Receber,MIL,3002668.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.03.01,Clientes,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.03.02,Outras Contas a Receber,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.04,Estoques,MIL,5928828.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.05,Ativos Biológicos,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.06,Tributos a Recuperar,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.06.01,Tributos Correntes a Recuperar,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.07,Despesas Antecipadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08,Outros Ativos Circulantes,MIL,926182.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.01.01,Impostos a Recuperar,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.01.02,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.01.03,Dividendos a Receber,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.01.04,Adiantamentos a Fornecedores,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.01.05,Instrumentos financeiros,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.01.06,Outros,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.03,Outros,MIL,926182.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.03.01,Impostos a Recuperar,MIL,676762.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.03.02,Imposto de Renda e Contribuição Social Antecipados,MIL,85192.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.03.03,Dividendos a Receber,MIL,39637.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.03.04,Adiantamentos a Fornecedores,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.03.05,Instrumentos financeiros,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.03.06,Valores a Receber Eletrobras,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.01.08.03.07,Outros,MIL,124591.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02,Ativo Não Circulante,MIL,18883493.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01,Ativo Realizável a Longo Prazo,MIL,4726854.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.01.01,Títulos Designados a Valor Justo,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.04,Contas a Receber,MIL,251715.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.04.01,Clientes,MIL,23975.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.04.02,Outras Contas a Receber,MIL,227740.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.05,Estoques,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.06,Ativos Biológicos,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.07,Tributos Diferidos,MIL,1973727.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,MIL,1973727.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.08,Despesas Antecipadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.09,Créditos com Partes Relacionadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.09.01,Créditos com Coligadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.09.03,Créditos com Controladores,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.09.04,Créditos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.10,Outros Ativos Não Circulantes,MIL,2501412.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.10.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.10.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.10.03,Depósitos Judiciais,MIL,602020.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.10.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.10.05,Impostos a Recuperar,MIL,828504.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.10.06,Imposto de Renda e Contribuição Social a Recuperar,MIL,415032.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.10.07,Valores a receber Eletrobrás,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.10.08,Indenização de Seguro a Receber,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.10.09,Adiantamentos Contratuais,MIL,403979.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.01.10.10,Outros,MIL,251877.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.02,Investimentos,MIL,1718546.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.02.01,Participações Societárias,MIL,1559254.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.02.01.01,Participações em Coligadas,MIL,1061586.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.02.01.04,Participações em Controladas em Conjunto,MIL,497668.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.02.01.05,Outros Investimentos,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.02.02,Propriedades para Investimento,MIL,159292.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.03,Imobilizado,MIL,10424479.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.03.01,Imobilizado em Operação,MIL,7671489.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.03.02,Direito de Uso em Arrendamento,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.03.03,Imobilizado em Andamento,MIL,2752990.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.04,Intangível,MIL,2013614.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.04.01,Intangíveis,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.04.01.01,Contrato de Concessão,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,1.02.04.02,Goodwill,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1,Ativo Total,MIL,34754321.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01,Ativo Circulante,MIL,16281564.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.01,Caixa e Equivalentes de Caixa,MIL,4712094.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.02,Aplicações Financeiras,MIL,1978961.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.02.01.01,Títulos para Negociação,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.02.01.02,Títulos Designados a Valor Justo,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.03,Contas a Receber,MIL,3069362.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.03.01,Clientes,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.03.02,Outras Contas a Receber,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.04,Estoques,MIL,5671579.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.05,Ativos Biológicos,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.06,Tributos a Recuperar,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.06.01,Tributos Correntes a Recuperar,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.07,Despesas Antecipadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08,Outros Ativos Circulantes,MIL,849568.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.01.01,Impostos a Recuperar,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.01.02,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.01.03,Dividendos a Receber,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.01.04,Adiantamentos a Fornecedores,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.01.05,Instrumentos financeiros,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.01.06,Outros,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.03,Outros,MIL,849568.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.03.01,Impostos a Recuperar,MIL,604861.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.03.02,Imposto de Renda e Contribuição Social Antecipados,MIL,23540.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.03.03,Dividendos a Receber,MIL,50012.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.03.04,Adiantamentos a Fornecedores,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.03.05,Instrumentos financeiros,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.03.06,Valores a Receber Eletrobras,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.01.08.03.07,Outros,MIL,171155.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02,Ativo Não Circulante,MIL,18472757.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01,Ativo Realizável a Longo Prazo,MIL,4911956.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.01.01,Títulos Designados a Valor Justo,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.04,Contas a Receber,MIL,242953.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.04.01,Clientes,MIL,21844.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.04.02,Outras Contas a Receber,MIL,221109.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.05,Estoques,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.06,Ativos Biológicos,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.07,Tributos Diferidos,MIL,2297527.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,MIL,2297527.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.08,Despesas Antecipadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.09,Créditos com Partes Relacionadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.09.01,Créditos com Coligadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.09.03,Créditos com Controladores,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.09.04,Créditos com Outras Partes Relacionadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.10,Outros Ativos Não Circulantes,MIL,2371476.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.10.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.10.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.10.03,Depósitos Judiciais,MIL,624991.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.10.04,Instrumentos Financeiros,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.10.05,Impostos a Recuperar,MIL,694603.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.10.06,Imposto de Renda e Contribuição Social a Recuperar,MIL,394420.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.10.07,Valores a receber Eletrobrás,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.10.08,Indenização de Seguro a Receber,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.10.09,Adiantamentos Contratuais,MIL,393433.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.01.10.10,Outros,MIL,264029.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.02,Investimentos,MIL,1714619.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.02.01,Participações Societárias,MIL,1563700.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.02.01.01,Participações em Coligadas,MIL,1062675.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.02.01.04,Participações em Controladas em Conjunto,MIL,501025.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.02.01.05,Outros Investimentos,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.02.02,Propriedades para Investimento,MIL,150919.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.03,Imobilizado,MIL,9936534.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.03.01,Imobilizado em Operação,MIL,7578732.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.03.02,Direito de Uso em Arrendamento,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.03.03,Imobilizado em Andamento,MIL,2357802.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.04,Intangível,MIL,1909648.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.04.01,Intangíveis,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.04.01.01,Contrato de Concessão,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,1.02.04.02,Goodwill,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1,Ativo Total,MIL,35106656.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01,Ativo Circulante,MIL,16781145.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.01,Caixa e Equivalentes de Caixa,MIL,5274257.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.02,Aplicações Financeiras,MIL,1548300.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.02.01.01,Títulos para Negociação,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.02.01.02,Títulos Designados a Valor Justo,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.03,Contas a Receber,MIL,3069628.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.03.01,Clientes,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.03.02,Outras Contas a Receber,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.04,Estoques,MIL,5920457.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.05,Ativos Biológicos,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.06,Tributos a Recuperar,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.06.01,Tributos Correntes a Recuperar,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.07,Despesas Antecipadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08,Outros Ativos Circulantes,MIL,968503.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.01.01,Impostos a Recuperar,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.01.02,Imposto de Renda e Contribuição Social Antecipados,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.01.03,Dividendos a Receber,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.01.04,Adiantamentos a Fornecedores,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.01.05,Instrumentos financeiros,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.01.06,Outros,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.03,Outros,MIL,968503.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.03.01,Impostos a Recuperar,MIL,591716.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.03.02,Imposto de Renda e Contribuição Social Antecipados,MIL,39607.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.03.03,Dividendos a Receber,MIL,49954.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.03.04,Adiantamentos a Fornecedores,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.03.05,Instrumentos financeiros,MIL,27514.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.03.06,Valores a Receber Eletrobras,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.01.08.03.07,Outros,MIL,259712.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02,Ativo Não Circulante,MIL,18325511.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01,Ativo Realizável a Longo Prazo,MIL,4701093.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.01.01,Títulos Designados a Valor Justo,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.04,Contas a Receber,MIL,225787.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.04.01,Clientes,MIL,19707.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.04.02,Outras Contas a Receber,MIL,206080.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.05,Estoques,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.06,Ativos Biológicos,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.07,Tributos Diferidos,MIL,2196520.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,MIL,2196520.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.08,Despesas Antecipadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.09,Créditos com Partes Relacionadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.09.01,Créditos com Coligadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.09.03,Créditos com Controladores,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.09.04,Créditos com Outras Partes Relacionadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.10,Outros Ativos Não Circulantes,MIL,2278786.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.10.01,Ativos Não-Correntes a Venda,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.10.02,Ativos de Operações Descontinuadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.10.03,Depósitos Judiciais,MIL,642416.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.10.04,Instrumentos Financeiros,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.10.05,Impostos a Recuperar,MIL,605052.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.10.06,Imposto de Renda e Contribuição Social a Recuperar,MIL,373233.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.10.07,Valores a receber Eletrobrás,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.10.08,Indenização de Seguro a Receber,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.10.09,Adiantamentos Contratuais,MIL,380071.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.01.10.10,Outros,MIL,278014.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.02,Investimentos,MIL,1779224.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.02.01,Participações Societárias,MIL,1629739.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.02.01.01,Participações em Coligadas,MIL,1112047.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.02.01.04,Participações em Controladas em Conjunto,MIL,517692.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.02.01.05,Outros Investimentos,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.02.02,Propriedades para Investimento,MIL,149485.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.03,Imobilizado,MIL,9906195.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.03.01,Imobilizado em Operação,MIL,7498843.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.03.02,Direito de Uso em Arrendamento,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.03.03,Imobilizado em Andamento,MIL,2407352.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.04,Intangível,MIL,1938999.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.04.01,Intangíveis,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.04.01.01,Contrato de Concessão,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,1.02.04.02,Goodwill,MIL,0.0000000000

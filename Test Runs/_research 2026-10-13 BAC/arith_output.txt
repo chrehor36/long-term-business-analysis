@@ -1,0 +1,45 @@
+market value of common at $54.58: 381,664m on 6,992.7m shares
+year  NIcommon  RWAgrowth(bn)  capital retained  ownercash(after growth)  returned  share of revenue
+2019    25,998      56      6,496     19,502        nan   21.4%
+2020    16,473     -13     -1,456     17,929        nan   21.0%
+2021    30,557     138     16,422     14,135     31,701   15.9%
+2022    26,015     -13     -1,378     27,393     12,036   28.8%
+2023    24,656      46      5,152     19,504     11,950   19.0%
+2024    25,344      45      5,310     20,034     20,926   18.9%
+2025    29,055      77      9,163     19,892     29,516   17.6%
+
+== literal window 2021-2025
+  maintenance-only owner cash (avg NI to common): 27,125
+  owner cash after growth capital (avg): 20,192   returned avg: 21,226
+  growth: end-to-end 8.9%  between halves -1.3%  revenue 6.1%
+  no-growth case (maintenance-only, flat): 484,382m = $69.27/sh
+  growth case (after growth capital, -1.3% ten years, flat after): 325,255m = $46.51/sh
+  range $46.51 to $69.27; width 1.49 to one
+  at ten percent: no-growth $38.79/sh, growth $26.45/sh; fair price (average) $32.62/sh
+  return at the price: no-growth yield 7.11%; growth case IRR 4.76%
+  cap test: owner cash year ten 17,710 = 9.6% of revenue grown at its own rate; highest share in window 28.8%
+
+== cycle base 2019-2025
+  maintenance-only owner cash (avg NI to common): 25,443
+  owner cash after growth capital (avg): 19,770   returned avg: 21,226
+  growth: end-to-end 0.3%  between halves 3.6%  revenue 3.6%
+  no-growth case (maintenance-only, flat): 454,332m = $64.97/sh
+  growth case (after growth capital, 3.6% ten years, flat after): 470,276m = $67.25/sh
+  range $64.97 to $67.25; width 1.04 to one
+  at ten percent: no-growth $36.38/sh, growth $36.19/sh; fair price (average) $36.29/sh
+  return at the price: no-growth yield 6.67%; growth case IRR 6.82%
+  cap test: owner cash year ten 28,191 = 20.2% of revenue grown at its own rate; highest share in window 28.8%
+
+== beside: 2007-2019 average NI to common 9,911m; no-growth at the sovereign $25.31/sh, at ten percent $14.17/sh
+
+== cycle base 2019-2025, shown growth end-to-end (central)
+  growth 0.33%: no-growth $64.97, growth case $51.83; range $51.83 to $64.97, width 1.25
+  at ten percent: $36.38 and $28.91; fair price $32.65
+  return at the price: no-growth 6.67%, growth case IRR 5.32%
+  bottom of range per share $51.83; buyback average prices 2021-2025: 2021 $40.84, 2022 $40.29, 2023 $31.19, 2024 $39.53, 2025 $47.43
+
+== field returns 2021-2025, NI to common / (equity - goodwill), tagged data
+  BAC: 15.2%, 12.7%, 11.2%, 11.2%, 12.4%; average 12.6%
+  JPM: 19.1%, 14.9%, 17.4%, 19.5%, 18.0%; average 17.8%
+  WFC: 12.8%, 8.1%, 11.2%, 12.1%, 13.0%; average 11.4%
+  C: 11.5%, 7.5%, 4.2%, 6.1%, 6.7%; average 7.2%

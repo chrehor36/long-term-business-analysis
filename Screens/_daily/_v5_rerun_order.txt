@@ -9,6 +9,7 @@
 # 2026-10-12: NEWTG, NEWTH, NEWTI, NEWTO, NEWTP (NewtekOne's notes and preferred) and MNSBP (MainStreet Bank's preferred) left out: they are securities of NEWT and MNSB, which are run once each as businesses.
 # 2026-10-12 20:55: the remaining Japanese names (NPNYY, FUJIY, FJTSY, JAPAY, NTDOY) moved behind the operator's sheet until the trading-house case (where commodity exposure is judged) is decided; the one running now finishes.
 # 2026-10-12 21:30: the commodity-business case decided; the five Japanese names returned to the front.
+# 2026-10-18: OGS-U, SWX-U, SR-U and AQN-U (re-runs under Q7, The regulated utility; their v5 runs of 2026-10-18 showed no positive fair price on either basis) placed after the electric utilities.
 NPNYY
 FUJIY
 FJTSY
@@ -265,6 +266,10 @@ VGNT
 VST
 WEC
 XEL
+OGS-U
+SWX-U
+SR-U
+AQN-U
 AWK
 AWR
 CWT

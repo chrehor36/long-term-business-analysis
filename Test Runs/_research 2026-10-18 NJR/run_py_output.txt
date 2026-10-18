@@ -1,0 +1,83 @@
+==============================================================================
+NEW JERSEY RESOURCES CORP  (NJR)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.43%   10/16/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     52.19 USD   2026-10-16   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                101.468M  as of 2026-07-31  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                                 101.411M  as of 2026-06-30  (CommonStockSharesOutstanding)
+  shares    101.5M      market cap 5.30B USD
+  share basis: dei cover-page count as of 2026-07-31 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2017-09-30      248.0      5.8      81.8      144.1        98.1       160.4
+    2018-09-30      398.3     12.8      85.7      206.9       178.6       299.7
+    2019-09-30      194.1      9.8      81.1      300.0      -115.7       103.2
+          mean                                                 53.7       187.8
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: capex basis in 2017, 2018, 2019
+  mean of the year-by-year lower: 53.7;  of the higher: 187.8  (lines 2 and 3 below use these)
+  SBC tag by year: 2017 AllocatedShareBasedCompensationExpense; 2018 AllocatedShareBasedCompensationExpense; 2019 AllocatedShareBasedCompensationExpense
+  capex tag by year: 2017 PaymentsToAcquirePropertyPlantAndEquipment; 2018 PaymentsToAcquirePropertyPlantAndEquipment; 2019 PaymentsToAcquirePropertyPlantAndEquipment
+  ** OCF is tagged through 2025-09-30 but the window ends at 2019-09-30: D&A or capex is
+     not tagged for the later years under the elements read here. Read the later filings. **
+  ** The window's last year, 2019-09-30, is over 18 months old. Later years may be filed under
+     another taxonomy (US GAAP to IFRS) or other elements; read the latest annual report. **
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0000356309-25-000093, 0000356309-24-000083, 0000356309-23-000083
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 72.2  OE D&A 189.2   yield 1.36% (capex) 3.57% (D&A)
+  DIVERGENCE vs the 3-yr window: +34.5% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis  1.01%   D&A basis  3.55%   vs sovereign 5.43%
+  2. GROWTH THE PRICE ASSUMES   26.8%  (at a 5.43% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN -1.87 (lower mean) .. +0.79 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets      equity        cash intangibles    retained
+    2016-09-30         3,727       1,167          38           0         826
+    2017-09-30         3,929       1,237           2          41         868
+    2018-09-30         4,144       1,419           1          23       1,007
+    2019-09-30         4,373       1,552           3          15       1,076
+    2020-09-30         5,570       1,845         117          10       1,148
+    2021-09-30         5,722       1,631           5           5         935
+    2022-09-30         6,261       1,817           1           2       1,068
+    2023-09-30         6,537       1,991           1           0       1,178
+    2024-09-30         6,982       2,200           1           -       1,299
+    2025-09-30         7,579       2,392           1           -       1,451
+    accessions: 0000356309-16-000283, 0000356309-17-000185, 0000356309-18-000139, 0000356309-19-000133, 0000356309-20-000098, 0000356309-21-000095, 0000356309-22-000098, 0000356309-23-000083, 0000356309-24-000083, 0000356309-25-000093
+    equity: StockholdersEquity (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD millions; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        d3        sum
+    2016-09-30         122        61     2,230      2,413
+    2017-09-30         266       165     2,234      2,665
+    2018-09-30         152       124     2,600      2,875
+    2019-09-30          25        21     3,089      3,136
+    2020-09-30         125        27     4,104      4,257
+    2021-09-30         377        73     3,793      4,243
+    2022-09-30         424        75     4,303      4,802
+    2023-09-30         252       116     4,759      5,127
+    2024-09-30         292       189     5,080      5,561
+    2025-09-30         196       158     5,642      5,996
+    d1 = us-gaap:ShortTermBorrowings
+    d2 = us-gaap:LongTermDebtAndCapitalLeaseObligationsCurrent
+    d3 = us-gaap:CapitalizationLongtermDebtAndEquity
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

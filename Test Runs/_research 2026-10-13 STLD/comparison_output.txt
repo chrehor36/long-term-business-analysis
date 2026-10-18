@@ -1,0 +1,64 @@
+
+STLD: pretax margin % | (pretax+interest)/(equity+debt-cash-goodwill) at year end %
+  2015  rev     7594  pretax    -242  margin   -3.2  RoTC   -2.1  cap    4150
+  2016  rev     7607  pretax     564  margin    7.4  RoTC   17.5  cap    4049
+  2017  rev     9364  pretax     935  margin   10.0  RoTC   24.8  cap    4318
+  2018  rev    11802  pretax    1620  margin   13.7  RoTC   34.6  cap    5054
+  2019  rev    10451  pretax     875  margin    8.4  RoTC   20.1  cap    4976
+  2020  rev     9588  pretax     705  margin    7.4  RoTC   14.2  cap    5622
+  2021  rev    18409  pretax    4209  margin   22.9  RoTC   55.3  cap    7713
+  2022  rev    22261  pretax    5021  margin   22.6  RoTC   56.4  cap    9070
+  2023  rev    18795  pretax    3219  margin   17.1  RoTC   32.8  cap   10059
+  2024  rev    17540  pretax    1983  margin   11.3  RoTC   18.4  cap   11098
+  2025  rev    18177  pretax    1493  margin    8.2  RoTC   13.1  cap   11921
+  2016-2025: sum pretax/sum rev 14.3%  mean RoTC 28.7%  (n=10)
+  2021-2025: sum pretax/sum rev 16.7%  mean RoTC 35.2%  (n=5)
+  2016-2020: sum pretax/sum rev 9.6%  mean RoTC 22.2%  (n=5)
+
+NUE: pretax margin % | (pretax+interest)/(equity+debt-cash-goodwill) at year end %
+  2015  rev    16439  pretax     242  margin    1.5  RoTC    5.3  cap    7864
+  2016  rev    16208  pretax    1299  margin    8.0  RoTC   18.2  cap    8120
+  2017  rev    20252  pretax    1750  margin    8.6  RoTC   20.7  cap    9336
+  2018  rev    25067  pretax    3229  margin   12.9  RoTC   32.5  cap   10442
+  2019  rev    22589  pretax    1783  margin    7.9  RoTC   17.7  cap   10933
+  2020  rev    20140  pretax     836  margin    4.1  RoTC    8.9  cap   11202
+  2021  rev    36484  pretax    9201  margin   25.2  RoTC   65.1  cap   14387
+  2022  rev    41512  pretax   10245  margin   24.7  RoTC   62.1  cap   16838
+  2023  rev    34714  pretax    6273  margin   18.1  RoTC   37.7  cap   17297
+  2024  rev    30734  pretax    2902  margin    9.4  RoTC   16.3  cap   19156
+  2025  rev    32494  pretax    2568  margin    7.9  RoTC   12.8  cap   21354
+  2016-2025: sum pretax/sum rev 14.3%  mean RoTC 29.2%  (n=10)
+  2021-2025: sum pretax/sum rev 17.7%  mean RoTC 38.8%  (n=5)
+  2016-2020: sum pretax/sum rev 8.5%  mean RoTC 19.6%  (n=5)
+
+CLF: pretax margin % | (pretax+interest)/(equity+debt-cash-goodwill) at year end %
+  2015  rev     2013  pretax     313  margin   15.6  RoTC   72.7  cap     431
+  2016  rev     1380  pretax     110  margin    8.0  RoTC   70.9  cap     415
+  2017  rev     1645  pretax     108  margin    6.6  RoTC   28.0  cap     882
+  2018  rev     2172  pretax     565  margin   26.0  RoTC   39.6  cap    1694
+  2019  rev     1990  pretax     313  margin   15.7  RoTC   19.4  cap    2117
+  2020  rev     5354  pretax    -193  margin   -3.6  RoTC   -0.4  cap    5924
+  2021  rev    20444  pretax    3803  margin   18.6  RoTC   42.9  cap    9564
+  2022  rev    22989  pretax    1796  margin    7.8  RoTC   18.8  cap   10884
+  2023  rev    21996  pretax     579  margin    2.6  RoTC    8.5  cap    9821
+  2024  rev    19185  pretax    -950  margin   -5.0  RoTC   -5.9  cap   11877
+  2025  rev    18610  pretax   -2004  margin  -10.8  RoTC  -13.4  cap   11498
+  2016-2025: sum pretax/sum rev 3.6%  mean RoTC 20.8%  (n=10)
+  2021-2025: sum pretax/sum rev 3.1%  mean RoTC 10.2%  (n=5)
+  2016-2020: sum pretax/sum rev 7.2%  mean RoTC 31.5%  (n=5)
+
+CMC: pretax margin % | (pretax+interest)/(equity+debt-cash-goodwill) at year end %
+  2015  rev     5424  pretax      96  margin    1.8  RoTC    8.2  cap    2111
+  2016  rev     3596  pretax      76  margin    2.1  RoTC    7.6  cap    1833
+  2017  rev     3844  pretax      65  margin    1.7  RoTC    5.8  cap    1875
+  2018  rev     4644  pretax     165  margin    3.6  RoTC   10.6  cap    1955
+  2019  rev     5829  pretax     268  margin    4.6  RoTC   13.0  cap    2611
+  2020  rev     5476  pretax     371  margin    6.8  RoTC   18.3  cap    2364
+  2021  rev     6730  pretax     534  margin    7.9  RoTC   20.9  cap    2797
+  2022  rev     8913  pretax    1515  margin   17.0  RoTC   40.6  cap    3860
+  2023  rev     8800  pretax    1122  margin   12.8  RoTC   27.1  cap    4294
+  2024  rev     7926  pretax     636  margin    8.0  RoTC   16.1  cap    4244
+  2025  rev     7798  pretax     108  margin    1.4  RoTC    3.9  cap    4115
+  2016-2025: sum pretax/sum rev 7.6%  mean RoTC 16.4%  (n=10)
+  2021-2025: sum pretax/sum rev 9.7%  mean RoTC 21.7%  (n=5)
+  2016-2020: sum pretax/sum rev 4.0%  mean RoTC 11.1%  (n=5)

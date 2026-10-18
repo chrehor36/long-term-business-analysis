@@ -1,0 +1,41 @@
+import json
+entry = ("Price **$0.0003** (close 2026-10-16, `tools/sources.py`, aggregator, flagged; zero volume on most days since January 2026). "
+"Shares 109,587,853 ordinary on the cover of the 20-F for FY2024 (0001213900-25-038113, filed 2025-05-01), 20,000,000 of them in escrow, counted "
+"by hand because `Screens/cover_shares.py` and `tools/run.py` fail on a ticker gone from the live SEC map and take no CIK. Sovereign for the "
+"earnings currency (USD, the functional and presentation currency) **5.43%**, US Treasury 30-year par, 2026-10-16. Read from the 20-Fs for FY2024, "
+"FY2023 (late, 2024-11-12) and FY2022 (which restates FY2019 and FY2020 in full; no FY2021 20-F was filed), the withdrawn FY2019 and FY2020 20-Fs, "
+"the 6-Ks of 2025-01-06, 2025-05-27, 2025-05-28 and 2025-06-02 (the sale agreement to Gulf Navigation Holding PJSC), the Form 25 and the Form 15-12G "
+"(filed 2025-06-20); after deregistration, the company's release of 2025-11-25 (read through a mirror, the wire refused the fetch) and GulfNav's "
+"releases of 2025-11-14 and 2025-11-27 (the last on an aggregator, flagged); GulfNav's own exchange filings not read. Cross-check: FY2024 revenue "
+"$76,472,340 on the filed income statement agrees with Item 5. Lines of evidence derived by the analyst from the 20-F's Items 4, 3.D and 5, stated "
+"in the run file. **The deciding fact:** the company sold BPGIC FZE and BPGIC Phase III FZE (the Fujairah terminal, its only operating business) to "
+"GulfNav on 2025-11-25 for about USD 884 million in cash, GulfNav shares and mandatory convertible bonds, paid substantially all of it by dividend to "
+"holders of record of 2025-09-10 (USD 7.76 a share in cash to DTC holders, ex-date 2025-12-11), and says \"no further distributions are "
+"anticipated\". **Q1 IN**: the share is understood, a shell whose ten-year earning power is nil on its own documents. **Q2 OUT**: no castle stands "
+"behind the share, a shown absence and not an unjudgeable future; the 20-F names no rival company and none was chosen, with the reason. Q3 to Q12 "
+"not reached. After the stop, facts recorded, not weighed: the sold group's owner cash 2020 to 2024 -$68.16M, -$28.03M, $10.81M, $26.05M, $19.83M; "
+"revenue for 2018 to 2020 restated after $74.3M of related-party (BIA) receipts were reversed (2018 from $35.84M to $6.39M); five auditors since the "
+"2019 combination; material weaknesses at 2024-12-31; a going-concern note, bond covenants breached and current liabilities $309.3M above current "
+"assets at 2024-12-31; **integrity facts recorded, not judged**: the SEC order of 2023-12-22 on \"alleged fraudulent accounting and offering "
+"conduct\" with a $5M penalty, a pending class action, a final UAE judgment of $130M to BIA, the 85.6% holder in Cayman liquidation since 2023-11-20. "
+"COMPUTATION, NOT A CLEARANCE: value range $0.00 to $0.00 a share against $0.0003, fair price $0.00 all-equity and $0.00 equity-only, under a "
+"CONVENTION of the run (the share's cash stream is the distributions the company says it will make, none); not armed. Contamination declared by the "
+"analyst: a directory listing of `Test Runs/` filtered for this company's names before the first fetch, returning nothing (a breach of the letter of "
+"the blind rule, self-audit box left unticked), commit subjects, git status folder names of two other companies and memory index lines, none used. "
+"Commits 86f53f29 (template), 54f7740f (Step 0 and Q1), f622d591 (Q2), 06df3e3d (the rest). Position note filled at the fold: not held. "
+"Citations: the analyst's `scripts/check_ids.py` 23 ids, 0 problems; the dispatcher's `dispatcher_cite_check.py` 23 ids, 15 quoted fragments beside "
+"an id, 0 slips; no E-ids; **no citation slip**. No tracked research file over 200 KB. check_framework PASS. **For the operator** (the analyst's "
+"framework notes): no route for a shell or a share after a final distribution, so Q1 OUT (black box), Q2 OUT or Q7 could each own the close; Q7's "
+"range convention silent where the five-year window belongs to a business the holder no longer owns; the queue entry was stale, the business sold "
+"eleven months before the dispatch, and the brief's company line (written by this cycle from the SEC filings alone, which stop in June 2025) did "
+"not know it; the tools take no CIK for a deregistered filer.")
+narr = ("OUT at Q2 (Brooge Energy Limited, formerly Nasdaq BROG, Cayman holding company of the Fujairah oil-storage terminal; the terminal companies "
+"were sold to Gulf Navigation Holding on 2025-11-25 and substantially all the consideration paid by dividend, USD 7.76 a share in cash to DTC holders, "
+"with no further distributions anticipated; Q1 IN, a shell understood at nil; Q2 OUT, no castle behind the share; integrity facts recorded, not "
+"judged: the SEC fraud settlement of 2023, the restatement of 2018 to 2020 revenue, five auditors, the majority holder in liquidation; COMPUTATION "
+"range $0.00 to $0.00 against $0.0003, fair $0.00 both bases, not armed. No citation slip. Framework gaps for the operator: no route for an empty "
+"shell, Q7's window for a business no longer owned, a stale queue entry, the tools on a deregistered filer.)")
+b = {"batch": "overnight 2026-10-17", "date": "2026-10-17", "runs": [{"t": "BROGF",
+ "name": "Brooge Energy Limited; OTC BROGF, formerly Nasdaq BROG, SEC CIK 0001774983, Cayman Islands, formerly Brooge Holdings Ltd; holding company of the Fujairah oil-storage terminal until its sale to Gulf Navigation Holding PJSC on 2025-11-25; deregistered June 2025",
+ "file": "2026-10-17 Run - BROGF Brooge Energy.md", "box": "OUT AT Q2", "entry": entry, "narr": narr, "fair": None, "fair_label": ""}]}
+json.dump(b, open(__file__.replace("make_batch.py", "batch.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)

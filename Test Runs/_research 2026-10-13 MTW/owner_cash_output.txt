@@ -1,0 +1,36 @@
+year  equity-only  all-equity  purchases
+2017 47.5 78.5 0
+2018 14.0 44.9 0
+2019 45.6 71.4 0
+2020 -66.9 -43.9 0
+2021 29.0 51.8 186.2
+2022 8.1 33.1 -2.3
+2023 -20.3 6.5 0
+2024 -2.6 27.7 0
+2025 -23.9 5.9 12.9
+
+market cap 790.1  net debt (principal less cash, 2026-06-30) 377.7  EV 1167.8
+literal 2021-2025              equity-only before purchases                   C=   -1.9  value/sh at 5.60%   -0.96  at 10%   -0.54  yield at price -0.25%
+literal 2021-2025              equity-only purchases deducted                 C=  -41.3  value/sh at 5.60%  -20.45  at 10%  -11.45  yield at price -5.23%
+literal 2021-2025              equity-only before purchases, EPA added back   C=    7.2  value/sh at 5.60%    3.56  at 10%    1.99  yield at price  0.91%
+literal 2021-2025              all-equity  before purchases                   C=   25.0  value/sh at 5.60%    1.90  at 10%   -3.55  yield at price  2.14%
+literal 2021-2025              all-equity  purchases deducted                 C=  -14.4  value/sh at 5.60%  -17.59  at 10%  -14.46  yield at price -1.23%
+literal 2021-2025              all-equity  before purchases, EPA added back   C=   34.1  value/sh at 5.60%    6.41  at 10%   -1.02  yield at price  2.92%
+cycle peak-to-peak 2019-2023   equity-only before purchases                   C=   -0.9  value/sh at 5.60%   -0.45  at 10%   -0.25  yield at price -0.11%
+cycle peak-to-peak 2019-2023   equity-only purchases deducted                 C=  -37.7  value/sh at 5.60%  -18.66  at 10%  -10.45  yield at price -4.77%
+cycle peak-to-peak 2019-2023   equity-only before purchases, EPA added back   C=   -0.9  value/sh at 5.60%   -0.45  at 10%   -0.25  yield at price -0.11%
+cycle peak-to-peak 2019-2023   all-equity  before purchases                   C=   23.8  value/sh at 5.60%    1.30  at 10%   -3.88  yield at price  2.04%
+cycle peak-to-peak 2019-2023   all-equity  purchases deducted                 C=  -13.0  value/sh at 5.60%  -16.91  at 10%  -14.08  yield at price -1.11%
+cycle peak-to-peak 2019-2023   all-equity  before purchases, EPA added back   C=   23.8  value/sh at 5.60%    1.30  at 10%   -3.88  yield at price  2.04%
+nine years 2017-2025           equity-only before purchases                   C=    3.4  value/sh at 5.60%    1.68  at 10%    0.94  yield at price  0.43%
+nine years 2017-2025           equity-only purchases deducted                 C=  -18.5  value/sh at 5.60%   -9.15  at 10%   -5.12  yield at price -2.34%
+nine years 2017-2025           equity-only before purchases, EPA added back   C=    8.5  value/sh at 5.60%    4.19  at 10%    2.34  yield at price  1.07%
+nine years 2017-2025           all-equity  before purchases                   C=   30.6  value/sh at 5.60%    4.70  at 10%   -1.98  yield at price  2.62%
+nine years 2017-2025           all-equity  purchases deducted                 C=    8.8  value/sh at 5.60%   -6.13  at 10%   -8.04  yield at price  0.75%
+nine years 2017-2025           all-equity  before purchases, EPA added back   C=   35.7  value/sh at 5.60%    7.21  at 10%   -0.57  yield at price  3.06%
+
+all-equity cash needed for 10% at the price: 116.8; equity-only: 79.0
+sales CAGR 2021-2025 6.83 % ; 2017-2025 4.45 %
+ceiling check at 5.6%: EV 1096.5 -> per share 19.93 (price 21.91)
+ceiling check at 10.0%: EV 571.5 -> per share 5.37 (price 21.91)
+variant 2019-2023 all-equity with the $75.0M unwind added back: C=38.8 value/sh at 5.60% 8.73 at 10% 0.28 yield 3.32%

@@ -1,0 +1,25 @@
+year      oc_eq_all  oc_ae_all  oc_ae_maint  wc  acq
+2021 88.2 102.9 122.8 20.3 180.9
+2022 143.9 158.9 176.9 29.4 18.0
+2023 411.0 422.5 430.9 252.5 37.2
+2024 407.3 405.5 424.9 199.8 11.2
+2025 304.1 302.1 318.8 9.4 480.3
+avgs: eq_all 270.9 ae_all 278.4 ae_maint 294.8 eq_maint 287.4 wc 102.3 acq 145.5
+serial test: net purchases 727.6 vs half of owner cash before purchases 695.9
+shown growth agg owner cash 30.9%, sales growth 12.0%, highest owner cash/sales 21.4%
+organic revenue growth as filer reports, CAGR 9.44%
+mcap 12980.5  net debt -180.6  EV 12800.0
+CENTRAL all-equity, maintenance-only, organic pair (serial acquirer): base 294.8 g 9.4%  range $183 to $383 (ratio 2.12); at 10%: ends $102 / $191; FAIR $147; price $424.36
+      expected return at price, growth case: 4.95%; no-growth case: 2.30%
+beside: all-equity, all spending, organic pair: base 278.4 g 9.4%  range $173 to $362 (ratio 2.12); at 10%: ends $97 / $181; FAIR $139; price $424.36
+      expected return at price, growth case: 4.70%; no-growth case: 2.17%
+beside: equity-only, maintenance, organic pair: base 287.4 g 9.4%  range $173 to $367 (ratio 2.12); at 10%: ends $94 / $181; FAIR $137; price $424.36
+      expected return at price, growth case: 4.78%; no-growth case: 2.21%
+beside: equity-only, all spending, organic pair: base 270.9 g 9.4%  range $163 to $346 (ratio 2.12); at 10%: ends $89 / $170; FAIR $129; price $424.36
+      expected return at price, growth case: 4.53%; no-growth case: 2.09%
+beside: default pair, acq deducted, total growth cut to sales growth (maint, ae): base 149.3 g 12.0%  range $96 to $240 (ratio 2.60); at 10%: ends $55 / $118; FAIR $87; price $424.36
+      expected return at price, growth case: 3.24%; no-growth case: 1.17%
+beside: maintenance ae ex working-capital release, organic: base 192.6 g 9.4%  range $122 to $252 (ratio 2.12); at 10%: ends $69 / $127; FAIR $98; price $424.36
+      expected return at price, growth case: 3.37%; no-growth case: 1.50%
+beside: literal window, uncut shown growth, maint ae, purchases left out (absurd, shown only): base 294.8 g 30.9%  range $183 to $1934 (ratio 10.86); at 10%: ends $102 / $839; FAIR $471; price $424.36
+      expected return at price, growth case: 15.59%; no-growth case: 2.30%

@@ -1,0 +1,14 @@
+FY2017  equity-only: all-spend  -2.92  D&A-variant   0.47   all-equity: all-spend  -1.46  D&A-variant   1.93
+FY2018  equity-only: all-spend  -2.17  D&A-variant   2.78   all-equity: all-spend  -0.56  D&A-variant   4.39
+FY2019  equity-only: all-spend  -0.26  D&A-variant   3.08   all-equity: all-spend   1.53  D&A-variant   4.87
+FY2020  equity-only: all-spend  -5.22  D&A-variant   0.10   all-equity: all-spend  -3.25  D&A-variant   2.07
+FY2021  equity-only: all-spend  -6.84  D&A-variant   0.13   all-equity: all-spend  -4.20  D&A-variant   2.77
+mean  equity-only: all-spend  -3.48  D&A-variant   1.31   all-equity: all-spend  -1.59  D&A-variant   3.21
+net debt 2022-03-31: borrowings+pref A/C/D 80.66 less cash+securities 2.52 = 78.15; Series B (temporary equity) 4.99; common shares 3.083577M
+no-growth value at 5.43% (all-spend, all-equity): whole  -29.21  per common share  -36.44
+   at 10% (fair-price basis): whole  -15.86  per share  -32.11
+no-growth value at 5.43% (D&A-variant, all-equity): whole   59.08  per common share   -7.80
+   at 10% (fair-price basis): whole   32.08  per share  -16.56
+equity-only all-spend: no-growth at gov per share  -22.42; at 10% per share  -12.92
+equity-only D&A-variant: no-growth at gov per share    6.21; at 10% per share    2.63
+halves (all-equity, all-spend): first -1.0085905400000001 last -3.722300945000001

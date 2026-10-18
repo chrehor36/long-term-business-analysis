@@ -1,0 +1,11 @@
+## THE FOUNDATIONS (not a gate)
+A share is a business: the question is whether I would own this cash stream "if the market closed for five years" **[M1997-109]**, and nothing in the stock's price history instructs me, since the market "just tells us prices" **[M2006-077]**. No macro forecast enters **[M2000-094]**: the federal budget, which the filer itself calls "difficult to predict", is read only as a property of the business (who pays, how, and how often the work is rebid), never as a forecast. Who is paid to tell you **[M2020-037]**: the 10-K calls the company and CMS "two premier government services companies", its platform "compelling", its business development an "engine", and it manages its segments on Adjusted EBITDA; none of that is weighed. Margin of safety **[M1996-084]** belongs to Q7.
+
+**Contrary evidence, written down as found** **[M1997-127]**:
+1. The predecessor's operating cash in FY2024, $47M, includes a $177M inflow from selling receivables under the MARPA (10-K FY2025, note on sales of receivables); without it Legacy Amentum's FY2024 operating cash was negative. The nine months of FY2026 include another $120M (10-Q, Note 5).
+2. Legacy Amentum wrote down goodwill twice in two years, $108M in FY2022 and $186M in FY2023 (information statement; 10-K FY2025, MD&A): businesses it had bought with borrowed money were worth less than it paid.
+3. Revenue fell 2.5% in the nine months to 2026-07-03, and GES revenue 7% (10-Q, MD&A); the 10-Q names "NASA’s increased focus on insourcing certain activities".
+4. The filer's own words on how it wins work: "Most government contracts are awarded through a rigorous competitive process, which may emphasize price over other qualitative factors" and "Competition can place downward pressure on our contract prices and profit margins" (10-K, Item 1A).
+5. The filer reports "takeaway wins against longtime incumbents" (10-K, Item 1): incumbency in its own field is taken away by rivals.
+6. The effective tax rate was 48.7% in FY2025 because a valuation allowance was booked against the deferred tax asset for disallowed interest (10-K, MD&A): the debt costs tax as well as interest.
+7. Legacy Amentum, financed by its private-equity owners, carried $4,112M of debt against $415M of equity at 2023-09-29 and lost $314M that year (information statement).

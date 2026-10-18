@@ -1,0 +1,38 @@
+year   M_eq    M_u    A_eq    A_u   growth-spend  M_u/rev
+2013   146.9   251.9  -115.8   -10.8    316.3   19.1%
+2014   166.1   265.9  -454.9  -355.1    682.4   18.3%
+2015   236.4   334.1   215.8   313.5    110.8   23.0%
+2016   283.5   376.8   122.5   215.8    233.8   26.6%
+2017   171.3   272.4   -32.4    68.7    249.1   19.8%
+2018   202.7   326.5  -253.7  -129.9    474.5   27.8%
+2019   103.2   240.4   -48.3    88.9    185.3   20.0%
+2020    88.8   233.4  -525.7  -381.1    643.6   19.3%
+2021   176.6   331.6  -477.5  -322.5    688.3   26.4%
+2022   234.4   397.0  -435.8  -273.2    706.5   31.2%
+2023   202.6   402.8  -869.9  -669.7   1110.8   28.5%
+2024   249.7   508.9  -870.2  -611.0   1165.7   32.1%
+2025   257.6   555.1  -396.8   -99.3    707.6   31.9%
+window 2021-25 mean: M_eq 224.2  M_u 439.1  A_eq -610.0  A_u -395.1
+cycle 2014-23 mean:  M_eq 186.6  M_u 318.1  A_u -144.5
+shown growth of M_u 2021-25 13.75%; sales growth 8.47%; highest M_u/sales 32.1%
+return on growth spending 2022-25: 6.06% (increase in M_u / sum of growth spending)
+GABX unlevered owner cash: 2026 record 169.5; 2025 pro forma 128.2; equity share to GATX 26.3
+
+WINDOW 2021-25: owner cash before interest incl. GABX 608.6
+  at 5.43%: no-growth 11,208 -> -33.54/sh ; growth (g=8.47%, spend at 6.06%) 12,825 -> 12.28/sh
+  at 10%: no-growth -178.61/sh ; growth -247.32/sh ; FAIR (avg) -212.97/sh
+  EV 18,212; no-growth cash yield on EV 3.34%
+  growth case: rate at which value = EV 4.38%
+
+CYCLE 2014-23: owner cash before interest incl. GABX 487.6
+  at 5.43%: no-growth 8,979 -> -96.65/sh ; growth (g=8.47%, spend at 6.06%) 10,275 -> -59.94/sh
+  at 10%: no-growth -212.88/sh ; growth -267.93/sh ; FAIR (avg) -240.41/sh
+  EV 18,212; no-growth cash yield on EV 2.68%
+  growth case: rate at which value = EV 3.79%
+
+ALL-SPENDING window mean before interest incl GABX -225.6 -> value at 5.43% no-growth -468.69/sh
+
+EQUITY-ONLY window: owner cash after interest incl GATX's GABX share 250.5; shown growth 9.90%
+  no-growth at 5.43%: 130.66/sh ; at 10%: 70.95/sh ; yield at price 4.30%
+  debt share of growth spending 2022-25 88.6% ; equity return on growth spending 19.3%
+  growth at 5.43%: 223.05/sh ; at 10%: 100.74/sh ; FAIR equity-only (avg at 10%) 85.85/sh

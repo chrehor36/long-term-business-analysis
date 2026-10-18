@@ -1,0 +1,28 @@
+FY     rev   CFO  capex lease SBC  owner(all)  owner(maint)  +int(after tax)  acq
+15/16   2084   369    84    1    0       284                      22.6    155
+16/17   2355   462   141    4    0       317                      25.0      0
+17/18   2606   554   233    3   26       292                      34.3    928
+18/19   2820   533   259    8   12       254                      15.6      2
+19/20   3567   295   428   32   19      -184                      21.8      2
+20/21   4013   328   573   44   11      -300          143         11.7    301
+21/22   4444    95   553   52   12      -522         -146         22.6      5
+22/23   4775   518   326   63   17       112          224         49.1      0
+23/24   5391   813   289   65   26       433          493         12.5      0
+24/25   6037   791   384   63   31       313          433         10.1      0
+
+5y avg FY21-25: all-spending 7.2, maintenance 229.4, interest after tax 21.2
+net cash 509.6  shares 260.653m  mcap 19862  EV 19352
+maintenance (central): all-equity owner cash 250.6; value/share 29.42 (USD 4.40); fair@10% 11.57 (USD 1.73); equity-only value 25.15, fair 8.80; yield on EV 1.29%
+all-spending (beside): all-equity owner cash 28.4; value/share 5.07 (USD 0.76); fair@10% 3.04 (USD 0.46); equity-only value 0.79, fair 0.28; yield on EV 0.15%
+
+beside: sales CAGR FY20-25 11.1%; FY25 maintenance owner cash all-equity 443.1; expected return at the price on that stream 5.53%
+sales CAGR FY16-FY25 12.5%
+
+net purchases FY21-25 306, per year 61.2; half of maintenance owner cash before purchases over window 573.5; half of all-spending 18.0
+maintenance less acquisitions (central, default pair): all-equity owner cash 189.4; value/share 22.72 (USD 3.40); fair@10% 9.22 (USD 1.38); equity-only value 18.44 (USD 2.76), fair 6.45 (USD 0.97); yield on EV 0.98%
+all-spending less acquisitions (beside): all-equity owner cash -32.8; value/share -1.64 (USD -0.25); fair@10% 0.70 (USD 0.10); equity-only value -5.92 (USD -0.89), fair -2.07 (USD -0.31); yield on EV -0.17%
+price DKK 76.2 = USD 11.41; FY25 maintenance all-equity yield on EV 2.29%
+
+no-growth, purchases deducted years 1-10 only:
+maintenance (central): value/share 27.47 (USD 4.11); fair@10% 10.13 (USD 1.52); equity-only value 23.19 (USD 3.47), fair 7.36 (USD 1.10)
+all-spending (beside): value/share 3.12 (USD 0.47); fair@10% 1.60 (USD 0.24); equity-only value -1.16 (USD -0.17), fair -1.17 (USD -0.17)

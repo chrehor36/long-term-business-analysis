@@ -1,0 +1,29 @@
+  FY      OCF    SBC    capex  OCall_eq  OCall_ae  OCmnt_eq  OCmnt_ae   gr_cap
+2016    142.6    7.2    354.2    -226.9    -202.9      33.6      57.6    260.5
+2017    248.0    5.8    325.6    -153.9    -120.7     128.3     161.5    282.2
+2018    398.3   12.8    384.6       5.7      39.4     252.1     285.7    246.4
+2019    194.1    9.8    525.9    -137.5     -99.8      52.4      90.2    189.9
+2020    213.5    6.5    470.2    -787.1    -737.5      65.0     114.6    852.1
+2021    391.0    7.1    624.6    -238.3    -179.3     222.1     281.1    460.4
+2022    323.5   14.8    598.4    -282.0    -218.7     140.1     203.4    422.1
+2023    479.0   14.7    540.9     -74.3       6.8     270.8     351.9    345.1
+2024    427.4   16.0    571.3    -157.7     -67.5     196.4     286.6    354.1
+2025    466.3   17.8    706.1    -119.7     -22.0     213.8     311.5    333.5
+5-yr averages FY2021-25: {'all_eq': -174.4, 'all_ae': -96.1, 'mnt_eq': 208.6, 'mnt_ae': 286.9, 'growth_cap': 383.0}
+10-yr averages FY2016-25 (literal window beside): {'all_eq': -217.2, 'all_ae': -160.2, 'mnt_eq': 157.5, 'mnt_ae': 214.4}
+maintenance OC (all-equity) growth: end-years 2.60%, halves 7.28%
+[ae] top (mnt, no growth) EV     5284 -> $  15.91/sh;  growth case EV     6549 -> $  28.38/sh;  all-spend no-growth EV    -1770 -> $ -53.61/sh
+[ae] fair price: top@10% $  -7.88, growth@10% $ -12.65, average $ -10.27
+[eq] top (mnt, no growth) EV     3842 -> $  37.87/sh;  growth case EV     3972 -> $  39.15/sh;  all-spend no-growth EV    -3212 -> $ -31.65/sh
+[eq] fair price: top@10% $  20.56, growth@10% $  10.77, average $  15.66
+price 52.19, shares 101.467946M, mcap 5296, net debt 3669.0, EV 8965
+yield at price: maintenance all-equity 3.20%; equity-only 3.94%; all-spending all-equity -1.07%
+[ae] IRR at price if maintenance OC grows 7.28% ten years with NO growth spending charged (not a case, a ceiling): 5.69%
+[eq] IRR at price if maintenance OC grows 7.28% ten years with NO growth spending charged (not a case, a ceiling): 6.86%
+--- growth case at the end-years rate (the shown rate; halves rate beside above) ---
+end-years g=2.60% [ae] growth case $-0.61/sh at 5.43%; top $15.91; fair: top@10% $-7.88, growth@10% $-25.59, avg $-16.74
+end-years g=2.60% [eq] growth case $18.06/sh at 5.43%; top $37.87; fair: top@10% $20.56, growth@10% $1.36, avg $10.96
+halves g=7.28% [ae] growth case $28.38/sh at 5.43%; top $15.91; fair: top@10% $-7.88, growth@10% $-12.65, avg $-10.27
+halves g=7.28% [eq] growth case $39.15/sh at 5.43%; top $37.87; fair: top@10% $20.56, growth@10% $10.77, avg $15.66
+[ae] expected return at $52.19: top case 3.20%; growth case end-years 2.94%; growth case halves 4.36%
+[eq] expected return at $52.19: top case 3.94%; growth case end-years 3.06%; growth case halves 4.56%

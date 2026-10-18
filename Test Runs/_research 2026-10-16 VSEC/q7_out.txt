@@ -1,0 +1,44 @@
+
+=== amortization added back: True
+VSE 2023 {'maint': 50.1, 'allsp': -54.4, 'rev': 544.0, 'growth_capex': 12.0}
+VSE 2024 {'maint': 75.5, 'allsp': -41.6, 'rev': 786.3, 'growth_capex': 10.2}
+VSE 2025 {'maint': 118.0, 'allsp': -3.0, 'rev': 1112.3, 'growth_capex': 7.9}
+PAG 2024 {'maint': 55.1, 'allsp': 43.4, 'rev': 472.0, 'growth_capex': 4.2}
+PAG 2025 {'maint': 85.3, 'allsp': 63.1, 'rev': 595.6, 'growth_capex': 6.6}
+C0 maintenance-only 151.4  all-spending 20.3  R0 1348.0  WC intensity 0.502  growth capex per dR 0.035
+g=0.00 rate=0.0543: EV 2,788  equity 1,916  per share 60.02
+g=0.00 rate=0.1000: EV 1,514  equity 642  per share 20.12
+g=0.11 rate=0.0543: EV 5,734  equity 4,862  per share 152.28
+g=0.11 rate=0.1000: EV 2,494  equity 1,623  per share 50.82
+g=0.14 rate=0.0543: EV 7,075  equity 6,204  per share 194.30
+g=0.14 rate=0.1000: EV 2,928  equity 2,056  per share 64.40
+expected return at $164.08 (all-equity), g=0.0: 2.48%
+expected return at $164.08 (all-equity), g=0.14: 6.05%
+EQUITY-ONLY g=0.00 rate=0.0543: equity 2,004 per share 62.78
+EQUITY-ONLY g=0.00 rate=0.1000: equity 1,088 per share 34.09
+EQUITY-ONLY g=0.14 rate=0.0543: equity 6,292 per share 197.06
+EQUITY-ONLY g=0.14 rate=0.1000: equity 2,502 per share 78.37
+FAIR all-equity 42.26  equity-only 56.23
+
+=== amortization added back: False
+VSE 2023 {'maint': 38.3, 'allsp': -54.4, 'rev': 544.0, 'growth_capex': 12.0}
+VSE 2024 {'maint': 57.8, 'allsp': -41.6, 'rev': 786.3, 'growth_capex': 10.2}
+VSE 2025 {'maint': 92.0, 'allsp': -3.0, 'rev': 1112.3, 'growth_capex': 7.9}
+PAG 2024 {'maint': 47.4, 'allsp': 43.4, 'rev': 472.0, 'growth_capex': 4.2}
+PAG 2025 {'maint': 69.3, 'allsp': 63.1, 'rev': 595.6, 'growth_capex': 6.6}
+C0 maintenance-only 121.1  all-spending 20.3  R0 1348.0  WC intensity 0.502  growth capex per dR 0.035
+g=0.00 rate=0.0543: EV 2,230  equity 1,358  per share 42.55
+g=0.00 rate=0.1000: EV 1,211  equity 339  per share 10.63
+g=0.11 rate=0.0543: EV 4,393  equity 3,522  per share 110.31
+g=0.11 rate=0.1000: EV 1,844  equity 973  per share 30.46
+g=0.14 rate=0.0543: EV 5,379  equity 4,507  per share 141.17
+g=0.14 rate=0.1000: EV 2,124  equity 1,253  per share 39.23
+expected return at $164.08 (all-equity), g=0.0: 1.98%
+expected return at $164.08 (all-equity), g=0.14: 4.95%
+EQUITY-ONLY g=0.00 rate=0.0543: equity 1,447 per share 45.31
+EQUITY-ONLY g=0.00 rate=0.1000: equity 785 per share 24.60
+EQUITY-ONLY g=0.14 rate=0.0543: equity 4,595 per share 143.93
+EQUITY-ONLY g=0.14 rate=0.1000: equity 1,699 per share 53.20
+FAIR all-equity 24.93  equity-only 38.90
+
+shares 31.927924M  net debt 871.6  market value 5,238.7  earn-out obligation beside 33.85

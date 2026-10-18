@@ -95,6 +95,7 @@ Does owning this put the buyer at risk of ruin (the buyer's conduct, not the tar
   range earns the floor (each end case valued at ten percent, the two averaged; Part VII, 2026-10-10), after the company's own tax; the central figure on the all-equity basis (owner cash before interest
   against market value plus net debt at the latest filed date, stated subsequent events added) and the equity-only figure
   $ ___ beside it. No cheap price is reported. *(basis named 2026-10-06, section H.)*
+  For a regulated utility (Q7, The regulated utility) the two swap: equity-only central, the debt raised for the fixed assets credited against their spending up to the regulator's allowed debt share, all-equity beside. *(2026-10-18.)*
 - **VERDICT: IN / OUT / TOO HARD**, with ids.
 
 ## Q8 — IS IT BETTER THAN THE ALTERNATIVES: the bond, more of what I already own, the company's own stock? STOP.

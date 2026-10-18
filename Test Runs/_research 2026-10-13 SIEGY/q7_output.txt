@@ -1,0 +1,23 @@
+owner cash by year [7548, 7259, 9123, 8505, 9702] avg 8427.4
+net purchases 23,398 vs owner cash before purchases 42,137 ratio 0.56
+market cap 209,000; net debt 27,807; EV 236,807; price/ADS $544eq
+--- CENTRAL all-equity, organic pair (serial acquirer): base 8,427, growth 6.71%
+  range at 3.78%: EUR 254.06 to 475.40 a share (whole 222,947 to 392,959); width 1.87x
+  at 10%: whole 84,274 to 133,760 vs price EV 236,807; floor met by any case: False
+  fair price: EUR 105.73 a share (ADS 52.86)
+equity-only owner cash [6844, 6435, 7915, 7043, 7969] avg 7241.2
+--- beside: equity-only, organic pair (securities added to equity value): base 7,241, growth 6.71%
+  range at 3.78%: EUR 265.57 to 455.76 a share (whole 191,566 to 337,648); width 1.72x
+  at 10%: whole 72,412 to 114,933 vs price EV 196,580; floor met by any case: False
+  fair price: EUR 138.12 a share (ADS 69.06)
+--- beside: all-equity, securities NOT deducted: base 8,427, growth 6.71%
+  range at 3.78%: EUR 237.89 to 459.23 a share (whole 222,947 to 392,959); width 1.93x
+  at 10%: whole 84,274 to 133,760 vs price EV 249,227; floor met by any case: False
+  fair price: EUR 89.56 a share (ADS 44.78)
+--- beside: industrial basis (SFS FCF out, SFS debt out, SFS net assets added): base 7,590, growth 6.71%
+  range at 3.78%: EUR 268.64 to 467.98 a share (whole 200,783 to 353,894); width 1.74x
+  at 10%: whole 75,896 to 120,463 vs price EV 203,442; floor met by any case: False
+  fair price: EUR 135.06 a share (ADS 67.53)
+default pair at 3.78%: no-growth 222,947, total-growth-with-purchases 331,439; per share 254.06 / 395.30
+default pair at 10.00%: no-growth 84,274, total-growth-with-purchases 92,333; per share 73.52 / 84.01
+default pair fair price EUR 78.76

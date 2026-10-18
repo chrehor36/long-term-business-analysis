@@ -1,0 +1,14 @@
+2016 equity-only owner cash  -18.068   all-equity (before interest)   -2.377
+2017 equity-only owner cash    0.705   all-equity (before interest)   14.886
+2018 equity-only owner cash  -26.029   all-equity (before interest)  -13.566
+2019 equity-only owner cash   -1.766   all-equity (before interest)   10.615
+2020 equity-only owner cash  -21.252   all-equity (before interest)   -8.732
+5-yr mean equity-only -13.282  all-equity 0.165
+halves all-equity: first 6.255 second 0.941; equity-only first -8.681 second -11.509
+net debt 2021-09-30 109.683
+no-growth value at 5.43%: whole business 3.04; per share all-equity -3.60; equity-only -8.26
+fair (10%): whole business 1.65; per share all-equity -3.65; equity-only -4.48
+MCDL amortization vs investment 2018-20: {2018: (48.988, 28.276), 2019: (39.541, 28.804), 2020: (22.299, 27.247)}
+half-window growth all-equity -46.8%/yr (decline: bottom case)
+range whole business at 5.43%: bottom 0.17 top 3.04; per share -3.70 to -3.60
+fair at 10%: ends 0.16 and 1.65; average per share all-equity -3.67

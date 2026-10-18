@@ -1,0 +1,16 @@
+window FY2021-FY2025: avg all-equity 182.3  avg equity-only 181.3
+net purchases 796.9 vs owner cash before purchases 911.7: ratio 0.87 (serial acquirer if > 0.5)
+organic growth (filer ODS, FY2022-25) 2.64%; total growth of all-equity owner cash 2021->2025 7.87%; sales growth 7.86%
+
+shares 43.65539M price 87.99 mcap 3841.2 net debt 565.6 EV 4406.8
+
+CENTRAL (all-equity, organic pair: purchases left out, filer's organic growth):
+all-equity organic: B 182.3 g 0.00%/2.64%  value 3256..4015  per share 61.63..79.02 (width 1.28x)  expected return at price 4.14%/5.12%  fair 32.93
+BESIDE (equity-only, organic pair):
+equity-only organic: B 181.3 g 0.00%/2.64%  value 3237..3992  per share 74.15..91.44 (width 1.23x)  expected return at price 4.72%/5.81%  fair 45.62
+BESIDE (all-equity, default pair: purchases deducted, avg 23.0, total growth 7.87%):
+all-equity default: B 23.0 g 0.00%/7.87%  value 410..766  per share -3.56..4.58 (width nanx)  expected return at price 0.52%/1.08%  fair -5.80
+BESIDE (literal window = same five years; FY2025 single year for scale):
+all-equity organic on FY2025 alone: B 216.8 g 0.00%/2.64%  value 3871..4774  per share 75.72..96.40 (width 1.27x)  expected return at price 4.92%/6.05%  fair 41.60
+BESIDE (net debt at the Dec 28 2025 year-end, 329.6, the seasonal low):
+all-equity organic, Dec net debt: B 182.3 g 0.00%/2.64%  value 3256..4015  per share 67.04..84.43 (width 1.26x)  expected return at price 4.37%/5.40%  fair 38.34

@@ -1,0 +1,14 @@
+B="https://www.sec.gov/Archives/edgar/data/1080657"
+f(){ acc=$1; doc=$2; name=$3; a=${acc//-/}; python -I fetch.py "$B/$a/$doc" "$name.htm" && python -I h2t.py "cache/$name.htm" "cache/$name.txt"; }
+f 0001437749-26-010114 sqft20251231_10k.htm 10K_FY2025
+f 0001437749-26-027591 sqft20260630_10q.htm 10Q_2026Q2
+f 0001493152-26-018340 formdef14a.htm DEF14A_2026
+f 0001493152-26-045704 form8-k.htm 8K_20261005
+f 0001493152-26-045707 formscto-ia.htm SCTOIA_20261005
+f 0001493152-26-003424 form8-k.htm 8K_20260123
+f 0001493152-26-004044 form8-k.htm 8K_20260128
+f 0001493152-26-007357 form8-k.htm 8K_20260218
+f 0001641172-25-011284 form8-k.htm 8K_20250516
+f 0001493152-25-018016 form8-k.htm 8K_20251014
+f 0001493152-26-041173 form8-k.htm 8K_20260902
+f 0001493152-26-036562 forms-4.htm S4_20260807

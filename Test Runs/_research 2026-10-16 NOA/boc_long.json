@@ -1,0 +1,52 @@
+{
+    "terms": {
+        "url": "https://www.bankofcanada.ca/terms/"
+    },
+    "seriesDetail": {
+        "BD.CDN.LONG.DQ.YLD": {
+            "label": "Benchmark bond yield, long-term",
+            "description": "The yield on the Government of Canada long-term benchmark bond. This series represents the prevailing interest rate for the designated long-term benchmark bond and is used in the Bank of Canada’s reporting of financial market conditions.",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            },
+            "dateFormat": "daily",
+            "metadata": {
+                "unit": "Percent",
+                "frequency": "Business daily"
+            }
+        }
+    },
+    "observations": [
+        {
+            "d": "2026-10-14",
+            "BD.CDN.LONG.DQ.YLD": {
+                "v": "4.19"
+            }
+        },
+        {
+            "d": "2026-10-13",
+            "BD.CDN.LONG.DQ.YLD": {
+                "v": "4.22"
+            }
+        },
+        {
+            "d": "2026-10-09",
+            "BD.CDN.LONG.DQ.YLD": {
+                "v": "4.23"
+            }
+        },
+        {
+            "d": "2026-10-08",
+            "BD.CDN.LONG.DQ.YLD": {
+                "v": "4.29"
+            }
+        },
+        {
+            "d": "2026-10-07",
+            "BD.CDN.LONG.DQ.YLD": {
+                "v": "4.30"
+            }
+        }
+    ]
+}

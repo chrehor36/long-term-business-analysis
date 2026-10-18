@@ -1,0 +1,15 @@
+"""Strip an EDGAR htm in cache/ to text in cache/. Usage: python -I totext.py in.htm out.txt"""
+import sys, re, html, os
+here=os.path.dirname(os.path.abspath(__file__))
+s=open(os.path.join(here,'cache',sys.argv[1]),encoding='utf-8',errors='replace').read()
+s=re.sub(r'(?is)<(script|style).*?</\1>','',s)
+s=re.sub(r'(?is)<ix:header>.*?</ix:header>','',s)
+s=re.sub(r'(?i)</(p|div|tr|li|h\d|table)>','\n',s)
+s=re.sub(r'(?i)<br\s*/?>','\n',s)
+s=re.sub(r'(?i)</t[dh]>',' | ',s)
+s=re.sub(r'<[^>]+>','',s)
+s=html.unescape(s).replace('\xa0',' ')
+s=re.sub(r'[ \t]+',' ',s)
+s=re.sub(r'\n\s*\n+','\n',s)
+open(os.path.join(here,'cache',sys.argv[2]),'w',encoding='utf-8').write(s)
+print(len(s))

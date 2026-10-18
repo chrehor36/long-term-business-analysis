@@ -1,0 +1,12 @@
+import sys, re, html
+src = open(sys.argv[1], encoding="utf-8", errors="replace").read()
+src = re.sub(r"(?is)<(script|style).*?</\1>", " ", src)
+src = re.sub(r"(?is)<ix:header>.*?</ix:header>", " ", src)
+src = re.sub(r"(?i)<br\s*/?>|</p>|</div>|</tr>|</h\d>", "\n", src)
+src = re.sub(r"(?i)</td>|</th>", " | ", src)
+src = re.sub(r"(?s)<[^>]+>", "", src)
+src = html.unescape(src).replace("\xa0", " ")
+src = re.sub(r"[ \t]+", " ", src)
+src = re.sub(r"\n\s*\n+", "\n", src)
+open(sys.argv[2], "w", encoding="utf-8").write(src)
+print(sys.argv[2], len(src))

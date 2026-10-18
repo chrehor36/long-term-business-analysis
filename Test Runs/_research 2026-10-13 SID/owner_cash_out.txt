@@ -1,0 +1,15 @@
+year  CFO   capex  adv  forf  OC_eq_asfiled OC_eq_recast  OC_alleq_recast  acq  OC_alleq_recast_lessacq  D&A  rev
+2016 276 1632 0 0 -1356 -1356 657 0 657 1322 17149
+2017 572 1060 0 0 -488 -488 1251 0 1251 1453 18525
+2018 2208 1319 0 0 889 889 2303 -1451 3754 1273 22969
+2019 4872 2217 2525 0 2655 130 1476 210 1266 1519 25436
+2020 9577 1684 -10 -497 7893 8400 9669 132 9537 2522 30064
+2021 14793 2865 -697 3816 11928 8809 10220 1233 8987 2218 47912
+2022 2043 3352 -221 1269 -1309 -2357 -828 8005 -8833 2878 44362
+2023 7293 4408 4844 -1500 2885 -459 1804 339 1465 3379 45438
+2024 8651 5494 6968 -1328 3157 -2483 191 32 159 3791 43687
+2025 -973 5936 -510 5 -6909 -6404 -3587 293 -3880 4150 44798
+2021-2025 window eq as filed 1950 | eq recast -579 | eq recast less acq -2559 | all-eq recast 1560 | all-eq recast less acq -420
+2016-2025 cycle eq as filed 1934 | eq recast 468 | eq recast less acq -411 | all-eq recast 2316 | all-eq recast less acq 1436
+2016-2020 half eq as filed 1919 | eq recast 1515 | eq recast less acq 1737 | all-eq recast 3071 | all-eq recast less acq 3293
+2021-2025 half eq as filed 1950 | eq recast -579 | eq recast less acq -2559 | all-eq recast 1560 | all-eq recast less acq -420

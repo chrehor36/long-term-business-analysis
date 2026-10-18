@@ -1,0 +1,31 @@
+year  A_eq   M_eq   A_allequity  M_allequity  acquisitions
+2021   177.5   251.3      242.8       316.6      431.0
+2022  -268.9   312.2     -178.8       402.3      515.2
+2023   -84.0   432.0       90.6       606.6      430.0
+2024   278.0   515.0      481.8       718.8      600.0
+2025   243.0   155.0      574.0       486.0     4257.0
+avg     69.1   333.1      242.1       506.1     1246.6
+net purchases over window 6134; half of all-equity owner cash before purchases 605 -> serial acquirer: True
+market cap 4054.6  net debt 7967.0  EV 12021.6
+growth between halves (first two vs last two years, three years apart): {'A_ae': 154.5, 'M_ae': 18.8, 'A_eq': None, 'M_eq': 5.9}
+sales growth 2021-2025 20.5% (includes acquisitions)
+
+VALUE RANGE (COMPUTATION), discounted at the sovereign 0.0543
+central: organic pair, maintenance-only (M), all-equity: base 506.1; no growth    40.47; -6%   -64.84 a share
+beside: organic pair, all spending (A), all-equity: base 242.1; no growth  -104.95; -6%  -155.33 a share
+beside: organic pair, maintenance-only (M), equity-only: base 333.1; no growth   183.49; -6%   114.18 a share
+beside: organic pair, all spending (A), equity-only: base 69.1; no growth    38.08; -6%    23.69 a share
+default pair (acquisitions deducted, total growth credited): owner cash after purchases -984.7 a year, negative, no positive value on any growth
+
+FLOOR TEST at the price: owner cash / what is paid
+central: organic pair, maintenance-only (M), all-equity: 4.21% on 12022
+beside: organic pair, all spending (A), all-equity: 2.01% on 12022
+beside: organic pair, maintenance-only (M), equity-only: 8.22% on 4055
+beside: organic pair, all spending (A), equity-only: 1.70% on 4055
+growth for ten years (then flat) the central base would need to earn 10% at the price: 12.4% a year
+
+FAIR PRICE (Part VII: each end case valued at 10%, the two averaged)
+central: organic pair, maintenance-only (M), all-equity: top   -86.93 bottom  -136.41 fair  -111.67
+beside: organic pair, all spending (A), all-equity: top  -165.89 bottom  -189.56 fair  -177.73
+beside: organic pair, maintenance-only (M), equity-only: top    99.64 bottom    67.07 fair    83.35
+beside: organic pair, all spending (A), equity-only: top    20.68 bottom    13.92 fair    17.30

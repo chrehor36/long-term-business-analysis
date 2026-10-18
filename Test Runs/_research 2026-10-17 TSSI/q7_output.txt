@@ -1,0 +1,17 @@
+year  allspending  maintenance  sales  maint/sales
+2021    -10.98      -11.46     27.4   -41.8%
+2022     13.65       13.80     30.6    45.0%
+2023     -9.39       -9.45     54.4   -17.4%
+2024      3.96       11.84    148.1     8.0%
+2025     -4.18       24.80    245.7    10.1%
+5-yr mean: all-spending -1.39, maintenance 5.91, maintenance equity-only 6.25
+growth by halves (maintenance): 1.17 -> 18.32, 150%/yr; sales 2021-25 73%/yr
+growth carried after cap (f): 5.43%
+NOL shelter PV at 0.0543: 8.50 (used over 11 yrs); at 10%: 6.87
+RANGE (enterprise, maintenance central): no-growth 108.8  growth 167.8  width 1.54x
+per share all-equity basis: 5.98 to 8.08  vs price 7.07
+all-spending case beside: no-growth EV -25.6 -> per share 1.22
+equity-only basis: 4.38 to 6.59
+FAIR PRICE all-equity: 4.64  (ends 4.16, 5.11);  equity-only 2.96
+market cap 199.5; EV at price (less net cash, less shelter PV) 139.4
+return at price: maintenance no-growth 4.2%, maintenance growth 6.4%, all-spending -1.0%

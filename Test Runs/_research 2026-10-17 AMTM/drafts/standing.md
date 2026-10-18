@@ -1,0 +1,2 @@
+## THE STANDING RULE
+The rule binds the buyer, not the target: a purchase of this stock paid in cash, with no borrowed money and at a size the operator sets, cannot put the buyer at risk of ruin; "borrowed money has no place in the investor's tool kit" **[L2014-005]**, and nothing here lets "the other fellow" call the buyer's tune **[M2006-079]**. The target's own debt ($3,875M of borrowings at 2026-07-03, 10-Q Note 8) is weighed at Q9, not here **[M2012-081]**.

@@ -1,0 +1,13 @@
+market cap 4438.6  EV(all-equity) 5682.7
+bottom: 8y cycle base 242.9, decline -12.9%/yr (halves 2018-21 vs 2022-25)            value@3.78%   2162.7 -> EUR/sh   7.01 | @10%  1069.7 -> EUR/sh  -1.33 | return at price  1.20%
+literal window 2021-25, all spending, no growth (series changes sign)                 value@3.78%   5859.8 -> EUR/sh  35.20 | @10%  2215.0 -> EUR/sh   7.40 | return at price  3.90%
+top: window, maintenance-only (capex replaced by depreciation, +158.9), no growth     value@3.78%  10063.5 -> EUR/sh  67.26 | @10%  3804.0 -> EUR/sh  19.52 | return at price  6.69%
+RANGE EUR/sh 7.01 to 67.26 (width 4.7x on whole-business value 2163 to 10063)
+FAIR PRICE all-equity EUR/sh 9.10 ; ADR (1/4 share) EUR 2.27
+  beside, net debt less bond funds used for leases 749.4: fair 12.87 ; range 10.78 to 71.03
+  beside, lease+rental liabilities in net debt 6558.9: fair -31.44 ; range -33.53 to 26.73
+  beside, robotics stake 100 added to net debt, credited nothing: fair 8.33
+  beside, robotics stake 300 added to net debt, credited nothing: fair 6.81
+FAIR PRICE equity-only EUR/sh 16.09 (ends 870.6, 3348.0 at 10%) ; equity-only yield at price lit. window 3.96%
+beside: ex-NWC window (avg NWC change -95.6 added back) + maintenance, no growth: return at price 8.38%
+beside: top case carried at the 8y revenue CAGR 5.06% (double-credits growth spending): return 9.52%

@@ -1,0 +1,11 @@
+== tools/check_framework.py (2026-10-17)
+
+======================================================================
+PASS — every number resolves to a verbatim source or a confessed convention,
+       and every ledger row matches the document it cites.
+
+== tssi_check.py
+E-ids: none
+ids cited: 46 (32 distinct); missing: none
+quotes checked beside ids: 22
+RESULT: PASS

@@ -1,0 +1,48 @@
+== peers/CVGI.json
+2016 rev    662.1 opinc    25.4 margin   3.8% equity    67.7 ocf   49.4 capex   11.4 0001628280-17-002449 0001628280-17-002449
+2017 rev    755.2 opinc    31.4 margin   4.2% equity    74.7 ocf    2.3 capex   13.5 0001628280-18-003101 0001628280-18-003101
+2018 rev    897.7 opinc    66.9 margin   7.4% equity    83.6 ocf   41.0 capex   14.2 0001628280-19-002781 0001628280-19-002781
+2019 rev    901.2 opinc    40.6 margin   4.5% equity   120.1 ocf   36.7 capex   24.0 0001628280-20-003659 0001628280-20-003659
+2020 rev    717.7 opinc   -23.2 margin  -3.2% equity    95.4 ocf   34.4 capex    7.1 0001628280-21-004275 0001628280-21-004275
+2021 rev    971.6 opinc    49.6 margin   5.1% equity   126.7 ocf  -29.8 capex   17.7 0001628280-22-004584 0001628280-22-004584
+2022 rev    981.6 opinc    20.1 margin   2.1% equity   120.0 ocf   68.9 capex   19.7 0001628280-23-006568 0001628280-23-006568
+2023 rev    994.7 opinc    48.1 margin   4.8% equity   172.9 ocf   38.3 capex   19.7 0001628280-24-011213 0001628280-24-011213
+2024 rev    723.4 opinc    -0.8 margin  -0.1% equity   135.6 ocf  -33.5 capex   18.5 0001628280-25-012913 0001628280-25-012913
+2025 rev    649.0 opinc    -0.7 margin  -0.1% equity   133.4 ocf   44.6 capex   10.7 0001628280-26-016520 0001628280-26-016520
+== peers/CMT.json
+2016 rev    174.9 opinc    11.5 margin   6.6% equity    96.8 ocf   26.1 capex    2.9 0001026655-19-000012 0001026655-19-000012
+2017 rev    161.7 opinc     7.9 margin   4.9% equity   101.9 ocf    6.9 capex    4.3 0001026655-19-000012 0001026655-19-000012
+2018 rev    269.5 opinc    -3.1 margin  -1.2% equity    98.9 ocf   -6.5 capex    5.8 0001026655-19-000012 0001026655-19-000012
+2019 rev    284.3 opinc   -11.5 margin  -4.1% equity    84.4 ocf   16.7 capex    7.5 0001026655-20-000013 0001026655-20-000013
+2020 rev    222.4 opinc    10.4 margin   4.7% equity    93.9 ocf   28.2 capex    3.7 0001026655-22-000015 0001026655-21-000003
+2021 rev    307.5 opinc    11.1 margin   3.6% equity   100.1 ocf   12.5 capex   11.6 0001026655-22-000015 0001026655-22-000015
+2022 rev    377.4 opinc    18.0 margin   4.8% equity   116.1 ocf   19.0 capex   16.6 0001026655-23-000012 0001026655-23-000012
+2023 rev    357.7 opinc    26.5 margin   7.4% equity   139.0 ocf   34.8 capex    9.1 0001026655-24-000030 0001026655-24-000030
+2024 rev    302.4 opinc    16.7 margin   5.5% equity   147.4 ocf   35.2 capex   11.5 0001026655-25-000005 0001026655-25-000005
+2025 rev    273.8 opinc    14.2 margin   5.2% equity   158.2 ocf   19.2 capex   17.3 0001026655-26-000009 0001026655-26-000009
+== peers/PKOH.json
+2016 rev   1276.9 opinc    69.2 margin   5.4% equity   226.0 ocf   72.9 capex   28.5 0000076282-19-000021 0000076282-17-000017
+2017 rev   1412.9 opinc    90.2 margin   6.4% equity   276.0 ocf   46.7 capex   27.9 0000076282-19-000021 0000076282-18-000013
+2018 rev   1658.1 opinc    97.3 margin   5.9% equity   299.0 ocf   54.8 capex   45.1 0000076282-19-000021 0000076282-19-000021
+2019 rev   1618.3 opinc    83.1 margin   5.1% equity   335.6 ocf   63.7 capex   40.1 0000076282-20-000012 0000076282-20-000012
+2020 rev   1295.2 opinc    15.7 margin   1.2% equity   344.2 ocf   69.3 capex   26.3 0000076282-21-000013 0000076282-21-000013
+2021 rev   1438.0 opinc   -12.1 margin  -0.8% equity   314.1 ocf  -43.3 capex   31.1 0000076282-22-000014 0000076282-22-000014
+2022 rev   1492.9 opinc    33.4 margin   2.2% equity   256.5 ocf  -26.6 capex   26.9 0000076282-23-000014 0000076282-23-000014
+2023 rev   1659.7 opinc    84.1 margin   5.1% equity   280.4 ocf   53.4 capex   28.2 0000076282-24-000013 0000076282-24-000013
+2024 rev   1656.2 opinc    86.6 margin   5.2% equity   330.8 ocf   35.0 capex   31.4 0000076282-25-000013 0000076282-25-000013
+2025 rev   1599.1 opinc    66.3 margin   4.1% equity   380.9 ocf   42.3 capex   40.3 0000076282-26-000007 0000076282-26-000007
+== filings/facts.json
+2016 rev      0.0 opinc     0.0 margin   n/a equity     0.0 ocf    0.0 capex    0.0  
+2017 rev    313.3 opinc     9.4 margin   3.0% equity     0.0 ocf   30.8 capex   11.3 0001564590-20-008206 0001564590-20-008206
+2018 rev    354.5 opinc    22.2 margin   6.3% equity     0.0 ocf   36.7 capex   17.9 0001564590-20-008206 0001564590-20-008206
+2019 rev    519.7 opinc    -2.0 margin  -0.4% equity   200.9 ocf   33.4 capex   25.8 0001564590-20-008206 0001564590-20-008206
+2020 rev    357.6 opinc    -6.5 margin  -1.8% equity   200.9 ocf   36.5 capex    7.8 0001564590-21-011139 0001564590-21-011139
+2021 rev    454.8 opinc    -7.4 margin  -1.6% equity   198.3 ocf   14.5 capex   39.3 0001564590-22-008290 0001564590-22-008290
+2022 rev    539.4 opinc    25.8 margin   4.8% equity   217.9 ocf   52.4 capex   58.6 0001558370-23-002542 0001558370-23-002542
+2023 rev    588.4 opinc    20.2 margin   3.4% equity   230.0 ocf   40.4 capex   16.6 0001558370-24-002598 0001558370-24-002598
+2024 rev    581.6 opinc    44.6 margin   7.7% equity   251.8 ocf   89.8 capex   12.1 0001558370-25-002369 0001558370-25-002369
+2025 rev    546.5 opinc    -3.8 margin  -0.7% equity   240.7 ocf   38.6 capex   11.6 0001104659-26-023496 0001104659-26-023496
+peers/CVGI.json 2016 - 2025 mean op margin 2.9% min -3.2% max 7.4% mean opinc/assets 5.9% sum opinc / sum rev 3.1%
+peers/CMT.json 2016 - 2025 mean op margin 3.7% min -4.1% max 7.4% mean opinc/assets 5.4% sum opinc / sum rev 3.7%
+peers/PKOH.json 2016 - 2025 mean op margin 4.0% min -0.8% max 6.4% mean opinc/assets 4.9% sum opinc / sum rev 4.1%
+filings/facts.json 2018 - 2025 mean op margin 2.2% min -1.8% max 7.7% mean opinc/assets 2.6% sum opinc / sum rev 2.4%

@@ -1,0 +1,47 @@
+import json
+entry = ("Price **$0.07** a share (close 2026-10-16, `tools/run.py` quote source, aggregator, flagged; a second aggregator's weekly closes $0.15 in April 2026 to $0.07). "
+"Shares **328,731,362**, one class (10-Q for the quarter to 2026-06-30, `0001437749-26-028023`; `Screens/cover_shares.py` the same; the balance sheet's 325,231,362 issued "
+"plus 3,500,000 sold to Clearthink after the quarter; no treasury shares; the Clearthink line open, the count rising); cap **$23.0M**. Sovereign **5.43%** "
+"(US Treasury 30-year par yield, 2026-10-16). Documents read: 10-K FY2025 (`0001437749-26-006926`), its 10-K/A of 2026-04-30 (`0001437749-26-014184`, Part III), "
+"the 10-Qs for Q1 and Q2 2026 (`0001437749-26-017391`, `0001437749-26-028023`), the 10-Ks FY2024 (`0001437749-25-010172`), FY2023 (`0001437749-24-010394`), "
+"FY2022 (`0001437749-23-008876`) and FY2020 (`0001437749-21-007650`), DEF 14A of 2025-04-25 (`0001437749-25-013006`), the 8-Ks of 2025-09-25, 2026-03-25 and 2026-09-11. "
+"Cross-check: FY2025 operating cash $(8,297) thousand on the filed statement against the XBRL figure. `tools/run.py`'s owner-earnings window ended at 2017 (capital "
+"spending and depreciation untagged under its elements), owner cash built by hand from the filed statements. The brief's stated departures: lines of evidence derived "
+"by the analyst from Items 1, 1A and 7 (eight lines, listed in the run file); rivals from the four the 10-K names for odor control, Weaver Consulting, Atmos Technologies, "
+"Chemstation and OMI Industries, none an SEC filer, flagged; Xylem, Pentair and AECOM read as context only. **Q1 IN** narrowly on the deciding part, ONM Environmental "
+"(odor and VOC control, the only one of six units with a five-year profit, +$8.6M against a company loss of $35.6M; the battery, PFAS water and wound-care units start-ups "
+"that do not decide). **Q2 OUT** **[M1995-038]**, **[M2011-015]**, **[M2012-108]**, **[M2023-073]**, **[M2019-041]**, **[L2007-004]**: ONM's profit came from one private-label "
+"customer, Pooph, about 50% of company revenue in 2022, 82% in 2023 and 77% in 2024, the brand Pooph's own; Pooph replaced the formula and stopped ordering in September 2025 "
+"(8-K `0001437749-25-029852`), and ONM lost money in every period read without it (2019 to 2021, H1 2026 $(204)K on $895K); patents about seven years from expiry; the "
+"analyst wrote out and rejected TOO HARD on the pending patent suit. After the stop, integrity facts recorded, not judged: weighted shares 80.0M (2014) to 307.0M (2025), "
+"stock sold under an equity line every year read (Lincoln Park about $0.18 in 2025, Clearthink about $0.11 to $0.12 in 2026); going-concern paragraphs FY2020 to the 2026 10-Q; "
+"stock pay $2.2M to $3.6M a year, 44% to 106% of operating cash used, framed to owners as non-cash; unsupported \"number-one performing\" and \"best-in-class\" claims; "
+"the FY2025 auditor's report naming 2025 and 2024 in one sentence and opining on 2024 and 2023 in the next; the Pooph suits open both ways; Clyra Medical's 15% notes, "
+"$4.85M carried, guaranteed by the parent; minorities 52% of Clyra, 30% of BLEST, 5% of BETI. Balance sheet: accumulated deficit $(101.2)M (2017) to $(166.3)M "
+"(2026-06-30), paid-in capital $165.3M, parent equity a deficit of $(1.85)M at 2026-06-30, no goodwill, net debt $2.85M after the stated subsequent events. "
+"COMPUTATION, NOT A CLEARANCE: owner cash 2021 to 2025 (operating cash less option expense, stock issued for services and equipment spending) (6.2), (5.4), (5.4), (6.9), "
+"(12.0), mean **$(7.17)M** after interest, $(7.05)M before; operating cash negative every year 2014 to H1 2026; (b) the no-growth case alone; no tax paid, no shelter "
+"priced; value **$(0.40)** a share all-equity and equity-only, wholly below zero against $0.07; no case earns the floor at any positive price; fair **$(0.22)** "
+"all-equity, **$(0.22)** equity-only; not armed (box OUT at Q2). Contamination declared by the analyst: one filename listing of `Test Runs/` filtered for BLGO or "
+"biolargo at the start, no match, declared as a breach of form with its self-audit box left unticked; the SHIM commit subjects, the AYI and ARCB folder names and the "
+"memory index; none used. Commits 0fa8feaf (Step 0 and Q1), cdb31ad0 (Q2), 52884432 (close). Position note filled at the fold: not held. Citations: the analyst's "
+"`check_ids.py` PASS (29 ids); the dispatcher's `dispatcher_verify.py`, 34 fragments within 300 characters before an id, 11 flags each read and found to be a filing "
+"quote with its accession or a quotation not beside the id, **no slip**, no E-ids. No tracked research file over 200 KB. check_framework PASS. **For the operator** "
+"(the analyst's framework notes): (1) the deciding-part threshold fails when the whole loses money (\"more than half\" of a negative total; \"largest\" by profit or "
+"by the size of the result), read by profit here, the other reading closing TOO HARD (NATURE) at Q1 on Clyra; (2) whether start-up parts that do not decide can keep "
+"the whole outside the circle by their weight in the losses; (3) Q2's field returns when no named rival files; (4) Q7 and Part VII yield a negative fair price on a "
+"wholly negative base, an alert that never fires; (5) the template's Q7 line names six specifics where the text carries more. Could not get: the named odor rivals' "
+"returns (none files), the outcome of the Pooph suits, the investor slide deck furnished with the 8-K of 2026-09-11.")
+narr = ("OUT at Q2 (BioLargo, Inc., OTCQX BLGO; cleantech developer whose only profitable unit, ONM Environmental odor control, earned its five-year profit "
+"on one private-label customer). Pooph, 50% to 82% of revenue in 2022 to 2024 and owner of the brand, replaced the formula and left in September 2025; ONM lost "
+"money in every period read without it; the named odor rivals do not file. Integrity facts recorded, not judged: shares about fourfold since 2014 through equity lines, "
+"going-concern paragraphs since FY2020, stock pay framed as non-cash, the Pooph suits open both ways. Computation beneath the stop: owner cash negative every year, "
+"mean $(7.17)M; value $(0.40) a share, wholly below zero against $0.07; fair $(0.22) all-equity and equity-only; not armed. Framework gaps for the operator: the "
+"deciding-part threshold when the whole loses money, start-up parts that do not decide, Q2 with no filing rival, a negative fair price.")
+b = {"batch": "overnight 2026-10-17", "date": "2026-10-17", "runs": [{
+  "t": "BLGO",
+  "name": "BioLargo, Inc.; OTCQX BLGO, SEC CIK 0000880242, formerly NuWay Medical Inc. to 2007; cleantech in odor and VOC control (ONM Environmental), PFAS water treatment, environmental engineering (BLEST), battery storage (BETI) and antimicrobial medical devices (Clyra Medical), the last three partly owned; the Pooph license and manufacturing agreement terminated 2025-09-24 with a note receivable impaired, a Clearthink purchase agreement for up to $10.0M of common stock 2026-03-20, a 10-K/A for FY2025 2026-04-30",
+  "file": "2026-10-17 Run - BLGO BioLargo.md",
+  "box": "OUT AT Q2; integrity facts recorded, not judged",
+  "entry": entry, "narr": narr, "fair": None, "fair_label": ""}]}
+json.dump(b, open("Test Runs/_research 2026-10-17 BLGO/batch.json", "w", encoding="utf-8"), indent=1, ensure_ascii=False)

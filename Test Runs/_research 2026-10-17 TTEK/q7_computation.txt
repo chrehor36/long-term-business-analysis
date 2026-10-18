@@ -1,0 +1,34 @@
+owner cash by year:
+  FY2016  OCF  142.0 SBC  13.0 capex  11.9 fin.lease  0.0 -> owner cash  117.1  share of revenue  4.5%  net purchases   84.3
+  FY2017  OCF  138.0 SBC  13.4 capex   9.7 fin.lease  0.0 -> owner cash  114.9  share of revenue  4.2%  net purchases    9.0
+  FY2018  OCF  176.9 SBC  19.6 capex   9.7 fin.lease  0.0 -> owner cash  147.6  share of revenue  5.0%  net purchases   69.3
+  FY2019  OCF  208.5 SBC  17.6 capex  16.2 fin.lease  0.0 -> owner cash  174.7  share of revenue  5.6%  net purchases   96.2
+  FY2020  OCF  262.5 SBC  19.4 capex  12.2 fin.lease  1.3 -> owner cash  229.6  share of revenue  7.7%  net purchases   91.5
+  FY2021  OCF  304.4 SBC  23.1 capex   8.6 fin.lease  2.7 -> owner cash  270.0  share of revenue  8.4%  net purchases  104.9
+  FY2022  OCF  336.2 SBC  26.2 capex  10.6 fin.lease  4.3 -> owner cash  295.1  share of revenue  8.4%  net purchases   69.1
+  FY2023  OCF  368.5 SBC  28.6 capex  26.9 fin.lease  5.6 -> owner cash  307.4  share of revenue  6.8%  net purchases  766.3
+  FY2024  OCF  358.7 SBC  31.2 capex  18.1 fin.lease  6.5 -> owner cash  302.9  share of revenue  5.8%  net purchases  139.8
+  FY2025  OCF  457.7 SBC  33.9 capex  18.6 fin.lease  7.8 -> owner cash  397.4  share of revenue  7.3%  net purchases  106.1
+5y avg owner cash 314.6; after-tax interest 20.8; unlevered 335.3; net purchases FY21-25 1186.2 vs half of owner cash before purchases 786.4
+growth: total owner cash FY21-25 10.15%  organic revenue FY22-25 (filer) 6.67%  incl FY26 9M 2.30%  revenue total 14.08%
+net debt 597.6 (incl. declared dividend 18.4); market cap 8889.8; EV 9487.4
+CENTRAL: organic pair, all-equity
+  no growth                                c0  335.3 g  0.00%  value/sh  21.78  at10%/sh  10.76  exp.return at price  3.53%
+  organic growth (filer, FY22-25)          c0  335.3 g  6.67%  value/sh  38.75  at10%/sh  18.40  exp.return at price  5.96%
+  RANGE 21.78 to 38.75; width 1.78:1; FAIR (avg of 10% ends) 14.58
+equity-only beside (owner cash after interest vs market value):
+  no growth                                value/sh  22.63 at10%/sh  12.29 exp.return  3.54%
+  organic growth                           value/sh  38.54 at10%/sh  19.45 exp.return  5.97%
+  equity-only RANGE 22.63 to 38.54; FAIR 15.87
+variant: organic growth incl FY26 9M decline
+  organic incl FY26                        c0  335.3 g  2.30%  value/sh  26.65  at10%/sh  12.99  exp.return at price  4.28%
+DEFAULT pair beside (purchases deducted, total growth):
+  no growth                                c0   98.1 g  0.00%  value/sh   4.72  at10%/sh   1.50  exp.return at price  1.03%
+  total growth                             c0   98.1 g 10.15%  value/sh  13.50  at10%/sh   5.41  exp.return at price  2.51%
+  default RANGE 4.72 to 13.50; FAIR 3.45
+after year ten, purchases stop (default top on owner cash before purchases after yr10):
+  default no growth, buy-stop after 10     value/sh  14.78 at10%   5.07
+  default total growth, buy-stop after 10  value/sh  39.93 at10%  14.80
+literal window check FY21-25 four-year base w/o FY25:
+  FY21-24 avg, no growth                   c0  314.6 g  0.00%  value/sh  20.29  at10%/sh   9.95  exp.return at price  3.32%
+cap check: owner cash yr10 640 on revenue yr10 at same growth 10380 = 6.2% vs highest share 8.4%

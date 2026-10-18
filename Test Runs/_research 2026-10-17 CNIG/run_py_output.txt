@@ -1,0 +1,89 @@
+==============================================================================
+Corning Natural Gas Holding Corp  (CNIG)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.43%   10/16/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     24.75 USD   2022-07-06 (merger consideration, placeholder, not a quote)   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                  3.084M  as of 2022-05-12  (EntityCommonStockSharesOutstanding)  STALE, not used
+    balance-sheet count                                   3.084M  as of 2022-03-31  (CommonStockSharesOutstanding)  STALE, not used
+    balance-sheet ISSUED count (includes treasury)        3.084M  as of 2022-03-31  (CommonStockSharesIssued)  STALE, not used
+    split history: could not be read (HTTPError); check for a split after 2022-05-12 by hand
+  shares    3.1M      market cap 0.08B USD
+  share basis: STALE (1619 days old; the newest filed) dei cover-page count as of 2022-05-12 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 5 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2017-09-30        3.0      n/f       3.1        6.4        -3.5        -0.1
+    2018-09-30        5.9      n/f       2.9        7.8        -1.9         3.0
+    2019-09-30        6.6      n/f       3.3        6.6        -0.0         3.3
+    2020-09-30        5.5      n/f       3.4        8.7        -3.1         2.2
+    2021-09-30        4.2      n/f       4.0       11.0        -6.7         0.2
+          mean                                                 -3.1         1.7
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: capex basis in 2017, 2018, 2019, 2020, 2021
+  mean of the year-by-year lower: -3.1;  of the higher: 1.7  (lines 2 and 3 below use these)
+  SBC tag by year: 2017 n/f; 2018 n/f; 2019 n/f; 2020 n/f; 2021 n/f
+  ** n/f = stock pay not found in XBRL; read the cash-flow statement. OE in those years
+     deducts NOTHING for stock pay, which overstates it if the filer pays in stock. **
+  capex tag by year: 2017 PaymentsToAcquireProductiveAssets; 2018 PaymentsToAcquireProductiveAssets; 2019 PaymentsToAcquireProductiveAssets; 2020 PaymentsToAcquireProductiveAssets; 2021 PaymentsToAcquireProductiveAssets
+  ** The window's last year, 2021-09-30, is over 18 months old. Later years may be filed under
+     another taxonomy (US GAAP to IFRS) or other elements; read the latest annual report. **
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0001174947-21-001128, 0001174947-20-001229, 0001582244-19-000049
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (3-yr, 3 yrs of data)   OE capex -3.3  OE D&A 1.9   yield -4.32% (capex) 2.50% (D&A)
+  DIVERGENCE vs the 5-yr window: -7.5% on the lower of the two bases
+
+  1. THE YIELD                 capex basis -4.02%   D&A basis  2.26%   vs sovereign 5.43%
+  2. GROWTH THE PRICE ASSUMES  REFUSED - the lower owner-earnings mean
+     is at or below zero. A DCF on a non-positive base produces no
+     number; the negative bottom boundary IS the statement.
+  3. POINTS OVER THE SOVEREIGN REFUSED on the same ground at the lower mean; higher mean -0.56
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD thousands; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables    goodwill     lt debt    retained
+    2013-09-30        55,019       7,673      23,392          14       1,728           -      13,461       2,098
+    2014-09-30        62,522           -      26,585         108       1,992           -      14,572       2,921
+    2015-09-30        71,416           -      29,728          75       1,586           -      12,554       3,313
+    2016-09-30       107,004           -      31,790       3,809       2,958           -      31,296       4,902
+    2017-09-30       106,360           -      32,343         443       2,730           -      33,872       5,171
+    2018-09-30       111,743           -      32,841         220       3,351           -      36,975       5,400
+    2019-09-30       118,609           -      34,418         314       2,436           -      37,940       6,634
+    2020-07-02             -           -           -           -           -         918           -           -
+    2020-09-30       136,459           -      35,934         412       2,330         918      44,292       7,747
+    2021-09-30       144,055           -      35,473         334       2,481         918      46,145       7,148
+    accessions: 0001174947-20-001229, 0001174947-21-001128, 0001582244-13-000013, 0001582244-14-000080, 0001582244-15-000075, 0001582244-16-000187, 0001582244-17-000114, 0001582244-18-000068, 0001582244-19-000049
+    equity: StockholdersEquity (2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021)
+    lt debt: LongTermDebtNoncurrent (2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD thousands; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        d3        d4        d5        sum
+    2013-09-30      13,461     1,827         -         -     7,673     22,961*
+    2014-09-30      14,572     2,697     4,615         -    10,095     31,979*
+    2015-09-30      12,554     2,923     9,004         -    12,968     37,449*
+    2016-09-30      31,296     5,558     8,181         -    19,186     64,222*
+    2017-09-30      33,872     4,202     5,569         -    15,884     59,527*
+    2018-09-30      36,975     3,794     6,662         -    16,323     63,755*
+    2019-09-30      37,940     4,261     6,876         -    21,083     70,159*
+    2020-09-30      44,292     6,271     7,698         -         -     58,261*
+    2021-09-30      46,145     6,408     7,669     5,397         -     65,619*
+    d1 = us-gaap:LongTermDebtNoncurrent
+    d2 = us-gaap:LongTermDebtCurrent
+    d3 = us-gaap:ShortTermBorrowings
+    d4 = cnig:DemandNotesPayableCurrent
+    d5 = us-gaap:LiabilitiesOtherThanLongtermDebtNoncurrent
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

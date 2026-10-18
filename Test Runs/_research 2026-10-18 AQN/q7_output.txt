@@ -1,0 +1,60 @@
+tax 0.2594  sust/dep ratio 1.426  hydro avg 18.3
+market cap 4041.2  net debt 6580.7  pref 184.3  NCI 356.3  claims 7121.3  EV 11162.5
+2021 EBIT_adj   403.4 NOPAT   298.7 D&A  288.2 sust  406.7 capex_all  1013.1 dWC  522.0
+2022 EBIT_adj   464.7 NOPAT   344.2 D&A  325.0 sust  459.2 capex_all  1524.6 dWC  221.6
+2023 EBIT_adj   388.9 NOPAT   288.0 D&A  354.1 sust  500.5 capex_all   748.7 dWC  -86.3
+2024 EBIT_adj   442.7 NOPAT   327.8 D&A  395.7 sust  617.1 capex_all   763.8 dWC  139.5
+2025 EBIT_adj   497.2 NOPAT   368.2 D&A  400.3 sust  505.0 capex_all   608.8 dWC   45.7
+sales growth 2021-2025 4.63%/yr
+
+[maint | central-wc] yearly 2021:100.1, 2022:-11.7, 2023:227.9, 2024:-33.1, 2025:217.8
+  5y avg owner cash 100.2; halves 44.2 -> 92.4; shown growth 27.8%; carried 4.63%
+  growth spending charged (avg/yr, 10y) 434.1
+  whole-business value no-growth 1845.6, growth case (net of growth spending) -610.7
+  per share: -10.04 to -6.85  (price 5.25)
+  most generous expected return at the price (growth spending ignored; rate equating value to EV 11162): 1.38%
+  FAIR PRICE all-equity -9.44/share; equity-only (owner cash after after-tax interest -113.5; pref and NCI deducted) -4.18/share
+
+[maint | literal-wc] yearly 2021:-341.7, 2022:-11.7, 2023:227.9, 2024:-33.1, 2025:217.8
+  5y avg owner cash 11.8; halves -176.7 -> 92.4; shown growth n/a; carried 0 (no-growth alone)
+  growth spending charged (avg/yr, 10y) 434.1
+  whole-business value no-growth 218.1, growth case (net of growth spending) 218.1
+  per share: -8.97 to -8.97  (price 5.25)
+  most generous expected return at the price (growth spending ignored; rate equating value to EV 11162): 0.11%
+  FAIR PRICE all-equity -9.10/share; equity-only (owner cash after after-tax interest -201.8; pref and NCI deducted) -3.32/share
+
+[all | central-wc] yearly 2021:-506.2, 2022:-1077.1, 2023:-20.3, 2024:-179.8, 2025:114.0
+  5y avg owner cash -333.9; halves -791.7 -> -32.9; shown growth n/a; carried 0 (no-growth alone)
+  growth spending charged (avg/yr, 10y) 0.0
+  whole-business value no-growth -6148.7, growth case (net of growth spending) -6148.7
+  per share: -17.24 to -17.24  (price 5.25)
+  most generous expected return at the price (growth spending ignored; rate equating value to EV 11162): nan%
+  FAIR PRICE all-equity -13.59/share; equity-only (owner cash after after-tax interest -547.6; pref and NCI deducted) -7.82/share
+
+[all | literal-wc] yearly 2021:-948.1, 2022:-1077.1, 2023:-20.3, 2024:-179.8, 2025:114.0
+  5y avg owner cash -422.3; halves -1012.6 -> -32.9; shown growth n/a; carried 0 (no-growth alone)
+  growth spending charged (avg/yr, 10y) 0.0
+  whole-business value no-growth -7776.3, growth case (net of growth spending) -7776.3
+  per share: -19.35 to -19.35  (price 5.25)
+  most generous expected return at the price (growth spending ignored; rate equating value to EV 11162): nan%
+  FAIR PRICE all-equity -14.74/share; equity-only (owner cash after after-tax interest -635.9; pref and NCI deducted) -8.96/share
+
+[dep | central-wc] yearly 2021:218.6, 2022:122.6, 2023:374.3, 2024:188.3, 2025:322.5
+  5y avg owner cash 245.3; halves 170.6 -> 255.4; shown growth 14.4%; carried 4.63%
+  growth spending charged (avg/yr, 10y) 579.1
+  whole-business value no-growth 4516.8, growth case (net of growth spending) 2160.0
+  per share: -6.45 to -3.38  (price 5.25)
+  most generous expected return at the price (growth spending ignored; rate equating value to EV 11162): 3.28%
+  FAIR PRICE all-equity -7.78/share; equity-only (owner cash after after-tax interest 31.6; pref and NCI deducted) -2.53/share
+
+[dep | literal-wc] yearly 2021:-223.3, 2022:122.6, 2023:374.3, 2024:188.3, 2025:322.5
+  5y avg owner cash 156.9; halves -50.3 -> 255.4; shown growth n/a; carried 0 (no-growth alone)
+  growth spending charged (avg/yr, 10y) 579.1
+  whole-business value no-growth 2889.3, growth case (net of growth spending) 2889.3
+  per share: -5.50 to -5.50  (price 5.25)
+  most generous expected return at the price (growth spending ignored; rate equating value to EV 11162): 1.41%
+  FAIR PRICE all-equity -7.21/share; equity-only (owner cash after after-tax interest -56.8; pref and NCI deducted) -1.44/share
+
+serial-acquirer test: purchases 609.3 vs half of owner cash before purchases 250.5 -> ORGANIC PAIR CENTRAL
+organic pair: growth spending ex-purchase 312.2/yr; no-growth 1845.6; growth case 310.9; per share -8.85 to -6.85
+organic pair FAIR all-equity -8.95/share; equity-only -3.70/share

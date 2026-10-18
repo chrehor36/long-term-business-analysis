@@ -1,0 +1,38 @@
+year                                   2021     2022     2023     2024     2025
+effective tax rate %                   25.9     27.3     24.4     26.7     27.3  avg     26.3
+maintenance guess (D&A+O&M dep+RSAM)     72.9     80.0     77.4     97.0    107.6  avg     87.0
+OC maint, equity (after interest)      71.7     72.5    118.5    134.0    117.6  avg    102.9
+after-tax interest paid                15.4     17.7     23.1     53.5     53.2  avg     32.6
+OC maint, all-equity                   87.1     90.2    141.6    187.5    170.8  avg    135.4
+OC all capex, equity                  -42.3     24.2      7.3   -124.3   -223.4  avg    -71.7
+OC all capex, all-equity              -26.9     41.9     30.4    -70.8   -170.2  avg    -39.1
+  same less acquisitions              -63.3     30.1   -894.6    -70.2   -170.2  avg   -233.6
+growth spending (capex - maint)       114.0     48.3    111.2    258.3    341.0  avg    174.6
+NOPAT (op inc + other) x (1-t)         98.4    107.5    115.1    168.7    193.0  avg    136.6
+capital employed 2021 1559.0  2025 3216.4; NOPAT 2021 98.4 2025 193.0
+return on incremental capital 2021->2025: 5.71%
+same, goodwill added in window (462.5) taken out: 7.92%
+return on capital employed 2025: 6.00%  2021: 6.31%
+ROE on average equity %                11.4     11.2      8.4      9.0      9.4  avg      9.9
+
+market cap 3186.4  net debt 1687.3  EV 4873.7
+base 5yr 135.4  base 2yr 179.2  growth spend avg 174.6  R shown 5.71%  R allowed 6.82%
+no growth, 5yr base                                  sovereign: EV   2494.1  per share   33.47 | at 10%: EV   1354.3 per share  -13.81
+growth at allowed R, 5yr base                        sovereign: EV   2831.5  per share   47.46 | at 10%: EV   1013.0 per share  -27.97
+growth at shown R, 5yr base                          sovereign: EV   2561.8  per share   36.28 | at 10%: EV    894.0 per share  -32.91
+no growth, post-FCG 2yr base                         sovereign: EV   3299.5  per share   66.88 | at 10%: EV   1791.6 per share    4.33
+growth at allowed R, post-FCG base                   sovereign: EV   3636.8  per share   80.87 | at 10%: EV   1450.3 per share   -9.83
+2025 NOPAT, no growth                                sovereign: EV   3554.4  per share   77.45 | at 10%: EV   1930.0 per share   10.07
+2025 NOPAT, 2026 guidance growth 465/yr at allowed R sovereign: EV   4453.0  per share  114.73 | at 10%: EV   1020.7 per share  -27.65
+
+CENTRAL RANGE all-equity: 33.47 to 47.46  width 1.42x
+FAIR PRICE all-equity (ends at 10%, averaged): -20.89
+expected return at the price, 5yr base no growth: 2.78%
+expected return at the price, 5yr base growth allowed R: 3.70%
+expected return at the price, 2025 NOPAT + guidance growth allowed R: 5.17%
+
+EQUITY-ONLY base 102.9: range 78.58 to 100.37; at 10%: 42.67 and 42.11; fair 42.39
+earnings yields at price: NI2025/mcap 4.40%  NOPAT2025/EV 3.96%  OC maint eq avg/mcap 3.23%
+all-spending all-equity avg -39.1 (changes sign): range is the no-growth case alone; value -720.6 EV -> per share -99.89
+default pair, acquisitions deducted: avg -233.6
+serial-acquirer test: net purchases 972.6 vs half of OC before purchases (maint, all-equity) 338.6

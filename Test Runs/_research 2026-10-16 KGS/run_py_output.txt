@@ -1,0 +1,79 @@
+==============================================================================
+Kodiak Gas Services, Inc.  (KGS)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.43%   10/15/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     47.81 USD   2026-10-15   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                101.104M  as of 2026-08-03  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                                 100.900M  as of 2026-06-30  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)      105.400M  as of 2026-06-30  (CommonStockSharesIssued)
+  shares    101.1M      market cap 4.83B USD
+  share basis: dei cover-page count as of 2026-08-03 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-12-31      266.3      5.9     182.9      219.8        40.6        77.5
+    2024-12-31      328.0     17.7     260.3      337.0       -26.6        50.1
+    2025-12-31      599.7     24.5     276.2      315.5       259.7       299.0
+          mean                                                 91.2       142.2
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: capex basis in 2023, 2024, 2025
+  mean of the year-by-year lower: 91.2;  of the higher: 142.2  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 ShareBasedCompensation; 2024 ShareBasedCompensation; 2025 ShareBasedCompensation
+  capex tag by year: 2023 PaymentsToAcquirePropertyPlantAndEquipment; 2024 PaymentsToAcquirePropertyPlantAndEquipment; 2025 PaymentsToAcquirePropertyPlantAndEquipment
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0001767042-26-000012, 0001767042-25-000010, 0001767042-24-000011
+    2024-12-31  other capital payment (not in capex)  us-gaap:FinanceLeasePrincipalPayments (financing section)  2.4
+    2025-12-31  other capital payment (not in capex)  us-gaap:FinanceLeasePrincipalPayments (financing section)  2.5
+
+        FY end  OCF filed OCF ex-sec  SBC+other    capex  capex alt  OE capex alt  OE D&A alt
+    2023-12-31      266.3      266.3        5.9    219.8      219.8          40.6        77.5
+    2024-12-31      328.0      328.0       17.7    337.0      339.4         -29.0        50.1
+    2025-12-31      599.7      599.7       24.5    315.5      317.9         257.3       299.0
+          mean                                                               89.6       142.2
+  OCF ex-sec = OCF as filed less the securities lines' and PIK interest's effect; SBC+other = the SBC column plus
+  the other stock-pay lines; capex alt = capex plus the other capital payments. The columns
+  above are AS FILED; these are the ALTERNATES. Neither is chosen here.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 56.0  OE D&A 111.9   yield 1.16% (capex) 2.32% (D&A)
+  DIVERGENCE vs the 3-yr window: -38.6% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis  1.89%   D&A basis  2.94%   vs sovereign 5.43%
+  2. GROWTH THE PRICE ASSUMES   11.9%  (at a 5.43% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN -0.95 (lower mean) .. +0.15 (higher mean)
+
+  BALANCE SHEETS, 6 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2020-12-31             -           -         755          24           -           -           -           -           -           -
+    2021-12-31         3,012           -         960          29          81           -           -           -           -           -
+    2022-12-31         3,206       2,976         229          20          98          72         306         132       2,720         195
+    2023-12-31         3,244       2,101       1,143           6         113          76         306         123       1,791         178
+    2024-12-31         4,435       3,062       1,374           5         254         103         415         163       2,582          94
+    2025-12-31         4,318       3,111       1,207           3         198         102         409         154       2,555          13
+    accessions: 0001767042-24-000011, 0001767042-25-000010, 0001767042-26-000012
+    equity: StockholdersEquity (2020, 2021, 2022, 2023); StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (2024, 2025)
+    cash: CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents (2020, 2021); CashAndCashEquivalentsAtCarryingValue (2022, 2023, 2024, 2025)
+    lt debt: LongTermDebtNoncurrent (2022, 2023, 2024, 2025)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD millions; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        sum
+    2022-12-31       2,720      2,720
+    2023-12-31       1,791      1,791
+    2024-12-31       2,582      2,582
+    2025-12-31       2,555      2,555
+    d1 = us-gaap:LongTermDebtNoncurrent
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

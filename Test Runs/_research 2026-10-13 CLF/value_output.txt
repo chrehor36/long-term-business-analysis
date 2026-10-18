@@ -1,0 +1,17 @@
+2020 owner cash eq-only before purchases -876  all-equity -748  acq 1527  OC/rev -16.4%
+2021 owner cash eq-only before purchases 1906  all-equity 2130  acq 707  OC/rev 9.3%
+2022 owner cash eq-only before purchases 1282  all-equity 1469  acq 31  OC/rev 5.6%
+2023 owner cash eq-only before purchases 1421  all-equity 1613  acq -35  OC/rev 6.5%
+2024 owner cash eq-only before purchases -737  all-equity -546  acq 2512  OC/rev -3.8%
+2025 owner cash eq-only before purchases -1223  all-equity -879  acq -53  OC/rev -6.6%
+5yr window 2021-25: eq-only 530 all-equity 758; with acquisitions deducted eq -103 ae 125
+cycle 2020-25: eq-only 296 all-equity 506; with acq deducted eq -486 ae -275
+serial test window: net purchases 3162 vs half of owner cash before purchases 1324
+halves: first 2021-22 1594, second 2024-25 -980
+D&A variant window eq-only 222
+net debt 8035  market cap 7337  EV 15372
+cycle base all-equity        OC 506  value@5.6% $1.77/sh  value@10% $-5.21/sh  yield at price 3.3%
+literal window all-equity    OC 758  value@5.6% $9.63/sh  value@10% $-0.81/sh  yield at price 4.9%
+cycle base eq-only           OC 296  value@5.6% $9.25/sh  value@10% $5.18/sh  yield at price 4.0%
+literal window eq-only       OC 530  value@5.6% $16.58/sh  value@10% $9.29/sh  yield at price 7.2%
+owner cash before interest needed for 10% on EV at the price: 1537

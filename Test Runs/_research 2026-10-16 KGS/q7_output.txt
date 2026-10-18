@@ -1,0 +1,25 @@
+year   OCF   SBC  capex  proc  int   dep  | A_eq   B_eq   A_ae   B_ae   rev   A_ae/rev
+2021  277.2   3.2  245.3   1.3 169.1 225.4 |   30.0   48.6  163.6  182.2   910.6  18.0%
+2022  255.3   2.6  311.4  16.2 190.7 240.1 |  -42.5   12.6  108.2  163.3  1061.3  10.2%
+2023  328.5   7.4  277.7   7.8 270.0 247.8 |   51.2   73.3  264.5  286.6  1236.5  21.4%
+2024  328.0  17.7  337.0  35.0 147.1 245.8 |    8.3   64.5  124.5  180.7  1159.3  10.7%
+2025  599.7  24.5  315.5  30.2 168.7 259.2 |  289.9  316.0  423.2  449.3  1308.1  32.4%
+mean A_eq: 67.4
+mean B_eq: 103.0
+mean A_ae: 216.8
+mean B_ae: 252.4
+growth shown A_ae: end-years 26.8%  halves 26.3%;  sales growth combined 9.5%
+cap test: year-10 owner cash at shown rate 2242; at best share 32.4% needs sales 6930; sales at own growth 3235
+growth carried after the cut: 5.43%
+DPS owner cash all-equity 11.7, equity-only 5.8
+net debt 2661.9; EV at price 7495.6
+ALL-EQUITY whole-business: no-growth(maint) 4863  growth(all-spend) 6375
+  per share: 21.77 to 36.73  width 1.31:1 (whole business)
+  beside: all-spending no-growth 15.28; maintenance growth 46.74
+  at ten percent: 2641 and 3264; FAIR PRICE all-equity 2.87
+  floor test: best case at ten percent 3264 vs EV 7496
+EQUITY-ONLY: A_eq halves -6.3 and 149.1 (sign change: no-growth case alone)
+  no-growth maintenance 19.82/sh; all-spending beside 13.33/sh
+  FAIR PRICE equity-only 10.76/sh (all-spending at ten percent beside: 7.24)
+literal 3-yr window (run.py, Kodiak only, after interest): 16.61 and 25.90 per share at no growth
+filer-definition maintenance, all-equity, 2024-25: 301.5, 569.7; no-growth per share on their mean 55.14

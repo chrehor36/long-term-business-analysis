@@ -1,0 +1,39 @@
+Owner cash by year (all-equity = OCF - interest&div received + interest paid - capex; equity-only = OCF - capex)
+  FY2015: all-equity    51,466  equity-only    52,919  all-equity/sales   8.4%
+  FY2016: all-equity    -7,728  equity-only    -6,475  all-equity/sales  -1.3%
+  FY2017: all-equity   -38,458  equity-only   -36,709  all-equity/sales  -7.5%
+  FY2018: all-equity   -41,137  equity-only   -40,194  all-equity/sales -12.0%
+  FY2019: all-equity   -35,199  equity-only   -34,479  all-equity/sales  -9.1%
+  FY2020: all-equity   -23,582  equity-only   -22,955  all-equity/sales  -7.5%
+  FY2021: all-equity   -27,586  equity-only   -27,730  all-equity/sales  -8.9%
+  FY2022: all-equity    40,646  equity-only    41,373  all-equity/sales   9.4%
+  FY2023: all-equity    56,830  equity-only    58,861  all-equity/sales  11.2%
+  FY2024: all-equity    42,963  equity-only    47,153  all-equity/sales   9.4%
+  FY2025: all-equity    18,701  equity-only    23,786  all-equity/sales   3.8%
+Literal five-year window FY2021-FY2025: sum 131,554 avg 26,311
+Cycle base FY2016-FY2023 (after the FY2015 peak through the FY2023 peak): sum -76,214 avg -9,527
+  beside: FY2015-FY2022: avg -10,197; eleven years FY2015-FY2025: avg 3,356
+Equity-only cycle base FY2016-FY2023 avg -8,538
+Net cash 2026-06-30: 169,668 + 4,365 - 2,397 = 171,636; preferred claim 32,248; NCI 2,188
+Market value of common 159,916; EV (common + preferred + NCI - net cash) = 22,717
+
+CENTRAL (all-equity, cycle base, no growth alone: one full cycle only, growth between cycles not measurable)
+  value of operations at 4.02%: -236,984 -> per share -385 yen
+  fair price (operations at 10%): -95,268 -> per share 162 yen
+  beside, excess advances 140,226 deducted: value -926; fair -379 yen
+  equity-only: base -8,538; value at sovereign -952; fair -462 yen
+  expected return at the price on operations (all-equity): base / EV = -41.9%
+
+BESIDE: literal five-year window
+  halves FY2021-22 avg 6,530 vs FY2024-25 avg 30,832: shown rate 67.8% a year (sign change between end years)
+  carried ten years that rate needs owner cash of 4,646,177, against a highest all-equity owner cash/sales of 11.2%: cut (f)
+  sales growth FY2021-FY2025 12.3%; carried rate never above the discount rate: 4.02%
+  no-growth: value 3,055; growth: value 4,070 yen per share
+  fair (both ends at 10%, averaged): 1,705 yen
+  beside, excess advances deducted: no-growth 2,514; growth 3,529
+
+BESIDE: eleven-year average 3,356: value 851; fair 659; with excess advances deducted value 310 yen
+
+BESIDE: preferred converted at 2029-07: unpaid about 150.0 yen; 355M new common; diluted 614M
+  central fair on the diluted count (no preferred claim deducted): 121 yen; at the sovereign -110 yen
+Increase in contract liabilities inside the literal window: 98,923 of owner cash 131,554

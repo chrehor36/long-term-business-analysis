@@ -1699,18 +1699,252 @@
    "ticker": "MTSUY",
    "currency": "USD",
    "op": "<=",
-   "threshold": 39.92,
+   "threshold": 9.58,
    "active": true,
-   "label": "MTSUY at/below $39.92 an ADS (one share per ADS; the run's USDJPY 158.06; \u00a56,310 a share): the top of the computed all-equity range of the blind v5 run of 2026-10-12, TOO HARD (NATURE) at Q1 on the commodity question that the case of 2026-10-12 has since placed at Q7. The operator chose not to re-run; a price below this level is the re-look condition (register note 2026-10-12). A prompt to re-run, never a verdict."
+   "label": "MTSUY at/below $9.58 an ADS (\u00a51,515 a share at the run's USDJPY 158.06): the all-equity fair price computed beneath the stop in the blind v5 run of 2026-10-12. CORRECTED 2026-10-18: this alert sat at $39.92, the top of the run's range at the long JGB rate, which the price ($29.20 at the run) was already below, so it fired on 2026-10-18 without any change in the business or price. The re-look condition is the fair price, as for every other alert. A prompt to re-run, never a verdict."
   },
   {
    "id": "MARUY-v5-relook",
    "ticker": "MARUY",
    "currency": "USD",
    "op": "<=",
-   "threshold": 27.78,
+   "threshold": 3.77,
    "active": true,
-   "label": "MARUY at/below $27.78 an ADS (one share per ADS; the run's USDJPY 158.06; \u00a54,391 a share): the top of the computed all-equity range of the blind v5 run of 2026-10-12, TOO HARD (NATURE) at Q2 on the commodity question that the case of 2026-10-12 has since placed at Q7. The operator chose not to re-run; a price below this level is the re-look condition (register note 2026-10-12). A prompt to re-run, never a verdict."
+   "label": "MARUY at/below $3.77 an ADS (\u00a5596 a share at the run's USDJPY 158.06): the all-equity fair price computed beneath the stop in the blind v5 run of 2026-10-12. CORRECTED 2026-10-18: this alert sat at $27.78, the top of the run's range at the long JGB rate, two dollars under the price; the re-look condition is the fair price, as for every other alert. A prompt to re-run, never a verdict."
+  },
+  {
+   "id": "SIEGY-v5-fair",
+   "ticker": "SIEGY",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 59.14,
+   "active": true,
+   "label": "SIEGY v5 fair price, all-equity, per ADS (one-half share) at the run's EUR/USD of 1.1187: $59.14 (EUR 105.73 a Xetra share; equity-only EUR 138.12, ADS $77.26). Run 2026-10-13 (Test Runs/2026-10-13 Run - SIEGY Siemens AG.md; OUT at Q7 at EUR 272.10). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "STLD-v5-fair",
+   "ticker": "STLD",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 120.05,
+   "active": true,
+   "label": "STLD v5 fair price, all-equity: $120.05 a share (equity-only $140.49). Run 2026-10-13 (Test Runs/2026-10-13 Run - STLD Steel Dynamics.md; OUT at Q7 at $240.63). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "MAR-v5-fair",
+   "ticker": "MAR",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 45.91,
+   "active": true,
+   "label": "MAR v5 fair price, all-equity: $45.91 a share (equity-only $90.83). Run 2026-10-14 (Test Runs/2026-10-14 Run - MAR Marriott International.md; OUT at Q7 at $371.50; value range $90.30 to $199.82 at the 5.56% Treasury). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "HLT-v5-fair",
+   "ticker": "HLT",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 27.98,
+   "active": true,
+   "label": "HLT v5 fair price, all-equity: $27.98 a share (equity-only $61.49). Run 2026-10-14 (Test Runs/2026-10-14 Run - HLT Hilton Worldwide Holdings.md; OUT at Q7 at $329.59; value range $56.50 to $147.79 at the 5.56% Treasury). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "CHH-v5-fair",
+   "ticker": "CHH",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 4.46,
+   "active": true,
+   "label": "CHH v5 fair price, all-equity: $4.46 a share (equity-only $39.76). Run 2026-10-14 (Test Runs/2026-10-14 Run - CHH Choice Hotels International.md; OUT at Q7 at $103.88; value range $23.63 to $60.29 at the 5.56% Treasury). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "WH-v5-fair",
+   "ticker": "WH",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 5.96,
+   "active": true,
+   "label": "WH v5 fair price, all-equity: $5.96 a share (equity-only $30.25). Run 2026-10-14 (Test Runs/2026-10-14 Run - WH Wyndham Hotels & Resorts.md; OUT at Q7 at $73.42; value range $34.94 to $42.59 at the 5.56% Treasury). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "HGV-v5-fair",
+   "ticker": "HGV",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 25.77,
+   "active": true,
+   "label": "HGV v5 fair price, all-equity: $25.77 a share (equity-only $60.64). Run 2026-10-14 (Test Runs/2026-10-14 Run - HGV Hilton Grand Vacations.md; OUT at Q7 at $35.18; value range $94.23 to $95.63 at the 5.56% Treasury, no case earning the floor). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "H-v5-fair",
+   "ticker": "H",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 30.28,
+   "active": true,
+   "label": "H v5 fair price, organic pair, all-equity: $30.28 a share (equity-only $51.02); the central default-pair fair price is -$7.19, not positive. Run 2026-10-14 (Test Runs/2026-10-14 Run - H Hyatt Hotels.md; OUT at Q7 at $162.92; central value range -$2.68 to $40.14, organic pair $57.35 to $125.14, at the 5.56% Treasury, no case earning the floor). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "HTHT-v5-fair",
+   "ticker": "HTHT",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 14.08,
+   "active": true,
+   "label": "HTHT v5 fair price, all-equity: US$14.08 per ADS (US$1.408 per ordinary share; equity-only US$9.87 per ADS). Run 2026-10-14 (Test Runs/2026-10-14 Run - HTHT H World Group.md; OUT at Q7 at US$44.17; central value range US$37.59 to 91.53 per ADS, organic pair, at the 2.06% RMB 30-year, no case earning the floor). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "WAB-v5-fair",
+   "ticker": "WAB",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 72.2,
+   "active": true,
+   "label": "WAB v5 fair price, all-equity: $72.20 a share (equity-only $94.39). Run 2026-10-16 (Test Runs/2026-10-16 Run - WAB Wabtec.md; OUT at Q7 at $287.32; value range $104.21 to $245.51 at the 5.43% Treasury). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "KAI-v5-fair",
+   "ticker": "KAI",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 88.0,
+   "active": true,
+   "label": "KAI v5 fair price, all-equity: $88 a share (equity-only $113). Run 2026-10-16 (Test Runs/2026-10-16 Run - KAI Kadant.md; OUT at Q7 at $264.15; value range $162 to $224 at the 5.43% Treasury, the organic pair). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "ALFVY-v5-fair",
+   "ticker": "ALFA.ST",
+   "currency": "SEK",
+   "op": "<=",
+   "threshold": 187.17,
+   "active": true,
+   "label": "ALFVY (Alfa Laval AB; alert on the Nasdaq Stockholm share ALFA.ST in kronor) at/below SEK 187.17: the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-17 (Test Runs/2026-10-17 Run - ALFVY Alfa Laval.md; OUT at Q7 at SEK 576.40; SEK 211.78 equity-only; 2021-2025 owner-cash window, organic pair). Set by hand at the fold because tools/v5_rerun_fold.py arms alerts in USD on the register ticker. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "BCKIY-v5-fair",
+   "ticker": "BAB.L",
+   "currency": "GBp",
+   "op": "<=",
+   "threshold": 427.0,
+   "active": true,
+   "label": "BCKIY (Babcock International Group PLC; alert on the London ordinary share BAB.L in pence) at/below 427p (GBP 4.27): the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-17 (Test Runs/2026-10-17 Run - BCKIY Babcock International Group.md; OUT at Q7 at 961.8p; 440p equity-only; FY23-FY26 owner-cash base, FY22 aberrational). Set by hand at the fold because tools/v5_rerun_fold.py arms alerts in USD on the register ticker. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "HWDJY-v5-fair",
+   "ticker": "HWDN.L",
+   "currency": "GBp",
+   "op": "<=",
+   "threshold": 499.0,
+   "active": true,
+   "label": "HWDJY (Howden Joinery Group Plc; alert on the London ordinary share HWDN.L in pence; one ADS is four ordinaries) at/below 499p (US$26.43 an ADS): the fair price on the all-equity basis of the blind v5 purchase run of 2026-10-17 (Test Runs/2026-10-17 Run - HWDJY Howden Joinery Group.md; OUT at Q7 at 788p; 503p equity-only; value range 780p to 1,044p at the 5.7225% Bank of England 20-year). Set by hand at the fold because tools/v5_rerun_fold.py arms alerts in USD on the register ticker. A prompt to re-run Q7, never a verdict."
+  },
+  {
+   "id": "ENGGY-v5-fair",
+   "ticker": "ENGGY",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 4.75,
+   "active": true,
+   "label": "ENGGY v5 fair price, all-equity, per ADS (two ADSs per share) at the ECB rate of 1.1253 (2026-10-16): $4.75 (EUR 8.45 a share; equity-only EUR 16.78, ADS $9.44). Run 2026-10-17 (Test Runs/2026-10-17 Run - ENGGY Enagas.md; OUT at Q7 at EUR 16.81). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "XNGSY-v5-fair",
+   "ticker": "XNGSY",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 12.11,
+   "active": true,
+   "label": "XNGSY v5 fair price, all-equity, per ADS (four ordinaries per ADS) at CFETS USD/CNY 6.7220 (2026-10-16): $12.11 (RMB 20.35, HK$23.76 a share; equity-only ADS $16.54). Run 2026-10-18 (Test Runs/2026-10-18 Run - XNGSY ENN Energy Holdings.md; OUT at Q7 at HK$50.15, ADS $25.54). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "HOKCY-v5-fair",
+   "ticker": "HOKCY",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 0.037,
+   "active": true,
+   "label": "HOKCY v5 fair price, all-equity, per ADS (one ordinary per ADS) at HK$1 = US$0.12742 (2026-10-16/18, aggregator): $0.037 (HK$0.29 a share; equity-only ADS $0.261). Run 2026-10-18 (Test Runs/2026-10-18 Run - HOKCY Hong Kong and China Gas.md; OUT at Q7 at HK$7.215, ADS $0.86). Reporting figure, a prompt to re-run Q7, not a buy signal."
+  },
+  {
+   "id": "AXIAY-v5-fair",
+   "ticker": "AXIAY",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 1.13,
+   "active": true,
+   "label": "AXIAY v5 fair price, all-equity, per ADS (one share per ADS) at PTAX 5.0826 (2026-10-16): $1.13 (R$ 5.75 a share; equity-only R$ 16.42, ADS $3.23). Run 2026-10-18 (Test Runs/2026-10-18 Run - AXIAY AXIA Energia.md; OUT at Q7 at R$ 59.49, ADS US$ 11.63; central value range -R$ 7.37 to R$ 0.73 at the 12.87% NTN-F 2037). Not a buy: any price below fair is read as cheap by the operator; a hit means re-run."
+  },
+  {
+   "id": "ATO-v5-fair",
+   "ticker": "ATO",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 33.59,
+   "active": true,
+   "label": "ATO v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $33.59, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-17 (Test Runs/2026-10-17 Run - ATO Atmos Energy.md; OUT at Q7 at $167.34). Reporting figure; a hit means re-run under the paragraph, not a buy."
+  },
+  {
+   "id": "CPK-v5-fair",
+   "ticker": "CPK",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 42.39,
+   "active": true,
+   "label": "CPK v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $42.39, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-17 (Test Runs/2026-10-17 Run - CPK Chesapeake Utilities.md; OUT at Q7 at $132.18). Reporting figure; a hit means re-run under the paragraph, not a buy."
+  },
+  {
+   "id": "MDU-v5-fair",
+   "ticker": "MDU",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 3.86,
+   "active": true,
+   "label": "MDU v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $3.86, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - MDU MDU Resources Group.md; OUT at Q7 at $19.00). Reporting figure; a hit means re-run under the paragraph, not a buy."
+  },
+  {
+   "id": "NJR-v5-fair",
+   "ticker": "NJR",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 8.03,
+   "active": true,
+   "label": "NJR v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $8.03, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - NJR New Jersey Resources.md; OUT at Q7 at $52.19). Reporting figure; a hit means re-run under the paragraph, not a buy."
+  },
+  {
+   "id": "UGI-v5-fair",
+   "ticker": "UGI",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 16.2,
+   "active": true,
+   "label": "UGI v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $16.20, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - UGI UGI Corporation.md; OUT at Q7 at $38.43). Reporting figure; a hit means re-run under the paragraph, not a buy."
+  },
+  {
+   "id": "LNT-v5-fair",
+   "ticker": "LNT",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 17.1,
+   "active": true,
+   "label": "LNT v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $17.10, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - LNT Alliant Energy.md; OUT at Q7 at $68.32). Reporting figure; a hit means re-run under the paragraph, not a buy."
+  },
+  {
+   "id": "AEE-v5-fair",
+   "ticker": "AEE",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 31.39,
+   "active": true,
+   "label": "AEE v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $31.39, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - AEE Ameren.md; OUT at Q7 at $106.08). Reporting figure; a hit means re-run under the paragraph, not a buy."
+  },
+  {
+   "id": "AVA-v5-fair",
+   "ticker": "AVA",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 3.21,
+   "active": true,
+   "label": "AVA v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $3.21, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - AVA Avista.md; OUT at Q7 at $36.67). Reporting figure; a hit means re-run under the paragraph, not a buy."
   }
  ]
 }

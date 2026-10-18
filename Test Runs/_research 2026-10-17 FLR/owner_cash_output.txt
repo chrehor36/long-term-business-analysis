@@ -1,0 +1,17 @@
+COMPUTATION, NOT A CLEARANCE (computed while gathering, before Q2 was written; see the run file self-audit)
+year   OCF  owner-cash(eq-only,literal)  core  core,all-equity  core,all-eq,+Santos  core,all-eq,JV-net  OC/revenue(core,all-eq)
+2016     706       372       372       414       414       nan   2.17%
+2017     602       231       231       263       263       nan   1.77%
+2018     162      -155      -155      -123      -123       nan  -0.65%
+2019     219       -32       -32       -23       -23       nan  -0.15%
+2020     186        28        28        64        64       nan   0.41%
+2021      25      -191       -92       -34       -34      -114  -0.24%
+2022      31      -123        26        -2        -2       -36  -0.01%
+2023     212         5       188        56        56        31   0.36%
+2024     828       619       701       583       583       524   3.57%
+2025    -387      -531      -531      -584        58      -840  -3.77%
+window 2021-2025       eq-only literal   -44.2 | core eq-only    58.5 | core all-equity     3.6 | +Santos   132.0
+ten years 2016-2025    eq-only literal    22.3 | core eq-only    73.6 | core all-equity    61.3 | +Santos   125.5
+cycle 2017-2024        eq-only literal    47.8 | core eq-only   111.9 | core all-equity    97.9 | +Santos    97.9
+window, core all-equity, JV net deducted: -87.2
+highest OC/revenue in years read (core, all-equity): 3.57 %

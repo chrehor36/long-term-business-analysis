@@ -1,0 +1,30 @@
+year  OCF  ownercash(lev)  unlevered  ex-loyalty  netpurch  capex_org  fees  OCu/fees
+2017 2227 1839 2029 1731 -1418 240 3295 62%
+2018 2357 1897 2139 1619 -224 301 3638 59%
+2019 1685 1153 1433 1176 -61 319 3823 37%
+2020 1639 1213 1531 996 -260 135 1683 91%
+2021 1177 796 1094 1122 -12 183 2694 41%
+2022 2363 1873 2160 2279 -1 332 4078 53%
+2023 3170 2530 2937 2636 30 452 4824 61%
+2024 2749 2288 2786 2272 510 550 5170 54%
+2025 3212 2369 2952 2479 341 604 5438 54%
+cycle 2019-25 unlevered avg 2127; literal window 2021-25 2386; levered cycle 1746; window levered 1971
+ex-loyalty cycle 1851; net purchases/yr cycle 78, window 174; capex_org cycle 368
+pre 2017-19 1867, post 2023-25 2891, growth between them 7.56%; fee growth same halves 6.20%
+literal end-year growth 2021-25 28.17% (meaningless: 2021 trough)
+cap check: yr10 owner cash / yr10 fees = 44% vs highest share 91%
+bottom (maint-only, no growth) EV 40381; all-spending no growth 38261; top (growth 7.56%) EV 68939
+bottom per share 90.30
+top per share 199.82
+all-spend no-growth per share 82.17
+width 2.21x on equity; 1.71x on EV
+market cap 96875, EV 113709; yield on EV of cycle base 1.87%, of 2025 2.60%
+expected return at price: top case 3.56% (purchases ignored, generous), bottom case 1.97%
+fair all-equity: lo 22452 hi 35161 -> 45.91/sh
+fair equity-only 90.83/sh; equity-only range 128.55 to 216.39
+literal window range per share 112.00 to 228.25
+ex-loyalty-float range per share 71.25 to 165.07
+growth needed for 10 years (then flat) to earn 10% at the price: 23.95%
+at 10%: bottom EV 22452 (21.54/sh), top EV 35161 (70.28/sh)
+net debt used 16834; shares 260.766M; price 371.5
+equity-only basis: levered cycle owner cash 1746, maintenance-adjusted 1864; market cap 96875; yield 1.80%

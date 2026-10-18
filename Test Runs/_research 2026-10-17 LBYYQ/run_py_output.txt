@@ -1,0 +1,81 @@
+price fetch failed: HTTP Error 404: Not Found -> PLACEHOLDER price 1.00 so the filed-figure arithmetic prints; every price-based line below is void
+==============================================================================
+LIBBEY INC  (LBYYQ)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.43%   10/16/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     1.00 USD   PLACEHOLDER   (aggregator — live quote only)
+  shares    22.5M      market cap 0.02B USD
+  share basis: --shares, supplied by the operator
+
+  OWNER EARNINGS   mean of 5 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2015-12-31       69.7      5.9      42.7       48.1        15.6        21.1
+    2016-12-31       83.9      4.8      48.5       34.6        44.5        30.7
+    2017-12-31       45.3      3.5      45.5       47.6        -5.8        -3.7
+    2018-12-31       36.9      2.8      44.3       45.1       -11.0       -10.3
+    2019-12-31       63.4      3.2      39.0       31.2        29.0        21.2
+          mean                                                 14.5        11.8
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: capex basis in 2015, 2017, 2018; D&A basis in 2016, 2019
+  mean of the year-by-year lower: 10.1;  of the higher: 16.1  (lines 2 and 3 below use these)
+  SBC tag by year: 2015 ShareBasedCompensation; 2016 ShareBasedCompensation; 2017 ShareBasedCompensation; 2018 ShareBasedCompensation; 2019 ShareBasedCompensation
+  capex tag by year: 2015 PaymentsToAcquirePropertyPlantAndEquipment; 2016 PaymentsToAcquirePropertyPlantAndEquipment; 2017 PaymentsToAcquirePropertyPlantAndEquipment; 2018 PaymentsToAcquirePropertyPlantAndEquipment; 2019 PaymentsToAcquirePropertyPlantAndEquipment
+  ** The window's last year, 2019-12-31, is over 18 months old. Later years may be filed under
+     another taxonomy (US GAAP to IFRS) or other elements; read the latest annual report. **
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0001437749-20-003729, 0000902274-19-000033, 0000902274-18-000027
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (3-yr, 3 yrs of data)   OE capex 4.1  OE D&A 2.4   yield 18.10% (capex) 10.62% (D&A)
+  DIVERGENCE vs the 5-yr window: -85.7% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis 64.35%   D&A basis 52.34%   vs sovereign 5.43%
+  2. GROWTH THE PRICE ASSUMES  -50.0%  (at a 5.43% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN +43.74 (lower mean) .. +71.28 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD thousands; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2010-12-31       818,971     807,705      11,266      76,258      92,101     148,146     169,340      23,134     443,983    -178,677
+    2011-12-31       790,151     762,371      27,780      58,291      88,045     145,859     166,572      21,200     393,168    -155,036
+    2012-12-31       802,176     777,700      24,476      67,208      80,850     157,549     166,572      20,222     461,884    -148,070
+    2013-12-31       829,990     699,181     130,809      42,208      94,549     163,121     167,379      19,325     406,512    -119,611
+    2014-12-31       828,930     751,476      77,454      60,044      91,106     169,828     164,112      17,771     436,264    -114,648
+    2015-12-31       852,444     704,062     148,382      49,044      94,379     178,027     164,112      16,364     426,272     -57,912
+    2016-12-31       818,169     673,050     145,119      61,011      85,113     170,009     164,112      15,225     402,831     -59,625
+    2017-12-31       717,239     650,345      66,894      24,696      89,997     187,886      84,412      14,565     376,905    -161,165
+    2018-12-31       714,175     664,282      49,893      25,066      83,977     192,103      84,412      13,385     393,300    -171,441
+    2019-12-31       706,687     732,474     -25,787      48,918      79,829     174,797      38,431      11,875     375,716    -240,460
+    accessions: 0000902274-12-000007, 0000902274-13-000007, 0000902274-14-000007, 0000902274-15-000081, 0000902274-16-000250, 0000902274-17-000034, 0000902274-18-000027, 0000902274-19-000033, 0001437749-20-003729
+    equity: StockholdersEquity (2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019)
+    lt debt: LongTermDebtNoncurrent (2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD thousands; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        sum
+    2010-12-31       3,142   443,983    447,125
+    2011-12-31       3,853   393,168    397,021
+    2012-12-31       4,583   461,884    466,467
+    2013-12-31       5,391   406,512    411,903
+    2014-12-31       7,658   436,264    443,922
+    2015-12-31       4,747   426,272    431,019
+    2016-12-31       5,009   402,831    407,840
+    2017-12-31       7,485   376,905    384,390
+    2018-12-31       4,400   393,300    397,700
+    2019-12-31      16,124   375,716    391,840
+    d1 = us-gaap:LongTermDebtCurrent
+    d2 = us-gaap:LongTermDebtNoncurrent
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

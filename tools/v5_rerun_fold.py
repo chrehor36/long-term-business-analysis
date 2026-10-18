@@ -12,6 +12,9 @@ batch.json: {"batch": "<label>", "date": "YYYY-MM-DD", "runs": [{"t": TICKER, "n
  "box": "OUT AT Q7, ON PRICE" (or the run's box in capitals), "entry": "<register text after the bold head>",
  "narr": "<one narrative line>", "fair": number or null, "fair_label": "<alert label>"}]}
 A name that is not in `Screens/_daily/_v5_rerun_order.txt` is still folded, but remove it from the done file after.
+A re-run of a name already folded under v5 carries "rerun": true (the duplicate check is skipped and its fair alert
+replaced) and, where its order-file key differs from the ticker (e.g. "OGS-U"), "key": "<that key>" for the done file
+(added 2026-10-18 for the regulated-utility re-runs).
 """
 
 import json, os, re, sys
@@ -28,7 +31,8 @@ s, nl = load(R)
 anchor = nl + "## THE WRITE-EARLY PROTOCOL"; assert s.count(anchor) == 1
 blk = [f"### v5 RE-RUN BATCH {tag}, {date} (the operator's instruction of 2026-10-07; `Screens/_daily/_v5_rerun_order.txt`)"]
 for r in runs:
-    assert ("- **" + r["t"] + " (") not in s[s.index("### v5 RE-RUN BATCH"):] if "### v5 RE-RUN BATCH" in s else True, r["t"]
+    if not r.get("rerun"):
+      assert ("- **" + r["t"] + " (") not in s[s.index("### v5 RE-RUN BATCH"):] if "### v5 RE-RUN BATCH" in s else True, r["t"]
     blk.append(f"- **{r['t']} ({r['name']}), {date} - {r['box']}. v5, blind, dispatched under the canonical brief.** "
                f"`Test Runs/{r['file']}`. {r['entry']}")
 blk.append("")
@@ -36,7 +40,7 @@ s = s.replace(anchor, nl + nl.join(blk) + anchor, 1); save(R, s)
 
 D = ROOT + r"\Screens\_daily\_v5_rerun_done.txt"
 s, nl = load(D); s = s if s.endswith(nl) else s + nl
-save(D, s + nl.join(r["t"] for r in runs) + nl)
+save(D, s + nl.join(r.get("key", r["t"]) for r in runs) + nl)
 
 L = ROOT + r"\Screens\2026-08-31 PREPPED READING LIST (operator lists).md"
 s, nl = load(L); s = s if s.endswith(nl) else s + nl
@@ -64,9 +68,9 @@ s = open(R, encoding="utf-8").read()
 a0 = re.search(r"^## COMPLETED FROM THE QUEUE", s, re.M).start(); b0 = re.search(r"^## THE WRITE-EARLY PROTOCOL", s, re.M).start()
 latest = {}
 for h in s[a0:b0].split("\n"):
-    m = re.match(r"- \*\*([A-Z][A-Z0-9.\-]*) \(([^)]*)\),? (2026-\d\d-\d\d)", h)
+    m = re.match(r"- \*\*([A-Z][A-Z0-9.\-]*) \((.*?)\),? (2026-\d\d-\d\d)", h)  # lazy since 2026-10-18: names with their own parentheses
     if not m: continue
-    t, n, dt = m.groups(); t = norm(t); u = h[:400].upper()
+    t, n, dt = m.groups(); t = norm(t); u = h.split("** `")[0][:3000].upper()  # the bold head (was the first 400 characters until 2026-10-18)
     v5 = dt >= "2026-10-05"
     if not v5: continue
     passed = bool(re.search(r"OUT AT Q7|\bIN AT Q7|BOX:? IN\b", u))

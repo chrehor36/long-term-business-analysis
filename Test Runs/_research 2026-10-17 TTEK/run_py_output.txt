@@ -1,0 +1,87 @@
+==============================================================================
+TETRA TECH INC  (TTEK)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.43%   10/16/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     34.72 USD   2026-10-16   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                256.044M  as of 2026-07-20  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                                 256.044M  as of 2026-06-28  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)      256.044M  as of 2026-06-28  (CommonStockSharesIssued)
+  shares    256.0M      market cap 8.89B USD
+  share basis: dei cover-page count as of 2026-07-20 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-10-01      368.5     28.6      61.2       26.9       313.0       278.6
+    2024-09-29      358.7     31.2      73.7       18.1       309.4       253.9
+    2025-09-28      457.7     33.9      58.3       18.6       405.1       365.4
+          mean                                                342.5       299.3
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: D&A basis in 2023, 2024, 2025
+  mean of the year-by-year lower: 299.3;  of the higher: 342.5  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 ShareBasedCompensation; 2024 ShareBasedCompensation; 2025 ShareBasedCompensation
+  capex tag by year: 2023 PaymentsToAcquirePropertyPlantAndEquipment; 2024 PaymentsToAcquirePropertyPlantAndEquipment; 2025 PaymentsToAcquirePropertyPlantAndEquipment
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0000831641-25-000032, 0000831641-24-000063, 0000831641-23-000082
+    2023-10-01  other capital payment (not in capex)  us-gaap:FinanceLeasePrincipalPayments (financing section)  5.6
+    2024-09-29  other capital payment (not in capex)  us-gaap:FinanceLeasePrincipalPayments (financing section)  6.5
+    2025-09-28  other capital payment (not in capex)  us-gaap:FinanceLeasePrincipalPayments (financing section)  7.8
+
+        FY end  OCF filed OCF ex-sec  SBC+other    capex  capex alt  OE capex alt  OE D&A alt
+    2023-10-01      368.5      368.5       28.6     26.9       32.5         307.4       278.6
+    2024-09-29      358.7      358.7       31.2     18.1       24.7         302.9       253.9
+    2025-09-28      457.7      457.7       33.9     18.6       26.5         397.3       365.4
+          mean                                                              335.8       299.3
+  OCF ex-sec = OCF as filed less the securities lines' and PIK interest's effect; SBC+other = the SBC column plus
+  the other stock-pay lines; capex alt = capex plus the other capital payments. The columns
+  above are AS FILED; these are the ALTERNATES. Neither is chosen here.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 319.9  OE D&A 287.7   yield 3.60% (capex) 3.24% (D&A)
+  DIVERGENCE vs the 3-yr window: -3.9% on the lower of the two bases
+
+  1. THE YIELD                 capex basis  3.85%   D&A basis  3.37%   vs sovereign 5.43%
+  2. GROWTH THE PRICE ASSUMES   -1.1%  (at a 5.43% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN +0.60 (lower mean) .. +1.11 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets      equity        cash receivables    goodwill intangibles     lt debt    retained
+    2016-10-02         1,801         869         160         714         718          49           -         736
+    2017-10-01         1,903         928         190         789         741          27           -         833
+    2018-09-30         1,959         967         146         837         799          16           -         945
+    2019-09-29         2,147         989         121         769         925          16         264       1,071
+    2020-09-27         2,379       1,037         158         649         993          14         242       1,199
+    2021-10-03         2,577       1,234         167         669       1,109          38         200       1,359
+    2022-10-02         2,623       1,183         185         755       1,110          29         246       1,391
+    2023-10-01         3,820       1,403         169         975       1,880         174         880       1,598
+    2024-09-29         4,193       1,830         233       1,051       2,047         161         813       1,871
+    2025-09-28         4,282       1,780         167       1,159       2,050         121         763       1,873
+    accessions: 0000831641-17-000022, 0000831641-18-000097, 0000831641-19-000193, 0000831641-20-000154, 0000831641-21-000110, 0000831641-22-000123, 0000831641-23-000082, 0000831641-24-000063, 0000831641-25-000032, 0001047469-16-016906
+    equity: StockholdersEquity (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+    intangibles: IntangibleAssetsNetExcludingGoodwill (2016, 2017, 2018, 2019); FiniteLivedIntangibleAssetsNet (2020, 2021, 2022, 2023, 2024, 2025)
+    lt debt: LongTermDebtNoncurrent (2019, 2020, 2021, 2022, 2023, 2024, 2025)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD millions; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        d3        sum
+    2019-09-29         264         -        12        276*
+    2020-09-27         242       292        49        583
+    2021-10-03         200       212        13        425
+    2022-10-02         246       259        13        518
+    2023-10-01         880       880         0      1,759
+    2024-09-29         813       813         -      1,625*
+    2025-09-28         763         -         -        763*
+    d1 = us-gaap:LongTermDebtNoncurrent
+    d2 = us-gaap:LongTermDebt
+    d3 = us-gaap:DebtCurrent
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

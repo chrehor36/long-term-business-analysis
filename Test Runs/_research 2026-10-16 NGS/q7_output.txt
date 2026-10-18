@@ -1,0 +1,13 @@
+cycle base 2014-2025 (maint=D&A, all-equity): 9.65; previous cycle 2009-2014: 17.10; growth between cycles -6.9%/yr
+window 2021-2025 (maint=D&A, all-equity): 16.41; per year 2021 1.4, 2022 2.0, 2023 -5.0, 2024 47.8, 2025 35.8
+window all-spending all-equity mean: -42.41; filer-maintenance 2024-25 mean 64.28 ({'2024': 67.77326, '2025': 60.78747})
+Flatrock all-equity 4.45; after its financing -1.13
+EV at price 727.2; market cap 399.3; net debt 327.9
+central top: cycle base, no growth: cash 14.10  EV@5.43% 259.6 -> $-5.29/sh ; EV@10% 141.0 -> $-14.49/sh ; yield on EV at price 1.9%
+central bottom: cycle base, decline between cycles: cash 14.10  EV@5.43% 150.6 -> $-13.75/sh ; EV@10% 89.6 -> $-18.48/sh ; yield on EV at price 1.9%
+window beside: 2021-25, no growth (growth meaningless, (b)): cash 20.85  EV@5.43% 384.0 -> $4.35/sh ; EV@10% 208.5 -> $-9.26/sh ; yield on EV at price 2.9%
+filer-maintenance variant beside: 2024-25, no growth: cash 68.73  EV@5.43% 1265.7 -> $72.70/sh ; EV@10% 687.3 -> $27.86/sh ; yield on EV at price 9.5%
+FAIR (central, all-equity): $-16.48/sh
+equity-only cash (cycle base, after interest as paid) 5.84; at 10% no growth $4.53/sh; decline case $2.88/sh; fair $3.71/sh
+current after-tax interest on June-2026 debt 16.79; central all-equity cash less it -2.69
+cash needed for the floor at the price, no growth: 72.7 all-equity

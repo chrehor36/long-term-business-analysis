@@ -1,0 +1,20 @@
+year  rev    opinc  OCF   SBC   capex dep   defTx  OC_all  OC_maint  OC_all_taxN  OC_maint_taxN  int_at  OCall_eq  OCmaint_eq  OCall/rev
+2020  29984   3030  3906   145   407   489    491    3354     3272        2863          2781     -69     2932       2850    9.8%
+2021  26694   2114  2960   292  1099   542    507    1569     2126        1062          1619      -9     1071       1628    4.0%
+2022  31845   2875  2042   458   936   725   1136     648      859        -488          -277      -8     -480       -269   -1.5%
+2023  41168   4299  4405  2421  1281   850   -784     703     1134        1487          1918       6     1481       1912    3.6%
+2024  49012   9394  7521   636  1898   973    212    4987     5912        4775          5700     190     4585       5510    9.4%
+2025  54417  10291 10659  1081  2551  1086   1480    7027     8492        5547          7012     416     5131       6596    9.4%
+5-yr avg 2021-2025 oc_all: 2,987
+5-yr avg 2021-2025 oc_m: 3,705
+5-yr avg 2021-2025 oc_all_t: 2,477
+5-yr avg 2021-2025 oc_m_t: 3,194
+5-yr avg 2021-2025 oc_all_eq: 2,358
+5-yr avg 2021-2025 oc_m_eq: 3,076
+sales CAGR 2021-2025: 0.19489635092964663
+owner cash CAGR 2021-2025 oc_all_eq: 0.4794909489704089
+  halves (21-22 vs 24-25) oc_all_eq: 295 -> 4,858, rate over 3 yrs 154.3%
+owner cash CAGR 2021-2025 oc_m_eq: 0.41877494403449433
+  halves (21-22 vs 24-25) oc_m_eq: 679 -> 6,053, rate over 3 yrs 107.3%
+max owner cash / sales in window (all-equity, maint): 0.12121871592226315
+max owner cash / sales in window (all-equity, all spend): 0.09777445309234634

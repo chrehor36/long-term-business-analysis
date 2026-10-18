@@ -1,0 +1,18 @@
+2019 owner cash     3.7 before interest (after tax)     8.7 D&A basis before interest    12.1 acq    2.4
+2020 owner cash    25.4 before interest (after tax)    27.7 D&A basis before interest    12.1 acq    0.0
+2021 owner cash   -25.0 before interest (after tax)   -23.4 D&A basis before interest   -10.5 acq    0.0
+2022 owner cash    -2.3 before interest (after tax)     0.4 D&A basis before interest    28.7 acq    0.0
+2023 owner cash    19.9 before interest (after tax)    27.9 D&A basis before interest    16.1 acq   88.6
+2024 owner cash    72.3 before interest (after tax)    80.0 D&A basis before interest    61.1 acq    0.0
+2025 owner cash    22.7 before interest (after tax)    30.0 D&A basis before interest    10.0 acq  140.0
+H1-2026 owner cash   -17.1 before interest (after tax)   -11.9 D&A basis before interest     0.0 acq    0.0
+equity basis mean 2021-25 17.52  cycle 2020-25 18.83
+all-equity mean 2021-25 22.98  cycle 2020-25 23.76
+D&A-basis all-equity cycle 2020-25 19.57  2021-25 21.07
+net purchases 2021-25 228.547  owner cash before purchases 2021-25 87.6  serial acquirer: True
+default pair base (acq deducted) cycle -14.33  window -22.73
+net debt 134.72  mcap 354.5  EV 489.2
+capex, cycle: base 23.76  value at sovereign 437.6  per share 11.88  yield on EV 4.86%  fair at 10% 4.04
+capex, literal window: base 22.98  value at sovereign 423.2  per share 11.31  yield on EV 4.70%  fair at 10% 3.73
+D&A variant, cycle: base 19.57  value at sovereign 360.4  per share 8.85  yield on EV 4.00%  fair at 10% 2.39
+equity-only: base 18.83  fair at 10% per share 7.39  yield on mcap 5.31

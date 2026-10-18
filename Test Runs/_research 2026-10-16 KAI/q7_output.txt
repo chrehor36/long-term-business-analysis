@@ -1,0 +1,20 @@
+COMPUTATION, NOT A CLEARANCE. Raw output of scripts/q7.py, computed during the reading before Q1 to Q4 closed (operator rule 3); it carries no entry language and is read only at Q7 of the run file.
+
+FY2021: tax 0.242 owner cash equity-only   139.5  all-equity   142.7  after acquisitions    -1.3  OC/sales 0.181
+FY2022: tax 0.265 owner cash equity-only    64.2  all-equity    68.0  after acquisitions    64.5  OC/sales 0.075
+FY2023: tax 0.265 owner cash equity-only   122.8  all-equity   127.5  after acquisitions   126.6  OC/sales 0.133
+FY2024: tax 0.265 owner cash equity-only   121.1  all-equity   134.2  after acquisitions  -166.2  OC/sales 0.127
+FY2025: tax 0.278 owner cash equity-only   140.1  all-equity   149.5  after acquisitions   -40.5  OC/sales 0.142
+5-yr means: equity-only 117.6 all-equity 124.4 after-acq -3.4
+net purchases 638.7 vs owner cash before purchases 621.8 (serial acquirer if > half)
+organic revenue CAGR FY2021->FY2025: 0.0348
+reported revenue CAGR FY2021->FY2025: 0.0755
+all-equity: base 124.4  range EV 2290..3025  per share $162 .. $224  width 1.32
+   at 10%: $73 .. $102  fair (average) $88
+equity-only: base 117.6  range EV 2165..2860  per share $183 .. $242  width 1.32
+   at 10%: $100 .. $126  fair (average) $113
+depreciation variant, all-equity, 3-yr mean 140.9 vs capex basis same years 137.1
+EV at price 3495; expected return no-growth 0.0356, growth case 0.0473
+growth needed for 10%% at the price (ten years then flat): 0.1482
+default pair: after-acquisition means first half (FY21-22) 31.6 second half (FY24-25) -103.3, five-year mean -3.4
+Profil credited at its price paid (170.1) adds $14.4 a share

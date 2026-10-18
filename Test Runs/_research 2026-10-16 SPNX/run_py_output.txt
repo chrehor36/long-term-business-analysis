@@ -1,0 +1,72 @@
+price fetch failed: HTTP Error 404: Not Found
+==============================================================================
+SUPERIOR ENERGY SERVICES INC  (SPNX)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.43%   10/15/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     80.00 USD   placeholder-2025-01-29-cashout   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                 20.216M  as of 2024-10-29  (EntityCommonStockSharesOutstanding)  STALE, not used
+    balance-sheet count                                  20.216M  as of 2024-09-30  (CommonStockSharesOutstanding)  STALE, not used
+    balance-sheet ISSUED count (includes treasury)       20.216M  as of 2024-09-30  (CommonStockSharesIssued)  STALE, not used
+    split history: could not be read (HTTPError); check for a split after 2024-10-29 by hand
+  shares    20.2M      market cap 1.62B USD
+  share basis: STALE (717 days old; the newest filed) dei cover-page count as of 2024-10-29 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 5 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2018-12-31      165.1     31.5     264.2      221.4       -87.8      -130.6
+    2019-12-31      146.4     19.8       1.4      140.5       -13.9       125.2
+    2020-12-31        2.2      2.6     104.8       47.7       -48.1      -105.2
+    2022-12-31      175.4      4.8      87.6       65.8       104.8        83.0
+    2023-12-31      202.4      4.1      70.4       74.5       123.8       127.9
+          mean                                                 15.8        20.0
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: D&A basis in 2018, 2020, 2022; capex basis in 2019, 2023
+  mean of the year-by-year lower: -8.6;  of the higher: 44.4  (lines 2 and 3 below use these)
+  SBC tag by year: 2018 ShareBasedCompensation; 2019 ShareBasedCompensation; 2020 ShareBasedCompensation; 2022 ShareBasedCompensation; 2023 ShareBasedCompensation
+  capex tag by year: 2018 PaymentsToAcquirePropertyPlantAndEquipment; 2019 PaymentsToAcquirePropertyPlantAndEquipment; 2020 PaymentsToAcquirePropertyPlantAndEquipment; 2022 PaymentsToAcquirePropertyPlantAndEquipment; 2023 PaymentsToAcquirePropertyPlantAndEquipment
+  ** The window's last year, 2023-12-31, is over 18 months old. Later years may be filed under
+     another taxonomy (US GAAP to IFRS) or other elements; read the latest annual report. **
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0000950170-24-028222, 0000950170-23-008104, 0000950170-22-004202
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (3-yr, 3 yrs of data)   OE capex 60.2  OE D&A 35.2   yield 3.72% (capex) 2.18% (D&A)
+  DIVERGENCE vs the 5-yr window: +494.6% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis  0.98%   D&A basis  1.24%   vs sovereign 5.43%
+  2. GROWTH THE PRICE ASSUMES  REFUSED - the lower owner-earnings mean
+     is at or below zero. A DCF on a non-positive base produces no
+     number; the negative bottom boundary IS the statement.
+  3. POINTS OVER THE SOVEREIGN REFUSED on the same ground at the lower mean; higher mean -0.05
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2017-12-31         3,110           -       1,132         172         398         107         808         117       1,280      -1,513
+    2018-12-31         2,216           -         291         158         447         107         137          82       1,283      -2,371
+    2019-12-31         1,993       1,944          50         273         332         104         138           9       1,287      -2,627
+    2020-12-31         1,501         504        -339         188         184          87         139           7           -      -3,023
+    2021-01-01             -           -           -         188           -           -           -           -           -           -
+    2021-02-02         1,457         554         903         173         154           -         139          24           -           -
+    2021-02-03             -           -           -         173           -           -           -           -           -           -
+    2021-12-31         1,200         458         742         315         182          61           -           9           -        -162
+    2022-12-31         1,191         408         783         259         250          66           -           -           -        -126
+    2023-12-31         1,341         380         961         392         277          75           -           -           -          49
+    accessions: 0000886835-18-000003, 0000886835-19-000003, 0000886835-20-000004, 0000886835-21-000003, 0000950170-22-004202, 0000950170-23-008104, 0000950170-24-028222
+    equity: StockholdersEquity (2017, 2018, 2019, 2020, 2021, 2021, 2022, 2023)
+    receivables: AccountsReceivableNetCurrent (2017, 2018, 2019, 2020, 2021, 2022, 2023); ReceivablesNetCurrent (2021)
+    lt debt: LongTermDebtNoncurrent (2017, 2018, 2019)
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

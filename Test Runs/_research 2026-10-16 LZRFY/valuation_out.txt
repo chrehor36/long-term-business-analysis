@@ -1,0 +1,10 @@
+No-growth case (maintenance owner cash), at gov rate 12.87%            EV     32525  equity       173  per share BRL    0.16
+Growth case 8.3pct, growth spending charged (k=13.1), at 12.87pct      EV     21392  equity    -10960  per share BRL   -9.92
+Literal growth 12.9%, growth spending charged, at 12.87%               EV     11806  equity    -20546  per share BRL  -18.60
+[bound only] Growth 8.3% with NO growth spending charged, at 12.87%    EV     55098  equity     22746  per share BRL   20.59
+FAIR: no-growth case at 10%                                            EV     41860  equity      9508  per share BRL    8.61
+FAIR: growth case at 10%                                               EV     35683  equity      3331  per share BRL    3.02
+FAIR PRICE (average of the two ends at 10%), all-equity basis          EV     38771  equity      6419  per share BRL    5.81
+Equity-only owner cash = 4186 - 4192 x 0.66 = 1419; no-growth at 10% 14191, growth at 10% 12097; fair equity-only per share BRL 11.90
+Market cap 54828; EV 87180; owner cash yield on EV (no-growth) 4.802%; k = 13.10; incremental after-tax return on capital 2021->2025 = 7.636%
+Sensitivity (not the base): 1H26 EBIT ex Voll gain annualized 9550; at 34% tax less 2025 IOC shield NOPAT 6900 = 7.91% of EV; at the 2025 cash tax (477) 10.41% of EV

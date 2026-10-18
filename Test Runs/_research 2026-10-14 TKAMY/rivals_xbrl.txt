@@ -1,0 +1,65 @@
+== RS RELIANCE, INC. CIK 0000861884  tags: Revenues + RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet / OperatingIncomeLoss
+2015-12-31  sales     9350.5  opinc 549.8  margin 5.88%
+2016-12-31  sales     8613.4  opinc 517.8  margin 6.01%
+2017-12-31  sales     9721.0  opinc 662.4  margin 6.81%
+2018-12-31  sales    11534.5  opinc 937.5  margin 8.13%
+2019-12-31  sales    10973.8  opinc 1013.5  margin 9.24%
+2020-12-31  sales     8811.9  opinc 565.8  margin 6.42%
+2021-12-31  sales    14093.3  opinc 1948.9  margin 13.83%
+2022-12-31  sales    17025.0  opinc 2506.9  margin 14.72%
+2023-12-31  sales    14805.9  opinc 1739.5  margin 11.75%
+2024-12-31  sales    13835.0  opinc 1160.0  margin 8.38%
+2025-12-31  sales    14294.3  opinc 1012.7  margin 7.08%
+Traceback (most recent call last):
+  File "<stdin>", line 5, in <module>
+  File "C:\Users\chreh\OneDrive\Documents\BRK\tools\sources.py", line 152, in sec_facts
+    txt = _get(f"https://data.sec.gov/api/xbrl/companyfacts/CIK{cik}.json",
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chreh\OneDrive\Documents\BRK\tools\sources.py", line 71, in _get
+    raw = urllib.request.urlopen(req, timeout=45).read()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\urllib\request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\urllib\request.py", line 525, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\urllib\request.py", line 634, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\urllib\request.py", line 563, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\urllib\request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+== RYI RYERSON HOLDING CORPORATION CIK 0001481582  tags: Revenues + RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet / OperatingIncomeLoss
+2015-12-31  sales     3167.2  opinc 108.6  margin 3.43%
+2016-12-31  sales     2859.7  opinc 122.1  margin 4.27%
+2017-12-31  sales     3364.7  opinc 101.1  margin 3.0%
+2018-12-31  sales     4408.4  opinc 139.2  margin 3.16%
+2019-12-31  sales     4501.6  opinc 210.8  margin 4.68%
+2020-12-31  sales     3466.6  opinc 64.6  margin 1.86%
+2021-12-31  sales     5675.3  opinc 545.2  margin 9.61%
+2022-12-31  sales     6323.6  opinc 578.7  margin 9.15%
+2023-12-31  sales     5108.7  opinc 228.1  margin 4.46%
+2024-12-31  sales     4598.7  opinc 31.5  margin 0.68%
+2025-12-31  sales     4571.3  opinc -30.8  margin -0.67%
+== ZEUS OLYMPIC STEEL INC CIK 0000917470  tags: SalesRevenueNet / OperatingIncomeLoss
+2015-12-31  sales     1175.5  opinc -27.8  margin -2.36%
+2016-12-31  sales     1055.1  opinc 5.7  margin 0.54%
+2017-12-31  sales     1330.7  opinc 24.0  margin 1.8%
+== ZEUS (retry, wider revenue tags) SalesRevenueNet + RevenueFromContractWithCustomerIncludingAssessedTax OperatingIncomeLoss
+2015-12-31  sales     1175.5  opinc -27.8  margin -2.36%
+2016-12-31  sales     1055.1  opinc 5.7  margin 0.54%
+2017-12-31  sales     1330.7  opinc 24.0  margin 1.8%
+2018-12-31  sales     1715.1  opinc 57.1  margin 3.33%
+2019-12-31  sales     1579.0  opinc 16.6  margin 1.05%
+2020-12-31  sales     1234.1  opinc 0.6  margin 0.05%
+2021-12-31  sales     2312.3  opinc 172.5  margin 7.46%
+2022-12-31  sales     2560.0  opinc 133.7  margin 5.22%
+2023-12-31  sales     2158.2  opinc 77.7  margin 3.6%
+2024-12-31  sales     1941.7  opinc 47.9  margin 2.46%

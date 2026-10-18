@@ -1,0 +1,75 @@
+==============================================================================
+Bimergen Energy Corp  (BESS)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.43%   10/16/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     2.21 USD   2026-10-16   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                  7.098M  as of 2026-08-14  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                                   7.098M  as of 2026-06-30  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)        7.098M  as of 2026-06-30  (CommonStockSharesIssued)
+  shares    7.1M      market cap 0.02B USD
+  share basis: dei cover-page count as of 2026-08-14 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2016-12-31        0.2      0.1       0.0        0.0         0.1         0.1
+    2017-12-31       -0.1      0.0       0.0        0.0        -0.2        -0.2
+    2018-12-31       -0.1      0.0       0.0        0.0        -0.1        -0.2
+          mean                                                 -0.1        -0.1
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: D&A basis in 2016, 2017, 2018
+  mean of the year-by-year lower: -0.1;  of the higher: -0.1  (lines 2 and 3 below use these)
+  SBC tag by year: 2016 AllocatedShareBasedCompensationExpense; 2017 AllocatedShareBasedCompensationExpense; 2018 ShareBasedCompensation
+  capex tag by year: 2016 PaymentsToAcquirePropertyPlantAndEquipment; 2017 PaymentsToAcquirePropertyPlantAndEquipment; 2018 PaymentsToAcquirePropertyPlantAndEquipment
+  ** OCF is tagged through 2025-12-31 but the window ends at 2018-12-31: D&A or capex is
+     not tagged for the later years under the elements read here. Read the later filings. **
+  ** The window's last year, 2018-12-31, is over 18 months old. Later years may be filed under
+     another taxonomy (US GAAP to IFRS) or other elements; read the latest annual report. **
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0001493152-26-014356, 0001641172-25-013018, 0001493152-24-012444
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex -0.2  OE D&A -0.2   yield -1.45% (capex) -1.48% (D&A)
+  DIVERGENCE vs the 3-yr window: -227.4% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis -0.34%   D&A basis -0.47%   vs sovereign 5.43%
+  2. GROWTH THE PRICE ASSUMES  REFUSED - the lower owner-earnings mean
+     is at or below zero. A DCF on a non-positive base produces no
+     number; the negative bottom boundary IS the statement.
+  3. POINTS OVER THE SOVEREIGN REFUSED on the same ground
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD thousands; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets      equity        cash receivables   inventory    goodwill intangibles    retained
+    2017-12-31         3,985       2,328          78       1,078         201         170           -     -17,557
+    2018-12-31         3,397       1,662          57       1,040         116         170           -     -18,228
+    2019-12-31         1,160          49         111         480           0           -           -     -19,841
+    2020-12-31           285        -248          42         232           -           -           -     -20,138
+    2021-01-20             -       1,286           -           -           -           -           -           -
+    2021-12-31            44        -389         977          27           -           -          35     -20,279
+    2022-12-31           211         199         198           -           -           -           -      -1,097
+    2023-12-31           163         128         152           -           -           -           -      -1,908
+    2024-12-31        23,251      21,494         156           -           -           -      22,222      -4,775
+    2025-12-31        27,200      19,363         401           -           -           -      23,901      -9,748
+    accessions: 0001185185-18-000544, 0001185185-19-000482, 0001185185-20-000382, 0001185185-21-000395, 0001185185-22-000287, 0001493152-23-010282, 0001493152-24-012444, 0001493152-26-014356, 0001641172-25-013018
+    equity: StockholdersEquity (2017, 2018, 2019, 2020, 2021, 2021, 2022, 2023, 2024, 2025)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD thousands; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        sum
+    2025-12-31         826        826
+    d1 = us-gaap:ShortTermBorrowings
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

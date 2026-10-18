@@ -1,0 +1,100 @@
+AEE AMEREN CORP
+year       NI      OCF    CAPEX       DA      REV       EQ      DIV      ISS      INT      TAX      SBC      PPE
+2015      630     2017     1917      777     6098     6946      402      nan      355      363       24    18799
+2016      653     2123     2076      835     6076     7103      416        0      382      382       17    20113
+2017      523     2104     2132      876     6177     7184      431        0      391      576       17    21466
+2018      815     2170     2286      938     6291     7631      451       74      401      237       20    22810
+2019      828     2170     2411     1002     5910     8059      472       68      381      182       20    24376
+2020      871     1727     2669     1085     5794     8938      494      476      419      155       21    26807
+2021      990     1661     2954     1219     6394     9700      565      308      383      157       22    29261
+2022     1074     2263     3351     1438     7957    10508      610      333      486      176       24    31262
+2023     1152     2564     3597     1432     7500    11349      662      346      566      183       26    33776
+2024     1182     2763     4319     1524     7623    12114      714      273      663       83       28    36304
+2025     1456     3353     4128     1612     8799    13401      768      574      776      136       28    39313
+NI ['NetIncomeLoss', 'NetIncomeLossAvailableToCommonStockholdersBasic']
+OCF ['NetCashProvidedByUsedInOperatingActivities']
+CAPEX ['PaymentsToAcquirePropertyPlantAndEquipment']
+DA ['DepreciationAmortizationAndAccretionNet']
+REV ['Revenues']
+EQ ['StockholdersEquity']
+DIV ['PaymentsOfDividendsCommonStock']
+ISS ['ProceedsFromIssuanceOfCommonStock']
+INT ['InterestExpense']
+TAX ['IncomeTaxExpenseBenefit']
+SBC ['ShareBasedCompensation']
+PPE ['PropertyPlantAndEquipmentNet']
+EVRG Evergy, Inc.
+year       NI      OCF    CAPEX       DA      REV       EQ      DIV      ISS      INT      TAX      SBC      PPE
+2015      nan      nan      nan      nan      nan      nan      nan      nan      nan      nan      nan      nan
+2016      347      804     1087      338     2562      nan      204      nan      162      184        9      nan
+2017      324      913      765      372     2571     3908      223      nan      171      151        9     9554
+2018      536     1498     1070      619     4276    10028      475      nan      280       59       30    18782
+2019      670     1749     1210      862     5148     8572      462        0      374       97       16    19184
+2020      618     1754     1560      880     4913     8733      465        0      384      102       16    19951
+2021      880     1352     1972      896     5587     9244      498      112      373      117       16    21003
+2022      753     1802     2166      929     5859     9484      535        0      404       48       19    22136
+2023      731     1980     2334     1076     5508     9663      570        0      526       16       18    23595
+2024      874     1984     2337     1114     5847     9955      597        0      563       30       15    24931
+2025      856     2045     2797     1163     5962    10221      613        1      616       30       21    26302
+NI ['NetIncomeLoss']
+OCF ['NetCashProvidedByUsedInOperatingActivities']
+CAPEX ['PaymentsToAcquirePropertyPlantAndEquipment']
+DA ['DepreciationAndAmortization']
+REV ['Revenues']
+EQ ['StockholdersEquity']
+DIV ['PaymentsOfDividends']
+ISS ['ProceedsFromIssuanceOfCommonStock']
+INT ['InterestExpense']
+TAX ['IncomeTaxExpenseBenefit']
+SBC ['ShareBasedCompensation']
+PPE ['PropertyPlantAndEquipmentNet']
+WEC WEC ENERGY GROUP, INC.
+year       NI      OCF    CAPEX       DA      REV       EQ      DIV      ISS      INT      TAX      SBC      PPE
+2015      640      nan     1266      562     5926     8685      455      nan      331      434      nan    19190
+2016      939     2104     1424      763     7472     8960      625      nan      403      566      nan    19916
+2017     1204     2079     1960      799     7648     9492      656      nan      416      384      nan    21347
+2018     1059     2446     2417      846     7680      nan      697      nan      445      170      nan    22001
+2019     1134     2346     2529      926     7523      nan      744      nan      502      125      nan    23620
+2020     1200     2196     2874      976     7242      nan      798      nan      494      228      nan    25707
+2021     1300     2033     2373     1074     8316      nan      855      nan      471      200      nan    26982
+2022     1408     2061     2697     1123     9597      nan      918        0      515      323      nan    29114
+2023     1332     3018      nan     1264     8893      nan      984        0      727      205      nan    31582
+2024     1527     3212      nan     1354     8600      nan     1056      163      815      222      nan    34645
+2025     1558     3379      nan     1478     9800      nan     1148      762      895      118      nan    38278
+NI ['NetIncomeLoss', 'NetIncomeLossAvailableToCommonStockholdersBasic']
+OCF ['NetCashProvidedByUsedInOperatingActivities']
+CAPEX ['PaymentsToAcquireProductiveAssets', 'PaymentsToAcquirePropertyPlantAndEquipment']
+DA ['DepreciationAndAmortization', 'DepreciationDepletionAndAmortization']
+REV ['Revenues']
+EQ ['StockholdersEquity']
+DIV ['PaymentsOfDividendsCommonStock']
+ISS ['ProceedsFromIssuanceOfCommonStock']
+INT ['InterestExpense', 'InterestExpenseNonoperating']
+TAX ['IncomeTaxExpenseBenefit']
+SBC []
+PPE ['PropertyPlantAndEquipmentNet']
+XEL Xcel Energy Inc.
+year       NI      OCF    CAPEX       DA      REV       EQ      DIV      ISS      INT      TAX      SBC      PPE
+2015      984     3026     3683     1143    11024    10601      607        7      595      543       45    31206
+2016     1123     3052     3256     1319    11107    11021      681        0      647      581       41    32842
+2017     1148     3126     3319     1495    11404    11455      721        0      663      542       57    34329
+2018     1261     3122     3957     1659    11537    12222      730      230      700      181       45    36944
+2019     1372     3263     4225     1785    11529    13239      791      458      773      128       58    39483
+2020     1473     2848     5369     1959    11526    14575      856      727      840       -6       73    42950
+2021     1597     2189     4244     2143    13431    15612      935      366      842      -70       31    45457
+2022     1736     3932     4638     2436    15310    16675     1012      322      953     -135       20    48253
+2023     1771     5327     5854     2471    14206    17616     1092      270     1055     -146       25    51642
+2024     1936     4641     7364     2769    13441    19522     1175     1117     1255     -402       33    57198
+2025     2018     4083    10908     2968    14669    23609     1282     3349     1468     -245       46    65639
+NI ['NetIncomeLoss', 'NetIncomeLossAvailableToCommonStockholdersBasic']
+OCF ['NetCashProvidedByUsedInOperatingActivities']
+CAPEX ['PaymentsToAcquireProductiveAssets', 'PaymentsToAcquirePropertyPlantAndEquipment']
+DA ['DepreciationAmortizationAndAccretionNet']
+REV ['RegulatedAndUnregulatedOperatingRevenue', 'Revenues']
+EQ ['StockholdersEquity']
+DIV ['PaymentsOfDividends']
+ISS ['ProceedsFromIssuanceOfCommonStock']
+INT ['InterestExpense']
+TAX ['IncomeTaxExpenseBenefit']
+SBC ['ShareBasedCompensation']
+PPE ['PropertyPlantAndEquipmentNet']

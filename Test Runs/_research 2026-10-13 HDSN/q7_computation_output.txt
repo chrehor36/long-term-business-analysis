@@ -1,0 +1,17 @@
+== ALL-EQUITY (central)
+  growth between window halves FY2021-22 avg 35.92 -> FY2024-25 avg 25.54: -10.8%/yr
+  cycle base FY2022-25: C=43.68  bottom(g=-10.8%) 339.1  top(no growth) 780.0  -> per share $8.67 to $19.14 ; width 2.30x
+     at $5.12 (cost 189.9): expected return no-growth 23.0%, decline case 12.1%
+     fair price (ends at 10%, averaged): $8.40  [ends $5.80 and $10.99]
+  literal window FY2021-25: C=35.82  bottom(g=-10.8%) 278.1  top(no growth) 639.6  -> per share $7.22 to $15.81 ; width 2.30x
+     at $5.12 (cost 189.9): expected return no-growth 18.9%, decline case 9.3%
+     fair price (ends at 10%, averaged): $6.99  [ends $4.87 and $9.12]
+== EQUITY-ONLY (beside)
+  growth between window halves FY2021-22 avg 27.28 -> FY2024-25 avg 26.73: -0.7%/yr
+  cycle base FY2022-25: C=41.08  bottom(g=-0.7%) 694.7  top(no growth) 733.7  -> per share $16.51 to $17.43 ; width 1.06x
+     at $5.12 (cost 215.5): expected return no-growth 19.1%, decline case 18.4%
+     fair price (ends at 10%, averaged): $9.54  [ends $9.32 and $9.76]
+  literal window FY2021-25: C=32.14  bottom(g=-0.7%) 543.4  top(no growth) 573.9  -> per share $12.91 to $13.63 ; width 1.06x
+     at $5.12 (cost 215.5): expected return no-growth 14.9%, decline case 14.3%
+     fair price (ends at 10%, averaged): $7.46  [ends $7.29 and $7.64]
+ten-year all-equity average after acquisitions 10.94: no-growth value 195.4 -> $5.25/share; at 10% $3.21; return at price 5.8%

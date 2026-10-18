@@ -1,0 +1,10 @@
+Competitor row (facts for Q2, NOT REACHED). Fujitsu's documents read name no rival; an analyst at the April 28, 2026
+briefing named NEC (BluStellar), which files no 10-K. Chosen by the analyst as SEC filers in IT services and legacy
+outsourcing: Accenture (ACN), IBM, DXC Technology (DXC). Source: SEC XBRL company facts via tools/sources.py
+(transcription, flagged; accession numbers below are the 10-Ks carrying each figure). Frames are SEC calendar frames
+(ACN fiscal year ends August; DXC fiscal year ends March, so DXC CY2024 = year ended March 2025).
+ACN  op margin %: 13.8 14.4 14.4 14.6 14.7 (2021 n/a) 15.2 13.7 14.8 14.7  (CY2016-2025; e.g. 0001467373-25-000217)
+IBM  pretax margin %: 15.4 14.4 14.3 12.5 4.7 8.4 1.9 14.0 9.2 15.3 (CY2016-2025; revenue 79.9 -> 67.5 $bn after the 2021 Kyndryl spin; 0000051143-26-000010)
+DXC  op margin %: 8.1 13.8 15.8 10.5 6.2 8.5 7.9 7.4 7.9 7.7; revenue 21.7 (CY2017) -> 12.6 $bn (CY2025) (0001688568-26-000022)
+Fujitsu operating margin (statutory, as filed): FY3/2017 2.8, 2018 4.5, 2019 3.3, 2020 5.5, 2021 7.4, 2022 6.1, 2023 9.0,
+2024 4.3 (continuing), 2025 7.5, 2026 9.9. Revenue 4,133 -> 3,503 bn yen (disposals).

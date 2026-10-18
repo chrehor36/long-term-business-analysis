@@ -1,0 +1,14 @@
+ALL-EQUITY: by year {2015: 32.2, 2016: 66.1, 2017: 12.8, 2018: 9.1, 2019: 49.7}; five-year mean 34.0
+   halves 2015-16 49.2 -> 2018-19 29.4; growth between halves -15.7% a year (decline: bottom of range)
+   at the sovereign 5.43%: business top 626, bottom 187; less net debt 433.5 -> equity top 192, bottom -246; per old share top 8.48, bottom -10.86, average -1.19
+   at ten percent (fair-price leg): business top 340, bottom 127; less net debt 433.5 -> equity top -94, bottom -306; per old share top -4.13, bottom -13.52, average -8.83
+EQUITY-ONLY: by year {2015: 15.7, 2016: 44.5, 2017: -5.8, 2018: -11.0, 2019: 29.0}; five-year mean 14.5
+   halves 2015-16 30.1 -> 2018-19 9.0; growth between halves -33.1% a year (decline: bottom of range)
+   at the sovereign 5.43%: equity top 267, bottom 28; per old share top 11.76, bottom 1.22, average 6.49
+   at ten percent (fair-price leg): equity top 145, bottom 23; per old share top 6.39, bottom 1.03, average 3.71
+
+--- per Q7 specifics, read literally (supersedes the halves case above for the ALL-EQUITY series) ---
+ALL-EQUITY end-year growth 2015->2019: 11.5%/yr; carried ten years from the mean 34.0 -> 100.6 in year ten, 12.9% of 2019 sales against the highest share in the filings read 8.3% -> cap (f) applies
+cut to the business's own sales growth 2015->2019: -1.24%/yr (negative: bottom of the range by (b); no-growth case the top)
+  at 5.43%: business 567 to 626; width 1.10 to 1; less net debt 433.5: equity 134 to 192; per pre-cancellation share 5.89 to 8.48; midpoint per share 7.19
+  at 10% (fair-price leg): business 313 to 340; width 1.09 to 1; less net debt 433.5: equity -121 to -94; per pre-cancellation share -5.33 to -4.13; midpoint per share -4.73

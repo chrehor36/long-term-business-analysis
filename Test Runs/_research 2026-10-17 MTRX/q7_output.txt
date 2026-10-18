@@ -1,0 +1,57 @@
+owner cash by year (after interest | before interest | of which BIE change):
+  FY2011      9.9     10.6      6.6
+  FY2012    -14.1    -13.3     -5.2
+  FY2013     30.1     30.9     32.6
+  FY2014     47.7     49.0      3.1
+  FY2015      4.1      4.8    -11.7
+  FY2016     13.4     14.1    -38.4
+  FY2017    -38.1    -36.0      5.2
+  FY2018     57.4     59.6     45.6
+  FY2019      9.9     10.0    -15.0
+  FY2020     15.7     16.0    -41.7
+  FY2021    -15.6    -14.1     -8.6
+  FY2022    -65.4    -62.5     11.3
+  FY2023     -5.6     -3.9     20.3
+  FY2024     57.8     57.6     85.9
+  FY2025    100.9     94.7    152.3
+  FY2026     -5.7    -13.0    -23.6
+literal five-year window FY2022-26                      before interest   14.6   after interest   16.4
+cycle base FY2017-26 (ten years)                        before interest   10.8   after interest   11.1
+prior cycle FY2011-16                                   before interest   16.0   after interest   15.2
+cycle base FY2017-26 before customer-advance build      before interest  -12.3   after interest  -12.0
+window FY2022-26 before customer-advance build          before interest  -34.6   after interest  -32.8
+growth between cycle averages: before interest -4.75%, after interest -3.81%
+sales growth FY2011-16 avg to FY2017-26 avg: (rev FY2016 1312, FY2026 874)
+
+CENTRAL: cycle base FY2017-26, top no-growth, bottom the decline between cycles
+  all-equity range  $ 12.72 to $ 14.94 a share   fair (10%) $ 11.20
+  equity-only range $  5.35 to $  7.24 a share   fair (10%) $  3.49
+  no-growth at 10%: $ 11.71 a share all-equity vs price $10.02 -> earns the floor
+  decline   at 10%: $ 10.68 a share all-equity vs price $10.02 -> earns the floor
+
+LITERAL WINDOW FY2022-26 (series changes sign: no-growth case alone)
+  all-equity range  $ 17.38 to $ 17.38 a share   fair (10%) $ 13.04
+  equity-only range $ 10.67 to $ 10.67 a share   fair (10%) $  5.80
+  no-growth at 10%: $ 13.04 a share all-equity vs price $10.02 -> earns the floor
+  decline   at 10%: $ 13.04 a share all-equity vs price $10.02 -> earns the floor
+
+BESIDE, before customer-advance build: base before interest -12.3; no-growth whole-business value -226.8; cash less net contract liabilities (BIE 299.9 less CIE 29.2) = -47.8
+  per share, no-growth value plus cash net of advances: $-9.70
+market cap at price: 283.5; enterprise value (all-equity basis): 60.5
+
+==== the cycle by owner cash (specific (a)) ====
+owner-cash peaks FY2014 47.7, FY2018 57.4, FY2025 100.9; troughs FY2012 -14.1, FY2017 -38.1, FY2022 -65.4
+last full cycle FY2019-25: before interest 15.44, after interest 15.42 (acquisitions net of sales deducted)
+prior cycle FY2015-18: before interest -4.65 (acquisitions deducted) -> sign change between cycles: growth meaningless
+halves of the cycle: FY2019-21 5.27, FY2023-25 51.59 before interest
+sales over the same halves: 1063.7 -> 764.2, growth -7.93% a year (midpoints FY2020 to FY2024)
+owner cash share of sales, highest in the filings read: FY2025 13.1%
+
+CENTRAL (a): last full cycle FY2019-25, top no-growth, bottom the business's own sales growth (shown owner-cash growth cut, (f))
+  all-equity range  $ 13.26 to $ 17.93 a share   fair (10%) $ 12.23
+  equity-only range $  5.37 to $ 10.04 a share   fair (10%) $  4.35
+  no-growth at 10%: $ 13.34 a share all-equity vs price $10.02 -> earns the floor
+  decline   at 10%: $ 11.13 a share all-equity vs price $10.02 -> earns the floor
+range width top/bottom (all-equity, whole-business values): 1.87
+D&A variant (capex below D&A every year FY2020-26; above in FY2019): base before interest with D&A in place of capex:
+  FY2019-25 10.33

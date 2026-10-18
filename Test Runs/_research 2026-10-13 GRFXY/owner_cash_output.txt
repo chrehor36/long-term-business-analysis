@@ -1,0 +1,14 @@
+year  CFO   capex  deposits lease  SBC  | owner cash all-spending | maintenance | equity-only (maint) | source
+2021 -12850 1754 0 11280 14067 | -39951 | -39951 | -57349 | AR2021 (HKEX 2022-04-28)
+2022 64942 822 0 8247 0 | 55873 | 55873 | 32593 | AR2022 (HKEX 2023-04-27)
+2023 -11156 1162 0 5264 16433 | -34015 | -34015 | -37636 | AR2023 (HKEX 2024-04-29)
+2024 -5312 470 0 4879 14009 | -24670 | -24670 | -29900 | AR2024 (HKEX 2025-04-29)
+2025 -9787 397 40795 4804 12 | -55795 | -15000 | -29094 | AR2025 (HKEX 2026-04-30)
+five-year averages: all-spending -19712, maintenance -11553, equity-only maintenance -24277, equity-only all -32436
+halves (maintenance): first 7961, second -19835 -> sign change, meaningless; range is the no-growth case alone
+net debt 30 Jun 2026: ex leases 177061; incl. IFRS 16 leases 191657
+market cap HK$'000: 48007
+central (maintenance, all-equity): business value at 2.07%, zero growth = -558097; per share less net debt ex leases HK$-0.781 (incl leases HK$-0.796)
+all-spending (literal window, all-equity): business value at 2.07%, zero growth = -952251; per share less net debt ex leases HK$-1.200 (incl leases HK$-1.215)
+equity-only (maintenance, after interest): value -1172812; per share HK$-1.246
+FAIR PRICE (reporting figure): all-equity HK$-0.311 a share (incl leases HK$-0.326); equity-only HK$-0.258; price HK$0.051

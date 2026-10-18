@@ -1,0 +1,26 @@
+2018 eq-only pre-acq 102  all-eq pre-acq 107  all-eq after acq 107  share of sales 2.3%
+2019 eq-only pre-acq 241  all-eq pre-acq 246  all-eq after acq 246  share of sales 5.8%
+2020 eq-only pre-acq 185  all-eq pre-acq 192  all-eq after acq 192  share of sales 5.3%
+2021 eq-only pre-acq 389  all-eq pre-acq 393  all-eq after acq 362  share of sales 7.7%
+2022 eq-only pre-acq 332  all-eq pre-acq 329  all-eq after acq 329  share of sales 4.0%
+2023 eq-only pre-acq 155  all-eq pre-acq 160  all-eq after acq 160  share of sales 2.4%
+2024 eq-only pre-acq 96  all-eq pre-acq 122  all-eq after acq 122  share of sales 2.0%
+2025 eq-only pre-acq 223  all-eq pre-acq 263  all-eq after acq -152  share of sales 4.3%
+net purchases / owner cash before purchases, window: 35.2%
+cycle base 2020-25 all-eq pre-acq 243.2, after acq 168.8; prior-cycle end 2018-19 176.5
+growth between cycle averages 7.38%; sales growth same span 6.70%
+highest owner-cash share of sales 7.7%; yr10 owner cash at shown g 496 = 8.2% of 2025 sales; at sales g 7.6%
+== ALL-EQUITY (central) ==
+no-growth case (bottom): g=+0.00%  at 3.76%: EV 5,857 -> 67.12/sh | at 10%: EV 1,975 -> 13.55/sh
+growth case (top): g=+6.70%  at 3.76%: EV 10,523 -> 131.50/sh | at 10%: EV 3,225 -> 30.81/sh
+RANGE 67.12 to 131.50 per share; width 1.96x; FAIR (avg of ends at 10%) 22.18 EUR = 24.81 USD per ADR (1:1)
+EV at price 3,783; ends at 10% EV 1,975 / 3,225 -> floor earned by some case? False
+LITERAL window 2021-25: base pre 253.4 after acq 164.2; halves 361->192 g=-18.91%
+literal no-growth: g=+0.00%  at 3.76%: EV 6,007 -> 69.19/sh | at 10%: EV 1,986 -> 13.70/sh
+literal decline (bottom): g=-18.91%  at 3.76%: EV 1,110 -> 1.62/sh | at 10%: EV 559 -> -5.99/sh
+== EQUITY-ONLY (beside) ==
+eq no-growth: g=+0.00%  at 3.76%: EV 5,507 -> 75.99/sh | at 10%: EV 1,843 -> 25.44/sh
+eq growth: g=+6.70%  at 3.76%: EV 9,906 -> 136.69/sh | at 10%: EV 3,017 -> 41.63/sh
+note: equity-only per-share values are owner cash after interest capitalised against the shares alone (no net debt deducted)
+EQUITY-ONLY range 75.99 to 136.69; fair 33.53 EUR = 37.51 USD
+market cap at price 2,790

@@ -1,0 +1,25 @@
+market value 9217.8; net debt 7238; EV 16455.8
+
+CENTRAL all-equity, all spending, acquisitions deducted, cycle base 2016-2025: base 297.1, growth 5.43%
+  range at 5.43%: EV 5471 to 8442; per share -46.07 to 31.41
+  ends at 10%: EV 2971 and 4314; per share -111.27 and -76.26; FAIR (average) -93.77
+  expected return at the price (EV 16456): no-growth 1.81%  growth case 2.90%
+
+literal window 2021-2025 all-equity after acq: base 515.0, growth -3.70%
+  range at 5.43%: EV 7070 to 9484; per share -4.38 to 58.58
+  ends at 10%: EV 4025 and 5150; per share -83.80 and -54.45; FAIR (average) -69.12
+  expected return at the price (EV 16456): no-growth 3.13%  growth case 2.23%
+
+depreciation-as-maintenance, all-equity after acq, cycle base: base 561.0, growth 5.43%
+  range at 5.43%: EV 10331 to 15941; per share 80.67 to 226.97
+  ends at 10%: EV 5610 and 8145; per share -42.45 and 23.66; FAIR (average) -9.40
+  expected return at the price (EV 16456): no-growth 3.41%  growth case 5.27%
+
+depreciation-as-maintenance, literal window: base 733.0, growth 5.43%
+  range at 5.43%: EV 13499 to 20829; per share 163.27 to 354.42
+  ends at 10%: EV 7330 and 10643; per share 2.40 and 88.79; FAIR (average) 45.59
+  expected return at the price (EV 16456): no-growth 4.45%  growth case 6.74%
+
+EQUITY-ONLY cycle base 2016-2025 after acq: base 110.0: range at R per share 52.83 to 81.51; FAIR 35.17; return at price no-growth 1.19% growth 1.95%
+
+EQUITY-ONLY literal window after acq: base 286.0: range at R per share 137.35 to 137.35; FAIR 74.58; return at price no-growth 3.10% growth 3.10%

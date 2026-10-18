@@ -1,0 +1,30 @@
+after-tax interest avg 272.9; net purchases avg 148.6; maintenance 664.7 of capex 820.2; ITC drag 0.0
+sales growth FY2021-25 -0.54%; net debt 6573; mcap 8243; EV 14816
+TOP: maintenance-only, no growth (all-equity)
+   base cash   735.0  g  0.00%  value/share @5.43%   33.00   @10%    4.16   expected return at price  5.00%
+BOTTOM: all spending incl. purchases, sales growth carried, purchases stop after yr 10 (all-equity)
+   base cash   430.9  g -0.54%  value/share @5.43%   12.85   @10%   -8.07   expected return at price  3.51%
+beside: all spending incl. purchases, no growth, purchases stop after yr 10 (all-equity)
+   base cash   430.9  g  0.00%  value/share @5.43%   14.41   @10%   -7.34   expected return at price  3.64%
+beside: depreciation variant, no growth (all-equity)
+   base cash   866.9  g  0.00%  value/share @5.43%   44.32   @10%   10.31   expected return at price  5.90%
+TOP equity-only: maintenance-only, no growth
+   base cash   462.1  g  0.00%  value/share @5.43%   40.21   @10%   22.08   expected return at price  5.69%
+BOTTOM equity-only: all spending, sales growth, purchases stop after yr 10
+   base cash   158.0  g -0.54%  value/share @5.43%   21.05   @10%   10.31   expected return at price  3.19%
+beside equity-only: depreciation variant, no growth
+   base cash   594.0  g  0.00%  value/share @5.43%   51.54   @10%   28.23   expected return at price  7.31%
+
+ALL-EQUITY range 12.85 to 33.00; fair (avg of ends at 10%) -1.95
+EQUITY-ONLY range 21.05 to 40.21; fair 16.20
+Electric Utility sale beside: +2.19/share at most if its cash were worth nothing
+literal window all-equity, purchases forever, no tax convention: cash 430.9 -> per share 6.35; yield on EV 2.91%
+
+(f) check: halves growth 54.8%/yr -> year-10 owner cash 63,368 vs FY2025 sales 7,287; highest owner-cash share of sales in window 11.0%
+beside BOTTOM, growth spending stops with growth after yr 10, r=0.0543: per share 19.90
+beside BOTTOM, growth spending stops with growth after yr 10, r=0.1: per share -5.56
+   expected return at price 4.11%
+TOP with the killed draft's ITC drag: per share @5.43% 31.09  @10% 3.13
+BOTTOM with the killed draft's ITC drag: per share @5.43% 11.02  @10% -9.06
+Electric Utility as if closed (proceeds 470 off net debt, its cash lost credited at nothing), TOP: per share @5.43% 35.19; @10% 6.35; expected return at price 5.16%
+Electric Utility as if closed (proceeds 470 off net debt, its cash lost credited at nothing), BOTTOM: per share @5.43% 15.04; @10% -5.87; expected return at price 3.62%

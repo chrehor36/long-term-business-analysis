@@ -1,0 +1,37 @@
+2019: rev   408.4  owner cash equity-only    29.2  all-equity    29.2  share of sales   7.1%  acquisitions   0.0
+2020: rev   470.6  owner cash equity-only    69.5  all-equity    97.4  share of sales  20.7%  acquisitions   0.0
+2021: rev   575.1  owner cash equity-only   -70.9  all-equity   -58.6  share of sales -10.2%  acquisitions  61.5
+2022: rev   620.0  owner cash equity-only   -31.3  all-equity   -32.5  share of sales  -5.2%  acquisitions   8.5
+2023: rev   660.7  owner cash equity-only    22.6  all-equity    15.3  share of sales   2.3%  acquisitions   0.0
+2024: rev   681.9  owner cash equity-only    22.5  all-equity    16.3  share of sales   2.4%  acquisitions   0.0
+2025: rev   756.0  owner cash equity-only    28.9  all-equity    23.0  share of sales   3.0%  acquisitions  48.5
+LTM 2026-06: owner cash equity-only 46.5 all-equity 40.8
+market cap 1036.2  net cash 167.2  EV 868.9
+
+Literal window 2021-2025
+  avg all-equity -7.30; avg after acquisitions -31.01; net purchases 118.5; owner cash before purchases sum -36.5
+  literal, organic pair, no-growth (sign change)             base   -7.30 g  0.00%  value@5.60% $  0.21  @10% $  0.55
+  literal, equity-only, no-growth                            base   -5.61 g  0.00%  value@5.60% $ -0.59  @10% $ -0.33
+
+Window 2022-2025 (2021 aberrational, IPO year)
+  avg 5.51; net purchases 57.0; owner cash before purchases sum 22.0; avg after acq -8.74
+  2022-25, organic pair, no-growth (sign change)             base    5.51 g  0.00%  value@5.60% $  1.55  @10% $  1.30
+  2022-25, equity-only, no-growth                            base   10.70 g  0.00%  value@5.60% $  1.12  @10% $  0.62
+
+Window 2023-2025 beside: avg 18.17; owner-cash growth shown 22.6% (includes Formation Nation); organic revenue growth 3.27%
+  net purchases 48.5 vs half owner cash before purchases 27.3; avg after acq 2.02
+  2023-25 organic pair, no-growth end                        base   18.17 g  0.00%  value@5.60% $  2.87  @10% $  2.04
+  2023-25 organic pair, organic-growth end                   base   18.17 g  3.27%  value@5.60% $  3.43  @10% $  2.30
+  2023-25 default pair (acq deducted), total growth end      base    2.02 g 22.56%  value@5.60% $  2.20  @10% $  1.55
+
+LTM beside
+  LTM, no growth                                             base   40.75 g  0.00%  value@5.60% $  5.23  @10% $  3.36
+  LTM, organic growth                                        base   40.75 g  3.27%  value@5.60% $  6.48  @10% $  3.95
+  LTM, 2026 guided revenue growth 6% (company outlook, flagged) base   40.75 g  6.00%  value@5.60% $  7.82  @10% $  4.57
+  growth needed on the LTM base for 10% at $6.05: 10.9% a year for ten years
+  expected yield at price, LTM all-equity owner cash / EV: 4.69%
+
+Fair price (Part VII: each end valued at 10%, averaged)
+  central (2022-25 window, no-growth alone): all-equity $1.30  equity-only $0.62
+  literal window: all-equity $0.55  equity-only $-0.33
+  2023-25 organic pair beside: $2.17

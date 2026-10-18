@@ -1,0 +1,31 @@
+2019 equity-only   -13.9  all-equity    63.8
+2020 equity-only   -48.1  all-equity    24.9
+2021 equity-only    23.4  all-equity    23.4
+2022 equity-only   104.8  all-equity    95.6
+2023 equity-only   123.8  all-equity   103.4
+5yr mean equity-only 38.0  all-equity 62.2
+TTM Sep-2024 owner cash (as filed) 194.0; WC release in 9M2024 67.4
+shown growth all-equity 12.838%; sales growth -10.382%
+
+all-equity: base 62.2
+  [net debt as filed + cash-out]
+   range per share: bottom   41.08  top   72.73   (EV bottom 509, top 1146)
+   fair price (avg of ends at 10%):   39.16  (ends at 10%: 319, 622)
+  [plus Quail financing]
+   range per share: bottom   10.03  top   41.68   (EV bottom 509, top 1146)
+   fair price (avg of ends at 10%):    8.11  (ends at 10%: 319, 622)
+
+equity-only: base 38.0
+  [no net debt deduction (equity-only)]
+   range per share: bottom   15.45  top   34.78   (EV bottom 311, top 700)
+   fair price (avg of ends at 10%):   14.28  (ends at 10%: 195, 380)
+
+price 80.00; market cap 1610.17832
+literal-window growth variant check: shown-growth case (uncut) all-equity: 3181.1930780854027
+
+successor sales growth 2021-2023: 15.04%
+EV at $80, net debt as filed + cash-out: 1292; with Quail: 1917
+uncut shown growth 12.84%: value at 5.43% 3181 (per share 173.85); at 10% 1521 (per share 91.34; with Quail 60.29)
+  year-10 owner cash 208 = 22.6% of 2023 sales; best share of sales in window 11.2%
+no-growth yield on EV at $80: 4.82%; with Quail 3.25%
+TTM all-equity approx 174.4; yield on EV 13.50%; with Quail 9.10%

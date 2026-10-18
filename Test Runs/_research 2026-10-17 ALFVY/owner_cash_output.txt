@@ -1,0 +1,38 @@
+year  OC_all  OC_maint  net_acq  OC_after_acq  nonlease_int  capex  own_dep  lease_p  lease_i  OC_all/sales
+2016    4401      4375      217          4184            80    617      643        0        0  0.124
+2017    3811      3857       69          3742            46    675      629        0        0  0.108
+2018    3513      4377      -77          3590            50   1490      626        0        0  0.086
+2019    3822      4503     -303          4125            90   1337      656      561       71  0.082
+2020    6532      7066      -55          6587           106   1232      698      431       78  0.158
+2021    3985      4422     3820           165            57   1229      792      394       74  0.097
+2022    1371      2245     3685         -2314           104   1853      979      446       87  0.026
+2023    6725      8110      337          6388           227   2440     1055      525       94  0.106
+2024    8819     10956       50          8769           228   3336     1199      619      109  0.132
+2025    5999      7305     9408         -3409           198   2660     1354      503      159  0.086
+
+window 2021-2025 averages: OC_all 5380  OC_maint 6608  growth spending 1228  net_acq 3460  OC_after_acq 1920  nonlease_int 163
+serial-acquirer test: net purchases 17300 vs half of OC before purchases 13450 -> SERIAL
+OC_all end-to-end growth 2021->2025 (aggregate): 0.1077
+organic sales growth 2022-2025 compound: 0.0927; total sales growth 2021->2025: 0.1424
+max OC_all/sales in filings read: 0.158
+ten-year averages 2016-2025: OC_all 4898  OC_maint 5722
+
+price 576.4 x 413.326315 = MCAP 238241; EV (excl. leases) 250771
+CENTRAL organic pair, maintenance: no growth
+   base 6608 g 0.0000: EV 211850  per share 482.23  | at 10%: 129.55  | expected return at price 0.0263
+CENTRAL organic pair, maintenance: organic growth, growth spending charged
+   base 6608 g 0.0927: EV 453245  per share 1066.26  | at 10%: 244.80  | expected return at price 0.0523
+beside: organic pair, all spending: no growth
+   base 5380 g 0.0000: EV 172485  per share 386.99  | at 10%: 99.84  | expected return at price 0.0215
+beside: organic pair, all spending: organic growth (spending kept after yr10)
+   base 5380 g 0.0927: EV 382966  per share 896.23  | at 10%: 217.00  | expected return at price 0.0459
+beside: default pair (purchases deducted), no growth only (series changes sign)
+   base 1920 g 0.0000: EV 61552  per share 118.60  | at 10%: 16.13  | expected return at price 0.0077
+beside: ten-year base maintenance, no growth
+   base 5722 g 0.0000: EV 183443  per share 413.51  | at 10%: 108.11  | expected return at price 0.0228
+
+CENTRAL range per share (all-equity, excl. leases): 482.23 to 1066.26  width 2.21x
+FAIR (all-equity): (129.55 + 244.80)/2 = 187.17
+beside: leases as debt (lease cash 602 added back, net debt 16013): fair 199.87
+EQUITY-ONLY range: 499.92 to 1068.54; fair 211.78; expected return at price 0.0271 / 0.0534
+owner-cash yield at price: maint 0.0263  all 0.0215

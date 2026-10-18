@@ -1,0 +1,35 @@
+market cap RMB 48,621m; net debt 12,667m (company definition 10,390m + dividend payable 2,277m); EV 61,288m
+  terminal multiplier (owner cash before purchases / after) 1.0877
+
+CENTRAL all-equity, all spending, acquisitions deducted, total growth [ae_acq] base (5-yr avg) 3,153; end-year growth 2.52%/yr; halves growth -0.28%/yr; literal 2025 3,710
+  no growth     g= 0.00%  value@sov    163,999 -> per share RMB   133.70 | expected return at price  5.41% | value@10%   32,594 -> RMB  17.61/sh
+  shown growth  g= 2.52%  value@sov    206,512 -> per share RMB   171.27 | expected return at price  6.55% | value@10%   38,810 -> RMB  23.10/sh
+  literal window beside: 2025 alone 3,710 -> no-growth expected return 6.34%
+  range per share RMB 133.70 to 171.27 (width 1.28x on equity value)
+  FAIR PRICE RMB 20.35 = HK$ 23.76 = US$ 12.11 per ADS
+  terminal multiplier (owner cash before purchases / after) 1.1001
+
+BESIDE equity-only, all spending, acquisitions deducted [eq_acq] base (5-yr avg) 2,764; end-year growth 2.53%/yr; halves growth -0.30%/yr; literal 2025 3,364
+  no growth     g= 0.00%  value@sov    145,145 -> per share RMB   128.24 | expected return at price  6.00% | value@10%   28,710 -> RMB  25.37/sh
+  shown growth  g= 2.53%  value@sov    182,923 -> per share RMB   161.62 | expected return at price  7.23% | value@10%   34,215 -> RMB  30.23/sh
+  literal window beside: 2025 alone 3,364 -> no-growth expected return 7.26%
+  range per share RMB 128.24 to 161.62 (width 1.26x on equity value)
+  FAIR PRICE RMB 27.80 = HK$ 32.45 = US$ 16.54 per ADS
+  terminal multiplier (owner cash before purchases / after) 1.0000
+
+BESIDE all-equity before purchases (pre-acquisition series) [ae] base (5-yr avg) 3,429; end-year growth -3.44%/yr; halves growth -5.82%/yr; literal 2025 3,484
+  no growth     g= 0.00%  value@sov    166,476 -> per share RMB   135.89 | expected return at price  5.60% | value@10%   34,294 -> RMB  19.11/sh
+  shown growth  g=-3.44%  value@sov    121,325 -> per share RMB    96.00 | expected return at price  4.20% | value@10%   27,269 -> RMB  12.90/sh
+  literal window beside: 2025 alone 3,484 -> no-growth expected return 5.69%
+  range per share RMB 96.00 to 135.89 (width 1.42x on equity value)
+  FAIR PRICE RMB 16.00 = HK$ 18.68 = US$ 9.52 per ADS
+  terminal multiplier (owner cash before purchases / after) 1.0389
+
+BESIDE depreciation variant (capex replaced by D&A), acquisitions deducted [maint_acq] base (5-yr avg) 7,118; end-year growth -0.60%/yr; halves growth -2.95%/yr; literal 2025 7,316
+  no growth     g= 0.00%  value@sov    356,484 -> per share RMB   303.77 | expected return at price 11.76% | value@10%   72,246 -> RMB  52.64/sh
+  shown growth  g=-0.60%  value@sov    337,513 -> per share RMB   287.01 | expected return at price 11.32% | value@10%   69,381 -> RMB  50.11/sh
+  literal window beside: 2025 alone 7,316 -> no-growth expected return 12.09%
+  range per share RMB 287.01 to 303.77 (width 1.06x on equity value)
+  FAIR PRICE RMB 51.37 = HK$ 59.98 = US$ 30.57 per ADS
+
+price per share RMB 42.96; HK$ 50.15; implied ADS US$ 25.56; USD/HKD cross 7.8475

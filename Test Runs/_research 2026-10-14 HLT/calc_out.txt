@@ -1,0 +1,55 @@
+year   OCF  SBC capex soft acq  FLP  ownerCash(eq) ownerCash+aftertaxInt  sales  oc/sales  advances key
+2017   849  121   58   75    0 None        595          843     3404   17.5%    363   75
+2018  1255  127   72   87    0 None        969         1230     3668   26.4%    189  103
+2019  1384  154   81  124    0   42        983         1267     3766   26.1%    174   90
+2020   708   97   46   46    0   26        493          835     1600   30.8%    825   50
+2021   109  193   35   44    0   40       -203           81     2444   -8.3%   -233  200
+2022  1681  162   39   63    0   42       1375         1678     3736   36.8%    205   81
+2023  1946  169  151   96    0   40       1490         1879     4408   33.8%    552  233
+2024  2013  176   96  102  236   38       1365         1809     4746   28.8%    572  105
+2025  2129  170  101   84    4   41       1729         2241     4954   34.9%    481  231
+cycle 2019-2025: owner cash eq 1033; all-equity 1398; before acquisitions eq 1067; key money avg 141; advances avg 368
+literal window 2021-2025: owner cash eq 1151; all-equity 1537; before acquisitions eq 1199; key money avg 170; advances avg 315
+halves (all-equity): 2019-21 728, 2023-25 1976; growth over 4 yrs 28.4%
+peak-to-peak owner cash 2019->2025 (eq) 9.9%; all-equity 10.0%
+sales (before reimbursements) 2019->2025 4.7%; M&F fees 2019->2025 7.5%
+highest owner cash / sales in years read: 36.8% (2022)
+test (f): 2025 share 34.9% carried ten years at 9.9% vs sales at 4.7% -> 56.6%
+
+price 329.59 x 225.06491M = cap 74,179; net debt 12,435; EV 86,614
+sales growth between the same halves (carries the 2020-21 trough): 15.9%
+
+ALL-EQUITY (central): base 1398
+  no growth                                     value@5.56%    25,152 -> $   56.50/sh ; @10% $    6.89/sh ; expected return at price 1.61%
+  shown growth, cut to M&F fee growth 7.5%      value@5.56%    45,696 -> $  147.79/sh ; @10% $   49.08/sh ; expected return at price 3.09%
+  sales growth 4.7%                             value@5.56%    36,479 -> $  106.83/sh ; @10% $   30.36/sh ; expected return at price 2.45%
+  EXTREME: sales growth between halves          value@5.56%    88,487 -> $  337.91/sh ; @10% $  133.71/sh ; expected return at price 5.66%
+  EXTREME: uncut halves growth 28.4%            value@5.56%   225,751 -> $  947.80/sh ; @10% $  395.92/sh ; expected return at price 11.15%
+
+ALL-EQUITY, key money as growth: base 1540
+  no growth                                     value@5.56%    27,696 -> $   67.81/sh ; @10% $   13.17/sh ; expected return at price 1.78%
+  shown growth, cut to M&F fee growth 7.5%      value@5.56%    50,318 -> $  168.32/sh ; @10% $   59.63/sh ; expected return at price 3.38%
+  sales growth 4.7%                             value@5.56%    40,168 -> $  123.22/sh ; @10% $   39.02/sh ; expected return at price 2.69%
+  EXTREME: sales growth between halves          value@5.56%    97,435 -> $  377.67/sh ; @10% $  152.82/sh ; expected return at price 6.13%
+  EXTREME: uncut halves growth 28.4%            value@5.56%   248,581 -> $ 1049.24/sh ; @10% $  441.55/sh ; expected return at price 11.89%
+
+EQUITY-ONLY: base 1033
+  no growth                                     value@5.56%    18,582 -> $   82.56/sh ; @10% $   45.90/sh ; expected return at price 1.39%
+  shown growth, cut to M&F fee growth 7.5%      value@5.56%    33,759 -> $  150.00/sh ; @10% $   77.08/sh ; expected return at price 2.69%
+  sales growth 4.7%                             value@5.56%    26,950 -> $  119.74/sh ; @10% $   63.25/sh ; expected return at price 2.12%
+  EXTREME: sales growth between halves          value@5.56%    65,371 -> $  290.46/sh ; @10% $  139.60/sh ; expected return at price 5.00%
+  EXTREME: uncut halves growth 28.4%            value@5.56%   166,778 -> $  741.02/sh ; @10% $  333.31/sh ; expected return at price 10.08%
+
+literal window 2021-2025 all-equity base 1537; end-to-end growth 129.6% (from a negative-to-low 2021, meaningless; cut by (f))
+  no growth                                     @rf $   67.60/sh ; @10% $   13.06/sh ; return at price 1.77%
+  shown growth, cut to M&F fee growth 7.5%      @rf $  167.95/sh ; @10% $   59.44/sh ; return at price 3.38%
+  sales growth 4.7%                             @rf $  122.93/sh ; @10% $   38.86/sh ; return at price 2.68%
+  EXTREME: sales growth between halves          @rf $  376.96/sh ; @10% $  152.47/sh ; return at price 6.12%
+  EXTREME: uncut halves growth 28.4%            @rf $ 1047.42/sh ; @10% $  440.73/sh ; return at price 11.87%
+
+2025 alone (sensitivity, not the convention) all-equity 2241: return at price, 7.5% growth 4.78%
+
+FAIR PRICE all-equity: ends $6.89 and $49.08 -> $27.98; equity-only ends $45.90, $77.08 -> $61.49
+fair price, key-money-as-growth variant: $36.40
+
+buyback prices paid: 2025 $3,182M incl excise / 12.5M sh ~= $ 254.56 ; Q4 2025 $272.40; H1 2026 $314.62; Q2 2026 $326.99

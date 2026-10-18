@@ -1,0 +1,38 @@
+year  OCF   eq-only  all-equity  purchases  all-eq after purchases  OCF-share-of-sales
+2022 27.0 -5.7 27.5 136.1 -108.6 2.2%
+2023 33.9 4.9 51.1 125.4 -74.3 3.2%
+2024 29.3 2.4 65.8 257.8 -191.9 3.1%
+2025 256.9 147.5 219.6 16.5 203.1 8.6%
+means: eq-only 37.3  all-equity 91.0  all-eq after purchases -42.9
+variant, company-funded stock pay only: eq-only 53.4  all-equity 107.1
+serial-acquirer test: purchases 535.7 vs half of owner cash before purchases 182.0
+organic growth derived: 2024 10.2%, 2025 16.8%, mean 13.5%
+total sales growth 2022-2025 27.0%
+Bowers owner cash, mean FY2024-25, before tax 61.5 after the run's tax rate 45.0
+net debt 792.6  (TRA liability 342.7 shown beside)  market cap 4704.5  EV 5497.1
+
+CENTRAL all-equity organic pair, window 2022-25 + Bowers: base 136.0, growth 13.5%
+  value at 5.43%: no-growth EV 2505 -> $15.84/sh ; growth EV 7314 -> $60.34/sh ; width 2.92x (EV), per share 3.81x
+  expected return at price (EV 5497): no-growth 2.47% ; growth case IRR 6.90%
+  fair price (each end at 10%, averaged): EV 2419 -> $15.05/sh
+
+cap check: growth cut to discount rate: base 136.0, growth 5.4%
+  value at 5.43%: no-growth EV 2505 -> $15.84/sh ; growth EV 3865 -> $28.43/sh ; width 1.54x (EV), per share 1.79x
+  expected return at price (EV 5497): no-growth 2.47% ; growth case IRR 3.91%
+  fair price (each end at 10%, averaged): EV 1668 -> $8.10/sh
+
+literal window, all-equity, no Bowers: base 91.0, growth 13.5%
+  value at 5.43%: no-growth EV 1676 -> $8.17/sh ; growth EV 4893 -> $37.94/sh ; width 2.92x (EV), per share 4.64x
+  expected return at price (EV 5497): no-growth 1.66% ; growth case IRR 4.91%
+  fair price (each end at 10%, averaged): EV 1619 -> $7.64/sh
+
+variant: company-funded stock pay only, + Bowers: base 152.1, growth 13.5%
+  value at 5.43%: no-growth EV 2801 -> $18.59/sh ; growth EV 8179 -> $68.35/sh ; width 2.92x (EV), per share 3.68x
+  expected return at price (EV 5497): no-growth 2.77% ; growth case IRR 7.57%
+  fair price (each end at 10%, averaged): EV 2706 -> $17.70/sh
+
+EQUITY-ONLY beside: base 87.6 (after current interest 66.1 taxed at 26.73%)
+  value 14.92 to 43.58 per share; return at price: no-growth 1.86%, growth IRR 5.44%
+  fair price equity-only $14.42
+
+DEFAULT pair beside: mean owner cash after purchases -42.9 (negative: no positive value on this pair)

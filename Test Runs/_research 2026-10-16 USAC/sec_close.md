@@ -1,0 +1,90 @@
+## Q3 — HOW MUCH CAPITAL MUST GO IN to get the earnings out, and what does the added capital earn? WEIGHING.
+NOT REACHED (Q2 closed the file OUT). Facts found are under AFTER THE STOP.
+
+## Q4 — DO THE NUMBERS SHOW WHAT IT EARNS after every real cost? STOP on confusion or suspicion; otherwise WEIGHING.
+NOT REACHED. The balance sheets were read at Step 0, as the template asks when the file may close first; the facts on the accounts are under AFTER THE STOP.
+
+## Q5 — WHO RUNS IT: able, honest, in love with the business, the same after being paid. STOP on integrity.
+NOT REACHED. Integrity facts found on the way are recorded under AFTER THE STOP, not judged.
+
+## Q6 — WHAT WILL THEY DO WITH THE MONEY AND THE OWNERS? WEIGHING.
+NOT REACHED. The buyback line Q6 would take from Q7's range: the 10-K reports no purchases ("Issuer Purchases of Equity Securities: None.", Item 5), so there are no prices paid to set against the bottom of the range.
+
+## Q7 — WHAT IS IT WORTH? STOP.
+NOT REACHED. The range and the fair price are reported under AFTER THE STOP as a COMPUTATION, NOT A CLEARANCE.
+
+## Q8 — IS IT BETTER THAN THE ALTERNATIVES? STOP.
+NOT REACHED.
+
+## Q9 — COULD IT RUIN US: the target's debt and exposures. WEIGHING.
+NOT REACHED. Debt facts are under AFTER THE STOP.
+
+## Q10 — IS IT THE FAT PITCH, and am I buying enough? WEIGHING.
+NOT REACHED.
+
+## Q12 (optional) — WOULD WE BE PROUD OF HOW THE MONEY IS MADE?
+NOT REACHED. Nothing in the filings read touches the businesses the framework names.
+
+---
+## THE BOX
+**OUT at Q2**: a castle that stands but protects only ordinary returns over the full cycle, on the filer's and the rivals' own filings (pre-tax operating returns on tangible assets of 3% to 7% from 2014 to 2022 for USAC and Archrock, 9% to 13% only at the 2023 to 2025 peak; revenue per horsepower flat from 2014 to 2021; "low barriers to entry" in Archrock's own 10-K; no low-cost producer among the three) **[L2007-004]**, **[M1998-006]**, **[M2012-106]**, **[M2005-020]**. Integrity facts recorded, not judged. COMPUTATION beneath the stop: value $22.79 to $25.93 a unit on the all-equity basis against $24.88; fair price $3.79 a unit all-equity ($10.38 equity-only beside); the expected return at the price is 5.2% to 5.6% on every central case, below the floor, so the computation would close OUT as well.
+
+## AFTER THE STOP: FACTS FOUND, NOT WEIGHED
+*(Written down, not weighed; no verdict; the box is unchanged, operator rule 2. Each with its source **[M1997-127]**.)*
+
+**Bearing on Q3 (capital).**
+- Total fleet spending (cash capex plus inventory transferred into the fleet) was $1,263.0M from 2019 to 2025, about $180M a year, while fleet horsepower rose 5.7% (3,682,968 to 3,894,332 HP; 10-Ks FY2019 and FY2025). Depreciation and amortization over the same years averaged $248.8M (of which intangible amortization $29.4M a year). The filer's "maintenance capital" was $29.6M, $23.3M, $19.5M, $23.8M, $25.2M, $31.9M and $39.4M (2019 to 2025, each year's 10-K, Item 7), $192.7M in all. The filer's definition counts as expansion any spending "to replace certain partially or fully depreciated assets that at the time of replacement were not generating operating income" (Item 7).
+- A replacement estimate from three filed facts: fleet 3,894,332 HP, a 25-year life for new compression equipment (Note 5), and new units at about $1,240 a horsepower ($78.4M of commitments for 63,250 HP on order, Item 7) gives about $193M a year to stand still, the rows' "expenditures that a company must make to maintain its competitive position" **[L1999-024]**, against the filer's stated $39.4M.
+- The J-W purchase: total consideration $911.6M at fair value ($900.9M net of cash acquired), of which about $430M cash and 18,175,323 common units (10-Q Note 3; 8-K accession 0001522727-26-000007), for about 1.0 million HP (about $900 a horsepower). J-W's own audited year to 2025-10-31: revenue $362.4M, operating income $81.6M, net income $51.2M after $13.5M of income tax, operating cash $105.7M, capital spending $78.2M, dividends to its seller $80.5M (8-K/A accession 0001522727-26-000031, Exhibit 99.1). Owner cash before interest after its own tax, $48.2M: 5.3% of the price net of cash; operating income 9.1% of it, pre-tax.
+
+**Bearing on Q4 (the accounts).**
+- Adjusted EBITDA is presented as "one of management’s primary tools for evaluating our results of operations" and is tracked "on a monthly basis" (10-K FY2025, Item 7); DCF and a "DCF Coverage Ratio" of 1.45x are featured, with DCF deducting only the filer's maintenance capital ($39.4M) against depreciation and amortization of $284.8M. The rows on the figure: "The one figure we regard as utter nonsense is the so-called EBITDA" **[M1998-086]**; and on featured adjusted figures, **[L2016-006]**. The filer's own text concedes the limitation: "Because we capitalize assets, depreciation and amortization of equipment is a necessary element of our cost structure" (Item 7). Not weighed.
+- Part of the capital spending passes through operating cash as inventory purchases later moved into the fleet ($37.3M in 2025, $78.5M in 2024, $54.6M in 2023), so operating cash and capex are each understated by the same amount (Step 0).
+- The IRS examined the 2019 and 2020 partnership returns; "preliminary partnership examination changes" gave "imputed underpayment computations of approximately $30.3 million, including interest", against $2.9M accrued (Item 7, Critical Accounting Estimates; Note 17).
+- Auditor Grant Thornton since 2017; "We determined that there are no critical audit matters."; internal control opinion unqualified (10-K FY2025, page F-2).
+- Unit-based compensation is largely a liability marked to the unit price: expense $4.3M in 2025 against $16.6M in 2024, the fall attributed in part to "mark-to-market changes to our unit-based compensation liability"; cash settlements of $8.5M and DER payments of $2.0M in 2025 (Item 7).
+
+**Bearing on Q5 (the people). Integrity facts, recorded and not judged** (Part VII; a later run that reaches Q5 must answer them **[M2013-088]**):
+- The general partner is wholly owned by Energy Transfer, which held 46,056,228 common units (about 32%) at 2026-06-30 (10-Q). The 10-K's risk factors state that the general partner and its affiliates "have conflicts of interest with us and limited fiduciary duties, and they may favor their own interests to the detriment of us and our unitholders", that the partnership agreement "limits the General Partner’s fiduciary duties" and "restricts the remedies available to our unitholders", and that Energy Transfer "and its affiliates are not prohibited from engaging in businesses or activities that are in direct competition with us" (Item 1A).
+- Related-party dealings with Energy Transfer: related-party revenue $65.0M in 2025 (from customers Energy Transfer acquired); units packaged in part by "Standard Equipment Company, a subsidiary of Energy Transfer"; shared services in accounting, IT and human resources; executive pay set with "internal compensation levels within Energy Transfer" and the input of Energy Transfer's Co-CEO, with Energy Transfer's own pay consultant engaged (Items 1, 11; Note 14).
+- The general partner holds a call right on the common units (Item 1A).
+- Changes of officers in 2025 and 2026 (8-Ks with Item 5.02 filed 2025-02-28, 2025-03-06, 2025-07-03, 2026-03-10, 2026-04-30) were seen in the filing list and not read.
+
+**Bearing on Q6 (the money and the owners).**
+- Distributions of $2.10 a unit have been declared every year from 2016 to 2025 (statements of partners' capital; 10-K FY2025), while net income per unit was $0.21, $0.72 and $0.85 in 2023 to 2025 and partners' capital turned negative in 2022. "Because we distribute all of our available cash", growth and acquisitions are funded "primarily with capital from external financing sources" (Item 7).
+- Issuance since 2018: 19,191,351 common and 6,397,965 Class B units to Energy Transfer's predecessor in the 2018 CDM combination with $1.2B cash; $500M of Series A Preferred Units with warrants for 15 million units (2018; all now converted or exercised); 18,175,323 units for J-W (2026). In the J-W deal the units' fair value (about $481.6M, total consideration less about $430M cash) exceeded the cash, so by Q7's rule the deal is classed with mergers (paid mainly in units); it was not all-stock, so Q6's narrower STOP **[L2009-019]** would not be reached by its terms. The rows' sign on serial issuers is **[L2014-015]**. Not weighed.
+- The Class A Units of 2026-10-01 pay a fixed 9.25% from the partnership to its own corporate subsidiary J-W Energy and carry special tax allocations (8-K accession 0001522727-26-000098); their purpose is not stated in the 8-K.
+- No buybacks (Item 5).
+
+**Bearing on Q9 (debt and exposures).**
+- Debt $2,960M principal at 2026-06-30: revolver $1,210M (asset-based, matures 2030-08-27, or 2028-12-14 if more than $50M of the 2029 notes remain), 7.125% notes due 2029 $1,000M, 6.250% notes due 2033 $750M; then $600M of 6.750% notes due 2035 used to repay revolver borrowings (8-K 2026-09-24). Leverage ratio 4.00x at 2025-12-31 against a 5.50x covenant; interest coverage covenant 2.50x (Item 1A). Interest on today's debt at its coupons is about $194M a year. If the cash flow projections fail, the filer names its remedies: issue equity, ask the banks for covenant relief, "reduce distributions from our current distribution rate or suspend distributions altogether" (Item 7). The rows' rule on maturities is **[L2010-020]**; the acquisition criterion is "little or no debt" **[R1997-001]**.
+- The ten largest customers were 46% of 2025 revenue (Item 1).
+
+**COMPUTATION, NOT A CLEARANCE (Q7's construction, reported at the owner's request; no entry language).** The arithmetic is `q7_computation.py`, its output `q7_output.txt`.
+- **Owner cash after every real cost, on the all-equity basis** (operating cash, less stock pay, less all capital spending, plus disposal proceeds, plus cash interest paid; the company's own tax is inside operating cash and is small, $1.7M paid in 2025, because a partnership is not taxed as a corporation, while J-W, a corporation, pays its own): 2019 $250.8M, 2020 $300.3M, 2021 $331.4M, 2022 $243.8M, 2023 $180.6M, 2024 $276.9M, 2025 $456.4M. The series runs against the cycle because the partnership stops buying units in downturns.
+- **(a) Cycles.** The first year of the literal window, 2021, is the trough on the filer's own description (utilization 82.7%, the lowest in the record, after the 2020 downturn). The base is therefore the average of the last full cycle on the combined partnership's record, 2019 to 2025, peak to peak by utilization (94.1% and 94.3%): **$291.5M**. Growth between successive cycles cannot be measured (one combined cycle on file), so it is measured between the cycle's halves (2019 to 2021 against 2023 to 2025, midpoints four years apart): **0.88% a year**. The literal window is shown beside.
+- **(b) Decline.** Not negative; not applied.
+- **(c) Acquisitions.** None paid in cash inside the window. J-W closed 2026-01-12, after the window and before the price date: valued on its own filed year, owner cash $48.2M after its own tax, added at no growth (one year of record shows none); its financing is already in the net debt and its units in the count. The CDM combination of 2018 sits before the window's base years. Not a serial acquirer inside the window.
+- **(d) Working capital** is inside operating cash, including the inventory that becomes fleet.
+- **(e) Maintenance.** The filer's stated maintenance figure is contradicted by its own fleet record (above, Q3 facts); the guess the filing allows, about $193M a year, is at or above the average total spending of $180M a year, so a maintenance-only case would not be higher than the all-spending case. The central case deducts all spending; the D&A variant is beside.
+- **(f) The cap.** The cycle growth of 0.88% is below the sales growth and the discount rate; no cut. The literal window's 8.33% (2021 to 2025 end years) carried ten years stays under the highest owner-cash share of sales in the filings read (52.4%, 2021), so it is not cut either; it is shown only beside, since its first year is the trough.
+- **Central range, all-equity basis** (central owner cash $339.6M = $291.5M + $48.2M; ten years at the growth shown, then zero growth, at the 5.43% sovereign; less net debt $2,950.5M; over 144.943M units): no-growth end **$22.79**, shown-growth end **$25.93** a unit, against **$24.88**. Width 1.14 to 1.
+- **The floor, tested first.** At the price (enterprise value $6,556.7M) the expected return is **5.18%** on the no-growth end and **5.55%** on the shown-growth end, below the floor of about ten percent **[M2003-149]** on every central case, so Q7 would close OUT whatever the width; the price also sits inside the range, the close call the rows refuse **[M2009-005]**.
+- **Fair price (reporting figure, Part VII):** each end valued at ten percent, averaged: **$3.79 a unit on the all-equity basis** (central figure); **$10.38 a unit equity-only** (owner cash after about $193.6M of interest on today's debt at its coupons, against the market value of the units), shown beside and never deciding. The company's own tax is the tax used.
+- **Beside.** Literal window 2021 to 2025: no-growth $23.60, shown growth (8.33%) $65.10 a unit; expected return at the price 5.28% and 9.47%, both below the floor. D&A variant (depreciation as the spending charge, cycle base $263.8M with J-W): $13.16 a unit, return at the price 4.02%. Equity-only: $18.55 to $19.89 a unit at the sovereign, return at the price 4.05% to 4.35%.
+
+## SELF-AUDIT
+- [x] Copied to the dated file before any fetch; written question by question; committed after each (write-early): skeleton, Step 0 to Q1, Q2, close.
+- [x] Dispatched run: the brief allowed the per-question pathspec commits; the lock is the dispatching session's; the fold is the dispatcher's (operator rule ten). Not in the register until folded.
+- [x] No other run file, holding review or `PORTFOLIO.md` was opened, listed or searched. Declared under contamination at the top: the session's opening commit subjects (another company's re-run), the memory index lines, and one file-name listing of `Test Runs/` filtered for this run's own name, which returned nothing.
+- [x] Every v5 id resolves in `principle_ledger_v5.csv` (`check_citations.py` in the research folder); every filing fact has its accession; numbers come from filings or carry their derivation in `returns.py` and `q7_computation.py`.
+- [x] The order was kept; Q1 IN, Q2 OUT closed the run; nothing after it is a clearance; every later figure is headed COMPUTATION, NOT A CLEARANCE.
+- [x] Owner cash after every real cost, no net-income proxy (operator rule 5); stock pay deducted; all capital spending deducted, with the inventory route found and counted; the sovereign from the US Treasury, dated; the price is an aggregator quote, flagged.
+- [x] Contrary evidence written as found (the foundations); facts for later questions under AFTER THE STOP, with "integrity facts recorded, not judged" in the box line.
+- [x] Not a point-in-time run; no anchor.
+- [x] Only the arithmetic lines of `tools/run.py` were used; its three-year owner-earnings lines were not used, because they miss the inventory route and use a three-year window.
+- [x] `python tools/check_framework.py` PASS before the closing commit.
+- Weak points, said plainly: the return table uses year-end tangible assets and first-filed XBRL values, with Archrock's 2020 and 2021 long-lived impairments untagged (its returns those years are understated, so the comparison leans in the business's favour if anything); Kodiak's revenue per horsepower is an approximation from year-end figures; the J-W record is a single year; Enerflex was flagged and not compared; the officer-change 8-Ks were not read.
+
+## WHAT IN THE FRAMEWORK WAS WRONG OR UNCLEAR
+Three things. (1) **Two Q2 rules meet on a cyclical field at its peak.** The OUT rule for "a field whose durable players earn ordinary returns over a full cycle" and the convention that "a change for the better is credited only on the evidence of a full cycle", TOO HARD (NATURE) until then, can both be read onto a field that earned ordinary returns through the last cycle and good ones in the latest three years. This run read the recent years as the up-leg of the same cycle (no filing claims a structural change; an earlier rise of the same kind, 2012 to 2014, was followed by falls), so the OUT rule governed. The text does not say which rule governs when the improvement is not claimed by anyone as a change, and another analyst could close the same facts TOO HARD (NATURE) with a re-look at the first year the field's volume falls; the dispatcher may want the line drawn. (2) **Whose tax, for a partnership.** "The company's own tax" is nearly nil for a publicly traded partnership because its holders pay the tax on allocated income, so the floor is applied to cash before any income tax at all, while a corporation's owner cash is after a 21% federal rate. The convention makes a partnership look about a fifth cheaper than the same business in corporate form; it did not decide anything here, but the text does not mention partnerships. (3) **The maintenance guess when the filer's own figure is implausible.** Specific (e) says the maintenance-only case is central "where the filing allows the guess" but not what to do when the filing states a maintenance figure ($39.4M) that its own fleet record contradicts; this run built the guess from filed facts (fleet, life, unit cost) and, because it came out at or above total spending, kept the all-spending case central. A sentence saying the analyst's own guess from filed facts is allowed, and the filer's label is not binding, would settle it. Also noted: `Screens/cover_shares.py` parsed no count from this filer's 10-Q cover, and `tools/run.py` does not see capital spending routed through inventory.

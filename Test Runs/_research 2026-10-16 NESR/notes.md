@@ -1,0 +1,1 @@
+# NESR run notes 2026-10-16

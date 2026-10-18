@@ -1,0 +1,36 @@
+years [2021, 2022, 2023, 2024, 2025]
+AFFO [1412, 1701, 1838, 1862, 1964]
+owner cash before interest, maintenance only [1961, 2452, 2912, 3217, 3353] avg 2779
+owner cash equity basis, maintenance only [1139, 1395, 1509, 1499, 1582] avg 1425
+owner cash before interest, depreciation variant [1138, 1556, 1933, 2142, 2280] avg 1810
+growth capex avg 1997
+organic growth used 0.0825
+shown aggregate growth 2021-25: unlevered maint 0.1435, equity 0.0856
+revenue growth 2021-25 0.1097
+owner cash / revenue [0.371, 0.373, 0.409, 0.416, 0.419]
+cap check: year-10 owner cash 6140 vs revenue 19672 -> share 0.312
+
+== sovereign 5.43%
+ ALL-EQUITY  no-growth (maint): EV 51179 -> per unit 20.45
+ ALL-EQUITY  growth 8.25% less growth capex: EV 83758 -> per unit 61.60
+ ALL-EQUITY  growth 8.25% with NO growth capex charged (generous test): EV 98863 -> per unit 80.68
+ ALL-EQUITY  depreciation variant, no growth: EV 33330 -> per unit -2.10
+ EQUITY-ONLY no-growth: 26239 -> per unit 33.14
+ EQUITY-ONLY growth less growth capex: 35583 -> per unit 44.94
+ EQUITY-ONLY growth, no growth capex charged: 50687 -> per unit 64.02
+== floor 10%
+ ALL-EQUITY  no-growth (maint): EV 27790 -> per unit -9.10
+ ALL-EQUITY  growth 8.25% less growth capex: EV 36871 -> per unit 2.37
+ ALL-EQUITY  growth 8.25% with NO growth capex charged (generous test): EV 49143 -> per unit 17.88
+ ALL-EQUITY  depreciation variant, no growth: EV 18098 -> per unit -21.34
+ EQUITY-ONLY no-growth: 14248 -> per unit 18.00
+ EQUITY-ONLY growth less growth capex: 12924 -> per unit 16.32
+ EQUITY-ONLY growth, no growth capex charged: 25196 -> per unit 31.82
+
+fair price all-equity (avg of ends at 10%): -3.36  ends [-9.1, 2.37]
+fair price equity-only (avg of ends at 10%): 17.16  ends [18.0, 16.32]
+market EV at price 64870; owner cash before interest avg / EV = 0.0428; 2025 / EV = 0.0517
+equity-only: avg owner cash / market cap = 0.0477; 2025 = 0.0529
+derived net acquisitions 2021-25: dND 19288 + dIC 3593 + retained 1199 - growth capex 9986 = 14094 (avg 2819)
+default-pair base (maint OC - growth capex - net acq): -2037
+serial-acquirer test: net purchases 14094 vs half of owner cash before purchases (unlevered) 6948 / (equity) 3562

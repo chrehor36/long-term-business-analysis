@@ -19,6 +19,9 @@ analyst finishes: you write the brief, and the brief must not carry the name's h
 A name is DONE when its ticker is a line in `Screens/_daily/_v5_rerun_done.txt`. Take the FIRST ticker in the order
 file (lines starting `#` are comments) that is not done.
 
+**A key `TICKER-U`** (added 2026-10-18) is a re-run of TICKER under Q7, The regulated utility. For it, A below counts
+only a run file dated after 2026-10-18; the earlier v5 run of TICKER binds as written and is not resumed or opened.
+
 **A. A v5 run file for that ticker exists and the name is not done** (look in `Test Runs/` for a file named
 `2026-1*-* Run - <TICKER> *.md` dated 2026-10-07 or later):
    - **If it was modified in the last 45 minutes, DO NOT TOUCH IT**; another session may be writing it. Log one line
@@ -72,8 +75,11 @@ The brief is the canonical brief, with its slots filled and nothing else changed
 4. Large files: list the run's tracked research files over 200 KB (`git ls-files` plus sizes). Any filing or data
    dump among them: `git rm --cached` it and commit the removal **without a pathspec, after checking that only those
    deletions are staged** (a pathspec commit re-adds a file from the working tree).
-5. Fold with `python tools/v5_rerun_fold.py <batch.json>`, written to the run's research folder. The entry text, the
-   box, the fair price (the run's all-equity figure; where the run reports no positive central fair price, the
+5. An order key of the form `TICKER-U` is a re-run of TICKER under Q7, The regulated utility (2026-10-18): run TICKER
+   as any name, with the run file and research folder dated today; in the batch give `"t": "TICKER"`,
+   `"key": "TICKER-U"` and `"rerun": true`.
+   Fold with `python tools/v5_rerun_fold.py <batch.json>`, written to the run's research folder. The entry text, the
+   box, the fair price (the run's central figure: all-equity, or equity-only for a regulated utility under Q7, The regulated utility, said so in the label; where the run reports no positive central fair price, the
    organic pair's figure, said so in the label; none where the box is not OUT at Q7 or IN) come from the run file,
    in the form the register's `### v5 RE-RUN BATCH` entries already use. The batch label is `overnight <date>`.
 6. Fill the run file's POSITION NOTE only if the template clause asks the dispatcher to: read `PORTFOLIO.md` for that

@@ -1,0 +1,21 @@
+2021 tax 0.258 | all-equity: all-spend   -104.7 maint    75.6 | equity-only: all-spend   -137.2 maint    43.2 | growth capex  180.4
+2022 tax 0.252 | all-equity: all-spend   -156.2 maint    65.7 | equity-only: all-spend   -194.2 maint    27.7 | growth capex  221.9
+2023 tax 0.256 | all-equity: all-spend      8.6 maint   210.4 | equity-only: all-spend    -51.0 maint   150.8 | growth capex  201.8
+2024 tax 0.283 | all-equity: all-spend   -146.2 maint   110.3 | equity-only: all-spend   -197.3 maint    59.2 | growth capex  256.5
+2025 tax 0.267 | all-equity: all-spend   -120.4 maint   181.0 | equity-only: all-spend   -201.9 maint    99.5 | growth capex  301.4
+means: all-eq all-spend -103.8; all-eq maint 128.6; eq-only all-spend -156.3; eq-only maint 76.1; growth capex 232.4; acquisitions 94.2
+net debt 2026-06-30 2599.4; market cap 2062.2; EV 4661.6
+serial acquirer test: purchases 471.0 vs half of all-eq maint owner cash before purchases 321.5
+maint series halves: 70.7 -> 145.6, rate 0.272; sales growth 0.106; max owner cash/sales 0.176
+unlevered authorized return 0.0649
+ALL-EQUITY (less net debt), per share
+  d=0.0543: M0   -5.49  G    2.64  literal all-spend no-growth  -107.16  default pair (acq deducted) M0  -46.70
+  d=0.1: M0  -31.20  G  -43.12  literal all-spend no-growth   -86.41  default pair (acq deducted) M0  -53.58
+  fair price all-equity -37.16
+EQUITY-ONLY, per share (growth half equity-financed at 9.5% authorized ROE)
+  d=0.0543: M0   33.28  G   48.93  literal all-spend   -68.39
+  d=0.1: M0   18.07  G   17.22  literal all-spend   -37.13
+  fair price equity-only 17.65
+yields at price: all-eq maint 0.0276; equity-only maint 0.0369
+generous all-equity stream: value at rf 25.07/sh; return at price 0.0433
+generous equity-only stream: return at price 0.0567

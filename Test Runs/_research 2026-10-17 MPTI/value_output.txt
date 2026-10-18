@@ -1,0 +1,29 @@
+market cap 288,649  net debt -97,000  EV 191,649
+
+== maint, all-equity (central) base 3,076
+  no growth                    value EV    56,648  per share   35.35  | expected return at price  1.61% | at 10%: per share   29.39
+  cut to discount rate 5.43%   value EV    87,408  per share   42.43  | expected return at price  2.59% | at 10%: per share   32.59
+  sales growth 19.49%          value EV   263,360  per share   82.91  | expected return at price  7.01% | at 10%: per share   49.98
+
+== all-spend, all-equity base 2,358
+  no growth                    value EV    43,425  per share   32.31  | expected return at price  1.23% | at 10%: per share   27.74
+  cut to discount rate 5.43%   value EV    67,005  per share   37.73  | expected return at price  2.01% | at 10%: per share   30.19
+  sales growth 19.49%          value EV   201,886  per share   68.77  | expected return at price  5.67% | at 10%: per share   43.52
+
+== maint, as-filed tax (beside) base 3,586
+  no growth                    value EV    66,041  per share   37.51  | expected return at price  1.87% | at 10%: per share   30.57
+  cut to discount rate 5.43%   value EV   101,901  per share   45.76  | expected return at price  3.00% | at 10%: per share   34.30
+  sales growth 19.49%          value EV   307,025  per share   92.95  | expected return at price  7.90% | at 10%: per share   54.57
+
+== 2025 alone maint all-equity (not the convention; shown for the floor test) base 6,596
+  no growth                    value EV   121,473  per share   50.26  | expected return at price  3.44% | at 10%: per share   37.49
+  cut to discount rate 5.43%   value EV   187,433  per share   65.44  | expected return at price  5.32% | at 10%: per share   44.35
+  sales growth 19.49%          value EV   564,734  per share  152.25  | expected return at price 12.41% | at 10%: per share   81.64
+fair price all-equity [maint central, top growth 5.43%]: ends 29.39 / 32.59 -> 30.99
+fair price all-equity [maint central, top growth 19.49%]: ends 29.39 / 49.98 -> 39.69
+fair price all-equity [all-spend, top growth 5.43%]: ends 27.74 / 30.19 -> 28.97
+fair price all-equity [all-spend, top growth 19.49%]: ends 27.74 / 43.52 -> 35.63
+fair price equity-only [maint equity-only, top 5.43%]: 7.35 / 10.67 -> 9.01; expected return at mcap: no-growth 1.11%, top 1.81%
+fair price equity-only [maint equity-only, top 19.49%]: 7.35 / 28.73 -> 18.04; expected return at mcap: no-growth 1.11%, top 5.20%
+fair price equity-only [all-spend equity-only, top 5.43%]: 5.70 / 8.27 -> 6.99; expected return at mcap: no-growth 0.86%, top 1.42%
+fair price equity-only [all-spend equity-only, top 19.49%]: 5.70 / 22.28 -> 13.99; expected return at mcap: no-growth 0.86%, top 4.20%

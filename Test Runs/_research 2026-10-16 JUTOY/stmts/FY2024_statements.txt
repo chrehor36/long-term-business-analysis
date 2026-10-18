@@ -1,0 +1,228 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+--- page 53
+52   JUTAL OFFSHORE OIL SERVICES LIMITED
+CONSOLIDATED          STATEMENT        OF  PROFIT    OR  LOSS
+For the year ended 31 December 2024
+2024          2023
+Notes       RMB’000        RMB’000
+Revenue                                                       8        2,079,022      2,591,773
+Cost of sales and services                                                  (1,511,864)    (1,936,383)
+Gross profit                                                              567,158       655,390
+Other income                                                   9           26,876        30,374
+Reversals of impairment losses/(Impairment losses) on trade and bills
+receivables                                                              22,372         (6,122)
+Reversal of impairment losses on other receivables                                      –             9
+Impairment losses on contract assets                                            (20,425)        (2,935)
+Administrative expenses                                                      (313,232)      (197,932)
+Other operating expenses                                         11          (51,671)       (72,812)
+Profit from operations                                                       231,078       405,972
+Finance costs                                                  12          (10,986)       (20,396)
+Share of loss of a joint venture                                                     (40)            –
+Profit before tax                                                           220,052       385,576
+Income tax expense                                              13          (34,986)      (130,587)
+Profit for the year                                               14         185,066       254,989
+Attributable to:
+Owners of the Company                                                       185,066       254,989
+RMB           RMB
+Earnings per share                                              18
+Basic                                                                  9.04 cents     12.87 cents
+Diluted                                                                 8.96 cents     12.87 cents
+--- page 54
+ANNUAL REPORT 2024   53
+CONSOLIDATED          STATEMENT        OF  PROFIT    OR  LOSS    AND
+OTHER     COMPREHENSIVE           INCOME
+For the year ended 31 December 2024
+2024          2023
+RMB’000        RMB’000
+Profit for the year                                                          185,066       254,989
+Other comprehensive income:
+Item that may be reclassified to profit or loss:
+Exchange differences on translating foreign operations                                5,527         5,997
+Share of other comprehensive income of a joint venture, net of related income tax               1             –
+Other comprehensive income for the year, net of tax                                5,528         5,997
+Total comprehensive income for the year                                       190,594       260,986
+Attributable to:
+Owners of the Company                                                       190,594       260,986
+--- page 55
+54   JUTAL OFFSHORE OIL SERVICES LIMITED
+CONSOLIDATED          STATEMENT        OF  FINANCIAL      POSITION
+As at 31 December 2024
+2024          2023
+Notes       RMB’000        RMB’000
+Non-current assets
+Property, plant and equipment                                      19         932,127       917,719
+Right-of-use assets                                              20         364,279       378,631
+Interest in a joint venture                                          21              62             –
+Goodwill                                                      22          52,444        52,444
+Intangible assets                                                23           4,176         5,487
+Trade receivables, non-current                                     26           3,417         3,846
+Deferred tax assets                                              40           8,394         5,228
+1,364,899      1,363,355
+Current assets
+Inventories                                                   25          93,228       110,569
+Trade and bills receivables                                       26         284,653      1,119,485
+Contract cost assets                                             27           1,271         1,298
+Contract assets                                                 28         476,685       504,704
+Prepayments, deposits and other receivables                         29          54,810       122,816
+Derivative financial instruments                                     30               –           703
+Current tax assets                                                            1,791             –
+Financial assets at fair value through profit or loss                       31               –        58,283
+Pledged bank deposits                                           32          64,618        51,069
+Bank and cash balances                                          32         785,161       752,717
+1,762,217      2,721,644
+Current liabilities
+Trade and bills payables                                          33         417,607       699,455
+Contract liabilities                                            28          60,957       648,903
+Accruals and other payables                                       34         109,317       113,742
+Derivative financial instruments                                     30           1,532         7,886
+Provisions                                                    36         202,713       168,348
+Bank borrowings                                                37          55,000        81,800
+Other borrowings                                                               958             –
+Deferred income                                                 39           2,751         4,100
+Lease liabilities                                              35           7,959         7,312
+Current tax liabilities                                                            –        49,693
+858,794      1,781,239
+Net current assets                                                          903,423       940,405
+Total assets less current liabilities                                         2,268,322      2,303,760
+--- page 56
+ANNUAL REPORT 2024   55
+2024          2023
+Notes       RMB’000        RMB’000
+Non-current liabilities
+Deferred income                                                 39          15,724        11,987
+Lease liabilities                                              35          12,527        16,513
+Bank borrowings                                                37          30,500       227,500
+Deferred tax liabilities                                         40          34,170        36,021
+92,921       292,021
+Net assets                                                               2,175,401      2,011,739
+Capital and reserves
+Share capital                                                  41          19,145        17,783
+Reserves                                                     44(a)      2,156,256      1,993,956
+Total equity                                                             2,175,401      2,011,739
+Approved by the Board of Directors on 26 March 2025 and are signed on its behalf by:
+Wang Lishan                                       Tang Hui
+Chairman                                         Director
+--- page 57
+56   JUTAL OFFSHORE OIL SERVICES LIMITED
+CONSOLIDATED          STATEMENT        OF  CHANGES       IN EQUITY
+For the year ended 31 December 2024
+Attributable to owners of the Company
+Share held        Convertible Foreign
+Share under share        loan notes currency Share-based
+Share premium  award  Special equity translation payment Statutory Retained Total
+capital account scheme  reserve reserve reserve reserve reserves profits equity
+(Note 41) (Note 44(c)(i)) (Note 44(c)(vii)) (Note 44(c)(iii)) (Note 44(c)(vi)) (Note 44(c)(v)) (Note 44(c)(ii)) (Note 44(c)(iv))
+RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000 RMB’000
+At 1 January 2023                17,783 1,379,936  –   (52,040) 2,951  (58,320) 69,291 40,275 347,371 1,747,247
+Profit for the year                  –      –      –      –      –      –      –      –   254,989 254,989
+Other comprehensive income for the year:
+Exchange differences on translating foreign
+operations               –      –      –      –      –    5,997    –      –      –    5,997
+Total comprehensive income for the year         –      –      –      –      –    5,997    –      –   254,989 260,986
+Share-based payments              –      –      –      –      –      –    3,506    –      –    3,506
+Share options forfeited             –      –      –      –      –      –    (9,621)   –    9,621    –
+Changes in equity for the year             –      –      –      –      –    5,997  (6,115)   –   264,610 264,492
+At 31 December 2023              17,783 1,379,936  –   (52,040) 2,951  (52,323) 63,176 40,275 611,981 2,011,739
+At 1 January 2024                17,783 1,379,936  –   (52,040) 2,951  (52,323) 63,176 40,275 611,981 2,011,739
+Profit for the year                  –      –      –      –      –      –      –      –   185,066 185,066
+Other comprehensive income for the year:
+Exchange differences on translating foreign
+operations                –      –      –      –      –    5,527    –      –      –    5,527
+Share of other comprehensive income of a joint
+venture, net of related income tax          –      –      –      –      –      1      –      –      –      1
+Total comprehensive income for the year         –      –      –      –      –    5,528    –      –   185,066 190,594
+Issue of shares under placing          1,362  54,996    –      –      –      –      –      –      –    56,358
+Shares repurchased (Note 42(b))           –      –   (144,734)  –      –      –      –      –      –   (144,734)
+2024 interim dividend approved and paid
+(Note 17)                     –   (54,882)  –      –      –      –      –      –      –   (54,882)
+Share-based payments (Notes 42(a) and (b))       –      –      –      –      –      –   116,326   –      –   116,326
+Share vested under the share award scheme       –    (4,162) 98,651    –      –      –   (94,489)  –      –      –
+Share options forfeited             –      –      –      –      –      –   (36,065)  –    36,065    –
+Changes in equity for the year            1,362  (4,048) (46,083)  –      –    5,528  (14,228)  –   221,131 163,662
+At 31 December 2024              19,145 1,375,888 (46,083) (52,040) 2,951  (46,795) 48,948 40,275 833,112 2,175,401
+--- page 58
+ANNUAL REPORT 2024   57
+CONSOLIDATED          STATEMENT        OF  CASH    FLOWS
+For the year ended 31 December 2024
+2024          2023
+Notes       RMB’000        RMB’000
+Cash flows from operating activities
+Profit before tax                                                            220,052       385,576
+Adjustments for:
+Finance costs                                                             10,986        20,396
+Equity settled share-based payments                                            21,837         3,506
+Interest income                                                            (14,673)       (13,409)
+Depreciation of property, plant and equipment                                     95,775       115,417
+Depreciation of right-of-use assets                                             18,787        20,150
+Amortisation of intangible assets                                                1,311         1,716
+Net losses on disposals of property, plant and equipment                              705           269
+Share of loss of a joint venture                                                    40             –
+Gain on early termination of lease contracts                                         (10)          (25)
+Allowances for inventories                                                   5,258        26,488
+(Reversal of impairment losses)/Impairment losses on trade and bills
+receivables, net                                                         (22,372)        6,122
+Reversal of impairment losses on other receivables                                    –            (9)
+Impairment losses on contract assets                                           20,425         2,935
+Impairment losses on property, plant and equipment                                30,510         5,365
+Impairment losses on intangible assets                                              –         1,915
+Provisions of warranty, net                                                   34,365       108,663
+Reversal of provisions of onerous contracts                                          –        (72,232)
+Written off of trade receivables                                                4,963             –
+Fair value changes on derivative financial instruments                               5,732        27,112
+Fair value changes on financial assets at fair value through profit or loss                    (61)            –
+Government grants income                                                    (7,300)       (9,385)
+Exchange difference                                                       (2,342)       (1,424)
+Operating profit before working capital changes                                    423,988       629,146
+Decrease/(Increase) in inventories                                              12,083        (14,905)
+Decrease/(Increase) in trade and bills receivables                                  852,670       (862,149)
+Decrease in contract cost assets                                                    27         8,793
+Decrease/(Increase) in contract assets                                             7,594       (142,031)
+Decrease/(Increase) in prepayments, deposits and other receivables                    68,006        (39,294)
+(Decrease)/Increase in trade and bills payables                                    (281,848)      204,172
+(Decrease)/Increase in contract liabilities                                      (587,946)      520,683
+(Decrease)/Increase in accruals and other payables                                   (9,224)       32,915
+Cash generated from operations                                               485,350       337,330
+Income taxes refund/(paid)                                                    3,002        (29,795)
+Interest paid                                                                 (7,592)      (18,601)
+Interest on lease liabilities                                     45(b)         (1,074)       (1,364)
+Other finance costs                                                           (2,320)         (431)
+Net cash generated from operating activities                                    477,366       287,139
+--- page 59
+58   JUTAL OFFSHORE OIL SERVICES LIMITED
+CONSOLIDATED          STATEMENT        OF  CASH    FLOWS
+For the year ended 31 December 2024
+2024          2023
+Notes       RMB’000        RMB’000
+Cash flows from investing activities
+Interest received                                                            14,673        13,409
+Investment in a joint venture                                                      (102)            –
+Proceeds from disposal of financial assets at fair value through profit or loss               58,344             –
+Purchases of property, plant and equipment                                      (139,169)       (25,571)
+Proceeds from disposals of property, plant and equipment                              2,575         3,157
+(Increase)/Decrease in pledged bank deposits                                     (13,637)       46,818
+Government grants received                                                    9,688         4,184
+Net proceed from settlement of derivative financial instruments                        (11,383)       (29,715)
+Net cash (used in)/generated from investing activities                              (79,011)       12,282
+Cash flows from financing activities
+Bank borrowings raised                                         45(b)             –        30,500
+Repayment of bank borrowings                                   45(b)       (223,800)      (186,000)
+Other borrowings raised                                         45(b)           958             –
+Proceeds from placement of shares                                              56,358             –
+Purchase of shares for share award scheme                                       (144,734)            –
+Dividend paid                                                               (54,882)            –
+Principal elements of lease payment                                45(b)/(c)       (7,767)       (8,173)
+Net cash used in financing activities                                          (373,867)      (163,673)
+Net increase in cash and cash equivalents                                       24,488       135,748
+Effect of foreign exchange rate changes                                            7,868         6,580
+Cash and cash equivalents at 1 January                                        752,805       610,477
+Cash and cash equivalents at 31 December                                      785,161       752,805
+Analysis of cash and cash equivalents
+Bank and cash balances                                                      785,161       752,717
+Pledged bank deposits                                                            –            88
+785,161       752,805
+Pledged bank deposits can be reconciled to the consolidated statement of financial position as follows:
+2024          2023
+RMB’000        RMB’000
+Pledged bank deposits (mature in three months or less)                                   –            88
+Pledged bank deposits (mature after three months)                                   64,618        50,981
+64,618        51,069
