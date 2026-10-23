@@ -23860,3 +23860,6 @@ Same method as the first twenty. Register entries under `## COMPLETED FROM THE Q
 
 ## UPDATE 2026-10-23 - v5 RE-RUN BATCH BETA (the operator's request, 2026-10-23) (v4.1 names run again under v5)
 - **BETA: OUT AT Q1 (A START-UP); integrity facts recorded, not judged.** A start-up by its own audited words: no certified aircraft, a missed motor-certificate date, losses widening; OUT at Q1, priced above every case, which are all negative.
+
+## UPDATE 2026-10-23 - v5 RE-RUN BATCH KSS re-run (the operator's request, 2026-10-23) (v4.1 names run again under v5)
+- **KSS: OUT AT Q2; integrity facts recorded, not judged.** Re-run blind at the operator's request; agrees with 2026-10-05: a decade of lost volume to off-price rivals, the profit propped by a credit-card agreement that ends in 2030; OUT at Q2.
