@@ -1,0 +1,54 @@
+COMPUTATION, NOT A CLEARANCE (operator rule 3): computed before Q1-Q4 closed.
+price 129.73, shares 208.088069M, market cap 26,995M; debt 27,584; net debt 27,542; debt share consolidated 0.694; DTE Electric 0.553
+
+=== CENTRAL (post-separation window): window 2022-2025, maintenance=D&A + nuclear fuel
+owner cash maintenance-only, equity-only, by year: {2022: 405, 2023: 1507, 2024: 1802, 2025: 1441}
+average M = 1,289; fixed-asset capex 16,208; net LTD raised 7,667; cap 0.694 x capex = 11,251; debt credited 7,667
+equity growth spending charged per year G = 756; all-spending owner cash (debt credited) = 533
+shown growth of M: end-years 52.7%/yr; halves 30.2%/yr; utility revenue end-years 2.39%, halves 3.53%; highest M/utility revenue 22.6%
+  (f) test: M at 30.2% for 10 yrs = 18,091 = 144% of utility revenue grown at its own rate (highest earned 22.6%)
+  no-growth g=0.00%: value at 5.43% = $114.06/sh; at 10% = $61.93/sh; expected return at price = 4.8%
+  growth    g=3.53%: value at 5.43% = $123.78/sh; at 10% = $56.53/sh; expected return at price = 5.2%
+  RANGE (sovereign) $114.06 to $123.78 vs price $129.73; width 1.09:1; FAIR (avg of ends at 10%) $59.23
+  growth needed for 10% at the price (growth spending as charged): 12.9%/yr for ten years
+  all-spending beside (no growth): at 5.43% $47.15/sh; at 10% $25.60/sh
+  all-equity beside: owner cash before interest 1,890; no-growth at 5.43% $34.87/sh; at 10% $-41.55/sh (net debt 27,542)
+
+=== LITERAL five-year window (includes DT Midstream to 2021-06-30): window 2021-2025, maintenance=D&A + nuclear fuel
+owner cash maintenance-only, equity-only, by year: {2021: 1479, 2022: 405, 2023: 1507, 2024: 1802, 2025: 1441}
+average M = 1,327; fixed-asset capex 19,980; net LTD raised 8,602; cap 0.694 x capex = 13,869; debt credited 8,602
+equity growth spending charged per year G = 884; all-spending owner cash (debt credited) = 443
+shown growth of M: end-years -0.6%/yr; halves 19.8%/yr; utility revenue end-years 4.97%, halves 2.73%; highest M/utility revenue 22.6%
+  (f) test: M at 19.8% for 10 yrs = 8,110 = 70% of utility revenue grown at its own rate (highest earned 22.6%)
+  no-growth g=0.00%: value at 5.43% = $117.42/sh; at 10% = $63.76/sh; expected return at price = 4.9%
+  growth    g=2.73%: value at 5.43% = $113.94/sh; at 10% = $50.73/sh; expected return at price = 4.9%
+  RANGE (sovereign) $113.94 to $117.42 vs price $129.73; width 1.03:1; FAIR (avg of ends at 10%) $57.24
+  growth needed for 10% at the price (growth spending as charged): 12.8%/yr for ten years
+  all-spending beside (no growth): at 5.43% $39.22/sh; at 10% $21.30/sh
+  all-equity beside: owner cash before interest 1,907; no-growth at 5.43% $36.42/sh; at 10% $-40.71/sh (net debt 27,542)
+
+=== GENEROUS variant: maintenance = filed base-infrastructure plan: window 2022-2025, maintenance=base infrastructure
+owner cash maintenance-only, equity-only, by year: {2022: 575, 2023: 1832, 2024: 2249, 2025: 2009}
+average M = 1,666; fixed-asset capex 16,208; net LTD raised 7,667; cap 0.694 x capex = 11,251; debt credited 7,667
+equity growth spending charged per year G = 1,134; all-spending owner cash (debt credited) = 533
+shown growth of M: end-years 51.7%/yr; halves 33.0%/yr; utility revenue end-years 2.39%, halves 3.53%; highest M/utility revenue 28.1%
+  (f) test: M at 33.0% for 10 yrs = 28,866 = 230% of utility revenue grown at its own rate (highest earned 28.1%)
+  no-growth g=0.00%: value at 5.43% = $147.47/sh; at 10% = $80.07/sh; expected return at price = 6.2%
+  growth    g=3.53%: value at 5.43% = $154.37/sh; at 10% = $68.48/sh; expected return at price = 6.2%
+  RANGE (sovereign) $147.47 to $154.37 vs price $129.73; width 1.05:1; FAIR (avg of ends at 10%) $74.28
+  growth needed for 10% at the price (growth spending as charged): 10.3%/yr for ten years
+  all-spending beside (no growth): at 5.43% $47.15/sh; at 10% $25.60/sh
+  all-equity beside: owner cash before interest 2,267; no-growth at 5.43% $68.28/sh; at 10% $-23.41/sh (net debt 27,542)
+
+=== CENTRAL with DTE Electric debt share: window 2022-2025, maintenance=D&A + nuclear fuel
+owner cash maintenance-only, equity-only, by year: {2022: 405, 2023: 1507, 2024: 1802, 2025: 1441}
+average M = 1,289; fixed-asset capex 16,208; net LTD raised 7,667; cap 0.553 x capex = 8,971; debt credited 7,667
+equity growth spending charged per year G = 756; all-spending owner cash (debt credited) = 533
+shown growth of M: end-years 52.7%/yr; halves 30.2%/yr; utility revenue end-years 2.39%, halves 3.53%; highest M/utility revenue 22.6%
+  (f) test: M at 30.2% for 10 yrs = 18,091 = 144% of utility revenue grown at its own rate (highest earned 22.6%)
+  no-growth g=0.00%: value at 5.43% = $114.06/sh; at 10% = $61.93/sh; expected return at price = 4.8%
+  growth    g=3.53%: value at 5.43% = $123.78/sh; at 10% = $56.53/sh; expected return at price = 5.2%
+  RANGE (sovereign) $114.06 to $123.78 vs price $129.73; width 1.09:1; FAIR (avg of ends at 10%) $59.23
+  growth needed for 10% at the price (growth spending as charged): 12.9%/yr for ten years
+  all-spending beside (no growth): at 5.43% $47.15/sh; at 10% $25.60/sh
+  all-equity beside: owner cash before interest 1,890; no-growth at 5.43% $34.87/sh; at 10% $-41.55/sh (net debt 27,542)

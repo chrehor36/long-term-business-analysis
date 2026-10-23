@@ -133,7 +133,7 @@ The tooling test is in the protocol: a tool may get the same number sooner; it m
 ### Automation
 | Path or task | What it is | Status |
 |---|---|---|
-| Windows tasks `BRK-overnight` (hourly), `BRK daily fetch`, `BRK price alerts`, `BRK resume queue`, `BRK-wake` (disabled) | the scheduled work | LIVE |
+| Windows tasks `BRK-overnight` (every 30 minutes; disabled 2026-10-23 at the operator's "stop auto runs for the next few weeks", re-enabled only on the operator's word), `BRK daily fetch`, `BRK price alerts`, `BRK resume queue`, `BRK-wake` (disabled) | the scheduled work *(this row said `BRK-overnight` (hourly) with no pause until 2026-10-23)* | LIVE (the overnight task paused) |
 | `Screens/_daily/_dispatch_brief.md` | the canonical brief for a purchase run dispatched to a blind analyst (operator rule ten, 2026-10-06): per-question pathspec commits, the lock held by the dispatcher, the blind rule as a whitelist, the reporting figures with one stated definition, the fold before the next batch | LIVE |
 | `Screens/_daily/_overnight.ps1`, `Screens/_daily/_overnight_prompt.md` | the hourly headless cycle and its instructions; the prompt is the document that explains how the cycle works. Rewritten 2026-10-10 for the v5 re-run queue (one name a cycle under the canonical brief, folded by the cycle) *(until 2026-10-10 the prompt described a v4.1 wave 7 run and the task was disabled)* | LIVE |
 | `Screens/_daily/_wave7_order.txt`, `Screens/_daily/_wave7_done.txt` | the current queue and its done file; a name is done when it is in both the register and the done file | LIVE |

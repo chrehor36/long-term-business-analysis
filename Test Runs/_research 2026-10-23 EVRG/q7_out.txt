@@ -1,0 +1,38 @@
+market cap 19586.7; net debt 2026-06-30 16476.2; debt share 57.5%
+
+=== CENTRAL (four clean years, 2021 aberrational): years 2022-2025
+  2022: OCF 1801.9 SBC 18.8 capex(net CIAC) 2166.5 maint(D&A+PISA) 990.0 | owner cash after maint 793.1 | after all capex -383.4 | net LTD 156.8
+  2023: OCF 1980.2 SBC 17.7 capex(net CIAC) 2551.9 maint(D&A+PISA) 1086.1 | owner cash after maint 876.4 | after all capex -589.4 | net LTD 2005.3
+  2024: OCF 1983.7 SBC 15.2 capex(net CIAC) 2336.6 maint(D&A+PISA) 1183.6 | owner cash after maint 784.9 | after all capex -368.1 | net LTD 602.5
+  2025: OCF 2045.2 SBC 20.7 capex(net CIAC) 2626.9 maint(D&A+PISA) 1291.7 | owner cash after maint 732.8 | after all capex -602.4 | net LTD 936.4
+  avg owner cash after maintenance 796.8; after all capex -485.8; net LTD raised 3701.0; debt-share cap 57.5% x 9681.9 = 5563.6; credit 3701.0
+  equity owner cash, all spending with debt credit: 439.4/yr
+  growth spending 1282.6/yr, of which equity after credit 357.4/yr
+  shown growth of owner cash after maintenance -2.60%/yr; used -2.60%
+  at sov: maintenance-only no-growth 15062 ($65.33); growth case w/ equity growth spend 9512 ($41.25); all-spending+credit no-growth 8307 ($36.03)
+  at 10%: maintenance-only no-growth 7968 ($34.56); growth case w/ equity growth spend 4499 ($19.51); all-spending+credit no-growth 4394 ($19.06)
+  ALL-EQUITY at sov: maint-only 1190.7/yr -> $26.16; all-spending -92.0/yr -> $-79.00
+  ALL-EQUITY at 10%: maint-only 1190.7/yr -> $-19.82; all-spending -92.0/yr -> $-75.45
+  floor test: maint-only cash yield at price 4.07%; all-spend+credit 2.24%
+
+=== LITERAL WINDOW: years 2021-2025
+  2021: OCF 1351.7 SBC 15.6 capex(net CIAC) 1972.5 maint(D&A+PISA) 924.9 | owner cash after maint 411.2 | after all capex -636.4 | net LTD 65.3
+  2022: OCF 1801.9 SBC 18.8 capex(net CIAC) 2166.5 maint(D&A+PISA) 990.0 | owner cash after maint 793.1 | after all capex -383.4 | net LTD 156.8
+  2023: OCF 1980.2 SBC 17.7 capex(net CIAC) 2551.9 maint(D&A+PISA) 1086.1 | owner cash after maint 876.4 | after all capex -589.4 | net LTD 2005.3
+  2024: OCF 1983.7 SBC 15.2 capex(net CIAC) 2336.6 maint(D&A+PISA) 1183.6 | owner cash after maint 784.9 | after all capex -368.1 | net LTD 602.5
+  2025: OCF 2045.2 SBC 20.7 capex(net CIAC) 2626.9 maint(D&A+PISA) 1291.7 | owner cash after maint 732.8 | after all capex -602.4 | net LTD 936.4
+  avg owner cash after maintenance 719.7; after all capex -515.9; net LTD raised 3766.3; debt-share cap 57.5% x 11654.4 = 6697.1; credit 3766.3
+  equity owner cash, all spending with debt credit: 237.3/yr
+  growth spending 1235.6/yr, of which equity after credit 482.4/yr
+  shown growth of owner cash after maintenance 15.54%/yr; used 1.64% (shown 15.5% cut by (f) to sales growth 1.6%)
+  at sov: maintenance-only no-growth 13605 ($59.00); growth case w/ equity growth spend 11841 ($51.36); all-spending+credit no-growth 4486 ($19.46)
+  at 10%: maintenance-only no-growth 7197 ($31.21); growth case w/ equity growth spend 5080 ($22.03); all-spending+credit no-growth 2373 ($10.29)
+  ALL-EQUITY at sov: maint-only 1090.4/yr -> $17.94; all-spending -145.2/yr -> $-83.36
+  ALL-EQUITY at 10%: maint-only 1090.4/yr -> $-24.17; all-spending -145.2/yr -> $-77.76
+  floor test: maint-only cash yield at price 3.67%; all-spend+credit 1.21%
+
+statutory-tax restatement beside: extra tax 191.4/yr; top case 49.64 at sovereign
+
+ALL-EQUITY growth case (central years):
+  sov: growth case $-34.52; maint-only no-growth $26.16; average $-4.18
+  10%: growth case $-62.25; maint-only no-growth $-19.82; average $-41.03

@@ -1,0 +1,39 @@
+                                       2021      2022      2023      2024      2025
+OCF                                  1217.9    1409.4    1935.1    1781.5    2362.3   avg    1741.2
+SBC                                    24.3      24.9      33.5      43.6      50.9   avg      35.4
+all capital spending                 2266.7    2803.8    4015.6    3314.0    4491.5   avg    3378.3
+maintenance spending (filer)          715.3     867.5    1043.2    1201.5    1524.3   avg    1070.4
+D&A                                   748.4     820.8     908.2    1043.2    1167.6   avg     937.6
+pref/NCI dist net of NCI contrib      189.4     -39.9     183.0      24.9     142.6   avg     100.0
+owner cash, all spending, no credit   -883.7   -1459.2   -1931.0   -1551.2   -2037.5   avg   -1572.5
+owner cash, maint only, no credit     667.7     477.1    1041.4     561.3     929.7   avg     735.4
+owner cash, all spending + credit     409.8    -165.7    -637.5    -257.7    -744.0   avg    -279.0
+owner cash, maint only + credit      1303.5    1112.9    1677.2    1197.1    1565.5   avg    1371.2
+net debt raised 2021-2025 6,467.4; debt share at 2026-06-30 0.594; cap(all) 10,033.8; credit(all) 6,467.4; cap(maint) 3,179.0; credit(maint) 3,179.0
+spending sums: all 16,891.6 maint 5,351.8; capex/D&A avg 3.60
+shares incl forwards 486.302M; market cap at cover count 20,952
+all spending + credit avg -279.0 first-half avg 122.0 second-half avg -500.9
+   no growth: value equity -5,275 -> per share -10.23; at 10% -5.12
+maint only + credit avg 1371.2 first-half avg 1208.2 second-half avg 1381.3
+   no growth: value equity 25,921 -> per share 53.92; at 10% 28.81
+all spending, no credit avg -1572.5 first-half avg -1171.4 second-half avg -1794.3
+   no growth: value equity -29,726 -> per share -60.51; at 10% -31.72
+revenue CAGR 2021-2025 7.9 %
+
+=== RANGE (equity-only central, the regulated-utility basis) ===
+maint-only owner cash CAGR 2021-25 8.63%  (end years 667.7 -> 929.7); halves 572.4 -> 745.5
+growth spending avg 2308.0; net of debt credit avg -1014.5
+maint-only owner cash / revenue [13.6, 8.2, 18.9, 10.3, 14.0]
+[sovereign 5.29%] maint-only no-growth:   29.20/sh | growth case (maint cash and net growth spend both at 8.6%, stop yr10):   32.83/sh | all-spending+credit no growth:  -10.23/sh
+     beside: maint-only with debt credit no-growth   53.92/sh
+     all-equity: maint-only no growth    6.93/sh; all spending no growth  -82.78/sh (net debt 17,333.0)
+[ten percent] maint-only no-growth:   15.74/sh | growth case (maint cash and net growth spend both at 8.6%, stop yr10):    8.59/sh | all-spending+credit no growth:   -5.12/sh
+     beside: maint-only with debt credit no-growth   28.81/sh
+     all-equity: maint-only no growth  -12.83/sh; all spending no growth  -60.29/sh (net debt 17,333.0)
+mean cash interest 435.5
+equity value at price incl forward shares 20,948; maint-only yield 3.51%; with credit 6.55%
+
+=== ALL-EQUITY BESIDE, growth case ===
+rate 0.0529: all-equity growth case -7.81/sh; no-growth 6.93/sh
+rate 0.1: all-equity growth case -39.04/sh; no-growth -12.83/sh
+FAIR PRICE equity-only (central) 12.17; all-equity beside -25.93

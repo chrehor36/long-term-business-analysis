@@ -1,0 +1,33 @@
+year  OCFadj  capex  allspend  allspend_literal  maint  interest  maint_AE  allsp_AE  share_of_sales(maint_AE)
+2021 1212 1811 -783 -648 10 542 368 -426 0.018 0.000
+2022 3725 2300 1232 1368 2299 1247 3122 2055 0.152 0.112
+2023 3393 2191 997 1132 1806 1673 2910 2101 0.135 0.084
+2024 3390 2337 846 -3092 1718 1594 2769 1898 0.122 0.076
+2025 3028 3110 -286 -151 1477 2007 2801 1038 0.107 0.057
+avg 2950 2350 401 -278 1462 1412 2394 1333
+deals by year [-533, 39, -864, 96, 1285] avg 5 net purchases > half of owner cash?
+net new debt [1100, 340, 1490, 2583, 428] avg 1188 capex avg 2350
+sales growth 2021-2025 CAGR 0.0563
+EQUITY-ONLY maintenance-only (e): base 1,462; growth shown 0.1143 carried 0.1143 
+   range at 0.1287: R$ 3.82 to R$ 7.95 a share (top/bottom 2.08); at 10%: 4.92 to 10.89; FAIR 7.90; per ADS 31.62
+   expected return at R$ 17.7: no-growth 0.0278, growth 0.0668
+EQUITY-ONLY all spending: base 401; growth shown 0.0767 carried 0.0767 
+   range at 0.1287: R$ 1.05 to R$ 1.71 a share (top/bottom 1.63); at 10%: 1.35 to 2.29; FAIR 1.82; per ADS 7.28
+   expected return at R$ 17.7: no-growth 0.0076, growth 0.0153
+ALL-EQUITY maintenance-only: base 2,394; growth shown 0.1687 carried 0.0563 cut: 0.252 of sales in yr10 > max share 0.152
+   range at 0.1287: R$ -0.35 to R$ 2.31 a share (top/bottom nan); at 10%: 1.44 to 5.25; FAIR 3.35; per ADS 13.40
+   expected return at R$ 17.7: no-growth 0.0332, growth 0.0522
+ALL-EQUITY all spending: base 1,333; growth shown 0.2169 carried 0.0563 cut: 0.210 of sales in yr10 > max share 0.100
+   range at 0.1287: R$ -3.13 to R$ -1.64 a share (top/bottom nan); at 10%: -2.13 to -0.01; FAIR -1.07; per ADS -4.27
+   expected return at R$ 17.7: no-growth 0.0185, growth 0.0301
+debt share 0.504 credit by year [913, 340, 1105, 1178, 428] avg 793
+EQUITY-ONLY all spending + regulated debt credit: base 1,194; growth shown 0.0837 carried 0.0837 
+   range at 0.1287: R$ 3.12 to R$ 5.32 a share (top/bottom 1.70); at 10%: 4.02 to 7.17; FAIR 5.59; per ADS 22.38
+   expected return at R$ 17.7: no-growth 0.0227, growth 0.0452
+EQUITY-ONLY all spending, LITERAL (bonus in full): base -278; growth shown None carried None 
+   range at 0.1287: R$ -0.73 to R$ -0.73 a share (top/bottom nan); at 10%: -0.94 to -0.94; FAIR -0.94; per ADS -3.74
+   expected return at R$ 17.7: no-growth nan, growth nan
+maint 2022->2025 rate -0.1371 equity-only bottom at rf 1.75 at 10% 2.07
+AE maint 2022->2025 rate -0.0355 all-equity bottom at rf -1.56 at 10% -0.25
+market cap 52570 EV 72221
+owner cash yields: eq maint 0.0278 eq allsp 0.0076 AE maint 0.0332

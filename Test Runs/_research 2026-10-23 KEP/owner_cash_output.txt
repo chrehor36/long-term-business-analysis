@@ -1,0 +1,46 @@
+                                                 2016     2017     2018     2019     2020     2021     2022     2023     2024     2025
+Revenue                                        59,763   59,336   60,033   58,568   57,927   60,012   70,546   87,476   92,578   96,568  | sum   702,807
+Operating profit                               12,296    5,320     -685   -1,708    4,098   -5,723  -32,241   -4,245    8,461   14,011  | sum      -416
+Profit for the year                             7,148    1,441   -1,174   -2,264    2,094   -5,216  -24,429   -4,716    3,622    8,667  | sum   -14,827
+Profit to owners of parent                      7,049    1,299   -1,315   -2,346    1,992   -5,305  -24,467   -4,823    3,492    8,545  | sum   -15,879
+Operating cash flow (after interest, tax)      16,521   11,250    6,680    8,213   13,208    4,491  -23,478    1,522   15,876   20,880  | sum    75,163
+Fixed-asset spending (PPE+intangible)          12,153   12,680   12,378   14,229   13,401   12,800   12,428   13,983   14,308   15,937  | sum   134,297
+Maintenance guess (D&A less ROU dep)            8,961    9,774   10,025   10,548   10,962   11,383   11,952   12,495   13,458   13,311  | sum   112,869
+Net associates/JV bought                           66      196      317      108      337      669      305      492      215    2,082  | sum     4,787
+Lease principal                                     0      123      134      573      614      572      563      574      613      550  | sum     4,316
+Dividends to minorities (derived)                 100       70       93       99       81       31       42       45      127       80  | sum       768
+Interest paid                                   2,041    1,886    1,896    2,028    2,082    1,928    2,518    4,246    4,697    4,393  | sum    27,715
+OWNER CASH all spending, equity-only            4,394   -1,746   -6,021   -6,286     -906   -9,316  -36,199  -13,272    1,006    2,697  | sum   -65,649
+OWNER CASH maintenance-only, equity-only        7,652    1,356   -3,351   -2,497    1,870   -7,230  -35,418  -11,292    2,071    7,405  | sum   -39,434
+Borrowings + debt securities (year end)        53,639   54,747   61,035   67,877   69,725   80,530  120,605  133,632  132,533  129,769  | sum   904,092
+Total equity                                   73,051   72,965   71,093   68,890   70,668   65,327   42,000   37,265   41,363   49,323  | sum   591,945
+Parent equity                                  71,724   71,681   69,744   67,496   69,297   63,780   40,545   35,845   39,915   48,170  | sum   578,197
+Cash                                            3,051    2,370    1,358    1,810    2,030    2,635    3,235    4,343    2,383    2,241  | sum    25,456
+PPE                                           145,743  150,882  152,743  164,702  168,709  173,135  177,865  179,876  182,983  187,752  | sum 1,684,390
+
+ROE on average parent equity (%): [1.8, -1.9, -3.4, 2.9, -8.0, -46.9, -12.6, 9.2, 19.4]
+Debt / (debt + equity) at 2025-12-31: 72.46%
+
+=== CYCLE BASE, peak to peak (specific (a)): years 2016-2025 (10 yrs)
+  debt raised 71,015; fixed-asset spending 134,297; operating cash 75,163; spending not met from operations 59,134; debt-share cap 97,311; debt credited to fixed assets 59,134; maintenance share of spending 0.840
+  A all spending, no credit (beside)                   owner cash/yr   -6,565  value@4.189%   -156,718bn =  -244,122 won/sh;  @10%  -102,263 won/sh; return at price -35.69%
+  B all spending, debt credit (regulated rule)         owner cash/yr     -652  value@4.189%    -15,553bn =   -24,227 won/sh;  @10%   -10,149 won/sh; return at price  -3.54%
+  C maintenance-only, debt credit pro rata (CENTRAL)   owner cash/yr    1,026  value@4.189%     24,504bn =    38,171 won/sh;  @10%    15,990 won/sh; return at price   5.58%
+  D maintenance-only, no credit (beside)               owner cash/yr   -3,943  value@4.189%    -94,137bn =  -146,639 won/sh;  @10%   -61,427 won/sh; return at price -21.44%
+  all-equity, all spending (no credit)                 owner cash/yr   -4,539  equity value@sov  -367,458 won/sh; @10%  -269,365 won/sh; return on EV  -3.11%
+  all-equity, maintenance-only                         owner cash/yr   -1,918  equity value@sov  -269,975 won/sh; @10%  -228,530 won/sh; return on EV  -1.31%
+  growth check, maintenance case: first half avg 1,006, second half avg -8,893
+
+=== LITERAL WINDOW, last five years (beside): years 2021-2025 (5 yrs)
+  debt raised 60,044; fixed-asset spending 69,456; operating cash 19,291; spending not met from operations 50,165; debt-share cap 50,327; debt credited to fixed assets 50,165; maintenance share of spending 0.901
+  A all spending, no credit (beside)                   owner cash/yr  -11,017  value@4.189%   -262,994bn =  -409,670 won/sh;  @10%  -171,611 won/sh; return at price -59.90%
+  B all spending, debt credit (regulated rule)         owner cash/yr     -984  value@4.189%    -23,485bn =   -36,584 won/sh;  @10%   -15,325 won/sh; return at price  -5.35%
+  C maintenance-only, debt credit pro rata (CENTRAL)   owner cash/yr      150  value@4.189%      3,574bn =     5,567 won/sh;  @10%     2,332 won/sh; return at price   0.81%
+  D maintenance-only, no credit (beside)               owner cash/yr   -8,893  value@4.189%   -212,289bn =  -330,687 won/sh;  @10%  -138,525 won/sh; return at price -48.35%
+  all-equity, all spending (no credit)                 owner cash/yr   -8,418  equity value@sov  -511,676 won/sh; @10%  -329,778 won/sh; return on EV  -5.77%
+  all-equity, maintenance-only                         owner cash/yr   -6,294  equity value@sov  -432,693 won/sh; @10%  -296,692 won/sh; return on EV  -4.31%
+  growth check, maintenance case: first half avg -21,324, second half avg 4,738
+
+Market value of common: 18,392bn KRW; $13,882M; per ADS (1/2 share) $10.81; net debt 127,528bn
+P/E on FY2025 parent profit: 2.15; price/parent book: 0.38
+Floor test: owner cash needed per year for 10% at the price (equity-only, no growth): 1,839bn

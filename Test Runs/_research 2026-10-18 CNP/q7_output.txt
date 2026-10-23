@@ -1,0 +1,50 @@
+window 2021 - 2025
+net long-term debt and CP raised by year [2657, 220, 1799, 2366, 2133] sum 9175
+cap on the credit: 0.5675 x all capital spending 22388 = 12705; credit taken 9175
+owner cash to equity, all spending, no credit: [-3476, -3194, -639, -2408, -2789] avg -2501
+  with the window debt credit: avg -666
+  with divestiture proceeds as well (c): avg 421
+owner cash to equity, maintenance only (D&A as the guess): [-1628, -63, 2361, 666, 908] avg 449
+  recast for the Beryl deferral recovered by the 2026 bonds: avg 669
+halves of the maintenance series: first -846, second 787 (sign change, growth meaningless)
+
+EQUITY-ONLY (central for the regulated utility)
+literal window: owner cash 449, less Ohio 77 = 371; yield on market cap 1.39%
+   no-growth value at the sovereign $9459M = $14.36 a share ($15.17 with the forward shares)
+   no-growth value at ten percent $6334M = $9.62 a share ($10.60 with the forward shares)
+recast (Beryl): owner cash 669, less Ohio 77 = 591; yield on market cap 2.21%
+   no-growth value at the sovereign $13511M = $20.51 a share ($21.10 with the forward shares)
+   no-growth value at ten percent $8534M = $12.96 a share ($13.82 with the forward shares)
+
+growth spending a year net of the debt credit 1248; operating income growth 11.5%; revenue growth 2.9%
+  illustrative growth case g=11.5% at r=5.43%: $20490M = $31.11 a share
+  illustrative growth case g=11.5% at r=10.00%: $8141M = $12.36 a share
+  illustrative growth case g=2.9% at r=5.43%: $6892M = $10.46 a share
+  illustrative growth case g=2.9% at r=10.00%: $2151M = $3.27 a share
+owner cash a year needed for ten percent at the price on no growth: $2487M
+
+ALL-EQUITY (beside)
+maintenance only, literal: 953 a year; EV 48731 (net debt 22020); yield 1.96%; no-growth at sovereign less net debt $-6.78; at ten percent $-18.96 a share
+maintenance only, recast: 1173 a year; EV 48731 (net debt 22020); yield 2.41%; no-growth at sovereign less net debt $-0.63; at ten percent $-15.62 a share
+all spending: -1997 a year; EV 48731 (net debt 22020); yield -4.10%; no-growth at sovereign less net debt $-89.26; at ten percent $-63.74 a share
+
+Q3 figures
+2021 ROE on common 19.0%; on tangible common 49.5%
+2022 ROE on common 11.3%; on tangible common 21.7%
+2023 ROE on common 9.2%; on tangible common 16.6%
+2024 ROE on common 10.0%; on tangible common 16.7%
+2025 ROE on common 9.6%; on tangible common 14.7%
+five-year operating cash 10334 vs capital spending 22388; cash dividends to common 2406
+
+FLOOR TEST: expected return at the price, equity-only, each case (market value less the Ohio proceeds)
+  maintenance only, literal (central)                                                                  owner cash    371  return at the price on no growth  1.54%  value at sovereign $ 14.36  at ten percent $  9.62
+  maintenance only, before the Beryl draw (beside)                                                     owner cash    591  return at the price on no growth  2.45%  value at sovereign $ 20.51  at ten percent $ 12.96
+  all spending with the debt credit (beside)                                                           owner cash   -744  return at the price on no growth -3.09%  value at sovereign $-16.81  at ten percent $ -7.31
+  all spending with the debt credit and the divestiture proceeds (beside)                              owner cash    344  return at the price on no growth  1.43%  value at sovereign $ 13.59  at ten percent $  9.20
+  maintenance only with the debt credited against the maintenance spending too (mechanical reading, beside) owner cash   1163  return at the price on no growth  4.83%  value at sovereign $ 36.49  at ten percent $ 21.63
+  the same, before the Beryl draw (beside)                                                             owner cash   1383  return at the price on no growth  5.74%  value at sovereign $ 42.64  at ten percent $ 24.97
+  illustrative growth case (11.5% for ten years, growth spending charged): return at the price 4.49%
+
+FAIR PRICE, equity-only central: ends at ten percent $9.62 and $12.96, average $11.29
+  with the forward shares and their cash: $10.60 and $13.82, average $12.21
+FAIR PRICE, all-equity beside: $-18.96 and $-15.62, average $-17.29

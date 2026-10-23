@@ -1945,6 +1945,114 @@
    "threshold": 3.21,
    "active": true,
    "label": "AVA v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $3.21, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - AVA Avista.md; OUT at Q7 at $36.67). Reporting figure; a hit means re-run under the paragraph, not a buy."
+  },
+  {
+   "id": "BKH-v5-fair",
+   "ticker": "BKH",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 28.02,
+   "active": true,
+   "label": "BKH v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $28.02, central; all-equity -$17.09, not positive; merger beside $22.59. Run 2026-10-18 (Test Runs/2026-10-18 Run - BKH Black Hills.md; OUT at Q7 at $76.63; equity-only value range $52.96 to $63.44). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+  },
+  {
+   "id": "CNP-v5-fair",
+   "ticker": "CNP",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 9.62,
+   "active": true,
+   "label": "RESTATED 2026-10-23 from $11.29 to $9.62 by `Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`, specific (b): owner cash changes sign, so the no-growth case alone, on the run's own inputs. CNP v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $11.29, central; $12.21 with the forward-sale shares; all-equity -$17.29, not positive. Run 2026-10-18 (Test Runs/2026-10-18 Run - CNP CenterPoint Energy.md; OUT at Q7 at $40.55; equity-only value range $14.36 to $20.51). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+  },
+  {
+   "id": "ED-v5-fair",
+   "ticker": "ED",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 20.24,
+   "active": true,
+   "label": "FLAGGED 2026-10-23 by `Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`: the run's figure departs from the text; left at the run's figure (below the audited one) until gap 1 (the growth case's spending): audited $26.59 to $32.01. ED v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $20.24, central; all-equity -$57.52, not positive. Run 2026-10-18 (Test Runs/2026-10-18 Run - ED Consolidated Edison.md; OUT at Q7 at $112.26; equity-only value range $14.35 to $61.04). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+  },
+  {
+   "id": "D-v5-fair",
+   "ticker": "D",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 12.85,
+   "active": true,
+   "label": "D v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $12.85, central; all-equity -$41.33, not positive. Run 2026-10-18 (Test Runs/2026-10-18 Run - D Dominion Energy.md; OUT at Q7 at $63.56; equity-only value range $26.14 to $38.39). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+  },
+  {
+   "id": "DTE-v5-fair",
+   "ticker": "DTE",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 59.23,
+   "active": true,
+   "label": "DTE v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $59.23, central; all-equity -$41.55, not positive. Run 2026-10-18 (Test Runs/2026-10-18 Run - DTE DTE Energy.md; OUT at Q7 at $129.73; equity-only value range $114.06 to $123.78). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+  },
+  {
+   "id": "DUK-v5-fair",
+   "ticker": "DUK",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 45.69,
+   "active": true,
+   "label": "RESTATED 2026-10-23 from $47.3 to $45.69 by `Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`, specific (e): the growth spending charged against the growth it buys, on the run's own inputs. DUK v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $47.30, central; all-equity -$35.73, not positive. Run 2026-10-18, resumed and closed 2026-10-22 (Test Runs/2026-10-18 Run - DUK Duke Energy.md; OUT at Q7 at $121.47; equity-only value range $71.06 to $109.64). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+  },
+  {
+   "id": "EVRG-v5-fair",
+   "ticker": "EVRG",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 27.04,
+   "active": true,
+   "label": "EVRG v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $27.04, central; all-equity -$41.03, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - EVRG Evergy.md; OUT at Q7 at $84.95; equity-only value range $41.25 to $65.33). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+  },
+  {
+   "id": "ES-v5-fair",
+   "ticker": "ES",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 37.58,
+   "active": true,
+   "label": "FLAGGED 2026-10-23 by `Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`: the run's figure departs from the text; left at the run's figure (below the audited one) until gap 2 (whose debt share caps the credit): audited about $47.22. ES v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $37.58, central; all-equity -$54.51, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - ES Eversource Energy.md; OUT at Q7 at $67.84; equity-only value range $71.73 to $81.97). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+  },
+  {
+   "id": "FTS-v5-fair",
+   "ticker": "FTS.TO",
+   "currency": "CAD",
+   "op": "<=",
+   "threshold": 28.96,
+   "active": true,
+   "label": "FTS v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): C$28.96 on the TSX line FTS.TO, central; all-equity C$-27.12, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - FTS Fortis.md; OUT at Q7 at C$80.99; equity-only value range C$72.41 to C$97.93). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+  },
+  {
+   "id": "HE-v5-fair",
+   "ticker": "HE",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 2.81,
+   "active": true,
+   "label": "RESTATED 2026-10-23 from $2.65 to $2.81 by `Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`, specific (e): the maintenance-only case central, on the run's own inputs. HE v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $2.65, central; all-equity -$13.18, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - HE Hawaiian Electric Industries.md; OUT at Q7 at $8.75; equity-only value range $8.95, the no-growth case alone). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+  },
+  {
+   "id": "IDA-v5-fair",
+   "ticker": "IDA",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 38.36,
+   "active": true,
+   "label": "IDA v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $38.36, central; all-equity -$24.49, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - IDA IDACORP.md; OUT at Q7 at $142.06; equity-only value range $70.72 to $91.45). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+  },
+  {
+   "id": "MGEE-v5-fair",
+   "ticker": "MGEE",
+   "currency": "USD",
+   "op": "<=",
+   "threshold": 29.47,
+   "active": true,
+   "label": "MGEE v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $29.47, central; all-equity $6.01 beside. Run 2026-10-23 (Test Runs/2026-10-23 Run - MGEE MGE Energy.md; OUT at Q7 at $74.24; equity-only value range $57.93 to $68.46). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
   }
  ]
 }

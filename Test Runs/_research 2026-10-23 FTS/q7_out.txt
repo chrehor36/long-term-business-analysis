@@ -1,0 +1,36 @@
+allowed debt share (rate-base weighted, 2025 midyear rate base, Note 2 equity ratios): 0.493
+year | OCF | spend net CIAC incl other | D&A | growth spend | pref | NCI div | LT debt raised | int paid | eff tax | all-spend OC | maint OC | revenue
+2021 | 2,907 | 3,488 | 1,505 | 1,983 | 63 | 58 | 1,023 | 986 | 0.143 | -702 | 1,281 | 9,448
+2022 | 3,074 | 3,959 | 1,668 | 2,291 | 64 | 66 | 1,811 | 1,057 | 0.160 | -1,015 | 1,276 | 11,043
+2023 | 3,545 | 4,172 | 1,773 | 2,399 | 67 | 83 | 1,541 | 1,255 | 0.174 | -323 | 1,622 | 11,517
+2024 | 3,882 | 5,395 | 1,927 | 3,468 | 74 | 110 | 1,969 | 1,361 | 0.159 | -1,697 | 1,771 | 11,508
+2025 | 4,062 | 5,809 | 2,057 | 3,752 | 85 | 54 | 1,928 | 1,469 | 0.167 | -1,407 | 1,866 | 12,170
+
+net debt raised 2021-25: 8,272; cap on all spending 11,246 -> credit 8,272; cap on growth spending 6,846 -> credit 6,846
+
+CASE A, all spending charged, debt credited (utility paragraph, literal): [321, 796, 1218, 272, 521] avg 626, CAGR 12.87%
+  ends at the sovereign: no-growth 28.98, end-to-end growth 12.87% case 83.87; range 28.98 to 83.87
+  growth between halves (2021-22 vs 2024-25) -10.79%: case 11.83
+  at 10%: no-growth 12.14, end-to-end growth 29.74, halves growth 6.06; fair (end-to-end pair) 20.94, (halves pair) 9.10
+maintenance-case owner cash as share of sales, 2016-2025: {2016: 11.3, 2017: 16.9, 2018: 14.4, 2019: 13.4, 2020: 12.8, 2021: 13.6, 2022: 11.6, 2023: 14.1, 2024: 15.4, 2025: 15.3}
+
+CASE B maint series [1281, 1276, 1622, 1771, 1866], avg 1,563, shown CAGR 9.86%; sales CAGR 6.53%; highest share of sales 16.9%; share in year 10 at shown rate on sales at sales growth 17.5%
+  growth carried 6.53% (cap (f) applied); equity-funded growth spending avg 1,223
+  no-growth 72.41; growth case 97.93; range 72.41 to 97.93; width 1.35x; price 80.99
+  at 10%: no-growth 30.34, growth 27.59; FAIR (equity-only, central) 28.96
+  yield at price, no-growth case: 3.75%
+  beside, divestiture proceeds not netted: growth case 93.82; fair 27.44
+  return implied at price: no-growth 3.75%, growth case 4.83%
+
+ALL-EQUITY beside: series [2189, 2228, 2726, 2989, 3175], avg 2,661, CAGR 9.74% carried 6.53%; growth spend 2,592; net debt+prefs 37,233
+  range 51.01 to 83.25
+  fair at 10%: no-growth -20.61, growth -33.63; FAIR all-equity -27.12
+
+shares 515.27M; market cap 41,731
+divestiture proceeds by year: [0, 0, 454, 0, 479]
+all spending, no debt credit: [-702, -1015, -323, -1697, -1407], avg -1,029 (negative: no value on this basis)
+
+BOUND: operating cash after preference and minority dividends, no capital spending charged at all: avg 3,349; at 10% no growth 65.00 a share; yield at price 8.03%
+case A yield at price, no growth: 1.50%
+all-equity: EV 78,964; maintenance case yield on EV 3.37%
+DRIP issue prices against the central range bottom 72.41: 2024 55.29, 2025 65.38, Jul-Sep 2026 75.83

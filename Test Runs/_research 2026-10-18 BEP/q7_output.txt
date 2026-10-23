@@ -1,0 +1,26 @@
+year   group_pre_debt  unit_all_spend  net_purchases  unit_organic  FFO_ex_other  attr_interest
+2021          -1,724          -1,935            653        -1,282           633            539
+2022          -3,449          -3,033          2,548          -485           713            596
+2023          -2,456          -1,078          1,299           221           683            745
+2024          -5,492          -4,459          2,237        -2,222           548            835
+2025          -7,132          -8,337          1,793        -6,544           482            969
+5-yr average group_pre_debt: -4,051
+5-yr average unit_all_spend: -3,768
+5-yr average unit_organic: -2,062
+5-yr average FFO_ex_other: 612
+5-yr average attr_interest: 737
+depreciation variant (FFO without other income less Unitholders' depreciation): {2021: -289, 2022: -221}
+serial-acquirer test: net purchases 8,530 vs half of owner cash before purchases -5,156
+
+CENTRAL organic pair: owner cash equity-only -2,062; before interest -1,326
+  no-growth value at 5.43%: all-equity -60.29 per unit; equity-only -55.51 per unit
+  fair price at 10%: all-equity -43.98; equity-only -30.14
+  expected return at $28.4: all-equity -3.66%; equity-only -10.61%
+
+BESIDE default pair (purchases deducted): owner cash equity-only -3,768; before interest -3,032
+  no-growth value at 5.43%: all-equity -106.21 per unit; equity-only -101.44 per unit
+  fair price at 10%: all-equity -68.92; equity-only -55.08
+  expected return at $28.4: all-equity -8.36%; equity-only -19.39%
+
+FFO 2025 incl. gains / market cap: 6.87%; FFO without gains / market cap: 2.48%
+market cap 19,431; net debt (proportionate) 16,834

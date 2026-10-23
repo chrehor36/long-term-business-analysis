@@ -1,0 +1,48 @@
+q7.py output. Headed COMPUTATION, NOT A CLEARANCE while Q1 to Q6 were open; Q7 reached in order in the run file on 2026-10-18.
+
+year   M(book)  M(cash)   A(all)   NI   M/rev
+2016     39.0    121.7   -240.5  137.1   2.5%
+2017    113.8    194.8    -24.0  194.1   6.8%
+2018    290.2    266.0     29.0  265.3  16.5%
+2019    228.4    266.4   -380.9  199.3  13.2%
+2020    258.1    296.2   -284.8  227.6  15.2%
+2021   -333.3   -326.0   -774.8  236.7 -17.1%
+2022    282.3    307.9    -71.2  258.4  11.1%
+2023    636.9    662.3    338.1  262.2  27.3%
+2024    369.2    421.2   -104.9  273.1  17.4%
+2025    313.7    368.0   -222.3  291.6  13.6%
+
+window 2021-2025 M(book) avg 253.8; M(cash) avg 286.7; A avg -167.0; NI avg 264.4
+prior cycle avg 2016-20 185.9 -> growth 6.42%; 2017-20 222.6 -> 2.95%; 2018-20 258.9 -> -0.50%
+earnings check: NI to common cycle growth 5.25%
+sales cycle growth 6.04%  max M/rev in filings 27.3%
+
+capex 2021-25 3401.5; D&A 1297.6; growth spending 2103.9
+net debt 2020 3764.2 -> 2025 4518.3: credit 754.1 (gross debt change 930.5)
+allowed debt share (rate-base weighted, stated jurisdictions) 50.0%; cap x all capex 1701.6; x growth spending 1052.5
+growth spending/yr: gross of credit 420.8; net of credit 270.0; net of gross-debt credit 234.7
+
+shelter nominal 192.0, PV 164.3 (2.15/share); at 10% 145.6
+market cap 5843
+
+EQUITY-ONLY (central for the regulated utility), M0 = 253.8
+  no growth                            at 5.43%:    4673 =  63.44/sh | at 10%:  35.19/sh | return at price  4.47%
+  growth 2017-20 vs 2021-25            at 5.43%:    3874 =  52.96/sh | at 10%:  20.86/sh | return at price  4.14%
+  growth literal 2016-20 vs 2021-25    at 5.43%:    5763 =  77.73/sh | at 10%:  31.93/sh | return at price  5.49%
+  growth literal, gross-debt credit    at 5.43%:    6030 =  81.23/sh | at 10%:  34.77/sh | return at price  5.68%
+  FAIR (avg of ends at 10%), central pair (no growth, cycle growth ex-2016): 28.02; with literal growth: 33.56
+  all-spending, debt credited: avg -16.2/yr -> no-growth value -298 = -1.76/sh at 5.43%
+  M(cash tax) no-growth: 69.24/sh at 5.43%, 37.60 at 10%
+
+ALL-EQUITY beside: U0 = 383.8 (after-tax interest 130.1); net debt 2026-06-30 4422.4; EV at price 10266
+  no growth            5.43%:   36.86/sh | 10%:   -5.75/sh | EV return  3.80%
+  growth ex-2016       5.43%:   19.77/sh | 10%:  -28.43/sh | EV return  3.64%
+  growth literal       5.43%:   57.24/sh | 10%:  -11.68/sh | EV return  4.84%
+  FAIR all-equity (avg ends at 10%): -17.09
+
+NWE M by year [26.7, 115.7, 266.9, 183.4, 130.9] avg 144.7; prior [129.0, 138.6, 213.0, 129.7, 176.0] avg 157.3
+NWE capex 2590.0, D&A 1070.1, growth spending 1519.9; net debt raised 1017.7; cap 54.3% x capex 1406.4; x growth 825.3; G 100.4
+COMBINED: M0 398.5, G 370.4, growth (2017-20 vs 2021-25) 0.65%, shares 136.45
+  no growth  5.43%:  54.99/sh | 10%:  30.27/sh
+  growth     5.43%:  37.34/sh | 10%:  14.91/sh
+  FAIR combined equity-only: 22.59  (NWE NOL shelter not added: 452.2 x 21% = 95, 0.70/sh nominal)
