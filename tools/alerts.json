@@ -1879,18 +1879,18 @@
    "ticker": "ATO",
    "currency": "USD",
    "op": "<=",
-   "threshold": 33.59,
+   "threshold": 19.6,
    "active": true,
-   "label": "ATO v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $33.59, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-17 (Test Runs/2026-10-17 Run - ATO Atmos Energy.md; OUT at Q7 at $167.34). Reporting figure; a hit means re-run under the paragraph, not a buy."
+   "label": "RESTATED 2026-10-23 (from 33.59 to 19.6) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. ATO v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $33.59, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-17 (Test Runs/2026-10-17 Run - ATO Atmos Energy.md; OUT at Q7 at $167.34). Reporting figure; a hit means re-run under the paragraph, not a buy."
   },
   {
    "id": "CPK-v5-fair",
    "ticker": "CPK",
    "currency": "USD",
    "op": "<=",
-   "threshold": 42.39,
+   "threshold": 39.4,
    "active": true,
-   "label": "CPK v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $42.39, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-17 (Test Runs/2026-10-17 Run - CPK Chesapeake Utilities.md; OUT at Q7 at $132.18). Reporting figure; a hit means re-run under the paragraph, not a buy."
+   "label": "RESTATED 2026-10-23 (from 42.39 to 39.4) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. CPK v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $42.39, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-17 (Test Runs/2026-10-17 Run - CPK Chesapeake Utilities.md; OUT at Q7 at $132.18). Reporting figure; a hit means re-run under the paragraph, not a buy."
   },
   {
    "id": "MDU-v5-fair",
@@ -1899,61 +1899,61 @@
    "op": "<=",
    "threshold": 3.86,
    "active": true,
-   "label": "MDU v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $3.86, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - MDU MDU Resources Group.md; OUT at Q7 at $19.00). Reporting figure; a hit means re-run under the paragraph, not a buy."
+   "label": "RESTATED 2026-10-23 (input missing, figure unchanged) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. MDU v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $3.86, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - MDU MDU Resources Group.md; OUT at Q7 at $19.00). Reporting figure; a hit means re-run under the paragraph, not a buy."
   },
   {
    "id": "NJR-v5-fair",
    "ticker": "NJR",
    "currency": "USD",
    "op": "<=",
-   "threshold": 8.03,
+   "threshold": 13.68,
    "active": true,
-   "label": "NJR v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $8.03, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - NJR New Jersey Resources.md; OUT at Q7 at $52.19). Reporting figure; a hit means re-run under the paragraph, not a buy."
+   "label": "RESTATED 2026-10-23 (from 8.03 to 13.68) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. NJR v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $8.03, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - NJR New Jersey Resources.md; OUT at Q7 at $52.19). Reporting figure; a hit means re-run under the paragraph, not a buy."
   },
   {
    "id": "UGI-v5-fair",
    "ticker": "UGI",
    "currency": "USD",
    "op": "<=",
-   "threshold": 16.2,
+   "threshold": 19.15,
    "active": true,
-   "label": "UGI v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $16.20, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - UGI UGI Corporation.md; OUT at Q7 at $38.43). Reporting figure; a hit means re-run under the paragraph, not a buy."
+   "label": "RESTATED 2026-10-23 (from 16.2 to 19.15) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. UGI v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $16.20, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - UGI UGI Corporation.md; OUT at Q7 at $38.43). Reporting figure; a hit means re-run under the paragraph, not a buy."
   },
   {
    "id": "LNT-v5-fair",
    "ticker": "LNT",
    "currency": "USD",
    "op": "<=",
-   "threshold": 17.1,
+   "threshold": 22.38,
    "active": true,
-   "label": "LNT v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $17.10, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - LNT Alliant Energy.md; OUT at Q7 at $68.32). Reporting figure; a hit means re-run under the paragraph, not a buy."
+   "label": "RESTATED 2026-10-23 (from 17.1 to 22.38) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. LNT v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $17.10, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - LNT Alliant Energy.md; OUT at Q7 at $68.32). Reporting figure; a hit means re-run under the paragraph, not a buy."
   },
   {
    "id": "AEE-v5-fair",
    "ticker": "AEE",
    "currency": "USD",
    "op": "<=",
-   "threshold": 31.39,
+   "threshold": 37.02,
    "active": true,
-   "label": "AEE v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $31.39, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - AEE Ameren.md; OUT at Q7 at $106.08). Reporting figure; a hit means re-run under the paragraph, not a buy."
+   "label": "RESTATED 2026-10-23 (from 31.39 to 37.02) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. AEE v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $31.39, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - AEE Ameren.md; OUT at Q7 at $106.08). Reporting figure; a hit means re-run under the paragraph, not a buy."
   },
   {
    "id": "AVA-v5-fair",
    "ticker": "AVA",
    "currency": "USD",
    "op": "<=",
-   "threshold": 3.21,
+   "threshold": 10.1,
    "active": true,
-   "label": "AVA v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $3.21, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - AVA Avista.md; OUT at Q7 at $36.67). Reporting figure; a hit means re-run under the paragraph, not a buy."
+   "label": "RESTATED 2026-10-23 (from 3.21 to 10.1) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. AVA v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $3.21, as the run computed it with all capital spending charged, so below the rule's figure. Run 2026-10-18 (Test Runs/2026-10-18 Run - AVA Avista.md; OUT at Q7 at $36.67). Reporting figure; a hit means re-run under the paragraph, not a buy."
   },
   {
    "id": "BKH-v5-fair",
    "ticker": "BKH",
    "currency": "USD",
    "op": "<=",
-   "threshold": 28.02,
+   "threshold": 29.53,
    "active": true,
-   "label": "BKH v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $28.02, central; all-equity -$17.09, not positive; merger beside $22.59. Run 2026-10-18 (Test Runs/2026-10-18 Run - BKH Black Hills.md; OUT at Q7 at $76.63; equity-only value range $52.96 to $63.44). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+   "label": "RESTATED 2026-10-23 (from 28.02 to 29.53) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. BKH v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $28.02, central; all-equity -$17.09, not positive; merger beside $22.59. Run 2026-10-18 (Test Runs/2026-10-18 Run - BKH Black Hills.md; OUT at Q7 at $76.63; equity-only value range $52.96 to $63.44). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
   },
   {
    "id": "CNP-v5-fair",
@@ -1962,70 +1962,70 @@
    "op": "<=",
    "threshold": 9.62,
    "active": true,
-   "label": "RESTATED 2026-10-23 from $11.29 to $9.62 by `Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`, specific (b): owner cash changes sign, so the no-growth case alone, on the run's own inputs. CNP v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $11.29, central; $12.21 with the forward-sale shares; all-equity -$17.29, not positive. Run 2026-10-18 (Test Runs/2026-10-18 Run - CNP CenterPoint Energy.md; OUT at Q7 at $40.55; equity-only value range $14.36 to $20.51). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+   "label": "RESTATED 2026-10-23 (from 9.62 to 9.62) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. RESTATED 2026-10-23 from $11.29 to $9.62 by `Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`, specific (b): owner cash changes sign, so the no-growth case alone, on the run's own inputs. CNP v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $11.29, central; $12.21 with the forward-sale shares; all-equity -$17.29, not positive. Run 2026-10-18 (Test Runs/2026-10-18 Run - CNP CenterPoint Energy.md; OUT at Q7 at $40.55; equity-only value range $14.36 to $20.51). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
   },
   {
    "id": "ED-v5-fair",
    "ticker": "ED",
    "currency": "USD",
    "op": "<=",
-   "threshold": 20.24,
+   "threshold": 27.5,
    "active": true,
-   "label": "FLAGGED 2026-10-23 by `Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`: the run's figure departs from the text; left at the run's figure (below the audited one) until gap 1 (the growth case's spending): audited $26.59 to $32.01. ED v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $20.24, central; all-equity -$57.52, not positive. Run 2026-10-18 (Test Runs/2026-10-18 Run - ED Consolidated Edison.md; OUT at Q7 at $112.26; equity-only value range $14.35 to $61.04). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+   "label": "RESTATED 2026-10-23 (from 20.24 to 27.5) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. (the morning's FLAGGED note lifted) ED v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $20.24, central; all-equity -$57.52, not positive. Run 2026-10-18 (Test Runs/2026-10-18 Run - ED Consolidated Edison.md; OUT at Q7 at $112.26; equity-only value range $14.35 to $61.04). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
   },
   {
    "id": "D-v5-fair",
    "ticker": "D",
    "currency": "USD",
    "op": "<=",
-   "threshold": 12.85,
+   "threshold": 10.62,
    "active": true,
-   "label": "D v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $12.85, central; all-equity -$41.33, not positive. Run 2026-10-18 (Test Runs/2026-10-18 Run - D Dominion Energy.md; OUT at Q7 at $63.56; equity-only value range $26.14 to $38.39). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+   "label": "RESTATED 2026-10-23 (from 12.85 to 10.62) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. D v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $12.85, central; all-equity -$41.33, not positive. Run 2026-10-18 (Test Runs/2026-10-18 Run - D Dominion Energy.md; OUT at Q7 at $63.56; equity-only value range $26.14 to $38.39). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
   },
   {
    "id": "DTE-v5-fair",
    "ticker": "DTE",
    "currency": "USD",
    "op": "<=",
-   "threshold": 59.23,
+   "threshold": 55.23,
    "active": true,
-   "label": "DTE v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $59.23, central; all-equity -$41.55, not positive. Run 2026-10-18 (Test Runs/2026-10-18 Run - DTE DTE Energy.md; OUT at Q7 at $129.73; equity-only value range $114.06 to $123.78). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+   "label": "RESTATED 2026-10-23 (from 59.23 to 55.23) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. DTE v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $59.23, central; all-equity -$41.55, not positive. Run 2026-10-18 (Test Runs/2026-10-18 Run - DTE DTE Energy.md; OUT at Q7 at $129.73; equity-only value range $114.06 to $123.78). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
   },
   {
    "id": "DUK-v5-fair",
    "ticker": "DUK",
    "currency": "USD",
    "op": "<=",
-   "threshold": 45.69,
+   "threshold": 32.76,
    "active": true,
-   "label": "RESTATED 2026-10-23 from $47.3 to $45.69 by `Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`, specific (e): the growth spending charged against the growth it buys, on the run's own inputs. DUK v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $47.30, central; all-equity -$35.73, not positive. Run 2026-10-18, resumed and closed 2026-10-22 (Test Runs/2026-10-18 Run - DUK Duke Energy.md; OUT at Q7 at $121.47; equity-only value range $71.06 to $109.64). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+   "label": "RESTATED 2026-10-23 (from 45.69 to 32.76) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. RESTATED 2026-10-23 from $47.3 to $45.69 by `Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`, specific (e): the growth spending charged against the growth it buys, on the run's own inputs. DUK v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $47.30, central; all-equity -$35.73, not positive. Run 2026-10-18, resumed and closed 2026-10-22 (Test Runs/2026-10-18 Run - DUK Duke Energy.md; OUT at Q7 at $121.47; equity-only value range $71.06 to $109.64). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
   },
   {
    "id": "EVRG-v5-fair",
    "ticker": "EVRG",
    "currency": "USD",
    "op": "<=",
-   "threshold": 27.04,
+   "threshold": 25.11,
    "active": true,
-   "label": "EVRG v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $27.04, central; all-equity -$41.03, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - EVRG Evergy.md; OUT at Q7 at $84.95; equity-only value range $41.25 to $65.33). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+   "label": "RESTATED 2026-10-23 (from 27.04 to 25.11) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. EVRG v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $27.04, central; all-equity -$41.03, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - EVRG Evergy.md; OUT at Q7 at $84.95; equity-only value range $41.25 to $65.33). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
   },
   {
    "id": "ES-v5-fair",
    "ticker": "ES",
    "currency": "USD",
    "op": "<=",
-   "threshold": 37.58,
+   "threshold": 22.44,
    "active": true,
-   "label": "FLAGGED 2026-10-23 by `Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`: the run's figure departs from the text; left at the run's figure (below the audited one) until gap 2 (whose debt share caps the credit): audited about $47.22. ES v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $37.58, central; all-equity -$54.51, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - ES Eversource Energy.md; OUT at Q7 at $67.84; equity-only value range $71.73 to $81.97). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+   "label": "RESTATED 2026-10-23 (from 37.58 to 22.44) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. (the morning's FLAGGED note lifted) ES v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $37.58, central; all-equity -$54.51, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - ES Eversource Energy.md; OUT at Q7 at $67.84; equity-only value range $71.73 to $81.97). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
   },
   {
    "id": "FTS-v5-fair",
    "ticker": "FTS.TO",
    "currency": "CAD",
    "op": "<=",
-   "threshold": 28.96,
+   "threshold": 27.6,
    "active": true,
-   "label": "FTS v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): C$28.96 on the TSX line FTS.TO, central; all-equity C$-27.12, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - FTS Fortis.md; OUT at Q7 at C$80.99; equity-only value range C$72.41 to C$97.93). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+   "label": "RESTATED 2026-10-23 (from 28.96 to 27.6) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. FTS v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): C$28.96 on the TSX line FTS.TO, central; all-equity C$-27.12, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - FTS Fortis.md; OUT at Q7 at C$80.99; equity-only value range C$72.41 to C$97.93). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
   },
   {
    "id": "HE-v5-fair",
@@ -2034,25 +2034,25 @@
    "op": "<=",
    "threshold": 2.81,
    "active": true,
-   "label": "RESTATED 2026-10-23 from $2.65 to $2.81 by `Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`, specific (e): the maintenance-only case central, on the run's own inputs. HE v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $2.65, central; all-equity -$13.18, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - HE Hawaiian Electric Industries.md; OUT at Q7 at $8.75; equity-only value range $8.95, the no-growth case alone). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+   "label": "RESTATED 2026-10-23 (from 2.81 to 2.81) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. RESTATED 2026-10-23 from $2.65 to $2.81 by `Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`, specific (e): the maintenance-only case central, on the run's own inputs. HE v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $2.65, central; all-equity -$13.18, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - HE Hawaiian Electric Industries.md; OUT at Q7 at $8.75; equity-only value range $8.95, the no-growth case alone). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
   },
   {
    "id": "IDA-v5-fair",
    "ticker": "IDA",
    "currency": "USD",
    "op": "<=",
-   "threshold": 38.36,
+   "threshold": 31.36,
    "active": true,
-   "label": "IDA v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $38.36, central; all-equity -$24.49, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - IDA IDACORP.md; OUT at Q7 at $142.06; equity-only value range $70.72 to $91.45). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+   "label": "RESTATED 2026-10-23 (from 38.36 to 31.36) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. IDA v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $38.36, central; all-equity -$24.49, not positive. Run 2026-10-23 (Test Runs/2026-10-23 Run - IDA IDACORP.md; OUT at Q7 at $142.06; equity-only value range $70.72 to $91.45). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
   },
   {
    "id": "MGEE-v5-fair",
    "ticker": "MGEE",
    "currency": "USD",
    "op": "<=",
-   "threshold": 29.47,
+   "threshold": 29.62,
    "active": true,
-   "label": "MGEE v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $29.47, central; all-equity $6.01 beside. Run 2026-10-23 (Test Runs/2026-10-23 Run - MGEE MGE Energy.md; OUT at Q7 at $74.24; equity-only value range $57.93 to $68.46). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
+   "label": "RESTATED 2026-10-23 (from 29.47 to 29.62) by `Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`, under specific (e) and The regulated utility as decided 2026-10-23, equity-only. MGEE v5 fair price, EQUITY-ONLY (a regulated utility, Q7 The regulated utility, 2026-10-18): $29.47, central; all-equity $6.01 beside. Run 2026-10-23 (Test Runs/2026-10-23 Run - MGEE MGE Energy.md; OUT at Q7 at $74.24; equity-only value range $57.93 to $68.46). Reporting figure; any price below fair is read as cheap by the operator; a hit means re-run, not a buy."
   }
  ]
 }

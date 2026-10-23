@@ -96,6 +96,7 @@ Does owning this put the buyer at risk of ruin (the buyer's conduct, not the tar
   against market value plus net debt at the latest filed date, stated subsequent events added) and the equity-only figure
   $ ___ beside it. No cheap price is reported. *(basis named 2026-10-06, section H.)*
   For a regulated utility (Q7, The regulated utility) the two swap: equity-only central, the debt raised for the fixed assets credited against their spending up to the regulator's allowed debt share, all-equity beside. *(2026-10-18.)*
+  Growth spending (above maintenance) $ ___ in year one, $ ___ in year ten, none after (specific (e)). Utility debt credit: long-term debt increase $ ___ a year, against growth spending only, cap ___% (the deciding part's allowed share, or own share, said which). *(2026-10-23.)*
 - **VERDICT: IN / OUT / TOO HARD**, with ids.
 
 ## Q8 — IS IT BETTER THAN THE ALTERNATIVES: the bond, more of what I already own, the company's own stock? STOP.

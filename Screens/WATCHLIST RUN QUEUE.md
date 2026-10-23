@@ -17723,6 +17723,9 @@ COMPUTATION where the file closed before Q7. The count of entries rises by the n
 ### Dated note 2026-10-23: the runs of 2026-10-18 to 2026-10-23 audited; six marked BAD; NI unfolded
 *At the operator's "check the runs to make sure they are valid and mark the ones that are bad", the 23 runs from BKH to NEE were audited (`Test Runs/ADDENDUM 2026-10-23 - the overnight runs of 2026-10-18 to 2026-10-23 audited, six marked bad.md`). No box changes. Six are marked **BAD** for a fair price built against the text by more than 2%: **CNP** (alert restated to $9.62), **DUK** ($45.69), **HE** ($2.81), **ED** and **ES** (alerts flagged, left at the run's lower figure until the operator rules gaps 1 and 2 of the addendum), and **ELPC** (OUT at Q2, its computation only; no alert). D and DTE are valid with slips, their four-year windows awaiting a ruling (gap 3). The other fifteen are valid with slips. NI's cycle died after its Q7 commit (7772fea4) when the auto runs were stopped: no box, no self-audit, not folded, so it binds nothing; it is resumed from its own file when the runs restart. The auto runs are stopped from 2026-10-23 at the operator's word (`BRK-overnight` disabled).*
 
+### Dated note 2026-10-23: the utility alerts restated
+*Under `Framework/v5/CASE 2026-10-23 - the growth case's spending and the utility debt credit, for the operator's approval.md` (decided the same day, commit da11a073), the twenty armed utility alerts are restated from each run's own inputs (`Test Runs/ADDENDUM 2026-10-23 - the utility fair prices restated under the growth-spending and debt-credit readings.md`; old and new figures there). No box moves. The ED and ES flags of the morning's audit are lifted. MDU keeps $3.86 (an input missing); CNP and HE keep the audit's figures. Gaps 3 to 5 remain open.*
+
 ## THE WRITE-EARLY PROTOCOL - mandatory for every run in this queue
 *Added 2026-09-02 after the fourth consecutive session-limit loss.*
 
