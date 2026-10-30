@@ -1,0 +1,14 @@
+year | A: OCF-SBC-D&A | A: OCF-SBC-capex | inv. turnover (proceeds-purchases) | A ex turnover (capex end) | B: DE-SBC (D&A end) | B: DE+D&A(p)-SBC-capex | B fee-only pre-tax FRE-SBC-capex+D&A(p) | net realizations
+2020 1,391.5 | 1,386.0 | 2,062.5 | -676.5 | 2,903.3 | 2,826.7 | 1,855.2 | 1,310.6
+2021 3,221.5 | 3,284.2 | 4,531.4 | -1,247.2 | 5,533.4 | 5,521.3 | 3,401.2 | 2,913.3
+2022 5,353.6 | 5,254.4 | 5,139.4 | 115.0 | 5,786.4 | 5,620.2 | 3,400.0 | 3,043.5
+2023 2,935.2 | 2,845.1 | 2,178.9 | 666.2 | 4,073.4 | 3,943.3 | 3,231.7 | 1,276.0
+2024 2,178.5 | 2,251.8 | 1,912.8 | 339.0 | 4,798.3 | 4,835.7 | 4,151.0 | 1,428.3
+2025 3,083.8 | 3,102.1 | 2,872.0 | 230.1 | 5,665.5 | 5,648.8 | 4,275.5 | 2,144.7
+5y FY2021-25 A D&A 3,354.5 A capex 3,347.5 A ex-turnover capex 20.6 B D&A 5,171.4 B capex 5,113.8 fee-only pre-tax 3,691.9 net realiz 2,161.2
+3y FY2023-25 A D&A 2,732.5 A capex 2,733.0 A ex-turnover capex 411.8 B D&A 4,845.7 B capex 4,809.2 fee-only pre-tax 3,886.0 net realiz 1,616.3
+6y FY2020-25 A D&A 3,027.3 A capex 3,020.6 A ex-turnover capex -95.6 B D&A 4,793.4 B capex 4,732.7 fee-only pre-tax 3,385.8 net realiz 2,019.4
+TTM OCF 5597.9 SBC 1577.4 capex 111.7 DE 7876.4
+TTM A capex end 3908.9 TTM B D&A end (DE-SBC) 6299.0
+SBC / OCF by year [22.6, 16.0, 13.4, 24.3, 33.6, 31.0]
+SBC / DE by year [13.1, 10.3, 12.8, 19.5, 19.6, 20.3]

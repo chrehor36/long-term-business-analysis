@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <schemaVersion>X0202</schemaVersion>
+<headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: STEEL PARTNERS HOLDINGS L.P. -->
+          <cik>0001452857</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, $0.01 Par Value</securitiesClassTitle>
+      <dateOfEvent>08/27/2026</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001738827</issuerCIK>
+        <issuerCusips>
+          <issuerCusipNumber>48253L205</issuerCusipNumber>
+        </issuerCusips>
+        <issuerName>KLX Energy Services Holdings, Inc.</issuerName>
+        <address>
+          <com:street1>3040 POST OAK BOULEVARD</com:street1>
+          <com:street2>15TH FLOOR</com:street2>
+          <com:city>HOUSTON</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>77056</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Warren G. Lichtenstein</personName>
+          <personPhoneNum>212-520-2300</personPhoneNum>
+          <personAddress>
+            <com:street1>Steel Partners Holdings L.P.</com:street1>
+            <com:street2>590 Madison Avenue, 32nd Floor</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10022</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001452857</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>STEEL PARTNERS HOLDINGS L.P.</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1907172.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1907172.00</sharedDispositivePower>
+        <aggregateAmountOwned>1907172.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.9</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001537666</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Steel Partners Holdings GP Inc.</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1907172.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1907172.00</sharedDispositivePower>
+        <aggregateAmountOwned>1907172.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.9</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001522067</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>SPH Group LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1907172.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1907172.00</sharedDispositivePower>
+        <aggregateAmountOwned>1907172.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.9</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001522066</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>SPH Group Holdings LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1907172.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1907172.00</sharedDispositivePower>
+        <aggregateAmountOwned>1907172.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.9</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000709804</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Steel Excel Inc.</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1907172.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1907172.00</sharedDispositivePower>
+        <aggregateAmountOwned>1907172.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.9</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000914712</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Steel Connect LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1907172.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1907172.00</sharedDispositivePower>
+        <aggregateAmountOwned>1907172.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.9</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002099397</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>SP Strategic Holdings LLC</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1907172.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1907172.00</sharedDispositivePower>
+        <aggregateAmountOwned>1907172.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.9</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, $0.01 Par Value</securityTitle>
+        <issuerName>KLX Energy Services Holdings, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>3040 POST OAK BOULEVARD</com:street1>
+          <com:street2>15TH FLOOR</com:street2>
+          <com:city>HOUSTON</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>77056</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This statement is filed by Steel Partners Holdings L.P., a Delaware limited partnership ("Steel Holdings"), Steel Partners Holdings GP Inc., a Delaware corporation ("Steel Holdings GP"), SPH Group LLC, a Delaware limited liability company ("SPHG"), SPH Group Holdings LLC, a Delaware limited liability company ("SPHG Holdings"), Steel Excel Inc., a Delaware corporation ("Steel Excel"), Steel Connect LLC, a Delaware limited liability company ("Steel Connect") and SP Strategic Holdings LLC, a Delaware limited liability company ("SP Strategic Holdings"). Each of the foregoing is referred to as a "Reporting Person" and collectively as the "Reporting Persons."
+
+Steel Holdings owns a majority of the membership interests of SPHG. SPHG is the sole member of SPHG Holdings. Steel Holdings GP is the general partner of Steel Holdings, the managing member of SPHG and the manager of SPHG Holdings. Steel Excel is a majority owned subsidiary of SPHG Holdings. Steel Connect is an indirect subsidiary of Steel Excel. SP Strategic Holdings is a wholly owned subsidiary of Steel Connect. Accordingly, for purposes of this statement, each of Steel Holdings, SPHG, SPHG Holdings, Steel Holdings GP, Steel Excel and Steel Connect may be deemed to beneficially own the shares of Common Stock, $0.01 par value per share (the "Shares"), owned directly by SP Strategic Holdings.
+
+Each Reporting Person disclaims beneficial ownership of the Shares owned directly by another Reporting Person.
+
+Set forth in Exhibit 1 attached hereto ("Exhibit 1") is the name and present principal business, occupation or employment and the name, principal business and address of any corporation or other organization in which such employment is conducted of (i) the executive officers and directors of Steel Holdings GP, (ii) the executive officers and directors of Steel Excel, (iii) the executive officers and managers of Steel Connect, and (iv) the executive officers of SP Strategic Holdings. To the best of the Reporting Persons' knowledge, except as otherwise set forth herein, none of the persons listed in Exhibit 1 beneficially owns any securities of the Issuer or is a party to any contract, agreement or understanding required to be disclosed herein.</filingPersonName>
+        <principalBusinessAddress>The principal business address of the Reporting Persons is 590 Madison Avenue, 32nd Floor, New York, NY 10022.</principalBusinessAddress>
+        <principalJob>Steel Holdings is a global diversified holding company that engages or has interests in a variety of operating businesses through its subsidiary companies. The principal business of SPHG Holdings is holding securities for the account of Steel Holdings. The principal business of SPHG is serving as the sole member of SPHG Holdings and other affiliates. The principal business of Steel Holdings GP is serving as the general partner of Steel Holdings, the managing member of SPHG and the manager of SPHG Holdings. The principal business of Steel Excel is serving as a global diversified company that engages or has interests in a variety of operating businesses. The principal business of Steel Connect is serving as a holding company whose wholly owned subsidiary, ModusLink Corporation, serves the supply chain management market. The principal business of SP Strategic Holdings is holding securities for the account of Steel Connect.</principalJob>
+        <hasBeenConvicted>No Reporting Person, nor any person listed in Exhibit 1, has, during the last five years, been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>No Reporting Person, nor any person listed in Exhibit 1, has, during the last five years, been party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Each of the individuals who are listed in Exhibit 1 is a citizen of the United States of America. Each of the entities that are Reporting Persons are organized under the laws of the State of Delaware.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>The aggregate purchase price of the 1,907,172 Shares owned directly by SP Strategic Holdings is approximately $2,920,401, including brokerage commissions. Such Shares were acquired with SP Strategic Holdings' cash on hand.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>On August 24, 2026, the Issuer distributed to all holders of record of Shares as of 5:00 p.m., New York City time, on August 21, 2026 (the "Record Date") one transferable subscription right (each, a "Right") for each Share held as of the Record Date (the "Rights Offering"). Each Right entitles the holder thereof, subject to certain limitations, to purchase 3.885 Shares, rounded down to the nearest whole Share, at a subscription price of $1.49 per share (the "Subscription Price"); provided, that any holder that exercises its basic subscription rights in full will have an over-subscription privilege to purchase additional Shares that remain unsubscribed as of September 23, 2026 (the "Expiration Date"), subject to certain limitations.
+
+The Issuer reserves the right, in its sole and absolute discretion, to amend, extend or cancel the Rights Offering at any time for any reason prior to the Expiration Date. If the Rights Offering is canceled, all subscription payments received by the subscription agent will be returned, without interest or penalty, as soon as practicable to those holders who subscribed for Shares in the Rights Offering.
+
+In connection with the Rights Offering, on August 24, 2026, SP Strategic Holdings received 766,118 rights. SP Strategic Holdings purchased 1,086,121 Rights following the Record Date. Accordingly, as of the date hereof, SP Strategic Holdings holds 1,852,239 Rights and is entitled to purchase an aggregate of 7,195,948 Shares at the Subscription Price upon the exercise the Rights, subject to the completion of the Rights Offering.
+
+The Reporting Persons purchased the Shares and the Rights based on the Reporting Persons' belief that the Shares and the Rights, when purchased, were undervalued and represented an attractive investment opportunity. Depending upon overall market conditions, other investment opportunities available to the Reporting Persons, and the availability of Shares at prices that would make the purchase or sale of Shares desirable, the Reporting Persons may endeavor to increase or decrease their position in the Issuer through, among other things, the purchase or sale of Shares on the open market or in private transactions or otherwise, on such terms and at such times as the Reporting Persons may deem advisable.
+
+No Reporting Person has any present plan or proposal which would relate to or result in any of the matters set forth in subparagraphs (a) - (j) of Item 4 of Schedule 13D except as set forth herein or such as would occur upon or in connection with completion of, or following, any of the actions discussed herein. The Reporting Persons intend to review their investment in the Issuer on a continuing basis. Depending on various factors, including, without limitation, the Issuer's financial position and strategic direction, the price levels of the Shares, conditions in the securities markets and general economic and industry conditions, other investment opportunities available to the Reporting Persons, and the outcome of any discussions referenced herein, the Reporting Persons may in the future take such actions with respect to their investment in the Issuer as they deem appropriate, including, without limitation, engaging in communications and negotiations with management and the Issuer's Board of Directors, engaging in discussions with stockholders of the Issuer or third parties (including potential financing sources), exchanging information with the Issuer or any such persons pursuant to appropriate confidentiality or similar agreements regarding any of the foregoing, purchasing additional Shares, selling some or all of their Shares, engaging in short selling of or any hedging or similar transaction with respect to the Shares, or changing their intention with respect to any and all matters referred to in Item 4. The Reporting Persons may also take steps to explore and prepare for various plans and actions, and propose transactions, before forming an intention to engage in such plans or actions or proceed with such transactions.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The aggregate percentage of Shares reported owned by each person named herein is based upon 21,428,722 Shares outstanding, which is the total number of Shares outstanding as of August 21, 2026, as reported in the Issuer's Prospectus Supplement filed with the Securities and Exchange Commission on August 24, 2026.
+
+As of the close of business on the date hereof, SP Strategic Holdings owned directly 1,907,172 Shares, constituting approximately 8.9% of the Shares outstanding. By virtue of their relationships with SP Strategic Holdings, each of Steel Holdings, SPHG, SPHG Holdings, Steel Holdings GP, Steel Excel and Steel Connect may be deemed to beneficially own the Shares owned directly by SP Strategic Holdings.</percentageOfClassSecurities>
+        <numberOfShares>Each of Steel Holdings, SPHG, SPHG Holdings, Steel Holdings GP, Steel Excel and Steel Connect may be deemed to have shared power to vote and dispose of the Shares reported in this statement owned directly by SP Strategic Holdings.</numberOfShares>
+        <transactionDesc>The transactions in the Shares by SP Strategic Holdings during the past sixty days are set forth in Exhibit 2 and are incorporated herein by reference. All of such transactions were effected in the open market.</transactionDesc>
+        <listOfShareholders>No person other than the Reporting Persons is known to have the right to receive, or the power to direct the receipt of dividends from, or proceeds from the sale of, the Shares.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>As described in Item 4 above, SP Strategic Holdings has purchased an aggregate of 1,086,121 Rights. Such Rights were purchased for an aggregate price of approximately $135,520 and entitle SP Strategic Holdings to purchase an aggregate of 4,219,580 Shares at the Subscription Price upon the exercise of the Rights, subject to the completion of the Rights Offering.
+
+On the date hereof, the Reporting Persons entered into a Joint Filing Agreement in which the Reporting Persons agreed to the joint filing on behalf of each of them of statements on Schedule 13D with respect to securities of the Issuer. A copy of this agreement is attached as Exhibit 99.1 hereto and is incorporated herein by reference.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>1 - Directors and Officers
+
+2- Transactions in Securities
+
+99.1 - Joint Filing Agreement by and among the Reporting Persons, dated September 3, 2026</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>STEEL PARTNERS HOLDINGS L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Maria Reda</signature>
+          <title>Maria Reda, Secretary of Steel Partners Holdings GP Inc., its General Partner</title>
+          <date>09/03/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Steel Partners Holdings GP Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Maria Reda</signature>
+          <title>Maria Reda, Secretary</title>
+          <date>09/03/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>SPH Group LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Maria Reda</signature>
+          <title>Maria Reda, Secretary of Steel Partners Holdings GP Inc., its Managing Member</title>
+          <date>09/03/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>SPH Group Holdings LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Maria Reda</signature>
+          <title>Maria Reda, Secretary of Steel Partners Holdings GP Inc., its Manager</title>
+          <date>09/03/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Steel Excel Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Maria Reda</signature>
+          <title>Maria Reda, Secretary</title>
+          <date>09/03/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Steel Connect LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Maria Reda</signature>
+          <title>Maria Reda, Secretary</title>
+          <date>09/03/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>SP Strategic Holdings LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Maria Reda</signature>
+          <title>Maria Reda, Secretary</title>
+          <date>09/03/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>

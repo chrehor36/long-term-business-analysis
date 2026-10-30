@@ -1,0 +1,7 @@
+UNH: SIC 6324 (Hospital & Medical Service Plans) is an insurer.
+  THIS SCRIPT CANNOT PRICE IT. Operating cash flow contains float growth,
+  which is borrowed money, and investment income, which belongs to a
+  portfolio nothing here values. The yield would be overstated.
+  USE Framework/SECTOR METHOD v5 - insurers and float companies.md,
+  which values two components separately.
+  (Pass --shares to override if you have already made the corrections.)

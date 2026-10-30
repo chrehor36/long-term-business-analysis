@@ -1,0 +1,31 @@
+owner cash equity-only after purchases        626.2    697.1    392.9    475.0    179.7 | avg    474.2
+equity-only before purchases                  670.3    756.5    604.1    517.2    257.8 | avg    561.2
+interest add-back after tax                    51.9     44.1     52.5      9.4     21.1 | avg     35.8
+all-equity after purchases                    678.1    741.1    445.4    484.4    200.7 | avg    509.9
+all-equity before purchases                   722.2    800.6    656.6    526.5    278.8 | avg    597.0
+growth series (pre-WC, pre-purchase)          630.9    521.2    398.4    590.9    517.7 | avg    531.8
+growth end-to-end on growth series: -4.82%  (literal all-equity series end-to-end -26.24%)
+
+ALL-EQUITY: base 509.9, base before purchases 597.0
+  range EV: bottom 10,202  top 15,548  width 1.52x (EV) ; per share 29.72 to 50.28 EUR (width 1.69x)
+  at 10%: no-growth 11.38, decline 5.51 -> FAIR 8.45 EUR/share = 4.75 USD/ADS
+  range per ADS USD: 16.72 to 28.29
+  beside, H1-2026 net debt (press release): fair 9.10; range 30.37 to 50.93
+  beside, plus Terega signed: fair 6.24; range 27.51 to 48.08
+  expected return at price EUR 16.81 (no-growth): 8.04%
+  expected return at price EUR 16.81 (decline): 5.54%
+
+EQUITY-ONLY: base 474.2, base before purchases 561.2
+  range EV: bottom 9,557  top 14,573  width 1.52x (EV) ; per share 36.76 to 56.05 EUR (width 1.52x)
+  at 10%: no-growth 19.53, decline 14.03 -> FAIR 16.78 EUR/share = 9.44 USD/ADS
+  range per ADS USD: 20.68 to 31.54
+  expected return at price EUR 16.81 (no-growth): 11.52%
+  expected return at price EUR 16.81 (decline): 8.26%
+
+market cap EUR 4,371M; EV (all-equity) 6,846M
+
+BESIDE (all-equity, Dec-2025 net debt):
+  literal window decline -26.2%: value at sovereign -2.76/share; at 10% -5.18/share
+  depreciation variant base 342.4 (D&A avg 274.3 vs capex avg 106.7); no-growth at sovereign 32.72, at 10% 4.94/share
+  expected return no-growth with H1-2026 net debt 2305.0: 8.23%
+  serial-acquirer test: net purchases over window 435.1 vs half of owner cash before purchases 1492.4

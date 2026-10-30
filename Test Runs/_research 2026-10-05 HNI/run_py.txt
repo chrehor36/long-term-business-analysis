@@ -1,0 +1,46 @@
+==============================================================================
+HNI CORP  (HNI)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.63%   10/02/2026   US Treasury daily par yield curve
+  price     47.65 USD   2026-10-05   (aggregator — live quote only)
+  shares    72.2M      market cap 3.44B USD
+  share basis: dei cover-page count as of 2026-07-04
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-12-30        268       16        95         80        156        171
+    2024-12-28        227       17       108         55        101        154
+    2026-01-03        276       25       107         70        145        182
+          mean                                                 134        169
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 85 .. 108   yield 2.48%..3.15%
+  DIVERGENCE vs the 3-yr window: -36.5% on the conservative end
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                  3.90% ..  4.91%   vs sovereign 5.63%
+  2. GROWTH THE PRICE ASSUMES   -2.8%  (at a 5.63% rate)
+  3. POINTS OVER THE SOVEREIGN +0.95 .. +2.01
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill     lt debt    retained
+    2016-12-31         1,330           -         501          36         229         118         291         180         462
+    2017-12-30         1,392           -         514          23         259         156         280         240         467
+    2018-12-29         1,402           -         563          77         255         157         271         249         505
+    2019-12-28         1,453           -         584          52         275         163         271         174         530
+    2021-01-02         1,418           -         590         116         208         138         292         175         518
+    2022-01-01         1,498           -         590          52         240         182         297         175         515
+    2022-12-31         1,414           -         616          17         218         180         306         189         534
+    2023-12-30         1,929       1,167         761          29         247         197         441         428         524
+    2024-12-28         1,875       1,035         840          22           -         194         442         294         600
+    2026-01-03         4,885       3,050       1,836         209           -         475         958       1,277         590
+    accessions: 0000048287-17-000067, 0000048287-18-000059, 0000048287-19-000045, 0000048287-20-000045, 0000048287-21-000038, 0000048287-22-000071, 0000048287-23-000053, 0000048287-24-000080, 0000048287-25-000084, 0000048287-26-000084
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

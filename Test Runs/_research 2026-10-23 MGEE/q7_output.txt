@@ -1,0 +1,42 @@
+market cap 2805.1  net debt 937.3  tax 0.2724
+2021 OC_all -20.9  OC_maint 59.3  OC_maint/sales 9.8%  growth spend 80.2
+2022 OC_all -27.7  OC_maint 67.0  OC_maint/sales 9.4%  growth spend 94.7
+2023 OC_all 6.2  OC_maint 134.9  OC_maint/sales 19.5%  growth spend 128.7
+2024 OC_all 35.0  OC_maint 168.1  OC_maint/sales 24.8%  growth spend 133.1
+2025 OC_all -88.8  OC_maint 149.6  OC_maint/sales 20.1%  growth spend 238.4
+avg OC_all -19.2  avg OC_maint 115.8
+net LTD raised 289.9 (gross 364.3); cap on all capex 496.7; cap on growth capex 283.2
+OC all-spending with debt credit (net) 38.7; with gross issuance 53.6
+equity-funded growth spend per year 78.4 (credit 283.2)
+shown growth OC_maint 26.1%, sales 5.23%, net income 6.47%
+OC_maint base x (1+g_oc)^10 = 1173 vs highest share of sales x sales10 = 307
+
+-- central basis: equity-only (regulated utility), owner cash after interest and company tax --
+A no-growth, maintenance only (equity-only): at 5.29% 2189M = $57.93/sh; at 10% 1158M = $30.64/sh; IRR at price 4.13%
+B shown growth (sales-capped), growth spend charged net of debt credit (equity-only): at 5.29% 2587M = $68.46/sh; at 10% 1069M = $28.29/sh; IRR at price 4.97%
+RANGE $57.93 to $68.46; width 1.18x; FAIR (avg of ends at 10%) $29.47 vs price $74.24
+with forwards settled (+2.310M sh, +$168.4M cash, equity-only adds the cash): fair $31.97
+
+-- beside: all-spending case, equity-only with debt credit (no growth; series changes sign) --
+OC 38.7 -> at 5.29% $19.38/sh, at 10% $10.25/sh; IRR 1.38%
+same with gross issuance credited: OC 53.6 -> $26.82/sh at 5.29%
+
+-- beside: all-equity basis (owner cash before interest, after tax; less net debt) --
+A' no-growth maintenance: at 5.29% $43.97/sh; at 10% $11.58/sh; IRR 3.67%
+B' growth, all growth spend charged (no debt credit): at 5.29% $45.96/sh; at 10% $0.45/sh; IRR 4.17%
+all-equity fair $6.01
+all-equity all-spending OC 2.4 -> at 5.29% $-23.58/sh
+
+-- beside: without the tax-credit sale proceeds (OBBBA phase-out) --
+OC_maint ex credits 109.9; A $54.97, B $63.97 at 5.29%; fair $27.57
+
+-- beside: growth at net-income rate 6.47% instead of sales --
+B at 5.29% $76.61; at 10% $31.47
+
+literal window, net income (not used): avg NI 118.2 -> /5.29% $59.12/sh
+
+-- beside: IRR at price of the net-income-growth variant --
+IRR 5.42%
+-- beside: 2021 working-capital draw ($36.5M, tied by the filer to the Feb 2021 gas-price event) added back --
+base 123.1; A $61.58, B $74.02 at 5.29%; IRR B 5.28%
+dividend yield at price: 2.74% (annualized $0.5083 x 4)

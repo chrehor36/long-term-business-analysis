@@ -1,0 +1,69 @@
+FY          OCF      SBC   OCF-SBC    capex      D&A   OE@cap   OE@D&A      rev   rev g  SBC/OCF
+2010        9.9      1.9       8.0      1.5      4.6      6.5      3.5     65.4            18.9%
+2011       17.2      2.1      15.0      7.5      5.4      7.5      9.7     76.2   16.5%    12.5%
+2012       21.9      3.5      18.5     11.2      7.3      7.3     11.1     91.4   20.0%    15.7%
+2013       25.1      5.5      19.6     13.7      9.6      5.9     10.0    108.0   18.1%    22.0%
+2014       41.4     10.5      30.9     13.9     11.9     17.0     19.0    133.6   23.7%    25.5%
+2015       66.0     17.5      48.5     20.1     14.4     28.4     34.1    197.9   48.2%    26.5%
+2016       69.3     20.1      49.2     23.2     17.0     25.9     32.2    197.9    0.0%    29.1%
+2017      107.6     27.0      80.7     37.8     20.6     42.9     60.0    230.8   16.6%    25.0%
+2018      125.5     30.1      95.4     22.8     28.9     72.6     66.5    278.9   20.8%    24.0%
+2019      160.6     34.9     125.7     27.6     31.2     98.1     94.5    321.6   15.3%    21.7%
+2020      180.1     40.0     140.1     30.0     32.8    110.0    107.2    363.0   12.9%    22.2%
+2021      200.6     67.6     133.0     24.4     35.9    108.6     97.1    411.2   13.3%    33.7%
+2022      198.9     53.4     145.4     15.4     34.6    130.1    110.8    489.7   19.1%    26.9%
+2023      244.6     69.1     175.5      8.8     27.0    166.7    148.5    554.5   13.2%    28.2%
+2024      244.1     77.1     167.0     12.3     18.5    154.6    148.4    607.6    9.6%    31.6%
+2025      309.4     77.0     232.4      5.0     14.5    227.4    217.9    669.1   10.1%    24.9%
+
+=== WINDOW GRID: mean OE, both (c) ends ===
+window            n   OE@capex     OE@D&A
+2023-2025 (3yr)   3      182.9      171.6
+2022-2025 (4yr)   4      169.7      156.4
+2021-2025 (5yr)   5      157.5      144.6
+2020-2025 (6yr)   6      149.6      138.3
+2019-2025 (7yr)   7      142.2      132.1
+2018-2025 (8yr)   8      133.5      123.9
+2016-2025 (10yr) 10      113.7      108.3
+2019-2023 (5yr)   5      122.7      111.6
+2020-2024 (5yr)   5      134.0      122.4
+2025 only         1      227.4      217.9
+
+TRUE RANGE across all windows x both (c) ends: 108.3 .. 227.4  = 2.10x  (110%)
+Published row said 145 .. 183 = 1.26x (26.5%)
+
+MARKET CAP = 171.65 x 34,595,001 = $5,938M   (screen row used 6124 -> 35.68M shares)
+range           yield  vs sov 5.24   g needed @10% floor
+bottom          1.82%       -3.42                 8.18%
+top             3.83%       -1.41                 6.17%
+5yr@capex       2.65%       -2.59                 7.35%   OE=157.5
+5yr@D&A         2.43%       -2.81                 7.57%   OE=144.6
+3yr@capex       3.08%       -2.16                 6.92%   OE=182.9
+3yr@D&A         2.89%       -2.35                 7.11%   OE=171.6
+
+=== ROE series [E2-01] ===
+2010  NI      0.8  avg equity    -71.1  ROE   -1.2%  yr-end eq    -69.4  OpMargin   1.8%
+2011  NI      2.0  avg equity    -66.9  ROE   -2.9%  yr-end eq    -64.4  OpMargin   3.8%
+2012  NI      2.2  avg equity     13.6  ROE   16.4%  yr-end eq     91.6  OpMargin   3.3%
+2013  NI      1.5  avg equity     97.3  ROE    1.6%  yr-end eq    103.1  OpMargin   2.1%
+2014  NI     30.2  avg equity    127.5  ROE   23.7%  yr-end eq    151.8  OpMargin   6.9%
+2015  NI     19.2  avg equity    173.7  ROE   11.1%  yr-end eq    195.6  OpMargin  12.5%
+2016  NI     19.2  avg equity    227.0  ROE    8.5%  yr-end eq    258.4  OpMargin  15.2%
+2017  NI     40.4  avg equity    301.0  ROE   13.4%  yr-end eq    343.5  OpMargin  16.1%
+2018  NI     57.3  avg equity    350.8  ROE   16.3%  yr-end eq    358.0  OpMargin  18.1%
+2019  NI     69.3  avg equity    372.4  ROE   18.6%  yr-end eq    386.8  OpMargin  22.5%
+2020  NI     91.6  avg equity    395.6  ROE   23.1%  yr-end eq    404.5  OpMargin  26.6%
+2021  NI     71.0  avg equity    420.6  ROE   16.9%  yr-end eq    436.7  OpMargin  21.3%
+2022  NI    108.0  avg equity    362.9  ROE   29.8%  yr-end eq    289.1  OpMargin  26.7%
+2023  NI    151.6  avg equity    328.7  ROE   46.1%  yr-end eq    368.2  OpMargin  29.4%
+2024  NI    173.7  avg equity    422.6  ROE   41.1%  yr-end eq    477.1  OpMargin  30.8%
+2025  NI    198.3  avg equity    519.1  ROE   38.2%  yr-end eq    561.2  OpMargin  33.2%
+
+=== cash tax % of pretax [E4-30] ===
+2019  pretax    80.0  cash tax    3.0  =   3.8%
+2020  pretax   102.0  cash tax    8.1  =   7.9%
+2021  pretax    89.4  cash tax   35.1  =  39.2%
+2022  pretax   133.7  cash tax   39.7  =  29.7%
+2023  pretax   178.7  cash tax   34.9  =  19.5%
+2024  pretax   209.8  cash tax   60.6  =  28.9%
+2025  pretax   246.8  cash tax   40.9  =  16.6%

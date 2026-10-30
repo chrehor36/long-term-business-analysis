@@ -1,0 +1,36 @@
+year | OCF | SBC | D&A | defTx | capex | acq | dev net | MOC cash-tax | MOC book-tax | growth spend | all-spend cash-tax | all-spend book-tax | MOC book / sales
+2021 | 231.7 | 6.8 | 111.6 | 25.2 | 293.2 | 5.5 | 17.5 | 111.0 | 85.8 | 169.5 | -58.5 | -83.7 | 10.8%
+2022 | 243.8 | 5.2 | 117.4 | 26.9 | 327.8 | 7.8 | 16.4 | 121.2 | 94.4 | 201.8 | -80.6 | -107.4 | 11.1%
+2023 | 217.8 | 3.0 | 123.1 | 35.6 | 383.7 | 3.0 | 11.8 | 89.0 | 53.4 | 251.8 | -162.8 | -198.4 | 6.7%
+2024 | 290.9 | 3.7 | 134.1 | 40.4 | 470.8 | 1.6 | 21.0 | 150.5 | 110.0 | 317.3 | -166.8 | -207.3 | 10.6%
+2025 | 302.6 | 5.0 | 146.5 | 38.2 | 517.0 | 0.0 | 28.0 | 147.9 | 109.7 | 342.4 | -194.5 | -232.7 | 11.0%
+avg | | | | | | | | 123.9 | 90.7 | 256.6 | -132.6 | -165.9
+
+== CENTRAL equity-only, maintenance-only, deferred tax charged, growth spending net of capped debt credit: base 90.7, shown growth 6.34%, carried 6.34% 
+   growth spending yr1 272.8, yr10 474.3; debt credit raw 137.0/yr, cap 119.6 -> credit 119.6 (yr1 127.1, yr10 221.0)
+   at 5.30%: no-growth 1711M = $27.66/sh ; growth 1397M = $22.60/sh ; width 1.22x
+   at 10%: no-growth $14.66 ; growth $4.20 ; FAIR (avg) $9.43
+   expected return at $47.82: no-growth 3.07% ; growth -50.00%
+
+== BESIDE equity-only, cash tax (deferred tax not charged): base 123.9, shown growth 7.44%, carried 7.44% 
+   growth spending yr1 275.7, yr10 525.9; debt credit raw 137.0/yr, cap 119.6 -> credit 119.6 (yr1 128.5, yr10 245.1)
+   at 5.30%: no-growth 2338M = $37.81/sh ; growth 2713M = $43.88/sh ; width 1.16x
+   at 10%: no-growth $20.04 ; growth $13.97 ; FAIR (avg) $17.01
+   expected return at $47.82: no-growth 4.19% ; growth -50.00%
+
+== BESIDE all spending deducted (book tax): avg -165.9M/yr; cash tax: -132.6M/yr -> negative; no positive value at any rate
+
+== BESIDE all-equity (book tax): unlevered base 126.9 (after-tax interest 36.2 at 27.98%), net debt 1634.1
+   at 5.30%: no-growth $12.28/sh ; growth (no debt credit, sales growth 6.04%) $-6.71/sh ; at 10% fair $-17.68
+
+== BESIDE all-equity (cash tax): unlevered base 160.1 (after-tax interest 36.2 at 27.98%), net debt 1634.1
+   at 5.30%: no-growth $22.43/sh ; growth (no debt credit, sales growth 6.04%) $9.78/sh ; at 10% fair $-10.91
+
+== BESIDE signed unclosed deals (Nexus $218.0M, BVRT remaining $34.2M unpaid): per share effect if nothing credited: -$4.08
+
+NI/avg-equity and EPS checks in peers.txt; earned return on capital:
+2021: NI+after-tax interest 131.0 on avg equity+LT debt 1965 = 6.7%
+2022: NI+after-tax interest 126.8 on avg equity+LT debt 2306 = 5.5%
+2023: NI+after-tax interest 86.8 on avg equity+LT debt 2431 = 3.6%
+2024: NI+after-tax interest 230.2 on avg equity+LT debt 2650 = 8.7%
+2025: NI+after-tax interest 171.9 on avg equity+LT debt 2991 = 5.7%

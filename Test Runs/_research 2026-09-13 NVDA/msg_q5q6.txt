@@ -1,0 +1,19 @@
+NVDA run: Q5 computation, Q6 reopening conditions, self-audit and register - FAIL at Q2
+
+Q5 headed COMPUTATION - NOT A CLEARANCE: US$218.29 x 24,147M = US$5,271.0bn (Step 0's $5,270.9bn
+was a rounding slip). Yield 0.5% (5-yr conservative) to 2.4% (TTM depreciation end) vs USD 5.35%;
+7.5-9.5% perpetual growth needed for the 10% floor; DCF engine 17.8% a year for ten years from the
+best twelve months. Value at the floor roughly $20-35 (five-year judged) to $135-185 (6-7% forever
+on the best judged year) a share; price above the whole range. Buyback averages imply 5.2-7.3%
+perpetual growth. Screamer test, windage count one.
+
+Q6: reopening conditions in words (substitutes stall on the customers' filings; a transition
+without the write-down; a soft year with price held; the seller stops financing demand; the operator
+re-scopes [E4-04]); honesty condition carried from Q3; no alert, nothing armed.
+
+Self-audit records three killed-session slips, my pre-commit corrections, a new tooling defect
+(floor_screen.da_annual replaces NVIDIA's filed D&A total with a sum of rounded components), and
+four brief errors (the $29bn cloud service agreements are R&D compute, not buy-backs; provisions
+are already inside OCF; FY2024 provisions omitted; FY2018/FY2020 10-Ks never needed).
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

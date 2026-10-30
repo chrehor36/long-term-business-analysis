@@ -1,0 +1,46 @@
+==============================================================================
+Mueller Water Products, Inc.  (MWA)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.63%   10/02/2026   US Treasury daily par yield curve
+  price     21.98 USD   2026-10-05   (aggregator — live quote only)
+  shares    156.1M      market cap 3.43B USD
+  share basis: dei cover-page count as of 2026-07-31
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-09-30        109       11        62         48         35         50
+    2024-09-30        239       14        66         47        158        177
+    2025-09-30        219       15        47         47        157        157
+          mean                                                 117        128
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 83 .. 92   yield 2.42%..2.67%
+  DIVERGENCE vs the 3-yr window: -28.9% on the conservative end
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                  3.41% ..  3.74%   vs sovereign 5.63%
+  2. GROWTH THE PRICE ASSUMES    0.1%  (at a 5.63% rate)
+  3. POINTS OVER THE SOVEREIGN +0.44 .. +0.79
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2017-02-15             -           -           -           -           -           -           7           -           -           -
+    2017-09-30         1,258         769         488         362         145         139          13           -         475        -956
+    2018-09-30         1,292         727         563         347         164         157          12         408         444        -850
+    2019-09-30         1,337         745         590         177         173         191          96         434         445        -786
+    2020-09-30         1,395         754         641         209         181         162         100         409         446        -714
+    2021-09-30         1,518         823         695         228         212         185         115         392         446        -644
+    2022-09-30         1,498         829         669           -         228         279          99         361         446        -567
+    2023-09-30         1,505         794         712           -         217         298          94         334         447        -482
+    2024-09-30         1,636         826         810           -         209         302          81         310         449        -366
+    2025-09-30         1,839         857         982           -         212         329          89         307         450        -174
+    accessions: 0001350593-17-000062, 0001350593-18-000061, 0001350593-19-000064, 0001350593-20-000066, 0001350593-21-000061, 0001350593-22-000061, 0001350593-23-000060, 0001350593-24-000079, 0001350593-25-000066
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

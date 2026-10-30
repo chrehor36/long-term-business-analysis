@@ -1,0 +1,18 @@
+=== E5-39 cols: ﻿id, era, quote_verbatim, year, source_file, concept, supports_gate_or_sheet, evolution_notes
+--﻿id-- len 5 :: E5-39
+--era-- len 2 :: E5
+--quote_verbatim-- len 576 :: We always will have $20 billion around Berkshire. We will never be dependent on the kindness of strangers. It didn’t work that well for Blanche DuBois, either. But in any event, the — we don’t count on bank lines. You know, we don’t count on — we don’t count on anything. There will be some time in the next 100 years, and it may be tomorrow and it may be 100 years from now, and nobody knows, you know, where we cannot depend on anybody else to keep our own strength and to maintain our operations. And we spent too long building Berkshire to have that one moment destroy us.
+--year-- len 4 :: 2014
+--source_file-- len 39 :: Annual Meetings/2014 Annual Meeting.txt
+--concept-- len 156 :: NEVER DEPENDENT ON THE KINDNESS OF STRANGERS - no bank lines counted, nothing depended on; 'cash is a lot like oxygen'; one moment must not destroy the work
+--supports_gate_or_sheet-- len 65 :: Q4 staying power (strengths 2 and 3, the reason); E5-21 companion
+--evolution_notes-- len 491 :: Register M2-12. 2014 meeting lines 359-361; line 361: 'available cash or credit is a lot like oxygen: you don't notice it 99.9 percent of the time. But if it's absent, it's the only thing you notice.' 2020:1043 verified as companion: 'we own nothing but Treasury bills... we never buy commercial paper - we don't count on bank lines.' The lender-of-last-resort record named in the passage: Harley-Davidson at 15% while short rates were half a percent - the E2-64 firepower doctrine executed.
+=== E2-59 cols: ﻿id, era, quote_verbatim, year, source_file, concept, supports_gate_or_sheet, evolution_notes
+--﻿id-- len 5 :: E2-59
+--era-- len 2 :: E2
+--quote_verbatim-- len 740 :: Businesses in industries with both substantial over-capacity and a “commodity” product (undifferentiated in any customer-important way by factors such as performance, appearance, service support, etc.) are prime candidates for profit troubles. These may be escaped, true, if prices or costs are administered in some manner and thereby insulated at least partially from normal market forces. This administration can be carried out (a) legally through government intervention (until recently, this category included pricing for truckers and deposit costs for financial institutions), (b) illegally through collusion, or (c) “extra- legally” through OPEC-style foreign cartelization (with tag-along benefits for domestic non-cartel operators).
+--year-- len 4 :: 1982
+--source_file-- len 35 :: Shareholder Letters/1982 Letter.txt
+--concept-- len 170 :: ADMINISTERED PRICING AS RESCUE - commodity profit troubles 'may be escaped, true, if prices or costs are administered'; the escape belongs to the REGIME, not the business
+--supports_gate_or_sheet-- len 93 :: Q2 (scopes E3-03 criterion 3: regulation caps a franchise but can floor a commodity business)
+--evolution_notes-- len 519 :: Register L1-8. Lines 465-478; the insurance history at 560-569 (verified): companies 'could legally price their way to profitability even in the face of substantial over-capacity' - then 'That day is gone.' Resolves the claimed tension with [E3-03]: price regulation makes a would-be franchise not-a-franchise (caps the upside); administered pricing can rescue a commodity business's profits while the administration lasts - a regime-moat that evaporates like [E3-51]'s wave when the regime ends. Not a franchise class.

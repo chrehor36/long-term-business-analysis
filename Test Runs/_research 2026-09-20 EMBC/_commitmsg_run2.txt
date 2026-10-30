@@ -1,0 +1,37 @@
+EMBC run complete: the file closes at Q2, and the screen's 4.151x band spread turns out to be the spin
+
+Beneath the close, read and not scored: the Q3 FY2026 EX-99.1, the FY2025
+EX-99.1, the DEF 14A of 2025-12-18, the debt note and the covenant.
+
+  [E4-29]. Adjusted EBITDA seven times in each release, and the proxy shows it
+  is also the pay system: the bonus plan is "80% Financial Metrics (40% Adjusted
+  Constant Currency Revenue $, 40% Adjusted EBITDA $)", and the plan funded at
+  110.2% of target in a year reported revenue fell 3.8% on falling volume.
+
+  [E5-08]. In May 2026 the board cut the quarterly dividend from $0.15 to $0.01,
+  authorised a three-year $100M buyback, and closed a GBP 100m cash acquisition
+  part-funded by a revolver drawdown, with $1.469bn of debt principal at B1/B+.
+  2.7m shares were then bought for $8.7m, about $3.22 each.
+
+  [E5-11] strength 3. $500m revolver matures 2027 and now carries $129.9m drawn;
+  Term Loan B $716.8m to March 2029; $700m of secured notes to February 2030.
+  The covenant is a total net leverage ratio tested quarterly on EBITDA, and the
+  filer's own Adjusted EBITDA fell 23.9% over the nine months to 2026-06-30.
+
+COMPUTATION, not a clearance. The [E4-25] rebuild the spread_caveat ordered was
+performed by hand from the filed statements (oe_rebuild.py), and the finding is
+about the data, not the price: the screen's published band of $35M to $181M is
+the distance between two entities. $35M is the three-year standalone window at
+the D&A end ($35.4M); $181M sits inside the five-year window ($174.6M to
+$188.1M), which reaches back into the BD carve-out. There is no older window to
+rebuild, because before FY2023 there is no standalone company, so the corpus
+five-year default [E2-42] is unavailable and the honest window is three years.
+
+The wc_note reproduces at 168% but names the second-biggest line: FY2024's trade
+receivable build of $174.7M is 489% of that year's $35.7M of operating cash, and
+FY2025's $191.7M includes its partial reversal plus $63.2M of receivables sold.
+
+check_framework.py PASS. Ledger counted, not taken from the pointer: 311 rows,
+zero phantoms across 45 cited ids.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

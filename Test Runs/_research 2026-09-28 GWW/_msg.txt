@@ -1,0 +1,3 @@
+GWW W.W. Grainger: research script only - oldcf.py, the parser that read the FY1991-FY2007 cash-flow lines off the filed 10-K texts for oe.py (omitted from the beneath-the-close commit aebd798b); no run-file change
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

@@ -1,0 +1,18 @@
+base maintenance-only owner cash (equity-only) 738.2; growth spending avg 1449.0; GS by yr [891, 974, 1136, 1526, 2718]
+LTD increase/yr net of RI assumed debt 1561.0; own LTD share of LT capital 2026-06-30 0.5738; cap x GS 831.5; credit 831.5; equity-funded growth spending 617.5
+market cap 26437; net debt 2026-06-30 19991; all-equity owner cash before interest 1133.7
+organic growth (sales 2023-2025) 0.0430; total growth (sales 2021-2025) 0.1182; shown owner-cash growth 2021-2025 0.3143
+cap test: base x (1+31.4%)^10 = 11350 vs 2025 sales 9042 (highest owner-cash share of sales 0.140)
+EQ organic no-growth (central)                                         at rf     13850 = $  18.40/sh | at 10%     7382 = $  9.81/sh | IRR at price   2.79%
+EQ organic growth (central)                                            at rf     13696 = $  18.20/sh | at 10%     5247 = $  6.97/sh | IRR at price   3.25%
+EQ default no-growth (purchases stop)                                  at rf     13850 = $  18.40/sh | at 10%     7382 = $  9.81/sh | IRR at price   2.79%
+EQ default growth, RI deducted, total growth                           at rf     16568 = $  22.02/sh | at 10%     2001 = $  2.66/sh | IRR at price   4.20%
+EQ literal window, shown growth uncapped 31.4% (shown beside, absurd)  at rf    131645 = $ 174.93/sh | at 10%    47407 = $ 63.00/sh | IRR at price  13.55%
+EQ all spending, no growth                                             at rf    -13336 = $ -17.72/sh | at 10%    -7108 = $ -9.45/sh | IRR at price    nan%
+AE organic no-growth                                                   at rf      1278 = $   1.70/sh | at 10%    -8654 = $-11.50/sh | IRR on EV   2.44%
+AE organic growth                                                      at rf     -3703 = $  -4.92/sh | at 10%   -15714 = $-20.88/sh | IRR on EV   2.66%
+AE default growth                                                      at rf      3922 = $   5.21/sh | at 10%   -18107 = $-24.06/sh | IRR on EV   3.81%
+CENTRAL range $18.20 to $18.40; width 1.011; fair price (avg of ends at 10%) $8.39
+DEFAULT pair range $18.40 to $22.02; fair $6.23
+central growth spending (equity-funded, net of credit): yr1 644, yr10 941; gross growth spending yr1 1511, yr10 2207; credit yr1 867, yr10 1267
+sensitivity: 2025 owner cash 1268 no growth: IRR at price 4.80%; value at rf $31.61/sh

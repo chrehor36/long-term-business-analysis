@@ -1,0 +1,37 @@
+q1fy17 :: | Traffic ; | Ticket ; | E-commerce ; | Traffic ; | Ticket ; | E-commerce
+      FN: | Walmart U.S. delivered positive comp sales for the seventh consecutive quarter, up 1.0%, driven by the sixth consecutive quarter of positive traffic, up 1.5%. Neighborhood Market comp sales increased approximately 7.1%. Customer experience scores c
+q2fy17 :: | Traffic ; | Ticket ; | E-commerce ; | Traffic ; | Ticket ; | E-commerce
+      FN: | Walmart U.S. delivered positive comp sales for the eighth consecutive quarter, up 1.6%, driven by the seventh consecutive quarter of positive traffic, up 1.2%. Neighborhood Market comp sales increased approximately 6.5%.
+q3fy17 :: | Traffic ; | Ticket ; | E-commerce ; | Traffic ; | Ticket ; | E-commerce
+      FN: | Walmart U.S. comp sales increased 1.2%, driven by a traffic increase of 0.7%. Neighborhood Market comp sales increased approximately 5.2%.
+q4fy17 :: | Traffic ; | Ticket ; | E-commerce ; | Traffic ; | Ticket ; | E-commerce
+q1fy18 :: | Traffic ; | Ticket ; | E-commerce ; | Traffic ; | Ticket ; | E-commerce
+q2fy18 :: | Traffic ; | Ticket ; | E-commerce ; | Traffic ; | Ticket ; | E-commerce
+      FN: | Walmart U.S. comp sales 1 increased 1.8% with traffic growth of 1.3%, marking the twelfth consecutive quarter with positive comp sales.
+q3fy18 :: | Traffic ; | Ticket ; | eCommerce ; | Traffic ; | Ticket ; | eCommerce
+q4fy18 :: | Traffic ; | Ticket ; | eCommerce ; | Traffic ; | Ticket ; | eCommerce
+      FN: | Walmart U.S. comp sales 1,2 increased 2.6%, and comp traffic increased 1.6%. On a two-year stack, comp sales growth of 4.4% marked the best performance in eight years.
+q1fy19 :: | Traffic ; | Ticket ; | eCommerce ; | Traffic ; | Ticket ; | eCommerce
+      FN: | Sam's Club comp sales 1,2 increased 3.8% led by comp traffic growth of 5.6%. Tobacco sales negatively impacted comp sales by approximately 140 basis points.
+q2fy19 :: | Traffic ; | Ticket ; | eCommerce ; | Traffic ; | Ticket ; | eCommerce
+q3fy19 :: | Traffic ; | Ticket ; | eCommerce ; | Traffic ; | Ticket ; | eCommerce
+q4fy19 :: | Traffic ; | Ticket ; | eCommerce ; | Traffic ; | Ticket ; | eCommerce
+q1fy20 :: | Transactions 2 ; | Ticket 2 ; | eCommerce ; | Transactions ; | Ticket ; | eCommerce
+q2fy20 :: | Transactions 2 ; | Ticket 2 ; | eCommerce ; | Transactions ; | Ticket ; | eCommerce
+q3fy20 :: | Transactions 5 ; | Ticket 5 ; | eCommerce ; | Transactions ; | Ticket ; | eCommerce
+q4fy20 :: | Transactions 2 ; | Ticket 2 ; | eCommerce ; | Transactions ; | Ticket ; | eCommerce
+q1fy21 :: | Transactions ; | Average ticket ; | eCommerce 4 ; | Transactions ; | Average ticket ; | eCommerce 4
+      FN: | Sam’s Club comp sales 1 increased 12.0%, led by in-club transactions. eCommerce sales grew 40%. Reduced tobacco sales negatively affected comp sales by approximately 410 basis points.
+q2fy21 :: | Transactions ; | Average ticket ; | Transactions ; | Average ticket
+q3fy21 :: | Transactions | -14.2% | 1.3% | NP | NP | | | | | | ; | Average ticket | 24.0% | 1.9% | NP | NP | | | | | | ; | Transactions | 6.8% | 5.7% | NP | NP | | | | | | ; | Average ticket | 4.0% | -5.1% | NP | NP | | | | | |
+q4fy21 :: | Transactions | -10.9% | 1.0% | NP | NP | | NP | NP | NP | NP | ; | Average ticket | 21.9% | 0.9% | NP | NP | | NP | NP | NP | NP | ; | Transactions | 8.4% | 4.3% | NP | NP | | NP | NP | NP | NP | ; | Average ticket | 2.2% | -3.5% | NP | NP | | NP | NP | NP | NP |
+q1fy22 :: | Transactions | -3.2% | -5.6% | NP | NP | | | | | | ; | Average ticket | 9.5% | 16.5% | NP | NP | | | | | | ; | Transactions | 2.2% | 11.9% | NP | NP | | | | | | ; | Average ticket | 4.9% | 0.1% | NP | NP | | | | | |
+q2fy22 :: | Transactions | 6.1% | -14.0% | NP | NP | | | | | | ; | Average ticket | -0.8% | 27.0% | NP | NP | | | | | | ; | Transactions | 5.1% | 8.7% | NP | NP | | | | | | ; | Average ticket | 2.5% | 4.3% | NP | NP | | | | | |
+q3fy22 :: | Transactions | 5.7% | -14.2% | NP | NP | | | | | | ; | Average ticket | 3.3% | 24.0 % | NP | NP | | | | | | ; | Transactions | 11.1% | 6.8 % | NP | NP | | | | | | ; | Average ticket | 2.6% | 4.0 % | NP | NP | | | | | |
+q4fy22 :: | Transactions | 3.1% | -10.9% | NP | NP | | NP | NP | NP | NP | ; | Average ticket | 2.4% | 21.9% | NP | NP | | NP | NP | NP | NP | ; | Transactions | 7.0% | 8.4% | NP | NP | | NP | NP | NP | NP | ; | Average ticket | 3.2% | 2.2% | NP | NP | | NP | NP | NP | NP |
+q1fy23 :: | Transactions | flat | -3.2% | NP | NP | | | | | | ; | Average ticket | 3.0% | 9.5% | NP | NP | | | | | | ; | Transactions | 10.0% | 2.2% | NP | NP | | | | | | ; | Average ticket | 0.2% | 4.9% | NP | NP | | | | | |
+q1fy24 :: Transactions | 2.9% | flat | NP | NP | ; Average Ticket | 4.4% | 3.0% | NP | NP | ; Transactions | 2.9% | 10.0% | NP | NP | ; Average Ticket | 4.0% | 0.2% | NP | NP |
+q1fy25 :: Transactions | 3.8% | 2.9% | NP | NP | | | | | | ; Average Ticket | flat | 4.4% | NP | NP | | | | | | ; Transactions | 5.4% | 2.9% | NP | NP | | | | | | ; Average Ticket | -1.0% | 4.0% | NP | NP | | | | | |
+q1fy26 :: Transactions | 1.6% | 3.8% | NP | NP | | | | | | ; Average ticket | 2.8% | flat | NP | NP | | | | | | ; Transactions | 4.8% | 5.4% | NP | NP | | | | | | ; Average ticket | 1.7% | -1.0% | NP | NP | | | | | |
+q1fy27 :: Transactions | 3.0% | 1.6% | NP | NP | | | | | | ; Average ticket | 1.1% | 2.8% | NP | NP | | | | | | ; Transactions | 6.2% | 4.8% | NP | NP | | | | | | ; Average ticket | -2.2% | 1.7% | NP | NP | | | | | |
+q2fy27 :: Transactions | 1.5% | 1.5% | NP | NP | | | | | | ; Average ticket | 1.1% | 3.1% | NP | NP | | | | | | ; Transactions | 7.0% | 3.9% | NP | NP | | | | | | ; Average ticket | -2.5% | 2.0% | NP | NP | | | | | |

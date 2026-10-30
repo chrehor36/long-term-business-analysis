@@ -1,0 +1,29 @@
+code           account                                                       2015      2016      2017      2018      2019      2020      2021      2022      2023      2024      2025
+3.01           Receita de Venda de Bens e/ou Serviços                        3928      4439      6058      7896     10196     10308     10901     17784     28902     37272     41782
+3.02           Custo dos Bens e/ou Serviços Vendidos                        -2689     -3149     -4411     -5826     -7686     -7409     -6203    -11135    -20630    -28519    -30652
+3.03           Resultado Bruto                                               1239      1290      1647      2070      2510      2899      4699      6648      8272      8753     11130
+3.04           Despesas/Receitas Operacionais                                -504      -519      -678      -815     -1020     -1097     -1475     -2119     -2374     -2948     -3318
+3.04.01        Despesas com Vendas                                           -346      -364      -460      -600      -747      -888     -1084     -1292     -1691     -2156     -2438
+3.04.02        Despesas Gerais e Administrativas                             -155      -160      -179      -193      -244      -283      -392      -860      -682      -792      -880
+3.04.03        Perdas pela Não Recuperabilidade de Ativos                       0         0         0         0         0         0         0         0         0         0         0
+3.04.04        Outras Receitas Operacionais                                     0         0         0         0         0         0         0         0         0         0         0
+3.04.05        Outras Despesas Operacionais                                    -3         5       -39       -22       -28        74         1        34         0         0         0
+3.04.06        Resultado de Equivalência Patrimonial                            0         0         0         0         0         0         0         0        -0         0         0
+3.05           Resultado Antes do Resultado Financeiro e dos Tributos         736       771       969      1255      1490      1802      3224      4529      5899      5805      7812
+3.06           Resultado Financeiro                                          -203      -244      -315      -369      -410      -374      -321     -2110     -4024     -3939     -4614
+3.06.01        Receitas Financeiras                                           167       202       197       168       220       138       256       946      1226      1491      1707
+3.06.02        Despesas Financeiras                                          -370      -446      -512      -537      -630      -512      -577     -3056     -5250     -5429     -6321
+3.07           Resultado Antes dos Tributos sobre o Lucro                     533       528       654       886      1080      1427      2903      2419      1874      1867      3198
+3.08           Imposto de Renda e Contribuição Social sobre o Lucro          -130      -118      -148      -227      -246      -379      -859      -578       -71       -53     -1327
+3.08.01        Corrente                                                       -95       -88      -119      -140      -181      -312      -124       -93      -315      -723      -444
+3.08.02        Diferido                                                       -36       -30       -29       -87       -65       -67      -735      -485       244       669      -884
+3.09           Resultado Líquido das Operações Continuadas                    402       409       506       659       834      1048      2044      1841      1803      1813      1870
+3.10           Resultado Líquido de Operações Descontinuadas                    0         0         0         0         0         0         0         0         0         0         0
+3.10.01        Lucro/Prejuízo Líquido das Operações Descontinuadas              0         0         0         0         0         0         0         0         0         0         0
+3.10.02        Ganhos/Perdas Líquidas sobre Ativos de Operações Descon          0         0         0         0         0         0         0         0         0         0         0
+3.11           Lucro/Prejuízo Consolidado do Período                          402       409       506       659       834      1048      2044      1841      1803      1813      1870
+3.11.01        Atribuído a Sócios da Empresa Controladora                     402       409       506       659       834      1048      2044      1844      1806      1814      1875
+3.11.02        Atribuído a Sócios Não Controladores                             0         0         0         0         0         0         0        -3        -2        -0        -5
+3.99           Lucro por Ação - (Reais / Ação)                                  0         0         0         0         0         0         0         0         0         0         0
+3.99.01        Lucro Básico por Ação                                            0         0         0         0         0         0         0         0         0         0         0
+3.99.02        Lucro Diluído por Ação                                           0         0         0         0         0         0         0         0         0         0         0

@@ -1,0 +1,12 @@
+all-spending, after cash interest          [-42.929, -23.851, -28.207, -27.071, -36.805] avg -31.773
+all-spending, before interest              [-40.329, -20.351, -26.607, -25.571, -35.105] avg -29.593
+maintenance (dep), after cash interest     [-20.444, -21.129, -23.667, -27.351, -25.493] avg -23.617
+maintenance (dep), before interest         [-17.844, -17.629, -22.067, -25.851, -23.793] avg -21.437
+net debt 111.112 preferred 57.5
+ALL-EQUITY range EV: top -399.2 bottom -551.1
+ per share -6.03 -7.82
+ per share less preferred -6.71 -8.5
+fair EV at 10% -255.1 per share -4.33 less pref -5.0
+EQUITY-ONLY range per share -5.19 -6.99 fair -3.27
+market cap 399.7 EV 510.8 EV+pref 568.3
+owner-cash yield at price (all-equity, maintenance): -4.2 %

@@ -1,0 +1,20 @@
+[
+ {
+  "id": "KEYS-floor-band",
+  "ticker": "KEYS",
+  "currency": "USD",
+  "op": "<=",
+  "threshold": 110.11,
+  "active": true,
+  "label": "KEYS at/below $110.11: the E4-28 floor is met at g = 4.4% (the 10-Ks' revenue change less acquisitions and currency, FY2015-FY2025) on the five-year depreciation-end owner earnings of $1,012.4M (FY2021-FY2025, before Spirent and OSG) and 170,244,745 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW: price increases named in FY2022, FY2023 on flat revenue and FY2025; 46-77% pre-tax on net tangible capital since FY2019; the FY2002-FY2003 losses with price erosion and Tektronix's higher gross margins FY2002-FY2007 the recorded caveats; E4-04 read as a lead maintained); Q5 quit on at $362.15 (yield 1.57-1.64% five-year against 5.49%, expectancy about 5.5-6.4%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag: buybacks at $143-157 FY2021-FY2025 and about $280 in FY2026; non-GAAP guidance beaten every quarter, PSU margin targets reset down, about $6.2bn of purchases FY2015-FY2025). VOID if any falsifier has fired: a filed MD&A naming price, pricing pressure or discounting as a cause of a consolidated gross-margin fall; gross margin more than five points below 64.6% in a year of flat or falling revenue without a named volume or mix cause; pre-tax return on net tangible capital below 35% two consecutive years; operating margin inside the Viavi and Ralliant-segment band three years; a goodwill impairment of Spirent, ESI Group or OSG, or a purchase above $2bn; the PSU margin target again reset below the prior year's actual while the margin falls. Re-derive on the FY2026 10-K (about mid-December 2026, the first year with Spirent and OSG). Source: Test Runs/2026-09-28 Run - KEYS Keysight Technologies.md."
+ },
+ {
+  "id": "KEYS-rerun-band",
+  "ticker": "KEYS",
+  "currency": "USD",
+  "op": "<=",
+  "threshold": 154.81,
+  "active": true,
+  "label": "KEYS at/below $154.81: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY, CAT, MSA and ECL convention under E4-44) is granted on the TTM capex-end owner earnings ($1,255M to 2026-07-31, three quarters of it with Spirent and OSG). Prompt for a FULL v4.1 re-run in which the level, the growth and the (c) end are re-tested before any is spent. Re-derive both KEYS bands on the FY2026 10-K; VOID if any falsifier in KEYS-floor-band has fired. Source: Test Runs/2026-09-28 Run - KEYS Keysight Technologies.md."
+ }
+]

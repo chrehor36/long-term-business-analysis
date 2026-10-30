@@ -1,0 +1,77 @@
+overnight cycle: MGM run and folded, all six steps verified independently
+
+MGM Resorts International, wave 7 name 25 of 218. VERDICT: Q2 OUT, on the business.
+Register entry 157 (156 existing entries counted by line index inside the slice from
+the line-exact "## COMPLETED FROM THE QUEUE" heading to "## THE WRITE-EARLY PROTOCOL";
+the dispatch brief read 156, which is the count before insertion, so MGM is 157).
+
+Step 0, struck fresh: sovereign 5.34% USD, US Treasury daily par yield curve 30 Yr,
+09/18/2026, issuing authority, FRED not used. Price $38.59 on 2026-09-21 from an
+aggregator, flagged, intraday. 251,592,756 shares, one class, from the 10-Q cover for
+the quarter ended 2026-06-30, accession 0000789570-26-000076. Cap $9,709M.
+
+Q1 IN. The scarce input is the licence and the customer file, not the land: MGM sold
+the real estate of every domestic property and leased it back.
+
+Q2 OUT. [E3-03] clause (2) fails on the registrant's own Item 1, which names other
+hospitality companies, non-gaming destinations such as Hawaii, and its own Strip
+resorts as substitutes. Competitor row: seven comparators (LVS, WYNN, CZR, BYD, PENN,
+MLCO, plus the landlord VICI), same metric, same five-year window, each from its own
+10-K or 20-F. FY2025 operating margin MGM 5.7% against LVS 21.6%, BYD 18.3%, CZR 16.2%,
+WYNN 15.7%, MLCO 11.6%; on a construction that puts an owner and a tenant on one scale,
+MGM 11.2% against BYD 25.8% and LVS 24.2%. Largest revenue in the group, lowest return.
+
+THE FINDING is the Rule 13-01 guarantor table in the MD&A: MGM plus its wholly owned
+domestic guarantor subsidiaries, containing all nine Las Vegas Strip resorts and
+excluding MGM China, earned operating income of $78.5M on net revenues of $10,580.2M in
+FY2025, against $733.7M in FY2024 and $1,324.6M in FY2023. Note 10: domestic pre-tax
+income $1,214.9M, $256.9M, then MINUS $237.1M. All FY2025 pre-tax income is foreign, and
+the noncontrolling interests took $315.0M of net income against the $205.9M MGM's own
+shareholders received.
+
+Recorded beneath the close, no box ticked. Q3: [E4-29] fires at full strength - the
+headline measure is Segment Adjusted EBITDAR, struck before $2,258.4M of rent and
+$1,017.8M of D&A, and 75% of the CEO bonus turns on Compensation Adjusted EBITDAR whose
+target the proxy says was the budget "as further increased by the Company's rental
+payments". [E2-49] fires with mitigations named; [E4-30] recorded and fires, explained
+by the domestic loss; [E3-54] fails at $0.68 per $1 retained. Q4: SBC resolves and is
+COMPLETE for all 18 filed years; owner earnings rebuilt over eleven windows and three
+(c) ends at about $40M to $1,679M, against a published screen band of $607M-$1,558M
+which reproduces exactly as the 5y and 3y means at the c=D&A end. Gruesome [E4-20].
+Death: shape #13 THE TENANT with #1 as a feature, a real possibility. Q5 did not open.
+
+TOOLING. deal_note() cannot see a bidder-disclosed go-private proposal: People
+Incorporated (f/k/a IAC) proposed $48.30 cash for MGM on 2026-06-01 in a Schedule 13D/A
+exhibit signed by Barry Diller, who sits on MGM's board, and SC 13D/A is not in
+DEAL_FORMS. Fourth live-deal miss after CTAS, ACLS and ROKU, and a new class.
+THE FRAMEWORK v4.md misquotes two of its own ledger rows ([E5-39]'s "cash is a lot like
+oxygen", whose source line reads "available cash or credit", and [E2-59]'s "That day is
+gone"); both phrases live in the rows' evolution notes, not in quote_verbatim, and
+check_framework.py cannot see it because it checks rows against sources, not the
+framework's requotations. Recorded, nothing in Framework/ edited. The MASTER RUN QUEUE
+CSV truncates acq_note, level_note and level_note_oe mid-word on disk. And my own, the biggest error
+in this cycle: I committed 25.7 MB of re-fetchable XBRL and stripped-filing dumps across
+the two gate commits before noticing. The .gitignore filing-dump rules are name-based and
+my names (tenk_2025.txt, tenq_2026Q2.txt, *_body.txt) matched none of them, and there is
+no rule at all for companyfacts.json or submissions.json. git add -A -- <my folder> is
+pathspec-scoped and so is safe against other sessions, which is the failure step 6 was
+written for; it is not safe against my own folder, which is a different failure. Remedy is
+the documented SNPS one: history is NOT rewritten, the thirteen files are removed from the
+tree going forward with git rm --cached while staying on disk, and .gitignore is widened.
+Both are in this commit. The lesson: a pathspec protects other sessions from you; it does
+not protect the repository from you.
+
+A quotation checker written for this run caught nine of my own errors, four of them
+framework prose I had put in quote marks and attributed to the corpus. All fixed.
+A correction block inside Q2 withdraws my own four-consecutive-declines reading of the
+margin row, which was wrong because reported operating income carries large
+non-operating gains in 2021, 2022, 2023 and 2025.
+
+Fold: (1) register entry 157 written BY LINE, heading matched line-exactly and asserted
+unique, verified by counting 157 entries back with MGM first; (2) wave7 roster appended,
+24 lines to 25 with MGM last; (3) narrative fold appended to the PREPPED READING LIST;
+(4) NO alerts.json band and NO PORTFOLIO.md row - the file failed on the business, and
+the reversal condition is in words at Q6; (5) python tools/check_framework.py PASS
+before this commit; (6) committed with a pathspec.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

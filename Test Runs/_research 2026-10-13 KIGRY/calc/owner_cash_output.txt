@@ -1,0 +1,15 @@
+2018 OC_eq   360.6  OC_all   406.0  OC_all_before_acq   407.6  margin_all   5.1%
+2019 OC_eq   404.6  OC_all   442.0  OC_all_before_acq   452.0  margin_all   5.0%
+2020 OC_eq   -62.8  OC_all   -12.5  OC_all_before_acq   121.0  margin_all  -0.1%
+2021 OC_eq   364.2  OC_all   398.7  OC_all_before_acq   415.7  margin_all   3.9%
+2022 OC_eq  -895.4  OC_all  -867.3  OC_all_before_acq  -862.4  margin_all  -7.8%
+2023 OC_eq   497.3  OC_all   557.3  OC_all_before_acq   560.1  margin_all   4.9%
+2024 OC_eq   469.1  OC_all   526.9  OC_all_before_acq   553.3  margin_all   4.6%
+2025 OC_eq   444.3  OC_all   491.9  OC_all_before_acq   526.5  margin_all   4.4%
+5y 2021-25 avg: eq 175.9 all 221.5 all_pre_acq 238.6
+8y 2018-25 avg: eq 197.7 all 242.9 all_pre_acq 271.7
+halves 2018-21 vs 2022-25 all: 308.6 vs 177.2
+halves 2021-22 vs 2024-25 all: -234.3 vs 509.4
+acq net 2021-25 -85.7 ; pre-acq OC_all sum 1193.2
+rev cagr 2021-25 2.35%; 2018-25 5.06%
+max OC_all/rev 0.05077729279487725

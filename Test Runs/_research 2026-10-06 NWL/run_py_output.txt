@@ -1,0 +1,79 @@
+==============================================================================
+NEWELL BRANDS INC.  (NWL)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.66%   10/05/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     5.48 USD   2026-10-05   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                425.900M  as of 2026-07-27  (EntityCommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)      457.300M  as of 2026-06-30  (CommonStockSharesIssued)
+  shares    425.9M      market cap 2.33B USD
+  share basis: dei cover-page count as of 2026-07-27 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-12-31      930.0     50.0     334.0      284.0       596.0       546.0
+    2024-12-31      496.0     74.0     323.0      259.0       163.0        99.0
+    2025-12-31      264.0     68.0     311.0      247.0       -51.0      -115.0
+          mean                                                236.0       176.7
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: D&A basis in 2023, 2024, 2025
+  mean of the year-by-year lower: 176.7;  of the higher: 236.0  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 ShareBasedCompensation; 2024 ShareBasedCompensation; 2025 ShareBasedCompensation
+  capex tag by year: 2023 PaymentsToAcquireProductiveAssets; 2024 PaymentsToAcquireProductiveAssets; 2025 PaymentsToAcquireProductiveAssets
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0000814453-26-000008, 0000814453-25-000008, 0000814453-24-000017
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 131.0  OE D&A 91.4   yield 5.61% (capex) 3.92% (D&A)
+  DIVERGENCE vs the 3-yr window: -50.1% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis 10.11%   D&A basis  7.57%   vs sovereign 5.66%
+  2. GROWTH THE PRICE ASSUMES  -16.5%  (at a 5.66% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN +4.76 (lower mean) .. +7.41 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2016-12-31        33,838      22,453      11,349         588       2,747       2,116      10,219      14,112      11,291       2,290
+    2017-12-31        33,136      18,954      14,145         486       2,674       2,499      10,560      14,236       9,890       4,611
+    2018-12-31        17,716      12,439       5,243         496       1,851       1,583       2,970       5,580       6,696      -2,487
+    2019-12-31        15,642      10,646       4,963         349       1,842       1,607       3,709       4,916       5,391      -2,404
+    2020-12-31        14,700      10,800       3,874         981       1,678       1,638       3,553       3,564       5,141      -3,174
+    2021-12-31        14,179      10,088       4,091         440       1,500       1,997       3,504       3,370       4,883      -2,602
+    2022-12-31        13,262       9,743       3,519         287       1,250       2,203       3,298       2,649       4,756      -2,338
+    2023-12-31        12,163       9,051       3,112         332       1,195       1,531       3,071       2,488       4,575      -2,726
+    2024-12-31        11,004       8,253       2,751         198         878       1,400       3,038       2,008       4,508      -2,942
+    2025-12-31        10,715       8,324       2,391         203         987       1,281       3,101       1,634       4,543      -3,227
+    accessions: 0000814453-17-000027, 0000814453-20-000078, 0000814453-21-000050, 0000814453-22-000017, 0000814453-23-000026, 0000814453-24-000017, 0000814453-25-000008, 0000814453-26-000008, 0001193125-18-067603, 0001193125-19-061714
+    equity: StockholdersEquity (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+    lt debt: LongTermDebtNoncurrent (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD millions; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        sum
+    2016-12-31         602    11,291     11,893
+    2017-12-31         663     9,890     10,552
+    2018-12-31         319     6,696      7,015
+    2019-12-31         332     5,391      5,724
+    2020-12-31         466     5,141      5,607
+    2021-12-31           3     4,883      4,886
+    2022-12-31         621     4,756      5,377
+    2023-12-31         329     4,575      4,904
+    2024-12-31          87     4,508      4,595
+    2025-12-31         130     4,543      4,673
+    d1 = us-gaap:DebtCurrent
+    d2 = us-gaap:LongTermDebtNoncurrent
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

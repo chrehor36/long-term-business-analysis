@@ -1,0 +1,28 @@
+COMPUTATION, NOT A CLEARANCE (first produced while Q1 to Q4 were open; see the run file self-audit)
+net debt 12283
+ yr   OCFadj  allspend_eq  maint_eq  allspend_ae  maint_ae  growthspend  maint_ae/rev
+2017     983       -499       507        -331       674        1005   19.9%
+2018    1133       -518       609        -322       805        1127   22.8%
+2019    1074       -593       480        -381       692        1073   19.0%
+2020     959       -423       328        -207       544         751   15.9%
+2021    1084        -99       413         116       628         512   17.1%
+2022    1084       -413       400        -167       646         813   15.4%
+2023    1320       -546       632        -247       931        1178   23.1%
+2024    1760       -501       976        -158      1319        1477   33.1%
+2025    1797       -708       929        -313      1324        1637   30.4%
+means: maint all-equity 969, maint equity 670, growth spend 1123, all-spend all-equity -154, all-spend equity -453
+shown growth maint all-equity 20.50%, sales growth 4.42%
+share-of-sales test: base*(1+g)^10 =6259 vs sales yr10 6722 -> 93% of sales; highest share in 2017-2025 = 33.1%
+
+ all-equity at 5.43%: no-growth maint 17853 -> $21.48/sh ; growth case w/ growth spend 16916 -> $17.87/sh ; [beside: growth credited, spend not charged 25413 -> $50.64]
+   at 10%: no-growth $-9.98 ; growth case $-23.39 ; FAIR (average) $-16.69
+   beside, forward sales settled: range $22.36 to $25.65; fair $-9.09
+   all-spending case (beside): mean owner cash -154 -> no-growth value -2836 -> $-58.31/sh
+
+ equity-only at 5.43%: no-growth maint 12339 -> $47.59/sh ; growth case w/ growth spend 9067 -> $34.97/sh ; [beside: growth credited, spend not charged 17564 -> $67.74]
+   at 10%: no-growth $25.84 ; growth case $8.36 ; FAIR (average) $17.10
+   all-spending case (beside): mean owner cash -453 -> no-growth value -8350 -> $-32.20/sh
+
+EV at price 29997; maint owner cash yield (all-equity) 3.23%; 2025 4.41%; equity-only yield 3.78%
+IRR at price: no-growth maint 3.23%; growth+spend 3.60%; growth no spend (not admitted) 4.65%
+beside: 3-yr (2023-25) maint all-equity mean 1191 -> no-growth $37.23/sh at 5.43%

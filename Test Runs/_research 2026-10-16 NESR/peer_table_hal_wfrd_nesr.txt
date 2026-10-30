@@ -1,0 +1,26 @@
+== cache/nesr_facts.json
+2020 rev       834 pti       29 int     16 ebit       35 m   4.2% tangcap      452 ret    7.8%  eq 860 gw 621 ia 110 ltd 309 curd 90 cash 75
+2021 rev       877 pti      -61 int     15 ebit      -43 m  -4.9% tangcap      444 ret   -9.8%  eq 821 gw 645 ia 122 ltd 509 curd 87 cash 206
+2022 rev       910 pti      -30 int     34 ebit       -1 m  -0.1% tangcap      511 ret   -0.2%  eq 802 gw 645 ia 103 ltd 392 curd 143 cash 79
+2023 rev     1,146 pti       30 int     46 ebit       81 m   7.0% tangcap      476 ret   16.9%  eq 821 gw 645 ia 84 ltd 332 curd 121 cash 68
+2024 rev     1,302 pti       95 int     40 ebit      138 m  10.6% tangcap      472 ret   29.2%  eq 908 gw 645 ia 66 ltd 254 curd 128 cash 108
+2025 rev     1,324 pti       60 int     33 ebit       98 m   7.4% tangcap      461 ret   21.3%  eq 968 gw 645 ia 47 ltd 191 curd 119 cash 125
+== cache/peers/hal_facts.json
+2017 rev    20,620 pti      682 int    594 ebit    1,374 m   6.7% tangcap   14,261 ret    9.6%  eq 8,349 gw 2,693 ia 0 ltd 10,430 curd 512 cash 2,337
+2018 rev    23,995 pti    1,814 int    556 ebit    2,467 m  10.3% tangcap   15,055 ret   16.4%  eq 9,544 gw 2,825 ia 0 ltd 10,312 curd 32 cash 2,008
+2019 rev    22,408 pti   -1,122 int    534 ebit     -448 m  -2.0% tangcap   13,272 ret   -3.4%  eq 8,025 gw 2,812 ia 0 ltd 10,316 curd 11 cash 2,268
+2020 rev    14,445 pti   -3,220 int    509 ebit   -2,436 m -16.9% tangcap    9,443 ret  -25.8%  eq 4,983 gw 2,804 ia 0 ltd 9,132 curd 695 cash 2,563
+2021 rev    15,295 pti    1,252 int    517 ebit    1,800 m  11.8% tangcap    9,979 ret   18.0%  eq 6,728 gw 2,843 ia 0 ltd 9,127 curd 11 cash 3,044
+2022 rev    20,297 pti    2,110 int    487 ebit    2,707 m  13.3% tangcap   10,730 ret   25.2%  eq 7,977 gw 2,829 ia 0 ltd 7,928 curd 0 cash 2,346
+2023 rev    23,018 pti    3,363 int    460 ebit    4,083 m  17.7% tangcap   11,955 ret   34.2%  eq 9,433 gw 2,850 ia 0 ltd 7,636 curd 0 cash 2,264
+2024 rev    22,944 pti    3,234 int    441 ebit    3,822 m  16.7% tangcap   12,633 ret   30.3%  eq 10,548 gw 2,838 ia 0 ltd 7,160 curd 381 cash 2,618
+2025 rev    22,184 pti    1,771 int    432 ebit    2,260 m  10.2% tangcap   12,519 ret   18.1%  eq 10,505 gw 2,938 ia 0 ltd 7,158 curd 0 cash 2,206
+== cache/peers/wfrd_facts.json
+2017 rev     5,699 pti   -2,656 int    538 ebit   -2,170 m -38.1% tangcap    3,565 ret  -60.9%  eq -571 gw 2,727 ia 213 ltd 7,541 curd 148 cash 613
+2018 rev     5,744 pti   -2,757 int    584 ebit   -2,084 m -36.3% tangcap    2,794 ret  -74.6%  eq -3,666 gw 713 ia 213 ltd 7,605 curd 383 cash 602
+2020 rev     3,685 pti   -1,814 int    232 ebit   -1,486 m -40.3% tangcap    1,623 ret  -91.6%  eq 937 gw 0 ia 810 ltd 2,601 curd 13 cash 1,118
+2021 rev     3,645 pti     -343 int    269 ebit      116 m   3.2% tangcap    1,316 ret    8.8%  eq 496 gw 0 ia 657 ltd 2,416 curd 12 cash 951
+2022 rev     4,331 pti      138 int    220 ebit      412 m   9.5% tangcap    1,383 ret   29.8%  eq 551 gw 0 ia 506 ltd 2,203 curd 45 cash 910
+2023 rev     5,135 pti      506 int    181 ebit      820 m  16.0% tangcap    1,309 ret   62.6%  eq 922 gw 0 ia 370 ltd 1,715 curd 0 cash 958
+2024 rev     5,513 pti      739 int    153 ebit      938 m  17.0% tangcap    1,659 ret   56.5%  eq 1,283 gw 0 ia 325 ltd 1,617 curd 0 cash 916
+2025 rev     4,918 pti      554 int    125 ebit      756 m  15.4% tangcap    1,879 ret   40.2%  eq 1,696 gw 0 ia 285 ltd 1,455 curd 0 cash 987

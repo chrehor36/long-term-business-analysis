@@ -1,0 +1,44 @@
+STEP 0
+  cover shares 2,403,058,480  market cap $472.80B
+  treasury-method dilution: options 142,024k  SARs 4,526k  RSU 33,370k  total 179,920k  diluted count 2,583.0M  (7.5% of cover)
+  diluted market value $508.20B
+  net cash 2026-06-30 $9.409B
+  enterprise value (diluted mkt value less net cash) $498.79B
+
+OWNER CASH (OCF - SBC - capex), all-equity variant also less interest income, $M
+  2020: OCF   -296.6 SBC  1270.7 capex  12.2 D&A  13.9 | owner cash  -1579.5 (D&A variant  -1581.2) | less interest  -1584.2 | rev  1092.7 margin -144.6%
+  2021: OCF    333.9 SBC   778.2 capex  12.6 D&A  14.9 | owner cash   -457.0 (D&A variant   -459.3) | less interest   -458.6 | rev  1541.9 margin -29.6%
+  2022: OCF    223.7 SBC   564.8 capex  40.0 D&A  22.5 | owner cash   -381.1 (D&A variant   -363.6) | less interest   -401.4 | rev  1905.9 margin -20.0%
+  2023: OCF    712.2 SBC   475.9 capex  15.1 D&A  33.4 | owner cash    221.2 (D&A variant    202.9) | less interest     88.6 | rev  2225.0 margin   9.9%
+  2024: OCF   1153.9 SBC   691.6 capex  12.6 D&A  31.6 | owner cash    449.6 (D&A variant    430.6) | less interest    252.8 | rev  2865.5 margin  15.7%
+  2025: OCF   2134.5 SBC   684.0 capex  33.9 D&A  26.1 | owner cash   1416.6 (D&A variant   1424.3) | less interest   1187.4 | rev  4475.4 margin  31.7%
+  five-year average 2021-2025: equity-only basis 249.8  all-equity basis 133.8
+  (b) halves of the window, all-equity: first (2021-22) -430.0  second (2024-25) 720.1  -> sign changes, growth meaningless
+  TTM to 2026-06-30: OCF 3,400.3 SBC 835.5 capex 42.0 interest 266.4 revenue 6,155.9 -> owner cash 2,522.7, all-equity 2,256.4 (36.7% of revenue)
+  highest owner-cash share of sales in the filed years: 31.7%; TTM 41.0%
+  sales growth 2020-2025 CAGR 32.6%; 2021-2025 30.5%
+
+Q7 COMPUTATION, NOT A CLEARANCE
+  range (b): no-growth case alone, all-equity: 2,509M + net cash 9,409M = 11,919M = $4.61/share diluted ($4.96 on cover count)
+  equity-only beside: 4,688M = $1.81/share
+  fair price (each end at 10%, averaged; one end): all-equity $4.16; equity-only $0.97
+  expected return at the price on the no-growth case: all-equity 0.027%; equity-only 0.049%
+
+  SENSITIVITY (not the convention's range; to test whether ANY case earns the floor at the price)
+   TTM all-equity     c0   2256.4 g  0.0%: value at 10%     22.6B ( 4.5% of EV); at 5.33%     42.3B (  8.5% of EV)
+   TTM all-equity     c0   2256.4 g 30.5%: value at 10%    189.9B (38.1% of EV); at 5.33%    449.6B ( 90.1% of EV)
+   TTM all-equity     c0   2256.4 g 32.6%: value at 10%    218.4B (43.8% of EV); at 5.33%    521.1B (104.5% of EV)
+   TTM all-equity     c0   2256.4 g 40.0%: value at 10%    358.5B (71.9% of EV); at 5.33%    876.2B (175.7% of EV)
+   TTM all-equity     c0   2256.4 g 50.0%: value at 10%    681.3B (136.6% of EV); at 5.33%   1704.7B (341.8% of EV)
+   FY2025 all-equity  c0   1187.4 g  0.0%: value at 10%     11.9B ( 2.4% of EV); at 5.33%     22.3B (  4.5% of EV)
+   FY2025 all-equity  c0   1187.4 g 30.5%: value at 10%     99.9B (20.0% of EV); at 5.33%    236.6B ( 47.4% of EV)
+   FY2025 all-equity  c0   1187.4 g 32.6%: value at 10%    114.9B (23.0% of EV); at 5.33%    274.2B ( 55.0% of EV)
+   FY2025 all-equity  c0   1187.4 g 40.0%: value at 10%    188.7B (37.8% of EV); at 5.33%    461.1B ( 92.4% of EV)
+   FY2025 all-equity  c0   1187.4 g 50.0%: value at 10%    358.5B (71.9% of EV); at 5.33%    897.1B (179.9% of EV)
+   growth of TTM all-equity owner cash for ten years that the price requires to earn 10%: 45.1%
+   -> year-ten owner cash 93.2B; at the TTM owner-cash share of revenue (36.7%) that is revenue of 254B
+   same at the sovereign 5.33%: 32.0%
+   statutory-tax variant: TTM all-equity owner cash at 21% federal tax charged in full = 1,782.5M (the company paid 21.7M cash tax in FY2025)
+
+SHARE COUNT (weighted diluted, filed): 2021 1,923.6M; 2025 2,565.2M; Q2 2026 2,568.7M
+  diluted growth 2021->2025: 7.5% a year; basic 2021->2025: 5.4% a year

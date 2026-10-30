@@ -1,0 +1,47 @@
+year   EO    AE   AE_DA  EO_DA  AE/rev
+2014   1180   1543   1339    976    8.1%
+2015    622    977    733    378    5.1%
+2016   1212   1565   1395   1042    8.4%
+2017    826   1189    870    507    5.9%
+2018   1316   1655   1269    930    8.2%
+2019    633    892    830    571    4.5%
+2020    859   1156    616    319    7.2%
+2021   1493   1804   1571   1260    9.3%
+2022   -680   -359   -341   -662   -2.0%
+2023    456    800    628    284    4.6%
+2024     73    388    111   -204    2.4%
+2025    891   1197    869    563    7.7%
+EO     window FY21-25 avg   446.6  prior FY16-20 avg   969.2  successive-window growth -14.36%/yr  halves 406.5->482.0 =  5.84%/yr
+AE     window FY21-25 avg   766.1  prior FY16-20 avg  1291.6  successive-window growth  -9.92%/yr  halves 722.6->792.7 =  3.14%/yr
+AE_DA  window FY21-25 avg   567.7  prior FY16-20 avg   996.2  successive-window growth -10.64%/yr  halves 615.1->490.2 = -7.28%/yr
+EO_DA  window FY21-25 avg   248.2  prior FY16-20 avg   673.8  successive-window growth -18.11%/yr  halves 299.0->179.5 = -15.64%/yr
+net sales growth FY21->FY25 -5.43%/yr; FY15->FY25 -2.59%/yr
+
+net debt 2891.0 (LTD 1,325 + finance leases and financing obligations 92 + 2,295 - cash 821, 10-Q Aug 1 2026); shares 113.376445M; price 24.0
+
+CENTRAL: all-equity, all spending deducted, successive five-year windows (specifics (a),(b))
+top: no growth                                       c=  766.1 g=  0.00%  value@5.29%    14481 -> $ 102.23/sh   value@10%    7661 -> $  42.07/sh   return at price  13.7%
+bottom: decline carried ten years, then flat         c=  766.1 g= -9.92%  value@5.29%     6626 -> $  32.94/sh   value@10%    4033 -> $  10.07/sh   return at price   6.5%
+  range $32.94 to $102.23; width 3.10 to 1; FAIR PRICE (avg of ends at 10%) $26.07
+
+BESIDE: equity-only, all spending
+EO top: no growth                                    c=  446.6 g=  0.00%  value@5.29%     8442 -> $  74.46/sh   value@10%    4466 -> $  39.39/sh   return at price  16.4%
+EO bottom: decline                                   c=  446.6 g=-14.36%  value@5.29%     2771 -> $  24.44/sh   value@10%    1808 -> $  15.94/sh   return at price   5.4%
+  range $24.44 to $74.46; FAIR PRICE equity-only $27.67
+
+BESIDE: depreciation variant, all-equity
+AE_DA top: no growth                                 c=  567.7 g=  0.00%  value@5.29%    10731 -> $  69.15/sh   value@10%    5677 -> $  24.57/sh   return at price  10.1%
+AE_DA bottom: decline                                c=  567.7 g=-10.64%  value@5.29%     4648 -> $  15.50/sh   value@10%    2861 -> $  -0.27/sh   return at price   4.2%
+  range $15.50 to $69.15; FAIR PRICE $12.15
+
+BESIDE: literal window, specific (b) halves (series changes sign in FY2022)
+AE halves growth case                                c=  766.1 g=  3.14%  value@5.29%    18627 -> $ 138.79/sh   value@10%    9489 -> $  58.20/sh   return at price  16.3%
+  literal pair: no-growth $102.23 and halves-growth $138.79; fair $50.13
+
+SENSITIVITY: base without FY2021 (FY22-25 average), all-equity
+no growth on FY22-25 avg                             c=  506.5 g=  0.00%  value@5.29%     9575 -> $  58.95/sh   value@10%    5065 -> $  19.18/sh   return at price   9.0%
+decline on FY22-25 avg                               c=  506.5 g= -9.92%  value@5.29%     4381 -> $  13.14/sh   value@10%    2667 -> $  -1.98/sh   return at price   3.9%
+
+SENSITIVITY: legal settlement $129M (FY2025) removed after tax
+no growth                                            c=  746.5 g=  0.00%  value@5.29%    14112 -> $  98.97/sh   value@10%    7465 -> $  40.35/sh   return at price  13.3%
+decline                                              c=  746.5 g= -9.92%  value@5.29%     6457 -> $  31.45/sh   value@10%    3930 -> $   9.17/sh   return at price   6.3%

@@ -1,0 +1,24 @@
+market cap 29,368  net debt 21,796  EV 51,164
+
+== ALL-EQUITY
+ maint-basis series {2021: 735.2, 2022: 1153.2, 2023: 1510.0, 2024: 1663.1, 2025: 2271.7} mean 1466.7
+ all-spend series   {2021: -999.8, 2022: -759.8, 2023: -655.0, 2024: -1131.9, 2025: -244.3} mean -758.1
+ shown growth (maint basis, 2021-25) 32.6%; halves 27.7%; sales growth 8.31%; carried g 5.43%
+ highest share of sales: 25.8%; year-10 at shown rate 24,611 vs sales at same rate 147,652
+ growth spending G (mean capex - mean D&A) 2,224.8
+  at sovereign 5.43%: no-growth maint 27,011 -> per share 18.84; growth with G charged 24,851 -> 11.04; [growth, G not charged 41,677 -> 71.81]; all-spending no-growth -13,962 -> -129.16
+  at 10% (fair-price ends): no-growth maint 14,667 -> per share -25.75; growth with G charged 7,625 -> -51.19; [growth, G not charged 21,295 -> -1.81]; all-spending no-growth -7,581 -> -106.12
+  return at the price: no-growth maint 2.87%; growth with G 3.35%; growth G not charged 4.49%
+  forwards settled beside: no-growth 23.70; growth 16.36 per share
+
+== EQUITY-ONLY
+ maint-basis series {2021: 420, 2022: 801, 2023: 1106, 2024: 1211, 2025: 1713} mean 1050.2
+ all-spend series   {2021: -1315, 2022: -1112, 2023: -1059, 2024: -1584, 2025: -803} mean -1174.6
+ shown growth (maint basis, 2021-25) 42.1%; halves 33.8%; sales growth 8.31%; carried g 5.43%
+ highest share of sales: 19.5%; year-10 at shown rate 35,281 vs sales at same rate 295,599
+ growth spending G (mean capex - mean D&A) 2,224.8
+  at sovereign 5.43%: no-growth maint 19,341 -> per share 69.86; growth with G charged 13,017 -> 47.02; [growth, G not charged 29,843 -> 107.80]; all-spending no-growth -21,632 -> -78.14
+  at 10% (fair-price ends): no-growth maint 10,502 -> per share 37.93; growth with G charged 1,578 -> 5.70; [growth, G not charged 15,248 -> 55.08]; all-spending no-growth -11,746 -> -42.43
+  return at the price: no-growth maint 3.58%; growth with G 3.49%; growth G not charged 5.51%
+
+owner cash before interest needed for 10% on EV with no growth: 5,116

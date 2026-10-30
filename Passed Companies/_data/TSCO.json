@@ -1,0 +1,24 @@
+{
+ "ticker": "TSCO",
+ "name": "Tractor Supply",
+ "headline": "The leading US rural lifestyle retailer, with high margins on farm goods that are costly to ship.",
+ "what_short": "Rural lifestyle and farm supply stores",
+ "what_it_does": "Tractor Supply runs about 2,460 stores in towns and rural communities, plus around 200 Petsense pet stores. It sells livestock and farm supplies (27% of sales), pet food and supplies (24%), seasonal and recreation goods (24%), truck, tool and hardware (15%) and clothing and gifts (10%). Owned and exclusive brands are about 30% of sales.",
+ "why_it_passed": [
+  "Its stores are the local scale in small towns, selling heavy needs-based goods, such as feed and fencing, that general retailers do not carry in depth and that are costly to ship.",
+  "Operating margin has stayed at 9% to 10% for ten years, while gross margin rose from 34.3% to 36.4% as customer transactions grew.",
+  "It earned 39% a year before tax on the tangible capital it needs, and about 21% even counting its store leases as capital.",
+  "An antitrust finding concluded that its closest competitors are other farm stores."
+ ],
+ "why_not_now": "At $30.80 a share the price sits inside the analysis's value range of $19.00 to $42.65, and a buyer would earn 3.5% to 7.5% a year, against 5.63% on a 30-year US Treasury bond and the roughly 10% the analysis requires. The analysis's own fair price is about $16.",
+ "watch": [
+  "In pet products, the second largest category, rivals are crossing the moat, and the company is cutting prices to defend its position in 2026.",
+  "Over five years it spent $3.0 billion on buybacks out of $5.4 billion of profit, at prices above value and partly with borrowed money.",
+  "It leases about 97% of its stores, with lease liabilities of $4.1 billion."
+ ],
+ "value_low": 19.00,
+ "value_high": 42.65,
+ "utility": false,
+ "run_date": "2026-10-05",
+ "currency": "USD"
+}

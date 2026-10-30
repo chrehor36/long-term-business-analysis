@@ -1,0 +1,1961 @@
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility
+for the contents of this announcement, make no representation as to its accuracy or completeness and expressly
+disclaim any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the
+contents of this announcement.
+
+                 HUA HONG SEMICONDUCTOR LIMITED
+                               
+
+                                           (Incorporated in Hong Kong with limited liability)
+
+                                                    (Stock code: 1347)
+
+                          ANNUAL RESULTS ANNOUNCEMENT
+                      FOR THE YEAR ENDED 31 DECEMBER 2022
+
+ FINANCIAL HIGHLIGHTS
+
+ The Board of Directors ("the Board") of Hua Hong Semiconductor Limited ("the Company" or
+ "Hua Hong Semiconductor", together with its subsidiaries, the "Group") is pleased to announce
+ the consolidated results of the Company for the year ended 31 December 2022.
+
+ Highlights in comparison with 2021 figures are:
+
+ · Revenue was US$2,475.5 million, an all-time high and an increase of 51.8% over the prior
+        year.
+
+ · Gross margin was 34.1%, increased by 6.4 percentage points, compared to 27.7% in 2021,
+        mainly due to improved average selling price and product mix, partially offset by increased
+        depreciation costs.
+
+ · Net profit was $406.6 million, 76.0% over 2021.
+
+ · Profit for the year attributable to owners of the parent was US$449.9 million, 72.1% over
+        2021.
+
+ · Basic earnings per share was US$0.345, 71.6% over 2021.
+
+ · Return on equity was 15.2%, 5.5 percentage points over 2021.
+
+ · Net cash flows generated from operating activities were US$750.9 million, 44.8% over
+        2021.
+
+ · Capacity reached 324,000 8-inch equivalent wafers per month, compared to 313,000.
+
+ · Wafer shipments (in 8-inch equivalent wafers) were 4,087,000, compared to 3,328,000.
+
+ · In order to better serve market demand, enhance the Company's market position and
+        core competitiveness in the wafer foundry industry, and cope with the changing market
+        environment, the Company is maintaining a stable, prudent, and responsible policy for
+        our shareholders. Based on the principles for a sustainable operation and long-term
+        development, the Board did not recommend the payment of any dividend for the year
+        ended 31 December 2022 (2021: nil). The Company will retain sufficient cash to continue
+        its investment activities, in order to maximize benefits for our shareholders.
+
+                                                               1
+LETTER TO SHAREHOLDERS
+
+Dear Shareholders,
+
+In 2022, an extraordinary and challenging year, almost all the world's economies were affected
+by the continuous resurgence of the once-in-a-century pandemic, reshaping of the global industry
+supply chain, and geopolitical challenges. The semiconductor industry also entered a period of
+adjustment. Despite many uncertainties in the macro environment, Hua Hong Semiconductor
+continued to forge ahead and made continuous improvement in 2022, with its growth leading the
+industry. With the advantages of our "8-inch + 12-inch" strategy, the Company stayed committed
+to continuous innovation of specialized process technologies and developed core competitiveness
+of products using our specialized process platforms, including embedded/standalone non-volatile
+memory, power device, and analog & PM. We persisted in our advanced "Specialty IC + Power
+Discrete" dual-pronged strategy, rapidly penetrated downstream emerging markets, expanded our
+markets in automobiles, new energy, Internet of Things, data centers, etc., continuously providing
+excellent wafer foundry services and solutions for our global customers.
+
+During the reporting period, the Company's revenue hit a record high of US$2,475.5 million,
+representing an increase of 51.8% compared to the previous year, and regional revenues from
+the United States, Europe, Japan, and China increased significantly. In 2022, we experienced
+strong demand in our market segments. The Company achieved a year-on-year increase of more
+than 100% in annual revenue from automotive electronics and a continual increase in the number
+of new products introduced. Meanwhile, the Company made steady progress in the new energy
+market and played a significant role in supporting the global industry chain in the wind power/
+photoelectricity/energy storage field. Diversified process platforms, abundant customer resources
+at home and abroad, and a forward-looking and dedicated capacity arrangement enabled Hua Hong
+Semiconductor to maintain leading capacity utilization rate in the industry, despite the downward
+cycle of the industry. In the year, the overall gross profit margin of the Company reached 34.1%,
+representing an increase of 6.4 percentage points compared to the previous year. Profit for the year
+was US$406.6 million, representing an increase of 76.0% compared to the previous year; ROE was
+15.2%, representing an increase of 5.5 percentage points compared to the previous year.
+
+As at the end of 2022, Hua Hong Semiconductor had three 8-inch fabs and one 12-inch fab. For
+the most recent three years, annual production capacity (8-inch wafer equivalent) increased each
+year from 2.4852 million to 3.2604 million and then 3.8627 million, with a CAGR of 24.67%. The
+existing 12-inch fab was operated at a high level with a monthly production capacity of 65,000
+wafers in 2022. The Company plans to increase its monthly production capacity to 95,000 wafers
+in 2023 and will start construction of a new 12-inch production line in due course, continuing to
+improve its manufacturing capacity and technological upgrading.
+
+As a key part of the global semiconductor industry supply chain, the Company has markets
+covering the whole industry, with its strong industry presence. With robust strength in
+semiconductor manufacturing in China, the Company won the "20-year Special Contribution
+Award in China Semiconductor in 2022 China IC Design Achievement Award." As a well-known
+enterprise in Shanghai, the Company worked judiciously in cities to promote regional economic
+development in the Yangtze River Delta. Its contribution was recognized by all corners of
+society. In the year, it won the "Outstanding Contribution Award for Scientific and Technological
+Innovation in Pudong New Area" again.
+
+                                                               2
+Only with diligent employees will we be able to achieve success in the face of more complicated
+and fierce competition. We will continue to strengthen our advantages in various specialized
+technologies, constantly optimize product structure in close alignment with market trends, and
+accumulate new momentum for high-quality development. New opportunities will be identified
+from challenges and new prospects will be opened up in a changing environment. Hua Hong
+Semiconductor will unswervingly innovate with international vision to create new products for our
+customers all over the world and make achievements by establishing development projects in new
+areas of technology. We sincerely thank all our employees, shareholders, customers, and friends
+from all walks of life for their support for and cooperation with Hua Hong Semiconductor. Let's
+work together to achieve another year of splendid results.
+
+Mr. Suxin Zhang
+Chairman and Executive Director
+Mr. Junjun Tang
+President and Executive Director
+Shanghai, PRC
+30 March 2023
+
+                                                               3
+BUSINESS REVIEW
+
+Revenue Analysis
+
+Revenue of Hua Hong Semiconductor for 2022 was US$2,475.5 million, representing a significant
+increase of 51.8% compared to the previous year. As at the end of 2022, the Company has been
+profitable for 48 consecutive quarters. The good performance for the year was mainly due to
+the continuous optimization of product mix and capacity expansion of the Company. Despite
+significant changes in the global semiconductor market environment in 2022, the Company adjusted
+its production line arrangements promptly to meet the market demand and carried out active
+expansion in automobiles, industrial control, data centers, new energy generation, and new energy
+application, thus achieving rapid growth. Due to the gradual implementation of the Company's "8-
+inch +12-inch" strategy, the 12-inch production platform was continuously expanded and supported
+by the market. With diversified support of advanced "Specialty IC + Power Discrete" specialized
+process technology, product quality and performance were widely recognized by the market. The
+Company also maintained good results in the traditional consumer market. In 2022, the Company
+maintained its business growth in terms of Embedded/Stand-alone memory, discrete, and analog &
+PM platforms, which will continue to create value for shareholders and the market in 2023.
+
+                                           Revenue by Service
+
+                              2022   2022       2021  2021                  YoY          YoY
+                         US$'000       %   US$'000       %               Change       Change
+                                                                       US$'000
+                                                                                            %
+
+Semiconductor wafers     2,376,659   96.0% 1,561,846  95.8% 814,813                   52.2%
+Others                       98,829   4.0% 68,908      4.2% 29,921                    43.4%
+
+Total                    2,475,488 100.0% 1,630,754 100.0% 844,734 51.8%
+
+· In 2022, 96.0% of our revenue was generated from the sale of semiconductor wafers.
+
+                                           Revenue by Customer
+
+                              2022   2022  2021       2021                  YoY          YoY
+                         US$'000                         %               Change       Change
+                                     % US$'000                         US$'000
+                                                                                            %
+
+Systems and fabless      2,267,446   91.6% 1,496,782  91.8%            770,664        51.5%
+   companies               208,042    8.4% 133,972     8.2%             74,070        55.3%
+
+Integrated device
+   manufacturers (IDMs)
+
+Total                    2,475,488 100.0% 1,630,754 100.0% 844,734 51.8%
+
+· Our revenue from systems and fabless companies accounted for 91.6%.
+
+                                     4
+                                            Revenue by Geography
+
+                                                                  YoY          YoY
+                                                                            Change
+                               2022  2022   2021        2021 Change
+                         US$'000                                                  %
+                                     % US$'000          % US$'000
+                         1,811,269                                           50.3%
+China                      297,683   73.2%  1,205,149   73.9%     606,120    86.9%
+North America              210,610   12.0%    159,281    9.8%     138,402    24.5%
+Other Asia                 114,728            169,227                        62.4%
+Europe                       41,198   8.5%      70,627  10.4%      41,383    55.6%
+Japan                                 4.6%      26,470   4.3%      44.101
+                                      1.7%               1.6%      14.728
+
+Total                    2,475,488 100.0% 1,630,754 100.0% 844,734 51.8%
+
+· In 2022, North America was our fastest-growing market by revenue, with a year-on-year
+       increase of 86.9% in revenue.
+
+                                     Revenue by Technology Type
+
+                                                                  YoY          YoY
+                                                                            Change
+                              2022   2022   2021        2021 Change
+                         US$'000                                                  %
+                                     % US$'000          % US$'000
+
+Embedded Non-Volatile    767,568     31.0% 459,104      28.2% 308,464 67.2%
+   Memory (eNVM)
+                         208,171      8.4%   88,796      5.4%     119,375   134.4%
+Standalone Non-Volatile  774,638     31.3%  557,893     34.2%     216,745    38.9%
+   Memory (sNVM)         274,384     11.1%  272,053     16.7%                  0.9%
+                                                                     2,331
+Discrete                 448,648
+Logic & RF                  2,079    18.1% 250,466      15.4% 198,182 79.1%
+Analog & Power
+                                     0.1%   2,442       0.1%      (363) (14.9%)
+   Management (PM)
+Others
+
+Total                    2,475,488 100.0% 1,630,754 100.0% 844,734 51.8%
+
+· In 2022, eNVM technology continued to grow, with continuous and outstanding growth in the
+       results for MCU products.
+
+· In 2022, there was a year-on-year increase of 38.9% in revenue from Discrete, which
+       remained the Company's largest business segment.
+
+                                     5
+                                                Revenue by Technology Node
+
+                                                                             YoY           YoY
+                                                                                        Change
+                              2022              2022  2021     2021 Change
+                         US$'000                                                              %
+                                                % US$'000              % US$'000
+
+55nm & 65nm              355,161        14.3%         157,854   9.7%         197,307    125.0%
+90nm & 95nm              505,233        20.4%         280,235  17.2%         224,998      80.3%
+0.11m & 0.13m            426,387        17.2%         302,920  18.6%         123,467      40.8%
+0.15m & 0.18m            206,733                      164,260  10.1%                      25.9%
+0.25m                                    8.4%                                 42,473
+0.35m                     15,027         0.6%          22,926   1.4%           (7,899)  (34.5)%
+                         966,947        39.1%         702,559  43.0%         264,388      37.6%
+Total
+                         2,475,488 100.0% 1,630,754 100.0% 844,734 51.8%
+
+· Revenue from 55nm & 65nm technology nodes increased sharply, with a year-on-year
+       increase of 125.0%.
+
+                                                      Revenue by End Market
+
+                                                                             YoY           YoY
+                                                                                        Change
+                              2022              2022  2021     2021 Change
+                         US$'000                                                              %
+                                                % US$'000              % US$'000
+
+Consumer Electronics     1,599,116      64.6% 1,039,325        63.7% 559,791            53.9%
+Industrial & Automotive
+                           550,342      22.2%         316,194  19.4%         234,148    74.1%
+   Electronics             248,033      10.0%         218,946  13.4%          29,087    13.3%
+Communications                                                                21,708    38.6%
+Computing                    77,997      3.2%          56,289   3.5%
+
+Total                    2,475,488 100.0% 1,630,754 100.0% 844,734 51.8%
+
+· All end markets recorded strong growth in revenue in 2022, particularly for Industrial &
+       Automotive Electronics in 74.1% growth.
+
+                                                      Capacity and Capacity Utilization
+
+Fab (In thousands of wafers per month)                         2022          2021 YoY Change
+
+Fab 1                                                          65            65          ­
+Fab 2
+Fab 3                                                          60            60          ­
+
+                                                               53            53          ­
+
+Total monthly 8-inch wafer capacity                            178           178         ­
+Fab 7 (12-inch wafer capacity)
+                                                               65            60          5
+
+Capacity utilization (8-inch wafer equivalent)                 107.4%        107.5%     (0.1)%
+
+· In 2022, capacity utilization (8-inch wafer equivalent) was 107.4%.
+
+                                                6
+                                              Wafer Shipments
+
+In thousands of wafers                        2022   2021 YoY Change
+Wafer shipments (8-inch wafer equivalent)
+                                              4,087  3,328     22.8%
+
+· In 2022, there was a year-on-year increase of 22.8% in the Company's wafer shipments.
+
+Research and Development
+
+Hua Hong Semiconductor is committed to research and development (R&D), innovation, and
+optimization of differentiated technologies, with a focus on eNVM, sNVM, Discrete, analog &
+PM, and logic & RF. It continues to provide customers with well-featured process technologies
+and services that meet market demand. In 2022, Hua Hong Semiconductor continued to expand the
+construction of the "8-inch + 12-inch" production platforms and enriched the advanced "Specialty
+IC + Power Discrete" process capability through expansion of the 12-inch production platform.
+
+The technology platform related to eNVM remained one of the main sources of revenue for Hua
+Hong Semiconductor in 2022 and was mainly used for smart card IC and MCU. In terms of
+smart cards, shipments of smart card products produced using the 90nm embedded flash memory
+technology, with independent intellectual property rights, remained stable; the 55nm process was
+successfully mass-produced; and competitiveness of the eNVM platform remained at a high level.
+In terms of MCU, 12-inch embedded flash memory MCUs were mass-produced, and increased
+production capacity ensured double-digit growth in both shipments and sales of MCUs for the
+Company in 2022. The Company has a rich combination of embedded flash memory processes
+as well as a good market reputation. The industry-leading 0.11m and independently-developed
+90nm low power and ultra-low leakage embedded flash memory technology platforms, remained
+highly recognized in the market and were widely used in general MCU, Type-C interface control
+IC, touch control IC, smart meter control IC, and highly reliable Automotive Electronics, etc.
+Meanwhile, shipments using the 55nm high-speed MCU embedded flash memory technology
+platform, with independent intellectual property rights, increased rapidly. This further improved
+the richness and the competitiveness of the process platform and gradually enhanced the ability to
+provide manufacturing services to customers through differentiated processes.
+
+In 2022, continuous growth of new energy power generation and new energy applications, such
+as electric vehicles, and the gradual increase in market share of power devices for household
+appliances, communications, and other industries, will continue to promote growth of the
+Company's power discrete technology platform for a long period of time. Specifically, the
+insulated gate bipolar transistor (IGBT) technology platform continued to perform excellently,
+with rapid growth for eight consecutive years. The three-digit percentage growth in sales and
+production of IGBT in the 12-inch fab has greatly eased the problem of capacity constraints.
+After optimization for large current, high reliability, small pitch size, etc., IGBT technology
+showed strong competitiveness in electric vehicle inverters and new energy power generation.
+The Company made achievements in 12-inch Super Junction Metal Oxide Semiconductor Field
+Effect Transistor (MOSFET) with completion of the production capacity ramp-up and a three-digit
+growth in annual shipments. With regard to the specialty new-generation Deep-Trench technology,
+the Company accumulated valuable mass production experience and a good reputation among
+customers, as the technology was widely used in data center power supplies, charging piles, and
+
+                                           7
+new energy on-board chargers (OBCs) for new energy vehicles. In terms of the overall power
+device process platform, the Company will carry out development towards smaller pitch size and
+lower on-resistance, expand its presence in the automotive electronics market, continuously meet
+the demand of the end market, and provide customers with higher quality products and OEM
+services.
+
+In terms of the BCD (Bipolar-CMOS-DMOS) process platform, the Company continued to
+achieve strong growth in 2022, with double-digit growth in revenue. The process scope covered
+low-medium, high, and ultra-high voltage products. Specifically, the Company achieved rapid
+production ramp-up of the 12-inch medium-low voltage 90 nm BCD process platform, which was
+successfully applied to digital power supplies, digital audio power amplifiers, and other market
+segments. In the analog power and motor driver IC applications, using the 8-inch 0.18m and
+above medium-low voltage BCD process platforms, the Company maintained double-digit growth,
+achieving continuous improvement in market recognition and a technical level matching the
+industry-leading indicators. In the high and ultra-high voltage sectors, the Company has a 600-
+700V BCD process platform for application in lighting control as well as industrial and household
+motor driver chips. The process and reliability were continuously improved to meet future
+market demand. With changes in automotive electronics architecture and using our advantageous
+embedded flash memory and power device technology, the Company developed various integrated
+BCD processes to meet the continuous demand for highly integrated and intelligent automotive
+power management IC.
+
+In addition to the above main technology platforms, Hua Hong Semiconductor continued to expand
+into new differentiated technology fields. With greater demands on the volume consumed and
+performance required for semiconductor products in smart home devices, wearable hardware,
+Automotive Electronics, etc., the Company continuously strengthened research and development
+of radio frequency, standard memory, and other technology platforms, which paid off in 2022. In
+terms of patents, it applied for 654 patents throughout the year and was granted a total of over
+4,100 Chinese and U.S. authorised invention patents. The Company is committed to continuous
+innovation and providing customers with a rich selection of specialty technology platforms and
+extensive IP support.
+
+2022 was a year full of both opportunities and challenges. Despite multiple challenges, the
+Company achieved all its production, research, and development targets. As HHGrace persisted
+in and practiced the advanced "Specialty IC + Power Discrete" process technology programs for
+a long time, the Company has maintained steady growth in results despite significant change in
+the traditional consumer market. Looking forward to the future, there will be rapid growth in the
+application of new energy in the world as well as demand for semiconductors in automobiles and
+other industries. The Company's process research and development will be rapidly oriented towards
+relevant fields. In the long run, with the continuous increase in proportion of semiconductors
+in end-user system products and further penetration of digitalization and informatization into
+daily production and life, there will certainly be a long-term positive trend in global demand for
+semiconductor components. In 2023, the Company will further expand the phase-I production
+capacity in Wuxi and start the phase-II production capacity construction plan in time to provide the
+market with more extensive process capability and production capacity support.
+
+                                                               8
+OUTLOOK
+Looking forward to 2023, there will be many uncertainties in the global economic recovery.
+According to the forecast by an authoritative institution, the global GDP growth rate is expected
+to drop to 1.7% in 2023, and the GDP growth rate of China is expected to increase to 5%. The
+slowdown in global economic growth and the decline in traditional consumer demand may
+become a common challenge for the semiconductor industry in the new year. Despite the decline
+in overseas market demand and the accelerated transformation and upgrading of domestic market
+demand, Hua Hong Semiconductor actively made plan for emerging new markets including
+electric vehicles and new energy, accelerated its activities to meet new these market demands, and
+maintained the sustained and healthy development of its business in alignment with the market
+trends. The Company will further improve competitiveness of the 12-inch production platform.
+More abundant and advanced specialty technology, with long-term and continuous strategic
+cooperation, including mutual trust with customers, will become the key engine to maintain growth
+of the Company in the new year. In terms of production capacity, in order to better meet the long-
+term demand of the semiconductor market, the Company will give full support to the "8-inch + 12-
+inch" strategy, maintain optimization of the existing 8-inch platform, continue capacity expansion
+of phase-I for the 12-inch platform, and in due course start construction of the phase-II production
+capacity expansion in Wuxi. In terms of products and technical promotion, all fabs of the Company
+have been recognized under the IATF16949 quality system. In 2023, the Company will continue
+to improve its automotive electronics product lines and seize the market opportunity due to the
+explosive increase in demand for semiconductor components in the local automobile market supply
+chain. The Company will continue to improve its specialized process technology capabilities,
+particularly for the embedded flash memory and power discrete technology platform, with a view
+to maintain its dominant position and contribute to the Company's long-term and sustainable
+development.
+
+                                                               9
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+FINANCIAL PERFORMANCE
+
+                                                    2022            2021        Change
+                                               US$'000         US$'000
+                                                                                 51.8%
+Revenue                                         2,475,488     1,630,754          38.4%
+Cost of sales                                  (1,631,832)   (1,179,156)         86.8%
+Gross profit                                                                     16.8%
+Other income and gains                            843,656       451,598        (57.4)%
+Fair value gain on an investment property           70,986        60,758         16.8%
+Selling and distribution expenses                        78           183        34.1%
+Administrative expenses                            (12,464)      (10,673)   67,390.9%
+Other expenses                                                                  204.9%
+Finance costs                                    (266,666)     (198,920)         79.9%
+Share of profit of associates                    (111,360)           (165)       67.4%
+Profit before tax                                                                37.0%
+Income tax expense                                 (40,331)      (13,226)        76.0%
+Profit for the year                                 12,171         6,765
+Attributable to:                                  496,070                        72.1%
+                                                   (89,499)     296,320          42.1%
+   Owners of the parent                           406,571        (65,349)
+   Non-controlling interests                                    230,971
+                                                  449,912
+                                                   (43,341)     261,476
+                                                                 (30,505)
+
+Revenue
+
+Revenue was US$2,475.5 million, an all-time high and an increase of 51.8% over the prior year,
+due to increased wafer shipments and improved average selling price.
+
+Cost of sales
+
+Cost of sales was US$1,631.8 million, an increase of 38.4% over 2021, primarily due to increased
+wafer shipments and increased depreciation costs.
+
+Gross profit
+
+Gross profit was US$843.7 million, an increase of 86.8% compared to 2021, mainly due to
+improved average selling price and product mix, partially offset by increased depreciation costs.
+
+Other income and gains
+
+Other income and gains were US$71.0 million, an increase of 16.8% compared to 2021, primarily
+due to increased government subsidies and interest income.
+
+Selling and distribution expenses
+
+Selling and distribution expenses were US$12.5 million, an increase of 16.8% from 2021, primarily
+due to increased labor expenses.
+
+                                           10
+Administrative expenses
+Administrative expenses were US$266.7 million, an increase of 34.1% from 2021, primarily due to
+decreased government grants for research and development and increased labor expenses.
+Other expenses
+Other expenses were US$111.4 million, compared to US$0.2 million in 2021, largely due to
+foreign exchange loss versus foreign exchange gain in the previous year.
+Finance costs
+Finance costs were US$40.3 million, an increase of 204.9% from 2021, primarily due to increased
+bank borrowings.
+Share of profit of associates
+Share of profit of associates was US$12.2 million, an increase of 79.9% from 2021, due to
+increased profit realized by the associates.
+Income tax expense
+Income tax expense was US$89.5 million, an increase of 37.0% compared to 2021, primarily due
+to increased taxable profit.
+Profit for the year
+As a result of the cumulative effect of the above factors, profit for the year increased to US$406.6
+million, from US$231.0 million in 2021. Net profit margin was 16.4%, compared to 14.2% in
+2021.
+
+                                                              11
+FINANCIAL STATUS                                 31 December 31 December  Change
+
+Non-current assets                               2022        2021            8.1%
+Property, plant and equipment                                              (8.4)%
+Investment property                              US$'000     US$'000
+Right-of-use assets                                                          4.1%
+Investments in associates                        3,367,716   3,116,501       7.1%
+Equity investments designated at fair value        169,363     184,883
+                                                     78,425      75,331   (30.7)%
+   through other comprehensive income              130,721     122,040       0.8%
+Other non-current assets                                                     4.4%
+Total non-current assets                           178,632     257,788
+Current assets                                       54,794      54,364     33.5%
+Inventories                                                                 61.2%
+Trade and notes receivables                      3,979,651   3,810,907      88.2%
+Due from related parties                                                    15.9%
+Other current assets                               578,060     432,917    (53.6)%
+Pledged deposits                                   291,856     181,042      24.8%
+Cash and cash equivalents                                                   28.6%
+Total current assets                                 13,006       6,910
+Current liabilities                                182,996     157,935      21.9%
+Trade payables                                                            118.8%
+Interest-bearing bank borrowings                      1,042       2,248   (18.7)%
+Due to related parties                           2,008,765   1,610,140    (43.6)%
+Government grants                                3,075,725   2,391,192
+Other current liabilities                                                    9.4%
+Total current liabilities                          236,999     194,385      28.0%
+Net current assets                                 426,756     195,024      29.2%
+Non-current liabilities
+Interest-bearing bank borrowings                      6,096       7,501      6.2%
+Lease liabilities                                    37,714      66,837    (9.3)%
+Deferred tax liabilities                           674,851     616,654      60.4%
+Total non-current liabilities                    1,382,416   1,080,401
+Net assets                                       1,693,309   1,310,791       7.0%
+                                                                            12.2%
+                                                 1,481,580   1,395,279
+                                                     14,644      16,137
+                                                     41,268      25,735
+
+                                                 1,537,492   1,437,151
+                                                 4,135,468   3,684,547
+
+Explanation of items with fluctuation over 10% from 31 December 2021 to 31 December 2022
+
+Equity investments designated at fair value through other comprehensive income
+
+Equity investments designated at fair value through other comprehensive income decreased from
+US$257.8 million to US$178.6 million, primarily due to decrease of fair value and a disposal of
+equity instruments.
+
+Inventories
+
+Inventories increased from US$432.9 million to US$578.1 million, primarily due to increased
+customer demand.
+
+                                             12
+Trade and notes receivables
+
+Trade and notes receivables increased from US$181.0 million to US$291.9 million, mainly due to
+increased revenue.
+
+Due from related parties
+
+Due from related parties increased from US$6.9 million to US$13.0 million, primarily due to
+increased receivables from certain of our related parties.
+
+Other current assets
+
+Other current assets increased from US$157.9 million to US$183.0 million, primarily due to
+increased properties under development.
+
+Pledged deposits
+
+Pledged deposits decreased from US$2.2 million to US$1.0 million, primarily due to decreased
+pledged deposits.
+
+Cash and cash equivalents
+
+Cash and cash equivalents increased from US$1,610.1 million to US$2,008.8 million, mainly due
+to reasons stated in the cash flow analysis below.
+
+Trade payables
+
+Trade payables increased from US$194.4 million to US$237.0 million, primarily due to increased
+purchase of materials.
+
+Due to related parties
+
+Due to related parties decreased from US$7.5 million to US$6.1 million, primarily due to
+decreased trade payables from certain of our related parties.
+
+Government grants
+
+Government grants decreased from US$66.8 million to US$37.7 million, primarily due to
+decreased receipts of government funding.
+
+Interest-bearing bank borrowings
+
+Total interest-bearing bank borrowings increased from US$1,590.3 million to US$1,908.3 million,
+due to increased drawdowns of bank borrowings.
+
+Deferred tax liabilities
+
+Deferred tax liabilities increased from US$25.7 million to US$41.3 million, primarily due to
+increased withholding tax accrued for dividend distribution.
+
+                                                              13
+CASH FLOW                                                 2022        2021    Change
+                                                    US$'000     US$'000
+Net cash flows generated from operating activities                             44.8%
+Net cash flows used in investing activities           750,865     518,471        7.8%
+Net cash flows generated from financing activities   (930,156)   (863,059)
+Net increase in cash and cash equivalents             672,177   1,014,640    (33.8)%
+Cash and cash equivalents at beginning of the year    492,886     670,052    (26.4)%
+Effect of foreign exchange rate changes, net        1,610,140     922,786
+Cash and cash equivalents at end of the year                                   74.5%
+                                                      (94,261)      17,302  (644.8)%
+                                                    2,008,765   1,610,140
+                                                                               24.8%
+
+Net cash flows generated from operating activities
+
+Net cash flows generated from operating activities were US$750.9 million, an increase of 44.8%
+from 2021, mainly due to increased revenue, partially offset by increased payments for materials,
+maintenance and payrolls.
+
+Net cash flows used in investing activities
+
+Net cash flows used in investing activities were US$930.2 million, primarily attributed to (i)
+US$996.2 million for capital investments, (ii) US$6.7 million for investment in an associate, offset
+by receipts of (i) US$38.4 million of government grants, (ii) US$28.5 million of interest income,
+(iii) US$5.7 million of disposal of an equity instrument, and (iv) US$0.1 million of disposal of
+fixed assets.
+
+Net cash flows generated from financing activities
+
+Net cash flows generated from financing activities were US$672.2 million, including (i) US$514.6
+million of proceeds from bank borrowings, (ii) US$392.0 million of capital contribution from
+non-controlling interests, (iii) US$11.1 million of government grants for interest expenses, and
+(iv) US$6.3 million of proceeds from issue of shares, offset by (i) US$199.7 million of repayments
+of bank borrowings, (ii) US$47.3 million of interest payments, (iii) US$3.2 million payment of
+principal portion of lease payments, (iv) US$0.8 million payments of share issued expenses, and (v)
+US$0.8 million payment of pledged deposits.
+
+Net increase in cash and cash equivalents
+
+As a result of the cumulative effect of the above factors, cash and cash equivalents increased from
+US$1,610.1 million as of 31 December 2021 to US$2,008.8 million as of 31 December 2022.
+
+14
+FINANCIAL RISKS
+
+Interest rate risk
+
+Our exposure to the risk of changes in market interest rates relates primarily to the Group's
+interest-bearing bank borrowings with a floating interest rate. Our policy is to manage interest rate
+risk using a mix of fixed and variable rate debts.
+
+As at 31 December 2022, if the interest rates had been 100 basis points higher/lower with all other
+variables held constant, profit before tax for the year would have been US$14.5 million lower/
+higher, mainly as a result of higher/lower interest expense on floating rate bank borrowings.
+
+Foreign currency risk
+
+We have transactional currency exposures, arising primarily from sales or purchases by our
+significant subsidiaries operating in Mainland China in US$ rather than the subsidiary's functional
+currency, which is RMB. During the year, approximately 27% of the our sales were denominated
+in currencies other than the functional currency of the subsidiary making the sale, whilst 71% of
+costs of sales were denominated in the subsidiary's functional currency.
+
+In addition, we have currency exposures from interest-bearing bank borrowings, held by
+our subsidiary operating in Mainland China. As at 31 December 2022, interest-bearing bank
+borrowings with a carrying amount of US$1,775.8 million are dominated in United States dollars,
+other than the subsidiary's functional currency, which is RMB.
+
+As at 31 December 2022, if the US dollar had strengthened or weakened against the RMB by
+5%, with all other variables held constant, our profit before tax for the year would have been
+approximately US$60.5 million lower or higher.
+
+Credit risk
+
+We trade only with recognized and creditworthy third parties and related parties. It is our policy
+that all customers who wish to trade on credit terms are subject to credit verification procedures. In
+addition, receivable balances are monitored on an ongoing basis, and our exposure to bad debts is
+not significant.
+
+Our maximum exposure to credit risk in relation to our financial assets is: the carrying amounts of
+cash and cash equivalents, trade and notes receivables, financial assets included in prepayments,
+other receivables and other assets, amounts due from related parties, and restricted and time
+deposits included in the consolidated statement of financial position. We have no other financial
+assets which carry significant exposure to credit risk.
+
+Liquidity risk
+
+To meet liquidity requirements in the short and long term, our policy is to monitor regularly the
+current and expected liquidity requirements to ensure that we maintain sufficient reserves of cash
+and adequate committed lines of funding from major financial institutions.
+
+                                                              15
+Capital management
+
+Our primary objectives of capital management are to safeguard our ability to continue as a going
+concern and to maintain healthy capital ratios to support our business and maximize shareholders'
+value.
+
+We manage our capital structure and make adjustments in light of changes in economic conditions.
+To do this, we may adjust the dividend payment to shareholders, return capital to shareholders, or
+issue new shares. We are not subject to any externally imposed capital requirements. No changes
+were made in the objectives, policies, or processes for managing capital during the year.
+
+DIVIDENDS
+
+The Board did not recommend the payment of any dividend for the year ended 31 December 2022.
+
+PURCHASE, SALE OR REDEMPTION OF LISTED SHARES OF THE COMPANY
+
+Neither the Company, nor any of its subsidiaries purchased, sold or redeemed any of the
+Company's listed securities in the year ended 31 December 2022.
+
+CLOSURE OF REGISTER OF MEMBERS
+
+For determining the eligibility of shareholders to attend and vote at the AGM
+
+Latest time to lodge transfer documents for registration  4:30 p.m. on 5 May 2023
+Closure of register of members                                     8 to 11 May 2023
+
+Record date                                                   (both dates inclusive)
+                                                                         11 May 2023
+
+In order to be eligible to attend and vote at the annual general meeting, unregistered holders
+of shares should ensure all share transfer forms accompanied by the relevant share certificates
+are lodged with the Company's branch share registrar Tricor Investor Services Limited, at
+17/F, Far East Finance Centre, 16 Harcourt Road, Hong Kong for registration no later than the
+aforementioned latest time.
+
+CORPORATE GOVERNANCE
+
+The Company is committed to maintaining a high standard of corporate governance with a
+view to safeguarding the interests of its shareholders and enhancing corporate value. Detailed
+corporate governance practices will be stated in the Company's annual report for the year ended 31
+December 2022. The Board is of the view that the Company has complied with the code provisions
+set out in the Corporate Governance Code as contained in Appendix 14 of the Rules Governing the
+Listing of Securities on The Stock Exchange of Hong Kong Limited (the "Listing Rules") during
+the year ended 31 December 2022.
+
+ANNUAL RESULTS FOR THE YEAR ENDED 31 DECEMBER 2022
+
+The Board of the Company is pleased to announce the audited consolidated annual results of
+the Company and its subsidiaries (the "Group") for the year ended 31 December 2022 with
+comparative figures for the year 2021 as follows:
+
+                                16
+CONSOLIDATED STATEMENT OF PROFIT OR LOSS                                                 2022          2021
+Year ended 31 December 2022                                                         US$'000       US$'000
+
+                                                                           Notes   2,475,488     1,630,754
+                                                                                  (1,631,832)   (1,179,156)
+Revenue                                        4
+                                                                                     843,656       451,598
+Cost of sales
+                                                                                       70,986        60,758
+Gross profit                                                                                78           183
+
+Other income and gains                         4                                      (12,464)      (10,673)
+                                                                                    (266,666)     (198,920)
+Fair value gain on an investment property                                           (111,360)
+                                                                                                        (165)
+Selling and distribution expenses                                                     (40,331)      (13,226)
+                                                                                       12,171
+Administrative expenses                                                                               6,765
+                                                                                     496,070
+Other expenses                                 4                                                   296,320
+                                                                                      (89,499)
+Finance costs                                  6                                                    (65,349)
+                                                                                     406,571
+Share of profits of associates                                                                     230,971
+
+PROFIT BEFORE TAX                              5
+
+Income tax expense                             7
+
+PROFIT FOR THE YEAR
+
+Attributable to:                                                                  449,912       261,476
+   Owners of the parent                                                           (43,341)      (30,505)
+   Non-controlling interests
+                                                                                  406,571       230,971
+
+EARNINGS PER SHARE ATTRIBUTABLE TO
+
+ORDINARY EQUITY HOLDERS OF
+
+THE PARENT:                                    9
+
+Basic                                                                             US$0.345      US$0.201
+­ For profit for the year
+
+Diluted                                                                           US$0.342      US$0.198
+­ For profit for the year
+
+                                           17
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+Year ended 31 December 2022
+
+                                                                          2022       2021
+                                                                     US$'000    US$'000
+                                                                                 230,971
+PROFIT FOR THE YEAR                                                  406,571
+                                                                                  80,630
+OTHER COMPREHENSIVE INCOME                                           (309,458)    80,630
+                                                                     (309,458)
+Other comprehensive (loss)/income that may be reclassified to                     15,564
+   profit or loss in subsequent periods:                              (53,707)     (2,335)
+                                                                         8,348    13,229
+   Exchange differences on translation of foreign operations                      93,859
+                                                                      (45,359)   324,830
+Net other comprehensive (loss)/income that may be reclassified to    (354,817)   336,438
+   profit or loss in subsequent periods                                          (11,608)
+                                                                       51,754    324,830
+Other comprehensive (loss)/income that will not be reclassified to
+   profit or loss in subsequent periods:
+
+   Equity investments designated at fair value through
+      other comprehensive income:
+
+   Changes in fair value
+   Income tax effect
+
+Net other comprehensive (loss)/income that will not be reclassified
+   to profit or loss in subsequent periods
+
+OTHER COMPREHENSIVE (LOSS)/INCOME
+   FOR THE YEAR, NET OF TAX
+
+TOTAL COMPREHENSIVE INCOME FOR THE YEAR
+
+Attributable to:                                                      153,027
+   Owners of the parent                                              (101,273)
+   Non-controlling interests
+                                                                       51,754
+
+                              18
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+
+                                                                  31 December 31 December
+
+                                                           Notes  2022        2021
+
+                                                                  US$'000     US$'000
+
+NON-CURRENT ASSETS
+
+Property, plant and equipment                                     3,367,716   3,116,501
+                                                                    169,363     184,883
+Investment property                                                   78,425      75,331
+                                                                      32,986      35,312
+Right-of-use assets                                                 130,721     122,040
+
+Intangible assets                                                   178,632     257,788
+                                                                       7,742      15,573
+Investments in associates                                  10                      3,479
+                                                                      14,066
+Equity investments designated at fair value through other
+
+comprehensive income
+
+Long-term prepayments to third parties
+
+Deferred tax assets
+
+Total non-current assets                                          3,979,651   3,810,907
+
+CURRENT ASSETS                                              11      134,723     114,492
+Properties under development                                        578,060     432,917
+Inventories                                                17(c)    291,856     181,042
+Trade and notes receivables                                 12
+Prepayments, other receivables and other assets             12        48,273      43,443
+Due from related parties                                              13,006       6,910
+Pledged deposits                                                                   2,248
+Cash and cash equivalents                                              1,042
+                                                                  2,008,765   1,610,140
+
+Total current assets                                              3,075,725   2,391,192
+
+CURRENT LIABILITIES                                         13    236,999     194,385
+Trade payables                                              14    593,971     560,435
+Other payables and accruals                                       426,756     195,024
+Interest-bearing bank borrowings                           17(c)
+Lease liabilities                                                    4,704       1,676
+Government grants                                                  37,714      66,837
+Due to related parties
+Income tax payable                                                   6,096       7,501
+                                                                   76,176      54,543
+
+Total current liabilities                                         1,382,416   1,080,401
+
+NET CURRENT ASSETS                                                1,693,309   1,310,791
+
+TOTAL ASSETS LESS CURRENT LIABILITIES                             5,672,960   5,121,698
+
+                                                                              continued/n
+
+                                                 19
+                                                             31 December 31 December
+
+                                                       Note  2022       2021
+
+                                                             US$'000    US$'000
+
+NON-CURRENT LIABILITIES                                14    1,481,580  1,395,279
+Interest-bearing bank borrowings
+Lease liabilities                                            14,644     16,137
+Deferred tax liabilities
+                                                             41,268     25,735
+Total non-current liabilities
+                                                             1,537,492  1,437,151
+Net assets
+                                                             4,135,468  3,684,547
+EQUITY
+Share capital                                                1,994,462  1,986,152
+Reserves                                                     1,036,008    884,207
+
+Total equity attributable to owners of the parent            3,030,470  2,870,359
+Non-controlling interests                                    1,104,998    814,188
+
+Total equity                                                 4,135,468  3,684,547
+
+                                                   20
+NOTES TO FINANCIAL STATEMENTS
+
+1. CORPORATE AND GROUP INFORMATION
+        Hua Hong Semiconductor Limited (the "Company") is a limited liability company incorporated in Hong Kong
+        on 21 January 2005. The registered office of the Company is located at Room 2212, Bank of America Tower,
+        12 Harcourt Road, Central, Hong Kong. The principal place of business is located at No. 288, Halei Road,
+        Zhangjiang Hi-Tech Park, Shanghai.
+        The principal activity of the Company is investment holding. During the year, the Company's subsidiaries were
+        principally engaged in the manufacture and sale of semiconductor products and real estate development.
+        In the opinion of the directors, the parent of the Company is Shanghai Huahong (Group) Co., Ltd. ("Huahong
+        Group"), which is a state-owned company established in the People's Republic of China ("PRC") and supervised
+        by the Shanghai State-owned Assets Supervision and Administration Commission ("Shanghai SASAC"). The
+        ultimate parent of the Company is Shanghai SASAC.
+
+2.1 BASIS OF PREPARATION
+        These financial statements have been prepared in accordance with Hong Kong Financial Reporting Standards
+        ("HKFRSs") (which include all Hong Kong Financial Reporting Standards, Hong Kong Accounting Standards
+        ("HKASs") and Interpretations) issued by the Hong Kong Institute of Certified Public Accountants ("HKICPA"),
+        accounting principles generally accepted in Hong Kong and the Hong Kong Companies Ordinance. They have
+        been prepared under the historical cost convention, except for an investment property, equity investments
+        designated at fair value through other comprehensive income and financial assets at fair value through profit or
+        loss which have been measured at fair value. These financial statements are presented in United States dollars
+        ("US$") and all values are rounded to the nearest thousand except when otherwise indicated.
+        The financial information relating to the years ended 31 December 2022 and 2021 included in this
+        announcement does not constitute the Company's statutory annual consolidated financial statements for those
+        years but is derived from those consolidated financial statements.
+        The non-statutory accounts (within the meaning of section 436 of the Companies Ordinance (Cap. 622 of the
+        Laws of Hong Kong) (the "Ordinance")) in this announcement are not specified financial statements (within the
+        meaning of the same section). The specified financial statements for the year ended 31 December 2021 have
+        been delivered to the Registrar of Companies in Hong Kong in accordance with section 662(3) of, and Part 3
+        of Schedule 6 to, the Ordinance. The specified financial statements for the year ended 31 December 2022 have
+        not been but will be delivered to the Registrar of Companies in Hong Kong in accordance with the Ordinance.
+        Auditor's reports have been prepared on the specified financial statements for the years ended 31 December
+        2021 and 2022. Those reports were unqualified, did not refer to any matters to which the auditor drew attention
+        by way of emphasis without qualifying the reports, and did not contain statements under section 406(2) or
+        407(2) or (3) of the Ordinance.
+
+                                                              21
+Basis of consolidation
+The consolidated financial statements include the financial statements of the Company and its subsidiaries
+(collectively referred to as the "Group") for the year ended 31 December 2022. A subsidiary is an entity
+(including a structured entity), directly or indirectly, controlled by the Company. Control is achieved when the
+Group is exposed, or has rights, to variable returns from its involvement with the investee and has the ability
+to affect those returns through its power over the investee (i.e., existing rights that give the Group the current
+ability to direct the relevant activities of the investee).
+Generally, there is a presumption that a majority of voting rights results in control. When the Company has,
+directly or indirectly, less than a majority of the voting or similar rights of an investee, the Group considers all
+relevant facts and circumstances in assessing whether it has power over an investee, including:
+(a) the contractual arrangement with the other vote holders of the investee;
+(b) rights arising from other contractual arrangements; and
+(c) the Group's voting rights and potential voting rights.
+The financial statements of the subsidiaries are prepared for the same reporting period as the Company, using
+consistent accounting policies. The results of subsidiaries are consolidated from the date on which the Group
+obtains control, and continue to be consolidated until the date that such control ceases.
+Profit or loss and each component of other comprehensive income are attributed to the owners of the parent
+of the Group and to the non-controlling interests, even if this results in the non-controlling interests having
+a deficit balance. All intra-group assets and liabilities, equity, income, expenses and cash flows relating to
+transactions between members of the Group are eliminated in full on consolidation.
+The Group reassesses whether or not it controls an investee if facts and circumstances indicate that there are
+changes to one or more of the three elements of control described above. A change in the ownership interest of
+a subsidiary, without a loss of control, is accounted for as an equity transaction.
+If the Group loses control over a subsidiary, it derecognises (i) the assets (including goodwill) and liabilities
+of the subsidiary, (ii) the carrying amount of any non-controlling interest and (iii) the cumulative translation
+differences recorded in equity; and recognises (i) the fair value of the consideration received, (ii) the fair value
+of any investment retained and (iii) any resulting surplus or deficit in profit or loss. The Group's share of
+components previously recognised in other comprehensive income is reclassified to profit or loss or retained
+profits, as appropriate, on the same basis as would be required if the Group had directly disposed of the related
+assets or liabilities.
+
+                                                       22
+2.2 CHANGES IN ACCOUNTING POLICIES AND DISCLOSURES
+
+The Group has adopted the following revised HKFRSs for the first time for the current year's financial
+statements.
+
+Amendments to HKFRS 3                    Reference to the Conceptual Framework
+Amendments to HKAS 16                    Property, Plant and Equipment: Proceeds before Intended Use
+Amendments to HKAS 37                    Onerous Contracts ­ Cost of Fulfilling a Contract
+Annual Improvements to HKFRSs 2018-2020  Amendments to HKFRS 1, HKFRS 9, Illustrative Examples
+
+                                            accompanying HKFRS 16, and HKAS 41
+
+The nature and the impact of the revised HKFRSs that are applicable to the Group are described below:
+
+(a) Amendments to HKFRS 3 replace a reference to the previous Framework for the Preparation and
+       Presentation of Financial Statements with a reference to the Conceptual Framework for Financial
+       Reporting (the "Conceptual Framework") issued in June 2018 without significantly changing its
+        requirements. The amendments also add to HKFRS 3 an exception to its recognition principle for an
+        entity to refer to the Conceptual Framework to determine what constitutes an asset or a liability. The
+        exception specifies that, for liabilities and contingent liabilities that would be within the scope of HKAS
+        37 or HK(IFRIC)-Int 21 if they were incurred separately rather than assumed in a business combination,
+        an entity applying HKFRS 3 should refer to HKAS 37 or HK(IFRIC)-Int 21 respectively instead of the
+        Conceptual Framework. Furthermore, the amendments clarify that contingent assets do not qualify for
+        recognition at the acquisition date. The Group has applied the amendments prospectively to business
+        combinations that occurred on or after 1 January 2022. As there were no business combinations during
+        the year, the amendments did not have any impact on the financial position and performance of the
+        Group.
+
+(b) Amendments to HKAS 16 prohibit an entity from deducting from the cost of an item of property, plant
+        and equipment any proceeds from selling items produced while bringing that asset to the location and
+        condition necessary for it to be capable of operating in the manner intended by management. Instead, an
+        entity recognises the proceeds from selling any such items, and the cost of those items as determined by
+        HKAS 2 Inventories , in profit or loss. The Group has applied the amendments retrospectively to items of
+        property, plant and equipment made available for use on or after 1 January 2021. Since there was no sale
+        of items produced prior to the property, plant and equipment being available for use, the amendments did
+        not have any impact on the financial position or performance of the Group.
+
+(c) Amendments to HKAS 37 clarify that for the purpose of assessing whether a contract is onerous under
+        HKAS 37, the cost of fulfilling the contract comprises the costs that relate directly to the contract. Costs
+        that relate directly to a contract include both the incremental costs of fulfilling that contract (e.g., direct
+        labour and materials) and an allocation of other costs that relate directly to fulfilling that contract (e.g.,
+        an allocation of the depreciation charge for an item of property, plant and equipment used in fulfilling
+        the contract as well as contract management and supervision costs). General and administrative costs do
+        not relate directly to a contract and are excluded unless they are explicitly chargeable to the counterparty
+        under the contract. The Group has applied the amendments prospectively to contracts for which it has not
+        yet fulfilled all its obligations at 1 January 2022 and no onerous contracts were identified. Therefore, the
+        amendments did not have any impact on the financial position or performance of the Group.
+
+(d) Annual Improvements to HKFRSs 2018-2020 sets out amendments to HKFRS 1, HKFRS 9, Illustrative
+        Examples accompanying HKFRS 16, and HKAS 41. Details of the amendment that is applicable to the
+        Group are as follows:
+
+· HKFRS 9 Financial Instruments : clarifies the fees that an entity includes when assessing whether
+        the terms of a new or modified financial liability are substantially different from the terms of the
+        original financial liability. These fees include only those paid or received between the borrower
+        and the lender, including fees paid or received by either the borrower or lender on the other's
+        behalf. The Group has applied the amendment prospectively from 1 January 2022. As there was no
+        modification or exchange of the Group's financial liabilities during the year, the amendment did
+        not have any impact on the financial position or performance of the Group.
+
+                                         23
+2.3 ISSUED BUT NOT YET EFFECTIVE HONG KONG FINANCIAL REPORTING STANDARDS
+
+The Group has not applied the following new and revised HKFRSs, that have been issued but are not yet
+effective, in these financial statements.
+
+Amendments to HKFRS 10 and     Sale or Contribution of Assets between an Investor and its
+   HKAS 28 (2011)                 Associate or Joint Venture3
+
+Amendments to HKFRS 16         Lease Liability in a Sale and Leaseback2
+HKFRS 17                       Insurance Contracts1
+Amendments to HKFRS 17         Insurance Contracts1, 5
+Amendment to HKFRS 17          Initial Application of HKFRS 17 and HKFRS 9 ­ Comparative
+
+Amendments to HKAS 1              Information6
+                               Classification of Liabilities as Current or Non-current
+Amendments to HKAS 1
+                                  (the "2020 Amendments")2, 4
+Amendments to HKAS 1 and       Non-current Liabilities with Covenants
+   HKFRS Practice Statement 2
+                                  (the "2022 Amendments")2
+Amendments to HKAS 8           Disclosure of Accounting Policies1
+Amendments to HKAS 12
+                               Definition of Accounting Estimates1
+                               Deferred Tax related to Assets and Liabilities arising from
+
+                                  a Single Transaction1
+
+1 Effective for annual periods beginning on or after 1 January 2023
+2 Effective for annual periods beginning on or after 1 January 2024
+3 No mandatory effective date yet determined but available for adoption
+4 As a consequence of the 2022 Amendments, the effective date of the 2020 Amendments was deferred
+
+        to annual periods beginning on or after 1 January 2024. In addition, as a consequence of the 2020
+        Amendments and 2022 Amendments, Hong Kong Interpretation 5 Presentation of Financial Statements
+       ­ Classification by the Borrower of a Term Loan that Contains a Repayment on Demand Clause was
+        revised to align the corresponding wording with no change in conclusion
+5 As a consequence of the amendments to HKFRS 17 issued in October 2020, HKFRS 4 was amended to
+        extend the temporary exemption that permits insurers to apply HKAS 39 rather than HKFRS 9 for annual
+        periods beginning before 1 January 2023
+6 An entity that chooses to apply the transition option relating to the classification overlay set out in this
+        amendment shall apply it on initial application of HKFRS 17
+
+Further information about those HKFRSs that are expected to be applicable to the Group is described below.
+
+Amendments to HKFRS 10 and HKAS 28 (2011) address an inconsistency between the requirements in
+HKFRS 10 and in HKAS 28 (2011) in dealing with the sale or contribution of assets between an investor and
+its associate or joint venture. The amendments require a full recognition of a gain or loss resulting from a
+downstream transaction when the sale or contribution of assets between an investor and its associate or joint
+venture constitutes a business. For a transaction involving assets that do not constitute a business, a gain or loss
+resulting from the transaction is recognised in the investor's profit or loss only to the extent of the unrelated
+investor's interest in that associate or joint venture. The amendments are to be applied prospectively. The
+previous mandatory effective date of amendments to HKFRS 10 and HKAS 28 (2011) was removed by the
+HKICPA in January 2016 and a new mandatory effective date will be determined after the completion of a
+broader review of accounting for associates and joint ventures. However, the amendments are available for
+adoption now.
+
+Amendments to HKFRS 16 specify the requirements that a seller-lessee uses in measuring the lease liability
+arising in a sale and leaseback transaction to ensure the seller-lessee does not recognise any amount of the gain
+or loss that relates to the right of use it retains. The amendments are effective for annual periods beginning on or
+after 1 January 2024 and shall be applied retrospectively to sale and leaseback transactions entered into after the
+date of initial application of HKFRS 16 (i.e., 1 January 2019). Earlier application is permitted. The amendments
+are not expected to have any significant impact on the Group's financial statements.
+
+                               24
+Amendments to HKAS 1 Classification of Liabilities as Current or Non-current clarify the requirements for
+classifying liabilities as current or non-current, in particular the determination over whether an entity has
+a right to defer settlement of the liabilities for at least 12 months after the reporting period. Classification
+of a liability is unaffected by the likelihood that the entity will exercise its right to defer settlement of the
+liability. The amendments also clarify the situations that are considered a settlement of a liability. In 2022,
+the HKICPA issued the 2022 Amendments to further clarify that, among covenants of a liability arising from
+a loan arrangement, only those with which an entity must comply on or before the reporting date affect the
+classification of that liability as current or non-current. In addition, the 2022 Amendments require additional
+disclosures by an entity that classifies liabilities arising from loan arrangements as non-current when it has a
+right to defer settlement of those liabilities that are subject to the entity complying with future covenants within
+12 months after the reporting period. The amendments are effective for annual periods beginning on or after 1
+January 2024 and shall be applied retrospectively. Earlier application is permitted. An entity that applies the
+2020 Amendments early is required to apply simultaneously the 2022 Amendments, and vice versa. The Group
+is currently assessing the impact of the amendments and whether existing loan agreements may require revision.
+Based on a preliminary assessment, the amendments are not expected to have any significant impact on the
+Group's financial statements.
+
+Amendments to HKAS 1 Disclosure of Accounting Policies require entities to disclose their material accounting
+policy information rather than their significant accounting policies. Accounting policy information is material if,
+when considered together with other information included in an entity's financial statements, it can reasonably
+be expected to influence decisions that the primary users of general purpose financial statements make on
+the basis of those financial statements. Amendments to HKFRS Practice Statement 2 provide non-mandatory
+guidance on how to apply the concept of materiality to accounting policy disclosures. Amendments to HKAS 1
+are effective for annual periods beginning on or after 1 January 2023 and earlier application is permitted. Since
+the guidance provided in the amendments to HKFRS Practice Statement 2 is non-mandatory, an effective date
+for these amendments is not necessary. The Group is currently revisiting the accounting policy disclosures to
+ensure consistency with the amendments.
+
+Amendments to HKAS 8 clarify the distinction between changes in accounting estimates and changes in
+accounting policies. Accounting estimates are defined as monetary amounts in financial statements that are
+subject to measurement uncertainty. The amendments also clarify how entities use measurement techniques and
+inputs to develop accounting estimates. The amendments are effective for annual reporting periods beginning
+on or after 1 January 2023 and apply to changes in accounting policies and changes in accounting estimates that
+occur on or after the start of that period. Earlier application is permitted. The amendments are not expected to
+have any significant impact on the Group's financial statements.
+
+Amendments to HKAS 12 narrow the scope of the initial recognition exception in HKAS 12 so that it no longer
+applies to transactions that give rise to equal taxable and deductible temporary differences, such as leases and
+decommissioning obligations. Therefore, entities are required to recognise a deferred tax asset (provided that
+sufficient taxable profit is available) and a deferred tax liability for temporary differences arising from these
+transactions. The amendments are effective for annual reporting periods beginning on or after 1 January 2023
+and shall be applied to transactions related to leases and decommissioning obligations at the beginning of the
+earliest comparative period presented, with any cumulative effect recognised as an adjustment to the opening
+balance of retained profits or other component of equity as appropriate at that date. In addition, the amendments
+shall be applied prospectively to transactions other than leases and decommissioning obligations. Earlier
+application is permitted. The amendments are not expected to have any significant impact on the Group's
+financial statements.
+
+The Group has applied the initial recognition exception and did not recognise a deferred tax asset and a deferred
+tax liability for temporary differences for transactions related to leases. The amendments are not expected to
+have any significant impact on the Group's financial statements.
+
+                                                       25
+3. OPERATING SEGMENT INFORMATION
+
+For management purposes, the Group is organised into one single business unit that includes primarily the
+manufacture and sale of semiconductor products. Management reviews the consolidated results when making
+decisions about allocating resources and assessing the performance of the Group. Accordingly, no segment
+analysis is presented.
+
+The principal assets employed by the Group are located in Shanghai and Wuxi, the PRC. Therefore, no segment
+information based on the geographical location of non-current assets is presented for the year.
+
+Revenues are attributed to geographical areas based on the locations of customers. Revenues by geographical
+segment based on the locations of customers for the year are presented as follows:
+
+                                           2022        2021
+                                      US$'000     US$'000
+
+China (including Hong Kong)           1,811,269   1,205,149
+North America                           297,683     159,281
+Asia (excluding China and Japan)        210,610     169,227
+Europe                                  114,728       70,627
+Japan                                     41,198      26,470
+
+                                      2,475,488   1,630,754
+
+The Group is involved in the business of the manufacture and sale of semiconductor products. Revenue from the
+sale of semiconductor products is recognised at the point in time when control of the asset is transferred to the
+customer, generally on delivery of the semiconductor products, where the performance obligation is satisfied.
+The normal credit term is 30 to 45 days upon delivery. Payment in advance is required for some contracts.
+
+Information about major customers
+
+No revenue amounting to 10% or more of the Group's revenue was derived from sales to a single customer for
+the year ended 31 December 2022 (31 December 2021: Nil).
+
+                                  26
+4. REVENUE, OTHER INCOME AND GAINS AND OTHER EXPENSES
+
+An analysis of revenue, other income and gains and other expenses is as follows:
+
+                                                                                       2022        2021
+                                                                                  US$'000    US$'000
+
+Revenue from contracts with customers                                             2,475,488  1,630,754
+Sale of goods
+
+Other income                                                                      14,358     14,488
+Gross rental income from investment property operating leases:                    26,944     13,437
+                                                                                  27,679
+   Fixed lease payments                                                                       7,288
+Interest income                                                                    1,476         586
+Government subsidies                                                                  524
+Sale of scrap materials                                                                       1,015
+Others                                                                            70,981
+                                                                                             36,814
+
+Gains                                                                                    ­   23,944
+Foreign exchange gains, net                                                              5          ­
+Gain on disposal of items of property, plant and equipment
+                                                                                  70,986     60,758
+
+Other expenses                                                                    106,804    ­
+Foreign exchange loss, net
+Loss on disposal of items of property, plant and equipment                        ­          76
+Others
+                                                                                  4,556      89
+
+                                                                                  111,360    165
+
+Types of goods                                                                    2,475,488  1,630,754
+Sales of semiconductor products and total revenue from
+
+   contracts with customers
+
+Timing of revenue recognition                                                     2,475,488  1,630,754
+Goods transferred at a point in time and total
+
+   revenue from contracts with customers
+
+The disaggregation of the Group's revenue based on the geographical region for the year ended 31 December
+2022 is given in note 3.
+
+                                                27
+5. PROFIT BEFORE TAX                                                                   2022          2021
+                                                                                 US$'000       US$'000
+        The Group's profit before tax is arrived at after charging/(crediting):
+                                                                                 1,631,832     1,179,156
+        Cost of inventories sold                                                   439,917       302,245
+        Depreciation of property, plant and equipment                                 5,842         5,676
+        Depreciation of right-of-use assets                                          11,101        10,095
+        Amortisation of intangible assets                                          160,936         86,068
+        Research and development costs
+        Lease payments not included in the measurement of                             2,625         1,572
+                                                                                      1,395            660
+           lease liabilities
+        Auditor's remuneration                                                     382,804       289,787
+        Employee benefit expense (including directors' and chief                      1,226            296
+
+           executive's remuneration):                                                31,660        28,287
+           Wages, salaries and other benefits
+           Equity-settled share option expense                                     415,690       318,370
+           Pension scheme contributions
+                                                                                         858        3,914
+              (defined contribution scheme)*                                             (16)          273
+                                                                                     19,612          (180)
+        Impairment of items of property, plant and equipment                             (78)        (183)
+        (Reversal of)/provision for impairment of trade receivables
+        Write-down/(reversal) of inventories to net realisable value
+        Changes in fair value of an investment property
+
+* There are no forfeited contributions that may be used by the Group as the employer to reduce the existing
+        level of contributions.
+
+6 FINANCE COSTS
+
+                                                                                      2022          2021
+                                                                                 US$'000       US$'000
+
+Interest on bank borrowings                                                      39,451        12,347
+Interest on lease liabilities                                                        880           879
+
+                                                                                 40,331        13,226
+
+                               28
+7. INCOME TAX
+
+Profits arising in Hong Kong were subject to profits tax at the rate of 16.5% during the year (2021: 16.5%).
+No provision for Hong Kong profits tax has been made as the Company and a subsidiary incorporated in Hong
+Kong had no assessable income during the year (2021: Nil).
+
+The Company's subsidiary incorporated in the Cayman Islands is not subject to corporate income tax ("CIT")
+as it does not have a place of business (other than a registered office) or carry on any business in the Cayman
+Islands.
+
+All of the Company's subsidiaries registered in the PRC and only having operations in Mainland China are
+subject to PRC enterprise income tax on the taxable income as reported in their PRC statutory accounts adjusted
+in accordance with relevant PRC income tax laws based on a statutory rate of 25%.
+
+Pursuant to the relevant laws and regulations in the PRC and with approval from the tax authorities in charge,
+one of the Group's subsidiaries, HHGrace, is qualified as a "High and New Technology Enterprise" and was
+therefore entitled to a preferential tax rate of 15% from 2020 to 2022.
+
+Pursuant to the relevant laws and regulations in the PRC and with approval from the tax authorities in
+charge, one of the Group's subsidiaries, Hua Hong Wuxi, is entitled to an exemption from CIT for five years,
+commencing from the first year that Hua Hong Wuxi generates taxable profit, and a deduction of 50% on the
+CIT rate for the following five years. Hua Hong Wuxi was in accumulated tax loss positions as at 31 December
+2022 and the tax holiday has not begun.
+
+The Company's subsidiary incorporated and operating in Japan was subject to corporation tax at a rate of
+33.58% (2021: 33.58%).
+
+The Company's subsidiary incorporated and operating in the United States was subject to federal corporation
+income tax at a rate of 21% during the year (2021: 21%), as well as state tax at 8.84% (2021: 8.84%).
+
+The major components of income tax expense of the Group are as follows:
+
+                                                                              2022       2021
+                                                                         US$'000    US$'000
+
+Current income tax ­ PRC                                                 74,516     49,910
+Current income tax ­ elsewhere                                                43         41
+Withholding tax on the distribution of dividend from a PRC subsidiary                      ­
+Deferred tax                                                              2,500
+                                                                         12,440     15,398
+
+                                                                         89,499     65,349
+
+               29
+A reconciliation of the tax expense applicable to profit before tax at the statutory rate of 25% for the jurisdiction
+in which the Company and the majority of its subsidiaries are domiciled to the tax expense at the effective tax
+rate is as follows:
+
+                                                                            2022       2021
+                                                                       US$'000    US$'000
+
+Profit before tax                                                      496,070    296,320
+
+Tax at the statutory tax rate of 25%                                   124,018     74,080
+Effect of different tax rates for specific provinces and countries or
+                                                                       (57,612)   (39,700)
+   enacted by local authority                                               309         71
+Adjustments in respect of current tax of previous periods
+Profits attributable to associates                                       (1,826)   (1,015)
+Expenses not deductible for tax                                             434        153
+Tax losses not recognised due to tax holiday
+Tax losses not recognised due to improbable future taxable profits      50,695     47,629
+Temporary differences not recognised                                      1,481     2,144
+Additional deduction of research and development costs                      129        927
+Additional deduction of equipment
+Effect of withholding tax at 10% (2021: 10%) on the distributable      (42,532)   (33,753)
+                                                                         (3,630)          ­
+   profits of the Group's PRC subsidiary
+                                                                        18,033     14,813
+Tax charge at the Group's effective rate
+                                                                        89,499     65,349
+
+8. DIVIDEND
+
+        The directors did not recommend the payment of any dividend for the year ended 31 December 2022 (2021:
+        Nil).
+
+                   30
+9. EARNINGS PER SHARE ATTRIBUTABLE TO ORDINARY EQUITY HOLDERS OF THE PARENT
+
+The calculation of the basic earnings per share amount is based on the profit for the year attributable to ordinary
+equity holders of the parent, and the weighted average number of ordinary shares of 1,303,399,389 (2021:
+1,300,169,098) in issue during the year.
+
+The calculation of the diluted earnings per share amount is based on the profit for the year attributable to
+ordinary equity holders of the parent. The weighted average number of ordinary shares used in the calculation
+is the number of ordinary shares in issue during the year, as used in the basic earnings per share calculation,
+and the weighted average number of ordinary shares assumed to have been issued at the exercise price on the
+deemed exercise or conversion of all dilutive potential ordinary shares into ordinary shares.
+
+The calculations of basic and diluted earnings per share are based on:
+
+                                                                             2022              2021
+                                                                        US$'000           US$'000
+
+Earnings                                                                449,912           261,476
+Profit attributable to ordinary equity holders of the parent
+
+                                                                        Number of shares
+
+                                                                        2022              2021
+
+Shares                                                                  1,303,399,389   1,300,169,098
+Weighted average number of ordinary shares in issue during                  10,545,888      19,996,637
+
+   the year used in the basic earnings per share calculation            1,313,945,277   1,320,165,735
+Effect of dilution ­ weighted average number of ordinary shares:
+
+   Share options
+
+10. INVESTMENTS IN ASSOCIATES                                                2022              2021
+        Carrying amount                                                 US$'000           US$'000
+
+                                                                         130,721           122,040
+
+                               31
+Particulars of the material associate are as follows:
+
+                                                                                      Percentage of
+
+                                       Place of                                       equity interest
+                                       registration and
+                                       business                                       attributable to     Principal
+                                                                                                          activities
+Name of company                                               Paid-in capital              the Group
+
+                                                                             RMB'000
+
+Shanghai Huahong Technology                                                  548,000                   Technology
+  Development Co., Ltd.                                                      480,000                  development
+  ("Huahong Technology Development") PRC/Mainland China                                    50% and investment
+
+Shanghai Huahong Investment                                                                20%            Investment
+  Development Co., Ltd
+  ("Huahong Investment Development") PRC/Mainland China
+
+The Group's voting power held and profit sharing arrangement in relation to Huahong Technology Development
+are 40% and 50%, respectively.
+
+The Group's shareholding in the associate is held through a wholly-owned subsidiary of the Company.
+
+The following table illustrates the summarised financial information of Huahong Technology Development and
+Huahong Investment Development:
+
+                                                              Huahong Technology           Huahong Investment
+                                                                  Development                  Development
+
+                                                              31 December    31 December   31 December    31 December
+                                                                       2022          2021           2022          2021
+
+                                                                  US$'000        US$'000       US$'000        US$'000
+
+Current assets                                                 31,186          27,884      24,365         16,969
+Non-current assets                                            307,918        324,496       76,980         21,354
+Current liabilities                                           (91,340)       (100,312)
+Non-current liabilities                                       (23,606)        (23,233)       (186)           (37)
+                                                                                           (7,949)          (175)
+
+Net assets                                                    224,158        228,835       93,210         38,111
+
+Net assets, excluding goodwill                                224,158        228,835       93,210         38,111
+
+Reconciliation to the Group's interest in the associate:         50%            50%          20%            20%
+Proportion of the Group's interest in the associate           112,079        114,418       18,642          7,622
+Carrying amount of the investment
+
+                                                              Huahong Technology           Huahong Investment
+                                                                   Development                  Development
+
+                                                                   2022           2021          2022           2021
+                                                              US$'000        US$'000       US$'000        US$'000
+
+Revenue                                                       26,283         29,423        850                 104
+Profit and total comprehensive income                         14,832         13,342
+                                                                                           23,775              470
+
+                                                          32
+11. TRADE AND NOTES RECEIVABLES                   2022                                            2021
+                                             US$'000                                         US$'000
+        Trade receivables
+        Notes receivables                     229,409                                         154,339
+        Impairment of trade receivables        64,038                                          28,424
+
+                                              293,447                                         182,763
+                                                (1,591)                                         (1,721)
+
+                                              291,856                                         181,042
+
+The Group's trading terms with its customers are mainly on credit and the credit period is generally 30 to 60
+days. There is no significant concentration of credit risk. The Group does not hold any collateral or other credit
+enhancements over its trade receivable balances. Trade receivables are non-interest-bearing.
+
+An ageing analysis of the trade receivables, based on the invoice date and net of loss allowances, is as follows:
+
+                                                  2022                                            2021
+                                             US$'000                                         US$'000
+
+Within 3 months                              212,563                                         149,900
+3 to 6 months                                 15,255                                            2,718
+
+                                             227,818                                         152,618
+
+The movements in loss allowance for impairment of trade receivables are as follows:
+
+                                                  2022                                            2021
+                                             US$'000                                         US$'000
+
+At 1 January                                                                         1,721       1,619
+Impairment losses, net                                                                 (16)         273
+Write-off                                                                                 ­       (199)
+Exchange realignment                                                                                 28
+                                                                                      (114)
+                                                                                                 1,721
+As at 31 December                                                                    1,591
+
+The Group applies a simplified approach in calculating ECLs prescribed by HKFRS 9, which permits the use
+of the lifetime expected loss for all trade and notes receivables. To measure the expected credit losses, trade
+and notes receivables have been grouped based on shared credit risk characteristics and the days past due. The
+expected credit losses have also incorporated forward-looking information. The expected credit loss rates for
+trade and notes receivables that were not yet past due or aged within 3 months are minimal.
+
+An impairment analysis is performed at each reporting date using a provision matrix to measure expected credit
+losses. The provision rates are based on days past due for groupings of various customer segments with similar
+loss patterns (i.e., by geographical region, product type, customer type and rating, and coverage by letters of
+credit or other forms of credit insurance). The calculation reflects the probability-weighted outcome, the time
+value of money and reasonable and supportable information that is available at the reporting date about past
+events, current conditions and forecasts of future economic conditions. Generally, trade receivables are written
+off if past due for more than one year and are not subject to enforcement activity.
+
+                                         33
+Set out below is the information about the credit risk exposure on the Group's trade receivables using a
+provision matrix:
+
+The credit quality of the trade receivables is as follows:
+
+As at 31 December 2022
+
+                                                            Current           Past due      Total
+
+                                                                      Less than
+                                                                      3 months Over 1 year
+
+Expected credit loss rate                                    0.07%    1.63%    100.00%       0.69%
+Gross carrying amount (US$'000)                             224,961    3,065       1,383    229,409
+Expected credit losses (US$'000)                                           50      1,383
+                                                                 158                           1,591
+
+As at 31 December 2021
+
+                                                            Current           Past due      Total
+
+                                                                      Less than
+                                                                      3 months Over 1 year
+
+Expected credit loss rate                                     0.18%   1.40%    100.00%        1.12%
+Gross carrying amount (US$'000)                             152,329      570       1,440    154,339
+Expected credit losses (US$'000)                                            8      1,440
+                                                                 273                           1,721
+
+                                  34
+12. CASH AND CASH EQUIVALENTS AND PLEDGED DEPOSITS        2022          2021
+                                                    US$'000       US$'000
+        Cash and bank balances
+        Time deposits                                 736,530       379,995
+                                                    1,273,277     1,232,393
+        Less: pledged deposits:
+           Pledged deposits                         2,009,807     1,612,388
+           Others
+                                                        (1,015)       (2,221)
+        Cash and cash equivalents                           (27)          (27)
+
+                                                    2,008,765     1,610,140
+
+At the end of the reporting period, the cash and bank balances and time deposits of the Group denominated
+in Renminbi ("RMB") amounted to US$1,305,378,000 (2021: US$975,405,000). The RMB is not freely
+convertible into other currencies, however, under Mainland China's Foreign Exchange Control Regulations and
+Administration of Settlement, and Sale and Payment of Foreign Exchange Regulations, the Group is permitted
+to exchange RMB for other currencies through banks authorised to conduct foreign exchange business.
+
+Cash at banks earns interest at floating rates based on daily bank deposit rates. Short term time deposits
+are made for varying periods of between seven days and three months depending on the immediate cash
+requirements of the Group and earn interest at the respective short term time deposit rates. The bank balances
+are deposited with creditworthy banks with no recent history of default.
+
+13. TRADE PAYABLES
+
+An ageing analysis of the trade payables of the Group as at the end of the reporting period, based on the invoice
+date, is as follows:
+
+                                                         2022          2021
+                                                    US$'000       US$'000
+
+Within 1 month                                      141,338       131,102
+1 to 3 months                                        60,772        41,450
+3 to 6 months                                        11,699          7,223
+6 to 12 months                                         9,388         2,767
+Over 12 months                                       13,802        11,843
+
+                                                    236,999       194,385
+
+The trade payables are unsecured, non-interest-bearing and are normally settled on terms of 30 to 60 days.
+
+                    35
+14. INTEREST-BEARING BANK BORROWINGS                               Effective   2022       US$'000
+                                                               interest rate   Maturity
+        Current                                                                            314,039
+        Bank loans ­ unsecured                                            (%)              112,717
+        Current portion of long-term bank loans ­ secured                                  426,756
+                                                               0.55-5.50       2023
+        Non-current                                            1.20-6.30       2023
+        Secured bank loans
+        Unsecured bank loans                                   1.20-6.63       2024-2030  1,451,580
+                                                                     2.00      2024-2030      30,000
+        Current
+        Bank loans ­ unsecured                                    Effective    2021       1,481,580
+        Current portion of long term bank loans ­ secured      interest rate              1,908,336
+                                                                                Maturity
+        Non-current                                                      (%)        2022   US$'000
+        Secured bank loans                                                          2022    180,989
+                                                                 0.78-1.14
+                                                                 1.20-4.10                    14,035
+                                                                                            195,024
+
+                                                               0-4.10 2023-2028           1,395,279
+                                                                                          1,590,303
+
+                                                           36
+Analysed into:                                          2022        2021
+   Bank loans repayable:                          US$'000     US$'000
+      Within one year
+      In the second year                            426,756     195,024
+      In the third to fifth years, inclusive        183,281     107,943
+      After five years                              827,919     677,961
+                                                    470,380     609,375
+
+                                                  1,908,336   1,590,303
+
+Except for bank loans of US$132,562,000 (2021: US$30,249,000) which are denominated in RMB, all
+borrowings are dominated in United States dollars.
+
+As at 31 December 2022 and 2021, certain of the Group's bank loans were secured by pledges of the Group's
+assets with carrying values as follows:
+
+                                                       2022        2021
+                                                  US$'000     US$'000
+
+Property, plant and equipment                     1,803,095   2,256,289
+Right-of-use assets                                   50,231      46,604
+Properties under development                          88,033             ­
+
+                                                  1,941,359   2,302,893
+
+                                              37
+15. SHARE OPTION SCHEME
+
+The Company operates a share option scheme (the "Scheme") for the purpose of providing incentives and
+rewards to eligible participants who contribute to the success of the Group's operations. The Scheme includes
+two batches, each of which was effective on 4 September 2015 (the "2015 Options") and on 24 December
+2018 (the "2018 Options"), respectively. Eligible participants of the Scheme include the Company's directors,
+including a non-executive director, an executive director and other employees of the Group. The share options,
+unless otherwise cancelled or amended, will remain in force for 7 years from the respective effective dates.
+
+The maximum number of unexercised share options currently permitted to be granted under the Scheme is
+an amount equivalent, upon their exercise, to 10% of the shares of the Company in issue at any time. The
+maximum number of shares issuable under share options to each eligible participant in the Scheme within any
+12-month period is limited to 1% of the shares of the Company in issue at any time. Any further grant of share
+options in excess of this limit is subject to shareholders' approval in a general meeting.
+
+Share options granted to a director, chief executive or substantial shareholder of the Company, or to any of their
+associates, are subject to approval in advance by the independent non-executive directors. In addition, any share
+options granted to a substantial shareholder or an independent non-executive director of the Company, or to any
+of their associates, in excess of 0.1% of the shares of the Company in issue at any time or with an aggregate
+value (based on the price of the Company's shares at the date of grant) in excess of HK$5 million, within any
+12-month period, are subject to shareholders' approval in advance in a general meeting.
+
+The exercise period of the share options granted is determinable by the directors, and commences after a vesting
+period of two to five years and ends on a date which is not later than the expiry date of the Scheme.
+
+The exercise price of share options is determinable by the directors, but may not be less than the higher of (i)
+the Stock Exchange closing price of the Company's shares on the date of offer of the share options; and (ii) the
+average Stock Exchange closing price of the Company's shares for the five trading days immediately preceding
+the date of offer.
+
+Share options do not confer rights on the holders to dividends or to vote at shareholders' meetings.
+
+2015 Options
+
+The following 2015 Options were outstanding during the year:
+
+                                              2022                    Number                   2021     Number
+                                     Weighted                        of options       Weighted        of options
+
+                                       average                            '000          average            '000
+                                exercise price                                    exercise price
+                               HK$ per share                                     HK$ per share
+
+At 1 January                                                  6.912  4,738       6.912                5,935
+Exercised during the year
+                                                              6.912  (4,738)     6.912                (1,197)
+
+At 31 December                                                ­      ­           6.912                4,738
+
+                           38
+The exercise prices and exercise periods of the outstanding 2015 Options as at the end of the reporting period
+are as follows:
+
+       2022                      2021  Exercise price*                            Exercise period
+  Number                     Number    HK$ per share
+of options                 of options
+
+       '000                      '000
+
+                ­          1,952       6.912                          4 September 2018 to 3 September 2022
+                                                                      4 September 2019 to 3 September 2022
+                ­          2,786       6.912
+
+                ­          4,738
+
+* The exercise price of the share options is subject to adjustment in the case of rights or bonus issues, or
+        other similar changes in the Company's share capital.
+
+The 4,738,000 (2021: 1,197,000) share options exercised under the 2015 Options during the year, resulting
+in the issue of 4,738,000 (2021: 1,197,000) ordinary shares of the Company for a total cash consideration of
+US$4,173,000 (2021: US$1,065,000). An amount of US$1,803,000 (2021: US$465,000) was transferred from
+the share option reserve to share capital upon the exercise of the share options.
+
+2018 Options
+
+The following 2018 Options were outstanding during the year:
+
+                                                          2022         Number                   2021    Number
+                                                 Weighted             of options       Weighted       of options
+
+                                                   average                 '000          average           '000
+                                            exercise price                         exercise price
+                                           HK$ per share                          HK$ per share
+
+At 1 January                                                  15.317  24,963      15.310              33,547
+Exercised during the year                                     15.244    (907)     15.088              (2,177)
+Forfeited during the year                                     15.403    (618)     15.357              (6,407)
+
+At 31 December                                                15.318  23,438      15.317              24,963
+
+                                       39
+The exercise prices and exercise periods of the 2018 Options outstanding as at the end of the reporting period
+are as follows:
+
+       2022        2021  Exercise price*  Exercise period
+  Number       Number     HK$ per share
+of options   of options
+
+       '000        '000
+
+6,523        6,954       15.056           24 December 2020 to 23 December 2025
+4,512        4,943       15.056           24 December 2021 to 23 December 2025
+9,429        9,859       15.056           24 December 2022 to 23 December 2025
+             1,025       15.056           24 December 2023 to 23 December 2025
+  925                    18.400
+    62           62      18.400                    29 March 2021 to 28 March 2026
+               125       18.400                    29 March 2022 to 28 March 2026
+  125          125       18.400                    29 March 2023 to 28 March 2026
+  125          125       17.952                    29 March 2024 to 28 March 2026
+  125          316       17.952           23 December 2021 to 22 December 2026
+  256          677       17.952           23 December 2022 to 22 December 2026
+  639          677       17.952           23 December 2023 to 22 December 2026
+  642                                     23 December 2024 to 22 December 2026
+                 75
+    75
+
+23,438       24,963
+
+* The exercise price of the share options is subject to adjustment in the case of rights or bonus issues, or
+        other similar changes in the Company's share capital.
+
+The Group recognised a share option expense of the 2018 Options of US$1,226,000 (2021: US$296,000) during
+the year.
+
+The 907,000 (2021: 2,177,000) share options exercised under the 2018 Options during the year, resulting
+in the issue of 907,000 (2021: 2,177,000) ordinary shares of the Company for a total cash consideration of
+US$1,768,000 (2021: US$4,235,000). An amount of US$566,000 (2021: US$1,354,000) was transferred from
+the share option reserve to share capital upon the exercise of the share options.
+
+At the end of the reporting period, the Company had 23,438,000 2018 Options outstanding. The exercise in full
+of the outstanding share options would, under the present capital structure of the Company, result in the issue of
+23,438,000 additional ordinary shares of the Company and additional share capital of US$60,844,000 (including
+US$14,796,000 transferred from the share option reserve to share capital).
+
+At the date of approval of these financial statements, the Company had 22,670,809 2018 Options outstanding,
+which represented approximately 1.73% % of the Company's shares in issue as at that date.
+
+                         40
+16. COMMITMENTS
+
+The Group had the following capital commitments at the end of the reporting period:
+
+                                                                       2022                          2021
+                                                                  US$'000                       US$'000
+
+Contracted, but not provided for:                                 284,304                        283,019
+   Property, plant and equipment
+
+17. RELATED PARTY TRANSACTIONS AND BALANCES
+
+(a) Name and relationship
+
+Name of related party                                             Relationship with the Group
+
+Huahong Group and its subsidiaries                                26.60% shareholder of the Company
+­ Hua Hong International Inc. ("Huahong International")           Subsidiary of Huahong Group
+­ Shanghai Huahong Zealcore Electronics
+                                                                  Subsidiary of Huahong Group
+   Co., Ltd. ("Huahong Zealcore")                                 Subsidiary of Huahong Group
+­ Shanghai Hongri International Electronics Co., Ltd. ("Hongri")
+­ Shanghai Integrated Circuit Research and Development            Subsidiary of Huahong Group
+
+   Center ("ICRD")                                                Subsidiary of Huahong Group
+­ Shanghai Hua Hong Jitong Smart System
+
+   Co., Ltd. ("Jitong")
+­ Shanghai Huali
+
+NEC Corporation ("NEC")*                                          Shareholder of the Company
+­ NEC Management Partner, Ltd. ("NEC Management")                    (before 19 February 2021)
+
+                                                                  Subsidiary of NEC
+
+Huahong Technology Development                                    Associate of the Group
+­ Shanghai Huahong Real Estate                                    Subsidiary of Huahong Technology
+
+   Co., Ltd. ("Huahong Real Estate")                                 Development
+­ Shanghai Huajin Property Management Co., Ltd. ("Huajin")        Subsidiary of Huahong Technology
+
+                                                                     Development
+
+* NEC disposed of all of its shareholdings in the Company on 19 February 2021. From then on, NEC
+        and its subsidiaries are no longer related parties to the Group.
+
+                                   41
+(b) Related party transactions
+
+The Group had the following material transactions with related parties during the year:
+
+                                                                        2022                             2021
+                                                                   US$'000                          US$'000
+
+Sales of goods to related parties (note (i))                       9,711                                6,404
+   Huahong Zealcore#                                               4,394                                8,742
+   ICRD#                                                           3,342                                3,376
+   Hongri#
+
+Purchases of goods from related parties (note (ii))                18,422                           18,247
+   Hongri#                                                             825                              688
+   Huahong Zealcore#                                                    69                              519
+   Shanghai Huali                                                       20                              249
+   Jitong                                                                 ­                             233
+   NEC Management
+
+Rental income from a related party (note (iii))                    14,254                           14,497
+   Shanghai Huali#
+
+Service fees charged by related parties (note (iv))                400                              338
+   Huajin
+   Huahong Real Estate                                             ­                                28
+
+Interest expense charged by a related party (notes (iv) and (vi))  714                              795
+   Huahong Real Estate
+
+Expense paid on behalf of a related party (note (v))               32,728                           30,760
+   Shanghai Huali
+
+#  The related party transactions also constitute continuing connected transactions as defined in
+
+   Chapter 14A of the Listing Rules.
+
+Note (i) The sales of goods to related parties were made according to the prices and terms agreed between
+        the related parties.
+
+Note (ii) The purchases of goods and intangible assets from related parties were made according to the
+        prices and terms offered by the related parties.
+
+Note (iii) The rental income received from a related party was based on the prices and terms agreed between
+        the related parties.
+
+Note (iv) The service fees and interest expense charged by related parties were based on the prices and terms
+        agreed between the related parties.
+
+Note (v) The expense paid on behalf of the related party is interest-free and repayable on demand.
+
+Note (vi) The Group entered into a 20-year lease in respect of certain dormitory properties from Huahong
+        Real Estate. The amount of rent payable by the Group under the lease is US$1,696,000 per
+        year. At 31 December 2022, the balances of those right-of-use assets and lease liabilities were
+        US$12,229,000 (31 December 2021: US$14,573,000) and US$14,772,000 (31 December 2021:
+        US$17,225,000), respectively.
+
+                                              42
+(c) Outstanding balances with related parties                     2022         2021
+                                                             US$'000      US$'000
+        Amounts due from related parties
+           Shanghai Huali                                      10,996         6,359
+           Huahong Zealcore                                      1,457           406
+           ICRD                                                     553          145
+
+        Amounts due to related parties                         13,006         6,910
+           Shanghai Huali
+           Hongri                                                3,115        3,673
+           Huahong Zealcore                                      2,613        2,995
+           ICRD
+           Huajin                                                   211          304
+           Jitong                                                    76          468
+           Huahong Real Estate                                       53
+                                                                     28             5
+(d) Compensation of key management personnel of the Group              ­          32
+                                                                                  24
+        Short term employee benefits                             6,096
+        Pension scheme contributions                                          7,501
+        Equity-settled share option expense
+        Total compensation paid to key management personnel       2022         2021
+                                                             US$'000      US$'000
+
+                                                                 5,622        6,569
+                                                                    103           81
+                                                                    419
+                                                                                 364
+                                                                 6,144
+                                                                              7,014
+
+43
+SIGNIFICANT EVENTS AFTER THE REPORTING PERIOD
+There is no material subsequent event affecting the Group after 31 December 2022.
+AUDIT COMMITTEE
+The Audit Committee, comprising all the independent non-executive directors of the Company, has
+reviewed the results of the Group for the year ended 31 December 2022 and has discussed with the
+management on the accounting principles and practices adopted by the Group, internal controls and
+financial reporting matters.
+SCOPE OF WORK OF ERNST & YOUNG
+The figures in respect of the Group's consolidated statement of financial position, consolidated
+statement of profit or loss and other comprehensive income and the related notes thereto for
+the year ended 31 December 2022 as set out in this announcement have been agreed by the
+Company's auditor, Ernst & Young, Certified Public Accountants, to the amounts set out in the
+Group's audited consolidated financial statements for the year. The work performed by Ernst &
+Young in this respect did not constitute an assurance engagement in accordance with Hong Kong
+Standards on Auditing, Hong Kong Standards on Review Engagements or Hong Kong Standards on
+Assurance Engagements issued by the HKICPA and consequently no assurance has been expressed
+by Ernst & Young on this announcement.
+PUBLICATION OF ANNUAL RESULTS ON THE WEBSITES OF THE STOCK
+EXCHANGE AND THE COMPANY
+This announcement is published on the website of the Stock Exchange (www.hkexnews.hk) and
+on the website of the Company (www.huahonggrace.com). The annual report for year ended 31
+December 2022 containing information required by Appendix 16 of the Listing Rules will be
+dispatched to shareholders and published on the websites of the Stock Exchange and the Company
+in due course.
+
+                                                              44
+APPRECIATION
+The Board would like to express its sincere appreciation to the shareholders, customers, suppliers
+and staff for their continued support to the Group.
+
+                                                                                         By Order of the Board
+                                                                                Hua Hong Semiconductor Limited
+
+                                                                                               Suxin Zhang
+                                                                               Chairman and Executive Director
+Shanghai, PRC, 30 March 2023
+As at the date of this announcement, the directors of the Company are:
+Executive Directors
+Suxin Zhang (Chairman)
+Junjun Tang (President)
+Non-executive Directors
+Guodong Sun
+Jing Wang
+Jun Ye
+Independent Non-executive Directors
+Stephen Tso Tung Chang
+Kwai Huen Wong, JP
+Long Fei Ye
+
+                                                               45
+

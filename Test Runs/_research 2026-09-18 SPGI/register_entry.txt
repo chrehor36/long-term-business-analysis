@@ -1,0 +1,135 @@
+- **SPGI (S&P Global Inc.), 2026-09-18 - ALL FOUR BUSINESS GATES IN; FAIL AT Q5 ON PRICE (BELOW THE ~10% FLOOR [E4-28] ON EVERY CONSTRUCTION AND BELOW THE
+  SOVEREIGN TOO - NOT RANKED, WATCH-LIST ONLY; the ASML, PNR and CL shape, not a finding against the business). Q1 IN; **Q2 IN, class NARROW, carried by
+  RATINGS ALONE** (48.5% of continuing segment operating profit; Indices and Energy held PROVISIONAL and excluded from the verdict, Market Intelligence fails
+  [E3-03] criterion (2) on its own filing); **Q3 IN as a qualitative OVERLAY**, no integrity disqualifier found, four findings carried and two of them binding;
+  **Q4 IN on survival**, owner earnings hand-built on three perimeters, [E4-20] GREAT at the segment level, [E5-11] 2 of 3. WAVE 5, the fifth of the eight
+  "capex unresolved [E5-20]" names. Register entry 98, counted from this file.**
+  `Test Runs/2026-09-18 Run - SPGI S&P Global.md` (Step 0 and the perimeter `a5465b8`, Q1 `9ba0706`, Q2 `b007e53`, Q3 `b0fcf64`, Q4 `0cfb318`, Q5-Q6 `8e4dba5`,
+  audit and register `7b58f14`), `check_framework.py` PASS.
+  **THE PAIR, STRUCK FRESH TODAY.** Price **US$404.11** (2026-09-17 close, `tools/sources.py:price()`, aggregator flagged; 2026-09-18 had not closed) x
+  **294,800,000 shares** x 1.0 = cap **US$119,131.6M**; **sovereign USD 30-year 5.29%** (US Treasury daily par yield curve, the ISSUING AUTHORITY, **09/17/2026**;
+  the cache was deleted and the curve re-fetched, so the figure was re-struck and not inherited from the brief, which happened to carry the same number).
+  **Count:** the 10-Q cover for the quarter ended 2026-06-30, accession **`0000064040-26-000045`**, *"As of July 24, 2026 (latest practicable date), 294.8 million
+  shares of the issuer's classes of common stock (par value $1.00 per share) were outstanding excluding 7.2 million outstanding common shares held by the Markit
+  Group Holdings Limited Employee Benefit Trust."* Single class, last split 2005, factor after the measurement date 1.0. **TWO SHARE-COUNT TRAPS, both checked:**
+  the **ERIC trap is PRESENT** - issued is **415 million** against ~295 million outstanding, a 120M gap that would have overstated the cap by about 41%; and a
+  **second trap running the other way that no brief had named** - the cover EXCLUDES 7.2 million shares it itself calls outstanding (415 issued less **109 million
+  of treasury** less 7.2 = the 298.8 million on the FY2025 cover, so they are NOT treasury), worth **+$2,910M of cap, +1.0%**, quantified separately per [E2-26]
+  rather than blended. **EDGAR re-queried 2026-09-18: nothing filed after 2026-08-04**, so unlike CL there was no Form 4 to confirm the aggregator's quote against
+  a primary filing; recorded as a limit. **No live deal:** the S-4 of 2026-07-09 (`0001104659-26-082258`) was read on the document and is a **registered notes
+  exchange offer** - *"We will not receive any proceeds from the exchange offer"*, zero hits for "merger agreement" - the AVGO shape, effective 2026-07-17.
+  **THE PERIMETER MOVED TWICE AND THE SUBTRACTION IS FILED.** The **IHS Markit merger closed 2022-02-28 for $43.5bn, entirely in stock**; the **Mobility spin-off
+  completed 2026-07-01**, and the 10-Q filed 2026-07-28 does NOT present Mobility as discontinued operations (*"Beginning with the third quarter of 2026, the
+  historical financial results of Mobility through June 30, 2026 will be reflected ... as discontinued operations"*), so **every filed statement of S&P Global
+  describes a company that no longer exists.** **A DEFECT IN THE BRIEF: the document that settles it is the 8-K/A of 2026-07-06, accession
+  `0001104659-26-080571`, which the brief listed only as unread.** Its EX-99.2 is an **Article 11 unaudited pro forma income statement for FY2023, FY2024, FY2025
+  and Q1 2026 plus a pro forma balance sheet**, ex-Mobility - and it is a BETTER source than the MBGL Form 10, because the Form 10's *combined* statements charge
+  Mobility with allocated corporate overhead that **stays with S&P Global**, while the pro forma's discontinued-operations column is scoped to what actually
+  leaves and says so in note (a). Filed continuing revenue **$11,013M / $12,599M / $13,589M**; Mobility is 11.4% of FY2025 revenue and 5.8% of operating profit.
+  S&P kept *"the net cash distribution ... of **$1.974 billion**"* and shed the $2.0bn of Mobility notes. **Three perimeters carried at Q4 on [E4-25] and [E4-38],
+  never blended inside one mean.**
+  **The skip reason, tested - a TOOLING ARTEFACT of the AMZN and CL kind, and the label pointed at the WRONG QUANTITY.** `PaymentsToAcquirePropertyPlantAndEquipment`
+  carries FY2007-FY2009 and stops; `PaymentsToAcquireProductiveAssets` carries FY2008-FY2025 - **the two OVERLAP**, so there is no early-year hole of the NVDA
+  kind and the current `owner_earnings()` prices it (`{'5y_da': 3115.0, '5y_capex': 3935.0, '3y_da': 3633.7, '3y_capex': 4644.7}`). The capex line never left the
+  face of the statement. **`da_annual()`'s NVDA defect does not bite**, because S&P reports *Depreciation* and *Amortization of intangibles* as two separate
+  lines with no combined total on the face. **[E5-20] asked separately on the filing: NO** - gross property and equipment is **$1,139M on $15,336M of revenue**,
+  all long-lived assets $873M, capex 0.5-1.3% of revenue, and capex/depreciation 2020-2025 is **$662M against $580M = 1.14x**, the [E2-41] and [E3-44] default
+  case. **[E4-47] not engaged** (61% US revenue, no country above 7%). **BUT the whole of the D&A band is amortization of intangibles bought in 2022 - $766M of
+  the $862M of continuing D&A - so the real (c) question is not plant but whether BUYING COMPANIES is maintenance**, which the [E5-20] label does not describe.
+  **Of the five names now run from this row: ABNB had a real presentation gap, AMZN had no gap, NVDA had a tag gap plus a history gap, CL had a tag gap only, and
+  SPGI has a tag gap plus a (c) question the label misdescribes; the exception class has applied at AMZN alone.**
+  **Owner earnings (hand-built from the filed cash-flow statements, `oe.py`; never a net-income proxy):** continuing ex-Mobility 3-yr 2023-25 **$3,777M** at the
+  capex end ($2,573M / $4,452M / $4,306M), **$3,058M** at the D&A end, **$3,996M** with the working-capital movement stripped - **which runs the OPPOSITE way to
+  Colgate's**, so the as-filed figure is the conservative one and is the one used. [E2-42] five-year default 2021-25 as filed **$3,658M** (labelled: a different
+  company). Pre-merger 2017-21 **$2,449M**. TTM to 2026-06-30 continuing **$4,437M**. **ONE ADDITION TO THE CONVENTION, disclosed as correctness rather than
+  conservatism: distributions to noncontrolling interest holders are deducted** ($280M/$287M/$321M) - **CME Group holds 27% of S&P Dow Jones Indices** and took
+  **$322M of FY2025's $1,271M** of Indices operating profit, which never reaches a shareholder; [E3-04] requires the look-through addition for equity-method
+  stakes and the mirror requires this subtraction. Figures shown both ways: it costs **$296M a year**. **(c) set at total capital expenditure** (which the MD&A
+  defines to include *"additions to technology projects"*), with the alternative priced rather than dismissed - capex plus the 3-yr acquisition run-rate gives
+  **$2,902M** and the mechanical D&A end gives **$3,058M**, two independent routes to the low end landing within $156M of each other. **SBC checklist run line by
+  line on the filed non-cash block: no second equity-settled line** (SBC 4.2-4.6% of OCF). **`working_capital_flag()` returns None** and its annual-facts limit
+  was checked against the 10-Qs rather than trusted.
+  **THE SHARPEST NUMBER IN THE FILE: owner earnings per diluted share on comparable ex-Mobility perimeters is $13.29 (FY2021) and $14.11 (FY2025)** - four years
+  and $43.5bn of stock after the merger, **+6.2% in total, about 1.5% a year**; dollars up 34%, share count up 26% (241.8M diluted to 305.1M). The fairer
+  mid-cycle-to-boom rate FY2019-FY2025 continuing is **+6.1%/yr** and is granted at face value at Q5.
+  **Q2 - THE COMPETITOR ROW IS COMPLETE IN UNITS, which no earlier run in this register has achieved for an industry with private participants.** Every NRSRO,
+  including **Fitch (inside Hearst) and Kroll and A.M. Best**, files a **Form NRSRO annual certification on EDGAR carrying its own count of credit ratings
+  outstanding**; a full-text search over form type **NRSRO-CE enumerates exactly TEN registrants in 2026** and nine report a count. **S&P Global Ratings 1,077,798
+  (49.4%), Moody's Investors Service 684,055 (31.3%), Fitch 266,519 (12.2%, as of 2024-12-31 because Fitch left Item 7A blank in its 2026 certification), DBRS
+  73,491, Kroll 52,055, Egan-Jones 14,348, A.M. Best 8,385, JCR 5,361, Demotech 451; the top three are 92.9%.** Two limits stated: **S&P's count is 85%
+  government and municipal** (916,817 of 1,077,798), a low-fee class, so the units overstate the lead; and Fitch's figure is a year stale. **Margins, same metric
+  and window: S&P Ratings 55.9 / 61.9 / 63.8% against Moody's MIS 51.1 / 57.7 / 60.9%** (MIS built as Adjusted Operating Income less that segment's own D&A and
+  restructuring, so the basis matches) - **the gap is +4.8, +4.2, +2.9 points: positive but NARROWING.** **Fitch's income statement is UNKNOWABLE** - Form NRSRO
+  Exhibit 11 *is* audited financials but Rule 17g-1(i) exempts it from publication - and what that costs the claim is stated. **The 2015 stress test is the
+  sharpest [E2-53] evidence in the register:** Ratings' segment operating margin **fell to 6% in FY2014 from 34%** on the DOJ and state settlements ($687.5M to
+  the United States, $687.5M to the states, $125M to CalPERS, $58M to the SEC under a censure), and eleven years later the same segment earns **63.8%** with more
+  ratings outstanding than anyone - *"Good or bad, it will prosper."* **[E2-44](a) FAILS and is recorded:** Ratings revenue fell **25.6% in 2022** ($4,097M to
+  $3,050M) and margin 9.4 points when issuance stopped; [E3-55] scopes it. **[E3-33] refused outright under [E5-28]** (a 49.4% unit share against a rival at 60.9%
+  margins is a duopoly, not a near-monopoly). **Indices tested against MSCI's Index segment and comes out the LARGER and LESS profitable business** (71.0% against
+  76.4% EBITDA margin), with MSCI's own 10-K naming *"S&P Dow Jones Indices LLC ...; FTSE Russell ...; Nasdaq Inc; Bloomberg Finance L.P. ... and Solactive AG"*
+  plus **self-indexing** - held PROVISIONAL and excluded. **Market Intelligence earns 20.2% against FactSet's 32.2% and Morningstar's 21.5%** - peer margins.
+  **Energy PROVISIONAL** (Argus Media is private and files nothing). **Criterion (3) holds today but is explicitly contingent:** the 10-K names *"provisions
+  seeking to reduce regulatory and investor reliance on credit ratings"* and *"provisions regarding remuneration and rotation of credit rating agencies"* as under
+  consideration - **[E2-59]**, and the reason the class is NARROW.
+  **Q3 (recorded, governing):** **[E4-29] FIRES WITH THE WORD NOWHERE IN THE FILE, and the CGNX standing instruction is what found it.** "EBITDA" appears **ZERO**
+  times in the FY2025 10-K and **ZERO** times in the 2026-07-28 earnings release; one level down the bonus yardstick is **"non-GAAP ICP Adjusted EBITA Margin"**
+  and the headline is adjusted diluted EPS, with guidance quantifying the wedge - *"Deal-related Amortization | ~$785 million"* against GAAP EPS of $16.35-$16.60
+  and adjusted EPS of $17.50-$17.75. [E4-29]'s reverse-float mechanism makes purchased intangibles the paradigm case: the money was already spent, in shares, in
+  2022. **[E2-01] scoped by [E2-43]: net tangible OPERATING assets are NEGATIVE, about -$2.2bn** - the operations are funded by **$4,088M of customer
+  prepayments** - so the question answers itself as *infinite on the operations, 14.4% on the price paid for acquisitions*; **pre-merger the same operations
+  earned about 149% on book equity of $2,032M.** **[E2-56] on the face of Note 12: Ratings earns $3,013M on $1,137M of segment assets while Market Intelligence
+  earns $991M on $31,234M.** **[E5-44] on the merger**, traced: $3,509M of 2022 mandated divestiture proceeds, Engineering Solutions sold 2023, Mobility spun in
+  2026 with $1.974bn kept and MBGL stock now worth about $5.9bn distributed, and about **$714M of additional retained pre-tax segment profit**; no destruction
+  figure is claimed and the counterfactual is stated as unknowable [E4-13]. **[E5-08](2) FAILS on the price record - CAPITAL-ALLOCATION FLAG:** Q4 2025
+  repurchases averaged **$514.16** (October $513.68, December $521.73) against a spin-adjusted **$424.04** today, 17.5% below, with *"more than $7 billion"*
+  planned for 2026; [E4-31]'s third condition passes to an unusually high standard. **[E2-49] fires with its mitigation** (bonus margin weight cut from 50% to 30%
+  as guided margin expansion fell from ~100bps to 35-60bps, but announced ahead with reasons). **[E5-33] fires on recurrence** ($157M and $125M, ~1,300 and ~1,230
+  positions, under *"we continuously evaluate our cost structure"*). **[E4-39] found nothing** - no acquisition post-mortem exists anywhere on this docket.
+  **[E3-48] scored against outturn: every earnings line beaten** (FY2024 guided +5.5-7.5% revenue and $10.70-10.95 GAAP EPS, delivered +13.7% and $12.35; FY2025
+  guided +5.0-7.0% and $14.20-14.45, delivered +7.9% and $14.66) **while the one CASH line MISSED** - FY2025 guided ~$5.9bn of OCF less capex less NCI
+  distributions and delivered **$5,135M, a 13% miss** (adjusted free cash flow ~$6.0bn guided, $5,481M delivered), after a 29% beat the year before. **Pay
+  [E4-27]:** STIC funded 108.68% of target, the 2023-2025 PSU vested at **182.23% of target**, PSUs (70% of LTI) vest on **three-year cumulative non-GAAP ICP
+  Adjusted EPS** - a metric mechanically moved by the buyback the same executives size - and **nothing in the plan is a return on capital**, the number [E2-01]
+  and [E3-46] make the test. CEO Martina Cheung 2025 total **$12,831,062** against a median of **$40,158**, **320x**. **Honesty: no matter names a current officer
+  or director**; the 2015 SEC censure is a CORPORATE finding with no individual accountability (the same question the UMC run put to the operator, still
+  unanswered - it did not govern here), and the only individual-conduct matter, the Trani indictments, ended in **acquittal, final, no appeal, 2017-03-30**.
+  **Q4 (recorded, governing): IN.** **[E4-20] GREAT** at the segment level with the corporate qualification stated. **[E5-11] scores 2 of 3: strength 2 FAILS** -
+  $1,745M of cash against $13,088M of debt with **$825M of commercial paper outstanding**, and the filing points at *"our $2.0 billion five-year credit
+  agreement"*, which is **[E5-39]**'s kindness of strangers. Strength 3 passes **with a named exception the filing declines to schedule**: *"CME Group ... has the
+  right at any time to sell, and we are obligated to buy, at least 20% of their share in S&P Dow Jones Indices LLC ... **We have excluded this amount from our
+  contractual obligations table**"* - **$4,914M**. **[E2-54] coverage 14.0x** after capex; maturities $3M in 2026 and $1.7bn in 2027 against $5.1bn of free cash
+  flow. **Named death: not insolvency but the withdrawal of the requirement to hold the letter** - three scenarios quantified from filed figures (-15.2% and
+  -22.8% of continuing segment profit, and a $20-26bn non-cash write-down at Market Intelligence), and **[E4-40] turned on my own best evidence: the 2015 survival
+  is EXPERIENCE, and the exposure is different in kind** - 2015 was a reputational failure inside a regime that still required the letter.
+  **Q5 (reportable, the sequence having been satisfied): FAIL.** **Honest pre-tax expectancy is 8.54% to 9.82% across seven constructions - below the ~10% floor
+  on EVERY one, including the best twelve months ever filed**; on the central construction **9.27%, short by 0.73 points**. **The bare yield is 2.44% to 3.72%
+  against a 5.29% sovereign - 1.6 to 2.9 points BELOW the bond on every window**; multiples 26.8x to 41.1x. The price already assumes **6.83%/yr of perpetual
+  growth** to reach the floor and 2.12%/yr merely to match the bond, against a realised **+6.1%/yr** that runs mid-cycle to boom and **+1.5%/yr** across the
+  merger. **[E4-35] is not the binding constraint and is not misapplied; [E4-44] and [E2-63] are, and the ceiling is named** - the operations already run on
+  negative net tangible capital, so returns on operating capital cannot usefully rise. **Value, in round numbers [E4-01]: roughly $185 to $330 a share** on the
+  central construction, widening to $150-$385 only if the D&A end and the trailing twelve months are taken as the two ends of one range with the full 6.1% growth
+  granted at the top. **The price is ABOVE THE WHOLE RANGE**; Bar 2 returns the third outcome, not the middle one, and **Bar 1's end margin is deliberately NOT
+  applied** because applying a margin to a price already above the undiscounted range is theatre. Independent cross-check: the company's own FY2026 continuing
+  GAAP EPS guidance of **$16.35-$16.60** puts the quote at **24.5x** this year's guided GAAP earnings. **Windage spent ONCE and counted** ((c) at capex rather
+  than depreciation, ~$41M/yr); **[E4-41]'s normalisation for luck is satisfied by the WINDOW** - the three-year mean already contains the 2023 issuance bust
+  ($2,539bn billed) alongside the 2024-25 boom ($3,911bn, $4,327bn) - so no second cycle deduction is taken and its size ($310M after tax) is recorded for anyone
+  who wants it.
+  **Q6 and the bands - armed, because the business cleared all four gates (the QLYS ruling):** **$328.51** (the floor met with the full 6.1% growth granted) and
+  **$256.24** (the floor met on g = 5.0%), each a prompt for a **full v4.1 re-run, not a purchase**, and both void if the first Q2 falsifier fires. **Ten
+  falsifiers pre-committed**: five on the business - of which the first, **any enacted US, EU or UK rule regulating rating remuneration, mandating rotation, or
+  removing a regulatory reference to ratings, VOIDS Q2 outright** because it is the condition on which criterion (3) was passed; ratings-outstanding share below
+  45%; the Ratings margin below Moody's MIS's for two consecutive years; transaction revenue per dollar of billed issuance below 5.0 bp for two years (5.61, 5.95,
+  **5.71** bp, and now published monthly); and the Indices margin gap to MSCI widening past 8 points - three on management and two on survival, including CME
+  exercising the put. **Next catalyst: the Q3 2026 report in late October, the FIRST filing to present Mobility as discontinued operations and reallocate the
+  stranded costs, and the first clean read of the company being priced.** **A `PORTFOLIO.md` row is added, unranked; position size pre-committed as SIZED DOWN if
+  it ever clears, because the [E5-08](2) flag is live.**
+  **Defects found in the brief I was given (five), and four things this run got wrong:** the brief **named the document that settles the perimeter as merely
+  "unread"** and sent me to the May 8.01 filings and the MBGL Form 10 instead; its share-count instruction stopped one step short of the EBT trap; its framing of
+  the skip reason pointed at plant when the (c) question is acquisition; it framed the tag change as a possible hole when **the two tags overlap**; and its
+  expectation that Forms 4 would be available to confirm the quote did not hold. **My own errors:** a Step 0 claim that the EBT shares were treasury-equivalent,
+  corrected in a dated note at the head of Q3 rather than by editing (they are outstanding shares the registrant excludes from its own denominator - 415 issued
+  less 109 treasury less 7.2 = the 298.8 on the cover); Fitch's blank Item 7A, chased with two extractors and a form-field check before falling back a year; HR
+  Ratings' Item 7A not extracted and recorded as incomplete; and the SEC's Annual Report on NRSROs returning **HTTP 403** on three paths from this harness, not
+  needed because the per-filer certifications are the primary source. **New for the project: Form NRSRO is a COMPLETE competitor row for an industry with private
+  participants, and the pattern generalises to any SEC-registered-intermediary industry** (broker-dealers, transfer agents, municipal advisors, security-based
+  swap dealers) where registration carries a public disclosure exhibit.

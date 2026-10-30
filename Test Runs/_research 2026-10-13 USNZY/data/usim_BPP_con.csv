@@ -1,0 +1,1392 @@
+SRC,DT_REFER,VERSAO,DT_INI_EXERC,DT_FIM_EXERC,CD_CONTA,DS_CONTA,ESCALA_MOEDA,VL_CONTA
+dfp,2016-12-31,1,,2016-12-31,2,Passivo Total,MIL,26254745.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01,Passivo Circulante,MIL,1752244.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.01,Obrigações Sociais e Trabalhistas,MIL,197076.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.01.01,Obrigações Sociais,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.01.02,Obrigações Trabalhistas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.02,Fornecedores,MIL,846377.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.02.01,Fornecedores Nacionais,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.03,Obrigações Fiscais,MIL,65985.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.03.01,Obrigações Fiscais Federais,MIL,65985.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,7538.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.03.01.02,Tributos a recolher,MIL,58447.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.03.01.03,Salários e Encargos Sociais,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.04,Empréstimos e Financiamentos,MIL,67708.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.04.01,Empréstimos e Financiamentos,MIL,62157.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.04.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.04.02,Debêntures,MIL,5551.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.04.03,Financiamento por Arrendamento Financeiro,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05,Outras Obrigações,MIL,575098.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.02,Outros,MIL,575098.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,22001.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.02.04,Tributos Parcelados,MIL,8529.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.02.05,Instrumentos Financeiros,MIL,48577.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.02.06,Adiantamentos de Clientes,MIL,35806.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.02.07,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.02.08,Contas a Pagar,MIL,103215.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.05.02.09,Títulos a pagar - Forfaiting,MIL,356970.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.06,Provisões,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.06.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.06.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.06.02,Outras Provisões,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.06.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02,Passivo Não Circulante,MIL,9310867.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.01,Empréstimos e Financiamentos,MIL,6856600.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.01.01,Empréstimos e Financiamentos,MIL,5864416.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.01.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.01.02,Debêntures,MIL,992184.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.01.03,Financiamento por Arrendamento Financeiro,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.02,Outras Obrigações,MIL,360635.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.02.01,Passivos com Partes Relacionadas,MIL,153269.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.02.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.02.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,153269.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.02.02,Outros,MIL,207366.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.02.02.03,Tributos Parcelados,MIL,9050.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.02.02.04,Instrumentos Financeiros,MIL,102413.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.02.02.05,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.02.02.06,Outros,MIL,95903.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.03,Tributos Diferidos,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.04,Provisões,MIL,2093632.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,1950590.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.04.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,1342727.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.04.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.04.01.05,Passivos Contingentes,MIL,607863.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.04.02,Outras Provisões,MIL,143042.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.04.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,143042.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.06.01,Lucros a Apropriar,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.06.02,Receitas a Apropriar,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03,Patrimônio Líquido Consolidado,MIL,15191634.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.01,Capital Social Realizado,MIL,13200295.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.02,Reservas de Capital,MIL,309445.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.02.01,Ágio na Emissão de Ações,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.02.04,Opções Outorgadas,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.02.05,Ações em Tesouraria,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.03,Reservas de Reavaliação,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.04,Reservas de Lucros,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.04.01,Reserva Legal,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.04.02,Reserva Estatutária,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.04.03,Reserva para Contingências,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.04.04,Reserva de Lucros a Realizar,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.04.09,Ações em Tesouraria,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.04.10,Para Investimentos e Capital de Giro,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.05,Lucros/Prejuízos Acumulados,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.06,Ajustes de Avaliação Patrimonial,MIL,26000.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.07,Ajustes Acumulados de Conversão,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.08,Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2016-12-31,1,,2016-12-31,2.03.09,Participação dos Acionistas Não Controladores,MIL,1655894.0000000000
+dfp,2017-12-31,1,,2017-12-31,2,Passivo Total,MIL,25984477.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01,Passivo Circulante,MIL,3046420.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.01,Obrigações Sociais e Trabalhistas,MIL,188735.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.01.01,Obrigações Sociais,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.01.02,Obrigações Trabalhistas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.02,Fornecedores,MIL,976917.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.02.01,Fornecedores Nacionais,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.03,Obrigações Fiscais,MIL,96523.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.03.01,Obrigações Fiscais Federais,MIL,96523.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,1434.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.03.01.02,Tributos a recolher,MIL,95089.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.03.01.03,Salários e Encargos Sociais,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.04,Empréstimos e Financiamentos,MIL,989977.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.04.01,Empréstimos e Financiamentos,MIL,927946.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.04.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.04.02,Debêntures,MIL,62031.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.04.03,Financiamento por Arrendamento Financeiro,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05,Outras Obrigações,MIL,794268.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.02,Outros,MIL,794268.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,75644.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.02.04,Tributos Parcelados,MIL,20494.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.02.05,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.02.06,Adiantamentos de Clientes,MIL,81394.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.02.07,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.02.08,Contas a Pagar,MIL,141485.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.05.02.09,Títulos a pagar - Forfaiting,MIL,475251.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.06,Provisões,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.06.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.06.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.06.02,Outras Provisões,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.06.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02,Passivo Não Circulante,MIL,7754093.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.01,Empréstimos e Financiamentos,MIL,5645802.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.01.01,Empréstimos e Financiamentos,MIL,4758468.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.01.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.01.02,Debêntures,MIL,887334.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.01.03,Financiamento por Arrendamento Financeiro,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.02,Outras Obrigações,MIL,230670.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.02.01,Passivos com Partes Relacionadas,MIL,143170.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.02.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.02.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,143170.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.02.02,Outros,MIL,87500.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.02.02.03,Tributos Parcelados,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.02.02.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.02.02.05,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.02.02.06,Outros,MIL,87500.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.03,Tributos Diferidos,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.04,Provisões,MIL,1877621.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,1719288.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.04.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,1050324.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.04.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.04.01.05,Passivos Contingentes,MIL,668964.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.04.02,Outras Provisões,MIL,158333.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.04.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,158333.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.06.01,Lucros a Apropriar,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.06.02,Receitas a Apropriar,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03,Patrimônio Líquido Consolidado,MIL,15183964.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.01,Capital Social Realizado,MIL,13200295.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.02,Reservas de Capital,MIL,311747.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.02.01,Ágio na Emissão de Ações,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.02.04,Opções Outorgadas,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.02.05,Ações em Tesouraria,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.03,Reservas de Reavaliação,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.04,Reservas de Lucros,MIL,202207.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.04.01,Reserva Legal,MIL,11651.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.04.02,Reserva Estatutária,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.04.03,Reserva para Contingências,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.04.04,Reserva de Lucros a Realizar,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.04.09,Ações em Tesouraria,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.04.10,Para Investimentos e Capital de Giro,MIL,190556.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.05,Lucros/Prejuízos Acumulados,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.06,Ajustes de Avaliação Patrimonial,MIL,60546.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.07,Ajustes Acumulados de Conversão,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.08,Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2017-12-31,1,,2017-12-31,2.03.09,Participação dos Acionistas Não Controladores,MIL,1409169.0000000000
+dfp,2018-12-31,1,,2018-12-31,2,Passivo Total,MIL,26523851.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01,Passivo Circulante,MIL,3335670.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.01,Obrigações Sociais e Trabalhistas,MIL,205583.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.01.01,Obrigações Sociais,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.01.02,Obrigações Trabalhistas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.02,Fornecedores,MIL,1133763.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.02.01,Fornecedores Nacionais,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.03,Obrigações Fiscais,MIL,126212.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.03.01,Obrigações Fiscais Federais,MIL,126212.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,3299.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.03.01.02,Tributos a recolher,MIL,122913.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.03.01.03,Salários e Encargos Sociais,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.04,Empréstimos e Financiamentos,MIL,467036.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.04.01,Empréstimos e Financiamentos,MIL,396799.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.04.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.04.02,Debêntures,MIL,70237.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.04.03,Financiamento por Arrendamento Financeiro,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05,Outras Obrigações,MIL,1403076.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.02,Outros,MIL,1403076.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,202809.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.02.04,Tributos Parcelados,MIL,4180.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.02.05,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.02.06,Adiantamentos de Clientes,MIL,63484.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.02.07,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.02.08,Contas a Pagar,MIL,166676.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.05.02.09,Títulos a pagar - Forfaiting,MIL,965927.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.06,Provisões,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.06.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.06.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.06.02,Outras Provisões,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.06.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02,Passivo Não Circulante,MIL,7490790.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.01,Empréstimos e Financiamentos,MIL,5382754.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.01.01,Empréstimos e Financiamentos,MIL,4562971.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.01.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.01.02,Debêntures,MIL,819783.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.01.03,Financiamento por Arrendamento Financeiro,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.02,Outras Obrigações,MIL,234550.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.02.01,Passivos com Partes Relacionadas,MIL,134254.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.02.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.02.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.02.02,Outros,MIL,100296.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.02.02.03,Tributos Parcelados,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.02.02.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.02.02.05,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.02.02.06,Outros,MIL,100296.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.03,Tributos Diferidos,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.04,Provisões,MIL,1873486.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,1669779.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.04.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,1034228.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.04.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.04.01.05,Passivos Contingentes,MIL,635551.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.04.02,Outras Provisões,MIL,203707.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.04.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,203707.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.06.01,Lucros a Apropriar,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.06.02,Receitas a Apropriar,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03,Patrimônio Líquido Consolidado,MIL,15697391.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.01,Capital Social Realizado,MIL,13200295.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.02,Reservas de Capital,MIL,309391.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.02.01,Ágio na Emissão de Ações,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.02.04,Opções Outorgadas,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.02.05,Ações em Tesouraria,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.03,Reservas de Reavaliação,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.04,Reservas de Lucros,MIL,766942.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.04.01,Reserva Legal,MIL,47984.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.04.02,Reserva Estatutária,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.04.03,Reserva para Contingências,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.04.04,Reserva de Lucros a Realizar,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.04.09,Ações em Tesouraria,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.04.10,Para Investimentos e Capital de Giro,MIL,718958.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.05,Lucros/Prejuízos Acumulados,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.06,Ajustes de Avaliação Patrimonial,MIL,-10330.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.07,Ajustes Acumulados de Conversão,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.08,Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2018-12-31,1,,2018-12-31,2.03.09,Participação dos Acionistas Não Controladores,MIL,1431093.0000000000
+dfp,2019-12-31,1,,2019-12-31,2,Passivo Total,MIL,26337032.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01,Passivo Circulante,MIL,2889738.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.01,Obrigações Sociais e Trabalhistas,MIL,198416.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.01.01,Obrigações Sociais,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.01.02,Obrigações Trabalhistas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.02,Fornecedores,MIL,1518270.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.02.01,Fornecedores Nacionais,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.03,Obrigações Fiscais,MIL,114693.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.03.01,Obrigações Fiscais Federais,MIL,114693.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,15096.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.03.01.02,Tributos a recolher,MIL,99597.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.03.01.03,Salários e Encargos Sociais,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.04,Empréstimos e Financiamentos,MIL,121333.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.04.01,Empréstimos e Financiamentos,MIL,96316.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.04.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.04.02,Debêntures,MIL,25017.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.04.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05,Outras Obrigações,MIL,937026.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.02,Outros,MIL,937026.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,67814.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.02.04,Tributos Parcelados,MIL,4314.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.02.05,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.02.06,Adiantamentos de Clientes,MIL,57757.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.02.07,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.02.08,Contas a Pagar,MIL,160010.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.02.09,Títulos a pagar - Forfaiting,MIL,613803.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.05.02.10,Passivos de Arrendamento,MIL,33328.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.06,Provisões,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.06.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.06.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.06.02,Outras Provisões,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.06.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02,Passivo Não Circulante,MIL,7881610.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.01,Empréstimos e Financiamentos,MIL,4984905.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.01.01,Empréstimos e Financiamentos,MIL,3003655.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.01.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.01.02,Debêntures,MIL,1981250.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.01.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.02,Outras Obrigações,MIL,312932.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.02.01,Passivos com Partes Relacionadas,MIL,121838.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.02.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.02.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.02.02,Outros,MIL,191094.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.02.02.03,Tributos Parcelados,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.02.02.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.02.02.05,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.02.02.06,Passivos de Arrendamento,MIL,75942.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.02.02.07,Outros,MIL,115152.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.03,Tributos Diferidos,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.04,Provisões,MIL,2583773.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,2352182.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.04.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,1574796.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.04.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.04.01.05,Passivos Contingentes,MIL,777386.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.04.02,Outras Provisões,MIL,231591.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.04.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,231591.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.06.01,Lucros a Apropriar,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.06.02,Receitas a Apropriar,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03,Patrimônio Líquido Consolidado,MIL,15565684.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.01,Capital Social Realizado,MIL,13200295.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.02,Reservas de Capital,MIL,307033.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.02.01,Ágio na Emissão de Ações,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.02.04,Opções Outorgadas,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.02.05,Ações em Tesouraria,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.03,Reservas de Reavaliação,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.04,Reservas de Lucros,MIL,943132.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.04.01,Reserva Legal,MIL,58647.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.04.02,Reserva Estatutária,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.04.03,Reserva para Contingências,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.04.04,Reserva de Lucros a Realizar,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.04.09,Ações em Tesouraria,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.04.10,Para Investimentos e Capital de Giro,MIL,884485.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.05,Lucros/Prejuízos Acumulados,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.06,Ajustes de Avaliação Patrimonial,MIL,-407037.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.07,Ajustes Acumulados de Conversão,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.08,Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2019-12-31,1,,2019-12-31,2.03.09,Participação dos Acionistas Não Controladores,MIL,1522261.0000000000
+dfp,2020-12-31,1,,2020-12-31,2,Passivo Total,MIL,29952137.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01,Passivo Circulante,MIL,4479098.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.01,Obrigações Sociais e Trabalhistas,MIL,180757.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.01.01,Obrigações Sociais,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.01.02,Obrigações Trabalhistas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.02,Fornecedores,MIL,1917690.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.02.01,Fornecedores Nacionais,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.03,Obrigações Fiscais,MIL,610804.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.03.01,Obrigações Fiscais Federais,MIL,610804.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,445842.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.03.01.02,Tributos a recolher,MIL,164962.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.03.01.03,Salários e Encargos Sociais,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.04,Empréstimos e Financiamentos,MIL,135952.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.04.01,Empréstimos e Financiamentos,MIL,116738.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.04.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.04.02,Debêntures,MIL,19214.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.04.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05,Outras Obrigações,MIL,1633895.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.02,Outros,MIL,1633895.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,324728.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.02.04,Tributos Parcelados,MIL,4380.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.02.05,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.02.06,Adiantamentos de Clientes,MIL,139678.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.02.07,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.02.08,Contas a Pagar,MIL,257611.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.02.09,Títulos a pagar - Forfaiting,MIL,880711.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.05.02.10,Passivos de Arrendamento,MIL,26787.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.06,Provisões,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.06.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.06.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.06.02,Outras Provisões,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.06.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02,Passivo Não Circulante,MIL,8634869.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.01,Empréstimos e Financiamentos,MIL,5832410.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.01.01,Empréstimos e Financiamentos,MIL,3847016.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.01.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.01.02,Debêntures,MIL,1985394.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.01.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.02,Outras Obrigações,MIL,301055.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.02.01,Passivos com Partes Relacionadas,MIL,80042.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.02.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.02.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.02.02,Outros,MIL,221013.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.02.02.03,Tributos Parcelados,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.02.02.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.02.02.05,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.02.02.06,Passivos de Arrendamento,MIL,37920.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.02.02.07,Outros,MIL,183093.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.03,Tributos Diferidos,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.04,Provisões,MIL,2501404.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,2271402.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.04.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,1471801.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.04.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.04.01.05,Passivos Contingentes,MIL,799601.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.04.02,Outras Provisões,MIL,230002.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.04.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,230002.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.06.01,Lucros a Apropriar,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.06.02,Receitas a Apropriar,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03,Patrimônio Líquido Consolidado,MIL,16838170.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.01,Capital Social Realizado,MIL,13200295.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.02,Reservas de Capital,MIL,311366.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.02.01,Ágio na Emissão de Ações,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.02.04,Opções Outorgadas,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.02.05,Ações em Tesouraria,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.03,Reservas de Reavaliação,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.04,Reservas de Lucros,MIL,1472967.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.04.01,Reserva Legal,MIL,92286.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.04.02,Reserva Estatutária,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.04.03,Reserva para Contingências,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.04.04,Reserva de Lucros a Realizar,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.04.09,Ações em Tesouraria,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.04.10,Para Investimentos e Capital de Giro,MIL,1380681.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.05,Lucros/Prejuízos Acumulados,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.06,Ajustes de Avaliação Patrimonial,MIL,-117162.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.07,Ajustes Acumulados de Conversão,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.08,Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2020-12-31,1,,2020-12-31,2.03.09,Participação dos Acionistas Não Controladores,MIL,1970704.0000000000
+dfp,2021-12-31,1,,2021-12-31,2,Passivo Total,MIL,39481569.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01,Passivo Circulante,MIL,6331989.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.01,Obrigações Sociais e Trabalhistas,MIL,221950.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.01.01,Obrigações Sociais,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.01.02,Obrigações Trabalhistas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.02,Fornecedores,MIL,2630292.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.02.01,Fornecedores Nacionais,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.03,Obrigações Fiscais,MIL,1010852.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.03.01,Obrigações Fiscais Federais,MIL,1010852.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,873306.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.03.01.02,Tributos a recolher,MIL,137546.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.03.01.03,Salários e Encargos Sociais,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.04,Empréstimos e Financiamentos,MIL,171826.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.04.01,Empréstimos e Financiamentos,MIL,125078.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.04.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.04.02,Debêntures,MIL,46748.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.04.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05,Outras Obrigações,MIL,2297069.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.02,Outros,MIL,2297069.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,968984.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.02.04,Tributos Parcelados,MIL,4465.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.02.05,Instrumentos Financeiros,MIL,68772.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.02.06,Adiantamentos de Clientes,MIL,154267.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.02.07,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.02.08,Contas a Pagar,MIL,353018.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.02.09,Títulos a pagar - Forfaiting,MIL,718054.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.05.02.10,Passivos de Arrendamento,MIL,29509.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.06,Provisões,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.06.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.06.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.06.02,Outras Provisões,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.06.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02,Passivo Não Circulante,MIL,8791077.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.01,Empréstimos e Financiamentos,MIL,6127751.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.01.01,Empréstimos e Financiamentos,MIL,4138346.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.01.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.01.02,Debêntures,MIL,1989405.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.01.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.02,Outras Obrigações,MIL,369858.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.02.01,Passivos com Partes Relacionadas,MIL,91448.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.02.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.02.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.02.02,Outros,MIL,278410.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.02.02.03,Tributos Parcelados,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.02.02.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.02.02.05,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.02.02.06,Passivos de Arrendamento,MIL,53014.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.02.02.07,Outros,MIL,225396.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.03,Tributos Diferidos,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.04,Provisões,MIL,2293468.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,2060290.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.04.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,1141136.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.04.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.04.01.05,Passivos Contingentes,MIL,919154.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.04.02,Outras Provisões,MIL,233178.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.04.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,233178.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.06.01,Lucros a Apropriar,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.06.02,Receitas a Apropriar,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03,Patrimônio Líquido Consolidado,MIL,24358503.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.01,Capital Social Realizado,MIL,13200295.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.02,Reservas de Capital,MIL,312665.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.02.01,Ágio na Emissão de Ações,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.02.04,Opções Outorgadas,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.02.05,Ações em Tesouraria,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.03,Reservas de Reavaliação,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.04,Reservas de Lucros,MIL,8324834.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.04.01,Reserva Legal,MIL,545813.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.04.02,Reserva Estatutária,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.04.03,Reserva para Contingências,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.04.04,Reserva de Lucros a Realizar,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.04.09,Ações em Tesouraria,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.04.10,Para Investimentos e Capital de Giro,MIL,7779021.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.05,Lucros/Prejuízos Acumulados,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.06,Ajustes de Avaliação Patrimonial,MIL,-88459.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.07,Ajustes Acumulados de Conversão,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.08,Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2021-12-31,1,,2021-12-31,2.03.09,Participação dos Acionistas Não Controladores,MIL,2609168.0000000000
+dfp,2022-12-31,1,,2022-12-31,2,Passivo Total,MIL,40000451.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01,Passivo Circulante,MIL,5392626.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.01,Obrigações Sociais e Trabalhistas,MIL,267712.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.01.01,Obrigações Sociais,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.01.02,Obrigações Trabalhistas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.02,Fornecedores,MIL,2838631.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.02.01,Fornecedores Nacionais,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.03,Obrigações Fiscais,MIL,191212.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.03.01,Obrigações Fiscais Federais,MIL,191212.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,47901.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.03.01.02,Tributos a recolher,MIL,143311.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.03.01.03,Salários e Encargos Sociais,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.04,Empréstimos e Financiamentos,MIL,130975.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.04.01,Empréstimos e Financiamentos,MIL,113155.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.04.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.04.02,Debêntures,MIL,17820.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.04.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05,Outras Obrigações,MIL,1964096.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.02,Outros,MIL,1964096.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,470599.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.02.04,Tributos Parcelados,MIL,4722.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.02.05,Instrumentos Financeiros,MIL,100678.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.02.06,Adiantamentos de Clientes,MIL,108813.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.02.07,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.02.08,Contas a Pagar,MIL,309866.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.02.09,Títulos a pagar - Forfaiting,MIL,935375.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.05.02.10,Passivos de Arrendamento,MIL,34043.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.06,Provisões,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.06.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.06.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.06.02,Outras Provisões,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.06.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02,Passivo Não Circulante,MIL,8720075.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.01,Empréstimos e Financiamentos,MIL,6066582.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.01.01,Empréstimos e Financiamentos,MIL,3874747.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.01.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.01.02,Debêntures,MIL,2191835.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.01.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.02,Outras Obrigações,MIL,525371.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.02.01,Passivos com Partes Relacionadas,MIL,72933.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.02.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.02.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.02.02,Outros,MIL,452438.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.02.02.03,Tributos Parcelados,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.02.02.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.02.02.05,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.02.02.06,Passivos de Arrendamento,MIL,85137.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.02.02.07,Outros,MIL,367301.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.03,Tributos Diferidos,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.04,Provisões,MIL,2128122.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,1845062.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.04.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,952905.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.04.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.04.01.05,Passivos Contingentes,MIL,892157.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.04.02,Outras Provisões,MIL,283060.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.04.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,283060.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.06.01,Lucros a Apropriar,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.06.02,Receitas a Apropriar,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03,Patrimônio Líquido Consolidado,MIL,25887750.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.01,Capital Social Realizado,MIL,13200295.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.02,Reservas de Capital,MIL,312665.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.02.01,Ágio na Emissão de Ações,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.02.04,Opções Outorgadas,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.02.05,Ações em Tesouraria,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.03,Reservas de Reavaliação,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.04,Reservas de Lucros,MIL,9561524.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.04.01,Reserva Legal,MIL,626590.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.04.02,Reserva Estatutária,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.04.03,Reserva para Contingências,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.04.04,Reserva de Lucros a Realizar,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.04.09,Ações em Tesouraria,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.04.10,Para Investimentos e Capital de Giro,MIL,8934934.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.05,Lucros/Prejuízos Acumulados,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.06,Ajustes de Avaliação Patrimonial,MIL,80541.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.07,Ajustes Acumulados de Conversão,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.08,Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2022-12-31,1,,2022-12-31,2.03.09,Participação dos Acionistas Não Controladores,MIL,2732725.0000000000
+dfp,2023-12-31,2,,2023-12-31,2,Passivo Total,MIL,40161751.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01,Passivo Circulante,MIL,5514389.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.01,Obrigações Sociais e Trabalhistas,MIL,369758.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.01.01,Obrigações Sociais,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.01.02,Obrigações Trabalhistas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.02,Fornecedores,MIL,2623848.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.02.01,Fornecedores Nacionais,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.03,Obrigações Fiscais,MIL,188571.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.03.01,Obrigações Fiscais Federais,MIL,188571.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,8511.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.03.01.02,Tributos a recolher,MIL,180060.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.03.01.03,Salários e Encargos Sociais,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.04,Empréstimos e Financiamentos,MIL,122887.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.04.01,Empréstimos e Financiamentos,MIL,103909.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.04.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.04.02,Debêntures,MIL,18978.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.04.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05,Outras Obrigações,MIL,2209325.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.02,Outros,MIL,2209325.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,362460.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.02.04,Tributos Parcelados,MIL,5004.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.02.05,Instrumentos Financeiros,MIL,29967.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.02.06,Adiantamentos de Clientes,MIL,81362.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.02.07,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.02.08,Contas a Pagar,MIL,108250.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.02.09,Títulos a pagar - Forfaiting,MIL,1577209.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.05.02.10,Passivos de Arrendamento,MIL,45073.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.06,Provisões,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.06.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.06.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.06.02,Outras Provisões,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.06.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02,Passivo Não Circulante,MIL,8097925.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.01,Empréstimos e Financiamentos,MIL,5793223.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.01.01,Empréstimos e Financiamentos,MIL,3600471.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.01.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.01.02,Debêntures,MIL,2192752.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.01.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.02,Outras Obrigações,MIL,215749.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.02.01,Passivos com Partes Relacionadas,MIL,51780.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.02.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.02.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.02.02,Outros,MIL,163969.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.02.02.03,Tributos Parcelados,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.02.02.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.02.02.05,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.02.02.06,Passivos de Arrendamento,MIL,62190.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.02.02.07,Outros,MIL,101779.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.03,Tributos Diferidos,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.04,Provisões,MIL,2088953.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,1788860.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.04.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,774637.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.04.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.04.01.05,Passivos Contingentes,MIL,1014223.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.04.02,Outras Provisões,MIL,300093.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.04.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,290795.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.04.02.04,Outras Provisões,MIL,9298.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.06.01,Lucros a Apropriar,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.06.02,Receitas a Apropriar,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03,Patrimônio Líquido Consolidado,MIL,26549437.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.01,Capital Social Realizado,MIL,13200295.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.02,Reservas de Capital,MIL,312665.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.02.01,Ágio na Emissão de Ações,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.02.04,Opções Outorgadas,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.02.05,Ações em Tesouraria,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.03,Reservas de Reavaliação,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.04,Reservas de Lucros,MIL,10626711.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.04.01,Reserva Legal,MIL,696136.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.04.02,Reserva Estatutária,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.04.03,Reserva para Contingências,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.04.04,Reserva de Lucros a Realizar,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.04.09,Ações em Tesouraria,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.04.10,Para Investimentos e Capital de Giro,MIL,9930575.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.05,Lucros/Prejuízos Acumulados,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.06,Ajustes de Avaliação Patrimonial,MIL,-284021.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.07,Ajustes Acumulados de Conversão,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.08,Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2023-12-31,2,,2023-12-31,2.03.09,Participação dos Acionistas Não Controladores,MIL,2693787.0000000000
+dfp,2024-12-31,1,,2024-12-31,2,Passivo Total,MIL,39871790.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01,Passivo Circulante,MIL,4783005.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.01,Obrigações Sociais e Trabalhistas,MIL,370224.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.01.01,Obrigações Sociais,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.01.02,Obrigações Trabalhistas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.02,Fornecedores,MIL,2971061.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.02.01,Fornecedores Nacionais,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.03,Obrigações Fiscais,MIL,129663.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.03.01,Obrigações Fiscais Federais,MIL,129663.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.03.01.02,Tributos a recolher,MIL,129663.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.03.01.03,Salários e Encargos Sociais,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.04,Empréstimos e Financiamentos,MIL,150743.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.04.01,Empréstimos e Financiamentos,MIL,75671.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.04.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.04.02,Debêntures,MIL,75072.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.04.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05,Outras Obrigações,MIL,1161314.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.02,Outros,MIL,1161314.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,13548.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.02.04,Tributos Parcelados,MIL,27189.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.02.05,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.02.06,Adiantamentos de Clientes,MIL,55777.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.02.07,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.02.08,Contas a Pagar,MIL,175032.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.02.09,Títulos a pagar - Forfaiting,MIL,864103.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.05.02.10,Passivos de Arrendamento,MIL,25665.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.06,Provisões,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.06.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.06.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.06.02,Outras Provisões,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.06.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02,Passivo Não Circulante,MIL,8405097.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.01,Empréstimos e Financiamentos,MIL,6617591.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.01.01,Empréstimos e Financiamentos,MIL,2651449.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.01.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.01.02,Debêntures,MIL,3966142.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.01.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.02,Outras Obrigações,MIL,339903.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.02.01,Passivos com Partes Relacionadas,MIL,27612.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.02.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.02.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.02.02,Outros,MIL,312291.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.02.02.03,Tributos Parcelados,MIL,95872.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.02.02.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.02.02.05,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.02.02.06,Passivos de Arrendamento,MIL,99851.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.02.02.07,Outros,MIL,116568.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.03,Tributos Diferidos,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.04,Provisões,MIL,1447603.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,1188041.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.04.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,581982.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.04.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.04.01.05,Passivos Contingentes,MIL,606059.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.04.02,Outras Provisões,MIL,259562.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.04.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,248790.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.04.02.04,Outras Provisões,MIL,10772.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.06.01,Lucros a Apropriar,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.06.02,Receitas a Apropriar,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03,Patrimônio Líquido Consolidado,MIL,26683688.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.01,Capital Social Realizado,MIL,13200295.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.02,Reservas de Capital,MIL,312665.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.02.01,Ágio na Emissão de Ações,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.02.04,Opções Outorgadas,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.02.05,Ações em Tesouraria,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.03,Reservas de Reavaliação,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.04,Reservas de Lucros,MIL,10487164.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.04.01,Reserva Legal,MIL,556589.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.04.02,Reserva Estatutária,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.04.03,Reserva para Contingências,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.04.04,Reserva de Lucros a Realizar,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.04.09,Ações em Tesouraria,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.04.10,Para Investimentos e Capital de Giro,MIL,9930575.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.05,Lucros/Prejuízos Acumulados,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.06,Ajustes de Avaliação Patrimonial,MIL,-118337.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.07,Ajustes Acumulados de Conversão,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.08,Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2024-12-31,1,,2024-12-31,2.03.09,Participação dos Acionistas Não Controladores,MIL,2801901.0000000000
+dfp,2025-12-31,1,,2025-12-31,2,Passivo Total,MIL,35684766.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01,Passivo Circulante,MIL,4078513.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.01,Obrigações Sociais e Trabalhistas,MIL,385807.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.01.01,Obrigações Sociais,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.01.02,Obrigações Trabalhistas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.02,Fornecedores,MIL,2543572.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.02.01,Fornecedores Nacionais,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.03,Obrigações Fiscais,MIL,137775.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.03.01,Obrigações Fiscais Federais,MIL,137775.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,203.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.03.01.02,Tributos a recolher,MIL,137572.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.03.01.03,Salários e Encargos Sociais,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.04,Empréstimos e Financiamentos,MIL,184291.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.04.01,Empréstimos e Financiamentos,MIL,87121.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.04.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.04.02,Debêntures,MIL,97170.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.04.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05,Outras Obrigações,MIL,827068.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.02,Outros,MIL,827068.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,47742.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.02.04,Tributos Parcelados,MIL,31073.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.02.05,Instrumentos Financeiros,MIL,5680.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.02.06,Adiantamentos de Clientes,MIL,64897.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.02.07,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.02.08,Contas a Pagar,MIL,84769.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.02.09,Títulos a pagar - Forfaiting,MIL,570111.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.05.02.10,Passivos de Arrendamento,MIL,22796.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.06,Provisões,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.06.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.06.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.06.02,Outras Provisões,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.06.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02,Passivo Não Circulante,MIL,7904872.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.01,Empréstimos e Financiamentos,MIL,6205848.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.01.01,Empréstimos e Financiamentos,MIL,2696584.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.01.01.01,Em Moeda Nacional,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.01.02,Debêntures,MIL,3509264.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.01.03,Financiamento por Arrendamento,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.02,Outras Obrigações,MIL,335344.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.02.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.02.01.01,Débitos com Coligadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.02.01.03,Débitos com Controladores,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.02.02,Outros,MIL,335344.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.02.02.03,Tributos Parcelados,MIL,78043.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.02.02.04,Instrumentos Financeiros,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.02.02.05,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.02.02.06,Passivos de Arrendamento,MIL,81660.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.02.02.07,Outros,MIL,175641.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.03,Tributos Diferidos,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.04,Provisões,MIL,1363680.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,1103493.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.04.01.01,Provisões Fiscais,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,552297.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.04.01.04,Provisões Cíveis,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.04.01.05,Passivos Contingentes,MIL,551196.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.04.02,Outras Provisões,MIL,260187.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.04.02.01,Provisões para Garantias,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,250452.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.04.02.04,Outras Provisões,MIL,9735.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.06.01,Lucros a Apropriar,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.06.02,Receitas a Apropriar,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03,Patrimônio Líquido Consolidado,MIL,23701381.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.01,Capital Social Realizado,MIL,13200295.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.02,Reservas de Capital,MIL,312665.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.02.01,Ágio na Emissão de Ações,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.02.04,Opções Outorgadas,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.02.05,Ações em Tesouraria,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.03,Reservas de Reavaliação,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.04,Reservas de Lucros,MIL,7414547.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.04.01,Reserva Legal,MIL,696136.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.04.02,Reserva Estatutária,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.04.03,Reserva para Contingências,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.04.04,Reserva de Lucros a Realizar,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.04.09,Ações em Tesouraria,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.04.10,Para Investimentos e Capital de Giro,MIL,6718411.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.05,Lucros/Prejuízos Acumulados,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.06,Ajustes de Avaliação Patrimonial,MIL,-113628.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.07,Ajustes Acumulados de Conversão,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.08,Outros Resultados Abrangentes,MIL,0.0000000000
+dfp,2025-12-31,1,,2025-12-31,2.03.09,Participação dos Acionistas Não Controladores,MIL,2887502.0000000000
+itr,2026-03-31,1,,2026-03-31,2,Passivo Total,MIL,34754321.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01,Passivo Circulante,MIL,3587917.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.01,Obrigações Sociais e Trabalhistas,MIL,281911.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.01.01,Obrigações Sociais,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.01.02,Obrigações Trabalhistas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.02,Fornecedores,MIL,2286931.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.02.01,Fornecedores Nacionais,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.03,Obrigações Fiscais,MIL,171260.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.03.01,Obrigações Fiscais Federais,MIL,171260.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,15027.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.03.01.02,Tributos a recolher,MIL,156233.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.03.01.03,Salários e Encargos Sociais,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.04,Empréstimos e Financiamentos,MIL,129436.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.04.01,Empréstimos e Financiamentos,MIL,34255.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.04.01.01,Em Moeda Nacional,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.04.02,Debêntures,MIL,95181.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.04.03,Financiamento por Arrendamento,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05,Outras Obrigações,MIL,718379.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.01.01,Débitos com Coligadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.01.03,Débitos com Controladores,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.02,Outros,MIL,718379.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,14891.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.02.04,Tributos Parcelados,MIL,29239.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.02.05,Instrumentos Financeiros,MIL,1921.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.02.06,Adiantamentos de Clientes,MIL,81804.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.02.07,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.02.08,Contas a Pagar,MIL,65546.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.02.09,Títulos a pagar - Forfaiting,MIL,503531.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.05.02.10,Passivos de Arrendamento,MIL,21447.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.06,Provisões,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.06.01.01,Provisões Fiscais,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.06.01.04,Provisões Cíveis,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.06.02,Outras Provisões,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.06.02.01,Provisões para Garantias,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02,Passivo Não Circulante,MIL,7758897.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.01,Empréstimos e Financiamentos,MIL,6067218.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.01.01,Empréstimos e Financiamentos,MIL,2557302.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.01.01.01,Em Moeda Nacional,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.01.02,Debêntures,MIL,3509916.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.01.03,Financiamento por Arrendamento,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.02,Outras Obrigações,MIL,329515.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.02.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.02.01.01,Débitos com Coligadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.02.01.03,Débitos com Controladores,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.02.02,Outros,MIL,329515.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.02.02.03,Tributos Parcelados,MIL,74632.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.02.02.04,Instrumentos Financeiros,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.02.02.05,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.02.02.06,Passivos de Arrendamento,MIL,76887.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.02.02.07,Outros,MIL,177996.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.03,Tributos Diferidos,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.04,Provisões,MIL,1362164.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,1094952.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.04.01.01,Provisões Fiscais,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,537097.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.04.01.04,Provisões Cíveis,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.04.01.05,Passivos Contingentes,MIL,557855.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.04.02,Outras Provisões,MIL,267212.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.04.02.01,Provisões para Garantias,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,261909.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.04.02.04,Outras Provisões,MIL,5303.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.06.01,Lucros a Apropriar,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.06.02,Receitas a Apropriar,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03,Patrimônio Líquido Consolidado,MIL,23407507.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.01,Capital Social Realizado,MIL,13200295.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.02,Reservas de Capital,MIL,312665.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.02.01,Ágio na Emissão de Ações,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.02.04,Opções Outorgadas,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.02.05,Ações em Tesouraria,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.03,Reservas de Reavaliação,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.04,Reservas de Lucros,MIL,7414547.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.04.01,Reserva Legal,MIL,696136.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.04.02,Reserva Estatutária,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.04.03,Reserva para Contingências,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.04.04,Reserva de Lucros a Realizar,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.04.09,Ações em Tesouraria,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.04.10,Para Investimentos e Capital de Giro,MIL,6718411.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.05,Lucros/Prejuízos Acumulados,MIL,772342.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.06,Ajustes de Avaliação Patrimonial,MIL,-1162589.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.07,Ajustes Acumulados de Conversão,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.08,Outros Resultados Abrangentes,MIL,0.0000000000
+itr,2026-03-31,1,,2026-03-31,2.03.09,Participação dos Acionistas Não Controladores,MIL,2870247.0000000000
+itr,2026-06-30,1,,2026-06-30,2,Passivo Total,MIL,35106656.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01,Passivo Circulante,MIL,3777846.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.01,Obrigações Sociais e Trabalhistas,MIL,334174.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.01.01,Obrigações Sociais,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.01.02,Obrigações Trabalhistas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.02,Fornecedores,MIL,2816693.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.02.01,Fornecedores Nacionais,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.02.02,Fornecedores Estrangeiros,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.03,Obrigações Fiscais,MIL,144573.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.03.01,Obrigações Fiscais Federais,MIL,144573.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,MIL,1460.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.03.01.02,Tributos a recolher,MIL,143113.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.03.01.03,Salários e Encargos Sociais,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.03.02,Obrigações Fiscais Estaduais,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.03.03,Obrigações Fiscais Municipais,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.04,Empréstimos e Financiamentos,MIL,174586.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.04.01,Empréstimos e Financiamentos,MIL,82505.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.04.01.01,Em Moeda Nacional,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.04.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.04.02,Debêntures,MIL,92081.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.04.03,Financiamento por Arrendamento,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05,Outras Obrigações,MIL,307820.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.01.01,Débitos com Coligadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.01.03,Débitos com Controladores,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.02,Outros,MIL,307820.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.02.01,Dividendos e JCP a Pagar,MIL,1268.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.02.04,Tributos Parcelados,MIL,33379.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.02.05,Instrumentos Financeiros,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.02.06,Adiantamentos de Clientes,MIL,53319.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.02.07,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.02.08,Contas a Pagar,MIL,56300.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.02.09,Títulos a pagar - Forfaiting,MIL,143697.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.05.02.10,Passivos de Arrendamento,MIL,19857.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.06,Provisões,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.06.01.01,Provisões Fiscais,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.06.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.06.01.04,Provisões Cíveis,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.06.02,Outras Provisões,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.06.02.01,Provisões para Garantias,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.06.02.02,Provisões para Reestruturação,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02,Passivo Não Circulante,MIL,7683719.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.01,Empréstimos e Financiamentos,MIL,6048722.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.01.01,Empréstimos e Financiamentos,MIL,2538149.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.01.01.01,Em Moeda Nacional,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.01.01.02,Em Moeda Estrangeira,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.01.02,Debêntures,MIL,3510573.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.01.03,Financiamento por Arrendamento,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.02,Outras Obrigações,MIL,319918.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.02.01,Passivos com Partes Relacionadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.02.01.01,Débitos com Coligadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.02.01.03,Débitos com Controladores,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.02.01.04,Débitos com Outras Partes Relacionadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.02.02,Outros,MIL,319918.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.02.02.03,Tributos Parcelados,MIL,66892.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.02.02.04,Instrumentos Financeiros,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.02.02.05,Contas a Pagar por Aquisição de Investimentos,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.02.02.06,Passivos de Arrendamento,MIL,76277.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.02.02.07,Outros,MIL,176749.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.03,Tributos Diferidos,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.04,Provisões,MIL,1315079.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,MIL,1043152.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.04.01.01,Provisões Fiscais,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,MIL,535778.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.04.01.03,Provisões para Benefícios a Empregados,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.04.01.04,Provisões Cíveis,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.04.01.05,Passivos Contingentes,MIL,507374.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.04.02,Outras Provisões,MIL,271927.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.04.02.01,Provisões para Garantias,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.04.02.02,Provisões para Reestruturação,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,MIL,266181.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.04.02.04,Outras Provisões,MIL,5746.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.06,Lucros e Receitas a Apropriar,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.06.01,Lucros a Apropriar,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.06.02,Receitas a Apropriar,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.02.06.03,Subvenções de Investimento a Apropriar,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03,Patrimônio Líquido Consolidado,MIL,23645091.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.01,Capital Social Realizado,MIL,13200295.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.02,Reservas de Capital,MIL,312665.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.02.01,Ágio na Emissão de Ações,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.02.02,Reserva Especial de Ágio na Incorporação,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.02.03,Alienação de Bônus de Subscrição,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.02.04,Opções Outorgadas,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.02.05,Ações em Tesouraria,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.02.06,Adiantamento para Futuro Aumento de Capital,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.03,Reservas de Reavaliação,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.04,Reservas de Lucros,MIL,7414547.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.04.01,Reserva Legal,MIL,696136.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.04.02,Reserva Estatutária,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.04.03,Reserva para Contingências,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.04.04,Reserva de Lucros a Realizar,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.04.05,Reserva de Retenção de Lucros,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.04.07,Reserva de Incentivos Fiscais,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.04.08,Dividendo Adicional Proposto,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.04.09,Ações em Tesouraria,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.04.10,Para Investimentos e Capital de Giro,MIL,6718411.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.05,Lucros/Prejuízos Acumulados,MIL,1155613.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.06,Ajustes de Avaliação Patrimonial,MIL,-1331966.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.07,Ajustes Acumulados de Conversão,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.08,Outros Resultados Abrangentes,MIL,0.0000000000
+itr,2026-06-30,1,,2026-06-30,2.03.09,Participação dos Acionistas Não Controladores,MIL,2893937.0000000000

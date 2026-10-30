@@ -1,0 +1,39 @@
+CRC fold, all six steps: register entry 155, wave7_done at 23, narrative fold, no price band
+
+STEP 1. Register entry written at the top of COMPLETED FROM THE QUEUE,
+carrying the price, the share count and the cover accession, the cap, the
+sovereign and the PASS/FAIL line. The number was re-derived by COUNTING,
+not inherited: the slice from the heading line (now 502) to the line
+starting THE WRITE-EARLY PROTOCOL (now 12620) holds 155 line-start
+"- **" matches after the insertion and held 154 before it. CRC is
+entry 155. No other CRC entry exists anywhere in the slice.
+
+STEP 2. Wave 7 has no strike-through roster; CRC appended to
+Screens/_daily/_wave7_done.txt, which now holds 23 lines against 218 in
+_wave7_order.txt, where CRC is line 23. Checked for CRC elsewhere in the
+queue file: it appears NOWHERE else, not in a tier roster, not in
+SKIPPED WITH A REASON, not in the held-out financial list.
+
+STEP 3. Narrative fold appended to the 2026-08-31 PREPPED READING LIST:
+the two findings, the screen row item by item (three flags confirmed, the
+spread caveat rebuilt and found to understate, the deal_note resolved),
+the Q3 material, the named death, the counted E&P tally, and the tooling
+notes.
+
+STEP 4. NO band armed and NO PORTFOLIO row. CRC failed on the BUSINESS at
+Q2, so a price alert would be a category error (the QLYS ruling). The
+reversal condition is written in words in the run file and is a condition
+about operating cost per Boe and Brent realization, never a price.
+Verified zero CRC strings in tools/alerts.json and PORTFOLIO.md.
+
+Also: NO new survival shape and NO instance entered in the index,
+following the PAGP and CALM precedents recorded there for a Q2-closed
+run. The table was counted first: 30 rows, maximum number 30, next
+unused number 31, distinct shapes unchanged at 25.
+
+STEP 5. python tools/check_framework.py PASSES, run before this commit
+and not after.
+
+STEP 6. Committed with a pathspec.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

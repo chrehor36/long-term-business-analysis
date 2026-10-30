@@ -1,0 +1,93 @@
+{
+ "rows": {
+  "2021": {
+   "ind_ocf": 18370,
+   "capex": 10081,
+   "da": 5871,
+   "sbc": 201,
+   "lease": 566,
+   "oe_capex": 7522,
+   "oe_da": 12298,
+   "oe_capex_pf": 5709,
+   "oe_da_pf": 10485
+  },
+  "2022": {
+   "ind_ocf": 19748,
+   "capex": 8938,
+   "da": 6797,
+   "sbc": 170,
+   "lease": 568,
+   "oe_capex": 10072,
+   "oe_da": 12781
+  },
+  "2023": {
+   "ind_ocf": 23238,
+   "capex": 9031,
+   "da": 7549,
+   "sbc": 225,
+   "lease": 693,
+   "oe_capex": 13289,
+   "oe_da": 15464
+  },
+  "2024": {
+   "ind_ocf": 6744,
+   "capex": 10761,
+   "da": 7226,
+   "sbc": 103,
+   "lease": 874,
+   "oe_capex": -4994,
+   "oe_da": -585
+  },
+  "2025": {
+   "ind_ocf": 5050,
+   "capex": 9090,
+   "da": 6981,
+   "sbc": 105,
+   "lease": 867,
+   "oe_capex": -5012,
+   "oe_da": -2036
+  },
+  "2019": {
+   "ind_ocf": 17526,
+   "capex": 12050,
+   "da": 7636,
+   "sbc": 129,
+   "lease": 484,
+   "oe_capex": 4863,
+   "oe_da": 9761,
+   "pro_forma": true
+  },
+  "2020": {
+   "ind_ocf": 14259,
+   "capex": 11548,
+   "da": 7519,
+   "sbc": 132,
+   "lease": 566,
+   "oe_capex": 2013,
+   "oe_da": 6608,
+   "pro_forma": true
+  }
+ },
+ "windows": {
+  "5yr 2021-25 (as filed)": {
+   "capex_end": 4175,
+   "da_end": 7584
+  },
+  "5yr 2021-25 (FCA Jan 1-16 added)": {
+   "capex_end": 3813,
+   "da_end": 7222
+  },
+  "3yr 2023-25": {
+   "capex_end": 1094,
+   "da_end": 4281
+  },
+  "2yr 2024-25": {
+   "capex_end": -5003,
+   "da_end": -1310
+  },
+  "7yr 2019-25 pro forma (FCA+PSA 2019-20)": {
+   "capex_end": 3706,
+   "da_end": 7497
+  }
+ }
+}

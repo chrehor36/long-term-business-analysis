@@ -1,0 +1,130 @@
+ 
+ XML
+ 8
+ R3.htm
+ IDEA: XBRL DOCUMENT
+ v3.25.2 
+ Fees Summary
+ | 
+ Jun. 25, 2025 
+ USD ($)
+ | 
+ Fees Summary [Line Items] | 
+ | 
+ Total Offering | 
+ $ 1,500,000,000 
+ | 
+ Previously Paid Amount | 
+ 0 
+ | 
+ Total Fee Amount | 
+ 229,650 
+ | 
+ Net Fee | 
+ $ 229,650 
+ | 
+ Final Prospectus | 
+ true 
+ | 
+ X | 
+ - References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_FeesSummaryLineItems | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ xbrli:stringItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_FnlPrspctsFlg | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ xbrli:booleanItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_NetFeeAmt | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ xbrli:monetaryItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_TtlFeeAmt | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:nonNegative1TMonetary2ItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_TtlOfferingAmt | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:nonNegative1TMonetary2ItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_TtlPrevslyPdAmt | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:nonNegative1TMonetary2ItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 

@@ -1,0 +1,35 @@
+entity SNOWFLAKE INC.
+== CURRENT screen ==
+owner_earnings: {'5y_da': -527149400.0, '5y_capex': -470510000.0, '3y_da': -579967333.3333334, '3y_capex': -487869000.0}
+restatement_shift : (1.0, datetime.date(2020, 1, 31))
+scale_shift : 2.0595035208234456
+acquisition_flag : (847470000.0, None, '')
+working_capital_flag : (datetime.date(2022, 1, 31), 'IncreaseDecreaseInContractWithCustomerLiability', 4.776055328147832, 'ONE LINE MADE THE CASH: ContractWithCustomerLiability moved 478% of 2022 OCF. Operating cash is not owner earnings when one balance-sheet line produced it (DELL, INOD). Read the 2022 cash-flow statement and liquidity note.')
+da_discontinuity_flag : None
+capex_funding_flag : None
+stale_filer : (datetime.date(2026, 1, 31), 230, '')
+lease_capex_flag : None
+share_count_shift WITH ticker: 1.068767040290821
+share_count_shift no ticker: 1.068767040290821
+sbc_annual: {datetime.date(2019, 1, 31): 52738000.0, datetime.date(2020, 1, 31): 78399000.0, datetime.date(2021, 1, 31): 301441000.0, datetime.date(2022, 1, 31): 605095000.0, datetime.date(2023, 1, 31): 861533000.0, datetime.date(2024, 1, 31): 1168015000.0, datetime.date(2025, 1, 31): 1479314000.0, datetime.date(2026, 1, 31): 1599547000.0}
+da_annual: {datetime.date(2019, 1, 31): 1362000.0, datetime.date(2020, 1, 31): 3522000.0, datetime.date(2021, 1, 31): 9826000.0, datetime.date(2022, 1, 31): 21500000.0, datetime.date(2023, 1, 31): 63535000.0, datetime.date(2024, 1, 31): 119903000.0, datetime.date(2025, 1, 31): 182508000.0, datetime.date(2026, 1, 31): 220443000.0}
+ocf: ({datetime.date(2019, 1, 31): -143982000.0, datetime.date(2020, 1, 31): -176558000.0, datetime.date(2021, 1, 31): -45417000.0, datetime.date(2022, 1, 31): 110179000.0, datetime.date(2023, 1, 31): 545639000.0, datetime.date(2024, 1, 31): 848122000.0, datetime.date(2025, 1, 31): 959764000.0, datetime.date(2026, 1, 31): 1221942000.0}, '')
+capex annual: {datetime.date(2019, 1, 31): 2058000.0, datetime.date(2020, 1, 31): 18583000.0, datetime.date(2021, 1, 31): 35037000.0, datetime.date(2022, 1, 31): 16221000.0, datetime.date(2023, 1, 31): 25128000.0, datetime.date(2024, 1, 31): 35086000.0, datetime.date(2025, 1, 31): 46279000.0, datetime.date(2026, 1, 31): 101628000.0}
+capital_acquired: ({datetime.date(2019, 1, 31): 4016000.0, datetime.date(2020, 1, 31): 22848000.0, datetime.date(2021, 1, 31): 40330000.0, datetime.date(2022, 1, 31): 28993000.0, datetime.date(2023, 1, 31): 49140000.0, datetime.date(2024, 1, 31): 69219000.0, datetime.date(2025, 1, 31): 75712000.0, datetime.date(2026, 1, 31): 101628000.0}, {})
+rev: {datetime.date(2019, 1, 31): 96666000.0, datetime.date(2020, 1, 31): 264748000.0, datetime.date(2021, 1, 31): 592049000.0, datetime.date(2022, 1, 31): 1219327000.0, datetime.date(2023, 1, 31): 2065659000.0, datetime.date(2024, 1, 31): 2806489000.0, datetime.date(2025, 1, 31): 3626396000.0, datetime.date(2026, 1, 31): 4683946000.0}
+shares: (datetime.date(2026, 8, 21), 352800000.0)
+== a8bc84f on facts filed by 2026-09-01 ==
+share_count_shift : 1.0340095465393795
+scale_shift : 2.0595035208234456
+restatement_shift : (1.0, datetime.date(2020, 1, 31))
+owner_earnings : {'5y_da': -527149000.0, '5y_capex': -450440000.0, '3y_da': -579967333.3333334, '3y_capex': -466680333.3333333}
+dei 2024-05-07 334800000 10-Q 2024-05-31
+dei 2024-08-20 335200000 10-Q 2024-08-29
+dei 2024-11-15 330100000 10-Q 2024-11-27
+dei 2025-03-07 334100000 10-K 2025-03-21
+dei 2025-05-08 333700000 10-Q 2025-05-30
+dei 2025-08-22 338800000 10-Q 2025-09-05
+dei 2025-11-21 342200000 10-Q 2025-12-05
+dei 2026-03-06 345700000 10-K 2026-03-20
+dei 2026-05-15 346600000 10-Q 2026-05-29
+dei 2026-08-21 352800000 10-Q 2026-09-04

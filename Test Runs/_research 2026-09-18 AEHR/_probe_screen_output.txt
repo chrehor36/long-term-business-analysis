@@ -1,0 +1,38 @@
+entity AEHR TEST SYSTEMS
+== CURRENT screen ==
+owner_earnings: {'5y_da': -4839600.0, '5y_capex': -5443000.0, '3y_da': -9735333.333333334, '3y_capex': -10400666.666666666}
+restatement_shift : (1.0, datetime.date(2018, 5, 31))
+scale_shift : 3.061987951807229
+acquisition_flag : (12876000.0, None, '')
+working_capital_flag : (datetime.date(2024, 5, 31), 'IncreaseDecreaseInAccountsPayable', 2.2158314350797266, 'ONE LINE MADE THE CASH: AccountsPayable moved 222% of 2024 OCF. Operating cash is not owner earnings when one balance-sheet line produced it (DELL, INOD). Read the 2024 cash-flow statement and liquidity note.')
+da_discontinuity_flag : None
+capex_funding_flag : None
+stale_filer : (datetime.date(2026, 5, 29), 112, '')
+lease_capex_flag : None
+share_count_shift WITH ticker: 1.0978953011402472
+share_count_shift no ticker: 1.0978953011402472
+sbc_annual: {datetime.date(2010, 5, 31): 1733000.0, datetime.date(2011, 5, 31): 947000.0, datetime.date(2012, 5, 31): 709000.0, datetime.date(2013, 5, 31): 601000.0, datetime.date(2014, 5, 31): 853000.0, datetime.date(2015, 5, 31): 997000.0, datetime.date(2016, 5, 31): 1016000.0, datetime.date(2017, 5, 31): 999000.0, datetime.date(2018, 5, 31): 996000.0, datetime.date(2019, 5, 31): 905000.0, datetime.date(2020, 5, 31): 910000.0, datetime.date(2021, 5, 31): 1101000.0, datetime.date(2022, 5, 31): 3006000.0, datetime.date(2023, 5, 31): 2748000.0, datetime.date(2024, 5, 31): 2518000.0, datetime.date(2025, 5, 30): 5162000.0, datetime.date(2026, 5, 29): 6761000.0}
+da_annual: {datetime.date(2010, 5, 31): 690000.0, datetime.date(2011, 5, 31): 573000.0, datetime.date(2012, 5, 31): 491000.0, datetime.date(2013, 5, 31): 322000.0, datetime.date(2014, 5, 31): 141000.0, datetime.date(2015, 5, 31): 135000.0, datetime.date(2016, 5, 31): 203000.0, datetime.date(2017, 5, 31): 271000.0, datetime.date(2018, 5, 31): 417000.0, datetime.date(2019, 5, 31): 431000.0, datetime.date(2020, 5, 31): 384000.0, datetime.date(2021, 5, 31): 310000.0, datetime.date(2022, 5, 31): 307000.0, datetime.date(2023, 5, 31): 450000.0, datetime.date(2024, 5, 31): 700000.0, datetime.date(2025, 5, 30): 2312000.0, datetime.date(2026, 5, 29): 2799000.0}
+ocf: ({datetime.date(2010, 5, 31): 3247000.0, datetime.date(2011, 5, 31): -4142000.0, datetime.date(2012, 5, 31): -4875000.0, datetime.date(2013, 5, 31): -310000.0, datetime.date(2014, 5, 31): -607000.0, datetime.date(2015, 5, 31): -2256000.0, datetime.date(2016, 5, 31): -6281000.0, datetime.date(2017, 5, 31): -4495000.0, datetime.date(2018, 5, 31): -1351000.0, datetime.date(2019, 5, 31): -5637000.0, datetime.date(2020, 5, 31): -2024000.0, datetime.date(2021, 5, 31): -2701000.0, datetime.date(2022, 5, 31): 1508000.0, datetime.date(2023, 5, 31): 10011000.0, datetime.date(2024, 5, 31): 1756000.0, datetime.date(2025, 5, 30): -7400000.0, datetime.date(2026, 5, 29): -3310000.0}, '')
+capex annual: {datetime.date(2010, 5, 31): 69000.0, datetime.date(2011, 5, 31): 15000.0, datetime.date(2012, 5, 31): 45000.0, datetime.date(2013, 5, 31): 127000.0, datetime.date(2014, 5, 31): 339000.0, datetime.date(2015, 5, 31): 118000.0, datetime.date(2016, 5, 31): 919000.0, datetime.date(2017, 5, 31): 477000.0, datetime.date(2018, 5, 31): 572000.0, datetime.date(2019, 5, 31): 173000.0, datetime.date(2020, 5, 31): 163000.0, datetime.date(2021, 5, 31): 227000.0, datetime.date(2022, 5, 31): 416000.0, datetime.date(2023, 5, 31): 1362000.0, datetime.date(2024, 5, 31): 749000.0, datetime.date(2025, 5, 30): 4992000.0, datetime.date(2026, 5, 29): 2066000.0}
+capital_acquired: ({datetime.date(2010, 5, 31): 69000.0, datetime.date(2011, 5, 31): 15000.0, datetime.date(2012, 5, 31): 45000.0, datetime.date(2013, 5, 31): 127000.0, datetime.date(2014, 5, 31): 339000.0, datetime.date(2015, 5, 31): 118000.0, datetime.date(2016, 5, 31): 919000.0, datetime.date(2017, 5, 31): 477000.0, datetime.date(2018, 5, 31): 572000.0, datetime.date(2019, 5, 31): 173000.0, datetime.date(2020, 5, 31): 163000.0, datetime.date(2021, 5, 31): 227000.0, datetime.date(2022, 5, 31): 416000.0, datetime.date(2023, 5, 31): 1362000.0, datetime.date(2024, 5, 31): 749000.0, datetime.date(2025, 5, 30): 4992000.0, datetime.date(2026, 5, 29): 2066000.0}, {})
+rev: {datetime.date(2017, 5, 31): 18898000.0, datetime.date(2018, 5, 31): 29555000.0, datetime.date(2019, 5, 31): 21056000.0, datetime.date(2020, 5, 31): 22291000.0, datetime.date(2021, 5, 31): 16600000.0, datetime.date(2022, 5, 31): 50829000.0, datetime.date(2023, 5, 31): 64961000.0, datetime.date(2024, 5, 31): 66218000.0, datetime.date(2025, 5, 30): 58968000.0, datetime.date(2026, 5, 29): 50001000.0, datetime.date(2010, 5, 31): 11674000.0, datetime.date(2011, 5, 31): 13737000.0, datetime.date(2012, 5, 31): 15521000.0, datetime.date(2013, 5, 31): 16488000.0, datetime.date(2014, 5, 31): 19684000.0, datetime.date(2015, 5, 31): 10018000.0, datetime.date(2016, 5, 31): 14501000.0}
+shares: (datetime.date(2026, 7, 20), 32620450.0)
+== a8bc84f on facts filed by 2026-09-01 ==
+share_count_shift : 1.0978953011402472
+scale_shift : 3.061987951807229
+restatement_shift : (1.0, datetime.date(2018, 5, 31))
+owner_earnings : {'5y_da': -4839600.0, '5y_capex': -5443000.0, '3y_da': -9735333.333333334, '3y_capex': -10400666.666666666}
+dei elements: ['EntityCommonStockSharesOutstanding', 'EntityPublicFloat']
+dei EntityCommonStockSharesOutstanding 2025-04-01 29771410 10-Q 2025-04-10 CY2025Q1I
+dei EntityCommonStockSharesOutstanding 2025-07-15 29915061 10-K 2025-07-28 CY2025Q2I
+dei EntityCommonStockSharesOutstanding 2025-10-01 30006590 10-Q 2025-10-08 CY2025Q3I
+dei EntityCommonStockSharesOutstanding 2026-01-02 30627342 10-Q 2026-01-12 CY2025Q4I
+dei EntityCommonStockSharesOutstanding 2026-04-01 31453254 10-Q 2026-04-08 CY2026Q1I
+dei EntityCommonStockSharesOutstanding 2026-07-20 32620450 10-K 2026-07-27 CY2026Q2I
+dei EntityPublicFloat 2020-11-30 34124251 10-K 2021-08-27 CY2020Q4I
+dei EntityPublicFloat 2021-11-30 1 10-K 2022-08-26 CY2021Q4I
+dei EntityPublicFloat 2023-01-01 0 10-K 2023-08-28 CY2022Q4I
+dei EntityPublicFloat 2023-11-30 630123470 10-K 2024-07-30 CY2023Q4I
+dei EntityPublicFloat 2024-11-29 334587442 10-K 2025-07-28 CY2024Q4I
+dei EntityPublicFloat 2025-11-28 671378691 10-K 2026-07-27 CY2025Q4I

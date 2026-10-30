@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <schemaVersion>X0202</schemaVersion>
+<headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001441449</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Class A Common Stock, $0.00001 par value</securitiesClassTitle>
+      <dateOfEvent>05/15/2026</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001868941</issuerCIK>
+        <issuerCusips>
+          <issuerCusipNumber>34379V103</issuerCusipNumber>
+        </issuerCusips>
+        <issuerName>Fluence Energy, Inc.</issuerName>
+        <address>
+          <com:street1>4601 FAIRFAX DRIVE</com:street1>
+          <com:street2>SUITE 600</com:street2>
+          <com:city>ARLINGTON</com:city>
+          <com:stateOrCountry>VA</com:stateOrCountry>
+          <com:zipCode>22203</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Charles Hubbard</personName>
+          <personPhoneNum>0097444990696</personPhoneNum>
+          <personAddress>
+            <com:street1>Ooredoo Tower (Building 14) Al Dafna St</com:street1>
+            <com:street2>Street 801 Al Dafna (Zone 61)</com:street2>
+            <com:city>Doha</com:city>
+            <com:stateOrCountry>S3</com:stateOrCountry>
+            <com:zipCode>Zone 61</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001441449</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Qatar Investment Authority</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>S3</citizenshipOrOrganization>
+        <soleVotingPower>11801103.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>11801103.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>11801103.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.9</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>The reported percentage is calculated based upon 132,811,490 shares of Class A Common Stock outstanding as of May 1, 2026, as reported in the Issuer's Form 10-Q filed with the SEC on May 6, 2026.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Common Stock, $0.00001 par value</securityTitle>
+        <issuerName>Fluence Energy, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>4601 FAIRFAX DRIVE</com:street1>
+          <com:street2>SUITE 600</com:street2>
+          <com:city>ARLINGTON</com:city>
+          <com:stateOrCountry>VA</com:stateOrCountry>
+          <com:zipCode>22203</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13D is filed by Qatar Investment Authority ("QIA" or the "Reporting Person"), the sovereign wealth fund of the State of Qatar, with respect to the Class A Common Stock held of record by Qatar Holding LLC (the "Investor"), a limited liability company formed under the laws of Qatar, and a wholly-owned subsidiary of the Reporting Person.</filingPersonName>
+        <principalBusinessAddress>The principal business address and residence of the Reporting Person is Ooredoo Tower (Building 14), Al Dafna Street (Street 801), Al Dafna (Zone 61), PO Box 23224 Doha, State of Qatar.</principalBusinessAddress>
+        <principalJob>This Schedule 13D is filed by Qatar Investment Authority ("QIA" or the "Reporting Person"), the sovereign wealth fund of the State of Qatar, with respect to the Class A Common Stock held of record by Qatar Holding LLC (the "Investor"), a limited liability company formed under the laws of Qatar, and a wholly-owned subsidiary of the Reporting Person.</principalJob>
+        <hasBeenConvicted>During the last five years, the Reporting Person has not been (i) convicted in any criminal proceeding (excluding traffic violations or similar misdemeanors) or (ii) a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</hasBeenConvicted>
+        <convictionDescription>During the last five years, the Reporting Person has not been (i) convicted in any civil proceeding (excluding traffic violations or similar misdemeanors) or (ii) a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Qatar</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>On May 15, 2026, the Qatar Holding LLC sold 2,867,172 shares of Class A Common Stock in an aggregate amount equal to $60,210,612 at $21 per share. </fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Item 4 is supplemented by reference to Item 3. </transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The Reporting Person has sole voting and dispositive power over 11,801,103.00 Class A Common Stock, representing 8.9% of the outstanding Class A Common Stock</percentageOfClassSecurities>
+        <numberOfShares>(i) Sole power to vote or direct the vote: 11,801,103.00
+
+(ii) Shared power to vote or direct the vote: 0
+
+(iii) Sole power to dispose or direct the disposition: 11,801,103.00
+
+(iv) Shared power to dispose or direct the disposition: 0</numberOfShares>
+        <transactionDesc>Apart from the transaction as reported in this Schedule 13D the Reporting Person has not effected any transactions in Class A Common Stock during the past sixty days.</transactionDesc>
+        <listOfShareholders>To the best knowledge of the Reporting Person, no person other than the Reporting Person has the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the securities beneficially owned by the Reporting Person.</listOfShareholders>
+        <date5PercentOwnership>Not applicable</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 of the Schedule 13D is hereby supplemented by incorporating reference of Item 2a.</contractDescription>
+      </item6>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Qatar Investment Authority</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Mohammed Fahad Al Khulaifi</signature>
+          <title>Head of Compliance and Governance</title>
+          <date>05/18/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>

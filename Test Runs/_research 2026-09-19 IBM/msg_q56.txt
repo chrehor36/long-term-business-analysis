@@ -1,0 +1,45 @@
+IBM: computation (not a clearance), Q6, self-audit and register - FAIL at Q2, price US$229.55
+
+COMPUTATION - NOT A CLEARANCE, under operator rule 3, because Q5 did not open. Price US$229.55
+(2026-09-18 close, Yahoo regularMarketPrice at 16:00:03 ET, aggregator flagged) x 942,134,390
+shares (Q2 2026 10-Q cover, 0000051143-26-000078) = cap US$216,267M. Owner earnings $9,486M to
+$12,234M across every window, both (c) ends and both financing constructions; judged centre
+$10.5bn after [E4-41] removes the z17 cycle peak, $200M of currency and the tax-audit settlements.
+Yield 4.39%-5.66% against a 5.34% sovereign: -0.95 to +0.32 points. The ~10% floor [E4-28] is
+missed by 4.3 to 5.6 points at EVERY end, so no ranking position is assigned. Value roughly $110
+to $160 a share; the price is above the whole range and above even bond parity ($209), which no
+buying standard endorses. Bar 2 (screamer), outcome three: price above the whole range. WINDAGE
+ZERO, with the proof - at the completely un-normalised top of the band the yield is 5.66% and the
+floor is still missed by 4.34 points.
+
+What the buyer is paying $216.3bn for, in words: a mainframe franchise of $19-22bn of revenue that
+IBM will not report profit or units for; a $21.1bn consulting business at 11.7% whose signings fell
+13.3% and which is paid to migrate applications off that franchise; a $22.6bn bought software
+portfolio; a $15.1bn loan book at 9:1; $67.7bn of goodwill and $46bn of industrial debt against
+$8.2bn of cash; and three 2026 programmes. Cash return: a 2.94% dividend.
+
+THE STRONGEST FACT AGAINST THIS FILE, stated as well as its holders would state it [E4-51]: IBM's
+owner earnings have grown FASTER than the 5.14% the floor requires - 9.13% a year at construction
+A's capex end and 16.38% at B's, FY2022 to FY2025, with industrial cash up 48%. Four answers, none
+by assertion: the file closed at Q2 and no growth rate reopens a Q2; FY2022 is a trough and from
+FY2023 construction A is DOWN ($11,309M to $9,861M), which is exactly [E4-38]'s selected-base-year
+warning, so every window is shown; the growth is margin recovery plus a cycle peak plus bought
+revenue and none is a perpetuity; and part of B's 16.38% is the finance book growing, which is
+lending, not earning.
+
+Q6 arms NOTHING - the QLYS ruling: a Q2 failure is a failure on the business and a price alert
+would be a category error. No alerts.json band, no PORTFOLIO row. Reopening conditions recorded in
+words: a structural separation putting the mainframe complex on its own books (which would be a new
+name to run, not a reversal), a sustained stop to the acquisition programme with repurchase below
+conservative value ([E2-48]'s superstar tell), or filed [E2-44] pricing-power evidence outside the
+mainframe. Thesis-breaking metric and threshold pre-committed [E1-02].
+
+Self-audit: no UNRESEARCHED verdict anywhere - this file is short of no document it could have
+obtained. Two UNKNOWABLE sub-questions named (franchise-leg profit and units; the empty mainframe
+comparator set). Five things I could not do are listed, including [E3-70] grant value, the TTM
+industrial construction, and the un-attempted Kyndryl residual rebuild with the note that it would
+have been the work order had the answer been close.
+
+python tools/check_framework.py PASS - 0 phantom citations, 0 unlabelled numbers.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

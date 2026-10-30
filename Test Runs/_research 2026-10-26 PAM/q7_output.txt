@@ -1,0 +1,37 @@
+COMPUTATION, NOT A CLEARANCE (US$ millions)
+year                                            2021    2022    2023    2024    2025
+OCF continuing (before interest paid)            613     619     575     435     778   avg   604.0
+capital spending (PP&E + intangibles)            210     447     758     447     993   avg   571.0
+D&A (maintenance guess)                          205     212     267     342     414   avg   288.0
+net acquisitions                                 -34      67     -71     -71      37   avg   -14.4
+dividends from investees                          18      10       0      46      70   avg    28.8
+owner cash, all spending, acq deducted           461     136     -91     105    -173   avg    87.6
+owner cash, all spending, organic                427     203    -162      34    -136   avg    73.2
+owner cash, maintenance only, acq deducted       466     371     400     210     406   avg   370.6
+owner cash, maintenance only, organic            432     438     329     139     443   avg   356.2
+growth spending (capex - D&A)                      5     235     491     105     579   avg   283.0
+interest paid                                    140     162     280     145     161   avg   177.6
+change in income-tax liabilities                  66     -24    -112     260       3   avg    38.6
+sales CAGR 2021-2025 7.29%
+maintenance owner cash growth 2021-2025 -3.39% (end years 466 -> 406)
+halves check: 2021-22 avg 418, 2024-25 avg 308
+market cap 4,262 on 53.60M ADS at $79.5; net debt 1319; EV 5,581
+
+ALL-EQUITY range at the sovereign 5.33%: EV 3,493 to 6,953; equity 2,174 to 5,634
+   per ADS $40.55 to $105.11; per share $1.622 to $4.204
+   width top/bottom (EV): 1.99x
+
+ALL-EQUITY range at the floor 10% (fair price): EV 1,472 to 3,706; equity 153 to 2,387
+   per ADS $2.85 to $44.53; per share $0.114 to $1.781
+   FAIR PRICE all-equity: $23.69 per ADS ($0.948 per share)
+
+floor test, all-equity: maintenance no-growth owner cash 371 / EV 5,581 = 6.64% (zero growth)
+floor test, all-spending literal: 88 / EV = 1.57%
+
+EQUITY-ONLY: maintenance owner cash after interest 193; yield on market cap 4.53%
+   equity-only sovereign: equity 160 to 3,621; per ADS $2.99 to $67.55
+   equity-only 10%: equity -304 to 1,930; per ADS $-5.67 to $36.00
+   FAIR PRICE equity-only: $15.17 per ADS ($0.607 per share)
+
+LITERAL all-spending window, no growth: EV 1,644; equity 325; per ADS $6.05
+tax-accrual variant: maintenance owner cash 332; no-growth EV 6,229; per ADS $91.60

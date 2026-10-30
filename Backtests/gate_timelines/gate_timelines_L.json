@@ -1,0 +1,209 @@
+{
+  "CAT": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Caterpillar builds and sells construction, mining and energy equipment through ~160 independent dealers, and earns a large, higher-margin annuity on replacement parts and service tied to the installed base; a captive lender (Cat Financial) finances the machines. A generalist can state the unit economics: machine margin plus decades of parts pull-through, against a deeply cyclical volume line."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "As of the 2015-06-30 anchor the moat is the dealer network and parts distribution, not the machine itself: Caterpillar was the world's #1 maker of construction and mining equipment, with independent dealers whose relationships and territories span generations and a parts system built to deliver most components anywhere within 24 hours. Downtime economics make an installed-base owner reluctant to switch. The 2012-2016 mining collapse is a VOLUME event, not share loss: revenue fell from the 2012 peak of $65.9B to $55.7B in 2013 (reported 2014-01) and $55.2B in 2014 (reported 2015-01), and Caterpillar's monthly retail-machine-sales 8-Ks had shown negative year-over-year world machine sales continuously from late 2012 through the anchor. Q1 2015 (reported 2015-04-23) showed Resource Industries down again. Post-anchor and excluded at this date: Q2 2015 (2015-07-23) Resource Industries sales $1.991B, -11% y/y, with segment profit at break-even vs $114M a year earlier; on 2015-09-24 Caterpillar announced a restructuring cutting up to 10,000 jobs and said 2012-peak-to-2016 sales would fall about $20B (~31%), roughly two-thirds of it mining. Sales troughed at $38.5B in 2016 and the franchise recovered strongly from 2017 -- which is the evidence that the moat was intact and the cycle, not the moat, was doing the damage."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2013-01",
+        "severity": "SERIOUS",
+        "note": "Announced 2013-01-18: Caterpillar's audit committee concluded (2013-01-16) that senior managers at Zhengzhou Siwei / ERA Mining Machinery had run multi-year accounting misconduct -- improper cost allocation overstating profit and early, sometimes unsupported, revenue recognition. Caterpillar took a ~$580M non-cash goodwill impairment (Q4 2012), about two-thirds of the $886M purchase price, and removed several Siwei managers. DISCONTINUITY FLAG: the fraud was committed by the acquired Chinese company's own management BEFORE Caterpillar closed the deal in mid-2012; Caterpillar discovered it (inventory discrepancies, 2012-11), investigated, disclosed promptly and CEO Doug Oberhelman publicly accepted blame (2013-01-28). Graded SERIOUS as acquired-entity conduct under different management, with a genuine due-diligence failure attributable to Caterpillar."
+      },
+      {
+        "date": "2014-04",
+        "severity": "SERIOUS",
+        "note": "Public 2014-04-01: Senate Permanent Subcommittee on Investigations hearing (Levin) released a report finding Caterpillar had shifted more than $8B of US taxable income to a Swiss affiliate, Caterpillar SARL (CSARL), from 2000-2012 and deferred or avoided about $2.4B of US tax, under a structure designed by PricewaterhouseCoopers; by 2008 roughly 45% of consolidated revenue and 43% of profit was booked in CSARL while the parts business was physically run from Illinois. No finding of illegality -- Caterpillar and PwC testified the structure complied with law. This is aggressive-but-lawful tax planning made public by a hostile congressional forum, not an adjudicated wrong."
+      },
+      {
+        "date": "2015-01",
+        "severity": "SERIOUS",
+        "note": "Both pre-anchor and both disclosed in the Form 10-K filed 2015-02-17, i.e. BEFORE the 2015-06-30 anchor: (a) on 2015-01-08 Caterpillar received a federal grand jury subpoena from the US District Court for the Central District of Illinois seeking documents on undistributed foreign profits and cash movements among US and non-US subsidiaries; (b) on 2015-01-30 Caterpillar received the IRS Revenue Agent's Report closing the 2007-2009 exam, proposing roughly $1B of additional tax and accuracy-related penalties on CSARL parts profits under substance-over-form / assignment-of-income doctrines. Caterpillar said it would vigorously contest and that the transactions complied with applicable law. An analyst standing at 2015-06-30 therefore knew a criminal grand jury and a billion-dollar IRS assessment were live."
+      },
+      {
+        "date": "2017-03",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR (excluded at 2015-06-30). On 2017-03-02 federal agents from the US Attorney's office for the Central District of Illinois, IRS Criminal Investigation, FDIC Office of Inspector General and Commerce Department export enforcement executed search warrants at three Caterpillar sites: Peoria headquarters, East Peoria offices, and the Morton parts distribution center, seizing documents and electronic records tied to the CSARL cash and equipment transfers. A government-commissioned report by Dartmouth accounting professor Leslie Robinson, reported 2017-03-07, alleged Caterpillar had brought back billions in offshore profits without paying required tax and had failed to comply with tax and financial reporting rules. Caterpillar denied wrongdoing; press reports say the DOJ criminal probe wound down after 2018."
+      },
+      {
+        "date": "2022-09",
+        "severity": "MINOR",
+        "note": "RESOLUTION, post-anchor. On 2022-09-08 Caterpillar announced a settlement with the IRS covering tax years 2007-2016 for roughly $740M ($490M tax plus $250M interest) -- less than 35% of the ~$2.3B originally sought -- with NO penalties and, critically, NO adjustment based on the substance-over-form or assignment-of-income doctrines the IRS had asserted. No civil or criminal charges were ever filed against Caterpillar or any employee. The 2014-2017 allegations were therefore materially reduced on resolution; the tax structure was ultimately not held to be a sham. Any dated read of this company must not let the 2017 raid headlines colour the 2015 anchor, nor let the 2022 vindication colour the 2015 or 2017 dates."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "CB": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "NAMING DISCONTINUITY: at the 2014-06-30 anchor the ticker CB is ACE Limited, a Zurich/Bermuda-domiciled global commercial property and casualty insurer and reinsurer -- NOT The Chubb Corporation, which was then a separate NYSE company (ticker CB was Chubb Corp's; ACE traded as ACE). ACE acquired Chubb Corp and adopted its name and ticker only on 2016-01-14. The economics are Buffett's home ground: write premium, hold float, invest it, and make money only if the combined ratio stays below 100. Reserve estimation is judgmental, which is the one genuinely hard-to-verify input, but the business model is plainly explainable."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "At the 2014-06-30 anchor ACE's advantage is underwriting discipline plus a hard-to-replicate global licensing and branch network (operations in ~54 countries) and AA-category financial strength ratings that large multinational buyers require. The evidence is the record, not the story: ACE ran a P&C combined ratio of 88.0% in 2013 (reported 2014-01-28) and had compounded book value per share for over a decade under Evan Greenberg (CEO from 2004-05). But commercial P&C is a capital commodity -- capacity is repriced annually by brokers, switching costs for the insured are near zero, and soft markets punish everyone. That is a NARROW moat: real, operator-dependent, and reversible if underwriting discipline slips. Not WIDE."
+      },
+      {
+        "from": 2017,
+        "class": "NARROW",
+        "note": "Change visible after the anchor: ACE agreed on 2015-07-01 to buy The Chubb Corporation for $28.3B and closed on 2016-01-14 at ~$29.5B ($14.3B cash, $15.2B stock), immediately adopting the Chubb name globally and the CB ticker -- creating the world's largest publicly traded P&C insurer. The addition of Chubb's high-net-worth personal lines franchise (a genuinely sticky, service-differentiated book) and greater scale in US middle market strengthened the moat, and the combined company kept posting high-80s combined ratios. It is still NARROW rather than WIDE: the core is still annually repriced commercial insurance, and the source of returns is management discipline over the cycle rather than a structural toll."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2006-04",
+        "severity": "DISQUALIFYING",
+        "note": "First public 2004-10-14, when NY AG Eliot Spitzer's civil complaint against Marsh & McLennan described a sham-bidding scheme in which insurers, ACE units among them, submitted deliberately uncompetitive 'B quotes' so a designated incumbent would win, in exchange for steered business paid for via undisclosed contingent commissions. Settled 2006-04-25/26 with the New York, Illinois and Connecticut attorneys general for $80M -- $40M restitution to policyholders whose excess casualty placements were rigged and $40M in penalties -- plus a bar on contingent commissions on excess casualty through 2008. The settlement also covered finite-reinsurance accounting: regulators found ACE had created the false appearance of risk transfer in at least six deals using SECRET SIDE AGREEMENTS whose wording contradicted the written contracts. Bid-rigging plus off-contract side letters that falsify risk transfer is exactly the dishonesty category, hence DISQUALIFYING, notwithstanding that ACE settled without admitting liability. PARTIAL DISCONTINUITY: the conduct ran roughly 1999-2004; Evan Greenberg became ACE's CEO in 2004-05 (having joined the company in 2001 and served as president/COO from 2003), so this is not a clean change of regime. LATER REDUCTION: the related criminal convictions of two former Marsh executives (February 2008, NY antitrust) were VACATED on 2010-07-02 by Justice James Yates, who found undisclosed evidence and cooperator testimony that contradicted the trial record; other defendants were acquitted or had charges dismissed. The civil/regulatory findings against ACE were never undone."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "CI": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "At the 2014-06-30 anchor Cigna is mostly a fee-based administrator: the majority of its US medical membership is self-funded employer business where Cigna is paid a per-member administrative fee and the employer carries the claims risk, alongside insured medical, group disability and life, and a fast-growing international supplemental health arm. Explainability improved materially on 2013-02-04 when Cigna paid Berkshire Hathaway Life of Nebraska about $2.2B (funded with ~$1.8B of supporting assets, $100M of parent cash and a ~$300M tax benefit) to reinsure its run-off variable annuity death-benefit and guaranteed-minimum-income-benefit books, taking a ~$500M after-tax charge -- removing the one genuinely opaque, equity-market-sensitive liability from the story."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "The durable pieces at 2014-06-30 are entrenched national and middle-market employer relationships (multi-year, high switching cost once payroll, wellness and claims systems are integrated), specialty attach (behavioural, pharmacy, dental, stop-loss) on top of the ASO base, and a genuinely differentiated international supplemental business. Against that: rates are bid annually, provider networks are replicable within a market, and the Affordable Care Act (enacted 2010-03) imposed medical loss ratio floors from 2011 that cap insurer margin at 15-20% of premium, with exchanges opening 2013-10 adding a lower-margin individual channel. Cigna nevertheless compounded adjusted EPS through 2012-2014 and earned mid-to-high-teens ROE. That is NARROW, not WIDE -- a regulated scale advantage, not a toll."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2009-02",
+        "severity": "SERIOUS",
+        "note": "Public 2009-02-17: as part of NY AG Andrew Cuomo's industry-wide investigation, Cigna agreed to stop using the UnitedHealth-owned Ingenix database to set 'usual and customary' out-of-network rates and to contribute $10M toward an independent replacement (which became FAIR Health, Inc., seeded with almost $100M across insurers). The AG's finding was that the Ingenix data understated prevailing charges, systematically shifting cost onto patients who used out-of-network care. Settled without admission of liability; Cigna's $10M was small relative to UnitedHealth's $350M. Graded SERIOUS: a regulatory action over systematic underpayment, but Cigna was a user of an industry utility rather than its architect."
+      },
+      {
+        "date": "2013-05",
+        "severity": "SERIOUS",
+        "note": "Agreement dated 2013-05-13 with the insurance regulators of California, Connecticut, Maine, Massachusetts and Pennsylvania over long-term disability claim handling. Cigna agreed to reopen and reassess claims denied in California from January 2008 through December 2010 and in the other four states from January 2009 through December 2010, to adopt enhanced claim documentation and disposition procedures, and to submit to two years of regulatory monitoring. Cigna recorded a $77M pre-tax ($51M after-tax) charge in Q1 2013: $48M of benefit costs and reserves on claims expected to be reopened (including $925,000 of fines, $750,000 of regulatory surcharges and $9.5M of claim handling expense) plus $29M of additional cost on open claims from the process changes. Material, dated, pre-anchor, no admission of wrongdoing."
+      },
+      {
+        "date": "2016-01",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR (excluded at 2014-06-30). On 2016-01-21 CMS imposed immediate intermediate sanctions suspending all enrollment and marketing for Cigna-HealthSpring and Bravo Health Medicare Advantage and Part D plans across eight states, citing 'widespread and systemic failures' in coverage determinations, appeals and grievances, Part D formulary and benefit administration, access to facilities and records, and compliance program effectiveness, which caused enrollees to face delays, denials and higher out-of-pocket cost. The sanctions were not lifted until 2017-06-16 after remediation in March-April 2017 and an independent audit."
+      },
+      {
+        "date": "2023-09",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR. On 2023-09-29 Cigna agreed to pay about $172M across two False Claims Act settlements and entered a five-year corporate integrity agreement with HHS-OIG. The core allegation concerned the '360' program, in which vendors performed in-home assessments of Medicare Advantage members and Cigna submitted the resulting diagnosis codes to CMS for risk-adjustment payment even though the visiting nurses had not performed the testing or imaging needed to support those diagnoses. Relator Robert Cutler received $8.1M. No admission of liability."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "CLX": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Clorox makes and sells low-priced, frequently repurchased household consumables -- bleach and cleaners, Glad bags, Kingsford charcoal, Hidden Valley dressings, Brita filters, Burt's Bees, Fresh Step -- through grocery, mass and club retailers. Unit economics are as simple as they get: raw material plus conversion plus roughly 10% of sales in advertising, sold at a branded premium over a store-brand alternative sitting on the same shelf."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Honest reading at the 2014-06-30 anchor, and against private label specifically. In favour: Clorox stated in its FY2014 10-K (fiscal year ended 2014-06-30, filed August 2014) that close to 90% of its brands hold the #1 or #2 share position in their categories, and it sustained gross margins in the low-to-mid 40s while pushing list price increases through 2011-2014 commodity inflation. Against: liquid bleach was ~13% of consolidated net sales in FY2014 (14% in FY2013 and FY2012) and is a chemically identical commodity where store brands compete openly on price; Glad bags and Kingsford face the same store-brand attack; and growth was thin -- FY2014 sales of about $5.6B were roughly flat with FY2013, so the pricing power that exists shows up as margin defence rather than volume growth, and it depends on continuous innovation and advertising spend to justify the premium. That combination -- real per-category leadership, no category-wide toll, private label always one shelf away -- is NARROW, not WIDE. Dated post-anchor event that tests the franchise's edges rather than its moat: on 2014-09-22 Clorox declared its Venezuelan business no longer viable and shut it, and on 2014-09-26 the Maduro government occupied the Santa Lucia and Guacara plants; Clorox took $60-65M of after-tax exit costs in FY2015 -- an expropriation loss, not a competitive one."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2011-12",
+        "severity": "MINOR",
+        "note": "Reported 2011-12-01: Clorox settled a California district attorneys' consumer protection action, approved by Alameda County Superior Court, paying just under $200,000 and accepting an injunction against deceptive packaging headspace. The allegation was that Anti-Allergen Bleach and Cold-Water Bleach, sold in California from January 2008 to January 2010, were packaged in the same 3-litre bottles as regular bleach but filled to only ~80% versus ~95%, violating California's Fair Packaging and Labeling Act by making value comparison misleading. Settled without admission of liability; the products were discontinued. Ordinary-course consumer-protection housekeeping at trivial dollar size."
+      },
+      {
+        "date": "2026-01",
+        "severity": "MINOR",
+        "note": "POST-ANCHOR, and flagged as only partially verified in this research. A proposed settlement agreement between the Consumer Product Safety Commission and The Clorox Company carrying a $14,150,000 civil penalty was published in the Federal Register on 2026-01-27 for public comment. CPSC civil penalties of this type customarily concern failure to report a product hazard within the statutory window rather than affirmative deception; the underlying product and conduct were not confirmed in this research and should be verified before being relied on."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "CMCSA": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Two businesses, both explainable. Comcast Cable owns physical coaxial/fibre plant passing roughly 57 million US homes and bills monthly subscriptions for broadband, video, voice and increasingly wireless; NBCUniversal owns broadcast and cable networks, a film studio and theme parks. The cable economics -- sunk plant, high incremental margin on each added broadband subscriber, capex driven by node splits and equipment rather than re-trenching -- are straightforward for a generalist."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "At the 2018-06-30 anchor the moat is the pipe, and the evidence separates the two products cleanly. BROADBAND (pricing power intact): in the results reported 2018-01-24 Comcast added more than one million high-speed internet customers in 2017 -- the twelfth consecutive year above that mark -- while high-speed internet revenue grew roughly 8-9% a year on annual rate increases plus speed-tier mix, in most of its footprint against one telco DSL/partial-fibre alternative or none. Raising price every year while still taking share is the definition of demonstrated pricing power. Comcast's DOCSIS 3.1 upgrade (rolled out from 2016) delivered gigabit speeds over the existing plant, so it could match fibre marketing claims without a fibre rebuild. VIDEO (melting, and less important than it looks): video customers fell about 186,000 in 2017 (roughly 38,000 in Q4 2017 alone), with cord-cutting plainly visible since 2013 -- but video was the low-margin product, squeezed between rising programming fees and OTT substitutes, and its decline was already being more than offset by broadband ARPU and net adds. The correct 2018 judgement is that Comcast was converting a declining video monopoly into a durable broadband one, and the moat was WIDE."
+      },
+      {
+        "from": 2023,
+        "class": "NARROW",
+        "note": "The inflection became public on 2022-07-28, when Comcast reported that Q2 2022 broadband customers were flat at 32.2 million -- zero net additions, the first time ever, and the same quarter Charter also reported a decline, the first-ever drop for the two largest cable operators. The cause was competitive entry that had not existed in 2018: T-Mobile and Verizon fixed-wireless home internet (T-Mobile added 560,000 broadband customers that quarter) plus accelerating fibre overbuild. From this point the local broadband monopoly is a contested market: Comcast's pricing power now shows as an explicit ARPU-versus-volume trade-off rather than as both at once, and losses followed (for example about 167,000 broadband customers lost in Q2 2025). Still a good business with sunk plant and high incremental margins -- but NARROW, not WIDE. This entry is dated from 2023 because a June-30 anchor could not see the 2022-07-28 disclosure until the 2023 anchor."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2008-08",
+        "severity": "SERIOUS",
+        "note": "Associated Press testing in October 2007 showed Comcast was interfering with BitTorrent peer-to-peer transfers by forging reset packets; Comcast initially denied blocking, then acknowledged the practice and characterised it as reasonable network management. On 2008-08-01 the FCC ruled that Comcast had violated its 2005 Internet Policy Statement by secretly degrading customer traffic and ordered disclosure and termination of the practice. REVERSED: on 2010-04-06 the DC Circuit vacated the order in Comcast Corp. v. FCC -- but on jurisdictional grounds (the FCC had failed to tie its ancillary authority to a statutory mandate), not on the underlying facts. Graded SERIOUS for the initial denial of conduct the company was in fact engaged in."
+      },
+      {
+        "date": "2016-08",
+        "severity": "SERIOUS",
+        "note": "On 2016-08-01 Washington Attorney General Bob Ferguson sued Comcast for more than $100M, alleging it misrepresented the scope of its Service Protection Plan, charged for service calls that should have been free, and ran improper credit checks. Pre-anchor as a filed action; the FINDING is post-anchor: on 2019-06-11 King County Superior Court Judge Timothy Bradshaw ruled Comcast violated the Washington Consumer Protection Act more than 445,000 times, including enrolling roughly 31,000 customers in the Service Protection Plan without their consent, and imposed about $9.1M in penalties plus restitution -- the largest trial award ever in a Washington consumer protection case, though far short of the $100M sought, with substantial parts of the state's case rejected."
+      },
+      {
+        "date": "2016-10",
+        "severity": "SERIOUS",
+        "note": "On 2016-10-11 Comcast agreed to pay the FCC $2.3M -- described by the FCC as the largest civil penalty ever levied on a cable operator -- and to a five-year compliance plan, resolving an investigation into 'negative option billing' or cramming. Triggered by subscriber complaints filed with the FCC during 2014 and 2015, the investigation concluded Comcast had charged customers for premium channels, set-top boxes and DVRs they never affirmatively requested, and refunded them only after persistent customer effort. Settled without an admission of liability. This sits at the boundary of the disqualifying category: it is unauthorised charging of customers at scale, but the FCC framed it as a systems and controls failure rather than an intentional scheme, so it is graded SERIOUS."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "COP": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "After spinning off its refining, marketing and chemicals arm as Phillips 66 on 2012-05-01, ConocoPhillips was a pure-play exploration and production company -- the largest independent E&P in the world at the 2014-06-30 anchor. The unit economics are transparent and brutal: revenue is a world price the company does not set, times barrels; profit is that price less finding, development and lifting costs, less depletion and taxes. Easy to explain, which is not the same as easy to own."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NONE",
+        "note": "Crude oil and natural gas are undifferentiated commodities and ConocoPhillips is a price taker; there is no brand, no switching cost, no network, and no ability to raise price. What the company had at the 2014-06-30 anchor was scale, a long-lived reserve base and a stated plan to deliver 3-5% annual production and margin growth funded by roughly $16B of annual capital spending against roughly comparable operating cash flow at $100+ Brent -- i.e. the growth was contingent on a price it did not control, and the programme was barely self-funding at the top of the cycle. Brent peaked around $115 on 2014-06-19, days before the anchor, and fell to the $50s by December 2014 and the $30s by January 2016; ConocoPhillips's realisations, earnings and dividend all followed the price down, which is the practical proof that no moat existed. Low-cost acreage is an advantage of degree within a commodity, not a durable competitive advantage; the correct class is NONE."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2011-07",
+        "severity": "SERIOUS",
+        "note": "Leaks at the Penglai 19-3 field in China's Bohai Bay, operated by ConocoPhillips China with CNOOC as partner, began in June 2011 but were not publicly reported until 2011-07-05, after a microblog tip-off -- the delay attributable in the first instance to China's State Oceanic Administration, which had withheld the news for about a month, a point that cuts against reading the whole episode as company concealment. Roughly 700 barrels of crude and about 2,500 barrels of oil-based drilling mud escaped, affecting some 6,200 square kilometres. The SOA ordered production suspended on 2011-09-02 and publicly accused ConocoPhillips China of failing to fully report the spill and of having represented that leak sources were sealed and cleanup complete when they were not; the company disputed the characterisation. Settlements followed: about RMB 1.09B for fisheries losses in Hebei and Liaoning agreed with the Ministry of Agriculture and SOA in January 2012, and a final April 2012 agreement bringing the total paid into compensation and marine-environment funds to roughly RMB 1.683B (on the order of $300M). Graded SERIOUS -- a material regulatory action with allegations of misreporting to a regulator, but a single operational incident with a contested factual record and a regulator that had itself suppressed disclosure, not a pattern of deception."
+      }
+    ],
+    "gate5_broken_by": "2016-02"
+  },
+  "CPB": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Campbell Soup makes and sells shelf-stable soup and broth, sauces (Prego, Pace), V8 beverages, Pepperidge Farm baked goods and snacks, and Arnott's biscuits in Australia, through supermarkets and mass retail. Unit economics are elementary: agricultural and packaging inputs plus conversion, sold at a branded premium, with a large share of the price gap given back as trade promotion to hold shelf space and features."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Judged honestly against private label at the 2013-06-30 anchor. The brand is genuinely dominant -- Campbell's held roughly 55-60% of the US wet soup category and condensed soup's red-and-white can is one of the most recognised marks in American retail, with real scale advantage in a low-price-per-serving product. But the pricing power is thin and the category was shrinking: FY2013 US soup sales rose only about 2.7% and did so on heavy promotional support, and the very next quarter reported (fiscal Q1 2014, released November 2013) showed condensed soup sales down 7% and ready-to-serve soup down 11%. Store brands compete directly on the shelf at a visible discount and take share whenever consumers trade down. Management's own behaviour confirms the read: rather than reinvest in soup, Campbell bought growth elsewhere -- Bolthouse Farms for $1.55B (announced 2012-07, closed 2012-08), Plum Organics (2013-06) and Kelsen (2013-08). Post-anchor, the pattern held and worsened: the 2018-05-18 results carried a $393M quarterly loss including $619M of Campbell Fresh impairments, and by 2022-09 the company was publicly acknowledging consumers switching to private label in condensed soup and broth. The soup brand never disappeared and the category share held, so the class remains NARROW throughout rather than falling to NONE -- but it was never WIDE at this anchor."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2021-02",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR (excluded at 2013-06-30). The House Oversight Subcommittee on Economic and Consumer Policy released a staff report on 2021-02-04 on toxic heavy metals in baby food; Plum Organics -- acquired by Campbell in June 2013 and still owned by Campbell at the time -- was among the manufacturers that did NOT provide the requested internal testing data, and the subcommittee characterised the non-response as a refusal to cooperate. Campbell and Plum issued a public response on 2021-02-25. Campbell sold Plum to Sun-Maid in May 2021, and the subcommittee's follow-up report of 2021-09-29 published the withheld data, showing Plum finished products with up to 225 ppb inorganic arsenic, a majority above 5 ppb lead and nearly 40% above 5 ppb cadmium. Consumer class actions were filed against Plum, Gerber and Beech-Nut from 2021-02. Graded SERIOUS for the refusal to produce safety data to a congressional inquiry, which is a candour failure rather than ordinary product litigation; note that no US regulatory limit for these metals in most baby foods existed at the time and the issue was industry-wide."
+      }
+    ],
+    "gate5_broken_by": "2018-05"
+  }
+}

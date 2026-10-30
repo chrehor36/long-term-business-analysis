@@ -1,0 +1,20 @@
+[
+ {
+  "id": "MA-floor-band",
+  "ticker": "MA",
+  "currency": "USD",
+  "op": "<=",
+  "threshold": 361.98,
+  "active": true,
+  "label": "MA at/below $361.98: the E4-28 floor is met at the E4-44 5% perpetual-growth ceiling (the JKHY, CAT, MSA, ECL, KEYS and ESI convention) on FY2025 owner earnings normalized for the cash-tax dip ($15.1bn; $15,836M as reported, property plus capitalized software as (c)) and 876,009,940 cover shares (Class A and Class B summed, one-for-one convertible), with no decade of double-digit growth assumed. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW: payment-network net take 15.6bp to 18.3bp of GDV FY2020-FY2025 after rebates, owner earnings +16.2%/yr FY2016-FY2025; NARROW because rebates are 51.3% of gross network fees and rising, Visa earns more every year, and interchange is capped with the network fees a filed regulatory target; Q4 GREAT, named death #17 THE PERMIT); Q5 quit on at $568.26 (yield 3.03-3.18% on the level against 5.49%; the price needs about 10.2-10.8%/yr for ten years then 5%; judged expectancy about 9.1-9.9%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag: $69.5bn of buybacks FY2016-FY2025 at 1.3-2.0x a floor-conservative value, H1 2026 buybacks funded with $5.6bn of new debt; litigation provisions excluded from adjusted EPS and pay). VOID if any falsifier has fired: payment-network net revenue per $ of GDV below 16bp two consecutive years; payment-network rebates above 55% of gross network fees; a law, regulation or decision capping or setting Mastercard's own network fees in the US, EU or UK; a US credit routing mandate enacted; GDV growing slower than Visa's total nominal volume two consecutive years while the operating margin before provisions falls; a litigation or settlement loss above $5bn in a year, a settlement-guarantee loss above $1bn, another year of buybacks above owner earnings funded by net new debt, or a purchase above $5bn. SUSPENDED if a merger agreement or tender offer naming Mastercard as target is filed. Re-derive on the FY2026 10-K (about February 2027). Source: Test Runs/2026-09-28 Run - MA Mastercard.md."
+ },
+ {
+  "id": "MA-rerun-band",
+  "ticker": "MA",
+  "currency": "USD",
+  "op": "<=",
+  "threshold": 534.35,
+  "active": true,
+  "label": "MA at/below $534.35: the E4-28 floor is met at the run's judged central construction, owner earnings of $15.1bn (FY2025 normalized) growing 10% a year for ten years and 5% thereafter (a two-stage engine that casts no vote; the record did 16.2%/yr in owner earnings and 13.2%/yr in revenue FY2016-FY2025, and E4-35 is the burden). Prompt for a FULL v4.1 re-run in which the level, the decade's growth, the rebate share and the regulatory perimeter are re-tested before any is spent. Re-derive both MA bands on the FY2026 10-K; VOID if any falsifier in MA-floor-band has fired; SUSPENDED if a bid for Mastercard is filed. Source: Test Runs/2026-09-28 Run - MA Mastercard.md."
+ }
+]

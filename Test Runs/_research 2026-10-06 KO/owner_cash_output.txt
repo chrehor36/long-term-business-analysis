@@ -1,0 +1,26 @@
+  FY     OCF   SBC  capex    D&A  OC capex   OC D&A  recast OC capex recast OC D&A recast recv days
+2016   8,792   258  2,262  1,787     6,272    6,747       0           6,272         6,747      33.6
+2017   7,041   219  1,750  1,260     5,072    5,562       0           5,072         5,562      37.0
+2018   7,627   225  1,548  1,086     5,854    6,316       0           5,854         6,316      36.1
+2019  10,471   201  2,054  1,365     8,216    8,905       0           8,216         8,905      38.9
+2020   9,844   126  1,177  1,536     8,541    8,182       0           8,541         8,182      34.8
+2021  12,625   337  1,367  1,452    10,921   10,836       0          10,921        10,836      33.2
+2022  11,018   356  1,484  1,260     9,178    9,402       0           9,178         9,402      29.6
+2023  11,599   254  1,852  1,128     9,493   10,217     167           9,660        10,384      27.2
+2024   6,805   286  2,064  1,075     4,455    5,444   6,000          10,455        11,444      27.7
+2025   7,408   279  2,112  1,050     5,017    6,079   6,069          11,086        12,148      23.1
+
+five-year means FY2021-FY2025 (USD millions):
+  as filed:  capex basis 7,812.8   D&A basis 8,395.6
+  recast:    capex basis 10,260.0   D&A basis 10,842.8
+  prior five FY2016-FY2020, recast = as filed: capex basis 6,791.0
+
+factoring sensitivity: FY2025 receivables at FY2020 days would be 4,566 vs 3,038 filed; difference 1,528 over the window = 306 a year
+
+recast capex basis, unlevered (+ interest paid x (1-0.21)) and pre-tax (+ interest paid + income taxes paid, IRS deposit excluded since it is already added back):
+  2021  recast  10,921  unlevered  11,504.0  pre-tax  13,827
+  2022  recast   9,178  unlevered   9,847.9  pre-tax  12,429
+  2023  recast   9,660  unlevered  10,777.9  pre-tax  13,655
+  2024  recast  10,455  unlevered  11,773.5  pre-tax  15,386
+  2025  recast  11,086  unlevered  12,448.0  pre-tax  15,683
+  means: unlevered 11,270.3   pre-tax 14,196.0

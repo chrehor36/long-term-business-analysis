@@ -1,0 +1,24 @@
+{
+ "ticker": "CHH",
+ "name": "Choice Hotels",
+ "headline": "A hotel franchisor that collects fees from nearly 500,000 US rooms while owning almost no hotels.",
+ "what_short": "Hotel franchisor with 22 brands",
+ "what_it_does": "Choice Hotels licenses its hotel brands to independent owners and collects fees. Owners pay a royalty of about 5% to 6% of room revenue plus a 3% to 4% fee for marketing and reservations, on contracts of 10 to 30 years. It has 22 brands, about 497,000 US rooms, and a few owned hotels that support its newer brands.",
+ "why_it_passed": [
+  "Franchising needs almost no capital: the franchising segment earned $603.1M in operating income in 2025 while spending about $39M on property and equipment.",
+  "The average US royalty rate rose from 4.41% in 2016 to 5.14% in 2025.",
+  "US rooms in the system grew from 404,498 in 2016 to 496,979 in 2025.",
+  "Fees are a share of room revenue, so income grows with hotel sales without Choice carrying hotel costs."
+ ],
+ "why_not_now": "The analysis values the shares at $23.63 to $60.29 against a price of $103.88. At that price a buyer would earn about 2.4% to 4.5% a year, below the 5.56% a 30-year US Treasury bond pays.",
+ "watch": [
+  "The US system lost 141 hotels and 14,760 rooms (-2.9%) in 2025.",
+  "Payments to win franchisees rose from $38.9M in 2019 to $83.4M in 2025, so the royalty Choice keeps after those payments is slightly lower than in 2019.",
+  "The chief executive left in May 2026 without an explanation in the filing, and debt is about $2.0 billion with most due 2029 to 2031."
+ ],
+ "value_low": 23.63,
+ "value_high": 60.29,
+ "utility": false,
+ "run_date": "2026-10-14",
+ "currency": "USD"
+}

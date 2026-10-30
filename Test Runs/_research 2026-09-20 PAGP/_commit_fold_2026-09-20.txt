@@ -1,0 +1,36 @@
+PAGP fold: register entry 133, wave 7 name 1, Q2 OUT on the business
+
+Plains GP Holdings owns no operating asset. Its sole cash is an ~85% LP
+interest in AAP, which holds 233.0M PAA common units -- about 31% of PAA's
+common and Series A preferred combined. The screen set the WHOLE consolidated
+group's operating cash ($1,318-1,750M) against 197.9M Class A shares: an
+overstatement of roughly four times. The filer states its own share three
+ways -- net income 15.4%, partners' capital 9.5%, distributions 17.3%.
+
+Q2 OUT on [E3-03] clauses (2) and (3), both in the filer's own words:
+markets 'overbuilt' with 'relatively low barriers to entry' and rivals who
+'may be motivated to reduce transportation rates to levels approaching
+variable operating costs'; and 'the majority of our pipeline profits in the
+United States ... remain regulated by FERC'. Competitor row, ten peers, five
+years, one metric from each filer's own 10-K: PAA 5.6% on deployed capital,
+tenth of eleven, against a peer median of 13.7%. Volumes +8%, rates resetting
+to market downward -- the #11 PASS-THROUGH signature, recorded WITHOUT a Q4
+verdict because Q4 was never opened.
+
+Price $27.67 x 197,904,124 Class A shares (10-Q cover 0001581990-26-000025)
+= cap $5,476.0M. Sovereign 5.34%, 30-yr US Treasury par curve, 2026-09-18,
+struck from the issuing authority. No band (QLYS ruling); reversal condition
+written in words.
+
+Five input defects recorded: the consolidated-numerator mismatch; the wc_note
+(payables released $1,970M but receivables absorbed $2,179M -- net working
+capital was a $227M DRAIN, so the flag named the wrong cause); the deal_note
+(keyed to EX-2.1, missed a completed $3.9bn divestiture filed as EX-2.2/2.3/
+2.4 and $1.5bn of junior subordinated notes issued 2026-09-14); the
+PropertyPlantAndEquipmentNet tag this filer abandoned after FY2020; and the
+ledger count -- 311 rows, not the 267 in CLAUDE.md, with the csv newline=''
+trap that makes a naive count read 286.
+
+check_framework.py PASSES. Register 132 -> 133, no duplicate ticker.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

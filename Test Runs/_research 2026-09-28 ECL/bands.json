@@ -1,0 +1,20 @@
+[
+ {
+  "id": "ECL-floor-band",
+  "ticker": "ECL",
+  "currency": "USD",
+  "op": "<=",
+  "threshold": 115.22,
+  "active": true,
+  "label": "ECL at/below $115.22: the E4-28 floor is met at g = 4.6% (the filer's organic, acquisition-adjusted fixed-currency sales change FY2018-FY2025, carried by the 2022-2023 inflation years) on the five-year depreciation-end owner earnings of $1,667.5M (post-ChampionX continuing operations) and 280,328,603 cover shares. Q1-Q4 all IN on 2026-09-28 (Q2 NARROW, widening since 2022: the filed price line never negative in any consolidated year FY2007-FY2025, +3% in 2009 at volume -3%, +1-2% in every non-energy segment in 2015-2016, +2% in 2020 at Institutional volume -21%; 44-86% pre-tax on net tangible capital; the 2019-2022 six-point gross-margin loss the recorded caveat); Q5 quit on at $279.49 (yield 1.87-2.13% five-year against 5.49%, expectancy about 6.4-7.5%). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag: buybacks at $252.41-263.91; E4-22, E4-27 and E2-30 converge: adjusted-EPS guidance, a bonus target below the public guidance, about $10.8bn of acquisition cash 2021-2026). VOID if any falsifier has fired: a negative consolidated price figure in any year, or a negative price in Global Water or Global Institutional & Specialty outside a year of falling raw-material costs the filer names; gross margin below 40% two consecutive years; pre-tax return on net tangible capital below 44.3% two consecutive years; an impairment of CoolIT, Ovivo or Purolite, or a purchase above $2bn before net debt is back to the filer's own 2x; any claim under the ChampionX tax undertaking or a TPC accrual above insurance; the adjusted-EPS bonus target again below the public guidance. Re-derive on the FY2026 10-K (about late February 2027, the first year with CoolIT's cash flows and the May 2026 coupons). Source: Test Runs/2026-09-28 Run - ECL Ecolab.md."
+ },
+ {
+  "id": "ECL-rerun-band",
+  "ticker": "ECL",
+  "currency": "USD",
+  "op": "<=",
+  "threshold": 165.71,
+  "active": true,
+  "label": "ECL at/below $165.71: the E4-28 floor is met only if the 5% perpetual-growth ceiling (the JKHY, CAT and MSA convention under E4-44) is granted on the TTM depreciation-end owner earnings ($2,212.0M to 2026-06-30, before CoolIT's $250.6M a year of new coupons; the capex end, $1,738.7M, would need more). Prompt for a FULL v4.1 re-run in which the level, the growth and the (c) end are re-tested before any is spent. Re-derive both ECL bands on the FY2026 10-K; VOID if any falsifier in ECL-floor-band has fired. Source: Test Runs/2026-09-28 Run - ECL Ecolab.md."
+ }
+]

@@ -1,0 +1,15 @@
+IIIN fold, all six steps: register entry 152, wave7_done at 20, narrative fold, no price band
+
+1. Register entry at the top of COMPLETED FROM THE QUEUE, carrying the price, the share
+   count and the cover accession, the cap, the sovereign and the PASS/FAIL line. Count
+   re-derived by index from the heading, not inherited: 151 before, 152 after, and IIIN
+   appeared nowhere in the file beforehand.
+2. Screens/_daily/_wave7_done.txt: 19 lines ending ADM, now 20 ending IIIN.
+3. Narrative fold appended to the prepped reading list: the findings, the refuted
+   priors, three tooling defects and two documentation findings.
+4. No alert and no PORTFOLIO row. The name failed on the BUSINESS, so the reversal
+   condition is recorded in words with price excluded (the QLYS ruling, [E5-35]).
+5. python tools/check_framework.py PASS before this commit.
+6. Committed with pathspecs.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

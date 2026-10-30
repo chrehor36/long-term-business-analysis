@@ -1,0 +1,28 @@
+APOG run file completed: blank template body removed, Q3-Q6 marked NOT OPENED with the [E4-29] pointer that was found but deliberately not scored, self-audit and register filled
+
+The file had been written question by question under the write-early protocol, which
+left the template's unfilled Q2-Q6 blocks standing ABOVE the filled work. A reader
+would have met eleven empty verdict boxes before reaching the closed gate. The blank
+body is removed and replaced by an explicit statement that Q3, Q4, Q5 and Q6 were not
+opened and carry no verdict, per operator protocol rule 2.
+
+One observation is recorded there as a POINTER and explicitly NOT as a finding,
+because the gate was never opened: Apogee's segment-profit measure in the audited
+segment footnote of the FY2026 10-K is "Adjusted EBITDA"; the GroGlass press release
+headlines "approximately 25% adjusted EBITDA margin" for an unclosed acquisition; and
+the company "is unable to provide a reconciliation of the forward-looking projected
+adjusted EBITDA margin non-GAAP measure to the most directly comparable GAAP
+measure." [E4-29] would have had work to do at Q3. It was not done and must not be
+read as though it had been -- written down so a future run reopening this name knows
+where to start.
+
+Self-audit: thirteen boxes, all ticked, each with what discharged it. Register:
+verdict OUT on the business, one line, and the reversal condition in words rather
+than a price band (the QLYS ruling) -- reopen only if Performance Surfaces reaches a
+majority of consolidated net sales and holds a 20%+ adjusted-EBITDA margin for three
+consecutive years while the architectural segments shrink, which the filed arithmetic
+puts three or four more deals away.
+
+62 distinct ledger ids, 0 phantom. check_framework.py PASS before this commit.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

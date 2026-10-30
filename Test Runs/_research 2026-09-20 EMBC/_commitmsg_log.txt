@@ -1,0 +1,11 @@
+EMBC: overnight log line -- wave 7 closes, name 7 FAILS at Q2, and the band spread was the spin
+
+One line appended to `Screens/_daily/OVERNIGHT LOG.md` in the format of the
+existing lines: what the run found, the gates, the sharpest finding, the state
+read before starting, the price times share count with the cover accession, the
+sovereign, the PASS/FAIL and check_framework result, and the commit range.
+
+Register 138 before / 139 after. `_wave7_done.txt` 6 lines before / 7 after.
+Wave 7 is complete: PAGP, LEG, SMPL, SIG, CALM, HESM, EMBC.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

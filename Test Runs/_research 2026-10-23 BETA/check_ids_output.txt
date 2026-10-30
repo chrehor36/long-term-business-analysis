@@ -1,0 +1,34 @@
+E-ids: none
+ids cited: 32 missing: none
+unmatched(earlier) M1995-050 | Backlog
+unmatched(earlier) M1995-050 | through 2035
+unmatched(earlier) M1995-050 | approximately $13 million
+unmatched(earlier) M1998-044 | has devoted substantially all of its time and efforts to
+  performing research and development activities, rai
+unmatched(earlier) M1998-044 | still in the development phase for its aircraft
+unmatched(earlier) M1998-044 | risks and uncertainties common to early-stage
+  companies
+unmatched(earlier) M1998-044 | it is uncertain when, if ever, the Company will realize significant revenue from sales.
+NEAREST-FAIL M1998-044 | We have not yet delivered any certified aircraft and therefore, no associated revenue has been recognized
+unmatched(earlier) M1998-044 | approximately 12 months following
+unmatched(earlier) M1998-044 | the first half of 2026
+unmatched(earlier) M1998-044 | designed to support
+unmatched(earlier) M1998-044 | more
+  than 300 aircraft annually at maturity
+unmatched(earlier) M1998-044 | a
+  majority of the lifetime revenue
+unmatched(earlier) M1998-044 | Backlog
+unmatched(earlier) M1998-044 | remains to be defined
+unmatched(earlier) M1998-044 | improving battery technology over the lifetime of the
+  aircraft
+unmatched(earlier) M1998-044 | co-develop
+unmatched(earlier) M2012-067 | the ability to certify
+  the aircraft and commence commercial production in a timely manner
+unmatched(earlier) M2012-067 | the ability to capture first-mover advantage, if
+  any
+unmatched(earlier) M2012-067 | the ability to develop or otherwise capture the benefits of next-generation technologies
+unmatched(earlier) M2000-105 | when, if ever
+unmatched(earlier) L1993-023 | when, if ever
+nearest-fragment failures: 1
+
+Manual review 2026-10-23: every 'unmatched' fragment is a filing quote or a list item in the same paragraph as an id, not words beside the id; the one NEAREST-FAIL (M1998-044) is a filing quote in an earlier bullet of the same list; the row's own fragment beside the id ('If something is not very predictable, forget it.') matches.

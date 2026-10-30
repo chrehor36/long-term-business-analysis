@@ -1,0 +1,80 @@
+==============================================================================
+ALTRIA GROUP, INC.  (MO)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.66%   10/05/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     67.88 USD   2026-10-05   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                              1,669.744M  as of 2026-07-22  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                               1,674.318M  as of 2025-12-31  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)    2,805.961M  as of 2026-06-30  (CommonStockSharesIssued)
+  shares    1,669.7M      market cap 113.34B USD
+  share basis: dei cover-page count as of 2026-07-22 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-12-31      9,287      n/f       272        196       9,091       9,015
+    2024-12-31      8,753      n/f       286        142       8,611       8,467
+    2025-12-31      9,290      n/f       266        216       9,074       9,024
+          mean                                                8,925       8,835
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: D&A basis in 2023, 2024, 2025
+  mean of the year-by-year lower: 8,835;  of the higher: 8,925  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 n/f; 2024 n/f; 2025 n/f
+  ** n/f = stock pay not found in XBRL; read the cash-flow statement. OE in those years
+     deducts NOTHING for stock pay, which overstates it if the filer pays in stock. **
+  capex tag by year: 2023 PaymentsToAcquirePropertyPlantAndEquipment; 2024 PaymentsToAcquirePropertyPlantAndEquipment; 2025 PaymentsToAcquirePropertyPlantAndEquipment
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0000764180-26-000017, 0000764180-25-000019, 0000764180-24-000018
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 8,613  OE D&A 8,539   yield 7.60% (capex) 7.53% (D&A)
+  DIVERGENCE vs the 3-yr window: -3.3% on the lower of the two bases
+
+  1. THE YIELD                 capex basis  7.87%   D&A basis  7.80%   vs sovereign 5.66%
+  2. GROWTH THE PRICE ASSUMES  -17.1%  (at a 5.66% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN +4.99 (lower mean) .. +5.08 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2016-12-31        45,932      33,121      12,770       4,569         151       2,051       5,285      12,036      13,881      36,906
+    2017-12-31        43,202      27,784      15,377       1,253         142       2,225       5,307      12,400      13,030      42,251
+    2018-12-31        55,638      40,810      14,787       1,333         142       2,331       5,196      12,279      11,898      43,962
+    2019-12-31        49,271      42,914       6,222       2,117         152       2,293       5,177      12,687      27,042      36,539
+    2020-12-31        47,414      44,449       2,839       4,945         137       1,966       5,177      12,615      27,971      34,679
+    2021-12-31        39,523      41,129      -1,606       4,544          47       1,194       5,177      12,306      26,939      30,664
+    2022-12-31        36,954      40,877      -3,973       4,030          48       1,180       5,177      12,384      25,124      29,792
+    2023-12-31        38,570      42,060      -3,540       3,686          71       1,215       6,791      13,686      25,112      31,094
+    2024-12-31        35,177      37,365      -2,238       3,127         177       1,080       6,945      12,973      23,399      35,516
+    2025-12-31        35,017      38,469      -3,502       4,474         263       1,070       5,787      11,876      24,140      35,452
+    accessions: 0000764180-17-000028, 0000764180-18-000028, 0000764180-19-000023, 0000764180-20-000018, 0000764180-21-000037, 0000764180-22-000019, 0000764180-23-000020, 0000764180-24-000018, 0000764180-25-000019, 0000764180-26-000017
+    equity: StockholdersEquity (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+    lt debt: LongTermDebtNoncurrent (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD millions; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        sum
+    2016-12-31      13,881         0     13,881
+    2017-12-31      13,030       864     13,894
+    2018-12-31      11,898     1,144     13,042
+    2019-12-31      27,042     1,000     28,042
+    2020-12-31      27,971     1,500     29,471
+    2021-12-31      26,939     1,105     28,044
+    2022-12-31      25,124     1,556     26,680
+    2023-12-31      25,112     1,121     26,233
+    2024-12-31      23,399     1,527     24,926
+    2025-12-31      24,140     1,569     25,709
+    d1 = us-gaap:LongTermDebtNoncurrent
+    d2 = us-gaap:LongTermDebtCurrent
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

@@ -1,0 +1,11 @@
+shares 206,761,281  mcap 1,159,104  net debt filed 367,718  +buyback 401,718  EV 1,560,822
+top all-equity by year {2021: 73135, 2022: 81065, 2023: 99105, 2024: 88701, 2025: 79432}
+bottom all-equity OC 20,452; top 84,288; width (EV basis) 4.12x
+bottom: business value 500,666; less net debt 98,948; per share 479; yield at price 1.31%
+top: business value 2,063,347; less net debt 1,661,629; per share 8,036; yield at price 5.40%
+floor test: top-case return at the price 5.40% vs about 10%
+fair all-equity: bottom end -954, top end 2,134, fair 590
+equity-only: bottom OC 14,400 -> 696; top OC 78,235 -> 3,784; fair 2,240
+beside, ten-year after acq: OC 9,702 -> per share at gov rate -794; at 10% -1,474
+beside, organic pair, literal window before acq: OC 29,844 -> per share at gov rate 1,591; at 10% -500
+fair all-equity with filed net debt only: 754

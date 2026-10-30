@@ -1,0 +1,32 @@
+==============================================================================
+CLOROX CO /DE/  (CLX)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.47%   09/24/2026   US Treasury daily par yield curve
+  price     81.80 USD   2026-09-24   (aggregator — live quote only)
+  shares    120.9M      market cap 9.89B USD
+  share basis: dei cover-page count as of 2026-04-16
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-06-30      1,158       73       236        228        849        857
+    2024-06-30        695       74       235        212        386        409
+    2025-06-30        981       81       219        220        680        681
+          mean                                                 638        649
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 659 .. 694   yield 6.66%..7.02%
+  DIVERGENCE vs the 3-yr window: +3.2% on the conservative end
+
+  1. THE YIELD                  6.45% ..  6.56%   vs sovereign 5.47%
+  2. GROWTH THE PRICE ASSUMES  -14.4%  (at a 5.47% rate)
+  3. POINTS OVER THE SOVEREIGN +3.78 .. +3.90
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

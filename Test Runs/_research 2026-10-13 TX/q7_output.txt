@@ -1,0 +1,38 @@
+maintenance-only owner cash (CFO - D&A - acquisitions), equity-only:
+  2015 889  all-spending 856
+  2016 693  all-spending 665
+  2017 -1981  all-spending -1920
+  2018 1150  all-spending 1211
+  2019 981  all-spending 551
+  2020 1113  all-spending 1142
+  2021 2084  all-spending 2106
+  2022 2133  all-spending 2119
+  2023 1724  all-spending 862
+  2024 1163  all-spending -20
+  2025 1526  all-spending -252
+
+MAINTENANCE-ONLY (central, specific e), all-equity: cycle 2015-19 avg 428, cycle 2019-25 avg 1523, shown growth 28.9%/yr; sales growth same cycles 9.5%/yr; literal 2021-25 avg 1697, literal end-to-end growth -7.1%
+  cycle base      book share   range $10.06-$21.48/sh ($100.60-$214.81/ADS), width 2.12x; fair (avg of ends at 10%) $8.23/sh $82.28/ADS; growth end at 10% $108.75/ADS; with CSN provision fair $80.04/ADS
+  cycle base      profit share range $11.48-$24.50/sh ($114.76-$245.04/ADS), width 2.12x; fair (avg of ends at 10%) $9.39/sh $93.86/ADS; growth end at 10% $124.06/ADS; with CSN provision fair $91.30/ADS
+  literal window  book share   range $11.23-$23.96/sh ($112.26-$239.56/ADS), width 2.12x; fair (avg of ends at 10%) $9.18/sh $91.85/ADS; growth end at 10% $121.35/ADS; with CSN provision fair $89.61/ADS
+  literal window  profit share range $12.81-$27.33/sh ($128.06-$273.28/ADS), width 2.12x; fair (avg of ends at 10%) $10.48/sh $104.77/ADS; growth end at 10% $138.43/ADS; with CSN provision fair $102.22/ADS
+
+MAINTENANCE-ONLY (central, specific e), equity-only: cycle 2015-19 avg 346, cycle 2019-25 avg 1532, shown growth 34.6%/yr; sales growth same cycles 9.5%/yr; literal 2021-25 avg 1726, literal end-to-end growth -7.5%
+  cycle base      book share   range $10.24-$21.73/sh ($102.40-$217.30/ADS), width 2.12x; fair (avg of ends at 10%) $8.40/sh $83.98/ADS; growth end at 10% $110.61/ADS; with CSN provision fair $81.73/ADS
+  cycle base      profit share range $11.68-$24.79/sh ($116.81-$247.88/ADS), width 2.12x; fair (avg of ends at 10%) $9.58/sh $95.79/ADS; growth end at 10% $126.17/ADS; with CSN provision fair $93.24/ADS
+  literal window  book share   range $11.54-$24.48/sh ($115.37-$244.81/ADS), width 2.12x; fair (avg of ends at 10%) $9.46/sh $94.61/ADS; growth end at 10% $124.61/ADS; with CSN provision fair $92.37/ADS
+  literal window  profit share range $13.16-$27.93/sh ($131.61-$279.27/ADS), width 2.12x; fair (avg of ends at 10%) $10.79/sh $107.92/ADS; growth end at 10% $142.15/ADS; with CSN provision fair $105.37/ADS
+
+ALL-SPENDING (beside), all-equity: cycle 2015-19 avg 355, cycle 2019-25 avg 921, shown growth 21.0%/yr; sales growth same cycles 9.5%/yr; literal 2021-25 avg 934, literal end-to-end growth nan%
+  cycle base      book share   range $6.03-$12.94/sh ($60.34-$129.38/ADS), width 2.12x; fair (avg of ends at 10%) $4.93/sh $49.27/ADS; growth end at 10% $65.27/ADS; with CSN provision fair $47.03/ADS
+  cycle base      profit share range $6.88-$14.76/sh ($68.83-$147.59/ADS), width 2.12x; fair (avg of ends at 10%) $5.62/sh $56.20/ADS; growth end at 10% $74.46/ADS; with CSN provision fair $53.64/ADS
+  literal window  book share   range $6.13-$13.13/sh ($61.26-$131.34/ADS), width 2.12x; fair (avg of ends at 10%) $5.00/sh $50.03/ADS; growth end at 10% $66.27/ADS; with CSN provision fair $47.78/ADS
+  literal window  profit share range $6.99-$14.98/sh ($69.89-$149.83/ADS), width 2.12x; fair (avg of ends at 10%) $5.71/sh $57.07/ADS; growth end at 10% $75.60/ADS; with CSN provision fair $54.51/ADS
+
+ALL-SPENDING (beside), equity-only: cycle 2015-19 avg 273, cycle 2019-25 avg 930, shown growth 27.8%/yr; sales growth same cycles 9.5%/yr; literal 2021-25 avg 963, literal end-to-end growth nan%
+  cycle base      book share   range $6.21-$13.19/sh ($62.15-$131.87/ADS), width 2.12x; fair (avg of ends at 10%) $5.10/sh $50.96/ADS; growth end at 10% $67.13/ADS; with CSN provision fair $48.72/ADS
+  cycle base      profit share range $7.09-$15.04/sh ($70.89-$150.43/ADS), width 2.12x; fair (avg of ends at 10%) $5.81/sh $58.14/ADS; growth end at 10% $76.57/ADS; with CSN provision fair $55.58/ADS
+  literal window  book share   range $6.44-$13.66/sh ($64.37-$136.59/ADS), width 2.12x; fair (avg of ends at 10%) $5.28/sh $52.79/ADS; growth end at 10% $69.53/ADS; with CSN provision fair $50.55/ADS
+  literal window  profit share range $7.34-$15.58/sh ($73.43-$155.82/ADS), width 2.12x; fair (avg of ends at 10%) $6.02/sh $60.22/ADS; growth end at 10% $79.31/ADS; with CSN provision fair $57.66/ADS
+
+price $58.99/ADS = $5.899/share; market value $11,580M; net debt 30 Jun 2026 $319M; parent book share 0.735; parent profit share 0.838

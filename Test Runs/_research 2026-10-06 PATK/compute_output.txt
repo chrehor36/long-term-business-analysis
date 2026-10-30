@@ -1,0 +1,38 @@
+PATK owner cash (OCF-SBC-capex), margin, after acquisitions:
+2009     3.5   1.6%  after acq     3.5
+2010     6.3   2.3%  after acq     0.5
+2011     9.1   3.0%  after acq     1.8
+2012    12.3   2.8%  after acq   -17.0
+2013    12.4   2.1%  after acq    -4.1
+2014    35.9   4.9%  after acq   -36.2
+2015    52.9   5.7%  after acq   -87.3
+2016    75.2   6.2%  after acq   -63.6
+2017    67.0   4.1%  after acq  -184.9
+2018   151.5   6.7%  after acq  -191.8
+2019   149.3   6.4%  after acq    93.3
+2020   120.9   4.9%  after acq  -185.1
+2021   164.4   4.0%  after acq  -343.7
+2022   310.0   6.3%  after acq    61.1
+2023   330.3   9.5%  after acq   304.4
+2024   234.3   6.3%  after acq  -177.4
+2025   227.4   5.8%  after acq   105.7
+5yr avg capex basis 253.3; D&A variant 182.4; depreciation-only variant 262.7; avg acquisitions 263.3; avg capex 72.5 vs avg depreciation 63.0
+growth shown 2021->2025 aggregate owner cash 8.45%/yr
+cycle margins: 2016-25 6.02%  2009-25 4.86%
+whole-cycle owner cash 237.7; stress 191.9
+VALUE (equity, levered owner cash, at the long bond):
+  no-growth 5yr capex        4475  $ 139.3
+  no-growth 5yr D&A          3222  $ 100.3
+  no-growth whole-cycle      4199  $ 130.8
+  no-growth stress           3390  $ 105.5
+  shown growth uncapped (acquisitions not deducted)     8737 $ 272.0
+  shown growth capped (acquisitions 263/yr deducted 10 yrs)     6768 $ 210.7
+FAIR 5yr capex              enterprise $  83.0   equity-only $ 103.4   pre-tax yield on EV at price  11.5%
+FAIR whole-cycle (central)  enterprise $  76.6   equity-only $  97.0   pre-tax yield on EV at price  10.9%
+FAIR stress                 enterprise $  57.9   equity-only $  78.3   pre-tax yield on EV at price   9.2%
+FAIR 5yr D&A                enterprise $  54.0   equity-only $  74.4   pre-tax yield on EV at price   8.9%
+LCII 5yr owner cash 244.5; 10yr margin 5.51%; whole-cycle 226.9; LCII 10yr sum 1787 vs PATK 10yr sum 1830
+PRO FORMA central owner cash 464.6; per basic share $7.44 vs standalone $7.40; 5yr $7.97 vs $7.89
+PRO FORMA fair enterprise $81.8; equity-only $97.5; net debt 2081
+CHEAP: stress clears floor (enterprise) $57.9; half of whole-cycle no-growth value $65.4; rule takes the lower
+market cap 2139; EV 3539; owner-cash yield (5yr) 11.8%

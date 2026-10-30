@@ -1,0 +1,7 @@
+year | OCF | all capex net | acq | SBC | owner cash equity-only (all spending) | + after-tax cash interest = all-equity | D&A | maintenance-only equity-only (OCF - D&A - SBC) | maintenance-only all-equity
+2022 | 228.5 | 784.0 | 39.5 | 2.9 | -597.9 | -509.3 | 211.7 | 13.9 | 102.5
+2023 | 278.8 | 603.7 | 0.0 | 3.4 | -328.3 | -170.4 | 295.0 | -19.6 | 138.3
+2024 | 281.3 | 394.2 | 6.3 | 4.2 | -123.4 | 58.5 | 332.2 | -55.1 | 126.8
+2025 | 264.0 | 905.0 | 48.0 | 4.0 | -693.0 | -478.1 | 365.0 | -105.0 | 109.9
+4-yr avg (2022-2025): -435.6 | -274.8 | -41.4 | 119.4
+H1 2026 equity-only all spending: -909  maint-only: -403

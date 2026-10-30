@@ -1,0 +1,15 @@
+net debt 1531.9 market cap 1210.1 EV 2742.0
+halves all-equity maint 48.2 4.6 rate -37.4%
+AE maintenance-only, cycle base, no growth (TOP)               base    26.4 g    0.0%  value/sh @5.43%   -33.79  @10%   -40.98
+AE maintenance-only, cycle base, halves decline (BOTTOM)       base    26.4 g  -37.4%  value/sh @5.43%   -48.18  @10%   -48.36
+FAIR (all-equity) = avg of ends at 10%: -44.67
+AE all spending, cycle base, no growth (beside)                base   -55.2 g    0.0%  value/sh @5.43%   -82.39  @10%   -67.37
+AE organic (no acquisitions), cycle base, no growth (beside)   base   -12.8 g    0.0%  value/sh @5.43%   -57.16  @10%   -53.66
+AE maintenance-only, literal window FY21-25, no growth         base     4.6 g    0.0%  value/sh @5.43%   -46.75  @10%   -48.01
+AE all spending, literal window FY21-25, no growth             base  -117.7 g    0.0%  value/sh @5.43%  -119.59  @10%   -87.57
+AE maintenance-only, FY2014-FY2025 base, no growth (robustness) base    35.7 g    0.0%  value/sh @5.43%   -28.27  @10%   -37.98
+halves equity maint 33.9 -42.0 (sign change: range is the no-growth case alone)
+EQUITY-ONLY maintenance-only, cycle base, no growth            base    -4.1 g    0.0%  value/sh @5.43%    -2.42  @10%    -1.31
+FAIR (equity-only) = -1.31 (no-growth case alone)
+EQUITY-ONLY all spending, cycle base, no growth                base   -85.7 g    0.0%  value/sh @5.43%   -51.02  @10%   -27.70
+owner cash before interest needed for 10% at the price, all-equity: 274.2

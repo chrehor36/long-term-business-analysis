@@ -1,0 +1,108 @@
+﻿Symbol,Name,SubIndustry,Universe
+AMG,Affiliated Managers Group,Asset Management & Custody Banks,MID
+ASB,Associated Bank,Regional Banks,MID
+CBSH,Commerce Bancshares,Regional Banks,MID
+CFR,Frost Bank,Regional Banks,MID
+CG,Carlyle Group (The),Asset Management & Custody Banks,MID
+COLB,Columbia Banking System,Regional Banks,MID
+CRBG,Corebridge Financial,Asset Management & Custody Banks,MID
+EVR,Evercore,Investment Banking & Brokerage,MID
+EWBC,East West Bancorp,Regional Banks,MID
+FFIN,First Financial Bankshares,Regional Banks,MID
+FHI,Federated Hermes,Asset Management & Custody Banks,MID
+FHN,First Horizon,Regional Banks,MID
+FLG,Flagstar Bank,Regional Banks,MID
+FNB,FNB Corporation,Regional Banks,MID
+GBCI,Glacier Bancorp,Regional Banks,MID
+HLI,Houlihan Lokey,Investment Banking & Brokerage,MID
+HLNE,Hamilton Lane,Asset Management & Custody Banks,MID
+HOMB,Home BancShares,Regional Banks,MID
+HWC,Hancock Whitney,Regional Banks,MID
+IBOC,Intl Bancshares Corp,Regional Banks,MID
+JHG,Janus Henderson,Asset Management & Custody Banks,MID
+ONB,Old National Bank,Regional Banks,MID
+OZK,Bank OZK,Regional Banks,MID
+PB,Prosperity Bancshares,Regional Banks,MID
+PNFP,Pinnacle Financial Partners,Regional Banks,MID
+SEIC,SEI Investments Company,Asset Management & Custody Banks,MID
+SF,Stifel,Investment Banking & Brokerage,MID
+SSB,South State Bank,Regional Banks,MID
+TCBI,Texas Capital Bancshares,Regional Banks,MID
+UBSI,United Bankshares,Regional Banks,MID
+UMBF,UMB Financial Corp.,Regional Banks,MID
+VLY,Valley Bank,Regional Banks,MID
+WAL,Western Alliance Bancorporation,Regional Banks,MID
+WBS,Webster Bank,Regional Banks,MID
+WTFC,Wintrust Financial,Regional Banks,MID
+ZION,Zions Bancorporation,Regional Banks,MID
+AAMI,Acadian Asset Management Inc.,Asset Management & Custody Banks,SMALL
+ABCB,Ameris Bancorp,Regional Banks,SMALL
+APAM,"Artisan Partners Asset Management, Inc.",Asset Management & Custody Banks,SMALL
+AUB,"Atlantic Union Bankshares, Corp.",Regional Banks,SMALL
+AX,"Axos Financial, Inc.",Regional Banks,SMALL
+BANC,"Banc Of California, Inc.",Regional Banks,SMALL
+BANF,Bancfirst Corp,Regional Banks,SMALL
+BANR,Banner Corporation,Regional Banks,SMALL
+BBT,Beacon Financial Corp.,Regional Banks,SMALL
+BGC,"BGC Group, Inc.",Investment Banking & Brokerage,SMALL
+BKU,"BankUnited, Inc.",Regional Banks,SMALL
+BOH,Bank of Hawaii,Regional Banks,SMALL
+CASH,"Pathward Financial, Inc.",Regional Banks,SMALL
+CATY,Cathay General Bancorp,Regional Banks,SMALL
+CBU,"Community Bank System, Inc.",Regional Banks,SMALL
+CFFN,Capitol Federal Savings Bank,Regional Banks,SMALL
+CHCO,City Holding Company,Regional Banks,SMALL
+CNS,"Cohen & Steers, Inc.",Asset Management & Custody Banks,SMALL
+CPF,Central Pacific Financial Corp.,Regional Banks,SMALL
+CUBI,"Customers Bancorp, Inc.",Regional Banks,SMALL
+CVBF,CVB Financial Corp.,Regional Banks,SMALL
+DCOM,"Dime Community Bancshares, Inc.",Regional Banks,SMALL
+EBC,"Eastern Bankshares, Inc.",Regional Banks,SMALL
+EGBN,Eagle Bancorp Inc,Regional Banks,SMALL
+FBK,FB Financial Corp.,Regional Banks,SMALL
+FBNC,First Bancorp (Southern Pines NC),Regional Banks,SMALL
+FBP,First BanCorp (Puerto Rico),Regional Banks,SMALL
+FCF,"First Commonwealth Financial, Corp.",Regional Banks,SMALL
+FFBC,First Financial Bancorp,Regional Banks,SMALL
+FHB,"First Hawaiian, Inc.",Regional Banks,SMALL
+FIBK,"First Interstate BancSystem, Inc.",Regional Banks,SMALL
+FULT,Fulton Financial Corporation,Regional Banks,SMALL
+HAFC,Hanmi Financial Corporation,Regional Banks,SMALL
+HFWA,Heritage Financial Corporation,Regional Banks,SMALL
+HOPE,"Hope Bancorp, Inc.",Regional Banks,SMALL
+HTH,Hilltop Holdings Inc.,Regional Banks,SMALL
+INDB,Independent Bank Corp.,Regional Banks,SMALL
+LKFN,Lakeland Financial,Regional Banks,SMALL
+MBIN,Merchants Bancorp,Regional Banks,SMALL
+MC,Moelis & Company,Investment Banking & Brokerage,SMALL
+NBHC,National Bank Holdings Corporation,Regional Banks,SMALL
+NBTB,"NBT Bancorp, Inc.",Regional Banks,SMALL
+NIC,Nicolet Bankshares,Regional Banks,SMALL
+NWBI,"Northwest Bancshares, Inc.",Regional Banks,SMALL
+OFG,OFG Bancorp,Regional Banks,SMALL
+PFBC,Preferred Bank,Regional Banks,SMALL
+PFS,"Provident Financial Services, Inc.",Regional Banks,SMALL
+PIPR,Piper Sandler Companies,Investment Banking & Brokerage,SMALL
+PJT,"PJT Partners, Inc.",Investment Banking & Brokerage,SMALL
+PRK,Park National Corp.,Regional Banks,SMALL
+RNST,Renasant Corp.,Regional Banks,SMALL
+SBCF,Seacoast Banking Corporation of Florida,Regional Banks,SMALL
+SBSI,"Southside Bancshares, Inc.",Regional Banks,SMALL
+SFBS,"ServisFirst Bancshares, Inc.",Regional Banks,SMALL
+SFNC,Simmons First National Corporation,Regional Banks,SMALL
+SNEX,StoneX Group Inc.,Investment Banking & Brokerage,SMALL
+STBA,"S&T Bancorp, Inc.",Regional Banks,SMALL
+STEP,StepStone Group,Asset Management & Custody Banks,SMALL
+TBBK,"The Bancorp, Inc.",Regional Banks,SMALL
+TFIN,"Triumph Bancorp, Inc.",Regional Banks,SMALL
+TMP,Tompkins Financial Corporation,Regional Banks,SMALL
+TRMK,Trustmark Corp.,Regional Banks,SMALL
+TRST,TrustCo Bank Corp NY,Regional Banks,SMALL
+UCB,"United Community Banks, Inc.",Regional Banks,SMALL
+VCTR,"Victory Capital Holdings, Inc.",Asset Management & Custody Banks,SMALL
+VRTS,"Virtus Investment Partners, Inc.",Asset Management & Custody Banks,SMALL
+WABC,Westamerica Bank,Regional Banks,SMALL
+WAFD,"WaFd, Inc.",Regional Banks,SMALL
+WSBC,WesBanco,Regional Banks,SMALL
+WSFS,WSFS Financial Corporation,Regional Banks,SMALL
+WT,"WisdomTree Investments, Inc.",Asset Management & Custody Banks,SMALL

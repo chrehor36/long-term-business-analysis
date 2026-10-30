@@ -1,0 +1,274 @@
+{
+ "HOG": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Motorcycles via independent dealers plus a captive lender; units x ASP with segment margins disclosed separately."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "WIDE",
+    "note": "Brand-driven premium pricing, ~50% US heavyweight share, mid-30s gross margin, high-teens operating margin; US retail near cycle highs (FY2014, 2015-01-27)."
+   },
+   {
+    "from": 2016,
+    "class": "NARROW",
+    "note": "First annual US retail decline: FY2015 -1.7% (2016-01-28), FY2016 -3.9% (2017-01-31). Aging core buyer, weak new-rider entry."
+   },
+   {
+    "from": 2018,
+    "class": "NONE",
+    "note": "Pricing power visibly fails: FY2017 US retail -8.5% (2018-01-30), FY2018 -10.2%. The 2018-06-25 8-K states the ~$2,200/bike EU tariff would NOT be passed to customers."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2016-08",
+    "severity": "SERIOUS",
+    "note": "DOJ/EPA Clean Air Act settlement (2016-08-18): ~340,000 'super tuner' defeat devices sold since 2008; $12M penalty + $3M mitigation. HOG denied liability, no admission."
+   }
+  ],
+  "gate5_broken_by": "2018-01"
+ },
+ "IBM": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Hardware, software, services plus Global Financing; segment disclosure adequate though Global Financing adds some leverage opacity."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "WIDE",
+    "note": "Mainframe switching costs, software gross margin near 89%, pretax margin ~20%, revenue ~$106.9B (2011)."
+   },
+   {
+    "from": 2013,
+    "class": "NARROW",
+    "note": "YoY revenue declines began Q2 2012 (2012-07-18) and reached four straight by Q1 2013 (2013-04-18, -5%); the streak ran 22 consecutive quarters to Q3 2017. Four straight known at the 2013 anchor, 8 at 2014, 12 at 2015, 16 at 2016, 20 at 2017."
+   },
+   {
+    "from": 2015,
+    "class": "NONE",
+    "note": "Roadmap 2015 EPS target abandoned 2014-10-20; same day IBM agreed to PAY GlobalFoundries ~$1.5B to take the chip unit plus a $4.7B charge. FY2015 revenue $81.7B vs $99.8B in 2013; public cloud ceded to AWS/Azure."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2011-03",
+    "severity": "DISQUALIFYING",
+    "note": "SEC FCPA settlement (2011-03-18) $10M: cash to South Korean officials 1998-2003 and slush funds at Chinese travel agencies. Books-and-records/internal-controls charges, settled without admission."
+   },
+   {
+    "date": "2013-05",
+    "severity": "SERIOUS",
+    "note": "SEC investigating how IBM reported cloud revenue; disclosed in a 2013 10-Q. SEC took no action (public 2014-06-03), and IBM changed its cloud disclosure."
+   },
+   {
+    "date": "2015-10",
+    "severity": "SERIOUS",
+    "note": "New SEC investigation into revenue recognition (US, UK, Ireland) disclosed 2015-10-27."
+   },
+   {
+    "date": "2018-03",
+    "severity": "MINOR",
+    "note": "ProPublica (2018-03-22) alleged systematic age-based targeting in US layoffs. Allegation only, no adjudication in the window."
+   }
+  ],
+  "gate5_broken_by": "2014-10"
+ },
+ "LYB": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Olefins/polyolefins, intermediates, refining: volume x the spread between feedstock and product. Cyclical but transparent."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Cost position, not brand: US Gulf Coast crackers on cheap shale ethane sat at the low end of the global cost curve. Record 2015 (EBITDA ~$7.5B, 2016-01-29), sustained 2016-2018. Spreads, not prices, are the asset."
+   },
+   {
+    "from": 2019,
+    "class": "NARROW",
+    "note": "Compressing: FY2019 EBITDA $5.7B (2020-01-31), ~-17% y/y, as the 2017-2019 US ethylene capacity buildout ate the ethane advantage."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2016-01",
+    "severity": "MINOR",
+    "note": "TCEQ agreed order, $100,000, Houston Refining, from a 2014 emissions event."
+   },
+   {
+    "date": "2018-06",
+    "severity": "MINOR",
+    "note": "Texas AG settlement $680,000 and an Illinois AG matter $125,000, both air emission events."
+   }
+  ],
+  "gate5_broken_by": null
+ },
+ "M": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Department store: comps, gross margin, SG&A, plus owned real estate and a profit share on the Citi-issued card."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Positive comps FY2010-FY2014, valuable flagship real estate, Bloomingdale's differentiation. Never wide: no pricing power against off-price or online."
+   },
+   {
+    "from": 2015,
+    "class": "NONE",
+    "note": "Comps turned negative and stayed: Q1 FY2015 -0.7% (2015-05-13), Q2 -2.1% with a guidance cut (2015-08-12), FY2016 -3.5% owned (2017-02-21). Structural (mall traffic, Amazon, off-price); the response was shrinking the store base, not raising price."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2014-08",
+    "severity": "SERIOUS",
+    "note": "NY AG agreement (2014-08-20): $650,000 over racial profiling and unlawful detention of minority shoppers at Herald Square, plus a monitor and three years of compliance reporting."
+   },
+   {
+    "date": "2019-11",
+    "severity": "MINOR",
+    "note": "Magecart card-skimming breach of macys.com."
+   }
+  ],
+  "gate5_broken_by": "2017-01"
+ },
+ "OMC": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Advertising/marketing services: fees and commissions, salaries the dominant cost, near-zero capital intensity. Many agencies, one economic model."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Scale in media buying and sticky client relationships; organic growth ~3.5-5.7% 2013-2015 and 3.5% FY2016, operating margin ~13%, very high ROIC on a near-assetless base. Not wide: accounts move on review."
+   },
+   {
+    "from": 2017,
+    "class": "NARROW",
+    "note": "Narrowing: organic growth stepped down to mid-2s (FY2018 +2.6%, FY2019 +2.8%) on client in-housing, consultancies entering, and Google/Facebook self-serve disintermediating the media role."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2013-07",
+    "severity": "MINOR",
+    "note": "Publicis merger of equals announced 2013-07-28, terminated 2014-05-08. Strategy, not misconduct."
+   },
+   {
+    "date": "2016-06",
+    "severity": "SERIOUS",
+    "note": "ANA/K2 report (2016-06-07) found cash rebates and non-transparent practices 'pervasive' in US media buying, with senior agency executives aware. Industry-level; individual agencies not named."
+   },
+   {
+    "date": "2016-12",
+    "severity": "SERIOUS",
+    "note": "Two Omnicom subsidiaries subpoenaed by DOJ Antitrust (2016-12-14) in the video production bid-rigging investigation. No charges against Omnicom in the window."
+   }
+  ],
+  "gate5_broken_by": null
+ },
+ "TRV": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "P&C insurer with a published ten-year reserve-development table; reserving is judgment-heavy but disclosure is standard."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "No product moat (insurance is a commodity) but durable underwriting discipline, scale and consistent favorable prior-year development. Combined ratio high-80s/low-90s in light-cat years, mid-90s in heavy ones; core ROE ~11-14%. Pricing cyclical, not proprietary."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2014-07",
+    "severity": "MINOR",
+    "note": "Second Circuit (2014-07-22) confirmed ~$500M of previously negotiated Johns-Manville asbestos settlements were owed. A contract dispute, not misconduct."
+   }
+  ],
+  "gate5_broken_by": null
+ },
+ "WFC": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Deposit-funded lender: NII on ~$1.2T of low-cost core deposits plus mortgage and fee income. Caveat: reported credit and control quality is trust-dependent, and that trust is precisely what failed."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "WIDE",
+    "note": "Cheapest large-bank deposit base in the US, #1 mortgage originator, ROA ~1.4-1.5%, ROE ~13%. The advertised proof of the moat was the cross-sell ratio (~6.1 products/household)."
+   },
+   {
+    "from": 2017,
+    "class": "NARROW",
+    "note": "The cross-sell metric was revealed on 2016-09-08 to be partly manufactured and was withdrawn; new checking account openings -44% y/y by 2016-11-17. Dated from 2017 because the revelation post-dates the 2016-06-30 anchor."
+   },
+   {
+    "from": 2018,
+    "class": "NONE",
+    "note": "The Fed's 2018-02-02 consent order capped total assets at ~$1.95T indefinitely -- a regulator removed the growth engine, and the cap was still binding at 2020-06-30."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2011-07",
+    "severity": "DISQUALIFYING",
+    "note": "Fed cease-and-desist plus $85M penalty (2011-07-20): staff steered prime-eligible borrowers into subprime and FALSIFIED borrower income, 2004-2008, up to 10,000 borrowers. Largest Fed consumer penalty to that date. Public before EVERY WFC anchor."
+   },
+   {
+    "date": "2012-07",
+    "severity": "DISQUALIFYING",
+    "note": "DOJ fair-lending settlement (2012-07-12) $175M: Black and Hispanic borrowers steered into subprime or charged higher fees, 30,000+ borrowers, 36 states. Government finding of discrimination."
+   },
+   {
+    "date": "2013-12",
+    "severity": "SERIOUS",
+    "note": "LA Times (2013-12-21): sales quotas drove employees to open unneeded accounts and forge signatures. The scandal's core facts were public here, nearly three years early."
+   },
+   {
+    "date": "2015-05",
+    "severity": "SERIOUS",
+    "note": "LA City Attorney sued (May 2015) alleging quotas produced thousands of unauthorized accounts -- the fake-accounts allegation stated by a government complaint ~16 months before the CFPB order."
+   },
+   {
+    "date": "2016-04",
+    "severity": "DISQUALIFYING",
+    "note": "$1.2B FHA settlement (2016-04-08): WFC ADMITTED falsely certifying loans as FHA-eligible 2001-2008. Largest FHA origination recovery ever. Public before the 2016-06-30 anchor."
+   },
+   {
+    "date": "2016-09",
+    "severity": "DISQUALIFYING",
+    "note": "2016-09-08 CFPB/OCC/LA City Attorney $185M: ~1.5M unauthorized deposit accounts, ~623,000 unauthorized card applications; 5,300 employees already terminated. AFTER the 2016 anchor."
+   },
+   {
+    "date": "2017-07",
+    "severity": "DISQUALIFYING",
+    "note": "~570,000 auto-loan customers charged for unneeded collateral protection insurance; ~20,000 may have had vehicles repossessed."
+   },
+   {
+    "date": "2018-02",
+    "severity": "DISQUALIFYING",
+    "note": "Fed consent order citing widespread consumer abuses; asset cap imposed, board members replaced."
+   },
+   {
+    "date": "2018-04",
+    "severity": "DISQUALIFYING",
+    "note": "$1B combined CFPB/OCC penalty over auto CPI and mortgage rate-lock practices."
+   },
+   {
+    "date": "2020-02",
+    "severity": "DISQUALIFYING",
+    "note": "2020-02-21 $3B DOJ/SEC resolution with a deferred prosecution agreement; WFC admitted criminal conduct -- falsifying bank records and identity theft -- spanning 2002-2016."
+   }
+  ],
+  "gate5_broken_by": "2018-02"
+ }
+}

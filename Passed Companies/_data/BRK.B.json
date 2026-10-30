@@ -1,0 +1,24 @@
+{
+ "ticker": "BRK.B",
+ "name": "Berkshire Hathaway",
+ "headline": "A conglomerate led by low-cost auto insurance and a railroad, backed by $359 billion in cash and Treasury bills.",
+ "what_short": "Insurance, railroad, utilities and many businesses",
+ "what_it_does": "Berkshire Hathaway owns GEICO and other insurers, the BNSF railroad, the BHE group of utilities, and a wide range of manufacturing, service and retail businesses. It also holds a large portfolio of listed shares. Insurance premiums paid in advance give it money to invest before claims are paid.",
+ "why_it_passed": [
+  "GEICO, the low-cost auto insurer, kept its combined ratio (claims plus costs as a share of premiums) at 84.7% in 2025, a level that means an underwriting profit.",
+  "Its manufacturing, service and retail businesses earn roughly 12% to 15% a year before tax on the tangible capital they use, and BNSF earns about 12%.",
+  "The group holds $359.2 billion of cash and Treasury bills, up from $113.0 billion in 2017, and its parent company debt is only $20.4 billion.",
+  "The analysis found no path to ruin for the whole group, and management's integrity passed."
+ ],
+ "why_not_now": "The analysis values the shares at $316 to $347 against a price of $504.75, which is about 45% above the top of that range. At that price the expected return is below the roughly 10% the analysis requires, and the return implied for one of the group's parts (2.5%) is below the 5.63% a 30-year US Treasury bond pays.",
+ "watch": [
+  "BHE, the utility group, earns only about 4% to 5% on its capital, carries heavy debt, and has an unquantified wildfire liability.",
+  "The group's cash is growing faster than the businesses that can use it, and the cash earns only about the Treasury bill rate.",
+  "The five largest share holdings make up 66% of the $323.8 billion portfolio, so a fall in a few stocks would matter."
+ ],
+ "value_low": 316,
+ "value_high": 347,
+ "utility": false,
+ "run_date": "2026-10-05",
+ "currency": "USD"
+}

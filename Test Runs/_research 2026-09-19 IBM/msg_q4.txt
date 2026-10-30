@@ -1,0 +1,69 @@
+IBM: Q4 IN, recorded not governing - owner earnings $9,486M-$12,234M, shape #10 the camouflage
+
+THE KYNDRYL PERIMETER. The revenue line was recast to continuing operations for FY2019 onward;
+the CASH-FLOW statement was NOT. The FY2021 annual report says the statement includes the cash
+flows of discontinued operations, with one aggregate figure per year ($1.6bn/$4.4bn/$4.5bn for
+2021/2020/2019) and no Kyndryl cash-flow statement. The CNR rule's "nothing is estimated; the
+pro forma is addition" condition is not met, so FY2019-FY2021 are REFUSED, not adjusted. Clean
+perimeter: FY2022-FY2025 plus the TTM, and the five-year default is short by one year and says
+so. Confluent ($11,268M cash, closed 2026-03-17) sits inside the TTM and is flagged.
+
+THE FINANCING ARM, separated the GM/F/TM/HMC way, and IBM files the separation itself: Financing
+segment debt $15,093M "primarily comprised of intercompany loans" at 9.0:1 against $15,052M of
+external receivables, non-Financing debt $46,167M, and the MD&A's own "Less: change in Financing
+receivables" line. IBM's free cash flow ADDS BACK the loan-book build, taking $13,193M of filed
+operating cash to $16,393M and publishing $14,734M of "free cash flow" - a figure LARGER than the
+audited line. Not the [E4-41] flag (the reconciliation is on the same page and the offsetting debt
+two lines below), but DELL's reading says operating cash is understated by the book's growth while
+the funding debt is a financing inflow, so both constructions are carried as a Ford-style ladder:
+A = consolidated OCF as filed (conservative), B = IBM's own industrial line (generous). A
+look-through construction is explicitly NOT attempted and the reason is stated, so no reader adds
+the $521M of segment profit twice.
+
+(c) DECOMPOSED. Not the capital-intensive exception class (capex 1.6% of revenue), so [E3-44]'s
+default is available in direction but the D&A LINE is not usable: $900M of operating-lease ROU
+amortisation is excluded because the rent is already inside operating cash (CRM precedent) and
+$2,166M of acquired-intangible amortisation is excluded because $8,316M a year of R&D above the
+line already renews the technology (HON/UNH/EFX). (c) judged at $1,600M-$2,000M as a disclosed
+guess. The RAW filed D&A end of $5,021M is REFUSED with the size of the refusal stated: it would
+print a 2.99% yield and is $3.1bn a year too conservative for two named reasons. Not the CVX
+inversion.
+
+SBC RESOLVES (undimensioned annual USD every year FY2007-25, so the BE defect does not arise) and
+is COMPLETE (the BA defect searched for: IBM's statement carries one stock line and no
+401(k)-in-treasury-shares line). [E3-70] grant value not obtainable undimensioned; at 13.0% of
+operating cash, under the 50% hand-read threshold, recorded as a limit.
+
+BAND across every window, both (c) ends and both constructions: $9,486M to $12,234M, 29.0% of the
+low end, = 4.39%-5.66% of the $216,267M cap. NOT too wide, because it straddles nothing: the
+~10% floor is unreached at every end. Width comes from the finance book ($3.2bn in FY2025, $1.2bn
+the other way in FY2023), not from the capex band ($338M). [E4-41] normalisation down for luck
+names FY2025 as a mainframe cycle PEAK (z17, IBM Z +51.7%) against Q2 2026's IBM Z -42%, plus
+$200M of currency and tax-audit settlements; cycle-normalised centre judged at $10bn-$11bn.
+
+GOOD, not great [E4-20, E4-43]: excellent returns on capital in place, but $22,306M of acquisition
+cash for $12,356M of added annual revenue means the added capital earns far less. Not gruesome.
+
+[E5-11]: (1) YES, industrial cash $11.1bn to $16.4bn in four years, $20,372M of deferred income
+read as [E3-52] float and the inverse of shape #4. (2) NO - $8.2bn of liquidity at Q2 2026, down
+$6.3bn, against $62.0bn of debt, and [E5-39] refuses to count the $10bn of undrawn facilities.
+(3) MOSTLY YES, scored from the filed table: $11,995M of 2026 contractual claims plus the dividend
+and (c) = $19,867M against $21.4bn, ratio 0.93, ladder well spread. [E2-54] coverage 5.7x on
+interest paid and 4.9x on interest paid and accrued.
+
+PENSION: net underfunded $2,283M and FALLING; qualified plans in surplus (US PPP 137% funded,
+worldwide qualified 116%); the $9,828M underfunded liability is mostly non-qualified US promises
+and non-US plans; "In 2026, we are not legally required to make any contributions to the U.S.
+defined benefit pension plans". The pension is not the claim.
+
+SHAPE #10 THE CAMOUFLAGE, with the refinement that IBM sells the service that erodes its own
+franchise (Consulting's disclosed demand driver is "application migration and modernization") -
+proposed as a FEATURE of #10, not a new shape, and no register changed. Quantified: the block is
+already visible in Q2 2026, and a 5%-a-year decline in the $13,703M of disclosed franchise revenue
+at a 70% incremental margin is -$2.2bn of segment profit, 13% of the total, costing about $5.6bn
+of acquisition cash to replace at IBM's revealed $1.81 per $1. Likelihood: A REAL POSSIBILITY.
+Shapes refused with arithmetic: #1 (purchase obligations $4,817M total against ORCL's $260bn of
+uncommenced leases), #2 (SBC 13.0% of OCF), #5, #4 (inverted), #6 (a feature of the Financing
+segment only), #3 (only just).
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

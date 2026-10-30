@@ -1,0 +1,29 @@
+equity-only OE (capex)       499.7   505.9   518.6   601.3   537.7  avg   532.6
+all-equity OE (capex)        696.4   582.1   608.4   695.2   619.9  avg   640.4
+equity-only OE (D&A)         459.6   472.0   448.5   542.1   498.5  avg   484.1
+all-equity OE (D&A)          656.3   548.2   538.3   636.0   580.7  avg   591.9
+growth end-to-end: all-equity -2.87%  equity-only 1.85%  all-equity halves (FY21-22 vs FY24-25, 3 yrs apart) 0.94%
+avg acquisitions 46.2; avg payments on businesses sold 61.6
+net debt 1732.3 (debt 2745.2 cash 1012.9); mcap 7585.3; EV 9317.6
+CENTRAL, all-equity, acquisitions deducted, total growth credited:
+  top: no growth                               base  594.1 g  0.00%  value/sh $  71.56  at10% $  32.71
+  bottom: shown decline                        base  594.1 g -2.87%  value/sh $  54.22  at10% $  24.65
+  range $54.22 to $71.56; fair (avg of ends at 10%) $28.68
+  yield on EV at price, base 594.1: 6.38%
+BESIDE: payments on businesses sold also deducted:
+  no growth                                    base  532.5 g  0.00%  value/sh $  62.74  at10% $  27.92
+  decline                                      base  532.5 g -2.87%  value/sh $  47.20  at10% $  20.69
+BESIDE: halves growth instead of end years:
+  halves growth                                base  594.1 g  0.94%  value/sh $  78.21  at10% $  35.76
+BESIDE: organic pair (acquisitions left out), all-equity:
+  no growth                                    base  640.4 g  0.00%  value/sh $  78.18  at10% $  36.30
+  shown decline                                base  640.4 g -2.87%  value/sh $  59.49  at10% $  27.61
+BESIDE: depreciation variant all-equity:
+  no growth (D&A)                              base  545.6 g  0.00%  value/sh $  64.62  at10% $  28.94
+  decline (D&A)                                base  545.6 g -3.02%  value/sh $  47.98  at10% $  21.20
+EQUITY-ONLY (beside, never decides):
+  no growth                                    base  486.4 g  0.00%  value/sh $  69.60  at10% $  37.79
+  shown growth                                 base  486.4 g  1.85%  value/sh $  80.68  at10% $  42.86
+  range $69.60 to $80.68; fair $40.33; yield on mcap 6.41%
+TTM to 2026-07-03: OCF 365.4 SBC 41.9 capex 161.9 NCI 50.7 -> equity-only OE 78.5, all-equity ~160.6
+what the floor needs: all-equity owner cash at 10% no growth on EV: 931.8

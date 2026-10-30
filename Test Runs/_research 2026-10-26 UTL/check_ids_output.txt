@@ -1,0 +1,4 @@
+E-ids: none
+ids: 72 distinct; missing: none
+RESULT: PASS
+(A 200-character window also flags two filing quotes, 'essentially unchanged' (FY2022 10-K) and 'the timing of cash receipts...' (FY2025 10-K), which are the 10-K's words, not the rows', and are attributed to the filings in the text.)

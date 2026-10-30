@@ -1,0 +1,24 @@
+2021: maint-only    914.8  wc   1617.2  growth spend  -1640.2  all-spending   2555.0
+2022: maint-only   1943.9  wc  -2344.1  growth spend   2336.2  all-spending   -392.3
+2023: maint-only   1422.4  wc  -1420.1  growth spend   1475.2  all-spending    -52.7
+2024: maint-only   1429.8  wc    275.5  growth spend   -167.5  all-spending   1597.2
+2025: maint-only   1503.0  wc   -201.5  growth spend    253.3  all-spending   1249.7
+5-yr avg: maintenance-only 1442.8; growth spending 451.4; all-spending 991.4
+growth: literal 2021->2025 0.1322; halves (21-22 vs 24-25, 3 yrs apart) 0.0086
+all-spending halves 0.0960
+sales growth 2021->2025 0.1222
+
+CENTRAL (halves): g=0.0086
+  range (all-equity, at 0.0533): whole 25,407 to 27,069; per share 7.21 to 7.57; width 1.07 (whole), 1.05 (per share)
+  at 10%: no-growth 4.84; growth 4.41; FAIR 4.63  vs price 5.37
+  growth spending charged: year 1 455.3, year 10 491.6
+  equity-only: range 6.34 to 6.69; at 10% 3.57 / 3.13; FAIR 3.35 (interest after tax 213.9/yr held flat)
+
+LITERAL window: g=0.1322
+  range (all-equity, at 0.0533): whole 27,069 to 70,793; per share 7.57 to 16.98; width 2.62 (whole), 2.24 (per share)
+  at 10%: no-growth 4.84; growth 8.39; FAIR 6.62  vs price 5.37
+  growth spending charged: year 1 511.1, year 10 1561.9
+  equity-only: range 6.69 to 16.11; at 10% 3.57 / 7.12; FAIR 5.34 (interest after tax 213.9/yr held flat)
+
+all-spending beside: no-growth 5.74 at long rate, 3.87 at 10%
+market value 24,932; net cash 8,060; enterprise value 16,873; maint-only yield 0.0855; all-spending yield 0.0588

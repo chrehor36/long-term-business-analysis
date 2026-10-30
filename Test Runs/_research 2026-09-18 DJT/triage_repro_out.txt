@@ -1,0 +1,12 @@
+1 share_count_shift 1.281281462567096 -> passes (0.75-1.50)
+2 scale_shift 2.80931655899354 -> FIRES (> 2.0): 'perimeter by revenue step'
+    2022-12-31 1.4705 -> 2023-12-31 4.1311 2.8093
+    2023-12-31 4.1311 -> 2024-12-31 3.6188 0.876
+    2024-12-31 3.6188 -> 2025-12-31 3.6826 1.0176
+3 filed_years 5
+4 owner_earnings {'3y_da': -76117996.0, '3y_capex': -74515962.66666667}
+  restatement_shift (not a guard in that pipeline) (1.0, datetime.date(2023, 12, 31))
+  rev tag RevenueFromContractWithCustomerExcludingAssessedTax annual obs: 6
+  rev tag RevenueFromContractWithCustomerIncludingAssessedTax annual obs: 0
+  rev tag Revenues annual obs: 0
+  rev tag SalesRevenueNet annual obs: 0

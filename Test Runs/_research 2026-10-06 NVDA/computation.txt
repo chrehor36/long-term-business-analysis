@@ -1,0 +1,22 @@
+NVDA run 2026-10-06 - arithmetic notes (COMPUTATION - NOT A CLEARANCE)
+All filed figures USD millions; sources: 10-K FY2026 0001045810-26-000021 (filed 2026-02-25), 10-Q Q2 FY2027 0001045810-26-000075 (filed 2026-08-26).
+
+Market cap: cover count 24.1 billion (10-Q cover, as of 2026-08-21, filer rounds to 0.1B) x $238.90 (2026-10-05 close, tools/run.py live quote, aggregator) = $5,757.5B
+  Equity-statement count 2026-07-26: 24,147M -> $5,768.7B (difference 0.2%, the cover's rounding)
+
+Cross-check (filed cash-flow statement vs tools/run.py), FY2026: OCF 102,718 = 102,718; SBC 6,386 = 6,386; capex 6,042 = 6,042.
+  D&A: filed 2,843 vs tool 2,888 (FY2025 filed 1,864 vs tool 1,893): the tool's D&A is not the filed cash-flow line; the capex basis is used.
+
+Owner cash after SBC and all capex (filed): FY2024 28,090-3,549-1,069 = 23,472; FY2025 64,089-4,737-3,236 = 56,116; FY2026 102,718-6,386-6,042 = 90,290
+  Further cash items a Q4 reading would have to resolve (not resolved; the run closed at Q1):
+    FY2026 Groq license and hires, paid at closing (investing): 13,000; plus $4B (incl. imputed interest) payable within one year; 2,944 of it paid in H1 FY2027 (financing line)
+    FY2026 acquisitions net of cash: 1,535
+    FY2026 owner cash if Groq and acquisitions are charged as costs of staying competitive: 90,290-13,000-1,535 = 75,755
+    FY2026 purchases of non-marketable equity securities: 17,502 (H1 FY2027 purchases of equity securities: 42,404)
+  Five-year mean (tools/run.py, FY2022-FY2026, capex basis): 35,421; three-year mean 56,626.
+H1 FY2027 (six months to 2026-07-26): OCF 74,421 - SBC 3,954 - capex 4,434 = 66,033
+
+Revenue concentration FY2026: Data Center 193,737 / 215,938 = 89.7%; one direct customer 22%, another 14% (10-K).
+Margin history (XBRL first-filed, xbrl_revenue_margins.txt): operating margin FY2023 15.7% -> FY2025 62.4%; revenue FY2023 26,974 -> FY2026 215,938 (8.0x in three years).
+Commitments (10-Q Note 10): supply and capacity $279B at 2026-07-26 (from $119B a quarter earlier); SB Energy residual value guarantees for OpenAI leases capped at $105B (8-K 0001045810-26-000069).
+Debt: senior notes $33.5B at 2026-07-26 (10-Q Item 1A) vs $8.5B at FY2026 end; proceeds from issuance H1 FY2027 24,896.

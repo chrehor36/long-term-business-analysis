@@ -1,0 +1,2607 @@
+{
+ "PNW": {
+  "2015": {
+   "eq": {
+    "val": 4583917000,
+    "accn": "0000764622-16-000087",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2016-02-19"
+   }
+  },
+  "2016": {
+   "eq": {
+    "val": 4803622000,
+    "accn": "0000764622-17-000010",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   },
+   "ni": {
+    "val": 442034000,
+    "accn": "0000764622-17-000010",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   },
+   "rev": {
+    "val": 3498682000,
+    "accn": "0000764622-17-000010",
+    "concept": "SalesRevenueNet",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   },
+   "ocf": {
+    "val": 1023390000,
+    "accn": "0000764622-17-000010",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   },
+   "capex": {
+    "val": 1275472000,
+    "accn": "0000764622-17-000010",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   },
+   "da": {
+    "val": 565011000,
+    "accn": "0000764622-17-000010",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   },
+   "ltd": {
+    "val": 4146785000,
+    "accn": "0000764622-17-000010",
+    "concept": "LongTermDebtNoncurrent + OtherLongTermDebtCurrent",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   }
+  },
+  "2017": {
+   "eq": {
+    "val": 5006690000,
+    "accn": "0000764622-18-000018",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   },
+   "ni": {
+    "val": 488456000,
+    "accn": "0000764622-18-000018",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   },
+   "rev": {
+    "val": 3565296000,
+    "accn": "0000764622-18-000018",
+    "concept": "SalesRevenueNet",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   },
+   "ocf": {
+    "val": 1118036000,
+    "accn": "0000764622-18-000018",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   },
+   "capex": {
+    "val": 1408774000,
+    "accn": "0000764622-18-000018",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   },
+   "da": {
+    "val": 610629000,
+    "accn": "0000764622-18-000018",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   },
+   "ltd": {
+    "val": 4871713000,
+    "accn": "0000764622-18-000018",
+    "concept": "LongTermDebtNoncurrent + OtherLongTermDebtCurrent",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   }
+  },
+  "2018": {
+   "eq": {
+    "val": 5222915000,
+    "accn": "0000764622-19-000019",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   },
+   "ni": {
+    "val": 511047000,
+    "accn": "0000764622-19-000019",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   },
+   "rev": {
+    "val": 3691247000,
+    "accn": "0000764622-19-000019",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   },
+   "ocf": {
+    "val": 1277144000,
+    "accn": "0000764622-19-000019",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   },
+   "capex": {
+    "val": 1178169000,
+    "accn": "0000764622-19-000019",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   },
+   "da": {
+    "val": 650955000,
+    "accn": "0000764622-19-000019",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   },
+   "ltd": {
+    "val": 5138232000,
+    "accn": "0000764622-19-000019",
+    "concept": "LongTermDebtNoncurrent + OtherLongTermDebtCurrent",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   }
+  },
+  "2019": {
+   "eq": {
+    "val": 5430648000,
+    "accn": "0000764622-20-000017",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   },
+   "ni": {
+    "val": 538320000,
+    "accn": "0000764622-20-000017",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   },
+   "rev": {
+    "val": 3471209000,
+    "accn": "0000764622-20-000017",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   },
+   "ocf": {
+    "val": 956726000,
+    "accn": "0000764622-20-000017",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   },
+   "capex": {
+    "val": 1191447000,
+    "accn": "0000764622-20-000017",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   },
+   "da": {
+    "val": 664140000,
+    "accn": "0000764622-20-000017",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   },
+   "ltd": {
+    "val": 5632558000,
+    "accn": "0000764622-20-000017",
+    "concept": "LongTermDebtNoncurrent + OtherLongTermDebtCurrent",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   }
+  },
+  "2020": {
+   "eq": {
+    "val": 5633503000,
+    "accn": "0000764622-21-000013",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2021-02-24"
+   },
+   "ni": {
+    "val": 550559000,
+    "accn": "0000764622-21-000013",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2021-02-24"
+   },
+   "rev": {
+    "val": 3586982000,
+    "accn": "0000764622-21-000013",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2021-02-24"
+   },
+   "ocf": {
+    "val": 966365000,
+    "accn": "0000764622-21-000013",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2021-02-24"
+   },
+   "capex": {
+    "val": 1326584000,
+    "accn": "0000764622-21-000013",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2021-02-24"
+   },
+   "da": {
+    "val": 686253000,
+    "accn": "0000764622-21-000013",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2021-02-24"
+   },
+   "ltd": {
+    "val": 6314266000,
+    "accn": "0000764622-21-000013",
+    "concept": "LongTermDebtNoncurrent + OtherLongTermDebtCurrent",
+    "form": "10-K",
+    "filed": "2021-02-24"
+   }
+  },
+  "2021": {
+   "eq": {
+    "val": 5906200000,
+    "accn": "0000764622-22-000014",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2022-02-25"
+   },
+   "ni": {
+    "val": 618720000,
+    "accn": "0000764622-22-000014",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2022-02-25"
+   },
+   "rev": {
+    "val": 3803835000,
+    "accn": "0000764622-22-000014",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2022-02-25"
+   },
+   "ocf": {
+    "val": 860014000,
+    "accn": "0000764622-22-000014",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2022-02-25"
+   },
+   "capex": {
+    "val": 1473475000,
+    "accn": "0000764622-22-000014",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2022-02-25"
+   },
+   "da": {
+    "val": 719141000,
+    "accn": "0000764622-22-000014",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2022-02-25"
+   },
+   "ltd": {
+    "val": 7063735000,
+    "accn": "0000764622-22-000014",
+    "concept": "LongTermDebtNoncurrent + OtherLongTermDebtCurrent",
+    "form": "10-K",
+    "filed": "2022-02-25"
+   }
+  },
+  "2022": {
+   "eq": {
+    "val": 6048647000,
+    "accn": "0000764622-23-000023",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2023-02-27"
+   },
+   "ni": {
+    "val": 483602000,
+    "accn": "0000764622-23-000023",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2023-02-27"
+   },
+   "rev": {
+    "val": 4324385000,
+    "accn": "0000764622-23-000023",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2023-02-27"
+   },
+   "ocf": {
+    "val": 1241441000,
+    "accn": "0000764622-23-000023",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2023-02-27"
+   },
+   "capex": {
+    "val": 1707490000,
+    "accn": "0000764622-23-000023",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2023-02-27"
+   },
+   "da": {
+    "val": 817814000,
+    "accn": "0000764622-23-000023",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2023-02-27"
+   },
+   "ltd": {
+    "val": 7791971000,
+    "accn": "0000764622-23-000023",
+    "concept": "LongTermDebtNoncurrent + OtherLongTermDebtCurrent",
+    "form": "10-K",
+    "filed": "2023-02-27"
+   }
+  },
+  "2023": {
+   "eq": {
+    "val": 6177664000,
+    "accn": "0000764622-24-000016",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2024-02-27"
+   },
+   "ni": {
+    "val": 501557000,
+    "accn": "0000764622-24-000016",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2024-02-27"
+   },
+   "rev": {
+    "val": 4695991000,
+    "accn": "0000764622-24-000016",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2024-02-27"
+   },
+   "ocf": {
+    "val": 1207697000,
+    "accn": "0000764622-24-000016",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2024-02-27"
+   },
+   "capex": {
+    "val": 1846370000,
+    "accn": "0000764622-24-000016",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2024-02-27"
+   },
+   "da": {
+    "val": 854136000,
+    "accn": "0000764622-24-000016",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2024-02-27"
+   },
+   "ltd": {
+    "val": 8415622000,
+    "accn": "0000764622-24-000016",
+    "concept": "LongTermDebtNoncurrent + OtherLongTermDebtCurrent",
+    "form": "10-K",
+    "filed": "2024-02-27"
+   }
+  },
+  "2024": {
+   "eq": {
+    "val": 6754311000,
+    "accn": "0000764622-25-000023",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2025-02-25"
+   },
+   "ni": {
+    "val": 608806000,
+    "accn": "0000764622-25-000023",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2025-02-25"
+   },
+   "rev": {
+    "val": 5124915000,
+    "accn": "0000764622-25-000023",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2025-02-25"
+   },
+   "ocf": {
+    "val": 1609823000,
+    "accn": "0000764622-25-000023",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2025-02-25"
+   },
+   "capex": {
+    "val": 2249195000,
+    "accn": "0000764622-25-000023",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2025-02-25"
+   },
+   "da": {
+    "val": 956184000,
+    "accn": "0000764622-25-000023",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2025-02-25"
+   },
+   "ltd": {
+    "val": 8858648000,
+    "accn": "0000764622-25-000023",
+    "concept": "LongTermDebtNoncurrent + LongTermDebtCurrent",
+    "form": "10-K",
+    "filed": "2025-02-25"
+   }
+  },
+  "2025": {
+   "eq": {
+    "val": 7046458000,
+    "accn": "0000764622-26-000011",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   },
+   "ni": {
+    "val": 616531000,
+    "accn": "0000764622-26-000011",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   },
+   "rev": {
+    "val": 5339939000,
+    "accn": "0000764622-26-000011",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   },
+   "ocf": {
+    "val": 1805095000,
+    "accn": "0000764622-26-000011",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   },
+   "capex": {
+    "val": 2624618000,
+    "accn": "0000764622-26-000011",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   },
+   "da": {
+    "val": 969615000,
+    "accn": "0000764622-26-000011",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   },
+   "ltd": {
+    "val": 9805676000,
+    "accn": "0000764622-26-000011",
+    "concept": "LongTermDebtNoncurrent + LongTermDebtCurrent",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   }
+  }
+ },
+ "IDA": {
+  "2015": {
+   "eq": {
+    "val": 2057884000,
+    "accn": "0001057877-16-000209",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2016-02-18"
+   }
+  },
+  "2016": {
+   "eq": {
+    "val": 2153906000,
+    "accn": "0001057877-17-000035",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2017-02-23"
+   },
+   "ni": {
+    "val": 198288000,
+    "accn": "0001057877-17-000035",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2017-02-23"
+   },
+   "rev": {
+    "val": 1262020000,
+    "accn": "0001057877-17-000035",
+    "concept": "SalesRevenueNet",
+    "form": "10-K",
+    "filed": "2017-02-23"
+   },
+   "ocf": {
+    "val": 347706000,
+    "accn": "0001057877-17-000035",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2017-02-23"
+   },
+   "capex": {
+    "val": 296950000,
+    "accn": "0001057877-17-000035",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2017-02-23"
+   },
+   "da": {
+    "val": 147294000,
+    "accn": "0001057877-17-000035",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2017-02-23"
+   },
+   "ltd": {
+    "val": 1745678000,
+    "accn": "0001057877-17-000035",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2017-02-23"
+   }
+  },
+  "2017": {
+   "eq": {
+    "val": 2251385000,
+    "accn": "0001057877-18-000027",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2018-02-22"
+   },
+   "ni": {
+    "val": 212419000,
+    "accn": "0001057877-18-000027",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2018-02-22"
+   },
+   "rev": {
+    "val": 1349486000,
+    "accn": "0001057877-18-000027",
+    "concept": "SalesRevenueNet",
+    "form": "10-K",
+    "filed": "2018-02-22"
+   },
+   "ocf": {
+    "val": 438020000,
+    "accn": "0001057877-18-000027",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2018-02-22"
+   },
+   "capex": {
+    "val": 285488000,
+    "accn": "0001057877-18-000027",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2018-02-22"
+   },
+   "da": {
+    "val": 165933000,
+    "accn": "0001057877-18-000027",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2018-02-22"
+   },
+   "ltd": {
+    "val": 1746123000,
+    "accn": "0001057877-18-000027",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2018-02-22"
+   }
+  },
+  "2018": {
+   "eq": {
+    "val": 2370360000,
+    "accn": "0001057877-19-000024",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2019-02-21"
+   },
+   "ni": {
+    "val": 226801000,
+    "accn": "0001057877-19-000024",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2019-02-21"
+   },
+   "rev": {
+    "val": 1370752000,
+    "accn": "0001057877-19-000024",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2019-02-21"
+   },
+   "ocf": {
+    "val": 491626000,
+    "accn": "0001057877-19-000024",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2019-02-21"
+   },
+   "capex": {
+    "val": 277853000,
+    "accn": "0001057877-19-000024",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2019-02-21"
+   },
+   "da": {
+    "val": 169120000,
+    "accn": "0001057877-19-000024",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2019-02-21"
+   },
+   "ltd": {
+    "val": 1834788000,
+    "accn": "0001057877-19-000024",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2019-02-21"
+   }
+  },
+  "2019": {
+   "eq": {
+    "val": 2464628000,
+    "accn": "0001057877-20-000040",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2020-02-20"
+   },
+   "ni": {
+    "val": 232854000,
+    "accn": "0001057877-20-000040",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2020-02-20"
+   },
+   "rev": {
+    "val": 1346383000,
+    "accn": "0001057877-20-000040",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2020-02-20"
+   },
+   "ocf": {
+    "val": 366625000,
+    "accn": "0001057877-20-000040",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2020-02-20"
+   },
+   "capex": {
+    "val": 278705000,
+    "accn": "0001057877-20-000040",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2020-02-20"
+   },
+   "da": {
+    "val": 173800000,
+    "accn": "0001057877-20-000040",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2020-02-20"
+   },
+   "ltd": {
+    "val": 1836659000,
+    "accn": "0001057877-20-000040",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2020-02-20"
+   }
+  },
+  "2020": {
+   "eq": {
+    "val": 2559980000,
+    "accn": "0001057877-21-000036",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2021-02-18"
+   },
+   "ni": {
+    "val": 237417000,
+    "accn": "0001057877-21-000036",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2021-02-18"
+   },
+   "rev": {
+    "val": 1350729000,
+    "accn": "0001057877-21-000036",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2021-02-18"
+   },
+   "ocf": {
+    "val": 388131000,
+    "accn": "0001057877-21-000036",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2021-02-18"
+   },
+   "capex": {
+    "val": 310938000,
+    "accn": "0001057877-21-000036",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2021-02-18"
+   },
+   "da": {
+    "val": 175941000,
+    "accn": "0001057877-21-000036",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2021-02-18"
+   },
+   "ltd": {
+    "val": 2000414000,
+    "accn": "0001057877-21-000036",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2021-02-18"
+   }
+  },
+  "2021": {
+   "eq": {
+    "val": 2668436000,
+    "accn": "0001057877-22-000014",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   },
+   "ni": {
+    "val": 245550000,
+    "accn": "0001057877-22-000014",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   },
+   "rev": {
+    "val": 1458084000,
+    "accn": "0001057877-22-000014",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   },
+   "ocf": {
+    "val": 363264000,
+    "accn": "0001057877-22-000014",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   },
+   "capex": {
+    "val": 299999000,
+    "accn": "0001057877-22-000014",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   },
+   "da": {
+    "val": 179444000,
+    "accn": "0001057877-22-000014",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   },
+   "ltd": {
+    "val": 2000640000,
+    "accn": "0001057877-22-000014",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   }
+  },
+  "2022": {
+   "eq": {
+    "val": 2807239000,
+    "accn": "0001057877-23-000007",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   },
+   "ni": {
+    "val": 258982000,
+    "accn": "0001057877-23-000007",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   },
+   "rev": {
+    "val": 1643981000,
+    "accn": "0001057877-23-000007",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   },
+   "ocf": {
+    "val": 351285000,
+    "accn": "0001057877-23-000007",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   },
+   "capex": {
+    "val": 432589000,
+    "accn": "0001057877-23-000007",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   },
+   "da": {
+    "val": 173555000,
+    "accn": "0001057877-23-000007",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   },
+   "ltd": {
+    "val": 2194145000,
+    "accn": "0001057877-23-000007",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   }
+  },
+  "2023": {
+   "eq": {
+    "val": 2907569000,
+    "accn": "0001057877-24-000005",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2024-02-15"
+   },
+   "ni": {
+    "val": 261195000,
+    "accn": "0001057877-24-000005",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2024-02-15"
+   },
+   "rev": {
+    "val": 1766356000,
+    "accn": "0001057877-24-000005",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2024-02-15"
+   },
+   "ocf": {
+    "val": 267027000,
+    "accn": "0001057877-24-000005",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2024-02-15"
+   },
+   "capex": {
+    "val": 611137000,
+    "accn": "0001057877-24-000005",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2024-02-15"
+   },
+   "da": {
+    "val": 199908000,
+    "accn": "0001057877-24-000005",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2024-02-15"
+   },
+   "ltd": {
+    "val": 2775790000,
+    "accn": "0001057877-24-000005",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2024-02-15"
+   }
+  },
+  "2024": {
+   "eq": {
+    "val": 3330954000,
+    "accn": "0001057877-25-000014",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2025-02-20"
+   },
+   "ni": {
+    "val": 289174000,
+    "accn": "0001057877-25-000014",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2025-02-20"
+   },
+   "rev": {
+    "val": 1826633000,
+    "accn": "0001057877-25-000014",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2025-02-20"
+   },
+   "ocf": {
+    "val": 594417000,
+    "accn": "0001057877-25-000014",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2025-02-20"
+   },
+   "capex": {
+    "val": 1009279000,
+    "accn": "0001057877-25-000014",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2025-02-20"
+   },
+   "da": {
+    "val": 228091000,
+    "accn": "0001057877-25-000014",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2025-02-20"
+   },
+   "ltd": {
+    "val": 3053777000,
+    "accn": "0001057877-25-000014",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2025-02-20"
+   }
+  },
+  "2025": {
+   "eq": {
+    "val": 3571874000,
+    "accn": "0001057877-26-000028",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2026-02-19"
+   },
+   "ni": {
+    "val": 323472000,
+    "accn": "0001057877-26-000028",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2026-02-19"
+   },
+   "rev": {
+    "val": 1812997000,
+    "accn": "0001057877-26-000028",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2026-02-19"
+   },
+   "ocf": {
+    "val": 601838000,
+    "accn": "0001057877-26-000028",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2026-02-19"
+   },
+   "capex": {
+    "val": 1179327000,
+    "accn": "0001057877-26-000028",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2026-02-19"
+   },
+   "da": {
+    "val": 258402000,
+    "accn": "0001057877-26-000028",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2026-02-19"
+   },
+   "ltd": {
+    "val": 3331038000,
+    "accn": "0001057877-26-000028",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2026-02-19"
+   }
+  }
+ },
+ "POR": {
+  "2015": {
+   "eq": {
+    "val": 2258000000,
+    "accn": "0000784977-16-000067",
+    "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (no NCI tagged)",
+    "form": "10-K",
+    "filed": "2016-02-12"
+   }
+  },
+  "2016": {
+   "eq": {
+    "val": 2344000000,
+    "accn": "0000784977-17-000006",
+    "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (no NCI tagged)",
+    "form": "10-K",
+    "filed": "2017-02-17"
+   },
+   "ni": {
+    "val": 193000000,
+    "accn": "0000784977-17-000006",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2017-02-17"
+   },
+   "rev": {
+    "val": 1923000000,
+    "accn": "0000784977-17-000006",
+    "concept": "ElectricUtilityRevenue",
+    "form": "10-K",
+    "filed": "2017-02-17"
+   },
+   "ocf": {
+    "val": 553000000,
+    "accn": "0000784977-17-000006",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2017-02-17"
+   },
+   "capex": {
+    "val": 584000000,
+    "accn": "0000784977-17-000006",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2017-02-17"
+   },
+   "da": {
+    "val": 321000000,
+    "accn": "0000784977-17-000006",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2017-02-17"
+   },
+   "ltd": {
+    "val": 2361000000,
+    "accn": "0000784977-17-000006",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2017-02-17"
+   }
+  },
+  "2017": {
+   "eq": {
+    "val": 2416000000,
+    "accn": "0000784977-18-000005",
+    "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (no NCI tagged)",
+    "form": "10-K",
+    "filed": "2018-02-16"
+   },
+   "ni": {
+    "val": 187000000,
+    "accn": "0000784977-18-000005",
+    "concept": "ProfitLoss",
+    "form": "10-K",
+    "filed": "2018-02-16"
+   },
+   "rev": {
+    "val": 2009000000,
+    "accn": "0000784977-18-000005",
+    "concept": "ElectricUtilityRevenue",
+    "form": "10-K",
+    "filed": "2018-02-16"
+   },
+   "ocf": {
+    "val": 597000000,
+    "accn": "0000784977-18-000005",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2018-02-16"
+   },
+   "capex": {
+    "val": 514000000,
+    "accn": "0000784977-18-000005",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2018-02-16"
+   },
+   "da": {
+    "val": 345000000,
+    "accn": "0000784977-18-000005",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2018-02-16"
+   },
+   "ltd": {
+    "val": 2436000000,
+    "accn": "0000784977-18-000005",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2018-02-16"
+   }
+  },
+  "2018": {
+   "eq": {
+    "val": 2506000000,
+    "accn": "0000784977-19-000010",
+    "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (no NCI tagged)",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   },
+   "ni": {
+    "val": 212000000,
+    "accn": "0000784977-19-000010",
+    "concept": "ProfitLoss",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   },
+   "rev": {
+    "val": 1991000000,
+    "accn": "0000784977-19-000010",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   },
+   "ocf": {
+    "val": 630000000,
+    "accn": "0000784977-19-000010",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   },
+   "capex": {
+    "val": 595000000,
+    "accn": "0000784977-19-000010",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   },
+   "da": {
+    "val": 382000000,
+    "accn": "0000784977-19-000010",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   },
+   "ltd": {
+    "val": 2488000000,
+    "accn": "0000784977-19-000010",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   }
+  },
+  "2019": {
+   "eq": {
+    "val": 2591000000,
+    "accn": "0000784977-20-000005",
+    "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (no NCI tagged)",
+    "form": "10-K",
+    "filed": "2020-02-14"
+   },
+   "ni": {
+    "val": 214000000,
+    "accn": "0000784977-20-000005",
+    "concept": "ProfitLoss",
+    "form": "10-K",
+    "filed": "2020-02-14"
+   },
+   "rev": {
+    "val": 2123000000,
+    "accn": "0000784977-20-000005",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2020-02-14"
+   },
+   "ocf": {
+    "val": 546000000,
+    "accn": "0000784977-20-000005",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2020-02-14"
+   },
+   "capex": {
+    "val": 606000000,
+    "accn": "0000784977-20-000005",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2020-02-14"
+   },
+   "da": {
+    "val": 409000000,
+    "accn": "0000784977-20-000005",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2020-02-14"
+   },
+   "ltd": {
+    "val": 2608000000,
+    "accn": "0000784977-20-000005",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2020-02-14"
+   }
+  },
+  "2020": {
+   "eq": {
+    "val": 2613000000,
+    "accn": "0000784977-21-000007",
+    "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (no NCI tagged)",
+    "form": "10-K",
+    "filed": "2021-02-19"
+   },
+   "ni": {
+    "val": 155000000,
+    "accn": "0000784977-21-000007",
+    "concept": "ProfitLoss",
+    "form": "10-K",
+    "filed": "2021-02-19"
+   },
+   "rev": {
+    "val": 2145000000,
+    "accn": "0000784977-21-000007",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2021-02-19"
+   },
+   "ocf": {
+    "val": 567000000,
+    "accn": "0000784977-21-000007",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2021-02-19"
+   },
+   "capex": {
+    "val": 784000000,
+    "accn": "0000784977-21-000007",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2021-02-19"
+   },
+   "da": {
+    "val": 454000000,
+    "accn": "0000784977-21-000007",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2021-02-19"
+   },
+   "ltd": {
+    "val": 3059000000,
+    "accn": "0000784977-21-000007",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2021-02-19"
+   }
+  },
+  "2021": {
+   "eq": {
+    "val": 2707000000,
+    "accn": "0000784977-22-000009",
+    "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (no NCI tagged)",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   },
+   "ni": {
+    "val": 244000000,
+    "accn": "0000784977-22-000009",
+    "concept": "ProfitLoss",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   },
+   "rev": {
+    "val": 2396000000,
+    "accn": "0000784977-22-000009",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   },
+   "ocf": {
+    "val": 532000000,
+    "accn": "0000784977-22-000009",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   },
+   "capex": {
+    "val": 636000000,
+    "accn": "0000784977-22-000009",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   },
+   "da": {
+    "val": 404000000,
+    "accn": "0000784977-22-000009",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   },
+   "ltd": {
+    "val": 3299000000,
+    "accn": "0000784977-22-000009",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2022-02-17"
+   }
+  },
+  "2022": {
+   "eq": {
+    "val": 2779000000,
+    "accn": "0000784977-23-000005",
+    "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (no NCI tagged)",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   },
+   "ni": {
+    "val": 233000000,
+    "accn": "0000784977-23-000005",
+    "concept": "ProfitLoss",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   },
+   "rev": {
+    "val": 2647000000,
+    "accn": "0000784977-23-000005",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   },
+   "ocf": {
+    "val": 674000000,
+    "accn": "0000784977-23-000005",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   },
+   "capex": {
+    "val": 766000000,
+    "accn": "0000784977-23-000005",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   },
+   "da": {
+    "val": 417000000,
+    "accn": "0000784977-23-000005",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   },
+   "ltd": {
+    "val": 3659000000,
+    "accn": "0000784977-23-000005",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2023-02-16"
+   }
+  },
+  "2023": {
+   "eq": {
+    "val": 3319000000,
+    "accn": "0000784977-24-000034",
+    "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (no NCI tagged)",
+    "form": "10-K",
+    "filed": "2024-02-20"
+   },
+   "ni": {
+    "val": 228000000,
+    "accn": "0000784977-24-000034",
+    "concept": "ProfitLoss",
+    "form": "10-K",
+    "filed": "2024-02-20"
+   },
+   "rev": {
+    "val": 2923000000,
+    "accn": "0000784977-24-000034",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2024-02-20"
+   },
+   "ocf": {
+    "val": 420000000,
+    "accn": "0000784977-24-000034",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2024-02-20"
+   },
+   "capex": {
+    "val": 1358000000,
+    "accn": "0000784977-24-000034",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2024-02-20"
+   },
+   "da": {
+    "val": 458000000,
+    "accn": "0000784977-24-000034",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2024-02-20"
+   },
+   "ltd": {
+    "val": 3999000000,
+    "accn": "0000784977-24-000034",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2024-02-20"
+   }
+  },
+  "2024": {
+   "eq": {
+    "val": 3794000000,
+    "accn": "0000784977-25-000012",
+    "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (no NCI tagged)",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   },
+   "ni": {
+    "val": 313000000,
+    "accn": "0000784977-25-000012",
+    "concept": "ProfitLoss",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   },
+   "rev": {
+    "val": 3440000000,
+    "accn": "0000784977-25-000012",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   },
+   "ocf": {
+    "val": 778000000,
+    "accn": "0000784977-25-000012",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   },
+   "capex": {
+    "val": 1268000000,
+    "accn": "0000784977-25-000012",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   },
+   "da": {
+    "val": 496000000,
+    "accn": "0000784977-25-000012",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   },
+   "ltd": {
+    "val": 4539000000,
+    "accn": "0000784977-25-000012",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   }
+  },
+  "2025": {
+   "eq": {
+    "val": 4133000000,
+    "accn": "0001193125-26-052750",
+    "concept": "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (no NCI tagged)",
+    "form": "10-K",
+    "filed": "2026-02-17"
+   },
+   "ni": {
+    "val": 306000000,
+    "accn": "0001193125-26-052750",
+    "concept": "ProfitLoss",
+    "form": "10-K",
+    "filed": "2026-02-17"
+   },
+   "rev": {
+    "val": 3576000000,
+    "accn": "0001193125-26-052750",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2026-02-17"
+   },
+   "ocf": {
+    "val": 1118000000,
+    "accn": "0001193125-26-052750",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2026-02-17"
+   },
+   "capex": {
+    "val": 1189000000,
+    "accn": "0001193125-26-052750",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2026-02-17"
+   },
+   "da": {
+    "val": 578000000,
+    "accn": "0001193125-26-052750",
+    "concept": "DepreciationDepletionAndAmortization",
+    "form": "10-K",
+    "filed": "2026-02-17"
+   },
+   "ltd": {
+    "val": 4679000000,
+    "accn": "0001193125-26-052750",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2026-02-17"
+   }
+  }
+ },
+ "XEL": {
+  "2015": {
+   "eq": {
+    "val": 10600920000,
+    "accn": "0000072903-16-000123",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2016-02-19"
+   }
+  },
+  "2016": {
+   "eq": {
+    "val": 11020849000,
+    "accn": "0000072903-17-000008",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   },
+   "ni": {
+    "val": 1123379000,
+    "accn": "0000072903-17-000008",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   },
+   "rev": {
+    "val": 11106920000,
+    "accn": "0000072903-17-000008",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   },
+   "ocf": {
+    "val": 3052299000,
+    "accn": "0000072903-17-000008",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   },
+   "capex": {
+    "val": 3255550000,
+    "accn": "0000072903-17-000008",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   },
+   "da": {
+    "val": 1318752000,
+    "accn": "0000072903-17-000008",
+    "concept": "DepreciationAmortizationAndAccretionNet",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   },
+   "ltd": {
+    "val": 14444718000,
+    "accn": "0000072903-17-000008",
+    "concept": "LongTermDebtAndCapitalLeaseObligations + LongTermDebtCurrent",
+    "form": "10-K",
+    "filed": "2017-02-24"
+   }
+  },
+  "2017": {
+   "eq": {
+    "val": 11455000000,
+    "accn": "0000072903-18-000009",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   },
+   "ni": {
+    "val": 1148000000,
+    "accn": "0000072903-18-000009",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   },
+   "rev": {
+    "val": 11404000000,
+    "accn": "0000072903-18-000009",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   },
+   "ocf": {
+    "val": 3126000000,
+    "accn": "0000072903-18-000009",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   },
+   "capex": {
+    "val": 3319000000,
+    "accn": "0000072903-18-000009",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   },
+   "da": {
+    "val": 1495000000,
+    "accn": "0000072903-18-000009",
+    "concept": "DepreciationAmortizationAndAccretionNet",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   },
+   "ltd": {
+    "val": 14977000000,
+    "accn": "0000072903-18-000009",
+    "concept": "LongTermDebtAndCapitalLeaseObligations + LongTermDebtAndCapitalLeaseObligationsCurrent",
+    "form": "10-K",
+    "filed": "2018-02-23"
+   }
+  },
+  "2018": {
+   "eq": {
+    "val": 12222000000,
+    "accn": "0000072903-19-000010",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   },
+   "ni": {
+    "val": 1261000000,
+    "accn": "0000072903-19-000010",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   },
+   "rev": {
+    "val": 11537000000,
+    "accn": "0000072903-19-000010",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   },
+   "ocf": {
+    "val": 3122000000,
+    "accn": "0000072903-19-000010",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   },
+   "capex": {
+    "val": 3957000000,
+    "accn": "0000072903-19-000010",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   },
+   "da": {
+    "val": 1659000000,
+    "accn": "0000072903-19-000010",
+    "concept": "DepreciationAmortizationAndAccretionNet",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   },
+   "ltd": {
+    "val": 16209000000,
+    "accn": "0000072903-19-000010",
+    "concept": "LongTermDebtAndCapitalLeaseObligations + LongTermDebtAndCapitalLeaseObligationsCurrent",
+    "form": "10-K",
+    "filed": "2019-02-22"
+   }
+  },
+  "2019": {
+   "eq": {
+    "val": 13239000000,
+    "accn": "0000072903-20-000011",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   },
+   "ni": {
+    "val": 1372000000,
+    "accn": "0000072903-20-000011",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   },
+   "rev": {
+    "val": 11529000000,
+    "accn": "0000072903-20-000011",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   },
+   "ocf": {
+    "val": 3263000000,
+    "accn": "0000072903-20-000011",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   },
+   "capex": {
+    "val": 4225000000,
+    "accn": "0000072903-20-000011",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   },
+   "da": {
+    "val": 1785000000,
+    "accn": "0000072903-20-000011",
+    "concept": "DepreciationAmortizationAndAccretionNet",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   },
+   "ltd": {
+    "val": 18109000000,
+    "accn": "0000072903-20-000011",
+    "concept": "LongTermDebtAndCapitalLeaseObligations + LongTermDebtAndCapitalLeaseObligationsCurrent",
+    "form": "10-K",
+    "filed": "2020-02-21"
+   }
+  },
+  "2020": {
+   "eq": {
+    "val": 14575000000,
+    "accn": "0000072903-21-000012",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2021-02-17"
+   },
+   "ni": {
+    "val": 1473000000,
+    "accn": "0000072903-21-000012",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2021-02-17"
+   },
+   "rev": {
+    "val": 11526000000,
+    "accn": "0000072903-21-000012",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2021-02-17"
+   },
+   "ocf": {
+    "val": 2848000000,
+    "accn": "0000072903-21-000012",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2021-02-17"
+   },
+   "capex": {
+    "val": 5369000000,
+    "accn": "0000072903-21-000012",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2021-02-17"
+   },
+   "da": {
+    "val": 1959000000,
+    "accn": "0000072903-21-000012",
+    "concept": "DepreciationAmortizationAndAccretionNet",
+    "form": "10-K",
+    "filed": "2021-02-17"
+   },
+   "ltd": {
+    "val": 20066000000,
+    "accn": "0000072903-21-000012",
+    "concept": "LongTermDebtAndCapitalLeaseObligations + LongTermDebtAndCapitalLeaseObligationsCurrent",
+    "form": "10-K",
+    "filed": "2021-02-17"
+   }
+  },
+  "2021": {
+   "eq": {
+    "val": 15612000000,
+    "accn": "0000072903-22-000010",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2022-02-23"
+   },
+   "ni": {
+    "val": 1597000000,
+    "accn": "0000072903-22-000010",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2022-02-23"
+   },
+   "rev": {
+    "val": 13431000000,
+    "accn": "0000072903-22-000010",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2022-02-23"
+   },
+   "ocf": {
+    "val": 2189000000,
+    "accn": "0000072903-22-000010",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2022-02-23"
+   },
+   "capex": {
+    "val": 4244000000,
+    "accn": "0000072903-22-000010",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2022-02-23"
+   },
+   "da": {
+    "val": 2143000000,
+    "accn": "0000072903-22-000010",
+    "concept": "DepreciationAmortizationAndAccretionNet",
+    "form": "10-K",
+    "filed": "2022-02-23"
+   },
+   "ltd": {
+    "val": 22380000000,
+    "accn": "0000072903-22-000010",
+    "concept": "LongTermDebtAndCapitalLeaseObligations + LongTermDebtAndCapitalLeaseObligationsCurrent",
+    "form": "10-K",
+    "filed": "2022-02-23"
+   }
+  },
+  "2022": {
+   "eq": {
+    "val": 16675000000,
+    "accn": "0000072903-23-000007",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2023-02-23"
+   },
+   "ni": {
+    "val": 1736000000,
+    "accn": "0000072903-23-000007",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2023-02-23"
+   },
+   "rev": {
+    "val": 15310000000,
+    "accn": "0000072903-23-000007",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2023-02-23"
+   },
+   "ocf": {
+    "val": 3932000000,
+    "accn": "0000072903-23-000007",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2023-02-23"
+   },
+   "capex": {
+    "val": 4638000000,
+    "accn": "0000072903-23-000007",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2023-02-23"
+   },
+   "da": {
+    "val": 2436000000,
+    "accn": "0000072903-23-000007",
+    "concept": "DepreciationAmortizationAndAccretionNet",
+    "form": "10-K",
+    "filed": "2023-02-23"
+   },
+   "ltd": {
+    "val": 23964000000,
+    "accn": "0000072903-23-000007",
+    "concept": "LongTermDebtAndCapitalLeaseObligations + LongTermDebtAndCapitalLeaseObligationsCurrent",
+    "form": "10-K",
+    "filed": "2023-02-23"
+   }
+  },
+  "2023": {
+   "eq": {
+    "val": 17616000000,
+    "accn": "0000072903-24-000034",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2024-02-21"
+   },
+   "ni": {
+    "val": 1771000000,
+    "accn": "0000072903-24-000034",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2024-02-21"
+   },
+   "rev": {
+    "val": 14206000000,
+    "accn": "0000072903-24-000034",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2024-02-21"
+   },
+   "ocf": {
+    "val": 5327000000,
+    "accn": "0000072903-24-000034",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2024-02-21"
+   },
+   "capex": {
+    "val": 5854000000,
+    "accn": "0000072903-24-000034",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2024-02-21"
+   },
+   "da": {
+    "val": 2471000000,
+    "accn": "0000072903-24-000034",
+    "concept": "DepreciationAmortizationAndAccretionNet",
+    "form": "10-K",
+    "filed": "2024-02-21"
+   },
+   "ltd": {
+    "val": 25465000000,
+    "accn": "0000072903-24-000034",
+    "concept": "LongTermDebtAndCapitalLeaseObligations + LongTermDebtAndCapitalLeaseObligationsCurrent",
+    "form": "10-K",
+    "filed": "2024-02-21"
+   }
+  },
+  "2024": {
+   "eq": {
+    "val": 19522000000,
+    "accn": "0000072903-25-000029",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2025-02-27"
+   },
+   "ni": {
+    "val": 1936000000,
+    "accn": "0000072903-25-000029",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2025-02-27"
+   },
+   "rev": {
+    "val": 13441000000,
+    "accn": "0000072903-25-000029",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2025-02-27"
+   },
+   "ocf": {
+    "val": 4641000000,
+    "accn": "0000072903-25-000029",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2025-02-27"
+   },
+   "capex": {
+    "val": 7364000000,
+    "accn": "0000072903-25-000029",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2025-02-27"
+   },
+   "da": {
+    "val": 2769000000,
+    "accn": "0000072903-25-000029",
+    "concept": "DepreciationAmortizationAndAccretionNet",
+    "form": "10-K",
+    "filed": "2025-02-27"
+   },
+   "ltd": {
+    "val": 28419000000,
+    "accn": "0000072903-25-000029",
+    "concept": "LongTermDebtAndCapitalLeaseObligations + LongTermDebtAndCapitalLeaseObligationsCurrent",
+    "form": "10-K",
+    "filed": "2025-02-27"
+   }
+  },
+  "2025": {
+   "eq": {
+    "val": 23609000000,
+    "accn": "0000072903-26-000009",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   },
+   "ni": {
+    "val": 2018000000,
+    "accn": "0000072903-26-000009",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   },
+   "rev": {
+    "val": 14669000000,
+    "accn": "0000072903-26-000009",
+    "concept": "RegulatedAndUnregulatedOperatingRevenue",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   },
+   "ocf": {
+    "val": 4083000000,
+    "accn": "0000072903-26-000009",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   },
+   "capex": {
+    "val": 10908000000,
+    "accn": "0000072903-26-000009",
+    "concept": "PaymentsToAcquireProductiveAssets",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   },
+   "da": {
+    "val": 2968000000,
+    "accn": "0000072903-26-000009",
+    "concept": "DepreciationAmortizationAndAccretionNet",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   },
+   "ltd": {
+    "val": 31832000000,
+    "accn": "0000072903-26-000009",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2026-02-25"
+   }
+  }
+ },
+ "TEP": {
+  "2015": {
+   "eq": {
+    "val": 1474935000,
+    "accn": "0000100122-16-000034",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2016-02-18"
+   }
+  },
+  "2016": {
+   "eq": {
+    "val": 1559035000,
+    "accn": "0000100122-17-000003",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2017-02-16"
+   },
+   "ni": {
+    "val": 124438000,
+    "accn": "0000100122-17-000003",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2017-02-16"
+   },
+   "rev": {
+    "val": 1234995000,
+    "accn": "0000100122-17-000003",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2017-02-16"
+   },
+   "ocf": {
+    "val": 425464000,
+    "accn": "0000100122-17-000003",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2017-02-16"
+   },
+   "capex": {
+    "val": 250360000,
+    "accn": "0000100122-17-000003",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2017-02-16"
+   },
+   "da": {
+    "val": 163715000,
+    "accn": "0000100122-17-000003",
+    "concept": "Depreciation + OtherDepreciationAndAmortization",
+    "form": "10-K",
+    "filed": "2017-02-16"
+   },
+   "ltd": {
+    "val": 1453072000,
+    "accn": "0000100122-17-000003",
+    "concept": "LongTermDebtNoncurrent (current not tagged)",
+    "form": "10-K",
+    "filed": "2017-02-16"
+   }
+  },
+  "2017": {
+   "eq": {
+    "val": 1664032000,
+    "accn": "0000100122-18-000005",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2018-02-15"
+   },
+   "ni": {
+    "val": 176668000,
+    "accn": "0000100122-18-000005",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2018-02-15"
+   },
+   "rev": {
+    "val": 1340935000,
+    "accn": "0000100122-18-000005",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2018-02-15"
+   },
+   "ocf": {
+    "val": 448324000,
+    "accn": "0000100122-18-000005",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2018-02-15"
+   },
+   "capex": {
+    "val": 345617000,
+    "accn": "0000100122-18-000005",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2018-02-15"
+   },
+   "da": {
+    "val": 178327000,
+    "accn": "0000100122-18-000005",
+    "concept": "Depreciation + OtherDepreciationAndAmortization",
+    "form": "10-K",
+    "filed": "2018-02-15"
+   },
+   "ltd": {
+    "val": 1354423000,
+    "accn": "0000100122-18-000005",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2018-02-15"
+   }
+  },
+  "2018": {
+   "eq": {
+    "val": 1819745000,
+    "accn": "0000100122-19-000004",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   },
+   "ni": {
+    "val": 188323000,
+    "accn": "0000100122-19-000004",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   },
+   "rev": {
+    "val": 1432618000,
+    "accn": "0000100122-19-000004",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   },
+   "ocf": {
+    "val": 457226000,
+    "accn": "0000100122-19-000004",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   },
+   "capex": {
+    "val": 392522000,
+    "accn": "0000100122-19-000004",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   },
+   "da": {
+    "val": 190660000,
+    "accn": "0000100122-19-000004",
+    "concept": "Depreciation + OtherDepreciationAndAmortization",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   },
+   "ltd": {
+    "val": 1615252000,
+    "accn": "0000100122-19-000004",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2019-02-15"
+   }
+  },
+  "2019": {
+   "eq": {
+    "val": 1978203000,
+    "accn": "0000100122-20-000006",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2020-02-13"
+   },
+   "ni": {
+    "val": 186515000,
+    "accn": "0000100122-20-000006",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2020-02-13"
+   },
+   "rev": {
+    "val": 1418338000,
+    "accn": "0000100122-20-000006",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2020-02-13"
+   },
+   "ocf": {
+    "val": 414243000,
+    "accn": "0000100122-20-000006",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2020-02-13"
+   },
+   "capex": {
+    "val": 607593000,
+    "accn": "0000100122-20-000006",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2020-02-13"
+   },
+   "da": {
+    "val": 206183000,
+    "accn": "0000100122-20-000006",
+    "concept": "Depreciation + OtherDepreciationAndAmortization",
+    "form": "10-K",
+    "filed": "2020-02-13"
+   },
+   "ltd": {
+    "val": 1522087000,
+    "accn": "0000100122-20-000006",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2020-02-13"
+   }
+  },
+  "2020": {
+   "eq": {
+    "val": 2341437000,
+    "accn": "0000100122-21-000005",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2021-02-12"
+   },
+   "ni": {
+    "val": 191405000,
+    "accn": "0000100122-21-000005",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2021-02-12"
+   },
+   "rev": {
+    "val": 1424741000,
+    "accn": "0000100122-21-000005",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2021-02-12"
+   },
+   "ocf": {
+    "val": 466054000,
+    "accn": "0000100122-21-000005",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2021-02-12"
+   },
+   "capex": {
+    "val": 839958000,
+    "accn": "0000100122-21-000005",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2021-02-12"
+   },
+   "da": {
+    "val": 233568000,
+    "accn": "0000100122-21-000005",
+    "concept": "Depreciation + OtherDepreciationAndAmortization",
+    "form": "10-K",
+    "filed": "2021-02-12"
+   },
+   "ltd": {
+    "val": 1814059000,
+    "accn": "0000100122-21-000005",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2021-02-12"
+   }
+  },
+  "2021": {
+   "eq": {
+    "val": 2531209000,
+    "accn": "0000100122-22-000004",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2022-02-11"
+   },
+   "ni": {
+    "val": 201245000,
+    "accn": "0000100122-22-000004",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2022-02-11"
+   },
+   "rev": {
+    "val": 1592586000,
+    "accn": "0000100122-22-000004",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2022-02-11"
+   },
+   "ocf": {
+    "val": 428054000,
+    "accn": "0000100122-22-000004",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2022-02-11"
+   },
+   "capex": {
+    "val": 499405000,
+    "accn": "0000100122-22-000004",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2022-02-11"
+   },
+   "da": {
+    "val": 247339000,
+    "accn": "0000100122-22-000004",
+    "concept": "Depreciation + OtherDepreciationAndAmortization",
+    "form": "10-K",
+    "filed": "2022-02-11"
+   },
+   "ltd": {
+    "val": 2134534000,
+    "accn": "0000100122-22-000004",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2022-02-11"
+   }
+  },
+  "2022": {
+   "eq": {
+    "val": 2655665000,
+    "accn": "0000100122-23-000004",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2023-02-10"
+   },
+   "ni": {
+    "val": 217425000,
+    "accn": "0000100122-23-000004",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2023-02-10"
+   },
+   "rev": {
+    "val": 1808082000,
+    "accn": "0000100122-23-000004",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2023-02-10"
+   },
+   "ocf": {
+    "val": 509410000,
+    "accn": "0000100122-23-000004",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2023-02-10"
+   },
+   "capex": {
+    "val": 457517000,
+    "accn": "0000100122-23-000004",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2023-02-10"
+   },
+   "da": {
+    "val": 255770000,
+    "accn": "0000100122-23-000004",
+    "concept": "Depreciation + OtherDepreciationAndAmortization",
+    "form": "10-K",
+    "filed": "2023-02-10"
+   },
+   "ltd": {
+    "val": 2114980000,
+    "accn": "0000100122-23-000004",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2023-02-10"
+   }
+  },
+  "2023": {
+   "eq": {
+    "val": 2849274000,
+    "accn": "0000100122-24-000002",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2024-02-09"
+   },
+   "ni": {
+    "val": 258654000,
+    "accn": "0000100122-24-000002",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2024-02-09"
+   },
+   "rev": {
+    "val": 1875448000,
+    "accn": "0000100122-24-000002",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2024-02-09"
+   },
+   "ocf": {
+    "val": 559551000,
+    "accn": "0000100122-24-000002",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2024-02-09"
+   },
+   "capex": {
+    "val": 577766000,
+    "accn": "0000100122-24-000002",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2024-02-09"
+   },
+   "da": {
+    "val": 244335000,
+    "accn": "0000100122-24-000002",
+    "concept": "Depreciation + OtherDepreciationAndAmortization",
+    "form": "10-K",
+    "filed": "2024-02-09"
+   },
+   "ltd": {
+    "val": 2396542000,
+    "accn": "0000100122-24-000002",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2024-02-09"
+   }
+  },
+  "2024": {
+   "eq": {
+    "val": 3103080000,
+    "accn": "0000100122-25-000004",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   },
+   "ni": {
+    "val": 288992000,
+    "accn": "0000100122-25-000004",
+    "concept": "NetIncomeLossAvailableToCommonStockholdersBasic",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   },
+   "rev": {
+    "val": 1804772000,
+    "accn": "0000100122-25-000004",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   },
+   "ocf": {
+    "val": 663317000,
+    "accn": "0000100122-25-000004",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   },
+   "capex": {
+    "val": 733096000,
+    "accn": "0000100122-25-000004",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   },
+   "da": {
+    "val": 273851000,
+    "accn": "0000100122-25-000004",
+    "concept": "Depreciation + OtherDepreciationAndAmortization",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   },
+   "ltd": {
+    "val": 2495000000,
+    "accn": "0000100122-25-000004",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2025-02-14"
+   }
+  },
+  "2025": {
+   "eq": {
+    "val": 3448547000,
+    "accn": "0000100122-26-000006",
+    "concept": "StockholdersEquity",
+    "form": "10-K",
+    "filed": "2026-02-12"
+   },
+   "ni": {
+    "val": 283382000,
+    "accn": "0000100122-26-000006",
+    "concept": "NetIncomeLoss",
+    "form": "10-K",
+    "filed": "2026-02-12"
+   },
+   "rev": {
+    "val": 1688702000,
+    "accn": "0000100122-26-000006",
+    "concept": "Revenues",
+    "form": "10-K",
+    "filed": "2026-02-12"
+   },
+   "ocf": {
+    "val": 590108000,
+    "accn": "0000100122-26-000006",
+    "concept": "NetCashProvidedByUsedInOperatingActivities",
+    "form": "10-K",
+    "filed": "2026-02-12"
+   },
+   "capex": {
+    "val": 827896000,
+    "accn": "0000100122-26-000006",
+    "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "form": "10-K",
+    "filed": "2026-02-12"
+   },
+   "da": {
+    "val": 284725000,
+    "accn": "0000100122-26-000006",
+    "concept": "Depreciation + OtherDepreciationAndAmortization",
+    "form": "10-K",
+    "filed": "2026-02-12"
+   },
+   "ltd": {
+    "val": 2793000000,
+    "accn": "0000100122-26-000006",
+    "concept": "LongTermDebt (incl. current)",
+    "form": "10-K",
+    "filed": "2026-02-12"
+   }
+  }
+ }
+}

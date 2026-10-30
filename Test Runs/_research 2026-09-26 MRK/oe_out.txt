@@ -1,0 +1,19 @@
+cap $367065.8M
+| year | OCF | SBC | capex | dep | amort | acq | OE capex end | OE dep end |
+| 2017 (with Organon) | 6,451 | 312 | 1,888 | n/f | n/f | 396 | 4,251 | n/f |
+| 2018 (with Organon) | 10,922 | 348 | 2,615 | n/f | n/f | 431 | 7,959 | n/f |
+| 2019 (continuing) | 8,884 | 388 | 3,369 | 1615 | 1695 | 4,954 | 5,127 | 6881 |
+| 2020 (continuing) | 7,617 | 441 | 4,429 | 1669 | 1817 | 6,606 | 2,747 | 5507 |
+| 2021 (continuing) | 13,122 | 479 | 4,448 | 1578 | 1636 | 12,907 | 8,195 | 11065 |
+| 2022 (continuing) | 19,095 | 541 | 4,388 | 1824 | 2085 | 121 | 14,166 | 16730 |
+| 2023 (continuing) | 13,006 | 645 | 3,863 | 1828 | 2044 | 12,032 | 8,498 | 10533 |
+| 2024 (continuing) | 21,468 | 761 | 3,372 | 2104 | 2395 | 4,093 | 17,335 | 18603 |
+| 2025 (continuing) | 16,472 | 820 | 4,112 | 3045 | 2793 | 10,042 | 11,540 | 12607 |
+3y 2023-2025: capex end 12,458 (3.39%) | dep end 13,914 (3.79%) | D&A caption end 11,504 | less acquisitions: 3,735 to 5,192 (1.02% to 1.41%)
+4y 2022-2025: capex end 12,885 (3.51%) | dep end 14,618 (3.98%) | D&A caption end 12,289 | less acquisitions: 6,313 to 8,046 (1.72% to 2.19%)
+5y 2021-2025: capex end 11,947 (3.25%) | dep end 13,908 (3.79%) | D&A caption end 11,717 | less acquisitions: 4,108 to 6,069 (1.12% to 1.65%)
+6y 2020-2025: capex end 10,414 (2.84%) | dep end 12,508 (3.41%) | D&A caption end 10,379 | less acquisitions: 2,780 to 4,874 (0.76% to 1.33%)
+7y 2019-2025: capex end 9,658 (2.63%) | dep end 11,704 (3.19%) | D&A caption end 9,637 | less acquisitions: 2,408 to 4,453 (0.66% to 1.21%)
+COMBINED continuing-perimeter range 3-7y both ends: 9,658 to 14,618 = 2.63% to 3.98%
+3 y: capex end 12458 D&A caption 11504 dep 13914
+5 y: capex end 11947 D&A caption 11717 dep 13908

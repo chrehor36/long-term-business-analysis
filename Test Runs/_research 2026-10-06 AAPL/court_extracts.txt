@@ -1,0 +1,36 @@
+Extracts read for Q5 (raw PDFs and text under cache/, gitignored)
+
+1. Epic Games, Inc. v. Apple Inc., N.D. Cal. No. 4:20-cv-05640-YGR, Dkt. 1508, filed 2025-04-30 (80 pages).
+   Source: https://storage.courtlistener.com/recap/gov.uscourts.cand.364265/gov.uscourts.cand.364265.1508.0.pdf
+   p.1  "For the reasons set forth herein, the Court FINDS Apple in willful violation of this Court's Injunction"
+   p.2  "Apple, despite knowing its obligations thereunder, thwarted the Injunction's goals, and continued its
+         anticompetitive conduct solely to maintain its revenue stream."
+   p.2  "To hide the truth, Vice-President of Finance, Alex Roman, outright lied under oath. Internally, Phillip Schiller
+         had advocated that Apple comply with the Injunction, but Tim Cook ignored Schiller and instead allowed Chief
+         Financial Officer Luca Maestri and his finance team to convince him otherwise. Cook chose poorly."
+   p.1  caption: "REFERRAL TO THE UNITED STATES ATTORNEY RE CRIMINAL CONTEMPT"
+
+2. Epic Games, Inc. v. Apple Inc., 9th Cir. No. 25-2935, opinion filed 2025-12-11.
+   Source: https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf
+   p.16 "Finally, it referred Apple and one of its officers for criminal investigation."
+   p.21 "The district court did not err in deciding that it could consider evidence of Apple's bad faith, nor did it
+         clearly err in finding that Apple acted in bad faith."
+   p.23 "Apple has ignored the district court's finding that Apple "attempted to mislead" in its Notice of Compliance
+         and May 2024 hearing with "pretextual" justifications."
+   p.23 Apple argued it was "penalized Apple for choosing what [it] understood to be the most advantageous option for
+         its business and shareholders" ... "But the district court did not find Apple in contempt because it picked the
+         most advantageous of several purportedly compliant options. Instead, it found that "at every step Apple
+         considered whether its actions would comply, and at every step Apple chose to maintain its anticompetitive
+         revenue stream over compliance.""
+   Staff summary (not part of the opinion): "affirmed in part and reversed in part the district court's order imposing
+   civil contempt sanctions"; "Affirming the district court's contempt findings".
+
+3. City of Coral Springs Police Officers Pension Plan v. Apple Inc., N.D. Cal. No. 5:25-cv-06252-NW, Dkt. 114,
+   filed 2026-07-17: order staying the action; the complaint alleges false and misleading statements about "Apple's
+   purported compliance with an injunction issued in Epic Games" and "the rollout of new, artificial-intelligence
+   powered features for Apple's virtual assistant, Siri". Allegation only.
+
+4. Proxy DEF 14A 2026-01-08 (0001308179-26-000008): text search for "Epic", "injunction", "contempt": no instance.
+   CEO total 2025 $74,294,811 (summary compensation table). FY2025 cash incentive goals: net sales threshold/target/max
+   $380B/$391B/$402B; operating income $113B/$118.5B/$124B; maximum paid. FY2024 actual operating income $123,216M
+   (10-K FY2024 via XBRL, facts_aapl.txt).

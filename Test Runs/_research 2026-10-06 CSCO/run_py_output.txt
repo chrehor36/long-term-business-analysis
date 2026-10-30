@@ -1,0 +1,79 @@
+==============================================================================
+CISCO SYSTEMS, INC.  (CSCO)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.66%   10/05/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     112.82 USD   2026-10-05   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                              3,942.587M  as of 2026-08-27  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                               3,946.000M  as of 2026-07-25  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)    3,946.000M  as of 2026-07-25  (CommonStockSharesIssued)
+  shares    3,942.6M      market cap 444.80B USD
+  share basis: dei cover-page count as of 2026-08-27 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2024-07-27     10,880    3,074       700        670       7,136       7,106
+    2025-07-26     14,193    3,641     1,028        905       9,647       9,524
+    2026-07-25     14,177    3,830       916      1,410       8,937       9,431
+          mean                                                8,573       8,687
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: D&A basis in 2024, 2025; capex basis in 2026
+  mean of the year-by-year lower: 8,522;  of the higher: 8,738  (lines 2 and 3 below use these)
+  SBC tag by year: 2024 ShareBasedCompensation; 2025 ShareBasedCompensation; 2026 ShareBasedCompensation
+  capex tag by year: 2024 PaymentsToAcquirePropertyPlantAndEquipment; 2025 PaymentsToAcquirePropertyPlantAndEquipment; 2026 PaymentsToAcquirePropertyPlantAndEquipment
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0000858877-26-000132, 0000858877-25-000111, 0000858877-24-000017
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 10,653  OE D&A 10,687   yield 2.40% (capex) 2.40% (D&A)
+  DIVERGENCE vs the 3-yr window: +23.9% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis  1.93%   D&A basis  1.95%   vs sovereign 5.66%
+  2. GROWTH THE PRICE ASSUMES   13.3%  (at a 5.66% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN -1.15 (lower mean) .. -1.10 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2018-07-28       108,784      65,580      43,204       8,934       5,554       1,846      31,706       2,552      20,331       1,233
+    2018-07-29       109,872           -           -           -       5,450       1,544           -           -           -       5,130
+    2019-07-27        97,793      64,222      33,571      11,750       5,491       1,383      33,529       2,201      14,475      -5,903
+    2020-07-25        94,853      56,933      37,920      11,809       5,472       1,282      33,806       1,576      11,578      -2,763
+    2021-07-31        97,497      56,222      41,275       9,175       5,766       1,559      38,168       3,619       9,018        -654
+    2022-07-30        94,002      54,229      39,773       7,079       6,622       2,568      38,304       2,569       8,416      -1,319
+    2023-07-29       101,852      57,499      44,353      10,123       5,854       3,644      38,535       1,818       6,658       1,639
+    2024-07-27       124,413      78,956      45,457       7,508       6,685       3,373      58,660      11,219      19,621       1,087
+    2025-07-26       122,291      75,448      46,843       8,346       6,701       3,164      59,136       9,175      22,861          50
+    2026-07-25       129,637      79,352      50,285       7,218       7,470       5,694      59,477       7,557      19,372       1,565
+    accessions: 0000858877-18-000011, 0000858877-19-000012, 0000858877-20-000010, 0000858877-21-000013, 0000858877-22-000013, 0000858877-23-000023, 0000858877-24-000017, 0000858877-25-000111, 0000858877-26-000132
+    equity: StockholdersEquity (2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026)
+    lt debt: LongTermDebtNoncurrent (2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD millions; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        sum
+    2018-07-28       5,238    20,331     25,569
+    2019-07-27      10,191    14,475     24,666
+    2020-07-25       3,005    11,578     14,583
+    2021-07-31       2,508     9,018     11,526
+    2022-07-30       1,099     8,416      9,515
+    2023-07-29       1,733     6,658      8,391
+    2024-07-27      11,341    19,621     30,962
+    2025-07-26       5,232    22,861     28,093
+    2026-07-25      10,161    19,372     29,533
+    d1 = us-gaap:DebtCurrent
+    d2 = us-gaap:LongTermDebtNoncurrent
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

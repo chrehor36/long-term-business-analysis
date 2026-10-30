@@ -1,0 +1,21 @@
+year                                          2021    2022    2023    2024    2025
+all-equity, all spending (central)            -827   -2237   -4719   -4346   -1995  avg   -2825  1st-half(21-22)   -1532 2nd-half(24-25)   -3171
+equity-only, all spending                    -1471   -2970   -5759   -5348   -2951  avg   -3700  1st-half(21-22)   -2220 2nd-half(24-25)   -4150
+all-equity, D&A variant                        927    1619    2329    1835    2549  avg    1852  1st-half(21-22)    1273 2nd-half(24-25)    2192
+equity-only, D&A variant                       283     886    1289     833    1593  avg     977  1st-half(21-22)     584 2nd-half(24-25)    1213
+capital recycled from partners (net)           574     433    2334    1469    3370  avg    1636  1st-half(21-22)     504 2nd-half(24-25)    2420
+all-equity, all spending + recycling          -253   -1804   -2385   -2877    1375  avg   -1189  1st-half(21-22)   -1029 2nd-half(24-25)    -751
+equity-only, all spending + recycling         -897   -2537   -3425   -3879     419  avg   -2064  1st-half(21-22)   -1717 2nd-half(24-25)   -1730
+revenue growth 2021-2025 CAGR 0.023651672574271032
+mcap 10666 debt 32117 cash 1853 netdebt 30264 EV 40930
+all-equity all spending      avg   -2825 yield on price  -6.90%  no-growth value/sh at 5.43%  -115.34  at 10%   -82.01
+equity-only all spending     avg   -3700 yield on price -34.69%  no-growth value/sh at 5.43%   -95.50  at 10%   -51.86
+all-equity D&A               avg    1852 yield on price   4.52%  no-growth value/sh at 5.43%     5.38  at 10%   -16.46
+equity-only D&A              avg     977 yield on price   9.16%  no-growth value/sh at 5.43%    25.21  at 10%    13.69
+all-equity +recycling        avg   -1189 yield on price  -2.90%  no-growth value/sh at 5.43%   -73.11  at 10%   -59.08
+equity-only +recycling       avg   -2064 yield on price -19.35%  no-growth value/sh at 5.43%   -53.27  at 10%   -28.93
+--- D&A variant: shown growth and the cap (f) ---
+all-equity D&A: shown growth 28.8%/yr; yr-10 owner cash at that rate 23225 vs 2025 revenue 12233 (highest share of sales earned 20.8%) -> cut to sales growth 2.37%
+   capped-growth case value/sh at 5.43% 15.32; at 10% -11.93; expected return at price: growth case 5.46%, no-growth 4.52%
+equity-only D&A: shown growth 54.0%/yr; yr-10 owner cash at that rate 73431 vs 2025 revenue 12233 (highest share of sales earned 13.0%) -> cut to sales growth 2.37%
+   capped-growth case value/sh at 5.43% 30.46; at 10% 16.08; expected return at price: growth case 10.72%, no-growth 9.16%

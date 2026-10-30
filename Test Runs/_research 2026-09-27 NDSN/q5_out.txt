@@ -1,0 +1,38 @@
+5y dep     OE  515.3  yield 2.84%  vs sovereign -2.65 pts  growth needed for 10%: 7.16%  at bond rate: 2.65%
+      g=0                                                            expectancy 2.84%  value at 10% floor $93/share
+      g=2.6% (organic FY2016-FY2025)                                 expectancy 5.44%  value at 10% floor $125/share
+      g=3.5% (organic FY2003-FY2025)                                 expectancy 6.34%  value at 10% floor $142/share
+      g=3.8% (organic FY2003-FY2025 plus share decline FY2016-FY2025) expectancy 6.64%  value at 10% floor $149/share
+      g=5% (E4-44 ceiling)                                           expectancy 7.84%  value at 10% floor $185/share
+5y capex   OE  523.0  yield 2.88%  vs sovereign -2.61 pts  growth needed for 10%: 7.12%  at bond rate: 2.61%
+      g=0                                                            expectancy 2.88%  value at 10% floor $94/share
+      g=2.6% (organic FY2016-FY2025)                                 expectancy 5.48%  value at 10% floor $127/share
+      g=3.5% (organic FY2003-FY2025)                                 expectancy 6.38%  value at 10% floor $144/share
+      g=3.8% (organic FY2003-FY2025 plus share decline FY2016-FY2025) expectancy 6.68%  value at 10% floor $151/share
+      g=5% (E4-44 ceiling)                                           expectancy 7.88%  value at 10% floor $188/share
+3y dep     OE  557.8  yield 3.07%  vs sovereign -2.42 pts  growth needed for 10%: 6.93%  at bond rate: 2.42%
+      g=0                                                            expectancy 3.07%  value at 10% floor $100/share
+      g=2.6% (organic FY2016-FY2025)                                 expectancy 5.67%  value at 10% floor $135/share
+      g=3.5% (organic FY2003-FY2025)                                 expectancy 6.57%  value at 10% floor $154/share
+      g=3.8% (organic FY2003-FY2025 plus share decline FY2016-FY2025) expectancy 6.87%  value at 10% floor $162/share
+      g=5% (E4-44 ceiling)                                           expectancy 8.07%  value at 10% floor $200/share
+3y capex   OE  566.3  yield 3.12%  vs sovereign -2.37 pts  growth needed for 10%: 6.88%  at bond rate: 2.37%
+      g=0                                                            expectancy 3.12%  value at 10% floor $102/share
+      g=2.6% (organic FY2016-FY2025)                                 expectancy 5.72%  value at 10% floor $137/share
+      g=3.5% (organic FY2003-FY2025)                                 expectancy 6.62%  value at 10% floor $156/share
+      g=3.8% (organic FY2003-FY2025 plus share decline FY2016-FY2025) expectancy 6.92%  value at 10% floor $164/share
+      g=5% (E4-44 ceiling)                                           expectancy 8.12%  value at 10% floor $203/share
+TTM dep    OE  681.2  yield 3.75%  vs sovereign -1.74 pts  growth needed for 10%: 6.25%  at bond rate: 1.74%
+      g=0                                                            expectancy 3.75%  value at 10% floor $122/share
+      g=2.6% (organic FY2016-FY2025)                                 expectancy 6.35%  value at 10% floor $165/share
+      g=3.5% (organic FY2003-FY2025)                                 expectancy 7.25%  value at 10% floor $188/share
+      g=3.8% (organic FY2003-FY2025 plus share decline FY2016-FY2025) expectancy 7.55%  value at 10% floor $197/share
+      g=5% (E4-44 ceiling)                                           expectancy 8.75%  value at 10% floor $245/share
+TTM capex  OE  700.8  yield 3.86%  vs sovereign -1.63 pts  growth needed for 10%: 6.14%  at bond rate: 1.63%
+      g=0                                                            expectancy 3.86%  value at 10% floor $126/share
+      g=2.6% (organic FY2016-FY2025)                                 expectancy 6.46%  value at 10% floor $170/share
+      g=3.5% (organic FY2003-FY2025)                                 expectancy 7.36%  value at 10% floor $194/share
+      g=3.8% (organic FY2003-FY2025 plus share decline FY2016-FY2025) expectancy 7.66%  value at 10% floor $203/share
+      g=5% (E4-44 ceiling)                                           expectancy 8.86%  value at 10% floor $252/share
+floor band  $125.02 (5y dep end, g=2.6%)
+rerun band  $202.93 (TTM capex end, g=3.8%)

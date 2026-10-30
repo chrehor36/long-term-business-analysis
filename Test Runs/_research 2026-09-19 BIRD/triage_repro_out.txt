@@ -1,0 +1,18 @@
+a8bc84f owner_earnings: {'5y_da': -85483200.0, '5y_capex': -86790200.0, '3y_da': -76421666.66666667, '3y_capex': -68618666.66666667}
+a8bc84f shares_outstanding (550-day staleness test): None
+a8bc84f shares_outstanding with no staleness (today=2022-01-01): (datetime.date(2021, 9, 30), 56508441.0)
+a8bc84f share_count_shift: None
+bt17 shares_asof(2026-09-01): (datetime.date(2021, 9, 30), 56508441.0)
+split factor after 2021-09-30 (house rule): 0.05
+2026-08-31 $2.455 x stale pre-IPO us-gaap 56,508,441 (2021-09-30), raw: cap $138.73M; 5y_da -61.6%, 5y_capex -62.6%, 3y_da -55.1%, 3y_capex -49.5% | guard fires on: none | cap<$5M: False
+2026-08-31 $2.455 x same, x split factor after measurement (bt17 house rule): cap $6.94M; 5y_da -1232.4%, 5y_capex -1251.2%, 3y_da -1101.7%, 3y_capex -989.3% | guard fires on: ['5y_da', '5y_capex', '3y_da', '3y_capex'] | cap<$5M: False
+2026-08-31 $2.455 x cover A+B 9,315,794 + 2,493,399 (2026-08-10): cap $28.99M; 5y_da -294.9%, 5y_capex -299.4%, 3y_da -263.6%, 3y_capex -236.7% | guard fires on: ['5y_da', '5y_capex', '3y_da', '3y_capex'] | cap<$5M: False
+2026-08-31 $2.455 x cover Class A only 9,315,794: cap $22.87M; 5y_da -373.8%, 5y_capex -379.5%, 3y_da -334.2%, 3y_capex -300.0% | guard fires on: ['5y_da', '5y_capex', '3y_da', '3y_capex'] | cap<$5M: False
+2026-08-31 $2.455 x Q2 2026 weighted average 9,164,890: cap $22.50M; 5y_da -379.9%, 5y_capex -385.7%, 3y_da -339.7%, 3y_capex -305.0% | guard fires on: ['5y_da', '5y_capex', '3y_da', '3y_capex'] | cap<$5M: False
+2026-08-31 $2.455 x FY2023 weighted average as first filed, pre-split 151,672,437: cap $372.36M; 5y_da -23.0%, 5y_capex -23.3%, 3y_da -20.5%, 3y_capex -18.4% | guard fires on: none | cap<$5M: False
+2026-09-01 $2.35 x stale pre-IPO us-gaap 56,508,441 (2021-09-30), raw: cap $132.79M; 5y_da -64.4%, 5y_capex -65.4%, 3y_da -57.5%, 3y_capex -51.7% | guard fires on: none | cap<$5M: False
+2026-09-01 $2.35 x same, x split factor after measurement (bt17 house rule): cap $6.64M; 5y_da -1287.4%, 5y_capex -1307.1%, 3y_da -1151.0%, 3y_capex -1033.5% | guard fires on: ['5y_da', '5y_capex', '3y_da', '3y_capex'] | cap<$5M: False
+2026-09-01 $2.35 x cover A+B 9,315,794 + 2,493,399 (2026-08-10): cap $27.75M; 5y_da -308.0%, 5y_capex -312.7%, 3y_da -275.4%, 3y_capex -247.3% | guard fires on: ['5y_da', '5y_capex', '3y_da', '3y_capex'] | cap<$5M: False
+2026-09-01 $2.35 x cover Class A only 9,315,794: cap $21.89M; 5y_da -390.5%, 5y_capex -396.4%, 3y_da -349.1%, 3y_capex -313.4% | guard fires on: ['5y_da', '5y_capex', '3y_da', '3y_capex'] | cap<$5M: False
+2026-09-01 $2.35 x Q2 2026 weighted average 9,164,890: cap $21.54M; 5y_da -396.9%, 5y_capex -403.0%, 3y_da -354.8%, 3y_capex -318.6% | guard fires on: ['5y_da', '5y_capex', '3y_da', '3y_capex'] | cap<$5M: False
+2026-09-01 $2.35 x FY2023 weighted average as first filed, pre-split 151,672,437: cap $356.43M; 5y_da -24.0%, 5y_capex -24.3%, 3y_da -21.4%, 3y_capex -19.3% | guard fires on: none | cap<$5M: False

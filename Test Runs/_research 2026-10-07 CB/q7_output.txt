@@ -1,0 +1,24 @@
+float A2 93,213  float with receivables and DAC deducted 63,401  life liabilities 29,433  debt 18,542
+C1 net (central, C1 deductions) 63,749; C1 net (A2 strict) 33,937; C1 gross 127,150
+AY avg 5y 4,504  AY avg 10y 3,078  growth literal 13.447%  NPE growth 21-25 7.814%  NPE growth 16-25 6.179%
+--- value ranges at the sovereign, all-equity (whole business less debt), per share on 385.799859 M shares; price 334.21
+CENTRAL: net (C1 deductions), 5y window, literal g   low    42,436 ($  110.0)  high   216,946 ($  562.3)  ratio  5.11  mid $  336.2
+net (C1 ded.), 5y window, g cut to NPE growth        low    42,436 ($  110.0)  high   157,082 ($  407.2)  ratio  3.70  mid $  258.6
+net (C1 ded.), whole-cycle 10 AY, g=NPE 16-25        low    42,436 ($  110.0)  high   111,866 ($  290.0)  ratio  2.64  mid $  200.0
+net (C1 ded.), 5y, literal g, A4 window tax 14.4%    low    42,293 ($  109.6)  high   225,807 ($  585.3)  ratio  5.34  mid $  347.5
+net (A2 strict float), 5y, literal g                 low    12,624 ($   32.7)  high   187,134 ($  485.1)  ratio 14.82  mid $  258.9
+GROSS (float counted as equity), 5y, literal g       low   105,837 ($  274.3)  high   280,347 ($  726.7)  ratio  2.65  mid $  500.5
+GROSS, 5y, g cut to NPE growth                       low   105,837 ($  274.3)  high   220,483 ($  571.5)  ratio  2.08  mid $  422.9
+net, 5y less immaturity load 442/yr                  low    42,436 ($  110.0)  high   199,822 ($  517.9)  ratio  4.71  mid $  314.0
+after-tax portfolio yield 3.296%; C1 income 2,101
+FAIR PRICE all-equity (C1 at its earnings) $115.5; equity-only $147.4; all-equity with C1 at face $226.2
+FAIR PRICE gross variant all-equity $169.6; equity-only $201.6
+market cap 128,938  EV 147,480
+FAIR PRICE whole-cycle variant all-equity $50.1; equity-only $82.1
+expected return at $334.21 on the central midpoint stream, all-equity basis: 4.75%
+expected return at $334.21 on the HIGH-END stream (full AY average, literal growth), all-equity: 7.62%
+expected return at price, GROSS high-end stream (float as equity, full AY average, literal growth): 8.83%
+expected return at price, GROSS midpoint stream: 6.03%
+expected return at price, net, high-end stream with g cut to NPE growth: 5.70%
+expected return at price, net, whole-cycle high-end stream: 4.04%
+C1 counted at face instead of at its earnings, net, high-end stream: value at 10% = 339.4/share

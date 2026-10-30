@@ -1,0 +1,24 @@
+{
+ "ticker": "AXP",
+ "name": "American Express",
+ "headline": "A premium card network whose well-off customers pay rising fees and rarely default.",
+ "what_short": "Premium credit cards and payment network",
+ "what_it_does": "American Express issues charge and credit cards, mostly to affluent consumers and businesses, and also signs up the merchants that accept them. Because it runs the card, the network and the merchant side, it sees both ends of each payment. It earns merchant fees, annual card fees, and interest on balances.",
+ "why_it_passed": [
+  "Customers accept higher fees: the average annual fee per card rose from $92 in 2023 to $117 in 2025 while the number of cards still grew.",
+  "Its card write-off rate was about 2.0%, against 4.6% to 5.9% at the two big rivals the analysis compared it with.",
+  "It earns a return on equity of about 31% to 35% in recent years.",
+  "The edge does not depend on one leader: the company survived a scandal in 1963 and customers kept using the card."
+ ],
+ "why_not_now": "The analysis values the shares at $180 to $331 against a price of $304.02, which is near the top of that range. A buyer at that price would expect about 6.1% a year in the central case, below the 10% the analysis requires and only a little above the 5.66% on a 30-year US Treasury bond.",
+ "watch": [
+  "A past sales-practices settlement is recorded as a doubt about how the company treats customers.",
+  "Capital One, now the largest US card lender after buying Discover, is building a rival network.",
+  "It has bought back shares at about $312 to $316, near the top of the value range, and it holds its equity low by buying back shares."
+ ],
+ "value_low": 180,
+ "value_high": 331,
+ "utility": false,
+ "run_date": "2026-10-06",
+ "currency": "USD"
+}

@@ -1,0 +1,14 @@
+ABNB run: Step 0 - sovereign, cover count by hand, filing read, tag gap tested
+
+USD 30-year 5.35% (US Treasury, 09/11/2026, struck via tools/sources.py). Cover count by hand from the
+Q2 2026 10-Q (0001559720-26-000027): Class A 419,529,556 + Class B 170,056,126 = 589,585,682 economic
+shares; A and B identical in dividend and liquidation rights (10-K Note 15); Class H 9,200,000 excluded
+(held by the wholly-owned Host Endowment Fund subsidiary, balance sheet 'issued and zero shares
+outstanding'); Class C zero. Price US$170.19 (2026-09-11, aggregator flagged), cap US$100,341.6M.
+Filing read: FY2025 10-K (0001559720-26-000004) Items 1, 1A, 5, 7, 8 in full; FY2020-24 10-Ks; 424B4;
+DEF 14A 2026; the 8-K Item 1.01 is a $2.5bn senior notes offering, not a deal. OCF FY2025 $4,646M
+cross-checked; FY2020 OCF restated -629.7 -> -740. Tag gap real: capex left the face of the cash-flow
+statement from FY2023 (folded into other investing) and survives only in the MD&A FCF reconciliation;
+$33M in 2025, 0.27% of revenue; D&A runs above capex, so the [E5-20] label does not fit this name.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

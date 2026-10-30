@@ -1,0 +1,16 @@
+import re,sys,html
+src,dst=sys.argv[1],sys.argv[2]
+h=open(src,encoding='utf-8',errors='replace').read()
+h=re.sub(r'(?is)<(script|style)[^>]*>.*?</\1>',' ',h)
+h=re.sub(r'(?i)</t[dh]>',' \t',h)
+h=re.sub(r'(?i)</tr>','\n',h)
+h=re.sub(r'(?i)<br[^>]*>','\n',h)
+h=re.sub(r'(?i)</(p|div|table|h[1-6]|li)>','\n',h)
+h=re.sub(r'<[^>]+>','',h)
+h=html.unescape(h)
+h=h.replace('\u00a0',' ').replace('\u2019',"'").replace('\u2014','-').replace('\u2013','-')
+h=re.sub(r'[ \t]*\t[ \t]*','\t',h)
+h=re.sub(r'\n[ \t]*\n+','\n',h)
+h=re.sub(r'[ ]{2,}',' ',h)
+open(dst,'w',encoding='utf-8').write(h)
+print(dst,len(h))

@@ -1,0 +1,26 @@
+ex03_d13042exv13.txt.txt lbs/day None tons/day None tons None yield None
+ex05_d33393exv13.htm.txt lbs/day None tons/day None tons None yield ('23.90', '22.28')
+tenk_2003.txt lbs/day None tons/day None tons None yield None
+tenk_2004.txt lbs/day None tons/day None tons None yield None
+tenk_2005.txt lbs/day None tons/day None tons None yield None
+tenk_2006.txt lbs/day None tons/day None tons None yield None
+tenk_2007.txt lbs/day None tons/day None tons None yield None
+tenk_2008.txt lbs/day ('26,086,425', '27,225,100') tons/day None tons None yield ('26.70', '25.81')
+tenk_2009.txt lbs/day ('23,118,590', '26,086,425') tons/day None tons None yield ('23.81', '26.70')
+tenk_2009A.txt lbs/day None tons/day None tons None yield None
+tenk_2010.txt lbs/day ('25,696,634', '23,118,590') tons/day None tons None yield ('23.68', '23.81')
+tenk_2011.txt lbs/day ('25,383,269', '24,399,083') tons/day None tons None yield ('26.86', '24.41')
+tenk_2012.txt lbs/day ('24,205,439', '25,383,269') tons/day None tons None yield ('28.03', '26.86')
+tenk_2013.txt lbs/day ('25,065,940', '24,193,146') tons/day None tons None yield ('27.94', '27.90')
+tenk_2014.txt lbs/day ('26,711,015', '25,065,940') tons/day None tons None yield ('28.74', '27.94')
+tenk_2015.txt lbs/day ('26,318,674', '26,711,015') tons/day None tons None yield ('28.96', '28.74')
+tenk_2016.txt lbs/day ('25,845,741', '26,318,674') tons/day None tons None yield ('29.35', '28.96')
+tenk_2017.txt lbs/day ('25,313,938', '25,845,741') tons/day None tons None yield ('31.27', '29.35')
+tenk_2018.txt lbs/day ('25,294,346', '25,313,938') tons/day None tons None yield ('34.16', '31.27')
+tenk_2019.txt lbs/day ('24,087,269', '25,294,346') tons/day None tons None yield ('35.44', '34.16')
+tenk_2020.txt lbs/day ('23,998,690', '24,087,269') tons/day None tons None yield ('34.60', '35.44')
+tenk_2021.txt lbs/day ('25,824,232', '23,998,690') tons/day None tons None yield ('39.70', '34.60')
+tenk_2022.txt lbs/day ('26,225,019', '25,824,232') tons/day None tons None yield ('45.45', '39.70')
+tenk_2023.txt lbs/day None tons/day ('12,803', '13,113') tons ('3,220,013', '3,304,352') yield ('44.46', '45.45')
+tenk_2024.txt lbs/day None tons/day ('10,968', '12,803') tons None yield ('49.68', '44.46')
+tenk_2025.txt lbs/day None tons/day ('11,104', '10,968') tons None yield ('49.02', '49.68')

@@ -1,0 +1,23 @@
+2017 36.3
+2018 -49.0
+2019 49.3
+2020 -17.2
+2021 88.2
+2022 69.4
+2023 171.9
+2024 -39.4
+2025 45.0
+2026 7.0
+avg5 50.8 avg3 4.2 avg10 36.1
+dep variant {2024: -45.4, 2025: 55.0, 2026: 19.1} avg3 9.6
+no-growth on avg5: op value 901.9 equity 948.7 per sh 7.27
+no-growth on avg3: equity 121.3 per sh 0.93 ratio top/bottom 7.82
+revenue cagr FY21-26 4.92
+sensitivity revenue growth 10y on avg5: equity 1379.6 per sh 10.57
+fair price no growth 10%: 554.5 4.25
+fair price with rev growth 10y then flat at 10%: 5.81
+cheap (avg3 at 10%): 0.68
+mcap 3054.8 yield on avg5 1.69 needed OC at 10% 300.8 as % rev FY26 23.4
+expected return no growth at price 1.69
+IRR with rev growth 10y then flat 2.61
+FY26 buyback avg $16.18 vs top of range 7.27

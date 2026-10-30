@@ -1,0 +1,10 @@
+market value R$m 48235.8  US$m 9628.7 ; EV all-equity 56804.7
+cycle 2017-2025 {('un', 'all'): 3586, ('un', 'maint'): 4700, ('eq', 'all'): 2988, ('eq', 'maint'): 4102}
+literal 2021-2025 {('un', 'all'): 4614, ('un', 'maint'): 7084, ('eq', 'all'): 4095, ('eq', 'maint'): 6564}
+CYCLE ALL-EQUITY: OC 3,586-4,700  range R$ 10.17-14.68/sh (US$ 2.03-2.93); width 1.44:1; yield at price 6.3%-8.3%; fair R$ 16.74 (US$ 3.34); ends at 10% 13.90 / 19.57
+CYCLE EQUITY-ONLY: OC 2,988-4,102  range R$ 12.11-16.62/sh (US$ 2.42-3.32); width 1.37:1; yield at price 6.2%-8.5%; fair R$ 18.06 (US$ 3.60); ends at 10% 15.22 / 20.89
+LITERAL un all: 2021 9,126 2025 309 g -57.1%/yr; base 4,614; no-growth R$ 14.33/sh; decline case R$ -2.92/sh
+LITERAL un maint: 2021 9,935 2025 3,966 g -20.5%/yr; base 7,084; no-growth R$ 24.34/sh; decline case R$ 4.92/sh
+LITERAL eq all: 2021 8,512 2025 -546 g nan%/yr; base 4,095; no-growth R$ 16.59/sh; decline case R$ nan/sh
+LITERAL eq maint: 2021 9,322 2025 3,111 g -24.0%/yr; base 6,564; no-growth R$ 26.60/sh; decline case R$ 7.34/sh
+sales cagr 2017-2025 8.3%; 2021-2025 -2.8%

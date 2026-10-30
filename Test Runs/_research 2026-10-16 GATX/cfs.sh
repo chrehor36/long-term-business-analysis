@@ -1,0 +1,1 @@
+f=$1; n=$(grep -n "CONSOLIDATED STATEMENTS OF CASH FLOWS" $f | tail -1 | cut -d: -f1); sed -n "$n,$((n+600))p" $f | grep -v "^ *|* *$" | tr '\n' ' ' | sed 's/ | / /g; s/  */ /g' | sed 's/CONSOLIDATED STATEMENTS OF CHANGES.*//' | fold -w 250

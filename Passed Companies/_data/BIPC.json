@@ -1,0 +1,25 @@
+{
+ "ticker": "BIPC",
+ "name": "Brookfield Infrastructure Corporation",
+ "headline": "A stake in hard-to-copy rail, port, pipeline and container assets, but burdened by heavy debt.",
+ "what_short": "Rail, ports, pipelines and containers worldwide",
+ "what_it_does": "Brookfield Infrastructure Corporation gives investors a share in Brookfield Infrastructure Partners, which owns part-interests in rail and ports, container leasing, pipelines, data centres and other infrastructure. Its largest part is transport, notably a Brazilian rail and port network.",
+ "why_it_passed": [
+  "A rival with money still cannot build a second Brazilian rail and port network, which gives the transport business a lasting edge.",
+  "It raised rail tariffs about 7% a year in 2024, showing pricing power over customers.",
+  "Its container-leasing business earned more than the only other US-listed container lessor in every overlapping year.",
+  "The accounts and management passed the analysis's honesty checks."
+ ],
+ "why_not_now": "At $37.74 a unit the cash the business produces is only about 4.3% to 5.3% of its price, below the 5.43% on a 30-year US Treasury bond, and no case in the analysis's value range of $20.45 to $61.60 reaches the return the analysis requires.",
+ "watch": [
+  "Net debt is $33,969 million, about 1.1 times the market value of the units, so little of the cash is left for owners.",
+  "The Brazilian pipeline depends on a single customer for most of its revenue and moved to five-yearly tariff resets from 2026.",
+  "Returns on the capital employed are modest, 6.6% to 7.2% a year before tax."
+ ],
+ "value_low": 20.45,
+ "value_high": 61.60,
+ "utility": false,
+ "run_date": "2026-10-17",
+ "currency": "USD",
+ "no_fair_reason": "After subtracting its very large debt, the cash the business produces is not enough to earn the required return at any positive price, so the analysis's fair price comes out below zero."
+}

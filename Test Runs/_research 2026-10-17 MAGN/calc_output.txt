@@ -1,0 +1,28 @@
+year  ownercash(all capex)  dep-variant  acquisitions  net-of-acq  sales
+2021 320.0 319.0 172.3 147.7 3812.5
+2022 158.5 121.4 291.1 -132.6 4254.9
+2023 146.0 85.3 0.0 146.0 3714.0
+2024 135.2 47.4 0.0 135.2 3496.2
+2025 141 52 0 141 3316
+avg literal 180.1  avg ex-FY2021 145.2
+dep variant avg literal 125.0  ex-FY2021 76.5
+net-of-acq avg literal 87.5  ex-FY2021 72.4
+purchases 463.40000000000003  half of owner cash before purchases 450.4
+sales growth FY21-25 -3.43 %
+organic volume growth FY22-25 per filer -3.54 %
+owner cash growth literal end years -18.53 %  ex-FY2021 -3.82 %
+market value 395.6  net debt 1621  EV 2016.6
+central organic, base ex-FY2021: base 145.2 g -3.54%  range EV 2019-2674  per share 11.11 to 29.40  width 1.32x  yield at EV no-growth 7.20%  fair(all-equity) -8.99
+organic, literal base: base 180.1 g -3.54%  range EV 2505-3317  per share 24.69 to 47.39  width 1.32x  yield at EV no-growth 8.93%  fair(all-equity) -0.25
+default pair, base ex-FY2021: base 72.4 g -3.43%  range EV 1016-1333  per share -16.91 to -8.04  width 1.31x  yield at EV no-growth 3.59%  fair(all-equity) -27.12
+default pair, literal: base 87.5 g -3.43%  range EV 1227-1611  per share -11.01 to -0.29  width 1.31x  yield at EV no-growth 4.34%  fair(all-equity) -23.35
+dep variant ex-FY2021: base 76.5 g -3.54%  range EV 1064-1409  per share -15.56 to -5.91  width 1.32x  yield at EV no-growth 3.79%  fair(all-equity) -26.15
+dep variant literal: base 125.0 g -3.54%  range EV 1738-2302  per share 3.28 to 19.03  width 1.32x  yield at EV no-growth 6.20%  fair(all-equity) -14.03
+equity-only central organic ex-FY2021: base after interest 17.2; range per share 6.67 to 8.84; fair 4.29; yield on mkt value 4.34%
+equity-only organic literal: base after interest 52.1; range per share 20.25 to 26.82; fair 13.03; yield on mkt value 13.18%
+TTM: OCF 172 capex 59 SBC 17 cash interest est 128 owner cash before interest 224  yield on EV 11.11 %
+TTM base 224 g 0.00%: value per share at sovereign 69.95; at 10% 17.29
+TTM base 224 g -3.54%: value per share at sovereign 41.72; at 10% 4.14
+TTM fair (avg of ends at 10%) 10.72
+central fair with face-value debt -10.8  range 9.29 27.59
+owner cash before interest needed for 10% on EV at no growth 201.7

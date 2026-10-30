@@ -1,0 +1,14 @@
+rc=0
+L.md
+  ledger ids cited      7
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+CLAUDE.md
+  ledger ids cited      0
+  phantom citations     0   OK
+  unlabelled numbers    0   OK
+
+======================================================================
+PASS — every number resolves to a verbatim source or a confessed convention,
+       and every ledger row matches the document it cites.

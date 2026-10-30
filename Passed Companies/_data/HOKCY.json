@@ -1,0 +1,24 @@
+{
+ "ticker": "HOKCY",
+ "name": "Hong Kong and China Gas",
+ "headline": "Hong Kong's only town-gas network, plus exclusive gas concessions across mainland China.",
+ "what_short": "Hong Kong and mainland China gas distribution",
+ "what_it_does": "Hong Kong and China Gas (Towngas) runs the town gas network in Hong Kong, serving about 2,056 thousand customers. It also distributes gas under exclusive concessions in mainland China, and has water, waste treatment and renewable energy businesses.",
+ "why_it_passed": [
+  "The Hong Kong network is a single network with pricing power shown through the last bout of inflation.",
+  "The Hong Kong town gas business earns a high return on the capital in it.",
+  "The mainland business runs on exclusive concessions, though at a lower regulated return of about 5% before tax.",
+  "No dishonesty was found in the statements."
+ ],
+ "why_not_now": "A regulator caps what a utility may earn, so the price is far above what that capped return justifies. At HK$7.215 a share the price is above the top of the analysis's value range, and the best expected return at the price is about 4.0% to 4.2% a year, below the 4.246% Hong Kong government bond yield.",
+ "watch": [
+  "Gas volumes sold in Hong Kong fell from 29,550 million MJ in 2018 to 27,181 million MJ in 2025 while customers rose.",
+  "The mainland return is falling, and the new capital put in there has not earned a decent return in the record read.",
+  "The chairman's funds in EcoCeres, and a long-serving independent director whose bank lends to the Group, were recorded as integrity questions."
+ ],
+ "value_low": 2.26,
+ "value_high": 6.73,
+ "utility": true,
+ "run_date": "2026-10-18",
+ "currency": "HKD"
+}

@@ -1,0 +1,132 @@
+## Q3 — HOW MUCH CAPITAL MUST GO IN to get the earnings out, and what does the added capital earn? WEIGHING.
+NOT REACHED (Q2 closed the file OUT). Facts found are under AFTER THE STOP.
+
+## Q4 — DO THE NUMBERS SHOW WHAT IT EARNS after every real cost? STOP on confusion or suspicion; otherwise WEIGHING.
+NOT REACHED. The balance sheets were read before the income account, as the template asks when the file closes before Q4; they are under AFTER THE STOP with the other Q4 facts.
+
+## Q5 — WHO RUNS IT: able, honest, in love with the business, the same after being paid. STOP on integrity.
+NOT REACHED. Integrity facts were found before the stop; they are recorded under AFTER THE STOP, not judged, and the box line carries the flag. Any later run that reaches Q5 must answer them **[M2013-088]**.
+
+## Q6 — WHAT WILL THEY DO WITH THE MONEY AND THE OWNERS? WEIGHING.
+NOT REACHED. Facts, including the buyback prices against the bottom of the computed range, are under AFTER THE STOP.
+
+## Q7 — WHAT IS IT WORTH? STOP.
+NOT REACHED. The arithmetic the operator asked for is under COMPUTATION, NOT A CLEARANCE, below.
+
+## Q8 — IS IT BETTER THAN THE ALTERNATIVES: the bond, more of what I already own, the company's own stock? STOP.
+NOT REACHED.
+
+## Q9 — COULD IT RUIN US: the target's debt and exposures. WEIGHING.
+NOT REACHED. Facts under AFTER THE STOP.
+
+## Q10 — IS IT THE FAT PITCH, and am I buying enough? WEIGHING.
+NOT REACHED.
+
+## Q12 (optional) — WOULD WE BE PROUD OF HOW THE MONEY IS MADE?
+NOT REACHED. No business the rows name (casinos, tobacco, loading schemes, gambling dressed as investing) is involved; industrial cleaning machines and dishwashing.
+
+---
+## THE BOX
+**OUT at Q2.** The deciding part (cleaning systems, about four-fifths of segment profit) sells build-to-order machines to a few large buyers who require "a competitive price" and make no commitment, one customer group taking 46.8% of 2025 revenue; over seven years, 2019 to 2025, a full cycle, the business earned about 7% pre-tax on its capital employed and owner cash of about 3%; the dishwashing part is open by the filer's own description; the 20-F names no rival. **Integrity facts recorded, not judged.** COMPUTATION, NOT A CLEARANCE: value on the no-growth case at the 2.73% SGS rate US$2.32 a share (S$2.97) against US$1.51; fair price US$0.76 a share all-equity (S$0.98), US$0.13 equity-only; no case earns the floor of about ten percent at the price. Not a TOO HARD: no research pass is owed.
+
+## AFTER THE STOP: FACTS FOUND, NOT WEIGHED
+*(Facts already found that bear on a later question, each with its source **[M1997-127]**; written down, not weighed; no verdict; the box unchanged, operator rule 2.)*
+
+### Bearing on Q3 (capital in, earnings out)
+- Capital spending averaged S$685k a year over 2019 to 2025 against depreciation and right-of-use amortization averaging S$796k (cash-flow statements of the FY2021, FY2022, FY2024 and FY2025 20-Fs): the business spends about its depreciation to stand still and buys no visible growth. Revenue grew 1.8% a year from 2019 to 2025 and fell 1.1% a year from the 2020 high.
+- Net working capital (receivables, inventory and prepayments less payables and customer deposits) was 32.6% of revenue in 2019 and 44.2% in 2025, on a revenue nearly unchanged; the added working capital earned nothing visible.
+- Pre-tax operating return on capital employed by year (filed balance sheets and statements of income): 14.6% (2019), 20.6% (2020), 0.4% (2021), 8.2% (2022), 4.8% (2023), -0.1% (2024), 4.3% (2025).
+- The IPO of April 2022 raised net S$12.06M of paid-in capital (FY2022 20-F, statement of changes in equity). Operating income in the three years after it (2023 to 2025) totalled S$1.59M, against S$5.85M in the two years before it (2019, 2020).
+
+### Bearing on Q4 (the accounts)
+**The balance sheets, seven years, read before the income account** **[M2025-032]**. Seven are all the filings hold: the company registered in 2022 and its first filed statements cover 2019 (prospectus acc 0001493152-22-010643; 20-Fs for FY2021 to FY2025). S$ thousands, 31 December.
+
+| | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|---|---|---|---|---|---|---|---|
+| Cash | 843 | 550 | 1,108 | 6,561 | 5,089 | 5,742 | 9,931 |
+| Accounts receivable | 4,839 | 9,230 | 3,220 | 5,635 | 4,775 | 4,488 | 7,411 |
+| Inventory | 3,097 | 1,380 | 2,557 | 11,892 | 14,073 | 12,644 | 9,202 |
+| Property, plant and equipment, net | 9,213 | 8,914 | 8,981 | 8,818 | 6,672 | 4,058 | 3,735 |
+| Asset held for sale | - | - | - | - | - | 3,035 | - |
+| Deferred financing costs | 445 | 960 | 1,321 | - | 356 | 356 | - |
+| Total assets | 19,086 | 21,763 | 18,440 | 35,465 | 35,493 | 35,114 | 32,984 |
+| Bank loans | 11,185 | 10,516 | 9,878 | 9,433 | 7,981 | 8,794 | 4,022 |
+| Lease payables | 1,283 | 1,259 | 1,553 | 1,686 | 1,583 | 1,278 | 408 |
+| Loan from controlling shareholder | - | - | 1,523 | 741 | - | - | - |
+| Contract liabilities (customer deposits) | 29 | - | - | 4,319 | 6,960 | 6,660 | 5,815 |
+| Shareholders' equity | 4,164 | 5,945 | 3,023 | 16,281 | 16,713 | 16,493 | 19,772 |
+| Revenue (for scale) | 18,219 | 21,397 | 14,764 | 18,631 | 18,032 | 19,279 | 20,296 |
+
+What moved and why. (1) **Equity** fell from S$5.9M (2020) to S$3.0M (2021) because a S$2.9M dividend was paid in 2021, a year of S$2k net income, in the same year the company drew S$1.75M of new bank loans and S$1.52M from the controlling shareholder (FY2021 20-F cash-flow statement, acc 0001493152-22-011786); a S$1.5M dividend had been paid in 2019. The IPO then lifted equity to S$16.3M (2022). From 2022 to 2025 equity rose S$3.5M, while the 2025 gain on the property sale alone was S$4.17M: without the sale, the equity built since listing has shrunk. No goodwill or intangibles in any year. (2) **Inventory** went from 17% of revenue (2019) to 64% (2022) and 45% (2025); the filer gave the 2022 rise as "purchasing more raw materials in anticipation of slower delivery times due to supply chain issues and increased orders for 2023" (FY2022 20-F Item 5, acc 0001493152-23-014717), and the build is largely matched by customer deposits (inventory less contract liabilities: S$3.1M in 2019, S$3.4M in 2025). The tell "inventories look out of line [...] with sales" **[M1995-064]** is recorded here, with the filer's explanation and the deposits beside it, not judged. (3) **Debt** fell from S$11.2M (2019) to S$4.0M (2025), the last step paid from the property sale (S$7.39M proceeds, November 2025). (4) **Property** fell as the dishwashing site was sold; the business now runs from one leasehold plant. (5) **Deferred financing costs** of S$356k were capitalized in 2023 for an offering that did not happen and written off in 2025 (20-F FY2025 Item 5: "an offering but eventually not materialized"). (6) **Cash** of S$9.9M at the end of 2025 was mostly paid out after the balance-sheet date: the US$2,314,514 dividend and the US$794,934 lost to the dividend fraud (20-F Item 4), and S$285,000 for the chief executive's car.
+
+**The real costs and the filer's own figures.**
+- The 20-F features "Adjusted EBITDA", which the company uses "to help us evaluate our business, identify trends affecting our business, formulate business plans, and make strategic decisions" (Item 5); its 2025 figure of S$4,666k includes the S$4,168k gain on the property sale, and its 2024 figure adds back the S$466k stock award. The rows on such figures: "The one figure we regard as utter nonsense is the so-called EBITDA" **[M1998-086]**; "a management that regularly attempts to wave away very real costs by highlighting "adjusted per-share earnings" makes us nervous" **[L2016-006]**. Recorded for Q4 as a weighing fact and for Q5 as evidence on the people, not judged.
+- In 2025 R&D of S$432k, a property agent's commission of S$124k and an exchange loss of S$629k were placed in "other expense", below operating income (Item 5 table), so the S$610k operating income of 2025 is before them.
+- Stock pay: the 300,000-share award of November 2024 was expensed (S$466k); the September 2026 awards will be expensed in 2026.
+- Government grants in other income: S$0.23M to S$0.34M a year in 2023 to 2025 (capability development grant, wage credits), which the business does not control.
+- **Discrepancies between the company's own documents**, recorded as found: the property gain "approximately SGD$3.70 million" (6-K acc 0001493152-25-024014) against S$4,168k on the statement; the 2026 orders "approximately US$12 million" (6-K acc 0001493152-26-013423, 20-F) against "approximately S$12 million" (6-K acc 0001493152-26-025369); top-five customers 70.1% and 73.7% (Item 3.D) against 75.9% and 73.3% (Item 4) for 2024 and 2025; the largest group 46.8% (Item 3.D) against 46.4% (Item 4) for 2025; Class A outstanding 1,752,720 (cover tag) against 1,751,619 (Item 4 text); the 2019 cash-flow statement shows "Proceeds from issuance of shares" of S$1,577k while the 2019 equity statement shows no change in shares or paid-in capital (FY2021 20-F); the Form 4 footnotes of 2026-09-16 value the shares at "the closing price [...] on August 28, 2027", a date in the future. The 20-F's own front matter says the company publishes its "financial statements in United States Dollars"; they are in Singapore dollars with a US$ convenience column.
+- Disclosure controls and internal control over financial reporting were each concluded "effective" by management (Item 15); the auditor did not audit internal control. Three months after the year end the company lost US$794,934 to a fraudulent wire instruction (Item 4). The 20-F says "None of our directors on the Audit Committee nor our Chief Financial Officer have particular experience in cybersecurity matters" and "We presently do not engage third parties to assist with evaluating the effectiveness of our risk-management and cybersecurity practices" (Item 16K).
+
+### Bearing on Q5 (who runs it): integrity facts, recorded, not judged
+- **Pay against results.** On 2024-08-12 the board raised the chief executive's remuneration at the operating subsidiary, with effect from 2024-01-01, to S$630,000 a year (S$45,000 monthly salary, S$2,500 director's fee, S$5,000 transport allowance), from a 2014 agreement of S$300,000 salary and S$24,000 fee, and added a bonus of 10% to 20% of group profit before tax above S$1M, "excluding any extraordinary items" (20-F FY2025 Item 6). She is also paid a US$6,000 monthly director's fee by the parent. Her total pay was US$567,245 (2024) and US$637,917 (2025) (Item 6). Group net income was S$32k in 2024 (operating loss of S$30k) and, without the property gain, a loss of about S$0.9M in 2025 (statement of income). Directors, officers and key employees together were paid S$1.49M (2024) and S$1.48M (2025) (Item 6).
+- **Share awards.** 2024-11-15: a "special share award of 300,000 shares" to the chief executive, "fully vested immediately", fair value US$348,000 (note 15), 6% of the shares then outstanding. 2026-09-07: 200,000 new Class A shares and 71,836 treasury Class A shares to her "as additional executive compensation", valued by the board at US$1.33 a share (about US$362,000), and 30,000 Class A shares to the chief financial officer (SC 13D/A acc 0001493152-26-043000; Forms 4 acc 0001493152-26-042996 and -042998). Together, 571,836 shares to the chief executive in under two years, about 11% of the shares outstanding before the first award.
+- **Dividends to the controlling holder.** Pre-IPO: S$1.5M (2019) and S$2.9M (2021), the second in a year of S$2k profit and new borrowing (above). Post-IPO: US$500,000 in December 2024 (S$425k of it to her, Item 7 related-party table) and US$2,314,514 in February 2026, declared after the property sale; at about 66% of the shares her share of the 2026 dividend is roughly US$1.5M (arithmetic on the 20-F's 66.6% holding). The 20-F says, of the future, "we do not expect to pay any cash dividends in the foreseeable future".
+- **The car.** On 2026-03-30 the operating subsidiary bought the chief executive's own 2024 BMW 520i for S$285,000 and provided it back to her for "business and daily use", ending her S$5,000 monthly allowance; the audit and compensation committees approved it as a cost saving (20-F Item 4). No valuation of the car is filed.
+- **Control.** On 2025-11-18 the shareholders (she held about 97.6% of the votes after reclassification and two-thirds of the shares before it) approved re-designating her 3,500,000 shares as Class B with 20 votes each (6-K acc 0001493152-25-024175; 20-F Item 7). In February 2025 the company had registered 800,000 of her shares for resale; the 20-F states that if all were sold she would still hold "approximately 75.3% of the voting power". A Form 144 of 2026-06-30 gave notice of a proposed sale of 53,066 Class A shares (acc 0001493152-26-031179); the 13D/A of 2026-09-16 shows those shares still held. She is founder, chairman and chief executive; the company is a "controlled company" and uses home-country exemptions from Nasdaq's rules on independent compensation and nominating committees and on shareholder approval of equity plans (Item 3.D, Item 16G).
+- **Other.** Consultancy fees of S$259k in 2025 for "due diligence on prospective projects, identification and introduction of potential business partners and customers" (Item 5); key-management insurance policies of S$764k, premiums S$242k and S$274k in 2024 and 2025, pledged to the bank (note 5). Legal proceedings: "Not Applicable" (Item 7).
+- Rows that a later run reaching Q5 would read these against (named, not applied): "see how they treat themselves versus how they treat the shareholders" **[M1994-009]**; "you don’t find people saying, you know, “We’re a wonderful partnership,” and then voting themselves, you know, huge options" **[M2018-069]**; "They have gotten rich with their shareholders and not off their shareholders" **[M2003-055]**; "If you’ve got doubts, forget it." **[M2013-088]**.
+
+### Bearing on Q6 (the money and the owners)
+- **Buybacks.** A programme of "up to $1,000,000" announced 2023-09-06 with no stated price; 55,047 shares bought by the 20-F date "at an average purchase price of US$1.08 or a total of US$59,351" (Item 4); at least 16,789 more bought before 2026-09-07 (arithmetic from the treasury transfer). The Q7 line written back here: the bottom of the computed range (the no-growth case at the SGS rate, central basis) is US$2.32 a share, and the prices paid (average US$1.08) sit below it; by the framework's convention for a buyback with no stated price, the purchases would be read by what they did. What they did: 71,836 treasury shares were handed to the chief executive as pay on 2026-09-07.
+- **Issuance.** 300,000 shares (2024), 230,000 shares (2026) to executives; F-1 registration statements filed in 2023 and 2025, a registration withdrawal (RW) filed 2024-05-30, and the 2025 statement declared effective 2025-02-26 for the resale of 800,000 of the chief executive's shares (EDGAR index; 20-F Item 7); S$356k spent on an offering "eventually not materialized". The row the framework carries as a candidate second STOP: "we have never invested in companies that are hell-bent on issuing shares" **[L2014-015]**. Recorded, not weighed.
+- **Retention.** Since the end of 2022 retained earnings rose S$3.79M, of which S$4.17M was the property gain; the market price per share went from the offering's US$4.00 (US$12.00 after the 3:1 reverse split of October 2023) to US$1.51.
+- **The board.** Five directors: the chief executive (chairman), the chief financial officer, three independent non-executives (6-K acc 0001493152-25-024175).
+
+### Bearing on Q9 (debt and exposures)
+- Bank loans S$4.0M at 2025 year end (S$1.15M current), secured, variable rate "1.25% to 1.5% above" the bank's reference rate (Item 5); leases S$0.4M; key-management insurance pledged to the bank. Net cash S$5.5M at year end, about S$1.3M after the subsequent payments the 20-F states (dividend, fraud loss, car).
+- Exposure: one customer group 46.8% of revenue; one plant now houses both businesses ("We are dependent on our JCS Facility for our operations", Item 3.D); foreign-worker rules for both labour forces (Item 3.D).
+
+## COMPUTATION, NOT A CLEARANCE
+*(Operator rule 3. Figures computed after the Q2 stop, for the operator's reporting request; no entry language; nothing here is a verdict.)*
+
+**Owner cash, S$ thousands** (cash from operations, which in this filer already deducts lease payments for 2023 to 2025 and includes working-capital changes, less purchases of property, plant and equipment, less lease principal shown in financing, less stock pay added back in operations; the all-equity column adds back interest after the 17% Singapore rate). Source: the filed cash-flow statements of the FY2021, FY2022, FY2024 and FY2025 20-Fs. Arithmetic: `Test Runs/_research 2026-10-13 JCSE/compute.py`.
+
+| | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|---|---|---|---|---|---|---|---|
+| Cash from operations | 1,545 | 1,114 | 3,373 | (5,239) | 1,375 | 2,053 | 2,686 |
+| Capital spending | (615) | (280) | (788) | (817) | (211) | (1,253) | (829) |
+| Lease principal in financing | (108) | (95) | - | - | - | - | (58) |
+| Stock pay | - | - | - | - | - | (466) | - |
+| **Owner cash, equity-only** | 822 | 739 | 2,585 | (6,056) | 1,164 | 334 | 1,799 |
+| **Owner cash, all-equity** | 1,202 | 1,005 | 2,765 | (5,777) | 1,588 | 762 | 2,141 |
+| Working-capital lines in operations | 187 | (1,444) | 2,880 | (7,137) | 456 | 781 | 2,447 |
+| All-equity, working capital neutral | 1,015 | 2,449 | (115) | 1,360 | 1,132 | (19) | (306) |
+
+Not deducted: premiums on the pledged key-management insurance (S$242k, S$274k in 2024, 2025), counted as an asset by the filer; the S$356k paid in 2023 for the failed offering (a financing cost). Both would lower the figures.
+
+**Construction, by Q7's range convention.**
+- *Base.* The literal five-year window is 2021 to 2025. Its first year is the trough of the record (operating income S$59k, gross margin 15.9%) and its last carries the property sale, an inventory release of S$3.4M and a S$1.2M rise in receivables and prepayments; by specific (a) the base is the last full cycle, peak to peak by revenue, 2020 to 2025: **all-equity owner cash S$414k a year** (equity-only S$94k). The literal window is shown beside: S$296k (equity-only, minus S$35k).
+- *Growth.* The series changes sign (2022), so by specific (b) the compound rate is meaningless; the halves of the window (2021-22 against 2024-25) also change sign. The range is therefore **the no-growth case alone**, said so.
+- *Acquisitions:* none. *Working capital:* counted, specific (d). The 2022 draw was tied by the filer to an event (supply chain) and never reversed; the case at the working-capital intensity before the event is shown beside (S$750k a year over the cycle). *Maintenance:* capital spending runs below depreciation and amortization and buys no visible growth; the maintenance-only case is the all-spending case. *The cap:* not reached.
+- *Rate:* 2.73%, the SGS 50-year benchmark of 2026-10-12. *Net debt:* net cash S$5,501k at 2025-12-31 (cash S$9,931k less bank loans S$4,022k and lease payables S$408k as filed; operating and finance leases are not separated in what I read), less the subsequent events the 20-F states: the dividend US$2,314,514 (S$2,938k at the 20-F's own implied rate, S$1.2693 per US$, from its US$794,934 = S$1,009,000), the fraud loss S$1,009k and the car S$285k: **net cash S$1,269k**. Enterprise value at the price: S$10,695k less S$1,269k = **S$9,426k**.
+
+**Value range (no-growth case, at the SGS rate):** all-equity S$414k / 2.73% = S$15.17M, plus net cash, **S$2.97 a share = US$2.32 a share** (per Class A share; the two classes have "the same rights except for voting and conversion rights", 20-F Item 10). Beside it: the literal window, US$1.71; the full seven years, US$2.90; the working-capital-neutral cycle case, US$4.06. Against the price of **US$1.51**.
+
+**The floor tested first** (Q7, 2026-10-10). At the price, the all-equity owner cash earns 4.4% on the enterprise value (cycle base), 3.1% (literal window), 5.6% (seven years), and 8.0% even in the working-capital-neutral case. **No case earns the floor of about ten percent at the price**, "a point at which we drop out of the game" **[M2003-149]**; had the file reached Q7 it would close OUT on the floor, whatever the width. The owner cash that would earn ten percent on the enterprise value is S$943k a year; the business's cycle average is S$414k.
+
+**Fair price (a reporting figure, never a verdict; Part VII):** each end case valued at ten percent and averaged; here there is one case. **All-equity (central): S$414k / 10% = S$4.14M, plus net cash S$1.27M, = S$0.98 a share = US$0.76 a share.** **Equity-only (beside, never decides): S$94k / 10% = S$0.94M = S$0.17 a share = US$0.13 a share** (owner cash after interest against the market value, as Q7 defines it, so the cash is not added). Beside, on the working-capital-neutral case: US$1.24 all-equity, US$0.61 equity-only. Company tax: owner cash is after the company's own Singapore tax (17% statutory; no carryforward found); no conversion for the holder's tax. Exchange rate S$1.2793 per US$ (MAS, 2026-10-12).
+
+## SELF-AUDIT
+- [x] Copied to the dated file before any fetch (commit 5f005c0c); written question by question; committed after Step 0 and Q1 (5a3b2281), after Q2 (37e41746), and after the close.
+- [ ] If dispatched to an analyst: the brief allowed the per-question commits, and I made them; whether the dispatching session holds the lock I cannot see from here, and the fold is the dispatcher's. A run not in the register binds nothing.
+- [x] No other run file, holding review or `PORTFOLIO.md` was opened, listed or searched, save the filename listing declared under contamination (it returned nothing); commit subjects and folder names of other companies seen in the session context are declared and not used.
+- [x] Every v5 id resolves (checked by `Test Runs/_research 2026-10-13 JCSE/idcheck.py`; result under the self-audit); every filing fact has its accession; every number has a filing, a row, or a CONVENTION label.
+- [x] The order was kept; Q2 was the first STOP that failed and closed the run; everything after it is AFTER THE STOP or COMPUTATION, NOT A CLEARANCE.
+- [x] Owner cash after every real cost from the filed cash-flow statements, never a net-income proxy (operator rule 5); the sovereign from the issuing authority (MAS), dated; the price an aggregator quote, flagged.
+- [x] Contrary evidence written down as found (Foundations, Q2); the facts for later questions are under AFTER THE STOP; the integrity flag is in the box line.
+- [x] Not a point-in-time run; no anchor.
+- [x] `tools/run.py` gave no arithmetic lines (a currency refusal); only its price line was used, flagged.
+- [ ] `python tools/check_framework.py` PASS before the commit (result recorded at the close below).
+
+## WHAT IN THE FRAMEWORK WAS WRONG OR UNCLEAR
+(1) **Section B's threshold** names "five-year operating profit", but this filer reports segment operating results only for 2023 to 2025 (the year segment-expense disclosure began); I read the five-year share from segment gross profit and checked it against the three filed years, a CONVENTION of this run; both measures gave the same deciding part, so nothing turned on it here, but a filer with a closer split would need a rule. (2) **Section C's ordinary-returns rule** reads the field's returns "on the evidence of the filer's and the rivals' own filings"; when the 20-F names no rival and none files with the SEC, the text does not say whether the filer's own full-cycle record suffices for OUT. I used the filer's record alone, together with the filer's own words on how it wins work, and said so; a stricter reading would send the name to TOO HARD (WORK) for a rival search that the brief itself forbids beyond named rivals. (3) **Specific (d)** shows the range "at the business's working-capital intensity before the event" where a draw is tied to one event; it does not say what to do when the event's draw never reverses and becomes the new intensity, as here (inventory 17% of revenue before, 45% six years later, matched by deposits). I kept the draw in the central figure and showed the working-capital-neutral case beside; the floor failed on both. (4) **The equity-only figure** is defined as owner cash after interest against market value; for a company holding net cash this leaves the cash out entirely and gives a figure (US$0.13) far below the all-equity figure (US$0.76), the reverse of the leverage case the convention was written for. I followed the text and flag the asymmetry. (5) **The sovereign table** in the protocol has no SGD row; I took the longest SGS benchmark the MAS publishes (50-year, 2.73%), as the brief instructed, with the 30-year (2.52%) noted; a standing choice between the 30-year and the 50-year would make runs comparable. (6) **A range that collapses to one case** (specific (b), where the growth is meaningless) makes the fair price's "average of the two ends" a single case; the text allows it by saying the range is then the no-growth case alone, but the fair-price paragraph of Part VII does not mention it.

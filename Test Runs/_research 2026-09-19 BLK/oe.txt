@@ -1,0 +1,39 @@
+
+--- FIVE-YEAR, the corpus default [E2-42]  window 2021-2025 (5 yr) ---
+mean OCF as filed (GAAP, CIPs in)           4589.6
+mean OCF excluding CIPs (filer column)      6450.0
+mean SBC, reported charge                    826.4
+mean SBC, grant-date market value [E3-70]   1101.0   <- the larger governs
+(c) low  = PP&E capex mean                   369.6
+(c) high = D&A mean (corpus default)         593.0
+  OWNER EARNINGS, SBC at charge     :   5030.6 (c=D&A)  to   5254.0 (c=capex)
+  OWNER EARNINGS, SBC at grant value:   4756.0 (c=D&A)  to   4979.4 (c=capex)
+
+--- THREE-YEAR  window 2023-2025 (3 yr) ---
+mean OCF as filed (GAAP, CIPs in)           4349.3
+mean OCF excluding CIPs (filer column)      6804.7
+mean SBC, reported charge                    896.7
+mean SBC, grant-date market value [E3-70]   1297.7   <- the larger governs
+(c) low  = PP&E capex mean                   324.7
+(c) high = D&A mean (corpus default)         710.7
+  OWNER EARNINGS, SBC at charge     :   5197.3 (c=D&A)  to   5583.3 (c=capex)
+  OWNER EARNINGS, SBC at grant value:   4796.3 (c=D&A)  to   5182.3 (c=capex)
+
+--- TTM 2025-07-01 to 2026-06-30 ---
+OCF excluding CIPs, TTM  = 7463 - 1979 (H1-25) + 3106 (H1-26) = 8590
+NOT used as the mean: a single year is not owner earnings [E2-23 constraint 1],
+and BLK operating cash is severely H2-weighted (year-end incentive comp accrued in
+the year and paid in Q1): H1-2025 ex-CIP OCF 1,979 against full-year 7,463 = 26.5%.
+
+--- the acquisition question, shown separately, NOT folded into the band ---
+cash paid for acquisitions, 5-yr mean         1545.4
+stock/units issued for acquisitions, mean     2919.6
+contingent consideration still payable      8429.0  (GIP 4.0-5.2M sh, HPS 2.8-4.4M units)
+if the WHOLE acquisition programme were maintenance, (c) would rise by 4465.0 and owner earnings fall to 291.0
+
+--- yields at the 2026-09-18 close of $1,069.78 ---
+shares incl. Subco Units (10-Q cover 2026-07-31) 162.476M -> market cap $173,814M
+  5-yr, SBC at grant value, c=D&A      OE   4756.0  yield  2.74%  vs sovereign 5.34%
+  5-yr, SBC at grant value, c=capex    OE   4979.4  yield  2.86%  vs sovereign 5.34%
+  3-yr, SBC at grant value, c=D&A      OE   4796.3  yield  2.76%  vs sovereign 5.34%
+  3-yr, SBC at grant value, c=capex    OE   5182.3  yield  2.98%  vs sovereign 5.34%

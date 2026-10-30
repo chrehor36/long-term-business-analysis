@@ -1,0 +1,39 @@
+year  OCF   SBC   D&A  capex netacq  CIAC  OC_all  OC_maint growthsp  WC  OCmaint/rev
+2021   644.7    10.1   298.0  1020.5    34.5     7.5  -412.9   336.6   749.5  -104.4 17.9%
+2022   600.3    12.2   321.2  1062.8   115.8     6.7  -583.8   266.9   850.7  -169.6 11.7%
+2023   933.6    11.3   343.7  1199.1     3.5    15.5  -264.9   578.6   843.4   175.4 28.2%
+2024   770.3     9.8   369.6  1329.7  -166.8    11.0  -391.4   391.0   782.4   -76.4 18.7%
+2025  1010.5    12.9   417.5  1430.0    55.5    20.2  -467.7   580.1  1047.8   -71.1 23.4%
+avg     791.9    11.2   350.0  1208.4     8.5    12.2  -424.1   430.7   854.8   -49.2
+
+OC_maint avg 430.7  end-year CAGR 14.57%  halves (2021-22 vs 2024-25, 3 yrs apart) 17.18%  sales CAGR 7.14%
+highest OC_maint/sales 28.2%
+ g 17.18%: OC yr10 2102 vs highest share x sales yr10 1210 -> CUT to sales growth
+ g 14.57%: OC yr10 1679 vs highest share x sales yr10 1210 -> CUT to sales growth
+
+LT debt 2020 5630.2 2025(ex CP) 7613.8 credit/yr 396.7 (revolver excluded at 2020: 473.7)
+own LT debt share of LT capital 2026-06-30: 8131.0 / (8131.0 + 7018.3) = 53.67%
+growth spending avg 854.8 x cap = 458.8; credit used = 396.7
+market cap 12046.4  net debt (all-equity basis) 8548.5
+
+EQUITY-ONLY  r=5.30%  no-growth 8126 (28.63/sh)  growth[halves 17.18%] 23147 (81.57/sh)
+   at 10%: no-growth 4307 (15.18)  growth 7710 (27.17)  FAIR (avg) 21.17
+   growth case, no debt credit: 15664 (55.20/sh)
+ALL-EQUITY  unlevered OC 688.0: no-growth 15.62/sh growth 92.02/sh ; at 10%: -5.88 / 7.05 fair 0.58
+EQUITY-ONLY  r=5.30%  no-growth 8126 (28.63/sh)  growth[sales(cut) 7.14%] 9359 (32.98/sh)
+   at 10%: no-growth 4307 (15.18)  growth 3071 (10.82)  FAIR (avg) 13.00
+   growth case, no debt credit: 4990 (17.59/sh)
+ALL-EQUITY  unlevered OC 688.0: no-growth 15.62/sh growth 17.80/sh ; at 10%: -5.88 / -16.59 fair -11.24
+expected return at price: no-growth 3.57%  growth[halves] 7.88%
+expected return at price: no-growth 3.57%  growth[sales(cut)] 4.48%
+
+literal window: OC after all spending avg -424.1 (every year negative: True)
+OC_all + debt credit avg -27.4
+growth spending yr1 915.8 yr10 1703.3 (at sales growth); credit yr1 425.0 yr10 790.6
+
+--- extra cases ---
+shown end-year CAGR (uncut) 14.57%: value 18451 (65.02/sh); at 10% 21.59/sh; expected return at price 6.91%
+alt credit 473.7 (cap 458.8): growth case 35.39/sh, at 10% 12.72/sh, fair 13.95, exp return 4.67%
+literal all-spending + credit, flat: -27.4 /yr -> value -517
+central range 28.63 to 32.98 per share; width 1.15 to 1
+deal beside: 0.305 x AWK 141.10 = 43.04

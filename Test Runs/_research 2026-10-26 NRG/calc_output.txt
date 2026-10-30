@@ -1,0 +1,32 @@
+year  U_pretax  U_after  Umaint_after  growthcapex  netacq  U_after/rev
+2021     1,606    1,204        1,274          92   2,729  4.5%
+2022     2,403    1,802        1,900         131     -47  5.7%
+2023       234      176          235          79     516  0.6%
+2024     2,522    1,892        2,048         208    -463  6.7%
+2025     1,429    1,072        1,657         780     590  3.5%
+
+5-yr avg owner cash after all spending (after 25% tax): 1,229; maintenance-only: 1,423; growth spending after tax: 194; net acquisitions: 665
+serial-acquirer test: net purchases 665 vs half of owner cash before purchases 615 -> SERIAL
+halves: 2021-22 avg 1,503; 2024-25 avg 1,482; rate over 3 yrs -0.48%/yr
+beside: owner cash without acquired-derivative receipts 729
+beside: trough-to-trough 2021-2023 avg 1,061
+
+LSP FY2025 unlevered pre-tax owner cash 1,056; after 25% tax 792
+shelter 1,966 over 5.6 yrs: PV at 5.33% 1,660; at 10% 1,449
+long rate: EV top 43,214 bottom 41,743; per share top 92.62 bottom 85.63
+at 10%: EV top 23,597 bottom 22,408; per share top -0.70 bottom -6.36
+FAIR PRICE all-equity (avg of ends at 10%): -3.53
+default pair beside (acquisitions deducted, no growth, at long rate): 16.00
+equity-only long rate: top 122.82 bottom 115.83; avg 119.33
+equity-only at 10%: top 66.70 bottom 61.05; avg 63.88
+
+market cap 19,405; net debt 23,094; pref 650; EV 43,149
+owner cash 2,215 -> yield on EV at price 5.13%; with shelter PV removed from EV 5.34%
+owner cash 2,021 -> yield on EV at price 4.68%; with shelter PV removed from EV 4.87%
+growth needed for 10% at the price, top case: 4.69% a year forever
+[b] long rate: top 92.62  bottom (decline -0.48%) 80.80  width ratio 1.15
+[b] at 10%: top -0.70  bottom (decline -0.48%) -8.53  width ratio nan
+[b] FAIR PRICE all-equity: -4.62
+[b] equity-only long rate: top 122.82 bottom 111.00 avg 116.91
+[b] equity-only at 10%: top 66.70 bottom 58.87 avg 62.79
+literal-window end-year rate 2021->2025: -2.88%/yr

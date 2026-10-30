@@ -1,0 +1,86 @@
+ticker,name,venue,cap_m,passed,div_ttm,div_yield,div_cagr_5y,cut_last5y,payout_vs_worst5
+III,Information Services Group Inc.,NasdaqGM,249,False,0.18,0.035,0.431,False,3.11
+AGNT,"AGNT, Inc.",NasdaqGM,709,False,0.2,0.0471,0.3797,False,
+AIV,APARTMENT INVESTMENT & MANAGEMENT CO,NYSE,368,False,4.98,1.9453,0.3543,True,
+TRIN,Trinity Capital Inc.,NYSE,1758,False,2.38,0.1282,0.3309,True,
+CCS,"Century Communities, Inc.",NYSE,1958,True,1.25,0.0182,0.3303,False,0.24
+WEYS,WEYCO GROUP INC,NasdaqGS,433,False,3.1,0.0684,0.2642,False,1.44
+DMC,DEL MONTE CORP,NYSE,1500,False,1.2,0.0377,0.2167,False,
+ALG,ALAMO GROUP INC,NYSE,1996,False,1.32,0.008,0.1914,False,0.2
+OXM,OXFORD INDUSTRIES INC,NYSE,572,False,2.78,0.0726,0.166,False,
+BRBS,"BLUE RIDGE BANKSHARES, INC.",NYSE American,352,False,0.85,0.2163,0.1566,True,
+FREVS,FIRST REAL ESTATE INVESTMENT TRUST O,OTC Markets OTCPK,159,False,0.3,0.0141,0.1487,True,2.81
+HWBK,"HAWTHORN BANCSHARES, INC.",NasdaqGS,271,False,0.82,0.0209,0.1085,False,5.66
+ISTR,Investar Holding Corp,NasdaqGM,418,False,0.45,0.0148,0.0995,False,0.78
+ALNT,ALLIENT INC,NasdaqGM,1597,False,0.14,0.0015,0.0924,False,0.18
+BBDC,"Barings BDC, Inc.",NYSE,979,False,1.09,0.1166,0.0865,False,24.28
+FRD,FRIEDMAN INDUSTRIES INC,NasdaqGS,319,False,0.12,0.0027,0.0845,True,0.14
+FLO,FLOWERS FOODS INC,NYSE,1496,True,0.87,0.1232,0.0733,True,2.2
+SGU,"STAR GROUP, L.P.",NYSE,418,True,0.77,0.0602,0.0677,False,0.79
+BFST,"Business First Bancshares, Inc.",NasdaqGS,1021,False,0.6,0.0191,0.064,False,0.37
+FCCO,FIRST COMMUNITY CORP /SC/,NasdaqCM,317,False,0.65,0.0193,0.0625,False,0.52
+MSEX,MIDDLESEX WATER CO,NasdaqGS,1100,False,1.44,0.0247,0.0569,True,0.86
+SGC,"SUPERIOR GROUP OF COMPANIES, INC.",NasdaqGM,196,False,0.56,0.0456,0.0494,False,
+MNSBP,"MainStreet Bancshares, Inc.",NasdaqCM,184,False,1.88,0.0726,0.0472,False,
+MNRO,"MONRO, INC.",NasdaqGS,397,False,1.12,0.0848,0.0357,False,
+RMR,RMR GROUP INC.,NasdaqCM,292,True,1.8,0.0924,0.0344,True,1.53
+PEBO,PEOPLES BANCORP INC,NasdaqGS,1428,False,1.66,0.0418,0.0317,False,1.25
+RWT,REDWOOD TRUST INC,NYSE,580,False,0.72,0.1558,0.0304,True,
+EFSI,EAGLE FINANCIAL SERVICES INC,NasdaqCM,225,False,1.24,0.0299,0.028,True,0.82
+UHT,UNIVERSAL HEALTH REALTY INCOME TRUST,NYSE,576,False,2.98,0.0719,0.014,False,2.69
+AUBN,"AUBURN NATIONAL BANCORPORATION, INC",NasdaqGM,92,False,1.08,0.041,0.0095,False,2.7
+GWRS,"Global Water Resources, Inc.",NasdaqGM,261,False,0.3,0.033,0.0082,False,2.87
+AFCG,Advanced Flower Capital Inc.,NasdaqGM,82,False,0.25,0.0694,-0.0079,True,
+GECC,Great Elm Capital Corp.,NasdaqGM,85,False,1.29,0.2104,-0.0148,True,
+JBGS,JBG SMITH Properties,NYSE,723,False,0.7,0.0573,-0.049,True,
+GSBD,"Goldman Sachs BDC, Inc.",NYSE,1140,False,1.51,0.1491,-0.0499,True,3.09
+HUN,Huntsman CORP,NYSE,1670,False,0.51,0.054,-0.0536,True,
+IIIN,INSTEEL INDUSTRIES INC,NYSE,588,False,1.12,0.0368,-0.0712,True,1.12
+ETD,ETHAN ALLEN INTERIORS INC,NYSE,598,True,1.81,0.0771,-0.0776,True,0.89
+IVR,Invesco Mortgage Capital Inc.,NYSE,790,False,1.66,0.2263,-0.1174,True,
+BCIC,BCP Investment Corp,NasdaqGS,96,False,1.27,0.1632,-0.1195,True,
+UFCS,UNITED FIRE GROUP INC,NasdaqGS,1385,False,0.36,0.0067,-0.1433,True,
+ACRE,Ares Commercial Real Estate Corp,NYSE,258,False,0.6,0.1289,-0.151,True,
+GOLD,"Gold.com, Inc.",NYSE,1295,False,0.6,0.0132,-0.1674,True,0.99
+MRTN,MARTEN TRANSPORT LTD,NasdaqGS,1171,False,0.24,0.0167,-0.1832,True,1.13
+NGVC,"Natural Grocers by Vitamin Cottage, ",NYSE,638,False,0.72,0.026,-0.2059,True,0.81
+WHG,WESTWOOD HOLDINGS GROUP INC,NYSE,185,False,0.6,0.0307,-0.2598,True,
+LEG,LEGGETT & PLATT INC,NYSE,1257,False,0.25,0.0272,-0.3118,True,
+HTLD,HEARTLAND EXPRESS INC,NasdaqGS,943,False,0.08,0.0066,-0.3317,True,
+NCMI,"National CineMedia, Inc.",NasdaqGS,242,False,0.09,0.035,-0.4723,True,
+NLOP,Net Lease Office Properties,NYSE,171,False,19.25,1.6725,,False,
+STRS,STRATUS PROPERTIES INC,OTC Markets OTCPK,152,False,5.0,0.263,,True,
+NCDL,Nuveen Churchill Direct Lending Corp,NYSE,608,False,1.68,0.1365,,True,4.8
+MSDL,Morgan Stanley Direct Lending Fund,NYSE,1277,False,1.9,0.1252,,True,3.3
+VTS,"Vitesse Energy, Inc.",NYSE,724,False,2.0,0.1165,,True,
+GREEL,Vulcan Infrastructure & Power Inc.,NasdaqGS,445,False,2.12,0.086,,False,
+GECCI,Great Elm Capital Corp.,NasdaqGM,351,False,2.12,0.0841,,False,
+GECCH,Great Elm Capital Corp.,NasdaqGM,352,False,2.03,0.0802,,False,
+OLP,ONE LIBERTY PROPERTIES INC,NYSE,527,False,1.8,0.0746,0.0,False,1.54
+NEWTP,"NewtekOne, Inc.",NasdaqGM,729,False,1.83,0.0724,,False,1.63
+ALX,ALEXANDERS INC,NYSE,1384,False,18.0,0.0664,0.0,False,3.26
+GRNT,"Granite Ridge Resources, Inc.",NYSE,667,False,0.33,0.0652,,True,2.31
+GECCG,Great Elm Capital Corp.,NasdaqGM,344,False,1.56,0.0628,,False,
+NEWTG,"NewtekOne, Inc.",NasdaqGM,744,False,1.59,0.0618,,True,1.42
+SD,SANDRIDGE ENERGY INC,NYSE,515,True,0.82,0.059,,True,0.5
+NEWTI,"NewtekOne, Inc.",NasdaqGM,742,False,1.5,0.0584,,True,1.34
+ASIX,AdvanSix Inc.,NYSE,446,True,0.64,0.0387,,False,0.39
+CRCT,"Cricut, Inc.",NasdaqGS,1214,False,0.2,0.0345,,True,0.78
+UDN,INVESCO DB US DOLLAR INDEX BEARISH F,NYSEArca,109,False,0.54,0.0295,,True,
+MGPI,MGP INGREDIENTS INC,NasdaqGS,362,False,0.48,0.0283,0.0,False,
+SVC,Service Properties Trust,NasdaqGS,1016,False,0.2,0.0255,0.0,True,
+FRST,Primis Financial Corp.,NasdaqGM,400,False,0.4,0.0248,0.0,False,
+UVE,"UNIVERSAL INSURANCE HOLDINGS, INC.",NYSE,1208,False,0.77,0.0177,0.0,False,
+NSSC,"NAPCO SECURITY TECHNOLOGIES, INC",NasdaqGS,1270,False,0.58,0.0163,,False,1.06
+MNSB,"MainStreet Bancshares, Inc.",NasdaqCM,179,False,0.4,0.0159,,False,
+FXA,Invesco CurrencyShares Australian Do,NYSEArca,103,False,0.72,0.0102,,True,
+LYTS,LSI INDUSTRIES INC,NasdaqGS,726,False,0.2,0.0101,0.0,True,1.24
+OEC,Orion S.A.,NYSE,358,False,0.06,0.0099,,True,
+VTOL,Bristow Group Inc.,NYSE,1296,False,0.38,0.0086,,False,
+BNED,"Barnes & Noble Education, Inc.",NYSE,420,False,0.08,0.0066,,False,
+ICFI,"ICF International, Inc.",NasdaqGS,1619,False,0.56,0.0062,0.0,False,0.16
+KOP,Koppers Holdings Inc.,NYSE,879,True,0.26,0.0056,,True,0.09
+TRS,TRIMAS CORP,NasdaqGS,1422,False,0.16,0.004,,False,0.24
+CLB,Core Laboratories Inc. /DE/,NYSE,567,False,0.04,0.0032,0.0,False,0.09
+FXC,Invesco CurrencyShares Canadian Doll,NYSEArca,77,False,0.14,0.002,,True,
+EPAC,ENERPAC TOOL GROUP CORP,NYSE,1923,False,0.04,0.0011,0.0,False,0.13

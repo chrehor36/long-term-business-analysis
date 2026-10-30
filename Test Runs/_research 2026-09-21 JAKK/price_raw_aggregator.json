@@ -1,0 +1,64 @@
+{
+  "source": "Yahoo Finance chart API - AGGREGATOR, live quote only, flagged [operator rule 5]",
+  "fetched_utc": "2026-09-21T14:49:30.027319Z",
+  "meta": {
+    "symbol": "JAKK",
+    "currency": "USD",
+    "exchangeName": "NMS",
+    "fullExchangeName": "NasdaqGS",
+    "regularMarketPrice": 24.085,
+    "regularMarketTime": 1789998286,
+    "previousClose": null,
+    "chartPreviousClose": 18.0,
+    "regularMarketDayHigh": 24.25,
+    "regularMarketDayLow": 24.085,
+    "regularMarketVolume": 1414,
+    "fiftyTwoWeekHigh": 27.22,
+    "fiftyTwoWeekLow": 14.87,
+    "marketState": null,
+    "timezone": "EDT",
+    "gmtoffset": -14400
+  },
+  "recent_daily_closes": [
+    {
+      "date": "2026-09-08",
+      "close": 24.440000534057617
+    },
+    {
+      "date": "2026-09-09",
+      "close": 23.850000381469727
+    },
+    {
+      "date": "2026-09-10",
+      "close": 23.790000915527344
+    },
+    {
+      "date": "2026-09-11",
+      "close": 24.170000076293945
+    },
+    {
+      "date": "2026-09-14",
+      "close": 24.329999923706055
+    },
+    {
+      "date": "2026-09-15",
+      "close": 24.309999465942383
+    },
+    {
+      "date": "2026-09-16",
+      "close": 24.239999771118164
+    },
+    {
+      "date": "2026-09-17",
+      "close": 24.329999923706055
+    },
+    {
+      "date": "2026-09-18",
+      "close": 24.1299991607666
+    },
+    {
+      "date": "2026-09-21",
+      "close": 24.084999084472656
+    }
+  ]
+}

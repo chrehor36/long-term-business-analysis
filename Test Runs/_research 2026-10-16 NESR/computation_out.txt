@@ -1,0 +1,21 @@
+year          2021     2022     2023     2024     2025
+all-sp eq    -83.2    -81.0     68.8    105.2     92.4   avg    20.4
+maint eq       8.4    -20.6     47.5     93.3    124.2   avg    50.5
+all-sp unl   -75.3    -65.6     95.9    135.8    115.2   avg    41.2
+maint unl     16.3     -5.2     74.6    123.9    147.0   avg    71.3
+depr         104.1     97.0    123.5    124.0    123.0   avg   114.3
+AP change     31.2     33.7     -3.4    -38.5    116.2   avg    27.8
+net debt 2026-06-30 99.6  market cap 1927.3  EV 2026.9
+bottom: all spending, no growth: base unl 41.2  EV@sov 759  per sh all-equity 6.53  | equity-only 3.73  | @10% all-eq 3.10 eq-only 2.03  | yield on EV at price 2.03%
+top: maintenance only, no growth: base unl 71.3  EV@sov 1313  per sh all-equity 12.03  | equity-only 9.23  | @10% all-eq 6.08 eq-only 5.01  | yield on EV at price 3.52%
+fair all-equity 4.59  fair equity-only 3.52
+width top/bottom 1.84 (per share); 1.73 (whole business)
+beside, 2025 AP increase removed: bottom per sh 2.29  top per sh 7.79  fair 2.29
+all-sp unl first half (2021-22) avg -70.4  second half (2024-25) avg 125.5
+maint unl first half (2021-22) avg 5.5  second half (2024-25) avg 135.4
+sales CAGR 2021-2025 10.9 %
+maint unl at g=0.000 for ten years: value@10% 713 vs EV 2027; value@sov 1313
+maint unl at g=0.050 for ten years: value@10% 1005 vs EV 2027; value@sov 1958
+maint unl at g=0.109 for ten years: value@10% 1520 vs EV 2027; value@sov 3130
+maint unl at g=0.200 for ten years: value@10% 2889 vs EV 2027; value@sov 6348
+beside, 2020-2025: 2020 all-sp eq 6.8 maint eq 20.9 | bottom per sh 5.8 top per sh 10.82 fair 4.06

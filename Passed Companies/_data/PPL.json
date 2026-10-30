@@ -1,0 +1,24 @@
+{
+ "ticker": "PPL",
+ "name": "PPL",
+ "headline": "A holding company for four regulated electric and gas utilities in Kentucky, Pennsylvania and Rhode Island.",
+ "what_short": "Regulated electric and gas utilities, three states",
+ "what_it_does": "PPL owns four regulated utilities. In Kentucky, LG&E and KU generate and deliver electricity and gas to 1.4 million customers. In Pennsylvania, PPL Electric delivers power to 1.5 million customers. A Rhode Island utility delivers electricity and gas. Regulators set the prices.",
+ "why_it_passed": [
+  "The law grants each utility its service area and the regulators keep it, so customers have no other supplier.",
+  "Earnings come from three states and four separate regulated companies, rather than a single utility.",
+  "Insiders write down their forecast: a three-year capital plan of $17.35 billion for 2026 to 2028 with fully projected test years in Pennsylvania and Kentucky.",
+  "A Kentucky tariff for large customers brings minimum payments and collateral from data-centre customers."
+ ],
+ "why_not_now": "A regulator caps what a utility may earn, so the price is far above what that capped return justifies. At $35.13 a share a buyer would earn about 2.8% to 4.2% a year, less than the 5.33% on a 30-year US Treasury bond, and the analysis's value range is only $18.20 to $18.40, about half the price.",
+ "watch": [
+  "Long-term debt is $20.3 billion, and earnings cover interest only about 2.4 to 2.8 times.",
+  "The capital plan of $17.35 billion over 2026 to 2028 is large against operating cash of $2.6 billion in 2025, funded by debt, hybrid securities and new shares.",
+  "Return on equity was only about 5.1% over the period, below what regulators allow."
+ ],
+ "value_low": 18.20,
+ "value_high": 18.40,
+ "utility": true,
+ "run_date": "2026-10-26",
+ "currency": "USD"
+}

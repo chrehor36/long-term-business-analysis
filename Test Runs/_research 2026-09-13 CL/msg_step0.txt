@@ -1,0 +1,11 @@
+CL run: Step 0 - sovereign, filings, share count, deals, and the skip reason tested
+
+Colgate-Palmolive, WAVE 5 "capex unresolved [E5-20]" row. USD 30-year 5.35% (US Treasury,
+09/11/2026), chosen over local currencies because the owner-earnings stream is USD-translated
+and the corpus names the US long bond [E4-01]; the limit is stated. Price US$86.80 (2026-09-11,
+aggregator) x 797,172,829 shares (10-Q cover 0000021665-26-000042, single class, no split
+after the measurement date) = US$69,194.6M. No live deal; every 8-K since 2021 opened by hand.
+Venezuela deconsolidation at 2015-12-31 verified from the 10-K. The skip reason was a tooling
+artefact: floor_screen.py at a8bc84f read only the capex tag Colgate stopped using after FY2022.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

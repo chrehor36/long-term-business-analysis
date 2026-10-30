@@ -1,0 +1,31 @@
+entity Rivian Automotive, Inc. / DE
+== CURRENT screen ==
+owner_earnings: {'5y_da': -4489400000.0, '5y_capex': -5194800000.0, '3y_da': -4122333333.3333335, '3y_capex': -4526666666.666667}
+restatement_shift : (1.0, datetime.date(2021, 12, 31))
+scale_shift : 30.145454545454545
+acquisition_flag : None
+working_capital_flag : (datetime.date(2024, 12, 31), 'IncreaseDecreaseInContractWithCustomerLiability', 0.9434731934731935, 'ONE LINE MADE THE CASH: ContractWithCustomerLiability moved 94% of 2024 OCF. Operating cash is not owner earnings when one balance-sheet line produced it (DELL, INOD). Read the 2024 cash-flow statement and liquidity note.')
+da_discontinuity_flag : (datetime.date(2021, 12, 31), 6.793103448275862, 'the D&A series steps 6.8x UP at 2021-12-31 ($29M to $197M). Depreciation runs off a schedule and does not do this on its own. The three causes are an ACQUISITION, a CHANGE OF ESTIMATE, or a TAG whose SEMANTICS CHANGED WHILE THE ELEMENT DID NOT - the last is invisible here and was the Certara case, where two income-statement lines were consolidated in FY2023. READ THE CASH-FLOW STATEMENT AND NOTE 1 BEFORE USING EITHER END OF (c).')
+capex_funding_flag : None
+stale_filer : (datetime.date(2025, 12, 31), 261, '')
+lease_capex_flag : None
+share_count_shift WITH ticker: None
+share_count_shift no ticker: None
+sbc_annual: {datetime.date(2019, 12, 31): 0.0, datetime.date(2020, 12, 31): 0.0, datetime.date(2021, 12, 31): 570000000.0, datetime.date(2022, 12, 31): 987000000.0, datetime.date(2023, 12, 31): 821000000.0, datetime.date(2024, 12, 31): 692000000.0, datetime.date(2025, 12, 31): 741000000.0, datetime.date(2021, 11, 14): 0.0}
+da_annual: {datetime.date(2019, 12, 31): 7000000.0, datetime.date(2020, 12, 31): 29000000.0, datetime.date(2021, 12, 31): 197000000.0, datetime.date(2022, 12, 31): 652000000.0, datetime.date(2023, 12, 31): 937000000.0, datetime.date(2024, 12, 31): 1031000000.0, datetime.date(2025, 12, 31): 784000000.0}
+ocf: ({datetime.date(2019, 12, 31): -353000000.0, datetime.date(2020, 12, 31): -848000000.0, datetime.date(2021, 12, 31): -2622000000.0, datetime.date(2022, 12, 31): -5052000000.0, datetime.date(2023, 12, 31): -4866000000.0, datetime.date(2024, 12, 31): -1716000000.0, datetime.date(2025, 12, 31): -779000000.0}, '')
+capex annual: {datetime.date(2019, 12, 31): 199000000.0, datetime.date(2020, 12, 31): 914000000.0, datetime.date(2021, 12, 31): 1794000000.0, datetime.date(2022, 12, 31): 1369000000.0, datetime.date(2023, 12, 31): 1026000000.0, datetime.date(2024, 12, 31): 1141000000.0, datetime.date(2025, 12, 31): 1710000000.0}
+capital_acquired: ({datetime.date(2019, 12, 31): 199000000.0, datetime.date(2020, 12, 31): 914000000.0, datetime.date(2021, 12, 31): 1794000000.0, datetime.date(2022, 12, 31): 1369000000.0, datetime.date(2023, 12, 31): 1106000000.0, datetime.date(2024, 12, 31): 1147000000.0, datetime.date(2025, 12, 31): 1712000000.0}, {datetime.date(2023, 12, 31): 80000000.0, datetime.date(2024, 12, 31): 6000000.0, datetime.date(2025, 12, 31): 2000000.0})
+rev: {datetime.date(2019, 12, 31): 0.0, datetime.date(2020, 12, 31): 0.0, datetime.date(2021, 12, 31): 55000000.0, datetime.date(2022, 12, 31): 1658000000.0, datetime.date(2023, 12, 31): 4434000000.0, datetime.date(2024, 12, 31): 4970000000.0, datetime.date(2025, 12, 31): 5387000000.0}
+shares: (datetime.date(2026, 6, 30), 1362000000.0)
+== a8bc84f on facts filed by 2026-09-01 ==
+share_count_shift : None
+scale_shift : 30.145454545454545
+restatement_shift : (1.0, datetime.date(2021, 12, 31))
+owner_earnings : {'5y_da': -4489400000.0, '5y_capex': -5194800000.0, '3y_da': -4122333333.3333335, '3y_capex': -4526666666.666667}
+dei elements: ['EntityPublicFloat']
+dei EntityPublicFloat 2021-06-30 0 10-K 2022-03-31 CY2021Q2I
+dei EntityPublicFloat 2022-06-30 12300000000 10-K 2023-02-28 CY2022Q2I
+dei EntityPublicFloat 2023-06-30 12900000000 10-K 2024-02-26 CY2023Q2I
+dei EntityPublicFloat 2024-06-30 11200000000 10-K 2025-02-24 CY2024Q2I
+dei EntityPublicFloat 2025-06-30 14300000000 10-K 2026-02-12 CY2025Q2I

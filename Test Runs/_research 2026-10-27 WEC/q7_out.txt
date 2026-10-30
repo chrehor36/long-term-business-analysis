@@ -1,0 +1,34 @@
+owner cash after maintenance (D&A), literal : [942.7, 903.3, 1744.5, 1818.0, 1852.7] avg 1452.2
+owner cash after maintenance, PTC removed  : [861.4, 795.7, 1576.3, 1617.9, 1591.4] avg 1288.5
+owner cash after ALL spending              : [-313.5, -631.9, -549.5, -630.0, -1543.5] avg -733.7
+growth spending (all spending less D&A)    : [1256.2, 1535.2, 2294.0, 2448.0, 3396.2] avg 2185.9
+growth spending ex WECI acquisitions       : [1136.3, 1153.2, 1594.1, 1554.3, 2990.1] avg 1685.6
+LTD end-2020 12513.9 end-2025 ex securitization 20312.8 increase/yr 1559.8 cap 792.2 credit 792.2
+shown growth (PTC-out series) 16.59%  literal 18.40%  sales growth 4.19%
+owner cash / sales by year [10.4, 8.3, 17.7, 18.8, 16.2]
+shown rate carried ten years: owner cash yr10 5978 vs sales yr10 at sales growth 14775 share 40.5%
+growth spending charged to equity: yr1 1452.1 yr10 2101.1 (gross yr1 2277.5, credit yr1 825.4)
+CENTRAL equity-only, PTC at statutory + shelter, growth cut to sales growth:
+  central @0.0531: no-growth 25,512 ($78.29)  growth 22,060 ($67.70)
+  central @0.1000: no-growth 13,891 ($42.63)  growth 7,706 ($23.65)
+  central FAIR (avg of ends at 10%): 10,799  $33.14/share; range at sovereign $67.70 to $78.29
+BESIDE: literal window (PTC left in owner cash, no shelter):
+  literal @0.0531: no-growth $83.93 growth $77.12
+  literal @0.1: no-growth $44.57 growth $27.25
+BESIDE: base without aberrational 2021 (2022-2025):
+  base 1395.3
+  ex2021 @0.0531: no-growth 27,523 ($84.46)  growth 24,875 ($76.34)
+  ex2021 @0.1000: no-growth 14,959 ($45.91)  growth 9,128 ($28.01)
+  ex2021 FAIR (avg of ends at 10%): 12,044  $36.96/share; range at sovereign $76.34 to $84.46
+BESIDE: all-equity (owner cash before after-tax interest; growth spending with no debt credit; less net debt 22929.7):
+  owner cash before interest 1764.0
+  all-equity @0.0531: no-growth 11,536 ($35.40)  growth 4,189 ($12.86)
+  all-equity @0.1000: no-growth -4,284 ($-13.15)  growth -14,839 ($-45.54)
+  all-equity FAIR (avg of ends at 10%): -9,562  $-29.34/share; range at sovereign $12.86 to $35.40
+BESIDE: debt credit on all growth spending incl. WECI (cap on 2185.9):
+  credit-incl-WECI @0.0531: no-growth 25,512 ($78.29)  growth 24,279 ($74.51)
+  credit-incl-WECI @0.1000: no-growth 13,891 ($42.63)  growth 9,472 ($29.07)
+  credit-incl-WECI FAIR (avg of ends at 10%): 11,682  $35.85/share; range at sovereign $74.51 to $78.29
+market cap 36208; owner cash yield at price: central 3.56%, literal 4.01%, 2023-25 literal 4.99%
+forward shares (unsettled) 6.392021M; diluted count 332.241
+retained 2021-2025: NI-div 2163.9

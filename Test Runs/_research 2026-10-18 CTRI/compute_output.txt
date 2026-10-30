@@ -1,0 +1,31 @@
+year  OCF  allsp_eq maint_eq  aTint  allsp_AE  maint_AE  acq-deducted_AE  WCchange(maint-allsp) rev
+2021   109.5      9.8     75.4   13.7     23.5     89.1    -798.7     65.7   2158.7
+2022    94.6    -36.1     27.5   42.4      6.3     69.9     -33.4     63.6   2760.3
+2023   167.5     58.7     55.5   73.8    132.4    129.3      92.5     -3.1   2899.3
+2024   158.2    -69.7     21.2   58.7    -11.0     79.9    -103.9     90.9   2637.2
+2025    78.1    -19.5     51.2   50.3     30.7    101.5     -15.1     70.8   2982.8
+allsp_eq   5yr avg    -11.4  halves(21-22 vs 24-25)   -13.1->  -44.6  post-acq (22-23 vs 24-25)    11.3->  -44.6 g=nan%/yr
+maint_eq   5yr avg     46.2  halves(21-22 vs 24-25)    51.5->   36.2  post-acq (22-23 vs 24-25)    41.5->   36.2 g=-6.61%/yr
+allsp_AE   5yr avg     36.4  halves(21-22 vs 24-25)    14.9->    9.9  post-acq (22-23 vs 24-25)    69.3->    9.9 g=-62.27%/yr
+maint_AE   5yr avg     94.0  halves(21-22 vs 24-25)    79.5->   90.7  post-acq (22-23 vs 24-25)    99.6->   90.7 g=-4.57%/yr
+acqded_AE  5yr avg   -171.7  halves(21-22 vs 24-25)  -416.0->  -59.5  post-acq (22-23 vs 24-25)    29.6->  -59.5 g=nan%/yr
+net debt 753.3 (debt 731.7 - cash 40.5 + JJW 62.0); securitized receivables off-sheet 165.0; mcap 1992.0; EV 2745.3
+g maint_AE -4.57%  g allsp_AE -62.27%
+TOP  maintenance-only, no growth (AE)                                    EV   1730.2  per share    9.68
+     maintenance-only, shown growth (AE)                                 EV   1204.6  per share    4.47
+BOT  all spending, shown growth, growth spending stops after yr10 (AE)   EV     20.3  per share   -7.26
+     all spending, no growth forever (AE)                                EV    670.0  per share   -0.82
+IRR at price: maint no-growth 3.42% ; all-spend no growth 1.33% ; maint growth -44.33% ; allsp growth -50.00%
+FAIR (AE) top@10% 1.84 bottom@10% -7.27 avg -2.71
+EQUITY-ONLY: maint avg 46.2 (g -6.61%) allsp avg -11.4; top 8.43/sh  bottom(no growth) -2.07/sh; fair: top 4.58 bottom -1.13 avg 1.72
+DEFAULT PAIR (acquisitions deducted, total growth credited) avg AE -171.7/yr -> no-growth EV -3162.2
+net purchases 1040.5 vs half of owner cash before purchases 91.0 -> serial acquirer: True
+owner cash (maint AE)/revenue by year: 4.1% 2.5% 4.5% 3.0% 3.4%
+literal window, all spending as filed (no securitization or SLB adjustment), equity-only avg: 12.0
+---- range as adopted in the run file ----
+TOP maint no-growth 9.68; BOTTOM all-spending no-growth -0.82; beside: maint post-acq decline -4.57% -> 4.47; maint window-halves 4.49% -> 17.06
+expected return at price: top 3.42%  bottom 1.33%  decline 2.25%  window-growth 4.93%
+FAIR PRICE all-equity: top@10% 1.84  bottom@10% -3.86  average -1.01
+FAIR PRICE equity-only: top@10% 4.58 bottom@10% -1.13 average 1.72
+with securitized receivables 165.0 counted as debt: top/share 8.04; fair AE avg -2.64
+interest cover pre-tax earnings/interest: 2025 1.19x  2024 0.96x ; operating income/interest 2025 1.18x

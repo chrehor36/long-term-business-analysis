@@ -1,0 +1,36 @@
+entity SOUNDHOUND AI, INC.
+== CURRENT screen ==
+owner_earnings: {'5y_da': -121818871.6, '5y_capex': -110991471.6, '3y_da': -156519333.33333334, '3y_capex': -140998333.33333334}
+restatement_shift : (1.0, datetime.date(2021, 12, 31))
+scale_shift : 1.994497774314288
+acquisition_flag : (66334000.0, None, '')
+working_capital_flag : (datetime.date(2021, 12, 31), 'IncreaseDecreaseInContractWithCustomerLiability', 11.894377098378218, 'RATIO MEANINGLESS - NEAR-ZERO OCF: ContractWithCustomerLiability moved $10.3M in 2021 when OCF was $0.9M against a typical |OCF| of $74.0M. Judge the dollars, not the 1,189%. Read the 2021 cash-flow statement.')
+da_discontinuity_flag : (datetime.date(2024, 12, 31), 6.940769563337657, 'the D&A series steps 6.9x UP at 2024-12-31 ($2M to $16M). Depreciation runs off a schedule and does not do this on its own. The three causes are an ACQUISITION, a CHANGE OF ESTIMATE, or a TAG whose SEMANTICS CHANGED WHILE THE ELEMENT DID NOT - the last is invisible here and was the Certara case, where two income-statement lines were consolidated in FY2023. READ THE CASH-FLOW STATEMENT AND NOTE 1 BEFORE USING EITHER END OF (c).')
+capex_funding_flag : None
+stale_filer : (datetime.date(2025, 12, 31), 262, '')
+lease_capex_flag : LEASE-FINANCED ADDITIONS 25% of cash capex under a legacy element - READ THE LEASE NOTE before trusting (c). Finance leases belong in capex; operating leases are already inside OCF and must NOT be added again.
+share_count_shift WITH ticker: None
+share_count_shift no ticker: None
+sbc_annual: {datetime.date(2021, 12, 31): 6322000.0, datetime.date(2022, 12, 31): 28792000.0, datetime.date(2023, 12, 31): 27931000.0, datetime.date(2024, 12, 31): 33145000.0, datetime.date(2025, 12, 31): 80620000.0}
+da_annual: {datetime.date(2021, 12, 31): 5502000.0, datetime.date(2022, 12, 31): 4037000.0, datetime.date(2023, 12, 31): 2313000.0, datetime.date(2024, 12, 31): 16054000.0, datetime.date(2025, 12, 31): 34130000.0}
+ocf: ({datetime.date(2021, 12, 31): -864358.0, datetime.date(2022, 12, 31): -94019000.0, datetime.date(2023, 12, 31): -68265000.0, datetime.date(2024, 12, 31): -108878000.0, datetime.date(2025, 12, 31): -98222000.0}, '')
+capex annual: {datetime.date(2021, 12, 31): 636000.0, datetime.date(2022, 12, 31): 1329000.0, datetime.date(2023, 12, 31): 392000.0, datetime.date(2024, 12, 31): 640000.0, datetime.date(2025, 12, 31): 902000.0}
+capital_acquired: ({datetime.date(2021, 12, 31): 636000.0, datetime.date(2022, 12, 31): 1329000.0, datetime.date(2023, 12, 31): 392000.0, datetime.date(2024, 12, 31): 640000.0, datetime.date(2025, 12, 31): 4902000.0}, {})
+rev: {datetime.date(2021, 12, 31): 21197000.0, datetime.date(2022, 12, 31): 31129000.0, datetime.date(2023, 12, 31): 45873000.0, datetime.date(2024, 12, 31): 84693000.0, datetime.date(2025, 12, 31): 168920000.0}
+shares: None
+== a8bc84f on facts filed by 2026-09-01 ==
+share_count_shift : None
+scale_shift : 1.994497774314288
+restatement_shift : (1.0, datetime.date(2021, 12, 31))
+owner_earnings : {'5y_da': -121818871.6, '5y_capex': -110191471.6, '3y_da': -156519333.33333334, '3y_capex': -139665000.0}
+dei elements: ['EntityCommonStockSharesOutstanding', 'EntityPublicFloat']
+dei EntityCommonStockSharesOutstanding 2021-07-20 17461000 10-Q 2021-07-27 CY2021Q2I
+dei EntityCommonStockSharesOutstanding 2021-08-27 17461000 10-Q 2021-08-27 CY2021Q3I
+dei EntityCommonStockSharesOutstanding 2021-11-15 17461000 10-Q 2021-11-15 
+dei EntityCommonStockSharesOutstanding 2022-01-10 17461000 10-Q/A 2022-01-10 CY2021Q4I
+dei EntityCommonStockSharesOutstanding 2022-03-09 17461000 10-K 2022-03-09 CY2022Q1I
+dei EntityPublicFloat 2021-06-30 137740405 10-K 2022-03-09 CY2021Q2I
+dei EntityPublicFloat 2022-06-30 315300000 10-K 2023-03-28 CY2022Q2I
+dei EntityPublicFloat 2023-06-30 734400000 10-K 2024-03-01 CY2023Q2I
+dei EntityPublicFloat 2024-06-30 1169200000 10-K 2025-03-11 CY2024Q2I
+dei EntityPublicFloat 2025-06-30 3580200000 10-K 2026-03-02 CY2025Q2I

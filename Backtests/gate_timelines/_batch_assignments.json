@@ -1,0 +1,991 @@
+{
+ "A": [
+  {
+   "ticker": "AFL",
+   "anchors": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "GL",
+   "anchors": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019"
+   ]
+  },
+  {
+   "ticker": "GPS",
+   "anchors": [
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "KSS",
+   "anchors": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "PNC",
+   "anchors": [
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "ELV",
+   "anchors": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017"
+   ]
+  },
+  {
+   "ticker": "FITB",
+   "anchors": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+   ]
+  }
+ ],
+ "B": [
+  {
+   "ticker": "HOG",
+   "anchors": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "IBM",
+   "anchors": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017"
+   ]
+  },
+  {
+   "ticker": "LYB",
+   "anchors": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "M",
+   "anchors": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "OMC",
+   "anchors": [
+    "2013",
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "TRV",
+   "anchors": [
+    "2013",
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "WFC",
+   "anchors": [
+    "2014",
+    "2016",
+    "2017",
+    "2018",
+    "2019"
+   ]
+  }
+ ],
+ "C": [
+  {
+   "ticker": "WMT",
+   "anchors": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017"
+   ]
+  },
+  {
+   "ticker": "ADM",
+   "anchors": [
+    "2013",
+    "2017",
+    "2018",
+    "2019"
+   ]
+  },
+  {
+   "ticker": "BEN",
+   "anchors": [
+    "2016",
+    "2017",
+    "2018",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "COF",
+   "anchors": [
+    "2015",
+    "2016",
+    "2017",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "CPRI",
+   "anchors": [
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "IVZ",
+   "anchors": [
+    "2016",
+    "2018",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "PBI",
+   "anchors": [
+    "2013",
+    "2018",
+    "2019",
+    "2020"
+   ]
+  }
+ ],
+ "D": [
+  {
+   "ticker": "RF",
+   "anchors": [
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "TGT",
+   "anchors": [
+    "2013",
+    "2014",
+    "2017",
+    "2018"
+   ]
+  },
+  {
+   "ticker": "USB",
+   "anchors": [
+    "2016",
+    "2017",
+    "2018",
+    "2019"
+   ]
+  },
+  {
+   "ticker": "VLO",
+   "anchors": [
+    "2016",
+    "2017",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "WU",
+   "anchors": [
+    "2013",
+    "2014",
+    "2015",
+    "2016"
+   ]
+  },
+  {
+   "ticker": "AIZ",
+   "anchors": [
+    "2013",
+    "2014",
+    "2015"
+   ]
+  },
+  {
+   "ticker": "ALL",
+   "anchors": [
+    "2017",
+    "2018",
+    "2019"
+   ]
+  }
+ ],
+ "E": [
+  {
+   "ticker": "APTV",
+   "anchors": [
+    "2016",
+    "2018",
+    "2019"
+   ]
+  },
+  {
+   "ticker": "AXP",
+   "anchors": [
+    "2015",
+    "2016",
+    "2017"
+   ]
+  },
+  {
+   "ticker": "CSCO",
+   "anchors": [
+    "2013",
+    "2014",
+    "2017"
+   ]
+  },
+  {
+   "ticker": "EMN",
+   "anchors": [
+    "2018",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "FOSL",
+   "anchors": [
+    "2015",
+    "2016",
+    "2017"
+   ]
+  },
+  {
+   "ticker": "GLW",
+   "anchors": [
+    "2013",
+    "2014",
+    "2015"
+   ]
+  },
+  {
+   "ticker": "HPQ",
+   "anchors": [
+    "2018",
+    "2019",
+    "2020"
+   ]
+  }
+ ],
+ "F": [
+  {
+   "ticker": "HRB",
+   "anchors": [
+    "2017",
+    "2018",
+    "2019"
+   ]
+  },
+  {
+   "ticker": "INTC",
+   "anchors": [
+    "2015",
+    "2016",
+    "2017"
+   ]
+  },
+  {
+   "ticker": "KR",
+   "anchors": [
+    "2017",
+    "2018",
+    "2019"
+   ]
+  },
+  {
+   "ticker": "PG",
+   "anchors": [
+    "2013",
+    "2014",
+    "2015"
+   ]
+  },
+  {
+   "ticker": "TPR",
+   "anchors": [
+    "2014",
+    "2015",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "UNM",
+   "anchors": [
+    "2018",
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "XOM",
+   "anchors": [
+    "2013",
+    "2014",
+    "2015"
+   ]
+  }
+ ],
+ "G": [
+  {
+   "ticker": "AEP",
+   "anchors": [
+    "2013",
+    "2014"
+   ]
+  },
+  {
+   "ticker": "AET",
+   "anchors": [
+    "2013",
+    "2014"
+   ]
+  },
+  {
+   "ticker": "AZO",
+   "anchors": [
+    "2017",
+    "2018"
+   ]
+  },
+  {
+   "ticker": "BALL",
+   "anchors": [
+    "2013",
+    "2014"
+   ]
+  },
+  {
+   "ticker": "BBWI",
+   "anchors": [
+    "2018",
+    "2019"
+   ]
+  },
+  {
+   "ticker": "BDX",
+   "anchors": [
+    "2013",
+    "2014"
+   ]
+  },
+  {
+   "ticker": "CMI",
+   "anchors": [
+    "2016",
+    "2017"
+   ]
+  }
+ ],
+ "H": [
+  {
+   "ticker": "CSX",
+   "anchors": [
+    "2013",
+    "2016"
+   ]
+  },
+  {
+   "ticker": "DE",
+   "anchors": [
+    "2015",
+    "2016"
+   ]
+  },
+  {
+   "ticker": "DGX",
+   "anchors": [
+    "2013",
+    "2014"
+   ]
+  },
+  {
+   "ticker": "DOV",
+   "anchors": [
+    "2015",
+    "2016"
+   ]
+  },
+  {
+   "ticker": "ED",
+   "anchors": [
+    "2014",
+    "2015"
+   ]
+  },
+  {
+   "ticker": "F",
+   "anchors": [
+    "2015",
+    "2016"
+   ]
+  },
+  {
+   "ticker": "FLR",
+   "anchors": [
+    "2016",
+    "2017"
+   ]
+  }
+ ],
+ "I": [
+  {
+   "ticker": "FLS",
+   "anchors": [
+    "2013",
+    "2015"
+   ]
+  },
+  {
+   "ticker": "FOXA",
+   "anchors": [
+    "2019",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "GT",
+   "anchors": [
+    "2018",
+    "2019"
+   ]
+  },
+  {
+   "ticker": "HUM",
+   "anchors": [
+    "2013",
+    "2014"
+   ]
+  },
+  {
+   "ticker": "JPM",
+   "anchors": [
+    "2016",
+    "2017"
+   ]
+  },
+  {
+   "ticker": "LH",
+   "anchors": [
+    "2013",
+    "2014"
+   ]
+  },
+  {
+   "ticker": "LMT",
+   "anchors": [
+    "2013",
+    "2014"
+   ]
+  }
+ ],
+ "J": [
+  {
+   "ticker": "MCD",
+   "anchors": [
+    "2014",
+    "2015"
+   ]
+  },
+  {
+   "ticker": "MDLZ",
+   "anchors": [
+    "2013",
+    "2014"
+   ]
+  },
+  {
+   "ticker": "NOC",
+   "anchors": [
+    "2014",
+    "2015"
+   ]
+  },
+  {
+   "ticker": "NOV",
+   "anchors": [
+    "2013",
+    "2015"
+   ]
+  },
+  {
+   "ticker": "NSC",
+   "anchors": [
+    "2015",
+    "2016"
+   ]
+  },
+  {
+   "ticker": "PGR",
+   "anchors": [
+    "2014",
+    "2015"
+   ]
+  },
+  {
+   "ticker": "PM",
+   "anchors": [
+    "2014",
+    "2015"
+   ]
+  }
+ ],
+ "K": [
+  {
+   "ticker": "URBN",
+   "anchors": [
+    "2017",
+    "2020"
+   ]
+  },
+  {
+   "ticker": "AMGN",
+   "anchors": [
+    "2013"
+   ]
+  },
+  {
+   "ticker": "BAC",
+   "anchors": [
+    "2020"
+   ]
+  },
+  {
+   "ticker": "BIG",
+   "anchors": [
+    "2018"
+   ]
+  },
+  {
+   "ticker": "BIIB",
+   "anchors": [
+    "2019"
+   ]
+  },
+  {
+   "ticker": "BNY",
+   "anchors": [
+    "2019"
+   ]
+  },
+  {
+   "ticker": "BWA",
+   "anchors": [
+    "2016"
+   ]
+  }
+ ],
+ "L": [
+  {
+   "ticker": "CAT",
+   "anchors": [
+    "2015"
+   ]
+  },
+  {
+   "ticker": "CB",
+   "anchors": [
+    "2014"
+   ]
+  },
+  {
+   "ticker": "CI",
+   "anchors": [
+    "2014"
+   ]
+  },
+  {
+   "ticker": "CLX",
+   "anchors": [
+    "2014"
+   ]
+  },
+  {
+   "ticker": "CMCSA",
+   "anchors": [
+    "2018"
+   ]
+  },
+  {
+   "ticker": "COP",
+   "anchors": [
+    "2014"
+   ]
+  },
+  {
+   "ticker": "CPB",
+   "anchors": [
+    "2013"
+   ]
+  }
+ ],
+ "M": [
+  {
+   "ticker": "CVS",
+   "anchors": [
+    "2018"
+   ]
+  },
+  {
+   "ticker": "EMR",
+   "anchors": [
+    "2015"
+   ]
+  },
+  {
+   "ticker": "ETN",
+   "anchors": [
+    "2018"
+   ]
+  },
+  {
+   "ticker": "FCX",
+   "anchors": [
+    "2014"
+   ]
+  },
+  {
+   "ticker": "GD",
+   "anchors": [
+    "2020"
+   ]
+  },
+  {
+   "ticker": "GILD",
+   "anchors": [
+    "2019"
+   ]
+  },
+  {
+   "ticker": "GRMN",
+   "anchors": [
+    "2013"
+   ]
+  }
+ ],
+ "N": [
+  {
+   "ticker": "GWW",
+   "anchors": [
+    "2017"
+   ]
+  },
+  {
+   "ticker": "HAL",
+   "anchors": [
+    "2015"
+   ]
+  },
+  {
+   "ticker": "HAS",
+   "anchors": [
+    "2013"
+   ]
+  },
+  {
+   "ticker": "HBAN",
+   "anchors": [
+    "2020"
+   ]
+  },
+  {
+   "ticker": "HST",
+   "anchors": [
+    "2020"
+   ]
+  },
+  {
+   "ticker": "KEY",
+   "anchors": [
+    "2016"
+   ]
+  },
+  {
+   "ticker": "KIM",
+   "anchors": [
+    "2020"
+   ]
+  }
+ ],
+ "O": [
+  {
+   "ticker": "LEN",
+   "anchors": [
+    "2019"
+   ]
+  },
+  {
+   "ticker": "LLY",
+   "anchors": [
+    "2014"
+   ]
+  },
+  {
+   "ticker": "LUV",
+   "anchors": [
+    "2020"
+   ]
+  },
+  {
+   "ticker": "MAT",
+   "anchors": [
+    "2015"
+   ]
+  },
+  {
+   "ticker": "MO",
+   "anchors": [
+    "2019"
+   ]
+  },
+  {
+   "ticker": "MOS",
+   "anchors": [
+    "2016"
+   ]
+  },
+  {
+   "ticker": "MPC",
+   "anchors": [
+    "2016"
+   ]
+  }
+ ],
+ "P": [
+  {
+   "ticker": "MSFT",
+   "anchors": [
+    "2013"
+   ]
+  },
+  {
+   "ticker": "MSI",
+   "anchors": [
+    "2015"
+   ]
+  },
+  {
+   "ticker": "MTB",
+   "anchors": [
+    "2020"
+   ]
+  },
+  {
+   "ticker": "NDAQ",
+   "anchors": [
+    "2013"
+   ]
+  },
+  {
+   "ticker": "NEE",
+   "anchors": [
+    "2013"
+   ]
+  },
+  {
+   "ticker": "NTAP",
+   "anchors": [
+    "2015"
+   ]
+  },
+  {
+   "ticker": "ORCL",
+   "anchors": [
+    "2015"
+   ]
+  }
+ ],
+ "Q": [
+  {
+   "ticker": "PDCO",
+   "anchors": [
+    "2018"
+   ]
+  },
+  {
+   "ticker": "PH",
+   "anchors": [
+    "2016"
+   ]
+  },
+  {
+   "ticker": "PHM",
+   "anchors": [
+    "2018"
+   ]
+  },
+  {
+   "ticker": "PSX",
+   "anchors": [
+    "2016"
+   ]
+  },
+  {
+   "ticker": "QCOM",
+   "anchors": [
+    "2017"
+   ]
+  },
+  {
+   "ticker": "RTX",
+   "anchors": [
+    "2017"
+   ]
+  },
+  {
+   "ticker": "SLM",
+   "anchors": [
+    "2016"
+   ]
+  }
+ ],
+ "R": [
+  {
+   "ticker": "STT",
+   "anchors": [
+    "2019"
+   ]
+  },
+  {
+   "ticker": "STX",
+   "anchors": [
+    "2016"
+   ]
+  },
+  {
+   "ticker": "TAP",
+   "anchors": [
+    "2013"
+   ]
+  },
+  {
+   "ticker": "TDC",
+   "anchors": [
+    "2015"
+   ]
+  },
+  {
+   "ticker": "TEL",
+   "anchors": [
+    "2019"
+   ]
+  },
+  {
+   "ticker": "TFC",
+   "anchors": [
+    "2019"
+   ]
+  },
+  {
+   "ticker": "TGNA",
+   "anchors": [
+    "2018"
+   ]
+  }
+ ],
+ "S": [
+  {
+   "ticker": "TROW",
+   "anchors": [
+    "2017"
+   ]
+  },
+  {
+   "ticker": "UNH",
+   "anchors": [
+    "2014"
+   ]
+  },
+  {
+   "ticker": "WDC",
+   "anchors": [
+    "2016"
+   ]
+  },
+  {
+   "ticker": "XRX",
+   "anchors": [
+    "2015"
+   ]
+  },
+  {
+   "ticker": "ZBH",
+   "anchors": [
+    "2013"
+   ]
+  }
+ ]
+}

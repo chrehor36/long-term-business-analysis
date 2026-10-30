@@ -1,0 +1,41 @@
+# The dispatcher's batch for tools/v5_rerun_fold.py; every figure is copied from the run file and the analyst's reply.
+import json
+name = ("Alliant Energy Corporation; Nasdaq LNT, SEC CIK 0000352541, 10-K filer; a regulated utility holding company in Madison, Wisconsin, "
+"electric and gas service to about 1,010,000 electric and 435,000 gas customers through IPL (Iowa) and WPL (Wisconsin), with a 16% interest in ATC under AEF; "
+"IPL left its steam business after 2025-12-31; no rename, merger, spin-off or split in the 8-Ks since June 2025; the 10-K names no SEC-filing rival, "
+"WEC Energy, MGE Energy and Xcel Energy chosen as a CONVENTION of the run")
+entry = ("Price **$68.32** (close 2026-10-16, `tools/run.py` quote source, aggregator, flagged). Shares 259,284,699 outstanding at 2026-06-30 (10-Q 0000352541-26-000043, `Screens/cover_shares.py`), "
+"no treasury line, no later filing changing the count; 25.58M shares sold forward for $1,737M and not yet issued (10-Q Note 5), shown beside. "
+"Sovereign **5.43%**, the US Treasury 30-year par yield (issuing authority), the earnings currency being the US dollar. "
+"Read from the 10-K for 2025 (0000352541-26-000007), the Q2 2026 10-Q, the 2026 proxy (0000352541-26-000025), the Q2 2026 release (8-K 0000352541-26-000042), the 8-K of 2026-08-21, "
+"the 10-Ks for 2022 and 2019 for the earlier cycle, and the XBRL balance sheets 2016 to 2025, 2025 and 2024 checked to the filed statements. "
+"Lines of evidence derived by the analyst from Items 1, 1A and 7, stated in the run file. "
+"**Q1 IN**: two rate-regulated, obligation-to-serve utilities; customers cannot choose their supplier; authorized equity returns 9.34% to 12.23% at IPL and 9.80% at WPL, with earnings sharing above them. "
+"**Q2 IN**: a legal franchise money cannot attack, its ordinary regulated return carried to Q3 as the regulated exception; return on equity 10.0% to 11.9% every year 2017 to 2025; "
+"comparators WEC, MGE and Xcel (named in the 10-K as West Riverside co-owners, and Xcel) all 9.4% to 13.0%, Alliant in the middle; MidAmerican flagged, not read; the compact risk carried to Q9. "
+"**Q3 weighs against**: about 6.8% (2020) and 6.5% (2025) on capital before interest after tax, about 5.9% on the capital added 2020 to 2025 against the 5.43% Treasury; debt 56% to 62% of capital. "
+"**Q4 no STOP, weighs against**: $453M to $628M a year of sold-receivable collections booked in investing and recast into operating cash (`tools/run.py` misses this, its owner-earnings columns wrong for the name); "
+"no goodwill; regulatory assets $2.27B, about 31% of equity; EPS guidance reaffirmed each quarter and an adjusted EPS featured beside GAAP. "
+"**Q5 integrity IN, ability weighs for, modestly**: no restatement, investigation or proceeding of note, Deloitte since 2002; the CEO owns about $2.3M of stock against $9.0M of 2025 pay; the WPL solar program about $205M over estimate. "
+"**Q6 weighs against on both parts**, no acquisition or all-stock deal: a dividend payout set at 60% to 70% of earnings and refinanced by standing issuance (shares 227.69M in January 2017 to 259.28M, about 25% up counting the forward sales, up to $2.4B more planned); "
+"the bonus 70% on adjusted EPS, pay on earnings growth and capacity installed with no capital charge. "
+"**Q7 OUT**: owner cash 2021 to 2025 with depreciation as maintenance, central by (e), **$969M a year all-equity** (interest added back at the 21% federal rate, a CONVENTION of the run), $670M equity only; "
+"after all spending negative every year 2017 to 2025 (-$154M all-equity, -$453M equity); shown growth 20.50% a year cut by (f) to the 4.42% sales growth; net debt $12,283M; "
+"value range **$17.87 to $21.48 a share all-equity** (equity-only $34.97 to $47.59), the growth case the bottom because the growth bought is worth less than its cost; expected return 3.23% to 3.60% at the price, 4.65% in a case the text does not admit; "
+"fair price **-$16.69 all-equity, not positive** (-$9.09 with the forward stock settled), **$17.10 equity-only**. "
+"Contamination declared by the analyst: AQN commit subjects in the opening git log, AYI and ARCB research folders in the status listing, a memory-index line; a filter of `Test Runs/` names on LNT and Alliant before any fetch, which returned nothing; none used. "
+"Write-early departures declared: Q3 with Q4 and Q5 with Q6 committed together; the Q7 script first run while Q1 to Q4 were open, then headed COMPUTATION, NOT A CLEARANCE. "
+"Commits caed2750 (template), 4f8e8974 (Step 0, Q1), 662d8b83 (Q2), 1246fe32 (Q3 with Q4), fcc59194 (Q5 with Q6), c4b0a909 (Q7, after the stop, self-audit, notes). "
+"Position note filled at the fold: not held. Citations: the analyst's check 66 ids, 58 fragments, no problem; the dispatcher's `dispatcher_check.py` no E-id, no missing id, 79 quoted fragments within reach of an id, 12 flagged by the parser and read by hand "
+"as quotations from filings or framework wording attributed to the framework, the row's own fragment verified beside each, **no citation slip**. No tracked research file over 200 KB. check_framework PASS. "
+"**For the operator** (the analyst's framework notes): (1) specific (e) against (f), which wins when the cap cuts growth while its full spending is still charged; "
+"(2) the all-equity basis at a 10% floor values any leveraged regulated utility below its debt at any price; (3) section E's tax specific does not fit tax credits the commissions pass to customers. "
+"Not armed: all-equity fair not positive and no organic-pair figure. Could not get: MidAmerican's figures, WEC's 2018 equity, the 10-Q's own finance-lease figure (the 10-K's $190M used).")
+narr = ("OUT at Q7, on the floor and above the top of the range (Alliant Energy Corporation, Nasdaq LNT; regulated electric and gas utilities IPL in Iowa and WPL in Wisconsin; "
+"Q1 IN; Q2 IN as the regulated exception, return on equity 10.0% to 11.9% every year 2017 to 2025 beside WEC, MGE and Xcel; Q3 against, about 5.9% on added capital; Q4 no STOP, against, sold-receivable collections recast; "
+"Q5 integrity IN, ability for, modestly; Q6 against, ratio dividend refinanced by standing issuance; owner cash $969M a year all-equity after maintenance, negative after all spending every year; "
+"value range $17.87 to $21.48 all-equity at $68.32, fair -$16.69 all-equity, not positive, $17.10 equity-only; no citation slip; not held; not armed; "
+"framework gaps for the operator: (e) against (f), the all-equity floor at a leveraged utility, pass-through tax credits)")
+b = {"batch": "overnight 2026-10-18", "date": "2026-10-18", "runs": [{"t": "LNT", "name": name, "file": "2026-10-18 Run - LNT Alliant Energy.md",
+     "box": "OUT AT Q7, ON THE FLOOR AND ABOVE THE TOP OF THE RANGE", "entry": entry, "narr": narr, "fair": None, "fair_label": ""}]}
+json.dump(b, open(r"C:\Users\chreh\OneDrive\Documents\BRK\Test Runs\_research 2026-10-18 LNT\batch.json", "w", encoding="utf-8"), indent=1, ensure_ascii=False)

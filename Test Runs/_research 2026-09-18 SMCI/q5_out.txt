@@ -1,0 +1,25 @@
+cap common 26508.6  cap with preferred at min conversion 31781.7
+5y convention, capex end                           common    OE  -1790.9  yield  -6.76%  vs sov -12.05  growth to 10%: refused (negative base)
+5y convention, capex end                           with pref OE  -1790.9  yield  -5.63%  vs sov -10.92  growth to 10%: refused (negative base)
+5y convention, D&A end                             common    OE  -1730.2  yield  -6.53%  vs sov -11.82  growth to 10%: refused (negative base)
+5y convention, D&A end                             with pref OE  -1730.2  yield  -5.44%  vs sov -10.73  growth to 10%: refused (negative base)
+FY2026 convention, capex end                       common    OE  -7384.0  yield -27.86%  vs sov -33.15  growth to 10%: refused (negative base)
+FY2026 convention, capex end                       with pref OE  -7384.0  yield -23.23%  vs sov -28.52  growth to 10%: refused (negative base)
+5y before WC build, less write-downs, capex end    common    OE    919.3  yield   3.47%  vs sov  -1.82  growth to 10%: 6.3%
+5y before WC build, less write-downs, capex end    with pref OE    919.3  yield   2.89%  vs sov  -2.40  growth to 10%: 6.9%
+5y same, D&A end                                   common    OE    980.0  yield   3.70%  vs sov  -1.59  growth to 10%: 6.1%
+5y same, D&A end                                   with pref OE    980.0  yield   3.08%  vs sov  -2.21  growth to 10%: 6.7%
+3y same, capex end                                 common    OE   1271.6  yield   4.80%  vs sov  -0.49  growth to 10%: 5.0%
+3y same, capex end                                 with pref OE   1271.6  yield   4.00%  vs sov  -1.29  growth to 10%: 5.8%
+FY2026 same, capex end                             common    OE   2076.2  yield   7.83%  vs sov  +2.54  growth to 10%: 2.0%
+FY2026 same, capex end                             with pref OE   2076.2  yield   6.53%  vs sov  +1.24  growth to 10%: 3.3%
+FY2026 same, D&A end                               common    OE   2184.5  yield   8.24%  vs sov  +2.95  growth to 10%: 1.6%
+FY2026 same, D&A end                               with pref OE   2184.5  yield   6.87%  vs sov  +1.58  growth to 10%: 2.9%
+10y same, capex end                                common    OE    489.4  yield   1.85%  vs sov  -3.44  growth to 10%: 8.0%
+10y same, capex end                                with pref OE    489.4  yield   1.54%  vs sov  -3.75  growth to 10%: 8.3%
+value per share (OE/(0.10-g)) over common + minimum preferred conversion:
+5y display {0.03: 16.7, 0.05: 23.3, 0.07: 38.9}
+FY2026 display {0.03: 37.7, 0.05: 52.7, 0.07: 87.9}
+3y display {0.03: 23.1, 0.05: 32.3, 0.07: 53.8}
+guided NI annualised 2652  on cap w/pref 8.35%
+guided NI annualised 2920  on cap w/pref 9.19%

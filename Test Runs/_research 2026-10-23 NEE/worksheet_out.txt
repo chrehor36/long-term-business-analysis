@@ -1,0 +1,84 @@
+== PARTS: five-year net income attributable to NEE (CODM measure, Note 16)
+FPL 21014  NEER 9716  Corp&Other -1919  total 28811  FPL share of total 72.9%, of segments 68.4%
+NEER five-year NI attributable 9716, of which HLBV loss allocated to noncontrolling interests 5426 (56%)
+NEER net income before that allocation: [-147, -616, 2530, 1051, 1472]
+
+== Q3: FPL return on average book equity
+2021: NI 3206 / avg equity 31411 = 10.2%
+2022: NI 3701 / avg equity 36257 = 10.2%
+2023: NI 4552 / avg equity 38878 = 11.7%
+2024: NI 4543 / avg equity 40956 = 11.1%
+2025: NI 5012 / avg equity 45031 = 11.1%
+five-year: 10.9%
+FPL capex+nuclear fuel 43304 vs D&A 15355 (+reserve amort 1691) over 2021-25; ratio 2.54x
+FPL net cash to NEE (dividends less contributions) 2021-25: 3160
+
+== NEER + Corporate (NEE less FPL)
+OCF [2195, 3368, 3005, 4754, 3952] avg 3455; D&A [1658, 1808, 2090, 2635, 2802] avg 2199; interest paid [737, 668, 1429, 1594, 2276] avg 1341
+spending (NEER investments + nuclear fuel + other) [8510, 10098, 15713, 16515, 15671] avg 13301; asset sales avg 1996
+OCF + after-tax interest: [2777, 3896, 4134, 6013, 5750]; change 2021->2025 2973; less change in D&A 1144 = 1829 on net growth spending 44710 over 2021-25 = 4.1%
+
+== Q4/Q7 owner cash, consolidated, by year
+2021: OCF 7553 - all capital spending 16077 = -8524; + asset/business sales 2761 = -5763; dividends paid 3024; equity issued 14
+2022: OCF 8262 - all capital spending 19283 = -11021; + asset/business sales 1564 = -9457; dividends paid 3352; equity issued 1460
+2023: OCF 11301 - all capital spending 25113 = -13812; + asset/business sales 2807 = -11005; dividends paid 3782; equity issued 4514
+2024: OCF 13260 - all capital spending 24729 = -11469; + asset/business sales 2659 = -8810; dividends paid 4235; equity issued 48
+2025: OCF 12485 - all capital spending 24606 = -12121; + asset/business sales 1115 = -11006; dividends paid 4680; equity issued 2038
+
+== Q7 COMPUTATION, NOT A CLEARANCE
+FPL maintenance guess (D&A + reserve amortization added back + nuclear fuel) [2854, 2927, 4114, 3377, 4587] avg 3572
+FPL owner cash after maintenance only [2504, 1967, 4182, 5129, 3946] avg 3546; growth 2021->25 0.12041957824997684
+FPL net LTD raised [1284, 2501, 4130, 1484, 1964] (sum 11363), cap at 40.4% of spending [3058, 3711, 3798, 3318, 3610], credit [1284, 2501, 3797.6000000000004, 1484, 1964]
+FPL owner cash, all spending, debt credited (+FCG sale) [-928, -1790, 3617.6000000000004, 1776, 1562] avg 848; without credit [-2212, -4291, -180, 292, -402] avg -1359
+FPL growth spending net of the debt credit, avg 2698
+NEER+Corp maintenance guess (D&A + nuclear fuel) [1774, 1913, 2177, 2812, 3139] avg 2363
+NEER+Corp all-equity owner cash after maintenance only [884, 1662, 1743, 2323, 1910] avg 1704; growth 2021->25 0.21232567871237684
+NEER+Corp all-equity owner cash, all spending, sales and tax-equity proceeds credited [-193, -659, -7026, -6326, -6046] avg -4050; without tax-equity proceeds [-2972, -4817, -9771, -8583, -9322] avg -7093
+NEER+Corp growth spending net of sales and tax-equity proceeds, avg 5899
+
+market cap 171,769; NEE debt 113,932 cash 5,579 net 108,353 (2026-09-30); FPL net debt 29,701 (2026-09-30); NEER+Corp net debt by difference 78,652; NCI (book, 2026-09-30) 10,719 (VIE) of total; EV 280,122
+shown growth of maintenance-only owner cash: FPL 6.8%, NEER+Corp 21.2%
+
+-- at the long government rate 5.29%
+no-growth (maintenance only): FPL equity 67,025 + NEER/Corp equity -46,432 = 20,592 -> $9.82/sh
+growth case (growth spending charged): FPL 94,987 + NEER/Corp 48,516 = 143,504 -> $68.42/sh
+
+-- at ten percent (fair-price convention)
+no-growth (maintenance only): FPL equity 35,456 + NEER/Corp equity -61,608 = -26,152 -> $-12.47/sh
+growth case (growth spending charged): FPL 40,010 + NEER/Corp -39,590 = 420 -> $0.20/sh
+
+BESIDE, whole-company equity-only owner cash after maintenance only [2806, 3101, 4796, 6193, 4058] avg 4191; no growth at 5.29%: 79,221 -> $37.77/sh; at 10%: $19.98/sh
+BESIDE, whole-company equity-only, all spending, sales, tax-equity proceeds and FPL debt credit [-1819, -3119, -4676, -5947, -6467] avg -4406
+BESIDE, whole-company all-equity owner cash after maintenance only avg 5992; no growth at 5.29% less net debt: 4,914 -> $2.34/sh; at 10%: $-23.09/sh
+
+FLOOR TEST: equity-only maintenance-only owner cash avg 4191 / market cap 171,769 = 2.44% (no growth)
+sum-of-parts owner cash for the equity: FPL 3546 + NEER/Corp 1704 less after-tax interest on NEER/Corp net debt is not netted here
+rate at which the growth case equals the market cap: 4.87%
+rate at which the no-growth case equals the market cap: 2.10%
+
+FAIR PRICE (central basis as read): $-6.13
+whole-company equity-only, growth 9.7%: ends at 10% $19.98 and $13.84; fair $16.91
+whole-company all-equity, growth 15.4%: ends at 10% $-23.09 and $0.21; fair $-11.44
+whole-company equity-only range at 5.29%: $37.77 (no growth) and $50.69 (growth)
+whole-company all-equity range at 5.29%: $2.34 (no growth) and $92.80 (growth)
+
+===== Q7 AS REPORTED IN THE RUN FILE =====
+cost-recovery-clause swing in OCF [-599, -1465, 1104, 1016, -89], five-year sum -33 (nets out over the window)
+equity-only owner cash after maintenance only [2806, 3101, 4796, 6193, 4058] avg 4191; literal growth 9.7%
+same, clause timing removed (growth rate only) [3405, 4566, 3692, 5177, 4147] growth 5.1%
+growth spending charged in the growth case (FPL net of debt credit 2698 + NEER/Corp net of sales and tax-equity proceeds 5899) = 8597
+CENTRAL equity-only @ 5.29%: no growth $37.77; growth (5.1%) $25.45; literal-window growth (9.7%) $50.69
+CENTRAL equity-only @ 10%: no growth $19.98; growth (5.1%) $3.07; literal-window growth (9.7%) $13.84
+FAIR PRICE, central equity-only: $11.53
+expected return at the price: no-growth 2.44%; growth case 2.66%; growth case with no growth spending charged at all (not allowed by (e), shown as the outer bound) 3.74%
+all-spending equity-only owner cash [-1819, -3119, -4676, -5947, -6467] avg -4406: negative in every year; no range on it
+cap (f): year-10 owner cash 6860; highest owner-cash share of sales in window 25.0%; sales growth 12.6% -> year-10 sales 89593, share needed 7.7%
+BESIDE sum-of-parts @ 5.29%: no growth $9.82; growth $68.42
+BESIDE sum-of-parts @ 10%: no growth $-12.47; growth $0.20
+BESIDE sum-of-parts fair $-6.13
+BESIDE all-equity @ 5.29%: no growth $2.34; growth (5.1%, all growth spending charged, no debt credit) $-9.87
+BESIDE all-equity @ 10%: no growth $-23.09; growth (5.1%, all growth spending charged, no debt credit) $-42.91
+BESIDE all-equity fair $-33.00
+BESIDE combined with Dominion @ 5.29%, no growth, maintenance only: $44.62/sh (Dominion owner cash avg 2563, NEE 4191)
+BESIDE combined with Dominion @ 10%, no growth, maintenance only: $23.25/sh (Dominion owner cash avg 2563, NEE 4191)
+NEE price/maintenance owner cash: 41.0x; deal value given (716M x $81.90 + $360M) 59,000 / Dominion maintenance owner cash 2563 = 23.0x

@@ -1,0 +1,84 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+--- page 8
+Wison Engineering Services Co. Ltd. Annual Report 2025
+Financial               Summary
+For the year ended 31 December
+2025          2024          2023          2022          2021
+RMB’000        RMB’000       RMB’000       RMB’000       RMB’000
+Results
+Revenue                      7,604,649       5,647,335      3,842,719     4,658,780      6,279,549
+Gross profit                    607,187        445,216       227,202      (208,300)       458,797
+Profit/(loss) before tax           181,750       146,016       (202,369)     (1,175,466)      (66,985)
+Income tax (expense)/
+  credit                       (36,349)       (11,343)        3,991        (21,920)      (25,854)
+Profit/(loss) for the year          145,401        134,673       (198,378)    (1,197,386)      (92,839)
+Attributable to:
+Owners of the parent            142,392        141,626       (196,122)    (1,185,486)      (92,611)
+Non-controlling interests          3,009         (6,953)       (2,256)      (11,900)         (228)
+E arnings/(loss) per share
+(RMB cents)
+– Basic                           3.50          3.48          (4.81)       (29.10)        (2.27)
+– Diluted                         3.49          3.48          (4.81)       (29.10)        (2.27)
+6
+--- page 9
+Wison Engineering Services Co. Ltd. Annual Report 2025
+Financial      Summary
+As at 31 December
+2025          2024          2023          2022          2021
+RMB’000        RMB’000       RMB’000       RMB’000       RMB’000
+Assets and liabilities
+Non-current assets            4,197,851      4,018,919     3,982,940      4,037,489      4,135,517
+Current assets                5,929,813      8,275,207      5,476,777     4,906,056      5,962,904
+Current liabilities            5,863,773      7,544,637     5,188,260      4,797,821     5,714,899
+Net current assets               66,040        730,570        288,517       108,235       248,005
+Total assets less current
+  liabilities                 4,263,891      4,749,489      4,271,457     4,145,724      4,383,522
+Non-current liabilities       1,406,257      2,096,226      1,822,674      1,570,123       736,483
+Net assets                    2,857,634      2,653,263     2,448,783      2,575,601     3,647,039
+Share capital                   30,578        330,578       330,578       330,578       330,578
+Reserves                     2,549,223      2,344,346      2,132,913     2,257,475      3,317,013
+Non-controlling interests        (18,652)       (21,661)      (14,708)       (12,452)         (552)
+Total equity                  2,857,634      2,653,263     2,448,783      2,575,601     3,647,039
+7
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+--- page 8
+Wison Engineering Services Co. Ltd. Annual Report 2020
+Financial               Summary
+For the year ended 31 December
+2020          2019          2018          2017          2016
+RMB’000        RMB’000       RMB’000       RMB’000       RMB’000
+(Restated)
+Results
+Revenue                      5,296,064       4,367,271     3,256,478      4,124,790      3,041,877
+Gross profit                    301,202       408,227       498,872        861,158       931,233
+(Loss)/profit before tax          (283,820)        89,775        72,739       229,124        121,217
+Income tax credit/
+  (expenses)                    12,309        (39,217)      (12,786)      (63,405)      (98,822)
+(Loss)/profit for the year          (271,511)       50,558        59,953        165,719        22,395
+Attributable to:
+Owners of the parent            (271,238)       50,609         56,301       138,306         15,179
+Non-controlling interests           (273)           (51)        3,652        27,413         7,216
+Earnings per share
+– Basic and diluted            RMB(0.07)       RMB0.01       RMB0.01       RMB0.03       RMB0.00
+6
+--- page 9
+Wison Engineering Services Co. Ltd. Annual Report 2020
+Financial    Summary
+As at 31 December
+2020          2019          2018          2017          2016
+RMB’000        RMB’000       RMB’000       RMB’000       RMB’000
+(Restated)
+Assets and liabilities
+Non-current assets            4,192,588      1,432,965      1,131,114     1,116,712     1,195,846
+Current assets                4,665,778      4,287,999      4,618,231     6,496,159      6,524,839
+Current liabilities           4,639,282      3,456,486      3,988,387      5,229,976      5,532,446
+Net current assets               26,496        831,513       629,844       1,266,183       992,393
+Total assets less current
+  liabilities                4,219,084      2,264,478      1,760,958      2,382,895      2,188,239
+Non-current liabilities         427,340        460,851         11,139        23,513        30,777
+Net assets                    3,791,744      1,803,627      1,749,819     2,359,382      2,157,462
+Share capital                  330,578        330,578       330,299       329,968       329,809
+Reserves                     3,461,490      1,473,100      1,419,520     1,853,056      1,632,560
+Non-controlling interests           (324)           (51)           –       176,358       195,093
+Total equity                  3,791,744      1,803,627      1,749,819     2,359,382      2,157,462
+7

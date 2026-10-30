@@ -1,0 +1,14 @@
+case | $M | yield legal cap | yield economic cap | pts vs 5.34% | perpetual g needed for 10% (economic cap)
+5y FY2021-25, capex end | 3,065 | 0.21% | 0.24% | -5.10 | 9.74%
+5y FY2021-25, PP&E depreciation end | 8,192 | 0.57% | 0.64% | -4.70 | 9.30%
+3y FY2023-25, capex end | 2,296 | 0.16% | 0.18% | -5.16 | 9.80%
+3y, depreciation end | 7,725 | 0.54% | 0.60% | -4.74 | 9.34%
+TTM to 2026-06-30, capex end | 1,964 | 0.14% | 0.15% | -5.19 | 9.83%
+TTM, depreciation end | 9,447 | 0.66% | 0.74% | -4.60 | 9.20%
+5y depreciation end LESS regulatory credits (display) | 6,235 | 0.43% | 0.49% | -4.85 | 9.47%
+owner earnings needed today for a 10% yield at the economic cap, no growth: $128434M (15.7x the 5y depreciation end)
+value per economic share = OE/(0.10-g)/3,525.8M:
+capex end 5y g=0%: $9 | g=3%: $12 | g=5%: $17 | g=7%: $29
+dep end 5y g=0%: $23 | g=3%: $33 | g=5%: $46 | g=7%: $77
+years at 15% a year for the dep end to reach $128.4bn: 19.7
+years at 20% a year: 15.1

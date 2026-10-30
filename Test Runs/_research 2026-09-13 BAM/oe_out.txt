@@ -1,0 +1,30 @@
+($M)                                                          FY2023    FY2024    FY2025 TTM_2026-06
+OCF as filed                                                   1,439     1,612     2,101     2,341
++ strip consolidated-fund investment flows                         0       251       467       -49
+= OCF, BAM perimeter (A1)                                      1,439     1,863     2,568     2,292
+- distributions to NCI/redeemable NCI (BN carry, prefs)           42        52       216       281
+CONSERVATIVE: A1 - NCI dist - SBC(note) - D&A                  1,285     1,659     2,065     1,686
+GENEROUS: A1 - NCI dist - SBC(CF) - capex + lookthru           1,326     1,822     2,227     2,020
+FILED-BASIS DISPLAY: OCF - SBC(CF) - D&A (no perimeter adj)     1,392     1,495     1,938     2,149
+SBC (note, total)                                                 98       138       247       273
+SBC (CF add-back)                                                 33       103       123       140
+Distributable Earnings (mgmt, non-GAAP)                        2,244     2,363     2,695     2,837
+Dividends to common, paid                                      2,101     2,478     2,818     3,020
+Buybacks                                                           0         0       412       872
+
+FY2023 SBC/OCF(A1) note 6.8%  CF 2.3% | div/OE cons 164% gen 158% | (div+bb)/A1 146% | DE - A1 = 805
+FY2024 SBC/OCF(A1) note 7.4%  CF 5.5% | div/OE cons 149% gen 136% | (div+bb)/A1 133% | DE - A1 = 500
+FY2025 SBC/OCF(A1) note 9.6%  CF 4.8% | div/OE cons 136% gen 127% | (div+bb)/A1 126% | DE - A1 = 127
+TTM_2026-06 SBC/OCF(A1) note 11.9%  CF 6.1% | div/OE cons 179% gen 150% | (div+bb)/A1 170% | DE - A1 = 545
+conservative 3yr mean 1670 2yr mean 1862 TTM 1686
+generous 3yr mean 1792 2yr mean 2024 TTM 2020
+filed-basis 3yr mean 1608 2yr mean 1716 TTM 2149
+cumulative FY23-25 SBC(note)/OCF(A1) 8.2%
+cap $M 75486
+conservative 3yr yield 2.21%
+conservative 2yr yield 2.47%
+conservative TTM yield 2.23%
+generous 3yr yield 2.37%
+generous 2yr yield 2.68%
+generous TTM yield 2.68%
+DE TTM yield 3.76%

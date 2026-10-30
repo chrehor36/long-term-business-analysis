@@ -1,0 +1,66 @@
+YEAR  UOC   EOC   ACQ   dep-variant(EOC with depreciation for capex)
+2019   294.3   265.3   272.5     nan
+2020   527.0   491.7    58.0     nan
+2021   549.3   523.6   337.1   532.6
+2022   303.2   254.2  1580.9   285.3
+2023   641.6   515.7     0.6   532.2
+2024   778.0   652.8   108.0   666.9
+2025   777.6   709.0   292.1   718.2
+
+window FY2021-FY2025: avg UOC 610.0, avg EOC 531.1, avg acquisitions 463.7
+total growth UOC 9.08%/yr, EOC 7.87%/yr; organic (core sales 2022-2025) 0.62%/yr
+price 52.47, market cap 8376, net debt 1514.2, EV 9890
+
+== CENTRAL: all-equity basis, default pair (acquisitions deducted, total growth credited)
+all-equity, default pair
+   base   146.2  growth  9.08%  whole-business range     2611 to     5365 (width 2.05x)
+   less net debt   1514: per share $  6.87 to $ 24.12 against $52.47
+   fair (midpoint case at the 10% floor): whole     2101, per share $  3.68
+  same, Taco financing added to net debt (beside)
+   base   146.2  growth  9.08%  whole-business range     2611 to     5365 (width 2.05x)
+   less net debt   2939: per share $ -2.06 to $ 15.20 against $52.47
+   fair (midpoint case at the 10% floor): whole     2101, per share $ -5.25
+
+== BESIDE: equity-only basis, default pair (owner cash after interest against market value)
+equity-only, default pair
+   base    67.3  growth  7.87%  whole-business range     1202 to     2246 (width 1.87x)
+   less net debt      0: per share $  7.53 to $ 14.07 against $52.47
+   fair (midpoint case at the 10% floor): whole      916, per share $  5.74
+
+== BESIDE: organic pair (acquisitions left out, only organic growth credited)
+all-equity, organic pair
+   base   610.0  growth  0.62%  whole-business range    10892 to    11441 (width 1.05x)
+   less net debt   1514: per share $ 58.74 to $ 62.18 against $52.47
+   fair (midpoint case at the 10% floor): whole     6230, per share $ 29.54
+  same, Taco financing added (beside)
+   base   610.0  growth  0.62%  whole-business range    10892 to    11441 (width 1.05x)
+   less net debt   2939: per share $ 49.82 to $ 53.26 against $52.47
+   fair (midpoint case at the 10% floor): whole     6230, per share $ 20.62
+equity-only, organic pair
+   base   531.1  growth  0.62%  whole-business range     9483 to     9961 (width 1.05x)
+   less net debt      0: per share $ 59.40 to $ 62.40 against $52.47
+   fair (midpoint case at the 10% floor): whole     5424, per share $ 33.98
+
+== BESIDE: depreciation for capex (all-equity, organic pair)
+all-equity, organic pair, depreciation variant
+   base   625.9  growth  0.62%  whole-business range    11177 to    11740 (width 1.05x)
+   less net debt   1514: per share $ 60.53 to $ 64.06 against $52.47
+   fair (midpoint case at the 10% floor): whole     6394, per share $ 30.57
+
+== BESIDE: seven-year span FY2019-FY2025 (trough 2019, boom 2020-22, fall 2023), not the convention's window
+   avg UOC 553.0, avg acq 378.5; halves 456.9 -> 732.4, growth between halves 12.52%/yr
+all-equity, seven-year, acquisitions deducted
+   base   174.5  growth 12.52%  whole-business range     3117 to     8399 (width 2.69x)
+   less net debt   1514: per share $ 10.04 to $ 43.13 against $52.47
+   fair (midpoint case at the 10% floor): whole     2959, per share $  9.05
+all-equity, seven-year, organic
+   base   553.0  growth  0.62%  whole-business range     9875 to    10373 (width 1.05x)
+   less net debt   1514: per share $ 52.37 to $ 55.49 against $52.47
+   fair (midpoint case at the 10% floor): whole     5649, per share $ 25.90
+
+== TTM to 2026-06-30 (direction only): OCF 814.8-567.7+504.4, capex 68.8-27.7+37.4, SBC 37.0-21.2+19.5
+   equity owner cash TTM 637.7
+
+price implies growth of -1.22%/yr for ten years on the organic base (610.0) at 5.60%
+owner-cash yield at the price, organic base: 6.17% (all-equity); 6.34% (equity-only)
+after acquisitions: 1.48% (all-equity)

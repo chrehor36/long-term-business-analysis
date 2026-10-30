@@ -1,0 +1,25 @@
+{
+ "ticker": "AQN",
+ "name": "Algonquin Power & Utilities",
+ "headline": "A regulated electric, water and gas utility with local monopolies across North America.",
+ "what_short": "Regulated electric, water and gas utilities",
+ "what_it_does": "Algonquin owns regulated electric, water and gas utilities serving about 1,272,000 customer connections in the US, Canada, Bermuda and Chile. It also owns 14 small Canadian hydro plants. It sold its wind and solar business in 2025 and is now mainly a utility holding company.",
+ "why_it_passed": [
+  "Its utilities have geographic monopolies in their service territories, so customers cannot switch to a competitor.",
+  "Rates are set by regulators on a cost-of-service basis, which makes its revenue steady and easy to picture ten years out.",
+  "The business is spread across many states and three kinds of service (electric, water, gas) rather than resting on one.",
+  "No dishonesty was found in its filings."
+ ],
+ "why_not_now": "A regulator caps what a utility may earn, so the price is far above what that capped return justifies. After counting the spending needed just to keep the networks running, the cash left for owners was negative in the analysis's central case, and even the most favourable case valued the shares at no more than about $2.68 at a 10% return, against a price of $5.42.",
+ "watch": [
+  "It carries about $6.6 billion of long-term debt, and spending on its networks has run above its depreciation.",
+  "A pending sale of its Chilean business (about $126.5 million) would be used to pay down debt.",
+  "The analysis noted doubts about how candidly management describes results, and about management's ability."
+ ],
+ "value_low": null,
+ "value_high": null,
+ "utility": true,
+ "run_date": "2026-10-27",
+ "currency": "USD",
+ "no_fair_reason": "After the spending needed to keep its networks running, the cash left for owners was negative in the analysis's central case, so no positive value could be set."
+}

@@ -1,0 +1,83 @@
+fiscal  owner_cash  interest  tax%  unlevered  net_acq  unlev-acq
+2011       2413       373  36.7       2649      100       2549
+2012       2451       425  37.6       2716        0       2716
+2013       3071       477  37.8       3368      203       3165
+2014       3930       516  36.9       4256        0       4256
+2015       3470       552  42.4       3788        0       3788
+2016       4360       645  40.5       4744     2356       2388
+2017       3843      1097  37.2       4532      509       4023
+2018       4945       624  31.8       5370        0       5370
+2019       2714       691  23.9       3240        0       3240
+2020       9103      1908  24.6      10542        0      10542
+2021       8030       885  24.7       8697        0       8697
+2022       6537      1123  28.8       7337        0       7337
+2023       5966      1382  24.1       7015     -100       7115
+2024       7477      1313  24.0       8475     -177       8652
+2025       7404      1406  23.9       8474    10088      -1614
+
+net debt 2026-07-31: 34149  at 2026-01-30: 38569
+
+================ ALL-EQUITY ================
+literal 5-yr window, acquisitions deducted, mean 6037 total growth end-to-end -0.65
+
+LITERAL WINDOW (acq deducted, total growth): base 6,037  g -0.65%
+  range (whole business) 102,423 .. 107,809; per share 121.69 .. 131.29; width 1.05x (per share 1.08x)
+  midpoint 105,116 -> 126.49/sh; midpoint stream growth -0.32%; fair price (stream at 10%) 44.44/sh
+  at $186.0: market value 138,505; year-one cash yield 4.36%
+
+CYCLE BASE fiscal 2019-2025 (acq deducted, growth between cycle averages): base 6,281  g 7.97%
+  range (whole business) 112,164 .. 211,140; per share 139.05 .. 315.46; width 1.88x (per share 2.27x)
+  midpoint 161,652 -> 227.26/sh; midpoint stream growth 4.60%; fair price (stream at 10%) 92.61/sh
+  at $186.0: market value 138,505; year-one cash yield 4.53%
+
+ORGANIC PAIR: cycle base, acquisitions left out, comparable-sales growth fiscal 2019-2025: base 7,683  g 3.51%
+  range (whole business) 137,192 .. 181,331; per share 183.66 .. 262.33; width 1.32x (per share 1.43x)
+  midpoint 159,261 -> 222.99/sh; midpoint stream growth 1.88%; fair price (stream at 10%) 94.75/sh
+  at $186.0: market value 138,505; year-one cash yield 5.55%
+
+================ EQUITY-ONLY ================
+literal 5-yr window, acquisitions deducted, mean 5121 total growth end-to-end -2.01
+
+LITERAL WINDOW (acq deducted, total growth): base 5,121  g -2.01%
+  range (whole equity) 78,016 .. 91,439; per share 139.05 .. 162.98; width 1.17x (per share 1.17x)
+  midpoint 84,728 -> 151.01/sh; midpoint stream growth -0.96%; fair price (stream at 10%) 85.53/sh
+  at $186.0: market value 104,356; year-one cash yield 4.91%
+
+CYCLE BASE fiscal 2019-2025 (acq deducted, growth between cycle averages): base 5,346  g 7.20%
+  range (whole equity) 95,459 .. 169,058; per share 170.14 .. 301.32; width 1.77x (per share 1.77x)
+  midpoint 132,259 -> 235.73/sh; midpoint stream growth 4.11%; fair price (stream at 10%) 126.20/sh
+  at $186.0: market value 104,356; year-one cash yield 5.12%
+
+ORGANIC PAIR: cycle base, acquisitions left out, comparable-sales growth fiscal 2019-2025: base 6,747  g 3.51%
+  range (whole equity) 120,487 .. 159,252; per share 214.75 .. 283.84; width 1.32x (per share 1.32x)
+  midpoint 139,869 -> 249.30/sh; midpoint stream growth 1.88%; fair price (stream at 10%) 136.67/sh
+  at $186.0: market value 104,356; year-one cash yield 6.47%
+
+
+######## STATED CONSTRUCTION ########
+sales cycle averages 60,597 -> 87,342; total sales growth 5.36%
+all-equity, acq deducted: owner cash/sales at cycle 7.19%; uncut growth 7.97% implies x1.28 on owner cash/sales by year ten -> 9.18%
+equity-only, acq deducted: owner cash/sales at cycle 6.12%; uncut growth 7.20% implies x1.19 on owner cash/sales by year ten -> 7.28%
+FBM+ADG on filed record (annualised H1 FY2026, before amortization, after tax): 250
+
+A  DEFAULT PAIR, all-equity: cycle base acq deducted, total growth cut back to total sales growth
+   base 6,281  g 5.36%  net debt 34,149
+   range $139.05 .. $245.15 per share (whole 112,164..171,691); width 1.76x; midpoint $192.10; fair price $76.19; mid-stream g 2.97%
+A' same, growth uncut (before the cut-back, shown only)
+   base 6,281  g 7.97%  net debt 34,149
+   range $139.05 .. $315.46 per share (whole 112,164..211,140); width 2.27x; midpoint $227.26; fair price $92.61; mid-stream g 4.60%
+B  ORGANIC PAIR, all-equity: cycle base acq left out + FBM/ADG filed record, comparable-sales growth
+   base 7,932  g 3.51%  net debt 34,149
+   range $191.60 .. $272.83 per share (whole 141,649..187,222); width 1.42x; midpoint $232.22; fair price $99.80; mid-stream g 1.88%
+L  LITERAL WINDOW fiscal 2021-2025, all-equity, acq left out, growth end to end
+   base 8,000  g -0.65%  net debt 34,149
+   range $181.02 .. $193.74 per share (whole 135,712..142,848); width 1.07x; midpoint $187.38; fair price $78.67; mid-stream g -0.32%
+L' LITERAL WINDOW, all-equity, acq deducted, growth end to end
+   base 6,037  g -0.65%  net debt 34,149
+   range $121.69 .. $131.29 per share (whole 102,423..107,809); width 1.08x; midpoint $126.49; fair price $44.44; mid-stream g -0.32%
+A-eq DEFAULT PAIR, equity-only
+   base 5,346  g 5.36%  net debt 0
+   range $170.14 .. $260.44 per share (whole 95,459..146,121); width 1.53x; midpoint $215.29; fair price $116.64; mid-stream g 2.97%
+B-eq ORGANIC PAIR, equity-only
+   base 6,997  g 3.51%  net debt 0
+   range $222.70 .. $294.34 per share (whole 124,945..165,143); width 1.32x; midpoint $258.52; fair price $141.72; mid-stream g 1.88%

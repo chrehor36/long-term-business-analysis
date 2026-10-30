@@ -1,0 +1,40 @@
+# Fortis (FTS)
+
+> **A North American group of regulated electricity and gas delivery utilities earning steady, regulator-set returns.**
+
+| | |
+|---|---|
+| **Price** | C$80.24 (2026-10-28, market quote) |
+| **Our fair price** | C$27.60 |
+| **Price would need to fall** | 66% |
+| **What we think it is worth** | C$72.41 to C$97.93 a share |
+| **Date analysed** | 2026-10-23 |
+| **Type** | Regulated utility (returns capped by a regulator) |
+
+## What it does
+
+Fortis owns ten regulated utilities in five Canadian provinces, ten US states and Grand Cayman, delivering electricity and gas. About 95% of its assets are power lines and gas pipes for transmission and distribution. Regulators set the prices it may charge.
+
+## Why it passed
+
+- Its utilities are franchises, so customers have no alternative supplier of their power or gas.
+- Regulated assets are virtually all of its assets, and the return on its common equity was a steady 7.1% to 7.7% a year from 2021 to 2025.
+- Added capital earns the allowed return, which the analysis counts as a decent, though not excellent, use of money.
+- Its credit ratings are solid: S&P A- as issuer, and the outlook moved from negative to stable in November 2025.
+
+## Why we are not buying at today's price
+
+A regulator caps what a utility may earn, so the price is far above what that capped return justifies. At C$80.99 a share the cash the business produces is only 3.75% of the price, less than the 4.19% on a long Government of Canada bond, and the analysis's fair price is C$28.96.
+
+## What to watch
+
+- Total debt is C$34.6 billion, with earnings covering interest and preferred dividends only about 1.9 to 2.0 times.
+- The holding company has no revenue of its own and serves its debt from subsidiary dividends.
+- Moody's withdrew its ratings in January 2026 at the company's request.
+
+## The full analysis
+
+[2026-10-23 Run - FTS Fortis.md](../../Test%20Runs/2026-10-23%20Run%20-%20FTS%20Fortis.md), analysed 2026-10-23.
+
+---
+*The fair price is the price at which this business would earn about 10% a year for an owner, on the analysis's own numbers. Reaching it starts a fresh analysis; it is never a buy signal by itself. Not investment advice.*

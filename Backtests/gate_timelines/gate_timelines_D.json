@@ -1,0 +1,249 @@
+{
+ "RF": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Southeast regional bank: spread income on low-cost branch deposits plus fees."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Low-cost Southeast deposit franchise (~1,400 branches) is the only durable edge; no pricing power. Efficiency ~62% 2016-17, ROTCE mid-teens vs USB high-teens. Earnings rate-driven, not franchise-driven."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2014-06",
+    "severity": "DISQUALIFYING",
+    "note": "SEC/Fed/Alabama: managers intentionally misclassified $168M of impaired loans (Q1 2009), understating ALLL and overstating income. $51M; SEC DPA; fraud charges against 3 former execs."
+   },
+   {
+    "date": "2015-04",
+    "severity": "DISQUALIFYING",
+    "note": "CFPB consent order: overdraft fees charged without opt-in and on deposit-advance after disclosing it would not; Bureau found deceptive acts. $7.5M CMP + ~$49M refunds."
+   },
+   {
+    "date": "2016-09",
+    "severity": "DISQUALIFYING",
+    "note": "DOJ/HUD False Claims Act $52.4M; Regions ADMITTED certifying FHA loans that failed underwriting requirements and a non-compliant QC program."
+   }
+  ],
+  "gate5_broken_by": null
+ },
+ "TGT": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Mass-merchant retail; comps, gross margin, turns and store ROIC all transparent."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "'Cheap chic' brand, ~1,800 US stores, ~7% EBIT margin, mid-teens ROIC, but Walmart on price and Amazon on assortment are real substitutes."
+   },
+   {
+    "from": 2014,
+    "class": "NARROW",
+    "note": "Visibly weakening: Canada segment loss ~$941M and Q4 comps -2.5% (2014-02-26); Canada exit + ~$5.4B charge (2015-01-15); margin structure formally reset 2017-02-28, stock -12%."
+   },
+   {
+    "from": 2018,
+    "class": "NARROW",
+    "note": "Stabilized on a permanently lower gross margin: FY2017 Q4 comps +3.6% (2018-03-06), FY2018 comps +5.0%, digital +36% (2019-03-05)."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2013-12",
+    "severity": "SERIOUS",
+    "note": "Payment-card breach broke 2013-12-18, ~40M cards confirmed 2013-12-19; PII of up to 70M more disclosed 2014-01-10. Security failure, not deception."
+   },
+   {
+    "date": "2015-08",
+    "severity": "SERIOUS",
+    "note": "EEOC finding: pre-employment assessments disproportionately screened out applicants by race/sex, one violated the ADA; $2.8M."
+   },
+   {
+    "date": "2017-05",
+    "severity": "SERIOUS",
+    "note": "$18.5M settlement with 47 AGs + DC over the 2013 breach, no admission."
+   }
+  ],
+  "gate5_broken_by": null
+ },
+ "USB": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Large regional bank plus a top-5 payments/merchant-acquiring business; segment disclosure adequate."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "WIDE",
+    "note": "Best-in-class through the cycle: ROA ~1.35-1.5%, efficiency ~54-55%, ROTCE high-teens, on scale deposits plus payments fee streams regional peers lack."
+   },
+   {
+    "from": 2019,
+    "class": "NARROW",
+    "note": "Payments leg stops differentiating: low-single-digit growth in 2019 releases amid Fiserv/First Data (2019-01-16), FIS/Worldpay (2019-03-18), Global Payments/TSYS (2019-05-28) and Square/Stripe; Fed cuts from 2019-07-31 compress NIM."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2014-06",
+    "severity": "SERIOUS",
+    "note": "DOJ False Claims Act $200M for originating/underwriting non-compliant FHA-insured loans."
+   },
+   {
+    "date": "2014-09",
+    "severity": "SERIOUS",
+    "note": "CFPB order: ~420,000 consumers billed for identity-protection add-ons never received; ~$48M redress."
+   },
+   {
+    "date": "2015-10",
+    "severity": "SERIOUS",
+    "note": "OCC consent order: systemic BSA/AML deficiencies, transaction-monitoring gaps, unreported suspicious activity."
+   },
+   {
+    "date": "2018-02",
+    "severity": "DISQUALIFYING",
+    "note": "DOJ DPA, two felony BSA counts: USB ADMITTED capping AML alert volumes to fit staffing and failing to file SARs on a $2B payday-lending laundering scheme. $613M total."
+   }
+  ],
+  "gate5_broken_by": null
+ },
+ "VLO": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Merchant refiner: throughput x crack spread less opex, plus heavy/sour discounts; RIN cost an explicit line."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Cost position, not brand: ~15 refineries/~3 Mbpd, high Nelson complexity, Gulf Coast export docks. Peak evidence in record 2015 results (2016-01-28)."
+   },
+   {
+    "from": 2016,
+    "class": "NARROW",
+    "note": "Thinner: crude-export ban repealed 2015-12-18 closed the domestic feedstock discount; RIN cost guided $750-850M for 2016 (2016-07-26). Complexity/scale/logistics remain but fully cyclical."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2017-05",
+    "severity": "MINOR",
+    "note": "Benicia power-outage/flaring incident; BAAQMD notices of violation, later $345K."
+   },
+   {
+    "date": "2019-03",
+    "severity": "MINOR",
+    "note": "Benicia chemical release; inspection found hazardous-materials management non-compliance."
+   }
+  ],
+  "gate5_broken_by": null
+ },
+ "WU": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Take rate on principal sent, split with agents; simple economics, heavy compliance cost line."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "WIDE",
+    "note": "~500,000 agent locations, dominant brand, ~13-14% global remittance share, mid-20s% operating margins, historically raised prices."
+   },
+   {
+    "from": 2013,
+    "class": "NARROW",
+    "note": "Pricing power visibly ended: 2012-10-30 outlook cut on corridor price reductions, stock -29%. Walmart-2-Walmart (2014-04-17) undercut US domestic by up to 50%; Xoom/PayPal (2015-07-01); TransferWise ~1.5% vs WU ~4.6%. Revenue flat-to-down 2013-2016."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2010-02",
+    "severity": "SERIOUS",
+    "note": "Arizona AG settlement $94M plus an independent Southwest-border AML monitor after a decade-long cartel-transfer investigation."
+   },
+   {
+    "date": "2012-03",
+    "severity": "SERIOUS",
+    "note": "Federal grand jury subpoena; government notified WU it is a TARGET of a structuring/money-laundering investigation. Disclosed in 2012 filings."
+   },
+   {
+    "date": "2013-11",
+    "severity": "SERIOUS",
+    "note": "FTC contempt application over fraud-induced transfers and monitor communications; further CIDs 2014-02."
+   },
+   {
+    "date": "2014-01",
+    "severity": "SERIOUS",
+    "note": "Arizona court extends the AML monitorship, secondary recommendations due 2017-06-30 -- four years on, the program still wasn't fixed."
+   },
+   {
+    "date": "2017-01",
+    "severity": "DISQUALIFYING",
+    "note": "DOJ DPA: WU ADMITTED willfully failing to maintain an effective AML program and aiding and abetting wire fraud (2004-2012); $586M forfeiture. NOTE: after all four WU anchors."
+   }
+  ],
+  "gate5_broken_by": "2016-06"
+ },
+ "AIZ": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "Specialty insurer: lender-placed homeowners, extended warranty/device protection, plus health/benefits until 2015-16. Multi-segment but each line's economics disclosed."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Lender-placed insurance was a near-duopoly with tracking services bundled to servicers, producing structurally low loss ratios no ordinary homeowners writer earned."
+   },
+   {
+    "from": 2013,
+    "class": "NONE",
+    "note": "Regulators removed the pricing mechanism: NYDFS consent order 2013-03-21 imposed a filed 62% permissible loss ratio (a direct margin cap), industry letter 2013-04-05, then CA/FL rate cuts. Q4 2014 results (2015-02) confirmed premium and operating income falling together."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2013-03",
+    "severity": "SERIOUS",
+    "note": "NYDFS consent order: $14M penalty plus restitution and mandated reform of the force-placed program (reverse competition/kickbacks to servicers). No admission."
+   }
+  ],
+  "gate5_broken_by": "2015-02"
+ },
+ "ALL": {
+  "gate1": {
+   "verdict": "PASS",
+   "note": "P&C insurer: premiums, loss/expense ratios, reserve development, investment income on float."
+  },
+  "gate2": [
+   {
+    "from": null,
+    "class": "NARROW",
+    "note": "Brand plus exclusive-agent distribution, but a structural cost disadvantage vs GEICO/Progressive direct; share drifting. Never WIDE in this window."
+   },
+   {
+    "from": 2015,
+    "class": "NARROW",
+    "note": "Discipline lapse then repair: 2015-08-04 Allstate-brand auto combined ratio 101.4 (+6.0 pts yoy), stock -10%, while peers showed no comparable frequency spike. Repaired via rate rises at the cost of policies in force; record 2018 and 2019 results."
+   }
+  ],
+  "gate3": [
+   {
+    "date": "2014-10",
+    "severity": "MINOR",
+    "note": "Maryland Bulletin 14-23 declared price optimization unfairly discriminatory; Allstate's retention-model filing rejected and withdrawn. ~20 states followed."
+   },
+   {
+    "date": "2016-11",
+    "severity": "SERIOUS",
+    "note": "Securities fraud class action (N.D. Ill.) alleging Allstate concealed that the 2014-15 frequency spike came from deliberately loosened underwriting. Unadjudicated at every anchor; settled $90M in 2021-23, post-window."
+   }
+  ],
+  "gate5_broken_by": null
+ }
+}

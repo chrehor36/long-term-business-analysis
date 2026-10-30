@@ -1,0 +1,284 @@
+{
+  "PDCO": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Two-step distribution: buy dental and animal-health consumables and equipment, warehouse them, resell to solo/small dental practices and vet clinics through a field sales force plus an equipment service-technician network. Unit economics are simple and legible (FY2018 sales ~$5.5B on low-single-digit operating margin, working-capital and receivables heavy), so a generalist can explain them even though the two end markets differ."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Real but modest advantages: three distributors (Schein, Patterson, Benco) held >85% of US distributor sales of dental products (FTC, 2018-02-12); Patterson had exclusive US distribution of Sirona CAD/CAM (CEREC) equipment from 2005, expanded by agreement announced 2012; ~1,600 dental sales reps and a captive equipment service network create switching friction for small practices; Animal Health International (acquired 2015-06, ~$1.1B) added vet scale. Economics were never franchise-like: thin operating margins, no pricing power over branded consumables."
+      },
+      {
+        "from": 2018,
+        "class": "NONE",
+        "note": "The exclusivity leg was removed and the share leg cracked. Dentsply Sirona declined to renew the exclusive US technology distribution arrangement; exclusivity ended 2017-09, and Patterson announced replacement non-exclusive lines (3Shape TRIOS scanners and others) in 2017-08/09. On 2018-03-01 Patterson reported FQ3 FY2018 with earnings down 26%, cut FY2018 guidance (GAAP $1.90-2.05 to $1.67-1.77), blamed 'sales force disruption', and disclosed its CFO's departure; the stock fell ~23-24% in one day. The FTC's 2018-02-12 complaint alleges the incumbents' buying-group margins were held by agreement rather than by advantage, which is the opposite of a moat."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2016-02",
+        "severity": "SERIOUS",
+        "note": "Private federal antitrust class action consolidated in E.D.N.Y. (In re Dental Supplies Antitrust Litigation, No. 1:16-cv-00696) alleging Patterson, Henry Schein and Benco conspired to fix dental-supply prices and to boycott lower-cost channels; a related private suit by dental e-commerce entrant SourceOne Dental had already been filed in E.D.N.Y. in 2015. Patterson agreed on 2018-09-28 (post-anchor) to pay $28.3M to settle, without admission."
+      },
+      {
+        "date": "2018-02",
+        "severity": "DISQUALIFYING",
+        "note": "FTC administrative complaint filed 2018-02-12 (Docket 9379) charging Benco, Patterson and Henry Schein with an unlawful horizontal agreement to refuse discounts to, or otherwise compete for, dentist buying groups - i.e. a concealed group boycott among firms holding >85% of the market, not a unilateral abuse-of-dominance theory, which is why this is graded as dishonesty rather than as a pure competition-law matter. At the 2018-06-30 anchor only the complaint existed. Post-anchor: the ALJ's initial decision (announced 2019-10) held Benco and Patterson conspired and that the agreement was a per se violation of Section 5 while dismissing the complaint against Schein; Benco and Patterson declined to appeal in 2019-11, making that decision final, and Patterson settled with the FTC on those terms."
+      },
+      {
+        "date": "2018-03",
+        "severity": "SERIOUS",
+        "note": "Securities class actions filed in D. Minn. beginning 2018-03 after the 2018-03-01 earnings collapse and CFO exit, alleging Patterson made false statements about its antitrust compliance and the sources of its margins for the class period 2013-06-26 to 2018-02-28. Class certified 2021; Patterson agreed to a $63M settlement announced 2022 (post-anchor), without admission. Investor-facing allegation, unproven at the anchor - but it points at the same conduct as the FTC case."
+      },
+      {
+        "date": "2018-04",
+        "severity": "SERIOUS",
+        "note": "Texas Attorney General agreed final judgment announced 2018-04-20, following a three-year state investigation into an alleged joint effort by Patterson, Schein and Benco to thwart the Texas Dental Association's lower-cost online supply venture. Patterson paid $200,000, accepted antitrust training and injunctive terms; no admission of liability. Same boycott conduct as the FTC matter, resolved cheaply and pre-anchor."
+      },
+      {
+        "date": "2018-08",
+        "severity": "SERIOUS",
+        "note": "Post-anchor: grand jury subpoenas to Animal Health International concerning sales of prescription animal-health products to unlicensed locations; Patterson entered a tolling agreement in 2018-08 and disclosed the matter in the 10-Q filed 2018-09 while cooperating with the U.S. Attorney's Office. Regulatory/criminal inquiry into distribution licensing; no charge against Patterson followed at that time."
+      }
+    ],
+    "gate5_broken_by": "2018-03"
+  },
+  "PH": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Engineered motion-and-control components - hydraulics, pneumatics, seals, filtration, instrumentation, aerospace systems - sold largely through ~13,000 independent distributor outlets and to OEMs, with a large replacement/MRO aftermarket. Enormous SKU breadth makes it wide, not opaque: the unit economics (small high-mix parts, price/mix and decremental-margin discipline over a cyclical volume base) are explainable in a paragraph."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Evidence of durable but bounded advantage as of the 2016-06-30 anchor: FY2016 (ended 2016-06-30, reported 2016-08-04) sales fell to $11.36B with Q3 down 11% and Q4 down 6% y/y, yet adjusted segment operating margin held essentially flat at ~14.8% (decremental margin ~17%) - real pricing and cost discipline. Sources of advantage: replacement demand specified into installed industrial equipment, distributor density and same-day parts availability, and aerospace content that is certified and often sole-source with multi-decade aftermarket streams. Bounded by fragmented, capable competition (Eaton, Bosch Rexroth, Danaher, IMI) and mid-cycle ROIC only around 10-12%, with severe end-market cyclicality (oil and gas, mining, ag, construction). Not wide."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2007-05",
+        "severity": "DISQUALIFYING",
+        "note": "Marine hose cartel became public: the EC's 2006-12 leniency application by Yokohama led to surprise inspections and to an FBI-recorded cartel meeting in Houston on 2007-05-02, with Parker ITR's oil-and-gas business unit manager arrested in Houston in 2007-05. The cartel (bid rigging, price fixing, market and customer allocation for marine oil-and-gas hose) ran from at least 1986 to 2007-05. Critical for the discontinuity test: Parker acquired the ITR Rubber marine-hose business in 2002, so roughly five years of the conspiracy ran under Parker ownership - this is not purely predecessor conduct, though the conspiracy began long before Parker bought the unit."
+      },
+      {
+        "date": "2009-01",
+        "severity": "DISQUALIFYING",
+        "note": "European Commission decision of 2009-01-28 fined five groups a total of about EUR 131.5M; Parker ITR was fined about EUR 25.6M with Parker-Hannifin held jointly and severally liable for roughly EUR 8.3M. Later modified on appeal: the General Court (T-146/09, judgment 2013-05-17) cut the fine on economic-continuity/personal-liability grounds; the Court of Justice (C-434/13 P, judgment 2014-12-18) set that judgment aside and remitted the case; on remand in 2016-07 the General Court re-imposed a fine at a level between the two (roughly EUR 19M, with Parker-Hannifin jointly liable for a smaller share). Net: reduced, never annulled."
+      },
+      {
+        "date": "2010-02",
+        "severity": "DISQUALIFYING",
+        "note": "US criminal resolution: DOJ announced on 2010-02-16 that Parker ITR S.r.l. agreed to plead guilty to a one-count felony (S.D. Tex.) for conspiring to rig bids, fix prices and allocate market shares of marine hose from as early as 1999 until as late as 2007-05-02, and to pay a $2.29M criminal fine (US commerce affected at least $15.3M). Investigation ran jointly with DCIS, NCIS and the FBI because the US Navy was among the victims."
+      },
+      {
+        "date": "2014-04",
+        "severity": "DISQUALIFYING",
+        "note": "Romano Pisciotti, a former manager of Parker ITR's Oil & Gas business unit, was extradited from Germany to the United States in 2014-04 (the first successful extradition on a pure antitrust charge) and pleaded guilty in 2014-04 to the marine hose bid-rigging conspiracy, receiving a prison term. Individual conduct, but it kept the cartel record live and public within two years of the 2016 anchor."
+      },
+      {
+        "date": "2017-09",
+        "severity": "SERIOUS",
+        "note": "Post-anchor: DOJ filed an antitrust suit on 2017-09-26 alleging Parker-Hannifin's $4.3B acquisition of CLARCOR (announced 2016-12-01, closed 2017-02-28) created an effective monopoly in EI-qualified aviation ground fuel filtration systems and elements sold to US customers. Settled by consent decree requiring divestiture of the aviation ground fuel filtration business, announced 2017-12-19. Pure competition-law/merger matter, no deception element alleged."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "PHM": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Buy and entitle land, build houses to order or on spec, sell them, and originate the mortgage through a captive finance arm; inventory-heavy, cyclical, and entirely legible to a generalist. Three brands segment the customer (Centex entry-level, Pulte move-up, Del Webb active adult) but the economics are one business."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NONE",
+        "note": "Homebuilding has no pricing power - price is set by local comparable sales and by the buyer's monthly payment, i.e. by mortgage rates. Land is the input and the balance sheet is inventory (~$7B+ of house and land inventory in 2018), so returns swing violently: PulteGroup lost money every year from 2007 through 2011 and earned record profits in 2017-2018. The only durable edges are scale purchasing, land-position access, and the Del Webb active-adult brand (acquired in the 2001 Del Webb merger; Centex added 2009-08-18) - none of which survives a downturn as pricing power. Q2 2018 (reported 2018-07) showed a healthy peak-cycle print, not a moat."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2016-04",
+        "severity": "MINOR",
+        "note": "Governance, not misconduct: founder's grandson Bill Pulte, with Jim Grosfeld, ran a public campaign demanding CEO Richard Dugas's removal (13D and public letters from 2016-03/04; activist counsel Olshan retained 2016-04). Company announced on 2016-04-04 that Dugas would retire at the 2017 annual meeting; on 2016-09-08 the board named Ryan Marshall CEO effective immediately, with Dugas staying as executive chairman until the 2017 meeting. No allegation of dishonesty; a performance and board-composition fight, and Bill Pulte joined the board in 2016."
+      },
+      {
+        "date": "2018-12",
+        "severity": "SERIOUS",
+        "note": "Post-anchor and therefore NOT available at the 2018-06-30 anchor: the Florida Attorney General filed and simultaneously settled an action (complaint dated 2018-12-28, publicly announced 2018-12-31 through 2019-01-05) charging Pulte Home Company under Florida's Unfair and Deceptive Trade Practices Act with building more than 23,000 Florida homes between 2008 and 2016 with improperly installed stucco that did not meet code, failing to disclose those defects to buyers, denying warranty claims without adequate inspection, and withholding deposits. Total package about $78.7M: >$64M of repairs already made during the investigation, >$10M on materials/training, $4.7M homeowner restitution, plus an obligation to repair homes up to 10 years old. Settled without admission, hence SERIOUS - but note the explicit concealment-from-buyers allegation, which is dishonesty in substance. The investigation was opened in 2016 after Orlando-area officials flagged Windermere townhomes and ran roughly two years non-publicly."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "PSX": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Four legible pieces: refine crude and capture the crack spread, move hydrocarbons for fees (midstream/PSXP), sell branded fuel through marketing, and own 50% of Chevron Phillips Chemical. A generalist can explain each; what is hard is forecasting the refining spread, which is a predictability problem rather than an understandability problem."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NONE",
+        "note": "Refining is a price taker on both sides: crude in at market, products out at market, margin set by the crack spread. Phillips 66 ran 100% refinery utilization in Q2 2016 and still saw Q2 2016 earnings fall to $496M from about $1.6B in Q2 2015 (reported 2016-07-29), and full-year earnings fell from $4.2B (2015) to about $1.6B (2016) almost entirely on margin - operational excellence with no pricing power. The genuine cost advantages exist but do not add up to a moat at this anchor: no new US refinery has been permitted since 1977 (an entry barrier that protects capacity, not spreads); Gulf Coast complexity allows advantaged crude runs; and the CPChem JV enjoys a real US ethane feedstock cost advantage (Chemicals contributed $190M in Q2 2016 and was building new Gulf Coast cracker/polyethylene capacity). Fee-based midstream was still too small at 2016-06-30 to carry the whole. Judged honestly: NONE."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2014-07",
+        "severity": "MINOR",
+        "note": "EPA Notice of Violation received 2014-07 alleging flaring-related violations at the Wood River refinery for 2009-2013, followed by a second NOV in 2014-09 alleging a hazardous-air-pollutant violation at Wood River in 2014. Ordinary-course environmental enforcement for a refiner; resolved post-anchor by a proposed Clean Air Act consent decree lodged by DOJ on 2018-08-10 (United States and Illinois v. WRB Refining LP and Phillips 66 Company, S.D. Ill.). Phillips 66's US refineries were already operating under two earlier Clean Air Act consent decrees with EPA, six states and one local air agency."
+      },
+      {
+        "date": "2016-10",
+        "severity": "MINOR",
+        "note": "Voluntary settlement with the Illinois EPA in 2016-10 over alleged wastewater violations at Wood River, after a Sierra Club notice of intent to sue: capital projects plus a $125,000 payment. Small, ordinary course."
+      },
+      {
+        "date": "2017-02",
+        "severity": "MINOR",
+        "note": "Disclosed in the FY2016 10-K (filed 2017-02): the California Air Resources Board issued four Notices of Violation alleging fuel-specification violations at the Los Angeles refinery and Torrance tank farm, with a proposed total penalty of $190,000. Immaterial in dollars; relevant only as a pattern of routine environmental/product-spec non-compliance."
+      },
+      {
+        "date": "2017-04",
+        "severity": "SERIOUS",
+        "note": "Post-anchor: a $39M settlement announced in 2017-04 resolved MTBE groundwater-contamination claims against ConocoPhillips and Phillips 66. Discontinuity flagged - the MTBE conduct predates the 2012-05-01 spin-off of Phillips 66 from ConocoPhillips and occurred under ConocoPhillips/Phillips Petroleum management; the plaintiffs' theory (that the industry marketed a product it knew would contaminate groundwater) has a deception element, so this is graded SERIOUS on predecessor-conduct grounds rather than dismissed as ordinary product liability. No enforcement action alleging fraud, price fixing, or bribery by Phillips 66 as a standalone company was found in the pre-anchor record."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "QCOM": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Two halves that are easy to state: QCT sells Snapdragon baseband/application processors at hardware margins, and QTL licenses the 3G/4G standard-essential patent portfolio at a royalty rate applied to the whole handset selling price, earning ~85% operating margins on almost no incremental cost. The legal architecture holding QTL together is complex, but the unit economics are not."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "As originally underwritable: ownership of CDMA and LTE standard-essential patents that every handset maker must license, royalties charged on the device price rather than the chip price, and simultaneous chipset leadership - a rare combination that produced licensing operating margins near 85% and made QTL the majority of company profit. Barriers: two decades of accumulated SEPs, 3GPP standard participation, and the practical need for licensees to keep chip supply."
+      },
+      {
+        "from": 2015,
+        "class": "WIDE",
+        "note": "First structural concession, visible in reported results: China's NDRC resolution of 2015-02-09 (RMB 6.088B, about $975M) came with a rectification plan under which Qualcomm licensed Chinese device makers on a royalty base of 65% of net device selling price and unbundled portfolios. The royalty rate architecture survived - hence still WIDE - but the precedent that a regulator could reset the base was now on the record, and the EU opened two formal proceedings in 2015-07 (Apple exclusivity payments; alleged predatory pricing of baseband chips), reviving scrutiny that had lapsed when the earlier EU case closed in 2009-11."
+      },
+      {
+        "from": 2017,
+        "class": "NARROW",
+        "note": "By the 2017-06-30 anchor the licensing moat was visibly breached, not merely challenged. KFTC's 2016-12-28 decision (KRW 1.03 trillion, about $854-865M, its largest ever fine on one company) ordered Qualcomm to license SEPs to rival chipmakers and to renegotiate coercive licence terms - a direct attack on the 'no license, no chips' structure. The US FTC sued on 2017-01-17 on the same theory. Apple sued on 2017-01-20 for about $1B of withheld rebates, alleging retaliation for its cooperation with the KFTC, and by 2017-04 Apple's contract manufacturers had stopped paying royalties altogether, which Qualcomm disclosed with reduced guidance in 2017-04. QTL revenue actually fell. The chipset franchise (QCT) remained strong, so NARROW rather than NONE."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2009-07",
+        "severity": "SERIOUS",
+        "note": "KFTC fined Qualcomm about KRW 260B (roughly $208M) in 2009-07 for abuse of dominance through conditional/loyalty rebates favouring buyers of its chipsets. Pure competition-law matter, no deception element. Largely upheld on appeal (Seoul High Court 2013, Korean Supreme Court 2019)."
+      },
+      {
+        "date": "2015-02",
+        "severity": "SERIOUS",
+        "note": "China's NDRC concluded its investigation (opened 2013-11) on 2015-02-09 with a RMB 6.088B fine (about $975M) and a rectification plan changing Qualcomm's Chinese licensing terms. Abuse-of-dominance/licensing matter; Qualcomm did not contest and no deception was alleged - graded SERIOUS, not disqualifying, but it materially reset the economics of the largest handset market."
+      },
+      {
+        "date": "2016-03",
+        "severity": "DISQUALIFYING",
+        "note": "The one genuine dishonesty item in the pre-anchor record, and it is not an antitrust matter: on 2016-03-01 Qualcomm settled SEC FCPA charges for $7.5M (cease-and-desist order plus two years of self-monitoring and self-reporting). The SEC found Qualcomm and its Chinese subsidiary hired relatives of officials at Chinese state-owned telecom customers and provided gifts, travel and entertainment to influence them, and recorded those benefits in its books as legitimate business expenses. Charged under the FCPA's internal-controls and books-and-records provisions rather than the anti-bribery provision; DOJ closed its parallel investigation without action. A later Delaware Caremark suit against the board over the same conduct was dismissed."
+      },
+      {
+        "date": "2016-12",
+        "severity": "SERIOUS",
+        "note": "KFTC decision announced 2016-12-28: KRW 1.03 trillion (about $854-865M) plus corrective orders requiring Qualcomm to license standard-essential patents to competing chipset makers and to renegotiate licences with device makers. Abuse-of-dominance/FRAND matter with no deception element, so SERIOUS - but the corrective orders, not the fine, were the threat to the business model. Post-anchor: the Seoul High Court upheld the core of the decision in 2019-12 and the Korean Supreme Court upheld it on 2023-04-13."
+      },
+      {
+        "date": "2017-01",
+        "severity": "SERIOUS",
+        "note": "FTC sued Qualcomm in N.D. Cal. on 2017-01-17 for monopolization of baseband processor markets ('no license, no chips', refusal to license SEPs to rival chipmakers, exclusivity payments to Apple). Competition-law only; no fraud or deception alleged, and the Commission vote was contested internally (a dissent was filed). Post-anchor: Judge Koh ruled against Qualcomm on 2019-05-21 with a sweeping injunction; the Ninth Circuit reversed and vacated on 2020-08-11, holding Qualcomm's practices were not anticompetitive - a finding fully reversed on appeal."
+      },
+      {
+        "date": "2017-01",
+        "severity": "SERIOUS",
+        "note": "Apple sued Qualcomm on 2017-01-20 (S.D. Cal.) for about $1B in withheld royalty rebates, alleging Qualcomm punished Apple for cooperating with the KFTC; Qualcomm counterclaimed. By 2017-04 Apple had directed its contract manufacturers to stop paying Qualcomm royalties entirely, which Qualcomm disclosed in 2017-04 along with reduced guidance. Commercial and licensing dispute rather than misconduct, but material: it removed the single largest royalty stream while the case ran. Settled 2019-04-16 (post-anchor) with a multi-year licence and a large payment from Apple to Qualcomm."
+      },
+      {
+        "date": "2017-04",
+        "severity": "SERIOUS",
+        "note": "BlackBerry arbitration: interim award announced 2017-04-12 requiring Qualcomm to repay BlackBerry $814,868,350 of royalty overpayments under a licence's non-refundable-cap terms; final award of $940M including interest and fees announced 2017-05-26. Contract-interpretation dispute with no finding of deception, but a near-$1B cash outflow that showed licensees actively litigating the royalty structure."
+      },
+      {
+        "date": "2017-10",
+        "severity": "SERIOUS",
+        "note": "Post-anchor: Taiwan's Fair Trade Commission fined Qualcomm NT$23.4B (about $773M) on 2017-10-11 over the same licensing practices. Substantially reduced on settlement in 2018-08, to roughly NT$2.73B (about $93M) paid, in exchange for Taiwanese investment and cooperation commitments - a clear example of a headline finding later cut by ~88%."
+      },
+      {
+        "date": "2018-01",
+        "severity": "SERIOUS",
+        "note": "Post-anchor EU actions, both later annulled: the European Commission fined Qualcomm EUR 997M on 2018-01-24 over exclusivity payments to Apple, and EUR 242M on 2019-07-18 over alleged predatory pricing of UMTS chipsets. The General Court annulled the EUR 997M decision in full on 2022-06-15 and annulled the EUR 242M decision on 2024-09-18. Worth carrying in the ledger precisely because the regulator lost."
+      }
+    ],
+    "gate5_broken_by": "2017-04"
+  },
+  "RTX": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "ENTITY NOTE: at the 2017-06-30 anchor, SEC CIK 101829 - the filer behind today's ticker RTX - was UNITED TECHNOLOGIES CORPORATION, a diversified industrial running Otis elevators, UTC Climate/Controls/Security (Carrier), Pratt & Whitney engines and UTC Aerospace Systems; it renamed to Raytheon Technologies only on 2020-04-03 after merging with Raytheon Company (a separate filer, CIK 1047122), and to RTX Corp in 2023. This research is UTC as of mid-2017, not the defence contractor Raytheon. On understandability: four coherent installed-base businesses (elevators and HVAC sold once then serviced for decades; engines and aerospace systems sold at low or negative margin then supported through certified spares), each explainable on its own, so PASS - though the conglomerate breadth is a real strike, and management itself conceded the point by announcing a three-way separation on 2018-11-26."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Installed-base annuities with regulatory and switching-cost protection: Pratt & Whitney engines generate 20-30 years of sole-source aftermarket per unit; UTC Aerospace Systems (Hamilton Sundstrand plus Goodrich, acquired 2012-07-26 for about $16.5B) sells certified, often sole-source content where re-qualification cost deters substitution; Otis had roughly two million units under maintenance contract generating high-margin recurring service; Carrier holds brand and dealer-distribution strength. 2016 revenue about $57.2B with mid-teens segment margins; the portfolio was deliberately narrowed by selling Sikorsky to Lockheed Martin on 2015-11-06 for $9.0B."
+      },
+      {
+        "from": 2017,
+        "class": "WIDE",
+        "note": "Still wide, but with two visible strains by the anchor. (1) Otis: new-equipment price competition in China compressed Otis operating profit through 2015 and 2016 and was repeated as a headwind on the 2016 and 2017 quarterly calls - the service book held, the new-equipment franchise did not. (2) Pratt & Whitney: the PW1100G geared-turbofan ramp was margin-dilutive on every early engine delivered, and technical faults were public - combustor distress and No.3 bearing issues in 2016, then a high-pressure-compressor knife-edge seal problem disclosed in 2017-07/08 that delayed A320neo deliveries (an EASA emergency airworthiness directive followed on 2018-02). Execution problems on a still-annuitised franchise, not moat erosion."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2008-08",
+        "severity": "SERIOUS",
+        "note": "Pratt & Whitney F100 defective-pricing False Claims Act case, flagged for management discontinuity - the conduct was a 1983 engine-pricing proposal and 1985-1990 Air Force contracts, decades before the anchor's management. DOJ sued in 1999 (S.D. Ohio) alleging Pratt inflated estimated costs for purchased parts and withheld data that would have revealed the overstatement in the F100-vs-F110 Fighter Engine Competition. On 2008-08-01 the trial court found Pratt violated the FCA through inaccurate statements in the 1983 proposal but found no actual damages, awarding the maximum civil penalty of $7,090,000 ($10,000 x 709 invoices). The Sixth Circuit affirmed liability in 2010-11 and remanded on damages; on remand the court awarded the government $473M (UTC 8-K 2013-06-18), which grew to about $657M with interest; the Sixth Circuit vacated that award on 2015-04-06, and on remand (S.D. Ohio, 2016) the government again failed to prove actual damages. Liability for false statements to the Air Force stands; the nine-figure damages award was reversed."
+      },
+      {
+        "date": "2012-06",
+        "severity": "DISQUALIFYING",
+        "note": "On 2012-06-28 Pratt & Whitney Canada Corp. pleaded guilty to violating the Arms Export Control Act AND to making false statements to the US government, in connection with exporting US-origin military engine-control software (Hamilton Sundstrand modifications) to China in 2002-2005 that was used to develop China's first modern attack helicopter, the Z-10. UTC and Hamilton Sundstrand entered a deferred prosecution agreement; total payments up to $75M (about $20.7M to DOJ, $55M under a State Department consent agreement), with ITAR consequences for PWC. The false-statements count is the disqualifying element: the companies gave the US government inaccurate accounts of the exports for years before self-disclosing."
+      },
+      {
+        "date": "2014-04",
+        "severity": "DISQUALIFYING",
+        "note": "FCPA matter - open and disclosed at the 2017-06-30 anchor, resolved after it. UTC voluntarily reported to DOJ, the SEC and the UK SFO in 2013-12/2014-01 an internal investigation into a non-employee sales representative used for jet-engine sales and aftermarket services in China, and disclosed in its 2014 filings that it had received an SEC subpoena in 2014, with further subpoenas/requests in 2015. Resolution: DOJ notified UTC on 2018-03-07 that it was closing its investigation without action; the SEC issued a cease-and-desist order on 2018-09-12 and UTC paid $13.9M (disgorgement, interest, penalty) for FCPA books-and-records and internal-controls violations covering roughly 2009-2015 - unlawful payments through the IAE joint venture and Pratt & Whitney for engine sales in China, Otis kickbacks on Chinese elevator sales, and payments to Azerbaijani officials for Baku public-housing elevator contracts, plus improper gifts and travel in several other countries. No anti-bribery charge and no criminal case, but the conduct is bribery with misrecorded books, so DISQUALIFYING on the dishonesty test."
+      },
+      {
+        "date": "2018-08",
+        "severity": "MINOR",
+        "note": "Post-anchor: a whistleblower/qui tam suit made public in 2018-08 alleged Pratt & Whitney sold the US government engines assembled through a defective process. Allegation only - no admission or finding at the time - so graded MINOR, but it belongs in the record given the 2008 FCA precedent at the same unit."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "SLM": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "After the 2014-04-30 spin-off of Navient, SLM Corp is essentially Sallie Mae Bank: originate cosigned private student loans to undergraduates at high single-digit yields, fund them with low-cost deposits and brokered CDs, and earn the spread net of a modest credit loss rate. Simple to explain (Q2 2016: portfolio yield 7.98%, NIM 5.84%), though it is a bank and therefore leverage- and regulation-sensitive."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Post-spin SLM is the largest private education lender in the US, with roughly half of private student loan originations, the Sallie Mae brand, and entrenched relationships with school financial-aid offices that put it on preferred-lender lists - a genuine distribution and brand advantage, reinforced by cheap deposit funding at Sallie Mae Bank and by ~90% cosigner rates that keep credit losses low. Visible in reported results at the 2016-06-30 anchor (Q2 2016, reported 2016-07-20): originations $423M, +10% y/y; portfolio $12.2B, +32% y/y; net interest income $213M, +26%; NIM 5.84%, +33bp. Capped at NARROW because there are no switching costs once a loan is booked, competitors (Discover, Wells Fargo, Citizens, later fintech refinancers) can and do underprice, and the product exists only in the gap left by federal loan limits - a single act of Congress or Department of Education rule change can resize the entire market."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2014-05",
+        "severity": "SERIOUS",
+        "note": "The central item, and it is borderline disqualifying. On 2014-05-13 the FDIC issued consent orders against Sallie Mae Bank and against Sallie Mae Inc. (by then renamed Navient Solutions) finding unfair and DECEPTIVE practices under Section 5 of the FTC Act - including payment-allocation and late-fee practices that maximised fees - plus violations of the Servicemembers Civil Relief Act, such as telling servicemembers they had to be deployed to qualify for the 6% interest cap and failing to give complete relief after being notified of active duty. Penalties: $6.6M in civil money penalties and about $30M of borrower restitution under the FDIC orders, plus a companion DOJ consent order the same day funding $60M of compensation for servicemembers (with a nominal $55,000 statutory penalty). Investigators traced violations back to 2005; the case originated in a CFPB Office of Servicemember Affairs referral and was public as an investigation from 2013, when press reports also flagged that Sallie Mae's Department of Education servicing contract was at risk. Graded SERIOUS rather than DISQUALIFYING for two dated reasons: the orders were entered without admissions of liability, and the servicing operation that committed most of the conduct left SLM in the Navient spin-off completed on 2014-04-30, two weeks before the orders, under a new SLM CEO (Raymond Quinlan, 2014). The deception finding is real, though, and the same servicing franchise was sued by the CFPB and two state AGs on 2017-01-18 as Navient - a separate company by then, but the same conduct lineage."
+      }
+    ],
+    "gate5_broken_by": null
+  }
+}

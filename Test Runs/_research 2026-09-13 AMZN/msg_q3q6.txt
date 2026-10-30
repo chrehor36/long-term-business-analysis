@@ -1,0 +1,22 @@
+AMZN run: Q3-Q6 recorded beneath the Q2 close, self-audit and register
+
+Q3 (recorded): gate case on daily execution; IN on the binary, no personal-misconduct finding.
+EBITDA absent from releases; guidance met or beaten on six of six items; special charges
+disclosed; employee dilution +6.0% since 2021; cash taxes 29.8% -> 3.8% of pre-tax explained by
+bonus depreciation and non-cash Anthropic marks; soft [E2-49] fire on the dropped lease-adjusted
+FCF measures; capital-allocation flag on the 2022 repurchase in a negative-FCF year; laboratory
+equity bought without a value case supplied to owners.
+
+Q4 (recorded): UNKNOWABLE on the level. The skip reason reproduced: floor_screen.py at a8bc84f
+returns CAPEX_UNRESOLVED because the pre-dff6ab6 annual() read one capex tag, not a capex finding.
+oe.py audited against the filed statements (one unused input wrong, corrected in oe2.py). SBC
+resolves and is complete. Five-year owner earnings -$10.8bn to -$14.8bn on every capex
+construction, +$27.6bn at a 1.3x depreciation judgment; the D&A end is INVALID on the filer's
+own server-life shortening. [E5-11] 1.5 of 3; debt $68.8bn -> $133.0bn in six months; commitments
+$650bn. THE ROUND TRIP proposed as the eighteenth survival shape.
+
+Q5 headed COMPUTATION - NOT A CLEARANCE: yield -0.5% to +2.8% against USD 5.35%; 7.0-8.9%
+perpetual growth needed for the 10% floor from a judged base; price above the whole range.
+Q6: reopening conditions in words; nothing armed.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

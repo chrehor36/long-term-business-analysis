@@ -1,0 +1,20 @@
+Owner cash by year 2021-2025
+ all spending (OCF-SBC-capex-acq): [-219.6, -213.4, -82.9, -147.2, -172.9] avg -167.2
+ maintenance only (OCF-SBC-maint): [-99.4, 6.3, 162.1, 78.0, 14.8] avg 32.4
+ D&A basis (OCF-SBC-D&A):         [27.2, 106.7, 273.6, 174.4, 137.9] avg 144.0
+ growth spending (capex-maint+acq): [120.2, 219.7, 245.0, 225.2, 187.7] avg 199.6
+ interest expense avg 118.1
+growth test: end years -99.4 -> 14.8 (sign change: compound rate meaningless); halves -46.6 -> 46.4 (sign change: meaningless) => range is the no-growth case alone (specific (b))
+sales growth 2021->2025 (cap (f) figure): 4.08 % a year
+utility debt credit: LTD increase/yr 194.5 ; cap share (MT electric + Colstrip U4, rate-base weighted) 52.0 % of growth spending 199.6 = 103.8 ; credit used 103.8
+maintenance case (central): base 32.4; no-growth value at 5.33% = 607 = $9.87/sh; at 10% = 324 = $5.26/sh; yield on market value 0.68%
+D&A variant: base 144.0; no-growth value at 5.33% = 2701 = $43.90/sh; at 10% = 1440 = $23.40/sh; yield on market value 3.02%
+all-spending variant: base -167.2; no-growth value at 5.33% = -3137 = $-51.00/sh; at 10% = -1672 = $-27.18/sh; yield on market value -3.50%
+growth illustration (beside, not in range): base 32.4 grown 4.08% ten years, growth spending 199.6 and credit 103.8 grown with it, none after year ten: value at sovereign -55 = $-0.90/sh; at 10% -288 = $-4.68/sh (below the no-growth case: growth destroys value)
+growth spending charged in year one 207.7, year ten 297.8; debt credit year one 108.0, year ten 154.9
+all-equity beside, maintenance: owner cash before interest 150.5; yield on EV 8366 = 1.80%; fair (10%) less net debt 3592 = -2088 = $-33.94/sh
+all-equity beside, D&A: owner cash before interest 262.1; yield on EV 8366 = 3.13%; fair (10%) less net debt 3592 = -972 = $-15.80/sh
+all-equity beside, all-spending: owner cash before interest -49.1; yield on EV 8366 = -0.59%; fair (10%) less net debt 3592 = -4084 = $-66.38/sh
+merger beside: 0.98 x BKH 79.41 = $77.82 per NWE share vs NWE 77.59 (spread 0.30%)
+combined (NWE+BKH, 2021-2025 averages): D&A-basis owner cash 446.4 on combined market value 10828 = 4.12%; all-spending -285.6 (negative); BKH shares used 76.253M; BKH files no maintenance split, so the D&A basis is the only shared basis
+tax: pre-tax income avg 195.3; book tax avg 1.5; at 21% federal statutory the charge would be 41.0, a difference of 39.5 a year; the filer says minimal cash tax into 2029 and NOLs of 452.2 that do not expire

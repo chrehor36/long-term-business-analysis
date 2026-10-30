@@ -1,0 +1,20 @@
+[
+ {
+  "id": "TECH-floor-band",
+  "ticker": "TECH",
+  "currency": "USD",
+  "op": "<=",
+  "threshold": 25.40,
+  "active": false,
+  "label": "TECH at/below $25.40: SUSPENDED FROM THE START (written with active false) because a merger agreement naming Bio-Techne as target is filed: Merck KGaA, Darmstadt, $73.00 a share in cash (8-K 2026-06-26, EX-2.1; shareholders approved 2026-09-23; HSR expired 2026-09-18; Outside Date 2027-03-25, extendable to 2027-09-25); the MA convention suspends a band while such an agreement stands. Becomes a candidate only if that agreement TERMINATES, and then only after re-derivation on the next 10-K. The level: the E4-28 floor is met at the record's 4.4% a year owner-earnings-per-share growth (FY2010-FY2026) on five-year capex-end owner earnings of $210.2M (FY2022-FY2026; OCF less stock compensation less capital additions; no net-income proxy) plus $64.7M net cash, over 156,818,238 cover shares (0001104659-26-100322). Q1-Q4 all IN on 2026-09-28 (Q2 NARROW and narrowing: the reagent segment 41.1-46.7% margins FY2019-FY2026, above every filed peer's life-science segment, with FY2026 'pricing pressures' filed; Q3 overlay with a capital-allocation flag; Q4 IN, named death #10 THE CAMOUFLAGE); Q5 quit on at $72.51 (yield 1.85-1.93% against 5.56%; the quote needs 7.9-8.0% perpetual growth; value about $14 / $25-30 / $35). Prompt for a FULL v4.1 re-run, not a purchase, sized DOWN if it clears (capital-allocation flag: purchases into a segment earning about 4% pre-tax on at least $905M; buybacks above any conservative value; pay on organic revenue and adjusted EBITA with ROIC declined). VOID if any falsifier has fired: a second consecutive year of filed pricing pressure in Protein Sciences; the Protein Sciences segment margin below 38% two consecutive years; its organic growth negative two consecutive years while Danaher's Life Sciences files price increases; a purchase above $250M outside the reagent catalog other than Wilson Wolf, or Wilson Wolf paid at the $1bn milestone case with revenue below $226M; a D&SB impairment above $100M; five-year capex-end owner earnings below $190M. Source: Test Runs/2026-09-28 Run - TECH Bio-Techne.md."
+ },
+ {
+  "id": "TECH-rerun-band",
+  "ticker": "TECH",
+  "currency": "USD",
+  "op": "<=",
+  "threshold": 29.78,
+  "active": false,
+  "label": "TECH at/below $29.78: SUSPENDED FROM THE START (active false) while the Merck KGaA merger agreement ($73.00 cash, 2026-06-25) stands; live only if it terminates, and only after re-derivation on the next 10-K. The level: the E4-28 floor is met with 5% perpetual growth (the JKHY, CAT, MSA, ECL, KEYS and MA ceiling under E4-44) on five-year depreciation-end owner earnings of $219.3M (FY2022-FY2026) plus $64.7M net cash over 156,818,238 cover shares. Prompt for a FULL v4.1 re-run in which the reagent margin's direction, the FY2026 pricing pressure, the Wilson Wolf purchase (due 2027-12-31) and the revolver maturity (2027-08-31) are re-tested before any is spent. VOID if any falsifier in TECH-floor-band has fired. Source: Test Runs/2026-09-28 Run - TECH Bio-Techne.md."
+ }
+]

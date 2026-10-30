@@ -1,0 +1,764 @@
+ 
+ EX-99.2
+ 3
+ ex-9923q25shareholderletter.htm
+ EX-99.2
+ Document 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 2 
+ | 
+ | 
+ | 
+ | 
+ We continue to make significant progress across our strategic priorities including preparation for the launch of R2 and development of our technology roadmap including autonomy and our vertically integrated hardware and software. While we face near-term uncertainty from trade, tariffs, and regulatory policy, we remain focused on long-term growth and value creation. We believe the future car parc will be fully electric, autonomous, and software-defined and are confident in the opportunity ahead for Rivian. 
+ The average new vehicle purchase price in the United States is now just over $50,000* and 
+ the most popular configuration is a five seat SUV or crossover. Given the attractiveness of this addressable market, we believe R2 is addressing the largest market opportunity with the right product. During the quarter, our teams executed to ensure R2 development remains on track to begin production and deliveries in the first half of 2026. 
+ To prepare for longer-term capacity expansion of the mid-sized platform, in September we held a groundbreaking ceremony at the site of our next manufacturing facility in Georgia. 
+ We expect to begin vertical construction next year and expect to add 7,500 jobs and an additional 400,000 annual units of capacity across two phases. 
+ Our investment in the vertical integration of our key technologies remains central to our approach. Our in-house designed software and electrical architecture allow our vehicles to continuously improve over time with each OTA update. 
+ Autonomy has been core to our strategy from the beginning, and we continue to integrate 
+ AI throughout all aspects of the business. With the convergence of technologies across AI, GPUs, and low cost multi-modal sensors, we are making rapid progress in the advancement of the Rivian Autonomy Platform. Over the longer term, we believe what will differentiate our autonomy capabilities will be our end-to-end AI-centric approach. As our car parc expands with the launch of R2, our growing fleet of customer vehicles will supply data to train our large driving model, which we believe will allow rapid rollout of updated driving inference models. We plan to host our Autonomy & AI Day on December 11th where we are excited 
+ to share our progress. 
+ *https://www.caranddriver.com/news/a69047202/average-new-car-price-rises-above-50000 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 3 
+ | 
+ | 
+ | 
+ | 
+ The direct-to-consumer approach we use across the ownership lifecycle allows us to provide our customers with the best possible experience which continues to improve with the help of AI tool integration. As an example, our service team uses telematics data to identify vehicle issues remotely and, where possible, preemptively saving customers time and delivering service more efficiently. 
+ We continue to believe that our brand, vertically integrated technologies, and direct-to-customer relationship will position Rivian as an industry leader over the long term, keeping us at the forefront of the rapidly evolving transportation landscape. 
+ During the third quarter, we demonstrated significant progress against our key value 
+ drivers including: 
+ Technology leadership 
+ • Delivered OTAs providing customers with smart charging schedules, and the addition of Co-Steer to allow customers to make adjustments while the vehicle stays in autonomous mode 
+ • Continued to mature R2 design including a new cell-to-pack 4695 cell battery pack design and Energy Management Control Module 
+ Demand generation and enhancing customer experience 
+ • 90% of the charging network now open to non-Rivian customers; currently, non-Rivian utilization accounts for over 40% of sessions on the network 
+ • 35 spaces and 95 service locations open with plans to add more by year end 
+ Drive towards profitability 
+ • Achieved nearly $19,000 reduction in automotive cost of revenues per vehicle delivered year-over-year 
+ • Delivered 37% gross margin in our software and services segment 
+ Optimize operational efficiency 
+ • Prepared for R2 in Normal, including the process of commissioning robots, the completion of an upgraded paint shop, and addition of suppliers in our on-site supplier park 
+ • Improved working capital driven by reducing raw materials, work in progress, and finished goods inventory levels 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 4 
+ | 
+ | 
+ | 
+ | 
+ R2 
+ We couldn’t be more excited about R2. We captured the performance, utility, and personality of R1 and refactored it into a smaller SUV at a lower cost. We believe R2 is addressing the largest market opportunity with the right product. We remain on track to begin R2 deliveries from our Normal, Illinois factory in the first half of 2026, which will have an annual R2 capacity of up to 155,000 units. 
+ As we prepare for our manufacturing validation builds at year end, we have recently completed the construction of our 1.1 million square foot R2 body shop and general assembly building in Normal, Illinois and a 1.2 million square foot supplier park and logistics center. 
+ All manufacturing shops have started equipment bring-up, and we are in the process of commissioning the robots in our body shop. 
+ On the vehicle development and technology front, we continue to make significant progress. The quality and maturity of our design validation builds continue to increase. These builds are now completing rigorous durability, performance, aerodynamics, thermal, and noise vibration and harshness testing. Based on this timing, we expect to begin manufacturing validation builds at year end. 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 5 
+ | 
+ | 
+ | 
+ | 
+ We continue to innovate our core technologies, with design improvements on R2's battery platform. We completed a clean-sheet design for R2's battery pack and 4695 cell, which offers six times the energy of the 2170 cell used in R1. The new cell-to-pack design uses the vehicle's floor as the battery pack lid, which helps to minimize the pack's mass. To help us maintain a cost-effective supply, we expect all R2 cells to be produced in the U.S. starting in 2027. 
+ A key innovation for R2 is the new Energy Management Control Module, a large electronic assembly that consolidates multiple functions into a single package located at the back of the battery pack. This includes a bidirectional on-board charger that will have the ability to not only draw power from the grid to the vehicle but also is designed to take power from the vehicle to power your home*. This power conversion capability is a significant innovation, as R2's advanced power electronics can take DC power from the vehicle and transform it to AC, allowing vehicle-to-home power supply. We believe this innovation has the potential to unlock gigawatts-hours of energy storage from Rivian vehicles, creating a cost-effective power storage solution for our customers. 
+ *bidirectional charging will require additional equipment to enable home power usage from the vehicle 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 6 
+ | 
+ | 
+ | 
+ | 
+ Autonomy 
+ The Rivian Autonomy Platform has been designed with an AI-centric end-to-end approach. 
+ Our model is trained using real world fleet data with intelligent triggers. This diverse and high quality set of test and training data is fundamental to advanced machine learning for physical AI. Fusing data from multiple sensors and modalities simultaneously provides a rich world model representation for vehicles, roads, and other road users to empower confident and capable autonomous features. 
+ Our AI-enabled approach is accelerated by recent disruptive innovations over the past two years. The second generation system has demonstrated accelerating progress since its release in the second quarter of 2025, delivering improved safety and overall customer experience. 
+ Recent updates provide improvements to increase ride comfort, as well as the expansion of hands-free capabilities on the highway for our second generation R1 vehicles, contributing to a 70% increase in miles driven using the feature. These updates also utilize our industry-leading perception stack to provide an upgraded model for improved lane centering on tight highway curves. In addition, our second generation R1 cameras can now self-calibrate which helps with system accuracy and cuts down service and maintenance time. 
+ We plan to host our Autonomy & AI day on December 11, 2025 where we are excited to discuss the progress we have been making on features and technologies not yet released to customers. 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 7 
+ | 
+ | 
+ | 
+ | 
+ Software 
+ Rivian vehicles are designed with integrated software-defined architecture, enabling us to build features that deliver more value over time through OTA updates that are rooted in the feedback we hear from customers. 
+ We recently delivered multiple new features including smart charging schedule recommendation, an intelligent charging solution for all our R1 vehicles. With the majority of EV owners charging their vehicle at home during peak electricity hours, this feature empowers our owners to optimize their charging schedules to coincide with off-peak rates in their area. Through optimizing charging times, depending on location, customers can achieve annual savings of more than 20%* as well as contribute to grid stability. 
+ In October, we also released our “Halloween mode” bringing a spooky swamp-themed car costume, an entire sensory experience with a custom soundscape and eerie lighting on the 
+ inside and exterior. 
+ *calculated based on average savings potential across our whole fleet of vehicles on the road 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 8 
+ | 
+ | 
+ | 
+ | 
+ Go-to-Market 
+ Our focus remains on scaling our commercial infrastructure and driving brand awareness in preparation for the launch of R2. We now have 35 spaces, complemented by 95 service locations, with the majority providing both sales activities and demo drives. 
+ The Rivian Adventure Network continues to scale, and there are now over 850 chargers across 
+ 131 sites active in 38 states. Rivian continued its campaign to upfit the network to be accessible to 
+ all types of electric vehicles. The network is now over 90% accessible to all EVs, with the objective 
+ of bringing this to 100% with further upfits. 
+ Additionally, the Rivian Adventure Network launched its first chargers with native North American Charging Standard (NACS) support at our Joshua Tree Charging Outpost. NACS will continue to 
+ roll out across the network, so the network is in the best position to seamlessly support all types of electric vehicles. Currently, non-Rivian utilization accounts for over 40% of sessions on the network which serves as a great way to share our brand and drive network utilization. 
+ We believe the most compelling way to share our brand is through demo drives to allow potential customers the chance to experience the comfort, capability, and performance of our vehicles. 
+ In the third quarter, we carried out over 28,200 demo drives including over 1,800 electric joyrides. Electric joyrides gave consumers the chance to experience the thrill of an R1 Quad on an off-road course in downtown Chicago. We also hosted a Halloween themed event in partnership with Nasdaq in Times Square New York, showcasing vehicles and our much loved “Halloween mode” features 
+ to a wider audience. 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 9 
+ | 
+ | 
+ | 
+ | 
+ Innovation Leverage: ALSO and Mind Robotics 
+ As a company, we remain focused on our key priorities and our mission to keep the world adventurous forever. With our strong bench of technology talent and an innovation-driven culture, we have been able to identify additional areas of value to accelerate our mission on 
+ a wider scale while maintaining Rivian’s focus. 
+ This started with the launch of our micromobility business ALSO, developing a vertically integrated platform to enable a portfolio of exciting, micromobility EVs which we have since spun out while still holding a 40.6%* minority interest. In October, ALSO officially launched the first line of products consisting of TM-B, a versatile electric bike for consumers and TM-Q, an electric quadricycle for commercial as well as consumer applications. 
+ In addition, we believe there are synergies shared between the development of autonomous driving and physical AI. In November, we set up a new company, Mind Robotics, and secured approximately $110 million of external seed capital. Mind Robotics will focus on the advancement of industrial AI to reshape how physical world businesses operate and leverage Rivian operations data as the foundation for a robotics data flywheel. We believe AI-enabled robotics can support 
+ a wide range of industrial applications. 
+ *Reflects basic ownership 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 10 
+ | 
+ | 
+ | 
+ | 
+ Production and Deliveries 
+ In the third quarter of 2025, we produced 10,720 and delivered 13,201 vehicles in our manufacturing facility in Normal, Illinois. This includes the first deliveries of EDVs to Amazon 
+ for service in Canada. We expect the third quarter to be our highest delivery quarter for the year. 
+ Starting in September we took three weeks of downtime in the Normal plant to complete the paint shop upgrade in preparation for R2, to enable the increase of annual production capacity 
+ of the Normal Plant to approximately up to 215,000 units. 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 11 
+ | 
+ | 
+ | 
+ | 
+ Business Outlook 
+ Our guidance represents management’s current view on the evolving macro environment 
+ and policy impacts on our business. 
+ Our delivery guidance is 41,500 – 43,500. We are reaffirming our Adjusted EBITDA guidance 
+ of ($2,000) million – ($2,250) million and capital expenditures guidance of $1,800 million – 
+ $1,900 million. 
+ | 
+ 2025 Guidance | Current Outlook | 
+ Vehicles Delivered 
+ | 41,500 – 43,500 | 
+ Adj. EBITDA 
+ | ($2,000) million – ($2,250) million | 
+ Capital Expenditures 
+ | $1,800 million – $1,900 million | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 12 
+ | 
+ | 
+ Revenues | Consolidated 
+ Total consolidated revenues were $1,558 million for the third quarter of 2025, compared 
+ to $874 million in the same quarter in 2024, a 78% year-over-year increase. 
+ Automotive 
+ Total automotive revenues for the third quarter of 2025 were $1,142 million compared 
+ to $776 million in the same period in 2024, a 47% year-over-year increase due to an increase 
+ in vehicle deliveries resulting in part from accelerated purchases ahead of the expiration of 
+ 45W tax credits after September 30, 2025, as well as increased average selling prices. As we’ve said previously, we expect the third quarter will be our highest delivery quarter for the year. 
+ Software and Services 
+ Total software and services revenues for the third quarter of 2025 were $416 million compared 
+ to $98 million in the same period in 2024, a 324% year-over-year increase primarily due to 
+ vehicle electrical architecture and software development services that were not performed during the prior period, an increase in remarketing sales, and increased vehicle repair and maintenance service. 
+ During the third quarter of 2025, approximately $214 million of the revenue within software 
+ and services was a result of the software and electrical architecture joint venture created with Volkswagen Group. This revenue was recognized both from the ongoing payments to fund the joint venture's development services as well as from the $1,960 million of consideration that 
+ was received in conjunction with the closing of the joint venture. We expect the remainder of 
+ the consideration received at closing will be fully recognized as revenue over approximately the next three years and that the proportion recognized will gradually increase over time as the joint venture ramps its operations and progresses toward completing its performance obligation. 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 13 
+ | 
+ | 
+ Gross Profit | Consolidated 
+ We generated total positive consolidated gross profit of $24 million for the third quarter of 2025, compared to $(392) million for the third quarter of 2024. Gross profit for the third quarter of 2025 included $125 million of depreciation and $24 million of stock-based compensation expense. 
+ Automotive 
+ We generated negative automotive gross profit of $(130) million for the third quarter of 2025, compared to $(379) million for the same quarter in 2024. Gross profit losses improved primarily as a result of increased average selling prices and reductions in the cost of revenues. 
+ Software and Services 
+ We generated positive software and services gross profit of $154 million for the third quarter of 2025, compared to $(13) million for the same quarter in 2024. Strong performance was driven by vehicle electrical architecture and software development services that were not performed last year and increases in remarketing sales and vehicle repair and maintenance service. 
+ | 
+ Operating Expenses
+and Operating Loss | Total operating expenses in the third quarter of 2025 were $1,007 million, compared to 
+ $777 million in the same period last year. 
+ In the third quarter of 2025, we recognized non-cash, stock-based compensation expense within operating expenses of $151 million as compared to $105 million in the third quarter of 2024 and depreciation and amortization expense within operating expenses of $73 million as compared 
+ to $73 million in the third quarter of 2024. 
+ Research and development (“R&D”) expenses in the third quarter of 2025 were $453 million, compared to $350 million in the same period last year. The increase was primarily due to higher engineering, design, and development costs surrounding the R2 platform, higher software costs supporting new in-vehicle technologies including our autonomy platform, and higher stock-based compensation expenses. The increase in stock-based compensation expenses were primarily attributable to an increase in the total amount of accrued stock-based bonus incentives, partially offset by the cost of services provided to Volkswagen Group by the joint venture being recorded in cost of revenues during the third quarter of 2025. 
+ Selling, general, and administrative (“SG&A”) expenses in the third quarter of 2025 were 
+ $554 million, compared to $427 million in the same period last year. The increase was due 
+ to expanding our go-to-market operations and footprint, including higher payroll and related expenses primarily driven by increased headcount, stock-based compensation expenses primarily attributable to an increase in the total amount of accrued stock-based bonus 
+ incentives, and facilities expenses. 
+ We experienced a loss from operations in the third quarter of 2025 totaling $(983) million, compared to $(1,169) million in the same period last year. 
+ | 
+ Other Income (Expense) | Other income (expense) for the third quarter of 2025 was $(191) million, compared to $1 million for the same period last year. The change was due to the settlement of pending securities class action litigation (which is subject to court approval), net of expected insurance recoveries. 
+ | 
+ Adjusted Operating Expenses (Non-GAAP)¹ | Adjusted R&D¹ expenses for the third quarter of 2025 were $361 million, compared to 
+ $271 million for the same period last year. 
+ Adjusted SG&A¹ expenses for the third quarter of 2025 were $422 million, compared to 
+ $328 million for the same period last year. 
+ Total adjusted operating expenses¹ for the third quarter of 2025 were $783 million, compared 
+ to $599 million for the same period last year. 
+ | 
+ Net Loss | Our net loss for the third quarter of 2025 was $(1,166) million, compared to $(1,100) million for the same period last year. 
+ | 
+ Adjusted EBITDA (Non-GAAP)¹ | Adjusted EBITDA¹ for the third quarter of 2025 was $(602) million, compared to $(757) million 
+ for the same period last year. 
+ | 
+ ¹A reconciliation of non-GAAP financial measures to the most comparable GAAP measure is provided later in this letter. | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 14 
+ | 
+ | 
+ Adjusted Net Loss (Non-GAAP) 1 
+ | Adjusted net loss¹ for the third quarter of 2025 was $(792) million, compared to $(1,008) million for the same period last year. 
+ | 
+ Net Cash Provided by (Used in) 
+Operating Activities | Net cash provided by (used in) operating activities for the third quarter of 2025 was $26 million as compared to $(876) million for the same period last year. This change was primarily driven by an increase in cash from changes in working capital. 
+ | 
+ Capital Expenditures | Capital expenditures for the third quarter of 2025 were $447 million, as compared to $277 million for the same period last year. The increase was primarily driven by the expansion of production capacity at our Normal, Illinois facility. 
+ | 
+ Liquidity and Free Cash Flow (non-GAAP)¹ | We ended the third quarter of 2025 with $7,088 million in cash, cash equivalents, and short-term investments. Including the capacity under our asset-based revolving-credit facility, we ended the third quarter of 2025 with $7,686 million of total liquidity. 
+ We define free cash flow as net cash used in operating activities less capital expenditures. The cash provided by operating activities discussed above resulted in negative free cash flow¹ of $(421) million for the third quarter of 2025 as compared to $(1,153) million for the same period 
+ last year. 
+ | 
+ Webcast | We will host an audio webcast to discuss our results and provide a business update at 
+2:00pm PT / 5:00pm ET on Tuesday, November 4, 2025. The link to the webcast will be made 
+available on our Investor Relations website at rivian.com/investors.
+ After the call, a replay will be available at rivian.com/investors for four weeks. | 
+ ¹A reconciliation of non-GAAP financial measures to the most comparable GAAP measure is provided later in this letter. | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 15 
+ | 
+ | 
+ Quarterly Financial Performance | 
+ | 
+ (in millions, except production, delivery, and gross margin amounts) | 
+ (unaudited) | 
+ | 
+ | Three Months Ended | 
+ | September 30,
+2024 | December 31,
+2024 | March 31, 2025 | June 30,
+2025 | September 30,
+2025 | 
+ Production | 13,157 | 12,727 | 14,611 | 5,979 | 10,720 | 
+ Delivery | 10,018 | 14,183 | 8,640 | 10,661 | 13,201 | 
+ | 
+ Revenues | 
+ Automotive | $ | 776 | $ | 1,520 | $ | 922 | $ | 927 | $ | 1,142 | 
+ Software and services | 98 | 214 | 318 | 376 | 416 | 
+ Total revenues 2 
+ | $ | 874 | $ | 1,734 | $ | 1,240 | $ | 1,303 | $ | 1,558 | 
+ Cost of revenues | 
+ Automotive | $ | 1,155 | $ | 1,410 | $ | 830 | $ | 1,262 | $ | 1,272 | 
+ Software and services | 111 | 154 | 204 | 247 | 262 | 
+ Total cost of revenues 2 
+ | $ | 1,266 | $ | 1,564 | $ | 1,034 | $ | 1,509 | $ | 1,534 | 
+ Gross profit | $ | (392) | $ | 170 | $ | 206 | $ | (206) | $ | 24 | 
+ Gross margin | (45) | % | 10 | % | 17 | % | (16) | % | 2 | % | 
+ | 
+ | 
+ Research and development | $ | 350 | $ | 374 | $ | 381 | $ | 410 | $ | 453 | 
+ Selling, general, and administrative | 427 | 457 | 480 | 498 | 554 | 
+ Total operating expenses | $ | 777 | $ | 831 | $ | 861 | $ | 908 | $ | 1,007 | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Adjusted research and development (non-GAAP)¹ | $ | 271 | $ | 277 | $ | 285 | $ | 316 | $ | 361 | 
+ Adjusted selling, general, and administrative (non-GAAP)¹ | 328 | 343 | 345 | 365 | 422 | 
+ Total adjusted operating expenses (non-GAAP)¹ | $ | 599 | $ | 620 | $ | 630 | $ | 681 | $ | 783 | 
+ | 
+ Adjusted EBITDA (non-GAAP) 1 
+ | $ | (757) | $ | (277) | $ | (329) | $ | (667) | $ | (602) | 
+ Cash, cash equivalents, and short-term investments 3 
+ | $ | 6,739 | $ | 7,700 | $ | 7,178 | $ | 7,508 | $ | 7,088 | 
+ | 
+ Net cash (used in) provided by operating activities | $ | (876) | $ | 1,183 | $ | (188) | $ | 64 | $ | 26 | 
+ Capital expenditures | (277) | (327) | (338) | (462) | (447) | 
+ Free cash flow (non-GAAP)¹ | $ | (1,153) | $ | 856 | $ | (526) | $ | (398) | $ | (421) | 
+ | 
+ | 
+ | 
+ Depreciation and amortization expense | 
+ Cost of revenues | $ | 186 | $ | 145 | $ | 75 | $ | 185 | $ | 125 | 
+ Research and development | 20 | 18 | 17 | 17 | 18 | 
+ Selling, general, and administrative | 53 | 55 | 55 | 52 | 55 | 
+ Total depreciation and amortization expense | $ | 259 | $ | 218 | $ | 147 | $ | 254 | $ | 198 | 
+ | 
+ Stock-based compensation expense | 
+ Cost of revenues | $ | 6 | $ | 16 | $ | 24 | $ | 37 | $ | 24 | 
+ Research and development | 59 | 79 | 79 | 77 | 74 | 
+ Selling, general, and administrative | 46 | 59 | 80 | 81 | 77 | 
+ Total stock-based compensation expense | $ | 111 | $ | 154 | $ | 183 | $ | 195 | $ | 175 | 
+ | 
+ Inventory write-downs | 
+ Inventory LCNRV write-downs 3 
+ | $ | 130 | $ | 66 | $ | 23 | $ | 48 | $ | 24 | 
+ Liabilities for losses on firm purchase commitments 3 
+ | 10 | 5 | — | — | — | 
+ Total inventory write-downs and liabilities for losses on firm purchase commitments 3 
+ | $ | 140 | $ | 71 | $ | 23 | $ | 48 | $ | 24 | 
+ ¹ A reconciliation of non-GAAP financial measures to the most comparable GAAP measure is provided later in this letter. 
+ | 
+ 2 The prior periods have been recast to conform to current period presentation. 
+ | 
+ 3 Amount as of date shown. 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 16 
+ | 
+ | 
+ Condensed Consolidated Balance Sheets | 
+ | 
+ (in millions, except per share amounts) | 
+ (unaudited) | 
+ | 
+ Assets | December 31, 2024 | September 30, 2025 | 
+ Current assets: | 
+ Cash and cash equivalents | $ | 5,294 | $ | 4,441 | 
+ Short-term investments | 2,406 | 2,647 | 
+ Accounts receivable, net | 443 | 203 | 
+ Inventory | 2,248 | 1,638 | 
+ Other current assets | 192 | 346 | 
+ Total current assets | 10,583 | 9,275 | 
+ Property, plant, and equipment, net | 3,965 | 4,837 | 
+ Operating lease assets, net | 416 | 552 | 
+ Other non-current assets | 446 | 553 | 
+ Total assets | $ | 15,410 | $ | 15,217 | 
+ | 
+ Liabilities and Stockholders’ Equity | 
+ Current liabilities: | 
+ Accounts payable | $ | 499 | $ | 554 | 
+ Accrued liabilities | 835 | 1,388 | 
+ | 
+ | 
+ Current portion of deferred revenues, lease liabilities, and other liabilities | 917 | 1,483 | 
+ Total current liabilities | 2,251 | 3,425 | 
+ Long-term debt | 4,441 | 4,438 | 
+ Non-current lease liabilities | 379 | 529 | 
+ Other non-current liabilities | 1,777 | 1,741 | 
+ Total liabilities | 8,848 | 10,133 | 
+ Commitments and contingencies | 
+ Stockholders' equity: | 
+ Preferred stock, $ 0.001 par value; 10 shares authorized and 0 shares issued and outstanding as of December 31, 2024 and September 30, 2025 
+ | — | — | 
+ Common stock, $0.001 par value; 3,508 and 5,258 shares authorized and 1,131 and 1,226 shares issued and outstanding as of December 31, 2024 and September 30, 2025, respectively 
+ | 1 | 1 | 
+ Additional paid-in capital | 29,866 | 31,198 | 
+ Accumulated deficit | (23,305) | (26,140) | 
+ Accumulated other comprehensive (loss) income | (4) | 7 | 
+ Noncontrolling interest | 4 | 18 | 
+ Total stockholders' equity | 6,562 | 5,084 | 
+ | 
+ Total liabilities and stockholders' equity | $ | 15,410 | $ | 15,217 | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 17 
+ | 
+ | 
+ Condensed Consolidated Statements of Operations 1 
+ | 
+ | 
+ (in millions, except per share amounts) | 
+ (unaudited) | 
+ | 
+ | Three Months Ended September 30, | Nine Months Ended September 30, | 
+ | 2024 | 2025 | 2024 | 2025 | 
+ Automotive | $ | 776 | $ | 1,142 | $ | 2,966 | $ | 2,991 | 
+ Software and services | 98 | 416 | 270 | 1,110 | 
+ Total revenues | 874 | 1,558 | 3,236 | 4,101 | 
+ Automotive | 1,155 | 1,272 | 4,283 | 3,364 | 
+ Software and services | 111 | 262 | 323 | 713 | 
+ Total cost of revenues | 1,266 | 1,534 | 4,606 | 4,077 | 
+ Gross profit | (392) | 24 | (1,370) | 24 | 
+ Operating expenses | 
+ Research and development | 350 | 453 | 1,239 | 1,244 | 
+ Selling, general, and administrative | 427 | 554 | 1,419 | 1,532 | 
+ | 
+ Total operating expenses | 777 | 1,007 | 2,658 | 2,776 | 
+ Loss from operations | (1,169) | (983) | (4,028) | (2,752) | 
+ Interest income | 95 | 76 | 302 | 229 | 
+ Interest expense | (87) | (69) | (237) | (210) | 
+ Gain (loss) on convertible notes, net | 60 | — | (30) | — | 
+ Other income (expense), net | 1 | (191) | (8) | (86) | 
+ Loss before income taxes | (1,100) | (1,167) | (4,001) | (2,819) | 
+ Provision for income taxes | — | 1 | (2) | (3) | 
+ Net loss | $ | (1,100) | $ | (1,166) | (4,003) | (2,822) | 
+ Less: Net income attributable to noncontrolling interest | — | 7 | — | 13 | 
+ Net loss attributable to common stockholders | $ | (1,100) | $ | (1,173) | $ | (4,003) | $ | (2,835) | 
+ Net loss attributable to common stockholders, basic and diluted | $ | (1,100) | $ | (1,173) | $ | (4,003) | $ | (2,835) | 
+ Net loss per share attributable to Class A and Class B common stockholders, basic and diluted | $ | (1.08) | $ | (0.96) | $ | (4.01) | $ | (2.42) | 
+ Weighted-average common shares outstanding, basic and diluted | 1,014 | 1,220 | 998 | 1,171 | 
+ 1 The prior period has been recast to conform to current period presentation. 
+ | 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 18 
+ | 
+ | 
+ Condensed Consolidated Statements of Cash Flows 1 
+ | 
+ | 
+ (in millions) | 
+ (unaudited) | 
+ | 
+ | Nine Months Ended September 30, | 
+ | 2024 | 2025 | 
+ Cash flows from operating activities: | 
+ Net loss | $ | (4,003) | $ | (2,822) | 
+ Depreciation and amortization | 813 | 583 | 
+ Stock-based compensation expense | 538 | 551 | 
+ Gain on equity method investment | — | (101) | 
+ Loss on convertible notes, net | 30 | — | 
+ | 
+ Other non-cash activities | 99 | (6) | 
+ Changes in operating assets and liabilities: | 
+ Accounts receivable, net | (57) | 267 | 
+ Inventory | (208) | 511 | 
+ Other assets | (41) | (26) | 
+ | 
+ Accounts payable and accrued liabilities | (339) | 488 | 
+ Deferred revenues | 65 | 495 | 
+ Other liabilities | 204 | (38) | 
+ | 
+ Net cash used in operating activities | (2,899) | (98) | 
+ | 
+ Cash flows from investing activities: | 
+ Purchases of equity securities and short-term investments | (2,476) | (2,571) | 
+ Sales of equity securities and short-term investments | — | 107 | 
+ Maturities of short-term investments | 2,696 | 2,204 | 
+ | 
+ Capital expenditures | (814) | (1,247) | 
+ | 
+ Net cash used in investing activities | (594) | (1,507) | 
+ | 
+ Cash flows from financing activities: | 
+ | 
+ Proceeds from stock-based compensation programs | 36 | 34 | 
+ Proceeds from issuance of capital stock | — | 750 | 
+ Proceeds from issuance of long-term debt | — | 1,250 | 
+ Repayments of long-term debt | — | (1,250) | 
+ Proceeds from issuance of convertible notes | 1,000 | — | 
+ Other financing activities | (4) | (37) | 
+ Net cash provided by financing activities | 1,032 | 747 | 
+ | 
+ Effect of exchange rate changes on cash and cash equivalents | — | 5 | 
+ Net change in cash | (2,461) | (853) | 
+ Cash, cash equivalents, and restricted cash—Beginning of period | 7,857 | 5,294 | 
+ Cash, cash equivalents, and restricted cash—End of period | $ | 5,396 | $ | 4,441 | 
+ | 
+ | 
+ | 
+ Supplemental disclosure of non-cash investing and financing activities: | 
+ Capital expenditures included in liabilities | $ | 369 | $ | 499 | 
+ Capital stock issued to settle bonuses | $ | 179 | $ | 47 | 
+ Right-of-use assets obtained in exchange for operating lease liabilities | $ | 122 | $ | 224 | 
+ 1 The prior period has been recast to conform to current period presentation. 
+ | 
+ | 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 19 
+ | 
+ | 
+ Depreciation and Amortization | 
+ | 
+ (in millions) | 
+ (unaudited) | 
+ | 
+ | Three Months Ended September 30, | Nine Months Ended September 30, | 
+ | 2024 | 2025 | 2024 | 2025 | 
+ Cost of revenues | $ | 186 | $ | 125 | $ | 599 | $ | 385 | 
+ Research and development | 20 | 18 | 56 | 52 | 
+ Selling, general, and administrative | 53 | 55 | 158 | 162 | 
+ Total depreciation and amortization expense | $ | 259 | $ | 198 | $ | 813 | $ | 599 | 
+ | 
+ Stock-Based Compensation Expense | 
+ | 
+ (in millions) | 
+ (unaudited) | 
+ | 
+ | Three Months Ended September 30, | Nine Months Ended September 30, | 
+ | 2024 | 2025 | 2024 | 2025 | 
+ Cost of revenues | $ | 6 | $ | 24 | $ | 46 | $ | 85 | 
+ Research and development | 59 | 74 | 281 | 230 | 
+ Selling, general, and administrative | 46 | 77 | 211 | 238 | 
+ Total stock-based compensation expense | $ | 111 | $ | 175 | $ | 538 | $ | 553 | 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 20 
+ | 
+ | 
+ Reconciliation of Non-GAAP | 
+ Financial Measures | 
+ | 
+ (in millions) | 
+ (unaudited) | 
+ | 
+ Adjusted Research and Development Expenses | Three Months Ended September 30, | Nine Months Ended September 30, | 
+ | 2024 | 2025 | 2024 | 2025 | 
+ | 
+ Total research and development expenses | $ | 350 | $ | 453 | $ | 1,239 | $ | 1,244 | 
+ R&D depreciation and amortization expenses | (20) | (18) | (56) | (52) | 
+ R&D stock-based compensation expenses | (59) | (74) | (281) | (230) | 
+ Adjusted research and development (non-GAAP) | $ | 271 | $ | 361 | $ | 902 | $ | 962 | 
+ | 
+ Adjusted Selling, General, and Administrative Expenses | Three Months Ended September 30, | Nine Months Ended September 30, | 
+ | 2024 | 2025 | 2024 | 2025 | 
+ | 
+ Total selling, general, and administrative expenses | $ | 427 | $ | 554 | $ | 1,419 | $ | 1,532 | 
+ SG&A depreciation and amortization expenses | (53) | (55) | (158) | (162) | 
+ SG&A stock-based compensation expenses | (46) | (77) | (211) | (238) | 
+ Adjusted selling, general, and administrative (non-GAAP) | $ | 328 | $ | 422 | $ | 1,050 | $ | 1,132 | 
+ | 
+ Adjusted Operating Expenses | Three Months Ended September 30, | Nine Months Ended September 30, | 
+ | 2024 | 2025 | 2024 | 2025 | 
+ | 
+ Total operating expenses | $ | 777 | $ | 1,007 | $ | 2,658 | $ | 2,776 | 
+ R&D depreciation and amortization expenses | (20) | (18) | (56) | (52) | 
+ R&D stock-based compensation expenses | (59) | (74) | (281) | (230) | 
+ SG&A depreciation and amortization expenses | (53) | (55) | (158) | (162) | 
+ SG&A stock-based compensation expenses | (46) | (77) | (211) | (238) | 
+ Total adjusted operating expenses (non-GAAP) | $ | 599 | $ | 783 | $ | 1,952 | $ | 2,094 | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 21 
+ | 
+ | 
+ Reconciliation of Non-GAAP | 
+ Financial Measures Continued | 
+ | 
+ (in millions) | 
+ (unaudited) | 
+ | 
+ Adjusted EBITDA | Three Months Ended September 30, | Nine Months Ended September 30, | 
+ | 2024 | 2025 | 2024 | 2025 | 
+ | 
+ Net loss attributable to common stockholders | $ | (1,100) | $ | (1,173) | $ | (4,003) | $ | (2,835) | 
+ Interest income, net | (8) | (7) | (65) | (19) | 
+ Provision for income taxes | — | (1) | 2 | 3 | 
+ Depreciation and amortization | 259 | 198 | 813 | 599 | 
+ Stock-based compensation expense | 111 | 175 | 538 | 553 | 
+ Other (income) expense, net | (1) | 191 | 8 | 86 | 
+ (Gain) Loss on convertible notes, net | (60) | — | 30 | — | 
+ Cost of revenue efficiency initiatives | 37 | — | 193 | — | 
+ Restructuring expenses | — | 15 | 30 | 15 | 
+ Asset impairments and write-offs | — | — | 30 | — | 
+ Joint venture formation expenses and other items 1 
+ | 5 | — | 12 | — | 
+ | 
+ | 
+ | 
+ Adjusted EBITDA (non-GAAP) | $ | (757) | $ | (602) | $ | (2,412) | $ | (1,598) | 
+ | 
+ | 
+ 1 Defined in Non-GAAP Financial Measures later in this letter. 
+ | 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 22 
+ | 
+ | 
+ Reconciliation of Non-GAAP | 
+ Financial Measures Continued | 
+ | 
+ (in millions, except per share amounts) | 
+ (unaudited) | 
+ | 
+ Adjusted Net Loss
+ | Three Months Ended September 30, | Nine Months Ended September 30, | 
+ | 2024 | 2025 | 2024 | 2025 | 
+ | 
+ Net loss attributable to common stockholders, basic and diluted | $ | (1,100) | $ | (1,173) | $ | (4,003) | $ | (2,835) | 
+ Stock-based compensation expense | 111 | 175 | 538 | 553 | 
+ Other (income) expense, net | (1) | 191 | 8 | 86 | 
+ (Gain) Loss on convertible notes, net | (60) | — | 30 | — | 
+ Cost of revenue efficiency initiatives | 37 | — | 193 | — | 
+ Restructuring expenses | — | 15 | 30 | 15 | 
+ Asset impairments and write-offs | — | — | 30 | — | 
+ Joint venture formation expenses and other items | 5 | — | 12 | — | 
+ Adjusted net loss attributable to common stockholders, basic and diluted (non-GAAP) | $ | (1,008) | $ | (792) | $ | (3,162) | $ | (2,181) | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Adjusted Net Loss Per Share | Three Months Ended September 30, | Nine Months Ended September 30, | 
+ | 2024 | 2025 | 2024 | 2025 | 
+ | 
+ Net loss per share attributable to common stockholders, basic and diluted | $ | (1.08) | $ | (0.96) | $ | (4.01) | $ | (2.42) | 
+ Stock-based compensation expense per share | 0.11 | 0.14 | 0.54 | 0.47 | 
+ Other expense, net per share | — | 0.16 | 0.01 | 0.07 | 
+ (Gain) Loss on convertible notes, net per share | (0.06) | — | 0.03 | — | 
+ Cost of revenue efficiency initiatives per share | 0.04 | — | 0.19 | — | 
+ Restructuring expenses per share | — | 0.01 | 0.03 | 0.01 | 
+ Asset impairments and write-offs per share | — | — | 0.03 | — | 
+ Joint venture formation expenses and other items per share | — | — | 0.01 | — | 
+ | 
+ Adjusted net loss per share attributable to common stockholders, basic and diluted (non-GAAP) | $ | (0.99) | $ | (0.65) | $ | (3.17) | $ | (1.87) | * | 
+ Weighted-average common shares outstanding, basic and diluted (GAAP) | 1,014 | 1,220 | 998 | 1,171 | 
+ *Does not calculate due to rounding. | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Free Cash Flow | Three Months Ended September 30, | Nine Months Ended September 30, | 
+ | 2024 | 2025 | 2024 | 2025 | 
+ | 
+ Net cash (used in) provided by operating activities | $ | (876) | $ | 26 | $ | (2,899) | $ | (98) | 
+ Capital expenditures | (277) | (447) | (814) | (1,247) | 
+ Free cash flow (non-GAAP) | $ | (1,153) | $ | (421) | $ | (3,713) | $ | (1,345) | 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 23 
+ | 
+ | 
+ Quarterly Financial Performance | 
+ Reconciliation of Non-GAAP | 
+ Financial Measures | 
+ | 
+ (in millions) | 
+ (unaudited) | 
+ | 
+ | Three Months Ended | 
+ | September 30,
+2024 | December 31,
+2024 | March 31,
+2025 | June 30,
+2025 | September 30,
+2025 | 
+ | 
+ Adjusted Research and Development Expenses | 
+ Total research and development expenses | $ | 350 | $ | 374 | $ | 381 | $ | 410 | $ | 453 | 
+ R&D depreciation and amortization expenses | (20) | (18) | (17) | (17) | (18) | 
+ R&D stock-based compensation expenses | (59) | (79) | (79) | (77) | (74) | 
+ Adjusted research and development (non-GAAP) | $ | 271 | $ | 277 | $ | 285 | $ | 316 | $ | 361 | 
+ | 
+ Adjusted Selling, General, and Administrative Expenses | 
+ Total selling, general, and administrative expenses | $ | 427 | $ | 457 | $ | 480 | $ | 498 | $ | 554 | 
+ SG&A depreciation and amortization expenses | (53) | (55) | (55) | (52) | (55) | 
+ SG&A stock-based compensation expenses | (46) | (59) | (80) | (81) | (77) | 
+ Adjusted selling, general, and administrative (non-GAAP) | $ | 328 | $ | 343 | $ | 345 | $ | 365 | $ | 422 | 
+ | 
+ Adjusted Operating Expenses | 
+ Total operating expenses | $ | 777 | $ | 831 | $ | 861 | $ | 908 | $ | 1,007 | 
+ R&D depreciation and amortization expenses | (20) | (18) | (17) | (17) | (18) | 
+ R&D stock-based compensation expenses | (59) | (79) | (79) | (77) | (74) | 
+ SG&A depreciation and amortization expenses | (53) | (55) | (55) | (52) | (55) | 
+ SG&A stock-based compensation expenses | (46) | (59) | (80) | (81) | (77) | 
+ Total adjusted operating expenses (non-GAAP) | $ | 599 | $ | 620 | $ | 630 | $ | 681 | $ | 783 | 
+ | 
+ Adjusted EBITDA | 
+ Net loss attributable to common stockholders | $ | (1,100) | $ | (744) | $ | (545) | $ | (1,117) | $ | (1,173) | 
+ Interest income, net | (8) | (2) | (9) | (3) | (7) | 
+ Provision for income taxes | — | 3 | 2 | 2 | (1) | 
+ Depreciation and amortization | 259 | 218 | 147 | 254 | 198 | 
+ Stock-based compensation expense | 111 | 154 | 183 | 195 | 175 | 
+ Other (income) expense, net | (1) | (1) | (107) | 2 | 191 | 
+ (Gain) Loss on convertible notes, net | (60) | 82 | — | — | — | 
+ Cost of revenue efficiency initiatives | 37 | — | — | — | — | 
+ Restructuring expenses | — | — | — | — | 15 | 
+ | 
+ Joint venture formation expenses and other items | 5 | 13 | — | — | — | 
+ | 
+ Adjusted EBITDA (non-GAAP) | $ | (757) | $ | (277) | $ | (329) | $ | (667) | $ | (602) | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 24 
+ | 
+ | 
+ Quarterly Financial Performance | 
+ Reconciliation of Non-GAAP | 
+ Financial Measures Continued | 
+ | 
+ (in millions, except per share amounts) | 
+ (unaudited) | 
+ | 
+ | Three Months Ended | 
+ | September 30,
+2024 | December 31,
+2024 | March 31,
+2025 | June 30,
+2025 | September 30,
+2025 | 
+ | 
+ Adjusted Net Loss | 
+ Net loss attributable to common stockholders, basic and diluted | $ | (1,100) | $ | (744) | $ | (545) | $ | (1,117) | $ | (1,173) | 
+ Stock-based compensation expense | 111 | 154 | 183 | 195 | 175 | 
+ Other (income) expense, net | (1) | (1) | (107) | 2 | 191 | 
+ (Gain) Loss on convertible notes, net | (60) | 82 | — | — | — | 
+ Cost of revenue efficiency initiatives | 37 | — | — | — | — | 
+ Restructuring expenses | — | — | — | — | 15 | 
+ | 
+ Joint venture formation expenses and other items | 5 | 13 | — | — | — | 
+ Adjusted net loss attributable to common stockholders, basic and diluted (non-GAAP) | $ | (1,008) | $ | (496) | $ | (469) | $ | (920) | $ | (792) | 
+ | 
+ | 
+ | 
+ Adjusted Net Loss Per Share | 
+ Net loss per share attributable to common stockholders, basic and diluted | $ | (1.08) | $ | (0.70) | $ | (0.48) | $ | (0.97) | $ | (0.96) | 
+ Stock-based compensation expense per share | 0.11 | 0.15 | 0.16 | 0.17 | 0.14 | 
+ Other (income) expense, net per share | — | — | (0.09) | — | 0.16 | 
+ (Gain) Loss on convertible notes, net per share | (0.06) | 0.08 | — | — | — | 
+ Cost of revenue efficiency initiatives per share | 0.04 | — | — | — | — | 
+ Restructuring expenses per share | — | — | — | — | 0.01 | 
+ | 
+ Joint venture formation expenses and other items per share | — | 0.01 | — | — | — | 
+ Adjusted net loss per share attributable to common stockholders, basic and diluted (non-GAAP) | $ | (0.99) | $ | (0.46) | * | $ | (0.41) | $ | (0.80) | $ | (0.65) | 
+ Weighted-average common shares outstanding, basic and diluted (GAAP) | 1,014 | 1,058 | 1,137 | 1,155 | 1,220 | 
+ | 
+ | 
+ *Does not calculate due to rounding. | 
+ | 
+ Free Cash Flow | 
+ Net cash (used in) provided by operating activities | $ | (876) | $ | 1,183 | $ | (188) | $ | 64 | $ | 26 | 
+ Capital expenditures | (277) | (327) | (338) | (462) | (447) | 
+ Free cash flow (non-GAAP) | $ | (1,153) | $ | 856 | $ | (526) | $ | (398) | $ | (421) | 
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 25 
+ | 
+ | 
+ Forward-Looking Statements | This shareholder letter and statements that are made on our earnings call contain forward looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements contained in this shareholder letter and made on our earnings call that do not relate to matters of historical fact should be considered forward-looking statements, including without limitation statements regarding our future operations, initiatives and business strategy, including our future financial results, vehicle profitability and future gross profits, our future capital expenditures, the underlying trends in our business (including customer preferences and expectation), global economic conditions, including evolving trade regulation, policies and tariffs and the resulting impact on our global supply chain and material costs and access, including changes to the availability of government and economic incentives, including tax credits, for electric vehicles, our market opportunity, and our potential for growth, our production ramp and manufacturing capacity expansion and anticipated production levels, our expected future production and deliveries, scaling our service infrastructure, our expected future products and technology and product enhancements, including enhanced performance features, and pricing (including the launches of R2 and R3), potential expansion of commercial van sales, future revenue opportunities, including with respect to the emerging autonomous driving market, our joint venture with Volkswagen Group, including the expected benefits from the partnership and future Volkswagen Group investments, expected benefits from partnerships with other third parties, and other expected incremental available capital pursuant to agreements with Volkswagen Group and the U.S. Department of Energy. These statements are neither promises nor guarantees and involve known and unknown risks, uncertainties, and other important factors that may cause our actual results, performance, or achievements to be materially different from any future results, performance, or achievements expressed or implied by the forward-looking statements, including, but not limited to: our history of losses as a growth-stage company and our limited operating history; we may underestimate or not effectively manage our capital expenditures and costs; that we will require additional financing and capital to support our business; our ability to maintain strong demand for our vehicles and attract and retain a large number of consumers; our ability to grow sales of our commercial vehicles, risks relating to the highly competitive automotive market, including competitors that may take steps to compete more effectively against us; consumers’ willingness to adopt electric vehicles; risks associated with our joint venture with Volkswagen Group, risks associated with additional strategic alliances or acquisitions, that we may experience significant delays in the manufacture and delivery of our vehicles; that our long-term results depend on our ability to successfully introduce and market new products and services; that we have experienced and could continue to experience cost increases or disruptions in supply of raw materials or other components used in our vehicles; our dependence on suppliers and volatility in pricing of components and raw materials; our ability to accurately estimate the supply and demand for our vehicles and predict our manufacturing requirements; our ability to scale our business and manage future growth effectively; our ability to maintain our relationship with one customer that has generated a significant portion of our revenues; that we are highly dependent on the services and reputation of our Founder and Chief Executive Officer; our ability to offer attractive financing and leasing options; that we may not succeed in maintaining and strengthening our brand; that our focus on delivering a high-quality and engaging Rivian experience may not maximize short-term financial results; risks relating to our distribution model; that we rely on complex machinery, and production involves a significant degree of risk and uncertainty; that our operations, IT systems and vehicles rely on highly technical software and hardware that could contain errors or defects; that we may not successfully develop the complex software and technology systems in coordination with the Volkswagen Group joint venture and our other vendors needed to produce our vehicles; inadequate access to charging stations and not being able to realize the benefits of our charging networks; risks related to our use of lithium-ion battery cells; that we have limited experience servicing and repairing our vehicles; that the automotive industry is rapidly evolving and may be subject to unforeseen changes; risks associated with advanced driver assistance systems technology; the unavailability, reduction or elimination of government and economic incentives and credits for electric vehicles; that we may not be able to obtain the government grants, loans, and other incentives, including regulatory credits, for which we apply or on which we rely; that vehicle retail sales depend heavily on affordable interest rates and availability of credit; insufficient warranty reserves to cover warranty claims; that future field actions, including product recalls, could harm our business; risks related to product liability claims; risks associated with international operations; our ability to attract and retain key employees and qualified personnel; our ability to maintain our culture; that our business may be adversely affected by labor and union activities; that our financial results may vary significantly from period to period; that we have incurred a significant amount of debt and expect to incur significant additional indebtedness; risks related to third-party vendors for certain product and service offerings; potential conflicts of interest involving our principal stockholders or their affiliates; risks associated with exchange rate and interest rate fluctuations; that breaches in data security, failure of technology systems, | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 26 
+ | 
+ | 
+ Forward-Looking Statements | cyber-attacks or other security or privacy-related incidents could harm our business; risks related to our use of artificial intelligence technologies; risk of intellectual property infringement claims; that our use of open source software in our applications could subject our proprietary software to general release; our ability to prevent unauthorized use of our intellectual property; risks related to governmental regulation and legal proceedings; effect of trade tariffs or other trade barriers; effects of export and import control laws; delays, limitations and risks related to permits and approvals required to operate or expand operations; our internal control over financial reporting; and the other factors described in our filings with the SEC. These factors could cause actual results to differ materially from those indicated by the forwardlooking statements made in this shareholder letter. Any such forward looking statements represent management’s estimates as of the date of this shareholder letter. While we may elect to update such forward-looking statements at some point in the future, except as may be required by law, we disclaim any obligation to do so, even if subsequent events cause our views to change.
+ | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 27 
+ | 
+ | 
+ Non-GAAP   
+Financial Measures | In addition to our results determined in accordance with generally accepted accounting principles in the United States (“GAAP”), we review financial measures that are not calculated and presented in accordance with GAAP (“non-GAAP financial measures”). We believe our non-GAAP financial measures are useful in evaluating our operating and cash performance. We use the following non-GAAP financial information, collectively, to evaluate our ongoing operations and for internal planning and forecasting purposes. We believe that non-GAAP financial information, when taken collectively, may be helpful to investors, because it focuses on underlying operating results and trends, provides consistency and comparability with past financial performance, and assists in comparisons with other companies, some of which use similar non-GAAP financial information to supplement their GAAP results. The non-GAAP financial information is presented for supplemental informational purposes only, should not be considered a substitute for financial information presented in accordance with GAAP, and may be different from similarly titled non-GAAP measures used by other companies. A reconciliation of each historical non-GAAP financial measure to the most directly comparable financial measure stated in accordance with GAAP is provided above. Reconciliations of forward-looking non-GAAP financial measures are not provided because we are unable to provide such reconciliations without unreasonable effort due to the uncertainty regarding, and potential variability of, certain items, such as stock-based compensation expense and other costs and expenses that may be incurred in the future. Investors are encouraged to review the related GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most directly comparable GAAP financial measures. 
+ | 
+ | Our non-GAAP financial measures include adjusted research and development expenses, adjusted selling, general, and administrative expenses, total adjusted operating expenses, adjusted EBITDA, adjusted net loss, adjusted net loss per share, and free cash flow. 
+ Adjusted research and development expenses is defined as total research and development expenses, less R&D depreciation and amortization expenses and R&D stock-based compensation expenses. 
+ Adjusted selling, general, and administrative expenses is defined as total selling, general, and administrative expenses, less SG&A depreciation and amortization expenses and SG&A stock-based compensation expenses. 
+ Adjusted operating expenses is defined as total operating expenses, less R&D depreciation and amortization expenses, R&D stock-based compensation expenses, SG&A depreciation and amortization expenses, and SG&A stock-based compensation expenses. 
+ | 
+ | Adjusted EBITDA is defined as net loss before interest expense (income), net, provision for income taxes, depreciation and amortization, stock-based compensation, other expense (income), net, and special items. Our management team ordinarily excludes special items from its review of the results of the ongoing operations. Special items is comprised of (i) cost of revenue efficiency initiatives which include costs incurred as we transition between major vehicle programs, cost incurred for negotiations with major suppliers regarding changing demand forecasts or design modifications, and other costs for enhancing capital and cost optimization of the Company (ii) restructuring expenses for significant actions taken by the Company, (iii) significant asset impairments and write-offs, and (iv) other items that we do not necessarily consider to be indicative of earnings from ongoing operating activities, including loss (gain) on convertible note, net, and joint venture formation expenses.
+ Adjusted net loss is defined as net loss before stock-based compensation expense, other (expense) income, and special items. Our management team ordinarily excludes special items from its review of the results of the ongoing operations. Special items is comprised of (i) cost of revenue efficiency initiatives which include costs incurred as we transition between major vehicle programs, cost incurred for negotiations with major suppliers regarding changing demand forecasts or design modifications, and other costs for enhancing capital and cost optimization of the Company (ii) restructuring expenses for significant actions taken by the Company, (iii) significant asset impairments and write-offs, and (iv) other items that we do not necessarily consider to be indicative of earnings from ongoing operating activities, including loss (gain) on convertible note, net, and joint venture formation expenses.
+ Adjusted net loss per share is defined as adjusted net loss divided by the weighted-average common shares outstanding. 
+ Free cash flow is defined as net cash used in operating activities less capital expenditures. | 
+ | 
+ | Q3 2025 Shareholder Letter | © 2025 Rivian. All rights reserved. | 28 
+ | 

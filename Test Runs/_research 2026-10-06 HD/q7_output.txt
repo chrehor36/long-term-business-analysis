@@ -1,0 +1,10 @@
+== all capex: five-year mean 14,062; growth endpoint FY2021->FY2025 -2.84%/yr; log-fit 1.26%/yr
+   no growth                g=  0.00%  value $248,442M  per share $249.02  expected return at $281.15 5.01%  price clearing 10% $140.94
+   shown growth, endpoint   g= -2.84%  value $198,619M  per share $199.08  expected return at $281.15 3.94%  price clearing 10% $116.55
+   shown growth, log-fit    g=  1.26%  value $274,429M  per share $275.06  expected return at $281.15 5.54%  price clearing 10% $153.50
+== depreciation variant: five-year mean 14,090; growth endpoint FY2021->FY2025 -1.98%/yr; log-fit 1.94%/yr
+   no growth                g=  0.00%  value $248,940M  per share $249.52  expected return at $281.15 5.02%  price clearing 10% $141.23
+   shown growth, endpoint   g= -1.98%  value $213,030M  per share $213.52  expected return at $281.15 4.26%  price clearing 10% $123.69
+   shown growth, log-fit    g=  1.94%  value $290,335M  per share $291.01  expected return at $281.15 5.85%  price clearing 10% $161.18
+owner-cash yield at the price (all capex) 5.01% against the sovereign 5.66%
+market cap $280,500M; growth the price needs (10y then flat) to return 5.66%: 1.53%/yr; to return 10%: 9.96%/yr

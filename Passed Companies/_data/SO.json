@@ -1,0 +1,24 @@
+{
+ "ticker": "SO",
+ "name": "Southern Company",
+ "headline": "One of the largest US electric utility groups, with monopoly service in Georgia, Alabama and Mississippi, plus gas utilities.",
+ "what_short": "Regulated electric and gas utilities, US Southeast",
+ "what_it_does": "Southern Company owns the regulated electric utilities that serve Georgia, Alabama and Mississippi, led by Georgia Power. It also owns gas distribution utilities (Southern Company Gas) and Southern Power, which sells electricity under long contracts. The traditional electric companies earned 79% of five-year segment net income.",
+ "why_it_passed": [
+  "Its electric franchises rest on law and regulators' orders, and survived two major construction failures, Kemper and Vogtle.",
+  "After Vogtle the Georgia regulator let Georgia Power recover $7.562 billion of its construction costs.",
+  "It has about 97% of Southern Power's investment under contract through 2030.",
+  "Data centres and other large customers have contracted for new power since 2023, adding demand the utility must supply."
+ ],
+ "why_not_now": "A regulator caps what a utility may earn, so the price is far above what that capped return justifies. At $92.69 a share a buyer would earn about 2.6% a year with no growth, or at most about 4.9%, less than the 5.33% on a 30-year US Treasury bond. The analysis's value range is $45.62 to $82.70.",
+ "watch": [
+  "Long-term debt is $71.9 billion, and earnings cover interest only about 2.5 times; a drop to a junk credit rating could trigger up to $3.8 billion of collateral demands.",
+  "Owners absorbed about $2.9 billion of pre-tax charges after Vogtle, so regulators do not always let it recover overruns.",
+  "Convertible notes and equity units are being issued, and hurricane exposure on the Gulf coast is a risk."
+ ],
+ "value_low": 45.62,
+ "value_high": 82.70,
+ "utility": true,
+ "run_date": "2026-10-26",
+ "currency": "USD"
+}

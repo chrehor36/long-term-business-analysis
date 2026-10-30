@@ -1,0 +1,294 @@
+{
+  "MSFT": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Sells per-seat and OEM licenses for Windows, Office and server software: near-zero marginal cost on each incremental license, so revenue per installed seat and seat count are the whole model. A generalist can explain it; FY2012 (reported 2012-07-19) showed ~76% gross margin on $73.7B revenue."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "At 2013-06-30 the franchise economics were intact and visible in filed results: FY2012 10-K (2012-07-26) revenue $73.7B with segment operating income of $11.5B on Windows & Windows Live ($18.4B rev), $15.7B on Microsoft Business/Office ($24.0B rev) and $5.6B on Server & Tools ($18.7B rev) - three separate businesses each earning utility-like returns on almost no capital. Windows ran ~90% of PCs and Office was the de facto document standard; enterprise agreements and Software Assurance made revenue annuity-like. Q3 FY13 (reported 2013-04-18) still showed Server & Tools +11% and Business +5%. Countervailing evidence already public: Windows 8 (launched 2012-10-26) was poorly received and IDC reported on 2013-04-10 that Q1 2013 PC shipments fell 13.9% - the steepest decline since it began tracking in 1994 - explicitly blaming Windows 8; Microsoft had also written off $6.19B of aQuantive goodwill (announced 2012-07-02), and Online Services was loss-making. Judged on FY2013 economics the moat was WIDE in the OS/productivity/server core, with the PC-unit tailwind already gone."
+      },
+      {
+        "from": 2014,
+        "class": "WIDE",
+        "note": "Class unchanged, but the adjacent hardware/mobile bets failed visibly: $900M Surface RT inventory writedown disclosed with Q4 FY2013 on 2013-07-18 (just after the anchor, and the first quarter Microsoft ever took such a charge on its own device), then a $7.6B impairment of the Nokia phone business announced 2015-07-08 with ~7,800 job cuts. The core stayed wide - FY2015 (reported 2015-07-21) Office and server annuities held while commercial cloud grew - so the writedowns dated the failure of the device adjacency, not of the licensing franchise."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2001-06",
+        "severity": "SERIOUS",
+        "note": "US v. Microsoft. District court found illegal monopoly maintenance (conclusions of law 2000-04-03) and ordered a breakup (2000-06-07); the DC Circuit on 2001-06-28 affirmed the monopoly-maintenance liability, VACATED the breakup remedy, and disqualified the trial judge for extrajudicial statements creating an appearance of bias. Settled with DOJ 2001-11-02; final judgment approved 2002-11-01. Graded SERIOUS, not DISQUALIFYING: pure competition law (tying, exclusionary dealing with OEMs), no finding of fraud or of deceiving customers about the product."
+      },
+      {
+        "date": "2002-06",
+        "severity": "DISQUALIFYING",
+        "note": "SEC settled administrative cease-and-desist order, 2002-06-03. The Commission FOUND that Microsoft maintained seven reserve accounts that did not comply with GAAP because they lacked adequately substantiated bases, held between $200M and $900M of unsupported and undisclosed reserves from July 1995 to June 1998, and thereby MISSTATED ITS INCOME BY MATERIAL AMOUNTS in periodic filings covering 1994-07-01 through 1998-06-30 - i.e. 'cookie jar' reserve smoothing. Graded DISQUALIFYING because the rubric's core case is accounting manipulation and the SEC made an affirmative finding of material income misstatement. Mitigating facts for the applicator: no fine was imposed, no individuals were charged, Microsoft consented without admitting or denying, the conduct ended in FY1998 - 15 years before the anchor - and there is no repeat accounting finding in the following 15 years."
+      },
+      {
+        "date": "2004-03",
+        "severity": "SERIOUS",
+        "note": "European Commission decision 2004-03-24: EUR 497.2M fine for abuse of dominance (withholding server interoperability information and tying Windows Media Player). Upheld almost in full by the Court of First Instance 2007-09-17. Competition law only; no deception element found - SERIOUS."
+      },
+      {
+        "date": "2008-02",
+        "severity": "SERIOUS",
+        "note": "Non-compliance penalties on the 2004 decision: EUR 280.5M periodic penalty 2006-07-12, then EUR 899M on 2008-02-27 for charging unreasonable interoperability royalties. The General Court reduced the 2008 penalty to EUR 860M on 2012-06-27 (partial annulment on legitimate-expectation grounds). Still competition law - SERIOUS."
+      },
+      {
+        "date": "2013-03",
+        "severity": "SERIOUS",
+        "note": "European Commission fined Microsoft EUR 561M on 2013-03-06 for BREACHING ITS OWN LEGALLY BINDING COMMITMENT - the browser 'ballot screen' made binding by the 2009-12-16 commitment decision. The screen was absent from Windows 7 Service Pack 1 from May 2011 to July 2012, so ~15M users never saw it, and Microsoft filed compliance reports asserting compliance during that window. First time the Commission ever fined a company for breaching a commitment decision. Grading rationale, honestly stated: this is the closest of Microsoft's antitrust matters to a dishonesty finding, because inaccurate compliance reporting to a regulator is a deception-adjacent element. It is graded SERIOUS rather than DISQUALIFYING because the Commission attributed the lapse to a technical error in a Windows build, made no finding of intent to deceive, Microsoft acknowledged responsibility and did not contest the breach, and the underlying matter is a tying remedy - pure competition law. An analyst who weighted the false compliance reports more heavily could defensibly go higher."
+      },
+      {
+        "date": "2013-03",
+        "severity": "SERIOUS",
+        "note": "FCPA exposure became public 2013-03-19 (WSJ) - DOJ and SEC examining kickback allegations from a former Microsoft China representative plus reseller/consultant relationships in Romania, Italy, Russia and Pakistan (gifts and trips to procurement officials, bribes to win Romanian ministry contracts). At the anchor this was an OPEN INVESTIGATION with no finding, which is why it is SERIOUS rather than DISQUALIFYING. Microsoft confirmed the inquiries publicly the same week."
+      },
+      {
+        "date": "2019-07",
+        "severity": "DISQUALIFYING",
+        "note": "POST-ANCHOR resolution of the above: 2019-07-22 Microsoft Hungary entered a DOJ non-prosecution agreement paying $8.75M criminal penalty and Microsoft settled SEC FCPA books-and-records/internal-controls charges for ~$16.6M (total ~$25.3M), for discounts channeled through resellers to fund improper payments to Hungarian government officials 2013-2015, with related conduct in Saudi Arabia, Turkey and Thailand. Conduct partly post-dates the 2013 anchor; the finding is dated 2019-07 and must be excluded at 2013-06-30."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "MSI": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Sells P25 mission-critical two-way radios and the network infrastructure behind them to police, fire and government agencies, then collects multi-year service, maintenance and system-integration fees on the installed base. Unit economics are a hardware sale plus a long services tail against a multi-year backlog - simple to explain."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "At 2015-06-30 the switching-cost case was strong and visible. Public-safety LMR is a standards-bound (APCO Project 25), interoperability-critical installed base with 15-20 year replacement cycles, heavy sole-source and incumbent-favoured procurement, and a buyer whose cost of a failed radio call is measured in lives, not dollars - Motorola's share of US public-safety LMR was routinely described as roughly 70-80%. Economics corroborated it: FY2014 non-GAAP operating margin 18.2% of sales, rising to 20.5% in FY2015 (reported 2016-02-04) DESPITE falling revenue - pricing held while volume fell, which is the signature of real switching costs. The revenue decline visible at the anchor was mostly portfolio and budget, not share: the Enterprise (rugged handheld/barcode) business was sold to Zebra, closing 2014-10-27, taking revenue from $8.7B (FY2013) to $5.88B (FY2014), and Q1 2015 (reported 2015-04-30) sales fell ~11% on North American government budget pressure. The live threat at the anchor was the FirstNet nationwide public-safety LTE network authorised by the Feb 2012 spectrum act - a potential long-run substitute for LMR that had not touched reported results."
+      },
+      {
+        "from": 2018,
+        "class": "WIDE",
+        "note": "Class unchanged and the moat confirmed in reported results after the anchor: Airwave (the UK national public-safety network) acquired 2016-02-19, growth resumed with FY2017 revenue $6.38B, +8% (reported 2018-02-01), and the software/services mix and backlog grew rather than shrank - LTE proved additive, not substitutive. Separately, a federal jury on 2020-02-14 awarded Motorola Solutions $764.6M against Hytera for trade-secret theft and copyright infringement of its DMR source code, evidence that the product advantage was proprietary rather than merely incumbent."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2002-11",
+        "severity": "MINOR",
+        "note": "SEC Section 21(a) Report of Investigation re Motorola, Inc. (Rel. 34-46898, 2002-11-25) concerning selective disclosure to analysts under Regulation FD. A report, not an enforcement action - no penalty, no finding of fraud. Predecessor-entity conduct: Motorola, Inc. was renamed Motorola Solutions on 2011-01-04."
+      },
+      {
+        "date": "2011-12",
+        "severity": "SERIOUS",
+        "note": "Silverman v. Motorola, Inc. securities class action (filed 2007-08-09, N.D. Ill.; class period 2006-07-19 to 2007-01-05) settled for $200M cash - announced December 2011, agreement signed 2012-02-01, $150M funded by insurers. The complaint alleged false statements concealing Motorola's inability to deliver competitive 3G handsets after Freescale failed to supply working 3G chips, AND two 'sham' intellectual-property transactions with Freescale and Qualcomm in Q3 2006 that were allegedly not properly disclosed and violated GAAP in order to hide the earnings impact - i.e. accounting-manipulation allegations. Graded SERIOUS, not DISQUALIFYING, on three grounds: settled with no admission, there was NO restatement and NO SEC enforcement action, and the alleged conduct was in the Mobile Devices handset business under then-CEO Ed Zander. DISCONTINUITY FLAG: Motorola Solutions is the same legal entity (renamed 2011-01-04) and therefore carried the liability, but the handset business was spun off as Motorola Mobility on 2011-01-04 and the management responsible had left - Greg Brown, MSI's CEO at the 2015 anchor, did not become co-CEO until 2008-01."
+      },
+      {
+        "date": "2023-04",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR. UK Competition and Markets Authority referred the Airwave network to a market investigation on 2021-10-26 and on 2023-04-05 imposed a price control, finding Motorola Solutions was earning excess profits from a network the Home Office had no realistic alternative to. Pure competition/economic-regulation matter with no deception element and no finding of misconduct - SERIOUS by the rubric's competition-law rule."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "MTB": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "A plain commercial bank: gather low-cost core deposits in dense upstate New York and Mid-Atlantic markets, lend them to regional commercial and CRE borrowers, earn the spread less credit losses and operating cost. A generalist can explain the P&L; the hard part is judging credit quality, not the model."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "At 2020-06-30 the evidence for a durable but bounded franchise was in the 2019 10-K (filed 2020-02-20): net income $1.93B, ROA 1.73% and ROTCE around 19% on $119.9B of assets, an efficiency ratio in the mid-50s (top-decile among US regionals), and a deposit base concentrated in markets where M&T held #1 or #2 share - Buffalo, Rochester, Syracuse, Baltimore. M&T had also been profitable in essentially every quarter since 1976 and Berkshire had been a long-term holder (Buffett's relationship with the late Robert Wilmers, CEO 1983-2017, who died 2017-12-16). NARROW rather than WIDE because a deposit franchise confers cost advantage, not pricing power: loan pricing is set by competitors, net interest margin is hostage to the Fed (already visible - the Fed cut to zero on 2020-03-15 and M&T's Q1 2020, reported 2020-04-20, showed NIM compression plus a $290M provision), and the balance-sheet leverage of ~7.6x equity means the moat is underwriting discipline, which is a management property rather than a structural one."
+      },
+      {
+        "from": 2021,
+        "class": "NARROW",
+        "note": "Class unchanged. The COVID credit cycle passed without impairing the franchise (2020 full-year provision ~$800M, reported 2021-01-21, with hotel and CRE concentrations the main worry), and M&T then agreed on 2021-02-22 to acquire People's United Financial in an all-stock deal (~$7.6B, closed 2022-04-01), roughly doubling New England presence - scale added, but the same cost-advantage-not-pricing-power character."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2013-04",
+        "severity": "SERIOUS",
+        "note": "Public 2013-04-12/15: M&T and Hudson City Bancorp disclosed that the Federal Reserve would not approve their August 2012 merger because examiners had identified deficiencies in M&T's Bank Secrecy Act / anti-money-laundering compliance program. The deal, originally slated to close Q2 2013, was pushed out repeatedly (termination date extended to 2014-12-31, then 2015-04-30, then further) and did not close until 2015-11-01. Graded SERIOUS: a supervisory finding of program deficiencies and a blocked transaction, with no allegation that M&T deceived anyone."
+      },
+      {
+        "date": "2013-06",
+        "severity": "SERIOUS",
+        "note": "Written Agreement between M&T Bank Corporation, Manufacturers and Traders Trust Co. and the Federal Reserve Bank of New York, dated 2013-06-06 and made public 2013-06-17, requiring a revised firm-wide BSA/AML compliance risk management program, customer due diligence and suspicious-activity monitoring overhaul. Remediation reportedly cost M&T more than $400M over four years. The Federal Reserve TERMINATED the agreement on 2017-07-28 - i.e. fully cured three years before the anchor."
+      },
+      {
+        "date": "2016-01",
+        "severity": "SERIOUS",
+        "note": "Wilmington Trust - PREDECESSOR CONDUCT, DISCONTINUITY FLAGGED. The SEC charged four former Wilmington Trust officers (CFO David Gibson, President/COO Robert Harra, controller Kevyn Rakowski, chief credit officer William North) in 2015 with intentionally understating past-due loans - omitting roughly $351M of matured loans 90+ days past due from Q3 2009 disclosures and ~$330M in Q4 2009 - and federal prosecutors indicted Wilmington Trust Corporation itself, which M&T publicly responded to on 2016-01-08. All of the conduct occurred in 2009-2010, BEFORE M&T acquired Wilmington Trust in May 2011, and related solely to Wilmington Trust's own commercial banking operations under its own management; M&T's public position was exactly that. Resolution: WTC settled civilly for $60M on 2017-10-09 (including $16M previously paid to the SEC) with no admission of liability and no finding of wrongdoing against the entity; the four executives were convicted at trial in May 2018, but the Third Circuit VACATED the fraud convictions in January 2021, holding prosecutors had not shown the bank's past-due reporting interpretation was the only reasonable reading of the regulations. Graded SERIOUS per the predecessor-conduct rule, not DISQUALIFYING, despite the underlying allegation being securities fraud."
+      },
+      {
+        "date": "2016-05",
+        "severity": "SERIOUS",
+        "note": "2016-05-13: M&T Bank agreed to pay $64M to resolve DOJ False Claims Act allegations that from 2006-01-01 to 2011-12-31 it certified for FHA insurance mortgage loans that did not meet HUD underwriting requirements and failed to follow FHA quality-control requirements. Originated from a whistleblower suit by a former M&T employee (Keisha Kelschenbach). This is M&T's own conduct, not a predecessor's, and the government's theory was knowing certification - but it was a civil FCA resolution in the industry-wide FHA sweep that caught nearly every large originator, resolved without a litigated finding of fraud. SERIOUS."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "NDAQ": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Four simple revenue lines: per-share transaction fees on trades matched, annual fees from listed companies, subscriptions for market data and indexes, and licensed trading technology sold to other exchanges. Explaining it requires no specialist knowledge."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "At 2013-06-30 the business was two halves with opposite economics. Durable half: the listings franchise is effectively a duopoly with NYSE (switching venue is rare and reputationally loaded), and market data and technology are recurring - FY2012 (reported 2013-01-31) net exchange revenue was $1,652M, and by FY2013 the mix was 41.0% Market Services, 12.0% Listings, 23.3% Information Services, 23.7% Technology Solutions, i.e. roughly 59% of net revenue was NOT transaction-dependent. Commodity half: US cash equity matching is a price-taking business fought on fee/rebate schedules - Nasdaq's matched share sat around 18-20% with BATS's two venues alone at roughly 19% of daily US equity volume and a large share of flow going to dark pools and internalisers, and volumes were falling industry-wide. Operational fragility was also already public: the 2012-05-18 Facebook IPO cross failure. NARROW - a real but partial moat, resting on listings/data rather than on trading."
+      },
+      {
+        "from": 2014,
+        "class": "NARROW",
+        "note": "Class unchanged, competitive facts sharpened. BATS and Direct Edge announced their merger 2013-08-26 (completed 2014-01-31), creating a venue larger than Nasdaq by US equity volume and pushing Nasdaq to third - confirming that the trading half had no pricing power. Nasdaq's answer, visible in dated transactions, was to buy recurring revenue: eSpeed (announced 2013-04-01, closed 2013-06-28) and the Thomson Reuters investor-relations, PR and multimedia businesses (announced 2013-12-16, closed 2013-05-2014)."
+      },
+      {
+        "from": 2020,
+        "class": "WIDE",
+        "note": "POST-ANCHOR re-rating. By FY2019 (reported 2020-01-29) roughly three-quarters of Nasdaq's net revenue was non-transactional and largely subscription/annuity - index licensing built on the Nasdaq-100, market data, listings, and market technology sold to scores of other exchanges and regulators - with annualised recurring revenue disclosed as a headline metric. That mix, plus the index franchise's brand-level pricing power, supports WIDE from around 2020; it is not visible in FY2012-13 results and must be excluded at the 2013 anchor."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2013-05",
+        "severity": "SERIOUS",
+        "note": "2013-05-29: SEC settled charges against NASDAQ Stock Market LLC and NASDAQ OMX for securities-law violations during the 2012-05-18 Facebook IPO; $10M penalty, the largest ever imposed on an exchange at the time. Findings: a design limitation in the IPO cross order-matching system left more than 30,000 Facebook orders stuck in the system for over two hours; senior leadership convened a 'Code Blue' call, removed a few lines of code, and chose to open secondary trading WITHOUT having understood the root cause; Nasdaq violated its own price/time-priority rule and assumed an unauthorised ~$10.8M proprietary position in an error account, functioning outside its own rules. Nasdaq consented without admitting or denying the findings, and separately paid a $62M accommodation fund to harmed members (SEC-approved 2013-03-22, up from an initial $40M). Graded SERIOUS, not DISQUALIFYING: the SEC's findings are of poor systems and poor real-time decision-making, not of deceiving members or the Commission. This is one month before the anchor and therefore squarely in the anchor's information set."
+      },
+      {
+        "date": "2013-08",
+        "severity": "MINOR",
+        "note": "POST-ANCHOR. 2013-08-22 'flash freeze': a connectivity failure between NYSE Arca and Nasdaq's Securities Information Processor halted trading in all Nasdaq-listed securities for roughly three hours. SEC Chair White summoned exchange leaders on 2013-09-12; no penalty or enforcement action against Nasdaq resulted. Operational, not integrity - MINOR."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "NEE": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "PASS, but two very different businesses under one holding company and the split matters. Florida Power & Light is a rate-regulated monopoly utility serving ~4.6M customer accounts: it invests capital in rate base and the Florida PSC lets it earn an allowed return, so earnings are essentially allowed-ROE times rate base - trivially explainable. NextEra Energy Resources is the largest US wind generator plus merchant nuclear and gas, and its economics run through PPAs, production tax credits, tax-equity partnerships and a power/gas hedging book; that arm is materially harder to read but not opaque, since contracted output and PTC eligibility are disclosed."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "At 2013-06-30 the REGULATED half looked wide-moat but is not one in the pricing-power sense: FPL has a legal service-territory monopoly, the lowest typical residential bill among Florida utilities, and Florida's constructive regulatory regime - the FPSC issued its final order in January 2013 approving the 2012 rate agreement, granting a $350M annualised base-revenue increase and an allowed regulatory ROE of 10.50% with a +/-100bp band (FPL may seek relief below 9.50%, intervenors may seek review above 11.50%) through 2016. That is a moat granted and capped by a political body, which can be reset at the next rate case - a regulator-set return, not pricing power. The UNREGULATED half (NEER, then ~10+ GW of wind plus merchant nuclear/gas) competed on levelised cost and depended on the production tax credit - extended only one year at a time (the 2013-01-02 fiscal-cliff extension) - while low natural gas prices in 2012-2013 compressed merchant spark spreads and NEER's marginal-unit economics. Combined verdict NARROW: durable but externally determined on the regulated side, cost-competitive but subsidy- and commodity-exposed on the merchant side."
+      },
+      {
+        "from": 2019,
+        "class": "NARROW",
+        "note": "Class unchanged, mix improved. The regulated share grew (Gulf Power acquired 2019-01-01) and NEER's output became overwhelmingly long-term contracted with a multi-gigawatt signed backlog disclosed each year, so merchant commodity exposure shrank. Still NARROW, because returns on both halves remain set by regulators and by tax policy rather than by the customer's willingness to pay."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2010-01",
+        "severity": "MINOR",
+        "note": "In January 2010 the Florida PSC granted only a small fraction of FPL's ~$1.27B base-rate request, against the backdrop of a 2009-2010 controversy over improper closeness between the PSC and the utilities it regulated (PSC staff socialising with FPL officials, undisclosed contacts, retained BlackBerry PIN messages); two commissioners were subsequently denied reappointment in 2010. Graded MINOR because at the time there was NO enforcement action or legal finding against FPL itself and the amounts were rate-case outcomes rather than penalties. Later reporting (e.g. February 2016) alleged FPL had run an aggressive behind-the-scenes campaign in 2009 to investigate PSC commissioners and circulate negative material about then-Governor Crist and other critics - that characterisation became public in 2016, not 2010, and must not colour the earlier date."
+      },
+      {
+        "date": "2012-04",
+        "severity": "MINOR",
+        "note": "NRC imposed a $140,000 civil penalty on FPL (reported 2012-04-11) for two Turkey Point violations: the Technical Support Center's ventilation power supply was disconnected 2010-12-04 to 2011-07-13 and again 2011-10-10 to 2011-10-28 without adequate compensatory measures, and FPL FAILED TO NOTIFY the NRC within the required eight hours of the resulting major loss of emergency-assessment capability. Contains a failure-to-report-to-regulator element, which is why it is flagged, but graded MINOR: low-to-moderate safety significance and a $140k penalty against a company with ~$14B of revenue - immaterial by any financial measure."
+      },
+      {
+        "date": "2020-10",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR. From October 2020 the Miami Herald and other Florida outlets reported that 'ghost' no-party candidates had been run in three 2020 Florida Senate races (Jestine Iannotti, SD9; Alex Rodriguez, SD37; Celso Alfonso, SD39) to siphon votes from Democrats, financed through a chain of nonprofits controlled by Jeff Pitts, then CEO of Matrix LLC - a consulting firm working for FPL. At this date the link to FPL was reported but not documented and FPL denied involvement, so SERIOUS rather than DISQUALIFYING."
+      },
+      {
+        "date": "2021-04",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR. NRC enforcement (proposed penalty $150,000, letters dated 2021-04-06, announced 2021-04-08) concerning FALSIFIED maintenance records by staff at Turkey Point; FPL said it would pay. Deliberate falsification of records by site personnel is a dishonesty element, but it is localised employee misconduct with a trivial penalty rather than management-level or systemic deception - SERIOUS."
+      },
+      {
+        "date": "2022-07",
+        "severity": "DISQUALIFYING",
+        "note": "POST-ANCHOR. In July 2022 internal Matrix LLC documents leaked to the Orlando Sentinel and Floodlight showed FPL CEO Eric Silagy communicating with consultant Jeff Pitts - who controlled the dark-money vehicle Grow United - using the PSEUDONYM 'Theodore Hayes', and directing pressure on a sitting state senator, tying FPL leadership directly to the covert 2020 ghost-candidate and dark-money operation. Graded DISQUALIFYING: the pseudonymous channel and the layered nonprofits are deliberate concealment of a company's political operation, which is dishonesty in the Gate 3 sense even though it is not accounting fraud or bribery. Counter-facts the applicator should weigh: NextEra commissioned an internal investigation (disclosed around January 2022) that concluded no law was violated, no enforcement action was ever brought against FPL or NextEra, and the only criminal conviction was of former state senator Frank Artiles (September 2024), who was not an FPL employee. Silagy retired abruptly in January 2023."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "NTAP": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Sells storage arrays whose value sits in the ONTAP operating software, then collects high-margin multi-year hardware and software maintenance on the installed base. Product gross margin, services attach rate and installed-base renewals are the whole economic story - readily explainable."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "At 2015-06-30 the case for stickiness was real but the numbers were already soft. ONTAP was an entrenched data-management platform - snapshots, replication, admin skills and application certifications all make migration painful - and NetApp was the clear #2 in external storage at roughly 11-12% share. But FY2015 (fiscal year ended 2015-04-24, reported 2015-05-20) net revenue was $6,122.7M, DOWN 3% year over year, with product revenue falling faster than total, gross margin around 61% but GAAP operating margin only in the high single digits to ~10%; declining OEM revenue (IBM, Fujitsu) and friction in migrating customers from 7-Mode to clustered ONTAP compounded it. Two competitive attacks were visible: all-flash entrants (Pure Storage, EMC XtremIO) undercutting performance-tier arrays, and public-cloud object/block storage substituting at the low end and for new workloads. Management confirmed the deterioration - on the FY2015 call the CEO said he was not satisfied with performance and the company disclosed plans to cut ~500 jobs, following an earlier reduction in February 2015; the board then replaced 10-year CEO Tom Georgens with George Kurian, announced around 2015-05/06-01. NARROW, and thinning."
+      },
+      {
+        "from": 2017,
+        "class": "NONE",
+        "note": "POST-ANCHOR. FY2016 (reported 2016-05-25) settled the question for a period: revenue $5.55B, DOWN 9%; Q4 revenue $1.38B, down 10.4%, with an $8M net LOSS for the quarter; product revenue down about 10% through the first three quarters; and external-storage-systems share fell nearly a full point, from almost 12% to just over 11%. Losing price, volume and share simultaneously while running at a loss is the absence of a moat, not a narrow one."
+      },
+      {
+        "from": 2019,
+        "class": "NARROW",
+        "note": "POST-ANCHOR. The all-flash pivot worked: FY2018 (reported 2018-05-23) revenue $5.91B, +7% - the first growth in three years - with gross margin back above 63%, restored operating margin, all-flash array run-rate growing at triple-digit rates off a small base, and cloud-adjacent products (ONTAP Cloud / Cloud Volumes on AWS, Azure and GCP) converting the cloud from pure substitute into a channel. Back to NARROW; not WIDE, because share never returned to its former level and the array market kept commoditising."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2009-04",
+        "severity": "SERIOUS",
+        "note": "2009-04-15: NetApp Inc. and NetApp U.S. Public Sector Inc. agreed to pay the United States $128M plus interest to resolve DOJ False Claims Act allegations - at the time the largest contract-fraud recovery GSA had ever obtained. The allegations: NetApp knowingly failed to give GSA current, accurate and complete information about its commercial sales practices and discounts, and knowingly failed to comply with the price-reduction clauses of its GSA schedule contracts by not passing on the deeper discounts it gave commercial customers. Whistleblower Igor Kapuscinski, a former NetApp procurement manager, received $19.2M (15%). NetApp neither admitted nor denied the allegations. GRADING NOTE, stated honestly: the government's theory was knowing nondisclosure to a government customer over a period of years, which is deception-adjacent and an analyst could argue toward DISQUALIFYING. It is graded SERIOUS because it resolved without admission or any litigated finding, it is a defective-pricing/contract-compliance matter under a clause that has snared much of the IT industry (Oracle settled the same theory for $199.5M in 2011), and there was no allegation of falsified financial statements or of deceiving NetApp's own shareholders. Six years before the anchor, with no repeat matter since."
+      }
+    ],
+    "gate5_broken_by": "2016-05"
+  },
+  "ORCL": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Sells perpetual database and middleware licenses, then collects annual support at roughly 22% of license value with renewal rates above 90%, plus applications and (post-Sun) hardware. The economics reduce to license bookings feeding a compounding, ~90%-plus-margin support annuity - easy to explain and easy to see in the segment disclosure."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "At 2015-06-30 the database franchise still had the strongest switching costs in enterprise software - roughly 40-48% of the relational database market, mission-critical applications certified against Oracle, and a support annuity customers renew because dropping support means no patches on systems that run the business. FY2015 (fiscal year ended 2015-05-31, reported 2015-06-17) showed software license updates and product support revenue near $18.9B at ~94% segment margin and total GAAP operating margin around 37% on $38.2B of revenue - the marks of a wide moat. BUT the first crack in the licensing engine was ALREADY in reported results at the anchor and must be dated pre-anchor: FY2015 new software license revenue was $8.54B, DOWN 9.4% for the year, with Q4 new licenses down 16.7% to $3.14B; total revenue was flat in dollars (up 4% in constant currency) and the quarter missed on both revenue and earnings. Cloud revenue was growing ~28% year over year but off a base too small to offset it, and hardware was shrinking. So: WIDE at the anchor, with cloud/SaaS substitution visible in the top line as of 2015-06-17 - not later."
+      },
+      {
+        "from": 2017,
+        "class": "NARROW",
+        "note": "POST-ANCHOR. FY2016 (reported 2016-06-16) confirmed the trend rather than reversing it - total revenue about $37.0B, down ~3%, new software license down double digits again, hardware down - while AWS and Azure took the new-workload decision and Salesforce, Workday and others took new applications spend. The support annuity kept cash flow enormous, which is why the class is NARROW rather than NONE, but Oracle had visibly lost the ability to set the terms on incremental enterprise spending."
+      },
+      {
+        "from": 2024,
+        "class": "WIDE",
+        "note": "POST-ANCHOR. Oracle Cloud Infrastructure and AI-training demand re-widened the moat in reported results: FY2024 (reported 2024-06-11) revenue about $53B with cloud infrastructure growing over 50% and remaining performance obligations of roughly $98B, rising to roughly $138B a year later - a contracted backlog that is itself a switching cost. Excluded at the 2015 anchor."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2011-10",
+        "severity": "SERIOUS",
+        "note": "2011-10-06: Oracle Corp. and Oracle America agreed to pay the United States $199.5M plus interest - then the largest False Claims Act recovery GSA had ever obtained - over a 1998 GSA Multiple Award Schedule contract. DOJ alleged Oracle knowingly failed to give GSA current, accurate and complete information about its commercial sales practices and discounts, KNOWINGLY MADE FALSE STATEMENTS to GSA about those practices, and violated the price-reduction clause by not passing on deeper commercial discounts. Whistleblower Paul Frascella, a former Oracle employee, received $40M. Settled without admission of liability. Graded SERIOUS rather than DISQUALIFYING - the 'false statements' language is a government allegation resolved civilly with no litigated finding, and this was the industry-wide GSA price-reduction theory (NetApp settled the same theory for $128M in 2009) - but the deception allegation is flagged explicitly because it is not merely a technical pricing dispute."
+      },
+      {
+        "date": "2012-08",
+        "severity": "DISQUALIFYING",
+        "note": "2012-08-16: SEC settled FCPA charges against Oracle Corporation for $2M civil penalty. Oracle India, from 2005 to 2007, allowed distributors to park roughly $2.2M of proceeds in unauthorised 'side funds' held off Oracle's books, some of which went to phony vendors; the SEC charged violations of the FCPA's books-and-records and internal-controls provisions. Settled without admitting or denying. Graded DISQUALIFYING because the rubric places FCPA/bribery matters in that category and the mechanism was deliberate off-book concealment by company personnel. Facts that cut the other way and the applicator should weigh: the charges were books-and-records and internal controls ONLY - no bribery or anti-bribery charge - the amount was trivial ($2M penalty, $2.2M of funds), Oracle VOLUNTARILY DISCLOSED the conduct, cooperated, fired the employees involved and upgraded its compliance program, and the conduct was five to seven years stale at settlement. What is NOT available at a 2012 or 2015 anchor, but is worth recording: the SEC charged Oracle a SECOND time on 2022-09-27, imposing $23M and expressly labelling it a recidivist, so with hindsight 2012 was not an isolated lapse."
+      },
+      {
+        "date": "2018-08",
+          "severity": "MINOR",
+        "note": "POST-ANCHOR. Securities class action filed August 2018 alleging Oracle executives made misleading statements about cloud revenue growth, concealing that growth was being driven by coercive sales tactics tied to license audits rather than organic demand. Private litigation with no regulatory finding, and it did not produce a restatement - MINOR. Relevant to the 2015 anchor only as a later data point on how the cloud transition was managed."
+      },
+      {
+        "date": "2022-09",
+        "severity": "DISQUALIFYING",
+        "note": "POST-ANCHOR but with PRE-ANCHOR-ADJACENT CONDUCT - date carefully. 2022-09-27: SEC charged Oracle a second time under the FCPA and Oracle paid about $23M ($8M disgorgement plus ~$15M penalty) over slush funds used by subsidiaries in India, Turkey and the United Arab Emirates to pay foreign officials. The SEC described conduct running from roughly 2014 to 2019 - i.e. some of it had begun by the 2015-06-30 anchor - but NONE of it was publicly known until 2022-09, so Gate 3 at the anchor cannot use it. Recorded here so the timeline is honest about what was true versus what was knowable."
+      }
+    ],
+    "gate5_broken_by": null
+  }
+}

@@ -1,0 +1,19 @@
+year   OCF  SBC  constr  nucF netAcq  D&A  defFuel | OC_all(eq)  OC_maint(eq)  OC_maint_exfuel(eq) | +int(1-t) => OC_maint(all-equity)  OC_all(all-equity)
+2016   4522    0   4781  128    108  1962    -66 |     -602       2324         2390 |       2994         68
+2017   4270    0   5691  108  -2160  1997     84 |      563       2098         2013 |       2776       1241
+2018   5223    0   6311   46      0  2287    190 |    -1199       2825         2636 |       3567       -457
+2019   4270    0   6051   92    918  2514     85 |    -2863       1593         1507 |       2400      -2055
+2020   3833   74   6246   70    -71  2683    -32 |    -2548        944          976 |       1757      -1735
+2021   3840   78   5660  104    648  2826  -1648 |    -2714        768         2416 |       1666      -1816
+2022   5288   79   6672  101    989  3203   -319 |    -2862       1596         1915 |       2612      -1847
+2023   5012   66   7378  128  -1186  3090    893 |    -1450       1652          759 |       2974       -128
+2024   6804   67   7631  140    -77  3290    277 |    -1028       3236         2959 |       4688        424
+2025   6944   70   8453  130   3428  3380    133 |    -5296       3205         3072 |       4701      -3800
+
+5-yr 2021-2025 averages (equity basis): all-spending -2670; maintenance-only 2091; maintenance ex deferred fuel 2224
+after-tax interest avg 1237; all-equity: maintenance 3328; all-spending -1433
+maintenance ex fuel series 2021-25: [2416, 1915, 759, 2959, 3072]
+growth end-to-end 6.2%/yr; between halves (2021-22 avg 2165 vs 2024-25 avg 3016, 3 yrs apart) 11.7%/yr
+sales growth 2021-2025 6.8%/yr; 2016-2025 3.3%/yr
+owner cash (maint, eq) / revenue by year: {2016: 14.2, 2017: 13.6, 2018: 17.4, 2019: 10.2, 2020: 6.3, 2021: 4.6, 2022: 8.1, 2023: 8.7, 2024: 16.4, 2025: 14.7}
+growth spending (all capital spending less D&A and nuclear fuel), 2021-25: [3482, 4458, 3102, 4264, 8501]  avg 4761

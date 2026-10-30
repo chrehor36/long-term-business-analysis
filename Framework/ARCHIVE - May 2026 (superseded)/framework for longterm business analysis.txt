@@ -1,0 +1,810 @@
+     A FRAMEWORK FOR LONG-TERM
+               BUSINESS ANALYSIS
+
+               Based on the Primary Sources of Warren Buffett and Charlie Munger
+                                                       May 2026
+
+                               "It's not supposed to be easy. Anyone who finds it easy is stupid."
+                                                               -- Charlie Munger
+
+ "The goal is not to win. It is to see how wrong you can be and still be right. Margin of safety, moat assessment,
+             conservative DCF modeling, and position sizing are each sequential admissions of fallibility."
+
+Primary sources: BRK Letters 1977­2025 · Partnership Letters 1956­1970 · Poor Charlie's Almanack · Wesco Letters 1983­2011 · BRK Meeting
+                                                                               Transcripts 1994­Present
+
+                                                                                        Page 1 of 23
+TABLE OF CONTENTS
+
+Abstract      Thesis, Methodology, Scope, and Central Claim
+
+Introduction  Overview and Framework Philosophy
+
+Gate 1        Circle of Competence
+
+Gate 2        Moat Identification
+
+Gate 3        Management Integrity
+
+Gate 4        Financial Quality
+
+Gate 5        Inversion
+
+Gate 6        Valuation
+
+Gate 7        Position Sizing and Monitoring
+
+Gate 8        Reverse DCF
+
+Quick Reference One-Page Summary
+
+Glossary      Key Terms and Definitions
+
+Appendix A    Primary Source Reading Order
+
+Appendix B    Portfolio Tracking Tools
+
+A business must pass every gate in sequence. A failure at any gate stops the analysis entirely.
+The DCF is the last step -- never the first.
+
+COMPANION DOCUMENTS: The Analysis Workbook provides fillable sheets for applying each gate to a specific
+company. 42 Principles -- Complete Source Tracing maps every principle in this document to its primary source
+with full attribution.
+
+                                              Page 2 of 23
+ABSTRACT
+
+Thesis
+      This document proposes a sequential, gate-based methodology for evaluating businesses as long-term
+
+investment candidates. The methodology is derived exclusively from the primary sources of Warren E. Buffett and
+Charles T. Munger -- their published annual letters, meeting transcripts, and recorded speeches. No analytical
+principle in this framework is invented; each traces to a named source and year.
+Methodology
+
+      The framework consists of eight sequential gates, each of which must be passed before the next is attempted.
+A failure at any gate terminates the analysis. The gates are ordered to maximise the efficiency of the
+disqualification process: qualitative filters (Gates 1­3) precede financial analysis (Gate 4), which precedes
+adversarial testing (Gate 5), which precedes valuation (Gates 6 and 8). Position sizing and monitoring (Gate 7) is
+an ongoing process that follows entry and governs the conditions for exit.
+Scope and limitations
+
+      The framework is designed for the evaluation of publicly traded businesses with at least eight consecutive
+quarters of primary source financial data available. It is not designed for early-stage companies, businesses
+without established earnings, or situations where primary source filings are unavailable or unreliable. The
+framework does not guarantee outcomes. It is an explicit acknowledgment of the investor's own fallibility -- each
+gate is a structured attempt to identify and quantify the ways in which an analysis could be wrong.
+Central claim
+
+      A business that passes all eight gates at a price that provides an adequate margin of safety represents a
+probable mispriced bet -- a situation in which the market price implies assumptions that are more pessimistic than
+the available primary source evidence supports. The framework does not predict that the price will converge to
+intrinsic value within any specific timeframe. It holds that time, applied to a business with a genuine durable
+competitive advantage, is itself a compounding force. (Buffett, 1989).
+
+                                                                                          Page 3 of 23
+INTRODUCTION
+
+What this framework is
+A sequential, gate-based process for evaluating businesses as long-term investment candidates. Every step
+follows directly from the published writings, letters, and meeting transcripts of Warren Buffett and Charlie Munger.
+Nothing in this framework is invented. Everything traces to a primary source.
+What this framework is not
+A stock screening tool. A momentum system. A relative valuation approach. A method for finding the next earnings
+beat. This framework does not care about the next quarter. It cares about whether the business will be worth more
+in ten years than it is today, and whether you are paying less than it is worth right now.
+The sequence principle
+The eight gates are not a checklist to complete in any order -- they are a sequence. Each gate filters out
+businesses that do not belong in a concentrated long-term portfolio. The most common mistake is beginning with
+Gate 6, the DCF. A DCF on a business you do not understand, run by management you have not evaluated, with a
+moat you have not verified, is not analysis. It is arithmetic dressed up as conviction. The DCF is the last gate. Not
+the first.
+The behavioral principle (Munger, USC 1994)
+"It is not given to human beings to have such talent that they can just know everything about everything all the
+time. But it is given to human beings who work hard at it -- who look and sift the world for a mispriced bet -- that
+they can occasionally find one." (Munger, USC 1994). The framework exists to find the mispriced bet. Once found,
+the behavioral test is simple: do nothing. The process is done. The market takes its course.
+
+                                                                                          Page 4 of 23
+GATE 1 -- CIRCLE OF COMPETENCE
+
+   Buffett and Munger jointly. First articulated in the 1996 Berkshire shareholder letter (Buffett, 1996). Expanded by Munger in the
+   1994 USC speech "Worldly Wisdom" (Munger, USC 1994). Buffett: "What an investor needs is the ability to correctly evaluate
+   selected businesses. Note that word selected -- you don't have to be an expert on every company or even many. You only
+   have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing
+   its boundaries, however, is vital." Munger's addition: the circle is a latticework of mental models built across disciplines -- not
+   static knowledge (Munger, USC 1994). A narrow circle honestly defined is far more valuable than a wide circle whose
+   boundaries are unknown to the investor.
+ Proposition: No analysis shall proceed without the investor first establishing independent verification of the
+ competitive mechanism through means other than management's own characterisation.
+RULE
+Can you independently verify the moat claim without relying on management's description? If the answer is no --
+stop. "I don't know" is a valid and complete answer.
+QUESTIONS TO ANSWER
+
+    · Do you understand how the business makes money at the unit economics level?
+    · Can you identify the primary cost drivers without reading the annual report?
+    · Do you have an informational edge, or are you relying on publicly available narrative?
+    · If the business has multiple segments, can you evaluate each segment independently?
+COMMON FAILURE MODES
+    · Confusing familiarity with understanding -- using a product does not mean you understand the economics of
+    producing it.
+    · Assuming domain expertise transfers -- working in an industry gives context, not automatic analytical edge
+    on valuation.
+    · Mistaking narrative for analysis -- if the thesis is built on what management says rather than what the
+    numbers show, you are outside your circle.
+ACCEPTANCE CRITERIA
+You can describe the moat mechanism in your own words without quoting management.
+
+                                                                                          Page 5 of 23
+GATE 2 -- MOAT IDENTIFICATION
+
+   Developed by Buffett (Buffett, 1986). First used publicly in the 1986 Berkshire letter and refined across decades of annual
+   letters and meeting transcripts. The four-category taxonomy was systematised by Morningstar's Pat Dorsey building on
+   Buffett's framework. Buffett: "The key to investing is not assessing how much an industry is going to affect society, or how
+   much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that
+   advantage." (Buffett, 1986). Munger: "The best business is one that earns 25% on equity and keeps reinvesting at those rates.
+   Most businesses don't have those qualities. Finding them is the job." (Munger, Wesco 2007).
+ Proposition: The competitive advantage of a business segment, and above all the durability of that advantage,
+ shall be identified and classified prior to any financial assessment.
+
+RULE
+Never assess a conglomerate as a single moat. Evaluate each business segment independently.
+
+THE FOUR MOAT TYPES
+    · SWITCHING COST -- Customers incur meaningful cost (financial, operational, or psychological) to change
+    suppliers. Measured by NRR, gross retention, churn rate, and contract length trends.
+    · NETWORK EFFECT -- The product becomes more valuable as more users adopt it. Each new participant
+    strengthens the position of all others. Measured by MAU growth, GMV, engagement depth, buyer/seller ratios.
+    · INTANGIBLE ASSET -- Brand, patent, regulatory license, or proprietary data competitors cannot replicate
+    quickly. Measured by brand premium vs private label, patent pipeline, regulatory win rate. The theoretical basis
+    is Buffett's 1987 letter distinction between economic goodwill and accounting goodwill: economic goodwill is the
+    durable earnings power generated by a brand or moat -- unlike physical assets, it does not depreciate with
+    time but compounds as the competitive position strengthens. This is why intangible asset moats can persist
+    and grow for decades without additional capital investment.
+    · COST ADVANTAGE -- Scale, location, process, or access creates a structural cost advantage competitors
+    cannot close. Measured by gross margin vs competitors, cost per unit trends.
+
+FOR EACH SEGMENT ASK
+    · What specifically prevents a well-capitalised competitor from taking share? Name the mechanism precisely.
+    · Has the moat held during a period of stress -- recession, new entrant, or technology shift? Find the primary
+    source evidence.
+    · Is the moat WIDENING, STABLE, or NARROWING? Prove it with a metric trend over at least 8 consecutive
+    quarters. Not a claim.
+    · What is the single most plausible scenario in which this moat disappears entirely?
+
+                                                                                          Page 6 of 23
+MOAT CLASSIFICATION AND DCF FADE STRUCTURE
+    · WIDE -- Competitive advantage expected to persist 20+ years. Returns materially above cost of capital
+    across multiple full business cycles. DCF fade: 10yr explicit + 15yr linear fade.
+    · NARROW -- Competitive advantage expected to persist 10­20 years. Some erosion risk at the margin but
+    core position intact. DCF fade: 10yr explicit + 10yr linear fade.
+    · NONE -- No durable competitive advantage. Returns converge toward cost of capital. DCF fade: 5yr explicit
+    + 5yr linear fade. Only hold at a deep discount.
+    · The fade structure is grounded in Buffett's 1989 letter: "Time is the friend of the wonderful business, the
+    enemy of the mediocre." A wide moat business held long enough will bail out even a mediocre entry price. A
+    mediocre business held long enough will destroy even a great entry price. This is why wide moats receive 25
+    years of explicit and fade period -- time works for them -- while no-moat businesses receive only 10 years,
+    because time works against them.
+
+HOW TO BUILD THE 8-QUARTER METRIC TREND
+    · Select the single metric most directly tied to the moat type -- NRR for switching cost, MAU for network effect,
+    brand premium for intangible asset, gross margin vs competitors for cost advantage.
+    · Pull the value for each of the last 8 quarters from primary source filings only -- 10-Q for Q1-Q3, 10-K for Q4.
+    Record the exact figure and the filing it came from.
+    · Record the direction each quarter: + (improving), = (flat), or - (deteriorating).
+    · A moat is confirmed widening when the metric trends positively across the majority of the 8 quarters with no
+    two consecutive deteriorating periods.
+    · A moat is confirmed narrowing when the metric trends negatively across the majority of quarters. Two
+    consecutive deteriorating periods triggers mandatory re-evaluation of the thesis.
+    · A single quarter of deterioration in an otherwise positive trend is noise. Two consecutive quarters is signal.
+
+ACCEPTANCE CRITERIA
+Named moat type per segment, supported by a measurable metric trending in the right direction over at least 8
+consecutive quarters.
+
+                                                                                          Page 7 of 23
+GATE 3 -- MANAGEMENT INTEGRITY
+
+   Buffett: "We look for three things when we hire people: intelligence, energy and integrity. If they don't have the last one, the first
+   two will kill you." This principle runs through every Berkshire letter from 1977 onward. The candor test was articulated most
+   clearly in the 1989 letter (Buffett, 1989) -- the ideal annual report is written as if to a single intelligent, long-term partner who
+   deserves to know everything material. Munger identified the "man of questionable character" as a near-automatic disqualifier
+   (Munger, Poor Charlie's Almanack). One deliberate deception invalidates the entire investment case regardless of business
+   quality or price. Munger also developed the agency cost framework -- managers optimising for personal gain at shareholder
+   expense is the default human behavior, not the exception (Munger, Wesco Letters 1983­2011).
+ Proposition: Management integrity is a binary pre-condition, not a weighted input. A single demonstrated
+ deception disqualifies the investment case regardless of all other considerations.
+
+RULE
+Evaluate three dimensions in sequence. A failure on INTEGRITY disqualifies regardless of the score on the other
+two. All evidence must come from primary sources only -- 10-K, 10-Q, 20-F, 6-K, earnings call transcripts.
+
+DIMENSION 1 -- INTEGRITY (BINARY: PASS OR FAIL)
+    · Do they disclose unflattering information voluntarily, or only when legally required?
+    · When a key metric deteriorated, did they lead with it or bury it in management commentary?
+    · Any history of selective disclosure -- using a metric verbally when favourable and omitting it when it
+    deteriorates?
+    · Have they ever restated earnings, received SEC comment letters, or been cited for disclosure failures?
+    · ONE DELIBERATE DECEPTION = DISQUALIFICATION.
+
+DIMENSION 2 -- COMPETENCE
+    · Does the capital allocation record show returns above cost of capital over a full business cycle?
+    · Do they distinguish between maintenance and growth capital in communications to shareholders?
+    · Have they demonstrated the ability to say no to acquisitions and buybacks at bad prices?
+
+DIMENSION 3 -- ALIGNMENT
+    · Is significant personal wealth tied to long-term equity -- shares held, not options?
+    · Is compensation structured around owner earnings or adjusted metrics that exclude real costs?
+    · Do they communicate with shareholders as partners or as a constituency to be managed?
+
+ACCEPTANCE CRITERIA
+Clean integrity record. Competence and alignment both positive. A single integrity failure requires explicit
+documented justification before the analysis proceeds.
+
+                                                                                          Page 8 of 23
+GATE 4 -- FINANCIAL QUALITY
+
+   The owner earnings formula is Buffett's own invention, first defined explicitly in the 1986 Berkshire annual letter (Buffett, 1986).
+   GAAP earnings systematically misrepresent economic reality -- D&A; is real cash that was spent, and maintenance capex is a
+   real ongoing obligation that GAAP does not separate from growth capex. Buffett: "Owner earnings represent (a) reported
+   earnings plus (b) depreciation, depletion, amortization, and certain other non-cash charges less (c) the average annual amount
+   of capitalized expenditures for plant and equipment that the business requires to fully maintain its long-term competitive
+   position and its unit volume." (Buffett, 1986). Munger: "The fundamental concept is that all income statements are lies -- they
+   don't tell you the return on invested capital." (Munger, Wesco 2004). Owner earnings corrects for both distortions: it strips the
+   accounting fiction from D&A; and restores the real cash obligation of maintenance capex that GAAP buries inside a single
+   capital expenditure line. A business earning 6% on incremental capital is not a compounder regardless of headline earnings
+   growth.
+
+ Proposition: The economic earnings of a business shall be measured exclusively by owner earnings -- net
+ income adjusted for depreciation and maintenance capital expenditure -- derived from primary source filings
+ without recourse to adjusted or non-GAAP metrics.
+
+RULE
+Pull all figures from primary sources only -- 10-K, 10-Q, 20-F, 6-K filings. No analyst estimates. No adjusted
+metrics. No consensus anchoring.
+
+THE FULL BUFFETT OWNER EARNINGS FORMULA
+                    OWNER EARNINGS = Net Income + D&A; - Maintenance CapEx
+
+MAINTENANCE CAPEX ESTIMATION
+    · Capital-intensive businesses: 65­70% of total capex.
+    · Asset-light businesses: 20­30% of total capex.
+    · If management discloses the maintenance vs growth split directly in filings, use that figure.
+
+STOCK-BASED COMPENSATION (SBC)
+    · SBC is a real economic cost. Employees compensated in equity dilute existing shareholders.
+    · If SBC exceeds 15% of owner earnings, deduct it explicitly. Never add it back.
+    · Never use adjusted EBITDA as a proxy for owner earnings.
+
+FINANCIAL QUALITY CHECKLIST
+    · Is owner earnings growing faster than revenue? (confirms operating leverage)
+    · Is SBC accounted for as a real cost?
+    · Is the balance sheet a fortress -- net cash positive, minimal debt?
+    · Has gross margin been stable or expanding over 8+ consecutive quarters? (pricing power signal)
+    · Is return on incremental capital above 15%? (Munger's primary moat confirmation test)
+    · Can the business survive a 50% OE decline for 2 consecutive years without existential risk?
+
+ACCEPTANCE CRITERIA
+Owner earnings calculable directly from primary sources. Growing. SBC accounted for as a real cost. Balance
+sheet supports survival through a bad cycle.
+
+                                                                                          Page 9 of 23
+GATE 5 -- INVERSION
+
+   Munger's most distinctive intellectual contribution, drawn from Carl Jacobi's principle: "Invert, always invert." Munger introduced
+   this to investing in the 1994 USC Business School speech: "It is in the nature of things that many hard problems are best
+   solved when they are addressed backwards." From Poor Charlie's Almanack: "I have nothing to add to Darwin's insight about
+   looking hard for disconfirming evidence. The test of a good mind is to hold two opposing ideas simultaneously and still
+   function." Buffett's version -- the newspaper test: "Would I be comfortable if the Wall Street Journal wrote a story about this
+   decision?"
+RULE
+Before building a DCF, attempt to destroy the thesis. This gate is not optional and cannot be skipped.
+
+THE INVERSION PROCESS
+    · STEP A -- List every assumption the bull case requires to be true. Write them explicitly. If you cannot list
+    them, you do not have a thesis.
+    · STEP B -- For each assumption, construct the scenario where it fails completely.
+    · STEP C -- Check whether management has addressed each failure scenario on the record. Primary source
+    only -- filing or earnings transcript, not an IR presentation.
+    · STEP D -- Score each risk: [D] Addressed Directly / [DS] Addressed Structurally / [P] Partially Addressed /
+    [U] Unanswered.
+
+MANDATORY INVERSIONS FOR EVERY ANALYSIS
+    · MOAT DESTRUCTION -- What kills the moat? Technology shift, regulatory change, new entrant with deep
+    pockets, or commodity pricing pressure.
+    · MANAGEMENT FAILURE -- Key person dependency, succession gap, or incentive misalignment that
+    emerges under pressure or during transition.
+    · BALANCE SHEET STRESS -- What do the financials look like at trough earnings? Can the business survive
+    a 50% OE decline for 2 years?
+    · THESIS-BREAKING METRIC -- Define the single metric that, if it deteriorates for two consecutive quarters,
+    means the thesis is broken. Commit to it before you have a position.
+
+THE KEY INSIGHT
+    · The most dangerous risks are the ones management has never been asked about and has never
+    volunteered. Those are the ones the market has not priced.
+    · An UNANSWERED score on a mandatory inversion requires explicit written justification to proceed.
+
+ACCEPTANCE CRITERIA
+Every material inversion identified. Management's response sourced from primary documents. The single
+thesis-breaking metric defined and committed to in writing.
+
+                                                                                         Page 10 of 23
+GATE 6 -- VALUATION
+
+   The DCF derives from Graham's foundational insight in The Intelligent Investor (Graham, 1949) -- the value of any asset is the
+   present value of its future cash flows. Buffett absorbed this from Graham at Columbia and at the Graham-Newman partnership.
+   The margin of safety is Graham's concept from Security Analysis (Graham & Dodd, 1934): "The margin of safety is always
+   dependent on the price paid." Buffett refined Graham's approach by adding qualitative moat assessment. Munger: "All
+   intelligent investing is value investing -- acquiring more than you are paying for. A wonderful business at a fair price beats a
+   fair business at a wonderful price." Buffett on the discount rate (Buffett, Annual Meeting 1994): "I use the 30-year Treasury rate.
+   That's my yardstick." On precision: "It is better to be approximately right than precisely wrong." (Buffett, multiple letters).
+
+ Proposition: Intrinsic value is the present value of future owner earnings discounted at the risk-adjusted cost of
+ capital. Entry is permissible only at a price that provides a margin of safety sufficient to absorb errors of analysis
+ and judgment.
+
+RULE
+Gate 6 is only reached if Gates 1­5 are all passed. The DCF is the final confirmation -- not the starting point.
+
+STEP 1 -- OWNER EARNINGS BASE
+    · Use the most recent full fiscal year OE calculated in Gate 4.
+    · Strip confirmed one-time items with primary source evidence only.
+    · Do not use adjusted EBITDA. Do not use net income alone.
+
+STEP 2 -- DISCOUNT RATE (BUFFETT'S BUILD-UP METHOD, 1994 ANNUAL MEETING)
+    · Risk-free rate: 30-year Treasury or sovereign equivalent for the earnings currency.
+    · Equity risk premium: 5­6% for developed markets.
+    · Company-specific premium: 0­2% based on size, cycle exposure, single-customer concentration, and
+    management quality.
+    · Standard rate for a US large-cap quality business: 10.5%.
+    · CRITICAL FOR NON-USD BUSINESSES: anchor to the sovereign long-term rate. Run the full DCF in the
+    currency of earnings. Convert to USD at the final step only. Never apply a USD discount rate to non-USD
+    earnings.
+
+STEP 3 -- THREE GROWTH SCENARIOS
+    · BEAR -- plausible adverse cycle. What happens if the worst reasonable case plays out?
+    · BASE -- consistent with but not optimistic about management guidance. Use the lower of guidance and
+    recent OE trend.
+    · BULL -- what happens if the moat widens as theorised? Anchor to a specific thesis event.
+    · Year 1 growth: anchor to the lower of most recent OE growth or management guidance.
+    · Years 2­10: explicit rates declining toward terminal.
+    · Fade period: linear interpolation from year 10 rate to terminal growth rate.
+    · Terminal growth: Bear 2% / Base and Bull 3%.
+
+                                                                                         Page 11 of 23
+STEP 4 -- MOAT CLASSIFICATION AND FADE STRUCTURE
+    · Wide moat: 10yr explicit + 15yr linear fade to terminal.
+    · Narrow moat: 10yr explicit + 10yr linear fade to terminal.
+    · No moat: 5yr explicit + 5yr linear fade to terminal.
+    · The fade period reflects the reality that competitive advantages compress over time.
+    · TERMINAL VALUE FORMULA: TV = Final Fade Year OE × (1 + TGR) ÷ (WACC - TGR)
+    · Terminal PV = TV ÷ (1 + WACC) ^ final fade year.
+    · The WACC - TGR denominator is why terminal growth must always be below the discount rate. If TGR
+    equals or exceeds WACC, the formula produces an infinite or negative value -- a mathematical signal that the
+    assumption is unrealistic.
+
+STEP 5 -- MARGIN OF SAFETY (GRAHAM'S CONCEPT, BUFFETT'S APPLICATION)
+    · Wide moat: minimum 20% MOS. Maximum buy price = IV × 0.80.
+    · Narrow moat: minimum 20% MOS. Maximum buy price = IV × 0.80.
+    · No moat: minimum 30% MOS. Maximum buy price = IV × 0.70.
+    · The MOS is not merely a discount from intrinsic value -- it is an explicit acknowledgment of the investor's
+    own fallibility in analysis and forecasting.
+
+STEP 6 -- SENSITIVITY TABLE
+    · Build a WACC vs terminal growth rate grid. Calculate IV per share at every cell intersection.
+    · The thesis must hold across the majority of the table -- not just at one specific input combination.
+    · If the investment case only works at one WACC and one terminal rate, the thesis is fragile.
+    · Reflects Buffett's principle: "It is better to be approximately right than precisely wrong."
+
+ACCEPTANCE CRITERIA
+IV calculated from primary source owner earnings. MOS threshold confirmed on base case at current price.
+Sensitivity table shows thesis holds across majority of cells.
+
+                                                                                         Page 12 of 23
+GATE 7 -- POSITION SIZING AND MONITORING
+
+   Position sizing reflects Buffett's concentration philosophy (Buffett, 1993) and Munger's Kelly Criterion influence. Buffett: "We
+   believe that a policy of portfolio concentration may well decrease risk if it raises, as it should, both the intensity with which an
+   investor thinks about a business and the comfort-level he must feel with its economic characteristics before buying into it."
+   (Buffett, 1993). Monitoring: Buffett: "The key question is whether the competitive position of the business has changed."
+   (Buffett, Annual Meeting 2016). Sell discipline: Munger: "The reason we don't sell is that we don't think it's so important to move
+   around. There's a cost to activity and we're trying to avoid activity." (Munger, Wesco 1999).
+ Proposition: Once a position is established at a price below intrinsic value with thesis-confirming and
+ thesis-breaking metrics defined, no further action is required until one of the defined exit conditions is triggered.
+RULE
+Only enter when current price is below maximum buy price. Define the thesis-confirming and thesis-breaking
+metric before taking any position.
+ENTRY RULES
+
+    · Size proportional to conviction and MOS -- wider MOS justifies a larger initial position.
+    · For illiquid OTC positions, size for illiquidity risk regardless of MOS.
+    · Never average down without re-running the complete framework from Gate 1 first.
+
+                                                                                         Page 13 of 23
+BEFORE ENTRY -- DEFINE AND COMMIT IN WRITING
+    · THE THESIS-CONFIRMING METRIC -- the one number that, if it grows, proves the moat is intact.
+    · THE THESIS-BREAKING METRIC -- the one number that, if it deteriorates for two consecutive quarters,
+    means the position exits.
+    · THE NEXT CATALYST DATE -- the specific filing or earnings release where the confirming or breaking
+    metric will next be visible.
+
+MONITORING CADENCE -- EVERY QUARTER AT EARNINGS
+    · Has the thesis-confirming metric improved?
+    · Has the thesis-breaking metric deteriorated?
+    · Has management integrity remained intact?
+    · Has the competitive position changed materially?
+    · Has intrinsic value changed more than 10%? If yes -- rerun Gates 4, 5, and 6.
+
+THE ONLY VALID REASONS TO SELL
+    · Thesis-breaking metric confirmed deteriorating for two consecutive quarters  EXIT.
+    · Management integrity failure confirmed  EXIT.
+    · Price exceeds intrinsic value by more than 20%  begin reducing.
+    · Superior opportunity requires capital AND the new opportunity has wider MOS  evaluate.
+    · NEVER sell purely on price decline if the thesis is intact.
+    · NEVER sell because the market disagrees with your analysis.
+    · Price indifference is the behavioral test of the framework.
+
+ THE FINAL RULE: Once the framework is complete and the entry price is met -- DO NOTHING.
+     The process is done. The market takes its course. Buffett, 1996: "Inactivity strikes us as
+                                                      intelligent behavior."
+
+                                                                                         Page 14 of 23
+GATE 8 -- REVERSE DCF
+
+   Not a Buffett or Munger original -- but the direct application of Munger's inversion discipline (Munger, USC 1994) to the
+   valuation step. Instead of asking what the business is worth, ask what the market must believe for the current price to be
+   correct. Then evaluate whether that belief is justified by the historical record. Munger: "It is in the nature of things that many
+   hard problems are best solved when they are addressed backwards." (Munger, USC 1994).
+
+ Proposition: The valuation process is incomplete without inverting the DCF: the investor shall determine what the
+ current market price implies about future earnings and assess whether those implied assumptions are achievable,
+ stretched, or heroic.
+
+RULE
+Run the Reverse DCF after the forward DCF in Gate 6. It is a check on the market's implied assumptions -- not a
+replacement for the forward valuation.
+
+THE TWO CORE QUESTIONS
+    · QUESTION 1 -- Keeping growth rates fixed: what OE base does the current market price imply? Compare
+    against current, trough, and peak OE. Below trough = extreme pessimism and asymmetric upside. Above peak
+    = heroic assumptions, do not enter.
+    · QUESTION 2 -- Keeping the OE base fixed: what year-1 growth rate does the current price imply? Test
+    across four deceleration profiles (1pp, 1.5pp, 2pp, 2.5pp per year). Score each: ACHIEVABLE / STRETCHED /
+    HEROIC.
+
+ASYMMETRY RATIO
+    · Upside = Base IV minus Current Price.
+    · Downside = Current Price minus Bear IV.
+    · Asymmetry ratio = Upside divided by Downside.
+    · Above 3:1 -- high conviction entry.
+    · 2:1 to 3:1 -- acceptable entry.
+    · Below 2:1 -- no margin of safety, wait.
+
+THE REALISM CHECK
+    · ACHIEVABLE -- implied growth at or below recent OE CAGR. Market not pricing in anything the business
+    has not already demonstrated.
+    · STRETCHED -- implied growth above recent CAGR but below the bull case assumption. Possible but
+    requires continued execution above trend.
+    · HEROIC -- implied growth above the bull case assumption. Market pricing outcomes not supported by the
+    historical record. Downside risk is asymmetric.
+
+ACCEPTANCE CRITERIA
+Implied OE base at or below current OE. Implied growth achievable on at least two deceleration profiles.
+Asymmetry ratio above 2:1. Current price below base case 20% MOS entry.
+
+                                                                                         Page 15 of 23
+QUICK REFERENCE
+
+Gate Title               Core Question
+                         Can I verify the moat without management?
+1  Circle of Competence  Named type + 8-quarter metric trend
+                         Binary integrity filter -- one failure disqualifies
+2  Moat Identification   Full Buffett OE formula -- primary sources only
+                         Destroy the thesis before building the DCF
+3  Management Integrity  DCF last, not first
+                         Define metrics before entry -- then do nothing
+4  Financial Quality     What does the market have to believe?
+
+5  Inversion
+
+6  Valuation
+
+7  Position Sizing
+
+8  Reverse DCF
+
+            OWNER EARNINGS = Net Income + D&A; - Maintenance CapEx
+
+   Capital-intensive: Maintenance CapEx = 65­70% of total capex
+
+            Asset-light: Maintenance CapEx = 20­30% of total capex
+
+Discount rate       30-yr Treasury + ERP (5-6%) + company-specific (0-2%) = ~10.5%
+                    Non-USD: use sovereign rate + ERP. Convert IV to USD last.
+Fade structure      Never apply a USD discount rate to non-USD earnings.
+
+Terminal growth     Wide moat: 10yr explicit + 15yr fade
+Margin of safety    Narrow moat: 10yr explicit + 10yr fade
+SBC rule            No moat: 5yr explicit + 5yr fade
+Sell triggers
+                    Bear: 2% | Base: 3% | Bull: 3%
+Asymmetry ratio
+Behavioral rule     Wide / Narrow moat: minimum 20%. Max buy = IV × 0.80
+                    No moat: minimum 30%. Max buy = IV × 0.70
+
+                    If SBC > 15% of OE -- deduct explicitly. Never add back. Never use adjusted EBITDA.
+
+                    Breaking metric down 2 consecutive quarters  EXIT
+                    Management integrity failure  EXIT
+                    Price > 120% of IV  REDUCE
+
+                    Upside ÷ Downside. Above 3:1 = high conviction. 2­3:1 = acceptable. Below 2:1 = wait.
+
+                    Do nothing once entry price is met and framework is complete.
+                    Never average down without rerunning Gates 1­5.
+                    Never sell on price decline if thesis is intact.
+
+                         Page 16 of 23
+GLOSSARY
+
+AGENCY COST
+    The cost arising when a manager acts in their own interest rather than in the interest of shareholders. Munger
+    identified this as the default human behavior, not the exception. Identified through compensation structure,
+    capital allocation history, and whether management wealth is tied to long-term equity performance.
+
+ASYMMETRY RATIO
+    The ratio of potential upside to potential downside. Calculated as (Base IV - Current Price) ÷ (Current Price -
+    Bear IV). Above 3:1 = high conviction. Between 2:1 and 3:1 = acceptable. Below 2:1 = no margin of safety, wait.
+
+CANDOR TEST
+    Buffett's standard for evaluating management integrity. Does management volunteer unflattering information, or
+    only disclose it when legally required? Evidence must come from primary sources only. The only candor that
+    matters is candor when the news is bad and disclosure is optional.
+
+CIRCLE OF COMPETENCE
+    The domain within which an investor can make reliable independent judgments about a business's competitive
+    position -- defined by the ability to verify the moat mechanism without relying on management's description.
+    First articulated publicly in the 1996 Berkshire shareholder letter.
+
+COST ADVANTAGE MOAT
+    A competitive advantage arising from scale, location, process, or access to inputs that allows a business to
+    produce goods or services at a structurally lower cost than competitors. One of the four moat types.
+
+D&A; (DEPRECIATION AND AMORTIZATION)
+    A non-cash accounting charge representing the allocation of past capital expenditures over time. Added back to
+    net income in the Buffett owner earnings formula because it represents real economic value previously invested
+    -- not a current period cash outflow.
+
+DISCOUNT RATE (WACC)
+    The rate used to convert future cash flows to present value. Built via the Buffett build-up method: risk-free rate +
+    equity risk premium + company-specific premium. Standard rate for a US large-cap quality business: 10.5%.
+    For non-USD businesses, anchor to the sovereign long-term rate and convert IV to USD at the final step only.
+
+FADE PERIOD
+    The period following the explicit DCF forecast during which growth rates decline linearly from the year-10 rate to
+    the terminal growth rate. Wide moat: 15 years. Narrow moat: 10 years. No moat: 5 years.
+
+INVERSION
+    Munger's application of Carl Jacobi's mathematical principle to investment analysis. Before asking why an
+    investment will succeed, ask how it could fail completely. First introduced to investing in Munger's 1994 USC
+    Business School speech.
+
+INTANGIBLE ASSET MOAT
+    A competitive advantage arising from brand equity, patents, regulatory licenses, or proprietary data that
+    competitors cannot replicate or acquire at reasonable cost. One of the four moat types.
+
+INTRINSIC VALUE
+    The present value of all future owner earnings generated by a business over its remaining life, discounted at the
+    appropriate risk-adjusted rate. A range with a conservative midpoint -- not a precise number. Buffett: "It is
+    better to be approximately right than precisely wrong."
+
+KELLY CRITERION
+    A mathematical formula for optimal bet sizing, referenced by Munger as the theoretical basis for position
+    concentration. Sizes positions proportionally to edge. In practice, Munger advocated fractional Kelly to account
+    for model uncertainty.
+
+                                                                                         Page 17 of 23
+LATTICEWORK OF MENTAL MODELS
+    Munger's framework for building circle of competence across disciplines. The investor who understands
+    psychology, mathematics, history, and economics has a more reliable analytical foundation than one who
+    understands only finance. First described in the 1994 USC Business School speech.
+
+MAINTENANCE CAPEX
+    The portion of total capital expenditures required to maintain the business's existing competitive position and
+    unit volume -- distinct from growth capex. Estimated at 65­70% of total capex for capital-intensive businesses
+    and 20­30% for asset-light businesses.
+
+MARGIN OF SAFETY
+    The discount between an investment's intrinsic value and its market price. Graham's foundational concept from
+    Security Analysis (1934). An explicit acknowledgment of the investor's own fallibility. Minimum 20% for wide and
+    narrow moat businesses. Minimum 30% for no-moat situations.
+
+MOAT
+    Buffett's term for a durable competitive advantage that protects a business from competition over time. The four
+    types: switching cost, network effect, intangible asset, cost advantage. First used publicly in the 1986 Berkshire
+    letter.
+
+NARROW MOAT
+    A competitive advantage expected to persist 10­20 years. Some erosion risk at the margin but core competitive
+    position intact. DCF fade structure: 10yr explicit + 10yr linear fade.
+
+NETWORK EFFECT MOAT
+    A competitive advantage arising when a product becomes more valuable as more users adopt it. Each new
+    participant strengthens the position of all existing participants and makes the platform more difficult to displace.
+
+NET REVENUE RETENTION (NRR)
+    The percentage of revenue retained from the prior period's customer cohort including expansions, contractions,
+    and churn. NRR above 100% means existing customers are spending more over time -- the primary
+    quantitative evidence of a switching cost moat in recurring revenue businesses.
+
+OWNER EARNINGS
+    Buffett's measure of true economic earnings, first defined in the 1986 Berkshire annual letter. Formula: Net
+    Income + D&A; - Maintenance CapEx. SBC is treated as a real economic cost and is never added back. The
+    only earnings metric used in this framework.
+
+PRIMARY SOURCE
+    SEC filings (10-K, 10-Q, 20-F, 6-K), official earnings call transcripts, and shareholder letters published directly
+    by the company. Analyst reports, financial data aggregators, and IR presentations are secondary sources and
+    are never used as the basis for financial analysis.
+
+RETURN ON INCREMENTAL CAPITAL (ROIC)
+    The return earned on each additional dollar of capital invested in the business. Munger's primary metric for
+    evaluating business quality. A business consistently earning 15%+ ROIC is compounding value. Below cost of
+    capital = value destruction regardless of revenue growth.
+
+REVERSE DCF
+    A valuation technique that inverts the standard DCF question. Instead of solving for intrinsic value given
+    assumptions, it solves for the growth rate or earnings base implied by the current market price.
+
+SBC (STOCK-BASED COMPENSATION)
+    Compensation paid to employees in the form of equity. A real economic cost that dilutes existing shareholders.
+    If SBC exceeds 15% of owner earnings, deduct it explicitly from the OE base before running the DCF. Never
+    add back. Never use adjusted EBITDA.
+
+                                                                                         Page 18 of 23
+SENSITIVITY TABLE
+    A grid showing intrinsic value per share across a range of WACC assumptions (rows) and terminal growth rate
+    assumptions (columns). The investment thesis must hold across the majority of the table -- not just at one
+    specific input combination.
+
+SWITCHING COST MOAT
+    A competitive advantage arising when customers incur meaningful cost -- financial, operational, or
+    psychological -- to change suppliers. Measured primarily through gross retention rate, NRR, churn rate, and
+    contract length trends.
+
+TERMINAL GROWTH RATE
+    The perpetual growth rate applied after the fade period. Bear: 2%. Base and Bull: 3%. Should not exceed the
+    long-run nominal GDP growth rate of the economy in which the business operates.
+
+THESIS-BREAKING METRIC
+    The single quantitative measure that, if it deteriorates for two consecutive reporting periods, triggers an
+    automatic position exit. Defined before entry and committed to in writing. Never changed retroactively to avoid
+    triggering an exit.
+
+THESIS-CONFIRMING METRIC
+    The single quantitative measure that, if it grows over time, proves the moat is intact and the thesis is playing out
+    as modelled. Defined before entry. Checked every quarter at earnings.
+
+WIDE MOAT
+    A competitive advantage expected to persist 20+ years. Returns on invested capital materially above cost of
+    capital across multiple full business cycles. DCF fade structure: 10yr explicit + 15yr linear fade.
+
+                                                                                         Page 19 of 23
+APPENDIX A -- PRIMARY SOURCE READING ORDER
+
+TIER 1 -- FOUNDATIONAL (read first, in order)
+Buffett Partnership Letters 1956­1966
+Source: ivey.uwo.ca (PDF)
+Buffett's earliest articulation of value investing principles before the Berkshire framework existed. Read
+chronologically -- the evolution of the framework is visible across the letters.
+Berkshire Hathaway Annual Letters 1977­1989
+Source: berkshirehathaway.com/letters
+The period during which the modern framework crystallised. The 1986 letter contains the owner earnings formula.
+The 1987 and 1989 letters contain the most complete discussions of moat dynamics and management integrity.
+Poor Charlie's Almanack -- 11 Talks
+Source: press.stripe.com/poor-charlies-almanack
+Munger's complete intellectual framework. Reading order: Worldly Wisdom (USC 1994)  Worldly Wisdom
+Revisited (Stanford 1996)  Practical Thought About Practical Thought (1996)  Psychology of Human
+Misjudgment  Academic Economics.
+
+TIER 2 -- DEPTH (read after Tier 1)
+Wesco Financial Annual Letters 1983­2011
+Source: berkshirehathaway.com/wesco
+Munger's independent writing on capital allocation, insurance economics, and business quality. More concentrated
+and direct than the Berkshire letters.
+Berkshire Hathaway Annual Letters 1990­2025
+Source: berkshirehathaway.com/letters
+The framework tested against real decisions across multiple economic cycles. The 1992 letter contains the clearest
+articulation of margin of safety. The 1993 letter contains the concentration argument.
+Berkshire Annual Meeting Transcripts 1994­Present
+Source: buffett.cnbc.com
+Unscripted -- highest density of practical application. Watch for questions that reveal how Buffett and Munger
+actually think through a business problem in real time.
+
+TIER 3 -- SUPPORTING (read after Tiers 1 and 2)
+The Intelligent Investor -- Benjamin Graham
+The philosophical foundation of margin of safety and Mr. Market. Chapter 8 and Chapter 20 are essential.
+Wesco Annual Meeting Notes -- Whitney Tilson
+Source: Search: "Wesco annual meeting notes Tilson"
+Munger's less formal thinking -- more practical and direct than the written letters.
+Seeking Wisdom -- Peter Bevelin
+The most systematic compilation of Munger's mental model latticework applied to decision-making and investment
+analysis.
+
+                                                                                         Page 20 of 23
+A note on using primary sources:
+Always go to the original document. Do not rely on summaries, quotation compilations, or analysis of what Buffett
+or Munger said. Read the actual letters and transcripts. When a principle in this framework cites a source, find that
+source, read the full context, and verify the principle holds in its original form.
+Munger's instruction from Poor Charlie's Almanack: "Take a simple idea and take it seriously." The simple idea is
+the owner earnings formula. The serious application is running it on every business from the original filing, without
+exception.
+
+                                                                                         Page 21 of 23
+APPENDIX B -- PORTFOLIO TRACKING TOOLS
+
+PURPOSE
+The four tracking tools in the workbook -- the price ladder, the position log, the watchlist, and the eliminated
+companies register -- are the operational infrastructure of the framework. They are not analytical tools. They are
+memory and discipline tools. Their purpose is to prevent the two most common behavioral failures: entering at the
+wrong price, and forgetting why you passed on something.
+THE PRICE LADDER
+The price ladder maps the current market price against all relevant MOS thresholds for a specific company. It is
+built after the forward DCF and Reverse DCF are complete -- not before.
+
+    · Calculate Bear IV, Base IV, and Bull IV from the DCF.
+    · Calculate the 20% and 30% MOS entry prices for each scenario: 20% MOS = IV x 0.80, 30% MOS = IV x
+    0.70.
+    · Map the current price against these six thresholds on the ladder.
+    · The current price should be below the base case 20% MOS entry for the position to be actionable.
+    · The ladder answers one question: where does today's price sit relative to value?
+    · Update the ladder whenever intrinsic value is recalculated -- at least annually, or whenever owner earnings
+    change more than 10%.
+THE WATCHLIST
+The watchlist tracks companies that have passed Gates 1­5 and have a calculated intrinsic value, but whose
+current market price has not yet reached the maximum buy price. These are businesses you understand, trust the
+management of, and have priced -- but are not yet cheap enough to buy.
+    · A company enters the watchlist only after completing all gates through Gate 8.
+    · Record the base case IV, the maximum buy price (IV x 0.80 for narrow moat), and the current price.
+    · The gap percentage shows how far the stock needs to fall before it becomes actionable.
+    · Review the watchlist every quarter. If the price reaches the maximum buy price, confirm the thesis is still
+    intact before entering.
+    · A company stays on the watchlist until: (a) the price reaches the entry threshold, (b) the thesis breaks and it
+    moves to eliminated, or (c) intrinsic value changes materially.
+    · Do not chase a watchlist company above its maximum buy price because you fear missing it. Price
+    indifference applies equally to entry as it does to holding.
+
+                                                                                         Page 22 of 23
+THE POSITION LOG
+The position log is the complete transaction and holdings record. It serves two purposes: maintaining an accurate
+record of cost basis and performance, and forcing a regular review of whether each held position still meets the
+framework criteria.
+
+    · Record every buy and sell transaction: date, shares, price, total cost, and account.
+    · The current holdings table shows average cost, current price, base case IV, and current MOS for every
+    position.
+    · MOS is recalculated quarterly using the most recent owner earnings and current price.
+    · A position whose MOS has compressed to zero or negative is a signal to rerun Gates 4, 5, and 6 -- not
+    automatically to sell.
+    · Track positions across all accounts separately -- taxable brokerage, Roth IRA, and 401(k) have different tax
+    implications that affect sizing and holding decisions.
+THE ELIMINATED COMPANIES REGISTER
+The eliminated register records every company that was analyzed and failed a gate. It prevents re-analyzing the
+same company repeatedly and reaching a different conclusion without new primary source evidence.
+    · Record the company, the gate it failed, the primary reason, and the date.
+    · A company should not be re-analyzed unless there is specific primary source evidence that the reason for
+    failure has materially changed.
+    · Management integrity failures are permanent disqualifications. Do not revisit them.
+    · Moat failures can be revisited only if the competitive dynamics of the industry change materially -- and
+    require re-running from Gate 1.
+    · The register protects against the sunk cost fallacy: time already spent analyzing a company is not a reason to
+    re-analyze it hoping for a different result.
+
+  "The goal is not to win. It is to see how wrong you can be and still be right. Margin of safety, moat assessment,
+              conservative DCF modeling, and position sizing are each sequential admissions of fallibility."
+
+                                                          A Framework for Long-Term Business Analysis -- May 2026
+
+                                                                                         Page 23 of 23
+

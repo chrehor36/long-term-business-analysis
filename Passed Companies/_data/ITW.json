@@ -1,0 +1,24 @@
+{
+ "ticker": "ITW",
+ "name": "Illinois Tool Works",
+ "headline": "A decentralized maker of industrial parts and equipment whose profit margins keep rising.",
+ "what_short": "Industrial products and equipment, 88 divisions",
+ "what_it_does": "Illinois Tool Works runs 88 divisions in 49 countries with about 43,000 people, making welding equipment, food equipment, auto parts, construction products, polymers and fluids, and testing and electronics equipment. It sells directly to manufacturers and through independent distributors. No customer is above 5% of revenue.",
+ "why_it_passed": [
+  "Segment profit margins rose in nearly every segment over a decade: Welding from 25.4% to 32.9%, Construction Products from 11.7% to 30.2%, Food Equipment from 17.1% to 27.9%.",
+  "It earns about 85% to 91% a year before tax on the tangible capital the business needs, and about 33% to 40% even counting past acquisitions.",
+  "Delivery periods are short and backlog is not a significant factor, so earnings do not rest on a few large orders.",
+  "Raw materials such as steel and resins are available from many sources."
+ ],
+ "why_not_now": "The analysis values the shares at $135.29 to $158.06 against a price of $261.94, well above the top of the range. A buyer at that price would expect only about 3.2% to 3.7% a year, below a 30-year US Treasury bond (5.64%).",
+ "watch": [
+  "It has bought back shares for more than its net income, at prices above the value range.",
+  "Debt is $9.7 billion, with $3.1 billion due within a year, and about $5.0 billion is in euros.",
+  "Shareholder equity is only $3.2 billion because of $26.9 billion of buybacks, so return on equity looks inflated."
+ ],
+ "value_low": 135.29,
+ "value_high": 158.06,
+ "utility": false,
+ "run_date": "2026-10-07",
+ "currency": "USD"
+}

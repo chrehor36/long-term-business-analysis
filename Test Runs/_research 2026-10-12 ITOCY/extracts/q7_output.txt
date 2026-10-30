@@ -1,0 +1,41 @@
+FY2022: owner cash (equity-only, before purchases)    388.4  after-tax net interest   -2.0  net purchases    136.3 (excl NCI    150.4)  maint guess  137.2 growth capex   19.9  OC/rev 3.16%  NP 820.269
+FY2023: owner cash (equity-only, before purchases)    482.5  after-tax net interest    6.4  net purchases   -217.2 (excl NCI   -272.0)  maint guess  148.7 growth capex   45.4  OC/rev 3.46%  NP 800.519
+FY2024: owner cash (equity-only, before purchases)    567.7  after-tax net interest   13.4  net purchases   -471.3 (excl NCI    -83.5)  maint guess  167.8 growth capex   34.8  OC/rev 4.05%  NP 801.77
+FY2025: owner cash (equity-only, before purchases)    518.7  after-tax net interest   25.9  net purchases   -360.6 (excl NCI   -314.8)  maint guess  189.7 growth capex   37.8  OC/rev 3.52%  NP 880.251
+FY2026: owner cash (equity-only, before purchases)    586.6  after-tax net interest   27.7  net purchases   -199.1 (excl NCI   -141.5)  maint guess  199.5 growth capex   85.5  OC/rev 3.96%  NP 900.283
+5y avg: OC 508.8  int 14.3  purchases -222.4  growth capex 44.7  NP 840.6
+net purchases over window -1111.9 vs half OC before purchases 1272.0 (all-equity 1307.7); excl NCI -661.4
+growth: literal 10.86%  halves 8.27%  revenue 4.79%
+share of sales after 10y at literal growth 6.95% vs highest earned 4.23% -> cut to sales growth, capped at discount rate
+rate 4.136%  growth carried 4.136%
+
+ALL-EQUITY, central (e) maintenance-only: base before purchases 523.1
+  range at 4.136%: whole 13,727 to 16,734 bn; less net debt 3,610: per share Y1,466 to Y1,902  (no-growth 13,727, growth 16,734); width 1.22x
+  at 10%: no-growth 5,678, growth 5,535; fair price Y289 per share ($1.82 per ADS at 158.56)
+  expected return at Y2,155 (ng): 3.07%
+  expected return at Y2,155 (gr): 3.80%
+
+ALL-EQUITY, all-spending beside: base before purchases 523.1
+  range at 4.136%: whole 12,647 to 15,654 bn; less net debt 3,610: per share Y1,310 to Y1,746  (no-growth 12,647, growth 15,654); width 1.24x
+  at 10%: no-growth 5,231, growth 5,277; fair price Y238 per share ($1.50 per ADS at 158.56)
+  expected return at Y2,155 (ng): 2.83%
+  expected return at Y2,155 (gr): 3.59%
+
+EQUITY-ONLY, central (e): base before purchases 508.8
+  range at 4.136%: whole 13,382 to 16,246 bn; less net debt 0: per share Y1,940 to Y2,355  (no-growth 13,382, growth 16,246); width 1.21x
+  at 10%: no-growth 5,535, growth 5,346; fair price Y789 per share ($4.97 per ADS at 158.56)
+  expected return at Y2,155 (ng): 3.72%
+  expected return at Y2,155 (gr): 4.45%
+
+EQUITY-ONLY, all-spending: base before purchases 508.8
+  range at 4.136%: whole 12,302 to 15,166 bn; less net debt 0: per share Y1,783 to Y2,198  (no-growth 12,302, growth 15,166); width 1.23x
+  at 10%: no-growth 5,088, growth 5,087; fair price Y737 per share ($4.65 per ADS at 158.56)
+  expected return at Y2,155 (ng): 3.42%
+  expected return at Y2,155 (gr): 4.21%
+
+Dentsu Soken beside: financing 215.2 bn -> -Y31 per share on every figure
+
+ALL-EQUITY central, purchases excl. NCI buy-outs: purchases -132.3; range Y1,466 to Y2,033; fair Y338
+
+Literal growth 10.86% uncut (not used; (f) cuts it): growth case Y3,821 per share; expected-return check at price below
+expected return at Y2,155 on the uncut literal-growth case: 6.05%

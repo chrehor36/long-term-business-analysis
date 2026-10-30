@@ -1,0 +1,24 @@
+{
+ "ticker": "STLD",
+ "name": "Steel Dynamics",
+ "headline": "A low-cost US steel maker that runs at cost parity with Nucor and earns high returns through the cycle.",
+ "what_short": "US steel, scrap, joist and aluminum maker",
+ "what_it_does": "Steel Dynamics makes steel in its mills, sells scrap metal and joists, and has built a large new mill and a recycled-aluminum rolling mill. Its profit depends on the gap between what steel sells for and what scrap and other inputs cost.",
+ "why_it_passed": [
+  "It is a low-cost producer, on a par with Nucor, which gives it a lasting edge over higher-cost rivals.",
+  "Its pre-tax return on tangible capital averaged 28.7% from 2016 to 2025, ahead of Commercial Metals (16.4%) and Cleveland-Cliffs (10.2% over 2021-25).",
+  "The accounts raised no suspicion, and no doubt about management's honesty was found.",
+  "Management's ability was weighed in its favor."
+ ],
+ "why_not_now": "At $240.63 a share the price sits inside a narrow value range ($228.24 to $254.89), so it offers no margin below value. A buyer would earn only 3.4% to 5.9% a year in cash, below the roughly 10% the analysis requires, and the low end is below a 30-year US Treasury bond (5.6%).",
+ "watch": [
+  "Its return on tangible capital fell to 13.1% in 2025 from 55-56% in 2021-22, so earnings swing with the steel price.",
+  "It built two large mills (steel and aluminum) whose returns are not yet proven.",
+  "It has net debt of about $3.6 billion, and its bonus pool pays out above a low return hurdle."
+ ],
+ "value_low": 228.24,
+ "value_high": 254.89,
+ "utility": false,
+ "run_date": "2026-10-13",
+ "currency": "USD"
+}

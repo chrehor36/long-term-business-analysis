@@ -1,0 +1,13 @@
+SPGI fold: reword the competitor-row superlative to the absence-claim rule's form
+
+The fold at 3cf5ed1 said the SPGI row was "the first in the whole register" complete in units
+including private competitors. The framework's ABSENCE-CLAIM RULE (v4.1, added 2026-08-28 from
+Test D) permits that form only if a recorded sweep looked for it, and requires the wording
+"no instance found" rather than a flat negative.
+
+The sweep was run over Screens/2026-08-31 PREPPED READING LIST (operator lists).md and
+Screens/WATCHLIST RUN QUEUE.md - searching for "complete" beside "row" and reading the ten
+PROVISIONAL findings - and returned nothing. The claim is now worded as the rule requires in
+both places. The prior commit stands in history; this corrects the wording going forward.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

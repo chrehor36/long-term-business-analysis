@@ -1,0 +1,24 @@
+{
+ "ticker": "MGEE",
+ "name": "MGE Energy",
+ "headline": "A small Wisconsin utility that has earned slightly above its allowed return every year for a decade.",
+ "what_short": "Madison, Wisconsin electric and gas utility",
+ "what_it_does": "MGE Energy's utility, Madison Gas and Electric, supplies electricity to 264 square miles of Dane County, Wisconsin and gas across 1,722 square miles in seven counties. It is moving away from coal and also holds a 3.6% stake in a transmission company.",
+ "why_it_passed": [
+  "It earned 10.1% to 10.7% on equity in every year from 2016 to 2025 except 2017, above the authorized 9.7% to 9.8%.",
+  "Full rate cases were approved or settled unanimously, and the equity share of its capital is about 56%.",
+  "Electric sales rose 2.1% in 2025 and residential customers are growing.",
+  "Its authorized rate base, the capital it earns a return on, grows to $1,537.9M for 2027."
+ ],
+ "why_not_now": "A regulator caps what this utility may earn, so the price is far above what that capped return justifies. The analysis values the shares at $57.93 to $68.46 against a price of $74.24, and a buyer at that price would earn about 4.1% to 5.0% a year, below the 5.29% a 30-year US Treasury bond pays.",
+ "watch": [
+  "Some capital projects are expected to cost more than the regulator approved.",
+  "Data-center demand and a Madison moratorium add uncertainty, and customer self-supply and storage are a risk.",
+  "It is a single-territory utility, and its parent depends on the utility's dividend, which is barred if the equity ratio falls below 55%."
+ ],
+ "value_low": 57.93,
+ "value_high": 68.46,
+ "utility": true,
+ "run_date": "2026-10-23",
+ "currency": "USD"
+}

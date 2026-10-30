@@ -1,0 +1,3 @@
+NATH Nathans Famous: fold - register entry 168 (167 before, 168 after, counted in the HEAD-blob slice), _wave7_done 36, narrative fold (Q2 OUT on the business: a trademark rent, not a franchise; retail units -10% FY2022-26 while price +27%, FY2026 -13% on +15%, FY2017 price cut by competitor pressure; the licensee Smithfield buying at $102.00 cash, CFIUS cleared 2026-09-17, the quote a spread); no alert, no PORTFOLIO row (failed on the business); tooling: deal_filings() blind to a deal signed before the latest 10-K; check_framework PASS. Queue file committed as HEAD blob plus this entry only; the CRM re-look hunks stay uncommitted in the working tree.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

@@ -1,0 +1,14 @@
+2021 eq      660,695  all-equity    5,084,730  after NCI dist   -6,927,502
+2022 eq   -1,249,577  all-equity    2,860,711  after NCI dist   -5,661,623
+2023 eq   -5,165,533  all-equity     -203,075  after NCI dist   -6,842,172
+2024 eq   -3,001,786  all-equity    2,369,231  after NCI dist   -6,631,750
+2025 eq   -2,285,142  all-equity    3,621,092  after NCI dist   -3,563,055
+avg all-equity 2,746,538  avg equity-only -2,208,269
+half averages 3,972,720 -> 2,995,162, g=-8.9855%
+EV no-growth 49,045,318; EV decline 24,355,515
+net debt 61,002,162; preferred liq 20,599,075 + arrears 1,448,354; NCI book 7,570,650; shares 2,258,185
+no-growth: per share less net debt only -5.29; less net debt, preferred and NCI -18.41
+decline: per share less net debt only -16.23; less net debt, preferred and NCI -29.34
+fair (all-equity, at 10%): EV ends 27,465,378 / 15,316,839; per share less net debt -17.54; less all senior claims -30.66
+equity-only: average owner cash after interest is negative, so every case values the common below zero
+market value of common at $0.859: 1,939,781

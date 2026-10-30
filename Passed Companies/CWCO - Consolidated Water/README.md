@@ -1,0 +1,40 @@
+# Consolidated Water (CWCO)
+
+> **The only company allowed to sell piped water on Grand Cayman, with almost no debt.**
+
+| | |
+|---|---|
+| **Price** | $27.00 (2026-10-28, market quote) |
+| **Our fair price** | $24.85 |
+| **Price would need to fall** | 8% |
+| **What we think it is worth** | $25.32 to $62.85 a share |
+| **Date analysed** | 2026-10-28 |
+| **Type** | Business |
+
+## What it does
+
+Consolidated Water sells piped drinking water on Grand Cayman under a licence that gives it the exclusive right to do so in its area. It also builds and runs seawater desalination plants for governments in the Caribbean and elsewhere. It reports four business segments, and the Cayman retail water business is the one that decides its value.
+
+## Why it passed
+
+- Its licence gives it the exclusive right to produce, distribute and sell potable water in its Cayman area, so no rival can enter at any price.
+- The Cayman retail business earns about 26% a year after costs on its operating assets (about 22% after the new licence terms), and needs little new capital.
+- Water volume hit a record 1.09 billion gallons in 2025, up 8.3%, with customer accounts up 6.6%.
+- It has almost no borrowings ($0.02 million) against $132.6 million of cash.
+
+## Why we are not buying at today's price
+
+The analysis puts the value at $25.32 to $62.85 against a price of $27.12, so the price is inside the range but near its bottom. With no growth a buyer would earn about 4.8% a year, below a 30-year US Treasury bond (5.30%). The reasonable return only appears if the strong recent growth of about 15% a year continues.
+
+## What to watch
+
+- It has not asked to raise Cayman water rates since 2018, and under the new licence 45% of the base rate is never adjusted for inflation, so its real price falls each year.
+- The Bahamas water authority is 22% of revenue and 71% of what it owes is overdue, with no allowance for loss.
+- A fixed-price construction contract of about $147 million in Hawaii carries penalty risk if permits are delayed.
+
+## The full analysis
+
+[2026-10-28 Run - CWCO Consolidated Water.md](../../Test%20Runs/2026-10-28%20Run%20-%20CWCO%20Consolidated%20Water.md), analysed 2026-10-28.
+
+---
+*The fair price is the price at which this business would earn about 10% a year for an owner, on the analysis's own numbers. Reaching it starts a fresh analysis; it is never a buy signal by itself. Not investment advice.*

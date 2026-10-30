@@ -1,0 +1,36 @@
+2018 {'ae': 1362, 'eq': 870, 'g': None}
+2019 {'ae': 1986, 'eq': 1591, 'g': 104}
+2020 {'ae': 1746, 'eq': 1374, 'g': 401}
+2021 {'ae': -817, 'eq': -1168, 'g': 440}
+2022 {'ae': -568, 'eq': -1144, 'g': 475}
+2023 {'ae': 3344, 'eq': 2732, 'g': 698}
+2024 {'ae': 2059, 'eq': 1185, 'g': 800}
+2025 {'ae': 953, 'eq': -40, 'g': 648}
+
+market cap 47,570; net debt 20,073 + preferred 2,476 = 22,549; EV 70,119
+shelters PV at 5.31%: 1,873; at 10%: 1,679  (PTC window avg 153/yr)
+
+ALL-EQUITY, no growth (growth not measurable; specific (b))
+ central: cycle 2019-2023, maintenance only (old MD&A growth series)
+    base    1562/yr  value@5.31% EV    31282 -> per share   26.02   @10% EV    17296 -> per share  -15.65   yield at price 2.23%
+ literal window 2021-2025, maintenance only (latest-filing growth basis)
+    base    1418/yr  value@5.31% EV    28575 -> per share   17.95   @10% EV    15858 -> per share  -19.94   yield at price 2.02%
+ literal window 2021-2025, all spending
+    base     994/yr  value@5.31% EV    20594 -> per share   -5.82   @10% EV    11620 -> per share  -32.56   yield at price 1.42%
+ cycle 2019-2023, all spending
+    base    1138/yr  value@5.31% EV    23305 -> per share    2.25   @10% EV    13060 -> per share  -28.27   yield at price 1.62%
+ information only: 2023-2025, maintenance only (latest basis)
+    base    2520/yr  value@5.31% EV    49327 -> per share   79.78   @10% EV    26877 -> per share   12.90   yield at price 3.59%
+
+EQUITY-ONLY, no growth
+ central: cycle 2019-2023, maintenance only
+    base    1101/yr  @5.31% per share   67.34   @10% per share   37.80   yield at price 2.31%
+ literal 2021-2025, maintenance only
+    base     737/yr  @5.31% per share   46.93   @10% per share   26.96   yield at price 1.55%
+ literal 2021-2025, all spending
+    base     313/yr  @5.31% per share   23.15   @10% per share   14.33   yield at price 0.66%
+ information only: 2023-2025, maintenance only
+    base    1694/yr  @5.31% per share  100.62   @10% per share   55.47   yield at price 3.56%
+
+growth needed for 10 years (then none) for the central base to earn 10% at the price, with no growth spending charged: 21.1%/yr; year-10 owner cash 10,607
+Cogentrix beside: central per share 14.48 (net debt +3800, shares +5.0M, earnings credited at nothing: none filed)

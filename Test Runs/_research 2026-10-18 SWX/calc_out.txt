@@ -1,0 +1,39 @@
+COMPUTATION, NOT A CLEARANCE (the heading of operator rule 3; this script first ran before Q2 to Q4 closed)
+year   PGA    cash-ops  eq-pre  ae-pre  AE-after-D&A  AE-after-capex  EQ-after-D&A  EQ-after-capex  AE as filed(D&A)  NI+int(1-t)
+2021   -343.7    362.6   309.3   377.9        124.5         -224.1         55.9         -292.6           -166.0       255.7
+2022   -159.0    437.6   395.2   477.3        214.2         -205.9        132.2         -287.9             97.6       236.4
+2023   -102.8    489.4   417.6   523.8        228.3         -238.3        122.1         -344.5            197.4       334.6
+2024    792.5    450.5   381.5   500.8        197.8         -345.7         78.4         -465.1           1059.2       381.4
+2025     65.3    540.5   368.1   502.6        171.9         -305.3         37.4         -439.8            409.6       434.8
+avg ae_dna: 187.3
+avg ae_cap: -263.8
+avg eq_dna: 85.2
+avg eq_cap: -366.0
+avg ae_asfiled_dna: 319.6
+avg nopat: 328.6
+avg capex 740.3  avg D&A 289.1  growth spending (capex - D&A) 451.2
+growth of AE owner cash (D&A basis): end-to-end 8.39%, halves 2.95%; sales 6.29%; operating margin 7.28%; NI+int(1-t) 14.19%
+owner cash / revenue by year: 8.2% 11.1% 9.2% 8.0% 8.8%
+net debt: borrowings 3509.9 - cash 270.5 = 3239.3; + PGA over-collection 286.8 = 3526.2; NOL shelter PV 131.7
+market cap 6335.4; EV (all-equity basis) 9729.8
+growth case [shown 2021-25 end-to-end] g=8.39% at r=5.43%: whole 1468  per share -26.60
+growth case [shown 2021-25 end-to-end] g=8.39% at r=10.00%: whole -819  per share -58.16
+growth case [cut to sales growth, not above the discount rate] g=5.43% at r=5.43%: whole 812  per share -35.65
+growth case [cut to sales growth, not above the discount rate] g=5.43% at r=10.00%: whole -879  per share -58.99
+no-growth maintenance case at r=5.43%: whole 3450  per share 0.77
+all-spending no-growth (literal window) at r=5.43%: whole -4859  per share -113.93
+no-growth maintenance case at r=10.00%: whole 1873  per share -21.00
+all-spending no-growth (literal window) at r=10.00%: whole -2638  per share -83.27
+GENEROUS no-growth on NI+int(1-t) avg 328.6 at r=5.43%: per share 36.68; without PGA as debt 40.64
+GENEROUS no-growth on NI+int(1-t) avg 328.6 at r=10.00%: per share -1.50; without PGA as debt 2.46
+FAIR (central, shown growth): ends at 10% 1873 and -819; avg 527; per share -39.58; without PGA as debt -35.62
+FAIR (cut growth): per share -39.99
+FAIR equity-only: ends 852 and -2642; per share -10.54
+RANGE per share at 5.43%: -26.60 to 0.77 against 87.45
+RANGE equity-only at 5.43%: -28.63 to 23.48
+yield at the price: central 1.93%; generous NI-based 3.38%; generous without PGA as debt 3.48%
+IRR at the price, generous growth case (g=9.99%, growth spending charged): 4.73%
+IRR at the price, most generous case (NI-based owner cash at g=9.99% for ten years, NO growth spending charged): 7.18%
+FAIR equity-only (cut growth): per share -8.60
+RANGE equity-only (cut growth) at 5.43%: -27.04 to 23.48
+cap test: owner cash year 10 at shown growth 419.2 against sales year 10 at sales growth 3575.7 = 11.7%; highest share in window 11.1%

@@ -1,0 +1,92 @@
+{
+"2017": {
+"ocf": -6476.9,
+"sbc": 25.7,
+"capex": 3985.4,
+"da": 2110.1,
+"src": "424B1 2018-10-30",
+"a": -10488.0,
+"b": -8612.699999999999
+},
+"2018": {
+"ocf": -2740.3,
+"sbc": 950.6,
+"capex": 6809.4,
+"da": 2214.5,
+"src": "424B1 2018-10-30",
+"a": -10500.3,
+"b": -5905.4
+},
+"2019": {
+"ocf": -7007.669,
+"sbc": 3310.018,
+"capex": 11362.222,
+"da": 3133.751,
+"src": "companyfacts, checked to the filed statement",
+"a": -21679.909,
+"b": -13451.438
+},
+"2020": {
+"ocf": -11194,
+"sbc": 5246,
+"capex": 10951,
+"da": 5158,
+"src": "companyfacts, checked to the filed statement",
+"a": -27391,
+"b": -21598
+},
+"2021": {
+"ocf": 40521,
+"sbc": 4681,
+"capex": 9052,
+"da": 6613,
+"src": "companyfacts, checked to the filed statement",
+"a": 26788,
+"b": 29227
+},
+"2022": {
+"ocf": 32648,
+"sbc": 5859,
+"capex": 15118,
+"da": 7859.0,
+"src": "companyfacts, checked to the filed statement",
+"a": 11671,
+"b": 18930.0
+},
+"2023": {
+"ocf": -21375,
+"sbc": 10450,
+"capex": 25549,
+"da": 10842.0,
+"src": "companyfacts, checked to the filed statement",
+"a": -57374,
+"b": -42667.0
+},
+"2024": {
+"ocf": 76441,
+"sbc": 4216,
+"capex": 29211,
+"da": 12603,
+"src": "companyfacts, checked to the filed statement",
+"a": 43014,
+"b": 59622
+},
+"2025": {
+"ocf": 38977,
+"sbc": 7945,
+"capex": 21517,
+"da": 14710,
+"src": "companyfacts, checked to the filed statement",
+"a": 9515,
+"b": 16322
+},
+"2026": {
+"ocf": 49328,
+"sbc": 5510,
+"capex": 24020,
+"da": 15206,
+"src": "companyfacts, checked to the filed statement",
+"a": 19798,
+"b": 28612
+}
+}

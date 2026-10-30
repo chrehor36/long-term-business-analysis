@@ -1,0 +1,24 @@
+{
+ "ticker": "SBS",
+ "name": "Sabesp",
+ "headline": "The sole water and sewage provider for most of the state of São Paulo, by contract until 2060.",
+ "what_short": "São Paulo state water and sewage utility",
+ "what_it_does": "Sabesp supplies water and collects and treats sewage in 375 municipalities of the state of São Paulo. 371 of them are under one regional concession running to 2060. It was privatized, with a capital programme of R$70 billion planned for 2024 to 2029.",
+ "why_it_passed": [
+  "It has a legal monopoly by contract to 2060 that no amount of money could attack.",
+  "The regulator's written tariff model gives it a return on a growing asset base, so its next ten years can be pictured.",
+  "No doubt about honesty was found, and the analysis weighed management's ability lightly in its favor.",
+  "The threats are regulatory and political, not competitors taking customers."
+ ],
+ "why_not_now": "A regulator caps what Sabesp may earn, so the price is far above what that capped return justifies. At R$25.53 a share the price is about five times the top of the analysis's central value range, and even the most favorable case tops out below the price.",
+ "watch": [
+  "The regulator's later rules and the regulatory climate are the main risks, and legal challenges to the privatization remain ongoing.",
+  "Its cash after the heavy building programme is negative, and reported profit departs from cash by billions of reais.",
+  "Brazil's government bond yield is 14.93%, a far higher bar than a US or European bond, and the share is priced in a foreign setting."
+ ],
+ "value_low": 4.94,
+ "value_high": 5.21,
+ "utility": true,
+ "run_date": "2026-10-28",
+ "currency": "BRL"
+}

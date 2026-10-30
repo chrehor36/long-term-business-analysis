@@ -1,0 +1,41 @@
+shares 98,310,846  price 81.4  market value 8,002.5  net cash 593.3  EV 7,409.2
+
+year  OC_eq(acq ded.)  OC_eq(before acq)  OC_ae(acq ded.)  OC_ae(before acq)  OC/sales
+2016      138.0      244.5      124.9      231.4  0.040
+2017      140.8      131.0      136.5      126.7  0.022
+2018     -370.7     -119.3     -358.9     -107.5  -0.020
+2019      561.3      653.1      573.5      665.3  0.098
+2020      299.2      324.7      314.5      340.0  0.048
+2021      294.6      370.8      305.2      381.4  0.057
+2022      434.4      496.5      420.8      482.9  0.066
+2023      117.2      153.6       90.7      127.1  0.018
+2024      351.9      403.7      328.2      380.0  0.049
+2025       69.4      402.6       64.9      398.1  0.051
+
+==== all-equity basis
+five-year avg (acq deducted) 242.0; before acq 353.9; with disposals credited 269.6
+literal end-year rate 2021->2025 -32.1% (meaningless: 2025 acquisition year); halves 2021-22 avg 363.0 -> 2024-25 avg 196.6: -18.5%/yr
+ten-year avg 2016-2025 200.0; first half avg 158.1 -> second half 242.0: +8.9%/yr
+A literal no-growth (top, sec. b): base 242.0 g +0.0% | value @3.78% 6,402 -> 71.15/sh | @10% 2,420 -> 30.65/sh | expected return at price 3.3%
+B literal decline by halves (bottom, sec. b): base 242.0 g -18.5% | value @3.78% 1,378 -> 20.05/sh | @10% 778 -> 13.95/sh | expected return at price 0.5%
+C cycle base, growth between five-year halves (CENTRAL top): base 200.0 g +8.9% | value @3.78% 11,184 -> 119.80/sh | @10% 3,699 -> 43.66/sh | expected return at price 5.5%
+E cycle base, no growth (CENTRAL bottom): base 200.0 g +0.0% | value @3.78% 5,292 -> 59.86/sh | @10% 2,000 -> 26.38/sh | expected return at price 2.7%
+D organic pair, before acquisitions, no growth (beside): base 353.9 g +0.0% | value @3.78% 9,363 -> 101.27/sh | @10% 3,539 -> 42.03/sh | expected return at price 4.8%
+CENTRAL RANGE (cycle base, sec. a): 59.86 to 119.80 per share; width 2.00
+CENTRAL FAIR PRICE (each end at 10%, averaged): 35.02 per share
+literal range beside: 20.05 to 71.15 per share; width 3.55
+literal fair price beside: 22.30 per share
+
+==== equity-only basis
+five-year avg (acq deducted) 253.5; before acq 365.4; with disposals credited 281.1
+literal end-year rate 2021->2025 -30.3% (meaningless: 2025 acquisition year); halves 2021-22 avg 364.5 -> 2024-25 avg 210.6: -16.7%/yr
+ten-year avg 2016-2025 203.6; first half avg 153.7 -> second half 253.5: +10.5%/yr
+A literal no-growth (top, sec. b): base 253.5 g +0.0% | value @3.78% 6,706 -> 68.22/sh | @10% 2,535 -> 25.79/sh | expected return at price 3.2%
+B literal decline by halves (bottom, sec. b): base 253.5 g -16.7% | value @3.78% 1,660 -> 16.89/sh | @10% 899 -> 9.14/sh | expected return at price 0.6%
+C cycle base, growth between five-year halves (CENTRAL top): base 203.6 g +10.5% | value @3.78% 13,034 -> 132.58/sh | @10% 4,225 -> 42.97/sh | expected return at price 5.8%
+E cycle base, no growth (CENTRAL bottom): base 203.6 g +0.0% | value @3.78% 5,387 -> 54.79/sh | @10% 2,036 -> 20.71/sh | expected return at price 2.5%
+D organic pair, before acquisitions, no growth (beside): base 365.4 g +0.0% | value @3.78% 9,668 -> 98.34/sh | @10% 3,654 -> 37.17/sh | expected return at price 4.6%
+CENTRAL RANGE (cycle base, sec. a): 54.79 to 132.58 per share; width 2.42
+CENTRAL FAIR PRICE (each end at 10%, averaged): 31.84 per share
+literal range beside: 16.89 to 68.22 per share; width 4.04
+literal fair price beside: 17.46 per share

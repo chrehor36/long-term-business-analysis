@@ -1,0 +1,45 @@
+TTM components (H2-2025 + H1-2026): {'ocf': 14936, 'sbc': 2393, 'cxi': 12105, 'cxf': 2487, 'gov': 780, 'dep': 11435}
+
+    FY      OCF    SBC  capex tot    gov     depr  OE capex OE net-gov    OE D&A  cx/dep
+----------------------------------------------------------------------------------------
+  2016   21,808  1,444      9,625      0    6,266    10,739     10,739    14,098    1.54
+  2017   22,110  1,358     11,778      0    6,752     8,974      8,974    14,000    1.74
+  2018   29,432  1,546     15,181      0    7,520    12,705     12,705    20,366    2.02
+  2019   33,145  1,705     16,213      0    9,204    15,227     15,227    22,236    1.76
+  2020   35,864  1,854     14,259      0   10,482    19,751     19,751    23,528    1.36
+  2021   29,456  2,036     18,733    166    9,953     8,687      8,853    17,467    1.88
+  2022   15,433  3,128     24,844    246   11,128   -12,539    -12,293     1,177    2.23
+  2023   11,471  3,229     25,750  1,011    7,847   -17,508    -16,497       395    3.28
+  2024    8,288  3,410     25,122  1,936    9,951   -20,244    -18,308    -5,073    2.52
+  2025    9,697  2,434     17,672  1,577   10,757   -10,409     -8,832    -3,494    1.64
+   TTM   14,936  2,393     14,592    780   11,435    -2,049     -1,269     1,108    1.28
+
+economic share count 5,115M x $95.8 = CAP $490,017M
+
+window                                             OE capex   yield%  OE net-gov   yield%     OE D&A   yield%
+--------------------------------------------------------------------------------------------------------------
+3-yr FY2023-25                                      -16,054    -3.28     -14,546    -2.97     -2,724    -0.56
+5-yr FY2021-25 (corpus default [E2-42])             -10,403    -2.12      -9,415    -1.92      2,094     0.43
+7-yr FY2019-25                                       -2,434    -0.50      -1,728    -0.35      8,034     1.64
+10-yr FY2016-25                                       1,538     0.31       2,032     0.41     10,470     2.14
+TTM (H2-25+H1-26)                                    -2,049    -0.42      -1,269    -0.26      1,108     0.23
+pre-collapse 5-yr FY2016-20 (the old business)       13,479     2.75      13,479     2.75     18,846     3.85
+
+=== SCREEN ROW REPRODUCTION: tail triage says INTC band = -14,652 to +2,201 ===
+  3y: investing-capex-only end    -14,652   depreciation end     -2,724
+  4y: investing-capex-only end    -14,124   depreciation end     -1,749
+  5y: investing-capex-only end     -9,562   depreciation end      2,094
+
+=== incremental return on capital deployed, 5 years FY2021-25 [E2-56] ===
+  total capex FY2021-25: 112,121M
+  operating income FY2020 23,678M -> FY2025 -2,214M ; delta -25,892M
+  operating income FY2021 19,456M -> FY2025 -2,214M ; delta -21,670M
+  gross profit FY2020 43,612 -> FY2025 18,375 ; delta -25,237
+
+=== [E2-54] coverage: OCF net of capex vs interest ===
+  2021: OCF 29,456 - capex 18,733 = 10,723  vs interest paid 545  -> 19.68x
+  2022: OCF 15,433 - capex 24,844 = -9,411  vs interest paid 459  -> NEGATIVE
+  2023: OCF 11,471 - capex 25,750 = -14,279  vs interest paid 613  -> NEGATIVE
+  2024: OCF 8,288 - capex 25,122 = -16,834  vs interest paid 987  -> NEGATIVE
+  2025: OCF 9,697 - capex 17,672 = -7,975  vs interest paid 1,106  -> NEGATIVE
+  TTM: OCF 14,936 - capex 14,592 = 344  vs interest paid 1,048  -> 0.33x

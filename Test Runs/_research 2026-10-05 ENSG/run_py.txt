@@ -1,0 +1,46 @@
+==============================================================================
+ENSIGN GROUP, INC  (ENSG)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.63%   10/02/2026   US Treasury daily par yield curve
+  price     173.25 USD   2026-10-05   (aggregator — live quote only)
+  shares    58.3M      market cap 10.10B USD
+  share basis: dei cover-page count as of 2026-07-23
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2017-12-31         80        8        42         54         18         30
+    2018-12-31        210        8        45         51        151        157
+    2019-12-31        192       11        51         72        109        130
+          mean                                                  93        105
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 49 .. 68   yield 0.48%..0.68%
+  DIVERGENCE vs the 3-yr window: -47.4% on the conservative end
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                  0.92% ..  1.04%   vs sovereign 5.63%
+  2. GROWTH THE PRICE ASSUMES   31.1%  (at a 5.63% rate)
+  3. POINTS OVER THE SOVEREIGN -2.17 .. -2.03
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables    goodwill intangibles     lt debt    retained
+    2017-12-31         1,102         602         492          42         265          81           -         303         265
+    2018-12-31         1,182         580         591          31         276          80           -         233         345
+    2019-01-01         2,198       1,587           -           -           -           -           -           -           -
+    2019-12-31         2,362       1,706         654          59         309          54           -           -         392
+    2020-12-31         2,546       1,727         818         237         305          54           -           -         551
+    2021-12-31         2,851       1,829       1,021         262         329          60           -         153         734
+    2022-12-31         3,452       2,203       1,247         316         408          77           6         149         946
+    2023-12-31         4,178       2,680       1,492         510         485          77           7         145       1,143
+    2024-12-31         4,669       2,829       1,837         465         570          98           7         142       1,427
+    2025-12-31         5,463       3,228       2,232         504         637          98           6         138       1,756
+    accessions: 0001125376-18-000028, 0001125376-19-000016, 0001125376-20-000018, 0001125376-21-000020, 0001125376-22-000019, 0001125376-23-000018, 0001125376-24-000018, 0001125376-25-000021, 0001125376-26-000007
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

@@ -1,0 +1,10 @@
+ids 66 missing []
+E-ids []
+SLIP? M2005-017 |  (Q2 2026 p. 3). That is the behaviour the rows describe:
+   
+SLIP? M2000-014 |  (p. 11). Marine: 14.7% (2022) to 22.8% (2025).
+11. **What could 
+SLIP? M2009-081 |  (Note 5, p. 107); thresholds 14% to 17% margin and 4% to 7% growth. Net
+  sales growth counts purchased sales: a deal at any price raises t
+fragments checked 79 flags 3
+Dispatcher review: the three SLIP? flags are the checker taking prose between quotes as the quote; the quoted fragments beside M2005-017, M2000-014, M2009-081 (and L2007-004) were each checked by hand and are in their rows. No slip.

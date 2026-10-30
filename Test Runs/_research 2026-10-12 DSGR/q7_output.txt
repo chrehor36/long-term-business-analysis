@@ -1,0 +1,44 @@
+
+COMBINED COMPANIES (the merger rule), FY2021-FY2025
+  year   net capex   eq-before-acq   AE-before-acq    acquisitions   AE-after-acq   eq-after-acq
+  2021       15.6            -4.7             7.6            66.9          -59.4          -71.6
+  2022       13.4           -27.1           -10.4           125.1         -135.5         -152.2
+  2023       18.7            75.2           105.7           260.8         -155.1         -185.6
+  2024       14.4            36.8            78.7           215.3         -136.6         -178.5
+  2025       26.8            50.4            91.4             2.2           89.2           48.2
+  five-year averages (USD M): eq 26.1  AE 54.6  AE after acq -79.5  eq after acq -107.9
+
+LITERAL WINDOW (as reported), FY2021-FY2025
+  year   net capex   eq-before-acq   AE-before-acq    acquisitions   AE-after-acq   eq-after-acq
+  2021        7.4             2.9            14.4            33.9          -19.5          -31.1
+  2022       11.3           -24.8            -8.2           125.1         -133.3         -149.9
+  2023       18.7            75.2           105.7           260.8         -155.1         -185.6
+  2024       14.4            36.8            78.7           215.3         -136.6         -178.5
+  2025       26.8            50.4            91.4             2.2           89.2           48.2
+  five-year averages (USD M): eq 28.1  AE 56.4  AE after acq -71.1  eq after acq -99.4
+
+market value 1620.3M; net debt at 2026-06-30 668.2M; value at the price (all-equity) 2288.5M
+organic growth reported (2024, 2025), compound per year: 0.38%
+
+DEFAULT PAIR, acquisitions deducted, total growth credited (no-growth alone, specific (b)); after year 10 the purchases stop (owner cash before purchases, no growth)
+  all-equity, combined                                       at 5.60%:   -699.3M  $ -15.12/sh | at 10%:   -946.2M  $ -20.46/sh | return at price: 1.5%
+  all-equity, literal window                                 at 5.60%:   -617.4M  $ -13.35/sh | at 10%:   -887.5M  $ -19.19/sh | return at price: 1.6%
+  equity-only, combined                                      at 5.60%:   -539.0M  $ -11.65/sh | at 10%:   -562.4M  $ -12.16/sh | return at price: 0.9%
+
+ORGANIC PAIR beside, acquisitions left out, organic growth as reported
+  all-equity, no growth                                      at 5.60%:    306.4M  $   6.62/sh | at 10%:   -122.4M  $  -2.65/sh | return at price: 2.4%
+  all-equity, organic growth 0.38%                           at 5.60%:    335.9M  $   7.26/sh | at 10%:   -108.4M  $  -2.34/sh | return at price: 2.5%
+  equity-only, no growth                                     at 5.60%:    466.7M  $  10.09/sh | at 10%:    261.3M  $   5.65/sh | return at price: 1.6%
+  equity-only, organic growth                                at 5.60%:    480.8M  $  10.39/sh | at 10%:    268.1M  $   5.80/sh | return at price: 1.7%
+  all-equity, literal window, no growth                      at 5.60%:    338.7M  $   7.32/sh | at 10%:   -104.3M  $  -2.26/sh | return at price: 2.5%
+
+SENSITIVITY, not a convention case: the three best years only (2023-2025), acquisitions left out
+  all-equity, 2023-2025 average 91.9M, no growth             at 5.60%:    973.0M  $  21.04/sh | at 10%:    250.9M  $   5.42/sh | return at price: 4.0%
+  all-equity, 2023-2025 average, Hisco retention 34.6M added back to 2024 at 5.60%:   1179.0M  $  25.49/sh | at 10%:    366.2M  $   7.92/sh | return at price: 4.5%
+
+REPORTING FIGURES
+  value range, default pair (central): no-growth case alone, $-15.12 a share all-equity
+  value range, organic pair beside: $6.62 to $7.26 a share all-equity; equity-only $10.09 to $10.39
+  fair price, default pair: $-20.46 a share all-equity (not positive)
+  fair price, organic pair: $-2.49 all-equity (average of the two ends at 10%); equity-only $5.72
+  price $35.03

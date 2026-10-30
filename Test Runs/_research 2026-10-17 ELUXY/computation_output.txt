@@ -1,0 +1,50 @@
+Five-year window, acquisitions and divestments deducted (default pair):
+2021 equity-only -636 unlevered -263
+2022 equity-only -10196 unlevered -9213
+2023 equity-only -1466 unlevered 153
+2024 equity-only -1236 unlevered 165
+2025 equity-only -2643 unlevered -1207
+avg equity-only -3235 avg unlevered -2073
+halves (unlevered) first 2021-22 -4738 second 2024-25 -521
+Organic pair (acquisitions/divestments left out): [743, -8845, 153, -807, -1201] -1992
+Ten-year cycle base (excl. acq/div; includes Professional to its 2020 distribution): unlevered 1247 equity-only 443
+cycle halves unlevered 2016-20 4486 2021-25 -1992 growth between halves (5 yrs) -0.444
+five-year no-growth (the only case: series changes sign) at 3.1620%: EV -65,564  equity -86,599  per share -106.72  (with leases in debt -111.34)
+five-year no-growth (the only case: series changes sign) at 10.0000%: EV -20,731  equity -41,766  per share -51.47  (with leases in debt -56.09)
+ten-year cycle base no-growth (top) at 3.1620%: EV 39,449  equity 18,414  per share 22.69  (with leases in debt 18.07)
+ten-year cycle base no-growth (top) at 10.0000%: EV 12,474  equity -8,561  per share -10.55  (with leases in debt -15.17)
+five-year equity-only at 3.1620%: equity -102,321 per share -126.09
+five-year equity-only at 10.0000%: equity -32,354 per share -39.87
+ten-year equity-only at 3.1620%: equity 14,016 per share 17.27
+ten-year equity-only at 10.0000%: equity 4,432 per share 5.46
+market cap SEKm 22397 EV (financial net debt) 43432
+owner cash needed for 10% on EV, no growth: 4343
+ADR implied USD 5.571
+fair price five-year (single case) SEK/share -51.47 USD/ADR -10.39
+fair price cycle-base top SEK/share -10.55
+max owner cash share of sales in ten years: 6.6
+trough-to-trough 2015-2019: owner cash 4,302; value at sovereign 141.72/sh; at 10% 27.09/sh; return on EV at price 9.90%
+trough-to-trough 2019-2023 (last full cycle): owner cash -313; value at sovereign -38.11/sh; at 10% -29.78/sh; return on EV at price -0.72%
+peak-to-peak 2017-2021: owner cash 3,038; value at sovereign 92.49/sh; at 10% 11.52/sh; return on EV at price 7.00%
+ten years 2016-2025: owner cash 1,247; value at sovereign 22.69/sh; at 10% -10.55/sh; return on EV at price 2.87%
+EV at price 43432
+year  ELUX op margin  WHR op margin  WHR CFO-capex
+2016 5.2 6.5 543
+2017 6.1 5.3 580
+2018 4.3 1.3 639
+2019 2.7 7.7 698
+2020 5.0 8.3 1090
+2021 5.4 10.7 1651
+2022 -0.2 -5.4 820
+2023 -2.2 5.2 366
+2024 0.8 0.9 384
+2025 2.8 5.4 81
+10y avg op margin ELUX 2.87 WHR 4.72
+10y owner cash/sales ELUX unlevered 0.99
+equity-only 2019-2023 avg -1107 at 10% per share -13.64 at sovereign -43.13
+central fair price SEK/B -29.78 USD/ADR -6.01
+unlevered owner cash series excl. acq/div: {2015: 5463, 2016: 7982, 2017: 5579, 2018: 2485, 2019: -1, 2020: 6386, 2021: 743, 2022: -8845, 2023: 153, 2024: -807, 2025: -1201}
+LAST TROUGH-TO-TROUGH on owner cash 2019-2022 (central): owner cash -429; value at sovereign -42.65/sh; fair (10%) -31.21/sh = USD -6.30/ADR; return on EV at price -0.99%
+   equity-only: owner cash -1,017; at 10% -12.53/sh; at sovereign -39.63/sh; return on market cap -4.54%
+last peak-to-peak on owner cash 2016-2020 (2016-2018 include Electrolux Professional): owner cash 4,486; value at sovereign 148.92/sh; fair (10%) 29.36/sh = USD 5.93/ADR; return on EV at price 10.33%
+   equity-only: owner cash 4,040; at 10% 49.79/sh; at sovereign 157.46/sh; return on market cap 18.04%

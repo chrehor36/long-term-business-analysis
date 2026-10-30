@@ -1,0 +1,20 @@
+2016 OC equity     -551  OC all-equity      -57  capex+intang    223  D&A 1216
+2017 OC equity      642  OC all-equity     1032  capex+intang    216  D&A 1172
+2018 OC equity       37  OC all-equity      347  capex+intang    433  D&A 1030
+2019 OC equity     1230  OC all-equity     1422  capex+intang    681  D&A 992
+2020 OC equity     2910  OC all-equity     3105  capex+intang    799  D&A 1000
+2021 OC equity     3569  OC all-equity     3793  capex+intang   1484  D&A 983
+2022 OC equity    -1414  OC all-equity    -1391  capex+intang   2092  D&A 903
+2023 OC equity     1263  OC all-equity     1219  capex+intang   2984  D&A 1062
+2024 OC equity      -99  OC all-equity      -85  capex+intang    995  D&A 1226
+2025 OC equity      925  OC all-equity     1080  capex+intang   1171  D&A 1275
+cycle base 2016-2025: equity 851, all-equity 1046
+literal window 2021-2025: equity 849, all-equity 923
+halves: equity 853 -> 849 g=-0.11%/yr ; all-equity 1170 -> 923 g=-4.63%/yr
+capex+intangibles 10y 11078 vs D&A 10y 10859; max OC/sales 18.1%
+all-equity: range R$ 5.51 to 7.17 per share; fair price (ends at 10%, averaged) R$ 7.78
+   implied cash yield at price on no-growth case: 12.60%
+   with forfaiting 177 counted as debt: fair R$ 7.64, top R$ 7.02
+equity-only: range R$ 5.46 to 5.50 per share; fair price (ends at 10%, averaged) R$ 6.89
+   implied cash yield at price on no-growth case: 9.67%
+declining all-equity case at 10%: R$ 6.66

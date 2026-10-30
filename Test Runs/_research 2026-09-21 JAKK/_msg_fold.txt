@@ -1,0 +1,43 @@
+JAKK fold, all six steps: register entry 154, wave7_done at 22, narrative fold, no price band
+
+1. Register entry in ## COMPLETED FROM THE QUEUE, re-derived not inherited:
+   heading at index 501, write-early at index 12430 (matched by startswith,
+   because it carries trailing text), 153 entries stood above this one, so JAKK
+   is 154. Carries price $24.085, shares 11,445,012 with the 10-Q cover accession
+   0001185185-26-003186, the hand-struck cap $275.65M against the screen 291, the
+   sovereign 5.34% at 2026-09-18 from the Treasury curve, and the PASS/FAIL line:
+   Q1 IN, Q2 OUT on [E3-03] criterion 2.
+   JAKK appeared once elsewhere in the file and it is NOT a register entry: the
+   HAS entry already cites JAKKS as a peer and quotes its "no significant barriers
+   to entry" sentence.
+2. Screens/_daily/_wave7_done.txt: JAKK appended, 22 lines, matching wave 7
+   name 22 of 218.
+3. Narrative fold appended to the PREPPED READING LIST.
+4. No band in tools/alerts.json and no PORTFOLIO.md row: this failed on the
+   BUSINESS, so the QLYS ruling applies and the reversal condition is in words.
+5. python tools/check_framework.py PASS before this commit.
+6. Committed with a pathspec, message file written fresh.
+
+Also in this commit: the Q2 verdict paragraph now quotes [E3-03] from the ledger
+row's own quote_verbatim rather than from the framework's rendering, which carries
+one sentence the rendering drops -- "The existence of all three conditions will be
+demonstrated by a company's ability to regularly price its product or service
+aggressively and thereby to earn high rates of return on capital." JAKKS fails the
+demonstration as well as the definition.
+
+Findings reported for the operator, not patched (rule 6, PRIME RULE 5):
+ - WC_TAGS in Screens/floor_screen.py contains four liability tags and no
+   receivables or inventory tag, so working_capital_flag can only ever name a
+   payable; and it omits IncreaseDecreaseInAccountsPayableRelatedParties, so it
+   understated its own filed line by 27%.
+ - working_capital_flag has no near-zero or across-zero guard on its denominator,
+   which level_shift and best_year_dependence both acquired over five runs.
+ - Ledger rows [E3-03] and [E3-43] share two verbatim sentences and neither is
+   marked ALIAS NOTE; [E3-43]'s evolution_notes calls them "the sentences
+   immediately following E3-03's three franchise conditions" when they are inside
+   E3-03's own quote_verbatim.
+ - CLAUDE.md's key-files table still says the ledger is 267 rows; it is 311.
+ - JAKKS furnishes its earnings release as EX-10.1, not EX-99.1: a retrieval
+   hazard for any run that globs for EX-99.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

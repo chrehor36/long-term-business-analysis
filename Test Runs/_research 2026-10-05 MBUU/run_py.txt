@@ -1,0 +1,49 @@
+==============================================================================
+MALIBU BOATS, INC.  (MBUU)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.63%   10/02/2026   US Treasury daily par yield curve
+  price     22.54 USD   2026-10-05   (aggregator — live quote only)
+  shares    19.3M      market cap 0.44B USD
+  share basis: WeightedAverageNumberOfDilutedSharesOutstanding + WeightedAverageNumberOfSharesOutstandingBasic - a WEIGHTED AVERAGE, not a cover-page count
+  ** A weighted average is an EPS denominator, not a share count.
+     For a multi-class filer it is denominated in ONE class. Verify:
+     python Screens/cover_shares.py MBUU **
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2024-06-30         56        5        33         76        -25         18
+    2025-06-30         57        6        39         28         12         23
+    2026-06-30         68        6        44         25         18         37
+          mean                                                   2         26
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 46 .. 72   yield 10.64%..16.51%
+  DIVERGENCE vs the 3-yr window: +2918.9% on the conservative end
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                  0.35% ..  5.93%   vs sovereign 5.63%
+  2. GROWTH THE PRICE ASSUMES   57.1%  (at a 5.63% rate)
+  3. POINTS OVER THE SOVEREIGN -2.76 .. +3.08
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD thousands; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2017-07-06             -           -           -           -           -           -           -      89,900           -           -
+    2018-06-30       365,768     225,897     134,369      61,623      24,625      44,268      32,230      94,221     108,487      27,789
+    2019-06-30       451,314     240,961     204,235      27,392      27,961      67,768      51,404     146,061     113,633      93,852
+    2020-06-30       477,346     215,819     254,580      33,787      13,767      72,946      51,273     139,892      82,839     153,711
+    2021-06-30       742,784     361,630     373,428      41,479      49,844     116,685     101,033     235,363     139,025     263,552
+    2022-06-30       851,326     337,758     503,174      83,744      51,598     157,002     100,804     228,304     118,054     421,184
+    2023-06-30       925,924     310,171     607,882      78,937      68,381     171,189     100,577     221,458           0     525,697
+    2024-06-30       739,624     204,905     530,009      26,945      23,141     145,573      51,415     175,449           0     469,785
+    2025-06-30       734,578     214,745     515,461      37,002      23,034     142,163      51,306     168,634      18,000     484,664
+    2026-06-30       996,194     467,768     524,448      74,419      33,353     180,066      78,689     295,965     165,000     486,317
+    accessions: 0001590976-18-000071, 0001590976-19-000073, 0001590976-20-000069, 0001590976-21-000065, 0001590976-22-000050, 0001590976-23-000069, 0001590976-24-000073, 0001590976-25-000080, 0001590976-26-000037
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

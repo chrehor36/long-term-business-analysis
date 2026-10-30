@@ -1,0 +1,1477 @@
+ 
+ EX-10.1
+ 3
+ ea028711701ex10-1.htm
+ NOTES RESTRUCTURING AGREEMENT, DATED AS OF APRIL 21, 2026, BY AND AMONG SOUNDHOUND AI, INC., LIVEPERSON, INC. AND EACH HOLDER OF LIVEPERSON'S SECOND LIEN SENIOR SUBORDINATED SECURED NOTES DUE 2029
+ Exhibit 10.1 
+ Execution Version
+ NOTES RESTRUCTURING AGREEMENT 
+ This NOTES RESTRUCTURING
+AGREEMENT (this “ Agreement ”) is entered into as of April 21, 2026, by and among LivePerson, Inc., a Delaware
+corporation (the “ Issuer ”), SoundHound AI, Inc., a Delaware corporation (the “ Acquiror ”),
+and the several holders of the Secured Notes (as defined below) listed on Exhibit A attached hereto (each, a “ Holder ”
+and, collectively, the “ Holders ”). The Issuer, the Acquiror, and each Holder are referred to herein as the “ Parties ”
+and each, as a “ Party .”
+ RECITALS 
+ WHEREAS , before the
+date hereof, the Issuer issued $200.0 million in aggregate principal amount of its First Lien Convertible Secured Notes due 2029 (the
+“ First Lien Secured Notes ”), and following payments of interest in kind, $221,877,243.00 principal amount of
+First Lien Secured Notes are outstanding as of the date hereof;
+ WHEREAS , on September
+12, 2025, the Issuer issued $115.0 million in aggregate principal amount of its 10.0% Second Lien Senior Subordinated Secured Notes due
+2029 (the “ Second Lien Secured Notes ,” and together with the First Lien Secured Notes, the “ Secured
+Notes ”), and following a payment of interest in kind, $120,845,834.00 principal amount of Second Lien Secured Notes are
+outstanding as of the date hereof;
+ WHEREAS , the Holders
+hold, in aggregate, one hundred percent (100%) of the outstanding Secured Notes;
+ WHEREAS , the Acquiror,
+the Issuer and Lightspeed Merger Sub Inc., a Delaware corporation and an indirect wholly owned subsidiary of the Acquiror (“ Merger
+Sub ”), have entered into that certain Merger Agreement (as amended, supplemented or modified from time to time in accordance
+with the terms thereof, the “ Merger Agreement ”), dated as of the date hereof, pursuant to which, upon the terms
+and subject to the satisfaction or waiver of the conditions set forth in the Merger Agreement, among other things, at the Effective Time
+(as defined in the Merger Agreement), Merger Sub shall merge with and into the Issuer (the “ Merger ”), the separate
+corporate existence of Merger Sub shall cease and the Issuer shall continue as the surviving corporation of the Merger and an indirect,
+wholly owned subsidiary of the Acquiror;
+ WHEREAS , in connection
+with and contingent on the consummation of the transactions contemplated by the Merger Agreement, including the Merger, the Acquiror wishes
+to offer, and the Holders wish to accept, the Consideration (as defined below) on the terms hereof;
+ NOW, THEREFORE , in
+consideration of the mutual covenants and agreements set forth herein, and for other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the Parties agree as follows:
+ Article I.
+DEFINITIONS
+ As used in this Agreement,
+the following terms shall have the following meanings:
+ “ 2026 Convertible Notes ”
+means the 0% convertible notes due 2026 issued by the Issuer.
+ “ 2026 Notes Discount Capture ”
+means, solely as to any 2026 Convertible Notes repurchased and retired by the Issuer between April 1, 2026 and the Closing, the difference
+between (a) the principal amount of such 2026 Convertible Notes less (b) the amount of cash paid to repurchase such 2026 Convertible
+Notes.
+ “ Acquiror ”
+has the meaning set forth in the Preamble.
+ “ Acquiror Cash Election ”
+has the meaning set forth in Section 2.01.
+ “ Acquiror Closing VWAP ”
+means the price per share of a share of Acquiror Common Stock derived from the average daily volume weighted average prices of a share
+of Acquiror Common Stock on the Nasdaq on each of the ten (10) consecutive Trading Days ending on (and including) the Trading Day that
+is three (3) Trading Days prior to the Closing Date, rounded down to the nearest penny, as reported by Bloomberg.
+ “ Acquiror Common Stock ”
+means the shares of Class A common stock, par value $0.0001 per share, of the Acquiror (NASDAQ:SOUN).
+ “ Acquiror Securities ”
+means the shares of Acquiror Common Stock or any other equity interests in, or securities of, Acquiror or any other rights or instruments
+(whether or not currently exercisable or convertible) that are derivative of, exchangeable for or convertible into any securities of Acquiror.
+ “ Acquiror Stock Price ”
+means the Acquiror Closing VWAP, provided, that (a) if the Acquiror Closing VWAP is greater than $12 per share, the Acquiror Stock Price
+will be $12 per share, and (b) if the Acquiror Closing VWAP is less than $7 per share, the Acquiror Stock Price will be $7 per share.
+ “ Affiliate ”
+means, with respect to any Person, any other Person that directly or indirectly controls, is controlled by, or is under common control
+with, such Person.
+ “ Agreement ”
+has the meaning set forth in the Preamble.
+ “ Attribution Parties ”
+means, with respect to any person or entity, any other person or entity acting as a “group” (as that term is used in Section
+13(d) of the Exchange Act) together with such person or entity, and any other persons or entities, to the extent such persons’ or
+entities’ beneficial ownership (as defined in Rule 13d-3 under the Exchange Act) of the common stock of the Issuer or the Acquiror
+would be aggregated with such person’s or entity’s for purposes of Section 13(d) of the Exchange Act;
+ 2 
+ “ Business Day ”
+means any day other than a Saturday, Sunday, or a day on which banking institutions in New York, New York are authorized or required by
+law to be closed.
+ “ Cash ” means
+immediately available funds denominated in US dollars.
+ “ Closing ”
+means the closing of the transactions contemplated by this Agreement.
+ “ Closing Date ”
+means the date on which the Closing occurs.
+ “ Competing Proposal ”
+means any offer, proposal or indication of interest from any Person or group of Persons as defined in Section 13(d)(3) of the Exchange
+Act (other than the Acquiror or any of its subsidiaries) at any time relating to any transaction or series of related transactions (other
+than the Merger or the transactions contemplated by this Agreement) involving: (a) any acquisition or purchase by any person, directly
+or indirectly, of more than fifteen percent (15%) of any class of outstanding voting or equity securities of the Issuer (whether by voting
+power or number of shares), or any tender offer (including a self-tender offer) or exchange offer that, if consummated, would result in
+any person beneficially owning more than fifteen percent (15%) of any class of outstanding voting or equity securities of the Issuer (whether
+by voting power or number of shares); (b) any merger, consolidation, share exchange, business combination, joint venture, recapitalization,
+reorganization or other similar transaction involving the Issuer and a Person pursuant to which the stockholders of the Issuer immediately
+preceding such transaction hold less than eighty five percent (85%) of the equity interests in the surviving, resulting or ultimate parent
+entity of such transaction (whether by voting power or number of shares); (c) any sale, lease, exchange, transfer or other disposition
+to a person of more than fifteen percent (15%) of the consolidated assets of the Issuer and its subsidiaries (measured by the fair market
+value thereof); or (d) any transaction involving the Secured Notes (including any debt restructuring transactions or payments to be made
+in respect of the Secured Notes in connection with any Company Acquisition Proposal (as defined in the Merger Agreement)) other than Transfers
+of the Secured Notes or any interest therein effected in accordance with Section 8.09; provided that , the foregoing clause (d)
+shall not apply to customary Liens attributable to securities or notes held by a bank, prime-broker, or broker dealer on behalf of a Holder.
+ “ Consideration ”
+has the meaning set forth in Section 2.01.
+ “ DTC ” has
+the meaning set forth in Section 2.05.
+ “ DWAC ” has
+the meaning set forth in Section 2.05.
+ “ Estimated Closing Statement ”
+has the meaning set forth in Section 2.02.
+ “ Exchange Act ”
+means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.
+ “ First Lien Collateral Agent ”
+means U.S. Bank Trust Company, National Association, solely in its capacity as trustee and collateral agent under the First Lien Notes
+Documents.
+ “ First Lien Holder Aggregate
+Stock Consideration Amount ” means $178,007,733.68.
+ 3 
+ “ First Lien Holder Shares ”
+means the number of shares of Acquiror Common Stock (rounded down to the nearest whole share) equal to the quotient of (a) the First Lien
+Holder Aggregate Stock Consideration Amount, divided by (b) the Acquiror Stock Price.
+ “ First Lien Notes Documents ”
+means the First Lien Notes Indenture and all other agreements, instruments, and documented executed and delivered by the Issuer in connection
+therewith.
+ “ First Lien Notes Indenture ”
+means that certain Indenture, dated as of June 3, 2024, by and among the Issuer, certain subsidiary guarantors, and U.S. Bank Trust Company,
+National Association, as trustee and collateral agent, relating to the First Lien Secured Notes.
+ “ First Lien Secured Notes ”
+has the meaning set forth in the Recitals.
+ “ Fraud ” means
+actual fraud under Delaware law.
+ “ Governmental Authority ”
+means any federal, state, local, or foreign government or political subdivision thereof, or any agency or instrumentality of such government
+or political subdivision, or any self-regulated organization or other non-governmental regulatory authority, or any arbitrator, court,
+or tribunal of competent jurisdiction.
+ “ Holder ” and
+“ Holders ” has the meaning set forth in the Preamble.
+ “ Holder Shares ”
+means, with respect to each Holder, the sum of (a) the First Lien Holder Shares attributable to such Holder based on the “Percentage
+of First Lien Holder Shares” set forth across from such Holder’s name on Exhibit A plus (b) the Second
+Lien Holder Shares attributable to such Holder based on the “Percentage of Second Lien Holder Shares” set forth across from
+such Holder’s name on Exhibit A .
+ “ Holders Counsel
+Fees ” has the meaning set forth in Section 8.15.
+ “ IRS ” has
+the meaning set forth in Section 7.03.
+ “ Issuer ” has
+the meaning set forth in the Preamble.
+ “ Issuer Cash Balance ”
+means the amount of cash and cash equivalents in the final Estimated Closing Statement; provided that, for the avoidance of doubt, the
+Issuer Cash Balance will give pro forma effect (i.e., as a deduction) for all amounts payable by the Issuer that remain unpaid in connection
+with the transactions contemplated by this Agreement, the Merger Agreement, and any similar or alternative transactions involving the
+Issuer, its stockholders and/or the Secured Notes (including transactions with other potential acquirers or investors and including any
+debt restructuring transactions), if any, in connection with the transactions preceding and/or related to the transactions contemplated
+hereby (which may be as little as zero dollars ($0)), including (i) all unpaid Issuer Transaction Expenses, (ii) unpaid amounts used or
+to be used to repurchase and retire or extinguish 2026 Convertible Notes between April 1, 2026, and the Closing Date, if any, and (iii)
+the amounts to be remitted to the Holders of First Lien Secured Notes by the Issuer under ‎Section 2.01(b)(i) and to the Holders of
+Second Lien Secured Notes by the Issuer under Section 2.01(c)(i); provided that , notwithstanding the foregoing, the fees and expenses
+payable by the Issuer pursuant to Section 9.2(a) and Section 9.2(b) of the Merger Agreement shall be excluded from “Issuer Cash
+Balance” hereunder.
+ 4 
+ “ Issuer Excess Cash ”
+means an amount in cash equal to (a) the Issuer Cash Balance, less (b) the Issuer Minimum Cash; provided that , if a negative
+number results from such calculation, “Issuer Excess Cash” shall be zero (0).
+ “ Issuer Minimum Cash ” means an amount in
+cash equal to (a) $74,000,000, less (b) the amount of cash, if any, paid by the Issuer (or payable by the Issuer on the Closing
+Date) to repurchase and retire or extinguish the outstanding 2026 Convertible Notes between April 1, 2026 and the Closing Date (including
+on the Closing Date), less (c) the 2026 Notes Discount Capture.
+ “ Issuer Securities ”
+has the meaning set forth in Section 4.03(e).
+ “ Issuer
+Transaction Expenses ” means all fees and expenses incurred by or on behalf of the Issuer or by any other Person for which
+the Issuer is responsible in connection with or related to the negotiation, preparation, execution and performance of this Agreement,
+the Merger Agreement and the transactions contemplated hereby and thereby and any similar or alternative transaction involving the Issuer,
+its stockholders and/or the Secured Notes (including transactions with other potential acquirors or investors and including any debt restructuring
+transactions), if any, in connection with the transactions leading hereto (which may be as little as zero dollars ($0)), including, for
+the avoidance of doubt, all fees and expenses payable to brokers, financial advisors, investment banks, legal advisors, accountants and
+other professional advisors in connection with the transactions contemplated hereby and by the Merger Agreement and by such other similar
+or alternative transactions, as applicable.
+ “ Lien ” means
+any mortgage, pledge, security interest, encumbrance, lien, claim, restriction, option, title defect or charge or other encumbrance of
+any kind other than restrictions under the Securities Act.
+ “ Merger ” has
+the meaning set forth in the Recitals.
+ “ Merger Agreement ”
+has the meaning set forth in the Recitals.
+ “ Merger Sub ”
+has the meaning set forth in the Recitals.
+ “ Notes Documents ”
+means, collectively, the First Lien Notes Documents and the Second Lien Notes Documents and all other agreements, instruments, and documents
+executed and delivered by the Issuer in connection therewith.
+ “ Parties ”
+and “ Party ” has the meaning set forth in the Preamble.
+ “ Person ” means
+any individual, corporation, partnership, limited liability company, joint venture, association, trust, unincorporated organization, Governmental
+Authority, or other entity.
+ 5 
+ “ Related Fund ”
+has the meaning set forth in Section 4.03(e).
+ “ Released Claims ”
+has the meaning set forth in Section 3.01(a).
+ “ Released Parties ”
+has the meaning set forth in Section 3.01(a).
+ “ Releasing Parties ”
+has the meaning set forth in Section 3.01(a).
+ “ Required Consenting Noteholders ”
+means, collectively, the holders of the First Lien Secured Notes and the holders of at least a majority in principal amount outstanding
+of the Second Lien Secured Notes, each as of the date of determination.
+ “ SEC ” means
+the United States Securities and Exchange Commission.
+ “ Second Lien Collateral
+Agent ” means U.S. Bank Trust Company, National Association, solely in its capacity as trustee and collateral agent under
+the Second Lien Notes Documents.
+ “ Second Lien Holder Aggregate
+Stock Consideration Amount ” means $83,207,733.68.
+ “ Second Lien Holder Shares ”
+means the number of shares of Acquiror Common Stock (rounded down to the nearest whole share) equal to the quotient of (a) the Second
+Lien Holder Aggregate Stock Consideration Amount, divided by (b) the Acquiror Stock Price.
+ “ Second Lien Notes Documents ”
+means the Second Lien Notes Indenture and all other agreements, instruments, and documented executed and delivered by the Issuer in connection
+therewith.
+ “ Second Lien Notes Indenture ”
+means that certain Indenture, dated as of September 12, 2025, by and among the Issuer, certain subsidiary guarantors, and U.S. Bank Trust
+Company, National Association, as trustee and collateral agent, relating to the Second Lien Secured Notes.
+ “ Second Lien Secured Notes ”
+has the meaning set forth in the Recitals.
+ “ Secured Notes ”
+has the meaning set forth in the Recitals.
+ “ Securities Act ”
+means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
+ “ Short Position ”
+has the meaning set forth in Section 8.10.
+ 6 
+ “ Short Sales ”
+shall mean all “short sales” as defined in Rule 200 of Regulation SHO under the Exchange Act, and all types of direct and
+indirect stock pledges, forward sale contracts, options, puts, calls, swaps, and similar arrangements (including on a total return basis),
+and sales and other transactions through non-U.S. broker-dealers or foreign regulated brokers.
+ “ Trading
+Day ” shall mean a day on which shares of Acquiror Common Stock are traded on The Nasdaq Stock Market LLC.
+ “ Transfer ”
+has the meaning set forth in Section 8.09.
+ Article II. SATISFACTION
+OF SECURED NOTES
+ Section 2.01 Restructuring
+of Secured Notes. Subject to the terms and conditions of this Agreement, each Holder hereby severally and not jointly agrees to accept
+the following in full and complete satisfaction of all obligations of the Issuer to such Holder under the Secured Notes and the Notes
+Documents (collectively, the “ Consideration ”):
+ | (a) | the Holder Shares owed to such Holder, provided that, no Holder shall be entitled to any fractional shares
+and the number of Holder Shares to which such Holder is entitled shall be rounded down to the nearest whole share; | 
+ | (b) | in the case of a Holder of one or more First Lien Secured Notes, Cash paid by the Issuer concurrently
+with Closing in the amount of the sum of (i) accrued and unpaid interest on the First Lien Secured Notes held by such Holder, (provided
+that, for the avoidance of doubt, any such Cash amount shall exclude the aggregate amount of any PIK Interest (as defined in the First
+Lien Notes Indenture) on the First Lien Secured Notes) and (ii) 65% of the Issuer Excess Cash, if any; and | 
+ | (c) | in the case of a Holder of one or more Second Lien Secured Notes, such Holder’s pro rata portion
+of the sum of (i) the 2026 Notes Discount Capture, plus (ii) 35% of the Issuer Excess Cash, if any, attributable to such Holder
+(for the avoidance of doubt, solely on account of Second Lien Secured Notes held by such Holder). | 
+ Section 2.02 Estimated
+Closing Statement. No earlier than twenty (20) Business Days nor later than fifteen (15) Business Days prior to the Closing Date,
+the Issuer shall deliver to the Acquiror a statement (the “ Estimated Closing Statement ”), certified by the Chief
+Financial Officer of the Issuer, setting forth (a) a good faith estimated unaudited balance sheet of the Issuer and (b) the Issuer’s
+good faith estimate of the Issuer Cash Balance, in each case, as of 12:01 a.m. Pacific Time on the Closing Date. The Issuer shall deliver
+supporting calculations and documentation of such calculations (including with respect to any deductions contemplated by the definition
+of Issuer Cash Balance and reflected in such calculations), in detail reasonably acceptable to the Acquiror, concurrently with the delivery
+of such Estimated Closing Statement. The Issuer shall consult in good faith with the Acquiror and its representatives with respect to
+the preparation of, and with respect to any updates reasonably requested by the Acquiror or its representatives to, the Estimated Closing
+Statement until the date that is five (5) Business Days prior to the Closing Date. Subject to such good faith consultation by the Issuer
+and any updates to the Estimated Closing Statement resulting therefrom, the Issuer Cash Balance set forth in the Estimated Closing Statement
+as of such fifth (5th) Business Day prior to the Closing Date shall be deemed the final Issuer Cash Balance for purposes of calculating
+the Issuer Excess Cash.
+ 7 
+ Section 2.03 Acquiror
+Cash Election. Notwithstanding anything to the contrary in this Agreement, the Acquiror shall have the option to elect, at any time
+before the close of business two (2) Business Days prior to the Closing Date, to substitute an amount of Cash in lieu of all or a portion
+of the Holder Shares otherwise deliverable to each Holder pursuant to Section 2.01(a) (the “ Acquiror Cash Election ”) .
+ An Acquiror Cash Election shall be subject to the following terms: (a) every Holder shall receive the same proportion of its respective
+Consideration in Cash and in Holder Shares; (b) regardless of the Acquiror Stock Price, the proportion of the Consideration satisfied
+in Cash shall be calculated assuming the First Lien Holder Shares are worth the First Lien Holder Aggregate Stock Consideration Amount
+and the Second Lien Holder Shares are worth the Second Lien Holder Aggregate Stock Consideration Amount; and (c) in the event the Acquiror
+Closing VWAP is greater than $12 per share, the Acquiror shall not be entitled to substitute Cash for more than fifty percent (50%) of
+such Holder Shares. By way of example, if the First Lien Holder Aggregate Stock Consideration Amount is $178,007,733.68, the Second Lien
+Holder Aggregate Stock Consideration Amount is $83,207,733.68, the Acquiror Closing VWAP is greater than $12 per share and the Acquiror
+elects to substitute Cash for fifty percent (50%) of the Holder Shares, the Acquiror will deliver $89,003,866.84 of Cash and fifty percent
+(50%) of the First Lien Holder Shares to the Holders of the First Lien Secured Notes and $41,603,866.84 of Cash and fifty percent (50%)
+of the Second Lien Holder Shares to the Holders of the Second Lien Secured Notes, in aggregate. In addition, if the amount of Holder Shares
+to be received by any Holder would exceed 9.9% of the outstanding shares of Acquiror Common Stock, then Acquiror shall substitute an amount
+of Cash in lieu of all Holder Shares to be issued in excess of 9.9% to such Holder pursuant to Section 2.01(a).
+ Section 2.04 Issuance
+of Holder Shares. On the Closing Date, the Acquiror shall issue and deliver to each Holder its Holder Shares, which shall at the time
+of Closing be eligible for resale pursuant to an effective registration statement filed by the Acquiror with the SEC. Acquiror shall use
+commercially reasonable efforts to deliver the Holder Shares without a restrictive legend through a one-sided Deposit/Withdrawal at Custodian
+in accordance with the procedures of The Depository Trust Company, or, if necessary, Acquiror shall cooperate with the Holders to remove
+any restrictive legends promptly after effectiveness of the registration statement.
+ Section 2.05 Surrender
+of Secured Notes. On or prior to the Closing Date, each Holder shall surrender and deliver, or cause its Depository Trust Company
+(“ DTC ”) participant(s) to surrender and deliver, the Secured Notes held by such Holder to the trustee of the
+Secured Notes for cancellation through the one-sided withdrawal instructions pursuant to the Deposit/Withdrawal at Custodian system at
+DTC (“ DWAC ”) in accordance with the procedures of DTC, and Issuer shall instruct the trustee of the Secured
+Notes to cancel such surrendered Secured Notes and deliver an instrument of cancellation reasonably satisfactory to the Issuer and the
+Acquiror, and the Issuer shall provide evidence of such surrender in form and substance satisfactory to the Acquiror.
+ Section 2.06 Satisfaction
+in Full. Upon delivery of the Consideration to each Holder, all obligations of the Issuer to such Holder arising under or in connection
+with the Secured Notes and the Notes Documents, including all principal, premium, accrued interest, and any other amounts due thereunder,
+shall thereupon be fully, irrevocably and indefeasibly satisfied, discharged, and extinguished in full and the Secured Notes and all of
+the Note Documents will terminate and be of no further force and effect. Each Holder of Secured Notes waives rights to any notice required
+under such Holder’s Secured Notes and the Note Documents and any associated note purchase agreement. Each Secured Note shall be
+deemed amended to provide for the treatment set forth in this Agreement.
+ 8 
+ Section 2.07 Closing. 
+The Closing shall take place at the offices of Latham & Watkins LLP, 505 Montgomery Street, Suite 2000, San Francisco, California
+94111 or at such other location or by remote electronic exchange of documents and signatures as the Parties may mutually agree, on the
+date that is the closing date of the transactions contemplated under the Merger Agreement, or at such other time and place as the Parties
+may mutually agree in writing.
+ Article III. RELEASE
+ Section 3.01 Release by
+Parties. 
+ | (a) | Effective upon the Closing (including, for the avoidance of doubt, in the event the Closing occurs under
+the circumstances described in the proviso in Section 5.02(f)), each Party, on behalf of itself and its respective parents, subsidiaries,
+Affiliates, stockholders, members, managers, partners, limited partners, general partners, directors, officers, managed accounts, management
+companies, funds advisors, successors, assigns, heirs, executors, administrators, agents, representatives, attorneys, and any Person claiming
+by, through, or under any of them (collectively, the “ Releasing Parties ”), hereby irrevocably and unconditionally
+releases, acquits, and forever discharges each other Party, and each of their respective past, present, and future parents, subsidiaries,
+Affiliates, stockholders, members, managers, partners, limited partners, general partners, directors, officers, employees, managed accounts,
+management companies, funds advisors, agents, representatives, attorneys, successors, assigns, heirs, executors and administrators (collectively,
+the “ Released Parties ”) from any and all claims, demands, actions, causes of action, suits, damages, liabilities,
+obligations, costs, expenses, and compensation of any kind or nature whatsoever, whether known or unknown, suspected or unsuspected, fixed
+or contingent, liquidated or unliquidated, matured or unmatured, at law or in equity, that such Releasing Parties ever had, now have,
+or may hereafter have against (i) the Acquiror and any of its Released Parties or (ii) any of the other Released Parties to the extent
+arising out of, relating to, or in connection with the transactions contemplated by this Agreement and the Merger Agreement, the Issuer,
+the Secured Notes, the Notes Documents, the 2026 Convertible Notes (including, for the avoidance of doubt, the transactions effected by
+the Issuer to exchange certain of the 2026 Convertible Notes for First Lien Secured Notes and Second Lien Secured Notes in, respectively,
+2024 and 2025), any other debt securities or obligations issued by the Issuer or any transaction or matter related thereto (collectively,
+the “ Released Claims ”). Notwithstanding anything to the contrary in the foregoing, the releases set forth above
+do not release (a) any obligations arising on or after the Closing of any Party under this Agreement or the Merger Agreement, or any document,
+instrument, or agreement executed to implement the Merger or (b) any liability of a Party for Fraud by such Party. | 
+ | (b) | EACH PARTY, ON BEHALF OF THE APPLICABLE RELEASING PARTIES, EXPRESSLY IRREVOCABLY WAIVES ALL RIGHTS AFFORDED
+BY ANY STATUTE OR COMMON LAW PRINCIPLES WHICH LIMITS THE EFFECT OF A RELEASE WITH RESPECT TO UNKNOWN CLAIMS, INCLUDING ALL RIGHTS UNDER
+SECTION 1542 OF THE CALIFORNIA CIVIL CODE, WHICH PROVIDES AS FOLLOWS: “A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR
+OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM
+OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY.” EACH PARTY, ON BEHALF OF THE APPLICABLE
+RELEASING, ACKNOWLEDGES THAT HE, SHE OR IT IS FAMILIAR WITH SECTION 1542 OF THE CALIFORNIA CIVIL CODE AND UNDERSTANDS THE SIGNIFICANCE
+OF THIS RELEASE OF UNKNOWN CLAIMS AND WAIVER OF ANY STATUTORY PROTECTION AGAINST A RELEASE OF UNKNOWN CLAIMS. EACH PARTY, ON BEHALF OF
+THE APPLICABLE RELEASING PARTIES, ACKNOWLEDGES AND AGREES THAT THIS WAIVER IS AN ESSENTIAL AND MATERIAL TERM OF THIS AGREEMENT. | 
+ 9 
+ Section 3.02 Covenant
+Not to Sue. Each of the Releasing Parties covenants and agrees that it will not, and will cause each of its controlled Affiliates
+not to, institute any action, suit, or proceeding against any Released Party with respect to any Released Claim.
+ Article IV. REPRESENTATIONS
+AND WARRANTIES
+ Section 4.01 Representations
+and Warranties of the Issuer. The Issuer hereby represents and warrants to the Holders and the Acquiror as follows:
+ | (a) | Organization and Good Standing. The Issuer is a corporation duly organized, validly existing, and
+in good standing under the laws of the State of Delaware. | 
+ | (b) | Authorization; Enforceability. The Issuer has full corporate power and authority to execute, deliver,
+and perform its obligations under this Agreement. The execution, delivery, and performance of this Agreement by the Issuer have been duly
+authorized by all necessary corporate action. This Agreement constitutes the legal, valid, and binding obligation of the Issuer, enforceable
+against the Issuer in accordance with its terms, except as such enforceability may be limited by applicable bankruptcy, insolvency, reorganization,
+moratorium, or similar laws affecting creditors’ rights generally and by general principles of equity. | 
+ | (c) | No Conflicts. The execution, delivery, and performance of this Agreement by the Issuer do not and
+will not (i) violate or conflict with the certificate of incorporation or bylaws of the Issuer, (ii) violate any law, order, judgment,
+or decree applicable to the Issuer, or (iii) require any consent, approval, or authorization of, or filing with, any Governmental Authority
+that has not been obtained or made, subject to compliance with the applicable requirements of U.S. state and federal securities laws. | 
+ | (d) | SEC Filings. The Issuer has filed all reports, schedules, forms, statements, and other documents
+required to be filed by it with the SEC pursuant to the Exchange Act since January 1, 2024. As of their respective filing dates (or, if
+amended or superseded by a subsequent filing, as of the date of the last such amendment or superseding filing), such filings complied
+in all material respects with the requirements of the Exchange Act and the rules and regulations promulgated thereunder. | 
+ | (e) | Fair Value. The Issuer acknowledges and agrees that the Consideration constitutes fair consideration
+and reasonably equivalent value for the cancellation and release of the Secured Notes and the other obligations, rights and interests
+affected hereby. | 
+ Section 4.02 Representations
+and Warranties of the Acquiror. The Acquiror hereby represents and warrants to the Holders and the Issuer as follows:
+ | (a) | Organization and Good Standing. The Acquiror is a corporation duly organized, validly existing,
+and in good standing under the laws of the State of Delaware. | 
+ | (b) | Authorization; Enforceability. The Acquiror has full corporate power and authority to execute,
+deliver, and perform its obligations under this Agreement. The execution, delivery, and performance of this Agreement by the Acquiror
+have been duly authorized by all necessary corporate action. This Agreement constitutes the legal, valid, and binding obligation of the
+Acquiror, enforceable against the Acquiror in accordance with its terms, except as such enforceability may be limited by applicable bankruptcy,
+insolvency, reorganization, moratorium, or similar laws affecting creditors’ rights generally and by general principles of equity. | 
+ 10 
+ | (c) | No Conflicts. The execution, delivery, and performance of this Agreement by the Acquiror do not
+and will not (i) violate or conflict with the certificate of incorporation or bylaws of the Acquiror, (ii) violate any law, order, judgment,
+or decree applicable to the Acquiror, or (iii) require any consent, approval, or authorization of, or filing with, any Governmental Authority
+that has not been obtained or made, subject to compliance with the applicable requirements of applicable U.S. state or federal securities
+laws. | 
+ | (d) | Valid Issuance of Holder Shares. The Holder Shares, when issued in accordance with this Agreement,
+will be duly authorized, validly issued, fully paid, and non-assessable, and will be free and clear of all Liens (other than restrictions
+arising under the Securities Act, other applicable securities laws or this Agreement). The issuance of the Holder Shares pursuant to this
+Agreement will not cause the Acquiror to exceed its authorized capital stock. The Acquiror Common Stock is registered under Section 12(b)
+of the Exchange Act and is listed on the Nasdaq, and the Acquiror has not received any notice of delisting. No judgment, order, ruling,
+regulation, decree, injunction, or award of any securities commission or similar securities regulatory authority or any other Governmental
+Authority, or of the Nasdaq, preventing or suspending trading in any securities of the Acquiror has been issued, and no proceedings for
+such purpose are, to the knowledge of the Acquiror, pending, contemplated or threatened. The transactions contemplated hereby do not require
+any vote of the equityholders of the Acquiror under applicable law, the rules and regulations of the Nasdaq or the governing documents
+of the Acquiror. | 
+ | (e) | SEC Filings. The Acquiror has filed or furnished all reports, schedules, forms, statements, and
+other documents required to be filed or furnished by it with the SEC pursuant to the Exchange Act since January 1, 2024. As of their respective
+filing dates (or, if amended or superseded by a subsequent filing, as of the date of the last such amendment or superseding filing), such
+filings complied in all material respects with the requirements of the Exchange Act or the Securities Act, as the case may be, and the
+rules and regulations promulgated thereunder. | 
+ | (f) | Fair Value. The Acquiror acknowledges and agrees that the Consideration constitutes fair consideration
+and reasonably equivalent value for the cancellation and release of the Secured Notes and the other obligations, rights and interests
+affected hereby. | 
+ | (g) | Acquiror Status. As of the date of this Agreement, Acquiror is a “well-known seasoned issuer”
+as defined in Rule 405 under the Securities Act and is currently eligible to register the resale of the Holder Shares for resale by the
+Holders on automatically effective Form S-3 promulgated under the Securities Act. As of the date of this Agreement, the Acquiror Common
+Stock is registered pursuant to Section 12(b) of the Exchange Act, and neither Acquiror nor any of its subsidiaries has taken, or will
+take, any action designed to terminate, or that is likely to have the effect of terminating, the registration of the Acquiror Common Stock
+under the Exchange Act; nor has Acquiror nor any of its subsidiaries received any notification that the SEC is contemplating terminating
+such registration. | 
+ 11 
+ Section 4.03 Representations
+and Warranties of the Holders. Each Holder, severally and not jointly, hereby represents and warrants to and covenants and agrees
+with the Issuer and the Acquiror as follows:
+ | (a) | Organization and Good Standing. It is duly organized, validly existing, and in good standing under
+the laws of its jurisdiction of organization. | 
+ | (b) | Authorization; Enforceability. Such Holder has full power and authority to execute, deliver, and
+perform its obligations under this Agreement. The execution, delivery, and performance of this Agreement by such Holder have been duly
+authorized by all necessary action. This Agreement constitutes the legal, valid, and binding obligation of such Holder, enforceable against
+such Holder in accordance with its terms, except as such enforceability may be limited by applicable bankruptcy, insolvency, reorganization,
+moratorium, or similar laws affecting creditors’ rights generally and by general principles of equity. | 
+ | (c) | Ownership of Secured Notes. Such Holder is the direct legal or beneficial owner of the Secured
+Notes or is the nominee, investment manager, or advisor for beneficial holders of the Secured Notes, as set forth opposite its name on
+ Exhibit A , free and clear of all Liens, other than customary Liens attributable to securities or notes held by a bank, prime-broker,
+or broker-dealer on behalf of a Holder. Except as otherwise permitted hereunder, such Holder has not assigned, transferred, pledged, hypothecated,
+or otherwise disposed of any interest in such Secured Notes, other than customary Liens attributable to securities or notes held by a
+bank, prime-broker, or broker-dealer on behalf of a Holder. As of the date of this Agreement, other than customary Liens attributable
+to securities or notes held by a bank, prime-broker, or broker-dealer on behalf of a Holder, such Holder has not, in whole or in part,
+(i) assigned, transferred, hypothecated, pledged or otherwise disposed of all or any portion of its Secured Notes or its rights in or
+to all or any portion of its Secured Notes, or (ii) given any person or entity any transfer order, power of attorney or other authority
+of any nature whatsoever with respect to all or any portion of its Secured Notes which would limit such Holder’s power to surrender
+its Secured Notes hereunder in exchange for Holder’s respective portion of the Consideration. Such Holder covenants that it shall
+not take any of the actions set forth in the immediately preceding sentence. Such Holder has the full power and authority to surrender
+its Secured Notes as provided in this Agreement and its Secured Notes are not subject to any agreement, arrangement or restriction with
+respect thereto, other than customary Liens attributable to securities or notes held by a bank, prime-broker, or broker-dealer on behalf
+of a Holder. No additional consideration for any purpose shall be due to such Holder at the Closing with respect to its Secured Notes,
+other than the payment to such Holder of its respective portion of the Consideration as provided herein. As of the date of this Agreement,
+no event of default under the terms of such Holder’s Secured Notes has been declared by such Holder under its Secured Note and,
+to the knowledge of such Holder, no event of default under the terms of such Holder’s Secured Notes exists or is continuing with
+respect to its Secured Notes. | 
+ | (d) | Accredited Investor Status. Such Holder is an “accredited investor” as defined in Rule
+501(a) of Regulation D promulgated under the Securities Act. | 
+ | (e) | Short Position . As of the date hereof, (i) such Holder does not own, beneficially or of record,
+greater than 3% of the issued and outstanding shares of common stock, par value $0.001 per share, of the Issuer (“ Issuer Securities ”)
+and (ii) neither such Holder nor any Affiliate thereof that is managed or advised by the same investment advisor or manager and that does
+not operate independently of such Holder pursuant to customary “information barriers” (such Affiliate, a “ Related
+Fund ”) owns, beneficially or of record, greater than 3% of the issued and outstanding Acquiror Securities. | 
+ 12 
+ | (f) | Investment Intent. Such Holder is acquiring the Holder Shares for its own account for investment
+purposes only and not with a view to, or for resale in connection with, any distribution thereof in violation of the Securities Act or
+any applicable state securities laws. Such Holder understands that the Holder Shares have not been registered under the Securities Act
+or any state securities laws by reason of a specific exemption therefrom, and that the Holder Shares must be held indefinitely unless
+subsequently registered under the Securities Act and applicable state securities laws or unless an exemption from such registration is
+available. | 
+ | (g) | Information; Sophistication; Independent Investigation. Such Holder has had access to such information
+relating to the business, finances, and operations of the Acquiror and the terms and conditions of the transactions contemplated hereby
+(including but not limited to the offer and sale of the Holder Shares) as it deems necessary to make an informed decision. Such Holder
+has had an opportunity to ask questions of, and receive answers from, the Acquiror regarding such transactions to the extent such Holder
+deems necessary to make an informed decision. Such Holder has such knowledge and experience in financial and business matters that it
+is capable of evaluating the merits and risks of the transactions contemplated by this Agreement. Such Holder has made an independent
+decision to sell its Secured Notes based on all information available to it, which such Holder acknowledges and agrees is adequate to
+allow it to make such decision. In making the decision to sell its Secured Notes pursuant to this Agreement, such Holder has relied solely
+upon such Holder’s own independent investigation and diligence and has not relied on any statements, representations or warranties,
+investigation (including with respect to the accuracy, completeness or adequacy of the Issuer’s and the Acquiror’s public
+disclosure) or other information provided by or on behalf of (i) any former, current or future, direct or indirect, director, manager,
+officer, employee, consultant, general or limited partner, member, stockholder, security holder, Affiliates, controlling person, successor,
+assignee, predecessor, financing source, attorney, advisor, agent or representative (or any of their respective successors or assigns),
+of the Acquiror, Merger Sub or any of their respective Affiliates, (ii) any former, current or future, direct or indirect, holder of any
+equity interests or securities of the Acquiror, Merger Sub or any of their respective Affiliates (or any of their respective successors
+or assigns), or (iii) any former, current or future, direct or indirect, director, manager, officer, employee, consultant, general or
+limited partner, member, stockholder, security holder, Affiliates, controlling person, successor, assignee, predecessor, financing source,
+attorney, advisor, agent or representative of any of the foregoing (or any of their respective successors or assigns) concerning the Issuer,
+the Acquiror, Merger Sub, the transactions contemplated hereby or the risks associated therewith. | 
+ | (h) | No General Solicitation . Such Holder is not obtaining the Holder Shares as a result of any advertisement,
+article, notice or other communication regarding the Acquiror Common Stock published in any newspaper, magazine or similar media or broadcast
+over television or radio or presented at any seminar or any other general solicitation or general advertisement. | 
+ | (i) | No Broker. Such Holder has not engaged any broker, finder, or investment banker in connection with
+the transactions contemplated by this Agreement. | 
+ | (j) | Fair Value. Such Holder acknowledges and agrees that the Consideration constitutes fair consideration
+and reasonably equivalent value for the cancellation and release of the Secured Notes and the other obligations, rights and interests
+affected hereby. | 
+ 13 
+ Article V. CONDITIONS
+PRECEDENT
+ Section 5.01 Conditions
+to Obligations of All Parties. The obligations of each Party to consummate the transactions contemplated by this Agreement are subject
+to the satisfaction (or waiver by all Parties) of the following conditions:
+ | (a) | No injunction, order, decree, or ruling issued by any Governmental Authority of competent jurisdiction
+shall be in effect that prohibits or restrains the consummation of the transactions contemplated hereby. | 
+ | (b) | All of the conditions contained in Article 7 of the Merger Agreement, other than the conditions contained
+in Section 7.2(f), shall have been satisfied (other than conditions that by their nature can only be satisfied at the closing of the Merger)
+or waived by the Acquiror, Merger Sub or the Issuer or Merger Sub, such that the Merger shall be and is consummated substantially simultaneously
+with the Closing. | 
+ | (c) | All filings required under applicable securities laws and the rules and regulations of any stock exchange
+on which the Acquiror Common Stock is listed shall have been made, and all necessary approvals in connection therewith shall have been
+obtained. | 
+ Section 5.02 Conditions
+to Obligations of the Holders. The obligations of each Holder to consummate the transactions contemplated by this Agreement are subject
+to the satisfaction (or waiver by such Holder) of the following conditions:
+ | (a) | The representations and warranties of the Acquiror set forth in this Agreement shall be true and correct
+in all material respects as of the Closing Date, except to the extent that any failures of such representations and warranties to be so
+true and correct, individually or in the aggregate, have not prevented, and do not prevent, the Acquiror from paying the Consideration
+when due and payable in the accordance with the terms of this Agreement. | 
+ | (b) | The Acquiror shall have performed and complied in all material respects with all covenants and agreements
+required to be performed or complied with by them under this Agreement on or prior to the Closing Date. | 
+ | (c) | The Issuer shall have paid at the Closing (i) all Holders Counsel Fees incurred through the Closing Date
+in accordance with Section 8.15 and (ii) all payments contemplated by Section 2.01(b) by wire transfer of immediately available funds
+pursuant to wire instructions provided by each Holder prior to or concurrently with the Closing; provided, that the foregoing clause (ii)
+shall solely be a condition to the obligations of a Holder of one or more First Lien Secured Notes to consummate the transactions contemplated
+by this Agreement. | 
+ | (d) | The Holders and the Acquiror shall have entered into the registration rights agreement in substantially
+the form as set forth on Exhibit B . | 
+ | (e) | The Holder Shares shall have been authorized for listing on the Nasdaq, subject to official notice of
+issuance. | 
+ | (f) | In the case of Holders of the First Lien Secured Notes, Holders of the Second Lien Secured Notes shall
+have substantially contemporaneously consummated the transactions contemplated hereby, and in the case of Holders of the Second Lien Secured
+Notes, Holders of the First Lien Secured Notes shall have substantially contemporaneously consummated the transactions contemplated hereby;
+ provided that, the condition contemplated by this Section 5.02(f) shall be deemed satisfied in the event the Court of Chancery
+of the State of Delaware (or, if such court declines jurisdiction, a federal court of the United States of America sitting in the State
+of Delaware) imposes or enters any judgment or order requiring Holders refusing to consummate the transactions contemplated hereby to
+consummate such transactions. | 
+ 14 
+ Section 5.03 Conditions
+to Obligations of the Acquiror. The obligations of the Acquiror to consummate the transactions contemplated by this Agreement are
+subject to the satisfaction (or waiver by the Issuer and the Acquiror) of the following conditions:
+ | (a) | The representations and warranties of each of the Holders set forth in this Agreement shall be true and
+correct in all material respects as of the Closing Date. | 
+ | (b) | Each Holder shall have performed and complied in all material respects with all covenants and agreements
+required to be performed or complied with by such Holder under this Agreement on or prior to the Closing Date. | 
+ Article VI. SECURITIES
+LAW MATTERS
+ Section 6.01 Disclosure. 
+Each Party acknowledges that, to the extent required by applicable law, the rules and regulations of the SEC, or the rules of any stock
+exchange on which the securities of the Issuer or the Acquiror are listed, the transactions contemplated by this Agreement may be disclosed
+publicly, including in filings made with the SEC in accordance with the terms of this Agreement; provided, that, the identity of the Holders
+may not be disclosed without their prior consent (which consent may not be unreasonably withheld, conditioned or delayed) except that
+a Holder may be named in the Shelf Registration Statement to the extent required by law, unless such Holder has elected to not to include
+its Holder Shares in the Shelf Registration Statement.
+ Section 6.02 Compliance
+with Securities Laws. Each Holder agrees that it will not offer, sell, pledge, transfer, or otherwise dispose of any Holder Shares
+except in compliance with the Securities Act, any applicable state securities laws, and any other applicable laws.
+ Article VII. ADDITIONAL
+COVENANTS
+ Section 7.01 Further Assurances. 
+Each Party shall execute and deliver such additional documents, instruments, and agreements, and take such further actions, as may be
+reasonably necessary to effectuate the purposes of this Agreement.
+ Section 7.02 Public Announcements. 
+The Parties shall consult with each other before issuing any press release or making any public announcement with respect to the transactions
+contemplated by this Agreement and shall not issue any such press release or make any such public announcement without the prior written
+consent of the other Parties, except as may be required by applicable law, the rules and regulations of the SEC, or the rules of any stock
+exchange on which the securities of the Issuer or the Acquiror are listed.
+ 15 
+ Section 7.03 Tax Matters. 
+Each Holder acknowledges and agrees that it (a) has had an opportunity to review with his, her or its own tax advisors the tax consequences
+of this Agreement, (b) must rely solely on its advisors and not on any statements or representations made by the Acquiror, the Issuer
+or any of their respective Affiliates, agents or representatives, (c) understands that each Holder (and not the Acquiror, the Issuer or
+any of their respective Affiliates, agents or representatives) shall be responsible for any tax liability of such Holder that may arise
+as a result of this Agreement. Each Party shall be responsible for its own tax reporting obligations arising from the transactions contemplated
+by this Agreement. The Acquiror shall use commercially reasonable efforts to provide each Holder with such information as may be reasonably
+necessary for such Holder to satisfy its tax reporting obligations. Each Holder shall, at least ten (10) Business Days prior to the Closing,
+provide a duly completed and executed United Stated Internal Revenue Service (“ IRS ”) Form W-9 or an appropriate
+IRS Form W-8, as applicable, in connection with the delivery of this Agreement. Subject in all respects to Sections 1.1(a) and 2.9 of
+the Merger Agreement, the Parties agree to use commercially reasonable efforts to implement the transactions contemplated by this Agreement
+in a tax-efficient manner as mutually determined by the Parties.
+ Section 7.04 Material
+Non-Public Information . After the date of filing of any public disclosure regarding this Agreement, neither the Issuer nor Acquiror
+shall provide any Holder with any material non-public information without such Holder’s prior written consent.
+ Section 7.05 Non-Solicitation. 
+From and after the date hereof until the Closing Date or, if earlier, the termination of this Agreement in accordance with Section 8.17,
+the Holders shall not, and shall cause their respective Related Funds and employees and directors and other representatives acting on
+their behalf not to, directly or indirectly: (a) initiate, seek, facilitate, solicit or knowingly encourage (including by way of
+furnishing information or assistance of any kind) the submission of any Competing Proposal or any proposal, request or offer that could
+reasonably be expected to result in a Competing Proposal or induce or take any other action designed or intended to lead to, or that could
+reasonably be expected to lead to any inquiry with respect to, or the making, submission or announcement of, any Competing Proposal; (b)
+enter into, continue or otherwise participate or engage in any discussions or negotiations with, or furnish (or cause to be furnished)
+any material nonpublic information to, any Person relating to a Competing Proposal or any inquiry or request that could reasonably be
+expected to lead to a Competing Proposal (other than informing any third party of the existence of the provisions contained in this Section
+7.05); (c) adopt, approve, authorize, recommend, or enter into any merger agreement, acquisition agreement, reorganization agreement,
+letter of intent, agreement in principle, memorandum of understanding, option agreement, joint venture agreement, partnership agreement
+or other similar agreement, arrangement or understanding relating to any Competing Proposal; or (d) resolve or agree to do any of the
+foregoing. The Holders shall, and shall cause their respective Related Funds and employees and directors and other representatives acting
+on their behalf to, immediately cease and cause to be terminated any activities, discussions or negotiations existing as of the date hereof
+with any Persons conducted heretofore with respect to a Competing Proposal (or that could reasonably be expected to lead to a Competing
+Proposal). Notwithstanding anything to the contrary in this Section 7.05, nothing in this Section 7.05 shall restrict any Holder or any
+of its Affiliates from (i) maintaining any investment in any Person that submits or makes a Competing Proposal independently and without
+solicitation, encouragement, facilitation, or assistance of any kind from such Holder or any of its Affiliates, or (ii) acting as a passive
+investor with respect to any Person in accordance with the representations and undertakings reflected in a Schedule 13G (or Schedule 13G/A)
+filed pursuant to Rule 13d-1(b) or Rule 13d-1(c) under the Exchange Act, in each case, so long as such Holder and its Affiliates otherwise
+comply with this Section 7.05.
+ Article VIII. MISCELLANEOUS
+ Section 8.01 Notices. 
+All notices, requests, demands, and other communications under this Agreement shall be sent by email and shall be deemed to have been
+duly given upon confirmation of receipt, including by a “read receipt requested” function, and can also (in addition to email)
+be delivered personally or sent by overnight courier to the Parties at the addresses set forth on the signature pages hereto or at such
+other address as a Party may designate by notice to the other Parties and shall be deemed to have been duly given one (1) Business Day
+after being sent.
+ 16 
+ Section 8.02 Governing
+Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to any
+conflicts of law principles that would require the application of the laws of any other jurisdiction.
+ Section 8.03 Jurisdiction
+and Venue. Each Party hereby irrevocably and unconditionally (a) submits to the exclusive jurisdiction of the Court of Chancery of
+the State of Delaware (or, if such court declines jurisdiction, the federal courts of the United States of America sitting in the State
+of Delaware) for any action, suit, or proceeding arising out of or relating to this Agreement, (b) waives any objection it may now or
+hereafter have to the laying of venue in any such court, (c) waives any claim that any such court is an inconvenient forum, and (d) agrees
+that service of process in any such action, suit, or proceeding may be effected by mailing a copy thereof by registered or certified mail,
+postage prepaid, to such Party at its address set forth herein or at such other address as may be designated by notice.
+ Section 8.04 Waiver of
+Jury Trial. EACH PARTY HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL
+BY JURY IN ANY ACTION, SUIT, OR PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+ Section 8.05 Entire Agreement. 
+This Agreement and the Merger Agreement, together with the Exhibits attached hereto and thereto, constitute the entire agreement among
+the Parties with respect to the subject matter hereof and supersedes all prior agreements, understandings, negotiations, and discussions,
+whether oral or written, among the Parties with respect thereto.
+ Section 8.06 Amendments
+and Waivers. No amendment, modification, or waiver of any provision of this Agreement shall be effective unless in writing and signed
+by (a) in the case of any amendment, by the Acquiror, the Issuer, and the Required Consenting Noteholders and (b) in the case of a waiver,
+the Party waiving its rights hereunder; provided that the waiver of rights by the Holders of at least a majority of the outstanding Second
+Lien Secured Notes shall constitute the waiver of the rights of Holders of all Second Lien Secured Notes. No failure or delay by any Party
+in exercising any right, power, or privilege under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise
+thereof preclude any other or further exercise thereof or the exercise of any other right, power, or privilege.
+ Section 8.07 Severability. 
+If any provision of this Agreement is held to be invalid, illegal, or unenforceable in any respect, such invalidity, illegality, or unenforceability
+shall not affect any other provision of this Agreement, and this Agreement shall be construed as if such invalid, illegal, or unenforceable
+provision had never been contained herein; provided, that such construction shall not materially alter the economic benefits to any Party.
+ Section 8.08 Successors
+and Assigns. This Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and permitted
+assigns. Except in accordance with Section 8.09, neither this Agreement nor any right or obligation of any Party hereunder may be assigned
+by (a) in the case of any Holder or the Issuer, without prior written consent of the Acquiror or (b) in the case of the Acquiror, without
+the prior written consent of the Required Consenting Noteholders, except that the Acquiror may assign its rights and obligations under
+this Agreement to any Affiliate or successor entity without such consent; provided, that no such assignment shall relieve the Acquiror
+of its obligations hereunder.
+ 17 
+ Section 8.09 Restrictions
+on Transfers. Except as otherwise set forth in this Section 8.09 or with the prior written consent of the Acquiror, each Holder covenants
+and agrees that it shall not, between the date hereof and the earlier to occur of the Closing or the termination of this Agreement in
+accordance with Section 8.17, directly or indirectly convey, sell, transfer, encumber, pledge, hypothecate or assign (a “ Transfer ”)
+such Holder’s Secured Notes or any interest therein (other than customary Liens attributable to securities or notes held by a bank,
+prime-broker, or broker-dealer on behalf of a Holder) unless such Transfer is to an entity that first agrees, in writing, to be bound
+by the terms of this Agreement by executing and delivering to the Issuer and the Acquiror a joinder to this Agreement at least two (2)
+Business Days prior to the effectiveness of the Transfer. Such transferee, upon consummation of a Transfer in accordance herewith shall
+be deemed to make all of the representations, warranties and covenants of a Holder set forth in this Agreement, and shall be deemed to
+be a Party and a Holder for all purposes under this Agreement upon compliance with the foregoing. Any Transfer made in violation of this
+Section 8.09 shall be void ab initio . Notwithstanding anything to the contrary in this Section 8.09, the restrictions on Transfer
+set forth in this Section 8.09 shall not apply to the grant of any liens or encumbrances on any claims and interests in favor of a bank
+or broker-dealer holding custody of such claims and interests in the ordinary course of business and which lien or encumbrance is released
+upon the Transfer of such claims and interests.
+ Section 8.10 No Net Short
+Positions. Each Holder agrees that, from the execution hereof until the consummation of the transactions contemplated by the Merger
+Agreement, such Holder shall not, and shall cause its Related Funds not to, (a) effect a transaction that results in such Holder, together
+with its Related Funds, holding short positions, swaps, hedges, forward contracts and other similar arrangements that create or are intended
+to create economic exposure with respect to a number of Acquiror Securities (collectively, a “ Short Position ”)
+that exceed the aggregate amount of Acquiror Securities held by such Holder together with its Related Funds (inclusive of any Acquiror
+Securities contemplated to be received by such Holder and its Related Funds as a result of the transactions contemplated hereby and the
+transactions contemplated by the Merger Agreement, and excluding any Short Position held by such Holder or Related Fund prior to the date
+hereof) or (b) otherwise take actions with the intent to depress, manipulate, or artificially influence the price of the Acquiror Securities
+in order to obtain additional or increased consideration in connection with the transactions contemplated by this Agreement.
+ Section 8.11 Relationship
+Among Parties. It is understood and agreed that no Holder owes any fiduciary duty or duty of trust or confidence of any kind or form
+to any other Party. In this regard, it is understood and agreed that any Holder may trade in Secured Notes without the consent of the
+Issuer, the Acquiror or any other Holder, subject to applicable securities laws, the terms of this Agreement and the terms of the applicable
+Note Documents. No prior history, pattern or practice of sharing confidences among or between the Parties shall in any way affect or negate
+this understanding and agreement. The Parties acknowledge and agree that this Agreement is entered into by the Holders solely in the capacity
+of creditors of the Issuer, and that the rights and obligations set forth herein relate exclusively to the Secured Notes held by the Holders.
+The Parties have no agreement, arrangement or understanding with respect to acting together for the purpose of acquiring, holding, voting
+or disposing of any securities (including the Notes and the Holder Shares) of the Issuer or the Acquiror and do not constitute a “group”
+within the meaning of Section 13(d)(3) of the Exchange Act or Rule 13d-5 promulgated thereunder. Notwithstanding any other provision of
+this Agreement to the contrary, nothing in this Agreement shall be construed or deemed to grant any Holder or any of its Attribution Parties
+beneficial ownership (as defined in Rule 13d-3 under the Exchange Act) of any equity securities of the Issuer or the Acquiror. All rights
+under this Agreement are separately granted to each Holder, and the use of a single document is for the convenience of the Issuer and
+the Acquiror. The decision to commit to enter into the transactions contemplated by this Agreement has been made independently.
+ Section 8.12 No Third-Party
+Beneficiaries. Except as expressly provided herein with respect to the Released Parties, this Agreement is for the sole benefit of
+the Parties and their respective successors and permitted assigns, and nothing herein, express or implied, is intended to or shall confer
+upon any other Person any legal or equitable right, benefit, or remedy of any nature whatsoever under or by reason of this Agreement.
+ Section 8.13 Counterparts. 
+This Agreement may be executed in one or more counterparts, each of which shall be deemed an original but all of which together shall
+constitute one and the same instrument. Delivery of an executed counterpart by email (including in .pdf format) or other electronic means
+shall be equally as effective as delivery of an original executed counterpart.
+ 18 
+ Section 8.14 Construction. 
+The headings in this Agreement are for convenience of reference only and shall not affect the interpretation of this Agreement. Unless
+the context otherwise requires, (a) all references to Articles, Sections, and Exhibits are to Articles, Sections, and Exhibits of this
+Agreement, (b) words in the singular include the plural and vice versa, (c) the terms “hereof,” “herein,” “hereby,”
+“hereto,” and derivative or similar words refer to this entire Agreement, (d) the term “including” means “including
+without limitation,” and (e) the term “or” is not exclusive.
+ Section 8.15 Expenses. 
+Each Party shall bear its own costs and expenses (including attorneys’ fees) incurred in connection with this Agreement and the
+transactions contemplated hereby; provided all fees and expenses of counsel to the Holders incurred in connection with this Agreement
+and the transactions contemplated hereby shall be paid by the Issuer, subject to the terms of, and in accordance with, pre-existing fee
+reimbursement agreements (the “ Holders Counsel Fees ”) simultaneously with Closing; provided further, that, for
+the avoidance of doubt, to the extent that this Agreement is terminated in accordance with Section 8.17 , the Issuer’s reimbursement
+obligations under this Section 8.15 shall survive with respect to any and all such fees and expenses earned or incurred on or before
+the date of termination, and such termination shall not automatically terminate any applicable fee or engagement letters, if any, between
+the Issuer and the applicable party or professional.
+ Section 8.16 Specific
+Performance. The Parties acknowledge and agree that irreparable damage would occur if any provision of this Agreement were not performed
+in accordance with its terms, and that the Parties shall be entitled to seek specific performance of the terms hereof, in addition to
+any other remedy at law or in equity.
+ Section 8.17 Termination. 
+Any Party may terminate this Agreement if (a)(i) there has been a material breach by another Party of the representations, warranties
+or covenants contained in this Agreement, (ii) a non-breaching Party provides written notice to the other Parties of such material breach
+and (iii) such material breach is not cured by the date that is ten (10) Business Days following the date of delivery of such written
+notice; provided that, notwithstanding anything herein to the contrary, in no event shall a Holder be entitled to terminate this
+Agreement pursuant to the foregoing clause (a) as a result of a material breach by another Holder or (b) the Closing has not taken place
+on or prior to the fifth Business Day following Outside Date (as defined in the Merger Agreement); provided, that, except with respect
+to the automatic extension of the Initial Outside Date contemplated by Section 8.1(b) of the Merger Agreement, Issuer and Acquiror shall
+not be permitted to extend the Outside Date without the prior written consent of the Required Consenting Noteholders and provided, further,
+that a termination of this Agreement by any Holder of Second Lien Secured Notes shall require notice of termination from Holders of at
+least a majority of outstanding Second Lien Secured Notes. Notwithstanding the foregoing, this Agreement shall automatically terminate,
+without any further action by any Party hereto, upon the termination of the Merger Agreement in accordance with its terms. Upon any termination
+of this Agreement, this Agreement shall be of no further force or effect, and no Party hereto shall have any further rights or obligations
+hereunder; provided, however , that such termination shall not relieve any Party of liability for any breach of this Agreement occurring
+prior to such termination. The holders of the First Lien Secured Notes may terminate this Agreement (x) upon any failure by the Issuer
+to pay principal, interest or any other amount due and payable as and when required under the First Lien Notes Indenture or the other
+First Lien Notes Documents or (y) upon any breach of Section 4.24 (Minimum Qualified Cash) of the First Lien Secured Notes Indenture,
+in each case, if such failure to pay or such breach has not been cured by Issuer or the Acquiror within fifteen (15) Business Days after
+the later of the Issuer’s and the Acquiror’s receipt of written notice thereof from the holders of the First Lien Secured
+Notes; provided that, with the prior written consent of the holders of the First Lien Secured Notes (not to be unreasonably withheld,
+conditioned or delayed), in the event the Acquiror and/or the Issuer is working in good faith to cure such failure to pay or breach by
+the end of such fifteen (15) Business Day period, such fifteen (15) Business Day period shall extend to twenty (20) Business Days. Notwithstanding
+the foregoing, Section 7.02, Section 8.01, Section 8.02, Section 8.03, Section 8.04, Section 8.05, Section 8.06, Section 8.07, Section
+8.08, Section 8.11, Section 8.12, Section 8.13, Section 8.14, Section 8.15 shall survive any termination of this Agreement.
+ [ Signature pages follow ]
+ 19 
+ IN WITNESS WHEREOF ,
+the Parties have executed this Agreement as of the date first written above.
+ ISSUER: 
+ LivePerson, Inc.
+ By: | 
+ /s/ John Collins | 
+ | 
+ Name: | 
+ John Collins | 
+ | 
+ Title: | 
+ Chief Financial Officer and 
+Chief Operating Officer | 
+ | 
+ Address for Notices:
+ LivePerson, Inc.
+ 530 7th Avenue, Floor M1
+ New York, NY 10018
+ Attention: John Collins
+ Monica Greenberg
+ Email: [***]
+ ACQUIROR: 
+ SoundHound AI, Inc.
+ By: | 
+ /s/ Keyvan Mohajer | 
+ | 
+ Name: | 
+ Keyvan Mohajer | 
+ | 
+ Title: | 
+ Chief Executive Officer | 
+ | 
+ Address for Notices:
+ SoundHound AI, Inc.
+ 5400 Betsy Ross Drive
+ Santa Clara, CA 95054
+ Attention: Keyvan Mohajer
+ Warren Heit
+ Email: [***]
+ HOLDERS: 
+ LYNROCK LAKE MASTER FUND LP
+ By: Lynrock Lake Partners LLC, its general partner | 
+ | 
+ | 
+ | 
+ By: | 
+ /s/ Cynthia Paul | 
+ | 
+ Name: | 
+ Cynthia Paul | 
+ | 
+ Title: | 
+ Member | 
+ | 
+ Address for Notices:
+ Email: [***]
+ [ Signature page to Notes Restructuring Agreement ]
+ EXHIBIT A 
+ SCHEDULE OF HOLDERS AND SECURED NOTES 
+ Holder Name | 
+ Principal 
+ Amount of 
+ First Lien 
+ Secured Notes | 
+ Percentage of 
+ First Lien 
+ Holder Shares | 
+ Principal 
+ Amount of 
+ Second Lien 
+ Secured Notes | 
+ Percentage of 
+ Second Lien 
+ Holder Shares | 
+ [ On File With the Issuer ] | 
+ | - | 
+ | - | 
+ | - | 
+ | - | 
+ TOTAL | 
+ | - | 
+ | - | 
+ $ | 120,845,834 | 
+ | 100.00 | % | 
+ EXHIBIT B 
+ REGISTRATION RIGHTS AGREEMENT 
+ REGISTRATION RIGHTS AGREEMENT 
+ by and among
+ SOUNDHOUND AI, INC.,
+ AND
+ THE OTHER HOLDERS FROM TIME
+TO TIME PARTIES
+HERETO
+ Dated as of [___], 2026
+ TABLE OF
+CONTENTS 
+ | 
+ PAGE | 
+ | 
+ | 
+ Article I. DEFINITIONS | 
+ B-1 | 
+ Section 1.01 | 
+ Definitions | 
+ B-1 | 
+ Article II. REGISTRATION RIGHTS | 
+ B-3 | 
+ Section 2.01 | 
+ Resale Shelf Registration | 
+ B-3 | 
+ Section 2.02 | 
+ Registration Procedures | 
+ B-5 | 
+ Section 2.03 | 
+ Registration Expenses | 
+ B-7 | 
+ Section 2.04 | 
+ Indemnification | 
+ B-8 | 
+ Section 2.05 | 
+ Blackout Periods | 
+ B-9 | 
+ Section 2.06 | 
+ Participation in Registrations | 
+ B-10 | 
+ Section 2.07 | 
+ Rule 144 | 
+ B-10 | 
+ Section 2.08 | 
+ Further Assurance | 
+ B-10 | 
+ Article III. MISCELLANEOUS | 
+ B-10 | 
+ Section 3.01 | 
+ Notices | 
+ B-10 | 
+ Section 3.02 | 
+ Binding Effect; Benefits; Entire Agreement | 
+ B-11 | 
+ Section 3.03 | 
+ No Waiver | 
+ B-11 | 
+ Section 3.04 | 
+ Amendment | 
+ B-11 | 
+ Section 3.05 | 
+ Assignability | 
+ B-11 | 
+ Section 3.06 | 
+ Termination; Survival | 
+ B-11 | 
+ Section 3.07 | 
+ Applicable Law | 
+ B-12 | 
+ Section 3.08 | 
+ Specific Performance | 
+ B-12 | 
+ Section 3.09 | 
+ Severability | 
+ B-12 | 
+ Section 3.10 | 
+ Section and Other Headings; Interpretation | 
+ B-12 | 
+ Section 3.11 | 
+ Counterparts | 
+ B-12 | 
+ B- i 
+ REGISTRATION RIGHTS AGREEMENT 
+ This
+REGISTRATION RIGHTS AGREEMENT (this “ A g reement ”), dated as of [__], 2026, is by and among (i) SoundHound AI,
+Inc., a Delaware corporation (“ Company ”) and the Holders (as defined herein) party hereto for which an authorized
+signatory has provided a signature across from such Holder’s name on Schedule A hereto (each a “ Party ”
+and, collectively, the “ Parties ”).
+ WHEREAS, the Company has entered
+into that certain notes restructuring agreement the (“ Notes Restructuring A g reement ”) with LivePerson, Inc.,
+a Delaware corporation (“ LivePerson ”), and the Holders, dated April [__], 2026, and has agreed to provide the Holders
+with certain resale shelf registration rights with respect to the Registrable Securities (as herein after defined) received by the Holders
+pursuant to the Notes Restructuring Agreement; and
+ WHEREAS, the Company, LivePerson
+and Lightspeed Merger Sub Inc., a Delaware corporation and a direct wholly owned subsidiary of the Company (“ Merger Sub ”),
+have entered into that certain Merger Agreement (as amended, supplemented or modified from time to time in accordance with the terms thereof,
+the “ Merger Agreement ”), dated April [__], 2026, pursuant to which, upon the terms and subject to the satisfaction
+or waiver of the conditions set forth in the Merger Agreement, among other things, at the Effective Time (as defined in the Merger Agreement),
+Merger Sub shall merge with and into LivePerson (the “ Merger ”), the separate corporate existence of Merger Sub shall
+cease and LivePerson shall continue as the surviving corporation of the Merger and a direct, wholly owned subsidiary of the Company.
+ NOW THEREFORE, in consideration
+of the mutual covenants and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of
+which are hereby acknowledged, and intending to be legally bound hereby, the Parties hereto mutually agree as follows:
+ Article I.
+DEFINITIONS
+ Section
+1.01 Definitions.
+ (a) The
+following terms, as used herein, have the following meanings:
+ “ 1933 Act ”
+means the Securities Act of 1933, as amended.
+ “ 1934 Act ”
+means the Securities Exchange Act of 1934, as amended.
+ “ Affiliate ”
+of any specified Person means any other Person directly or indirectly controlling, controlled by or under direct or indirect common control
+with such specified Person. For the purposes of this definition, “control” when used with respect to any Person means the
+power to direct the management and policies of such Persons directly or indirectly, whether through the ownership of voting securities,
+by contract or otherwise; and the terms “controlling” and “controlled” have meanings correlative to the foregoing;
+ provided, that (i) “Affiliate” shall not include any portfolio company of any specified Person and (ii) with respect
+to the Company, “Affiliates” means the Company and any Person that is controlled, directly or indirectly, by the Company.
+ B- 1 
+ “ Business Day ”
+means each Monday, Tuesday, Wednesday, Thursday and Friday that is not a day on which banking institutions in the City of New York are
+authorized or obligated by law or executive order to close.
+ “ Commission ”
+means the U. S. Securities and Exchange Commission.
+ “ Common Stock ”
+means the shares of Class A common stock, par value $0.0001 per share, of the Company (NASDAQ:SOUN).
+ “ Holder ”
+means any holder from time to time of Registrable Securities that is a Party to this Agreement.
+ “ Joinder A g reement ”
+means a joinder agreement to this Agreement, a form of which is attached hereto as Exhibit A .
+ “ Person ”
+means an individual, a corporation, a partnership, limited liability entity, an association, a trust or any other entity or organization,
+including a government, a political subdivision or an agency or instrumentality thereof.
+ “ Re g istrable
+Securities ” means (i) the Common Stock received by the Holders pursuant to the Notes Restructuring Agreement and (ii) any other
+common securities issued or issuable therefor or with respect thereto, whether by way of stock split, stock dividend, reclassification,
+subdivision or reorganization, recapitalization, merger, consolidation, distribution or similar event. As to any particular Registrable
+Securities, such securities shall cease to constitute Registrable Securities when (1) a registration statement with respect to the offering
+of such securities by the Holder thereof shall have been declared effective under the 1933 Act and such securities shall have been sold,
+transferred or disposed of pursuant to such registration statement, (2) such securities have been sold pursuant to a Rule 144 Transfer,
+(3) such securities shall have been repurchased by the Company or ceased to be outstanding, (4) such securities shall have been otherwise
+transferred by such Holder to an entity or Person other than pursuant to ‎Section 3.05, new certificates for such securities not bearing
+(or book-entry positions not subject to) a 1933 Act legend restricting further transfer shall have been delivered by the Company and subsequent
+disposition of them shall not require registration or qualification of them under the 1933 Act or any state securities or blue sky law
+then in effect or (5) such Holder is able to dispose of all of its Registrable Securities pursuant to Rule 144 without volume limitation
+or other restrictions on transfer thereunder and without any requirement that current public information be available with respect to
+the Company or that the Company has complied with public reporting requirements under the 1934 Act.
+ “ Rule 144 ”
+means Rule 144 under the 1933 Act (or any successor Rule).
+ “ Rule 144 Transfer ”
+means any transfer for value conducted in accordance with Rule 144 (or any successor rule promulgated thereafter by the Commission).
+ B- 2 
+ (b) The
+following terms are defined in the respective Sections set opposite each such term below
+ Term | 
+ | 
+ Section | 
+ Advice | 
+ | 
+ Section 2.02 | 
+ Agreement | 
+ | 
+ Preamble | 
+ Blackout Period | 
+ | 
+ Section 2.05 | 
+ Company | 
+ | 
+ Preamble | 
+ Filing Deadline | 
+ | 
+ Section 2.01(a) | 
+ Registration Default | 
+ | 
+ Section 2.01(e) | 
+ Registration Default Payment | 
+ | 
+ Section 2.01(e) | 
+ Opt-Out Request | 
+ | 
+ Section 3.01 | 
+ Shelf Registration | 
+ | 
+ ‎Section 2.01(a) | 
+ Shelf Registration Statement | 
+ | 
+ ‎Section 2.01(a) | 
+ Article II.
+REGISTRATION RIGHTS
+ Section
+2.01 Resale Shelf Registration.
+ (a) The
+Company shall (i) file on the date hereof (the “ Filing Deadline ”) a registration statement on Form S-3, including but
+not limited to by way of a prospectus supplement to an existing shelf registration statement of the Company, to register for resale from
+time to time the Registrable Securities of the Holders then outstanding on a delayed or continuous basis pursuant to Rule 415 under the
+1933 Act or any successor rule thereto (such shelf registration, a “ Shelf Re g istration ”, and such registration
+statement, a “ Shelf Re g istration Statement ”) and (ii) use its reasonable best effort to maintain the effectiveness
+of such registration statement in accordance with clause (b) of this ‎Section 2.01 . The Shelf Registration Statement shall
+be an “automatic shelf registration statement” as defined under Rule 405 of the 1933 Act and shall become effective upon filing
+with the Commission pursuant to Rule 462(e) under the 1933 Act; provided , however , that if the Company is not eligible to
+use an “automatic shelf registration statement” as of the Filing Deadline, the Company shall nevertheless file a Shelf Registration
+Statement on Form S-3 (or such other appropriate form) on the Filing Deadline and shall use its reasonable best efforts to cause such
+Shelf Registration Statement to be declared effective by the Commission as soon as practicable after the filing thereof, but in no event
+later than the earlier of (i) sixty (60) calendar days following the Filing Deadline if the Commission notifies the Company that it will
+“review” the Shelf Registration Statement and (ii) the third (3 rd ) Business Day after the date the Company is notified
+(orally or in writing, whichever is earlier) by the Commission that the registration statement will not be “reviewed” or will
+not be subject to further review (such earlier time, the “ Effectiveness Deadline ”). The “Plan of Distribution”
+section of such Shelf Registration Statement shall permit all methods of distribution permitted by applicable law, including underwritten
+offerings, at-the-market transactions, brokerage transactions, Rule 144 sales, private transactions, “bought deals,” overnight
+underwritten offerings, block trades, trades through options, short sales, forward sales, puts, agented transactions, stock lending transactions,
+hedging and other derivative transactions and sales not involving a public offering by its pledgees, assignees, donees, transferees or
+successors-in-interest.
+ B- 3 
+ (b) The
+Company shall use its reasonable best efforts to keep any Shelf Registration Statement continuously effective under the 1933 Act (including,
+if necessary, by renewing or refiling a Shelf Registration Statement prior to expiration of the existing Shelf Registration Statement
+or by filing with the Commission a post-effective amendment or a supplement to the Shelf Registration Statement or any document incorporated
+therein by reference or by filing any other required document or otherwise supplementing or amending the Shelf Registration Statement,
+if required by the rules, regulations or instructions applicable to the registration form used by the Company for such Shelf Registration
+Statement or by the 1933 Act, the 1934 Act, any state securities or blue sky laws, or any rules and regulations thereunder) in order to
+permit the prospectus forming a part thereof to be usable by Holders, as to such Registrable Securities, until the date as of which such
+securities cease to be Registrable Securities.
+ (c) The
+Company will use reasonable best efforts to remain eligible to use Form S-3. In the event that Form S-3 is not available for the registration
+of the resale of Registrable Securities hereunder, the Company shall (i) register the resale of the Registrable Securities on a continuous
+basis on another appropriate form reasonably acceptable to the Holders, including a Form S-1, and (ii) undertake to register the Registrable
+Securities on Form S-3 promptly; provided , that the Company shall maintain the effectiveness of the Registration Statement then
+in effect until such time as a Registration Statement on Form S-3 covering the Registrable Securities has been declared effective by the
+Commission.
+ (d) Notwithstanding
+anything contained herein, in the event that the Commission requires the Company to reduce the number of Registrable Securities to be
+included in a Shelf Registration Statement in order to allow the Company to rely on Rule 415 with respect to such Shelf Registration Statement,
+then the Company shall reduce the number of Registrable Securities to be included in such Shelf Registration Statement to the maximum
+number of securities as is permitted to be registered by the Commission. Any such reduction shall be allocated among the Holders on a
+pro rata basis based on the number of Registrable Securities held by each Holder relative to the aggregate number of Registrable Securities
+held by all Holders. In the event of any reduction in Registrable Securities pursuant to this paragraph, the Company shall use its reasonable
+best efforts to file one or more additional Shelf Registration Statements so as to cover all of the Registrable Securities not covered
+by such initial Shelf Registration Statement until such time as all Registrable Securities have been included in Shelf Registration Statements
+that have been declared effective and the prospectuses contained therein are available for use by the Holders, in each case as soon as
+practicable (taking into account any position of the staff of the Commission with respect to the date on which the Commission will permit
+such additional Shelf Registration Statement(s) to be filed and the rules and regulations of the Commission).
+ (e) If
+(i) the Shelf Registration Statement is not filed by the Filing Deadline (regardless of application of a Blackout Period), (ii) the Shelf
+Registration Statement has not been declared effective by the Effectiveness Deadline, (iii) after the Shelf Registration Statement has
+been declared effective, such Shelf Registration Statement ceases to be effective or the prospectus contained therein ceases to be usable
+for a period in excess of any Blackout Period permitted under Section 2.05 , or (iv) the Holders are otherwise unable to use the
+Shelf Registration Statement or the prospectus contained therein due to the operation of Section 2.02(d) or the last paragraph
+of Section 2.02 (each such event, a “ Registration Default ”), then the Company shall pay to each Holder, as liquidated
+damages and not as a penalty, an amount equal to 1.0% of such Holder’s pro rata portion, determined based on the Holder Shares (as
+defined in the Notes Restructuring Agreement) actually received by the Holder on the date hereof or transferred to the Holder in connection
+with an assignment pursuant to Section 3.05, of (x) the First Lien Holder Aggregate Stock Consideration Amount (as defined in the Notes
+Restructuring Agreement) or (y) the Second Lien Holder Aggregate Stock Consideration Amount (as defined in the Notes Restructuring Agreement),
+as applicable, constituting Registrable Securities subject to such Registration Default (the “ Consideration Amount ”)
+for each 30-day period (or pro rata portion thereof) during which such Registration Default continues (each such payment, a “ Registration
+Delay Payment ”). Registration Delay Payments shall be paid on the first Business Day following each 30-day period during which
+a Registration Default is continuing and shall accrue from and including the date on which the applicable Registration Default first occurs
+until such Registration Default is cured; provided that the aggregate Registration Delay Payments made to any Holder pursuant to this
+Agreement shall in no event exceed 3.0% of such Holder’s Consideration Amount. The Parties agree that the Registration Delay Payments
+represent a reasonable estimate of the damages that may be incurred by the Holders by reason of any Registration Default and shall not
+be deemed to constitute a penalty.
+ B- 4 
+ SECTION
+2.02 Registration Procedures. With respect to
+any registration which includes Registrable Securities held by a Holder, the Company will, subject to ‎Section 2.01 , promptly: 
+ (a) prepare
+and file with the Commission a registration statement on the appropriate form prescribed by the Commission and cause such registration
+statement to become effective, each in accordance with ‎Section 2.01 , and to be maintained in effect in accordance with the
+terms of this Agreement; provided , further , that before filing a registration statement or prospectus or any amendments
+or supplements thereto (excluding any filings required to be made pursuant to the 1934 Act in the reasonable determination of the Company),
+the Company will furnish to the Holders covered by such registration statement and their counsel copies of or drafts of all such documents
+proposed to be filed, at least ten (10) Business Days prior to the filing thereof, which documents will be subject to the reasonable review
+of such Holders and their counsel. Each Holder will have the opportunity to object to any information pertaining to such Holder that is
+contained therein and the Company will make the corrections reasonably requested by such Holder with respect to such information two (2)
+Business Days prior to filing any registration statement or amendment thereto or any prospectus or any supplement thereto; provided ,
+ however , that the Company will not include on any registration statement or amendment thereto (excluding any filings required to
+be made pursuant to the 1934 Act in the reasonable determination of the Company) or any prospectus or any supplement thereto Registrable
+Securities of any Holder that objects in writing one (1) Business Days prior to such filing to such inclusion in such filing or to any
+description of it therein. In no event shall any Holder be identified as a statutory underwriter in the registration statement unless
+in response to a comment or request from the staff of the Commission or another regulatory agency; provided , however , that
+if the Commission requests that a Holder be identified as a statutory underwriter in the registration statement, such Holder will have
+an opportunity to withdraw from the registration statement;
+ (b) prepare
+and file with the Commission such amendments and post-effective amendments to such registration statement and any documents required to
+be incorporated by reference therein as may be necessary to keep the registration statement effective; cause the prospectus to be supplemented
+by any required prospectus supplement, and as so supplemented to be filed pursuant to Rule 424 under the 1933 Act; and comply with the
+provisions of the 1933 Act applicable to it with respect to the disposition of all Registrable Securities covered by such registration
+statement during the applicable period in accordance with the intended methods of disposition by the sellers thereof set forth in such
+registration statement or supplement to the prospectus;
+ (c) furnish
+to such Holder, without charge, such number of conformed copies of the registration statement and any post-effective amendment thereto,
+as such Holder may reasonably request, and such number of copies of the prospectus (including each preliminary prospectus) and any amendments
+or supplements thereto, and any documents incorporated by reference therein as the Holder may reasonably request in order to facilitate
+the disposition of the securities being sold by such Holder (it being understood that the Company consents in writing to the use by the
+Holder covered by the registration statement in connection with the offering and sale of the securities covered by the prospectus or any
+amendments or supplements thereto of the prospectus and any amendment or supplement thereto that is prepared by the Company);
+ B- 5 
+ (d) promptly
+notify such Holder, at any time when a prospectus relating thereto is required to be delivered under the 1933 Act, when the Company becomes
+aware of the happening of any event as a result of which the prospectus included in such registration statement (as then in effect) contains
+any untrue statement of material fact or omits to state a material fact necessary to make the statements therein (in the case of the prospectus
+or any preliminary prospectus, in light of the circumstances under which they were made) not misleading and, as promptly as practicable
+thereafter, and in any event within five (5) Business Days of the Company becoming aware of such event, prepare and file with the Commission
+and furnish a supplement or amendment to such prospectus so that, as thereafter delivered to the investors of such securities, such prospectus
+will not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements therein, in
+light of the circumstances under which they were made, not misleading;
+ (e) provide
+and cause to be maintained a transfer agent and registrar for all such Registrable Securities not later than the effective date of the
+registration statement;
+ (f) use
+its reasonable best efforts to cause all securities included in such registration statement to be listed, by the date of the first sale
+of securities pursuant to such registration statement, on any national securities exchange, quotation system or other market on which
+the Common Stock is then listed or proposed to be listed by the Company;
+ (g) make
+generally available to its security holders an earnings statement, which need not be audited, satisfying the provisions of Section 11(a)
+of the 1933 Act as soon as reasonably practicable after the end of the twelve (12)-month period beginning with the first month of the
+Company’s first fiscal quarter commencing after the effective date of the registration statement, which statement shall cover said
+twelve (12)-month period;
+ (h) after
+the filing of a registration statement, (i) promptly notify each Holder covered by such registration statement of any stop order issued
+or, to the Company’s knowledge, threatened by the Commission and of the receipt by the Company of any notification with respect
+to the suspension of the qualification of any Registrable Securities for sale under the applicable securities or blue sky laws of any
+jurisdiction and (ii) take all reasonable actions to obtain the withdrawal of any order suspending the effectiveness of the registration
+statement or the qualification of any Registrable Securities at the earliest possible moment;
+ (i) if
+requested by such Holder, promptly incorporate in a prospectus supplement or post-effective amendment such information as such Holder
+reasonably requests to be included therein; and make all required filings of such prospectus supplement or post-effective amendment as
+soon as practicable after being notified of the matters to be incorporated in such prospectus supplement or post-effective amendment;
+ B- 6 
+ (j) on
+or prior to the date on which the registration statement is declared effective, use its reasonable best efforts to register or qualify,
+and cooperate with such Holder and their counsel in connection with the registration or qualification of, the securities covered by the
+registration statement for offer and sale under the securities or blue sky laws of each state and other jurisdiction of the United States
+as such Holder requests in writing, to use reasonable best efforts to keep each such registration or qualification effective, including
+through new filings, or amendments or renewals, do any and all other acts or things necessary or advisable to enable the disposition in
+all such jurisdictions of the Registrable Securities covered by the applicable registration statement; provided that the Company will
+not be required to qualify generally to do business in any jurisdiction where it is not then so qualified or to take any action which
+would subject it to general service of process in any such jurisdiction where it is not then otherwise subject;
+ (k) cooperate
+with such Holder if any, to facilitate the timely preparation and delivery of certificates or DRS or other book-entry statements (in each
+case not bearing any restrictive legends) representing securities to be sold under the registration statement, and enable such securities
+to be in such denominations and registered in such names as such Holder may request;
+ (l) pay
+the filing fee covering all Registrable Securities included in a registration statement at the time such registration statement is filed;
+and
+ (m) otherwise
+use its reasonable best efforts to take or cause to be taken all other actions necessary or reasonably advisable to effect the registration
+of such Registrable Securities contemplated by this Agreement.
+ The Holders, upon receipt
+of any notice from the Company of the happening of any event of the kind described in Section 2.02(d ) will forthwith discontinue
+disposition of the securities until the Holders’ receipt of the copies of the supplemented or amended prospectus contemplated by
+ Section 2.02(d ) or until it is advised in writing (the “ Advice ”) by the Company that the use of the prospectus
+may be resumed, and has received copies of any additional or supplemental filings which are incorporated by reference in the prospectus,
+and, if so directed by the Company, each Holder will deliver to the Company (at the Company’s sole expense) all copies, other than
+permanent file copies then in such Holder’s possession, of the prospectus covering such securities current at the time of receipt
+of such notice.
+ Section
+2.03 Registration Expenses.
+ (a) In
+the case of any registration hereunder, the Company shall bear all expenses incident to the performance of or compliance with this Agreement,
+including all Commission filing fees and expenses, fees and expenses of listing any Registrable Securities on any securities exchange
+on which the shares of Common Stock are then listed, fees and expenses of compliance with securities or blue sky laws, the costs and charges
+of any transfer agent and any registrar, all expenses and application fees incurred in connection with any filing with, and clearance
+of an offering by, the Financial Industry Regulatory Authority, Inc., printing expenses, messenger, telephone and delivery expenses, fees
+and disbursements of counsel for the Company and all independent certified public accountants and subject to the limitations set forth
+in Schedule B hereto, the reasonable and documented fees and disbursements of counsel to the Holders.
+ (b) The
+obligation of the Company to bear the expenses described in Section 2.03(a) shall apply irrespective of whether a registration,
+once properly demanded, if applicable, becomes effective, is withdrawn or suspended or revoked, or is converted to another form of registration
+and irrespective of when any of the foregoing shall occur.
+ B- 7 
+ Section
+2.04 Indemnification.
+ (a) Indemnification by
+the Company . The Company agrees to indemnify and hold harmless, to the fullest extent permitted by law, each Holder, its officers,
+directors, employees, stockholders, members, general and limited partners, Affiliates and agents and each Person who controls (within
+the meaning of the 1933 Act or the 1934 Act) the Holder, including any general partner or manager of any thereof, against all losses,
+claims, damages, actions, liabilities and expenses (including reasonable counsel fees and disbursements) arising out of or based upon
+(i) any untrue or alleged untrue statement of a material fact contained in or incorporated by reference in any registration statement,
+prospectus or preliminary prospectus, or any amendment thereof or supplement thereto, any “issuer free writing prospectus”
+(as defined in Rule 433 under the 1933 Act), any written communication undertaken in reliance on either Section 5(d) of, or Rule 163B
+under, the 1933 Act, in an offering of Registrable Securities in which such Holder participates, or in any document incorporated by reference
+therein or any omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements
+therein (in the case of the prospectus or any preliminary prospectus, in light of the circumstances under which they were made) not misleading,
+(ii) any untrue statement or alleged untrue statement of a material fact in the information conveyed to any purchaser at the time of
+the sale to such purchaser, or the omission or alleged omission to state therein a material fact required to be stated therein, or (iii)
+any violation by the Company of any federal, state, common or other law, rule or regulation applicable to the Company in connection with
+such registration, including the 1933 Act, any state securities or “blue sky” laws or any rule or regulation thereunder in
+connection with such registration, except in each case insofar as the same are made in reliance on and in strict conformity with any
+information with respect to such Holder furnished in writing to the Company by such Holder expressly for use therein.
+ (b) Indemnification
+by the Holders . In connection with any registration statement in which a Holder is participating, each such Holder will furnish to
+the Company in writing such information with respect to such Holder as the Company reasonably requests for use in connection with any
+registration statement or prospectus covering the Registrable Securities of such Holder and to the extent permitted by law agrees to indemnify
+and hold harmless the Company, its directors, officers and agents and each Person who controls (within the meaning of the 1933 Act or
+the 1934 Act) the Company and any other Holder, against any losses, claims, damages, liabilities and expenses arising out of or based
+upon any untrue statement of a material fact or any omission to state a material fact required to be stated therein or necessary to make
+the statements in the registration statement or prospectus or preliminary prospectus (in the case of the prospectus or preliminary prospectus,
+in light of the circumstances under which they were made) not misleading, to the extent, but only to the extent, that such untrue statement
+or omission is made in reliance on and in conformity with the written information or signed affidavit with respect to such Holder so furnished
+in writing by such Holder expressly for use in the registration statement or prospectus; provided , however , that the obligation
+to indemnify shall be several, not joint and several, among such Holders and the liability of each such Holder shall be in proportion
+to and limited to the net amount received by such Holder from the sale of Registrable Securities pursuant to a registration statement
+in accordance with the terms of this Agreement. The Company and the Holders hereby acknowledge and agree that, unless otherwise expressly
+agreed to in writing by the applicable Holders, the only information furnished or to be furnished to the Company for use in any registration
+statement or prospectus relating to the Registrable Securities or in any amendment, supplement or preliminary materials associated therewith
+are statements specifically relating to (a) the beneficial ownership of Registrable Securities by such Holder and its Affiliates and (b)
+the name and address of such Holder.
+ B- 8 
+ (c) Conduct of Indemnification Proceedings . Any Person entitled to indemnification hereunder will (i) give prompt
+written notice to the indemnifying party of any claim with respect to which it seeks indemnification and (ii) unless in such indemnified
+party’s reasonable judgment there may be one or more legal or equitable defenses available to such indemnified party which are in
+addition to or may conflict with those available to the indemnifying party with respect to such claim or unless such representation would
+present a conflict of interest, permit such indemnifying party to assume the defense of such claim with counsel reasonably satisfactory
+to the indemnified party. The failure to so notify the indemnifying party shall not relieve the indemnifying party from any liability
+hereunder with respect to the action, except to the extent that such indemnifying party is materially prejudiced by the failure to give
+such notice; provided , however , that any such failure shall not relieve the indemnifying party from any other liability
+which it may have to any other party. No indemnifying party in the defense of any such claim or litigation, shall, except with the written
+consent of such indemnified party, which consent shall not be unreasonably withheld, conditioned or delayed, consent to entry of any judgment
+or enter into any settlement unless such judgment or settlement (i) includes as an unconditional term thereof the giving by the claimant
+or plaintiff to such indemnified party of a release from all liability in respect of such claim or litigation and (ii) does not include
+any statement as to or any admission of fault, culpability or a failure to act by or on behalf of such indemnified party An indemnifying
+party shall not be liable under this Section 2.04 to any indemnified party regarding any settlement or compromise or consent to
+the entry of any judgment with respect to any pending or threatened claim, action, suit or proceeding in respect of which indemnification
+or contribution may be sought hereunder (whether or not the indemnified parties are actual or potential parties to such claim or action)
+unless such settlement, compromise or consent is consented to by such indemnifying party, which consent shall not be unreasonably withheld,
+conditioned or delayed. An indemnifying party who is not entitled to, or elects not to, assume the defense of a claim will not be obligated
+to pay the fees and expenses of more than one counsel for all parties indemnified by such indemnifying party with respect to such claim.
+ (d) Contribution. If for
+any reason the indemnification provided for in Section 2.04(a) and Section 2.04(b) , is unavailable to an indemnified party
+as contemplated by Section 2.04(a) and Section 2.04(b) , then the indemnifying party shall contribute to the amount paid
+or payable by the indemnified party as a result of such loss, claim, damage or liability in such proportion as is appropriate to reflect
+not only the relative benefits received by the indemnified party and the indemnifying party, but also the relative fault of the indemnified
+party and the indemnifying party, as well as any other relevant equitable considerations. In no event shall the liability of any selling
+Holder be greater in amount than the amount of the net proceeds received by such Holder upon such sale or the amount for which such indemnifying
+party would have been obligated to pay by way of indemnification if the indemnification provided in Section 2.04(b) had been available.
+No Person guilty (as determined in a final non-appealable judgement) of fraudulent misrepresentation (within the meaning of the 1933
+Act) shall be entitled to contribution from any Person who was not guilty of such fraudulent misrepresentation.
+ SECTION 2.05 BLACKOUT
+PERIODS. Upon giving written notice to the Holders of Registrable Securities (which notice shall not, without the prior written
+consent of any Holder, disclose to such Holder any material non-public information), the Company shall be entitled to delay or
+suspend the filing or effectiveness of any registration statement or any amendment thereto or suspend the Holders’ use of any
+prospectus or any supplement thereto only to the extent reasonably necessary, if (a) the board of directors of the Company (the
+“ Board ”) determines that a postponement is in the best interest of the Company and its stockholders generally due
+to a proposed transaction involving the Company and determines in good faith that the Company’s ability to pursue or
+consummate such a transaction would be materially and adversely affected by any required disclosure of such transaction in such
+registration statement, or (b) the Board determines such registration would render the Company unable to comply with applicable
+securities laws, in each case as certified in a certificate of the Chief Executive Officer or Chief Financial Officer of the
+Company; provided , further , that (i) the Company may not delay the filing or effectiveness of, or suspend, any
+registration statement for longer than forty-five (45) consecutive calendar days (such period, a “ Blackout
+Period ”), in excess of ninety (90) days in any 12-month period or more than two (2) times in any 12-month period, (ii) the
+Company may not commence a Blackout Period within twenty (20) calendar days after the expiration of a prior Blackout Period, (iii)
+the Company shall promptly notify the Holders in writing upon the termination of any Blackout Period, and (iv) the Company may not
+file any registration statement during a Blackout Period (other than on Form S-4 or Form S-8 or any similar successor forms or
+another form used for a purpose similar to the intended use for such forms).
+ B- 9 
+ SECTION 2.06
+PARTICIPATION IN REGISTRATIONS. No Holder may participate in any registration hereunder unless such Holder (a) agrees to sell its
+securities on the basis provided in the “Plan of Distribution”, and (b) completes and executes all questionnaires and
+other documents customarily required under the terms of such registration and provides such written information concerning itself as
+may be required for registration, including for inclusion in any registration statement; provided that such Holder shall be
+required to complete and execute such documents and provide such written information only to the extent the Holders of a majority of
+Registrable Securities participating in such registration shall also be required to complete and execute such documents and provide
+such written information.
+ SECTION 2.07 RULE 144.
+The Company shall use its reasonable best efforts to timely file the reports required to be filed by it under the 1934 Act or the
+1933 Act (including the reports under Sections 13 and 15(d) of the 1934 Act referred to in subparagraph (c)(1) of Rule 144), and
+shall take such further action as any Holder may reasonably request, all to the extent required from time to time to enable the
+Holders to sell Registrable Securities without registration under the 1933 Act within the limitations of the exemption provided by
+Rule 144. Promptly upon request, the Company shall deliver to any Holder a written statement as to whether it has complied with such
+requirements and any other documents reasonably requested to remove restrictive legends or sell shares under Rule 144. The Company
+shall instruct the transfer agent to remove any legend, notation or similar designation restricting transferability of the
+Registrable Securities from the certificates or book-entries evidencing Registrable Securities if (a) such shares of Common Stock
+are sold pursuant to an effective registration statement under the 1933 Act; (b) a registration statement covering the resale of
+such shares of Common Stock is effective under the 1933 Act and the applicable Holder and any broker-dealer in custody of such
+securities delivers to the Company a “will comply” representation letter reasonably acceptable to the Company and its
+counsel; (c) such shares of Common Stock are sold or transferred pursuant to Rule 144 or (d) such shares of Common Stock are
+eligible for sale under Rule 144 without the requirement that the Company has complied with the public reporting requirements of the
+1934 Act, provided that in the case of each of subsections (a) through (d), the Company and its transfer agent have timely
+received from Holder and any broker-dealer in custody of such securities customary representation and other documentation reasonably
+acceptable to the Company and the transfer agent in connection therewith. The Company shall bear all reasonable fees and expenses,
+including any legal opinion fees, reasonable and documented legal fees and expenses of counsel to the Holders subject to the
+limitations set forth in Schedule B hereto, transfer agent fees, and other out-of-pocket costs, incurred in connection with the
+removal of such legends.
+ SECTION 2.08 FURTHER
+ASSURANCE. Each Holder hereby agrees to take any and all reasonable actions required to be taken hereunder to ensure the performance
+by it of its obligations pursuant to this Agreement.
+ Article III.
+MISCELLANEOUS
+ SECTION 3.01 NOTICES.
+All notices, requests, demands, and other communications under this Agreement shall be sent by email and shall be deemed to have
+been duly given upon confirmation of receipt, including by a “read receipt requested” function, and can also (in
+addition to email) be delivered personally or sent by overnight courier to the Parties at the addresses set forth on the signature
+pages or Schedule A hereto or at such other address as a Party may designate by notice to the other Parties and shall be
+deemed to have been duly given one (1) Business Day after being sent.
+ B- 10 
+ SECTION 3.02 BINDING
+EFFECT; BENEFITS; ENTIRE AGREEMENT. This Agreement shall be binding upon and inure to the benefit of the Parties to this Agreement
+and their respective successors and permitted assigns. Nothing in this Agreement, express or implied, is intended or shall be
+construed to give any Person other than the Parties to this Agreement or their respective successors or permitted assigns any legal
+or equitable right, remedy or claim under or in respect of any agreement or any provision contained herein. This Agreement and the
+other agreements referred to in this Agreement embody the complete agreement and understanding among the Parties to this Agreement
+with respect to the subject matter of this Agreement and supersedes and preempts any prior understandings, agreements or
+representations by or among the Parties, written or oral, which may have related to the subject matter of this Agreement in any
+way.
+ SECTION 3.03 NO WAIVER.
+No action taken pursuant to this Agreement, including any investigation by or on behalf of any Party, shall be deemed to constitute
+a waiver by the Party taking such action of compliance with any representations, warranties, covenants or agreements contained
+herein. The waiver by any Party hereto of a breach of any provision of this Agreement shall not operate or be construed as a waiver
+of any preceding or succeeding breach and no failure by any Party to exercise any right or privilege hereunder shall be deemed a
+waiver of such Party’s rights or privileges hereunder or shall be deemed a waiver of such Party’s rights to exercise the
+same at any subsequent time or times hereunder.
+ SECTION 3.04 AMENDMENT.
+No amendment, modification, or waiver of any provision of this Agreement shall be effective unless in writing and signed by (a) in
+the case of any amendment, the Company, Lynrock Lake Master Fund LP and the Holders that beneficially own a majority of Registrable
+Securities hereunder, provided that no amendment that disproportionately and adversely affects any individual Holder shall be
+effective without that Holder’s written consent, and (b) in the case of a waiver, the Party waiving its rights hereunder. No
+failure or delay by any Party in exercising any right, power, or privilege under this Agreement shall operate as a waiver thereof,
+nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right,
+power, or privilege.
+ SECTION 3.05
+ASSIGNABILITY. This Agreement and the rights and obligations of any Holder hereunder may be assigned or transferred, in whole or in
+part, (a) to any Affiliate of such Holder or (b) to any transferee of Registrable Securities who acquires such securities from such
+Holder (including by way of (i) sales to third parties or (ii) distributions or other transfers to partners, members, or
+shareholders of such Holder, or to any investment fund or other entity controlled by, controlling, or under common control with such
+Holder) and is unable to immediately sell, without limitations (including, but not limited to, any limitation on volume or manner of
+sale) or restrictions under Rule 144 (including, for the avoidance of doubt, any requirement that current public information be
+available with respect to the Company or that the Company to be in compliance with public reporting requirements under the 1934
+Act), all Registrable Securities held by such Person, provided that such transferee executes and delivers a Joinder Agreement
+in the form attached hereto as Exhibit A, agreeing to be bound by the terms and conditions of this Agreement as a
+“Holder” and, for any transfer under clause (b) of this section, other than a transfer contemplated by clause (b)(ii),
+the aggregate value of the Registrable Securities being transferred to such transferee in such transaction is equal to or greater
+than five million dollars ($5,000,000). Any such permitted assignment or transfer shall not be deemed to terminate or otherwise
+affect any rights or obligations under this Agreement, and all references herein to the “Holder” shall be deemed to
+include such permitted assignees.
+ SECTION 3.06
+TERMINATION; SURVIVAL. Except for Section 2.04 of this Agreement, which shall survive any such termination, (i) this
+Agreement shall terminate, with respect to any Holder, automatically when such Holder no longer holds any Registrable Securities,
+and (ii) this Agreement shall terminate as to all Parties when no Holder holds any Registrable Securities.
+ B- 11 
+ SECTION 3.07 APPLICABLE
+LAW. This Agreement and all disputes or controversies arising out of or relating to this Agreement or the transactions contemplated
+hereby shall be governed by, and construed in accordance with, the internal laws of the State of Delaware, without regard to the
+laws of any other jurisdiction that might be applied because of the conflicts of laws principles of the State of Delaware. Each of
+the Parties irrevocably and unconditionally submits, for itself and its property, to the exclusive jurisdiction of the Court of
+Chancery of the State of Delaware or, solely if such court does not have subject matter jurisdiction, the Superior Court of the
+State of Delaware (Complex Commercial Division), or if subject matter jurisdiction over the applicable matter is vested exclusively
+in the federal courts of the United States of America, the Federal court of the United States of America sitting in the district of
+Delaware, and any appellate court from any thereof, with regard to any such action or proceeding arising out of or relating to this
+Agreement and the transactions contemplated hereby (and agrees not to commence any action, suit or proceeding relating thereto
+except in such courts). Each of the Parties further agrees to accept service of process in any manner permitted by such court. Each
+of the Parties hereby irrevocably and unconditionally waives, and agrees not to assert, by way of motion or as a defense,
+counterclaim or otherwise, in any action or proceeding arising out of or relating to this Agreement or the transactions contemplated
+hereby, (a) any claim that it is not personally subject to the jurisdiction of the above-named courts for any reason other than the
+failure lawfully to serve process, (b) that it or its property is exempt or immune from jurisdiction of any such court or from any
+legal process commenced in such court (whether through service of notice, attachment prior to judgment, attachment in aid of
+execution of judgment, execution of judgment or otherwise) and (c) to the fullest extent permitted by law, that (i) the suit, action
+or proceeding in any such court is brought in an inconvenient forum, (ii) the venue of such suit, action or proceeding is improper
+or (iii) this Agreement, or the subject matter hereof, may not be enforced in or by such courts.
+ SECTION 3.08 SPECIFIC
+PERFORMANCE. The Parties hereto agree that irreparable damage would occur in the event that any of the provisions of this Agreement
+were not performed in accordance with their specific terms or were otherwise breached. It is accordingly agreed that the Parties
+hereto shall be entitled to an injunction or injunctions to prevent breaches of the provisions of this Agreement and to enforce
+specifically the terms and provisions hereof in any state or federal court (this being in addition to any other remedy to which they
+are entitled at law or in equity), and each Party hereto agrees to waive in any action for such enforcement the defense that a
+remedy at law would be adequate. The non-prevailing party to such proceeding shall reimburse the prevailing party for the reasonable
+costs of and expenses for counsel for such prevailing party incurred in connection with any such proceeding.
+ SECTION 3.09
+SEVERABILITY. If any provision of this Agreement is declared by any court of competent jurisdiction to be illegal, void or
+unenforceable, all other provisions of the Agreement will not be affected and will remain in full force and effect.
+ SECTION 3.10 SECTION AND
+OTHER HEADINGS; INTERPRETATION. The section and other headings contained in this Agreement are for reference purposes only and shall
+not affect the meaning or interpretation of this Agreement. Whenever the words “include”, “includes” or
+“including” are used in this Agreement, they shall be deemed to be followed by the words “without
+limitation”. The term “or” is not exclusive and shall have the meaning represented by the term
+“and/or”. The word “extent” in the phrase “to the extent” shall mean the degree to which a
+subject or other thing extends, and such phrase shall not mean simply “if”. Whenever the context requires, any pronouns
+used herein shall include the corresponding masculine, feminine or neuter forms.
+ SECTION 3.11
+COUNTERPARTS. This Agreement may be executed in any number of counterparts, each of which shall be deemed to be an original and all
+of which together shall be deemed to be one and the same instrument. A facsimile, Portable Document Format (PDF) or other
+reproduction of this Agreement may be executed by one or more Parties hereto, and an executed copy of this Agreement may be
+delivered by one or more Parties hereto by facsimile, PDF or similar instantaneous electronic transmission device pursuant to which
+the signature of or on behalf of such Party can be seen, and such execution and delivery shall be considered valid, binding and
+effective for all purposes. At the request of any Party hereto, all Parties hereto agree to execute an original of this Agreement as
+well as any facsimile, PDF or other reproduction hereof.
+ [ Signature Pages Follow ]
+ B- 12 
+ IN WITNESS WHEREOF, the undersigned
+have caused this Agreement to be executed as of the date first written above.
+ | 
+ | 
+ | 
+ SOUNDHOUND AI, INC. | 
+ | 
+ | 
+ | 
+ By: | 
+ | 
+ | 
+ | 
+ Name: | 
+ | 
+ | 
+ | 
+ Title: | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Notice Address: | 
+ | 
+ | 
+ | 
+ | 
+ Email: | 
+ [ Signature Page to Registration
+Rights Agreement ]
+ Schedule A 
+ Signature and Notice Information
+of Holders 
+ Holder | 
+ Address | 
+ Email
+ Address | 
+ Signature
+ of 
+ Authorized 
+ Signatory | 
+ Name/Title | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Schedule B 
+ The reimbursement of reasonable
+and documented fees and disbursements of counsel to the Holders set forth in Section 2.03 and 2.07 hereto shall not exceed, in the aggregate
+for Section 2.03 and 2.07, $10,000 per Holder (or $10,000 per group of Holders, to the extent any such Holders are affiliated and inclusive
+of any transferees pursuant to Section 3.05). Such Holders shall keep the Company reasonably apprised of the amount of any such expenses
+incurred in advance of the invoicing thereof.
+ EXHIBIT A 
+ SIGNATURE PAGE AND JOINDER
+AGREEMENT TO REGISTRATION RIGHTS AGREEMENT
+ By executing and delivering
+this Signature Page and Joinder Agreement, the undersigned hereby agrees, to (i) become a party to that certain Registration Rights Agreement,
+dated [•], 2026 (as amended, modified or supplemented from time to time in accordance with the terms thereof, the “ Registration
+Rights Agreement ”), by and among SoundHound AI, Inc., a Delaware corporation, and the other parties thereto and (ii) be deemed
+to be and be bound as a Holder (as defined in the Registration Rights Agreement) with such rights (and related obligations and liabilities)
+in respect of the Registrable Securities (as defined in the Registration Rights Agreement) being acquired by the undersigned in connection
+with the execution of this Signature Page and Joinder Agreement and subject to the terms and conditions of the Registration Rights Agreement
+as if an original party thereto.
+ | 
+ By: | 
+ | 
+ | 
+ | 
+ Name: | 
+ | 
+ | 
+ Title: | 
+ | 
+ | 
+ Notice Address: | 
+ | 
+ | 
+ Email: | 

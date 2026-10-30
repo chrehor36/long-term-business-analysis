@@ -1,0 +1,61 @@
+SPGI run: Q4 IN - owner earnings hand-built on three perimeters, and the skip reason pointed at the wrong thing
+
+THE SKIP REASON, TESTED. "capex unresolved [E5-20]" is a TOOLING ARTEFACT of the AMZN and CL
+kind. PaymentsToAcquirePropertyPlantAndEquipment carries FY2007-FY2009 and stops;
+PaymentsToAcquireProductiveAssets carries FY2008-FY2025 unbroken - the two OVERLAP, so there is
+no early-year hole of the NVDA kind and the current owner_earnings() prices it. The capex line
+never left the face of the statement. da_annual()'s NVDA defect does not bite, because S&P
+reports Depreciation and Amortization of intangibles as two separate lines with no combined
+total on the face.
+
+[E5-20] asked separately on the filing and answered NO. Gross property and equipment is $1,139M
+on $15,336M of revenue; all long-lived assets are $873M; capex is 0.5-1.3% of revenue; capex
+against depreciation 2020-2025 is $662M to $580M, 1.14x - the [E2-41] and [E3-44] default case.
+[E4-47] is not engaged: 61% of revenue is US and no foreign country is above 7%.
+
+BUT THE LABEL POINTED AT THE WRONG THING, and that is the finding. The whole of the D&A band is
+amortization of intangibles bought in 2022 - $766M of the $862M of continuing D&A - so the real
+(c) question is not plant but whether BUYING COMPANIES is maintenance. Tested both ways and
+disclosed as a judgment: (c) set at total capital expenditure, on the company's own organic
+constant-currency guidance of 6.0-8.0% against reported 5.9-7.9%, and on the fact that 84% of
+continuing profit is earned by segments carrying $173M of the $766M of purchase amortization.
+The alternative is priced rather than dismissed: (c) at capex plus the three-year mean
+acquisition spend gives $2,902M and the mechanical D&A end gives $3,058M - two independent
+routes to the low end landing within $156M of each other.
+
+THREE PERIMETERS, never blended inside one mean. Continuing ex-Mobility FY2023-25, built by
+removing the FILED Article 11 pro forma's discontinued-operations column: mean $3,777M at the
+capex end, $3,058M at the D&A end, $3,996M with the working-capital movement stripped - which
+runs the OPPOSITE way to Colgate, so the as-filed figure is the conservative one and is the one
+used. The [E2-42] five-year default 2021-25 as filed: $3,658M, labelled as a company that no
+longer exists. Pre-merger 2017-21: $2,449M. TTM to 2026-06-30 continuing: $4,437M.
+
+ONE ADDITION TO THE CONVENTION, disclosed as correctness rather than conservatism: distributions
+to noncontrolling interest holders are deducted ($280M/$287M/$321M). CME Group holds 27% of S&P
+Dow Jones Indices and took $322M of FY2025's $1,271M of Indices operating profit; that cash is
+inside consolidated OCF and never reaches a shareholder. [E3-04] requires the look-through
+addition for equity-method stakes; the mirror requires the subtraction. Figures shown both ways -
+it costs $296M a year.
+
+THE SHARPEST NUMBER IN THE FILE: owner earnings per diluted share on comparable ex-Mobility
+perimeters is $13.29 in FY2021 and $14.11 in FY2025. Four years and $43.5bn of stock after the
+merger, that is +6.2% in total, about 1.5% a year - dollars up 34%, share count up 26%. The
+fairer mid-cycle-to-boom rate, FY2019 to FY2025 continuing, is +6.1% a year, and because it runs
+from a mid-cycle year TO a boom year the underlying rate is below that. Used at face value at Q5
+so that windage stays spent once.
+
+[E4-20] GREAT at the segment level - net tangible OPERATING assets are negative and customers
+prepay $4,088M - with the corporate qualification stated rather than buried. [E5-11] scores 2 of
+3: strength 2 FAILS ($1,745M of cash against $13,088M of debt, with $825M of commercial paper
+outstanding - [E5-39]'s kindness of strangers); strength 3 passes with a named exception, the
+$4,914M CME put "at any time" that the filing EXCLUDES from its own contractual obligations
+table. [E2-54] coverage 14.0x after capex.
+
+Named death: not insolvency but the withdrawal of the requirement to hold the letter - the 10-K's
+own words on reducing regulatory reliance, on regulating remuneration, and on governments
+establishing official rating agencies. Three scenarios quantified from filed figures (-15.2%,
+-22.8% of continuing segment profit, and a $20-26bn non-cash write-down at Market Intelligence).
+[E4-40] applied against my own best evidence: the 2015 stress test is EXPERIENCE, and the
+exposure is different in kind.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

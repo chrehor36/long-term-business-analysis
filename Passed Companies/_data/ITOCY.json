@@ -1,0 +1,24 @@
+{
+ "ticker": "ITOCY",
+ "name": "ITOCHU",
+ "headline": "A Japanese trading house whose lowest-cost iron-ore and coking-coal mines carry its profits.",
+ "what_short": "Japanese trading house with mining and retail",
+ "what_it_does": "ITOCHU is a Japanese trading company with many businesses. Its Metals & Minerals division, a low-cost iron-ore and coking-coal producer, is the part that carries the analysis. It also owns FamilyMart, the convenience store chain, since 2018.",
+ "why_it_passed": [
+  "Its iron-ore and coking-coal mines hold the lowest-cost position, which it kept through a full commodity cycle.",
+  "Its own return on shareholders' equity ran from 21.8% in fiscal 2022 down to 14.6% in fiscal 2026.",
+  "Its borrowing is moderate: net debt to equity fell from 0.54 to 0.46.",
+  "The accounts raised no suspicion and no doubt about honesty was found."
+ ],
+ "why_not_now": "At ¥2,155 a share, the price is above the top of the analysis's value range (¥1,466 to ¥1,902). A buyer would earn about 3.1% to 3.8% a year in cash, below both the roughly 10% the analysis requires and the 4.136% a 30-year Japanese government bond pays.",
+ "watch": [
+  "Cleaner steelmaking is a twenty-year threat to the iron-ore and coking-coal business, and its coal part is weak.",
+  "The price of its raw materials swings, so the cash it produces is hard to pin down.",
+  "It has net debt of about ¥3.6 trillion and a pending purchase of Dentsu Soken that the analysis valued as if closed; management's ability was weighed against."
+ ],
+ "value_low": 1466,
+ "value_high": 1902,
+ "utility": false,
+ "run_date": "2026-10-12",
+ "currency": "JPY"
+}

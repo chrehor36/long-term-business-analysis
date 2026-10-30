@@ -1,0 +1,10 @@
+import sys, re, os
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+# usage: span.py FILESTEM start length   (offsets in kwic-normalised text)
+D = os.path.dirname(os.path.abspath(__file__))
+t = open(os.path.join(D, sys.argv[1] + ".txt"), encoding="utf-8").read()
+t = re.sub(r"\s*\n\s*", " ", t)
+t = re.sub(r"(\|\s*)+\|", "|", t)
+t = re.sub(r"\$\s*\|\s*", "$", t)
+s = int(sys.argv[2]); n = int(sys.argv[3])
+print(t[s:s + n])

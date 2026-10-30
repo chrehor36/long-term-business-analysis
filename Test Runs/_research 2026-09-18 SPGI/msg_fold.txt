@@ -1,0 +1,52 @@
+SPGI fold: register entry (98), WAVE 5 strike and dated note, narrative fold, bands armed, PORTFOLIO row
+
+All six FOLD steps, for the run committed at a5465b8 / 9ba0706 / b007e53 / b0fcf64 / 0cfb318 /
+8e4dba5 / 7b58f14.
+
+1. Register entry at the head of ## COMPLETED FROM THE QUEUE, with price, share count and the
+   cover accession it came from, cap, sovereign and the PASS/FAIL line. COUNTED FROM THE FILE
+   ITSELF: 97 before, 98 after. Q1-Q4 all IN; FAIL at Q5 on price, below the ~10% floor on every
+   construction and below the sovereign by 1.6 to 2.9 points on every window.
+2. SPGI struck in the WAVE 5 "capex unresolved [E5-20]" row, with a dated note beside the table
+   rather than editing it (operator rule 6): the label was the CL/AMZN kind of tag artefact AND
+   it pointed at the wrong quantity. The two capex tags OVERLAP, so there is no NVDA-style hole;
+   [E5-20] asked on the filing answers NO (gross plant $1,139M on $15,336M of revenue,
+   capex/depreciation 1.14x); but the whole D&A band is purchase amortization, $766M of the $862M
+   of continuing D&A, so the real (c) question is whether buying companies is maintenance. TOST,
+   EQIX and DLR are told to ask what their D&A is MADE OF before assuming the band is about plant.
+3. Narrative fold into the prepped reading list: the findings, the refuted priors, the tooling
+   and source notes, five defects in the brief and four in my own work.
+4. Bands armed and a PORTFOLIO row added, because all four business gates cleared (the QLYS
+   ruling). $328.51 (the floor met with the full realised 6.1%/yr growth granted) and $256.24
+   (the floor met on g = 5.0%), each a prompt for a full v4.1 re-run and not a purchase, both
+   void if the first Q2 falsifier fires - any enacted US, EU or UK rule regulating rating
+   remuneration, mandating rotation, or removing a regulatory reference to ratings [E2-59], which
+   is the condition on which criterion (3) was passed. The re-run band carries an explicit
+   instruction to re-derive both at the Q3 2026 10-Q in late October, the FIRST filing to present
+   Mobility as discontinued operations.
+5. python tools/check_framework.py PASS before this commit: 0 phantom citations, 0 unlabelled
+   numbers.
+6. Committed with a pathspec.
+
+THE METHOD FINDING WORTH KEEPING. Form NRSRO is a COMPLETE competitor row for an industry with
+private participants. Every NRSRO - Fitch inside Hearst, Kroll, A.M. Best, Egan-Jones, none of
+which publishes financial statements - files an annual certification on EDGAR whose Item 7A
+carries its own count of credit ratings outstanding, and a full-text search over form type
+NRSRO-CE enumerates the whole industry: exactly ten registrants in 2026. This is the first name
+in the register whose competitor row is complete in units including the private competitors, and
+the pattern generalises to any SEC-registered-intermediary industry where registration carries a
+public disclosure exhibit.
+
+ALSO FOLDED, and likely to recur: one addition to the owner-earnings CONVENTION, disclosed as
+correctness rather than conservatism - distributions to noncontrolling interest holders are
+deducted. CME Group holds 27% of S&P Dow Jones Indices and took $322M of FY2025's $1,271M of
+that segment's operating profit; the cash sits inside consolidated operating cash flow and never
+reaches a shareholder. [E3-04] requires the look-through addition for equity-method stakes; the
+mirror case requires the subtraction. Worth $296M a year here, reported both ways.
+
+REPORTED AND NOT EDITED, for the second time in one day: PORTFOLIO.md's header still reads
+"Q5 sets no hurdle - it RANKS [E4-21]", the pre-Test-D wording the framework rewrote on
+2026-08-28. The CL run reported it this morning and it is still there. Its ranked rows already
+apply the floor correctly.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

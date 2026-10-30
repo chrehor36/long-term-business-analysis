@@ -1,0 +1,49 @@
+WRB   CIK 11544    BERKLEY W R CORP                   acc 0000011544-26-000005  doc wrb-20251231.htm  filed 2026-02-27  period 2025-12-31  bytes 579192
+ACGL  CIK 947484   ARCH CAPITAL GROUP LTD.            acc 0000947484-26-000017  doc acgl-20251231.htm  filed 2026-02-26  period 2025-12-31  bytes 1006265
+RLI   CIK 84246    RLI CORP                           acc 0001104659-26-018013  doc rli-20251231x10k.htm  filed 2026-02-20  period 2025-12-31  bytes 609698
+KNSL  CIK 1669162  Kinsale Capital Group, Inc.        acc 0001669162-26-000015  doc knsl-20251231.htm  filed 2026-02-20  period 2025-12-31  bytes 451395
+AXS   CIK 1214816  AXIS CAPITAL HOLDINGS LTD          acc 0001214816-26-000097  doc axs-20251231.htm  filed 2026-02-27  period 2025-12-31  bytes 897264
+MKL   CIK 1096343  MARKEL GROUP INC.                  acc 0001096343-26-000020  doc mkl-20251231.htm  filed 2026-02-26  period 2025-12-31  bytes 579073
+KNSL FY2022 10-K acc 0001669162-23-000009 knsl-20221231.htm bytes 442921
+  KNSL FY2022 10-K line: Effect of prior year development | | (35,887) | | | (4.5) | % | | (31,986) | | | (5.5) | % |
+
+=== BASIS 1: REPORTED GAAP CONSOLIDATED COMBINED RATIO (carried from the MKL run, unchanged) ===
+| company | 2021 | 2022 | 2023 | 2024 | 2025 | 5-yr mean |
+|---|---|---|---|---|---|---|
+| KNSL  | 77.1 | 78.5 | 75.4 | 76.4 | 75.9 | **76.66** |
+| ACGL  | 85.2 | 81.6 | 79.3 | 82.5 | 82.8 | **82.28** |
+| RLI   | 86.8 | 84.4 | 86.6 | 86.2 | 83.6 | **85.52** |
+| CB    | 89.1 | 87.6 | 86.5 | 86.6 | 85.7 | **87.10** |
+| WRB   | 89.6 | 89.3 | 89.7 | 90.3 | 90.7 | **89.92** |
+| FFH   | 95.0 | 94.7 | 93.2 | 92.7 | 93.0 | **93.72** |
+| MKL   | 90.0 | 92.0 | 98.8 | 95.5 | 94.6 | **94.18** |
+| AXS   | 97.5 | 95.8 | 99.9 | 92.3 | 89.8 | **95.06** |
+
+=== BASIS 2: CURRENT-ACCIDENT-YEAR COMBINED RATIO = reported + favourable prior-year development ===
+(a positive PPD number is FAVOURABLE development that improved the reported ratio)
+| company | 2021 | 2022 | 2023 | 2024 | 2025 | mean of the years available | years |
+|---|---|---|---|---|---|---|---|
+| KNSL  | 82.6 | 82.9 | 78.6 | 79.1 | 79.8 | **80.60** | 5 |
+| ACGL  | 89.6 | 89.5 | 83.6 | 85.9 | 86.3 | **86.99** | 5 |
+| CB    | 91.9 | 90.4 | 88.4 | 88.6 | 88.2 | **89.50** | 5 |
+| WRB   | 89.7 | 88.9 | 89.5 | 90.3 | 90.7 | **89.84** | 5 |
+| RLI   | n/a | 95.1 | 95.0 | 92.4 | 89.7 | **93.08** | 4 |
+| AXS   | 98.2 | 96.3 | 91.8 | 92.8 | 91.4 | **94.10** | 5 |
+| MKL   | n/a | n/a | 99.3 | 101.1 | 100.4 | **100.27** | 3 |
+| FFH   | n/a | n/a | n/a | n/a | n/a | NOT COMPARABLE | 0 |
+
+=== THE PPD POINTS THEMSELVES, which is what the two bases differ by ===
+| company | 2021 | 2022 | 2023 | 2024 | 2025 | source |
+|---|---|---|---|---|---|---|
+| CB    | +2.80 | +2.80 | +1.90 | +2.00 | +2.50 | FY2025 10-K 0000896159-26-000005 p.51; FY2023 10-K 0000896159-24-000003; FY2021 10-K 0000896159-22-000005 |
+| KNSL  | +5.50 | +4.40 | +3.20 | +2.70 | +3.90 | FY2025 10-K 0001669162-26-000015 (2025 3.9, 2024 2.7); FY2023 10-K 0001669162-24-000006 (2023 3.2, 2022 4.4); FY2022 10-K 0001669162-23-000009 (2022 4.5, 2021 5.5) - 2021 is on the SUPERSEDED denominator, the basis break the MKL row already flagged |
+| ACGL  | +4.39 | +7.95 | +4.32 | +3.36 | +3.52 | FY2025 10-K 0000947484-26-000017 note (600/507/538 by segment and tail); FY2023 10-K 0000947484-24-000020 lines 3536/3551/3558 (538/769/355); NPE from each 10-K income statement |
+| RLI   | n/a | +10.75 | +8.42 | +6.22 | +6.13 | FY2025 10-K 0001104659-26-018013 line 4009 (99/95); FY2023 10-K 0001558370-24-001599 line 3990 (109/123); NPE from each 10-K consolidated revenue table |
+| WRB   | +0.08 | -0.38 | -0.18 | +0.04 | +0.03 | FY2025 10-K 0000011544-26-000005 line 1016 (3,246 / 4,432 / (18,899) thousands); FY2023 10-K 0000011544-24-000005 line 987 ((18,899) / (36,405) / 6,647 thousands); NPE from each 10-K |
+| AXS   | +0.70 | +0.50 | -8.10 | +0.50 | +1.60 | FY2025 10-K 0001214816-26-000097 line 1335 (2025 (1.6), 2024 (0.5), 2023 8.1 ADVERSE); FY2023 10-K 0001214816-24-000024 line 1355 (2023 8.1, 2022 (0.5), 2021 (0.7)) |
+| MKL   | n/a | n/a | +0.50 | +5.60 | +5.80 | FY2025 10-K 0001096343-26-000020 lines 1266-67; 2021-22 not published on this basis in that filing |
+| FFH   | n/a | n/a | n/a | n/a | n/a | IFRS filer (40-F). No comparable current-accident-year / prior-year separation of the undiscounted combined ratio located in Exhibit 99.3. |
+
+=== RANK CHANGE BETWEEN THE TWO BASES (the point of doing this) ===
+ reported basis, best to worst: KNSL > ACGL > RLI > CB > WRB > FFH > MKL > AXS
+ current-accident-year basis:   KNSL > ACGL > CB > WRB > RLI > AXS > MKL

@@ -1,0 +1,24 @@
+{
+ "ticker": "OTIS",
+ "name": "Otis",
+ "headline": "The world's largest elevator maker, earning most of its profit from servicing about 2.5 million units.",
+ "what_short": "Elevators and escalators, installation and service",
+ "what_it_does": "Otis installs elevators and escalators, then maintains, repairs and modernizes them. It services a portfolio of about 2.5 million units in around 200 countries. Service is 65% of sales and 91% of segment operating profit, and new equipment is the other 35% of sales.",
+ "why_it_passed": [
+  "Service pricing was passed through every year of the recent inflation, and the service margin kept rising, from 21.8% in 2020 to 22.9% in 2022.",
+  "Its portfolio of units under maintenance grew from over 2.0 million to about 2.5 million, at 4% or more a year for four years.",
+  "The business needs little capital: about $548 million of tangible operating capital against $2,614 million of segment operating profit, with capital spending only 1.0% to 1.4% of sales.",
+  "Customers fund its working capital, and returns on the service segment's assets held through the last full cycle."
+ ],
+ "why_not_now": "At $65.95 a share the cash the business produces is only about 4.2% of its value including debt, less than the 5.60% on a 30-year US Treasury bond. The analysis's value range is $41.24 to $44.13, so the price is well above the top of it.",
+ "watch": [
+  "Independent service companies hold about half of all elevator units, which is the weak flank of its service business.",
+  "Every average buyback price paid, $74.7 to $94.3, was above the analysis's value range, and total debt is $8.4 billion with negative shareholder equity.",
+  "A 2007 EU cartel fine under its former parent, and open customer overcharge claims, are recorded."
+ ],
+ "value_low": 41.24,
+ "value_high": 44.13,
+ "utility": false,
+ "run_date": "2026-10-10",
+ "currency": "USD"
+}

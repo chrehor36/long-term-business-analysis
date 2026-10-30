@@ -1,0 +1,26 @@
+MGM fold, part 2: untrack the 25.7 MB of re-fetchable dumps I committed by mistake
+
+Thirteen files removed from the tree GOING FORWARD with `git rm --cached`. They stay on
+disk and they stay in history: f3f51b5 and 4af9913 are not rebased (operator rule 6).
+This is the remedy this repository already documents for the identical SNPS failure of
+2026-09-11, and the widened `.gitignore` patterns landed in 43f0276.
+
+WHY THIS COMMIT HAS NO PATHSPEC, AND WHY THAT IS SAFE HERE. `git commit -- <pathspec>`
+takes the WORKING TREE content of the named paths, not the index, so it CANNOT record a
+deletion for a file that is still present on disk - it silently re-adds it. That is what
+happened in 43f0276: the `git rm --cached` was staged and the pathspec commit resurrected
+all thirteen. So this one commits from the index, after verifying two things the fold's
+step 6 exists to protect: `git diff --cached --name-status` listed exactly these thirteen
+deletions and nothing else, and every other change in the tree is UNTRACKED (`??`), which
+a bare commit never picks up. Recorded because it is a real gap in the fold rule: a
+pathspec isolates a commit from other sessions, and it also makes a deletion impossible to
+record while the file remains on disk.
+
+Files: companyfacts.json, submissions.json, tenk_2025.txt, tenq_2026Q2.txt,
+peers/{PENN,BYD,MGM,WYNN,LVS,CZR,VICI,MLCO}_companyfacts.json,
+peers/VICI_tenk_2025_body.txt. All re-fetchable from EDGAR, all reproducible by the
+committed `fetch.py`, `fetch2.py`, `strip.py` and `peers.py`, and none of them the
+provenance record: operator rule 4 wants the document, date and accession number in the
+run file, and they are there.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

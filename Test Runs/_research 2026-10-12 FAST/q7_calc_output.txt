@@ -1,0 +1,41 @@
+year  OCF  ownercash(net capex, acq deducted)  %sales   gross-capex variant   D&A variant
+2013    416.1    209.2    6.3%     204.2       nan  unlev      nan
+2014    499.4    303.1    8.1%     297.3       nan  unlev      nan
+2015    550.3    375.7    9.7%     365.8       nan  unlev      nan
+2016    519.9    332.8    8.4%     326.3       nan  unlev      nan
+2017    585.2    408.8    9.3%     401.4       nan  unlev      nan
+2018    674.2    498.6   10.0%     489.1       nan  unlev      nan
+2019    842.7    597.2   11.2%     590.6       nan  unlev      nan
+2020   1101.8    813.6   14.4%     803.0     808.7  unlev    820.5
+2021    770.1    616.3   10.3%     607.9     593.8  unlev    623.6
+2022    941.0    771.4   11.1%     760.0     757.2  unlev    781.7
+2023   1432.7   1264.8   17.2%    1252.6    1248.1  unlev   1269.9
+2024   1173.3    951.2   12.6%     938.8     989.9  unlev    952.6
+2025   1295.9   1057.0   12.9%    1042.2    1108.3  unlev   1057.5
+
+5-yr avg owner cash: all-equity (before net interest) 937.1; equity-only 932.1; gross-capex 920.3; D&A 939.5
+shown growth of aggregate owner cash 2021->2025: 14.44%   sales growth 2021->2025: 8.07%
+cap test: owner cash yr10 at shown rate 3610 vs sales yr10 at sales growth 17828 = 20.2% of sales; highest share earned 17.2%
+growth carried: 8.07%
+
+all-equity: B=937.1  no-growth 16,734  growth 31,764  width 1.90x
+   per share: 14.66 to 27.75   against price 51.55
+   at 10%: no-growth 9,371, growth 16,369; FAIR PRICE 11.29
+
+equity-only: B=932.1  no-growth 16,645  growth 31,596  width 1.90x
+   per share: 14.51 to 27.54   against price 51.55
+   at 10%: no-growth 9,321, growth 16,282; FAIR PRICE 11.16
+
+market EV (all-equity) 59,069; market cap 59,153
+expected return at price, growth case: 3.18%; no-growth case: 1.59%
+growth case at the SHOWN rate 14.4% uncut: value/share 45.70; return at price 5.06%
+
+cycle beside (owner-cash troughs 2016, 2021, 2024): avg 2016-20 531.6, avg 2021-23 891.7, growth between midpoints (2018->2022) 13.81%
+   cycle base 891.7: range/share 13.95 to 26.42 (growth 8.07%)
+D&A variant: range/share 14.69 to 27.83
+gross-capex variant: range/share 14.40 to 27.26
+
+NI-based variant: B=1115.2; range/share 17.43 to 33.02; return at price, growth case 3.73%
+sovereign-rate check: what growth for 10 yrs then flat would the price need at 5.6%?
+   implied 10-year growth of owner cash at the long rate: 16.0%
+   implied 10-year growth for the floor (10%): 26.3%

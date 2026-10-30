@@ -1,0 +1,7 @@
+==============================================================================
+H World Group Ltd  (HTHT)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign CNY   NO ISSUING-AUTHORITY SOURCE configured for CNY in tools/sources.py (have EUR, JPY, USD); no rate printed
+  earnings currency: CNY (the XBRL unit of the cash-flow series)
+  price     44.17 USD   2026-10-13   (aggregator — live quote only)
+  ** CURRENCY MISMATCH: earnings in CNY, quote in USD. Refusing to convert. Pass --quote with the home listing. **

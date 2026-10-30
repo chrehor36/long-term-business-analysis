@@ -1,0 +1,34 @@
+Source notes for this folder
+=============================
+
+Buffett-authored (or Buffett-spoken, Loomis-edited) Fortune essays — on the
+citation shelf per CLAUDE.md ("incl. Buffett-authored Fortune essays if
+present"). Added 2026-07-14.
+
+1977 - How Inflation Swindles the Equity Investor (.pdf + .txt)
+  Fortune, May 1977, by Warren E. Buffett. PDF mirror with text layer
+  (Fortune republished the piece as a "Fortune Classic"; the mirror carries a
+  one-line third-party endorsement footnote — ignore it, it is not Buffett).
+  THE primary source for the equity-coupon reading: "it seems reasonable to
+  think of it as an equity coupon." [ledger E2-22]
+
+1999 - Mr Buffett on the Stock Market (.txt + official BRK scan .pdf)
+  Fortune, November 22, 1999, by Warren Buffett and Carol J. Loomis.
+  The PDF is BERKSHIRE'S OWN COPY, hosted at
+  berkshirehathaway.com/1999ar/FortuneMagazine.pdf (image scan, no text
+  layer). The .txt is the article body extracted from fortune.com's archive
+  page; spot-verified against the article ("The key to investing is not
+  assessing how much an industry is going to affect society..."). [E4-08]
+  This is the true source of the Gate 2 quote the May framework misattributed
+  to the 1986 letter (claims_audit C02).
+
+2001 - Warren Buffett on the Stock Market (.txt + official BRK scan .pdf)
+  Fortune, December 10, 2001, by Carol Loomis (from Buffett's July 2001 Sun
+  Valley talk). PDF is Berkshire's own copy at
+  berkshirehathaway.com/2001ar/FortuneMagazine DEC 10 2001.pdf (image scan);
+  .txt from the Tilson-hosted text copy of the same article.
+  Contains the market-cap-to-GNP "best single measure" passage. [E4-09]
+
+Provenance: the 1999/2001 PDFs are official (Berkshire-hosted); their .txt
+companions are third-party text layers of the same articles - when quoting,
+cite the article (year, Fortune) and spot-check odd wording against the scan.

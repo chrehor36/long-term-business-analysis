@@ -1,0 +1,31 @@
+FY | revenue | GM% | metal est | GM% ex-metal | GAAP OM% | EBITA (op inc + amortization + impairment) | EBITA% | EBITA% ex-metal | AdjEBITDA% | AdjEBITDA% ex-metal
+2016 | 1770.1 | 43.9 | 198 | 49.4 | 5.1 | 245.0 | 13.8 | 15.6 | 20.8 | 23.4
+2017 | 1878.6 | 43.3 | 225 | 49.2 | 10.7 | 310.2 | 16.5 | 18.8 | 21.4 | 24.3
+2018 | 1961.0 | 42.7 | 232 | 48.4 | 12.7 | 360.5 | 18.4 | 20.9 | 21.5 | 24.3
+2019 | 1835.9 | 42.9 | 218 | 48.7 | 13.6 | 362.1 | 19.7 | 22.4 | 22.7 | 25.8
+2020 | 1853.7 | 42.4 | 229 | 48.4 | 12.6 | 351.7 | 19.0 | 21.6 | 22.8 | 26.0
+2021 | 2399.8 | 40.0 | 412 | 48.3 | 12.5 | 423.9 | 17.7 | 21.3 | 21.9 | 26.4
+2022 | 2549.4 | 37.4 | 420 | 44.7 | 12.8 | 445.3 | 17.5 | 20.9 | 20.7 | 24.7
+2023 | 2333.2 | 39.4 | 363 | 46.6 | 7.4 | 377.7 | 16.2 | 19.2 | 20.7 | 24.5
+2024 | 2456.9 | 42.2 | 391 | 50.1 | 14.0 | 461.5 | 18.8 | 22.3 | 21.8 | 25.9
+2025 | 2551.2 | 42.0 | 454 | 51.0 | 13.4 | 452.3 | 17.7 | 21.6 | 21.5 | 26.1
+
+segment gross margin: Electronics reported / ex-metal ; Industrial & Specialty (Specialties) reported
+2017 | EL 40.3 / 50.3 | I&S 47.9
+2018 | EL 40.2 / 50.3 | I&S 46.3
+2019 | EL 41.2 / 51.6 | I&S 45.5
+2020 | EL 40.7 / 50.6 | I&S 45.3
+2021 | EL 38.8 / 53.1 | I&S 42.1
+2022 | EL 37.0 / 50.2 | I&S 37.9
+2023 | EL 39.5 / 53.1 | I&S 39.2
+2024 | EL 41.8 / 55.8 | I&S 42.8
+2025 | EL 40.1 / 53.7 | I&S 46.4
+
+pre-tax returns: NTC = equity + debt - cash - goodwill - intangibles; TC = equity + debt - cash
+2019 | NTC 447.7 | EBITA/NTC 81% | TC 3571.7 | GAAP op inc/TC 7.0% | EBITA/TC 10.1%
+2020 | NTC 452.7 | EBITA/NTC 78% | TC 3561.3 | GAAP op inc/TC 6.5% | EBITA/TC 9.9%
+2021 | NTC 617.8 | EBITA/NTC 69% | TC 4100.8 | GAAP op inc/TC 7.3% | EBITA/TC 10.3%
+2022 | NTC 779.2 | EBITA/NTC 57% | TC 3997.5 | GAAP op inc/TC 8.1% | EBITA/TC 11.1%
+2023 | NTC 789.0 | EBITA/NTC 48% | TC 4005.0 | GAAP op inc/TC 4.3% | EBITA/TC 9.4%
+2024 | NTC 1013.8 | EBITA/NTC 46% | TC 3877.8 | GAAP op inc/TC 8.9% | EBITA/TC 11.9%
+2025 | NTC 800.0 | EBITA/NTC 57% | TC 3699.1 | GAAP op inc/TC 9.3% | EBITA/TC 12.2%

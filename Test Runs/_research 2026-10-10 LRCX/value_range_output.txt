@@ -1,0 +1,48 @@
+net debt at 2026-06-28: $-1,844.6M (negative = net cash); market cap $399.0B
+
+LITERAL WINDOW  window 2022-2026  basis=capex  ALL-EQUITY (before interest)
+  owner cash by year ($M): 2022 2,458, 2023 4,435, 2024 4,125, 2025 5,231, 2026 4,643
+  average 4,179  growth shown (aggregate, first to last) 17.2%
+  range (whole) $74.6B to $289.7B   width 3.88 to 1
+  range per share $61.10 to $232.99   price $318.84
+  FAIR PRICE (midpoint stream at the 10% floor) $73.81   [no-growth at floor $34.87, growth at floor $112.76]
+  owner-cash yield at price: 1.05%  vs sovereign 5.60%
+
+LITERAL WINDOW  window 2022-2026  basis=capex  EQUITY-ONLY (after interest)
+  owner cash by year ($M): 2022 2,295, 2023 4,271, 2024 3,963, 2025 5,071, 2026 4,505
+  average 4,021  growth shown (aggregate, first to last) 18.4%
+  range (whole) $71.8B to $304.3B   width 4.24 to 1
+  range per share $57.38 to $243.20   price $318.84
+  FAIR PRICE (midpoint stream at the 10% floor) $74.10   [no-growth at floor $32.13, growth at floor $116.08]
+  owner-cash yield at price: 1.01%  vs sovereign 5.60%
+
+LITERAL WINDOW  window 2022-2026  basis=dna  ALL-EQUITY (before interest)
+  owner cash by year ($M): 2022 2,671, 2023 4,595, 2024 4,162, 2025 5,604, 2026 5,168
+  average 4,440  growth shown (aggregate, first to last) 17.9%
+  range (whole) $79.3B to $325.2B   width 4.10 to 1
+  range per share $64.83 to $261.33   price $318.84
+  FAIR PRICE (midpoint stream at the 10% floor) $81.39   [no-growth at floor $36.96, growth at floor $125.83]
+  owner-cash yield at price: 1.12%  vs sovereign 5.60%
+
+LITERAL WINDOW  window 2022-2026  basis=dna  EQUITY-ONLY (after interest)
+  owner cash by year ($M): 2022 2,507, 2023 4,430, 2024 4,000, 2025 5,444, 2026 5,030
+  average 4,282  growth shown (aggregate, first to last) 19.0%
+  range (whole) $76.5B to $340.5B   width 4.45 to 1
+  range per share $61.11 to $272.09   price $318.84
+  FAIR PRICE (midpoint stream at the 10% floor) $81.79   [no-growth at floor $34.22, growth at floor $129.36]
+  owner-cash yield at price: 1.07%  vs sovereign 5.60%
+
+CYCLE BASE (sensitivity, shown beside)  window 2019-2023  basis=capex  ALL-EQUITY (before interest)
+  owner cash by year ($M): 2019 2,790, 2020 1,889, 2021 3,205, 2022 2,458, 2023 4,435
+  average 2,956  growth shown (aggregate, first to last) 12.3%
+  range (whole) $52.8B to $139.6B   width 2.64 to 1
+  range per share $43.65 to $113.02   price $318.84
+  FAIR PRICE (midpoint stream at the 10% floor) $41.04   [no-growth at floor $25.10, growth at floor $56.98]
+  owner-cash yield at price: 0.74%  vs sovereign 5.60%
+
+CYCLE BASE, specific (a): prior cycle FY2013-2018 avg 1,120; last cycle FY2019-2023 avg 2,956; growth between cycle averages 19.3%/yr
+  range per share $43.65 to $193.28  width 4.55 to 1;  fair price $58.81
+
+CENTRAL PAIR (specific e)
+  ALL-EQUITY: bottom $64.83 (avg 4,440, no growth) top $232.99 (avg 4,179, growth 17.2%)  width 3.65 to 1  FAIR $74.86  price $318.84
+  EQUITY-ONLY: bottom $61.11 (avg 4,282, no growth) top $243.20 (avg 4,021, growth 18.4%)  width 3.98 to 1  FAIR $75.15  price $318.84

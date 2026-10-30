@@ -1,0 +1,60 @@
+year   OCF    SBC   capex   D&A   dUnearn  custInt*  | OE_A capex  OE_A D&A | OE_B(-dUnearn) capex / D&A | OE_C(-custInt) capex / D&A | SBC/OCF
+2019     223     98    126    114     176         n/a |      -0      11 |    -177    -165 |     nan     nan |   43.8%
+2020    -740   3003     37    126    -267    10 (36%) |   -3780   -3869 |   -3513   -3602 |   -3523   -3612 |    nan%
+2021    2313    899     25    138     496     4 (29%) |    1389    1276 |     893     780 |     889     776 |   38.9%
+2022    3430    930     25     81     280    60 (32%) |    2475    2419 |    2195    2139 |    2135    2079 |   27.1%
+2023    3884   1120     47     44     242   253 (35%) |    2717    2720 |    2475    2478 |    2222    2225 |   28.8%
+2024    4518   1407     34     65     200   334 (41%) |    3077    3046 |    2877    2846 |    2543    2512 |   31.1%
+2025    4646   1592     33     91     122   294 (42%) |    3021    2963 |    2899    2841 |    2605    2547 |   34.3%
+TTM Jun-2026 {'OCF': 4860, 'SBC': 1707, 'CAPEX': 33, 'DA': 84, 'dUNE': -29, 'INT': 680} OE_A capex 3120 OE_A D&A 3069 OE_B 3149 3098 SBC/OCF 35.1%
+
+5y 2021-2025 (ex-2020, corpus default)  a_cap=2,536  a_da=2,485  b_cap=2,268  b_da=2,217  c_cap=2,079  c_da=2,028
+5y 2020-2024 (incl. 2020)  a_cap=1,176  a_da=1,118  b_cap=985  b_da=928  c_cap=853  c_da=796
+6y 2020-2025 (full listed history)  a_cap=1,483  a_da=1,426  b_cap=1,304  b_da=1,247  c_cap=1,145  c_da=1,088
+3y 2023-2025  a_cap=2,938  a_da=2,910  b_cap=2,750  b_da=2,722  c_cap=2,457  c_da=2,428
+7y 2019-2025 (incl. pre-IPO 2019)  a_cap=1,271  a_da=1,224  b_cap=1,093  b_da=1,045  c_cap=n/a  c_da=n/a
+
+cap $M 100341.6
+5y 2021-2025 (ex-2020, corpus default): OE_A 2,485..2,536  yield 2.48%..2.53%
+      OE_B 2,217..2,268  yield 2.21%..2.26%
+      OE_C 2,028..2,079  yield 2.02%..2.07%
+5y 2020-2024 (incl. 2020): OE_A 1,118..1,176  yield 1.11%..1.17%
+      OE_B 928..985  yield 0.93%..0.98%
+      OE_C 796..853  yield 0.79%..0.85%
+6y 2020-2025 (full listed history): OE_A 1,426..1,483  yield 1.42%..1.48%
+      OE_B 1,247..1,304  yield 1.24%..1.30%
+      OE_C 1,088..1,145  yield 1.08%..1.14%
+3y 2023-2025: OE_A 2,910..2,938  yield 2.90%..2.93%
+      OE_B 2,722..2,750  yield 2.71%..2.74%
+      OE_C 2,428..2,457  yield 2.42%..2.45%
+7y 2019-2025 (incl. pre-IPO 2019): OE_A 1,224..1,271  yield 1.22%..1.27%
+      OE_B 1,045..1,093  yield 1.04%..1.09%
+TTM OE_A 3,069..3,120 yield 3.06%..3.11%
+
+SBC/OCF cumulative
+ 2020-2025 (8951, 18051, 49.58728048307573)
+ 2020-H1 2026 (9848, 21029, 46.830567311807506)
+ 2021-2025 (5948, 18791, 31.653451120217124)
+ 2021-H1 2026 (6845, 21769, 31.44379622398824)
+ 2019-2025 (9048.5, 18273.7, 49.516518274897805)
+ SBC % revenue {2019: 2.0, 2020: 88.9, 2021: 15.0, 2022: 11.1, 2023: 11.3, 2024: 12.7, 2025: 13.0}
+
+buybacks + withholding vs SBC
+2019 buyback 0 withhold 0 sum 0 SBC 97.5 sum/OCF 0%
+2020 buyback 0 withhold 1527 sum 1527 SBC 3003 
+2021 buyback 0 withhold 177 sum 177 SBC 899 sum/OCF 8%
+2022 buyback 1500 withhold 607 sum 2107 SBC 930 sum/OCF 61%
+2023 buyback 2252 withhold 1224 sum 3476 SBC 1120 sum/OCF 89%
+2024 buyback 3430 withhold 630 sum 4060 SBC 1407 sum/OCF 90%
+2025 buyback 3789 withhold 561 sum 4350 SBC 1592 sum/OCF 94%
+2020-H1 2026 buybacks 13110 withholding 5031 total 18141
+2021-H1 2026 withholding 3504 buybacks 13110 total 16614
+shares {2020: 599.197, 2021: 633.524, 2022: 631, 2023: 638, 2024: 623, 2025: 602, '2026-06': 590, '2026-07-15 cover': 589.585682}
+net change Dec2020->Jul2026 -9.6M (-1.6%)
+net change Dec2021->Jul2026 -43.9M (-6.9%)
+net change Dec2022->Jul2026 -41.4M (-6.6%)
+cash 2022-H1 2026 on buybacks+withholding 16437 per share retired since Dec-2022 $397
+2022 OCF - capex - buyback - withholding = 1298
+2023 OCF - capex - buyback - withholding = 361
+2024 OCF - capex - buyback - withholding = 424
+2025 OCF - capex - buyback - withholding = 263

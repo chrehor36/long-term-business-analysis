@@ -1,0 +1,76 @@
+==============================================================================
+UNITEDHEALTH GROUP INC  (UNH)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.66%   10/05/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     378.58 USD   2026-10-05   (aggregator — live quote only)
+  shares    897.6M      market cap 339.81B USD
+  share basis: --shares, supplied by the operator
+
+  OWNER EARNINGS   mean of 5 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2021-12-31     22,343      800     3,103      2,454      19,089      18,440
+    2022-12-31     26,206      925     3,400      2,802      22,479      21,881
+    2023-12-31     29,068    1,059     3,972      3,386      24,623      24,037
+    2024-12-31     24,204    1,018     4,099      3,499      19,687      19,087
+    2025-12-31     19,697      971     4,361      3,622      15,104      14,365
+          mean                                               20,196      19,562
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: D&A basis in 2021, 2022, 2023, 2024, 2025
+  mean of the year-by-year lower: 19,562;  of the higher: 20,196  (lines 2 and 3 below use these)
+  SBC tag by year: 2021 ShareBasedCompensation; 2022 ShareBasedCompensation; 2023 ShareBasedCompensation; 2024 ShareBasedCompensation; 2025 ShareBasedCompensation
+  capex tag by year: 2021 PaymentsToAcquirePropertyPlantAndEquipment; 2022 PaymentsToAcquirePropertyPlantAndEquipment; 2023 PaymentsToAcquirePropertyPlantAndEquipment; 2024 PaymentsToAcquirePropertyPlantAndEquipment; 2025 PaymentsToAcquirePropertyPlantAndEquipment
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0000731766-26-000062, 0000731766-25-000063, 0000731766-24-000081
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (3-yr, 3 yrs of data)   OE capex 19,805  OE D&A 19,163   yield 5.83% (capex) 5.64% (D&A)
+  DIVERGENCE vs the 5-yr window: -2.0% on the lower of the two bases
+
+  1. THE YIELD                 capex basis  5.94%   D&A basis  5.76%   vs sovereign 5.66%
+  2. GROWTH THE PRICE ASSUMES  -10.9%  (at a 5.66% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN +2.87 (lower mean) .. +3.06 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2016-12-31       122,810      82,621      38,177      10,430       8,152           -      47,584       8,541      25,777      40,945
+    2017-12-31       139,058      87,036      49,833      11,981       9,568           -      54,556       8,489      28,835      48,730
+    2018-12-31       152,221      95,994      54,319      10,866      11,388           -      58,910       9,325      34,581      55,846
+    2019-12-31       173,889     111,727      60,436      10,985      11,822           -      65,659      10,349      36,808      61,178
+    2020-12-31       197,289     126,750      68,328      16,921      12,870           -      71,337      10,856      38,648      69,295
+    2021-12-31       212,206     135,727      75,045      21,375      14,216       2,900      75,795      10,044      42,383      77,134
+    2022-12-31       245,705     159,358      81,450      23,365      17,681       3,500      93,352      14,401      54,513      86,156
+    2023-12-31       273,720     174,801      94,421      25,427      21,276       2,800     103,732      15,194      58,263      95,774
+    2024-12-31       298,278     195,687      98,268      25,312      22,365       3,800     106,734      23,268      72,359      96,036
+    2025-12-31       309,581     207,883     100,090      24,365      23,018       3,300     110,499      20,474      72,320      95,603
+    accessions: 0000731766-17-000009, 0000731766-18-000005, 0000731766-19-000005, 0000731766-20-000006, 0000731766-21-000013, 0000731766-22-000008, 0000731766-23-000008, 0000731766-24-000081, 0000731766-25-000063, 0000731766-26-000062
+    equity: StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+    lt debt: LongTermDebtNoncurrent (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD millions; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        sum
+    2016-12-31           -    25,777     25,777*
+    2017-12-31           -    28,835     28,835*
+    2018-12-31           -    34,581     34,581*
+    2019-12-31           -    36,808     36,808*
+    2020-12-31           -    38,648     38,648*
+    2021-12-31       3,620    42,383     46,003
+    2022-12-31       3,110    54,513     57,623
+    2023-12-31       4,274    58,263     62,537
+    2024-12-31       4,545    72,359     76,904
+    2025-12-31       6,069    72,320     78,389
+    d1 = us-gaap:DebtCurrent
+    d2 = us-gaap:LongTermDebtNoncurrent
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

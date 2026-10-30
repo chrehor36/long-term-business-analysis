@@ -1,0 +1,34 @@
+owner cash, all-equity (before net interest after tax), USD M: [2021, 2022, 2023, 2024, 2025]
+A. pre-acquisition, contribution put back (central)           135.3    107.8    390.9    245.8    300.2   avg   236.0
+B. pre-acquisition, literal (contribution counted)            135.3    107.8     49.8    245.8    300.2   avg   167.8
+C. acquisitions deducted, contribution put back              -270.5    107.8    390.9    245.8    110.9   avg   117.0
+D. acquisitions deducted, literal                            -270.5    107.8     49.8    245.8    110.9   avg    48.8
+E. maintenance-only capex, pre-acq, contribution back         145.6    113.1    391.0    253.5    317.7   avg   244.2
+F. maintenance-only, acquisitions deducted, contribution back   -260.2    113.1    391.0    253.5    128.4   avg   125.2
+
+organic growth compounded 2021-2025: 0.0496
+total growth test on C: end years -270.5 -> 110.9; halves -81.3 -> 178.4 (sign change: meaningless)
+total growth test on D: end years -270.5 -> 110.9; halves -81.3 -> 178.4 (sign change: meaningless)
+
+RANGES (enterprise value -> per share, net debt $954.7M, 38.578M shares) against price $180.71
+A, organic pair (pre-acq, organic growth credited), CENTRAL      EV    4215 to    6251  per share $  84.50 to $ 137.29  width 1.48x
+E, organic pair, maintenance-only capex                          EV    4361 to    6468  per share $  88.29 to $ 142.92  width 1.48x
+B, organic pair, literal window (contribution counted)           EV    2996 to    4444  per share $  52.91 to $  90.44  width 1.48x
+C, default pair: acquisitions deducted, no-growth only           EV    2089 to    2089  per share $  29.41 to $  29.41  width 1.00x
+D, default pair literal: acquisitions deducted, no-growth only   EV     871 to     871  per share $  -2.18 to $  -2.18  width 1.00x
+
+FAIR PRICE: the midpoint case (base at half the shown growth for ten years, then zero), discounted at the 10% floor
+A, central (all-equity)                                          EV    2795  per share $  47.70
+E, maintenance-only                                              EV    2892  per share $  50.22
+B, literal                                                       EV    1987  per share $  26.76
+
+equity-only: owner cash after net interest avg 218.3; less Autronica financing after tax 19.2 -> 199.1; fair per share $61.11
+equity-only range per share $92.15 to $136.68
+
+implied return at the price, central base and full organic growth: 0.0449; EV at price 7926.2
+implied return at the price, central base, midpoint growth: 0.0368
+
+SENSITIVITIES (shown beside, not the convention's case)
+four-year window 2022-2025 (2021 treated as supply-constrained): base 261.2, organic growth 0.0686: $96.15 to $183.75
+Autronica credited at its cost instead of at nothing: +$14.39 a share on every figure; central top becomes $151.68; four-year top becomes $198.14
+central base at 6% growth (above the shown organic rate): top $151.17

@@ -1,0 +1,93 @@
+==============================================================================
+Philip Morris International Inc.  (PM)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.66%   10/05/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     189.53 USD   2026-10-05   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                              1,558.613M  as of 2026-07-17  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                               1,801.783M  as of 2010-12-31  (CommonStockSharesOutstanding)  STALE, not used
+    balance-sheet ISSUED count (includes treasury)    2,109.316M  as of 2026-06-30  (CommonStockSharesIssued)
+  shares    1,558.6M      market cap 295.40B USD
+  share basis: dei cover-page count as of 2026-07-17 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-12-31      9,204      n/f     1,398      1,321       7,883       7,806
+    2024-12-31     12,217      n/f     1,787      1,444      10,773      10,430
+    2025-12-31     12,233      n/f     1,996      1,569      10,664      10,237
+          mean                                                9,773       9,491
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: D&A basis in 2023, 2024, 2025
+  mean of the year-by-year lower: 9,491;  of the higher: 9,773  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 n/f; 2024 n/f; 2025 n/f
+  ** n/f = stock pay not found in XBRL; read the cash-flow statement. OE in those years
+     deducts NOTHING for stock pay, which overstates it if the filer pays in stock. **
+  capex tag by year: 2023 PaymentsToAcquirePropertyPlantAndEquipment; 2024 PaymentsToAcquirePropertyPlantAndEquipment; 2025 PaymentsToAcquirePropertyPlantAndEquipment
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0001628280-26-005939, 0001413329-24-000013;  NOT read: 0001413329-25-000013 (HTTPError: HTTP Error 429: Too Many Requests)
+    2023-12-31  other capital payment (not in capex)  us-gaap:PaymentsToAcquireIntangibleAssets  1,775
+    2023-12-31  other capital payment (not in capex)  us-gaap:FinanceLeasePrincipalPayments (financing section)  27
+    2024-12-31  other capital payment (not in capex)  us-gaap:PaymentsToAcquireIntangibleAssets  0
+    2024-12-31  other capital payment (not in capex)  us-gaap:FinanceLeasePrincipalPayments (financing section)  29
+    2025-12-31  other capital payment (not in capex)  us-gaap:PaymentsToAcquireIntangibleAssets  0
+    2025-12-31  other capital payment (not in capex)  us-gaap:FinanceLeasePrincipalPayments (financing section)  41
+
+        FY end  OCF filed OCF ex-sec  SBC+other    capex  capex alt  OE capex alt  OE D&A alt
+    2023-12-31      9,204      9,204          0    1,321      3,123         6,081       7,806
+    2024-12-31     12,217     12,217          0    1,444      1,473        10,744      10,430
+    2025-12-31     12,233     12,233          0    1,569      1,610        10,623      10,237
+          mean                                                              9,149       9,491
+  OCF ex-sec = OCF as filed less the securities lines' and PIK interest's effect; SBC+other = the SBC column plus
+  the other stock-pay lines; capex alt = capex plus the other capital payments. The columns
+  above are AS FILED; these are the ALTERNATES. Neither is chosen here.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 10,053  OE D&A 9,834   yield 3.40% (capex) 3.33% (D&A)
+  DIVERGENCE vs the 3-yr window: +3.6% on the lower of the two bases
+
+  1. THE YIELD                 capex basis  3.31%   D&A basis  3.21%   vs sovereign 5.66%
+  2. GROWTH THE PRICE ASSUMES    1.6%  (at a 5.66% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN +0.21 (lower mean) .. +0.31 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles    retained
+    2016-12-31        36,851      47,751     -12,688       4,239       3,499       9,017       7,324       2,470      30,397
+    2017-12-31        42,968      53,198     -12,086       8,447       3,738       8,806       7,666       2,432      29,859
+    2018-12-31        39,801      50,540     -12,459       6,593       2,950       8,804       7,189       2,278      31,014
+    2019-12-31        42,875      52,474     -11,577       6,861       3,080       9,235       5,858       2,113      30,987
+    2020-12-31        44,815      55,446     -12,567       7,280       2,905       9,591       5,964       2,019      31,638
+    2021-12-31        41,290      49,498     -10,106       4,496       3,123       8,720       6,680       2,818      33,082
+    2022-12-31        61,681      67,992      -8,957       3,207       3,850       9,886      19,655       6,732      34,289
+    2023-12-31        65,304      74,750     -11,225       3,060       3,461      10,774      16,779       9,864      34,090
+    2024-12-31        61,784      71,654     -11,750       4,216       3,789       9,453      16,600      11,327      32,869
+    2025-12-31        69,185      77,213      -9,994       4,872       4,572      11,478      17,264      10,884      35,400
+    accessions: 0001413329-17-000014, 0001413329-18-000007, 0001413329-19-000007, 0001413329-20-000007, 0001413329-21-000007, 0001413329-22-000011, 0001413329-23-000025, 0001413329-24-000013, 0001413329-25-000013, 0001628280-26-005939
+    equity: StockholdersEquity (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD millions; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        d3        sum
+    2016-12-31         643     2,573    25,851     29,067
+    2017-12-31         499     2,506    31,334     34,339
+    2018-12-31         730     4,054    26,975     31,759
+    2019-12-31         338     4,051    26,656     31,045
+    2020-12-31         244     3,124    28,168     31,536
+    2021-12-31         225     2,798    24,783     27,806
+    2022-12-31       5,637     2,611    34,875     43,123
+    2023-12-31       1,968     4,698    41,243     47,909
+    2024-12-31         137     3,392    42,166     45,695
+    2025-12-31         168     3,533    45,134     48,835
+    d1 = us-gaap:ShortTermBorrowings
+    d2 = us-gaap:LongTermDebtAndCapitalLeaseObligationsCurrent
+    d3 = us-gaap:LongTermDebtAndCapitalLeaseObligations
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

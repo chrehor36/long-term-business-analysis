@@ -1,0 +1,46 @@
+OGS NetIncomeLoss StockholdersEquity
+  2015-12 NI    119.0 Eq   1841.6 ROE(avg eq)   6.5%  accn 0001587732-16-000088
+  2016-12 NI    140.1 Eq   1888.3 ROE(avg eq)   7.5%  accn 0001587732-17-000011
+  2017-12 NI    163.0 Eq   1960.2 ROE(avg eq)   8.5%  accn 0001587732-18-000014
+  2018-12 NI    172.2 Eq   2042.7 ROE(avg eq)   8.6%  accn 0001587732-19-000013
+  2019-12 NI    186.7 Eq   2129.4 ROE(avg eq)   9.0%  accn 0001587732-20-000017
+  2020-12 NI    196.4 Eq   2233.3 ROE(avg eq)   9.0%  accn 0001587732-21-000030
+  2021-12 NI    206.4 Eq   2349.5 ROE(avg eq)   9.0%  accn 0001587732-22-000019
+  2022-12 NI    221.7 Eq   2584.4 ROE(avg eq)   9.0%  accn 0001587732-23-000015
+  2023-12 NI    231.2 Eq   2765.9 ROE(avg eq)   8.6%  accn 0001587732-24-000013
+  2024-12 NI    222.8 Eq   3104.5 ROE(avg eq)   7.6%  accn 0001587732-25-000013
+  2025-12 NI    264.2 Eq   3440.1 ROE(avg eq)   8.1%  accn 0001587732-26-000009
+ATO NetIncomeLossAvailableToCommonStockholdersBasic StockholdersEquity
+  2015-09 NI    314.4 Eq   3194.8 ROE(avg eq)  10.0%  accn 0000731802-15-000030
+  2016-09 NI    349.6 Eq   3463.1 ROE(avg eq)  10.5%  accn 0000731802-16-000066
+  2018-09 NI    602.5 Eq   4770.0 ROE(avg eq)  13.9%  accn 0000731802-20-000040
+  2019-09 NI    511.0 Eq   5750.2 ROE(avg eq)   9.7%  accn 0000731802-20-000040
+  2020-09 NI    601.0 Eq   6791.2 ROE(avg eq)   9.6%  accn 0000731802-20-000040
+  2021-09 NI    665.1 Eq   7906.9 ROE(avg eq)   9.1%  accn 0000731802-21-000040
+  2022-09 NI    773.9 Eq   9419.1 ROE(avg eq)   8.9%  accn 0000731802-22-000037
+  2023-09 NI    885.3 Eq  10870.1 ROE(avg eq)   8.7%  accn 0000731802-23-000028
+  2024-09 NI   1042.3 Eq  12157.7 ROE(avg eq)   9.1%  accn 0000731802-24-000030
+  2025-09 NI   1198.3 Eq  13558.9 ROE(avg eq)   9.3%  accn 0000731802-25-000056
+SR NetIncomeLossAvailableToCommonStockholdersBasic StockholdersEquity
+  2015-09 NI    136.4 Eq   1573.6 ROE(avg eq)   8.9%  accn 0001126956-15-000077
+  2016-09 NI    143.7 Eq   1768.2 ROE(avg eq)   8.6%  accn 0001126956-16-000144
+  2017-09 NI    161.2 Eq   1991.3 ROE(avg eq)   8.6%  accn 0001126956-17-000063
+  2018-09 NI    213.7 Eq   2255.4 ROE(avg eq)  10.1%  accn 0001126956-18-000065
+  2019-09 NI    178.9 Eq   2543.0 ROE(avg eq)   7.5%  accn 0001564590-19-044464
+  2020-09 NI     73.7 Eq   2522.3 ROE(avg eq)   2.9%  accn 0001564590-20-054448
+  2021-09 NI    256.5 Eq   2658.2 ROE(avg eq)   9.9%  accn 0001564590-21-057844
+  2022-09 NI    205.7 Eq   2818.5 ROE(avg eq)   7.5%  accn 0001437749-22-027522
+  2023-09 NI    202.4 Eq   2917.3 ROE(avg eq)   7.1%  accn 0001437749-23-032284
+  2024-09 NI    235.8 Eq   3232.7 ROE(avg eq)   7.7%  accn 0001437749-24-035823
+  2025-09 NI    256.6 Eq   3389.4 ROE(avg eq)   7.7%  accn 0001193125-25-282583
+NWN NetIncomeLoss StockholdersEquity
+  2016-12 NI     58.9 Eq      0.0 ROE(avg eq)   0.0%  accn 0001733998-19-000004
+  2017-12 NI    -55.6 Eq    742.8 ROE(avg eq)   0.0%  accn 0001733998-19-000004
+  2018-12 NI     64.6 Eq    762.6 ROE(avg eq)   8.6%  accn 0001733998-19-000004
+  2019-12 NI     61.7 Eq    866.0 ROE(avg eq)   7.6%  accn 0001733998-20-000006
+  2020-12 NI     76.8 Eq    888.7 ROE(avg eq)   8.8%  accn 0001733998-21-000006
+  2021-12 NI     78.7 Eq    935.1 ROE(avg eq)   8.6%  accn 0001733998-22-000005
+  2022-12 NI     86.3 Eq   1175.4 ROE(avg eq)   8.2%  accn 0001733998-23-000009
+  2023-12 NI     93.9 Eq   1283.8 ROE(avg eq)   7.6%  accn 0001733998-24-000011
+  2024-12 NI     78.9 Eq   1385.4 ROE(avg eq)   5.9%  accn 0001733998-25-000020
+  2025-12 NI    113.3 Eq   1475.1 ROE(avg eq)   7.9%  accn 0001733998-26-000012

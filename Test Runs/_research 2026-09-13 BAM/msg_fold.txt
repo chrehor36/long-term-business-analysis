@@ -1,0 +1,36 @@
+BAM fold: register entry, roster strike, narrative fold, two dated notes left standing
+
+Six-step fold done by the run. Verdict Q1 IN / Q2 OUT (on the business); Q3, Q4, Q5, Q6
+recorded, not governing. Price $47.26 (2026-09-11, aggregator flagged) x 1,597,251,633
+economic shares (10-Q cover 0001628280-26-054933) = cap $75,486M; sovereign 5.35% USD
+(US Treasury par yield curve, 2026-09-11). check_framework.py PASS before this commit.
+
+(1) COMPLETED FROM THE QUEUE entry with price, share count, cover accession, cap,
+sovereign and the PASS/FAIL line. (2) ~~BAM~~ struck in the MINI BERK roster. (3)
+Narrative fold appended to the prepped reading list. (4) NOTHING ARMED and no
+PORTFOLIO row - the name failed on the BUSINESS, so a price band would be a category
+error (the QLYS ruling); the reversal condition is recorded in words in both places.
+(5) acceptance test PASS. (6) this pathspec commit.
+
+THE TWO STALE LINES ARE LEFT STANDING WITH DATED NOTES BESIDE THEM (operator rule 6):
+the 2026-09-02 paragraph holding BAM and BN BLOCKED, and the 2026-09-13 backfill line
+saying both were never run. Both still govern BN, which is unrun - so they are annotated,
+not retired. The operator's lists now have exactly one name without a price and a
+pass/fail line: BN.
+
+FOUR TOOLING DEFECTS RECORDED. (a) A FOURTH companyfacts splice mechanism, and the first
+that is a predecessor restatement: under CIK 0001937926 the operating-cash tag holds BAM
+Ltd as a 27% holder (FY2023 $508M) and the ULC-as-Predecessor restatement (FY2023
+$1,439M) under the same period keys, so sources.annual() at vintage="earliest" returns a
+3.4x step that is a perimeter change, not growth. (b) tools/run.py returns UNRESEARCHED
+on a filer whose capex line is called "Other assets". (c) The 10-K cover reports ISSUED
+shares and the 10-Q cover OUTSTANDING, so a screen reading both sees a 2.5% phantom
+buyback - and carries a cap 2.5% too high on the annual date. (d) A fee rate computed as
+GAAP fees over the filer's own capital measure mixes perimeters: the RMR row of
+2026-08-30 printed BAM at 56bp that way; on one perimeter it is 85.8bp. Recorded as a
+correction to that row, not an edit of it.
+
+Survival shape register now stands at NINE: THE WAREHOUSE.
+Count: 81 runs - gate-clearers 26, Q2 OUT 51, Q4 OUT 2, Q1 UNKNOWABLE 2.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

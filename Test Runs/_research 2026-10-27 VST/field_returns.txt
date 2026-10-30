@@ -1,0 +1,38 @@
+VST
+  2017  OI     198  avg tangible capital    5053  after-tax OI / capital    3.1%
+  2018  OI     491  avg tangible capital    9286  after-tax OI / capital    4.2%
+  2019  OI    1993  avg tangible capital   13234  after-tax OI / capital   11.9%
+  2020  OI    1519  avg tangible capital   12502  after-tax OI / capital    9.6%
+  2021  OI   -1515  avg tangible capital   12617  after-tax OI / capital   -9.5%
+  2022  OI   -1177  avg tangible capital   12422  after-tax OI / capital   -7.5%
+  2023  OI    2661  avg tangible capital   11827  after-tax OI / capital   17.8%
+  2024  OI    4081  avg tangible capital   13718  after-tax OI / capital   23.5%
+  2025  OI    1906  avg tangible capital   15885  after-tax OI / capital    9.5%
+  span 2017-2025: sum OI*0.79 / sum capital =   7.5%
+NRG
+  2015  OI   -4040  avg tangible capital   22432  after-tax OI / capital  -14.2%
+  2016  OI     527  avg tangible capital   19536  after-tax OI / capital    2.1%
+  2017  OI    -587  avg tangible capital   17048  after-tax OI / capital   -2.7%
+  2018  OI     982  avg tangible capital    9328  after-tax OI / capital    8.3%
+  2019  OI    1290  avg tangible capital    4698  after-tax OI / capital   21.7%
+  2020  OI    1105  avg tangible capital    5528  after-tax OI / capital   15.8%
+  2021  OI    3341  avg tangible capital    6117  after-tax OI / capital   43.1%
+  2022  OI    2018  avg tangible capital    7334  after-tax OI / capital   21.7%
+  2023  OI     384  avg tangible capital    5884  after-tax OI / capital    5.2%
+  2024  OI    2424  avg tangible capital    4256  after-tax OI / capital   45.0%
+  2025  OI    1845  avg tangible capital    5246  after-tax OI / capital   27.8%
+  span 2015-2025: sum OI*0.79 / sum capital =   6.8%
+CEG
+  2020  OI     256  avg tangible capital   14988  after-tax OI / capital    1.3%
+  2021  OI    -346  avg tangible capital   15290  after-tax OI / capital   -1.8%
+  2022  OI     495  avg tangible capital   15472  after-tax OI / capital    2.5%
+  2023  OI    1610  avg tangible capital   16114  after-tax OI / capital    7.9%
+  2024  OI    4352  avg tangible capital   17656  after-tax OI / capital   19.5%
+  2025  OI    3086  avg tangible capital   17748  after-tax OI / capital   13.7%
+  span 2020-2025: sum OI*0.79 / sum capital =   7.7%
+TLN
+  2015  OI     -39  avg tangible capital    6750  after-tax OI / capital   -0.5%
+  2022  OI     241  avg tangible capital    3786  after-tax OI / capital    5.0%
+  2024  OI     226  avg tangible capital    4470  after-tax OI / capital    4.0%
+  2025  OI     -90  avg tangible capital    5639  after-tax OI / capital   -1.3%
+  span 2015-2025: sum OI*0.79 / sum capital =   1.3%

@@ -1,0 +1,55 @@
+year  allspend  maint  interest_addback  allsp/sales  maint/sales
+2016 203 -74 0 0.4% -0.1%
+2017 1603 1654 0 2.3% 2.4%
+2018 772 1278 0 1.0% 1.7%
+2019 1996 2501 461 2.8% 3.5%
+2020 1220 699 407 2.3% 1.3%
+2021 6438 6923 309 8.4% 9.0%
+2022 6219 7107 199 7.8% 8.9%
+2023 2617 4555 179 3.8% 6.7%
+2024 36 1809 336 0.1% 2.9%
+2025 116 1508 396 0.2% 2.5%
+cycle 2020-2025 allsp 2774 maint 3767 addback 304 sales 66959
+literal 2021-2025 allsp 3085 maint 4380 addback 284 sales 69697
+ten-year 2016-2025 allsp 2122 maint 2796 addback 327 sales 67387
+growth between cycle averages: maint 28.7%  allsp 21.4%  sales 0.64%
+max maint share of sales 9.0%; base*(1+gm)^10 / sales = 70.0%
+avg net purchases 2020-2025 266
+market value of equity 47859; plus net debt 57359
+CENTRAL all-equity, cycle base: maintenance-only no-growth vs all-spending at sales growth
+   at 5.60%: ends 67945 and 52815; per share 77.51 and 57.44; width 1.29 to 1
+   at 10%: ends 38049 and 29361; fair price per share 32.10
+   end1 implied return at the price 6.63%
+   end2 implied return at the price 5.16%
+equity-only, cycle base
+   at 5.60%: ends 62509 and 47099; per share 82.90 and 62.46; width 1.33 to 1
+   at 10%: ends 35005 and 26183; fair price per share 40.57
+   end1 implied return at the price 7.31%
+   end2 implied return at the price 5.51%
+avg net purchases 2021-2025 339
+beside: all-equity, literal window 2021-2025
+   at 5.60%: ends 77232 and 56898; per share 89.83 and 62.86; width 1.36 to 1
+   at 10%: ends 43250 and 31630; fair price per share 37.05
+   end1 implied return at the price 7.54%
+   end2 implied return at the price 5.56%
+beside: all-equity, ten-year 2016-2025
+   at 5.60%: ends 55763 and 45985; per share 61.35 and 48.39; width 1.21 to 1
+   at 10%: ends 31227 and 25564; fair price per share 25.06
+   end1 implied return at the price 5.44%
+   end2 implied return at the price 4.50%
+beside: all-equity, purchases left out (organic pair; the filer reports no organic growth, so sales growth stands in)
+   at 5.60%: ends 72700 and 57816; per share 83.82 and 64.08; width 1.26 to 1
+   at 10%: ends 40712 and 32141; fair price per share 35.71
+   end1 implied return at the price 7.10%
+   end2 implied return at the price 5.64%
+beside: all-equity, PG default pair (all spending deducted, no-growth vs sales growth)
+   at 5.60%: ends 50221 and 52815; per share 54.00 and 57.44; width 1.05 to 1
+   at 10%: ends 28124 and 29361; fair price per share 25.52
+   end1 implied return at the price 4.90%
+   end2 implied return at the price 5.16%
+literal window shown growth: maint -31.7%, all-spending -63.4%
+beside: all-equity, literal window, shown decline carried as the bottom
+   at 5.60%: ends 77232 and 8815; per share 89.83 and -0.91; width 8.76 to 1
+   at 10%: ends 43250 and 7397; fair price per share 20.99
+   end1 implied return at the price 7.54%
+   end2 implied return at the price 0.19%

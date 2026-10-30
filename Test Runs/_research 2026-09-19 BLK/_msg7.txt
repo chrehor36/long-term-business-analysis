@@ -1,0 +1,38 @@
+BLK: the fold, all six steps - register 124, WAVE 6 struck, narrative fold, new shape #24, nothing armed
+
+Step 1. Register entry in COMPLETED FROM THE QUEUE, with the price, the share count and the cover
+accession it came from, the cap, the sovereign, and the PASS/FAIL line naming the question that
+closed the file. Counted inside the fold script between the last line-anchored COMPLETED heading
+and THE WRITE-EARLY PROTOCOL: 123 before, 124 after, exactly one added, no duplicate. The brief
+said 121; KO, IBM, DIS, GFF, USAR and CB folded in between and the count-before-and-after protocol
+caught it, as it has on every run today.
+
+Step 2. BLK struck in the WAVE 6 table with the result and the register number.
+
+Step 3. Narrative fold into the prepped reading list: five refuted priors, the finding that was not
+in the brief (the pay scorecard scores the forward P/E multiple), six defects, and the honest
+summary.
+
+Step 4. NOTHING ARMED - no alerts.json band and no PORTFOLIO.md row, because a Q2 failure is a
+failure on the BUSINESS (the QLYS ruling of 2026-09-07). Six reopening tests are pre-committed at
+Q6 as filed series with two- and three-consecutive-year thresholds.
+
+Step 5. python tools/check_framework.py PASSES before this commit, not after.
+
+Step 6. Pathspec commit. Another session's ERIC file is dirty in the shared tree and is not
+included.
+
+Also: the survival-shapes index. BLK added to #11 THE PASS-THROUGH as the mechanism, and #24 THE
+BOUGHT AVERAGE proposed, argued against #11, #21 and #10, with tells a reader can check on any
+filer. The closing count sentence corrected from eleven to twelve.
+
+Three defects were found and fixed inside the fold script itself and are recorded in its header
+and in the log line: rindex on the string "## COMPLETED FROM THE QUEUE" lands on an inline mention
+(there are several inside register entries and one inside the FOLD section, which sits AFTER the
+WRITE-EARLY heading, so the window search failed outright) - headings must be matched
+line-anchored; percent-formatting cannot be used to build a register entry whose text is full of
+literal per-cent signs; and the shapes index moved under a concurrent CB fold between this
+session's read and its write, so the shapes step was split into fold2.py. Any session copying a
+prior fold script inherits the first two.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

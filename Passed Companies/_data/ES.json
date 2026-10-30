@@ -1,0 +1,24 @@
+{
+ "ticker": "ES",
+ "name": "Eversource Energy",
+ "headline": "A New England power and gas delivery monopoly whose wires cannot be duplicated.",
+ "what_short": "Regulated New England electric and gas utility",
+ "what_it_does": "Eversource delivers electricity and gas through regulated utilities in Connecticut, Massachusetts and New Hampshire, including about 1.32 million customers at Connecticut Light & Power. It owns the transmission lines and local wires and earns a regulator-allowed return on them. The cost of the power it supplies is passed through without a profit.",
+ "why_it_passed": [
+  "No competitor can take over its existing transmission and distribution wires, so the franchise stands.",
+  "Its earnings are written into regulatory orders, so their shape ten years out can be foreseen.",
+  "Allowed returns are stated in the filings, for example 9.5% on 50% equity at its New Hampshire electric utility.",
+  "No dishonesty was found in the filings."
+ ],
+ "why_not_now": "A regulator caps what Eversource may earn, so even at a price below the analysis's value range ($71.73 to $81.97 against $67.84), the return is only about 6.45% to 5.52% a year, not the roughly 10% the analysis requires. The 30-year US Treasury bond pays 5.29%, so the extra payment for the risk is thin.",
+ "watch": [
+  "The regulatory climate is the main risk, and a federal ruling on the allowed return on transmission cut earnings.",
+  "It recorded an offshore wind liability and has about $28 billion of net debt.",
+  "The state denied an earlier sale of its water business, which closed later; management's ability was weighed against."
+ ],
+ "value_low": 71.73,
+ "value_high": 81.97,
+ "utility": true,
+ "run_date": "2026-10-23",
+ "currency": "USD"
+}

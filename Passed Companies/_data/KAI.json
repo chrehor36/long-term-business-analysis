@@ -1,0 +1,24 @@
+{
+ "ticker": "KAI",
+ "name": "Kadant",
+ "headline": "Sells worn-out parts for paper and recycling machinery that customers must keep replacing.",
+ "what_short": "Parts and equipment for paper and recycling mills",
+ "what_it_does": "Kadant makes doctor blades, rotary joints, syphons and stock-preparation and recycling equipment for paper, packaging and other mills, plus debarkers, conveyor idlers and balers. Replacement parts and consumables were a record 71% of its $1,052.2 million of 2025 revenue, and the rest was capital equipment. A doctor blade lasts from eight hours to two months.",
+ "why_it_passed": [
+  "Customers keep buying worn critical parts even when they cut capital spending, and prices held through every volume fall in the filings.",
+  "Its markets are small and specialized, and its parts business earns high returns on the tangible capital it needs.",
+  "Parts and consumables, the steadier part of the business, grew to 71% of revenue in 2025.",
+  "It kept its cash for acquisitions paid in cash, with no share issuance and no buyback above value."
+ ],
+ "why_not_now": "At $264.15 a share the price is above the whole value range of $162 to $224. A buyer would earn about 3.6% to 4.7% a year on the cash the business produces, below a 30-year US Treasury bond (5.43%).",
+ "watch": [
+  "Organic revenue growth fell from 15% (FY2021) to a decline of 4% (FY2025); most of the reported growth was bought through acquisitions, which earn decent but not high returns.",
+  "Threats the analysis carried: mill closures, bundling by machine builders, Chinese competitors, and the graphic paper grades in structural decline (about 4% of revenue).",
+  "It features adjusted profit figures and redefined adjusted earnings per share, and its pay is based on adjusted EBITDA."
+ ],
+ "value_low": 162,
+ "value_high": 224,
+ "utility": false,
+ "run_date": "2026-10-16",
+ "currency": "USD"
+}

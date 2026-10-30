@@ -1,0 +1,70 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+===== page 22
+FUJIFILM Holdings Corporation (4901)
+(4) Consolidated Statements of Cash Flows Amount Unit: Millions of yen
+Year ended Year ended
+March 31, 2024
+March 31, 2025
+Change
+From April 1, 2024 From April 1, 2023
+to March 31, 2025 to March 31, 2024
+Operating activities
+Net income 261,679 243,297 18,382
+Adjustments to reconcile net income to net cash
+provided by operating activities:
+Depreciation and amortization 163,567 150,014 13,553
+(Gains) losses on equity securities, net 3,107 (24,675) 27,782
+Deferred income taxes (4,214) (1,707) (2,507)
+Equity in net (gains) losses of affiliated
+1,856 (3,469) 5,325
+companies, net of dividends received
+Changes in operating assets and liabilities:
+Notes and accounts receivable (5,348) (21,157) 15,809
+Inventories (310) 62,023 (62,333)
+Notes and accounts payable - trade 18,254 3,382 14,872
+Changes in prepaid expenses and other current
+(11,667) 6,512 (18,179)
+assets
+Accrued income taxes and other liabilities 22,615 4,341 18,274
+Others (21,377) (10,620) (10,757)
+Subtotal 166,483 164,644 1,839
+Net cash provided by operating activities 428,162 407,941 20,221
+Investing activities
+Purchases of property, plant and equipment (502,794) (417,966) (84,828)
+Purchases of software (55,211) (46,746) (8,465)
+Sales of property, plant and equipment 33,926 23,110 10,816
+Proceeds from sales and maturities of marketable
+8,705 13,443 (4,738)
+and investment securities
+Purchases of marketable and investment
+(462) (729) 267
+securities
+(Increase) decrease in time deposits, net 297 945 (648)
+Increase in investments in and advances to
+(42) (343) 301
+affiliated companies
+Acquisitions of businesses, net of cash acquired (3,873) (103,849) 99,976
+Proceeds from sale of businesses, net of cash and
+- 12,416 (12,416)
+cash equivalents disposed of
+Others (22,499) (7,697) (14,802)
+Net cash used in investing activities (541,953) (527,416) (14,537)
+Financing activities
+Proceeds from long-term debt 350,000 - 350,000
+Repayments of long-term debt (82,320) (104,561) 22,241
+Increase (decrease) in short-term debt, net (86,625) 229,062 (315,687)
+Cash dividends paid to shareholders (68,252) (56,170) (12,082)
+Subsidiaries' cash dividends paid to
+(292) (12,577) 12,285
+noncontrolling interests
+Purchases of stock for treasury (16) (31) 15
+Capital transactions with noncontrolling interests (671) (57,895) 57,224
+Others (2,941) 1,710 (4,651)
+Net cash provided by (used in) financing activities 108,883 (462) 109,345
+Effect of exchange rate changes on cash and cash
+(2,696) 31,044 (33,740)
+equivalents
+Net decrease in cash and cash equivalents (7,604) (88,893) 81,289
+Cash and cash equivalents at beginning of year 179,715 268,608 (88,893)
+Cash and cash equivalents at end of year 172,111 179,715 (7,604)
+20

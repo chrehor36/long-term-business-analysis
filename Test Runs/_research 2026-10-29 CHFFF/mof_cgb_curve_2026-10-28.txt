@@ -1,0 +1,11 @@
+Source: Ministry of Finance of the PRC, China Government Bond yield curve (key tenors), page queryGjqxInfo?zblx=txy&workTime=2026-10-28 on yield.chinabond.com.cn/cbweb-czb-web (the MOF curve page), fetched 2026-10-29.
+Columns: date | tenor | yield today (%) | change vs previous day (bp) | vs same day last month (bp) | vs same day last year (bp)
+2026-10-28 | 3 months | 1.16 | -0.66 | -1.65 | -19.21
+2026-10-28 | 6 months | 1.16 | -0.52 | -3.04 | -22.17
+2026-10-28 | 1 years | 1.17 | -1.06 | -5.64 | -26.18
+2026-10-28 | 2 years | 1.23 | -0.73 | -3.86 | -20.78
+2026-10-28 | 3 years | 1.25 | -0.76 | -4.06 | -21.71
+2026-10-28 | 5 years | 1.34 | -0.80 | -6.95 | -23.17
+2026-10-28 | 7 years | 1.45 | 0.12 | -5.68 | -27.61
+2026-10-28 | 10 years | 1.63 | 0.87 | -4.45 | -18.34
+2026-10-28 | 30 years | 2.05 | 0.83 | -4.81 | -12.11

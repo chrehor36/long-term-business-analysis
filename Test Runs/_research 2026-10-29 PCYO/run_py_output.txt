@@ -1,0 +1,74 @@
+==============================================================================
+PURE CYCLE CORP  (PCYO)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.37%   10/28/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     10.65 USD   2026-10-28   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                 24.097M  as of 2026-07-06  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                                  24.097M  as of 2026-05-31  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)       23.856M  as of 2020-08-31  (CommonStockSharesIssued)  STALE, not used
+  shares    24.1M      market cap 0.26B USD
+  share basis: dei cover-page count as of 2026-07-06 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-08-31       -2.3      0.5       2.2        0.4        -3.3        -5.1
+    2024-08-31        2.3      0.4       2.1        0.5         1.4        -0.2
+    2025-08-31       13.2      0.3       2.3        0.9        12.0        10.5
+          mean                                                  3.4         1.7
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: D&A basis in 2023, 2024, 2025
+  mean of the year-by-year lower: 1.7;  of the higher: 3.4  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 ShareBasedCompensation; 2024 ShareBasedCompensation; 2025 ShareBasedCompensation
+  capex tag by year: 2023 PaymentsToAcquireOtherPropertyPlantAndEquipment; 2024 PaymentsToAcquireOtherPropertyPlantAndEquipment; 2025 PaymentsToAcquireOtherPropertyPlantAndEquipment
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0001104659-25-110312, 0001558370-24-015541, 0001558370-23-019110
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 5.9  OE D&A 4.2   yield 2.29% (capex) 1.65% (D&A)
+  DIVERGENCE vs the 3-yr window: +141.9% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis  1.32%   D&A basis  0.68%   vs sovereign 5.37%
+  2. GROWTH THE PRICE ASSUMES   36.4%  (at a 5.37% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN -2.16 (lower mean) .. -1.49 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD thousands; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory     lt debt    retained
+    2016-08-31        70,880       1,882      68,998       4,697         181           -           -    -102,283
+    2017-08-31        69,788       2,281      67,506       5,576         664           0           -    -103,994
+    2018-08-31        71,907       2,453      69,453      11,565       1,067       5,195           -    -102,524
+    2019-08-31        83,721       8,990      74,731       4,478       1,100      11,613           -     -97,713
+    2020-08-31        89,761       7,717      82,044      21,797       1,124           -           -     -90,963
+    2021-08-31       117,177      14,437     102,740      20,117       1,532           -           -     -70,853
+    2022-08-31       129,229      16,233     112,996      34,894       2,425           -       3,950     -61,234
+    2023-08-31       133,216      14,982     118,234      26,012       1,092           -       6,885     -56,535
+    2024-08-31       147,354      17,652     129,702      22,113       1,472           -       6,885     -45,503
+    2025-08-31       162,279      19,541     142,738      21,931       1,330           -       6,380     -32,790
+    accessions: 0001104659-25-110312, 0001140361-18-042948, 0001140361-19-020266, 0001140361-20-025088, 0001558370-21-015383, 0001558370-22-017799, 0001558370-23-019110, 0001558370-24-015541, 0001654954-16-003152, 0001654954-17-010721
+    equity: StockholdersEquity (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+    lt debt: LongTermNotesPayable (2022, 2023); LongTermDebt (2024); LongTermDebtNoncurrent (2025)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD thousands; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        sum
+    2022-08-31          10     3,950      3,960
+    2023-08-31          31     6,885      6,916
+    2024-08-31          64     6,821      6,885
+    2025-08-31         411     6,380      6,791
+    d1 = us-gaap:NotesPayableCurrent
+    d2 = us-gaap:LongTermNotesPayable
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

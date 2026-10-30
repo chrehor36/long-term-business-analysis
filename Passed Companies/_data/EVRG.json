@@ -1,0 +1,24 @@
+{
+ "ticker": "EVRG",
+ "name": "Evergy",
+ "headline": "The regulated electricity monopoly for about 1.7 million customers in Kansas and Missouri.",
+ "what_short": "Regulated electric utility (Kansas and Missouri)",
+ "what_it_does": "Evergy owns three regulated electric utilities that generate, transmit and deliver power to about 1.7 million customers in Kansas and Missouri. Revenue was $5.96 billion in 2025, with homes at 37%, businesses at 33% and industry at 11%. State regulators set retail prices, and fuel costs are passed through to customers.",
+ "why_it_passed": [
+  "The company does not compete for customers in its territories, and in exchange its terms of service are regulated by the states.",
+  "No one can build a second distribution grid into its territory, and its $27.4 billion of power plant and wires could not be duplicated.",
+  "Its return on the capital it uses was around 7.5% in 2021, a steady regulated return.",
+  "Fuel and purchased-power cost swings are almost entirely passed on to customers."
+ ],
+ "why_not_now": "A regulator caps what this utility may earn, so the price is far above what that capped return justifies. At $84.95 a share the price is above the top of the analysis's value range of $41.25 to $65.33, and the best case earns about 4.07% a year, against 5.29% on a 30-year US Treasury bond.",
+ "watch": [
+  "Every price rise is a contested case: its Kansas request of $196 million ended at $128 million, and a Missouri decision is due January 2027.",
+  "Debt was $16.5 billion in mid-2026, about $1.8 billion of long-term debt falls due in 2027, and pre-tax earnings covered interest only about 2.5 times in 2025.",
+  "Wildfire insurance may not be enough, and Missouri or Kansas could pass retail-choice laws that would force write-offs."
+ ],
+ "value_low": 41.25,
+ "value_high": 65.33,
+ "utility": true,
+ "run_date": "2026-10-23",
+ "currency": "USD"
+}

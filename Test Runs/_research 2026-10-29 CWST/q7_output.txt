@@ -1,0 +1,15 @@
+2021 all-equity    45.1  equity-only    30.5  after purchases   -125.5  share of sales  5.1%
+2022 all-equity    73.4  equity-only    57.4  after purchases     -4.8  share of sales  6.8%
+2023 all-equity    96.0  equity-only    62.4  after purchases   -755.8  share of sales  7.6%
+2024 all-equity   104.4  equity-only    56.3  after purchases   -364.2  share of sales  6.7%
+2025 all-equity    92.5  equity-only    46.6  after purchases   -131.7  share of sales  5.0%
+5-yr mean all-equity 82.3; equity-only 50.6; purchases total 1793.4 vs owner cash before purchases 411.4 -> serial acquirer: True
+default pair (purchases deducted) mean -276.4
+organic growth mean 6.70%; shown growth of owner cash incl. bought growth 19.7%; sales CAGR 19.9%
+all-equity: range whole    1532 to    2619; per share    3.25 to   20.33; width 1.71x
+   fair price (each end at 10%, averaged)   -4.10 per share
+   expected return at $89.39 on the growth case 2.14%; no-growth case 1.17%
+equity-only: range whole     943 to    1612; per share   14.82 to   25.33; width 1.71x
+   fair price (each end at 10%, averaged)   10.29 per share
+   expected return at $89.39 on the growth case 1.64%; no-growth case 0.89%
+latest-year base all-equity 92.5: growth-case value per share 25.46

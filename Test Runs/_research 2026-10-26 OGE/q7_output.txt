@@ -1,0 +1,25 @@
+year  ocf_adj   M(maint)  A(all)   growth_spend
+2021    -303.3   -729.1  -1180.6    451.5
+2022    1152.9    682.3    -20.4    702.7
+2023    1232.3    712.6    -52.9    765.5
+2024     812.8    261.6   -360.1    621.7
+2025    1137.1    563.3     -3.5    566.8
+avg M 298.1  avg A -323.5  avg G 621.6  literal avg M 272.7  literal avg A -348.9
+halves of M: first two yrs -23.4, last two yrs 412.4
+LTD increase/yr 375.0; cap 46.8% x G = 290.7; credit = 290.7
+all-spending with credit: -32.8
+no-growth maintenance case at 5.33%: 5,594M = $27.08/sh  (with FSA settled: $27.40)
+no-growth maintenance case at 10.00%: 2,981M = $14.43/sh  (with FSA settled: $15.03)
+all-equity no-growth at 5.33%: (459.7/r - net debt 5842.3) = $13.47/sh
+all-equity no-growth at 10.00%: (459.7/r - net debt 5842.3) = $-6.03/sh
+market cap 10,001M; owner cash yield at price (no growth) 2.98%
+SENSITIVITY window base M=298.1 G=621.6 C=290.7 g=7.7% r=5.33%: 6,619M = $32.04/sh
+SENSITIVITY window base M=298.1 G=621.6 C=290.7 g=7.7% r=10.00%: 2,122M = $10.27/sh
+SENSITIVITY window base M=298.1 G=621.6 C=290.7 g=8.5% r=5.33%: 7,169M = $34.70/sh
+SENSITIVITY window base M=298.1 G=621.6 C=290.7 g=8.5% r=10.00%: 2,305M = $11.16/sh
+SENSITIVITY base without 2021 M=555.0 G=664.2 C=310.6 g=7.7% r=5.33%: 15,293M = $74.03/sh
+SENSITIVITY base without 2021 M=555.0 G=664.2 C=310.6 g=7.7% r=10.00%: 6,291M = $30.45/sh
+SENSITIVITY base without 2021 M=555.0 G=664.2 C=310.6 g=8.5% r=5.33%: 16,453M = $79.64/sh
+SENSITIVITY base without 2021 M=555.0 G=664.2 C=310.6 g=8.5% r=10.00%: 6,732M = $32.59/sh
+owner cash needed for 10% at price, no growth: 1,000M vs window 298.1
+FAIR (equity-only, central; range is the no-growth case alone): $14.43

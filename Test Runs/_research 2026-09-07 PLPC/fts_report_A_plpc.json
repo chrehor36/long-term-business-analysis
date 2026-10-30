@@ -1,0 +1,5004 @@
+{
+ "A_plpc": {
+  "phrase": "Preformed Line Products",
+  "allforms_status": 200,
+  "allforms_url": "https://efts.sec.gov/LATEST/search-index?q=%22Preformed%20Line%20Products%22",
+  "allforms_total": {
+   "value": 10000,
+   "relation": "gte"
+  },
+  "form_breakdown": [
+   [
+    "NPORT-P",
+    27471
+   ],
+   [
+    "13F-HR",
+    1868
+   ],
+   [
+    "N-PX",
+    1786
+   ],
+   [
+    "N-Q",
+    1777
+   ],
+   [
+    "N-CSR",
+    1767
+   ],
+   [
+    "N-CSRS",
+    1725
+   ],
+   [
+    "NPORT-EX",
+    990
+   ],
+   [
+    "4",
+    809
+   ],
+   [
+    "10-Q",
+    412
+   ],
+   [
+    "8-K",
+    325
+   ],
+   [
+    "10-K",
+    262
+   ],
+   [
+    "DEF 14A",
+    229
+   ],
+   [
+    "424B3",
+    104
+   ],
+   [
+    "SC 13G",
+    70
+   ],
+   [
+    "3",
+    38
+   ],
+   [
+    "11-K",
+    35
+   ],
+   [
+    "SC 13D",
+    35
+   ],
+   [
+    "PRE 14A",
+    29
+   ],
+   [
+    "N-14",
+    25
+   ],
+   [
+    "S-8",
+    22
+   ],
+   [
+    "497",
+    20
+   ],
+   [
+    "10-12G",
+    16
+   ],
+   [
+    "N-30D",
+    16
+   ],
+   [
+    "S-4",
+    16
+   ],
+   [
+    "SD",
+    16
+   ],
+   [
+    "485BPOS",
+    15
+   ],
+   [
+    "S-1",
+    13
+   ],
+   [
+    "UPLOAD",
+    12
+   ],
+   [
+    "CORRESP",
+    11
+   ],
+   [
+    "NT NPORT-P",
+    8
+   ]
+  ],
+  "substantive_total": {
+   "value": 1455,
+   "relation": "eq"
+  },
+  "windows": [
+   [
+    "2001",
+    {
+     "value": 21,
+     "relation": "eq"
+    },
+    2,
+    0
+   ],
+   [
+    "2002",
+    {
+     "value": 15,
+     "relation": "eq"
+    },
+    1,
+    0
+   ],
+   [
+    "2003",
+    {
+     "value": 33,
+     "relation": "eq"
+    },
+    2,
+    0
+   ],
+   [
+    "2004",
+    {
+     "value": 47,
+     "relation": "eq"
+    },
+    2,
+    0
+   ],
+   [
+    "2005",
+    {
+     "value": 44,
+     "relation": "eq"
+    },
+    4,
+    0
+   ],
+   [
+    "2006",
+    {
+     "value": 45,
+     "relation": "eq"
+    },
+    6,
+    0
+   ],
+   [
+    "2007",
+    {
+     "value": 49,
+     "relation": "eq"
+    },
+    5,
+    0
+   ],
+   [
+    "2008",
+    {
+     "value": 97,
+     "relation": "eq"
+    },
+    11,
+    0
+   ],
+   [
+    "2009",
+    {
+     "value": 60,
+     "relation": "eq"
+    },
+    11,
+    0
+   ],
+   [
+    "2010",
+    {
+     "value": 69,
+     "relation": "eq"
+    },
+    18,
+    0
+   ],
+   [
+    "2011",
+    {
+     "value": 58,
+     "relation": "eq"
+    },
+    15,
+    0
+   ],
+   [
+    "2012",
+    {
+     "value": 52,
+     "relation": "eq"
+    },
+    12,
+    0
+   ],
+   [
+    "2013",
+    {
+     "value": 155,
+     "relation": "eq"
+    },
+    17,
+    0
+   ],
+   [
+    "2014",
+    {
+     "value": 61,
+     "relation": "eq"
+    },
+    16,
+    0
+   ],
+   [
+    "2015",
+    {
+     "value": 55,
+     "relation": "eq"
+    },
+    11,
+    0
+   ],
+   [
+    "2016",
+    {
+     "value": 56,
+     "relation": "eq"
+    },
+    8,
+    0
+   ],
+   [
+    "2017",
+    {
+     "value": 52,
+     "relation": "eq"
+    },
+    11,
+    0
+   ],
+   [
+    "2018",
+    {
+     "value": 48,
+     "relation": "eq"
+    },
+    10,
+    0
+   ],
+   [
+    "2019",
+    {
+     "value": 54,
+     "relation": "eq"
+    },
+    12,
+    0
+   ],
+   [
+    "2020",
+    {
+     "value": 61,
+     "relation": "eq"
+    },
+    15,
+    0
+   ],
+   [
+    "2021",
+    {
+     "value": 54,
+     "relation": "eq"
+    },
+    15,
+    0
+   ],
+   [
+    "2022",
+    {
+     "value": 61,
+     "relation": "eq"
+    },
+    15,
+    0
+   ],
+   [
+    "2023",
+    {
+     "value": 52,
+     "relation": "eq"
+    },
+    12,
+    0
+   ],
+   [
+    "2024",
+    {
+     "value": 49,
+     "relation": "eq"
+    },
+    10,
+    0
+   ],
+   [
+    "2025",
+    {
+     "value": 54,
+     "relation": "eq"
+    },
+    12,
+    0
+   ],
+   [
+    "2026",
+    {
+     "value": 53,
+     "relation": "eq"
+    },
+    14,
+    0
+   ]
+  ],
+  "registrants": {
+   "0002092592": {
+    "name": "Evernorth Holdings Inc.  (CIK 0002092592)",
+    "count": 8,
+    "filings": [
+     {
+      "form": "424B3",
+      "date": "2026-08-27",
+      "adsh": "0001193125-26-371512",
+      "file_type": "424B3",
+      "doc": "d944435d424b3.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2026-08-13",
+      "adsh": "0001193125-26-347519",
+      "file_type": "S-4/A",
+      "doc": "d944435ds4a.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2026-07-29",
+      "adsh": "0001193125-26-324183",
+      "file_type": "S-4/A",
+      "doc": "d944435ds4a.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2026-07-13",
+      "adsh": "0001193125-26-302124",
+      "file_type": "S-4/A",
+      "doc": "d944435ds4a.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2026-05-29",
+      "adsh": "0001193125-26-248718",
+      "file_type": "S-4/A",
+      "doc": "d944435ds4a.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2026-04-28",
+      "adsh": "0001193125-26-183116",
+      "file_type": "S-4/A",
+      "doc": "d944435ds4a.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2026-04-07",
+      "adsh": "0001193125-26-145587",
+      "file_type": "S-4/A",
+      "doc": "d944435ds4a.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     },
+     {
+      "form": "S-4",
+      "date": "2026-03-18",
+      "adsh": "0001193125-26-114155",
+      "file_type": "S-4",
+      "doc": "d944435ds4.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     }
+    ]
+   },
+   "0002092032": {
+    "name": "Pathfinder Digital Assets LLC  (CIK 0002092032)",
+    "count": 7,
+    "filings": [
+     {
+      "form": "S-4/A",
+      "date": "2026-08-13",
+      "adsh": "0001193125-26-347519",
+      "file_type": "S-4/A",
+      "doc": "d944435ds4a.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2026-07-29",
+      "adsh": "0001193125-26-324183",
+      "file_type": "S-4/A",
+      "doc": "d944435ds4a.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2026-07-13",
+      "adsh": "0001193125-26-302124",
+      "file_type": "S-4/A",
+      "doc": "d944435ds4a.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2026-05-29",
+      "adsh": "0001193125-26-248718",
+      "file_type": "S-4/A",
+      "doc": "d944435ds4a.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2026-04-28",
+      "adsh": "0001193125-26-183116",
+      "file_type": "S-4/A",
+      "doc": "d944435ds4a.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2026-04-07",
+      "adsh": "0001193125-26-145587",
+      "file_type": "S-4/A",
+      "doc": "d944435ds4a.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     },
+     {
+      "form": "S-4",
+      "date": "2026-03-18",
+      "adsh": "0001193125-26-114155",
+      "file_type": "S-4",
+      "doc": "d944435ds4.htm",
+      "sic": "6221",
+      "name": "Evernorth Holdings Inc.  (CIK 0002092592)"
+     }
+    ]
+   },
+   "0001409375": {
+    "name": "ORION ENERGY SYSTEMS, INC.  (OESX)  (CIK 0001409375)",
+    "count": 5,
+    "filings": [
+     {
+      "form": "424B4",
+      "date": "2007-12-19",
+      "adsh": "0000950137-07-018686",
+      "file_type": "424B4",
+      "doc": "n17612b4e424b4.htm",
+      "sic": "3640",
+      "name": "ORION ENERGY SYSTEMS, INC.  (OESX)  (CIK 0001409375)"
+     },
+     {
+      "form": "S-1/A",
+      "date": "2007-12-12",
+      "adsh": "0000950137-07-018437",
+      "file_type": "S-1/A",
+      "doc": "n17612a5sv1za.htm",
+      "sic": "3640",
+      "name": "ORION ENERGY SYSTEMS, INC.  (OESX)  (CIK 0001409375)"
+     },
+     {
+      "form": "S-1/A",
+      "date": "2007-11-29",
+      "adsh": "0000950137-07-017934",
+      "file_type": "S-1/A",
+      "doc": "n17612a4sv1za.htm",
+      "sic": "3640",
+      "name": "ORION ENERGY SYSTEMS, INC.  (OESX)  (CIK 0001409375)"
+     },
+     {
+      "form": "S-1/A",
+      "date": "2007-11-16",
+      "adsh": "0000950137-07-017353",
+      "file_type": "S-1/A",
+      "doc": "c17612a3sv1za.htm",
+      "sic": "3640",
+      "name": "ORION ENERGY SYSTEMS, INC.  (OESX)  (CIK 0001409375)"
+     },
+     {
+      "form": "S-1/A",
+      "date": "2007-10-30",
+      "adsh": "0000950137-07-016175",
+      "file_type": "S-1/A",
+      "doc": "c17612a2sv1za.htm",
+      "sic": "3640",
+      "name": "ORION ENERGY SYSTEMS, INC.  (OESX)  (CIK 0001409375)"
+     }
+    ]
+   },
+   "0001282266": {
+    "name": "VALOR COMMUNICATIONS GROUP INC  (CIK 0001282266)",
+    "count": 3,
+    "filings": [
+     {
+      "form": "424B3",
+      "date": "2006-05-26",
+      "adsh": "0000950123-06-007042",
+      "file_type": "424B3",
+      "doc": "y16996b3e424b3.htm",
+      "sic": "4813",
+      "name": "VALOR COMMUNICATIONS GROUP INC  (CIK 0001282266)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2006-05-23",
+      "adsh": "0000950123-06-006839",
+      "file_type": "S-4/A",
+      "doc": "y16996a3sv4za.htm",
+      "sic": "4813",
+      "name": "VALOR COMMUNICATIONS GROUP INC  (CIK 0001282266)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2006-05-02",
+      "adsh": "0000950123-06-005605",
+      "file_type": "S-4/A",
+      "doc": "y16996a2sv4za.htm",
+      "sic": "4813",
+      "name": "VALOR COMMUNICATIONS GROUP INC  (CIK 0001282266)"
+     }
+    ]
+   },
+   "0001000230": {
+    "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)",
+    "count": 3,
+    "filings": [
+     {
+      "form": "10-Q",
+      "date": "2015-09-11",
+      "adsh": "0001437749-15-017172",
+      "file_type": "10-Q",
+      "doc": "occ20150731_10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2015-06-12",
+      "adsh": "0001437749-15-012211",
+      "file_type": "10-Q",
+      "doc": "occ20150430_10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2015-03-10",
+      "adsh": "0001437749-15-004601",
+      "file_type": "10-Q",
+      "doc": "occ20150131_10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-K",
+      "date": "2014-12-19",
+      "adsh": "0001437749-14-022335",
+      "file_type": "10-K",
+      "doc": "occ20141031_10k.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2014-09-10",
+      "adsh": "0001437749-14-016800",
+      "file_type": "10-Q",
+      "doc": "occ20140731_10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2014-06-11",
+      "adsh": "0001437749-14-011010",
+      "file_type": "10-Q",
+      "doc": "occ20140131_10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2014-03-17",
+      "adsh": "0001000230-14-000010",
+      "file_type": "10-Q",
+      "doc": "a20140131q1occ.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-K",
+      "date": "2013-12-20",
+      "adsh": "0001000230-13-000016",
+      "file_type": "10-K",
+      "doc": "occ-20131031x10k.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2013-09-12",
+      "adsh": "0001000230-13-000006",
+      "file_type": "10-Q",
+      "doc": "a20130731q3occ.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2013-06-12",
+      "adsh": "0001193125-13-255866",
+      "file_type": "10-Q",
+      "doc": "d550527d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2013-03-15",
+      "adsh": "0001193125-13-109588",
+      "file_type": "10-Q",
+      "doc": "d499109d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-K",
+      "date": "2012-12-21",
+      "adsh": "0001193125-12-511683",
+      "file_type": "10-K",
+      "doc": "d456364d10k.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2012-09-10",
+      "adsh": "0001193125-12-386554",
+      "file_type": "10-Q",
+      "doc": "d406982d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2012-06-08",
+      "adsh": "0001193125-12-264665",
+      "file_type": "10-Q",
+      "doc": "d359928d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2012-03-12",
+      "adsh": "0001193125-12-109894",
+      "file_type": "10-Q",
+      "doc": "d313124d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-K",
+      "date": "2012-01-26",
+      "adsh": "0001193125-12-025266",
+      "file_type": "10-K",
+      "doc": "d287365d10k.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2011-09-12",
+      "adsh": "0001193125-11-245791",
+      "file_type": "10-Q",
+      "doc": "d228112d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2011-06-14",
+      "adsh": "0001193125-11-164766",
+      "file_type": "10-Q",
+      "doc": "d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2011-03-17",
+      "adsh": "0001193125-11-069804",
+      "file_type": "10-Q",
+      "doc": "d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-K",
+      "date": "2011-01-24",
+      "adsh": "0001193125-11-012997",
+      "file_type": "10-K",
+      "doc": "d10k.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-K",
+      "date": "2011-01-24",
+      "adsh": "0001193125-11-012997",
+      "file_type": "EX-13.1",
+      "doc": "dex131.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2010-09-14",
+      "adsh": "0001193125-10-209527",
+      "file_type": "10-Q",
+      "doc": "d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2010-06-14",
+      "adsh": "0001193125-10-138939",
+      "file_type": "10-Q",
+      "doc": "d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2010-03-17",
+      "adsh": "0001193125-10-059637",
+      "file_type": "10-Q",
+      "doc": "d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-K",
+      "date": "2010-01-29",
+      "adsh": "0001193125-10-017031",
+      "file_type": "10-K",
+      "doc": "d10k.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-K",
+      "date": "2010-01-29",
+      "adsh": "0001193125-10-017031",
+      "file_type": "EX-13.1",
+      "doc": "dex131.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2009-09-11",
+      "adsh": "0001193125-09-190675",
+      "file_type": "10-Q",
+      "doc": "d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "8-K/A",
+      "date": "2009-07-21",
+      "adsh": "0001193125-09-152255",
+      "file_type": "EX-99.1",
+      "doc": "dex991.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "8-K/A",
+      "date": "2009-07-21",
+      "adsh": "0001193125-09-152255",
+      "file_type": "EX-23.1",
+      "doc": "dex231.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2009-06-12",
+      "adsh": "0001193125-09-130117",
+      "file_type": "10-Q",
+      "doc": "d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2009-03-16",
+      "adsh": "0001193125-09-055521",
+      "file_type": "10-Q",
+      "doc": "d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-K",
+      "date": "2009-01-29",
+      "adsh": "0001193125-09-014313",
+      "file_type": "10-K",
+      "doc": "d10k.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-K",
+      "date": "2009-01-29",
+      "adsh": "0001193125-09-014313",
+      "file_type": "EX-13.1",
+      "doc": "dex131.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-K",
+      "date": "2009-01-29",
+      "adsh": "0001193125-09-014313",
+      "file_type": "EX-4.16",
+      "doc": "dex416.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2008-09-15",
+      "adsh": "0001193125-08-196097",
+      "file_type": "10-Q",
+      "doc": "d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "8-K",
+      "date": "2008-06-17",
+      "adsh": "0001193125-08-135271",
+      "file_type": "EX-99.2",
+      "doc": "dex992.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "10-Q",
+      "date": "2008-06-13",
+      "adsh": "0001193125-08-133633",
+      "file_type": "10-Q",
+      "doc": "d10q.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "8-K",
+      "date": "2008-06-02",
+      "adsh": "0001193125-08-126165",
+      "file_type": "8-K",
+      "doc": "d8k.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "8-K",
+      "date": "2008-06-02",
+      "adsh": "0001193125-08-126165",
+      "file_type": "EX-99.1",
+      "doc": "dex991.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     },
+     {
+      "form": "8-K",
+      "date": "2008-06-02",
+      "adsh": "0001193125-08-126165",
+      "file_type": "EX-2.1",
+      "doc": "dex21.htm",
+      "sic": "3357",
+      "name": "OPTICAL CABLE CORP  (OCC)  (CIK 0001000230)"
+     }
+    ]
+   },
+   "0000003197": {
+    "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)",
+    "count": 3,
+    "filings": [
+     {
+      "form": "424B3",
+      "date": "2026-04-23",
+      "adsh": "0001104659-26-047714",
+      "file_type": "424B3",
+      "doc": "tm2611145-7_424b3.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2026-04-21",
+      "adsh": "0001104659-26-046151",
+      "file_type": "S-4/A",
+      "doc": "tm2611145-3_s4a.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "S-4",
+      "date": "2026-04-08",
+      "adsh": "0001104659-26-040556",
+      "file_type": "S-4",
+      "doc": "tm2611145-1_s4.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2025-04-10",
+      "adsh": "0001558370-25-004649",
+      "file_type": "DEF 14A",
+      "doc": "ceco-20250520xdef14a.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2024-04-10",
+      "adsh": "0001558370-24-004904",
+      "file_type": "DEF 14A",
+      "doc": "ceco-20240520xdef14a.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2024-03-22",
+      "adsh": "0001558370-24-003778",
+      "file_type": "PRE 14A",
+      "doc": "ceco-20240520xpre14a.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "10-K",
+      "date": "2024-03-05",
+      "adsh": "0000950170-24-025511",
+      "file_type": "EX-10.33",
+      "doc": "ceco-ex10_33.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2023-04-24",
+      "adsh": "0001558370-23-006483",
+      "file_type": "DEF 14A",
+      "doc": "ceco-20230605xdef14a.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2022-04-29",
+      "adsh": "0001193125-22-131610",
+      "file_type": "DEF 14A",
+      "doc": "d779550ddef14a.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2021-04-15",
+      "adsh": "0001193125-21-117463",
+      "file_type": "DEF 14A",
+      "doc": "d116097ddef14a.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2020-04-24",
+      "adsh": "0001193125-20-118965",
+      "file_type": "DEF 14A",
+      "doc": "d867931ddef14a.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2019-04-24",
+      "adsh": "0001193125-19-115860",
+      "file_type": "DEF 14A",
+      "doc": "d730754ddef14a.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2018-04-27",
+      "adsh": "0001193125-18-138083",
+      "file_type": "DEF 14A",
+      "doc": "d566011ddef14a.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2017-04-04",
+      "adsh": "0001193125-17-109665",
+      "file_type": "DEF 14A",
+      "doc": "d387148ddef14a.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2016-04-01",
+      "adsh": "0001193125-16-527716",
+      "file_type": "DEF 14A",
+      "doc": "d316126ddef14a.htm",
+      "sic": "3564",
+      "name": "CECO ENVIRONMENTAL CORP  (CECO)  (CIK 0000003197)"
+     }
+    ]
+   },
+   "0001637655": {
+    "name": "Horizon Global Corp  (CIK 0001637655)",
+    "count": 3,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2019-05-24",
+      "adsh": "0001637655-19-000105",
+      "file_type": "DEF 14A",
+      "doc": "hzn2019proxy.htm",
+      "sic": "3714",
+      "name": "Horizon Global Corp  (CIK 0001637655)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2019-05-01",
+      "adsh": "0001637655-19-000074",
+      "file_type": "PRE 14A",
+      "doc": "hzn2019preliminaryproxy.htm",
+      "sic": "3714",
+      "name": "Horizon Global Corp  (CIK 0001637655)"
+     },
+     {
+      "form": "10-K/A",
+      "date": "2019-04-30",
+      "adsh": "0001637655-19-000071",
+      "file_type": "EX-99.1",
+      "doc": "exhibit991rtsrpeergroup.htm",
+      "sic": "3714",
+      "name": "Horizon Global Corp  (CIK 0001637655)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2017-04-04",
+      "adsh": "0001637655-17-000022",
+      "file_type": "DEF 14A",
+      "doc": "hzn-2017proxy.htm",
+      "sic": "3714",
+      "name": "Horizon Global Corp  (CIK 0001637655)"
+     },
+     {
+      "form": "10-K",
+      "date": "2017-03-10",
+      "adsh": "0001637655-17-000010",
+      "file_type": "10-K",
+      "doc": "hzn201610-k.htm",
+      "sic": "3714",
+      "name": "Horizon Global Corp  (CIK 0001637655)"
+     }
+    ]
+   },
+   "0000065873": {
+    "name": "ALLTEL CORP  (CIK 0000065873)",
+    "count": 2,
+    "filings": [
+     {
+      "form": "S-1/A",
+      "date": "2006-05-23",
+      "adsh": "0000950123-06-006841",
+      "file_type": "S-1/A",
+      "doc": "y20401a1sv1za.htm",
+      "sic": "4812",
+      "name": "Alltel Holding Corp  (CIK 0001362222)"
+     },
+     {
+      "form": "S-1",
+      "date": "2006-05-02",
+      "adsh": "0000950123-06-005609",
+      "file_type": "S-1",
+      "doc": "y20401sv1.htm",
+      "sic": "4812",
+      "name": "ALLTEL CORP  (CIK 0000065873)"
+     }
+    ]
+   },
+   "0001362222": {
+    "name": "Alltel Holding Corp  (CIK 0001362222)",
+    "count": 2,
+    "filings": [
+     {
+      "form": "424B3",
+      "date": "2006-05-26",
+      "adsh": "0000950123-06-007046",
+      "file_type": "424B3",
+      "doc": "y16996bbe424b3.htm",
+      "sic": null,
+      "name": "Alltel Holding Corp  (CIK 0001362222)"
+     },
+     {
+      "form": "S-1/A",
+      "date": "2006-05-23",
+      "adsh": "0000950123-06-006841",
+      "file_type": "S-1/A",
+      "doc": "y20401a1sv1za.htm",
+      "sic": "4812",
+      "name": "Alltel Holding Corp  (CIK 0001362222)"
+     }
+    ]
+   },
+   "0001383571": {
+    "name": "GLOBE SPECIALTY METALS INC  (CIK 0001383571)",
+    "count": 2,
+    "filings": [
+     {
+      "form": "S-1/A",
+      "date": "2008-11-04",
+      "adsh": "0000950123-08-014250",
+      "file_type": "S-1/A",
+      "doc": "y62104a1sv1za.htm",
+      "sic": "3330",
+      "name": "GLOBE SPECIALTY METALS INC  (CIK 0001383571)"
+     },
+     {
+      "form": "S-1",
+      "date": "2008-07-25",
+      "adsh": "0000950123-08-008297",
+      "file_type": "S-1",
+      "doc": "y62104sv1.htm",
+      "sic": null,
+      "name": "GLOBE SPECIALTY METALS INC  (CIK 0001383571)"
+     }
+    ]
+   },
+   "0000048287": {
+    "name": "HNI CORP  (HNI)  (CIK 0000048287)",
+    "count": 2,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2009-03-30",
+      "adsh": "0000048287-09-000018",
+      "file_type": "DEF 14A",
+      "doc": "rdef14a.htm",
+      "sic": "2522",
+      "name": "HNI CORP  (HNI)  (CIK 0000048287)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2009-03-30",
+      "adsh": "0000048287-09-000018",
+      "file_type": "DEF 14A",
+      "doc": "rdef14a.pdf",
+      "sic": "2522",
+      "name": "HNI CORP  (HNI)  (CIK 0000048287)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2008-03-19",
+      "adsh": "0000048287-08-000018",
+      "file_type": "DEF 14A",
+      "doc": "r2008proxy.pdf",
+      "sic": "2522",
+      "name": "HNI CORP  (HNI)  (CIK 0000048287)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2008-03-19",
+      "adsh": "0000048287-08-000018",
+      "file_type": "DEF 14A",
+      "doc": "r2008proxy.htm",
+      "sic": "2522",
+      "name": "HNI CORP  (HNI)  (CIK 0000048287)"
+     }
+    ]
+   },
+   "0000749872": {
+    "name": "BARRY R G CORP /OH/  (CIK 0000749872)",
+    "count": 2,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2010-09-20",
+      "adsh": "0000950123-10-087306",
+      "file_type": "DEF 14A",
+      "doc": "l40664adef14a.htm",
+      "sic": "3140",
+      "name": "BARRY R G CORP /OH/  (CIK 0000749872)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2010-09-10",
+      "adsh": "0000950123-10-085300",
+      "file_type": "PRE 14A",
+      "doc": "l40664pre14a.htm",
+      "sic": "3140",
+      "name": "BARRY R G CORP /OH/  (CIK 0000749872)"
+     }
+    ]
+   },
+   "0000874238": {
+    "name": "STERLING CONSTRUCTION CO INC  (STRL)  (CIK 0000874238)",
+    "count": 2,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2014-04-09",
+      "adsh": "0001171843-14-001638",
+      "file_type": "DEF 14A",
+      "doc": "def14a_040914.htm",
+      "sic": "1600",
+      "name": "STERLING CONSTRUCTION CO INC  (STRL)  (CIK 0000874238)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2014-02-28",
+      "adsh": "0001171843-14-001042",
+      "file_type": "PRE 14A",
+      "doc": "pre14a_022814.htm",
+      "sic": "1600",
+      "name": "STERLING CONSTRUCTION CO INC  (STRL)  (CIK 0000874238)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2013-03-28",
+      "adsh": "0001171843-13-001161",
+      "file_type": "DEF 14A",
+      "doc": "def14a_032813.htm",
+      "sic": "1600",
+      "name": "STERLING CONSTRUCTION CO INC  (STRL)  (CIK 0000874238)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2012-03-28",
+      "adsh": "0001140361-12-017789",
+      "file_type": "DEF 14A",
+      "doc": "formdef14a.htm",
+      "sic": "1600",
+      "name": "STERLING CONSTRUCTION CO INC  (STRL)  (CIK 0000874238)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2011-03-25",
+      "adsh": "0000874238-11-000010",
+      "file_type": "DEF 14A",
+      "doc": "proxystatement14-a.htm",
+      "sic": "1600",
+      "name": "STERLING CONSTRUCTION CO INC  (STRL)  (CIK 0000874238)"
+     }
+    ]
+   },
+   "0001400431": {
+    "name": "PATHEON INC  (CIK 0001400431)",
+    "count": 2,
+    "filings": [
+     {
+      "form": "10-K/A",
+      "date": "2014-02-21",
+      "adsh": "0001193125-14-063003",
+      "file_type": "10-K/A",
+      "doc": "d681434d10ka.htm",
+      "sic": "2834",
+      "name": "PATHEON INC  (CIK 0001400431)"
+     },
+     {
+      "form": "DEFM14A",
+      "date": "2014-02-04",
+      "adsh": "0001193125-14-035065",
+      "file_type": "DEFM14A",
+      "doc": "d638945ddefm14a.htm",
+      "sic": "2834",
+      "name": "PATHEON INC  (CIK 0001400431)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2013-02-26",
+      "adsh": "0001193125-13-076706",
+      "file_type": "DEF 14A",
+      "doc": "d484604ddef14a.htm",
+      "sic": "2834",
+      "name": "PATHEON INC  (CIK 0001400431)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2013-02-12",
+      "adsh": "0001193125-13-051496",
+      "file_type": "PRE 14A",
+      "doc": "d484604dpre14a.htm",
+      "sic": "2834",
+      "name": "PATHEON INC  (CIK 0001400431)"
+     }
+    ]
+   },
+   "0001285785": {
+    "name": "MOSAIC CO  (MOS)  (CIK 0001285785)",
+    "count": 2,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2016-04-06",
+      "adsh": "0001243786-16-000271",
+      "file_type": "DEF 14A",
+      "doc": "a2016proxystatementfinal.htm",
+      "sic": "2870",
+      "name": "MOSAIC CO  (MOS)  (CIK 0001285785)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2016-03-18",
+      "adsh": "0001243786-16-000267",
+      "file_type": "PRE 14A",
+      "doc": "a2016proxystatement.htm",
+      "sic": "2870",
+      "name": "MOSAIC CO  (MOS)  (CIK 0001285785)"
+     }
+    ]
+   },
+   "0001403431": {
+    "name": "Heritage-Crystal Clean, Inc.  (CIK 0001403431)",
+    "count": 2,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2023-05-01",
+      "adsh": "0001403431-23-000023",
+      "file_type": "DEF 14A",
+      "doc": "hcci-20230501.htm",
+      "sic": "4950",
+      "name": "Heritage-Crystal Clean, Inc.  (CIK 0001403431)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2023-04-21",
+      "adsh": "0001403431-23-000021",
+      "file_type": "PRE 14A",
+      "doc": "hcci-20230421.htm",
+      "sic": "4950",
+      "name": "Heritage-Crystal Clean, Inc.  (CIK 0001403431)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2022-03-22",
+      "adsh": "0001403431-22-000032",
+      "file_type": "DEF 14A",
+      "doc": "proxystatement2022.htm",
+      "sic": "4950",
+      "name": "Heritage-Crystal Clean, Inc.  (CIK 0001403431)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2021-03-23",
+      "adsh": "0001403431-21-000041",
+      "file_type": "DEF 14A",
+      "doc": "def14a2021.htm",
+      "sic": "4950",
+      "name": "Heritage-Crystal Clean, Inc.  (CIK 0001403431)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2020-03-19",
+      "adsh": "0001403431-20-000036",
+      "file_type": "DEF 14A",
+      "doc": "proxystatement2020.htm",
+      "sic": "4950",
+      "name": "Heritage-Crystal Clean, Inc.  (CIK 0001403431)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2019-03-22",
+      "adsh": "0001403431-19-000041",
+      "file_type": "DEF 14A",
+      "doc": "proxystatement20191.htm",
+      "sic": "4950",
+      "name": "Heritage-Crystal Clean, Inc.  (CIK 0001403431)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2019-03-12",
+      "adsh": "0001403431-19-000037",
+      "file_type": "PRE 14A",
+      "doc": "proxystatement2019.htm",
+      "sic": "4950",
+      "name": "Heritage-Crystal Clean, Inc.  (CIK 0001403431)"
+     }
+    ]
+   },
+   "0000742112": {
+    "name": "INVACARE CORP  (CIK 0000742112)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2001-04-16",
+      "adsh": "0000742112-01-000008",
+      "file_type": "DEF 14A",
+      "doc": "0001.txt",
+      "sic": "3842",
+      "name": "INVACARE CORP  (CIK 0000742112)"
+     }
+    ]
+   },
+   "0000061478": {
+    "name": "ADC TELECOMMUNICATIONS INC  (CIK 0000061478)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "8-K",
+      "date": "2003-12-02",
+      "adsh": "0001157523-03-007030",
+      "file_type": "EX-99",
+      "doc": "a4526533_ex991.txt",
+      "sic": "3661",
+      "name": "ADC TELECOMMUNICATIONS INC  (CIK 0000061478)"
+     }
+    ]
+   },
+   "0001129981": {
+    "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "10-K",
+      "date": "2006-03-17",
+      "adsh": "0001193125-06-058235",
+      "file_type": "10-K",
+      "doc": "d10k.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2005-06-30",
+      "adsh": "0001193125-05-135879",
+      "file_type": "DEF 14A",
+      "doc": "ddef14a.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "424B3",
+      "date": "2005-04-08",
+      "adsh": "0000950152-05-003041",
+      "file_type": "424B3",
+      "doc": "l09521he424b3.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "S-1/A",
+      "date": "2005-04-07",
+      "adsh": "0000950152-05-003005",
+      "file_type": "S-1/A",
+      "doc": "l09521csv1za.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "10-K/A",
+      "date": "2005-04-06",
+      "adsh": "0001193125-05-071078",
+      "file_type": "10-K/A",
+      "doc": "d10ka.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "10-K",
+      "date": "2005-03-31",
+      "adsh": "0001193125-05-065638",
+      "file_type": "10-K",
+      "doc": "d10k.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "424B3",
+      "date": "2005-01-31",
+      "adsh": "0000950152-05-000615",
+      "file_type": "424B3",
+      "doc": "l11326ae424b3.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "S-1",
+      "date": "2005-01-27",
+      "adsh": "0000950152-05-000548",
+      "file_type": "S-1",
+      "doc": "l09521bsv1.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "424B3",
+      "date": "2004-12-27",
+      "adsh": "0000950152-04-009172",
+      "file_type": "424B3",
+      "doc": "l11161be424b3.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "S-1/A",
+      "date": "2004-12-21",
+      "adsh": "0000950152-04-009078",
+      "file_type": "S-1/A",
+      "doc": "l06892fsv1za.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "S-1/A",
+      "date": "2004-11-19",
+      "adsh": "0000950152-04-008474",
+      "file_type": "S-1/A",
+      "doc": "l06892csv1za.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "8-K",
+      "date": "2004-08-11",
+      "adsh": "0001193125-04-137602",
+      "file_type": "EX-99.1",
+      "doc": "dex991.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "8-K",
+      "date": "2004-08-11",
+      "adsh": "0001193125-04-137602",
+      "file_type": "EX-99.2",
+      "doc": "dex992.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "8-K",
+      "date": "2004-07-08",
+      "adsh": "0001193125-04-115480",
+      "file_type": "EX-99.1",
+      "doc": "dex991.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "8-K",
+      "date": "2004-06-02",
+      "adsh": "0001193125-04-097402",
+      "file_type": "EX-99.2",
+      "doc": "dex992.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     },
+     {
+      "form": "S-1",
+      "date": "2004-05-14",
+      "adsh": "0000950152-04-004042",
+      "file_type": "S-1",
+      "doc": "l06892asv1.htm",
+      "sic": "1400",
+      "name": "OGLEBAY NORTON CO /OHIO/  (CIK 0001129981)"
+     }
+    ]
+   },
+   "0000949157": {
+    "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "10-K/A",
+      "date": "2014-04-30",
+      "adsh": "0000949157-14-000017",
+      "file_type": "10-K/A",
+      "doc": "a201310-ka12312013.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2013-07-30",
+      "adsh": "0000949157-13-000053",
+      "file_type": "DEF 14A",
+      "doc": "a14-ascheduleproxydef2013.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "10-K/A",
+      "date": "2013-04-30",
+      "adsh": "0000949157-13-000032",
+      "file_type": "10-K/A",
+      "doc": "a201210-ka12312012.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2012-08-03",
+      "adsh": "0000949157-12-000048",
+      "file_type": "DEF 14A",
+      "doc": "a14-ascheduleproxydef2012.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2012-07-23",
+      "adsh": "0000949157-12-000040",
+      "file_type": "PRE 14A",
+      "doc": "a14-ascheduleproxy.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "10-K/A",
+      "date": "2012-04-30",
+      "adsh": "0000949157-12-000028",
+      "file_type": "10-K/A",
+      "doc": "form10ka-20120430.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2011-04-25",
+      "adsh": "0000949157-11-000026",
+      "file_type": "DEF 14A",
+      "doc": "def14a-20110415.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2010-04-21",
+      "adsh": "0000949157-10-000023",
+      "file_type": "DEF 14A",
+      "doc": "def14a-20100426.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2009-04-13",
+      "adsh": "0000949157-09-000028",
+      "file_type": "DEF 14A",
+      "doc": "def14a-2009.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2009-03-31",
+      "adsh": "0000949157-09-000021",
+      "file_type": "PRE 14A",
+      "doc": "def14a-2009.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2008-04-29",
+      "adsh": "0000949157-08-000023",
+      "file_type": "DEF 14A",
+      "doc": "schedule14a-20080429.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "424B5",
+      "date": "2007-06-08",
+      "adsh": "0000950134-07-013162",
+      "file_type": "424B5",
+      "doc": "y35219b5e424b5.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "424B5",
+      "date": "2007-05-29",
+      "adsh": "0000950149-07-000160",
+      "file_type": "424B5",
+      "doc": "y35219b5e424b5.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2007-04-23",
+      "adsh": "0000949157-07-000018",
+      "file_type": "DEF 14A",
+      "doc": "century_proxy.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2005-07-15",
+      "adsh": "0000950123-05-008552",
+      "file_type": "DEF 14A",
+      "doc": "y10833def14a.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2005-07-01",
+      "adsh": "0000950123-05-008123",
+      "file_type": "PRE 14A",
+      "doc": "y09803pre14a.htm",
+      "sic": "3334",
+      "name": "CENTURY ALUMINUM CO  (CENX)  (CIK 0000949157)"
+     }
+    ]
+   },
+   "0000895456": {
+    "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2022-04-20",
+      "adsh": "0001437749-22-009294",
+      "file_type": "DEF 14A",
+      "doc": "rcky20220413_def14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2021-04-21",
+      "adsh": "0001437749-21-009437",
+      "file_type": "DEF 14A",
+      "doc": "rcky20210419_def14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2020-05-14",
+      "adsh": "0000895456-20-000025",
+      "file_type": "DEF 14A",
+      "doc": "rcky-20200514xdef14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "10-K/A",
+      "date": "2020-04-28",
+      "adsh": "0000895456-20-000016",
+      "file_type": "10-K/A",
+      "doc": "rcky-20191231x10ka.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2019-04-18",
+      "adsh": "0000895456-19-000019",
+      "file_type": "DEF 14A",
+      "doc": "rcky-20190418xdef14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2018-04-16",
+      "adsh": "0000895456-18-000014",
+      "file_type": "DEF 14A",
+      "doc": "rcky-20180416xdef14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2017-04-17",
+      "adsh": "0001144204-17-020708",
+      "file_type": "DEF 14A",
+      "doc": "v464226_def14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2016-04-13",
+      "adsh": "0001144204-16-094059",
+      "file_type": "DEF 14A",
+      "doc": "v436819_def14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2015-04-14",
+      "adsh": "0001144204-15-022683",
+      "file_type": "DEF 14A",
+      "doc": "v407022_def14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2014-04-07",
+      "adsh": "0001144204-14-021185",
+      "file_type": "DEF 14A",
+      "doc": "v373718_def14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2013-04-08",
+      "adsh": "0001144204-13-020631",
+      "file_type": "DEF 14A",
+      "doc": "v340698_def14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2012-04-09",
+      "adsh": "0001144204-12-020688",
+      "file_type": "DEF 14A",
+      "doc": "v308172_def14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2011-04-26",
+      "adsh": "0001144204-11-024003",
+      "file_type": "DEF 14A",
+      "doc": "v219659_def14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "CORRESP",
+      "date": "2010-11-23",
+      "adsh": "0001144204-10-063157",
+      "file_type": "CORRESP",
+      "doc": "filename1.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2010-04-23",
+      "adsh": "0001144204-10-021894",
+      "file_type": "DEF 14A",
+      "doc": "v181934_def14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2009-04-20",
+      "adsh": "0001144204-09-021434",
+      "file_type": "DEF 14A",
+      "doc": "v146669_def14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2008-04-28",
+      "adsh": "0000950152-08-003097",
+      "file_type": "DEF 14A",
+      "doc": "l31124adef14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2007-04-23",
+      "adsh": "0000950152-07-003412",
+      "file_type": "DEF 14A",
+      "doc": "l25736adef14a.htm",
+      "sic": "3140",
+      "name": "ROCKY BRANDS, INC.  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2006-04-12",
+      "adsh": "0000950152-06-003138",
+      "file_type": "DEF 14A",
+      "doc": "l19423bdef14a.txt",
+      "sic": "3140",
+      "name": "ROCKY SHOES & BOOTS INC  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2006-03-31",
+      "adsh": "0000950152-06-002818",
+      "file_type": "PRE 14A",
+      "doc": "l19423apre14a.txt",
+      "sic": "3140",
+      "name": "ROCKY SHOES & BOOTS INC  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "S-3",
+      "date": "2005-09-15",
+      "adsh": "0000950123-05-011115",
+      "file_type": "S-3",
+      "doc": "l15966asv3.htm",
+      "sic": "3140",
+      "name": "ROCKY SHOES & BOOTS INC  (RCKY)  (CIK 0000895456)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2005-04-15",
+      "adsh": "0000950152-05-003184",
+      "file_type": "DEF 14A",
+      "doc": "l13237adef14a.txt",
+      "sic": "3140",
+      "name": "ROCKY SHOES & BOOTS INC  (RCKY)  (CIK 0000895456)"
+     }
+    ]
+   },
+   "0000751085": {
+    "name": "MAGNETEK, INC.  (CIK 0000751085)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2007-09-17",
+      "adsh": "0001104659-07-069362",
+      "file_type": "DEF 14A",
+      "doc": "a07-21755_3def14a.htm",
+      "sic": "3679",
+      "name": "MAGNETEK, INC.  (CIK 0000751085)"
+     }
+    ]
+   },
+   "0000911635": {
+    "name": "ASSOCIATED ESTATES REALTY CORP  (CIK 0000911635)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "PRE 14A",
+      "date": "2015-03-13",
+      "adsh": "0001193125-15-090227",
+      "file_type": "PRE 14A",
+      "doc": "d862541dpre14a.htm",
+      "sic": "6798",
+      "name": "ASSOCIATED ESTATES REALTY CORP  (CIK 0000911635)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2014-03-28",
+      "adsh": "0000911635-14-000035",
+      "file_type": "DEF 14A",
+      "doc": "proxyye2013.htm",
+      "sic": "6798",
+      "name": "ASSOCIATED ESTATES REALTY CORP  (CIK 0000911635)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2014-03-28",
+      "adsh": "0000911635-14-000035",
+      "file_type": "DEF 14A",
+      "doc": "proxyye2013r82.pdf",
+      "sic": "6798",
+      "name": "ASSOCIATED ESTATES REALTY CORP  (CIK 0000911635)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2013-03-28",
+      "adsh": "0000911635-13-000037",
+      "file_type": "DEF 14A",
+      "doc": "proxy2012r346.pdf",
+      "sic": "6798",
+      "name": "ASSOCIATED ESTATES REALTY CORP  (CIK 0000911635)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2013-03-28",
+      "adsh": "0000911635-13-000037",
+      "file_type": "DEF 14A",
+      "doc": "proxy2012.htm",
+      "sic": "6798",
+      "name": "ASSOCIATED ESTATES REALTY CORP  (CIK 0000911635)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2012-03-26",
+      "adsh": "0000911635-12-000032",
+      "file_type": "DEF 14A",
+      "doc": "esproxyye2011nolinks.htm",
+      "sic": "6798",
+      "name": "ASSOCIATED ESTATES REALTY CORP  (CIK 0000911635)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2012-03-26",
+      "adsh": "0000911635-12-000032",
+      "file_type": "DEF 14A",
+      "doc": "proxyye2011nolinks.pdf",
+      "sic": "6798",
+      "name": "ASSOCIATED ESTATES REALTY CORP  (CIK 0000911635)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2011-03-22",
+      "adsh": "0000911635-11-000016",
+      "file_type": "DEF 14A",
+      "doc": "esproxy2011.htm",
+      "sic": "6798",
+      "name": "ASSOCIATED ESTATES REALTY CORP  (CIK 0000911635)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2010-04-02",
+      "adsh": "0000911635-10-000020",
+      "file_type": "DEF 14A",
+      "doc": "esfinalproxy.htm",
+      "sic": "6798",
+      "name": "ASSOCIATED ESTATES REALTY CORP  (CIK 0000911635)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2010-03-18",
+      "adsh": "0000911635-10-000015",
+      "file_type": "PRE 14A",
+      "doc": "esfinalproxy2010.htm",
+      "sic": "6798",
+      "name": "ASSOCIATED ESTATES REALTY CORP  (CIK 0000911635)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2009-03-27",
+      "adsh": "0000911635-09-000014",
+      "file_type": "DEF 14A",
+      "doc": "proxy091.htm",
+      "sic": "6798",
+      "name": "ASSOCIATED ESTATES REALTY CORP  (CIK 0000911635)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2008-03-28",
+      "adsh": "0000911635-08-000022",
+      "file_type": "DEF 14A",
+      "doc": "proxy081.htm",
+      "sic": "6798",
+      "name": "ASSOCIATED ESTATES REALTY CORP  (CIK 0000911635)"
+     }
+    ]
+   },
+   "0000225648": {
+    "name": "COVANTA HOLDING CORP  (CIK 0000225648)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2010-04-01",
+      "adsh": "0000950123-10-031041",
+      "file_type": "DEF 14A",
+      "doc": "c55586def14a.htm",
+      "sic": "4991",
+      "name": "COVANTA HOLDING CORP  (CIK 0000225648)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2009-04-02",
+      "adsh": "0000950137-09-002548",
+      "file_type": "DEF 14A",
+      "doc": "c48755ddef14a.htm",
+      "sic": "4991",
+      "name": "COVANTA HOLDING CORP  (CIK 0000225648)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2008-04-01",
+      "adsh": "0000950137-08-004913",
+      "file_type": "DEF 14A",
+      "doc": "c23104dfdef14a.htm",
+      "sic": "4991",
+      "name": "COVANTA HOLDING CORP  (CIK 0000225648)"
+     }
+    ]
+   },
+   "0000032878": {
+    "name": "ENERGY CONVERSION DEVICES INC  (CIK 0000032878)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2008-10-17",
+      "adsh": "0000032878-08-000114",
+      "file_type": "DEF 14A",
+      "doc": "defproxystatement2008.htm",
+      "sic": "3674",
+      "name": "ENERGY CONVERSION DEVICES INC  (CIK 0000032878)"
+     }
+    ]
+   },
+   "0000353020": {
+    "name": "INSITUFORM TECHNOLOGIES INC  (CIK 0000353020)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "10-K",
+      "date": "2011-02-28",
+      "adsh": "0000353020-11-000002",
+      "file_type": "10-K",
+      "doc": "form10k12312010.htm",
+      "sic": "1623",
+      "name": "INSITUFORM TECHNOLOGIES INC  (CIK 0000353020)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2010-03-17",
+      "adsh": "0001193125-10-059369",
+      "file_type": "DEF 14A",
+      "doc": "ddef14a.htm",
+      "sic": "1623",
+      "name": "INSITUFORM TECHNOLOGIES INC  (CIK 0000353020)"
+     },
+     {
+      "form": "10-K",
+      "date": "2010-03-01",
+      "adsh": "0001193125-10-044549",
+      "file_type": "10-K",
+      "doc": "d10k.htm",
+      "sic": "1623",
+      "name": "INSITUFORM TECHNOLOGIES INC  (CIK 0000353020)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2010-02-18",
+      "adsh": "0001193125-10-033948",
+      "file_type": "PRE 14A",
+      "doc": "dpre14a.htm",
+      "sic": "1623",
+      "name": "INSITUFORM TECHNOLOGIES INC  (CIK 0000353020)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2009-03-25",
+      "adsh": "0000353020-09-000004",
+      "file_type": "DEF 14A",
+      "doc": "def14a032509.htm",
+      "sic": "1623",
+      "name": "INSITUFORM TECHNOLOGIES INC  (CIK 0000353020)"
+     },
+     {
+      "form": "10-K",
+      "date": "2009-03-02",
+      "adsh": "0001193125-09-042578",
+      "file_type": "10-K",
+      "doc": "d10k.htm",
+      "sic": "1623",
+      "name": "INSITUFORM TECHNOLOGIES INC  (CIK 0000353020)"
+     },
+     {
+      "form": "10-K",
+      "date": "2008-03-10",
+      "adsh": "0000353020-08-000009",
+      "file_type": "10-K",
+      "doc": "form10k03072008.htm",
+      "sic": "1623",
+      "name": "INSITUFORM TECHNOLOGIES INC  (CIK 0000353020)"
+     }
+    ]
+   },
+   "0001267097": {
+    "name": "TRW AUTOMOTIVE HOLDINGS CORP  (CIK 0001267097)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2008-04-04",
+      "adsh": "0000950124-08-001744",
+      "file_type": "DEF 14A",
+      "doc": "k25269def14a.htm",
+      "sic": "3714",
+      "name": "TRW AUTOMOTIVE HOLDINGS CORP  (CIK 0001267097)"
+     }
+    ]
+   },
+   "0000008947": {
+    "name": "AZZ INC  (AZZ)  (CIK 0000008947)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2025-05-27",
+      "adsh": "0001104659-25-052771",
+      "file_type": "DEF 14A",
+      "doc": "tm2512608-1_def14a.htm",
+      "sic": "3470",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2024-05-28",
+      "adsh": "0001104659-24-065392",
+      "file_type": "DEF 14A",
+      "doc": "tm2411654-4_def14a.htm",
+      "sic": "3470",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2023-05-30",
+      "adsh": "0001104659-23-065609",
+      "file_type": "DEF 14A",
+      "doc": "tm233302-3_def14a.htm",
+      "sic": "3470",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2022-06-01",
+      "adsh": "0001140361-22-021443",
+      "file_type": "DEF 14A",
+      "doc": "ny20002232x2_def14a.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2022-05-13",
+      "adsh": "0001140361-22-019101",
+      "file_type": "PRE 14A",
+      "doc": "ny20002232x1_pre14a.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2021-06-01",
+      "adsh": "0001140361-21-019344",
+      "file_type": "DEF 14A",
+      "doc": "nc10017479x1_def14a.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2020-05-27",
+      "adsh": "0000008947-20-000122",
+      "file_type": "DEF 14A",
+      "doc": "a2020azzproxystatement.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2019-05-28",
+      "adsh": "0000008947-19-000107",
+      "file_type": "DEF 14A",
+      "doc": "a2019azzproxystatement1.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2018-05-25",
+      "adsh": "0000008947-18-000094",
+      "file_type": "DEF 14A",
+      "doc": "a2018azzproxystatement.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2017-05-24",
+      "adsh": "0000008947-17-000077",
+      "file_type": "DEF 14A",
+      "doc": "a2017azzproxystatement-fin.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2016-05-23",
+      "adsh": "0000008947-16-000210",
+      "file_type": "DEF 14A",
+      "doc": "a2016azzproxystatement-edg.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2015-05-28",
+      "adsh": "0000008947-15-000054",
+      "file_type": "DEF 14A",
+      "doc": "azzproxystatement-5x15x15f.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2014-05-29",
+      "adsh": "0000008947-14-000090",
+      "file_type": "DEF 14A",
+      "doc": "nps2014.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2013-06-04",
+      "adsh": "0000008947-13-000104",
+      "file_type": "DEF 14A",
+      "doc": "azznpsdef2013.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2013-05-24",
+      "adsh": "0000008947-13-000102",
+      "file_type": "PRE 14A",
+      "doc": "azznps2013.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2012-06-04",
+      "adsh": "0000008947-12-000025",
+      "file_type": "DEF 14A",
+      "doc": "azzproxy2012.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2011-06-03",
+      "adsh": "0000008947-11-000021",
+      "file_type": "DEF 14A",
+      "doc": "azzproxystatement2011.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2010-06-01",
+      "adsh": "0000008947-10-000033",
+      "file_type": "DEF 14A",
+      "doc": "azzproxyfy2010.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "10-K/A",
+      "date": "2009-09-04",
+      "adsh": "0000008947-09-000057",
+      "file_type": "10-K/A",
+      "doc": "form10kafy09.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "CORRESP",
+      "date": "2009-08-27",
+      "adsh": "0000008947-09-000051",
+      "file_type": "CORRESP",
+      "doc": "filename1.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "CORRESP",
+      "date": "2009-08-14",
+      "adsh": "0000008947-09-000049",
+      "file_type": "CORRESP",
+      "doc": "filename1.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     },
+     {
+      "form": "CORRESP",
+      "date": "2009-07-17",
+      "adsh": "0000008947-09-000047",
+      "file_type": "CORRESP",
+      "doc": "filename1.htm",
+      "sic": "3640",
+      "name": "AZZ INC  (AZZ)  (CIK 0000008947)"
+     }
+    ]
+   },
+   "0000003453": {
+    "name": "ALEXANDER & BALDWIN INC  (MATX)  (CIK 0000003453)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2011-03-10",
+      "adsh": "0000003453-11-000013",
+      "file_type": "DEF 14A",
+      "doc": "def14a.htm",
+      "sic": "4400",
+      "name": "ALEXANDER & BALDWIN INC  (MATX)  (CIK 0000003453)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2010-03-12",
+      "adsh": "0000003453-10-000013",
+      "file_type": "DEF 14A",
+      "doc": "def14a.htm",
+      "sic": "4400",
+      "name": "ALEXANDER & BALDWIN INC  (MATX)  (CIK 0000003453)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2009-03-12",
+      "adsh": "0000003453-09-000019",
+      "file_type": "DEF 14A",
+      "doc": "proxy.htm",
+      "sic": "4400",
+      "name": "ALEXANDER & BALDWIN INC  (MATX)  (CIK 0000003453)"
+     }
+    ]
+   },
+   "0000892537": {
+    "name": "MANTECH INTERNATIONAL CORP  (CIK 0000892537)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2010-04-01",
+      "adsh": "0001193125-10-074291",
+      "file_type": "DEF 14A",
+      "doc": "ddef14a.htm",
+      "sic": "8741",
+      "name": "MANTECH INTERNATIONAL CORP  (CIK 0000892537)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2009-04-03",
+      "adsh": "0001193125-09-072123",
+      "file_type": "DEF 14A",
+      "doc": "ddef14a.htm",
+      "sic": "8741",
+      "name": "MANTECH INTERNATIONAL CORP  (CIK 0000892537)"
+     }
+    ]
+   },
+   "0000808064": {
+    "name": "C&D TECHNOLOGIES INC  (CIK 0000808064)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2011-05-19",
+      "adsh": "0001193125-11-145475",
+      "file_type": "DEF 14A",
+      "doc": "ddef14a.htm",
+      "sic": "3690",
+      "name": "C&D TECHNOLOGIES INC  (CIK 0000808064)"
+     },
+     {
+      "form": "424B3",
+      "date": "2010-12-03",
+      "adsh": "0001193125-10-273842",
+      "file_type": "424B3",
+      "doc": "d424b3.htm",
+      "sic": "3690",
+      "name": "C&D TECHNOLOGIES INC  (CIK 0000808064)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2010-11-30",
+      "adsh": "0001193125-10-271270",
+      "file_type": "S-4/A",
+      "doc": "ds4a.htm",
+      "sic": "3690",
+      "name": "C&D TECHNOLOGIES INC  (CIK 0000808064)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2010-11-23",
+      "adsh": "0001193125-10-267569",
+      "file_type": "S-4/A",
+      "doc": "ds4a.htm",
+      "sic": "3690",
+      "name": "C&D TECHNOLOGIES INC  (CIK 0000808064)"
+     },
+     {
+      "form": "S-4/A",
+      "date": "2010-11-09",
+      "adsh": "0001193125-10-253526",
+      "file_type": "S-4/A",
+      "doc": "ds4a.htm",
+      "sic": "3690",
+      "name": "C&D TECHNOLOGIES INC  (CIK 0000808064)"
+     },
+     {
+      "form": "S-4",
+      "date": "2010-10-21",
+      "adsh": "0001193125-10-232791",
+      "file_type": "S-4",
+      "doc": "ds4.htm",
+      "sic": "3690",
+      "name": "C&D TECHNOLOGIES INC  (CIK 0000808064)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2010-05-07",
+      "adsh": "0001193125-10-112202",
+      "file_type": "DEF 14A",
+      "doc": "ddef14a.htm",
+      "sic": "3690",
+      "name": "C&D TECHNOLOGIES INC  (CIK 0000808064)"
+     }
+    ]
+   },
+   "0001035884": {
+    "name": "COMMSCOPE INC  (CIK 0001035884)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEFM14A",
+      "date": "2010-12-06",
+      "adsh": "0001193125-10-274584",
+      "file_type": "DEFM14A",
+      "doc": "ddefm14a.htm",
+      "sic": "3663",
+      "name": "COMMSCOPE INC  (CIK 0001035884)"
+     }
+    ]
+   },
+   "0001091862": {
+    "name": "Chemtura CORP  (CIK 0001091862)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "8-K",
+      "date": "2010-09-03",
+      "adsh": "0001193125-10-204897",
+      "file_type": "EX-99.1",
+      "doc": "dex991.htm",
+      "sic": "2820",
+      "name": "Chemtura CORP  (CIK 0001091862)"
+     }
+    ]
+   },
+   "0000034067": {
+    "name": "DYNAMIC MATERIALS CORP  (BOOM)  (CIK 0000034067)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2013-04-12",
+      "adsh": "0001047469-13-004270",
+      "file_type": "DEF 14A",
+      "doc": "a2214255zdef14a.htm",
+      "sic": "3390",
+      "name": "DYNAMIC MATERIALS CORP  (BOOM)  (CIK 0000034067)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2012-04-13",
+      "adsh": "0001047469-12-004240",
+      "file_type": "DEF 14A",
+      "doc": "a2208712zdef14a.htm",
+      "sic": "3390",
+      "name": "DYNAMIC MATERIALS CORP  (BOOM)  (CIK 0000034067)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2011-04-15",
+      "adsh": "0001047469-11-003679",
+      "file_type": "DEF 14A",
+      "doc": "a2203325zdef14a.htm",
+      "sic": "3390",
+      "name": "DYNAMIC MATERIALS CORP  (BOOM)  (CIK 0000034067)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2010-04-14",
+      "adsh": "0001047469-10-003694",
+      "file_type": "DEF 14A",
+      "doc": "a2198024zdef14a.htm",
+      "sic": "3390",
+      "name": "DYNAMIC MATERIALS CORP  (BOOM)  (CIK 0000034067)"
+     }
+    ]
+   },
+   "0000866706": {
+    "name": "ESCO TECHNOLOGIES INC  (ESE)  (CIK 0000866706)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2020-12-16",
+      "adsh": "0001104659-20-136090",
+      "file_type": "DEF 14A",
+      "doc": "tm2038267d1_def14a.htm",
+      "sic": "3669",
+      "name": "ESCO TECHNOLOGIES INC  (ESE)  (CIK 0000866706)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2019-12-11",
+      "adsh": "0001104659-19-071673",
+      "file_type": "DEF 14A",
+      "doc": "tm1924496-1_def14a.htm",
+      "sic": "3669",
+      "name": "ESCO TECHNOLOGIES INC  (ESE)  (CIK 0000866706)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2018-12-12",
+      "adsh": "0001144204-18-064166",
+      "file_type": "DEF 14A",
+      "doc": "tv507496_def14a.htm",
+      "sic": "3669",
+      "name": "ESCO TECHNOLOGIES INC  (ESE)  (CIK 0000866706)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2017-12-14",
+      "adsh": "0001144204-17-063609",
+      "file_type": "DEF 14A",
+      "doc": "tv480836_def14a.htm",
+      "sic": "3669",
+      "name": "ESCO TECHNOLOGIES INC  (ESE)  (CIK 0000866706)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2017-11-22",
+      "adsh": "0001144204-17-060595",
+      "file_type": "PRE 14A",
+      "doc": "tv479895_pre14a.htm",
+      "sic": "3669",
+      "name": "ESCO TECHNOLOGIES INC  (ESE)  (CIK 0000866706)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2014-12-16",
+      "adsh": "0001144204-14-074140",
+      "file_type": "DEF 14A",
+      "doc": "v396320_def14a.htm",
+      "sic": "3669",
+      "name": "ESCO TECHNOLOGIES INC  (ESE)  (CIK 0000866706)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2013-12-11",
+      "adsh": "0001144204-13-066617",
+      "file_type": "DEF 14A",
+      "doc": "v362197_def14a.htm",
+      "sic": "3669",
+      "name": "ESCO TECHNOLOGIES INC  (ESE)  (CIK 0000866706)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2010-12-22",
+      "adsh": "0000950123-10-115771",
+      "file_type": "DEF 14A",
+      "doc": "c61768ddef14a.htm",
+      "sic": "3669",
+      "name": "ESCO TECHNOLOGIES INC  (ESE)  (CIK 0000866706)"
+     }
+    ]
+   },
+   "0000855931": {
+    "name": "POTASH CORP OF SASKATCHEWAN INC  (CIK 0000855931)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "10-K",
+      "date": "2016-02-26",
+      "adsh": "0001193125-16-480730",
+      "file_type": "EX-99.B",
+      "doc": "d137329dex99b.htm",
+      "sic": "2870",
+      "name": "POTASH CORP OF SASKATCHEWAN INC  (CIK 0000855931)"
+     },
+     {
+      "form": "10-K",
+      "date": "2015-02-25",
+      "adsh": "0001193125-15-062091",
+      "file_type": "EX-99.B",
+      "doc": "d863198dex99b.htm",
+      "sic": "2870",
+      "name": "POTASH CORP OF SASKATCHEWAN INC  (CIK 0000855931)"
+     },
+     {
+      "form": "10-K",
+      "date": "2014-02-28",
+      "adsh": "0001193125-14-075381",
+      "file_type": "EX-99.A",
+      "doc": "d663731dex99a1.pdf",
+      "sic": "2870",
+      "name": "POTASH CORP OF SASKATCHEWAN INC  (CIK 0000855931)"
+     },
+     {
+      "form": "10-K",
+      "date": "2014-02-28",
+      "adsh": "0001193125-14-075381",
+      "file_type": "EX-99.A",
+      "doc": "d663731dex99a.htm",
+      "sic": "2870",
+      "name": "POTASH CORP OF SASKATCHEWAN INC  (CIK 0000855931)"
+     },
+     {
+      "form": "10-K",
+      "date": "2013-02-27",
+      "adsh": "0001193125-13-079665",
+      "file_type": "EX-99.A",
+      "doc": "d473038dex99a.htm",
+      "sic": "2870",
+      "name": "POTASH CORP OF SASKATCHEWAN INC  (CIK 0000855931)"
+     },
+     {
+      "form": "10-K",
+      "date": "2013-02-27",
+      "adsh": "0001193125-13-079665",
+      "file_type": "EX-99.A",
+      "doc": "d473038dex99a1.pdf",
+      "sic": "2870",
+      "name": "POTASH CORP OF SASKATCHEWAN INC  (CIK 0000855931)"
+     },
+     {
+      "form": "10-K",
+      "date": "2010-02-26",
+      "adsh": "0000950123-10-017967",
+      "file_type": "EX-99.A",
+      "doc": "o57897exv99wa.htm",
+      "sic": "2870",
+      "name": "POTASH CORP OF SASKATCHEWAN INC  (CIK 0000855931)"
+     }
+    ]
+   },
+   "0000104987": {
+    "name": "ZAREBA SYSTEMS INC  (CIK 0000104987)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEFM14A",
+      "date": "2010-02-18",
+      "adsh": "0000950123-10-014155",
+      "file_type": "DEFM14A",
+      "doc": "c55916ddefm14a.htm",
+      "sic": "3612",
+      "name": "ZAREBA SYSTEMS INC  (CIK 0000104987)"
+     }
+    ]
+   },
+   "0001135185": {
+    "name": "ATLAS AIR WORLDWIDE HOLDINGS INC  (CIK 0001135185)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2012-04-24",
+      "adsh": "0001193125-12-176543",
+      "file_type": "DEF 14A",
+      "doc": "d293476ddef14a.htm",
+      "sic": "4522",
+      "name": "ATLAS AIR WORLDWIDE HOLDINGS INC  (CIK 0001135185)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2011-05-02",
+      "adsh": "0000950123-11-043099",
+      "file_type": "DEF 14A",
+      "doc": "y91051def14a.htm",
+      "sic": "4522",
+      "name": "ATLAS AIR WORLDWIDE HOLDINGS INC  (CIK 0001135185)"
+     }
+    ]
+   },
+   "0000067716": {
+    "name": "MDU RESOURCES GROUP INC  (MDU)  (CIK 0000067716)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2014-03-12",
+      "adsh": "0000897101-14-000316",
+      "file_type": "DEF 14A",
+      "doc": "mdu140403s1_def14a.htm",
+      "sic": "1400",
+      "name": "MDU RESOURCES GROUP INC  (MDU)  (CIK 0000067716)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2013-03-13",
+      "adsh": "0000897101-13-000337",
+      "file_type": "DEF 14A",
+      "doc": "mdu130917_def14a.htm",
+      "sic": "1400",
+      "name": "MDU RESOURCES GROUP INC  (MDU)  (CIK 0000067716)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2012-03-09",
+      "adsh": "0000897101-12-000421",
+      "file_type": "DEF 14A",
+      "doc": "mdu120793_def14a.htm",
+      "sic": "1400",
+      "name": "MDU RESOURCES GROUP INC  (MDU)  (CIK 0000067716)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2011-03-11",
+      "adsh": "0000897101-11-000394",
+      "file_type": "DEF 14A",
+      "doc": "mdu110469s1_def14a.htm",
+      "sic": "1400",
+      "name": "MDU RESOURCES GROUP INC  (MDU)  (CIK 0000067716)"
+     }
+    ]
+   },
+   "0001108426": {
+    "name": "PNM RESOURCES INC  (TXNM)  (CIK 0001108426)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2022-03-29",
+      "adsh": "0001108426-22-000022",
+      "file_type": "DEF 14A",
+      "doc": "a2022proxy.htm",
+      "sic": "4911",
+      "name": "PNM RESOURCES INC  (TXNM)  (CIK 0001108426)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2021-03-30",
+      "adsh": "0001108426-21-000015",
+      "file_type": "DEF 14A",
+      "doc": "a2021proxy.htm",
+      "sic": "4911",
+      "name": "PNM RESOURCES INC  (TXNM)  (CIK 0001108426)"
+     },
+     {
+      "form": "CORRESP",
+      "date": "2011-10-25",
+      "adsh": "0001108426-11-000070",
+      "file_type": "CORRESP",
+      "doc": "filename1.htm",
+      "sic": "4911",
+      "name": "PNM RESOURCES INC  (TXNM)  (CIK 0001108426)"
+     }
+    ]
+   },
+   "0000922224": {
+    "name": "PPL Corp  (PPL)  (CIK 0000922224)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "8-K",
+      "date": "2011-03-02",
+      "adsh": "0000950123-11-021314",
+      "file_type": "EX-99.1",
+      "doc": "c13486exv99w1.htm",
+      "sic": "4911",
+      "name": "PPL Corp  (PPL)  (CIK 0000922224)"
+     }
+    ]
+   },
+   "0000703604": {
+    "name": "Distribution Solutions Group, Inc.  (DSGR)  (CIK 0000703604)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2023-04-06",
+      "adsh": "0000703604-23-000035",
+      "file_type": "DEF 14A",
+      "doc": "a2022proxy.htm",
+      "sic": "5080",
+      "name": "Distribution Solutions Group, Inc.  (DSGR)  (CIK 0000703604)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2022-10-18",
+      "adsh": "0000703604-22-000073",
+      "file_type": "DEF 14A",
+      "doc": "a2021proxy.htm",
+      "sic": "5080",
+      "name": "Distribution Solutions Group, Inc.  (DSGR)  (CIK 0000703604)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2021-04-01",
+      "adsh": "0000703604-21-000042",
+      "file_type": "DEF 14A",
+      "doc": "a2020proxy.htm",
+      "sic": "5080",
+      "name": "LAWSON PRODUCTS INC/NEW/DE/  (DSGR)  (CIK 0000703604)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2020-03-31",
+      "adsh": "0000703604-20-000030",
+      "file_type": "DEF 14A",
+      "doc": "a2020proxy.htm",
+      "sic": "5080",
+      "name": "LAWSON PRODUCTS INC/NEW/DE/  (DSGR)  (CIK 0000703604)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2020-03-20",
+      "adsh": "0000703604-20-000028",
+      "file_type": "PRE 14A",
+      "doc": "a2020proxy.htm",
+      "sic": "5080",
+      "name": "LAWSON PRODUCTS INC/NEW/DE/  (DSGR)  (CIK 0000703604)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2019-03-27",
+      "adsh": "0000703604-19-000035",
+      "file_type": "DEF 14A",
+      "doc": "a2019proxy.htm",
+      "sic": "5080",
+      "name": "LAWSON PRODUCTS INC/NEW/DE/  (DSGR)  (CIK 0000703604)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2018-03-30",
+      "adsh": "0000703604-18-000023",
+      "file_type": "DEF 14A",
+      "doc": "a2018proxy.htm",
+      "sic": "5080",
+      "name": "LAWSON PRODUCTS INC/NEW/DE/  (DSGR)  (CIK 0000703604)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2017-03-28",
+      "adsh": "0000703604-17-000032",
+      "file_type": "DEF 14A",
+      "doc": "a2017proxy.htm",
+      "sic": "5080",
+      "name": "LAWSON PRODUCTS INC/NEW/DE/  (DSGR)  (CIK 0000703604)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2016-03-30",
+      "adsh": "0000703604-16-000143",
+      "file_type": "DEF 14A",
+      "doc": "a2016proxy.htm",
+      "sic": "5080",
+      "name": "LAWSON PRODUCTS INC/NEW/DE/  (DSGR)  (CIK 0000703604)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2015-03-27",
+      "adsh": "0000703604-15-000027",
+      "file_type": "DEF 14A",
+      "doc": "a2015proxy.htm",
+      "sic": "5080",
+      "name": "LAWSON PRODUCTS INC/NEW/DE/  (DSGR)  (CIK 0000703604)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2014-03-28",
+      "adsh": "0000703604-14-000035",
+      "file_type": "DEF 14A",
+      "doc": "a2014proxy.htm",
+      "sic": "5080",
+      "name": "LAWSON PRODUCTS INC/NEW/DE/  (DSGR)  (CIK 0000703604)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2013-03-28",
+      "adsh": "0000703604-13-000004",
+      "file_type": "DEF 14A",
+      "doc": "a2013proxy.htm",
+      "sic": "5080",
+      "name": "LAWSON PRODUCTS INC/NEW/DE/  (DSGR)  (CIK 0000703604)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2012-04-05",
+      "adsh": "0001193125-12-152297",
+      "file_type": "DEF 14A",
+      "doc": "d329946ddef14a.htm",
+      "sic": "5080",
+      "name": "LAWSON PRODUCTS INC/NEW/DE/  (DSGR)  (CIK 0000703604)"
+     }
+    ]
+   },
+   "0000100378": {
+    "name": "TWIN DISC INC  (TWIN)  (CIK 0000100378)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2013-09-13",
+      "adsh": "0000100378-13-000046",
+      "file_type": "DEF 14A",
+      "doc": "td14a09132013.htm",
+      "sic": "3560",
+      "name": "TWIN DISC INC  (TWIN)  (CIK 0000100378)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2012-09-14",
+      "adsh": "0000100378-12-000060",
+      "file_type": "DEF 14A",
+      "doc": "td14a09142012.htm",
+      "sic": "3560",
+      "name": "TWIN DISC INC  (TWIN)  (CIK 0000100378)"
+     }
+    ]
+   },
+   "0001409970": {
+    "name": "LendingClub Corp  (LC)  (CIK 0001409970)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "424B3",
+      "date": "2014-04-09",
+      "adsh": "0001409970-14-000413",
+      "file_type": "424B3",
+      "doc": "postingsup_20140408-100007.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-08-07",
+      "adsh": "0001409970-13-000908",
+      "file_type": "424B3",
+      "doc": "salessup_20130806.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-08-05",
+      "adsh": "0001409970-13-000883",
+      "file_type": "424B3",
+      "doc": "postingsup_20130731-180002.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-08-05",
+      "adsh": "0001409970-13-000889",
+      "file_type": "424B3",
+      "doc": "postingsup_20130802-100001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-08-05",
+      "adsh": "0001409970-13-000888",
+      "file_type": "424B3",
+      "doc": "postingsup_20130802-060000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-08-05",
+      "adsh": "0001409970-13-000887",
+      "file_type": "424B3",
+      "doc": "postingsup_20130801-180001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-08-05",
+      "adsh": "0001409970-13-000886",
+      "file_type": "424B3",
+      "doc": "postingsup_20130801-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-08-05",
+      "adsh": "0001409970-13-000884",
+      "file_type": "424B3",
+      "doc": "postingsup_20130801-060000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-08-05",
+      "adsh": "0001409970-13-000885",
+      "file_type": "424B3",
+      "doc": "postingsup_20130801-100000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-08-02",
+      "adsh": "0001409970-13-000880",
+      "file_type": "424B3",
+      "doc": "postingsup_20130731-100000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-08-02",
+      "adsh": "0001409970-13-000881",
+      "file_type": "424B3",
+      "doc": "postingsup_20130731-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-08-02",
+      "adsh": "0001409970-13-000879",
+      "file_type": "424B3",
+      "doc": "postingsup_20130731-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-31",
+      "adsh": "0001409970-13-000876",
+      "file_type": "424B3",
+      "doc": "postingsup_20130730-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-31",
+      "adsh": "0001409970-13-000877",
+      "file_type": "424B3",
+      "doc": "postingsup_20130730-180001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-31",
+      "adsh": "0001409970-13-000874",
+      "file_type": "424B3",
+      "doc": "postingsup_20130730-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-31",
+      "adsh": "0001409970-13-000875",
+      "file_type": "424B3",
+      "doc": "postingsup_20130730-100001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000859",
+      "file_type": "424B3",
+      "doc": "postingsup_20130726-100001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000860",
+      "file_type": "424B3",
+      "doc": "postingsup_20130726-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000861",
+      "file_type": "424B3",
+      "doc": "postingsup_20130726-180001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000862",
+      "file_type": "424B3",
+      "doc": "postingsup_20130727-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000865",
+      "file_type": "424B3",
+      "doc": "postingsup_20130727-180000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000873",
+      "file_type": "424B3",
+      "doc": "postingsup_20130729-180001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000870",
+      "file_type": "424B3",
+      "doc": "postingsup_20130729-060000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000863",
+      "file_type": "424B3",
+      "doc": "postingsup_20130727-100001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000867",
+      "file_type": "424B3",
+      "doc": "postingsup_20130728-100000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000864",
+      "file_type": "424B3",
+      "doc": "postingsup_20130727-140000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000869",
+      "file_type": "424B3",
+      "doc": "postingsup_20130728-180000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000872",
+      "file_type": "424B3",
+      "doc": "postingsup_20130729-140008.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000866",
+      "file_type": "424B3",
+      "doc": "postingsup_20130728-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000868",
+      "file_type": "424B3",
+      "doc": "postingsup_20130728-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-30",
+      "adsh": "0001409970-13-000871",
+      "file_type": "424B3",
+      "doc": "postingsup_20130729-100001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-29",
+      "adsh": "0001409970-13-000858",
+      "file_type": "424B3",
+      "doc": "postingsup_20130726-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-26",
+      "adsh": "0001409970-13-000855",
+      "file_type": "424B3",
+      "doc": "postingsup_20130725-100001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-26",
+      "adsh": "0001409970-13-000857",
+      "file_type": "424B3",
+      "doc": "postingsup_20130725-180003.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-26",
+      "adsh": "0001409970-13-000854",
+      "file_type": "424B3",
+      "doc": "postingsup_20130725-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-26",
+      "adsh": "0001409970-13-000856",
+      "file_type": "424B3",
+      "doc": "postingsup_20130725-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-25",
+      "adsh": "0001409970-13-000853",
+      "file_type": "424B3",
+      "doc": "postingsup_20130724-180001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-25",
+      "adsh": "0001409970-13-000852",
+      "file_type": "424B3",
+      "doc": "postingsup_20130724-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-25",
+      "adsh": "0001409970-13-000850",
+      "file_type": "424B3",
+      "doc": "postingsup_20130724-060002.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-25",
+      "adsh": "0001409970-13-000851",
+      "file_type": "424B3",
+      "doc": "postingsup_20130724-100000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-07-24",
+      "adsh": "0001409970-13-000848",
+      "file_type": "424B3",
+      "doc": "postingsup_20130723-180002.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-19",
+      "adsh": "0001409970-13-000704",
+      "file_type": "424B3",
+      "doc": "salessup_20130618.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-13",
+      "adsh": "0001409970-13-000677",
+      "file_type": "424B3",
+      "doc": "postingsup_20130612-100000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-13",
+      "adsh": "0001409970-13-000676",
+      "file_type": "424B3",
+      "doc": "postingsup_20130612-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-12",
+      "adsh": "0001409970-13-000674",
+      "file_type": "424B3",
+      "doc": "postingsup_20130611-180001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-12",
+      "adsh": "0001409970-13-000670",
+      "file_type": "424B3",
+      "doc": "postingsup_20130610-180001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-12",
+      "adsh": "0001409970-13-000671",
+      "file_type": "424B3",
+      "doc": "postingsup_20130611-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-12",
+      "adsh": "0001409970-13-000673",
+      "file_type": "424B3",
+      "doc": "postingsup_20130611-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-12",
+      "adsh": "0001409970-13-000672",
+      "file_type": "424B3",
+      "doc": "postingsup_20130611-100001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-11",
+      "adsh": "0001409970-13-000667",
+      "file_type": "424B3",
+      "doc": "postingsup_20130610-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-11",
+      "adsh": "0001409970-13-000664",
+      "file_type": "424B3",
+      "doc": "postingsup_20130609-100000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-11",
+      "adsh": "0001409970-13-000669",
+      "file_type": "424B3",
+      "doc": "postingsup_20130610-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-11",
+      "adsh": "0001409970-13-000665",
+      "file_type": "424B3",
+      "doc": "postingsup_20130609-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-11",
+      "adsh": "0001409970-13-000666",
+      "file_type": "424B3",
+      "doc": "postingsup_20130609-180000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-11",
+      "adsh": "0001409970-13-000668",
+      "file_type": "424B3",
+      "doc": "postingsup_20130610-100000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-11",
+      "adsh": "0001409970-13-000663",
+      "file_type": "424B3",
+      "doc": "postingsup_20130609-060000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-10",
+      "adsh": "0001409970-13-000656",
+      "file_type": "424B3",
+      "doc": "postingsup_20130607-100001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-10",
+      "adsh": "0001409970-13-000658",
+      "file_type": "424B3",
+      "doc": "postingsup_20130607-180001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-10",
+      "adsh": "0001409970-13-000657",
+      "file_type": "424B3",
+      "doc": "postingsup_20130607-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-10",
+      "adsh": "0001409970-13-000655",
+      "file_type": "424B3",
+      "doc": "postingsup_20130607-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-10",
+      "adsh": "0001409970-13-000660",
+      "file_type": "424B3",
+      "doc": "postingsup_20130608-100001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-10",
+      "adsh": "0001409970-13-000662",
+      "file_type": "424B3",
+      "doc": "postingsup_20130608-180001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-10",
+      "adsh": "0001409970-13-000661",
+      "file_type": "424B3",
+      "doc": "postingsup_20130608-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-10",
+      "adsh": "0001409970-13-000659",
+      "file_type": "424B3",
+      "doc": "postingsup_20130608-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-07",
+      "adsh": "0001409970-13-000651",
+      "file_type": "424B3",
+      "doc": "postingsup_20130606-100000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-07",
+      "adsh": "0001409970-13-000650",
+      "file_type": "424B3",
+      "doc": "postingsup_20130606-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-07",
+      "adsh": "0001409970-13-000653",
+      "file_type": "424B3",
+      "doc": "postingsup_20130606-175510.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-07",
+      "adsh": "0001409970-13-000652",
+      "file_type": "424B3",
+      "doc": "postingsup_20130606-143048.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-06",
+      "adsh": "0001409970-13-000646",
+      "file_type": "424B3",
+      "doc": "postingsup_20130605-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-06",
+      "adsh": "0001409970-13-000647",
+      "file_type": "424B3",
+      "doc": "postingsup_20130605-100001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-06",
+      "adsh": "0001409970-13-000649",
+      "file_type": "424B3",
+      "doc": "postingsup_20130605-180000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-06",
+      "adsh": "0001409970-13-000648",
+      "file_type": "424B3",
+      "doc": "postingsup_20130605-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-05",
+      "adsh": "0001409970-13-000645",
+      "file_type": "424B3",
+      "doc": "postingsup_20130604-180004.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-05",
+      "adsh": "0001409970-13-000644",
+      "file_type": "424B3",
+      "doc": "postingsup_20130604-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-05",
+      "adsh": "0001409970-13-000643",
+      "file_type": "424B3",
+      "doc": "postingsup_20130604-110005.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-04",
+      "adsh": "0001409970-13-000639",
+      "file_type": "424B3",
+      "doc": "postingsup_20130603-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-04",
+      "adsh": "0001409970-13-000640",
+      "file_type": "424B3",
+      "doc": "postingsup_20130603-100001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-04",
+      "adsh": "0001409970-13-000641",
+      "file_type": "424B3",
+      "doc": "postingsup_20130603-140001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-04",
+      "adsh": "0001409970-13-000636",
+      "file_type": "424B3",
+      "doc": "postingsup_20130602-100000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-04",
+      "adsh": "0001409970-13-000635",
+      "file_type": "424B3",
+      "doc": "postingsup_20130602-060000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-04",
+      "adsh": "0001409970-13-000637",
+      "file_type": "424B3",
+      "doc": "postingsup_20130602-140000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-04",
+      "adsh": "0001409970-13-000633",
+      "file_type": "424B3",
+      "doc": "postingsup_20130601-140000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-04",
+      "adsh": "0001409970-13-000642",
+      "file_type": "424B3",
+      "doc": "postingsup_20130603-180001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-04",
+      "adsh": "0001409970-13-000632",
+      "file_type": "424B3",
+      "doc": "postingsup_20130601-100001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-04",
+      "adsh": "0001409970-13-000634",
+      "file_type": "424B3",
+      "doc": "postingsup_20130601-180000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-04",
+      "adsh": "0001409970-13-000631",
+      "file_type": "424B3",
+      "doc": "postingsup_20130601-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-04",
+      "adsh": "0001409970-13-000638",
+      "file_type": "424B3",
+      "doc": "postingsup_20130602-180000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-03",
+      "adsh": "0001409970-13-000629",
+      "file_type": "424B3",
+      "doc": "postingsup_20130531-140000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-03",
+      "adsh": "0001409970-13-000628",
+      "file_type": "424B3",
+      "doc": "postingsup_20130531-100000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-03",
+      "adsh": "0001409970-13-000626",
+      "file_type": "424B3",
+      "doc": "postingsup_20130530-180000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-03",
+      "adsh": "0001409970-13-000630",
+      "file_type": "424B3",
+      "doc": "postingsup_20130531-180000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-03",
+      "adsh": "0001409970-13-000625",
+      "file_type": "424B3",
+      "doc": "postingsup_20130530-140000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-06-03",
+      "adsh": "0001409970-13-000627",
+      "file_type": "424B3",
+      "doc": "postingsup_20130531-060000.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-05-31",
+      "adsh": "0001409970-13-000624",
+      "file_type": "424B3",
+      "doc": "postingsup_20130530-100001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-05-31",
+      "adsh": "0001409970-13-000623",
+      "file_type": "424B3",
+      "doc": "postingsup_20130530-060001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     },
+     {
+      "form": "424B3",
+      "date": "2013-05-30",
+      "adsh": "0001409970-13-000622",
+      "file_type": "424B3",
+      "doc": "postingsup_20130529-180001.htm",
+      "sic": "6199",
+      "name": "LendingClub Corp  (LC)  (CIK 0001409970)"
+     }
+    ]
+   },
+   "0000914025": {
+    "name": "PLANTRONICS INC /CA/  (CIK 0000914025)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2013-06-13",
+      "adsh": "0000914025-13-000035",
+      "file_type": "DEF 14A",
+      "doc": "proxy2013.htm",
+      "sic": "3661",
+      "name": "PLANTRONICS INC /CA/  (CIK 0000914025)"
+     }
+    ]
+   },
+   "0000080420": {
+    "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2026-01-06",
+      "adsh": "0001140361-26-000342",
+      "file_type": "DEF 14A",
+      "doc": "ny20060559x1_def14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "10-K",
+      "date": "2025-11-19",
+      "adsh": "0000080420-25-000152",
+      "file_type": "10-K",
+      "doc": "powl-20250930.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2025-01-06",
+      "adsh": "0001140361-25-000275",
+      "file_type": "DEF 14A",
+      "doc": "ny20036454x2_def14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2024-12-23",
+      "adsh": "0001140361-24-050149",
+      "file_type": "PRE 14A",
+      "doc": "ny20036454x1_pre14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "10-K",
+      "date": "2024-11-20",
+      "adsh": "0000080420-24-000086",
+      "file_type": "10-K",
+      "doc": "powl-20240930.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2024-01-05",
+      "adsh": "0001140361-24-001009",
+      "file_type": "DEF 14A",
+      "doc": "ny20014314x1_def14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "10-K",
+      "date": "2023-12-06",
+      "adsh": "0000080420-23-000051",
+      "file_type": "10-K",
+      "doc": "powl-20230930.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2023-01-06",
+      "adsh": "0001140361-23-000753",
+      "file_type": "DEF 14A",
+      "doc": "ny20005438x1_def14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "10-K",
+      "date": "2022-12-06",
+      "adsh": "0000080420-22-000036",
+      "file_type": "10-K",
+      "doc": "powl-20220930.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2022-01-06",
+      "adsh": "0001140361-22-000765",
+      "file_type": "DEF 14A",
+      "doc": "ny20001594x1_def14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "10-K",
+      "date": "2021-12-08",
+      "adsh": "0000080420-21-000045",
+      "file_type": "10-K",
+      "doc": "powl-20210930.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2021-01-06",
+      "adsh": "0001140361-21-000306",
+      "file_type": "DEF 14A",
+      "doc": "nc10017750x1_def14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "10-K",
+      "date": "2020-12-09",
+      "adsh": "0000080420-20-000036",
+      "file_type": "10-K",
+      "doc": "powl-20200930.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2020-01-06",
+      "adsh": "0001193125-20-001864",
+      "file_type": "DEF 14A",
+      "doc": "d837718ddef14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "10-K",
+      "date": "2019-12-05",
+      "adsh": "0000080420-19-000039",
+      "file_type": "10-K",
+      "doc": "powl10-k2019.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2019-01-07",
+      "adsh": "0001193125-19-003361",
+      "file_type": "DEF 14A",
+      "doc": "d672673ddef14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "10-K",
+      "date": "2018-12-12",
+      "adsh": "0000080420-18-000036",
+      "file_type": "10-K",
+      "doc": "powl10-k2018.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2018-01-08",
+      "adsh": "0001193125-18-005729",
+      "file_type": "DEF 14A",
+      "doc": "d507709ddef14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "10-K",
+      "date": "2017-12-06",
+      "adsh": "0000080420-17-000032",
+      "file_type": "10-K",
+      "doc": "powl10-k2017.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2017-01-09",
+      "adsh": "0001193125-17-005330",
+      "file_type": "DEF 14A",
+      "doc": "d274429ddef14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "10-K",
+      "date": "2016-12-07",
+      "adsh": "0001564590-16-029924",
+      "file_type": "10-K",
+      "doc": "powl-10k_20160930.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2016-01-06",
+      "adsh": "0001193125-16-422568",
+      "file_type": "DEF 14A",
+      "doc": "d114075ddef14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "10-K",
+      "date": "2015-12-02",
+      "adsh": "0001564590-15-011208",
+      "file_type": "10-K",
+      "doc": "powl-10k_20150930.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2015-01-07",
+      "adsh": "0001193125-15-004048",
+      "file_type": "DEF 14A",
+      "doc": "d844531ddef14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "10-K",
+      "date": "2014-12-03",
+      "adsh": "0001564590-14-006033",
+      "file_type": "10-K",
+      "doc": "powl-10k_20140930.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2014-01-08",
+      "adsh": "0001193125-14-005321",
+      "file_type": "DEF 14A",
+      "doc": "d651421ddef14a.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     },
+     {
+      "form": "10-K",
+      "date": "2013-12-04",
+      "adsh": "0001564590-13-001396",
+      "file_type": "10-K",
+      "doc": "powl-10k_20130930.htm",
+      "sic": "3613",
+      "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)"
+     }
+    ]
+   },
+   "0001603291": {
+    "name": "Dominion Gas Holdings, LLC  (CIK 0001603291)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "S-4",
+      "date": "2014-04-04",
+      "adsh": "0001193125-14-131810",
+      "file_type": "EX-99.1",
+      "doc": "d700274dex991.htm",
+      "sic": null,
+      "name": "Dominion Gas Holdings, LLC  (CIK 0001603291)"
+     }
+    ]
+   },
+   "0000046080": {
+    "name": "HASBRO INC  (HAS)  (CIK 0000046080)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2015-04-06",
+      "adsh": "0001193125-15-119686",
+      "file_type": "DEF 14A",
+      "doc": "d888122ddef14a.htm",
+      "sic": "3944",
+      "name": "HASBRO INC  (HAS)  (CIK 0000046080)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2014-04-07",
+      "adsh": "0001193125-14-133614",
+      "file_type": "DEF 14A",
+      "doc": "d657346ddef14a.htm",
+      "sic": "3944",
+      "name": "HASBRO INC  (HAS)  (CIK 0000046080)"
+     }
+    ]
+   },
+   "0001120370": {
+    "name": "BROADWIND, INC.  (BWEN)  (CIK 0001120370)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2026-04-14",
+      "adsh": "0001437749-26-012220",
+      "file_type": "DEF 14A",
+      "doc": "bwen20260326_def14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2025-04-02",
+      "adsh": "0001437749-25-010618",
+      "file_type": "DEF 14A",
+      "doc": "bwen20250326_def14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2025-03-18",
+      "adsh": "0001437749-25-008224",
+      "file_type": "PRE 14A",
+      "doc": "bwen20250312c_pre14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2024-04-02",
+      "adsh": "0001437749-24-010574",
+      "file_type": "DEF 14A",
+      "doc": "bwen20240401_def14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2024-03-19",
+      "adsh": "0001437749-24-008476",
+      "file_type": "PRE 14A",
+      "doc": "bwen20240315_pre14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2022-03-14",
+      "adsh": "0001437749-22-006096",
+      "file_type": "DEF 14A",
+      "doc": "bwen20220309_def14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2022-03-04",
+      "adsh": "0001437749-22-005309",
+      "file_type": "PRE 14A",
+      "doc": "bwen20220301_pre14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2021-03-18",
+      "adsh": "0001437749-21-006414",
+      "file_type": "DEF 14A",
+      "doc": "bwen20210311_def14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2020-03-19",
+      "adsh": "0001120370-20-000008",
+      "file_type": "DEF 14A",
+      "doc": "bwen-20200501xdef14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND ENERGY, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2020-03-04",
+      "adsh": "0001558370-20-002025",
+      "file_type": "PRE 14A",
+      "doc": "pre14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND ENERGY, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2019-03-11",
+      "adsh": "0001120370-19-000012",
+      "file_type": "DEF 14A",
+      "doc": "bwen-20190423xdef14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND ENERGY, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2019-02-28",
+      "adsh": "0001558370-19-001352",
+      "file_type": "PRE 14A",
+      "doc": "pre14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND ENERGY, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2018-03-14",
+      "adsh": "0001120370-18-000015",
+      "file_type": "DEF 14A",
+      "doc": "bwen-20180314xdef14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND ENERGY, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2017-03-14",
+      "adsh": "0001120370-17-000014",
+      "file_type": "DEF 14A",
+      "doc": "bwen-20170427xdef14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND ENERGY, INC.  (BWEN)  (CIK 0001120370)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2015-03-12",
+      "adsh": "0001047469-15-002069",
+      "file_type": "DEF 14A",
+      "doc": "a2223338zdef14a.htm",
+      "sic": "3360",
+      "name": "BROADWIND ENERGY, INC.  (BWEN)  (CIK 0001120370)"
+     }
+    ]
+   },
+   "0001478242": {
+    "name": "Quintiles Transnational Holdings Inc.  (IQV)  (CIK 0001478242)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2015-03-23",
+      "adsh": "0001193125-15-101801",
+      "file_type": "DEF 14A",
+      "doc": "d850219ddef14a.htm",
+      "sic": "8731",
+      "name": "Quintiles Transnational Holdings Inc.  (IQV)  (CIK 0001478242)"
+     }
+    ]
+   },
+   "0000880807": {
+    "name": "AMERICAN SUPERCONDUCTOR CORP /DE/  (AMSC)  (CIK 0000880807)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2026-06-18",
+      "adsh": "0001193125-26-275809",
+      "file_type": "DEF 14A",
+      "doc": "d129644ddef14a.htm",
+      "sic": "3621",
+      "name": "AMERICAN SUPERCONDUCTOR CORP /DE/  (AMSC)  (CIK 0000880807)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2025-06-13",
+      "adsh": "0001193125-25-140726",
+      "file_type": "DEF 14A",
+      "doc": "d874515ddef14a.htm",
+      "sic": "3621",
+      "name": "AMERICAN SUPERCONDUCTOR CORP /DE/  (AMSC)  (CIK 0000880807)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2024-06-20",
+      "adsh": "0001193125-24-164444",
+      "file_type": "DEF 14A",
+      "doc": "d749540ddef14a.htm",
+      "sic": "3621",
+      "name": "AMERICAN SUPERCONDUCTOR CORP /DE/  (AMSC)  (CIK 0000880807)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2024-06-10",
+      "adsh": "0001193125-24-158370",
+      "file_type": "PRE 14A",
+      "doc": "d749540dpre14a.htm",
+      "sic": "3621",
+      "name": "AMERICAN SUPERCONDUCTOR CORP /DE/  (AMSC)  (CIK 0000880807)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2023-06-28",
+      "adsh": "0001193125-23-177510",
+      "file_type": "DEF 14A",
+      "doc": "d445502ddef14a.htm",
+      "sic": "3621",
+      "name": "AMERICAN SUPERCONDUCTOR CORP /DE/  (AMSC)  (CIK 0000880807)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2022-06-23",
+      "adsh": "0001193125-22-180073",
+      "file_type": "DEF 14A",
+      "doc": "d277964ddef14a.htm",
+      "sic": "3621",
+      "name": "AMERICAN SUPERCONDUCTOR CORP /DE/  (AMSC)  (CIK 0000880807)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2021-06-17",
+      "adsh": "0001193125-21-193232",
+      "file_type": "DEF 14A",
+      "doc": "d95763ddef14a.htm",
+      "sic": "3621",
+      "name": "AMERICAN SUPERCONDUCTOR CORP /DE/  (AMSC)  (CIK 0000880807)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2020-06-19",
+      "adsh": "0001193125-20-174030",
+      "file_type": "DEF 14A",
+      "doc": "d831885ddef14a.htm",
+      "sic": "3621",
+      "name": "AMERICAN SUPERCONDUCTOR CORP /DE/  (AMSC)  (CIK 0000880807)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2019-06-20",
+      "adsh": "0001193125-19-177535",
+      "file_type": "DEF 14A",
+      "doc": "d668261ddef14a.htm",
+      "sic": "3621",
+      "name": "AMERICAN SUPERCONDUCTOR CORP /DE/  (AMSC)  (CIK 0000880807)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2018-06-15",
+      "adsh": "0001193125-18-194400",
+      "file_type": "DEF 14A",
+      "doc": "d570394ddef14a.htm",
+      "sic": "3621",
+      "name": "AMERICAN SUPERCONDUCTOR CORP /DE/  (AMSC)  (CIK 0000880807)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2017-06-16",
+      "adsh": "0001193125-17-205545",
+      "file_type": "DEF 14A",
+      "doc": "d409468ddef14a.htm",
+      "sic": "3621",
+      "name": "AMERICAN SUPERCONDUCTOR CORP /DE/  (AMSC)  (CIK 0000880807)"
+     }
+    ]
+   },
+   "0001136294": {
+    "name": "GLOBAL POWER EQUIPMENT GROUP INC.  (WLMSQ)  (CIK 0001136294)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "10-Q",
+      "date": "2017-12-19",
+      "adsh": "0001558370-17-009392",
+      "file_type": "EX-10.2",
+      "doc": "glpw-20170630ex102cbc9d0.htm",
+      "sic": "3443",
+      "name": "GLOBAL POWER EQUIPMENT GROUP INC.  (WLMSQ)  (CIK 0001136294)"
+     }
+    ]
+   },
+   "0000313716": {
+    "name": "HARDINGE INC  (CIK 0000313716)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEFM14A",
+      "date": "2018-04-16",
+      "adsh": "0001047469-18-002835",
+      "file_type": "DEFM14A",
+      "doc": "a2235164zdefm14a.htm",
+      "sic": "3541",
+      "name": "HARDINGE INC  (CIK 0000313716)"
+     }
+    ]
+   },
+   "0000914122": {
+    "name": "Perma-Pipe International Holdings, Inc.  (PPIH)  (CIK 0000914122)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2023-05-09",
+      "adsh": "0001437749-23-013077",
+      "file_type": "DEF 14A",
+      "doc": "ppih20221212_def14a.htm",
+      "sic": "3564",
+      "name": "Perma-Pipe International Holdings, Inc.  (PPIH)  (CIK 0000914122)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2022-05-13",
+      "adsh": "0001437749-22-012244",
+      "file_type": "DEF 14A",
+      "doc": "ppih20220331_def14a.htm",
+      "sic": "3564",
+      "name": "Perma-Pipe International Holdings, Inc.  (PPIH)  (CIK 0000914122)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2021-04-16",
+      "adsh": "0001437749-21-009119",
+      "file_type": "DEF 14A",
+      "doc": "ppih20210127_def14a.htm",
+      "sic": "3564",
+      "name": "Perma-Pipe International Holdings, Inc.  (PPIH)  (CIK 0000914122)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2020-05-11",
+      "adsh": "0001437749-20-010313",
+      "file_type": "DEF 14A",
+      "doc": "ppih20200427_def14a.htm",
+      "sic": "3564",
+      "name": "Perma-Pipe International Holdings, Inc.  (PPIH)  (CIK 0000914122)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2019-05-08",
+      "adsh": "0001437749-19-009045",
+      "file_type": "DEF 14A",
+      "doc": "ppih20181226_def14a.htm",
+      "sic": "3564",
+      "name": "Perma-Pipe International Holdings, Inc.  (PPIH)  (CIK 0000914122)"
+     }
+    ]
+   },
+   "0000046129": {
+    "name": "ALLIENT INC  (ALNT)  (CIK 0000046129)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2026-03-26",
+      "adsh": "0001140361-26-011362",
+      "file_type": "DEF 14A",
+      "doc": "ny20061041x1_def14a.htm",
+      "sic": "3825",
+      "name": "ALLIENT INC  (ALNT)  (CIK 0000046129)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2025-03-26",
+      "adsh": "0001140361-25-010427",
+      "file_type": "DEF 14A",
+      "doc": "ny20038965x1_def14a.htm",
+      "sic": "3825",
+      "name": "ALLIENT INC  (ALNT)  (CIK 0000046129)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2024-04-01",
+      "adsh": "0001140361-24-016876",
+      "file_type": "DEF 14A",
+      "doc": "ny20020287x1_def14a.htm",
+      "sic": "3825",
+      "name": "ALLIENT INC  (ALNT)  (CIK 0000046129)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2023-03-30",
+      "adsh": "0001140361-23-014809",
+      "file_type": "DEF 14A",
+      "doc": "ny20006763x1_def14a.htm",
+      "sic": "3825",
+      "name": "ALLIED MOTION TECHNOLOGIES INC  (ALNT)  (CIK 0000046129)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2022-04-06",
+      "adsh": "0001140361-22-013310",
+      "file_type": "DEF 14A",
+      "doc": "ny20001988x1_def14a.htm",
+      "sic": "3825",
+      "name": "ALLIED MOTION TECHNOLOGIES INC  (ALNT)  (CIK 0000046129)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2021-04-07",
+      "adsh": "0001104659-21-047367",
+      "file_type": "DEF 14A",
+      "doc": "tm212016d1_def14a.htm",
+      "sic": "3825",
+      "name": "ALLIED MOTION TECHNOLOGIES INC  (ALNT)  (CIK 0000046129)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2020-04-03",
+      "adsh": "0001104659-20-042933",
+      "file_type": "DEF 14A",
+      "doc": "tm201552-1_def14a.htm",
+      "sic": "3825",
+      "name": "ALLIED MOTION TECHNOLOGIES INC  (ALNT)  (CIK 0000046129)"
+     }
+    ]
+   },
+   "0001145986": {
+    "name": "ASPEN AEROGELS INC  (ASPN)  (CIK 0001145986)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2025-03-17",
+      "adsh": "0000950170-25-040250",
+      "file_type": "DEF 14A",
+      "doc": "aspn-20250317.htm",
+      "sic": "5030",
+      "name": "ASPEN AEROGELS INC  (ASPN)  (CIK 0001145986)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2024-04-10",
+      "adsh": "0001104659-24-045565",
+      "file_type": "DEF 14A",
+      "doc": "tm2410273d2_def14a.htm",
+      "sic": "5030",
+      "name": "ASPEN AEROGELS INC  (ASPN)  (CIK 0001145986)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2023-04-18",
+      "adsh": "0001193125-23-104981",
+      "file_type": "DEF 14A",
+      "doc": "d457687ddef14a.htm",
+      "sic": "5030",
+      "name": "ASPEN AEROGELS INC  (ASPN)  (CIK 0001145986)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2023-04-04",
+      "adsh": "0001193125-23-091007",
+      "file_type": "PRE 14A",
+      "doc": "d457687dpre14a.htm",
+      "sic": "5030",
+      "name": "ASPEN AEROGELS INC  (ASPN)  (CIK 0001145986)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2022-04-21",
+      "adsh": "0001193125-22-113146",
+      "file_type": "DEF 14A",
+      "doc": "d680408ddef14a.htm",
+      "sic": "5030",
+      "name": "ASPEN AEROGELS INC  (ASPN)  (CIK 0001145986)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2021-04-19",
+      "adsh": "0001564590-21-019439",
+      "file_type": "DEF 14A",
+      "doc": "aspn-def14a_20210601.htm",
+      "sic": "5030",
+      "name": "ASPEN AEROGELS INC  (ASPN)  (CIK 0001145986)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2020-04-24",
+      "adsh": "0001564590-20-018508",
+      "file_type": "DEF 14A",
+      "doc": "aspn-def14a_20200618.htm",
+      "sic": "5030",
+      "name": "ASPEN AEROGELS INC  (ASPN)  (CIK 0001145986)"
+     }
+    ]
+   },
+   "0001057877": {
+    "name": "IDACORP INC  (IDA)  (CIK 0001057877)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2022-04-05",
+      "adsh": "0001057877-22-000027",
+      "file_type": "DEF 14A",
+      "doc": "formdef14a-proxystatementn.htm",
+      "sic": "4911",
+      "name": "IDACORP INC  (IDA)  (CIK 0001057877)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2021-04-06",
+      "adsh": "0001057877-21-000084",
+      "file_type": "DEF 14A",
+      "doc": "formdef14a-proxystatementn.htm",
+      "sic": "4911",
+      "name": "IDACORP INC  (IDA)  (CIK 0001057877)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2020-04-07",
+      "adsh": "0001057877-20-000132",
+      "file_type": "DEF 14A",
+      "doc": "formdef14a-proxystatementn.htm",
+      "sic": "4911",
+      "name": "IDACORP INC  (IDA)  (CIK 0001057877)"
+     }
+    ]
+   },
+   "0000108516": {
+    "name": "WORTHINGTON INDUSTRIES INC  (WOR)  (CIK 0000108516)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2021-08-16",
+      "adsh": "0001564590-21-044538",
+      "file_type": "DEF 14A",
+      "doc": "wor-def14a_20210816.htm",
+      "sic": "3310",
+      "name": "WORTHINGTON INDUSTRIES INC  (WOR)  (CIK 0000108516)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2020-08-12",
+      "adsh": "0001564590-20-039713",
+      "file_type": "DEF 14A",
+      "doc": "wor-def14a_20200812.htm",
+      "sic": "3310",
+      "name": "WORTHINGTON INDUSTRIES INC  (WOR)  (CIK 0000108516)"
+     }
+    ]
+   },
+   "0001489096": {
+    "name": "Thermon Group Holdings, Inc.  (THR)  (CIK 0001489096)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEFM14A",
+      "date": "2026-04-23",
+      "adsh": "0001104659-26-047723",
+      "file_type": "DEFM14A",
+      "doc": "tm2612301-1_defm14a.htm",
+      "sic": "3620",
+      "name": "Thermon Group Holdings, Inc.  (THR)  (CIK 0001489096)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2025-06-18",
+      "adsh": "0001489096-25-000097",
+      "file_type": "DEF 14A",
+      "doc": "thr-20250618.htm",
+      "sic": "3620",
+      "name": "Thermon Group Holdings, Inc.  (THR)  (CIK 0001489096)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2024-06-21",
+      "adsh": "0001489096-24-000141",
+      "file_type": "DEF 14A",
+      "doc": "thr-20240620.htm",
+      "sic": "3620",
+      "name": "Thermon Group Holdings, Inc.  (THR)  (CIK 0001489096)"
+     },
+     {
+      "form": "PRE 14A",
+      "date": "2024-06-11",
+      "adsh": "0001489096-24-000136",
+      "file_type": "PRE 14A",
+      "doc": "thr-20240611.htm",
+      "sic": "3620",
+      "name": "Thermon Group Holdings, Inc.  (THR)  (CIK 0001489096)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2023-06-21",
+      "adsh": "0001489096-23-000090",
+      "file_type": "DEF 14A",
+      "doc": "thr-20230621.htm",
+      "sic": "3620",
+      "name": "Thermon Group Holdings, Inc.  (THR)  (CIK 0001489096)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2022-06-22",
+      "adsh": "0001489096-22-000092",
+      "file_type": "DEF 14A",
+      "doc": "fy2022def14a.htm",
+      "sic": "3620",
+      "name": "Thermon Group Holdings, Inc.  (THR)  (CIK 0001489096)"
+     }
+    ]
+   },
+   "0001606757": {
+    "name": "Kimball Electronics, Inc.  (KE)  (CIK 0001606757)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2025-09-25",
+      "adsh": "0001606757-25-000046",
+      "file_type": "DEF 14A",
+      "doc": "ke-20250925.htm",
+      "sic": "3672",
+      "name": "Kimball Electronics, Inc.  (KE)  (CIK 0001606757)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2023-09-28",
+      "adsh": "0001606757-23-000055",
+      "file_type": "DEF 14A",
+      "doc": "ke-20230927.htm",
+      "sic": "3672",
+      "name": "Kimball Electronics, Inc.  (KE)  (CIK 0001606757)"
+     }
+    ]
+   },
+   "0000796505": {
+    "name": "Clearfield, Inc.  (CLFD)  (CIK 0000796505)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2026-01-15",
+      "adsh": "0001171843-26-000288",
+      "file_type": "DEF 14A",
+      "doc": "clfd20260112_def14a.htm",
+      "sic": "3661",
+      "name": "Clearfield, Inc.  (CLFD)  (CIK 0000796505)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2025-01-16",
+      "adsh": "0001171843-25-000278",
+      "file_type": "DEF 14A",
+      "doc": "clfd20250110_def14a.htm",
+      "sic": "3661",
+      "name": "Clearfield, Inc.  (CLFD)  (CIK 0000796505)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2024-01-11",
+      "adsh": "0001171843-24-000212",
+      "file_type": "DEF 14A",
+      "doc": "clfd20240103_def14a.htm",
+      "sic": "3661",
+      "name": "Clearfield, Inc.  (CLFD)  (CIK 0000796505)"
+     }
+    ]
+   },
+   "0001759631": {
+    "name": "Hyliion Holdings Corp.  (HYLN)  (CIK 0001759631)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2026-04-08",
+      "adsh": "0001628280-26-024125",
+      "file_type": "DEF 14A",
+      "doc": "hyln-20260407.htm",
+      "sic": "3713",
+      "name": "Hyliion Holdings Corp.  (HYLN)  (CIK 0001759631)"
+     },
+     {
+      "form": "DEF 14A",
+      "date": "2025-04-08",
+      "adsh": "0001759631-25-000081",
+      "file_type": "DEF 14A",
+      "doc": "hyln-20250407.htm",
+      "sic": "3713",
+      "name": "Hyliion Holdings Corp.  (HYLN)  (CIK 0001759631)"
+     }
+    ]
+   },
+   "0002044009": {
+    "name": "Armada Acquisition Corp. II  (XRPN, XRPNU, XRPNW)  (CIK 0002044009)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEFM14A",
+      "date": "2026-08-27",
+      "adsh": "0001193125-26-371516",
+      "file_type": "DEFM14A",
+      "doc": "d944435ddefm14a.htm",
+      "sic": "6770",
+      "name": "Armada Acquisition Corp. II  (XRPN, XRPNU, XRPNW)  (CIK 0002044009)"
+     }
+    ]
+   },
+   "0001923891": {
+    "name": "Nano Nuclear Energy Inc.  (NNE)  (CIK 0001923891)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2026-07-28",
+      "adsh": "0001493152-26-034874",
+      "file_type": "DEF 14A",
+      "doc": "formdef14a.htm",
+      "sic": "4911",
+      "name": "Nano Nuclear Energy Inc.  (NNE)  (CIK 0001923891)"
+     }
+    ]
+   },
+   "0001831651": {
+    "name": "Shoals Technologies Group, Inc.  (SHLS)  (CIK 0001831651)",
+    "count": 1,
+    "filings": [
+     {
+      "form": "DEF 14A",
+      "date": "2026-03-20",
+      "adsh": "0001831651-26-000041",
+      "file_type": "DEF 14A",
+      "doc": "shls-20260320.htm",
+      "sic": "3674",
+      "name": "Shoals Technologies Group, Inc.  (SHLS)  (CIK 0001831651)"
+     }
+    ]
+   }
+  }
+ }
+}

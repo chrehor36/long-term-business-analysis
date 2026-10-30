@@ -1,0 +1,24 @@
+NOT IN ROW M2025-032: ", says it "
+NOT IN ROW M1997-127: "underlying profit"
+NOT IN ROW M1997-127: "asset replacement and extraordinary profits/losses"
+NOT IN ROW M2023-031: "Risks pertaining to business investment"
+NOT IN ROW M1998-044: "utilizing commodity derivatives"
+NOT IN ROW M2011-014: "Fluctuations in copper prices
+  associated with changes in copper demand entail a high degree of uncertainty, making it "
+NOT IN ROW M2009-059: ". By the framework's convention on a row about named
+  companies, it is weighed, never a verdict alone; it does not deci"
+NOT IN ROW L2004-003: "utilizing commodity derivatives"
+NOT IN ROW L2004-003: "we leverage derivatives
+to capture price differentials across markets and time horizons"
+NOT IN ROW L1994-035: "high-grade"
+NOT IN ROW L1994-035: "Highly competitive and high-potential business assets"
+NOT IN ROW L1994-035: "rising development and
+   operational costs"
+NOT IN ROW M2011-015: "decrease in coking coal sales volume"
+NOT IN ROW M2017-009: "the depletion of operating mines, the difficulty of developing new mines, and the strengthening of
+   environmental prot"
+NOT IN ROW M2000-014: "new interests through investment in overseas copper mines"
+NOT IN ROW M1999-130: "changes to tax
+   regimes, confiscation of business assets and infringements of rights"
+ids: 59 (42 distinct); fragments checked: 37; hard failures (E-ids, missing ids): 0
+All NOT IN ROW lines are company quotes attributed in parentheses to the AFR or Integrated Report, sitting within 400 characters before an id; reviewed by hand 2026-10-12.

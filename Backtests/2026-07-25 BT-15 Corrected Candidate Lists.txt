@@ -1,0 +1,69 @@
+=== 2013-06-30 ===
+  passers 79 | excluded 2 | pool 77 | taken 45
+    EXCLUDED COL    cap/float 0.00x < 0.25
+    EXCLUDED PSA    cap/float 0.00x < 0.5
+  yield range: 10.16% .. 4.66%
+  financials (7): ELV(PremiumsEarnedNet), AIZ(PremiumsEarnedNet), GL(PremiumsEarnedNet), AET(PolicyholderBenefits), HUM(PremiumsEarnedNet), TRV(PremiumsEarnedNet), AFL(PremiumsEarnedNet)
+  candidates: ELV PBI WU GLW KSS LMT PEG AIZ GRMN ETR MUR GL CCL AET BDX IBM DRI AEP MDLZ CNX WMT ADM CPB HAS BALL MSFT FE TAP AMGN PG LH TGT FLS NOV DGX OMC CSX NDAQ HUM XOM NEE ZBH CSCO TRV AFL
+
+=== 2014-06-30 ===
+  passers 69 | excluded 3 | pool 66 | taken 45
+    EXCLUDED COL    cap/float 0.00x < 0.25
+    EXCLUDED TRIP   cap/float 0.00x < 0.5
+    EXCLUDED TSN    implausible yield 69% (broken price/shares)
+  yield range: 9.08% .. 4.41%
+  financials (15): FCX(Deposits), ELV(PremiumsEarnedNet), PGR(PremiumsEarnedNet), AIZ(PremiumsEarnedNet), GS(Deposits), GL(PremiumsEarnedNet), JPM(Deposits), AFL(PremiumsEarnedNet), CI(PremiumsEarnedNet), HUM(PremiumsEarnedNet), PNC(Deposits), UNH(PremiumsEarnedNet), CB(PremiumsEarnedNet), WFC(Deposits), AET(PolicyholderBenefits)
+  candidates: FCX WU ELV KSS IBM MUR TPR NOC DRI TGT PEG GLW PGR LH AIZ GS WMT LLY GL DGX JPM AFL CI HUM LMT ED BDX PG PNC ETR CCL CSCO PM UNH MDLZ GPS COP MCD CLX CB AEP XOM BALL WFC AET
+
+=== 2015-06-30 ===
+  passers 99 | excluded 3 | pool 96 | taken 45
+    EXCLUDED COL    cap/float 0.00x < 0.25
+    EXCLUDED TRIP   cap/float 0.00x < 0.5
+    EXCLUDED TSN    implausible yield 61% (broken price/shares)
+  yield range: 10.79% .. 4.95%
+  financials (10): AFL(PremiumsEarnedNet), GL(PremiumsEarnedNet), JPM(Deposits), AIZ(PremiumsEarnedNet), PNC(Deposits), DE(PremiumsEarnedNet), ELV(PremiumsEarnedNet), COF(Deposits), PGR(PremiumsEarnedNet), AXP(Deposits)
+  candidates: MUR CVX COP NOV XOM TPR WU IBM FOSL AFL GL KSS GLW JPM WMT INTC NOC PEG DOV AIZ PNC ED PM DE MAT TDC ELV COF F ETR NSC PNW PGR FLS GPS EMR CAT NTAP MSI MCD XRX AXP PG HAL ORCL
+
+=== 2016-06-30 ===
+  passers 109 | excluded 4 | pool 105 | taken 45
+    EXCLUDED COL    cap/float 0.00x < 0.25
+    EXCLUDED PSA    cap/float 0.00x < 0.5
+    EXCLUDED TRIP   cap/float 0.00x < 0.5
+    EXCLUDED TSN    yield 39.0% unverifiable (no float near anchor)
+  yield range: 16.75% .. 6.18%
+  financials (20): BEN(Deposits), COF(Deposits), FITB(Deposits), KEY(Deposits), STT(Deposits), JPM(Deposits), AXP(Deposits), HBAN(Deposits), DE(PremiumsEarnedNet), PNC(Deposits), SLM(Deposits), HOG(Deposits), ELV(PremiumsEarnedNet), GS(Deposits), USB(Deposits), GL(PremiumsEarnedNet), WFC(Deposits), AFL(PremiumsEarnedNet), IVZ(SeparateAccountAsset), APTV(LiabilityForFuturePo)
+  candidates: FOSL CF MPC M BEN COF KSS FITB KEY STT MOS PSX VLO WU IBM GPS JPM BWA AXP CMI HBAN DE PNC SLM CSX HOG ELV DOV GS STX USB GL JBL F LYB FLR WFC WDC AFL PH WMT IVZ APTV INTC NSC
+
+=== 2017-06-30 ===
+  passers 79 | excluded 3 | pool 76 | taken 45
+    EXCLUDED COL    cap/float 0.00x < 0.25
+    EXCLUDED TRIP   cap/float 0.00x < 0.5
+    EXCLUDED TSN    yield 41.6% unverifiable (no float near anchor)
+  yield range: 17.07% .. 4.94%
+  financials (19): COF(Deposits), AFL(PremiumsEarnedNet), LNC(PremiumsEarnedNet), FITB(Deposits), TRV(PremiumsEarnedNet), GS(Deposits), BEN(Deposits), WFC(Deposits), HOG(Deposits), USB(Deposits), RF(Deposits), AXP(Deposits), GL(PremiumsEarnedNet), STT(Deposits), HRB(Deposits), ALL(PremiumsEarnedNet), JPM(Deposits), ELV(PremiumsEarnedNet), PNC(Deposits)
+  candidates: FOSL URBN COF M KSS LYB AFL IBM TGT F LNC FITB AN GPS KR CPRI TRV GS VLO BEN WFC HOG QCOM USB INTC RF WMT AXP GL STT HRB ALL AZO GWW JPM R ADM CMI RTX OMC FLR CSCO ELV PNC TROW
+
+=== 2018-06-30 ===
+  passers 80 | excluded 2 | pool 78 | taken 45
+    EXCLUDED COL    cap/float 0.00x < 0.25
+    EXCLUDED TSN    implausible yield 50% (broken price/shares)
+  yield range: 11.76% .. 4.99%
+  financials (22): BEN(Deposits), LNC(PremiumsEarnedNet), WFC(Deposits), HRB(Deposits), IVZ(SeparateAccountAsset), AFL(PremiumsEarnedNet), FITB(Deposits), HOG(Deposits), USB(Deposits), CVS(PremiumsEarnedNet), AMP(Deposits), PNC(Deposits), TRV(PremiumsEarnedNet), PFG(PremiumsEarnedNet), ALL(PremiumsEarnedNet), STT(Deposits), GL(PremiumsEarnedNet), RF(Deposits), GS(Deposits), UNM(PremiumsEarnedNet), JPM(Deposits), APTV(LiabilityForFuturePo)
+  candidates: TGNA BEN LYB BBWI AN LNC WFC PDCO HRB IVZ F AFL FITB HOG USB CVS HPQ KR AMP BIG PNC TRV PFG ALL STT GPS PBI AZO R OMC GL CPRI ETN GT TGT PHM M RF EMN GS UNM JPM CMCSA APTV ADM
+
+=== 2019-06-30 ===
+  passers 85 | excluded 3 | pool 82 | taken 45
+    EXCLUDED COL    implausible yield 10482% (broken price/shares)
+    EXCLUDED HST    cap/float 0.00x < 0.5
+    EXCLUDED TSN    yield 47.6% unverifiable (no float near anchor)
+  yield range: 11.87% .. 5.13%
+  financials (22): IVZ(SeparateAccountAsset), WFC(Deposits), STT(Deposits), HOG(Deposits), LNC(PremiumsEarnedNet), FITB(Deposits), PFG(PremiumsEarnedNet), RF(Deposits), USB(Deposits), AMP(Deposits), HRB(Deposits), PNC(Deposits), AFL(PremiumsEarnedNet), BNY(Deposits), JPM(Deposits), UNM(PremiumsEarnedNet), GS(Deposits), TFC(Deposits), ALL(PremiumsEarnedNet), GL(PremiumsEarnedNet), TRV(PremiumsEarnedNet), APTV(LiabilityForFuturePo)
+  candidates: LYB PBI FOXA AN IVZ CPRI WFC KR M STT HOG GPS BBWI LNC GT F HPQ KSS R FITB PFG RF USB EMN AMP VLO HRB PNC AFL BNY OMC JPM MO UNM GS TFC BIIB ADM ALL GILD GL LEN TRV TEL APTV
+
+=== 2020-06-30 ===
+  passers 96 | excluded 2 | pool 94 | taken 45
+    EXCLUDED COL    implausible yield 10482% (broken price/shares)
+    EXCLUDED TSN    implausible yield 91% (broken price/shares)
+  yield range: 26.47% .. 6.79%
+  financials (26): WFC(Deposits), PRU(PremiumsEarnedNet), UNM(PremiumsEarnedNet), LNC(PremiumsEarnedNet), HOG(Deposits), IVZ(SeparateAccountAsset), FITB(Deposits), PFG(PremiumsEarnedNet), USB(Deposits), SPG(RealEstateInvestment), RF(Deposits), AFL(PremiumsEarnedNet), SLM(Deposits), BNY(Deposits), PNC(Deposits), STT(Deposits), JPM(Deposits), MTB(Deposits), MS(Deposits), BAC(Deposits), HBAN(Deposits), BEN(Deposits), AMP(Deposits), TRV(PremiumsEarnedNet), COF(Deposits), KIM(RealEstateInvestment)
+  candidates: M CPRI PBI CCL WFC KSS PRU UNM LYB FOXA FLR LUV LNC AN HOG IVZ FITB PFG TPR USB SPG HPQ RF AFL VLO SLM OMC BNY PNC STT JPM MTB EMN MS BAC HBAN BEN HST URBN AMP TRV GPS COF KIM GD

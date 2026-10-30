@@ -1,0 +1,21 @@
+FY rev soi soi% oi ni ntoa avg_ntoa soi/ntoa  netcap roc(pti+int?) roe
+2012   6708  457  6.8% oi  358 ni  146 ntoa   2716 soi/avgNTOA  17.1% netcap   1440 oi/avgnetcap  22.0% roe  19.0% eq 667
+2013   6820  567  8.3% oi  512 ni  261 ntoa   2879 soi/avgNTOA  20.3% netcap   2257 oi/avgnetcap  27.7% roe  23.9% eq 1521
+2014   6957  585  8.4% oi  655 ni  338 ntoa   2826 soi/avgNTOA  20.5% netcap   2075 oi/avgnetcap  30.2% roe  23.4% eq 1365
+2015   7020  667  9.5% oi  769 ni  404 ntoa   2744 soi/avgNTOA  23.9% netcap   1869 oi/avgnetcap  39.0% roe  28.3% eq 1490
+2016   7068  715 10.1% oi  876 ni  573 ntoa   2878 soi/avgNTOA  25.4% netcap   2211 oi/avgnetcap  42.9% roe  36.5% eq 1653
+2017   7441  688  9.2% oi  881 ni  479 ntoa   3065 soi/avgNTOA  23.2% netcap   2336 oi/avgnetcap  38.8% roe  28.1% eq 1758
+2018   8176  663  8.1% oi  951 ni  836 ntoa   3007 soi/avgNTOA  21.8% netcap   2559 oi/avgnetcap  38.9% roe  51.1% eq 1516
+2019   8899  631  7.1% oi  736 ni  549 ntoa   3405 soi/avgNTOA  19.7% netcap   2799 oi/avgnetcap  27.5% roe  35.4% eq 1588
+2020   9361  555  5.9% oi  799 ni  696 ntoa   3516 soi/avgNTOA  16.0% netcap   3075 oi/avgnetcap  27.2% roe  39.9% eq 1901
+2021   9524  683  7.2% oi  513 ni  544 ntoa   3757 soi/avgNTOA  18.8% netcap   5479 oi/avgnetcap  12.0% roe  23.1% eq 2808
+2022  10676  712  6.7% oi  565 ni  579 ntoa   3849 soi/avgNTOA  18.7% netcap   5927 oi/avgnetcap   9.9% roe  18.4% eq 3489
+2023  11454  842  7.4% oi  781 ni  681 ntoa   3863 soi/avgNTOA  21.8% netcap   6108 oi/avgnetcap  13.0% roe  18.0% eq 4093
+2024  11535  573  5.0% oi  535 ni  550 ntoa   4181 soi/avgNTOA  14.2% netcap   7038 oi/avgnetcap   8.1% roe  12.6% eq 4666
+2025  12484  717  5.7% oi  657 ni  605 ntoa   4266 soi/avgNTOA  17.0% netcap   6999 oi/avgnetcap   9.4% roe  12.4% eq 5073
+2012-25 soi/rev 0.07295183003955753
+2021-25 soi/rev 0.06335207371616403
+2012-20 soi/rev 0.08075967859751644
+ntoa by year {2011: 2643, 2012: 2716, 2013: 2879, 2014: 2826, 2015: 2744, 2016: 2878, 2017: 3065, 2018: 3007, 2019: 3405, 2020: 3516, 2021: 3757, 2022: 3849, 2023: 3863, 2024: 4181, 2025: 4266}
+inv {2011: 380.0, 2012: 288.0, 2013: 311.0, 2014: 339.0, 2015: 285.0, 2016: 210.0, 2017: 183.0, 2018: 128.0, 2019: 136.0, 2020: 137.0, 2021: 161.0, 2022: 183.0, 2023: 186.0, 2024: 208.0, 2025: 219.0}
+bix {2010: 107.0, 2011: 101.0, 2012: 134.0, 2013: 115.0, 2014: 74.0, 2015: 125.0, 2016: 166.0, 2017: 146.0, 2018: 331.0, 2019: 373.0, 2020: 585.0, 2021: 651.0}

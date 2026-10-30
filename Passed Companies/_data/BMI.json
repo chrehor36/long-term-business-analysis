@@ -1,0 +1,24 @@
+{
+ "ticker": "BMI",
+ "name": "Badger Meter",
+ "headline": "Makes the smart water meters and software that US utilities rarely replace once installed.",
+ "what_short": "Smart water meters and metering software",
+ "what_it_does": "Badger Meter sells water meters, the radio devices that read them, and cloud software that receives the readings, mainly to US water utilities. Utility water was about 89% of 2025 sales and industrial flow instruments about 11%.",
+ "why_it_passed": [
+  "Water utilities are risk-averse and change their meter and software systems only on a 12 to 15 year cycle, so the installed base keeps customers in place.",
+  "A rival with money and a sales channel lost money in every year the analysis examined, and Badger has passed cost increases on to customers each time.",
+  "Its gross margin has widened over twenty years.",
+  "It earned about 68% before tax on the $271.6 million of tangible capital it needs, and has had no borrowing since 2020."
+ ],
+ "why_not_now": "The price of $123.73 is about 1.95 times the top of the analysis's value range ($36.93 to $63.29), and it is above the top of every cut-back case. A buyer at that price would earn less than the roughly 10% return the analysis requires.",
+ "watch": [
+  "2025 was the top of a wave of meter replacements and a margin peak, so earnings may not stay that high.",
+  "It has bought back shares at $119.61 to $182.15, well above the analysis's value range.",
+  "It faces seven named rivals, including larger groups."
+ ],
+ "value_low": 36.93,
+ "value_high": 63.29,
+ "utility": false,
+ "run_date": "2026-10-07",
+ "currency": "USD"
+}

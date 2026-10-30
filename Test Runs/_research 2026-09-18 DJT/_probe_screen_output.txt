@@ -1,0 +1,38 @@
+entity Trump Media & Technology Group Corp.
+== CURRENT screen ==
+owner_earnings: {'3y_da': -76117996.0, '3y_capex': -74515962.66666667}
+restatement_shift : (1.0, datetime.date(2023, 12, 31))
+scale_shift : 2.80931655899354
+acquisition_flag : None
+working_capital_flag : (datetime.date(2025, 12, 31), 'IncreaseDecreaseInAccountsPayableAndAccruedLiabilities', 1.8159925735697684, 'ONE LINE MADE THE CASH: AccountsPayableAndAccruedLiabilities moved 182% of 2025 OCF. Operating cash is not owner earnings when one balance-sheet line produced it (DELL, INOD). Read the 2025 cash-flow statement and liquidity note.')
+da_discontinuity_flag : None
+capex_funding_flag : None
+stale_filer : (datetime.date(2025, 12, 31), 261, '')
+lease_capex_flag : None
+share_count_shift WITH ticker: 1.281281462567096
+share_count_shift no ticker: 1.281281462567096
+sbc_annual: {datetime.date(2022, 12, 31): 0.0, datetime.date(2023, 12, 31): 0.0, datetime.date(2024, 12, 31): 107387100.0, datetime.date(2025, 12, 31): 59191100.0}
+da_annual: {datetime.date(2022, 12, 31): 59100.0, datetime.date(2023, 12, 31): 60400.0, datetime.date(2024, 12, 31): 2933900.0, datetime.date(2025, 12, 31): 7421300.0}
+ocf: ({datetime.date(2021, 12, 31): -1114081.0, datetime.date(2022, 12, 31): -1378277.0, datetime.date(2023, 12, 31): -5135588.0, datetime.date(2024, 12, 31): -60982700.0, datetime.date(2025, 12, 31): 14758100.0}, '')
+capex annual: {datetime.date(2022, 12, 31): 84500.0, datetime.date(2023, 12, 31): 2200.0, datetime.date(2024, 12, 31): 5033800.0, datetime.date(2025, 12, 31): 573500.0}
+capital_acquired: ({datetime.date(2022, 12, 31): 84500.0, datetime.date(2023, 12, 31): 2200.0, datetime.date(2024, 12, 31): 5033800.0, datetime.date(2025, 12, 31): 573500.0}, {})
+rev: {datetime.date(2022, 12, 31): 1470500.0, datetime.date(2023, 12, 31): 4131100.0, datetime.date(2024, 12, 31): 3618800.0, datetime.date(2025, 12, 31): 3682600.0}
+shares: (datetime.date(2026, 8, 7), 277941274.0)
+== a8bc84f on facts filed by 2026-09-01 ==
+share_count_shift : 1.281281462567096
+scale_shift : 2.80931655899354
+restatement_shift : (1.0, datetime.date(2023, 12, 31))
+owner_earnings : {'3y_da': -76117996.0, '3y_capex': -74515962.66666667}
+dei elements: ['EntityPublicFloat', 'EntityCommonStockSharesOutstanding']
+dei EntityPublicFloat 2022-12-31 698073000 10-K/A 2023-10-30 CY2022Q4I
+dei EntityPublicFloat 2023-06-30 361000000 10-K 2024-04-01 
+dei EntityPublicFloat 2023-06-30 361000000 10-K/A 2024-04-03 CY2023Q2I
+dei EntityPublicFloat 2024-06-28 2490000000 10-K 2025-02-14 CY2024Q2I
+dei EntityPublicFloat 2025-06-30 2900000000 10-K 2026-02-27 
+dei EntityPublicFloat 2025-06-30 2900000000 10-K/A 2026-04-30 CY2025Q2I
+dei EntityCommonStockSharesOutstanding 2025-07-31 277067396 10-Q 2025-08-01 CY2025Q2I
+dei EntityCommonStockSharesOutstanding 2025-11-05 279997636 10-Q 2025-11-07 CY2025Q3I
+dei EntityCommonStockSharesOutstanding 2026-02-25 276731315 10-K 2026-02-27 
+dei EntityCommonStockSharesOutstanding 2026-04-28 276953828 10-K/A 2026-04-30 CY2026Q1I
+dei EntityCommonStockSharesOutstanding 2026-05-06 276953828 10-Q 2026-05-08 
+dei EntityCommonStockSharesOutstanding 2026-08-07 277941274 10-Q 2026-08-10 CY2026Q2I

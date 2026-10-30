@@ -1,0 +1,35 @@
+==============================================================================
+Mastercard Inc  (MA)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.49%   09/25/2026   US Treasury daily par yield curve
+  price     568.26 USD   2026-09-28   (aggregator — live quote only)
+  shares    906.0M      market cap 514.84B USD
+  share basis: WeightedAverageNumberOfDilutedSharesOutstanding + WeightedAverageNumberOfSharesOutstandingBasic - a WEIGHTED AVERAGE, not a cover-page count
+  ** A weighted average is an EPS denominator, not a share count.
+     For a multi-class filer it is denominated in ONE class. Verify:
+     python Screens/cover_shares.py MA **
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-12-31     11,980      460       799      1,088     10,432     10,721
+    2024-12-31     14,780      526       897      1,194     13,060     13,357
+    2025-12-31     17,648      597     1,143      1,215     15,836     15,908
+          mean                                              13,109     13,329
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 11,501 .. 11,720   yield 2.23%..2.28%
+  DIVERGENCE vs the 3-yr window: -12.3% on the conservative end
+
+  1. THE YIELD                  2.55% ..  2.59%   vs sovereign 5.49%
+  2. GROWTH THE PRICE ASSUMES    5.5%  (at a 5.49% rate)
+  3. POINTS OVER THE SOVEREIGN -0.32 .. -0.28
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

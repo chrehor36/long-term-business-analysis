@@ -1,0 +1,122 @@
+[
+ {
+  "yr": "2013",
+  "years": 13.07,
+  "n": 38,
+  "spy_cagr": 14.26,
+  "ew_cagr": 12.48,
+  "median_name_cagr": 10.34,
+  "names_beating_spy": 11,
+  "pct_names_beating": 28.9,
+  "ew_vs_spy": -1.78,
+  "truncated": [
+   [
+    "AET",
+    "2018-11-29",
+    3.56
+   ]
+  ],
+  "missing": []
+ },
+ {
+  "yr": "2014",
+  "years": 12.07,
+  "n": 38,
+  "spy_cagr": 13.51,
+  "ew_cagr": 13.0,
+  "median_name_cagr": 11.03,
+  "names_beating_spy": 12,
+  "pct_names_beating": 31.6,
+  "ew_vs_spy": -0.51,
+  "truncated": [
+   [
+    "AET",
+    "2018-11-29",
+    2.75
+   ]
+  ],
+  "missing": []
+ },
+ {
+  "yr": "2015",
+  "years": 11.07,
+  "n": 38,
+  "spy_cagr": 14.1,
+  "ew_cagr": 13.07,
+  "median_name_cagr": 11.89,
+  "names_beating_spy": 13,
+  "pct_names_beating": 34.2,
+  "ew_vs_spy": -1.03,
+  "truncated": [],
+  "missing": []
+ },
+ {
+  "yr": "2016",
+  "years": 10.07,
+  "n": 40,
+  "spy_cagr": 15.16,
+  "ew_cagr": 18.18,
+  "median_name_cagr": 12.93,
+  "names_beating_spy": 17,
+  "pct_names_beating": 42.5,
+  "ew_vs_spy": 3.02,
+  "truncated": [],
+  "missing": []
+ },
+ {
+  "yr": "2017",
+  "years": 9.07,
+  "n": 39,
+  "spy_cagr": 14.87,
+  "ew_cagr": 12.69,
+  "median_name_cagr": 12.32,
+  "names_beating_spy": 13,
+  "pct_names_beating": 33.3,
+  "ew_vs_spy": -2.19,
+  "truncated": [],
+  "missing": []
+ },
+ {
+  "yr": "2018",
+  "years": 8.07,
+  "n": 33,
+  "spy_cagr": 14.91,
+  "ew_cagr": 9.88,
+  "median_name_cagr": 9.97,
+  "names_beating_spy": 7,
+  "pct_names_beating": 21.2,
+  "ew_vs_spy": -5.03,
+  "truncated": [],
+  "missing": [
+   "TGNA",
+   "PDCO",
+   "BIG"
+  ]
+ },
+ {
+  "yr": "2019",
+  "years": 7.07,
+  "n": 37,
+  "spy_cagr": 15.49,
+  "ew_cagr": 11.28,
+  "median_name_cagr": 10.38,
+  "names_beating_spy": 8,
+  "pct_names_beating": 21.6,
+  "ew_vs_spy": -4.21,
+  "truncated": [],
+  "missing": []
+ },
+ {
+  "yr": "2020",
+  "years": 6.07,
+  "n": 30,
+  "spy_cagr": 17.07,
+  "ew_cagr": 22.31,
+  "median_name_cagr": 19.47,
+  "names_beating_spy": 18,
+  "pct_names_beating": 60.0,
+  "ew_vs_spy": 5.24,
+  "truncated": [],
+  "missing": []
+ }
+]

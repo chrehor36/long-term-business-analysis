@@ -1,0 +1,20 @@
+CALM: the seven research scripts, so the 17-year rebuild is reproducible
+
+The CALM fold committed the run file, the register entry, the narrative fold and the
+log line, and left the research folder untracked. The raw filings, companyfacts.json
+and the four peer companyfacts stay untracked, as .gitignore intends: large and
+re-fetchable from EDGAR, and the provenance record under operator rule 4 is the
+accession number in the run file, not a copy of the document.
+
+The scripts are neither. They are the arithmetic behind the eight-window owner-earnings
+rebuild ($57.7M to $614.2M over 17 filed years, both (c) ends), the perimeter series
+and the peer row, and they are ~9KB. Committed so another reader can re-derive the
+numbers rather than trust them.
+
+Noted, not fixed (operator rule 6, and .gitignore is not mine to change mid-cycle):
+the run wrote its stripped filing text as tenk_FY2026.txt, 379KB. The 2026-09-07
+stripped-text patterns match *10-K*.txt, *10K*.txt and *10k*.txt, and "tenk" matches
+none of them, so the dump is invisible to the rule that exists for exactly it. It is
+left untracked here; the pattern gap is recorded for the operator.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

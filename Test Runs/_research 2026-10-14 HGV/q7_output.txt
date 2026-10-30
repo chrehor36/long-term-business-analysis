@@ -1,0 +1,37 @@
+year  OCF  NRnet  SBC capex | eq_OC  unlev_OC | NR-as-debt OC | acq | OC/rev(unlev)
+2021 168 -95 48 39 | -14 64.75 | 182.25 | 1592 2.8%
+2022 747 -221 46 97 | 383 489.5 | 745.75 | 0 12.8%
+2023 312 174 40 75 | 371 504.5 | 368.0 | 74 12.7%
+2024 309 259 47 126 | 395 641.75 | 457.0 | 1444 12.9%
+2025 300 404 64 146 | 494 727.25 | 411.0 | 0 14.4%
+
+base 2022-25: unlev 590.75 equity 410.75 NR-as-debt 495.44; literal 2021-25: unlev 485.55 equity 325.80
+acquisitions per year: base 379.5, literal 622.0
+serial-acquirer test: purchases 3110 vs half of unlev OC before purchases 1213.9 and half of equity OC 814.5
+organic growth (pro forma revenue 2022-25) 1.46%; total unlev OC growth 2022-25 14.11%; total revenue growth 9.59%
+
+price 35.18  shares 77.724  mcap 2734  net debt 4604  EV 7338
+cap check (default pair): year-10 OC 790 vs sales 12606 -> 6.3%; highest share earned 14.4%
+
+case | base | g | value@5.56% | per share (less net debt) | expected return at price | value@10% per share
+organic pair, no growth (central bottom) | 590.8 | 0.00% | 10625 | 77.47 | 8.05% | 16.77
+organic pair, organic growth (central top) | 590.8 | 1.46% | 11928 | 94.23 | 8.92% | 24.67
+default pair, acq deducted, total growth | 211.2 | 14.11% | 11599 | 90.00 | 8.12% | 13.41
+default pair, acq deducted, no growth | 211.2 | 0.00% | 3799 | -10.35 | 2.88% | -32.06
+literal window 2021-25, organic, no growth | 485.6 | 0.00% | 8733 | 53.12 | 6.62% | 3.24
+literal window 2021-25, organic growth | 485.6 | 1.46% | 9804 | 66.90 | 7.37% | 9.73
+
+equity-only: base 410.75 yield at price 15.02%
+eq no growth value@5.56% per share 95.05 exp return 15.02% value@10% per share 52.85
+eq organic value@5.56% per share 106.70 exp return 16.30% value@10% per share 58.34
+
+FAIR PRICE (central, organic pair, all-equity): 20.72; equity-only: 55.59
+beside: non-recourse debt counted in net debt (7500): base 495.4, range 18.15 to 32.21, exp return no-growth 4.84%, fair -29.44
+beside: default pair fair -9.32
+
+(e) growth inventory by year {2022: -81, 2023: 95, 2024: 188, 2025: 112} avg 78.5
+(e) maintenance-only no-growth: base 669.25 value 95.63/sh exp return 9.12%
+(e) growth case, all spending charged, organic growth: value 94.23/sh exp return 8.92%
+FAIR (e central, all-equity): 25.77; equity-only: 60.64
+equity-only exp returns at price: maint no-growth 17.89%, growth case 16.30%
+owner cash needed for 10% at EV, no growth: 734

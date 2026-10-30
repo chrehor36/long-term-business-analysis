@@ -1,0 +1,24 @@
+{
+ "ticker": "HD",
+ "name": "Home Depot",
+ "headline": "The biggest home-improvement retailer, selling about 40% more per square foot than its closest rival.",
+ "what_short": "Home-improvement stores and trade supply distribution",
+ "what_it_does": "Home Depot runs 2,359 home-improvement stores in the US, Canada and Mexico, selling to do-it-yourself homeowners, homeowners who hire help, and professional contractors. Online orders are 15.9% of sales. It also owns a trade-distribution group (roofing, building products, landscape, pool and HVAC supplies) with over 1,340 locations.",
+ "why_it_passed": [
+  "Its stores sold about $619 per square foot against $440 for Lowe's, so its fixed costs are spread over about 40% more sales.",
+  "Its gross margin (33.3%) is almost the same as Lowe's (33.5%), so the cost advantage shows up in lower running costs rather than higher prices.",
+  "The store business earned about 45.8% a year before tax on the tangible capital it needs in the latest year.",
+  "The stores make up 98% of operating income, so the business is easy to understand."
+ ],
+ "why_not_now": "At $281.15 a share the price is above the analysis's value range of $199.08 to $249.02. The expected return at that price is 3.9% to 5.5% a year, below a 30-year US Treasury bond (5.66%), which pays more with no business risk.",
+ "watch": [
+  "It has $48.8 billion of senior notes and relies partly on short-term commercial paper that it assumes will keep rolling over.",
+  "Its acquisitions in trade distribution earn little so far ($316 million of operating income on $12.7 billion of sales).",
+  "Its recent cash flow was helped by about $730 million of tariff refunds that will not repeat."
+ ],
+ "value_low": 199.08,
+ "value_high": 249.02,
+ "utility": false,
+ "run_date": "2026-10-06",
+ "currency": "USD"
+}

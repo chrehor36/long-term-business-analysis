@@ -1,0 +1,80 @@
+year | OCF | SBC | SBC/OCF | capex | D&A | OE@capex | OE@D&A
+2018 | -39.0 | 248.5 | n/m (OCF<0) | 13.0 | 13.9 | -300.5 | -301.4
+2019 | -165.2 | 242.0 | n/m (OCF<0) | 13.1 | 12.3 | -420.3 | -419.5
+2020 | -296.6 | 1270.7 | n/m (OCF<0) | 12.2 | 13.9 | -1579.5 | -1581.2
+2021 | 333.9 | 778.2 | 233.1% | 12.6 | 14.9 | -456.9 | -459.2
+2022 | 223.7 | 564.8 | 252.5% | 40.0 | 22.5 | -381.1 | -363.6
+2023 | 712.2 | 475.9 | 66.8% | 15.1 | 33.4 | 221.2 | 202.9
+2024 | 1153.9 | 691.6 | 59.9% | 12.6 | 31.6 | 449.7 | 430.7
+2025 | 2134.5 | 684.0 | 32.0% | 33.9 | 26.1 | 1416.6 | 1424.4
+TTM 6/26 | 3400.3 | 835.5 | 24.6% | 42.1 | 27.9 | 2522.7 | 2536.9
+H1 2026 SBC/OCF 22.1%  H1 2025 37.1%
+
+windows ending 2025 (mean), capex end / D&A end
+1y 2025-25 | 1416.6 | 1424.4
+2y 2024-25 | 933.1 | 927.6
+3y 2023-25 | 695.8 | 686.0
+4y 2022-25 | 426.6 | 423.6
+5y 2021-25 | 249.9 | 247.0
+6y 2020-25 | -55.0 | -57.7
+7y 2019-25 | -107.2 | -109.4
+8y 2018-25 | -131.4 | -133.4
+
+recent-business windows: 2023-25 mean capex 695.8 ; 2024-25 933.1
+FY2025 ex-interest 1187.4  TTM ex-interest 2256.3 TTM interest 266.4
+
+cap (cover count) 401,863M ; diluted-claims cap 432,754M (adds 184.7M shares)
+cash+MS 6/30/26 9,409.1M ; EV 392,454M
+yield 5y mean D&A (screen bottom): 247.0 / 401,863 = 0.06%  vs sovereign -5.29 pts
+yield 3y mean capex (screen top): 695.8 / 401,863 = 0.17%  vs sovereign -5.18 pts
+yield FY2025 capex: 1416.6 / 401,863 = 0.35%  vs sovereign -5.00 pts
+yield FY2025 ex-interest: 1187.4 / 401,863 = 0.30%  vs sovereign -5.05 pts
+yield TTM capex: 2522.7 / 401,863 = 0.63%  vs sovereign -4.72 pts
+yield TTM ex-interest: 2256.3 / 401,863 = 0.56%  vs sovereign -4.79 pts
+
+GROWTH NEEDED for 10 years (then 3%) to justify EV at the 10% floor:
+  from 5y mean D&A 247: 72.7%/yr
+  from 3y mean capex 696: 55.2%/yr
+  from FY2025 ex-interest: 46.8%/yr
+  from FY2025 capex: 44.1%/yr
+  from TTM ex-interest: 37.1%/yr
+  from TTM capex (cash not credited, full cap): 35.8%/yr
+
+EXPECTANCY at $167.23 (EV basis), growth for N years then 3% forever:
+ N=10y
+   g=10%: from FY25 ex-int 3.59%  from FY25 3.71%  from TTM 4.24%
+   g=15%: from FY25 ex-int 3.91%  from FY25 4.08%  from TTM 4.87%
+   g=20%: from FY25 ex-int 4.36%  from FY25 4.60%  from TTM 5.72%
+   g=25%: from FY25 ex-int 4.96%  from FY25 5.31%  from TTM 6.83%
+   g=30%: from FY25 ex-int 5.76%  from FY25 6.22%  from TTM 8.20%
+   g=40%: from FY25 ex-int 8.00%  from FY25 8.73%  from TTM 11.70%
+   g=50%: from FY25 ex-int 11.09%  from FY25 12.10%  from TTM 16.06%
+ N=15y
+   g=10%: from FY25 ex-int 3.80%  from FY25 3.95%  from TTM 4.64%
+   g=15%: from FY25 ex-int 4.47%  from FY25 4.73%  from TTM 5.86%
+   g=20%: from FY25 ex-int 5.52%  from FY25 5.91%  from TTM 7.59%
+   g=25%: from FY25 ex-int 6.99%  from FY25 7.55%  from TTM 9.79%
+   g=30%: from FY25 ex-int 8.90%  from FY25 9.62%  from TTM 12.39%
+   g=40%: from FY25 ex-int 13.75%  from FY25 14.75%  from TTM 18.43%
+   g=50%: from FY25 ex-int 19.55%  from FY25 20.77%  from TTM 25.16%
+ N=20y
+   g=10%: from FY25 ex-int 4.07%  from FY25 4.25%  from TTM 5.10%
+   g=15%: from FY25 ex-int 5.23%  from FY25 5.57%  from TTM 7.00%
+   g=20%: from FY25 ex-int 7.06%  from FY25 7.57%  from TTM 9.58%
+   g=25%: from FY25 ex-int 9.49%  from FY25 10.16%  from TTM 12.68%
+   g=30%: from FY25 ex-int 12.38%  from FY25 13.19%  from TTM 16.11%
+   g=40%: from FY25 ex-int 19.02%  from FY25 20.02%  from TTM 23.58%
+   g=50%: from FY25 ex-int 26.27%  from FY25 27.42%  from TTM 31.47%
+
+steady-state OE for 10% on EV: 39,245M ; FY2025 OE margin 31.7% ; TTM rev 6155.8 TTM OE margin 41.0%
+  at OE margin 32%: revenue needed 123,803M = 27.7x FY2025, 15.2x FY2026 guidance
+  at OE margin 41%: revenue needed 95,721M = 21.4x FY2025, 11.7x FY2026 guidance
+  at OE margin 50%: revenue needed 78,491M = 17.5x FY2025, 9.6x FY2026 guidance
+value FY2025 ex-int at sov: $31.6bn = $13.15/sh
+value FY2025 ex-int at floor: $21.3bn = $8.86/sh
+value FY2025 at sov: $35.9bn = $14.93/sh
+value FY2025 at floor: $23.6bn = $9.81/sh
+value TTM ex-int at sov: $51.6bn = $21.47/sh
+value TTM ex-int at floor: $32.0bn = $13.30/sh
+value TTM at sov: $56.6bn = $23.54/sh
+value TTM at floor: $34.6bn = $14.41/sh

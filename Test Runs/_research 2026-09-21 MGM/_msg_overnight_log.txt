@@ -1,0 +1,14 @@
+overnight cycle: MGM run and folded, all six steps verified independently
+
+WAVE 7 name 25 of 218. Register entry 157. Q1 IN, Q2 OUT on the business,
+hard sequence stopped there and no Q5 was reported.
+
+The cycle's own verification, done after the agent's: register entry unique
+and first in the register (157 counted by line index inside the slice from
+the line-exact heading to THE WRITE-EARLY PROTOCOL), _wave7_done.txt at 25
+lines with MGM last, narrative fold present in the PREPPED READING LIST,
+alerts.json and PORTFOLIO.md both 0 for MGM as a Q2 failure requires,
+check_framework.py PASS on every check, tracked tree clean, and the four
+commits each carry a pathspec.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

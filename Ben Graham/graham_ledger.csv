@@ -1,0 +1,22 @@
+quote,source,chapter_page,concept,gate,status
+"An investment operation is one which, upon thorough analysis promises safety of principal and an adequate return.","II rev.ed.","ch.1 pdf-p.32","investment vs speculation","G1","VERIFIED verbatim 2026-07-17 (hyphenation repaired: prom-ises)"
+"Imagine that in some private business you own a small share that cost you $1,000. One of your partners, named Mr.",II rev.ed.,pdf-p.218,G1 Mr Market parable,G1,VERIFIED verbatim 2026-07-17; attribution=GRAHAM; hyphenation-repaired
+price fluctuations have only one significant meaning for the true investor.,II rev.ed.,pdf-p.219,G1 price-fluctuation rule,G1,VERIFIED verbatim 2026-07-17; attribution=GRAHAM; hyphenation-repaired
+current assets should be at least twice current liabilities—a so-called two-to-one current ratio.,II rev.ed.,pdf-p.362,G2 def current ratio,G2,VERIFIED verbatim 2026-07-17; attribution=GRAHAM; hyphenation-repaired
+,II rev.ed.,,G2 def LT debt,G2,NOT FOUND by pattern -- manual pass needed
+Some earnings for the common stock in each of the past ten years,II rev.ed.,pdf-p.362,G2 def earnings stability,G2,VERIFIED verbatim 2026-07-17; attribution=GRAHAM; hyphenation-repaired
+Uninterrupted payments for at least the past 20 years,II rev.ed.,pdf-p.362,G2 def dividend record,G2,VERIFIED verbatim 2026-07-17; attribution=GRAHAM; hyphenation-repaired
+,II rev.ed.,,G2 def growth third,G2,NOT FOUND by pattern -- manual pass needed
+,II rev.ed.,,G3 def P/E 15,G3,NOT FOUND by pattern -- manual pass needed
+multiplier times the ratio of price to book value should not exceed 22.5,II rev.ed.,pdf-p.363,G3 def P/B & 22.5,G3,VERIFIED verbatim 2026-07-17; attribution=GRAHAM; hyphenation-repaired
+minimum of ten different issues and a maximum of about thirty,II rev.ed.,pdf-p.128,G5 diversification 10-30,G5,VERIFIED verbatim 2026-07-17; attribution=GRAHAM; hyphenation-repaired
+,II rev.ed.,,G2 ent current 1.5 & debt,G2,NOT FOUND by pattern -- manual pass needed
+less than their net-current-asset value,II rev.ed.,pdf-p.404,G3 net-current-asset,G3,VERIFIED verbatim 2026-07-17; attribution=GRAHAM; hyphenation-repaired
+"secret of sound investment into three words, we venture the motto, MARGIN OF SAFETY.",II rev.ed.,pdf-p.1,G4 MOS three words,G4,VERIFIED verbatim 2026-07-17; attribution=GRAHAM; hyphenation-repaired
+margin of safety is always dependent on the price paid.,II rev.ed.,pdf-p.531,G4 MOS price-dependent,G4,VERIFIED verbatim 2026-07-17; attribution=GRAHAM; hyphenation-repaired
+long- term debt should not exceed the net current assets (or “working capital”).,II rev.ed.,pdf-p.362,G2 def LT debt,G2,VERIFIED verbatim 2026-07-17 pass-2; attribution=GRAHAM
+increase of at least one-third in per-share earnings in the past ten years using three-year averages at the beginning and end.,II rev.ed.,pdf-p.362,G2 def growth third,G2,VERIFIED verbatim 2026-07-17 pass-2; attribution=GRAHAM
+Current price should not be more than 15 times average earnings of the past three years.,II rev.ed.,"pdf-p.363 (ch.14, criterion 6)",G3 def P/E 15,G3,VERIFIED verbatim 2026-07-17 pass-3; attribution=GRAHAM; hyphenation repaired (earn-ings)
+"Current assets at least 1 1/2 times current liabilities, and (b) debt not more than 110% of net current assets (for industrial companies).",II rev.ed.,"pdf-p.399 (ch.15, criterion 1)",G2 ent current 1.5 & debt,G2,VERIFIED verbatim 2026-07-17 pass-3; attribution=GRAHAM; unicode fraction normalized
+"to distill the secret of sound investment into three words, we venture the motto, MARGIN OF SAFETY.",II rev.ed.,pdf-p.526 (ch.20),G4 MOS three words,G4,VERIFIED verbatim 2026-07-17 pass-3; attribution=GRAHAM; hyphenation repaired (invest-ment); supersedes the pass-1 row with the wrong page
+"An investment operation is one which, upon thorough analysis, promises safety of principal and a satisfactory return. Operations not meeting these requirements are speculative.",SA (Graham & Dodd),book p.54 / pdf-p.65,G1 investment vs speculation (SA edition),G1,"VERIFIED 2026-07-17 by EYE against the page image (OCR garbled the italics -- located via fuzzy search, then visually confirmed per the OCR-ambiguity rule). EDITION NOTE: SA says ""a satisfactory return"" where II ch.1 says ""an adequate return"" -- both verified, difference recorded."

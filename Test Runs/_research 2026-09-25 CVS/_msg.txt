@@ -1,0 +1,5 @@
+CVS CVS Health: fold - register entry 163, _wave7_done 31, narrative fold (Q2 OUT on the business: three spread businesses whose prices are set by CMS, PBM clients and payers); check_framework PASS
+
+The queue file is committed from the HEAD blob plus the CVS register entry only; the CRM re-look hunks in it and in tools/alerts.json stay uncommitted in the working tree.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>

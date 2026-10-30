@@ -1,0 +1,36 @@
+FC fold: register entry 144, wave 7 name 12, FAIL at Q2 -- and as with MGPI the price was never the problem: the screen's own five-year window prices FC at a 13.0% owner-earnings yield on the hand-struck $195M cap, and the file closes anyway because the filer's own 10-K names twenty-four substitutes and lists "Competitive pricing" among the ten factors that decide a sale
+
+All six fold steps done. Register counted 143 before, 144 after, by line-start regex inside
+the slice from the `## COMPLETED FROM THE QUEUE` heading line (502) to `## THE WRITE-EARLY
+PROTOCOL`; 144 distinct tickers, no duplicate. FC appended to _wave7_done.txt (12 lines).
+Narrative fold into the prepped reading list. NO alerts band and NO PORTFOLIO row -- the
+QLYS ruling; the reversal condition is in words and is deliberately not a price.
+check_framework.py PASS before the commit; 93 ledger ids cited, 0 phantom.
+
+THE GATE. Q2 OUT on [E3-03] criterion 2. Twelve-year EBIT on capital employed: FC 10.9%,
+Korn Ferry 10.1%, Heidrick 7.8%, Accenture 33.9% and never negative, Udemy/Coursera/
+Skillsoft negative in every filed year. FC's returns are the advisory pack's returns, and
+the loss-making library class says the content alone is worth nothing -- the consultants are
+what is being sold. Direction narrowing on four filed series: revenue -7.0% with FY2026
+guidance cut, new Leader in Me schools 739 -> 728 -> 624, operating margin 11.5% -> 2.1% on
+a 7% revenue fall, and the AAP revenue-retention number WITHDRAWN in FY2025 after three
+years of publishing it, in the same document that concedes "lower client retention".
+
+THREE TOOLING DEFECTS, two of them new classes.
+1. FC tags capitalized curriculum development under fc:PaymentsForCurriculumDevelopmentCosts,
+   a company extension; SEC companyfacts carries no custom namespace at all, so the screen
+   sees 45% of eighteen years of capex ($67.4M of $149.1M). A source limit, not a bug.
+2. The D&A tags resolve to $4.1M for FY2025 against a filed $12,898k, because FC splits
+   Depreciation and Amortization on the face of the income statement. A run using the
+   undimensioned fetch sets (c) at a third of its default -- the SBC-of-zero shape, in the
+   (c) input.
+3. The cap is struck off the ANNUAL cover share count when a newer 10-Q cover count exists
+   and is 7.1% lower. Points the benign way (names look dearer) but is still wrong.
+
+SCREEN FLAGS: wc_note RIGHT for the first time in four runs (deferred revenue genuinely is
+the largest FY2021 mover at +42.9% of OCF and genuinely produced the cash -- the EMBC/MCFT/
+BRBR inversion pattern does not reproduce). cap_flag wrong by 18%, the CALM/EMBC/BRBR
+branch. acq_note empty is FALSE, 0 for 4 now. name_change_note empty is GENUINELY CORRECT
+and verified in the filing history -- first negative result against the BRBR defect class.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

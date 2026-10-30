@@ -1,0 +1,117 @@
+==========================================================================================
+VISA INC (V)   $383.73   1,898.0M sh   cap $728.32B   hurdle 5.19%   rate 8.19%   MOS 10%
+==========================================================================================
+  OE tiers (OCF - SBC - maint capex band):
+    2020-09-30   $   9,257.0M .. $   9,288.0M
+    2021-09-30   $  13,881.0M .. $  13,980.0M
+    2022-09-30   $  17,277.0M .. $  17,386.0M
+    2023-09-30   $  18,931.0M .. $  19,047.0M
+    2024-09-30   $  17,843.0M .. $  18,066.0M
+    2025-09-30   $  20,680.0M .. $  20,942.0M
+  5-yr MEDIAN  $17,843.0M .. $18,066.0M     CURRENT tier $20,680.0M .. $20,942.0M
+
+  BOOK ONE (hurdle 5.19%)
+    median lo     2.45%  FAIL    statute price $181.14
+    median hi     2.48%  FAIL    statute price $183.40
+    current lo    2.84%  FAIL    statute price $209.94
+    current hi    2.88%  FAIL    statute price $212.60
+
+  BOOK TWO  [MOS 10% = 10 base (WIDE, 4/4 inversions resolved)]   base = CURRENT tier
+         g1    FAIR lo    FAIR hi   CHEAP lo   CHEAP hi   verdict
+       3.0%     200.49     203.03     180.44     182.73   WAIT
+       5.0%     218.18     220.94     196.36     198.85   WAIT
+       8.0%     247.35     250.49     222.62     225.44   WAIT
+
+    IRR at $383.73 (g1 5%): 5.75% vs 5.19% = +0.56 pts equity premium
+    implied g1 to justify the quote: 18.8%
+    Book One yield on current tier: 2.84%
+
+    RULING 8 FLAG: buybacks at all prices. Binds Gate 7 sizing, not the rate.
+
+==========================================================================================
+H&R BLOCK (HRB)   $52.97   123.3M sh   cap $6.53B   hurdle 5.19%   rate 9.69%   MOS 30%
+==========================================================================================
+  OE tiers (OCF - SBC - maint capex band):
+    2021-04-30   $     440.8M .. $     544.9M
+    2022-06-30   $     632.1M .. $     712.3M
+    2023-06-30   $     660.0M .. $     720.8M
+    2024-06-30   $     564.8M .. $     622.9M
+    2025-06-30   $     531.6M .. $     566.3M
+    2026-06-30   $     685.8M .. $     725.6M
+  5-yr MEDIAN  $632.1M .. $712.3M     CURRENT tier $685.8M .. $725.6M
+
+  BOOK ONE (hurdle 5.19%)
+    median lo     9.68%  PASS    statute price $98.78
+    median hi    10.91%  PASS    statute price $111.31
+    current lo   10.50%  PASS    statute price $107.16
+    current hi   11.11%  PASS    statute price $113.39
+
+  BOOK TWO  [MOS 30% = 10 base +10 NARROW +10 unresolved [U] on management]   base = CURRENT tier
+         g1    FAIR lo    FAIR hi   CHEAP lo   CHEAP hi   verdict
+      -2.0%      65.79      69.61      46.05      48.72   WAIT
+       0.0%      71.50      75.66      50.05      52.96   WAIT
+       3.0%      80.94      85.64      56.66      59.95   BUY-ELIGIBLE
+
+    IRR at $52.97 (g1 0%): 12.26% vs 5.19% = +7.07 pts equity premium
+    implied g1 to justify the quote: -7.1%
+    Book One yield on current tier: 10.50%
+
+==========================================================================================
+TABLE TRAC (TBTC)   $6.10   4.6M sh   cap $0.03B   hurdle 7.19%   rate 10.19%   MOS 30%
+==========================================================================================
+  OE tiers (OCF - SBC - maint capex band):
+    2019-12-31   $      -0.0M .. $      -0.0M
+    2020-12-31   $      -0.1M .. $      -0.0M
+    2022-12-31   $      -0.3M .. $      -0.3M
+    2023-12-31   $       0.2M .. $       0.3M
+    2024-12-31   $       1.8M .. $       1.9M
+    2025-12-31   $       1.7M .. $       1.7M
+  5-yr MEDIAN  $0.2M .. $0.3M     CURRENT tier $1.7M .. $1.7M
+
+  BOOK ONE (hurdle 7.19%)
+    median lo     0.76%  FAIL    statute price $0.65
+    median hi     0.90%  FAIL    statute price $0.76
+    current lo    5.86%  FAIL    statute price $4.97
+    current hi    5.90%  FAIL    statute price $5.00
+
+  BOOK TWO  [MOS 30% = 10 base +10 NARROW +10 unresolved [U] succession]   base = CURRENT tier
+         g1    FAIR lo    FAIR hi   CHEAP lo   CHEAP hi   verdict
+      -1.5%       4.04       4.07       2.83       2.85   WAIT
+       0.0%       4.30       4.33       3.01       3.03   WAIT
+       3.0%       4.86       4.89       3.40       3.43   WAIT
+
+    IRR at $6.10 (g1 0%): 7.89% vs 5.19% = +2.70 pts equity premium
+    implied g1 to justify the quote: 8.6%
+    Book One yield on current tier: 5.86%
+
+    SEE THE CONSISTENCY FINDING - the tier table is NOT consistent earning power [E2-25].
+
+==========================================================================================
+TJX COMPANIES (TJX)   $137.75   1,117.0M sh   cap $153.87B   hurdle 5.19%   rate 8.19%   MOS 10%
+==========================================================================================
+  OE tiers (OCF - SBC - maint capex band):
+    2021-01-30   $   3,632.0M .. $   3,935.0M
+    2022-01-29   $   1,823.0M .. $   2,000.0M
+    2023-01-28   $   2,505.0M .. $   3,075.0M
+    2024-02-03   $   4,175.0M .. $   4,933.0M
+    2025-02-01   $   4,015.0M .. $   4,829.0M
+    2026-01-31   $   4,703.0M .. $   5,413.0M
+  5-yr MEDIAN  $4,015.0M .. $4,829.0M     CURRENT tier $4,703.0M .. $5,413.0M
+
+  BOOK ONE (hurdle 5.19%)
+    median lo     2.61%  FAIL    statute price $69.26
+    median hi     3.14%  FAIL    statute price $83.30
+    current lo    3.06%  FAIL    statute price $81.12
+    current hi    3.52%  FAIL    statute price $93.37
+
+  BOOK TWO  [MOS 10% = 10 base (WIDE, 4/4 inversions resolved)]   base = CURRENT tier
+         g1    FAIR lo    FAIR hi   CHEAP lo   CHEAP hi   verdict
+       4.8%      83.43      96.02      75.08      86.42   WAIT
+       9.0%      99.63     114.67      89.67     103.21   WAIT
+
+    IRR at $137.75 (g1 9%): 6.65% vs 5.19% = +1.46 pts equity premium
+    implied g1 to justify the quote: 17.0%
+    Book One yield on current tier: 3.06%
+
+    Cross-check of the 2026-08-26 TJX run under the corrected OE construction.
+

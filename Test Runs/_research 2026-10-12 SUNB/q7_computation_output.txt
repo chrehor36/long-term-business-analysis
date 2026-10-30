@@ -1,0 +1,29 @@
+years ['FY2022', 'FY2023', 'FY2024', 'FY2025', 'FY2026']
+A eq-only owner cash before acquisitions [970, 328, -22, 1651, 1951] avg 976
+A eq-only owner cash, acquisitions deducted [-308, -755, -898, 1504, 1761] avg 261
+after-tax debt interest [140, 183, 294, 312, 271] avg 240
+A all-equity, acquisitions deducted [-168, -572, -604, 1816, 2032] avg 501
+A all-equity, before acquisitions [1110, 511, 272, 1963, 2222] avg 1215
+B maintenance-only all-equity (M) [1482, 1912, 1976, 1960, 1688] avg 1804
+B equity-only M less after-tax interest [1342, 1730, 1682, 1648, 1417] avg 1564
+growth spending G (net capex - dep + acq + WC) [1877, 2662, 2688, 170, -218] avg 1436
+net capex [1795, 2957, 3582, 2184, 1735] dep [1399, 1609, 1926, 2137, 2196] wc incr [203, 231, 156, -24, 53]
+shown growth of M: end-to-end CAGR FY22-26 3.31 % ; halves (FY22-23 avg to FY25-26 avg, 3 yrs) 2.43 %
+revenue CAGR FY22-26 8.79 %
+[sovereign 5.60%] maintenance-only, no growth: EV 32207  per share 56.94
+[sovereign 5.60%] growth case (M grown at 3.31%, growth spending G charged, stops after yr10): EV 29124  per share 49.42
+[sovereign 5.60%] equity-only no growth: equity 27923  per share 68.14
+[sovereign 5.60%] equity-only growth: equity 23554  per share 57.48
+[floor 10%] maintenance-only, no growth: EV 18036  per share 22.36
+[floor 10%] growth case (M grown at 3.31%, growth spending G charged, stops after yr10): EV 12274  per share 8.3
+[floor 10%] equity-only no growth: equity 15637  per share 38.16
+[floor 10%] equity-only growth: equity 9267  per share 22.62
+[sovereign] series A (acq deducted) no-growth alone: EV 8943  per share 0.17
+[sovereign] series A before acquisitions (organic beside) no-growth: EV 21705  per share 31.31
+[floor] series A (acq deducted) no-growth alone: EV 5008  per share -9.43
+[floor] series A before acquisitions (organic beside) no-growth: EV 12155  per share 8.01
+net debt used 8874  market cap 30802  EV at price 39676
+owner cash yield at price (all-equity, M avg / EV) 4.55 %
+expected return at price, no-growth case 4.55 %
+expected return at price, growth case (IRR) 4.46 %
+expected return at price, growth case without charging growth spending (M grown, nothing charged) 5.89 %

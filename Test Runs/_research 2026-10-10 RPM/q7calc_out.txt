@@ -1,0 +1,13 @@
+owner cash, all capex       [-83.8, 294.0, 882.4, 511.3, 642.4] mean 449.3
+owner cash, maintenance     [34.3, 440.0, 966.6, 594.9, 700.5] mean 547.3
+acquisitions net of sales   [50.9, -10.8, 8.6, 595.8, 179.2] mean 164.7
+owner cash after purchases  [-134.7, 304.8, 873.8, -84.5, 463.2] mean 284.5
+tax rate of the window 0.214; interest mean 106.6; after tax 83.8; net debt 2093.7
+prior block after purchases mean 157.6; growth after purchases 0.1254; all-capex 0.0766; sales 0.0588; organic 0.0454
+all-equity  sovereign    no-growth maint   71.94 | growth capped 5.879%   89.52 | uncapped 12.538%  166.29 | all-capex no-growth   58.22 | organic 4.544%   90.65
+all-equity  ten percent  no-growth maint   33.06 | growth capped 5.879%   35.66 | uncapped 12.538%   68.90 | all-capex no-growth   25.38 | organic 4.544%   40.65
+equity-only sovereign    no-growth maint   76.63 | growth capped 5.879%   87.22 | uncapped 12.538%  151.05 | all-capex no-growth   62.90 | organic 4.544%   90.23
+equity-only ten percent  no-growth maint   42.91 | growth capped 5.879%   42.24 | uncapped 12.538%   69.60 | all-capex no-growth   35.23 | organic 4.544%   48.09
+FAIR PRICE all-equity: (33.06 + 35.66) / 2 = 34.36
+FAIR PRICE equity-only: (42.91 + 42.24) / 2 = 42.57
+return at the price, all-equity: no-growth maint 4.33%; growth capped 5.26%; uncapped 8.06%

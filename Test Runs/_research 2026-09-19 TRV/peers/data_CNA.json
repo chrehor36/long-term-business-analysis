@@ -1,0 +1,19 @@
+{
+"name":"CNA",
+"scope":"Property & Casualty Operations = Specialty + Commercial + International. CNA's 10-K does not print a P&C Operations combined ratio; every P&C figure below is COMPUTED as the net-earned-premium-weighted average of the three reported segment ratios, using each year's own 10-K (as first reported). Cross-check 100 minus (sum of segment underwriting gain / sum of segment NEP) is possible only where the segment tables print underwriting gain (2021 comparative onward).",
+"cr":{"2016":95.91,"2017":97.15,"2018":96.70,"2019":96.69,"2020":100.90,"2021":96.19,"2022":93.18,"2023":93.51,"2024":94.94,"2025":94.73},
+"cr_note":"computed, NEP-weighted segment CRs",
+"cat":{"2016":2.58,"2017":5.89,"2018":3.72,"2019":2.59,"2020":7.70,"2021":5.17,"2022":3.01,"2023":2.61,"2024":3.66,"2025":2.29},
+"cat_note":"computed: reported total P&C catastrophe losses $ / P&C NEP. $: 165, 380, 252, 179, 550, 397, 247, 236, 358, 240 (equals the sum of the three segments' reported cat $ every year). 2020 includes $195m COVID-19 and $61m civil unrest, which CNA classed as catastrophes.",
+"pyd":{"2016":-4.54,"2017":-4.62,"2018":-2.64,"2019":-1.06,"2020":-0.28,"2021":-0.64,"2022":-1.17,"2023":-0.25,"2024":-0.32,"2025":0.49},
+"pyd_note":"computed: Note E pretax net prior year claim and claim adjustment expense reserve development for Specialty+Commercial+International ($m: -290, -298, -179, -73, -20, -49, -96, -23, -31, +51) / P&C NEP. Excludes premium development and excludes Corporate & Other (A&EP, legacy mass tort, and from 2021 legacy excess workers' comp), which ran +50 to +134 a year 2020-2025.",
+"und":{"2016":97.86,"2017":95.87,"2018":95.62,"2019":94.80,"2020":93.17,"2021":91.37,"2022":91.18,"2023":90.93,"2024":91.47,"2025":91.83},
+"und_note":"2019-2025: NEP-weighted average of the segments' REPORTED 'combined ratio excluding catastrophes and development' (2019-2023 label) / 'underlying combined ratio' (2024-2025 label); 2019 taken from the FY2020 10-K comparative column. 2016-2018: COMPUTED as CR minus cat points minus PYD points (not reported by CNA in those years). CNA's reported underlying also strips premium development and interest accretion ('development-related items'), so the reported and computed versions differ by 0.1 to 0.4 points where both exist (computed: 2019 95.15, 2020 93.49, 2021 91.67, 2022 91.34, 2023 91.15, 2024 91.60, 2025 91.96).",
+"exp":{"2016":34.88,"2017":34.18,"2018":33.23,"2019":33.42,"2020":32.64,"2021":31.13,"2022":30.88,"2023":30.69,"2024":30.25,"2025":29.77},
+"exp_note":"computed, NEP-weighted segment expense ratios; EXCLUDES the separately reported dividend ratio (P&C weighted 0.2 to 0.4 points a year).",
+"nep":{"2016":6389,"2017":6450,"2018":6783,"2019":6909,"2020":7146,"2021":7685,"2022":8196,"2023":9030,"2024":9775,"2025":10478},
+"nep_note":"sum of the three segments' reported net earned premiums, $m",
+"roe":{"2016":[859,11756,11969],"2017":[899,11969,12244],"2018":[813,12244,11217],"2019":[1000,11217,12215],"2020":[690,12215,12707],"2021":[1202,12707,12809],"2022":[894,12809,8825],"2023":[1205,8548,9893],"2024":[959,9893,10513],"2025":[1278,10513,11621]},
+"roe_note":"Net income / average total stockholders' equity (CNA has no preferred stock outstanding in the window). Each year's numerator and both equity figures from that year's own 10-K (ending from the balance sheet, beginning from the comparative balance sheet column). CNA publishes no ROE figure in its 10-K (searched 'return on equity', 'core return on').",
+"own_roe":"not reported in the 10-K"
+}

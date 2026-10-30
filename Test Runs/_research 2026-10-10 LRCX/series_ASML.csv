@@ -1,0 +1,310 @@
+fiscal_end,metric,value_millions,tags_used,unit
+2009-12-31,capex,104.959,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2009-12-31,cost_of_rev,1137.671,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2009-12-31,diluted_shares,432.615,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2009-12-31,dividends,86.486,PaymentsOfDividends,EUR
+2009-12-31,dna,141.631,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2009-12-31,eps_diluted,-0.0,EarningsPerShareDiluted,EUR/shares
+2009-12-31,gross_profit,458.392,GrossProfit,EUR
+2009-12-31,interest_exp,51.191,InterestExpense + InterestExpenseNonoperating,EUR
+2009-12-31,net_income,-150.925,NetIncomeLoss,EUR
+2009-12-31,ocf,99.194,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2009-12-31,op_income,-163.125,OperatingIncomeLoss,EUR
+2009-12-31,pretax,-171.55,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2009-12-31,revenue,1596.063,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2009-12-31,rnd,466.761,ResearchAndDevelopmentExpense,EUR
+2009-12-31,sbc,13.394,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2009-12-31,sga,154.756,SellingGeneralAndAdministrativeExpense,EUR
+2009-12-31,tax,-20.625,IncomeTaxExpenseBenefit,EUR
+2010-12-31,capex,128.728,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2010-12-31,cost_of_rev,2552.768,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2010-12-31,diluted_shares,438.974,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2010-12-31,dividends,86.96,PaymentsOfDividends,EUR
+2010-12-31,dna,151.444,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2010-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2010-12-31,gross_profit,1955.17,GrossProfit,EUR
+2010-12-31,interest_exp,23.301,InterestExpense + InterestExpenseNonoperating,EUR
+2010-12-31,net_income,1021.82,NetIncomeLoss,EUR
+2010-12-31,ocf,940.048,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2010-12-31,op_income,1250.699,OperatingIncomeLoss,EUR
+2010-12-31,pretax,1242.523,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2010-12-31,revenue,4507.938,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2010-12-31,rnd,523.426,ResearchAndDevelopmentExpense,EUR
+2010-12-31,sbc,12.109,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2010-12-31,sga,181.045,SellingGeneralAndAdministrativeExpense,EUR
+2010-12-31,tax,220.703,IncomeTaxExpenseBenefit,EUR
+2011-12-31,buyback,700.452,PaymentsForRepurchaseOfCommonStock,EUR
+2011-12-31,capex,300.898,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2011-12-31,cost_of_rev,3201.645,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2011-12-31,diluted_shares,429.053,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2011-12-31,dividends,172.645,PaymentsOfDividends,EUR
+2011-12-31,dna,165.185,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2011-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2011-12-31,gross_profit,2449.39,GrossProfit,EUR
+2011-12-31,interest_exp,33.737,InterestExpense + InterestExpenseNonoperating,EUR
+2011-12-31,net_income,1466.96,NetIncomeLoss,EUR
+2011-12-31,ocf,2070.44,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2011-12-31,op_income,1641.216,OperatingIncomeLoss,EUR
+2011-12-31,pretax,1648.635,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2011-12-31,revenue,5651.035,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2011-12-31,rnd,590.27,ResearchAndDevelopmentExpense,EUR
+2011-12-31,sbc,12.43,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2011-12-31,sga,217.904,SellingGeneralAndAdministrativeExpense,EUR
+2011-12-31,tax,181.675,IncomeTaxExpenseBenefit,EUR
+2012-12-31,acq_paid,10.292,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2012-12-31,buyback,535.373,PaymentsForRepurchaseOfCommonStock,EUR
+2012-12-31,capex,171.878,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2012-12-31,cost_of_rev,2726.298,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2012-12-31,diluted_shares,426.986,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2012-12-31,dividends,188.892,PaymentsOfDividends,EUR
+2012-12-31,dna,186.62,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2012-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2012-12-31,gross_profit,2005.257,GrossProfit,EUR
+2012-12-31,interest_exp,22.8,InterestExpense + InterestExpenseNonoperating,EUR
+2012-12-31,net_income,1146.316,NetIncomeLoss,EUR
+2012-12-31,ocf,703.478,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2012-12-31,op_income,1156.774,OperatingIncomeLoss,EUR
+2012-12-31,pretax,1150.578,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2012-12-31,revenue,4731.555,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2012-12-31,rnd,589.182,ResearchAndDevelopmentExpense,EUR
+2012-12-31,sbc,18.714,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2012-12-31,sga,259.301,SellingGeneralAndAdministrativeExpense,EUR
+2012-12-31,tax,4.262,IncomeTaxExpenseBenefit,EUR
+2013-12-31,acq_paid,443.712,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2013-12-31,buyback,300.0,PaymentsForRepurchaseOfCommonStock,EUR
+2013-12-31,capex,210.804,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2013-12-31,cost_of_rev,3068.064,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2013-12-31,diluted_shares,433.446,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2013-12-31,dividends,216.085,PaymentsOfDividends,EUR
+2013-12-31,dna,228.775,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2013-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2013-12-31,gross_profit,2177.262,GrossProfit,EUR
+2013-12-31,interest_exp,33.6,InterestExpense + InterestExpenseNonoperating,EUR
+2013-12-31,net_income,1015.49,NetIncomeLoss,EUR
+2013-12-31,ocf,1054.173,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2013-12-31,op_income,1047.948,OperatingIncomeLoss,EUR
+2013-12-31,pretax,1023.477,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2013-12-31,revenue,5245.326,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2013-12-31,rnd,882.029,ResearchAndDevelopmentExpense,EUR
+2013-12-31,sbc,52.371,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2013-12-31,sga,311.741,SellingGeneralAndAdministrativeExpense,EUR
+2013-12-31,tax,7.987,IncomeTaxExpenseBenefit,EUR
+2014-12-31,acq_paid,0.0,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2014-12-31,buyback,700.0,PaymentsForRepurchaseOfCommonStock,EUR
+2014-12-31,capex,358.28,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2014-12-31,cost_of_rev,3259.903,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2014-12-31,diluted_shares,439.693,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2014-12-31,dividends,267.962,PaymentsOfDividends,EUR
+2014-12-31,dna,254.644,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2014-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2014-12-31,gross_profit,2596.374,GrossProfit,EUR
+2014-12-31,interest_exp,23.1,InterestExpense + InterestExpenseNonoperating,EUR
+2014-12-31,net_income,1196.64,NetIncomeLoss,EUR
+2014-12-31,ocf,1025.206,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2014-12-31,op_income,1282.235,OperatingIncomeLoss,EUR
+2014-12-31,pretax,1273.635,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2014-12-31,revenue,5856.277,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2014-12-31,rnd,1074.035,ResearchAndDevelopmentExpense,EUR
+2014-12-31,sbc,63.38,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2014-12-31,sga,321.11,SellingGeneralAndAdministrativeExpense,EUR
+2014-12-31,tax,76.995,IncomeTaxExpenseBenefit,EUR
+2015-12-31,acq_paid,0.0,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2015-12-31,buyback,564.9,PaymentsForRepurchaseOfCommonStock,EUR
+2015-12-31,capex,371.8,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2015-12-31,cost_of_rev,3391.7,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2015-12-31,diluted_shares,432.6,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2015-12-31,dividends,302.3,PaymentsOfDividends,EUR
+2015-12-31,dna,296.9,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2015-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2015-12-31,gross_profit,2895.7,GrossProfit,EUR
+2015-12-31,interest_exp,27.4,InterestExpense + InterestExpenseNonoperating,EUR
+2015-12-31,net_income,1387.2,NetIncomeLoss,EUR
+2015-12-31,ocf,2025.5,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2015-12-31,op_income,1565.1,OperatingIncomeLoss,EUR
+2015-12-31,pretax,1548.6,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2015-12-31,revenue,6287.4,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2015-12-31,sbc,59.0,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2015-12-31,sga,345.7,SellingGeneralAndAdministrativeExpense,EUR
+2015-12-31,tax,161.4,IncomeTaxExpenseBenefit,EUR
+2016-12-31,acq_paid,2641.3,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2016-12-31,buyback,400.0,PaymentsForRepurchaseOfCommonStock,EUR
+2016-12-31,capex,316.3,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2016-12-31,cost_of_rev,3729.8,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2016-12-31,diluted_shares,427.7,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2016-12-31,dividends,445.9,PaymentsOfDividends,EUR
+2016-12-31,dna,356.9,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2016-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2016-12-31,gross_profit,3145.3,GrossProfit,EUR
+2016-12-31,interest_exp,38.0,InterestExpense + InterestExpenseNonoperating,EUR
+2016-12-31,net_income,1557.8,NetIncomeLoss,EUR
+2016-12-31,ocf,1665.9,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2016-12-31,op_income,1758.5,OperatingIncomeLoss,EUR
+2016-12-31,pretax,1792.2,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2016-12-31,revenue,6875.1,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2016-12-31,sbc,47.7,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2016-12-31,sga,374.8,SellingGeneralAndAdministrativeExpense,EUR
+2016-12-31,tax,234.4,IncomeTaxExpenseBenefit,EUR
+2017-12-31,acq_paid,0.0,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2017-12-31,buyback,500.0,PaymentsForRepurchaseOfCommonStock,EUR
+2017-12-31,capex,338.9,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2017-12-31,cost_of_rev,4942.5,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2017-12-31,diluted_shares,431.6,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2017-12-31,dividends,516.7,PaymentsOfDividends,EUR
+2017-12-31,dna,417.5,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2017-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2017-12-31,gross_profit,4020.2,GrossProfit,EUR
+2017-12-31,interest_exp,57.5,InterestExpense + InterestExpenseNonoperating,EUR
+2017-12-31,net_income,2066.7,NetIncomeLoss,EUR
+2017-12-31,ocf,1818.3,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2017-12-31,op_income,2439.7,OperatingIncomeLoss,EUR
+2017-12-31,pretax,2389.4,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2017-12-31,revenue,8962.7,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2017-12-31,rnd,1259.7,ResearchAndDevelopmentExpense,EUR
+2017-12-31,sbc,53.1,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2017-12-31,sga,416.6,SellingGeneralAndAdministrativeExpense,EUR
+2017-12-31,tax,306.0,IncomeTaxExpenseBenefit,EUR
+2018-12-31,acq_paid,0.0,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2018-12-31,buyback,1146.2,PaymentsForRepurchaseOfCommonStock,EUR
+2018-12-31,capex,574.0,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2018-12-31,cost_of_rev,5914.8,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2018-12-31,diluted_shares,426.4,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2018-12-31,dividends,597.1,PaymentsOfDividends,EUR
+2018-12-31,dna,422.7,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2018-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2018-12-31,gross_profit,5029.2,GrossProfit,EUR
+2018-12-31,interest_exp,41.8,InterestExpense + InterestExpenseNonoperating,EUR
+2018-12-31,net_income,2591.6,NetIncomeLoss,EUR
+2018-12-31,ocf,3072.7,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2018-12-31,op_income,2965.3,OperatingIncomeLoss,EUR
+2018-12-31,pretax,2937.0,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2018-12-31,revenue,10944.0,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2018-12-31,rnd,1575.9,ResearchAndDevelopmentExpense,EUR
+2018-12-31,sbc,46.3,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2018-12-31,sga,488.0,SellingGeneralAndAdministrativeExpense,EUR
+2018-12-31,tax,351.6,IncomeTaxExpenseBenefit,EUR
+2019-12-31,acq_paid,0.0,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2019-12-31,buyback,410.0,PaymentsForRepurchaseOfCommonStock,EUR
+2019-12-31,capex,766.6,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2019-12-31,cost_of_rev,6540.2,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2019-12-31,diluted_shares,421.6,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2019-12-31,dna,448.5,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2019-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2019-12-31,gross_profit,5279.8,GrossProfit,EUR
+2019-12-31,interest_exp,36.6,InterestExpense + InterestExpenseNonoperating,EUR
+2019-12-31,net_income,2592.3,NetIncomeLoss,EUR
+2019-12-31,ocf,3276.4,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2019-12-31,op_income,2790.8,OperatingIncomeLoss,EUR
+2019-12-31,pretax,2765.8,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2019-12-31,revenue,11820.0,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2019-12-31,rnd,1968.5,ResearchAndDevelopmentExpense,EUR
+2019-12-31,sbc,74.6,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2019-12-31,sga,520.5,SellingGeneralAndAdministrativeExpense,EUR
+2019-12-31,tax,191.7,IncomeTaxExpenseBenefit,EUR
+2020-12-31,acq_paid,222.8,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2020-12-31,buyback,1207.5,PaymentsForRepurchaseOfCommonStock,EUR
+2020-12-31,capex,962.0,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2020-12-31,cost_of_rev,7181.3,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2020-12-31,diluted_shares,419.1,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2020-12-31,dna,490.8,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2020-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2020-12-31,gross_profit,6797.2,GrossProfit,EUR
+2020-12-31,interest_exp,43.3,InterestExpense + InterestExpenseNonoperating,EUR
+2020-12-31,net_income,3553.7,NetIncomeLoss,EUR
+2020-12-31,ocf,4627.6,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2020-12-31,op_income,4051.5,OperatingIncomeLoss,EUR
+2020-12-31,pretax,4016.6,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2020-12-31,revenue,13978.5,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2020-12-31,rnd,2200.8,ResearchAndDevelopmentExpense,EUR
+2020-12-31,sbc,53.9,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2020-12-31,sga,544.9,SellingGeneralAndAdministrativeExpense,EUR
+2020-12-31,tax,551.5,IncomeTaxExpenseBenefit,EUR
+2021-12-31,acq_paid,0.0,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2021-12-31,buyback,8560.3,PaymentsForRepurchaseOfCommonStock,EUR
+2021-12-31,capex,900.7,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2021-12-31,cost_of_rev,8802.0,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2021-12-31,diluted_shares,410.4,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2021-12-31,dna,471.0,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2021-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2021-12-31,gross_profit,9809.0,GrossProfit,EUR
+2021-12-31,interest_exp,54.6,InterestExpense + InterestExpenseNonoperating,EUR
+2021-12-31,net_income,5883.2,NetIncomeLoss,EUR
+2021-12-31,ocf,10845.8,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2021-12-31,op_income,6750.1,OperatingIncomeLoss,EUR
+2021-12-31,pretax,6705.5,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2021-12-31,revenue,18611.0,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2021-12-31,rnd,2547.0,ResearchAndDevelopmentExpense,EUR
+2021-12-31,sbc,117.5,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2021-12-31,sga,725.6,SellingGeneralAndAdministrativeExpense,EUR
+2021-12-31,tax,1021.4,IncomeTaxExpenseBenefit,EUR
+2022-12-31,acq_paid,0.0,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2022-12-31,buyback,4639.7,PaymentsForRepurchaseOfCommonStock,EUR
+2022-12-31,capex,1281.8,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2022-12-31,cost_of_rev,10473.3,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2022-12-31,diluted_shares,398.0,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2022-12-31,dna,583.6,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2022-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2022-12-31,gross_profit,10700.1,GrossProfit,EUR
+2022-12-31,interest_exp,60.8,InterestExpense + InterestExpenseNonoperating,EUR
+2022-12-31,net_income,5624.2,NetIncomeLoss,EUR
+2022-12-31,ocf,8486.8,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2022-12-31,op_income,6500.7,OperatingIncomeLoss,EUR
+2022-12-31,pretax,6456.1,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2022-12-31,revenue,21173.4,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2022-12-31,rnd,3253.5,ResearchAndDevelopmentExpense,EUR
+2022-12-31,sbc,68.9,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2022-12-31,sga,945.9,SellingGeneralAndAdministrativeExpense,EUR
+2022-12-31,tax,969.9,IncomeTaxExpenseBenefit,EUR
+2023-12-31,acq_paid,33.6,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2023-12-31,buyback,1000.0,PaymentsForRepurchaseOfCommonStock,EUR
+2023-12-31,capex,2155.6,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2023-12-31,cost_of_rev,13422.4,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2023-12-31,diluted_shares,394.1,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2023-12-31,dna,739.8,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2023-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2023-12-31,gross_profit,14136.1,GrossProfit,EUR
+2023-12-31,interest_exp,152.7,InterestExpense + InterestExpenseNonoperating,EUR
+2023-12-31,net_income,7839.0,NetIncomeLoss,EUR
+2023-12-31,ocf,5443.4,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2023-12-31,op_income,9042.3,OperatingIncomeLoss,EUR
+2023-12-31,pretax,9083.5,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2023-12-31,revenue,27558.5,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2023-12-31,rnd,3980.6,ResearchAndDevelopmentExpense,EUR
+2023-12-31,sbc,134.8,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2023-12-31,sga,1113.2,SellingGeneralAndAdministrativeExpense,EUR
+2023-12-31,tax,1435.8,IncomeTaxExpenseBenefit,EUR
+2024-12-31,acq_paid,0.0,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2024-12-31,buyback,500.0,PaymentsForRepurchaseOfCommonStock,EUR
+2024-12-31,capex,2067.2,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2024-12-31,cost_of_rev,13770.9,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2024-12-31,diluted_shares,393.6,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2024-12-31,dna,918.6,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2024-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2024-12-31,gross_profit,14492.0,GrossProfit,EUR
+2024-12-31,interest_exp,162.6,InterestExpense + InterestExpenseNonoperating,EUR
+2024-12-31,net_income,7571.6,NetIncomeLoss,EUR
+2024-12-31,ocf,11166.2,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2024-12-31,op_income,9022.6,OperatingIncomeLoss,EUR
+2024-12-31,pretax,9042.4,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2024-12-31,revenue,28262.9,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2024-12-31,rnd,4303.7,ResearchAndDevelopmentExpense,EUR
+2024-12-31,sbc,172.6,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2024-12-31,sga,1165.7,SellingGeneralAndAdministrativeExpense,EUR
+2024-12-31,tax,1680.6,IncomeTaxExpenseBenefit,EUR
+2025-12-31,acq_paid,0.0,PaymentsToAcquireBusinessesNetOfCashAcquired,EUR
+2025-12-31,buyback,5950.0,PaymentsForRepurchaseOfCommonStock,EUR
+2025-12-31,capex,1573.6,PaymentsToAcquirePropertyPlantAndEquipment,EUR
+2025-12-31,cost_of_rev,15409.3,CostOfGoodsAndServicesSold + CostOfGoodsSold,EUR
+2025-12-31,diluted_shares,388.9,WeightedAverageNumberOfDilutedSharesOutstanding,shares
+2025-12-31,dna,1025.9,DepreciationDepletionAndAmortization + DepreciationAndAmortization,EUR
+2025-12-31,eps_diluted,0.0,EarningsPerShareDiluted,EUR/shares
+2025-12-31,gross_profit,17258.0,GrossProfit,EUR
+2025-12-31,interest_exp,118.3,InterestExpense + InterestExpenseNonoperating,EUR
+2025-12-31,net_income,9609.4,NetIncomeLoss,EUR
+2025-12-31,ocf,12658.5,NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,EUR
+2025-12-31,op_income,11301.4,OperatingIncomeLoss,EUR
+2025-12-31,pretax,11406.1,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,EUR
+2025-12-31,revenue,32667.3,RevenueFromContractWithCustomerExcludingAssessedTax + SalesRevenueNet,EUR
+2025-12-31,rnd,4698.8,ResearchAndDevelopmentExpense,EUR
+2025-12-31,sbc,202.3,ShareBasedCompensation + AllocatedShareBasedCompensationExpense,EUR
+2025-12-31,sga,1257.8,SellingGeneralAndAdministrativeExpense,EUR
+2025-12-31,tax,2013.4,IncomeTaxExpenseBenefit,EUR

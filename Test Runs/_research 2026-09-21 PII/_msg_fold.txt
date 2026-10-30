@@ -1,0 +1,12 @@
+PII Polaris: fold - register entry 159, _wave7_done 27, narrative fold, overnight log
+
+WAVE 7 name 27 of 218: Q1 IN / Q2 OUT, on the business. $52.38 x 56,903,524 = $2,981M;
+sovereign 5.47% (US Treasury 30Y, 09/24/2026). Register counted by line index: 158 before,
+159 after, PII first. No roster strike needed (PII appears only inside the MCFT entry's
+competitor sentence). No new survival shape; no alert and no PORTFOLIO.md row (failed on the
+business). check_framework PASS; 80 ledger ids cited, 0 phantoms.
+
+Only the PII register hunk of WATCHLIST RUN QUEUE.md is committed; the CRM re-look's
+uncommitted note in that file and its tools/alerts.json edits stay in the working tree.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

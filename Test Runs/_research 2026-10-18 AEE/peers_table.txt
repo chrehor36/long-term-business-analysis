@@ -1,0 +1,5 @@
+ticker  span  ROE(NI/avg eq) by year ... | mean ROE | sum(OCF-SBC-capex) | capex/DA | NI/netPPE mean | equity issued
+AEE 2016-2025 17:7.3 18:11.0 19:10.6 20:10.2 21:10.6 22:10.6 23:10.5 24:10.1 25:11.4 | mean 10.3% | FCF -7,248 | capex/DA 2.50 | NI/PPE 3.31% | issued 2,452 | dividends 5,583
+EVRG 2016-2025 18:7.7 19:7.2 20:7.1 21:9.8 22:8.0 23:7.6 24:8.9 25:8.5 | mean 8.1% | FCF -1,586 | capex/DA 2.10 | NI/PPE 3.37% | issued 113 | dividends 4,642
+WEC 2016-2025 17:13.1 20:11.5 21:11.9 22:12.4 23:11.2 24:12.3 25:11.6 | mean 12.0% | FCF 635 | capex/DA 2.29 | NI/PPE 4.70% | issued 925 | dividends 8,481
+XEL 2016-2025 17:10.2 18:10.7 19:10.8 20:10.6 21:10.6 22:10.8 23:10.3 24:10.4 25:9.4 | mean 10.4% | FCF -17,980 | capex/DA 2.53 | NI/PPE 3.41% | issued 6,839 | dividends 9,275

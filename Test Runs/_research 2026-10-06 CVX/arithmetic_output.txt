@@ -1,0 +1,55 @@
+UPSTREAM AFTER-TAX EARNINGS PER BOE PRODUCED ($/BOE)
+  2016  CVX   -2.67   XOM     nan   COP     nan
+  2017  CVX    8.19   XOM    9.18   COP    2.55
+  2018  CVX   12.45   XOM   10.06   COP   16.92
+  2019  CVX    2.31   XOM   10.01   COP   14.53
+  2020  CVX   -2.16   XOM  -14.55   COP   -1.99
+  2021  CVX   13.98   XOM   11.64   COP   14.49
+  2022  CVX   27.67   XOM   26.74   COP   29.97
+  2023  CVX   15.31   XOM   15.62   COP   17.69
+  2024  CVX   15.23   XOM   16.01   COP   13.92
+  2025  CVX    9.44   XOM   12.35   COP   10.53
+  mean 2017-2025  CVX 11.38  XOM 10.79  COP 13.18
+  weighted 2017-2025  CVX 11.37  XOM 10.88  COP 13.83
+  CVX years ahead of XOM: [2018, 2020, 2021, 2022]
+  CVX years ahead of COP: [2017, 2024]
+  CVX 2016: -2.67
+
+LIFTING COST PER BOE, consolidated ($/BOE)
+  2020  CVX  10.07  XOM  11.57  COP  10.99
+  2021  CVX   9.90  XOM  12.15  COP   9.99
+  2022  CVX  10.16  XOM  13.09  COP  11.27
+  2023  CVX  10.23  XOM  12.05  COP  11.87
+  2024  CVX   9.23  XOM  11.70  COP  12.26
+  2025  CVX   9.71  XOM  11.29  COP  12.01
+  mean 2020-2025  CVX 9.88  XOM 11.97  COP 11.40
+
+CHEVRON OWNER CASH (USD M)
+  2016  OCF  12,690  SBC    642  capex  18,109  aff.loans  -2,034  owner cash   -8,095
+  2017  OCF  20,338  SBC    368  capex  13,404  aff.loans     -16  owner cash    6,550
+  2018  OCF  30,618  SBC    165  capex  13,792  aff.loans     111  owner cash   16,772
+  2019  OCF  27,314  SBC    394  capex  14,116  aff.loans  -1,245  owner cash   11,559
+  2020  OCF  10,577  SBC    190  capex   8,922  aff.loans  -1,419  owner cash       46
+  2021  OCF  29,187  SBC    761  capex   8,056  aff.loans     401  owner cash   20,771
+  2022  OCF  49,602  SBC  1,073  capex  11,974  aff.loans     -24  owner cash   36,531
+  2023  OCF  35,609  SBC      0  capex  15,829  aff.loans    -302  owner cash   19,478
+  2024  OCF  31,492  SBC    600  capex  16,448  aff.loans    -233  owner cash   14,211
+  2025  OCF  33,939  SBC    472  capex  17,347  aff.loans     778  owner cash   16,898
+  five-year mean 2021-2025: 21,578
+  ten-year mean 2016-2025:  13,472
+  five-year mean 2016-2020: 5,366
+  D&A variant 2021-2025: {2021: 10902, 2022: 32186, 2023: 17981, 2024: 13377, 2025: 14113}, mean 17,712
+
+reserve life: 10,591 MMBOE / (3,723 MBOED x 365) = 7.8 years
+ROCE mean 2016-2025: 7.06%  years below the 5.66% sovereign: [2016, 2017, 2019, 2020]
+
+market cap 407,937 M
+  growth shown 2021->2025 on aggregate owner cash: -5.03%
+  five-year mean 21,578: no-growth value 381,233 M = $192.95/sh;  yield at price 5.29%
+  ten-year mean 13,472: no-growth value 238,023 M = $120.47/sh;  yield at price 3.30%
+  shown-growth case (-5.03% for ten years, then flat): 256,963 M = $130.06/sh
+  width top/bottom: 1.48
+  five-year mean: pre-tax owner cash 33,795 M; pre-tax yield at price 8.28%; price at which no-growth clears 10% pre-tax $171.04/sh
+  ten-year mean: pre-tax owner cash 21,100 M; pre-tax yield at price 5.17%; price at which no-growth clears 10% pre-tax $106.79/sh
+
+2023 Program to 2026-06-30: $44.0B / 281M shares = $156.58/sh;  Q2 2026: $3.0B / 16.2M = $185.19/sh

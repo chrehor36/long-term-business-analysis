@@ -1,0 +1,46 @@
+ticker,is_financial,n_oe_years,lowest_oe,assets,equity,debt,cash,leverage_ratio,fortress_mechanical_pass,fortress_note
+TSN,False,5,694000000,28091000000,12136000000,,198000000,2.3146835860250494,,
+ORLY,False,5,457591000,7666657000,423828000,3193066000,38525000,18.08907622903631,,debt/equity=7.53 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+GOOG,False,5,11301000000,206935000000,160825000000,3944000000,12658000000,1.2867091559148143,,debt/equity=0.02 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+BKNG,False,5,1066122000,25018960000,10636343000,7990418000,2622086000,2.35221447822809,,debt/equity=0.75 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+KLAC,False,5,400903000,5598184000,1370143000,2461914000,1255682000,4.08583921532278,,debt/equity=1.80 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+AAPL,False,5,35629000000,367502000000,126878000000,101362000000,45059000000,2.8964989990384464,,debt/equity=0.80 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+BBWI,False,5,580000000,7749000000,-971000000,5719000000,1032000000,-7.98043254376931,,debt/equity=-5.89 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+FAST,False,5,305866000,3029600000,2172000000,391900000,137100000,1.3948434622467771,,debt/equity=0.18 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+LYB,False,5,2657000000,26896000000,9728000000,5772000000,1840000000,2.7648026315789473,,debt/equity=0.59 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+CMCSA,False,5,8091000000,190876000000,69482000000,,6030000000,2.7471287527705015,,
+MA,True,5,3219000000,22944000000,5703000000,6469000000,6890000000,4.023145712782746,True,assets/equity=4.0:1
+BEN,True,5,1703300000,17690000000,10058400000,1044800000,8726500000,1.7587290225085501,True,assets/equity=1.8:1
+F,False,5,-255000000,267230000000,36400000000,,17940000000,7.341483516483517,,
+WMT,False,5,10340000000,204927000000,75552000000,29477000000,7885000000,2.7123967598475223,,debt/equity=0.39 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+CME,True,5,986300000,69919300000,22772800000,,784600000,3.0702987774889343,True,assets/equity=3.1:1
+NVDA,False,3,51076000,11460000000,7717000000,1986000000,765000000,1.485033043928988,,debt/equity=0.26 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+NEE,False,0,,94284000000,32706000000,28062000000,550000000,2.882773802971932,,debt/equity=0.86 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+TGNA,False,5,251926000,5145329000,1036636000,3196070000,8338000,4.963486701214312,,debt/equity=3.08 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+IVZ,False,5,807700000,31619100000,8895300000,2076400000,1861500000,3.5545850055647366,,debt/equity=0.23 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+LNC,True,0,,279237000000,15985000000,5123000000,2257000000,17.46868939630904,False,assets/equity=17.5:1
+GME,False,5,72000000,4308400000,2183500000,818600000,247200000,1.9731623540187773,,debt/equity=0.37 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+CSX,False,5,614000000,37439000000,14391000000,9832000000,1980000000,2.601556528385797,,debt/equity=0.68 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+FITB,True,5,1679000000,141500000000,16184000000,14800000000,,8.74320316361839,True,assets/equity=8.7:1
+APH,False,5,616783000,9403700000,3913900000,2489400000,1000200000,2.402641866169294,,debt/equity=0.64 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+WFC,True,0,,1915388000000,204952000000,227302000000,202395000000,9.34554432257309,True,assets/equity=9.3:1
+HRB,False,5,443750000,3140949000,393711000,1495635000,1544944000,7.977803515776801,,debt/equity=3.80 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+CMG,False,5,-89536000,2097444000,1364045000,,231838000,1.5376648131110044,,
+USB,True,0,,460119000000,49187000000,33201000000,8252000000,9.354483908349767,True,assets/equity=9.4:1
+HPQ,False,5,2395000000,32087000000,-1863000000,27132000000,4247000000,-17.223295759527645,,debt/equity=-14.56 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+CVS,False,5,4439000000,135139000000,38673000000,61552000000,42023000000,3.4944017790189537,,debt/equity=1.59 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+HOG,False,5,537653000,10277621000,1995949000,4108511000,753517000,5.1492402861996975,,debt/equity=2.06 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+AN,False,4,-1248900000,10220300000,2471900000,1487400000,57500000,4.134592823334278,,debt/equity=0.60 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+AFL,True,0,,147356000000,24287000000,,4080000000,6.067278791122823,True,assets/equity=6.1:1
+OMC,False,5,972100000,23513100000,2626400000,4900000000,2568100000,8.95259671032592,,debt/equity=1.87 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+V,True,5,4906000000,69042000000,34103000000,16624000000,8142000000,2.0245139723777967,True,assets/equity=2.0:1
+PBI,False,5,110460000,6319618000,214893000,3248713000,719875000,29.408207805745185,,debt/equity=15.12 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+RTX,False,5,4678000000,98779000000,30534000000,27093000000,7667000000,3.23504945306871,,debt/equity=0.89 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+PDCO,False,5,190213000,3471664000,1461790000,922030000,62984000,2.3749403129040423,,debt/equity=0.63 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+STT,True,5,1720000000,250286000000,22399000000,11834000000,,11.173980981293807,False,assets/equity=11.2:1
+TJX,False,5,1739541000,14007124000,5262408000,2231360000,2681105000,2.6617328036898695,,debt/equity=0.42 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+KR,False,5,616000000,36561000000,6970000000,11288000000,691000000,5.245480631276901,,debt/equity=1.62 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+PNC,True,0,,379161000000,46969000000,,,8.072579786667802,True,assets/equity=8.1:1
+GPS,False,5,676000000,7585000000,3197000000,1249000000,1210000000,2.3725367532061306,,debt/equity=0.39 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+MO,False,5,4616000000,43899000000,15394000000,13033000000,2191000000,2.8516954657658826,,debt/equity=0.85 (mechanical proxy only -- needs credit rating + maturity schedule for a real verdict)
+PFG,True,0,,253636500000,12186900000,3196600000,2335700000,20.81222460182655,False,assets/equity=20.8:1

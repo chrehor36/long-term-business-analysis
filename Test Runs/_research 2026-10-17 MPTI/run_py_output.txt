@@ -1,0 +1,60 @@
+==============================================================================
+M-tron Industries, Inc.  (MPTI)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.43%   10/16/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     66.41 USD   2026-10-16   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                  4.346M  as of 2026-07-31  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                                   4.346M  as of 2026-06-30  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)        4.346M  as of 2026-06-30  (CommonStockSharesIssued)
+  shares    4.3M      market cap 0.29B USD
+  share basis: dei cover-page count as of 2026-07-31 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-12-31        4.4      2.4       0.9        1.3         0.7         1.1
+    2024-12-31        7.5      0.6       1.0        1.9         5.0         5.9
+    2025-12-31       10.7      1.1       1.1        2.6         7.0         8.5
+          mean                                                  4.2         5.2
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: capex basis in 2023, 2024, 2025
+  mean of the year-by-year lower: 4.2;  of the higher: 5.2  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 AllocatedShareBasedCompensationExpense; 2024 ShareBasedCompensation; 2025 ShareBasedCompensation
+  capex tag by year: 2023 PaymentsToAcquirePropertyPlantAndEquipment; 2024 PaymentsToAcquirePropertyPlantAndEquipment; 2025 PaymentsToAcquirePropertyPlantAndEquipment
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0001437749-26-009844, 0001437749-25-009645, 0001437749-24-009243
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 3.0  OE D&A 3.7   yield 1.03% (capex) 1.28% (D&A)
+  DIVERGENCE vs the 3-yr window: -29.5% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis  1.47%   D&A basis  1.79%   vs sovereign 5.43%
+  2. GROWTH THE PRICE ASSUMES   17.8%  (at a 5.43% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN -1.39 (lower mean) .. -1.05 (higher mean)
+
+  BALANCE SHEETS, 6 fiscal year-ends (USD thousands; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles    retained
+    2020-12-31             -           -      14,974       2,456           -           -           -           -           -
+    2021-12-31        20,006       3,157      16,849       2,635       3,995       5,221          40         112           -
+    2022-12-31        19,273       4,932      14,341         926       5,197       7,518          40          98         212
+    2023-12-31        24,305       4,410      19,895       3,913       4,802       8,884           5          45       3,701
+    2024-12-31        36,488       5,216      31,272      12,641       6,842       9,509           -          40      11,337
+    2025-12-31        68,383       5,168      63,215      20,891       6,656       9,673           -          40      19,784
+    accessions: 0001437749-24-009243, 0001437749-25-009645, 0001437749-26-009844, 0001564590-23-004848
+    equity: StockholdersEquity (2020, 2021, 2022, 2023, 2024, 2025)
+    cash: CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents (2020); CashAndCashEquivalentsAtCarryingValue (2021, 2022, 2023, 2024, 2025)
+    intangibles: FiniteLivedIntangibleAssetsNet (2021); IntangibleAssetsNetExcludingGoodwill (2022, 2023, 2024, 2025)
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

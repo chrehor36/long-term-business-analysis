@@ -1,0 +1,26 @@
+OE by year (OCF - SBC - c)
+2023 capex end 262203 | depreciation end 272723 | capex/dep 1.5
+2024 capex end 231521 | depreciation end 260193 | capex/dep 2.33
+2025 capex end 241911 | depreciation end 259711 | capex/dep 1.75
+3-yr mean capex end 245212 depreciation end 264209
+TTM to 2026-06-30: OCF 291222 SBC 27945 capex 32930 OE 230347
+pro forma interest adj: 3-yr 8552 TTM 4477 (refi cost pre-tax 4021 )
+cap $k 4222373 non-operating carrying 349189
+conservative: TTM, capex end, JV/PIK at 50%: OE 234,824  op-cap 4,047,779  yield 5.80%  vs bond +0.46%  g for 10% floor 3.97%  g for bond -0.44%
+   value at the 10% floor, g=0.0%: $2,523M  $56/share
+   value at the 10% floor, g=2.5%: $3,384M  $75/share
+   value at the 10% floor, g=3.5%: $3,914M  $86/share
+default: 3-yr mean, capex end, JV/PIK at 75%: OE 253,764  op-cap 3,960,482  yield 6.41%  vs bond +1.07%  g for 10% floor 3.38%  g for bond -1.00%
+   value at the 10% floor, g=0.0%: $2,800M  $62/share
+   value at the 10% floor, g=2.5%: $3,730M  $82/share
+   value at the 10% floor, g=3.5%: $4,303M  $95/share
+generous: 3-yr mean, depreciation end, JV/PIK at 100%: OE 272,761  op-cap 3,873,184  yield 7.04%  vs bond +1.70%  g for 10% floor 2.76%  g for bond -1.59%
+   value at the 10% floor, g=0.0%: $3,077M  $68/share
+   value at the 10% floor, g=2.5%: $4,077M  $90/share
+   value at the 10% floor, g=3.5%: $4,692M  $104/share
+2023 cash for interest after capex / interest paid 4.02
+2024 cash for interest after capex / interest paid 3.55
+2025 cash for interest after capex / interest paid 3.86
+reversion pre-tax: full 228122 half 114061 after tax full 164248 half 82124
+continuing EBIT FY2025 pre-impairment 417478 after full reversion 189356 after half 303417
+depression: EBIT falls 211855 to 205623

@@ -1,0 +1,16 @@
+line = ("- 2026-09-18 18:52 EDT | SNOW | Q1 IN / Q2 OUT (on the business, on [E3-03] criterion 2 not shown and contradicted "
+"in the FY2026 10-K: open table formats 'may also reduce switching costs', competition on price, efficiency gains passed to "
+"customers [E3-62]; no operating profit in any year, 0.6-3.5% before SBC FY2024-26, lowest of a six-filer software row "
+"[E3-43, E3-46]; [E4-04] engaged; the three clouds are suppliers and named competitors [E2-45]; Databricks Form D $5.0bn "
+"2026-08-27; Q3-Q6 recorded, not governing: Q3 IN on the binary with [E4-29] and [E5-15] firing, Q4 OUT on owner earnings "
+"negative in every filed year (5y FY2022-26 -$498M to -$555M, 3y -$517M to -$609M, TTM -$447M to -$642M; no 10-year window "
+"exists on filed statements; SBC 189% of all operating cash FY2019-26), Q5 COMPUTATION - NOT A CLEARANCE -0.4% vs 5.29%; "
+"resumed a run killed after Step 0 at 15:18, file idle ~3h, fresh Opus agent handed the disk inventory; skip reason: "
+"scale_shift 2.06x at the 2.0 line, an organic FY2021-22 revenue doubling, no restatement, and restatement_shift is never "
+"called by the triage pipeline; convertibles in the money, perimeter cap US$123,340M shown beside the plain one; five brief "
+"defects, none in Step 0; register entry numbered 103 at the fold, BUT this parent session counts 104 '- **TICKER (' entries "
+"under the heading with no duplicate ticker, so the numbering has run one low since at least AMZN (95); flagged for the "
+"operator, not edited) | US$338.39 (2026-09-17 close, Yahoo, aggregator flagged, three Form 4s corroborate) x 352.8M shares "
+"(10-Q cover, 0001640147-26-000037) = cap US$119,384M; sovereign 5.29% USD (US Treasury, 09/17/2026; 09/18 at 5.34% noted, "
+"nothing changes) | PASS | fda9b24..4bed649\n")
+open("Screens/_daily/OVERNIGHT LOG.md", "a", encoding="utf-8").write(line)

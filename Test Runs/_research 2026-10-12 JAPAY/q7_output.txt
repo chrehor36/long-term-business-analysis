@@ -1,0 +1,41 @@
+equity owner cash (literal)                   473.6    361.8    423.5    450.7    324.2  avg    406.8
+all-equity owner cash (literal)               473.5    360.0    408.7    419.4    277.0  avg    387.7
+all-equity, 2025 Canada payment added back    473.5    360.0    408.7    419.4    503.8  avg    433.1
+acquisitions net of disposals                  -2.6     -3.0     -1.4    265.3     47.9  avg     61.2
+CENTRAL: all-equity, Canada adj, after acq    476.0    363.1    410.0    154.1    455.9  avg    371.8
+equity-only, Canada adj, after acq            476.1    364.9    424.9    185.5    503.1  avg    390.9
+literal: all-equity, after acq                476.0    363.1    410.0    154.1    229.1  avg    326.5
+before acquisitions (organic-type pair)       473.5    360.0    408.7    419.4    503.8  avg    433.1
+central end-year CAGR -1.07 % ; halves -10.08 %
+equity end-year CAGR 1.38 % ; halves -6.45 %
+literal end-year CAGR -16.71 % ; halves -22.99 %
+pre-acq end-year CAGR 1.57 % ; halves 3.47 %
+net debt central 822.9; excl. Iran cash from cash 989.1; without Canada 661.6
+market cap 12840.5 bn; EV 13663.4
+purchases added back after year ten: 61.2
+--- central (all-equity) ---
+at JGB 4.14%: C=371.8 g=-1.07% r=4.14%  range EV 9194-9967; per share 4713-5149
+at UST 5.60% (beside): C=371.8 g=-1.07% r=5.60%  range EV 6733-7274; per share 3328-3632
+at 10% (fair price): C=371.8 g=-1.07% r=10.00%  range EV 3695-3954; per share 1617-1763
+FAIR PRICE all-equity: 1690 yen/share; per ADS 845 yen
+expected yield at price, no-growth case: 2.72%
+return at price: no-growth 3.05%, shown-growth 2.81%
+--- equity-only ---
+equity at 4.14%: C=390.9 g=1.38% r=4.14%  range EV 10428-11590; per share 5781-6435
+equity at 10%: C=390.9 g=1.38% r=10.00%  range EV 4145-4530; per share 2243-2460
+FAIR PRICE equity-only: 2352 yen/share
+return at price equity: no-growth 3.35%, shown 3.71%
+--- literal window beside ---
+literal at 4.14%: C=326.5 g=-16.71% r=4.14%  range EV 2995-8872; per share 1314-4623
+literal at 10%: C=326.5 g=-16.71% r=10.00%  range EV 1393-3501; per share 412-1599
+fair literal: 1005
+--- before acquisitions: no purchases at all ---
+pre-acq no growth 4.14%: C=433.1 g=0.00% r=4.14%  range EV 10461-10461; per share 5427-5427
+--- depreciation variant: capex replaced by D&A ex-leases (IR table) ---
+D&A - cash capex by year [64.2, 77.5, 36.8, -1.9, 2.9] avg 35.9
+depreciation variant 4.14%: C=335.9 g=-1.07% r=4.14%  range EV 8402-9101; per share 4267-4661
+--- Iran cash excluded from cash ---
+central, Iran cash out, 4.14%: C=371.8 g=-1.07% r=4.14%  range EV 9194-9967; per share 4620-5055
+central, Iran cash out, 10%: C=371.8 g=-1.07% r=10.00%  range EV 3695-3954; per share 1524-1670
+fair (Iran cash out): 1597
+ten-year growth needed to earn 10% at the price: 18.4% a year

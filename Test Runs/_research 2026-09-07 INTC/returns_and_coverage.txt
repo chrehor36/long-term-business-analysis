@@ -1,0 +1,47 @@
+   yr   op inc  unlev NTOA  return %
+ 2019   22,035      75,528      29.2
+ 2020   23,678      86,687      27.3
+ 2021   19,456      80,282      24.2
+ 2022    2,334      88,424       2.6
+ 2023       93     108,593       0.1
+ 2024  -11,678     114,102     -10.2
+ 2025   -2,214     118,253      -1.9
+
+=== [E2-56] INCREMENTAL, never the blended ===
+  capex FY2021-25 total: 112,121
+  + Ireland SCIP buy-back Apr-2026 (cash, real): 14,200
+  operating income FY2020 23,678 -> FY2025 (2,214):  delta (25,892)
+  operating income FY2020 23,678 -> TTM:
+     TTM op income = -77
+  gross profit  FY2020 43,612 -> FY2025 18,375: delta (25,237)
+     TTM gross profit = 22017
+
+=== [E2-54] with GROSS interest (capitalised interest counts: "both payable and accrued") ===
+  interest incurred: 2023 2378 | 2024 2534 | 2025 2291
+  TTM: OCF 14,936 - capex 14,592 = 344
+    vs net (P&L) interest ~1,100: coverage 0.31x
+    vs GROSS interest incurred ~2,300: coverage 0.15x
+
+=== twelve-month claims from the Jun-27-2026 balance sheet ===
+  CONTRACTUAL / RUN-RATE SUBTOTAL: 21,980
+    short-term debt (balance sheet)                                   1,988
+    interest incurred (TTM run-rate, gross)                           2,300
+    capital expenditure (TTM actual; FY26 commitment was 9,100)      14,592
+    other purchase obligations committed for 2026 (FY25 10-K)         2,200
+    Mentee Robotics (Mobileye, signed Jan-2026)                         900
+  + Arizona SCIP NCI at the Ireland precedent (carrying 13,428, Ireland paid 14,200 on a 112 carrying value)  ~14,000
+  RESOURCES: cash+STI 29,727 + TTM OCF 14,936 = 44,663
+  cover WITHOUT an Arizona buy-out: 2.03x
+  cover WITH    an Arizona buy-out: 1.24x
+
+=== yields at the price ===
+  TTM capex end                                         -2,049  yield  -0.42%
+  TTM D&A end                                            1,108  yield   0.23%
+  5-yr capex end                                       -10,403  yield  -2.12%
+  5-yr D&A end                                           2,094  yield   0.43%
+  10-yr capex end                                        1,538  yield   0.31%
+  10-yr D&A end                                         10,470  yield   2.14%
+  pre-collapse FY2016-20 capex end                      13,479  yield   2.75%
+  FY2020 alone, D&A end (best year ever)                23,528  yield   4.80%
+  Intel Products segment op income FY2025, taxed at 21%    10,063  yield   2.05%
+  market cap used: 490,017

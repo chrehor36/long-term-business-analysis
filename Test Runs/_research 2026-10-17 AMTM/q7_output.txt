@@ -1,0 +1,28 @@
+Owner cash, all-equity basis (before interest, after the company's own tax), USD M
+  FY2021: legacy   242.5  CMS  203.0  combined   445.5
+  FY2022: legacy   195.0  CMS  163.0  combined   358.0
+  FY2023: legacy   302.7  CMS  242.0  combined   544.7
+  FY2024: legacy   128.7  CMS  320.0  combined   448.7
+  FY2025: legacy   CMS   combined   661.7
+  9M FY2026 combined: 155.2
+  five-year mean FY2021-FY2025: 491.7
+  net purchases of businesses FY2021-FY2025: 2660.8; half of owner cash before purchases 1229.4
+  owner cash after purchases by year: [-752.6, -1399.6, 544.7, 448.7, 956.7] mean -40.4
+  organic growth by year: [3.61, -2.73, 4.68] compound 1.80%/yr
+  literal growth of combined owner cash FY2021->FY2025: 10.40%/yr (includes purchases and merger savings)
+
+Net debt 3416; market cap 4772.8; EV at price 8188.8
+RANGE (central, organic pair, all-equity):
+  no growth (organic pair, bottom)                        EV     9056  per share   23.07  expected return at price  6.01%  at 10%: EV    4917 per share   6.14
+  organic growth 1.80% (organic pair, top)                EV    10456  per share   28.79  expected return at price  6.88%  at 10%: EV    5558 per share   8.76
+  range 23.07 to 28.79; width 1.25x; FAIR (all-equity) 7.45
+BESIDE:
+  FY2025 alone, no growth                                 EV    12187  per share   35.87  expected return at price  8.08%  at 10%: EV    6617 per share  13.09
+  FY2025 alone, organic growth                            EV    14071  per share   43.58  expected return at price  9.17%  at 10%: EV    7479 per share  16.62
+
+EQUITY-ONLY: interest run-rate after tax 195.9
+  no growth (organic pair, bottom)                        per share   22.28  return at price  6.20%  at 10% per share  12.10
+  organic growth 1.80% (organic pair, top)                per share   25.73  return at price  7.10%  at 10% per share  13.67
+  FAIR (equity-only) 12.89
+
+BESIDE, MARPA $300M counted in net debt: fair all-equity 6.22

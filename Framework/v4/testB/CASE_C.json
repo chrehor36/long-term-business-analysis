@@ -1,0 +1,233 @@
+{
+ "anchor": "2011-11-14",
+ "ticker_map_check": {
+  "cik": "0000051143",
+  "newest_annual_period_public_at_anchor": "2010-12-31",
+  "gap_days": 318,
+  "basis": "ticker->CIK resolved AS OF TODAY, not as of the anchor",
+  "status": "OK"
+ },
+ "series": {
+  "revenue": {
+   "tag": "Revenues",
+   "unit": "USD",
+   "blocked": 45,
+   "by_year": {
+    "2007-12-31": 98786.0,
+    "2008-12-31": 103630.0,
+    "2009-12-31": 95758.0,
+    "2010-12-31": 99870.0
+   },
+   "filed": {
+    "2007-12-31": "2010-02-23",
+    "2008-12-31": "2011-02-22",
+    "2009-12-31": "2011-02-22",
+    "2010-12-31": "2011-02-22"
+   }
+  },
+  "ocf": {
+   "tag": "NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+   "unit": "USD",
+   "blocked": 45,
+   "by_year": {
+    "2007-12-31": 16094.0,
+    "2008-12-31": 18812.0,
+    "2009-12-31": 20773.0,
+    "2010-12-31": 19549.0
+   },
+   "filed": {
+    "2007-12-31": "2010-02-23",
+    "2008-12-31": "2011-02-22",
+    "2009-12-31": "2011-02-22",
+    "2010-12-31": "2011-02-22"
+   }
+  },
+  "sbc": {
+   "tag": "ShareBasedCompensation + AllocatedShareBasedCompensationExpense",
+   "unit": "USD",
+   "blocked": 84,
+   "by_year": {
+    "2007-12-31": 713.0,
+    "2008-12-31": 659.0,
+    "2009-12-31": 558.0,
+    "2010-12-31": 629.0
+   },
+   "filed": {
+    "2007-12-31": "2010-02-23",
+    "2008-12-31": "2011-02-22",
+    "2009-12-31": "2011-02-22",
+    "2010-12-31": "2011-02-22"
+   }
+  },
+  "da": {
+   "tag": "Depreciation",
+   "unit": "USD",
+   "blocked": 45,
+   "by_year": {
+    "2007-12-31": 4038.0,
+    "2008-12-31": 4140.0,
+    "2009-12-31": 3773.0,
+    "2010-12-31": 3657.0
+   },
+   "filed": {
+    "2007-12-31": "2010-02-23",
+    "2008-12-31": "2011-02-22",
+    "2009-12-31": "2011-02-22",
+    "2010-12-31": "2011-02-22"
+   }
+  },
+  "capex": {
+   "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+   "unit": "USD",
+   "blocked": 45,
+   "by_year": {
+    "2007-12-31": 4630.0,
+    "2008-12-31": 4171.0,
+    "2009-12-31": 3447.0,
+    "2010-12-31": 4185.0
+   },
+   "filed": {
+    "2007-12-31": "2010-02-23",
+    "2008-12-31": "2011-02-22",
+    "2009-12-31": "2011-02-22",
+    "2010-12-31": "2011-02-22"
+   }
+  },
+  "net_income": {
+   "tag": "ProfitLoss",
+   "unit": "USD",
+   "blocked": 63,
+   "by_year": {
+    "2007-12-31": 10418.0,
+    "2008-12-31": 12334.0,
+    "2009-12-31": 13425.0,
+    "2010-12-31": 14833.0
+   },
+   "filed": {
+    "2007-12-31": "2010-02-23",
+    "2008-12-31": "2011-02-22",
+    "2009-12-31": "2011-02-22",
+    "2010-12-31": "2011-02-22"
+   }
+  },
+  "shares_dil": {
+   "tag": "WeightedAverageNumberOfDilutedSharesOutstanding + WeightedAverageNumberOfSharesOutstandingBasic",
+   "unit": "shares",
+   "blocked": 90,
+   "by_year": {
+    "2007-12-31": 1456.9,
+    "2008-12-31": 1387.8,
+    "2009-12-31": 1341.4,
+    "2010-12-31": 1287.4
+   },
+   "filed": {
+    "2007-12-31": "2010-02-23",
+    "2008-12-31": "2011-02-22",
+    "2009-12-31": "2011-02-22",
+    "2010-12-31": "2011-02-22"
+   }
+  },
+  "assets": {
+   "tag": "Assets",
+   "unit": "USD",
+   "blocked": 42,
+   "by_year": {
+    "2008-12-31": 109524.0,
+    "2009-12-31": 109022.0,
+    "2010-12-31": 113452.0
+   },
+   "filed": {
+    "2008-12-31": "2011-02-22",
+    "2009-12-31": "2011-02-22",
+    "2010-12-31": "2011-02-22"
+   }
+  },
+  "equity": {
+   "tag": "StockholdersEquity + StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+   "unit": "USD",
+   "blocked": 90,
+   "by_year": {
+    "2006-12-31": 28635.0,
+    "2007-12-31": 28615.0,
+    "2008-12-31": 13465.0,
+    "2009-12-31": 22637.0,
+    "2010-12-31": 23046.0
+   },
+   "filed": {
+    "2006-12-31": "2010-02-23",
+    "2007-12-31": "2011-02-22",
+    "2008-12-31": "2010-02-23",
+    "2009-12-31": "2011-02-22",
+    "2010-12-31": "2011-02-22"
+   }
+  },
+  "lt_debt": {
+   "tag": "LongTermDebt",
+   "unit": "USD",
+   "blocked": 44,
+   "by_year": {
+    "2009-12-31": 24154.0,
+    "2010-12-31": 25863.0
+   },
+   "filed": {
+    "2009-12-31": "2011-02-22",
+    "2010-12-31": "2011-02-22"
+   }
+  },
+  "liabilities": {
+   "tag": "Liabilities",
+   "unit": "USD",
+   "blocked": 30,
+   "by_year": {
+    "2008-12-31": 95939.0,
+    "2009-12-31": 86267.0,
+    "2010-12-31": 90279.0
+   },
+   "filed": {
+    "2008-12-31": "2010-02-23",
+    "2009-12-31": "2011-02-22",
+    "2010-12-31": "2011-02-22"
+   }
+  }
+ },
+ "equity_cross_check": {
+  "2006-12-31": {
+   "stated_equity": 28635.0,
+   "status": "CROSS-CHECK NOT POSSIBLE",
+   "missing": "Assets",
+   "assets": null,
+   "verdict": "UNVERIFIED - no independent identity available at this period. Read the filed balance sheet."
+  },
+  "2007-12-31": {
+   "stated_equity": 28615.0,
+   "status": "CROSS-CHECK NOT POSSIBLE",
+   "missing": "Assets",
+   "assets": null,
+   "verdict": "UNVERIFIED - no independent identity available at this period. Read the filed balance sheet."
+  }
+ },
+ "equity_reconciled_years": [
+  "2008-12-31",
+  "2009-12-31",
+  "2010-12-31"
+ ],
+ "facts_blocked_by_anchor": 623,
+ "price": {
+  "close": 179.11090087890625,
+  "date": "2011-11-14",
+  "basis": "Yahoo close is stated on TODAY'S share basis: it is already divided by every split effective after this date."
+ },
+ "market_cap": {
+  "refused": "SPLIT FACTOR 1.046 IS NOT A CLEAN RATIO - almost certainly a SPINOFF recorded as a split. The share count cannot be put on the price's basis without corrupting it. Q5 is UNRESEARCHED until the count is read off the cover page of the filing.",
+  "close": 179.11090087890625,
+  "close_date": "2011-11-14",
+  "shares_millions_as_reported": 1287.4,
+  "shares_period": "2010-12-31"
+ },
+ "sovereign": {
+  "rate_pct": 3.09,
+  "date": "2011-11-14",
+  "source": "US Treasury daily yield curve (issuing authority)"
+ },
+ "case_id": "C"
+}

@@ -1,0 +1,48 @@
+year sales opm% opm_ex_imp% OC_capex OC_DA acq OC-acq TTship content LCIIgm% PATKopm% PATKgm%
+2005   669.1   8.6   8.6
+2006   729.2   7.6   7.6
+2007   668.6   9.9   9.9    72.5    63.7   17.3    55.2  261.7  1700
+2008   510.5   3.9   5.0    -3.1   -16.0   31.8   -34.9  185.1  1902
+2009   397.8  -8.9   2.4    56.7    41.3    1.7    55.0  138.8  2101  19.8   0.6  10.8
+2010   572.8   7.9   7.9    27.8    20.8   21.9     5.9  199.2  2171  22.0   2.3  10.6
+2011   681.2   7.1   7.1     7.9    11.7   50.3   -42.4  212.9  2398  20.5   4.4  14.4
+2012   901.1   6.4   6.4    34.4    40.7    1.5    32.9  242.9  2713  18.7   6.2  15.0
+2013  1015.6   7.7   7.7    39.3    44.4    4.8    34.5  268.0  2716  21.0   6.9  15.3
+2014  1190.8   8.0   8.0    53.7    63.6  106.8   -53.1  298.9  2825  21.4   7.0  16.1
+2015  1403.1   8.3   8.3    52.0    39.4   41.1    10.9  314.4  2987  21.8   7.6  16.5
+2016  1678.9  12.0  12.0   143.3   141.8   48.7    94.6  362.7  3022  25.5   7.4  16.6
+2017  2147.8  10.0  10.0    47.9    80.4   60.6   -12.7  429.5  3263  23.0   7.5  17.1
+2018  2475.8   8.0   8.0    22.7    75.0  184.8  -162.1  415.1  3450  21.0   7.9  18.4
+2019  2371.5   8.4   8.4   195.2   178.0  447.8  -252.6  349.5  3618  22.7   6.6  18.1
+2020  2796.2   8.0   8.0   155.6   114.9  182.1   -26.5  380.1  3390  25.3   7.0  18.5
+2021  4472.7   8.9   8.9  -237.3  -251.1  194.1  -431.4  531.2  4198  23.3   8.6  19.6
+2022  5207.1  10.6  10.6   448.2   449.6  108.5   339.7  421.7  6090  24.5  10.2  21.7
+2023  3784.8   3.3   3.3   446.8   377.2   25.9   420.9  259.1  5058  20.5   7.5  22.6
+2024  3741.2   5.8   5.8   309.3   225.9   20.0   289.3  291.6  5097  23.5   6.9  22.5
+2025  4122.0   6.8   6.8   255.7   187.1  112.7   143.0  298.2  5670  23.8   7.0  23.1
+5yr avg OC capex 244.5 D&A 197.7 acq 92.2
+span 2009-2025: OC/sales 5.29%  OC-acq/sales 1.14%  opm 7.86%  PATK opm 7.67%
+span 2010-2025: OC/sales 5.19%  OC-acq/sales 1.01%  opm 7.91%  PATK opm 7.72%
+span 2016-2025: OC/sales 5.45%  OC-acq/sales 1.23%  opm 7.96%  PATK opm 7.86%
+mean TT shipments 2007-2025 308.5
+content CAGR 2007-2025 6.92  2007-2019 6.5
+sales CAGR 2007-2025 10.63
+sum acq 2007-2025 1662.4  2016-2025 1385.2
+sum OC 2016-2025 1787.4  div+bb 2016-2025 980.1
+no-growth capex                                                            4344M  $ 178.66/sh
+no-growth D&A                                                              3512M  $ 144.47/sh
+whole-cycle no-growth (OC/sales 2009-2025 x LTM sales)                     3782M  $ 155.56/sh
+whole-cycle net of acquisitions, no-growth                                  819M  $  33.68/sh
+shown growth capped at the rate (5.63%), base net of acquisitions          4228M  $ 173.92/sh
+shown growth capped at the rate, whole-cycle net-of-acq base               1280M  $  52.65/sh
+whole-cycle OC/sales 5.29 % -> 212.9 ; net of acq 1.14 % -> 46.1
+5yr capex: after-tax 244.5 pretax 331.4; pretax yield at price 16.50%; fair price (10% pretax, no growth) $136.30; cheap (15% pretax) $90.87
+5yr D&A: after-tax 197.7 pretax 267.9; pretax yield at price 13.34%; fair price (10% pretax, no growth) $110.21; cheap (15% pretax) $73.48
+whole-cycle: after-tax 212.9 pretax 288.5; pretax yield at price 14.37%; fair price (10% pretax, no growth) $118.67; cheap (15% pretax) $79.11
+whole-cycle net acq: after-tax 46.1 pretax 62.5; pretax yield at price 3.11%; fair price (10% pretax, no growth) $25.70; cheap (15% pretax) $17.13
+2016 tangible capital 312 pretax op/tc 64.4 % ; on total capital incl goodwill 39.1 %
+2019 tangible capital 704 pretax op/tc 28.4 % ; on total capital incl goodwill 14.3 %
+2022 tangible capital 1382 pretax op/tc 40.0 % ; on total capital incl goodwill 22.5 %
+2023 tangible capital 1098 pretax op/tc 11.2 % ; on total capital incl goodwill 5.8 %
+2024 tangible capital 1000 pretax op/tc 21.8 % ; on total capital incl goodwill 11.0 %
+2025 tangible capital 1058 pretax op/tc 26.4 % ; on total capital incl goodwill 13.4 %

@@ -1,0 +1,12 @@
+owner cash (OCF less capex): {2020: -77306, 2021: -482801, 2022: -352764, 2023: -3814384, 2024: -1569940} avg -1259439
+owner cash before interest: {2020: -28077, 2021: -469489, 2022: -317387, 2023: -3754408, 2024: -1442767} avg -1202426
+variant before working capital (net income + depreciation): {2020: 284214, 2021: -351114, 2022: -594278, 2023: -616441, 2024: -2528922} avg -761308
+variant before working capital, listing fees added back: {2020: 284214, 2021: 3629, 2022: -265579, 2023: 624758, 2024: -2338416} avg -338279
+revenue CAGR 2020-2024: -0.76%
+net debt: bank+finance lease-cash -1931498 | with director payables -564760 | with Solar HK note (stated subsequent event) 1370724
+USD 30y stand-in 5.43%: whole-business value all-equity -22,144,118; less net debt -> equity -23,514,842; equity-only -23,194,088
+   per share on 17,357,924 (FY2024 cover): all-equity -1.3547; equity-only -1.3362
+   per share on 698,719 (post-combination, 6-K 2025-08-21): all-equity -33.6542; equity-only -33.1952
+floor 10%: whole-business value all-equity -12,024,256; less net debt -> equity -13,394,980; equity-only -12,594,390
+   per share on 17,357,924 (FY2024 cover): all-equity -0.7717; equity-only -0.7256
+   per share on 698,719 (post-combination, 6-K 2025-08-21): all-equity -19.1708; equity-only -18.0250

@@ -1,0 +1,88 @@
+== BAC
+2006 NIcommon        - deposits        - depIntExp        - costDep(avg of ends)  equity    135.3 goodwill        - provision        -
+2007 NIcommon     14.8 deposits        - depIntExp     18.1 costDep(avg of ends)  equity    146.8 goodwill        - provision      8.4
+2008 NIcommon      2.6 deposits    883.0 depIntExp     15.2 costDep(avg of ends)  equity    177.1 goodwill     81.9 provision     26.8
+2009 NIcommon     -2.2 deposits    991.6 depIntExp      7.8 costDep(avg of ends)  0.83% equity    231.4 goodwill     86.3 provision     48.6
+2010 NIcommon     -3.6 deposits   1010.4 depIntExp      4.0 costDep(avg of ends)  0.40% equity    228.2 goodwill     73.9 provision     28.4
+2011 NIcommon      0.1 deposits   1033.0 depIntExp      3.0 costDep(avg of ends)  0.29% equity    230.1 goodwill     70.0 provision     13.4
+2012 NIcommon      2.8 deposits   1105.3 depIntExp      2.0 costDep(avg of ends)  0.19% equity    237.0 goodwill     70.0 provision      8.2
+2013 NIcommon     10.1 deposits   1119.3 depIntExp      1.4 costDep(avg of ends)  0.13% equity    232.5 goodwill     69.8 provision      3.6
+2014 NIcommon      4.5 deposits   1118.9 depIntExp      1.1 costDep(avg of ends)  0.10% equity    243.5 goodwill     69.8 provision      2.3
+2015 NIcommon     14.4 deposits   1197.3 depIntExp      0.9 costDep(avg of ends)  0.07% equity    255.6 goodwill     69.8 provision      3.2
+2016 NIcommon     16.1 deposits   1260.9 depIntExp      1.0 costDep(avg of ends)  0.08% equity    266.2 goodwill     69.0 provision      3.6
+2017 NIcommon     16.6 deposits   1309.5 depIntExp      1.9 costDep(avg of ends)  0.15% equity    267.1 goodwill     69.0 provision      3.4
+2018 NIcommon     26.7 deposits   1381.5 depIntExp      4.5 costDep(avg of ends)  0.33% equity    265.3 goodwill     69.0 provision      3.3
+2019 NIcommon     26.0 deposits   1434.8 depIntExp      7.2 costDep(avg of ends)  0.51% equity    264.8 goodwill     69.0 provision      3.6
+2020 NIcommon     16.5 deposits   1795.5 depIntExp      1.9 costDep(avg of ends)  0.12% equity    272.9 goodwill     69.0 provision        -
+2021 NIcommon     30.6 deposits   2064.4 depIntExp      0.5 costDep(avg of ends)  0.03% equity    270.1 goodwill     69.0 provision        -
+2022 NIcommon     26.0 deposits   1930.3 depIntExp      4.7 costDep(avg of ends)  0.24% equity    273.2 goodwill     69.0 provision        -
+2023 NIcommon     24.7 deposits   1923.8 depIntExp     26.2 costDep(avg of ends)  1.36% equity    290.2 goodwill     69.0 provision        -
+2024 NIcommon     25.3 deposits   1965.5 depIntExp     38.4 costDep(avg of ends)  1.98% equity    294.0 goodwill     69.0 provision        -
+2025 NIcommon     29.1 deposits   2018.7 depIntExp     34.5 costDep(avg of ends)  1.73% equity    303.2 goodwill     69.0 provision        -
+accessions sample: {'2023': '0000070858-26-000157', '2024': '0000070858-26-000157', '2025': '0000070858-26-000157'}
+== JPM
+2006 NIcommon        - deposits        - depIntExp        - costDep(avg of ends)  equity        - goodwill        - provision        -
+2007 NIcommon     14.9 deposits        - depIntExp        - costDep(avg of ends)  equity        - goodwill     45.3 provision      6.9
+2008 NIcommon      4.7 deposits   1009.3 depIntExp     14.5 costDep(avg of ends)  equity    166.9 goodwill     48.0 provision     21.0
+2009 NIcommon      8.8 deposits    938.4 depIntExp      4.8 costDep(avg of ends)  0.50% equity    160.8 goodwill     48.4 provision     32.0
+2010 NIcommon     15.8 deposits    930.4 depIntExp      3.4 costDep(avg of ends)  0.37% equity    176.1 goodwill     48.9 provision     16.6
+2011 NIcommon     17.6 deposits   1127.8 depIntExp      3.9 costDep(avg of ends)  0.37% equity    183.6 goodwill     48.2 provision      7.6
+2012 NIcommon     19.9 deposits   1193.6 depIntExp      2.7 costDep(avg of ends)  0.23% equity    204.1 goodwill     48.2 provision      3.4
+2013 NIcommon     16.6 deposits   1287.8 depIntExp      2.1 costDep(avg of ends)  0.17% equity    211.2 goodwill     48.1 provision      0.2
+2014 NIcommon     20.1 deposits   1363.4 depIntExp      1.6 costDep(avg of ends)  0.12% equity    231.7 goodwill     47.6 provision      3.1
+2015 NIcommon     22.7 deposits   1279.7 depIntExp      1.3 costDep(avg of ends)  0.09% equity    247.6 goodwill     47.3 provision      3.8
+2016 NIcommon     22.8 deposits   1375.2 depIntExp      1.4 costDep(avg of ends)  0.10% equity    254.2 goodwill     47.3 provision      5.4
+2017 NIcommon     22.6 deposits   1444.0 depIntExp      2.9 costDep(avg of ends)  0.20% equity    255.7 goodwill     47.5 provision      5.3
+2018 NIcommon     30.7 deposits   1470.7 depIntExp      6.0 costDep(avg of ends)  0.41% equity    256.5 goodwill     47.5 provision      4.9
+2019 NIcommon     34.6 deposits   1562.4 depIntExp      9.0 costDep(avg of ends)  0.59% equity    261.3 goodwill     47.8 provision      5.6
+2020 NIcommon     27.4 deposits   2144.3 depIntExp      2.4 costDep(avg of ends)  0.13% equity    279.4 goodwill     49.2 provision     17.5
+2021 NIcommon     46.5 deposits   2462.3 depIntExp      0.5 costDep(avg of ends)  0.02% equity    294.1 goodwill     50.3 provision     -9.3
+2022 NIcommon     35.9 deposits   2340.2 depIntExp     10.1 costDep(avg of ends)  0.42% equity    292.3 goodwill     51.7 provision      6.4
+2023 NIcommon     47.8 deposits   2400.7 depIntExp     40.0 costDep(avg of ends)  1.69% equity    327.9 goodwill     52.6 provision      9.3
+2024 NIcommon     56.9 deposits   2406.0 depIntExp     49.6 costDep(avg of ends)  2.06% equity    344.8 goodwill     52.6 provision     10.7
+2025 NIcommon     55.7 deposits   2559.3 depIntExp     45.1 costDep(avg of ends)  1.82% equity    362.4 goodwill     52.7 provision     14.2
+accessions sample: {'2023': '0001628280-26-008131', '2024': '0001628280-26-008131', '2025': '0001628280-26-008131'}
+== WFC
+2006 NIcommon        - deposits        - depIntExp        - costDep(avg of ends)  equity        - goodwill        - provision      2.2
+2007 NIcommon      8.1 deposits        - depIntExp      8.2 costDep(avg of ends)  equity        - goodwill        - provision      4.9
+2008 NIcommon      2.4 deposits    781.4 depIntExp      4.5 costDep(avg of ends)  equity     99.1 goodwill     22.6 provision     16.0
+2009 NIcommon      8.0 deposits    824.0 depIntExp      3.8 costDep(avg of ends)  0.47% equity    111.8 goodwill     24.8 provision     21.7
+2010 NIcommon     11.6 deposits    847.9 depIntExp      2.8 costDep(avg of ends)  0.34% equity    126.4 goodwill     24.8 provision     15.8
+2011 NIcommon     15.0 deposits    920.1 depIntExp      2.3 costDep(avg of ends)  0.26% equity    140.2 goodwill     25.1 provision      7.9
+2012 NIcommon     18.0 deposits   1002.8 depIntExp      1.7 costDep(avg of ends)  0.18% equity    157.6 goodwill     25.6 provision      7.2
+2013 NIcommon     20.9 deposits   1079.2 depIntExp      1.3 costDep(avg of ends)  0.13% equity    170.1 goodwill     25.6 provision      2.3
+2014 NIcommon     21.8 deposits   1168.3 depIntExp      1.1 costDep(avg of ends)  0.10% equity    184.4 goodwill     25.7 provision      1.4
+2015 NIcommon     21.5 deposits   1223.3 depIntExp      1.0 costDep(avg of ends)  0.08% equity    193.0 goodwill     25.5 provision      2.4
+2016 NIcommon     20.4 deposits   1306.1 depIntExp      1.4 costDep(avg of ends)  0.11% equity    199.6 goodwill     26.7 provision      3.8
+2017 NIcommon     20.6 deposits   1336.0 depIntExp      3.0 costDep(avg of ends)  0.23% equity    206.9 goodwill     26.6 provision      2.5
+2018 NIcommon     20.7 deposits   1286.2 depIntExp      5.6 costDep(avg of ends)  0.43% equity    196.2 goodwill     26.4 provision      1.7
+2019 NIcommon     18.1 deposits   1322.6 depIntExp      8.6 costDep(avg of ends)  0.66% equity    187.1 goodwill     26.4 provision      2.7
+2020 NIcommon      1.8 deposits   1404.4 depIntExp      2.8 costDep(avg of ends)  0.21% equity    184.7 goodwill     26.4 provision     14.1
+2021 NIcommon     20.8 deposits   1482.5 depIntExp      0.4 costDep(avg of ends)  0.03% equity    187.6 goodwill     25.2 provision     -4.2
+2022 NIcommon     12.6 deposits   1384.0 depIntExp      2.3 costDep(avg of ends)  0.16% equity    180.2 goodwill     25.2 provision      1.5
+2023 NIcommon     18.0 deposits   1358.2 depIntExp     16.5 costDep(avg of ends)  1.20% equity    185.7 goodwill     25.2 provision      5.4
+2024 NIcommon     18.6 deposits   1371.8 depIntExp     24.3 costDep(avg of ends)  1.78% equity    179.1 goodwill     25.2 provision      4.3
+2025 NIcommon     20.3 deposits   1426.2 depIntExp     20.4 costDep(avg of ends)  1.46% equity    181.1 goodwill     25.0 provision      3.7
+accessions sample: {'2023': '0000072971-26-000133', '2024': '0000072971-26-000133', '2025': '0000072971-26-000133'}
+== C
+2006 NIcommon        - deposits        - depIntExp        - costDep(avg of ends)  equity        - goodwill        - provision        -
+2007 NIcommon        - deposits        - depIntExp        - costDep(avg of ends)  equity        - goodwill        - provision     17.0
+2008 NIcommon    -29.6 deposits    774.2 depIntExp     20.3 costDep(avg of ends)  equity    141.6 goodwill     27.1 provision     33.3
+2009 NIcommon     -9.2 deposits    835.9 depIntExp     10.1 costDep(avg of ends)  1.26% equity    152.7 goodwill     25.4 provision     39.0
+2010 NIcommon     10.5 deposits    845.0 depIntExp      8.4 costDep(avg of ends)  1.00% equity    163.5 goodwill     26.2 provision     26.0
+2011 NIcommon     10.9 deposits    865.9 depIntExp      8.5 costDep(avg of ends)  1.00% equity    177.8 goodwill     25.4 provision     12.4
+2012 NIcommon      7.3 deposits    930.6 depIntExp      7.7 costDep(avg of ends)  0.86% equity    189.0 goodwill     25.7 provision     11.3
+2013 NIcommon     13.2 deposits    968.3 depIntExp      6.2 costDep(avg of ends)  0.66% equity    204.3 goodwill     25.0 provision      8.5
+2014 NIcommon      6.7 deposits    899.3 depIntExp      5.7 costDep(avg of ends)  0.61% equity    210.2 goodwill     23.6 provision      7.5
+2015 NIcommon     16.2 deposits    907.9 depIntExp      5.1 costDep(avg of ends)  0.56% equity    221.9 goodwill     22.3 provision      7.9
+2016 NIcommon     13.6 deposits    929.4 depIntExp      5.3 costDep(avg of ends)  0.58% equity    225.1 goodwill     21.7 provision      7.0
+2017 NIcommon     -8.0 deposits    959.8 depIntExp      6.6 costDep(avg of ends)  0.70% equity    200.7 goodwill     22.3 provision      7.5
+2018 NIcommon     16.7 deposits   1013.2 depIntExp      9.6 costDep(avg of ends)  0.97% equity    196.2 goodwill     22.0 provision      7.6
+2019 NIcommon     18.2 deposits   1070.6 depIntExp     11.9 costDep(avg of ends)  1.14% equity    193.2 goodwill     22.1 provision        -
+2020 NIcommon      9.9 deposits   1280.7 depIntExp      5.3 costDep(avg of ends)  0.45% equity    199.4 goodwill     22.2 provision        -
+2021 NIcommon     20.8 deposits   1317.2 depIntExp      2.9 costDep(avg of ends)  0.22% equity    202.0 goodwill     21.3 provision        -
+2022 NIcommon     13.7 deposits   1366.0 depIntExp     11.6 costDep(avg of ends)  0.86% equity    201.2 goodwill     19.7 provision        -
+2023 NIcommon      7.8 deposits   1308.7 depIntExp     36.3 costDep(avg of ends)  2.71% equity    205.5 goodwill     20.1 provision        -
+2024 NIcommon     11.5 deposits   1284.5 depIntExp     40.3 costDep(avg of ends)  3.11% equity    208.6 goodwill     19.3 provision        -
+2025 NIcommon     13.0 deposits   1403.6 depIntExp     35.0 costDep(avg of ends)  2.60% equity    212.3 goodwill     19.1 provision        -
+accessions sample: {'2023': '0000831001-26-000011', '2024': '0000831001-26-000011', '2025': '0000831001-26-000011'}

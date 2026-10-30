@@ -1,0 +1,24 @@
+{
+ "ticker": "WEC",
+ "name": "WEC Energy Group",
+ "headline": "A large Midwest electric and gas utility with a regulated return on a growing plan of approved projects.",
+ "what_short": "Regulated Midwest electric and gas utility",
+ "what_it_does": "WEC Energy Group delivers electricity and natural gas under regulated rates in four states, with Wisconsin as its largest. It also owns an interest in the American Transmission Company. A published plan calls for $33.4 billion of utility capital spending plus $4.1 billion for the transmission company from 2026 to 2030.",
+ "why_it_passed": [
+  "Its earnings are a regulated return on approved capital, so the next ten years are easy to picture.",
+  "Its return on common equity runs 11% to 12%, though about 62% of its capital is debt.",
+  "The accounts can be followed line by line, and no dishonesty was found.",
+  "The analysis weighed management's ability in its favor."
+ ],
+ "why_not_now": "A regulator caps what the utility may earn, so the price is far above what that capped return justifies. At $111.12 a share the price is above the whole value range ($67.70 to $78.29), and the buyer would be paid less than a 30-year US Treasury bond (5.31%).",
+ "watch": [
+  "The capital added since 2020 ($11.4 billion) earned only about 5.1% before tax, below a Treasury bond.",
+  "Cash after capital spending was negative in every year from 2021 to 2025 (an average of minus $734 million), so the dividend and growth are paid from borrowing.",
+  "Illinois regulators have paused pipe spending, and the bonus for 2025 was paid at its 200% maximum; plan-share purchases were made above the analysis's value range."
+ ],
+ "value_low": 67.7,
+ "value_high": 78.29,
+ "utility": true,
+ "run_date": "2026-10-27",
+ "currency": "USD"
+}

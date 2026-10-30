@@ -1,0 +1,24 @@
+{
+ "ticker": "ADP",
+ "name": "ADP",
+ "headline": "The payroll company one in six US workers depends on, with clients who rarely leave.",
+ "what_short": "Payroll, tax and HR services for employers",
+ "what_it_does": "ADP runs payroll, payroll tax filing, HR, benefits and time tracking for over 1.1 million employer clients, paying more than 42 million workers. It also acts as a co-employer for about 762,000 worksite employees. It earns extra interest on the client money it holds between paying in and paying out.",
+ "why_it_passed": [
+  "Payroll and tax filing are tasks every employer must do correctly, so clients stay: it keeps 92.1% of its client revenue each year, up from 89.9% ten years ago.",
+  "Moving to another provider takes six to nine months and a payroll mistake is costly, so clients rarely switch on price alone.",
+  "It is connected directly to tens of thousands of government agencies, tax authorities and banks, a network rivals find hard to copy.",
+  "It needs very little added capital to grow: about 65% a year after tax on the capital it uses, counting past purchases."
+ ],
+ "why_not_now": "The analysis puts the value at $156 to $246 a share, and the price was $260.26, above the top of that range. At that price a buyer would expect roughly 5.4% to 7.4% a year, about level with a 30-year US Treasury bond (5.66%), which carries far less risk.",
+ "watch": [
+  "About a quarter of pre-tax earnings comes from interest on client funds, so falling interest rates would cut profit.",
+  "Younger rivals (Paycom, Paylocity) are growing faster, and AI or cheap payroll software could make the service more of a commodity.",
+  "It has bought back shares at prices above the bottom of the value range, and it borrows short-term to support the client funds."
+ ],
+ "value_low": 156,
+ "value_high": 246,
+ "utility": false,
+ "run_date": "2026-10-06",
+ "currency": "USD"
+}

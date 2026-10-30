@@ -1,0 +1,35 @@
+net debt 2026-07-31 1636.3; price $328.17; market cap 18278.9; EV 19915.1
+
+== ALL-EQUITY basis (owner cash before interest, after the company's tax; less net debt)
+   FY2021 owner cash    499.6
+   FY2022 owner cash    443.8
+   FY2023 owner cash    620.5
+   FY2024 owner cash    535.3
+   FY2025 owner cash    716.3
+   five-year mean 563.1; total growth (FY2021->FY2025, aggregate) 9.42%; organic 0.95%; acquisitions net 2356.3 (mean 471.3, 83.7% of mean owner cash)
+   no growth, no acquisitions (maintenance-only top/bottom)       value   10055.7  per share $  151.16 | at the floor   5631.2  per share $   71.72
+   total growth credited, acquisitions deducted (default pair)    value   15473.2  per share $  248.42 | at the floor   6235.2  per share $   82.57
+   organic growth only, acquisitions left out (pair beside)       value   10842.4  per share $  165.28 | at the floor   6005.9  per share $   78.45
+   DEFAULT RANGE $151.16 to $248.42 a share (ends: no-growth and shown-growth); width 1.64 to 1
+   ORGANIC PAIR RANGE $151.16 to $165.28 a share
+   FAIR PRICE (midpoint of the default range's two cash streams discounted at the floor): $77.15
+   owner-cash yield at the price on the five-year mean: 2.83%
+
+== EQUITY-ONLY basis (owner cash after interest; against the market value)
+   FY2021 owner cash    478.2
+   FY2022 owner cash    425.6
+   FY2023 owner cash    577.2
+   FY2024 owner cash    466.7
+   FY2025 owner cash    636.3
+   five-year mean 516.8; total growth (FY2021->FY2025, aggregate) 7.40%; organic 0.95%; acquisitions net 2356.3 (mean 471.3, 91.2% of mean owner cash)
+   no growth, no acquisitions (maintenance-only top/bottom)       value    9228.6  per share $  165.69 | at the floor   5168.0  per share $   92.78
+   total growth credited, acquisitions deducted (default pair)    value   11430.6  per share $  205.22 | at the floor   4469.6  per share $   80.25
+   organic growth only, acquisitions left out (pair beside)       value    9950.5  per share $  178.65 | at the floor   5511.9  per share $   98.96
+   DEFAULT RANGE $165.69 to $205.22 a share (ends: no-growth and shown-growth); width 1.24 to 1
+   ORGANIC PAIR RANGE $165.69 to $178.65 a share
+   FAIR PRICE (midpoint of the default range's two cash streams discounted at the floor): $86.51
+   owner-cash yield at the price on the five-year mean: 2.83%
+
+== VARIANT all-equity, depreciation in place of capital spending: mean 555.5, growth 9.75%: $148.70 to $251.22
+== VARIANT all-equity, growth between the halves (FY2021-22 mean 471.7 to FY2024-25 mean 625.8, three years): 9.88%; top $259.92
+== NOT A CASE (forbidden pairing, shown to size the acquisition deduction): total growth, nothing deducted: $351.85

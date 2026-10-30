@@ -1,0 +1,24 @@
+{
+ "ticker": "LOW",
+ "name": "Lowe's",
+ "headline": "The second-largest US home-improvement chain, earning very high returns on its stores and stock.",
+ "what_short": "US home-improvement store chain",
+ "what_it_does": "Lowe's runs 1,759 home-improvement stores in the United States, about 196 million square feet. It sells to homeowners and to professional contractors, and recently bought two contractor distribution businesses (FBM and ADG) with about 540 branches.",
+ "why_it_passed": [
+  "From fiscal 2007 to 2017 it never lost money, and even at the bottom of the housing collapse it earned 11.8% before tax on its tangible capital.",
+  "That pre-tax return on tangible capital rose to 39% to 48% a year from fiscal 2020 to 2025.",
+  "The field it competes in earns returns well above ordinary, and its improved margin has met a mild downturn, not a collapse.",
+  "The accounts were clear and no dishonesty was found."
+ ],
+ "why_not_now": "At $186.00 a share the price sits inside the analysis's value range ($139.05 to $315.46), but in its lower half. A buyer would expect about 6.5% a year on the middle case and 8.1% on the top case, below the roughly 10% the analysis requires; the 30-year US Treasury bond pays 5.6%.",
+ "watch": [
+  "Its costs are higher than its larger rival Home Depot's, and its store traffic has fallen faster.",
+  "Its newest purchases earn only about 4%, and the new contractor businesses earned almost nothing in a recent quarter ($3 million of operating profit on $1.94 billion of sales).",
+  "Its shareholders' equity is negative from heavy buybacks, and the analysis weighed its management against on how it uses capital."
+ ],
+ "value_low": 139.05,
+ "value_high": 315.46,
+ "utility": false,
+ "run_date": "2026-10-10",
+ "currency": "USD"
+}

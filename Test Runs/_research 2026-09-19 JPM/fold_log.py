@@ -1,0 +1,43 @@
+import sys
+P = 'Screens/_daily/OVERNIGHT LOG.md'
+t = open(P, encoding='utf-8').read()
+LINE = ("- 2026-09-19 20:22 EDT | JPM | **Q1 IN / Q2 IN (NARROW, direction MIXED) / Q3 IN (BINARY GATE) / "
+ "Q4 IN (GOOD, not great) / Q5 NOT IN - quit on at the ~10% [E4-28] floor, FAIL ON PRICE / Q6 IN.** "
+ "**WAVE 6, the FOURTH bank this project has run, the SECOND to clear the business gates, and the LARGEST "
+ "company it has ever priced.** CIK 0000019617 found by `cik_for()`. Price **US$349.67** (2026-09-18 "
+ "close, aggregator FLAGGED, corroborated against the Q2 10-Q's own filed market capitalisation of "
+ "$870,104M at 2026-06-30) x **2,658,186,195 shares** (cover of the 10-Q for the quarter ended "
+ "2026-06-30, accession `0001628280-26-054343`; **issued 4,104,933,895 less treasury 1,446,747,700 "
+ "reconciles to the share, and the issued figure would have overstated the cap 1.544-fold**) = cap "
+ "**US$929,488M**; sovereign **5.34%** (US Treasury 30-year, 09/18/2026, issuing authority, not FRED). "
+ "**Q2 passes on [E2-58]'s single exception measured on the COST OF OPERATIONS - a 9.65-point overhead "
+ "advantage over the next-best universal bank, worth about $17.6bn a year pre-tax, and WIDENING - and it "
+ "explicitly FAILS the cost-of-funds test ACNB passed on, being THIRD of six every year for five years.** "
+ "Five-year mean ROTCE 20.80%, first of six in four of five years. **Q3 was decided by an artifact NAMED "
+ "and then OBTAINED from the issuing authority rather than recalled: the Federal Reserve's own "
+ "enforcement-actions file (2,889 actions) - thirteen entity actions since 2003, ZERO orders open, "
+ "$878.9M of penalties, the 2024-03-08 order terminated 2025-12-04, while Citigroup and Wells Fargo each "
+ "still have an OPEN order. That closes two of the three ladder rungs CCB said were missing, for one HTTP "
+ "request.** [E3-02] conformity tested at 2022-12-31 from the FDIC Call Reports of all seven "
+ "institutions: HTM at **1.40x equity, the lowest of the seven**, against SVB's 5.91x and BAC's 2.81x. "
+ "Reserves 31.7% more provisioned than charged off over seven years, with **no published back-test "
+ "([E2-67] in substance, not in form)**. Zero net common shares issued in five years. **LIVE "
+ "CAPITAL-ALLOCATION FLAG: $31.6bn of buybacks in 2025 at 2.57x tangible book against $9.9bn at 1.65x in "
+ "2023.** Named death **#27 THE LICENCE (proposed)**: $120.9bn, 35.3% of common equity, at about 3.7% in "
+ "Corporate while the three operating segments earn 18/32/40%, and the mix is a Federal Reserve decision. "
+ "Honest pre-tax expectancy **7.54% at the bottom boundary, 9.62% centred** - above the bond, below the "
+ "floor. Value ~$200-$340 vs $349.67. **Bands $230 and $190 ARMED, to be re-struck annually; PORTFOLIO "
+ "row added (gate-clearer).** THE STRONGEST FACT AGAINST: on the delivered record the price clears the "
+ "floor, and the whole failure rests on one judgment - that the 82.5% rise in net interest income from "
+ "$52,311M (2021) to $95,443M (2025) was the funds rate, not the business. **Fold: register entry 130 "
+ "(counted 129 -> 130 on a line-start regex, exactly one added), struck in the WAVE 6 table ITSELF and in "
+ "the operator-ruling sentence, narrative fold, shape #27, alerts 86 -> 88, PORTFOLIO row, "
+ "check_framework PASS, five pathspec commits.** **Three brief defects recorded: JPM is the FOURTH bank "
+ "not the third; only ONE bank had met [E3-03] criterion 2 before this run, not two; and JPM IS a row in "
+ "the WAVE 6 table and is NOT in the excluded subsection, the opposite of what the brief said on both "
+ "counts.** **One error of my own, corrected in an addendum not by editing history: Q1 gave Level 3 ASSETS "
+ "as $76,139M (that is the LIABILITIES figure; assets are $33,732M, 9.5% of common equity).** "
+ "`Test Runs/2026-09-19 Run - JPM JPMorgan Chase.md`\n")
+t = t.rstrip('\n') + '\n' + LINE
+open(P, 'w', encoding='utf-8').write(t)
+sys.stdout.write('log line appended; file lines now %d\n' % len(t.splitlines()))

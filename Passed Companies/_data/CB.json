@@ -1,0 +1,25 @@
+{
+ "ticker": "CB",
+ "name": "Chubb",
+ "headline": "The lowest-cost large commercial insurer, with a better combined ratio than almost every rival.",
+ "what_short": "Global property and casualty insurer",
+ "what_it_does": "Chubb sells property and casualty insurance to businesses and individuals worldwide, with North America commercial insurance as its largest part. It earns money from the premiums it charges and from investing the premiums it holds before claims are paid. It held about $172.6 billion of investments in mid-2026.",
+ "why_it_passed": [
+  "Its combined ratio (claims plus costs as a share of premiums, lower is better) was below every listed rival in ten of eleven years, and below Travelers' commercial business in all eleven.",
+  "Its average return on tangible equity was 18.6% from 2016 to 2025, against 11.1% on booked equity.",
+  "Its reserves for future claims proved sufficient on balance: across nine tables the company's early estimates turned out $2.2 billion too high.",
+  "Debt is only about a quarter of equity, and the investment portfolio uses no leverage."
+ ],
+ "why_not_now": "At $334.21 a share against a central value range of $110.0 to $562.3, even the top case earns only about 7.6% a year at today's price, below the 5.64% rate on a 30-year US Treasury bond plus the margin of safety the framework demands (about 10%). The price assumes the strong results of a hard insurance market last forever.",
+ "watch": [
+  "Long-tail liability reserves: in the largest line, commercial liability, the early estimates were too low in most years from 2016 to 2024.",
+  "A soft insurance market, or a catastrophe beyond the modeled 1-in-250-year loss of $9.3 billion, would test its discipline.",
+  "The culture was built by one man, now 71, who is both chairman and chief executive, so succession is a risk.",
+  "It has bought back shares at prices above what the analysis thinks they are worth."
+ ],
+ "value_low": 110.0,
+ "value_high": 562.3,
+ "utility": false,
+ "run_date": "2026-10-07",
+ "currency": "USD"
+}

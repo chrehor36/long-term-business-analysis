@@ -1,0 +1,20 @@
+year        OCF   SBC  c_cap c_da  OE_cap OE_da  WC   acq
+FY2021        692   486   330  143   -124    63   435     0
+FY2022        367   889   478  270  -1000  -792   148   -71
+FY2023       1673  1088   485  382    100   203   530     0
+FY2024       2132  1099   495  436    538   597   252     0
+FY2025       2431  1051   798  535    582   845  -400  4171
+TTM 2026-06  2830  1114   925  623    791  1093  -275  3048
+5y FY2021-25 capex end 19.2  D&A end 183.2 | ex-WC -173.8 / -9.8 | with cash acquisitions -800.8 / -636.8
+3y FY2023-25 capex end 406.7  D&A end 548.3 | ex-WC 279.3 / 421.0 | with cash acquisitions -983.7 / -842.0
+TTM capex end 791 D&A end 1093 ex-WC 1066 1368
+5y cap 19.2 yield 0.02%
+3y cap 406.7 yield 0.49%
+TTM cap 791 yield 0.95%
+5y da 183.2 yield 0.22%
+3y da 548.3 yield 0.66%
+TTM da 1093 yield 1.31%
+FY2025 grant value 1786, net of forfeits 1533 vs charge incl capitalised 1244
+H1 2026 grant value 1803 vs H1 charge incl cap 712
+SBC/OCF FY2025 51.2%, 5y 73.4%
+10% floor needs 8360

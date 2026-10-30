@@ -1,0 +1,27 @@
+IIIN: notes beneath the close, the owner-earnings rebuild, and the self-audit
+
+Q3 to Q6 recorded as notes with no verdict box ticked, and all arithmetic headed
+COMPUTATION - NOT A CLEARANCE, per operator rules 2 and 3.
+
+The rebuild over all sixteen filed years the data supports gives $24.0M-$24.1M at both
+ends of (c) against the screen's published $40M-$57M, which is the 3- and 5-year
+windows only. FY2023 alone is 59.2% of the five-year window and 68.6% of that year's
+operating cash was a working-capital release, $94.3M of it the inventory line. The
+trailing twelve months to 2026-06-27 are negative at both ends.
+
+The screen's wc_note has the right arithmetic (70.9%) and the wrong direction: the
+MD&A says "Working capital used $37.6 million of cash" and the flagged payable was the
+offset. That is the BELFB inversion repeated. Two further tooling defects reported and
+not patched: WC_TAGS carries only liability tags, so the flag cannot see inventories or
+receivables at all, and it prints only the single largest line, which here was the
+offset rather than the one that carries the band.
+
+Two documentation findings: the ledger holds 311 rows, not the 267 CLAUDE.md states,
+and THE FRAMEWORK v4.md smooths a transcript artifact in [E4-46]. Both reported, not
+edited.
+
+Six quotations were corrected on a check against the ledger's own quote_verbatim field
+rather than the framework's rendering, and two source artifacts are reproduced and
+flagged rather than smoothed.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

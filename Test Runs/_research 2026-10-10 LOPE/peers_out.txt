@@ -1,0 +1,71 @@
+== LOPE
+2015-12 rev    778.2 opinc    210.4 margin  27.0% ocf    173.9 capex    204.7 sbc     11.3 eq    610.3 gw      2.9 assets    898.4
+2016-12 rev    873.3 opinc    237.2 margin  27.2% ocf    237.8 capex    178.3 sbc     12.3 eq    773.7 gw      2.9 assets   1092.5
+2017-12 rev    974.1 opinc    282.8 margin  29.0% ocf    304.9 capex    113.6 sbc     12.7 eq    986.0 gw      2.9 assets   1303.6
+2018-12 rev    845.5 opinc    258.1 margin  30.5% ocf    199.1 capex     94.5 sbc     19.5 eq   1213.6 gw      2.9 assets   1324.0
+2019-12 rev    778.6 opinc    265.1 margin  34.1% ocf    306.3 capex     22.4 sbc     10.3 eq   1443.4 gw    160.8 assets   1690.3
+2020-12 rev    844.1 opinc    277.4 margin  32.9% ocf    308.8 capex     29.4 sbc     10.7 eq   1574.3 gw    160.8 assets   1844.6
+2021-12 rev    896.6 opinc    282.2 margin  31.5% ocf    313.1 capex     28.9 sbc     11.5 eq   1045.0 gw    160.8 assets   1222.7
+2022-12 rev    911.3 opinc    237.5 margin  26.1% ocf    220.8 capex     35.2 sbc     12.6 eq    637.6 gw    160.8 assets    832.7
+2023-12 rev    960.9 opinc    249.3 margin  25.9% ocf    243.7 capex     44.5 sbc     13.2 eq    718.0 gw    160.8 assets    930.5
+2024-12 rev   1033.0 opinc    275.4 margin  26.7% ocf    290.0 capex     37.2 sbc     14.2 eq    783.9 gw    160.8 assets   1018.4
+2025-12 rev   1106.1 opinc    265.9 margin  24.0% ocf    273.5 capex     34.8 sbc     13.6 eq    746.9 gw    160.8 assets    992.3
+== STRA
+2015-12 rev    434.4 opinc     69.7 margin  16.0% ocf     76.9 capex     12.7 sbc     10.2 eq    142.9 gw      6.8 assets    248.4
+2016-12 rev    441.1 opinc     57.5 margin  13.0% ocf     44.5 capex     13.2 sbc     10.8 eq    188.4 gw     20.7 assets    298.7
+2017-12 rev    454.9 opinc     52.2 margin  11.5% ocf     56.2 capex     18.1 sbc     11.6 eq    209.2 gw     20.7 assets    321.3
+2018-12 rev    634.2 opinc    -22.7 margin  -3.6% ocf     46.9 capex     27.5 sbc     15.5 eq   1425.2 gw    732.5 assets   1661.0
+2019-12 rev    997.1 opinc    110.5 margin  11.1% ocf    202.1 capex     38.7 sbc     12.2 eq   1462.7 gw    732.1 assets   1789.4
+2020-12 rev   1027.7 opinc    109.4 margin  10.6% ocf    142.9 capex     46.8 sbc     14.6 eq   1748.3 gw   1318.5 assets   2295.8
+2021-12 rev   1131.7 opinc     73.9 margin   6.5% ocf    180.5 capex     49.4 sbc     18.1 eq   1714.0 gw   1285.9 assets   2305.9
+2022-12 rev   1065.5 opinc     70.8 margin   6.6% ocf    126.1 capex     43.2 sbc     21.8 eq   1635.8 gw   1251.3 assets   2161.7
+2023-12 rev   1132.9 opinc     95.3 margin   8.4% ocf    117.1 capex     36.9 sbc     19.8 eq   1652.5 gw   1251.9 assets   2125.2
+2024-12 rev   1219.9 opinc    155.6 margin  12.8% ocf    169.3 capex     40.6 sbc     25.6 eq   1662.5 gw   1206.9 assets   2049.7
+2025-12 rev   1268.2 opinc    174.2 margin  13.7% ocf    198.2 capex     44.3 sbc     23.0 eq   1646.4 gw   1242.4 assets   2038.5
+== ATGE
+2015-06 rev   1909.9 opinc    156.9 margin   8.2% ocf    203.1 capex     88.7 sbc     17.4 eq   1584.8 gw    552.3 assets   2074.2
+2016-06 rev   1080.1 opinc      -   margin   -   ocf    231.6 capex     69.4 sbc     22.4 eq   1582.1 gw    588.0 assets   2097.0
+2017-06 rev   1207.9 opinc      -   margin   -   ocf    228.0 capex     49.0 sbc     16.6 eq   1669.0 gw    851.3 assets   2314.0
+2018-06 rev   1231.2 opinc      -   margin   -   ocf    239.2 capex     66.5 sbc     14.5 eq   1519.3 gw    813.9 assets   2345.0
+2019-06 rev   1239.7 opinc    155.8 margin  12.6% ocf    204.9 capex     64.8 sbc     13.2 eq   1391.5 gw    874.5 assets   2242.7
+2020-06 rev   1052.0 opinc    142.3 margin  13.5% ocf    107.7 capex     44.1 sbc     14.6 eq   1310.4 gw    686.2 assets   2228.7
+2021-06 rev   1112.4 opinc    161.5 margin  14.5% ocf    192.2 capex     48.7 sbc     13.9 eq   1301.1 gw    686.4 assets   3053.8
+2022-06 rev   1387.1 opinc     80.5 margin   5.8% ocf     10.4 capex     31.1 sbc     22.6 eq   1505.1 gw    961.3 assets   3029.2
+2023-06 rev   1450.8 opinc    168.2 margin  11.6% ocf    202.9 capex     37.0 sbc     14.3 eq   1457.3 gw    961.3 assets   2810.5
+2024-06 rev   1584.7 opinc    217.1 margin  13.7% ocf    295.8 capex     48.9 sbc     25.9 eq   1369.1 gw    961.3 assets   2741.4
+2025-06 rev   1788.3 opinc    341.5 margin  19.1% ocf    337.9 capex     50.3 sbc     41.6 eq   1433.6 gw    961.3 assets   2752.4
+2026-06 rev   1954.1 opinc    383.4 margin  19.6% ocf    470.4 capex     77.7 sbc     41.2 eq   1446.2 gw    961.3 assets   3012.7
+== PRDO
+2015-12 rev    847.3 opinc    -92.2 margin -10.9% ocf    -21.7 capex     11.7 sbc      2.9 eq    337.6 gw     87.4 assets    610.9
+2016-12 rev    704.4 opinc    -32.3 margin  -4.6% ocf      5.9 capex      4.1 sbc      3.2 eq    321.5 gw     87.4 assets    559.6
+2017-12 rev    596.4 opinc     34.1 margin   5.7% ocf    -21.8 capex      -   sbc      5.0 eq    296.2 gw     87.4 assets    447.1
+2018-12 rev    581.3 opinc     71.3 margin  12.3% ocf     57.0 capex      -   sbc      5.6 eq    355.2 gw     87.4 assets    482.5
+2019-12 rev    627.7 opinc     86.5 margin  13.8% ocf     73.1 capex      -   sbc      9.3 eq    431.3 gw     87.4 assets    599.1
+2020-12 rev    687.3 opinc    142.9 margin  20.8% ocf    180.0 capex      -   sbc     13.4 eq    555.9 gw    118.3 assets    721.5
+2021-12 rev    693.0 opinc    149.0 margin  21.5% ocf    191.1 capex      -   sbc     15.0 eq    650.1 gw    162.6 assets    847.4
+2022-12 rev    695.2 opinc    129.6 margin  18.6% ocf    148.2 capex      -   sbc      8.8 eq    725.8 gw    243.5 assets    957.4
+2023-12 rev    710.0 opinc    150.4 margin  21.2% ocf    112.0 capex      -   sbc      8.1 eq    841.4 gw    241.2 assets   1007.3
+2024-12 rev    681.3 opinc    174.3 margin  25.6% ocf    161.6 capex      -   sbc     10.2 eq    959.5 gw    258.0 assets   1237.0
+2025-12 rev    846.1 opinc    196.0 margin  23.2% ocf    225.2 capex      -   sbc     11.7 eq    972.4 gw    265.7 assets   1247.7
+== APEI
+2015-12 rev    327.9 opinc     52.3 margin  15.9% ocf     57.0 capex     26.0 sbc      5.9 eq    237.2 gw     38.6 assets    303.9
+2016-12 rev    313.1 opinc     38.3 margin  12.2% ocf     56.0 capex     13.8 sbc      5.2 eq    264.7 gw     33.9 assets    320.7
+2017-12 rev    299.2 opinc     34.9 margin  11.6% ocf     47.9 capex     10.9 sbc      6.2 eq    289.4 gw     33.9 assets    339.0
+2018-12 rev    297.7 opinc     32.5 margin  10.9% ocf     44.2 capex      9.4 sbc      7.2 eq    321.3 gw     33.9 assets    371.0
+2019-12 rev    286.3 opinc     12.8 margin   4.5% ocf     38.4 capex      7.3 sbc      6.0 eq    296.7 gw     26.6 assets    354.9
+2020-12 rev    321.8 opinc     24.8 margin   7.7% ocf     44.8 capex      4.9 sbc      7.1 eq    306.9 gw     26.6 assets    371.0
+2021-12 rev    418.8 opinc     30.4 margin   7.3% ocf     16.3 capex     11.8 sbc      7.7 eq    415.6 gw    243.5 assets    725.6
+2022-12 rev    606.3 opinc   -137.3 margin -22.7% ocf     29.2 capex     16.4 sbc      8.0 eq    349.7 gw    112.6 assets    615.1
+2023-12 rev    600.5 opinc    -48.3 margin  -8.0% ocf     45.5 capex     13.9 sbc      7.7 eq    292.0 gw     59.6 assets    557.4
+2024-12 rev    624.6 opinc     33.1 margin   5.3% ocf     48.9 capex     21.1 sbc      7.7 eq    303.9 gw     59.6 assets    570.1
+2025-12 rev    648.9 opinc     47.9 margin   7.4% ocf     62.0 capex     15.9 sbc      8.4 eq    294.8 gw     59.6 assets    521.4
+== TWOU
+2015-12 rev    150.2 opinc    -26.1 margin -17.4% ocf     -9.3 capex      4.1 sbc     12.5 eq    195.8 gw      -   assets    231.0
+2016-12 rev    205.9 opinc    -21.0 margin -10.2% ocf      5.2 capex      7.6 sbc     15.8 eq    195.2 gw      0.0 assets    244.3
+2017-12 rev    286.8 opinc    -30.1 margin -10.5% ocf      8.1 capex     27.3 sbc     21.9 eq    387.8 gw     72.0 assets    482.1
+2018-12 rev    411.8 opinc    -46.5 margin -11.3% ocf     -3.1 capex     12.0 sbc     31.4 eq    705.0 gw     61.9 assets    807.4
+2019-12 rev    574.7 opinc   -246.8 margin -42.9% ocf    -52.0 capex     13.4 sbc     51.5 eq    711.2 gw    418.4 assets   1186.8
+2020-12 rev    774.5 opinc   -178.9 margin -23.1% ocf     29.6 capex      6.5 sbc     82.0 eq    941.0 gw    415.8 assets   1544.3
+2021-12 rev    945.7 opinc   -167.4 margin -17.7% ocf    -18.1 capex      9.8 sbc     97.8 eq    829.2 gw    834.5 assets   2109.0
+2022-12 rev    963.1 opinc   -258.2 margin -26.8% ocf     10.9 capex     11.8 sbc     80.2 eq    501.5 gw    734.6 assets   1810.9
+2023-12 rev    946.0 opinc   -225.8 margin -23.9% ocf     -3.4 capex      6.0 sbc     39.7 eq    219.0 gw    651.5 assets   1459.7

@@ -1,0 +1,54 @@
+mean organic sales change FY2018-25: 4.62%
+OE CAGR FY2018-25 capex end: 6.46%
+OE CAGR FY2018-25 dep end: 6.46%
+acquisition cash FY2018-25: 7153.7
+g=0.000 5y capex  r=0.1000: $52
+g=0.000 5y capex  r=0.0549: $95
+g=0.000 5y dep    r=0.1000: $59
+g=0.000 5y dep    r=0.0549: $108
+g=0.000 8y capex  r=0.1000: $48
+g=0.000 8y capex  r=0.0549: $88
+g=0.000 8y dep    r=0.1000: $54
+g=0.000 8y dep    r=0.0549: $99
+g=0.000 TTM capex r=0.1000: $62
+g=0.000 TTM capex r=0.0549: $113
+g=0.000 TTM dep   r=0.1000: $79
+g=0.000 TTM dep   r=0.0549: $144
+g=0.046 5y capex  r=0.1000: $101
+g=0.046 5y capex  r=0.0549: $613
+g=0.046 5y dep    r=0.1000: $115
+g=0.046 5y dep    r=0.0549: $699
+g=0.046 8y capex  r=0.1000: $94
+g=0.046 8y capex  r=0.0549: $569
+g=0.046 8y dep    r=0.1000: $105
+g=0.046 8y dep    r=0.0549: $638
+g=0.046 TTM capex r=0.1000: $120
+g=0.046 TTM capex r=0.0549: $729
+g=0.046 TTM dep   r=0.1000: $153
+g=0.046 TTM dep   r=0.0549: $927
+g=0.050 5y capex  r=0.1000: $110
+g=0.050 5y capex  r=0.0549: $1118
+g=0.050 5y dep    r=0.1000: $125
+g=0.050 5y dep    r=0.0549: $1275
+g=0.050 8y capex  r=0.1000: $102
+g=0.050 8y capex  r=0.0549: $1037
+g=0.050 8y dep    r=0.1000: $114
+g=0.050 8y dep    r=0.0549: $1164
+g=0.050 TTM capex r=0.1000: $130
+g=0.050 TTM capex r=0.0549: $1329
+g=0.050 TTM dep   r=0.1000: $166
+g=0.050 TTM dep   r=0.0549: $1691
+g=0.065 5y capex  r=0.1000: $159
+g=0.065 5y dep    r=0.1000: $181
+g=0.065 8y capex  r=0.1000: $147
+g=0.065 8y dep    r=0.1000: $165
+g=0.065 TTM capex r=0.1000: $189
+g=0.065 TTM dep   r=0.1000: $240
+
+expectancy = yield + g_org:
+5y capex: yield 1.87% + 4.6% = 6.49%
+5y dep: yield 2.13% + 4.6% = 6.75%
+8y capex: yield 1.73% + 4.6% = 6.36%
+8y dep: yield 1.94% + 4.6% = 6.57%
+TTM capex: yield 2.22% + 4.6% = 6.84%
+TTM dep: yield 2.82% + 4.6% = 7.45%

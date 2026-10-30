@@ -1,0 +1,25 @@
+OCF ex-CEB [2558, 3429, 2156, 3614, 4800] 16557
+capex [3983, 4226, 4789, 5273, 5295] 23566 utilities 23343 52% cap 12138
+debt credit [1685, 800, 2050, 2500, 1150] 8185 (below cap)
+equity-only all-spending w/ debt credit       [225, -61, -636, 806, 600] avg 187
+equity-only maintenance-only                  [722, 1487, 72, 1424, 2424] avg 1226
+growth spending (capex-D&A)                   [2182, 2348, 2758, 3118, 2974] avg 2676
+after-tax interest                            [628, 665, 755, 890, 925] avg 773
+all-equity all-spending                       [-832, -196, -1931, -804, 375] avg -678
+all-equity maintenance-only                   [1350, 2152, 827, 2314, 3349] avg 1998
+sales growth ex-CEB 7.53 % ; capped at sovereign 5.43
+EQUITY-ONLY range: maintenance-only no-growth (top) 61.04; all-spending growth 14.35; all-spending no-growth 9.30
+EQUITY-ONLY fair: top@10% 33.15 bottom@10% 7.33 fair 20.24
+ALL-EQUITY range: maint no-growth 28.27; all-spending growth -123.30; all-spending no-growth -104.98; net debt 26347
+ALL-EQUITY fair: top -17.20 bottom -97.84 fair -57.52
+market cap 41517; top-case yield 2.95% no growth; all-spending yield 0.45%
+IRR at price: top case 2.95%; growth case 0.75%; top case at sales growth uncapped 5.39%
+literal consolidated all-spending owner cash (no debt credit; capex = segment total + cost of removal): [-1589, -931, -2793, -1623, -732] -1534
+gross issuance 9300 credit used 9300 equity-only all-spending (gross credit) avg 410
+  IRR at price, gross-credit all-spending at capped growth: 1.62%
+  IRR at price, 2025 GAAP net income 2,023 grown 6.5% ten years then flat: 7.87%
+  IRR at price, same at 7.53% (sales growth, uncapped): 8.41%
+  maint-only no growth           value at 10%   33.15 a share; at sovereign   61.04
+  maint-only at capped growth    value at 10%   48.13 a share; at sovereign   94.19
+  all-spending capped growth     value at 10%    7.33 a share; at sovereign   14.35
+  GAAP NI 6.5%                   value at 10%   85.57 a share; at sovereign  169.29

@@ -1,0 +1,25 @@
+COMPUTATION, NOT A CLEARANCE. Run before Q2 to Q5 were written; it decides nothing above Q7 (operator rule 3).
+year  OCF  SBC  capex  maint  OC_maint  OC_all  growthspend  OC_maint/sales
+2021 2189 31 4244 2257 -99 -2086 1987 -0.7%
+2022 3932 20 4638 2554 1358 -726 2084 8.9%
+2023 5327 25 5854 2567 2735 -552 3287 19.3%
+2024 4641 33 7364 2875 1733 -2756 4489 12.9%
+2025 4083 46 10908 3082 955 -6871 7826 6.5%
+5-yr avg: OC_maint 1336  OC_all -2598  growth spending 3935  interest 1003
+halves 630 -> 1344: shown growth 28.8%; ten years -> 16747 vs highest share of sales 19.3%
+sales growth 2021-2025 2.23%; 2020-2025 4.94%
+LT debt end-2020 20143, end-2025 33634, increase/yr 2698 (without the 2025 lease addition 2450)
+
+EQUITY-ONLY (central for a regulated utility), maintenance case central:
+[central: sales-growth cap 2021-25, cap 46.6%] g=2.23% credit/yr=1834  no-growth $40.29  growth $20.13  range $20.13-$40.29  @10%: ng $21.39 gr $2.42  FAIR $11.91  price $77.86
+[beside: sales growth 2020-25] g=4.94% credit/yr=1834  no-growth $40.29  growth $28.45  range $28.45-$40.29  @10%: ng $21.39 gr $5.06  FAIR $13.23  price $77.86
+[beside: 6% (ongoing EPS objective low end, management's figure, not the rule)] g=6.00% credit/yr=1834  no-growth $40.29  growth $32.29  range $32.29-$40.29  @10%: ng $21.39 gr $6.29  FAIR $13.84  price $77.86
+[beside: cap at own LT debt share 61.4%] g=2.23% credit/yr=2416  no-growth $40.29  growth $27.90  range $27.90-$40.29  @10%: ng $21.39 gr $8.65  FAIR $15.02  price $77.86
+[beside: credit without the 2025 lease addition] g=2.23% credit/yr=1834  no-growth $40.29  growth $20.13  range $20.13-$40.29  @10%: ng $21.39 gr $2.42  FAIR $11.91  price $77.86
+no-growth yield at price: 2.75% (floor ~10%)
+all-spending case: avg owner cash -2598/yr -> value negative; per share -78.33
+[beside: 2022-2025 base (2021 left out)] g=0.00% credit/yr=2060  no-growth $51.11  growth $22.36  range $22.36-$51.11  @10%: ng $27.14 gr $3.91  FAIR $15.53  price $77.86
+
+ALL-EQUITY beside: unlevered maint owner cash 2128; EV no-growth 40084; net debt 38774; per share $2.10
+ALL-EQUITY growth case (all growth spending, no credit): per share $-37.87
+ALL-EQUITY fair price: $-46.26

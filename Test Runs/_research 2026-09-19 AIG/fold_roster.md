@@ -1,0 +1,1 @@
+~~AIG~~ *(WAVE 6 insurer, run on this track 2026-09-19 under the SECTOR METHOD with both amendments - FAIL at Q2, OUT on the business; float / investments 50.8% and investments / equity 2.26x; current-accident-year combined ratio above 100 in five of ten years, ten-year mean 99.65 against Chubb's 92.3; see COMPLETED)*

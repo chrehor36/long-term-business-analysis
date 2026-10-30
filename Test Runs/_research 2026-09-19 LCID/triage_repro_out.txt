@@ -1,0 +1,11 @@
+a8bc84f owner_earnings: {'5y_capex': -3368775200.0, '3y_da': -3078589666.6666665, '3y_capex': -3676357000.0}
+a8bc84f shares_outstanding: (datetime.date(2026, 7, 29), 394070176.0)
+a8bc84f share_count_shift: 0.13084700819596579
+bt17 shares_asof(2026-09-01): (datetime.date(2026, 7, 29), 394070176.0)
+2026-08-31 $4.85 x cover 394,070,176 (post-split, 2026-07-29): cap $1,911.2M; 5y_capex -176.3%, 3y_da -161.1%, 3y_capex -192.4% | guard fires on: ['5y_capex', '3y_da', '3y_capex'] | cap<$5M: False
+2026-08-31 $4.85 x stale pre-split dei 3,072,494,911 (2025-07-30): cap $14,901.6M; 5y_capex -22.6%, 3y_da -20.7%, 3y_capex -24.7% | guard fires on: none | cap<$5M: False
+2026-09-01 $4.55 x cover 394,070,176 (post-split, 2026-07-29): cap $1,793.0M; 5y_capex -187.9%, 3y_da -171.7%, 3y_capex -205.0% | guard fires on: ['5y_capex', '3y_da', '3y_capex'] | cap<$5M: False
+2026-09-01 $4.55 x stale pre-split dei 3,072,494,911 (2025-07-30): cap $13,979.9M; 5y_capex -24.1%, 3y_da -22.0%, 3y_capex -26.3% | guard fires on: none | cap<$5M: False
+5y_capex needs cap above $3,368.8M to clear -100%, i.e. price above $8.55
+3y_da needs cap above $3,078.6M to clear -100%, i.e. price above $7.81
+3y_capex needs cap above $3,676.4M to clear -100%, i.e. price above $9.33

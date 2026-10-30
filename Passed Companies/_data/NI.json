@@ -1,0 +1,24 @@
+{
+ "ticker": "NI",
+ "name": "NiSource",
+ "headline": "A regulated gas and electric utility in the Midwest, now building power plants for data centres.",
+ "what_short": "Regulated gas and electric utility, Midwest",
+ "what_it_does": "NiSource delivers gas to about 2.4 million customers in five states through Columbia Operations. NIPSCO supplies gas (about 0.9 million customers) and electricity (about 0.5 million) in northern Indiana. A new unit is building power generation for data-centre customers, including an Amazon contract and a later Alphabet contract.",
+ "why_it_passed": [
+  "Its gas and electric networks are franchises, so customers have no other supplier.",
+  "Operating income rose by $828.4 million from 2021 to 2025, about 7.7% a year before tax on the extra capital invested.",
+  "Two large data-centre customers have signed contracts, which adds new electricity demand.",
+  "Credit ratings are investment grade (BBB+ at S&P, Baa2 at Moody's, BBB at Fitch), all stable."
+ ],
+ "why_not_now": "A regulator caps what a utility may earn, so the price is far above what that capped return justifies. At $43.69 a share the cash the business produces is only 3.5% of the price, less than the 5.29% on a 30-year US Treasury bond, and the analysis's value range is only $29.20 to $32.83.",
+ "watch": [
+  "Debt is $17.4 billion, and it issued $750 million more of junior notes in August 2026; spending averages 3.6 times depreciation.",
+  "A catastrophic gas incident in 2018 has already cost about $1 billion, and Indiana is investigating its returns and cost trackers.",
+  "It has repeatedly sold new shares to fund growth while paying a dividend."
+ ],
+ "value_low": 29.20,
+ "value_high": 32.83,
+ "utility": true,
+ "run_date": "2026-10-23",
+ "currency": "USD"
+}

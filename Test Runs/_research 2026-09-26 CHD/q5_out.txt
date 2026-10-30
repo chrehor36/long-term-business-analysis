@@ -1,0 +1,15 @@
+cap 22861.7
+5y OE capex/dep 858.8 947.3 3y dep 1014.2 10y capex 782.2
+yields 5y 3.76% 4.14%
+OE growth 5y-mean to 5y-mean: 2016-20 to 2021-25 4.0%/yr; 2011-15 to 2021-25 7.0%/yr
+acquisitions net 2016-25 4328.3
+organic sales 2016-25 4.00%/yr
+diluted shares 2016-25 -0.78%/yr
+5y capex yield 3.76 need at floor 6.24 need at sovereign 1.73 exp g=0 3.76 g=4.0 7.76 g=4.7 8.46
+5y dep yield 4.14 need at floor 5.86 need at sovereign 1.35 exp g=0 4.14 g=4.0 8.14 g=4.7 8.84
+3y dep yield 4.44 need at floor 5.56 need at sovereign 1.05 exp g=0 4.44 g=4.0 8.44 g=4.7 9.14
+floor price 5y capex g=4.0: 60.34
+floor price 5y dep g=4.0: 66.56
+floor price 3y dep g=4.7: 80.67
+floor price 5y capex g=0: 36.21; 5y dep g=0 39.93
+sovereign-rate value g=0: 65.95-77.88

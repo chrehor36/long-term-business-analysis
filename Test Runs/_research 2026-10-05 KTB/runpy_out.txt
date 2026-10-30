@@ -1,0 +1,80 @@
+==============================================================================
+Kontoor Brands, Inc.  (KTB)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.66%   10/05/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     64.19 USD   2026-10-05   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                 54.654M  as of 2026-07-31  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                                  54.651M  as of 2026-07-04  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)       54.651M  as of 2026-07-04  (CommonStockSharesIssued)
+  shares    54.7M      market cap 3.51B USD
+  share basis: dei cover-page count as of 2026-07-31 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-12-30      356.5     16.7      38.0       37.4       302.4       301.8
+    2024-12-28      368.2     26.6      42.6       22.1       319.5       299.0
+    2026-01-03      455.8     39.1      47.8       25.2       391.6       368.9
+          mean                                                337.8       323.2
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: D&A basis in 2023, 2024, 2026
+  mean of the year-by-year lower: 323.2;  of the higher: 337.8  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 ShareBasedCompensation; 2024 ShareBasedCompensation; 2026 ShareBasedCompensation
+  capex tag by year: 2023 PaymentsToAcquirePropertyPlantAndEquipment + PaymentsToAcquireSoftware; 2024 PaymentsToAcquirePropertyPlantAndEquipment + PaymentsToAcquireSoftware; 2026 PaymentsToAcquirePropertyPlantAndEquipment + PaymentsToAcquireSoftware
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0001760965-26-000014, 0001760965-25-000011, 0001760965-24-000013
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 251.1  OE D&A 240.6   yield 7.16% (capex) 6.86% (D&A)
+  DIVERGENCE vs the 3-yr window: -25.6% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis  9.63%   D&A basis  9.21%   vs sovereign 5.66%
+  2. GROWTH THE PRICE ASSUMES  -20.4%  (at a 5.66% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN +6.47 (lower mean) .. +6.90 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2016-12-31             -           -       1,393          87           -           -           -           -           -           -
+    2017-12-30             -           -       1,358          81           -           -         219           -           -           -
+    2018-12-29         2,458         735       1,723          97         253         474         215          53           0           0
+    2019-12-28         1,517       1,448          69         107         228         458         213          17         913          -2
+    2021-01-02         1,546       1,461          85         248         231         341         213          16         888           7
+    2022-01-01         1,533       1,385         148         185         290         363         212          15         791          23
+    2022-12-31         1,582       1,332         251          59         226         597         210          13         783          87
+    2023-12-30         1,645       1,274         372         215         218         500         210          12         764         167
+    2024-12-28         1,651       1,250         400         334         244         390         209          11         740         200
+    2026-01-03         2,583       2,018         565         108         276         567         531         450       1,135         274
+    accessions: 0001760965-20-000010, 0001760965-21-000009, 0001760965-22-000008, 0001760965-23-000007, 0001760965-24-000013, 0001760965-25-000011, 0001760965-26-000014
+    equity: StockholdersEquity (2016, 2017, 2018, 2019, 2021, 2022, 2022, 2023, 2024, 2026)
+    cash: CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents (2016, 2017); CashAndCashEquivalentsAtCarryingValue (2018, 2019, 2021, 2022, 2022, 2023, 2024, 2026)
+    lt debt: LongTermDebtNoncurrent (2018, 2019, 2021, 2022, 2022, 2023, 2024, 2026)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD millions; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        d3        sum
+    2018-12-29           -         0         3          3*
+    2019-12-28           0       913         1        914
+    2021-01-02          25       888         1        914
+    2022-01-01           0       791         0        792
+    2022-12-31          10       783         7        800
+    2023-12-30          20       764         0        784
+    2024-12-28           0       740         -        740*
+    2026-01-03           9     1,135         -      1,143*
+    d1 = us-gaap:LongTermDebtCurrent
+    d2 = us-gaap:LongTermDebtNoncurrent
+    d3 = us-gaap:ShortTermBorrowings
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

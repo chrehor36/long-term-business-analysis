@@ -1,0 +1,3 @@
+ERIC run: Step 0 - SEK sovereign struck by hand from the Riksbank (10Y 3.227%, 2026-09-11; longest published daily tenor is 10 years, confirmed by the Riksgalden 1068 auction at 3.0909%); A and B share economics read from Exhibit 2.3 and Note E1 before summing; the 20-F cover count is ISSUED not outstanding; 3,265,683,059 shares after the SEK 15bn buyback (6-K 2026-09-08); price SEK 98.66, cap SEK 322.2bn; skip reason tested: run.py tag lists carry only US-GAAP names, so every IFRS filer is unpriceable
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

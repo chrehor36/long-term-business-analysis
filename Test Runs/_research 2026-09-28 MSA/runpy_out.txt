@@ -1,0 +1,32 @@
+==============================================================================
+MSA Safety Inc  (MSA)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.49%   09/25/2026   US Treasury daily par yield curve
+  price     182.46 USD   2026-09-25   (aggregator — live quote only)
+  shares    38.6M      market cap 7.04B USD
+  share basis: dei cover-page count as of 2026-07-24
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-12-31         93       30        61         43          2         20
+    2024-12-31        296       18        64         54        214        224
+    2025-12-31        364       15        72         68        277        280
+          mean                                                 164        175
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 141 .. 151   yield 2.00%..2.15%
+  DIVERGENCE vs the 3-yr window: -14.3% on the conservative end
+
+  1. THE YIELD                  2.33% ..  2.48%   vs sovereign 5.49%
+  2. GROWTH THE PRICE ASSUMES    7.5%  (at a 5.49% rate)
+  3. POINTS OVER THE SOVEREIGN -0.54 .. -0.39
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

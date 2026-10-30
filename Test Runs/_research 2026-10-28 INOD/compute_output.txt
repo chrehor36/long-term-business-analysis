@@ -1,0 +1,14 @@
+all-equity, all capex {2021: -1.66, 2022: -11.66, 2023: -4.0, 2024: 22.65, 2025: 22.86} avg 5.637
+equity-only {2021: -1.66, 2022: -11.66, 2023: -4.14, 2024: 22.76, 2025: 24.08} avg 5.877
+all-equity, D&A variant {2021: -0.16, 2022: -9.03, 2023: -3.15, 2024: 24.59, 2025: 27.07} avg 7.865
+owner cash / sales {2021: '-2.4%', 2022: '-14.8%', 2023: '-4.6%', 2024: '13.3%', 2025: '9.1%'}
+halves -6.66 22.75 -> sign change: growth meaningless (specific (b))
+net cash 248.706
+ALL-EQUITY  value range (no-growth only): business 106.3 + net cash -> 10.33 /sh
+ALL-EQUITY  fair price (10%): 8.87
+EQUITY-ONLY value: 3.23  fair: 1.71
+beside, cash less customer advance: 8.38  fair 6.93
+mcap 1538.3 EV 1289.6 return on EV at avg owner cash 0.44% FY2025 alone 1.77%
+growth needed for 10% at price, base 5yr avg 45.6% a year for ten years
+growth needed for 10% at price, base FY2025 24.7% a year for ten years
+D&A variant value 11.55 fair 9.52

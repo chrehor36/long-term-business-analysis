@@ -1,0 +1,101 @@
+Sector,Ticker,Company Name,Industry / Business Line,Dividend Yield (%)
+Industrials,CW,Curtiss-Wright Corp.,Aerospace & Defense,0.3
+Industrials,HII,Huntington Ingalls Industries,Aerospace & Defense,1.9
+Industrials,BWXT,BWX Technologies,Aerospace & Defense,0.9
+Industrials,AIT,Applied Industrial Technologies,Industrial Machinery,0.8
+Industrials,MSA,MSA Safety Inc.,Safety Equipment,1.1
+Industrials,KMT,Kennametal Inc.,Industrial Tools,3.2
+Industrials,TKR,The Timken Company,Industrial Motion,1.7
+Industrials,LNN,Lindsay Corporation,Agricultural Equipment,1.2
+Industrials,ALG,Alamo Group Inc.,Heavy Machinery,0.5
+Industrials,FIX,"Comfort Systems USA, Inc.",HVAC Services,0.3
+Industrials,EME,"EMCOR Group, Inc.",Engineering & Construction,0.3
+Industrials,AGCO,AGCO Corporation,Agricultural Equipment,1.2
+Industrials,OSK,Oshkosh Corporation,Specialty Vehicles,1.6
+Industrials,MDU,MDU Resources Group,Construction & Infrastructure,3.5
+Industrials,CNR,Cornerstone Building Brands,Building Products,1.5
+Materials,RPM,RPM International Inc.,Specialty Chemicals & Coatings,1.6
+Materials,EXP,Eagle Materials Inc.,Construction Materials,0.4
+Materials,NEU,NewMarket Corporation,Specialty Chemicals,1.8
+Materials,ATR,"AptarGroup, Inc.",Packaging Solutions,1.2
+Materials,SON,Sonoco Products Company,Packaging & Containers,3.8
+Materials,SEE,Sealed Air Corporation,Packaging & Containers,2.2
+Materials,BERY,"Berry Global Group, Inc.",Packaging & Containers,1.7
+Materials,FUL,H.B. Fuller Company,Adhesives & Specialty Chemicals,1.1
+Materials,SMTC,Semtech Corporation,Materials & Semiconductors,0.5
+Materials,CRS,Carpenter Technology Corp.,Specialty Alloys,0.5
+Materials,KWR,Quaker Chemical Corporation,Specialty Industrial Chemicals,1.1
+Materials,MATX,"Matson, Inc.",Marine Transportation & Logistics,1.0
+Materials,GATX,GATX Corporation,Railcar Leasing & Logistics,1.6
+Materials,R,"Ryder System, Inc.",Logistics & Fleet Management,2.1
+Materials,HUBG,"Hub Group, Inc.",Supply Chain Solutions,0.8
+Information Technology,POWI,"Power Integrations, Inc.",Semiconductors,1.1
+Information Technology,DIOD,Diodes Incorporated,Semiconductors,0.6
+Information Technology,SLAB,Silicon Laboratories Inc.,Semiconductors,0.5
+Information Technology,CRUS,"Cirrus Logic, Inc.",Semiconductors,0.4
+Information Technology,CALX,"Calix, Inc.",Telecommunications Equipment,0.5
+Information Technology,BR,Broadridge Financial Solutions,Fintech / IT Services,1.5
+Information Technology,JKHY,Jack Henry & Associates,Fintech / IT Services,1.2
+Information Technology,MAXR,Maxar Technologies,Space & Satellite Tech,0.1
+Information Technology,CSGS,CSG Systems International,Software & Billing,2.1
+Information Technology,DNSN,Davidson & Sons Tech,IT Infrastructure,1.8
+Information Technology,EXTR,"Extreme Networks, Inc.",Networking Equipment,0.8
+Information Technology,PLUS,ePlus inc.,IT Solutions & Services,0.5
+Information Technology,SITM,SiTime Corporation,Semiconductor Timing Solutions,0.2
+Information Technology,INFN,Infinera Corporation,Optical Networking,0.4
+Information Technology,COMM,CommScope Holding Company,Network Infrastructure,1.0
+Real Estate,NNN,NNN Retail Properties,Retail REIT,5.2
+Real Estate,STAG,"STAG Industrial, Inc.",Industrial REIT,4.0
+Real Estate,ADC,Agree Realty Corporation,Net Lease REIT,4.5
+Real Estate,EPR,EPR Properties,Entertainment REIT,6.8
+Real Estate,STOR,STORE Capital Corporation,Net Lease REIT,5.1
+Real Estate,NSA,National Storage Affiliates,Self-Storage REIT,5.4
+Real Estate,CCT,Chatham Lodging Trust,Hotel REIT,4.8
+Real Estate,AIRC,Apartment Income REIT,Residential REIT,4.1
+Real Estate,APLE,Apple Hospitality REIT,Hotel REIT,6.0
+Real Estate,BXMT,Blackstone Mortgage Trust,Mortgage REIT,9.1
+Real Estate,STWD,Starwood Property Trust,Mortgage REIT,9.2
+Real Estate,LXP,LXP Industrial Trust,Industrial REIT,5.3
+Real Estate,ROIC,Retail Opportunity Investments,Shopping Center REIT,4.2
+Real Estate,HIW,Highwoods Properties,Office REIT,6.7
+Real Estate,KRC,Kilroy Realty Corporation,Office REIT,5.8
+Energy,AM,Antero Midstream Corporation,Energy Infrastructure,6.2
+Energy,DTM,"DT Midstream, Inc.",Natural Gas Pipeline,4.1
+Energy,ENLC,"EnLink Midstream, LLC",Energy Midstream,5.5
+Energy,HESM,Hess Midstream LP,Oil & Gas Infrastructure,7.1
+Energy,PAGP,"Plains GP Holdings, LP",Oil Pipelines,6.8
+Energy,WES,Western Midstream Partners,Energy Infrastructure,8.5
+Energy,USAC,USA Compression Partners,Natural Gas Services,8.2
+Energy,MTDR,Matador Resources Company,Oil & Gas Exploration,1.5
+Energy,MUR,Murphy Oil Corporation,Oil & Gas Exploration,3.0
+Energy,CIVI,"Civitas Resources, Inc.",Oil & Gas Production,7.5
+Energy,CHRD,Chord Energy Corporation,Oil & Gas Exploration,6.4
+Energy,SM,SM Energy Company,Oil & Gas Exploration,1.8
+Energy,CRC,California Resources Corp.,Oil & Gas Production,3.1
+Energy,AROC,"Archrock, Inc.",Natural Gas Compression,3.8
+Energy,DK,Delek US Holdings,Refining & Marketing,4.2
+Consumer Discretionary,TXRH,"Texas Roadhouse, Inc.",Restaurants,1.5
+Consumer Discretionary,WING,Wingstop Inc.,Restaurants,0.3
+Consumer Discretionary,CWH,Camping World Holdings,RV & Outdoor Retail,4.5
+Consumer Discretionary,MODG,Topgolf Callaway Brands,Golf & Leisure Equipment,0.8
+Consumer Discretionary,COLM,Columbia Sportswear Company,Apparel & Outdoor Footwear,1.6
+Consumer Discretionary,SKX,"Skechers U.S.A., Inc.",Footwear,0.4
+Consumer Discretionary,LEVI,Levi Strauss & Co.,Apparel & Retail,2.6
+Consumer Discretionary,HOG,"Harley-Davidson, Inc.",Motorcycles & Apparel,1.8
+Consumer Discretionary,THO,"Thor Industries, Inc.",RV Manufacturing,1.8
+Consumer Discretionary,WGO,Winnebago Industries,RV Manufacturing,2.0
+Consumer Discretionary,PII,Polaris Inc.,Powersports Vehicles,3.2
+Consumer Discretionary,Leg,"Leggett & Platt, Inc.",Home Furnishings & Components,7.2
+Consumer Discretionary,HNI,HNI Corporation,Office & Home Furniture,3.1
+Consumer Staples,FLO,"Flowers Foods, Inc.",Packaged Foods & Bakery,4.1
+Consumer Staples,LANC,Lancaster Colony Corp.,Specialty Foods,1.9
+Consumer Staples,IPAR,"Inter Parfums, Inc.",Fragrance & Cosmetics,2.2
+Healthcare,MEDP,"Medpace Holdings, Inc.",Contract Research / Healthcare,0.2
+Healthcare,ENSG,"The Ensign Group, Inc.",Healthcare Services,0.2
+Healthcare,CHE,Chemed Corporation,Healthcare Services & Plumbing,0.3
+Healthcare,EBS,Emergent BioSolutions,Specialty Biopharmaceuticals,0.8
+Utilities,OGE,OGE Energy Corp.,Electric Utility,4.7
+Utilities,ALE,"ALLETE, Inc.",Electric Utility,4.4
+Utilities,MGEE,"MGE Energy, Inc.",Electric & Gas Utility,2.2
+Utilities,AVA,Avista Corporation,Electric & Gas Utility,5.2
+Utilities,NWN,Northwest Natural Holding,Gas Utility,5.1

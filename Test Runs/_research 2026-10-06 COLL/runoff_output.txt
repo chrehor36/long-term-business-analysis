@@ -1,0 +1,31 @@
+market cap 712.0  net debt 1,147.2  EV 1,859.2
+
+LOW: margin 45%
+  revenue  2027:732 2028:604 2029:554 2030:464 2031:423 2032:281 2033:223 2034:128 2035:83 2036:54 2037:35 2038:23 2039:15
+  cash     2027:327 2028:270 2029:247 2030:207 2031:188 2032:125 2033:98 2034:56 2035:35 2036:22 2037:14 2038:8 2039:5
+  sum of pre-tax cash 2026Q4-2045: 1,708
+  EV at sovereign 5.66%: 1,434  -> equity/share 8.81
+  EV at floor 10%: 1,276  -> equity/share 3.95
+  pre-tax IRR on today's EV: -2.5%
+
+CENTRAL: margin 50%
+  revenue  2027:816 2028:690 2029:659 2030:649 2031:648 2032:495 2033:443 2034:353 2035:322 2036:309 2037:308 2038:160 2039:104
+  cash     2027:406 2028:343 2029:328 2030:322 2031:322 2032:246 2033:219 2034:175 2035:159 2036:152 2037:152 2038:78 2039:50
+  sum of pre-tax cash 2026Q4-2045: 3,134
+  EV at sovereign 5.66%: 2,413  -> equity/share 38.87
+  EV at floor 10%: 2,038  -> equity/share 27.37
+  pre-tax IRR on today's EV: 12.7%
+
+HIGH: margin 55%
+  revenue  2027:850 2028:854 2029:887 2030:931 2031:976 2032:1035 2033:756 2034:584 2035:514 2036:486 2037:485 2038:255 2039:166
+  cash     2027:466 2028:468 2029:486 2030:510 2031:535 2032:567 2033:414 2034:319 2035:281 2036:265 2037:265 2038:138 2039:89
+  sum of pre-tax cash 2026Q4-2045: 5,051
+  EV at sovereign 5.66%: 3,782  -> equity/share 80.93
+  EV at floor 10%: 3,130  -> equity/share 60.90
+  pre-tax IRR on today's EV: 25.9%
+
+Q7 convention, no-growth end, OE (D&A basis) 54.4: EV 961 -> equity/share -5.72
+
+SENSITIVITY, central revenue with 120 fixed + 35% variable costs:
+  cash     2027:408 2028:326 2029:306 2030:300 2031:299 2032:200 2033:166 2034:108 2035:87 2036:79 2037:78 2038:-2 2039:-2
+  EV at sovereign: 1,997 -> 26.10/share; at 10%: 1,744 -> 18.32/share; IRR on today's EV 7.9%

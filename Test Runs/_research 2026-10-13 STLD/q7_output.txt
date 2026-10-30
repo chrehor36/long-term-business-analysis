@@ -1,0 +1,36 @@
+owner cash all-spending by year {2016: 623, 2017: 538, 2018: 1133, 2019: 896, 2020: -267, 2021: 1140, 2022: 3492, 2023: 1800, 2024: -90, 2025: 433}
+owner cash maintenance (D&A proxy) by year {2016: 525, 2017: 404, 2018: 1055, 2019: 1027, 2020: 605, 2021: 1798, 2022: 4017, 2023: 3020, 2024: 1299, 2025: 830}
+all-spending less acquisitions {2016: 500, 2017: 532, 2018: 699, 2019: 799, 2020: -327, 2021: 1140, 2022: 3136, 2023: 1800, 2024: -90, 2025: 257}
+highest share of sales: all-spending 15.7% (2022), maintenance 18.0% (2022)
+after-tax interest add-back (all-equity) 55
+cycle A 2016-20 avg {'allsp_acq': 441, 'maint': 723, 'allsp': 585}  cycle B 2021-25 avg {'allsp_acq': 1249, 'maint': 2193, 'allsp': 1355}
+  growth between cycle averages allsp_acq: 23.2%/yr
+  growth between cycle averages maint: 24.8%/yr
+  growth between cycle averages allsp: 18.3%/yr
+sales cycle A 9762 B 19036 growth 14.3%/yr
+  literal window end-year growth 2021->2025 allsp_acq: -31.1%/yr
+  literal window end-year growth 2021->2025 maint: -17.6%/yr
+market cap 34489  net debt 3614  EV at price 38103
+
+case                                                                                                cash       g    EV@5.6      $/sh     EV@10   $/sh@10
+central bottom: growth case, all spending and acquisitions charged, growth cut to discount rate     1304    5.6%     36327    228.24     19160    108.46
+central top: no-growth case, maintenance only (D&A proxy)                                           2248    0.0%     40147    254.89     22483    131.64
+beside: no-growth, all spending and acquisitions charged                                            1304    0.0%     23287    137.25     13041     65.77
+beside: growth case uncut (cycle-to-cycle, all spending and acquisitions)                           1304   23.2%    141896    964.79     65956    434.96
+beside: maintenance with growth at discount rate (charges no growth spending; shown only)           2248    5.6%     62630    411.75     33032    205.25
+beside literal window: all spending and acq, end-year decline carried                               1304  -31.1%      2740     -6.10      2288     -9.26
+beside literal window: maintenance, end-year decline carried                                        2248  -17.6%     10697     49.41      7601     27.81
+
+central range $/sh 228.24 to 254.89 ; width 1.12
+fair price all-equity (each end at 10%, averaged, less net debt): $120.05
+fair price equity-only: $140.49
+equity-only range at 5.6%: $242.68 to $273.20
+  floor at price: central bottom: growth case, all spending and acquisitions charged, growth cut to discount no
+  floor at price: central top: no-growth case, maintenance only (D&A proxy)                                  no
+  floor at price: beside: no-growth, all spending and acquisitions charged                                   no
+  floor at price: beside: growth case uncut (cycle-to-cycle, all spending and acquisitions)                  EARNS
+  floor at price: beside: maintenance with growth at discount rate (charges no growth spending; shown only)  no
+  floor at price: beside literal window: all spending and acq, end-year decline carried                      no
+  floor at price: beside literal window: maintenance, end-year decline carried                               no
+owner cash yield on EV at price: all-spending 3.42%, maintenance 5.90%
+cash needed for 10% at price, no growth: 3810

@@ -1,0 +1,94 @@
+MARKET CAP  12,389,958 sh x $1,827.44 = $22,642M  (cover 2026-07-22; quote 2026-09-02)
+
+FLOAT INCREMENT CARRIED INSIDE OPERATING CASH FLOW, BY YEAR
+    yr         OCF   floatGrowth  % of OCF        NII  NII% OCF
+  2018     892,857       263,275     29.5%    435,258     48.7%
+  2019   1,274,120       396,683     31.1%    442,182     34.7%
+  2020   1,737,587     1,096,167     63.1%    375,826     21.6%
+  2021   2,274,067       917,360     40.3%    367,417     16.2%
+  2022   2,709,442     1,199,386     44.3%    446,755     16.5%
+  2023   2,786,807     1,655,108     59.4%    734,532     26.4%
+  2024   2,594,006     1,017,541     39.2%    920,496     35.5%
+  2025   2,761,256       960,275     34.8%    970,427     35.1%
+
+==============================================================================
+STEP 1 OF THE ADJUDICATION — REPRODUCE THE SCREEN
+==============================================================================
+3-year 2023-25   meanOCF  2,714,023   -D&A ->  2,377,353   -capex ->  2,473,855
+5-year 2021-25   meanOCF  2,625,116   -D&A ->  2,282,444   -capex ->  2,401,023
+8-year 2018-25   meanOCF  2,128,768   -D&A ->  1,814,079   -capex ->  1,947,301
+
+  screen printed: bottom $2,294M  top $2,474M  spread 7.8%  yield 10.30% on cap $22,268M
+  3-yr meanOCF - 3-yr mean capex =  2,473,855  <-- REPRODUCES THE SCREEN TOP ($2,474M)
+  3-yr meanOCF - 3-yr mean D&A   =  2,377,353  (screen bottom $2,294M, diff 83,353k = SBC + rounding)
+  => the screen is mean OCF less a capex charge. NO insurance correction of any kind.
+
+==============================================================================
+STEP 2 — THE DECOMPOSITION, IN ORDER. HOW MUCH OF 10.30% SURVIVES EACH CORRECTION
+==============================================================================
+
+--- 3-year 2023-25 ---
+  (0) mean OCF                                  2,714,023    11.99%
+  (1) less float increment [E2-61]  -1,210,975   1,503,048     6.64%
+  (2) less net investment income [E5-48] -875,152     627,897     2.77%
+  (3a) less (c)=capex   -240,168                387,729     1.71%
+  (3b) less (c)=D&A     -336,670                291,226     1.29%
+
+--- 5-year 2021-25 ---
+  (0) mean OCF                                  2,625,116    11.59%
+  (1) less float increment [E2-61]  -1,149,934   1,475,182     6.52%
+  (2) less net investment income [E5-48] -687,925     787,256     3.48%
+  (3a) less (c)=capex   -224,093                563,163     2.49%
+  (3b) less (c)=D&A     -342,672                444,585     1.96%
+
+--- 8-year 2018-25 ---
+  (0) mean OCF                                  2,128,768     9.40%
+  (1) less float increment [E2-61]    -938,224   1,190,543     5.26%
+  (2) less net investment income [E5-48] -586,612     603,932     2.67%
+  (3a) less (c)=capex   -181,467                422,465     1.87%
+  (3b) less (c)=D&A     -314,689                289,243     1.28%
+
+==============================================================================
+STAGE 0(b) MATERIALITY — float / investments, and the test the method LACKS
+==============================================================================
+  filer-published float                   18,827,000
+  CONVENTION 4 constructed float          18,620,139   diff -1.1%
+  invested assets (at market)             37,439,262
+  shareholders' equity                    18,597,756
+  FLOAT / INVESTMENTS   = 50.3%   (WTM 22.0%, BRK[E5-46] 41.8%)
+  INVESTMENTS / EQUITY  = 2.01x  (BRK 2018: 158/349 = 0.45x)
+
+==============================================================================
+COST OF FLOAT [E3-69] — underwriting result against float developed
+==============================================================================
+  2021  underwriting profit   614,331   float  13,543,000   cost of float  -4.54%
+  2022  underwriting profit   594,289   float  14,947,000   cost of float  -3.98%
+  2023  underwriting profit    92,786   float  16,733,000   cost of float  -0.55%
+  2024  underwriting profit   366,976   float  17,519,000   cost of float  -2.09%
+  2025  underwriting profit   455,671   float  18,827,000   cost of float  -2.42%
+  5-YEAR: total underwriting profit 2,124,053  /  mean float 16,313,800
+  5-YEAR COST OF FLOAT = -2.60%  (NEGATIVE = better than free)
+  vs USD sovereign 5.27% -> funding advantage 7.87 points
+  dollar value of that advantage p.a. = 1,284,548k
+
+==============================================================================
+COMPONENT 2 [E5-48] — pre-tax earnings ex-investment-income, FY2025
+==============================================================================
+  consolidated adjusted operating income           2,303,778
+  less ALL net investment income [E5-48]            -970,427
+  less amortization of acquired intangibles         -185,007
+  less interest expense                             -205,910
+  less noncontrolling interests                      -45,395
+  = COMPONENT 2, pre-tax                             897,039
+  memo: net FX losses 2025 -256,234 (3-yr mean -72,280)
+  COMPONENT 2 incl. 3-yr mean FX                     824,759
+
+==============================================================================
+THE TWO CONSTRUCTIONS OF COMPONENT 1 — and why they disagree by 2.7x
+==============================================================================
+  B (corpus-literal [E5-46], float = free permanent equity):  36,934,829  $36,935M
+  A (float and debt subtracted as the liabilities they are):  13,804,018  $13,804M
+  ratio 2.68x   spread $23,131M against a $22,642M market cap
+    at  8x component 2:  B = $       4/sh   A = $       2/sh   (price $1,827.44)
+    at 12x component 2:  B = $       4/sh   A = $       2/sh   (price $1,827.44)
+    at 16x component 2:  B = $       4/sh   A = $       2/sh   (price $1,827.44)

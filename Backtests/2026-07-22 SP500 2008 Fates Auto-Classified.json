@@ -1,0 +1,1310 @@
+{
+ "AA": {
+  "name": "Alcoa",
+  "reason": "AA spins off ARNC",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2016-11-01"
+ },
+ "ABK": {
+  "name": "Ambac Financial",
+  "reason": "Market Value Decline[265]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2008-06-10"
+ },
+ "ACAS": {
+  "name": "American Capital",
+  "reason": "Capitalization rebalance.[259]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2009-03-03"
+ },
+ "ACE": {
+  "name": "Chubb",
+  "reason": "EXR replaces ACE as ACE Ltd acquires Chubb and retains the CB ticker, giving up ACE[161]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2016-01-19"
+ },
+ "AET": {
+  "name": "Aetna",
+  "reason": "CVS acquired Aetna[103]",
+  "class": "ACQUIRED",
+  "date": "2018-12-03"
+ },
+ "AGN": {
+  "name": "Allergan",
+  "reason": "Allergan acquired by AbbVie.[77]",
+  "class": "ACQUIRED",
+  "date": "2020-05-12"
+ },
+ "AIV": {
+  "name": "Apartment Investment & Management",
+  "reason": "Apartment Investment and Management (Aimco) spun off Apartment Income REIT.[71]",
+  "class": "SPINOFF",
+  "date": "2020-12-21"
+ },
+ "ALTR": {
+  "name": "Altera",
+  "reason": "ALTR taken over by INTC[163]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2015-12-29"
+ },
+ "AN": {
+  "name": "AutoNation",
+  "reason": "BHF replaced AN,[124] MET spun off BHF[124]",
+  "class": "SPINOFF",
+  "date": "2017-08-08"
+ },
+ "ANDV": {
+  "name": "Andeavor",
+  "reason": "ANDV acquired by Marathon Petroleum.[107]",
+  "class": "ACQUIRED",
+  "date": "2018-10-01"
+ },
+ "ANF": {
+  "name": "Abercrombie & Fitch",
+  "reason": "Market capitalization changes.[199]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2013-12-23"
+ },
+ "APC": {
+  "name": "Anadarko Petroleum",
+  "reason": "S&P 500 & 100 constituent Occidental Petroleum Corp. (NYSE:OXY) acquired Anadarko Petroleum.[90]",
+  "class": "ACQUIRED",
+  "date": "2019-08-09"
+ },
+ "APOL": {
+  "name": "Apollo Education Group",
+  "reason": "Apollo Group's market cap more representative of a mid-cap[207]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2013-07-01"
+ },
+ "ATI": {
+  "name": "Allegheny Technologies",
+  "reason": "Spin off of Columbia Pipeline.[175]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2015-07-02"
+ },
+ "AVP": {
+  "name": "Avon Products",
+  "reason": "Market Capitalization Changes.",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2015-03-23"
+ },
+ "AYE": {
+  "name": "Allegheny Energy",
+  "reason": "Acquired by First Energy (FE).[245]",
+  "class": "ACQUIRED",
+  "date": "2011-02-25"
+ },
+ "BBBY": {
+  "name": "Bed Bath & Beyond",
+  "reason": "Market capitalization change.[125]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2017-07-26"
+ },
+ "BBWI": {
+  "name": "Bath & Body Works, Inc.",
+  "reason": "Market capitalization change.[28]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2024-10-01"
+ },
+ "BC": {
+  "name": "Brunswick",
+  "reason": "Market capitalization change.[264]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2008-06-23"
+ },
+ "BCR": {
+  "name": "CR Bard",
+  "reason": "Becton Dickinson acquired BCR.[119]",
+  "class": "ACQUIRED",
+  "date": "2018-01-03"
+ },
+ "BEAM": {
+  "name": "Suntory Global Spirits",
+  "reason": "Beam acquired by Suntory[194]",
+  "class": "ACQUIRED",
+  "date": "2014-05-01"
+ },
+ "BHI": {
+  "name": "Baker Hughes",
+  "reason": "Baker Hughes merged with GE Oil & Gas to form new company.[126]",
+  "class": "ACQUIRED",
+  "date": "2017-07-07"
+ },
+ "BIG": {
+  "name": "Big Lots",
+  "reason": "Market capitalization changes[213]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2013-02-15"
+ },
+ "BJS": {
+  "name": "BJ Services",
+  "reason": "Acquired by Baker Hughes[253]",
+  "class": "ACQUIRED",
+  "date": "2010-04-29"
+ },
+ "BMC": {
+  "name": "BMC Software",
+  "reason": "BMC taken private by consortium[205]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2013-09-10"
+ },
+ "BMS": {
+  "name": "Bemis",
+  "reason": "BMS changed to AMCR post merger with Amcor;[93] subsequently renamed to Amcor[94]",
+  "class": "ACQUIRED",
+  "date": "2019-06-11"
+ },
+ "BRCM": {
+  "name": "Broadcom Corporation",
+  "reason": "FRT replaces BRCM[160]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2016-02-01"
+ },
+ "BTU": {
+  "name": "Peabody Energy",
+  "reason": "Market cap changes[187]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2014-09-20"
+ },
+ "CA": {
+  "name": "CA Technologies",
+  "reason": "CA acquired by Broadcom.[105]",
+  "class": "ACQUIRED",
+  "date": "2018-11-06"
+ },
+ "CAG": {
+  "name": "Conagra Brands",
+  "reason": "Market capitalization change.[5]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2026-06-30"
+ },
+ "CAM": {
+  "name": "Cameron International",
+  "reason": "Schlumberger acquired Cameron[154]",
+  "class": "ACQUIRED",
+  "date": "2016-04-04"
+ },
+ "CBE": {
+  "name": "Cooper Industries",
+  "reason": "Acquired by Eaton Corp. (ETN)[217]",
+  "class": "ACQUIRED",
+  "date": "2012-12-03"
+ },
+ "CCE": {
+  "name": "Coca-Cola Enterprises",
+  "reason": "CCE merging with European bottlers[147]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2016-05-31"
+ },
+ "CELG": {
+  "name": "Celgene",
+  "reason": "Bristol-Myers Squibb (NYSE:BMY) acquired Celgene.[86]",
+  "class": "ACQUIRED",
+  "date": "2019-11-21"
+ },
+ "CEPH": {
+  "name": "Cephalon",
+  "reason": "Acquired by Teva Pharmaceutical Industries (TEVA).[236]",
+  "class": "ACQUIRED",
+  "date": "2011-10-14"
+ },
+ "CFC": {
+  "name": "Countrywide Financial Corp",
+  "reason": "Ak Steel replaced Countrywide Financial.[263]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2008-07-01"
+ },
+ "CFN": {
+  "name": "Carefusion",
+  "reason": "Carefusion acquired by Becton Dickinson[181]",
+  "class": "ACQUIRED",
+  "date": "2015-03-18"
+ },
+ "CHK": {
+  "name": "Chesapeake Energy",
+  "reason": "Market capitalization change.[117]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2018-03-19"
+ },
+ "CMA": {
+  "name": "Comerica",
+  "reason": "Market capitalization change.[30]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2024-06-24"
+ },
+ "CNX": {
+  "name": "Consol Energy",
+  "reason": "AWK replaces CNX[157]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2016-03-04"
+ },
+ "COL": {
+  "name": "Rockwell Collins",
+  "reason": "UTX acquired COL[103]",
+  "class": "ACQUIRED",
+  "date": "2018-12-03"
+ },
+ "COV": {
+  "name": "Covidien",
+  "reason": "Covidien acquired by Medtronic[184]",
+  "class": "ACQUIRED",
+  "date": "2015-01-27"
+ },
+ "CPB": {
+  "name": "Campbell's",
+  "reason": "Market capitalization change.[6]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2026-06-22"
+ },
+ "CPRI": {
+  "name": "Capri Holdings",
+  "reason": "Market capitalization change.[77]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2020-05-12"
+ },
+ "CPWR": {
+  "name": "Compuware",
+  "reason": "Market capitalization changes[230]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2011-12-31"
+ },
+ "CSC": {
+  "name": "Computer Sciences Corporation",
+  "reason": "CSC spins off CSRA[165]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2015-12-01"
+ },
+ "CTRA": {
+  "name": "Coterra Energy",
+  "reason": "S&P 500 constituent Devon Energy Corp. acquired Coterra Energy. [8][9]",
+  "class": "ACQUIRED",
+  "date": "2026-05-07"
+ },
+ "CTX": {
+  "name": "Centex Corp.",
+  "reason": "Centex acquired by Pulte Homes.[256]",
+  "class": "ACQUIRED",
+  "date": "2009-08-19"
+ },
+ "CTXS": {
+  "name": "Citrix Systems",
+  "reason": "Vista Equity Partners acquired Citrix Systems.[51]",
+  "class": "ACQUIRED",
+  "date": "2022-10-03"
+ },
+ "CVG": {
+  "name": "Convergys",
+  "reason": "Market capitalization change.[citation needed]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2009-12-18"
+ },
+ "CVH": {
+  "name": "Coventry Health Care",
+  "reason": "Acquired by Aetna (AET)[211]",
+  "class": "ACQUIRED",
+  "date": "2013-05-08"
+ },
+ "DF": {
+  "name": "Dean Foods",
+  "reason": "DF too small after spinoff of White Wave Foods[210]",
+  "class": "SPINOFF",
+  "date": "2013-05-23"
+ },
+ "DFS": {
+  "name": "Discover Financial",
+  "reason": "S&P 500 constituent Capital One Financial Corp. acquired Discover Financial Services.[23]",
+  "class": "ACQUIRED",
+  "date": "2025-05-19"
+ },
+ "DISCA": {
+  "name": "Discovery, Inc.",
+  "reason": "WarnerMedia and Discovery merge to create Warner Bros. Discovery.[54]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2022-04-11"
+ },
+ "DNB": {
+  "name": "Dun & Bradstreet",
+  "reason": "IT acquiring CEB[130]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2017-04-05"
+ },
+ "DNR": {
+  "name": "Denbury Resources",
+  "reason": "Market Capitalization Changes.[181]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2015-03-23"
+ },
+ "DO": {
+  "name": "Diamond Offshore Drilling",
+  "reason": "COTY replaces DO[139]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2016-09-30"
+ },
+ "DPS": {
+  "name": "Dr Pepper Snapple Group",
+  "reason": "DPS acquired by Keurig Green Mountain.[110]",
+  "class": "ACQUIRED",
+  "date": "2018-07-02"
+ },
+ "DTV": {
+  "name": "DirecTV",
+  "reason": "DirecTV acquired by AT&T.[171]",
+  "class": "ACQUIRED",
+  "date": "2015-07-29"
+ },
+ "DV": {
+  "name": "DeVry",
+  "reason": "Tyco spin-off merged w/Pentair",
+  "class": "SPINOFF",
+  "date": "2012-10-01"
+ },
+ "DYN": {
+  "name": "Dynegy",
+  "reason": "Market capitalization change.[citation needed]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2009-12-18"
+ },
+ "EK": {
+  "name": "Eastman Kodak",
+  "reason": "Market Cap changes.[247]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2010-12-17"
+ },
+ "EMC": {
+  "name": "EMC Corporation",
+  "reason": "Dell acquires EMC[141]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2016-09-08"
+ },
+ "EMN": {
+  "name": "Eastman Chemical Co.",
+  "reason": "Market capitalization change.[17]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2025-11-04"
+ },
+ "EP": {
+  "name": "El Paso Corporation",
+  "reason": "Acquired by Kinder Morgan (KMI)[226]",
+  "class": "ACQUIRED",
+  "date": "2012-05-17"
+ },
+ "ESRX": {
+  "name": "Express Scripts",
+  "reason": "S&P 500 constituent Cigna (NYSE: CI) acquired ESRX[102]",
+  "class": "ACQUIRED",
+  "date": "2018-12-24"
+ },
+ "ETFC": {
+  "name": "E-Trade",
+  "reason": "Morgan Stanley acquired E*Trade.[73]",
+  "class": "ACQUIRED",
+  "date": "2020-10-07"
+ },
+ "FDO": {
+  "name": "Family Dollar",
+  "reason": "Family Dollar acquired.[173]",
+  "class": "ACQUIRED",
+  "date": "2015-07-08"
+ },
+ "FHN": {
+  "name": "First Horizon",
+  "reason": "Zoetis spun off by Pfizer[208]",
+  "class": "SPINOFF",
+  "date": "2013-06-21"
+ },
+ "FII": {
+  "name": "Federated Investors",
+  "reason": "ABBV spun off from Abbott Labs (ABT)[214]",
+  "class": "SPINOFF",
+  "date": "2013-01-02"
+ },
+ "FLIR": {
+  "name": "FLIR Systems",
+  "reason": "S&P 500 constituent Teledyne Technologies acquired FLIR Systems.[65]",
+  "class": "ACQUIRED",
+  "date": "2021-05-14"
+ },
+ "FLR": {
+  "name": "Fluor Corporation",
+  "reason": "CTVA spun off from DWDP (which then changed symbol to DD)[95]",
+  "class": "SPINOFF",
+  "date": "2019-06-03"
+ },
+ "FLS": {
+  "name": "Flowserve",
+  "reason": "Market capitalization change.[67]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2021-03-22"
+ },
+ "FNM": {
+  "name": "Fannie Mae",
+  "reason": "Capitalization rebalance.[262]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2008-09-12"
+ },
+ "FRE": {
+  "name": "Freddie Mac",
+  "reason": "Capitalization rebalance.[262]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2008-09-12"
+ },
+ "FRX": {
+  "name": "Forest Laboratories",
+  "reason": "Actavis acquires Forest Laboratories[191]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2014-07-01"
+ },
+ "FTR": {
+  "name": "Frontier Communications",
+  "reason": "Market capitalization change.[133]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2017-03-20"
+ },
+ "GAS": {
+  "name": "AGL Resources",
+  "reason": "GAS acquired by SO[144]",
+  "class": "ACQUIRED",
+  "date": "2016-07-01"
+ },
+ "GENZ": {
+  "name": "Genzyme",
+  "reason": "Acquired by Sanofi Aventis (SNY)[242]",
+  "class": "ACQUIRED",
+  "date": "2011-04-01"
+ },
+ "GHC": {
+  "name": "Graham Holdings",
+  "reason": "Market cap changes",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2014-09-20"
+ },
+ "GME": {
+  "name": "GameStop",
+  "reason": "Global Payments is acquiring Heartland Payment Systems[152]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2016-04-25"
+ },
+ "GNW": {
+  "name": "Genworth Financial",
+  "reason": "GE spinning off Synchrony Financial[167]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2015-11-18"
+ },
+ "GPS": {
+  "name": "Gap",
+  "reason": "Market capitalization change.[58]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2022-02-03"
+ },
+ "GR": {
+  "name": "Goodrich Corporation",
+  "reason": "Goodrich acquired by United Technologies (UTX).[221]",
+  "class": "ACQUIRED",
+  "date": "2012-07-31"
+ },
+ "GT": {
+  "name": "The Goodyear Tire & Rubber Company",
+  "reason": "WAB acquired GE transportation business[98]",
+  "class": "ACQUIRED",
+  "date": "2019-02-27"
+ },
+ "HAR": {
+  "name": "Harman International",
+  "reason": "Samsung Electronics acquired Harman International Industries.[134]",
+  "class": "ACQUIRED",
+  "date": "2017-03-16"
+ },
+ "HCBK": {
+  "name": "Hudson City Bancorp",
+  "reason": "HPQ spins off HPE[168]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2015-11-02"
+ },
+ "HES": {
+  "name": "Hess Corporation",
+  "reason": "S&P 500 and S&P 100 constituent Chevron Corp. acquired Hess Corporation[20]",
+  "class": "ACQUIRED",
+  "date": "2025-07-23"
+ },
+ "HNZ": {
+  "name": "Heinz",
+  "reason": "HNZ acquired by consortium[209]",
+  "class": "ACQUIRED",
+  "date": "2013-06-06"
+ },
+ "HOG": {
+  "name": "Harley-Davidson",
+  "reason": "Market capitalization change.[75]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2020-06-22"
+ },
+ "HOT": {
+  "name": "Starwood",
+  "reason": "MAR acquires HOT[140]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2016-09-22"
+ },
+ "HRB": {
+  "name": "H&R Block",
+  "reason": "Market capitalization change.[74]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2020-09-21"
+ },
+ "HSP": {
+  "name": "Hospira",
+  "reason": "Hospira taken over[170]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2015-09-02"
+ },
+ "IGT": {
+  "name": "International Game Technology",
+  "reason": "Market capitalization changes[192]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2014-06-20"
+ },
+ "IPG": {
+  "name": "Interpublic Group",
+  "reason": "S&P 500 constituent Omnicom Group Inc. acquired (The) Interpublic Group.[15][16]",
+  "class": "ACQUIRED",
+  "date": "2025-11-28"
+ },
+ "ITT": {
+  "name": "ITT",
+  "reason": "Spun off from ITT Corp.[235]",
+  "class": "SPINOFF",
+  "date": "2011-10-31"
+ },
+ "JCP": {
+  "name": "JCPenney",
+  "reason": "Allegion spun off by Ingersoll Rand.[201]",
+  "class": "SPINOFF",
+  "date": "2013-12-02"
+ },
+ "JDSU": {
+  "name": "JDS Uniphase",
+  "reason": "Market capitalization changes.[199]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2013-12-23"
+ },
+ "JEF": {
+  "name": "Jefferies Financial Group",
+  "reason": "JEF spun off SPB.[88]",
+  "class": "SPINOFF",
+  "date": "2019-09-26"
+ },
+ "JNPR": {
+  "name": "Juniper Networks",
+  "reason": "S&P 500 constituent Hewlett Packard Enterprise Co. acquired Juniper Networks.[22]",
+  "class": "ACQUIRED",
+  "date": "2025-07-09"
+ },
+ "JNS": {
+  "name": "Janus Capital Group",
+  "reason": "Janus Capital Group's market capitalization is less than $1.2 billion and is no longer representative of the large cap market space.[234]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2011-11-18"
+ },
+ "JNY": {
+  "name": "Jones Apparel Group",
+  "reason": "Capitalization rebalance.",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2009-03-03"
+ },
+ "JOY": {
+  "name": "Joy Global",
+  "reason": "Market capitalization change.[169]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2015-10-07"
+ },
+ "JWN": {
+  "name": "Nordstrom",
+  "reason": "Market capitalization change.[75]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2020-06-22"
+ },
+ "K": {
+  "name": "Kellanova",
+  "reason": "Mars Inc. acquired Kellanova.[14]",
+  "class": "ACQUIRED",
+  "date": "2025-12-11"
+ },
+ "KBH": {
+  "name": "KB Home",
+  "reason": "Market capitalization change.[citation needed]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2009-12-18"
+ },
+ "KFT": {
+  "name": "Kraft Foods",
+  "reason": "Old Kraft Foods renamed Mondelez[220]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2012-10-02"
+ },
+ "KG": {
+  "name": "King Pharmaceuticals",
+  "reason": "Acquired by Pfizer.[247]",
+  "class": "ACQUIRED",
+  "date": "2010-12-17"
+ },
+ "KSS": {
+  "name": "Kohl's",
+  "reason": "Market capitalization change.[74]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2020-09-21"
+ },
+ "LEG": {
+  "name": "Leggett & Platt",
+  "reason": "Market capitalization change.[59]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2021-12-20"
+ },
+ "LEH": {
+  "name": "Lehman Brothers",
+  "reason": "Lehman Brothers filed for bankruptcy.[261]",
+  "class": "FAILED",
+  "date": "2008-09-16"
+ },
+ "LIFE": {
+  "name": "Life Technologies",
+  "reason": "Life Technologies acquired by Thermo Fisher Scientific Inc[198]",
+  "class": "ACQUIRED",
+  "date": "2014-01-24"
+ },
+ "LLL": {
+  "name": "L3 Technologies",
+  "reason": "L3 purchased by Harris Corporation[92]",
+  "class": "ACQUIRED",
+  "date": "2019-07-01"
+ },
+ "LLTC": {
+  "name": "Linear Technology",
+  "reason": "S&P 500 constituent Analog Devices (NASD:ADI) acquired Linear Technology.[135]",
+  "class": "ACQUIRED",
+  "date": "2017-03-13"
+ },
+ "LM": {
+  "name": "Legg Mason",
+  "reason": "Market capitalization change.[138]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2016-12-02"
+ },
+ "LNC": {
+  "name": "Lincoln National Corporation",
+  "reason": "Market capitalization change.[39]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2023-09-18"
+ },
+ "LSI": {
+  "name": "LSI Corporation",
+  "reason": "Avago acquires LSI[193]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2014-05-08"
+ },
+ "LUMN": {
+  "name": "Lumen Technologies",
+  "reason": "Market capitalization change.[43]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2023-03-20"
+ },
+ "LXK": {
+  "name": "Lexmark",
+  "reason": "Tyco spun off ADT",
+  "class": "SPINOFF",
+  "date": "2012-10-01"
+ },
+ "M": {
+  "name": "Macy's",
+  "reason": "Market capitalization change.[78]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2020-04-06"
+ },
+ "MAT": {
+  "name": "Mattel",
+  "reason": "Pending merger of Bemis and Amcor; Bemis treated as the surviving entity.[94]",
+  "class": "ACQUIRED",
+  "date": "2019-06-07"
+ },
+ "MBI": {
+  "name": "MBIA",
+  "reason": "Market capitalization change.[citation needed]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2009-12-18"
+ },
+ "MDP": {
+  "name": "Meredith Corp",
+  "reason": "S&P constituent Motorola spun off Motorola Mobility.[246]",
+  "class": "SPINOFF",
+  "date": "2011-01-03"
+ },
+ "MFE": {
+  "name": "McAfee",
+  "reason": "Acquired by Intel[244]",
+  "class": "ACQUIRED",
+  "date": "2011-02-28"
+ },
+ "MHS": {
+  "name": "Medco Health Solutions",
+  "reason": "Acquired by Express Scripts (ESRX)[228]",
+  "class": "ACQUIRED",
+  "date": "2012-04-03"
+ },
+ "MI": {
+  "name": "Marshall & Ilsley",
+  "reason": "Marshall & Iisley is being bought by Bank of Montreal[238]",
+  "class": "ACQUIRED",
+  "date": "2011-07-05"
+ },
+ "MIL": {
+  "name": "Millipore",
+  "reason": "Acquired by Merck KGaA (MKGAY)[250]",
+  "class": "ACQUIRED",
+  "date": "2010-07-14"
+ },
+ "MOLX": {
+  "name": "Molex",
+  "reason": "MOLX acquired by Koch Industries.[200]",
+  "class": "ACQUIRED",
+  "date": "2013-12-10"
+ },
+ "MON": {
+  "name": "Monsanto",
+  "reason": "Bayer acquired Monsanto.[113]",
+  "class": "ACQUIRED",
+  "date": "2018-06-07"
+ },
+ "MRO": {
+  "name": "Marathon Oil",
+  "reason": "S&P 500 & 100 constituent ConocoPhillips acquired Marathon Oil.[27]",
+  "class": "ACQUIRED",
+  "date": "2024-11-26"
+ },
+ "MUR": {
+  "name": "Murphy Oil",
+  "reason": "Market capitalization change.[125]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2017-07-26"
+ },
+ "MWW": {
+  "name": "Monster Worldwide",
+  "reason": "Market capitalization changes",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2011-12-16"
+ },
+ "NBL": {
+  "name": "Noble Energy",
+  "reason": "Chevron acquired Noble Energy.[72]",
+  "class": "ACQUIRED",
+  "date": "2020-10-12"
+ },
+ "NBR": {
+  "name": "Nabors Industries",
+  "reason": "Market Capitalization Changes.",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2015-03-23"
+ },
+ "NE": {
+  "name": "Noble Corporation",
+  "reason": "PayPal Spun off by eBay[172]",
+  "class": "SPINOFF",
+  "date": "2015-07-20"
+ },
+ "NOV": {
+  "name": "Nov",
+  "reason": "Market capitalization change.[62]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2021-09-20"
+ },
+ "NOVL": {
+  "name": "Novell",
+  "reason": "Acquired by private equity firms.[241]",
+  "class": "ACQUIRED",
+  "date": "2011-04-27"
+ },
+ "NSM": {
+  "name": "National Semiconductor",
+  "reason": "Acquired by Texas Instruments (TXN).[237]",
+  "class": "ACQUIRED",
+  "date": "2011-09-23"
+ },
+ "NVLS": {
+  "name": "Novellus Systems",
+  "reason": "Acquired by Lam Research (LRCX)[224]",
+  "class": "ACQUIRED",
+  "date": "2012-06-05"
+ },
+ "NWL": {
+  "name": "Newell Brands",
+  "reason": "Market capitalization change.[39]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2023-09-18"
+ },
+ "NYT": {
+  "name": "The New York Times Company",
+  "reason": "Market Cap changes.",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2010-12-17"
+ },
+ "NYX": {
+  "name": "NYSE Euronext",
+  "reason": "ICE Exchange acquired NYSE Euronext.[202]",
+  "class": "ACQUIRED",
+  "date": "2013-11-13"
+ },
+ "ODP": {
+  "name": "Office Depot",
+  "reason": "Market Cap changes.",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2010-12-17"
+ },
+ "OMX": {
+  "name": "OfficeMax",
+  "reason": "Market capitalization change.[264]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2008-06-23"
+ },
+ "PBCT": {
+  "name": "People's United Financial",
+  "reason": "S&P 500 constituent M&T Bank Corp. acquired People's United Financial.[55]",
+  "class": "ACQUIRED",
+  "date": "2022-04-04"
+ },
+ "PBI": {
+  "name": "Pitney Bowes",
+  "reason": "CBOE acquires BATS[136]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2017-03-01"
+ },
+ "PCL": {
+  "name": "Plum Creek Timber",
+  "reason": "PCL taken over by WY[158]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2016-02-22"
+ },
+ "PCP": {
+  "name": "Precision Castparts Corporation",
+  "reason": "CFG replaces PCP[159]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2016-02-01"
+ },
+ "PDCO": {
+  "name": "Patterson Companies",
+  "reason": "Market capitalization change.[117]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2018-03-19"
+ },
+ "PGN": {
+  "name": "Progress Energy",
+  "reason": "Acquired by Duke Energy (DUK)[222]",
+  "class": "ACQUIRED",
+  "date": "2012-07-02"
+ },
+ "PLL": {
+  "name": "Pall Corporation",
+  "reason": "Pall taken over[170]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2015-08-28"
+ },
+ "POM": {
+  "name": "Pepco Holdings",
+  "reason": "Exelon acquired Pepco.[155]",
+  "class": "ACQUIRED",
+  "date": "2016-03-30"
+ },
+ "PTV": {
+  "name": "Pactiv",
+  "reason": "Reynolds Group Holdings acquired Pactiv.[248]",
+  "class": "ACQUIRED",
+  "date": "2010-11-17"
+ },
+ "PXD": {
+  "name": "Pioneer Natural Resources",
+  "reason": "S&P 500 and S&P 100 constituent ExxonMobil acquired Pioneer Natural Resources.[31]",
+  "class": "ACQUIRED",
+  "date": "2024-05-08"
+ },
+ "R": {
+  "name": "Ryder System",
+  "reason": "Market capitalization changes.[127]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2017-06-19"
+ },
+ "RAI": {
+  "name": "Reynolds American",
+  "reason": "British American Tobacco (NYSE MKT:BTI) acquired Reynolds American.[125]",
+  "class": "ACQUIRED",
+  "date": "2017-07-26"
+ },
+ "RDC": {
+  "name": "Rowan Companies",
+  "reason": "Market cap changes[188]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2014-08-18"
+ },
+ "RHI": {
+  "name": "Robert Half",
+  "reason": "Market capitalization change.[30]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2024-06-24"
+ },
+ "RHT": {
+  "name": "Red Hat",
+  "reason": "S&P 500 & 100 constituent IBM acquired Red Hat.[91]",
+  "class": "ACQUIRED",
+  "date": "2019-07-15"
+ },
+ "RRC": {
+  "name": "Range Resources",
+  "reason": "Market capitalization change.[112]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2018-06-18"
+ },
+ "RRD": {
+  "name": "RR Donnelley",
+  "reason": "Market capitalization changes[216]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2012-12-11"
+ },
+ "RSH": {
+  "name": "RadioShack",
+  "reason": "Market capitalization adjustments.[239]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2011-06-30"
+ },
+ "RTN": {
+  "name": "Raytheon Company",
+  "reason": "United Technologies spun off Otis and Carrier and acquired Raytheon Company.[78]",
+  "class": "SPINOFF",
+  "date": "2020-04-06"
+ },
+ "RX": {
+  "name": "IMS Health",
+  "reason": "Taken private",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2010-02-26"
+ },
+ "S": {
+  "name": "Sprint Nextel",
+  "reason": "Softbank consortium purchase results in public float below 50%[206]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2013-07-08"
+ },
+ "SCG": {
+  "name": "SCANA",
+  "reason": "Dominion Energy acquired SCANA Corporation[101]",
+  "class": "ACQUIRED",
+  "date": "2019-01-02"
+ },
+ "SE": {
+  "name": "Spectra Energy",
+  "reason": "SE acquired by ENB[136]",
+  "class": "ACQUIRED",
+  "date": "2017-02-28"
+ },
+ "SEE": {
+  "name": "Sealed Air",
+  "reason": "Market capitalization change.[36]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2023-12-18"
+ },
+ "SGP": {
+  "name": "Schering-Plough",
+  "reason": "Acquired by Merck & Co. (MRK)[254]",
+  "class": "ACQUIRED",
+  "date": "2009-11-03"
+ },
+ "SHLD": {
+  "name": "Sears Holdings",
+  "reason": "SHLD below public float threshold",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2012-09-05"
+ },
+ "SIAL": {
+  "name": "Sigma-Aldrich",
+  "reason": "Sigma-Aldrich acquired by Merck KGaA (MKGAY)[166]",
+  "class": "ACQUIRED",
+  "date": "2015-11-19"
+ },
+ "SII": {
+  "name": "Smith International",
+  "reason": "Acquired by Schlumberger (SLB)[249]",
+  "class": "ACQUIRED",
+  "date": "2010-08-26"
+ },
+ "SLE": {
+  "name": "Sara Lee Corporation",
+  "reason": "Split up of Sara Lee[223]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2012-06-29"
+ },
+ "SLM": {
+  "name": "SLM Corporation",
+  "reason": "Navient Spun off from SLM[194]",
+  "class": "SPINOFF",
+  "date": "2014-05-01"
+ },
+ "SNI": {
+  "name": "Scripps Networks Interactive",
+  "reason": "Discovery Communications acquired SNI.[118]",
+  "class": "ACQUIRED",
+  "date": "2018-03-07"
+ },
+ "SPLS": {
+  "name": "Staples",
+  "reason": "Sycamore Partners acquired Staples.[122]",
+  "class": "ACQUIRED",
+  "date": "2017-09-18"
+ },
+ "SRCL": {
+  "name": "Stericycle",
+  "reason": "Market Capitalization change[103]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2018-12-03"
+ },
+ "STI": {
+  "name": "SunTrust Banks",
+  "reason": "BB&T acquired SunTrust to form Truist Financial.[84]",
+  "class": "ACQUIRED",
+  "date": "2019-12-09"
+ },
+ "STJ": {
+  "name": "St Jude Medical",
+  "reason": "S&P 100 & 500 constituent Abbott Laboratories (NYSE:ABT) acquired St. Jude Medical.[137]",
+  "class": "ACQUIRED",
+  "date": "2017-01-05"
+ },
+ "STR": {
+  "name": "Questar",
+  "reason": "Company split. QEP retained, but ticker changed.[251]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2010-06-30"
+ },
+ "SUN": {
+  "name": "Sunoco",
+  "reason": "Acquired by Energy Transfer Partners (ETP)[218]",
+  "class": "ACQUIRED",
+  "date": "2012-10-10"
+ },
+ "SVU": {
+  "name": "Supervalu",
+  "reason": "ConocoPhillips spun off Phillips 66[227]",
+  "class": "SPINOFF",
+  "date": "2012-04-23"
+ },
+ "SWN": {
+  "name": "Southwestern Energy",
+  "reason": "HPE spins off Everett, merged with CSC to form DXC[131][132]",
+  "class": "ACQUIRED",
+  "date": "2017-04-04"
+ },
+ "SWY": {
+  "name": "Safeway",
+  "reason": "Safeway acquired by private equity consortium[183]",
+  "class": "ACQUIRED",
+  "date": "2015-01-27"
+ },
+ "TDC": {
+  "name": "Teradata",
+  "reason": "Market capitalization changes.[127]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2017-06-19"
+ },
+ "TE": {
+  "name": "TECO Energy",
+  "reason": "TE acquired by EMA[143]",
+  "class": "ACQUIRED",
+  "date": "2016-07-01"
+ },
+ "TEG": {
+  "name": "Integrys Energy Group",
+  "reason": "Integrys taken over.[176]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2015-07-01"
+ },
+ "TGNA": {
+  "name": "Tegna",
+  "reason": "TGNA spins off Cars.com[129]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2017-06-02"
+ },
+ "THC": {
+  "name": "Tenet Healthcare",
+  "reason": "Ulta replaces Tenet[153]",
+  "class": "OTHER_UNCLASSIFIED",
+  "date": "2016-04-18"
+ },
+ "TIE": {
+  "name": "Titanium Metals",
+  "reason": "TIE acquired by Precision Cast Parts (PCP)[215]",
+  "class": "ACQUIRED",
+  "date": "2012-12-21"
+ },
+ "TIF": {
+  "name": "Tiffany & Co",
+  "reason": "LVMH Moet Hennessy-Louis Vuitton SE acquired Tiffany & Co.[70]",
+  "class": "ACQUIRED",
+  "date": "2021-01-07"
+ },
+ "TLAB": {
+  "name": "Tellabs",
+  "reason": "Expedia spun off TripAdvisor.[231]",
+  "class": "SPINOFF",
+  "date": "2011-12-20"
+ },
+ "TSS": {
+  "name": "TSYS",
+  "reason": "S&P 500 constituent Global Payments (NYSE: GPN) acquired TSS.[89]",
+  "class": "ACQUIRED",
+  "date": "2019-09-23"
+ },
+ "TWC": {
+  "name": "Time Warner Cable",
+  "reason": "TWC acquired by CHTR[149]",
+  "class": "ACQUIRED",
+  "date": "2016-05-18"
+ },
+ "TWX": {
+  "name": "Time Warner",
+  "reason": "AT&T acquired Time Warner.[111]",
+  "class": "ACQUIRED",
+  "date": "2018-06-20"
+ },
+ "UAA": {
+  "name": "Under Armour (Class A)",
+  "reason": "Market capitalization change.[53]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2022-06-21"
+ },
+ "UNM": {
+  "name": "Unum",
+  "reason": "Market capitalization change.[62]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2021-09-20"
+ },
+ "URBN": {
+  "name": "Urban Outfitters",
+  "reason": "Market capitalization change.[133]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2017-03-20"
+ },
+ "VAR": {
+  "name": "Varian Medical Systems",
+  "reason": "Siemens Healthineers acquired Varian Medical Systems.[66]",
+  "class": "ACQUIRED",
+  "date": "2021-04-20"
+ },
+ "VFC": {
+  "name": "VF Corporation",
+  "reason": "Market capitalization change.[32]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2024-04-03"
+ },
+ "VIAB": {
+  "name": "Viacom",
+  "reason": "CBS acquired Viacom to form ViacomCBS.[85]",
+  "class": "ACQUIRED",
+  "date": "2019-12-05"
+ },
+ "VNO": {
+  "name": "Vornado Realty Trust",
+  "reason": "Market capitalization change.[46]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2023-01-05"
+ },
+ "WB": {
+  "name": "Wachovia Bank",
+  "reason": "Wachovia Bank acquired by Wells Fargo.[260]",
+  "class": "ACQUIRED",
+  "date": "2008-12-31"
+ },
+ "WBA": {
+  "name": "Walgreens Boots Alliance",
+  "reason": "Sycamore Partners acquired Walgreen Boots Alliance.[19]",
+  "class": "ACQUIRED",
+  "date": "2025-08-28"
+ },
+ "WFM": {
+  "name": "Whole Foods Market",
+  "reason": "Amazon acquired Whole Foods Market.[123]",
+  "class": "ACQUIRED",
+  "date": "2017-08-29"
+ },
+ "WFR": {
+  "name": "MEMC Electronic Materials",
+  "reason": "Market capitalization changes",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2011-12-16"
+ },
+ "WHR": {
+  "name": "Whirlpool Corporation",
+  "reason": "Market capitalization change.[34]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2024-03-18"
+ },
+ "WIN": {
+  "name": "Windstream Communications",
+  "reason": "Market capitalization change.[179]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2015-04-07"
+ },
+ "WU": {
+  "name": "Western Union",
+  "reason": "Market capitalization change.[59]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2021-12-20"
+ },
+ "WYN": {
+  "name": "Wyndham Worldwide",
+  "reason": "Wyndham Worldwide spun off Wyndham Hotels & Resorts (NYSE:WH).[115]",
+  "class": "SPINOFF",
+  "date": "2018-05-31"
+ },
+ "X": {
+  "name": "United States Steel",
+  "reason": "Market capitalization changes[190]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2014-07-02"
+ },
+ "XL": {
+  "name": "XL Group",
+  "reason": "XL acquired by Axa.[108]",
+  "class": "ACQUIRED",
+  "date": "2018-09-14"
+ },
+ "XLNX": {
+  "name": "Xilinx",
+  "reason": "S&P 500 constituent Advanced Micro Devices acquired Xilinx.[57]",
+  "class": "ACQUIRED",
+  "date": "2022-02-15"
+ },
+ "XRAY": {
+  "name": "Dentsply Sirona",
+  "reason": "Market capitalization change.[32]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2024-04-03"
+ },
+ "XRX": {
+  "name": "Xerox",
+  "reason": "Market capitalization change.[67]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2021-03-22"
+ },
+ "XTO": {
+  "name": "XTO Energy",
+  "reason": "Acquired by ExxonMobil[252]",
+  "class": "ACQUIRED",
+  "date": "2010-06-28"
+ },
+ "YHOO": {
+  "name": "Yahoo!",
+  "reason": "VZ acquired YHOO operations; remainder of YHOO converted to closed-end company known as Altaba.[127]",
+  "class": "ACQUIRED",
+  "date": "2017-06-19"
+ },
+ "ZION": {
+  "name": "Zions Bancorporation",
+  "reason": "Market capitalization change.[34]",
+  "class": "MARKET_CAP_DECLINE_UNCLASSIFIED",
+  "date": "2024-03-18"
+ }
+}

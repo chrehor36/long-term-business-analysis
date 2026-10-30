@@ -1,0 +1,2276 @@
+{
+"2016|Specialty": {
+"hdr": "(In millions, except ratios, rate and retention) | 2016 | 2015 | 2014",
+"rows": {
+"(In millions, except ratios, rate and retention)": [
+2016.0,
+2015.0,
+2014.0
+],
+"Net written premiums": [
+2780.0,
+2781.0,
+2839.0
+],
+"Net earned premiums": [
+2779.0,
+2782.0,
+2838.0
+],
+"Net investment income": [
+516.0,
+474.0,
+560.0
+],
+"Net operating income": [
+650.0,
+560.0,
+634.0
+],
+"Net realized investment gains (losses), after tax": [
+3.0,
+-22.0,
+10.0
+],
+"Net income": [
+653.0,
+538.0,
+644.0
+],
+"Loss and loss adjustment expense ratio": [
+52.8,
+57.4,
+57.3
+],
+"Expense ratio": [
+32.0,
+31.1,
+30.1
+],
+"Dividend ratio": [
+0.2,
+0.2,
+0.2
+],
+"Combined ratio": [
+85.0,
+88.7,
+87.6
+],
+"Rate": [
+1.0,
+1.0,
+3.0
+],
+"Retention": [
+87.0,
+87.0,
+87.0
+],
+"New Business": [
+252.0,
+279.0,
+309.0
+]
+}
+},
+"2016|Commercial": {
+"hdr": "(In millions, except ratios, rate and retention) | 2016 | 2015 | 2014",
+"rows": {
+"(In millions, except ratios, rate and retention)": [
+2016.0,
+2015.0,
+2014.0
+],
+"Net written premiums": [
+2841.0,
+2818.0,
+2817.0
+],
+"Net earned premiums": [
+2804.0,
+2788.0,
+2906.0
+],
+"Net investment income": [
+638.0,
+593.0,
+723.0
+],
+"Net operating income": [
+311.0,
+369.0,
+307.0
+],
+"Net realized investment gains (losses), after tax": [
+2.0,
+-31.0,
+10.0
+],
+"Net income": [
+313.0,
+338.0,
+317.0
+],
+"Loss and loss adjustment expense ratio": [
+68.7,
+65.1,
+75.3
+],
+"Expense ratio": [
+36.8,
+36.1,
+33.7
+],
+"Dividend ratio": [
+0.3,
+0.3,
+0.3
+],
+"Combined ratio": [
+105.8,
+101.5,
+109.3
+],
+"Rate": [
+-2.0,
+1.0,
+5.0
+],
+"Retention": [
+84.0,
+78.0,
+73.0
+],
+"New Business": [
+524.0,
+552.0,
+491.0
+]
+}
+},
+"2016|International": {
+"hdr": "(In millions, except ratios, rate and retention) | 2016 | 2015 | 2014",
+"rows": {
+"(In millions, except ratios, rate and retention)": [
+2016.0,
+2015.0,
+2014.0
+],
+"Net written premiums": [
+821.0,
+822.0,
+880.0
+],
+"Net earned premiums": [
+806.0,
+804.0,
+913.0
+],
+"Net investment income": [
+51.0,
+52.0,
+61.0
+],
+"Net operating income": [
+21.0,
+37.0,
+69.0
+],
+"Net realized investment gains, after tax": [
+15.0,
+1.0,
+0.0
+],
+"Net income": [
+36.0,
+38.0,
+69.0
+],
+"Loss and loss adjustment expense ratio": [
+61.0,
+59.5,
+53.5
+],
+"Expense ratio": [
+38.1,
+38.1,
+38.9
+],
+"Combined ratio": [
+99.1,
+97.6,
+92.4
+],
+"Rate": [
+-1.0,
+-1.0,
+-1.0
+],
+"Retention": [
+76.0,
+76.0,
+74.0
+],
+"New Business (1)": [
+240.0,
+111.0,
+115.0
+]
+}
+},
+"2017|Specialty": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2017 | 2016 | 2015",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2017.0,
+2016.0,
+2015.0
+],
+"Net written premiums": [
+2771.0,
+2780.0,
+2781.0
+],
+"Net earned premiums": [
+2753.0,
+2779.0,
+2782.0
+],
+"Net investment income": [
+538.0,
+516.0,
+474.0
+],
+"Core income": [
+610.0,
+650.0,
+560.0
+],
+"Loss and loss adjustment expense ratio": [
+55.8,
+52.8,
+57.4
+],
+"Expense ratio": [
+32.0,
+32.0,
+31.1
+],
+"Dividend ratio": [
+0.2,
+0.2,
+0.2
+],
+"Combined ratio": [
+88.0,
+85.0,
+88.7
+],
+"Rate": [
+0.0,
+1.0,
+1.0
+],
+"Renewal premium change": [
+2.0,
+2.0,
+3.0
+],
+"Retention": [
+88.0,
+88.0,
+87.0
+],
+"New business": [
+251.0,
+249.0,
+279.0
+]
+}
+},
+"2017|Commercial": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2017 | 2016 | 2015",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2017.0,
+2016.0,
+2015.0
+],
+"Net written premiums": [
+2882.0,
+2841.0,
+2818.0
+],
+"Net earned premiums": [
+2840.0,
+2804.0,
+2788.0
+],
+"Net investment income": [
+642.0,
+638.0,
+593.0
+],
+"Core income": [
+341.0,
+311.0,
+369.0
+],
+"Loss and loss adjustment expense ratio": [
+67.9,
+68.7,
+65.1
+],
+"Expense ratio": [
+35.2,
+36.8,
+36.1
+],
+"Dividend ratio": [
+0.6,
+0.3,
+0.3
+],
+"Combined ratio": [
+103.7,
+105.8,
+101.5
+],
+"Rate": [
+0.0,
+-2.0,
+1.0
+],
+"Renewal premium change": [
+2.0,
+3.0,
+4.0
+],
+"Retention": [
+86.0,
+84.0,
+78.0
+],
+"New business": [
+559.0,
+520.0,
+552.0
+]
+}
+},
+"2017|International": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2017 | 2016 | 2015",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2017.0,
+2016.0,
+2015.0
+],
+"Net written premiums": [
+881.0,
+821.0,
+822.0
+],
+"Net earned premiums": [
+857.0,
+806.0,
+804.0
+],
+"Net investment income": [
+52.0,
+51.0,
+52.0
+],
+"Core income": [
+8.0,
+21.0,
+37.0
+],
+"Loss and loss adjustment expense ratio": [
+67.0,
+61.0,
+59.5
+],
+"Expense ratio": [
+37.8,
+38.1,
+38.1
+],
+"Combined ratio": [
+104.8,
+99.1,
+97.6
+],
+"Rate": [
+0.0,
+-1.0,
+-1.0
+],
+"Renewal premium change": [
+2.0,
+-1.0,
+0.0
+],
+"Retention": [
+80.0,
+76.0,
+76.0
+],
+"New business (1)": [
+275.0,
+240.0,
+111.0
+]
+}
+},
+"2018|Specialty": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2018 | 2017 | 2016",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2018.0,
+2017.0,
+2016.0
+],
+"Net written premiums": [
+2744.0,
+2731.0,
+2738.0
+],
+"Net earned premiums": [
+2732.0,
+2712.0,
+2743.0
+],
+"Net investment income": [
+439.0,
+522.0,
+497.0
+],
+"Core income": [
+629.0,
+582.0,
+606.0
+],
+"Loss and loss adjustment expense ratio": [
+55.9,
+56.5,
+54.3
+],
+"Expense ratio": [
+32.1,
+32.0,
+32.1
+],
+"Dividend ratio": [
+0.2,
+0.2,
+0.2
+],
+"Combined ratio": [
+88.2,
+88.7,
+86.6
+],
+"Rate": [
+2.0,
+1.0,
+1.0
+],
+"Renewal premium change": [
+3.0,
+3.0,
+2.0
+],
+"Retention": [
+84.0,
+89.0,
+88.0
+],
+"New business": [
+353.0,
+242.0,
+239.0
+]
+}
+},
+"2018|Commercial": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2018 | 2017 | 2016",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2018.0,
+2017.0,
+2016.0
+],
+"Net written premiums": [
+3060.0,
+2922.0,
+2883.0
+],
+"Net earned premiums": [
+3050.0,
+2881.0,
+2840.0
+],
+"Net investment income": [
+500.0,
+658.0,
+657.0
+],
+"Core income": [
+357.0,
+369.0,
+355.0
+],
+"Loss and loss adjustment expense ratio": [
+67.3,
+67.0,
+67.1
+],
+"Expense ratio": [
+33.1,
+35.1,
+36.7
+],
+"Dividend ratio": [
+0.7,
+0.6,
+0.3
+],
+"Combined ratio": [
+101.1,
+102.7,
+104.1
+],
+"Rate": [
+1.0,
+0.0,
+-2.0
+],
+"Renewal premium change": [
+3.0,
+3.0,
+3.0
+],
+"Retention": [
+85.0,
+86.0,
+84.0
+],
+"New business": [
+566.0,
+568.0,
+530.0
+]
+}
+},
+"2018|International": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2018 | 2017 | 2016",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2018.0,
+2017.0,
+2016.0
+],
+"Net written premiums": [
+1018.0,
+881.0,
+821.0
+],
+"Net earned premiums": [
+1001.0,
+857.0,
+806.0
+],
+"Net investment income": [
+57.0,
+52.0,
+51.0
+],
+"Core (loss) income": [
+-19.0,
+8.0,
+21.0
+],
+"Loss and loss adjustment expense ratio": [
+69.8,
+67.0,
+61.0
+],
+"Expense ratio": [
+36.7,
+37.8,
+38.1
+],
+"Combined ratio": [
+106.5,
+104.8,
+99.1
+],
+"Rate": [
+3.0,
+0.0,
+-1.0
+],
+"Renewal premium change": [
+7.0,
+2.0,
+-1.0
+],
+"Retention": [
+76.0,
+80.0,
+76.0
+],
+"New business": [
+307.0,
+275.0,
+240.0
+]
+}
+},
+"2019|Specialty": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2019 | 2018",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2019.0,
+2018.0
+],
+"Gross written premiums": [
+6900.0,
+6904.0
+],
+"Gross written premiums excluding third party captives": [
+3015.0,
+2834.0
+],
+"Net written premiums": [
+2848.0,
+2744.0
+],
+"Net earned premiums": [
+2773.0,
+2732.0
+],
+"Net investment income": [
+556.0,
+439.0
+],
+"Core income": [
+671.0,
+629.0
+],
+"Loss and loss adjustment expense ratio": [
+57.5,
+55.9
+],
+"Expense ratio": [
+32.5,
+32.1
+],
+"Dividend ratio": [
+0.2,
+0.2
+],
+"Combined ratio": [
+90.2,
+88.2
+],
+"Rate": [
+5.0,
+2.0
+],
+"Renewal premium change": [
+6.0,
+5.0
+],
+"Retention": [
+87.0,
+85.0
+],
+"New business": [
+367.0,
+353.0
+]
+}
+},
+"2019|Commercial": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2019 | 2018",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2019.0,
+2018.0
+],
+"Gross written premiums": [
+3693.0,
+3350.0
+],
+"Gross written premiums excluding third party captives": [
+3609.0,
+3267.0
+],
+"Net written premiums": [
+3315.0,
+3060.0
+],
+"Net earned premiums": [
+3162.0,
+3050.0
+],
+"Net investment income": [
+654.0,
+500.0
+],
+"Core income": [
+489.0,
+357.0
+],
+"Loss and loss adjustment expense ratio": [
+67.3,
+67.3
+],
+"Expense ratio": [
+32.9,
+33.1
+],
+"Dividend ratio": [
+0.6,
+0.7
+],
+"Combined ratio": [
+100.8,
+101.1
+],
+"Rate": [
+3.0,
+1.0
+],
+"Renewal premium change": [
+5.0,
+5.0
+],
+"Retention": [
+86.0,
+85.0
+],
+"New business": [
+683.0,
+566.0
+]
+}
+},
+"2019|International": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2019 | 2018",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2019.0,
+2018.0
+],
+"Gross written premiums": [
+1111.0,
+1150.0
+],
+"Net written premiums": [
+971.0,
+1018.0
+],
+"Net earned premiums": [
+974.0,
+1001.0
+],
+"Net investment income": [
+63.0,
+57.0
+],
+"Core income (loss)": [
+30.0,
+-19.0
+],
+"Loss and loss adjustment expense ratio": [
+64.1,
+69.8
+],
+"Expense ratio": [
+37.7,
+36.7
+],
+"Combined ratio": [
+101.8,
+106.5
+],
+"Rate": [
+8.0,
+4.0
+],
+"Renewal premium change": [
+7.0,
+6.0
+],
+"Retention": [
+71.0,
+77.0
+],
+"New business": [
+273.0,
+307.0
+]
+}
+},
+"2020|Specialty": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2020 | 2019",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2020.0,
+2019.0
+],
+"Gross written premiums": [
+7180.0,
+6900.0
+],
+"Gross written premiums excluding third party captives": [
+3296.0,
+3015.0
+],
+"Net written premiums": [
+3040.0,
+2848.0
+],
+"Net earned premiums": [
+2883.0,
+2773.0
+],
+"Net investment income": [
+449.0,
+556.0
+],
+"Core income": [
+535.0,
+671.0
+],
+"Loss ratio excluding catastrophes and development": [
+59.9,
+60.3
+],
+"Effect of catastrophe impacts": [
+4.3,
+0.5
+],
+"Effect of development-related items": [
+-2.1,
+-3.3
+],
+"Loss ratio": [
+62.1,
+57.5
+],
+"Expense ratio": [
+31.3,
+32.5
+],
+"Dividend ratio": [
+0.1,
+0.2
+],
+"Combined ratio": [
+93.5,
+90.2
+],
+"Combined ratio excluding catastrophes and development": [
+91.3,
+93.0
+],
+"Rate": [
+12.0,
+5.0
+],
+"Renewal premium change": [
+11.0,
+8.0
+],
+"Retention": [
+86.0,
+88.0
+],
+"New business": [
+389.0,
+367.0
+]
+}
+},
+"2020|Commercial": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2020 | 2019",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2020.0,
+2019.0
+],
+"Gross written premiums": [
+4086.0,
+3693.0
+],
+"Gross written premiums excluding third party captives": [
+3993.0,
+3609.0
+],
+"Net written premiums": [
+3565.0,
+3315.0
+],
+"Net earned premiums": [
+3323.0,
+3162.0
+],
+"Net investment income": [
+565.0,
+654.0
+],
+"Core income": [
+261.0,
+489.0
+],
+"Loss ratio excluding catastrophes and development": [
+60.6,
+61.7
+],
+"Effect of catastrophe impacts": [
+10.7,
+4.9
+],
+"Effect of development-related items": [
+2.1,
+0.7
+],
+"Loss ratio": [
+73.4,
+67.3
+],
+"Expense ratio": [
+33.0,
+32.9
+],
+"Dividend ratio": [
+0.5,
+0.6
+],
+"Combined ratio": [
+106.9,
+100.8
+],
+"Combined ratio excluding catastrophes and development": [
+94.1,
+95.2
+],
+"Rate": [
+10.0,
+4.0
+],
+"Renewal premium change": [
+8.0,
+6.0
+],
+"Retention": [
+84.0,
+86.0
+],
+"New business": [
+761.0,
+682.0
+]
+}
+},
+"2020|International": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2020 | 2019",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2020.0,
+2019.0
+],
+"Gross written premiums": [
+1133.0,
+1111.0
+],
+"Net written premiums": [
+961.0,
+971.0
+],
+"Net earned premiums": [
+940.0,
+974.0
+],
+"Net investment income": [
+58.0,
+63.0
+],
+"Core income": [
+38.0,
+30.0
+],
+"Loss ratio excluding catastrophes and development": [
+60.1,
+60.9
+],
+"Effect of catastrophe impacts": [
+7.1,
+1.1
+],
+"Effect of development-related items": [
+-0.3,
+2.1
+],
+"Loss ratio": [
+66.9,
+64.1
+],
+"Expense ratio": [
+35.5,
+37.7
+],
+"Combined ratio": [
+102.4,
+101.8
+],
+"Combined ratio excluding catastrophes and development": [
+95.6,
+98.6
+],
+"Rate": [
+14.0,
+8.0
+],
+"Renewal premium change": [
+12.0,
+7.0
+],
+"Retention": [
+73.0,
+71.0
+],
+"New business": [
+245.0,
+273.0
+]
+}
+},
+"2021|Specialty": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2021 | 2020",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2021.0,
+2020.0
+],
+"Gross written premiums": [
+7665.0,
+7180.0
+],
+"Gross written premiums excluding third-party captives": [
+3672.0,
+3296.0
+],
+"Net written premiums": [
+3225.0,
+3040.0
+],
+"Net earned premiums": [
+3076.0,
+2883.0
+],
+"Net investment income": [
+497.0,
+449.0
+],
+"Core income": [
+704.0,
+535.0
+],
+"Loss ratio excluding catastrophes and development": [
+59.1,
+59.9
+],
+"Effect of catastrophe impacts": [
+0.4,
+4.3
+],
+"Effect of development-related items": [
+-1.4,
+-2.1
+],
+"Loss ratio": [
+58.1,
+62.1
+],
+"Expense ratio": [
+30.5,
+31.3
+],
+"Dividend ratio": [
+0.1,
+0.1
+],
+"Combined ratio": [
+88.7,
+93.5
+],
+"Combined ratio excluding catastrophes and development": [
+89.7,
+91.3
+],
+"Rate": [
+11.0,
+12.0
+],
+"Renewal premium change": [
+11.0,
+13.0
+],
+"Retention": [
+83.0,
+86.0
+],
+"New business": [
+551.0,
+389.0
+]
+}
+},
+"2021|Commercial": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2021 | 2020 | 2019",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2021.0,
+2020.0,
+2019.0
+],
+"Gross written premiums": [
+4445.0,
+4086.0,
+3693.0
+],
+"Gross written premiums excluding third-party captives": [
+4334.0,
+3993.0,
+3609.0
+],
+"Net written premiums": [
+3595.0,
+3565.0,
+3315.0
+],
+"Net earned premiums": [
+3552.0,
+3323.0,
+3162.0
+],
+"Net investment income": [
+624.0,
+513.0,
+605.0
+],
+"Core income": [
+394.0,
+267.0,
+480.0
+],
+"Loss ratio excluding catastrophes and development": [
+61.0,
+60.4,
+61.5
+],
+"Effect of catastrophe impacts": [
+10.0,
+10.7,
+4.9
+],
+"Effect of development-related items": [
+0.5,
+0.5,
+-0.4
+],
+"Loss ratio": [
+71.5,
+71.6,
+66.0
+],
+"Expense ratio": [
+31.1,
+33.0,
+32.9
+],
+"Dividend ratio": [
+0.5,
+0.5,
+0.6
+],
+"Combined ratio": [
+103.1,
+105.1,
+99.5
+],
+"Combined ratio excluding catastrophes and development": [
+92.6,
+93.9,
+95.0
+],
+"Rate": [
+7.0,
+10.0,
+4.0
+],
+"Renewal premium change": [
+8.0,
+10.0,
+6.0
+],
+"Retention": [
+82.0,
+84.0,
+86.0
+],
+"New business": [
+843.0,
+761.0,
+682.0
+]
+}
+},
+"2021|International": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2021 | 2020",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2021.0,
+2020.0
+],
+"Gross written premiums": [
+1297.0,
+1133.0
+],
+"Net written premiums": [
+1101.0,
+961.0
+],
+"Net earned premiums": [
+1057.0,
+940.0
+],
+"Net investment income": [
+57.0,
+58.0
+],
+"Core income": [
+86.0,
+38.0
+],
+"Loss ratio excluding catastrophes and development": [
+59.0,
+60.1
+],
+"Effect of catastrophe impacts": [
+2.6,
+7.1
+],
+"Effect of development-related items": [
+0.1,
+-0.3
+],
+"Loss ratio": [
+61.7,
+66.9
+],
+"Expense ratio": [
+33.1,
+35.5
+],
+"Combined ratio": [
+94.8,
+102.4
+],
+"Combined ratio excluding catastrophes and development": [
+92.1,
+95.6
+],
+"Rate": [
+13.0,
+14.0
+],
+"Renewal premium change": [
+13.0,
+12.0
+],
+"Retention": [
+78.0,
+73.0
+],
+"New business": [
+274.0,
+245.0
+]
+}
+},
+"2022|Specialty": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2022 | 2021",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2022.0,
+2021.0
+],
+"Gross written premiums": [
+7514.0,
+7665.0
+],
+"Gross written premiums excluding third-party captives": [
+3814.0,
+3672.0
+],
+"Net written premiums": [
+3306.0,
+3225.0
+],
+"Net earned premiums": [
+3203.0,
+3076.0
+],
+"Underwriting gain": [
+366.0,
+347.0
+],
+"Net investment income": [
+431.0,
+497.0
+],
+"Core income": [
+668.0,
+704.0
+],
+"Loss ratio excluding catastrophes and development": [
+58.6,
+59.1
+],
+"Effect of catastrophe impacts": [
+0.1,
+0.4
+],
+"Effect of development-related items": [
+-1.3,
+-1.4
+],
+"Loss ratio": [
+57.4,
+58.1
+],
+"Expense ratio": [
+31.0,
+30.5
+],
+"Dividend ratio": [
+0.2,
+0.1
+],
+"Combined ratio": [
+88.6,
+88.7
+],
+"Combined ratio excluding catastrophes and development": [
+89.8,
+89.7
+],
+"Rate": [
+6.0,
+11.0
+],
+"Renewal premium change": [
+7.0,
+12.0
+],
+"Retention": [
+86.0,
+83.0
+],
+"New business": [
+548.0,
+551.0
+]
+}
+},
+"2022|Commercial": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2022 | 2021",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2022.0,
+2021.0
+],
+"Gross written premiums": [
+5170.0,
+4445.0
+],
+"Gross written premiums excluding third-party captives": [
+5056.0,
+4334.0
+],
+"Net written premiums": [
+4193.0,
+3595.0
+],
+"Net earned premiums": [
+3923.0,
+3552.0
+],
+"Underwriting gain (loss)": [
+106.0,
+-112.0
+],
+"Net investment income": [
+488.0,
+624.0
+],
+"Core income": [
+466.0,
+394.0
+],
+"Loss ratio excluding catastrophes and development": [
+61.5,
+61.0
+],
+"Effect of catastrophe impacts": [
+5.6,
+10.0
+],
+"Effect of development-related items": [
+-0.7,
+0.5
+],
+"Loss ratio": [
+66.4,
+71.5
+],
+"Expense ratio": [
+30.4,
+31.1
+],
+"Dividend ratio": [
+0.5,
+0.5
+],
+"Combined ratio": [
+97.3,
+103.1
+],
+"Combined ratio excluding catastrophes and development": [
+92.4,
+92.6
+],
+"Rate": [
+5.0,
+7.0
+],
+"Renewal premium change": [
+8.0,
+11.0
+],
+"Retention": [
+86.0,
+82.0
+],
+"New business": [
+1009.0,
+843.0
+]
+}
+},
+"2022|International": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2022 | 2021",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2022.0,
+2021.0
+],
+"Gross written premiums": [
+1394.0,
+1297.0
+],
+"Net written premiums": [
+1164.0,
+1101.0
+],
+"Net earned premiums": [
+1070.0,
+1057.0
+],
+"Underwriting gain": [
+87.0,
+55.0
+],
+"Net investment income": [
+63.0,
+57.0
+],
+"Core income": [
+106.0,
+86.0
+],
+"Loss ratio excluding catastrophes and development": [
+58.5,
+59.0
+],
+"Effect of catastrophe impacts": [
+2.2,
+2.6
+],
+"Effect of development-related items": [
+-1.2,
+0.1
+],
+"Loss ratio": [
+59.5,
+61.7
+],
+"Expense ratio": [
+32.3,
+33.1
+],
+"Combined ratio": [
+91.8,
+94.8
+],
+"Combined ratio excluding catastrophes and development": [
+90.8,
+92.1
+],
+"Rate": [
+6.0,
+13.0
+],
+"Renewal premium change": [
+11.0,
+13.0
+],
+"Retention": [
+81.0,
+78.0
+],
+"New business": [
+319.0,
+274.0
+]
+}
+},
+"2023|Specialty": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2023 | 2022",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2023.0,
+2022.0
+],
+"Gross written premiums": [
+7113.0,
+7514.0
+],
+"Gross written premiums excluding third-party captives": [
+3800.0,
+3814.0
+],
+"Net written premiums": [
+3329.0,
+3306.0
+],
+"Net earned premiums": [
+3307.0,
+3203.0
+],
+"Underwriting gain": [
+317.0,
+366.0
+],
+"Net investment income": [
+558.0,
+431.0
+],
+"Core income": [
+708.0,
+668.0
+],
+"Loss ratio excluding catastrophes and development": [
+58.5,
+58.6
+],
+"Effect of catastrophe impacts": [
+0.0,
+0.1
+],
+"Effect of development-related items": [
+-0.3,
+-1.3
+],
+"Loss ratio": [
+58.2,
+57.4
+],
+"Expense ratio": [
+32.0,
+31.0
+],
+"Dividend ratio": [
+0.2,
+0.2
+],
+"Combined ratio": [
+90.4,
+88.6
+],
+"Combined ratio excluding catastrophes and development": [
+90.7,
+89.8
+],
+"Rate": [
+0.0,
+6.0
+],
+"Renewal premium change": [
+1.0,
+7.0
+],
+"Retention": [
+88.0,
+86.0
+],
+"New business": [
+481.0,
+548.0
+]
+}
+},
+"2023|Commercial": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2023 | 2022",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2023.0,
+2022.0
+],
+"Gross written premiums": [
+6120.0,
+5170.0
+],
+"Gross written premiums excluding third-party captives": [
+5994.0,
+5056.0
+],
+"Net written premiums": [
+4880.0,
+4193.0
+],
+"Net earned premiums": [
+4547.0,
+3923.0
+],
+"Underwriting gain": [
+182.0,
+106.0
+],
+"Net investment income": [
+645.0,
+488.0
+],
+"Core income": [
+652.0,
+466.0
+],
+"Loss ratio excluding catastrophes and development": [
+61.5,
+61.5
+],
+"Effect of catastrophe impacts": [
+4.5,
+5.6
+],
+"Effect of development-related items": [
+-0.1,
+-0.7
+],
+"Loss ratio": [
+65.9,
+66.4
+],
+"Expense ratio": [
+29.6,
+30.4
+],
+"Dividend ratio": [
+0.5,
+0.5
+],
+"Combined ratio": [
+96.0,
+97.3
+],
+"Combined ratio excluding catastrophes and development": [
+91.6,
+92.4
+],
+"Rate": [
+7.0,
+5.0
+],
+"Renewal premium change": [
+10.0,
+8.0
+],
+"Retention": [
+84.0,
+86.0
+],
+"New business": [
+1297.0,
+1009.0
+]
+}
+},
+"2023|International": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2023 | 2022",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2023.0,
+2022.0
+],
+"Gross written premiums": [
+1485.0,
+1394.0
+],
+"Net written premiums": [
+1237.0,
+1164.0
+],
+"Net earned premiums": [
+1176.0,
+1070.0
+],
+"Underwriting gain": [
+86.0,
+87.0
+],
+"Net investment income": [
+103.0,
+63.0
+],
+"Core income": [
+145.0,
+106.0
+],
+"Loss ratio excluding catastrophes and development": [
+57.8,
+58.5
+],
+"Effect of catastrophe impacts": [
+2.5,
+2.2
+],
+"Effect of development-related items": [
+1.1,
+-1.2
+],
+"Loss ratio": [
+61.4,
+59.5
+],
+"Expense ratio": [
+31.2,
+32.3
+],
+"Combined ratio": [
+92.6,
+91.8
+],
+"Combined ratio excluding catastrophes and development": [
+89.0,
+90.8
+],
+"Rate": [
+3.0,
+6.0
+],
+"Renewal premium change": [
+6.0,
+11.0
+],
+"Retention": [
+83.0,
+81.0
+],
+"New business": [
+302.0,
+319.0
+]
+}
+},
+"2024|Specialty": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2024 | 2023",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2024.0,
+2023.0
+],
+"Gross written premiums": [
+6932.0,
+7113.0
+],
+"Gross written premiums excluding third-party captives": [
+3895.0,
+3800.0
+],
+"Net written premiums": [
+3445.0,
+3329.0
+],
+"Net earned premiums": [
+3361.0,
+3307.0
+],
+"Underwriting gain": [
+249.0,
+317.0
+],
+"Net investment income": [
+626.0,
+558.0
+],
+"Core income": [
+694.0,
+708.0
+],
+"Loss ratio": [
+59.5,
+58.2
+],
+"Expense ratio": [
+32.8,
+32.0
+],
+"Dividend ratio": [
+0.3,
+0.2
+],
+"Combined ratio": [
+92.6,
+90.4
+],
+"Less: Effect of catastrophe impacts": [
+0.0,
+0.0
+],
+"Less: Effect of favorable development-related items": [
+-0.3,
+-0.3
+],
+"Underlying combined ratio": [
+92.9,
+90.7
+],
+"Underlying loss ratio": [
+59.8,
+58.5
+],
+"Rate": [
+1.0,
+0.0
+],
+"Renewal premium change": [
+2.0,
+1.0
+],
+"Retention": [
+89.0,
+88.0
+],
+"New business": [
+462.0,
+481.0
+]
+}
+},
+"2024|Commercial": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2024 | 2023",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2024.0,
+2023.0
+],
+"Gross written premiums": [
+6964.0,
+6120.0
+],
+"Gross written premiums excluding third-party captives": [
+6816.0,
+5994.0
+],
+"Net written premiums": [
+5469.0,
+4880.0
+],
+"Net earned premiums": [
+5158.0,
+4547.0
+],
+"Underwriting gain": [
+171.0,
+182.0
+],
+"Net investment income": [
+733.0,
+645.0
+],
+"Core income": [
+702.0,
+652.0
+],
+"Loss ratio": [
+68.3,
+65.9
+],
+"Expense ratio": [
+27.9,
+29.6
+],
+"Dividend ratio": [
+0.5,
+0.5
+],
+"Combined ratio": [
+96.7,
+96.0
+],
+"Less: Effect of catastrophe impacts": [
+6.2,
+4.5
+],
+"Less: Effect of favorable development-related items": [
+-0.1,
+-0.1
+],
+"Underlying combined ratio": [
+90.6,
+91.6
+],
+"Underlying loss ratio": [
+62.2,
+61.5
+],
+"Rate": [
+6.0,
+7.0
+],
+"Renewal premium change": [
+7.0,
+10.0
+],
+"Retention": [
+84.0,
+84.0
+],
+"New business": [
+1512.0,
+1297.0
+]
+}
+},
+"2024|International": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2024 | 2023",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2024.0,
+2023.0
+],
+"Gross written premiums": [
+1483.0,
+1485.0
+],
+"Net written premiums": [
+1262.0,
+1237.0
+],
+"Net earned premiums": [
+1256.0,
+1176.0
+],
+"Underwriting gain": [
+76.0,
+86.0
+],
+"Net investment income": [
+131.0,
+103.0
+],
+"Core income": [
+153.0,
+145.0
+],
+"Loss ratio": [
+60.9,
+61.4
+],
+"Expense ratio": [
+33.1,
+31.2
+],
+"Combined ratio": [
+94.0,
+92.6
+],
+"Less: Effect of catastrophe impacts": [
+3.2,
+2.5
+],
+"Less: Effect of (favorable) unfavorable development-related items": [
+-0.4,
+1.1
+],
+"Underlying combined ratio": [
+91.2,
+89.0
+],
+"Underlying loss ratio": [
+58.1,
+57.8
+],
+"Rate": [
+-1.0,
+3.0
+],
+"Renewal premium change": [
+0.0,
+6.0
+],
+"Retention": [
+82.0,
+83.0
+],
+"New business": [
+288.0,
+302.0
+]
+}
+},
+"2025|Specialty": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2025 | 2024",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2025.0,
+2024.0
+],
+"Net written premiums": [
+3515.0,
+3445.0
+],
+"Net earned premiums": [
+3472.0,
+3361.0
+],
+"Underwriting gain": [
+164.0,
+249.0
+],
+"Net investment income": [
+650.0,
+626.0
+],
+"Core income": [
+637.0,
+694.0
+],
+"Loss ratio": [
+61.5,
+59.5
+],
+"Expense ratio": [
+33.5,
+32.8
+],
+"Dividend ratio": [
+0.3,
+0.3
+],
+"Combined ratio": [
+95.3,
+92.6
+],
+"Less: Effect of catastrophe impacts": [
+0.0,
+0.0
+],
+"Less: Effect of unfavorable (favorable) development-related items": [
+1.1,
+-0.3
+],
+"Underlying combined ratio": [
+94.2,
+92.9
+],
+"Underlying loss ratio": [
+60.4,
+59.8
+],
+"Rate": [
+3.0,
+1.0
+],
+"Renewal premium change": [
+4.0,
+2.0
+],
+"Retention": [
+86.0,
+89.0
+],
+"New business": [
+487.0,
+462.0
+]
+}
+},
+"2025|Commercial": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2025 | 2024",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2025.0,
+2024.0
+],
+"Net written premiums": [
+5821.0,
+5469.0
+],
+"Net earned premiums": [
+5695.0,
+5158.0
+],
+"Underwriting gain": [
+272.0,
+171.0
+],
+"Net investment income": [
+775.0,
+733.0
+],
+"Core income": [
+820.0,
+702.0
+],
+"Loss ratio": [
+67.9,
+68.3
+],
+"Expense ratio": [
+26.8,
+27.9
+],
+"Dividend ratio": [
+0.5,
+0.5
+],
+"Combined ratio": [
+95.2,
+96.7
+],
+"Less: Effect of catastrophe impacts": [
+3.8,
+6.2
+],
+"Less: Effect of unfavorable (favorable) development-related items": [
+0.9,
+-0.1
+],
+"Underlying combined ratio": [
+90.5,
+90.6
+],
+"Underlying loss ratio": [
+63.2,
+62.2
+],
+"Rate": [
+5.0,
+6.0
+],
+"Renewal premium change": [
+6.0,
+7.0
+],
+"Retention": [
+82.0,
+84.0
+],
+"New business": [
+1491.0,
+1512.0
+]
+}
+},
+"2025|International": {
+"hdr": "(In millions, except ratios, rate, renewal premium change and retention) | 2025 | 2024",
+"rows": {
+"(In millions, except ratios, rate, renewal premium change and retention)": [
+2025.0,
+2024.0
+],
+"Net written premiums": [
+1347.0,
+1262.0
+],
+"Net earned premiums": [
+1311.0,
+1256.0
+],
+"Underwriting gain": [
+115.0,
+76.0
+],
+"Net investment income": [
+156.0,
+131.0
+],
+"Core income": [
+207.0,
+153.0
+],
+"Loss ratio": [
+58.4,
+60.9
+],
+"Expense ratio": [
+32.8,
+33.1
+],
+"Combined ratio": [
+91.2,
+94.0
+],
+"Less: Effect of catastrophe impacts": [
+1.8,
+3.2
+],
+"Less: Effect of favorable development-related items": [
+-1.9,
+-0.4
+],
+"Underlying combined ratio": [
+91.3,
+91.2
+],
+"Underlying loss ratio": [
+58.5,
+58.1
+],
+"Rate": [
+-4.0,
+-1.0
+],
+"Renewal premium change": [
+-1.0,
+0.0
+],
+"Retention": [
+86.0,
+82.0
+],
+"New business": [
+370.0,
+288.0
+]
+}
+}
+}

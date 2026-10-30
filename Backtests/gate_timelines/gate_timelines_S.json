@@ -1,0 +1,196 @@
+{
+  "TROW": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Publicly traded asset manager: revenue is essentially average assets under management multiplied by an advisory fee rate, against a mostly fixed cost base. A generalist can state the whole P&L driver in one sentence; the balance sheet carried no debt and a large seed/investment portfolio."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Through the 2000s and early 2010s TROW showed the classic signs of a durable franchise: direct/no-load brand plus deep entrenchment in defined-contribution retirement plans and target-date funds (sticky, payroll-fed flows); long-run outperformance disclosed annually (a large majority of funds beating Lipper averages over 10 years); operating margins in the 43-47% range and zero long-term debt, sustained across the 2008-09 crisis. AUM $763.1B at 2015-12-31 (reported 2016-01-27) and $810.8B at 2016-12-31 (reported 2017-01-31)."
+      },
+      {
+        "from": 2017,
+        "class": "NARROW",
+        "note": "Passive fee compression became visible in TROW's own reported flows before the 2017-06-30 anchor. The Q4/FY2016 release (2017-01-31) disclosed full-year 2016 NET CASH OUTFLOWS of $2.8B after client transfers, and management attributed them explicitly to 'institutional and intermediary clients reallocating to passive investments,' adding that the passive trend had begun to affect even the target-date retirement portfolios that had been the firm's flow engine ($16.2B of target-date net inflows in 2015 fell to $6.3B in 2016). AUM still grew, but only on market appreciation, i.e. organic growth had gone negative. Advisory fees of $3,728.7M on materially higher average AUM implied a declining effective fee rate. Distribution and brand remain real, so NARROW rather than NONE."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2016-06",
+        "severity": "MINOR",
+        "note": "Dell LBO proxy-voting error. On 2016-05-11 the Delaware Court of Chancery held that, because TROW's clients' ~31M Dell shares had been voted 'For' the 2013 merger by an internal proxy-voting error (while TROW was simultaneously litigating for appraisal), those shares were ineligible for appraisal. On 2016-05-31 the court set Dell's fair value at $17.62 vs. the $13.75 deal price. On 2016-06-06 TROW announced (8-K) it would voluntarily compensate affected clients, taking a ~$194M pre-tax charge in Q2 2016 (~$118M after tax, ~$0.46/diluted share). Graded MINOR, not SERIOUS: self-disclosed operational failure, no regulator action, no allegation of deception, and clients were made whole at the firm's expense. LATER DEVELOPMENT (post-anchor, and it cuts against the loss): on 2017-12-14 the Delaware Supreme Court reversed the Chancery fair-value determination in the Dell appraisal, holding deal price was the more reliable indicator -- so the counterfactual TROW paid for was later undermined."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+
+  "UNH": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Collect premiums, pay medical claims, keep the spread net of administrative cost; plus Optum, which sells services (PBM, care delivery, data/analytics) on a fee basis. The medical loss ratio and the membership count are the two numbers that explain the business, and both are disclosed quarterly. Complex in regulatory detail but not opaque in economics."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Pre-2011 UNH was the largest US commercial health insurer by revenue, with genuine scale advantages in provider network discounts and per-member administrative cost. But commercial insurance was a repriced-annually, employer-shopped, state-regulated product with thin underwriting margins, and the company had just come through the options scandal (below) and the 2008 Ingenix reform. Scale advantage, low switching costs, heavy political risk: NARROW."
+      },
+      {
+        "from": 2013,
+        "class": "WIDE",
+        "note": "Two things visible before the 2014-06-30 anchor widen it. (1) Optum reached genuine scale: FY2013 results (reported 2014-01-16) showed Optum revenue of roughly $35B and rising margins, a services business that its own insurance competitors were buying from -- a structural, non-replicable position. (2) The ACA's minimum medical-loss-ratio floors (80% individual/small group, 85% large group), effective 2011, cap the underwriting margin and therefore turn the competitive contest into a fight over the administrative-cost line, which is exactly where the largest carrier wins; combined with UNH's #1 position in Medicare Advantage, this made scale self-reinforcing. FY2013 revenue $122.5B, ROE in the high teens."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2006-03",
+        "severity": "DISQUALIFYING",
+        "note": "Stock-option backdating. The Wall Street Journal's 2006-03-18 'Perfect Payday' analysis flagged UNH grant dates; an internal investigation (WilmerHale) and SEC/IRS inquiries followed. CEO/chairman William McGuire stepped down in October-November 2006. In March 2007 UNH restated results, recognizing roughly $1.5B of previously unrecorded option compensation covering grants from 1994-2005 (SEC later described more than $1B of concealed in-the-money option compensation). Resolutions: 2007-12-06 SEC settled a then-record $468M enforcement action against McGuire, including the first Sarbanes-Oxley Section 304 clawback against an individual (on top of ~$200M of options surrendered at resignation); 2008 the company and 16 individual defendants settled shareholder litigation for $895M; December 2008 SEC settled charges against UnitedHealth Group itself. This is deliberate misdating of grants and concealment of expense from investors -- accounting manipulation, hence DISQUALIFYING on conduct. MANAGEMENT DISCONTINUITY / TIME GAP: the conduct ended 2005-06 and the architect (McGuire) and general counsel departed in 2006; Stephen Hemsley became CEO in November 2006 and was still CEO at the 2014-06-30 anchor -- but Hemsley was President/COO during part of the conduct period and himself repriced/surrendered options in the settlement, so the discontinuity is partial, not clean. Roughly 8 years before the anchor."
+      },
+      {
+        "date": "2008-02",
+        "severity": "SERIOUS",
+        "note": "Ingenix out-of-network reimbursement database. NY Attorney General Andrew Cuomo announced an industry investigation in February 2008, alleging that UnitedHealth's Ingenix subsidiary ran a conflicted and defective database of 'usual and customary' charges that systematically understated out-of-network rates, shifting cost to patients. Resolved 2009-01-13: UNH agreed to abandon Ingenix for this purpose and pay $50M to fund an independent nonprofit database (FAIR Health, at Syracuse University); a parallel AMA/provider class action settled for $350M in January 2009. No admission of wrongdoing. Graded SERIOUS rather than DISQUALIFYING because it resolved as a settlement without admission and the core dispute was over methodology of a rate database, though the allegation did contain a customer-deception element."
+      },
+      {
+        "date": "2014-06",
+        "severity": "SERIOUS",
+        "note": "PacifiCare claims-handling (acquired-entity conduct). The California Department of Insurance opened a market-conduct exam in 2007 after UNH's 2005 acquisition of PacifiCare, alleging post-closing cost cuts caused 'failures at every level of claims handling.' After roughly 230 hearing days, an ALJ proposed in 2013 finding 84,801 violations and an ~$11.5M penalty. On 2014-06-09 -- three weeks before the anchor -- the Insurance Commissioner rejected that and issued his own decision finding 908,547 violations and imposing a $173.6M penalty (CDI had recommended $325M against a computed maximum above $900M). SUBSEQUENT HISTORY: UNH challenged the underlying Fair Claims Settlement Practices Regulations; a California Court of Appeal upheld them in October 2018 and the California Supreme Court denied review in January 2019, with the penalty amount subject to further proceedings. Discontinuity flag: the conduct is largely integration-era PacifiCare claims administration, but under UNH ownership and cost direction."
+      },
+      {
+        "date": "2014-06",
+        "severity": "MINOR",
+        "note": "Medicare Advantage risk-adjustment ('upcoding') -- WHAT WAS ACTUALLY PUBLIC AT THE ANCHOR. As of 2014-06-30 the concern existed only as policy analysis and journalism, not as any enforcement action against UNH: MedPAC and GAO reports on MA coding intensity (e.g. GAO-13-206, January 2013) documented industry-wide risk-score inflation; HHS OIG RADV audits had been settled by CMS for a small fraction of the amounts identified; and the Center for Public Integrity's 'Medicare Advantage Money Grab' series (June 2014, Fred Schulte) estimated roughly $70B of risk-score-driven overpayments industry-wide from 2008-2013. The Swoben qui tam had been filed in 2009 but was under seal and not a public UNH-specific exposure. Graded MINOR at this date on the evidence then available. LATER DEVELOPMENTS, all post-anchor and none of which may color the 2014 read: 2016-08-10 the Ninth Circuit revived the Swoben complaint; February-May 2017 DOJ intervened in the related Poehling qui tam, filing a complaint in intervention on 2017-05-16 alleging over $1B of overpayments (a SERIOUS-grade matter as of that date); 2018-10 Judge John F. Walter dismissed the DOJ's Swoben-derived claims for failure to plead knowing falsity; March 2025 a special master recommended judgment for UnitedHealth on roughly $2B of alleged overpayments; and in 2025 UNH confirmed it was subject to DOJ criminal and civil investigations of its MA billing practices."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+
+  "WDC": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Makes and sells hard disk drives (and, from May 2016, NAND flash and SSDs): units times average selling price, against a capital-intensive manufacturing base with areal-density R&D as the recurring cost of staying in business. Entirely legible to a generalist."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Post-consolidation HDD industry: WD closed its acquisition of Hitachi GST on 2012-03-08 and Seagate closed Samsung's HDD unit in December 2011, leaving three suppliers (WD, Seagate, Toshiba). That produced real scale economics and pricing discipline -- WD FY2014 (ended 2014-06-27) revenue $15.1B with double-digit operating margins. Narrow, not wide: the product is a commodity component sold to a handful of powerful OEM buyers, with no customer switching cost and a technology roadmap that must be repurchased every cycle."
+      },
+      {
+        "from": 2016,
+        "class": "NONE",
+        "note": "Flash substitution was undeniable in reported industry and company numbers before the 2016-06-30 anchor. Calendar 2015 HDD shipments fell 16.9% to 469M units (Trendfocus, published early 2016), with Q4-2015 dipping below 115M on weak PCs and SSD incursion into notebooks. Q1-2016 shipments fell about 20% year over year to roughly 100M, a multi-year low (reported April 2016). WD's own December-2015 and March-2016 quarters showed roughly 20% year-over-year revenue declines. The 2016 full year would come in at 424M units, down another 9.5%, with mobile HDDs down 12% and desktop HDDs down 18.5% -- direct SSD displacement, not a cyclical PC dip. Compounding this, the SanDisk acquisition (announced 2015-10-21, closed 2016-05-12, roughly $16B funded with about $18B of new debt) moved WD into NAND, where it competes with Samsung in a commodity, fab-capex-driven business, and levered the balance sheet to do it. A shrinking core plus a capital-intensive commodity adjacency is not a moat."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2011-11",
+        "severity": "SERIOUS",
+        "note": "Seagate trade-secret arbitration. Seagate sued WD and Sining Mao, a senior Seagate head-technology engineer who left for WD. In November 2011 arbitrator Robert Schumacher awarded Seagate $525M, later increased to roughly $630M with interest. The arbitrator could not sustain several of the claimed trade secrets but sanctioned Mao for fabricating PowerPoint evidence offered to disprove the allegations, and on that basis precluded defense evidence -- so the finding is a discovery-fraud/evidence-fabrication finding, not merely a competitive dispute. Procedural history: partially vacated at the Minnesota district court, reinstated by the Minnesota Court of Appeals in 2013, and AFFIRMED by the Minnesota Supreme Court on 2014-10-08. Graded SERIOUS: the fabrication was by an individual employee, WD did not admit misappropriation, and the case resolved in private arbitration -- but the award ran against the company and the amount was material."
+      },
+      {
+        "date": "2017-05",
+        "severity": "MINOR",
+        "note": "Post-anchor, for completeness: WD/SanDisk's joint-venture dispute with Toshiba over Toshiba's attempted sale of its memory unit. WD sought and obtained interim relief in ICC arbitration and California state court through 2017; the parties settled on 2017-12-13. Ordinary-course commercial contract litigation with no dishonesty finding."
+      }
+    ],
+    "gate5_broken_by": "2016-04"
+  },
+
+  "XRX": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Two businesses under one roof: Document Technology (sell or lease printers and copiers, then earn a long annuity on supplies, service and per-page contracts -- roughly 84% of revenue was post-sale annuity) and Services, the former ACS, doing outsourced back-office work including state Medicaid claims administration. The Services half is lumpy, contract-by-contract and hard to model, but the unit economics of each half are stateable in a sentence, so not genuinely opaque."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Classic razor/blade installed base: a large fleet of placed devices generating high-margin supplies and service revenue under multi-year contracts, plus the Xerox brand and a direct enterprise sales force. Real but not wide -- Canon, Ricoh and HP contested every placement, and the annuity only lasts as long as the fleet is replaced."
+      },
+      {
+        "from": 2015,
+        "class": "NONE",
+        "note": "By the 2015-06-30 anchor the annuity was in visible secular decline and the diversification bet had visibly failed. Total revenue fell every year: roughly $22.4B (2012), $21.4B (2013), $19.5B (2014), disclosed in the FY2014 10-K filed February 2015, driven by falling equipment installs and declining office print volumes as documents moved to screens. The ACS/Services offset was breaking rather than compensating: Texas terminated Xerox's Medicaid claims administration contract and the Texas Attorney General sued on 2014-05-09 (below); California also moved against its Xerox Medicaid contract; and Xerox's Health Enterprise Medicaid platform business was disclosed as troubled. (Just after the anchor, on 2015-07-24, Xerox booked a $389M pre-tax charge and began exiting Health Enterprise; on 2016-01-29 it announced the strategic review that split the company, with Conduent separating on 2017-01-03.) A shrinking annuity plus a services business that cannot execute its contracts is no moat."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2002-04",
+        "severity": "DISQUALIFYING",
+        "note": "Accounting fraud and the largest financial-reporting penalty of its day. On 2002-04-11 Xerox settled SEC charges, paying a $10M civil penalty -- then the largest ever against a public company for financial-reporting violations -- and agreeing to restate. The SEC alleged management accelerated recognition of equipment-lease revenue by more than $3B and inflated pre-tax earnings by roughly $1.4-1.5B across 1997-2000 to meet Wall Street expectations. The actual restatement, filed 2002-06-28, reclassified $6.4B of equipment revenue over 1997-2001 and cut earnings by about $1.4B. On 2003-06-05 the SEC charged six former senior executives -- including former CEOs Paul Allaire and G. Richard Thoman and former CFO Barry Romeril -- with securities fraud; they paid over $22M in penalties, disgorgement and interest without admitting or denying. The SEC separately charged auditor KPMG and four of its partners in January 2003. DISQUALIFYING on conduct: this is deliberate accounting manipulation, not a judgment call. TIME GAP AND DISCONTINUITY, both material: the conduct ended in 2000, about 15 years before the 2015-06-30 anchor and the enforcement is ~13 years old; every implicated executive was gone (Anne Mulcahy became CEO in August 2001, Ursula Burns in July 2009 and was CEO at the anchor), and the auditor was replaced by PwC. Judged as-of-2015, this is old conduct under wholly different management -- but it is the institution's own record, not a predecessor's."
+      },
+      {
+        "date": "2008-03",
+        "severity": "SERIOUS",
+        "note": "Civil consequence of the same 1997-2000 fraud: in March 2008 Xerox agreed to pay $670M (with $80M from KPMG, $750M total) to settle the Carlson v. Xerox shareholder class action, without admission of liability."
+      },
+      {
+        "date": "2014-05",
+        "severity": "SERIOUS",
+        "note": "Texas Medicaid orthodontics. Texas HHSC terminated Xerox's Medicaid claims-administration contract and on 2014-05-09 the Texas Attorney General sued Xerox and its ACS/Xerox Health subsidiaries in Travis County under the Texas Medicaid Fraud Prevention Act, alleging that Xerox staff rubber-stamped prior-authorization requests for orthodontic braces from January 2004 to March 2012 without the required review by qualified clinical personnel, causing taxpayer-funded treatment for thousands of children who did not meet the Medicaid standard; roughly $1.1B of orthodontic claims passed through the process. RESOLUTION (post-anchor): settled 2019-02 for $235.9M paid by Xerox and Conduent, a Texas record at the time, with no admission of liability. Graded SERIOUS: a material state fraud action resolved by settlement without admission; the conduct is a failure to perform contracted clinical review rather than a proven scheme to deceive."
+      },
+      {
+        "date": "2016-09",
+        "severity": "SERIOUS",
+        "note": "Post-anchor. In September 2016 Xerox disclosed an internal investigation into whether payments relating to company-owned facilities in India were made improperly in possible violation of the FCPA, identifying approximately $5.0M of potentially improper payments, and voluntarily self-reported to the DOJ and SEC. Self-disclosed; no enforcement action of note followed."
+      },
+      {
+        "date": "2018-04",
+        "severity": "SERIOUS",
+        "note": "Post-anchor. On 2018-04-27 a New York state judge (Ostrager) enjoined the proposed Fujifilm combination, finding CEO Jeff Jacobson had continued negotiating in breach of his fiduciary duty after being told to stop, effectively 'hopelessly conflicted' by negotiating for his own job. LATER REDUCED: an appellate stay of the injunction was granted on 2018-05-03, and the ruling was overtaken when Xerox settled with Carl Icahn and Darwin Deason on 2018-05-01, replacing Jacobson and most of the board and later terminating the Fuji deal -- so the injunction never stood as a final adjudication."
+      }
+    ],
+    "gate5_broken_by": "2014-05"
+  },
+
+  "ZBH": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Designs and sells orthopaedic reconstructive implants -- knees and hips above all -- to hospitals, with the purchasing decision made by the implanting surgeon. Sell an implant, sell the instrument set that goes with it, earn a very high gross margin. About as legible as medical devices get."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Zimmer Holdings on its own (pre-Biomet) held the #1 or #2 global position in knees inside a stable five-firm oligopoly (Zimmer, DePuy/J&J, Stryker, Biomet, Smith & Nephew). The moat was surgeon switching cost: implants come with company-specific instrumentation, training and technique, and a surgeon who has done a thousand cases on one system does not re-learn on another. The economics showed it -- gross margins around 75% and operating margins near 30% sustained through the 2008-09 recession, with revenue barely dented."
+      },
+      {
+        "from": 2012,
+        "class": "NARROW",
+        "note": "Visible in reported results before mid-2012: revenue stalled at roughly $4.12B (2008), $4.10B (2009), $4.22B (2010) and $4.45B (2011, reported 2012-01-31, and heavily aided by currency and tuck-in acquisitions). Management disclosed negative price every quarter from 2009 onward -- low-single-digit ASP erosion -- as hospital systems consolidated purchasing, gain-sharing and physician employment reduced the surgeon's autonomy in choosing brands, and payers pushed back on implant cost. Add reputational damage from the Durom cup suspension (2008) and the 2010 NexGen CR-Flex loosening reports. Surgeon switching cost is still real, so NARROW rather than NONE -- but the pricing power that made it WIDE was demonstrably gone."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2007-09",
+        "severity": "DISQUALIFYING",
+        "note": "Surgeon consulting kickbacks. On 2007-09-27 the US Attorney for New Jersey announced resolutions with the four largest hip/knee makers over consulting agreements, professional-service agreements and other payments to orthopaedic surgeons used to induce use of their implants. Zimmer Inc. was charged by criminal complaint with conspiracy to violate the federal Anti-Kickback Statute, entered an 18-month Deferred Prosecution Agreement with a federal monitor plus a Corporate Integrity Agreement, and paid $169.5M in civil settlement -- the largest of the group, which totalled $311M across five companies (Biomet, DePuy and Smith & Nephew also took DPAs; Stryker, which cooperated first, received a non-prosecution agreement). Zimmer did not plead guilty, admit wrongdoing or pay a criminal fine; the charge was dismissed after the DPA ran its course in March 2009. Graded DISQUALIFYING on conduct: paying the decision-maker to choose your product is corruption of the customer relationship, which is the category the framework treats as disqualifying regardless of the no-admission structure. DISCONTINUITY: the conduct spanned roughly 2002-2006 under CEO Ray Elliott; David Dvorak became CEO in May 2007, just before the resolution, and was still CEO at the 2013-06-30 anchor -- so the resolution and the monitorship happened on the current management's watch, ~6 years before the anchor, and the compliance regime it imposed had been fully served."
+      },
+      {
+        "date": "2010-08",
+        "severity": "SERIOUS",
+        "note": "FCPA exposure, disclosed but unresolved at the anchor. Zimmer disclosed that in September 2007 the SEC informed it of an investigation into possible FCPA violations in the sale of medical devices in a number of foreign countries across the device industry, and that in November 2007 the DOJ asked that anything given to the SEC be given to it as well. In its 2010 filings Zimmer further disclosed that its own proactive FCPA reviews in jurisdictions outside the pending investigation found that certain third-party independent distributors in two South American countries had made payments that may have FCPA implications. No enforcement action against Zimmer standalone existed as of 2013-06-30. LATER (post-anchor, and note the entity discontinuity): on 2017-01-12 Zimmer Biomet paid $30.5M to the DOJ and SEC -- but that action resolved BIOMET's conduct in Brazil and Mexico that breached Biomet's own March 2012 DPA, i.e. acquired-entity conduct under different management, inherited only when the Biomet merger closed on 2015-06-24. That DPA ended in February 2021."
+      },
+      {
+        "date": "2008-07",
+        "severity": "SERIOUS",
+        "note": "Durom Acetabular Cup. In April 2008 Dr. Lawrence Dorr, a prominent hip surgeon and paid Zimmer consultant, publicly circulated his conclusion that the Durom cup was failing at an unacceptable rate; Zimmer's initial public position attributed the failures to surgical technique. On 2008-07-22 Zimmer suspended US sales of the component and later added surgeon-training requirements. Federal cases were consolidated into MDL 2158 in June 2010 and Zimmer built substantial reserves over the following years. Graded SERIOUS rather than MINOR because the candor problem -- blaming surgeons before acknowledging the device -- goes to the quality of disclosure, though there was no finding of deception."
+      },
+      {
+        "date": "2011-08",
+        "severity": "MINOR",
+        "note": "NexGen Knee. Following 2010 presentations by Drs. Richard Berger and Craig Della Valle reporting high rates of loosening in the NexGen CR-Flex femoral component -- findings Zimmer publicly disputed -- federal product-liability cases were consolidated into MDL 2272 in August 2011. Ordinary-course product litigation; the MDL later resolved with the bulk of claims dismissed or settled on modest terms."
+      },
+      {
+        "date": "2016-09",
+        "severity": "SERIOUS",
+        "note": "Post-anchor and post-merger, included for completeness: an FDA warning letter to the Warsaw North Campus (September 2016) over quality-system deficiencies inherited largely through the Biomet integration, followed by supply disruptions, a guidance cut, and a securities class action in 2016-2017 alleging the integration and quality problems were concealed."
+      }
+    ],
+    "gate5_broken_by": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+ "ticker": "CWT",
+ "name": "California Water Service",
+ "headline": "A regulated water monopoly: by law, no competitor may serve the areas it already covers.",
+ "what_short": "Regulated water utility (mostly California)",
+ "what_it_does": "California Water Service pumps or buys water and pipes it to about 562,000 connections. 91.2% of its revenue comes from its California districts, with small operations in Washington, New Mexico, Hawaii and Texas. The California Public Utilities Commission sets the prices it may charge.",
+ "why_it_passed": [
+  "State law bars any other private water company from entering its territory unless service there is found to be deficient.",
+  "The pipes in the street cannot practically be duplicated, and no substitute for piped water is named in its annual report.",
+  "The regulator has allowed a steady 10.27% return on equity, with 53.4% equity in the capital structure, unchanged since 2023.",
+  "It plans $580 to $640 million of investment in 2026, which grows the base on which it earns its allowed return."
+ ],
+ "why_not_now": "A regulator caps what this utility may earn, so the price is far above what that capped return justifies. At $47.82 a share the price is about double the analysis's value range of $22.60 to $27.66, and even the best case earns only 4.19% a year, against 5.30% on a 30-year US Treasury bond.",
+ "watch": [
+  "Spending on pipes ($517 million in 2025) is far above depreciation and above what the business generates, so it keeps borrowing; debt was about 3.1 times its earnings before interest and tax over interest in 2025.",
+  "California holds utilities strictly liable for damage in some cases, even without fault, and land-movement lawsuits are pending.",
+  "A public agency could take over the system by eminent domain for just compensation, though only one small case was pending."
+ ],
+ "value_low": 22.60,
+ "value_high": 27.66,
+ "utility": true,
+ "run_date": "2026-10-28",
+ "currency": "USD"
+}

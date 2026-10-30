@@ -1,0 +1,37 @@
+cap 119,131.6 M   price 404.11   shares 294.8M   sovereign 5.29%
+
+window                                                         OE $M  yield%   mult  vs sov  +g=6.1%
+3-yr continuing mean, (c)=capex  [the central construction]    3,777    3.17   31.5   -2.12     9.27
+3-yr continuing mean, (c)=capex + 2023-24 acquisition rate     3,477    2.92   34.3   -2.37     9.02
+3-yr continuing mean, (c)=D&A                                  3,058    2.57   39.0   -2.72     8.67
+3-yr continuing mean, (c)=capex + 3-yr acquisition rate        2,902    2.44   41.1   -2.85     8.54
+TTM to 2026-06-30, continuing (a single year)                  4,437    3.72   26.8   -1.57     9.82
+5-yr 2021-25 as filed (a different company)                    3,658    3.07   32.6   -2.22     9.17
+FY2025 continuing alone                                        4,306    3.61   27.7   -1.68     9.71
+
+WHAT THE PRICE ALREADY ASSUMES
+  3-yr continuing mean, (c)=capex  [the central construction]: growth needed to reach the ~10% floor = 6.83%/yr; to reach the sovereign = 2.12%/yr
+  TTM to 2026-06-30, continuing (a single year): growth needed to reach the ~10% floor = 6.28%/yr; to reach the sovereign = 1.57%/yr
+  what the business has actually done: +6.1%/yr OE per diluted share FY2019-FY2025 continuing
+
+VALUE, solving cap = OE/(0.10 - g)  [the price at which expectancy = the floor]
+  3-yr mean  OE 3,777 at g=3.0%  ->  cap 53,957M  = $183.03/share
+  3-yr mean  OE 3,777 at g=4.0%  ->  cap 62,950M  = $213.53/share
+  3-yr mean  OE 3,777 at g=5.0%  ->  cap 75,540M  = $256.24/share
+  3-yr mean  OE 3,777 at g=6.1%  ->  cap 96,846M  = $328.51/share
+  TTM        OE 4,437 at g=3.0%  ->  cap 63,386M  = $215.01/share
+  TTM        OE 4,437 at g=4.0%  ->  cap 73,950M  = $250.85/share
+  TTM        OE 4,437 at g=5.0%  ->  cap 88,740M  = $301.02/share
+  TTM        OE 4,437 at g=6.1%  ->  cap 113,769M  = $385.92/share
+  D&A end    OE 3,058 at g=3.0%  ->  cap 43,686M  = $148.19/share
+  D&A end    OE 3,058 at g=4.0%  ->  cap 50,967M  = $172.89/share
+  D&A end    OE 3,058 at g=5.0%  ->  cap 61,160M  = $207.46/share
+  D&A end    OE 3,058 at g=6.1%  ->  cap 78,410M  = $265.98/share
+
+AGAINST THE SOVEREIGN: price at which the OE yield alone equals 5.29%
+  OE 3,058 -> cap 57,807M = $196.09/share
+  OE 3,777 -> cap 71,399M = $242.19/share
+  OE 4,437 -> cap 83,875M = $284.52/share
+
+SENSITIVITY: including the 7.2M EBT shares
+  cap 122,041.2M; 3-yr mean yield 3.09% (vs 3.17%)

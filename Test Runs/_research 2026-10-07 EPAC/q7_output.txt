@@ -1,0 +1,17 @@
+COMPUTATION, NOT A CLEARANCE (written before Q2 to Q6 closed; see the run file self-audit)
+owner cash, equity basis (OCF-SBC-capex): {2021: 33.7, 2022: 30.2, 2023: 60.6, 2024: 61.7, 2025: 79.0}
+tax adj (shelter yrs at 21%): {2021: -1.4, 2022: 0.7, 2023: -11.8, 2024: 0.0, 2025: 0.0}
+all-equity owner cash: {2021: 36.2, 2022: 34.0, 2023: 58.3, 2024: 72.8, 2025: 86.8}
+net acquisitions avg/yr: 1.82
+shown growth aggregate owner cash 24.4%/yr (cut back as absurd); sales 3.9%/yr
+halves growth 31.5%/yr
+
+A literal FY21-25 all-equity, acq deducted, sales growth: base 55.8  g 3.9%  EV 989-1351  per share 18.00-25.08  width 1.37x  fair (all-equity) 11.12
+B post-ASCEND FY23-25 all-equity, acq deducted, sales growth: base 69.6  g 3.9%  EV 1234-1685  per share 22.78-31.61  width 1.37x  fair (all-equity) 14.21
+C TTM May-2026 all-equity (beside only): base 106.7  g 3.9%  EV 1892-2584  per share 35.65-49.18  width 1.37x  fair (all-equity) 22.50
+equity-only literal: 16.89-23.07  fair 10.89
+equity-only post: 20.85-28.48  fair 13.44
+expected return at price, midpoint case, literal: 3.53%  (EV 1871)
+expected return at price, midpoint case, post: 4.38%  (EV 1871)
+expected return at price, midpoint case, ttm: 6.63%  (EV 1871)
+SFE pro forma: subtract 8.83 per share from every figure

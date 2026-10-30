@@ -1,0 +1,95 @@
+==============================================================================
+EDISON INTERNATIONAL  (EIX)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.29%   10/22/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     57.90 USD   2026-10-22   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                384.794M  as of 2026-04-21  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                                 384.794M  as of 2026-03-31  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)      384.794M  as of 2026-03-31  (CommonStockSharesIssued)
+  shares    384.8M      market cap 22.28B USD
+  share basis: dei cover-page count as of 2026-04-21 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-12-31      3,401       46     2,635      5,448      -2,093         720
+    2024-12-31      5,014       57     2,866      5,707        -750       2,091
+    2025-12-31      5,800       57     3,237      6,515        -772       2,506
+          mean                                               -1,205       1,772
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: capex basis in 2023, 2024, 2025
+  mean of the year-by-year lower: -1,205;  of the higher: 1,772  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 AllocatedShareBasedCompensationExpense; 2024 AllocatedShareBasedCompensationExpense; 2025 AllocatedShareBasedCompensationExpense
+  capex tag by year: 2023 PaymentsToAcquirePropertyPlantAndEquipment; 2024 PaymentsToAcquirePropertyPlantAndEquipment; 2025 PaymentsToAcquirePropertyPlantAndEquipment
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0000827052-26-000012, 0000827052-25-000022, 0000827052-24-000013
+    2023-12-31  other capital payment (not in capex)  us-gaap:PaymentsOfDividendsMinorityInterest (to minority partners, financing section)  117
+    2024-12-31  other capital payment (not in capex)  us-gaap:PaymentsOfDividendsMinorityInterest (to minority partners, financing section)  168
+    2025-12-31  other capital payment (not in capex)  us-gaap:PaymentsOfDividendsMinorityInterest (to minority partners, financing section)  136
+
+        FY end  OCF filed OCF ex-sec  SBC+other    capex  capex alt  OE capex alt  OE D&A alt
+    2023-12-31      3,401      3,401         46    5,448      5,565        -2,210         720
+    2024-12-31      5,014      5,014         57    5,707      5,875          -918       2,091
+    2025-12-31      5,800      5,800         57    6,515      6,651          -908       2,506
+          mean                                                             -1,345       1,772
+  OCF ex-sec = OCF as filed less the securities lines' and PIK interest's effect; SBC+other = the SBC column plus
+  the other stock-pay lines; capex alt = capex plus the other capital payments. The columns
+  above are AS FILED; these are the ALTERNATES. Neither is chosen here.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex -2,350  OE D&A 708   yield -10.55% (capex) 3.18% (D&A)
+  DIVERGENCE vs the 3-yr window: -95.1% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis -5.41%   D&A basis  7.95%   vs sovereign 5.29%
+  2. GROWTH THE PRICE ASSUMES  REFUSED - the lower owner-earnings mean
+     is at or below zero. A DCF on a non-positive base produces no
+     number; the negative bottom boundary IS the statement.
+  3. POINTS OVER THE SOVEREIGN REFUSED on the same ground at the lower mean; higher mean +5.53
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory     lt debt    retained
+    2016-12-31        51,319      37,127      14,187          96         714         239      10,175       9,544
+    2017-12-31        52,580      38,695      13,866       1,091         717         242      11,642       9,188
+    2018-12-31        56,715      44,063      12,652         144         730         282      14,632       7,964
+    2019-12-31        64,382      48,886      15,496          68         788         364      17,864       8,382
+    2020-12-31        69,372      53,423      14,048          87       1,130         405      19,632       8,155
+    2021-12-31        74,745      56,956      15,888         390       1,398         420      24,170       7,894
+    2022-12-31        78,041      60,519      15,621         914       1,695         474      27,025       7,454
+    2023-12-31        81,758      63,814      15,501         345       2,016         527      30,316       7,499
+    2024-12-31        85,579      67,839      15,565         193       2,169         538      33,534       7,567
+    2025-12-31        94,026      74,767      17,579         158       1,463         535      36,070      10,714
+    accessions: 0000827052-17-000033, 0000827052-18-000046, 0000827052-19-000034, 0000827052-20-000026, 0000827052-21-000019, 0000827052-22-000006, 0000827052-23-000010, 0000827052-24-000013, 0000827052-25-000022, 0000827052-26-000012
+    equity: StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest (2016, 2017, 2018, 2019); StockholdersEquity (2020, 2021, 2022, 2023, 2024, 2025)
+    receivables: ReceivablesNetCurrent (2016, 2017, 2018); AccountsReceivableNetCurrent (2019, 2020, 2021, 2022, 2023, 2024, 2025)
+    lt debt: LongTermDebtNoncurrent (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD millions; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        d3        d4        sum
+    2016-12-31       1,307       981    10,175         -     12,463*
+    2017-12-31       2,393       481    11,642         -     14,516*
+    2018-12-31         720        79    14,632         -     15,431*
+    2019-12-31         550       479    17,864         -     18,893*
+    2020-12-31       2,398     1,029    19,632         -     23,059*
+    2021-12-31       2,354     1,077    24,170    24,177     51,778
+    2022-12-31       2,015     2,614    27,025    23,147     54,801
+    2023-12-31       1,077     2,697    30,316    24,900     58,990
+    2024-12-31         998     2,049    33,534    25,866     62,447
+    2025-12-31       2,390     1,928    36,070    28,161     68,549
+    d1 = us-gaap:ShortTermBorrowings
+    d2 = us-gaap:LongTermDebtCurrent
+    d3 = us-gaap:LongTermDebtNoncurrent
+    d4 = us-gaap:LiabilitiesOtherThanLongtermDebtNoncurrent
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

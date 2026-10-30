@@ -1,0 +1,24 @@
+{
+ "ticker": "ALFVY",
+ "name": "Alfa Laval",
+ "headline": "A Swedish maker of heat exchangers and separators, with a steady service business on its installed base.",
+ "what_short": "Heat exchangers, separators and pumps",
+ "what_it_does": "Alfa Laval, a Swedish industrial company founded in 1883, makes heat exchangers, separators, pumps and valves used in food, water, energy and shipping. It sells through three divisions and also earns money servicing and supplying parts for the equipment it has already installed, about 30% of 2025 sales.",
+ "why_it_passed": [
+  "It states a number one market share in all three of its technologies (heat transfer, separation and fluid handling).",
+  "It earned 60.8% a year before tax in 2025 on the capital the business actually needs (excluding what was paid for acquisitions), and never less than 49.5% in ten years.",
+  "Its returns on capital were above both US rivals the analysis compared it with, and held up through the 2022 metal-price inflation, since it can pass higher raw material costs on to customers.",
+  "Service and parts on equipment already installed made up 30.4% of 2025 sales, a steady base beside the cyclical equipment sales."
+ ],
+ "why_not_now": "At SEK 576.40 a share the business is priced to return only 2.6% to 5.3% a year to a buyer, against 3.1% on a 10-year Swedish government bond. The price sits inside the analysis's wide value range of SEK 482 to SEK 1,066, so there is no cushion, and the analysis's own fair price is about SEK 187.",
+ "watch": [
+  "Acquisitions: Fives Cryogenics cost SEK 9.2 billion for about 4.6% a year before tax, less than the core business earns.",
+  "Food & Water division profit margins have narrowed since 2022; the analysis could not settle whether that is temporary.",
+  "The company is a defendant in 315 asbestos lawsuits, which it calls unfounded and not material."
+ ],
+ "value_low": 482.23,
+ "value_high": 1066.26,
+ "utility": false,
+ "run_date": "2026-10-17",
+ "currency": "SEK"
+}

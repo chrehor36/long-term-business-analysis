@@ -1,0 +1,175 @@
+{
+ "by_year": {
+  "2017": {
+   "cons_km_maint": 350,
+   "cons_km_growth": 407,
+   "sep_km_maint": 442,
+   "sep_km_growth": 499,
+   "sep_da_default": 442,
+   "sf_total_cash": -92,
+   "sbc_total": 27
+  },
+  "2018": {
+   "cons_km_maint": 477,
+   "cons_km_growth": 531,
+   "sep_km_maint": 532,
+   "sep_km_growth": 586,
+   "sep_da_default": 512,
+   "sf_total_cash": -55,
+   "sbc_total": 38
+  },
+  "2019": {
+   "cons_km_maint": 368,
+   "cons_km_growth": 429,
+   "sep_km_maint": 364,
+   "sep_km_growth": 425,
+   "sep_da_default": 374,
+   "sf_total_cash": 4,
+   "sbc_total": 42
+  },
+  "2020": {
+   "cons_km_maint": -38,
+   "cons_km_growth": 26,
+   "sep_km_maint": -50,
+   "sep_km_growth": 14,
+   "sep_da_default": -78,
+   "sf_total_cash": 12,
+   "sbc_total": 32
+  },
+  "2021": {
+   "cons_km_maint": 511,
+   "cons_km_growth": 553,
+   "sep_km_maint": 415,
+   "sep_km_growth": 457,
+   "sep_da_default": 357,
+   "sf_total_cash": 96,
+   "sbc_total": 41
+  },
+  "2022": {
+   "cons_km_maint": 485,
+   "cons_km_growth": 549,
+   "sep_km_maint": 423,
+   "sep_km_growth": 487,
+   "sep_da_default": 431,
+   "sf_total_cash": 62,
+   "sbc_total": 46
+  },
+  "2023": {
+   "cons_km_maint": 725,
+   "cons_km_growth": 826,
+   "sep_km_maint": 543,
+   "sep_km_growth": 644,
+   "sep_da_default": 578,
+   "sf_total_cash": 182,
+   "sbc_total": 56
+  },
+  "2024": {
+   "cons_km_maint": 535,
+   "cons_km_growth": 772,
+   "sep_km_maint": 355,
+   "sep_km_growth": 592,
+   "sep_da_default": 515,
+   "sf_total_cash": 180,
+   "sbc_total": 67
+  },
+  "2025": {
+   "cons_km_maint": 722,
+   "cons_km_growth": 901,
+   "sep_km_maint": 604,
+   "sep_km_growth": 783,
+   "sep_da_default": 695,
+   "sf_total_cash": 118,
+   "sbc_total": 72
+  }
+ },
+ "windows": {
+  "9y 2017-2025 (all)": {
+   "cons_km_maint": 459.4,
+   "cons_km_growth": 554.9,
+   "sep_km_maint": 403.1,
+   "sep_km_growth": 498.6,
+   "sep_da_default": 425.1,
+   "sf_total_cash": 56.3,
+   "yield_sep_lo_%": 1.8,
+   "yield_sep_hi_%": 2.2,
+   "yield_cons_hi_%": 2.5
+  },
+  "7y 2019-2025 (fund lines fully stated)": {
+   "cons_km_maint": 472.6,
+   "cons_km_growth": 579.4,
+   "sep_km_maint": 379.1,
+   "sep_km_growth": 486.0,
+   "sep_da_default": 410.3,
+   "sf_total_cash": 93.4,
+   "yield_sep_lo_%": 1.7,
+   "yield_sep_hi_%": 2.1,
+   "yield_cons_hi_%": 2.6
+  },
+  "5y 2021-2025 (DEFAULT [E2-42], includes 2021)": {
+   "cons_km_maint": 595.6,
+   "cons_km_growth": 720.2,
+   "sep_km_maint": 468.0,
+   "sep_km_growth": 592.6,
+   "sep_da_default": 515.2,
+   "sf_total_cash": 127.6,
+   "yield_sep_lo_%": 2.1,
+   "yield_sep_hi_%": 2.6,
+   "yield_cons_hi_%": 3.2
+  },
+  "4y 2022-2025 (ex 2020-21)": {
+   "cons_km_maint": 616.8,
+   "cons_km_growth": 762.0,
+   "sep_km_maint": 481.2,
+   "sep_km_growth": 626.5,
+   "sep_da_default": 554.8,
+   "sf_total_cash": 135.5,
+   "yield_sep_lo_%": 2.1,
+   "yield_sep_hi_%": 2.8,
+   "yield_cons_hi_%": 3.4
+  },
+  "3y 2023-2025": {
+   "cons_km_maint": 660.7,
+   "cons_km_growth": 833.0,
+   "sep_km_maint": 500.7,
+   "sep_km_growth": 673.0,
+   "sep_da_default": 596.0,
+   "sf_total_cash": 160.0,
+   "yield_sep_lo_%": 2.2,
+   "yield_sep_hi_%": 3.0,
+   "yield_cons_hi_%": 3.7
+  },
+  "7y ex-trough 2017-19 + 2022-25": {
+   "cons_km_maint": 523.1,
+   "cons_km_growth": 630.7,
+   "sep_km_maint": 466.1,
+   "sep_km_growth": 573.7,
+   "sep_da_default": 506.7,
+   "sf_total_cash": 57.0,
+   "yield_sep_lo_%": 2.1,
+   "yield_sep_hi_%": 2.5,
+   "yield_cons_hi_%": 2.8
+  },
+  "5y 2019-2023 (includes 2020 and 2021)": {
+   "cons_km_maint": 410.2,
+   "cons_km_growth": 476.6,
+   "sep_km_maint": 339.0,
+   "sep_km_growth": 405.4,
+   "sep_da_default": 332.4,
+   "sf_total_cash": 71.2,
+   "yield_sep_lo_%": 1.5,
+   "yield_sep_hi_%": 1.8,
+   "yield_cons_hi_%": 2.1
+  },
+  "6y 2020-2025 (includes 2020)": {
+   "cons_km_maint": 490.0,
+   "cons_km_growth": 604.5,
+   "sep_km_maint": 381.7,
+   "sep_km_growth": 496.2,
+   "sep_da_default": 416.3,
+   "sf_total_cash": 108.3,
+   "yield_sep_lo_%": 1.7,
+   "yield_sep_hi_%": 2.2,
+   "yield_cons_hi_%": 2.7
+  }
+ }
+}

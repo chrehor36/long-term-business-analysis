@@ -1,0 +1,26 @@
+market cap HK$m 29,087; borrowings 90,514; cash 9,918; interim dividend 983
+net debt HK$m 81,579; perps 7,825; NCI at book 13,317; claims 102,720; EV at price 131,807
+owner cash needed for 10% on EV at the price: HK$m 13,181; on market cap alone (equity-only): 2,909
+halves: 2021-22 avg -6930  2024-25 avg 7347 -> the series and the halves change sign: growth meaningless, no-growth case alone (specific (b))
+--- A. literal window 2021-25, all spending (central by the text)
+  owner cash HK$m all-equity -103; equity basis -3,284
+  return at the price: all-equity -0.1% (NCI and perps not counted as claims: -0.1%); equity-only, attributable share -9.8%
+  value at the sovereign, no growth, all-equity a share: HK$-17.54
+  valued at the floor (10%): all-equity a share HK$-16.89; equity-only a share HK$-4.64
+--- B. 2025 alone less the HK$1,564,593k subsidy receivables sold to a trust (AR2025 note 45), beside
+  owner cash HK$m all-equity 8,713; equity basis 6,114
+  return at the price: all-equity 6.6% (NCI and perps not counted as claims: 7.9%); equity-only, attributable share 18.2%
+  value at the sovereign, no growth, all-equity a share: HK$52.46
+  valued at the floor (10%): all-equity a share HK$-2.54; equity-only a share HK$8.64
+--- C. 2024-25 operating years average, beside
+  owner cash HK$m all-equity 7,347; equity basis 4,450
+  return at the price: all-equity 5.6% (NCI and perps not counted as claims: 6.6%); equity-only, attributable share 13.3%
+  value at the sovereign, no growth, all-equity a share: HK$41.62
+  valued at the floor (10%): all-equity a share HK$-4.76; equity-only a share HK$6.29
+--- D. maintenance guess, 2025 earnings before interest after tax, beside
+  owner cash HK$m all-equity 6,500; equity basis 4,498
+  return at the price: all-equity 4.9% (NCI and perps not counted as claims: 5.9%); equity-only, attributable share 13.4%
+  value at the sovereign, no growth, all-equity a share: HK$34.89
+  valued at the floor (10%): all-equity a share HK$-6.14; equity-only a share HK$6.35
+FAIR PRICE (case A, no-growth case alone, so both ends are the same case): all-equity HK$-16.89 (central); equity-only HK$-4.64 (beside)
+VALUE RANGE (case A at the sovereign, no-growth alone): HK$-17.54 a share, all-equity

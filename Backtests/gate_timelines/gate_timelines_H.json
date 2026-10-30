@@ -1,0 +1,238 @@
+{
+  "CSX": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Class I railroad: revenue = carloads x revenue-per-unit, costs tracked by a single published metric (operating ratio), capital spending on track/equipment is disclosed line by line. Capital-intensive but a generalist can explain how it earns money."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Eastern US duopoly with Norfolk Southern over an unreplicable right-of-way; post-Staggers (1980) rate freedom. Pricing power is visible in reported results: core pricing +1.3% in 2013 and continued same-store price gains across nearly all markets in 2014-2016 even while volumes fell. Operating ratio improved from ~71% (2013) to a record 66.8% in Q2 2015 (reported July 2015) and a Q3 record 68.3% (reported Oct 2015); ROIC ran low-to-mid teens 2013-2015. Substitution risk is limited for bulk/intermodal length-of-haul (rail cost per ton-mile far below truck). Coal was a demand shock, not a moat loss: export coal tonnage -8% (2013) and -11% (2014), coal revenue per carload -2% (2013) and -7% (2014), and management guided 2015 coal revenue down ~$450M (Jan 2015) on cheap natural gas -- yet price realization on the remaining book stayed positive, which is the moat test, not the volume."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2007-11",
+        "severity": "SERIOUS",
+        "note": "In re Rail Freight Fuel Surcharge Antitrust Litigation (MDL 1869), filed 2007 against CSX, BNSF, NS and UP after the STB's Jan 2007 ruling barred rate-based fuel surcharges: shippers alleged a price-fixing conspiracy on fuel surcharges. Class certified June 2012; D.C. Circuit VACATED certification on 2013-08-09 (Comcast v. Behrend); on remand certification was DENIED and the D.C. Circuit AFFIRMED that denial 2019-08-30. No conspiracy was ever proven and no admission was made; direct-action suits by individual shippers continued for years afterward with CSX winning summary judgment in the long-running matter. Graded SERIOUS (competition-law allegation, unproven) rather than DISQUALIFYING because no cartel finding was ever entered."
+      },
+      {
+        "date": "2015-02",
+        "severity": "MINOR",
+        "note": "Mount Carbon, West Virginia crude-oil train derailment and spill on 2015-02-16 (before the 2016-06-30 anchor; after the 2013 anchor); no fatalities. DOJ/EPA/West Virginia lodged a consent decree 2018-07-24: $1.2M federal civil penalty, $1.0M to West Virginia, plus $500K escrowed for a Kanawha Falls water-treatment upgrade. Environmental/safety violation, no deception element, and the penalty is immaterial to CSX's earnings."
+      },
+      {
+        "date": "2017-08",
+        "severity": "SERIOUS",
+        "note": "EEOC sued CSX Transportation 2017-08-01 alleging its physical-ability tests had an unlawful disparate impact on female applicants; CSX agreed to a $3.2M consent decree announced 2018-06-13. Post-dates both anchors."
+      },
+      {
+        "date": "2024-10",
+        "severity": "SERIOUS",
+        "note": "DOL/OSHA (announced 2024-10-11) obtained a federal court order requiring CSX to reinstate and pay $453K to two employees illegally terminated after raising safety concerns in 2017; OSHA had previously found similar Federal Rail Safety Act whistleblower retaliation at a locomotive shop (2016) and a Selkirk NY dispatch office (2010). Pattern of retaliation against internal safety reporting; well after both anchors."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "DE": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Sells and finances agricultural/construction machines: units x price less material and manufacturing cost, plus a captive lender (John Deere Capital) whose economics are interest spread minus credit losses. Both halves are disclosed separately and are easy for a generalist to explain."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Dealer network (roughly 1,500 North American dealers), brand, parts/aftermarket annuity and precision-ag data lock-in. The decisive dated evidence is behaviour in a violent downturn: USDA net farm income fell from ~$124B (2013) to ~$108B (2014) to $73.6B (2015, USDA estimate published during 2015, the lowest since 2009). Deere's net sales and revenues fell 20% to $28.9B in FY2015 (reported 2015-11) and equipment sales fell 22%, yet FY2015 sales still carried POSITIVE price realization of +1% (i.e., Deere raised prices into a 22% volume collapse) and the company stayed profitable every quarter: net income $3.16B FY2014, $1.94B FY2015, ~$1.5B FY2016 (guided ~$1.4B in mid-2016). That combination -- price up while volume craters -- is the pricing-power proof; the earnings decline is cyclical demand, not moat erosion. Competitive set in high-horsepower North America is narrow (CNH, AGCO), and DOJ itself later described high-speed precision planting as a two-player market."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2016-08",
+        "severity": "MINOR",
+        "note": "DOJ Antitrust Division sued 2016-08-31 (two months AFTER the 2016-06-30 anchor) to block Deere's purchase of Precision Planting from Monsanto, calling it a merger-to-monopoly in high-speed precision planting systems; trial was set for 2017-06-05 and Deere/Monsanto abandoned the deal on 2017-05-01. Graded MINOR because this was a prospective merger-review challenge with no allegation of wrongful conduct, deception, or abuse of an existing position, and no penalty."
+      },
+      {
+        "date": "2024-09",
+        "severity": "DISQUALIFYING",
+        "note": "SEC charged Deere with FCPA violations on 2024-09-10; Deere paid ~$9.93M ($4.3M disgorgement, ~$1.1M interest, $4.5M penalty). Wirtgen Thailand employees bribed Royal Thai Air Force, Department of Highways and Department of Rural Roads officials (cash, massage-parlour visits, international travel) plus private-company employees to win contracts, from at least late 2017 through 2020. Bribery = dishonesty, so DISQUALIFYING -- but note the conduct began late 2017 at a subsidiary acquired with Wirtgen in Dec 2017, i.e. entirely AFTER both the 2015-06-30 and 2016-06-30 anchors, and was unknown publicly until 2024. Deere fired the employees involved and remediated controls."
+      },
+      {
+        "date": "2025-01",
+        "severity": "SERIOUS",
+        "note": "FTC, with the Illinois and Minnesota attorneys general, sued Deere on 2025-01-15 alleging unlawful restriction of independent repair (withholding the full Service ADVISOR tool) to monopolize repair of Deere agricultural equipment. Pure competition-law/monopolization theory with no deception element; far past both anchors and unresolved as of the latest information available here."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "DGX": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Clinical laboratory: requisitions x revenue per requisition, against a largely fixed cost base of labs, couriers and patient service centres, with the payer mix (Medicare/Medicaid, commercial, client bill, patient) disclosed. The one thing a generalist must accept is that price is set by payers, not by Quest -- but that is a moat question, not an opacity question."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Largest US clinical lab: national logistics network, ~2,200 patient service centres and the lowest cost per test in the industry -- a real scale advantage that gives it a place in every payer network. But it has no pricing power and the record says so with dates: 2013 revenue fell ~3% to $7.15B with revenue per requisition down 3%, roughly 2 points of it from reimbursement pressure (reported 2014-01-30); Medicare clinical lab fee schedule rates were being cut administratively; and PAMA was signed 2014-04-01, mandating that Medicare CLFS rates be reset to market-weighted private-payer medians (cuts eventually effective 2018) -- a statutory price cut Quest could not resist. Payer power was demonstrated earlier when UnitedHealthcare moved its exclusive national lab contract to LabCorp (announced 2006, effective 2007), an event that cost Quest volume it took years to recover. Substitutes are real: hospital outreach labs, physician-office testing, and a direct competitor of comparable scale in LabCorp. Durable but capped: NARROW, not WIDE."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2009-04",
+        "severity": "DISQUALIFYING",
+        "note": "On 2009-04-15 Quest's subsidiary Nichols Institute Diagnostics pleaded guilty in EDNY to a felony misbranding charge under the FDCA and Quest/NID paid $302M total ($40M criminal fine plus $262M-plus-interest to resolve False Claims Act allegations) -- at the time one of the largest medical-device recoveries ever. The government alleged NID marketed its Nichols Advantage Intact PTH immunoassay as having 'excellent correlation' with the IRMA assay while knowing it produced elevated readings. That is affirmative deception of customers and regulators, hence DISQUALIFYING; conduct ran to 2006 and the NID kit business was exited. Roughly four years stale at the 2013-06-30 anchor and under a different CEO (Stephen Rusckowski took over 2012-05), but the plea itself is a corporate felony conviction for misbranding."
+      },
+      {
+        "date": "2011-05",
+        "severity": "SERIOUS",
+        "note": "Quest disclosed an agreement in principle 2011-05-09 and finalized on 2011-05-19 a $241M settlement with the California AG, DHCS and qui tam relator (Hunter Laboratories/Chris Riedel) -- the largest recovery in the history of the California False Claims Act. Allegations: overcharging Medi-Cal for more than 15 years versus the 'best price' rule and giving kickbacks in the form of discounted or free testing to physicians, hospitals and clinics. Settled without admission of liability, so SERIOUS rather than DISQUALIFYING; two years before the 2013 anchor."
+      },
+      {
+        "date": "2017-05",
+        "severity": "SERIOUS",
+        "note": "DOJ announced 2017-05-01 that Quest would pay $6M to resolve FCA allegations that Berkeley HeartLab (acquired by Quest with Celera in 2011) paid kickbacks to referring physicians disguised as 'process and handling' fees and waived patient copayments to drive blood-test referrals, plus medically unnecessary testing. No admission; Quest had ended the conduct. Post-dates both anchors."
+      },
+      {
+        "date": "2019-06",
+        "severity": "MINOR",
+        "note": "Disclosed 2019-06-03: American Medical Collection Agency, a third-party billing-collections vendor to Quest's revenue-cycle contractor, was breached, exposing data on approximately 11.9M Quest patients. Vendor security failure, no deception by Quest; well after both anchors."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "DOV": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Diversified industrial run as four reported segments (Energy, Engineered Systems, Fluids, Refrigeration & Food Equipment), each a collection of niche equipment and consumables businesses with disclosed segment revenue and margins. Conglomerate breadth makes it tedious, not opaque -- a generalist can explain any single unit's economics (sell the machine, then sell the parts and consumables)."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Portfolio of #1/#2 positions in small niches (artificial-lift pumps, fluid transfer/dispensing, marking and coding, retail refrigeration cases) with aftermarket and consumable attach rates that give real switching costs, and returns on capital in the low teens. But durability is limited on two dated counts. First, end-market dependence rather than pricing power: after oil crashed from ~$100 (June 2014) to under $50 (Jan 2015), Energy segment revenue fell from ~$2.05B (2014) to ~$1.48B (2015) and then a further 25.3% in 2016 (organic -24.4%), explicitly attributed in the FY2016 10-K to lower US rig count and customer capex -- Dover could not price through it, and took $55.2M of restructuring charges in 2015, $30.8M of it in Energy. Total revenue fell from $7.75B (2014) to ~$6.96B (2015) to ~$6.79B (2016). Second, the moat is bought rather than built: Dover is a serial acquirer and serial divestor (Knowles spun off Feb 2014), so goodwill is heavy and the franchise is a rotating portfolio rather than one enduring economic castle. NARROW is the honest class at both the 2015 and 2016 anchors."
+      }
+    ],
+    "gate3": [],
+    "gate5_broken_by": null
+  },
+  "ED": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Consolidated Edison is a HEAVILY RATE-REGULATED utility -- explicitly the simplest unit economics in this set: earnings are approximately the allowed return on equity applied to an approved rate base, with fuel and purchased-power costs passed through to customers under New York Public Service Commission multi-year rate plans. A generalist can compute it from the rate order."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "REGULATION IS THE MOAT AND ALSO THE CEILING, and that is why this is NARROW rather than WIDE. CECONY holds a state-granted monopoly franchise for electric, gas and steam delivery in New York City and Westchester: substitution is effectively nil, customers cannot switch wires, and the barrier to entry is legal rather than economic -- there will never be a second set of Manhattan feeders. But the NYPSC, not Con Edison, sets the price: the 2013 electric rate plan (covering 2014-2016) used a 9.2% allowed ROE, and the 2016 electric/gas rate order (Cases 16-E-0060 / 16-G-0061, approved 2016, effective 2017-01-01) reset the allowed ROE to 9.0%. Con Edison therefore has no independent pricing power, earns a regulated spread on rate base, and bears asymmetric downside: safety penalties and imprudence disallowances fall on shareholders, not ratepayers (the East Harlem settlement costs were explicitly shareholder-borne). Durable, low-return, regulator-capped: NARROW."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "1994-11",
+        "severity": "SERIOUS",
+        "note": "MANAGEMENT-DISCONTINUITY FLAG. In Nov 1994 Con Edison pleaded guilty to federal FELONY charges of concealing the extent of an asbestos release from regulators and making false statements, arising from the 1989-08-19 Gramercy Park steam explosion where the company did not report for four days that ~200 lbs of released insulation contained asbestos; it paid a $2M fine, was placed on court-supervised corporate probation, and spent ~$54M settling private claims. The underlying conduct IS dishonesty (concealment plus false statements to regulators), which is why it is recorded here rather than omitted -- but it is 20 years stale at the 2014-06-30 anchor and every relevant decision-maker had turned over (CEO Eugene McGrath 1990-2005, Kevin Burke 2005-2013, John McAvoy from 2013), so it is graded SERIOUS with the discontinuity flagged rather than treated as live disqualifying conduct at the 2014/2015 anchors."
+      },
+      {
+        "date": "2007-07",
+        "severity": "MINOR",
+        "note": "2007-07-18 Lexington Avenue steam-main rupture in midtown Manhattan: one death, asbestos in the debris, extensive private litigation and a PSC/DPS review. Infrastructure failure, no deception alleged; seven years before the 2014 anchor."
+      },
+      {
+        "date": "2014-03",
+        "severity": "SERIOUS",
+        "note": "East Harlem gas explosion 2014-03-12 (three and a half months BEFORE the 2014-06-30 anchor): two buildings at 1644/1646 Park Ave levelled, 8 killed, ~50 injured. NTSB's report (June 2015, i.e. just before the 2015-06-30 anchor) attributed it to a faulty fusion joint between two Con Edison plastic gas pipes together with a long-known city sewer breach. The NY Department of Public Service investigation (2015) found Con Edison violated close to a dozen state gas-safety requirements -- failing to train employees and contractors to fuse plastic gas pipe properly, failing to supervise the work, failing to install emergency shut-down valves -- several of which it said contributed to the explosion. The NYPSC issued a show-cause order in Nov 2015; the matter settled for $153.3M approved 2017-02-17 (largest gas-safety settlement in New York history, including a $25M+ gas-customer benefit fund), borne by shareholders. Serious operational and safety failure with regulatory findings, but no dishonesty element, hence SERIOUS not DISQUALIFYING."
+      },
+      {
+        "date": "2019-07",
+        "severity": "MINOR",
+        "note": "2019-07-13 West Side Manhattan blackout (~72,000 customers) caused by a relay-protection/transmission failure, followed by a DPS investigation and further outages during the July 2019 heat wave. Reliability failure, no deception; well after both anchors."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "F": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Two businesses, both explicable: Automotive (units x average transaction price less material, labour, warranty and fixed plant cost) and FORD CREDIT, a captive lender whose economics are receivables x net financing margin less credit losses, run at roughly 8-9x leverage and reported as its own segment with its own balance sheet. The captive finance arm adds a bank inside a manufacturer, which matters for the balance-sheet gate, but it is disclosed clearly enough that a generalist can explain it."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NONE",
+        "note": "Mass-market auto manufacturing is the archetype of a no-moat business and Ford's own reported numbers say so. Structural facts visible at both anchors: enormous fixed capital and product-cycle spend, a unionized cost base reset upward by the UAW contract ratified 2015-11-20, chronic industry discounting, and buyers with near-zero switching cost. The single durable franchise is F-Series (best-selling US pickup since 1977/1981 and best-selling US vehicle since 1982), and it carried essentially all the profit: of Ford's record 2015 pre-tax profit of ~$10.8B (reported 2016-01-28), North America contributed roughly $9.3B, while Europe was around break-even, South America was LOSS-making in both 2015 and 2016, and Ford Credit earned a steady but unremarkable ~$1.9B. Consolidated automotive returns on invested capital sat below any reasonable cost of capital measured across the cycle even at a cyclical peak, and Ford required an unbroken product-spend treadmill to stand still. Pricing power exists in one truck line, not in the enterprise: NONE."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2013-08",
+        "severity": "SERIOUS",
+        "note": "Ford cut published EPA fuel-economy ratings twice. Aug 2013: the 2013 C-Max Hybrid's advertised 47 mpg was reduced. 2014-06-12 (just before the 2015 anchor and squarely public): Ford relabelled SIX 2013-2014 models downward -- the C-Max Hybrid to 40 mpg combined (42 city / 37 highway) and the C-Max Energi to 38 mpg combined -- after finding errors in lab measurement and calculation of aerodynamic drag and road-load inputs, and paid customers ($550 to C-Max owners, $325 to lessees). Ford characterized it as testing error; EPA imposed no penalty at the time. Graded SERIOUS: material misstatement of a headline advertised metric across multiple model years, corrected voluntarily."
+      },
+      {
+        "date": "2016-05",
+        "severity": "MINOR",
+        "note": "Takata inflator recalls: NHTSA's May 2016 expansion swept in tens of millions of US vehicles including Fords, and Ford recalls continued expanding through 2020 (NHTSA ordered a further ~3M-vehicle Ford recall in Jan 2020). The underlying dishonesty was TAKATA's -- Takata pleaded guilty to wire fraud and paid $1B in Jan 2017 for falsifying inflator test data -- not Ford's, so this is a supplier-defect recall for Ford's purposes."
+      },
+      {
+        "date": "2019-02",
+        "severity": "SERIOUS",
+        "note": "Emissions/fuel-economy CERTIFICATION matter, precisely dated: an anonymous employee hotline report in Sept 2018 led Ford to open an internal probe in Feb 2019 and voluntarily disclose to EPA on 2019-02-18 and to CARB on 2019-02-21; Ford then disclosed in a late-April 2019 SEC filing (public 2019-04-26) that DOJ had opened a CRIMINAL investigation. The issue was 'road load' estimation -- analytical modelling and physical track testing that feed fuel-economy and emissions certification -- and expressly NOT defeat devices. LATER RESOLVED IN FORD'S FAVOUR: DOJ dropped its criminal probe and CARB closed its investigation in Feb 2021 with no charges, though EPA and Environment and Climate Change Canada reviews remained open."
+      },
+      {
+        "date": "2019-07",
+        "severity": "DISQUALIFYING",
+        "note": "DPS6 PowerShift dual-clutch transmission. Class litigation over 2011-2016 Fiesta and 2012-2016 Focus shuddering, bucking, hesitating and slipping had been public since 2012 and reached first final approval on 2017-10-18 (Vargas v. Ford). What became public on 2019-07-11 was the documentary proof: the Detroit Free Press 'Out of Gear' investigation published internal Ford documents and emails showing Ford launched the cars in 2010-11, and kept selling them for years, while knowing the transmissions could slip into neutral or lurch -- against 4,300-plus complaints to federal safety regulators. Two US senators demanded a federal investigation within days (July 2019). Knowing concealment of a safety-relevant defect from customers is dishonesty, hence DISQUALIFYING, but the KNOWLEDGE evidence dates to 2019-07, three years after the later anchor. Settlement history afterward: 9th Circuit VACATED the settlement 2019-09-13, the district court reaffirmed it 2019-10-22, and a revised final approval followed in March 2020."
+      },
+      {
+        "date": "2022-05",
+        "severity": "SERIOUS",
+        "note": "2022-05-24: Ford paid $19.2M to settle a 41-state, Oregon-led multistate consumer-protection action over false advertising of MY2013-2014 C-Max hybrid real-world fuel economy and MY2011-2014 Super Duty maximum payload capacity -- the payload figure having been computed on a hypothetical configuration (no spare wheel/tire/jack, mini console, no radio) that only fleet buyers could actually order while it was advertised to everyone. Settled without admission, hence SERIOUS, but note the deception element is explicit in the AGs' allegations and the conduct spans model years 2011-2014, i.e. BEFORE both anchors even though the finding came in 2022."
+      }
+    ],
+    "gate5_broken_by": "2019-09"
+  },
+  "FLR": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Engineering and construction: win backlog, execute, recognize revenue percentage-of-completion. Explicable to a generalist -- but with the honest caveat that reported profit is not observed, it is ESTIMATED by management from cost-to-complete forecasts on multi-year projects, which is exactly where this company later blew up. Explicable, not opaque, so PASS."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NONE",
+        "note": "An E&C contractor has no durable competitive advantage worth the name: work is won by competitive bid, backlog is repriced every cycle, switching costs for owners are low, and on FIXED-PRICE/lump-sum work all cost overrun risk sits with Fluor. Returns look respectable only because the asset base is thin, and even those returns turned out to be estimate-dependent rather than real -- the SEC later found (2023-09-06 order) that Fluor's bids on two large fixed-price projects rested on 'overly optimistic cost and timing estimates,' that internal accounting controls failed when overruns arrived, and that reported net earnings were overstated by $51M (22%) in 2016, $38M (25%) in 2017 and $43M (25%) in 2018. Dated visibility of the damage: SEC found certain Fluor personnel realized in EARLY 2016 that the flawed prior design on the Radford project was driving major cost and delay, but the first public charge came in Q1 2017 ($25M pre-tax on three southeastern US fixed-price gas-fired power plants, reported May 2017 -- just before the 2017-06-30 anchor); then $194M pre-tax / $124M after-tax in Q2 2017 (reported 2017-08-03), then $41M in Q4 2017, then the larger Q2 2019 charges that triggered the SEC inquiry. Also live from 2016: the Santos GLNG cost dispute. NONE at both the 2016 and 2017 anchors -- and note that at 2016-06-30 the impairment of this thesis was already forming inside the company but was NOT yet public."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2011-06",
+        "severity": "SERIOUS",
+        "note": "2011-06-17: Fluor agreed to pay the US $4M to resolve False Claims Act and Anti-Kickback Act allegations that it knowingly submitted false claims and paid and received kickbacks in connection with a contract to operate and manage mixed radioactive waste at DOE's Hanford site. Settled without admission of liability."
+      },
+      {
+        "date": "2015-01",
+        "severity": "SERIOUS",
+        "note": "2015-01-29 (before BOTH anchors): Fluor Hanford LLC agreed to pay $1.1M to resolve False Claims Act allegations that roughly $670K of DOE funds were improperly used between 2005 and 2009 to lobby Congress and executive-branch officials for more appropriations and contracts for the Volpentest HAMMER training facility; whistleblower Loydene Rambo received $200K. Fluor's public statement emphasized that it admitted no improper conduct."
+      },
+      {
+        "date": "2020-02",
+        "severity": "DISQUALIFYING",
+        "note": "ACCOUNTING MANIPULATION, and the date it became public matters: on 2020-02-18 Fluor disclosed an SEC investigation (document requests and a subpoena covering the projects charged in Q2 2019) and said it could not file its 2019 Form 10-K on time; it received an NYSE delayed-filing notice, and an internal investigation with outside counsel and forensic accountants ran under a board Special Committee. Fluor finally filed the 2019 10-K on 2020-09-25, RESTATING fiscal 2016, 2017 and 2018 and interim periods from Q1 2018 through Q3 2019, with material weaknesses attributed to control failures on the Radford and Penguins projects. Net earnings had been overstated by 22-25% per year and by as much as 37% in one period. Nothing about this was public at either the 2016-06-30 or 2017-06-30 anchor."
+      },
+      {
+        "date": "2023-09",
+        "severity": "DISQUALIFYING",
+        "note": "2023-09-06: SEC charged Fluor with improper accounting and inadequate internal accounting controls on the two fixed-price projects; Fluor consented, without admitting or denying the findings, to cease-and-desist and a $14.5M civil penalty. Five current and former officers and employees also settled -- including former Chief Accounting Officer/Controller Robin K. Chopra, business-line CFO Bradley R. Scott and former business-line president James F. Brittain -- with individual penalties of $15,000 to $25,000. Same conduct as the 2020 restatement; recorded separately because this is the date a regulator's finding attached."
+      },
+      {
+        "date": "2025-08",
+        "severity": "MINOR",
+        "note": "2025-08-11: Fluor acknowledged an Australian court decision awarding Santos over $450M in the long-running Gladstone LNG (GLNG) dispute over a 2011 EPC contract, a matter that had been live since 2016. Large but ordinary-course commercial contract litigation with no deception element -- which is itself the point about this business model: fixed-price and disputed-cost project risk is the recurring feature, not the exception."
+      }
+    ],
+    "gate5_broken_by": "2019-05"
+  }
+}

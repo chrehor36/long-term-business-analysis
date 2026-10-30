@@ -1,0 +1,52 @@
+SIG fold: register entry 136, wave 7 name 4, FAIL at Q2 -- and the [E4-25] rebuild finds an asset sale inside operating cash flow
+
+The six fold steps, all done.
+
+1. Register entry 136 inserted at the top of ## COMPLETED FROM THE QUEUE, with
+   price $100.38, 38,317,243 shares from the 10-Q cover accession
+   0000832988-26-000229, cap $3,846.3M, sovereign 5.34% (US Treasury 30Y,
+   09/18/2026), and a PASS/FAIL line naming Q2. The count was re-derived: 135
+   entries stood above it.
+2. SIG appended to Screens/_daily/_wave7_done.txt (now 4 lines).
+3. Narrative fold appended to the PREPPED READING LIST.
+4. No alert band and no PORTFOLIO row: the name failed on the BUSINESS, so the
+   reversal condition is recorded in words instead (the QLYS ruling).
+5. check_framework.py PASSES before this commit; ledger_verbatim.py reports 311
+   rows, 254 EXACT, 56 ELISION_OK, 1 DECLARED_NOT_A_QUOTE. All 82 ledger ids
+   cited in the run exist; 0 phantom.
+6. Committed with a pathspec.
+
+THE FINDING. The screen's spread_caveat named [E4-25] and years_filed was 18.
+The rebuild reproduces the screen's band exactly (3y c=D&A 422.9 against its 423;
+5y c=capex 598.7 against its 599) and then goes where the construction cannot:
+Fiscal 2018's $1,940.5M of operating cash flow carries, INSIDE operating
+activities, a line reading "Proceeds from sale of in-house finance receivables"
+of $952.5M, and Fiscal 2019 carries $445.5M of the same (10-K FY2019, accession
+0000832988-19-000003). Signet sold its customer credit book. Removing those two
+lines takes the 18-year owner-earnings mean to $406.4-409.2M, and removing the
+receivable run-off too takes it to $390.4-393.2M, 3% to 8% BELOW the screen's
+bottom boundary.
+
+This is a new screen-artefact class and it has no code fix. The tag is right,
+the vintage is consistent, the sign is right, and the number is still not owner
+earnings, because a filer routed an asset disposal through the operating
+section. Only a reader who opens the cash-flow statement's detail lines sees it.
+
+Screen items: deal_note resolved (the 8-K Item 1.01 is the Bread/Comenity card
+program agreement to December 2035, with an unquantified signing bonus, not the
+credit facility the note guessed); acq_note CORRECT at $913.6M and inside the
+window; newest_periodic and cap_m merely stale by one quarter and eighteen days.
+
+[E2-49] FIRES, seventh fire against five failures: EBITDA appears only inside
+the leverage-ratio definition in the FY2023 and FY2024 10-Ks and is promoted to
+its own headline section in FY2025, the year GAAP operating income fell 82%.
+[E4-29] fires in both documents, with Adjusted EBITDAR adding back $429.0M of
+rent for a company of 2,582 leased stores. [E4-30] does NOT fire and the reason
+is recorded.
+
+Two errors of my own, both caught and corrected in place rather than silently:
+the draft's "third CEO in three years" (the 8-K of 2024-10-01 says Gina Drosos
+retired after twelve years), and a mislabelled rebuild table in commit a765ee6,
+now published with all three variants side by side. No verdict moved.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

@@ -1,0 +1,24 @@
+{
+ "ticker": "PBH",
+ "name": "Prestige Consumer Healthcare",
+ "headline": "Owns small over-the-counter health brands that lead their narrow categories and need almost no capital.",
+ "what_short": "Over-the-counter health brands (Monistat, Dramamine)",
+ "what_it_does": "Prestige buys small, established over-the-counter health brands from larger owners and sells them in narrow categories such as wart removal, motion sickness, ear wax and sore throat. About 95 contract manufacturers make most products. Revenue was $1,088.7M in fiscal 2026, 83.9% in North America.",
+ "why_it_passed": [
+  "It earned more than 70% before tax on the operating capital it uses, since the brands themselves need almost nothing.",
+  "Twelve of its seventeen major brands are number one in their narrow category, and number-one brands are 63.7% of revenue.",
+  "Brands such as Chloraseptic, Dramamine, Debrox and Monistat have held the number one spot for fifteen years or more.",
+  "Capital spending ran only $7.8M to $22.2M a year."
+ ],
+ "why_not_now": "This run found the price of $45.61 below its value range of $69.32 to $85.48, which is built at the 5.66% a 30-year US Treasury bond pays. But the analysis did not call it a clear bargain: at the price the business earns about 10% before tax in the central case and about 9% if its five-year decline continues, right on the line the analysis requires, and $2.1 billion of net debt takes the first claim on any value.",
+ "watch": [
+  "Revenue has been flat to slightly down over five years, and gross margin slipped from 58.0% to 54.7%.",
+  "Walmart accounts for 15.9% to 23.8% of gross revenue and Amazon about 15%, so retailers hold much of the power.",
+  "Net debt was $2.1 billion, and large over-the-counter rivals reported falling sales volumes in 2025."
+ ],
+ "value_low": 69.32,
+ "value_high": 85.48,
+ "utility": false,
+ "run_date": "2026-10-05",
+ "currency": "USD"
+}

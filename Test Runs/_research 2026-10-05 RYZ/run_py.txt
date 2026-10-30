@@ -1,0 +1,46 @@
+==============================================================================
+Ryerson Holding Corp  (RYZ)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.63%   10/02/2026   US Treasury daily par yield curve
+  price     27.15 USD   2026-10-05   (aggregator — live quote only)
+  shares    51.9M      market cap 1.41B USD
+  share basis: dei cover-page count as of 2026-07-24
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-12-31        365       14        62        122        229        289
+    2024-12-31        205       12        78        100         94        116
+    2025-12-31         87        9        80         52         -1         27
+          mean                                                 107        144
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 136 .. 168   yield 9.64%..11.89%
+  DIVERGENCE vs the 3-yr window: +26.6% on the conservative end
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                  7.61% .. 10.20%   vs sovereign 5.63%
+  2. GROWTH THE PRICE ASSUMES  -16.7%  (at a 5.63% rate)
+  3. POINTS OVER THE SOVEREIGN +4.83 .. +7.53
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill     lt debt    retained
+    2016-12-31         1,559       1,608         -51          81         326         563         103         944        -112
+    2017-12-31         1,712       1,719         -10          77         376         616         115       1,024         -95
+    2018-12-31         2,086       2,010          73          23         521         806         120       1,126          14
+    2019-12-31         2,022       1,843         173          11         425         743         120         933         100
+    2020-12-31         1,802       1,657         139          61         379         604         120         726          34
+    2021-12-31         2,366       1,821         537          51         631         832         124         610         322
+    2022-12-31         2,334       1,441         885          39         514         798         129           -         692
+    2023-12-31         2,570       1,655         906          54         468         782         158           -         813
+    2024-12-31         2,440       1,615         815          28         426         685         162           -         780
+    2025-12-31         2,405       1,641         753          27         461         648         162           -         699
+    accessions: 0000950170-23-003768, 0000950170-24-018005, 0000950170-25-024199, 0001193125-26-062397, 0001564590-17-004120, 0001564590-18-004385, 0001564590-19-006287, 0001564590-20-008692, 0001564590-21-008111, 0001564590-22-006263
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

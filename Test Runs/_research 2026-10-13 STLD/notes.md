@@ -1,0 +1,10 @@
+# STLD run notes (2026-10-13)
+Started: template copied before any fetch.
+- Step 0 done: price 240.63 (aggregator), cover 143,328,088 @2026-07-23, UST30 5.60% 2026-10-09.
+- Rivals: 10-K names none; DEF 14A names LTIP steel competitors CLF, CMC, NUE, Metallus (Metallus not used: max three). CONVENTION of this run.
+- Raw filings in cache/ (ignored). Scripts: fetch.py, h2t.py, annual.py, compare.py, rows.py.
+- Rival 10-K accessions (from XBRL accn): NUE FY16-FY25 0001193125-17-062124, 0001193125-18-064018, 0001193125-19-057744, 0001564590-20-007794, 0001564590-21-009503, 0001564590-22-007679, 0001564590-23-002793, 0000950170-24-021195, 0000950170-25-028427, 0001193125-26-071575.
+  CLF FY21-FY25 0000764065-22-000037, 0000764065-23-000032, 0000764065-24-000038, 0000764065-25-000058, 0000764065-26-000025.
+  CMC FY16-FY25 0000022444-16-000059, 0000022444-17-000027, 0000022444-18-000035, 0000022444-19-000042, 0000022444-20-000047, 0000022444-21-000126, 0000022444-22-000140, 0000022444-23-000126, 0000022444-24-000140, 0000022444-25-000138.
+- Q2 IN: low-cost at parity with NUE; field returns 2016-2025 above ordinary; change credited (volume fell 2020, 2024).
+- Close: box OUT at Q7; check_ids PASS; check_framework PASS.

@@ -1,0 +1,9 @@
+Fold: MDT Medtronic FAIL at Q2 (OUT, on the business) - register entry 203
+
+Register entry 203 (counted by line in the slice from the line-exact heading: 202 before, 203 after, MDT first, no duplicate); MDT appended to the wave 7 done file (61 lines): WAVE 7 IS 61 OF 218; in no tier roster; narrative fold to the prepped reading list (next in the order file: MRK); dated note in the survival-shapes index (30 rows, maximum 30, no row added; #10 THE CAMOUFLAGE with #11 as a feature, signatures only); no alert and no PORTFOLIO row (QLYS ruling).
+
+Price $88.64 (NYSE close 2026-09-25, aggregator, flagged) x 1,279,137,890 ordinary shares (10-Q cover 0001628280-26-060473) = $113,382.8M; sovereign 5.49% (US Treasury 30Y par, 09/25/2026). Run file completed beneath the close: Q3 material unscored (MIP on revenue growth, non-GAAP EPS and free cash flow, EPS target kept and missed; no EBITDA in the 10-K, proxy or EX-99.1); owner earnings as COMPUTATION - NOT A CLEARANCE over every one-company window FY2016-FY2026 (3-11y), both (c) ends, depreciation end excluding acquired-intangible amortization, SBC in full, no net-income proxy: $4,689M-$5,563M (4.1-4.9%), with acquisitions deducted $3,992M-$4,606M; the screen's $3,737M bottom reproduces as the 5-year D&A-caption end (Covidien amortization counted as maintenance) and its $4,875M top as the 5-year capex end; MiniMed split-off framed, not modelled; reversal conditions in words; self-audit and register.
+
+Housekeeping: the thirteen raw peer companyfacts files committed in 6184de5c under *_facts.json names (which escape the *companyfacts*.json ignore pattern) are untracked here (git rm --cached; history not rewritten). The previous session's research scripts and small outputs are committed; raw filings stay untracked. check_framework PASS.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>

@@ -1,0 +1,27 @@
+market cap 23,158  net debt 41,087  EV 64,245
+M maintenance (central) {2021: 1804, 2022: 2335, 2023: 2687, 2024: 3059, 2025: 3038}
+A all-spending organic {2021: 2852, 2022: 3378, 2023: 1389, 2024: 1806, 2025: 2245}
+D default, GECAS deducted {2021: -19641, 2022: 3378, 2023: 1389, 2024: 1806, 2025: 2245}
+B asset-base check {2023: 2296, 2024: 2699, 2025: 3061}
+owner cash M / lease revenue {2021: 40.9, 2022: 35.8, 2023: 39.2, 2024: 43.7, 2025: 41.2}
+shown growth M 2022-2025 9.2%  lease revenue growth 2022-2025 4.1%
+cap test: M base x (1+g)^10 = 6,684 vs lease revenue at own growth 11,020 -> share 61% vs highest filed 43.7%
+
+RANGES at the sovereign 5.43%, fair price at 10%, per share; return at price = discount rate equating value to price
+  M central, base 2022-2025          all-equity  B=  4,253 g= 4.1%  range $ 236.88 to $ 430.29  fair $  53.07 (ends 9.17/96.97)  return at price  6.62% /  8.86%
+  M central, base 2022-2025          equity-only B=  2,780 g= 4.1%  range $ 325.68 to $ 452.11  fair $ 205.54 (ends 176.85/234.24)  return at price 12.00% / 15.26%
+  M literal window 2021-2025         all-equity  B=  3,952 g= 4.1%  range $ 201.60 to $ 381.33  fair $  30.81 (ends -9.99/71.60)  return at price  6.15% /  8.28%
+  M literal window 2021-2025         equity-only B=  2,585 g= 4.1%  range $ 302.82 to $ 420.37  fair $ 191.11 (ends 164.43/217.79)  return at price 11.16% / 14.28%
+  A all-spending, base 2022-2025     all-equity  B=  3,678 g= 4.1%  range $ 169.48 to $ 336.73  fair $  10.53 (ends -27.43/48.49)  return at price  5.72% /  7.75%
+  A all-spending, base 2022-2025     equity-only B=  2,204 g= 4.1%  range $ 258.29 to $ 358.55  fair $ 163.01 (ends 140.25/185.76)  return at price  9.52% / 12.36%
+  B asset-base check, 2023-2025      all-equity  B=  4,206 g= 4.1%  range $ 231.39 to $ 422.68  fair $  49.61 (ends 6.19/93.02)  return at price  6.55% /  8.77%
+  B asset-base check, 2023-2025      equity-only B=  2,685 g= 4.1%  range $ 314.62 to $ 436.75  fair $ 198.56 (ends 170.84/226.28)  return at price 11.60% / 14.79%
+
+D default pair literal window: average -2,165 (negative: no positive value; range not computable)
+bases: M 2022-25 eq 2,780 ae-add 1,473; M 2021-25 eq 2,585 ae-add 1,367; A 2022-25 2,204
+
+CENTRAL: ends M@0 and A@g (growth spending charged against the growth it buys)
+  all-equity  range $236.88 to $336.73 (no-growth end 236.88, growth end 336.73); width 1.42x; fair $28.83 (ends at 10%: 9.17 / 48.49); return at price 6.62% / 7.75%
+  equity-only range $325.68 to $358.55 (no-growth end 325.68, growth end 358.55); width 1.10x; fair $181.30 (ends at 10%: 176.85 / 185.76); return at price 12.00% / 12.36%
+BESIDE A at its own halves growth -7.8%: all-equity  value at 5.43% $-28.55; at 10% $-121.04; return at price 2.85%
+BESIDE A at its own halves growth -7.8%: equity-only value at 5.43% $139.58; at 10% $84.14; return at price 5.10%

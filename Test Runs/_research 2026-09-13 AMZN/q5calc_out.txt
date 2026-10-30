@@ -1,0 +1,24 @@
+cap $2,769,710M
+| base | owner earnings $M | yield | vs 5.35% | perpetual g for 10% | perpetual g for bond |
+|---|---|---|---|---|---|
+| 5-yr 2021-25, formation (TNA) end | -14,814 | -0.53% | -5.88 pts | refused: base below zero | refused |
+| 5-yr 2021-25, gross capex + FL adds (screen) | -13,770 | -0.50% | -5.85 pts | refused: base below zero | refused |
+| 5-yr 2021-25, cash plant | -12,211 | -0.44% | -5.79 pts | refused: base below zero | refused |
+| 3-yr 2023-25, net capex + FL + BTS adds | 5,141 | 0.19% | -5.16 pts | 9.8% | 5.2% |
+| 5-yr 2021-25, (c) = 1.3x P&E D&A (renewal-at-scale judgment) | 27,591 | 1.00% | -4.35 pts | 8.9% | 4.3% |
+| 3-yr 2023-25, (c) = 1.3x P&E D&A | 46,479 | 1.68% | -3.67 pts | 8.2% | 3.6% |
+| TTM, (c) = 1.3x P&E D&A | 77,426 | 2.80% | -2.55 pts | 7.0% | 2.5% |
+| TTM, (c) = P&E D&A (INVALID end, most generous number constructible) | 92,348 | 3.33% | -2.02 pts | 6.5% | 2.0% |
+
+DCF engine (casts no vote): 3-yr 2023-25, net capex + FL + BTS adds: 54.5% a year for ten years, then 3%, to justify the cap at 10%
+DCF engine (casts no vote): 5-yr 2021-25, (c) = 1.3x P&E D&A (renewal-at-scale judgment): 29.2% a year for ten years, then 3%, to justify the cap at 10%
+DCF engine (casts no vote): 3-yr 2023-25, (c) = 1.3x P&E D&A: 21.9% a year for ten years, then 3%, to justify the cap at 10%
+DCF engine (casts no vote): TTM, (c) = 1.3x P&E D&A: 15.0% a year for ten years, then 3%, to justify the cap at 10%
+DCF engine (casts no vote): TTM, (c) = P&E D&A (INVALID end, most generous number constructible): 12.6% a year for ten years, then 3%, to justify the cap at 10%
+
+| owner earnings | g=0% | 3% | 5% | 6% | 7% |  (per share, Gordon at the 10% floor)
+| 3-yr 2023-25, net capex + FL + BTS adds (5,141) | $5 | $7 | $10 | $13 | $17 |
+| 5-yr 2021-25, (c) = 1.3x P&E D&A (renewal-at-scale judgment) (27,591) | $26 | $38 | $54 | $68 | $91 |
+| 3-yr 2023-25, (c) = 1.3x P&E D&A (46,479) | $43 | $63 | $90 | $114 | $154 |
+| TTM, (c) = 1.3x P&E D&A (77,426) | $72 | $106 | $151 | $190 | $256 |
+| TTM, (c) = P&E D&A (INVALID end, most generous number constructible) (92,348) | $86 | $126 | $180 | $227 | $305 |

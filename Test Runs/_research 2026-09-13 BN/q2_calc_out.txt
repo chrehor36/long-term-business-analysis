@@ -1,0 +1,51 @@
+== A. WEIGHTS: where the money is ==
+positive segments total 62655 corporate -20172 net 42483
+  Asset Management (BAM + direct fund stakes)        14968   23.9%
+  Wealth Solutions                                   13139   21.0%
+  Infrastructure (BIP)                                2097    3.3%
+  Energy (BEP)                                        4729    7.5%
+  Private Equity (BBUC)                               1016    1.6%
+  Real Estate (BPG)                                  26706   42.6%
+  AM split YE2025: direct fund stakes 10876 70.11798078782799 % of AM; BAM stake book 4635
+pre-corporate total before realizations 6040 ; with carry 6600
+  BAM distributions                                  1891   31.3%
+  AM direct investment distributions                  876   14.5%
+  WS DE (retained in BWS)                            1671   27.7%
+  BIP distributions                                   356    5.9%
+  BEP distributions                                   485    8.0%
+  BBU distributions                                    24    0.4%
+  BPG distributions (1,602 - 356 - 485 - 24)          737   12.2%
+  fee engine (BAM dist + carry) share of total incl carry 37.13636363636363
+  fee engine + WS share of total incl carry 62.45454545454545
+  BIP+BEP+BBU share incl carry 13.106060606060606
+  MV BAM 1,193.0M x 47.26             56.4bn
+  MV BIP 207.1M x 36.88                7.6bn
+  MV BEP 309.4M x 30.39                9.4bn
+  MV BBUC 142.5M x 26.41               3.8bn
+  gross (quoted at market; BWS, BPG, direct stakes at book, no double-count adjustment) 127.9
+    share BAM 1,193.0M x 47.26          44.1%
+    share BIP 207.1M x 36.88             6.0%
+    share BEP 309.4M x 30.39             7.4%
+    share BBUC 142.5M x 26.41            2.9%
+    share BWS book 10.272377977475806  BPG book 20.87937638073437  direct stakes 8.503111567320715
+    BIP+BEP+BBUC share 16.265006836772212
+    BIP+BEP+BBUC share of book positive segments 12.516159923389992
+
+== B. INSURANCE ROW: cost of funds on average invested assets ==
+BWS effective 2025 3.45  2024 3.49
+BWS NII 2025 5.01  real-asset gains 0.69
+BWS gross spread 2025 2.24  ex real-asset gains 1.56
+implied life&annuity weight if the two component rates blend to 3.45: 0.887
+BWS Q2 2026 annualised 3.77  Q2 2025 annualised 3.65
+BWS Q2 2026 NII+gains-cof annualised 1.78  ex gains 1.28
+KKR/GA 2025 net cost of insurance / avg investments 2.89  NII / avg 3.99  spread 1.1
+
+== C. [E3-46] return on common equity, IFRS, net income to shareholders less preferred dividends ==
+2022 4.66 %   DE/avg CE (BN's measure, not used): n/a
+2023 2.37 %   DE/avg CE (BN's measure, not used): n/a
+2024 1.13 %   DE/avg CE (BN's measure, not used): 15.0
+2025 2.66 %   DE/avg CE (BN's measure, not used): 14.0
+
+== D. real estate: BPG super core share ==
+super core NOI share FY2025 44.8 ; super core equity / BPG equity YE2025 77.0 ; super core equity / positive segments (book, 2026-06-30) 31.4
+super core NOI 2024->2025 -5.6 % ; BPG NOI -7.4 %

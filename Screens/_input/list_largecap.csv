@@ -1,0 +1,101 @@
+Sector,Ticker,Company Name,Dividend Yield (%),Payout Ratio (%),Dividend Growth Streak (Years),Category / Status
+Consumer Staples,PG,Procter & Gamble Co.,2.4,62.5,67,Dividend King / Aristocrat
+Healthcare,JNJ,Johnson & Johnson,3.1,65.0,61,Dividend King / Aristocrat
+Consumer Staples,KO,The Coca-Cola Company,3.0,68.2,62,Dividend King / Aristocrat
+Consumer Staples,PEP,"PepsiCo, Inc.",3.2,66.5,52,Dividend King / Aristocrat
+Industrials,MMM,3M Company,2.8,58.0,65,Dividend King / Aristocrat
+Consumer Staples,WMT,Walmart Inc.,1.3,36.4,51,Dividend King / Aristocrat
+Consumer Discretionary,MCD,McDonald's Corporation,2.3,54.1,48,Dividend Aristocrat
+Healthcare,ABT,Abbott Laboratories,1.9,48.2,52,Dividend King / Aristocrat
+Healthcare,ABBV,AbbVie Inc.,3.4,72.1,52,Dividend King / Aristocrat
+Industrials,CAT,Caterpillar Inc.,1.5,26.3,30,Dividend Aristocrat
+Energy,XOM,Exxon Mobil Corp.,3.2,42.1,41,Dividend Aristocrat
+Energy,CVX,Chevron Corp.,4.1,52.3,37,Dividend Aristocrat
+Financials,CINF,Cincinnati Financial Corp.,2.6,38.5,64,Dividend King / Aristocrat
+Industrials,DOV,Dover Corporation,1.2,28.4,68,Dividend King / Aristocrat
+Industrials,GPC,Genuine Parts Company,2.7,48.0,68,Dividend King / Aristocrat
+Consumer Staples,HRL,Hormel Foods Corporation,3.5,64.0,58,Dividend King / Aristocrat
+Industrials,ITW,Illinois Tool Works,2.2,49.5,50,Dividend King / Aristocrat
+Consumer Staples,KMB,Kimberly-Clark Corp.,3.4,68.0,52,Dividend King / Aristocrat
+Consumer Discretionary,LOW,"Lowe's Companies, Inc.",1.9,36.2,61,Dividend King / Aristocrat
+Materials,NUE,Nucor Corporation,1.3,16.5,51,Dividend King / Aristocrat
+Consumer Staples,CL,Colgate-Palmolive Co.,2.0,58.4,61,Dividend King / Aristocrat
+Real Estate,FRT,Federal Realty Investment Trust,4.3,72.0,56,Dividend King / REIT
+Financials,AFL,Aflac Inc.,2.1,25.8,41,Dividend Aristocrat
+Materials,APD,Air Products and Chemicals,2.6,56.2,42,Dividend Aristocrat
+Financials,ADP,Automatic Data Processing,2.1,58.9,49,Dividend Aristocrat
+Healthcare,BDX,"Becton, Dickinson and Co.",1.6,38.0,52,Dividend King / Aristocrat
+Financials,CB,Chubb Limited,1.4,18.2,30,Dividend Aristocrat
+Consumer Staples,CHD,Church & Dwight Co.,1.1,35.6,28,Dividend Aristocrat
+Industrials,CTAS,Cintas Corporation,0.8,36.1,40,Dividend Aristocrat
+Consumer Staples,CLX,The Clorox Company,3.3,69.4,46,Dividend Aristocrat
+Utilities,ED,Consolidated Edison,3.5,62.1,50,Dividend King / Aristocrat
+Materials,ECL,Ecolab Inc.,1.0,32.4,31,Dividend Aristocrat
+Financials,BEN,Franklin Resources,5.2,60.1,43,Dividend Aristocrat
+Industrials,GD,General Dynamics Corp.,1.9,41.2,32,Dividend Aristocrat
+Healthcare,MDT,Medtronic plc,3.2,52.4,46,Dividend Aristocrat
+Utilities,NEE,"NextEra Energy, Inc.",2.7,58.0,30,Dividend Aristocrat
+Consumer Staples,SYY,Sysco Corporation,2.6,48.2,54,Dividend King / Aristocrat
+Financials,TROW,T. Rowe Price Group,4.3,62.0,38,Dividend Aristocrat
+Consumer Discretionary,TGT,Target Corporation,3.1,46.8,52,Dividend King / Aristocrat
+Industrials,GWW,"W.W. Grainger, Inc.",0.8,21.3,52,Dividend King / Aristocrat
+Real Estate,O,Realty Income Corp.,5.6,75.2,29,Dividend Aristocrat / REIT
+Information Technology,IBM,International Business Machines,3.5,64.2,28,Dividend Aristocrat
+Consumer Staples,ADM,Archer-Daniels-Midland,3.3,38.1,49,Dividend Aristocrat
+Consumer Staples,BF.B,Brown-Forman Corp.,1.9,41.5,40,Dividend Aristocrat
+Healthcare,CAH,"Cardinal Health, Inc.",1.8,28.6,37,Dividend Aristocrat
+Consumer Staples,SJM,The J.M. Smucker Company,3.8,54.0,26,Dividend Aristocrat
+Consumer Staples,MKC,McCormick & Company,2.2,51.0,38,Dividend Aristocrat
+Industrials,NDSN,Nordson Corporation,1.2,26.5,60,Dividend King / Aristocrat
+Industrials,PNR,Pentair plc,1.1,22.0,48,Dividend Aristocrat
+Materials,PPG,"PPG Industries, Inc.",1.9,32.5,52,Dividend King / Aristocrat
+Industrials,ROP,Roper Technologies,0.5,12.0,31,Dividend Aristocrat
+Materials,RPM,RPM International Inc.,1.6,32.8,50,Dividend King / Aristocrat
+Financials,SPGI,S&P Global Inc.,0.8,26.0,51,Dividend King / Aristocrat
+Materials,SHW,The Sherwin-Williams Co.,0.8,24.2,45,Dividend Aristocrat
+Industrials,SWK,Stanley Black & Decker,3.4,70.0,56,Dividend King / Aristocrat
+Consumer Staples,AMCR,Amcor plc,5.0,68.4,40,Dividend Aristocrat
+Consumer Staples,KVUE,Kenvue Inc.,3.8,58.2,1,Spinoff / Core Staple
+Information Technology,AAPL,Apple Inc.,0.4,14.8,12,Tech / Growth Dividend
+Information Technology,MSFT,Microsoft Corporation,0.7,24.8,22,Tech / Growth Dividend
+Information Technology,AVGO,Broadcom Inc.,1.3,46.0,14,Tech / Growth Dividend
+Information Technology,TXN,Texas Instruments,2.6,74.0,20,Tech / Growth Dividend
+Information Technology,QCOM,QUALCOMM Inc.,2.0,42.1,21,Tech / Growth Dividend
+Information Technology,CSCO,"Cisco Systems, Inc.",3.2,52.0,13,Tech / Core Dividend
+Financials,JPM,JPMorgan Chase & Co.,2.2,26.5,13,Financial Giant
+Financials,BAC,Bank of America Corp.,2.4,30.1,10,Financial Giant
+Financials,MS,Morgan Stanley,3.4,48.2,10,Financial Giant
+Financials,WFC,Wells Fargo & Company,2.3,28.0,3,Financial Giant
+Financials,GS,The Goldman Sachs Group,2.4,31.0,12,Financial Giant
+Financials,C,Citigroup Inc.,3.3,38.5,3,Financial Giant
+Healthcare,LLY,Eli Lilly and Company,0.6,32.0,10,Healthcare Giant
+Healthcare,MRK,"Merck & Co., Inc.",2.5,42.0,13,Healthcare Giant
+Healthcare,PFE,Pfizer Inc.,5.8,82.0,14,Healthcare High-Yield
+Healthcare,UNH,UnitedHealth Group,1.4,28.5,14,Healthcare Giant
+Healthcare,CVS,CVS Health Corporation,4.2,38.0,3,Healthcare Giant
+Financials,V,Visa Inc.,0.7,21.5,15,Financials / Payment Network
+Financials,MA,Mastercard Incorporated,0.6,19.8,12,Financials / Payment Network
+Consumer Discretionary,HD,"The Home Depot, Inc.",2.4,55.0,14,Retail / Discretionary
+Communication Services,VZ,Verizon Communications,6.3,58.2,19,Telecom High-Yield
+Communication Services,T,AT&T Inc.,5.7,54.0,2,Telecom High-Yield
+Communication Services,CMCSA,Comcast Corporation,3.0,31.5,16,Communication Services
+Industrials,HON,Honeywell International,2.1,46.0,13,Industrial Giant
+Industrials,UPS,United Parcel Service,4.8,78.0,14,Industrial High-Yield
+Industrials,UNP,Union Pacific Corp.,2.2,48.0,17,Industrial Giant
+Energy,COP,ConocoPhillips,3.3,36.0,8,Energy Major
+Consumer Staples,PM,Philip Morris International,4.5,78.5,15,High-Yield Consumer
+Consumer Staples,MO,"Altria Group, Inc.",7.8,79.2,54,Dividend King / High-Yield
+Materials,FCX,Freeport-McMoRan Inc.,1.4,28.0,3,Materials Major
+Utilities,DUK,Duke Energy Corporation,3.9,72.0,17,Utility High-Yield
+Utilities,SO,The Southern Company,3.5,70.2,22,Utility High-Yield
+Utilities,AEP,American Electric Power,3.8,68.5,14,Utility High-Yield
+Utilities,D,"Dominion Energy, Inc.",4.9,76.0,2,Utility High-Yield
+Financials,MET,"MetLife, Inc.",2.8,30.0,11,Financial / Insurance
+Financials,PRU,Prudential Financial,4.4,42.0,15,Financial / Insurance
+Energy,EPD,Enterprise Products Partners,6.9,74.0,25,MLP / Energy Infrastructure
+Financials,MITSY,"Mitsui & Co., Ltd.",2.8,28.0,10,Japanese Trading Company
+Consumer Discretionary,NCLTY,"Nitori Holdings Co., Ltd.",1.5,26.0,18,Japanese Retailer
+Financials,BRK.B,Berkshire Hathaway Inc.,0.0,0.0,0,Non-Dividend Compounder
+Information Technology,NVDA,NVIDIA Corporation,0.03,1.2,6,Tech / Mega-Cap
+Information Technology,ORCL,Oracle Corporation,1.2,34.0,10,Tech Major
+Industrials,LMT,Lockheed Martin Corp.,2.3,44.0,21,Aerospace & Defense

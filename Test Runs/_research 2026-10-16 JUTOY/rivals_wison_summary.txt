@@ -1,0 +1,63 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+--- page 9
+Wison Engineering Services Co. Ltd. Annual Report 2025
+Financial      Summary
+As at 31 December
+2025          2024          2023          2022          2021
+RMB’000        RMB’000       RMB’000       RMB’000       RMB’000
+Assets and liabilities
+Non-current assets            4,197,851      4,018,919     3,982,940      4,037,489      4,135,517
+Current assets                5,929,813      8,275,207      5,476,777     4,906,056      5,962,904
+Current liabilities            5,863,773      7,544,637     5,188,260      4,797,821     5,714,899
+Net current assets               66,040        730,570        288,517       108,235       248,005
+Total assets less current
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+--- page 9
+Wison Engineering Services Co. Ltd. Annual Report 2020
+Financial    Summary
+As at 31 December
+2020          2019          2018          2017          2016
+RMB’000        RMB’000       RMB’000       RMB’000       RMB’000
+(Restated)
+Assets and liabilities
+Non-current assets            4,192,588      1,432,965      1,131,114     1,116,712     1,195,846
+Current assets                4,665,778      4,287,999      4,618,231     6,496,159      6,524,839
+Current liabilities           4,639,282      3,456,486      3,988,387      5,229,976      5,532,446
+Net current assets               26,496        831,513       629,844       1,266,183       992,393
+Total assets less current
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+--- page 5
+Wison Engineering Services Co. Ltd.
+Financial                 Summary
+For the year ended 31 December
+2015         2014         2013         2012         2011
+RMB’000       RMB’000      RMB’000      RMB’000      RMB’000
+Results
+Revenue                            5,413,531     6,992,113    3,674,518    4,891,908    5,036,622
+Gross profit                          816,880       792,188      142,810     1,139,631    1,206,727
+Profit/(Loss) before tax                  311,007       267,430      (546,291)     699,929      795,217
+Income tax                           (72,491)      (56,736)      32,619      (165,606)    (205,504)
+Profit/(Loss) for the year                 238,516       210,694      (513,672)     534,323      589,713
+Attributable to:
+Owners of the parent                   205,106       179,038      (471,301)     466,812      518,753
+Non-controlling interests                33,410        31,656       (42,371)      67,511       70,960
+Earnings/(loss) per share
+– Basic and diluted                    RMB0.05       RMB0.04      RMB(0.12)     RMB0.13          N/A
+--- page 6
+Annual Report 2015 WISON ENGINEERING SERVICES CO. LTD. 05
+Financial                 Summary
+As at 31 December
+2015         2014         2013         2012         2011
+RMB’000       RMB’000      RMB’000      RMB’000      RMB’000
+Assets and liabilities
+Non-current assets                   1,361,318     1,816,312    1,506,863    1,058,375      680,641
+Current assets                      7,805,594     6,923,468    5,439,034    6,610,645    3,538,712
+Current liabilities                  7,014,353     6,928,877    5,419,531    5,266,080    3,150,944
+Net current assets/(liabilities)        791,241        (5,409)      19,503     1,344,565      387,768
+Total assets less current liabilities     2,152,559     1,810,903    1,526,366    2,402,940    1,068,409
+Non-current liabilities                 29,559        25,548       23,187      350,750      263,986
+Net assets                          2,123,000     1,785,355    1,503,179    2,052,190      804,423
+Share capital                         329,803       329,803      329,803      324,560            1
+Reserves                           1,601,163     1,336,928    1,086,408    1,576,376      649,325
+Non-controlling interests               192,034       118,624       86,968      151,254      155,097
+Total equity                        2,123,000     1,785,355    1,503,179    2,052,190      804,423

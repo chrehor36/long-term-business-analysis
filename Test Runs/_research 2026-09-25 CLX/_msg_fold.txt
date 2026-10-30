@@ -1,0 +1,6 @@
+CLX Clorox: fold - register entry 162, _wave7_done 30, narrative fold (Q2 OUT on the business); check_framework PASS
+
+Queue file staged from the HEAD blob plus the CLX register entry only; the CRM re-look's
+uncommitted hunks in the queue file and tools/alerts.json stay in the working tree.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>

@@ -1,0 +1,15 @@
+FY    OCF    SBC  capex   D&A   NCI | OC capex  OC D&A | acq/rights  dividends
+2018   9478   128   1436   989   435 |    7479    7926 |         0      6885
+2019  10090   160    852   964   378 |    8700    8588 |      1346      7161
+2020   9812   160    602   981   602 |    8448    8069 |         0      7364
+2021  11967   197    748   998   560 |   10462   10212 |      2111      7580
+2022  10803   155   1077  1077   472 |    9099    9099 |     16473      7812
+2023   9204   193   1321  1398   497 |    7193    7116 |      2658      7964
+2024  12217   195   1444  1787   494 |   10084    9741 |       -43      8197
+2025  12233   208   1569  1996   430 |   10026    9599 |         0      8624
+5-yr mean 2021-2025: capex basis 9373; D&A basis 9153
+8-yr mean 2018-2025 capex basis 8936
+growth 2021->2025 (4 yrs) capex basis: -1.06%/yr; 2018->2025 (7 yrs): 4.28%/yr
+net revenue growth 2018->2025: 4.62%/yr
+2018-2025 sums: owner cash 71491; dividends 61587; acquisitions/rights 22545; buybacks 984
+gap (dividends+acq+buybacks - owner cash) = 13625

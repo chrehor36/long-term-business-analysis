@@ -1,0 +1,656 @@
+{
+ "2010": {
+  "2010": [
+   [
+    "Product volumes sold",
+    5.5
+   ],
+   [
+    "Pricing and sales mix",
+    -2.5
+   ],
+   [
+    "Foreign exchange rate fluctuations",
+    1.1
+   ],
+   [
+    "Change in customer delivery arrangements and allowances",
+    -0.9
+   ],
+   [
+    "Acquired product lines (1)",
+    0.5
+   ],
+   [
+    "Divested product lines (2)",
+    -1.0
+   ],
+   [
+    "Net Sales increase",
+    2.7
+   ]
+  ],
+  "2011": [
+   [
+    "Product volumes sold",
+    5.5
+   ],
+   [
+    "Pricing and sales mix",
+    -2.5
+   ],
+   [
+    "Foreign exchange rate fluctuations",
+    1.1
+   ],
+   [
+    "Change in customer delivery arrangements and allowances",
+    -0.9
+   ],
+   [
+    "Acquired product lines (1)",
+    0.5
+   ],
+   [
+    "Divested product lines (2)",
+    -1.0
+   ],
+   [
+    "Net Sales increase",
+    2.7
+   ]
+  ]
+ },
+ "2011": {
+  "2011": [
+   [
+    "Product volumes sold",
+    3.9
+   ],
+   [
+    "Pricing",
+    0.2
+   ],
+   [
+    "Foreign exchange rate fluctuations",
+    1.0
+   ],
+   [
+    "Change in customer delivery arrangements",
+    -0.2
+   ],
+   [
+    "Acquired product lines (1)",
+    1.3
+   ],
+   [
+    "Divested product lines (2)",
+    -0.1
+   ],
+   [
+    "Discontinued product line",
+    -0.8
+   ],
+   [
+    "Change in fiscal calendar",
+    0.6
+   ],
+   [
+    "Sales in anticipation of information systems upgrade",
+    0.3
+   ],
+   [
+    "Net Sales increase",
+    6.2
+   ]
+  ],
+  "2012": [
+   [
+    "Product volumes sold",
+    3.9
+   ],
+   [
+    "Pricing/Product mix",
+    0.2
+   ],
+   [
+    "Foreign exchange rate fluctuations",
+    1.0
+   ],
+   [
+    "Change in customer delivery arrangements",
+    -0.2
+   ],
+   [
+    "Acquired product lines (1)",
+    1.3
+   ],
+   [
+    "Divested product lines (2)",
+    -0.1
+   ],
+   [
+    "Discontinued product line",
+    -0.8
+   ],
+   [
+    "Change in fiscal calendar",
+    0.6
+   ],
+   [
+    "Sales in anticipation of information systems upgrade",
+    0.3
+   ],
+   [
+    "Net Sales increase",
+    6.2
+   ]
+  ]
+ },
+ "2012": {
+  "2012": [
+   [
+    "Product volumes sold",
+    6.3
+   ],
+   [
+    "Pricing/Product mix",
+    -1.1
+   ],
+   [
+    "Foreign exchange rate fluctuations",
+    -0.8
+   ],
+   [
+    "Acquired product lines (1)",
+    3.1
+   ],
+   [
+    "Change in fiscal calendar",
+    -0.6
+   ],
+   [
+    "Sales in anticipation of information systems upgrade",
+    -0.6
+   ],
+   [
+    "Net Sales increase",
+    6.3
+   ]
+  ],
+  "2013": [
+   [
+    "Product volumes sold",
+    6.3
+   ],
+   [
+    "Pricing/Product mix",
+    -1.1
+   ],
+   [
+    "Foreign exchange rate fluctuations",
+    -0.8
+   ],
+   [
+    "Acquired product lines (1)",
+    3.1
+   ],
+   [
+    "Change in fiscal calendar",
+    -0.6
+   ],
+   [
+    "Sales in anticipation of information systems upgrade",
+    -0.6
+   ],
+   [
+    "Net Sales increase",
+    6.3
+   ]
+  ]
+ },
+ "2013": {
+  "2013": [
+   [
+    "Product volumes sold",
+    3.8
+   ],
+   [
+    "Pricing/Product mix",
+    -1.9
+   ],
+   [
+    "Foreign exchange rate fluctuations",
+    -0.5
+   ],
+   [
+    "Acquired product lines (1)",
+    7.6
+   ],
+   [
+    "Sales in anticipation of information systems upgrade",
+    0.3
+   ],
+   [
+    "Net Sales increase",
+    9.3
+   ]
+  ],
+  "2014": [
+   [
+    "Product volumes sold",
+    3.8
+   ],
+   [
+    "Pricing/Product mix",
+    -1.9
+   ],
+   [
+    "Foreign exchange rate fluctuations",
+    -0.5
+   ],
+   [
+    "Acquired product lines (1)",
+    7.6
+   ],
+   [
+    "Sales in anticipation of information systems upgrade",
+    0.3
+   ],
+   [
+    "Net Sales increase",
+    9.3
+   ]
+  ]
+ },
+ "2014": {
+  "2014": [
+   [
+    "Product volumes sold",
+    4.4
+   ],
+   [
+    "Pricing/Product mix",
+    -0.9
+   ],
+   [
+    "Foreign exchange rate fluctuations",
+    -0.5
+   ],
+   [
+    "Acquired product lines (1)",
+    0.4
+   ],
+   [
+    "Divested product lines / other",
+    -0.2
+   ],
+   [
+    "Net Sales increase",
+    3.2
+   ]
+  ],
+  "2015": [
+   [
+    "Product volumes sold",
+    4.4
+   ],
+   [
+    "Pricing/Product mix",
+    -0.9
+   ],
+   [
+    "Foreign exchange rate fluctuations",
+    -0.5
+   ],
+   [
+    "Acquired product lines (1)",
+    0.4
+   ],
+   [
+    "Sales in anticipation of information systems upgrade",
+    -0.2
+   ],
+   [
+    "Net Sales increase",
+    3.2
+   ]
+  ]
+ },
+ "2015": {
+  "2015": [
+   [
+    "Product volumes sold",
+    3.1
+   ],
+   [
+    "Pricing/Product mix",
+    0.5
+   ],
+   [
+    "Foreign exchange rate fluctuations / Other",
+    -2.7
+   ],
+   [
+    "Acquired product lines (1)",
+    2.0
+   ],
+   [
+    "Net Sales increase",
+    2.9
+   ]
+  ],
+  "2016": [
+   [
+    "Product volumes sold",
+    3.1
+   ],
+   [
+    "Pricing/Product mix",
+    0.5
+   ],
+   [
+    "Foreign exchange rate fluctuations / Other",
+    -2.7
+   ],
+   [
+    "Acquired product lines (1)",
+    2.0
+   ],
+   [
+    "Net Sales increase",
+    2.9
+   ]
+  ]
+ },
+ "2016": {
+  "2016": [
+   [
+    "Product volumes sold",
+    3.1
+   ],
+   [
+    "Pricing/Product mix",
+    0.1
+   ],
+   [
+    "Foreign exchange rate fluctuations / Other",
+    -0.9
+   ],
+   [
+    "Volume from acquired product lines (1)",
+    0.6
+   ],
+   [
+    "Net Sales increase",
+    2.9
+   ]
+  ],
+  "2017": [
+   [
+    "Product volumes sold",
+    3.1
+   ],
+   [
+    "Pricing/Product mix",
+    0.1
+   ],
+   [
+    "Foreign exchange rate fluctuations / Other",
+    -0.9
+   ],
+   [
+    "Volume from acquired product lines (1)",
+    0.6
+   ],
+   [
+    "Net Sales increase",
+    2.9
+   ]
+  ]
+ },
+ "2017": {
+  "2017": [
+   [
+    "Product volumes sold",
+    5.0
+   ],
+   [
+    "Pricing/Product mix",
+    -2.3
+   ],
+   [
+    "Volume from acquired product lines (1)",
+    5.4
+   ],
+   [
+    "Net Sales increase",
+    8.1
+   ]
+  ],
+  "2018": [
+   [
+    "Product volumes sold",
+    5.0
+   ],
+   [
+    "Pricing/Product mix",
+    -2.3
+   ],
+   [
+    "Volume from acquired product lines (1)",
+    5.4
+   ],
+   [
+    "Net Sales increase",
+    8.1
+   ]
+  ]
+ },
+ "2018": {
+  "2018": [
+   [
+    "Product volumes sold",
+    3.7
+   ],
+   [
+    "Pricing/Product mix",
+    0.6
+   ],
+   [
+    "Foreign exchange rate fluctuations / Other",
+    0.1
+   ],
+   [
+    "Volume from acquired product lines (net of divestiture) (1)",
+    5.4
+   ],
+   [
+    "Net Sales increase",
+    9.8
+   ]
+  ],
+  "2019": [
+   [
+    "Product volumes sold",
+    3.7
+   ],
+   [
+    "Pricing/Product mix",
+    0.6
+   ],
+   [
+    "Foreign exchange rate fluctuations / Other",
+    0.1
+   ],
+   [
+    "Volume from acquired product lines (net of divestiture) (1)",
+    5.4
+   ],
+   [
+    "Net Sales increase",
+    9.8
+   ]
+  ]
+ },
+ "2019": {
+  "2019": [
+   [
+    "Product volumes sold",
+    1.0
+   ],
+   [
+    "Pricing/Product mix",
+    3.4
+   ],
+   [
+    "Foreign exchange rate fluctuations / Other",
+    -0.5
+   ],
+   [
+    "Volume from acquired product lines (net of divestiture) (1)",
+    1.2
+   ],
+   [
+    "Net Sales increase",
+    5.1
+   ]
+  ]
+ },
+ "2020": {
+  "2020": [
+   [
+    "Product volumes sold",
+    8.1
+   ],
+   [
+    "Pricing/Product mix",
+    1.5
+   ],
+   [
+    "Foreign exchange rate fluctuations / Other",
+    -0.1
+   ],
+   [
+    "Volume from acquired product lines (net of divestiture) (1)",
+    2.8
+   ],
+   [
+    "Net Sales increase",
+    12.3
+   ]
+  ]
+ },
+ "2021": {
+  "2021": [
+   [
+    "Product volumes sold",
+    1.0
+   ],
+   [
+    "Pricing/Product mix",
+    3.3
+   ],
+   [
+    "Foreign exchange rate fluctuations / Other",
+    0.9
+   ],
+   [
+    "Volume from acquired product lines (net of divestiture) (1)",
+    0.8
+   ],
+   [
+    "Net Sales increase",
+    6.0
+   ]
+  ]
+ },
+ "2022": {
+  "2022": [
+   [
+    "Product volumes sold",
+    -5.1
+   ],
+   [
+    "Pricing/Product mix",
+    6.5
+   ],
+   [
+    "Foreign exchange rate fluctuations / Other",
+    -1.0
+   ],
+   [
+    "Acquired product lines (1)",
+    3.2
+   ],
+   [
+    "Net Sales increase",
+    3.6
+   ]
+  ]
+ },
+ "2023": {
+  "2023": [
+   [
+    "Product volumes sold",
+    0.9
+   ],
+   [
+    "Pricing/Product mix",
+    4.4
+   ],
+   [
+    "Acquired product lines (1)",
+    3.9
+   ],
+   [
+    "Net Sales increase",
+    9.2
+   ]
+  ]
+ },
+ "2024": {
+  "2024": [
+   [
+    "Product volumes sold (1)",
+    3.3
+   ],
+   [
+    "Pricing/Product mix (2)",
+    1.3
+   ],
+   [
+    "Exit of product lines (net of acquisition) (3)",
+    -0.5
+   ],
+   [
+    "Net Sales increase",
+    4.1
+   ]
+  ]
+ },
+ "2025": {
+  "2025": [
+   [
+    "Product volumes sold (1)",
+    0.8
+   ],
+   [
+    "Pricing/Product mix (2)",
+    -0.1
+   ],
+   [
+    "Exit of product lines (3)",
+    -1.0
+   ],
+   [
+    "Acquisitions (4)",
+    1.9
+   ],
+   [
+    "Net Sales increase",
+    1.6
+   ]
+  ]
+ }
+}

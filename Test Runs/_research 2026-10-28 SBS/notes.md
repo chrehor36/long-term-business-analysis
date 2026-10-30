@@ -1,0 +1,15 @@
+# SBS research notes (2026-10-28)
+
+## Framework notes (read 2026-10-28, one pass)
+- Boxes IN/OUT/TOO HARD; TOO HARD cause WORK or NATURE (section I).
+- Q1 STOP: ten-year economics foreseeable; abroad: governance and tax understood [M2000-141]; understood business abroad -> lower price not pass [M2006-021].
+- Q2 STOP: castle tests 1-11; regulated return is exception to "ordinary returns OUT", carried to Q3 as second best [M2009-104], [L2009-012]. Parts table convention (>half 5y op profit). Utilities moat broke [L2023-011].
+- Q3 WEIGHING: return on tangible capital; capital heavy second best [M2018-055], [L2009-012], [M2009-104], [L2011-019]; "little or no debt" STOP at Q9 [R1997-001].
+- Q4: balance sheets 8-10y first [M2025-032]; depreciation real [R1996-023]; EBITDA nonsense [M1998-086]; confusion STOP -> TOO HARD (WORK/NATURE), suspicion -> OUT [M1995-063],[M1995-065]; guidance/adjusted = weighing against, to Q5 [L2019-006],[L2016-006],[M1994-018]. Equity-method = dividends received.
+- Q5: integrity STOP on doubt [M2013-088]; two yardsticks [M1994-008]; proxy [M1994-009].
+- Q6: retention test [R1995-009],[M1998-110]; buybacks below value [L1999-023]; all-stock deal in undervalued stock = STOP [L2009-019]; issuance value given vs got [L2014-012],[R1995-010]; serial issuance candidate STOP [L2014-015]; Part B pay [M2003-019], board [M2007-120].
+- Q7: value = discounted cash out [R1996-018]; rate = long gov bond [L2000-021],[M1997-086]; no risk premium [M1996-024]; floor ~10% pretax CONVENTION [M1994-004],[L2002-020],[M2003-149]; whose tax: company's tax, no conversion; all-equity basis central [L2017-004]; REGULATED UTILITY: equity-only central [L2017-012],[M2010-037]; LTD increase avg/yr credited vs growth spending only, cap allowed debt share of deciding part (or own LTD share of LT capital if not stated for >half rate base) [L2000-035],[L2010-012],[M2014-086]; floor earned on equity [M2003-149]; [L2009-012],[M2009-104]; regulatory climate Q2/Q9 [L2023-011].
+- Range: 5y avg owner cash after every real cost; growth shown on aggregate (not per share), capped by Q3, 10y then zero nominal growth, at sovereign; ends = no-growth and shown-growth; >3:1 width TOO HARD; floor tested FIRST (no case earns 10% at price -> OUT); price inside/just below narrow range -> OUT; above top -> OUT. Specifics (a) cycle base (b) decline bottom (c) acquisitions/merger: merger = paid in shares, combined averages with shares issued added; Q6 STOP all-stock deal in undervalued stock; deal closed after window: own filed record, financing to net debt (d) working capital (e) maintenance case central where filing allows; growth spending grows with growth, stops yr10 (f) cap: owner cash share of sales above highest seen -> cut to sales growth.
+- Fair price: each end case discounted at 10%, averaged, per share (for utility: equity-only central with LTD credit; all-equity beside).
+- Q8 STOP bond/more of best/own stock; Q9 weighing; Q10 weighing; Q12 optional.
+- VII: tools/run.py arithmetic lines only; AFTER THE STOP section; research pass only if some case earns floor at price.

@@ -1,0 +1,30 @@
+2016 289.3 trust net 27.1
+2017 333.5 trust net 36.6
+2018 438.9 trust net 46.0
+2019 369.2 trust net 42.7
+2020 569.3 trust net -58.7
+2021 459.6 trust net 51.0
+2022 528.4 trust net 36.5
+2023 464.5 trust net 65.3
+2024 260.2 trust net 30.5
+2025 185.6 trust net 21.8
+D&A basis 2021-25 {2021: 444.0, 2022: 542.2, 2023: 459.0, 2024: 264.4, 2025: 188.7} avg 379.7
+avg5 379.7 g5 -20.3 avg10 389.9 g10 -4.8
+5y no growth: base 379.7 g 0.0% value 6708m  $65.53/sh
+5y shown growth: base 379.7 g -20.3% value 1497m  $14.63/sh
+10y no growth: base 389.9 g 0.0% value 6888m  $67.29/sh
+10y shown growth: base 389.9 g -4.8% value 4720m  $46.11/sh
+ratio 5y 4.48 ratio 10y 1.46
+fair (10y avg, no growth, 10% pretax) 54.41
+fair variant 5y avg 52.99
+2025 run-rate at 10% pretax 25.9
+cheap = min(bottom 5y range, 2025 trough at 10% pretax) 14.63
+yield at price on 5y avg 10.8 on 2025 5.28 pretax on 10y 15.84
+net cash per share 4.54
+--- fair price, central case = 10y average carried at 10y shown growth, pre-tax at 10%
+fair central 39.53
+after-tax stream at 7% 38.04
+pre-tax return at price, central 11.73
+pre-tax return at price, 5y shown 2.48
+pre-tax return at price, 2025 flat 7.54
+cheap: worst shown case (5y avg at 5y shown growth) at 10% pre-tax 15.5

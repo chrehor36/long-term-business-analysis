@@ -1,0 +1,232 @@
+{
+  "GWW": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "MRO distribution is transparent: buy 1.5M+ industrial consumables, hold them in DCs/branches, resell at a markup for same-day availability. Unit economics are gross margin per order less fulfillment and selling cost; the only judgment call is how much of the markup is paid for service versus opacity."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Through FY2013 (10-K filed 2014-02) Grainger showed classic wide-moat marks: gross margin ~43-44%, operating margin 13.7% in 2013, ROIC in the 20s-30s, an unmatched US branch/DC network and KeepStock vendor-managed inventory that embedded it in customer plants. Catalog franchise dating to 1927; unplanned MRO buyers were price-insensitive."
+      },
+      {
+        "from": 2016,
+        "class": "NARROW",
+        "note": "Gross-margin erosion turned into an unbroken multi-year trend beginning Q4 2013 (it ran 21 consecutive quarters of YoY decline through Q4 2018, disclosed 2019-01). Visible pre-2016-06-30: Q1 2016 results (reported 2016-04-18) showed gross margin 41.7%, down 310bp YoY, attributed to price deflation exceeding cost deflation and mix shift to lower-margin large customers; FY2016 guidance was cut/narrowed. Amazon Business had launched 2015-04-28 and was openly targeting industrial supplies. Scale and service still intact, so NARROW not NONE."
+      },
+      {
+        "from": 2017,
+        "class": "NARROW",
+        "note": "Pricing umbrella confirmed gone, but the scale/service moat held. At the 2016-11-11 analyst day management said it would move US list prices to 'market competitive' levels across ~400,000 web SKUs (cuts up to ~25%), conceding roughly 40% of US volume had been priced above market ('we don't need to have the lowest price, we just need to be in the ballpark'). On 2017-02 it announced accelerating the remaining 2018 cuts into Q3 2017. The damage hit reported results BEFORE the 2017-06-30 anchor: Q1 2017 (reported 2017-04-18) adjusted EPS $2.88, down 9% YoY, and FY2017 guidance was cut from $11.30-$12.40 to $10.00-$11.30 and sales growth from 2-6% to 1-4%, explicitly because more volume than expected moved to lower prices. Post-anchor for the record: Amazon Business Prime Shipping launch drove GWW down >3% on 2017-10-24; US volume nonetheless grew 7% in 2017 and operating margin bottomed at 11.1%."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2008-07",
+        "severity": "MINOR",
+        "note": "Paid the US $6 million to settle False Claims Act allegations that it sold government agencies special-order items at markups above those allowed by its GSA Multiple Award Schedule contract. Civil, no admission."
+      },
+      {
+        "date": "2012-12",
+        "severity": "SERIOUS",
+        "note": "Announced 2012-12-27: paid $70 million to resolve False Claims Act allegations on GSA and USPS contracts - GSA IG alleged Grainger failed to disclose the discounts it gave other customers as required for favored-procurement status, and USPS IG alleged USPS was not given promised most-favored-customer treatment. Civil settlement, no admission of liability. A stricter reading (concealing better pricing given to others in order to keep a government price) edges toward deception of a customer; graded SERIOUS rather than DISQUALIFYING because it was civil-only with no admission and no fraud finding."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "HAL": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Oilfield services sells discrete jobs - cementing, pressure pumping/fracturing, drilling fluids, completion tools - priced per well or per stage, so revenue tracks customer E&P capex and rig count and margin tracks equipment utilization. Simple to explain; extremely operationally levered and cyclical."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "World #2 in oilfield services with genuine scale in North American pressure pumping and cementing plus proprietary completion technology, but demonstrably a price-taker across cycles: revenue fell about 21% in 2009 with sharp margin compression as customers demanded service-price concessions. Moat is scale/logistics, not pricing power."
+      },
+      {
+        "from": 2015,
+        "class": "NONE",
+        "note": "Visible before the 2015-06-30 anchor: WTI fell from about $107 (2014-06) to about $53 (2015-01). HAL disclosed roughly 9,000 job cuts (about 10% of headcount) between 2014-12 and 2015-02. Q4 2014 (reported 2015-01-20) and Q1 2015 (reported 2015-04-20) showed North America revenue and margin falling hard on customer-demanded double-digit service price cuts. No ability to hold price. Post-anchor confirmation: Q2 2015 (2015-07-20) revenue down about 26% YoY, FY2016 revenue down about 33% with North America operating losses."
+      },
+      {
+        "from": 2017,
+        "class": "NONE",
+        "note": "Post-anchor, dated for completeness. The Baker Hughes combination, announced 2014-11-17 (pre-anchor, and at the anchor still pending and defended by management), was sued by DOJ on 2016-04-06 ('unfixable' per AAG Bill Baer) and abandoned 2016-05-01, costing a $3.5 billion reverse break fee paid to Baker Hughes - roughly 18 months of management attention and a capital loss with nothing acquired."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2004-08",
+        "severity": "SERIOUS",
+        "note": "2004-08-03 SEC settlement: $7.5 million civil penalty over the 1998-1999 disclosure of and accounting for revenue from unapproved claims on long-term construction projects (booking cost overruns as income from 1998-04 without disclosing the change until the 1999 10-K). Settled without admitting or denying; the SEC did not find a GAAP departure, ordered no restatement, and made no fraud finding, but explicitly said the penalty size reflected lapses in the company's cooperation. Graded SERIOUS rather than DISQUALIFYING on the absence of a fraud or GAAP finding; an analyst applying a hard candor test could reasonably grade it higher."
+      },
+      {
+        "date": "2009-02",
+        "severity": "DISQUALIFYING",
+        "note": "2009-02-11: KBR/Halliburton FCPA resolution, $579 million total - then the largest ever against a US company. Subsidiary Kellogg Brown & Root LLC pled guilty to conspiring to violate the FCPA and paid a $402 million criminal fine; KBR and Halliburton paid $177 million in SEC disgorgement. The scheme bribed Nigerian officials over roughly a decade (1995-2004) to win about $6 billion of Bonny Island LNG contracts, executed through the TSKJ joint venture. Straight bribery, hence DISQUALIFYING. Discontinuity to flag: the conduct occurred while KBR was a Halliburton subsidiary (Cheney was CEO 1995-2000, Dave Lesar from 2000); KBR was spun off in 2007-04, so by the 2015 anchor the offending unit was no longer owned and the responsible management was gone six years before the settlement and 15 years before the anchor."
+      },
+      {
+        "date": "2013-07",
+        "severity": "DISQUALIFYING",
+        "note": "2013-07-25 DOJ announcement: Halliburton Energy Services agreed to plead guilty to criminal destruction of evidence - it deleted the results of post-blowout computer modeling of the Macondo cement job, i.e. destroyed evidence bearing on its own liability in the Deepwater Horizon investigation. Judge accepted the plea 2013-09-19: $200,000 statutory maximum fine, three years probation, plus a voluntary $55 million contribution to the National Fish and Wildlife Foundation (not a condition of the plea). Cementing technology director Anthony Badalamenti separately pled guilty to instructing employees to delete the data. A criminal admission of deceiving investigators - DISQUALIFYING, and only two years before the anchor."
+      },
+      {
+        "date": "2014-09",
+        "severity": "SERIOUS",
+        "note": "2014-09-02: agreed to a $1.1 billion settlement with Deepwater Horizon private plaintiffs, without admission of liability."
+      },
+      {
+        "date": "2017-07",
+        "severity": "DISQUALIFYING",
+        "note": "Post-anchor, dated for the record. 2017-07-27 SEC FCPA settlement, about $29.2 million, over Angola: Halliburton steered oilfield-services subcontracts to a local company owned by a friend/associate of a Sonangol official to win Angolan business, with books-and-records and internal-controls violations. Shows the 2009 FCPA resolution did not end the pattern."
+      }
+    ],
+    "gate5_broken_by": "2019-10"
+  },
+  "HAS": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Own or license play brands, outsource manufacture (mostly Asia), sell to a concentrated retail channel, and monetize the same characters again through licensing and entertainment. Economics are brand margin plus royalty income against toolings, media spend and royalties paid out; the hit-driven revenue line is the hard part, not the accounting."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Real owned-brand equity - Monopoly, Transformers, Nerf, Play-Doh, My Little Pony, G.I. Joe - with decades of pricing and licensing power, but three structural leaks keep it NARROW: extreme retail concentration (Walmart, Target and Toys 'R' Us together roughly a quarter to a third of revenue), dependence on licensed properties whose royalties must be renegotiated (Marvel, Star Wars), and a hit-driven revenue line. FY2012 (reported 2013-02) revenue $4.09 billion, down about 5% YoY from $4.29 billion in 2011, with a restructuring announced 2013-02 that cut roughly 10% of the workforce - not the pattern of a business that can price through weakness."
+      },
+      {
+        "from": 2014,
+        "class": "NARROW",
+        "note": "Visible after the 2013-06-30 anchor, dated for the record. FY2013 (reported 2014-02) showed the girls category up 26% to $1 billion on My Little Pony, Equestria Girls, Furby and Nerf Rebelle, against a 22% decline in boys - i.e. the franchise machine still worked but was carried by one swinging category. Hasbro then won the Disney Princess/Frozen doll license from Mattel (announced 2014-05, product from 2016), a licensed - and therefore losable - dependency rather than owned equity."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2003-02",
+        "severity": "DISQUALIFYING",
+        "note": "UK Office of Fair Trading decision of 2003-02-19 found Hasbro UK, Argos and Littlewoods had entered price-fixing agreements (resale price maintenance on Hasbro toys and games), entered 1999 and infringing from 2000-03-01 until sometime between 2001-05-15 and 2001-09-14. Hasbro received 100% leniency on that decision for being first to hand over evidence before the investigation opened. Separately, in the related distributor case Hasbro was fined GBP 4.95 million (reduced from GBP 9 million for cooperation) for forcing about ten UK wholesale distributors in the first half of 2001 to contract not to sell below list price, backed by threats of losing access to Action Man and Star Wars lines. Appealed 2003-04-07; the Competition Appeal Tribunal remitted on witness-statement grounds 2003-07-30 but upheld the OFT on liability 2004-12-14. Secret price-fixing, so DISQUALIFYING by the rule - mitigants an analyst must weigh: UK-only, conduct 12-14 years before the 2013 anchor, self-reported by Hasbro, liability upheld not reversed."
+      },
+      {
+        "date": "2007-07",
+        "severity": "MINOR",
+        "note": "2007-07-19 CPSC/Hasbro recall of about 1 million Easy-Bake Ovens after roughly 250 reports of burns including a partial finger amputation, following an earlier and criticized-as-inadequate 2007-02 repair-kit remedy. Ordinary-course product-safety failure."
+      }
+    ],
+    "gate5_broken_by": "2024-02"
+  },
+  "HBAN": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Regional bank: gather low-cost Midwest core deposits, lend into C&I, auto, RV/marine and mortgage, earn the spread plus payments and wealth fees. Understandable at the unit level; loan-book credit quality is only ever knowable in aggregate, which is a risk, not opacity."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Genuine deposit-franchise density in Ohio and Michigan (long-standing top share in Columbus) with a sticky low-cost core deposit base, but commodity banking economics, high rate sensitivity, and a poor stress record: the 2001-2002 earnings misstatements and restatement, then near-death in the crisis - Franklin Credit exposure, the common dividend cut to $0.01 in 2009, and a large FY2009 loss including goodwill impairment."
+      },
+      {
+        "from": 2017,
+        "class": "NARROW",
+        "note": "Franchise materially stronger but still NARROW. FirstMerit closed 2016-08-16 (announced 2016-01-26), taking Huntington to roughly $100 billion of assets with added Ohio, Michigan and Wisconsin scale; because the first full quarter appeared in Q3 2016 results (reported 2016-10) the change is only visible for anchors from 2017 on. Efficiency ratio improved toward the high 50s and cost synergies were delivered ahead of plan, but returns remained peer-average, not moat-like."
+      },
+      {
+        "from": 2020,
+        "class": "NARROW",
+        "note": "Visible before the 2020-06-30 anchor. CECL adopted 2020-01-01; Q1 2020 (reported 2020-04) provision for credit losses jumped to roughly $440 million from roughly $65 million a year earlier, and management flagged large COVID-exposed books (hotel, retail CRE, auto). Capital held (CET1 in the mid-9s) and the dividend was maintained, so the franchise was stressed rather than impaired - class unchanged."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2005-06",
+        "severity": "DISQUALIFYING",
+        "note": "SEC civil action filed 2005-06-02 against Huntington Bancshares, then-CEO Thomas Hoaglin, former CFO Michael McMennamin and former controller John Van Fleet: the company reported inflated earnings in 2001 and 2002, letting it meet or beat Street EPS estimates and internal EPS targets that determined senior-management bonuses. Huntington paid a $7.5 million penalty without admitting or denying, and restated. The three individuals paid disgorgement, interest and penalties of $667,609, $415,215 and $51,660 respectively. Deliberate accounting manipulation tied to management's own bonus targets - DISQUALIFYING on the conduct. TWO EXPLICIT MITIGANTS an applicator must weigh at a 2020-06-30 anchor: (1) a 15-year gap with no repeat accounting event; (2) full management discontinuity - Hoaglin ceased to be CEO in 2009-01 when Stephen Steinour took over, and the CFO and controller had already left. Nothing in the 2020 management team is connected to the 2001-2002 conduct."
+      },
+      {
+        "date": "2017-03",
+        "severity": "SERIOUS",
+        "note": "Approved 2017-03: Huntington agreed to a $15.9 million settlement of a class action over overdraft fee practices (high-to-low transaction sequencing) - conduct at FirstMerit BEFORE Huntington acquired it on 2016-08-16. The bank did not admit wrongdoing and maintained the fees were properly charged. Predecessor conduct under different management: graded SERIOUS with the discontinuity flagged; it is acquired-entity behavior Huntington inherited, not its own."
+      },
+      {
+        "date": "2024-08",
+        "severity": "SERIOUS",
+        "note": "Post-anchor, dated for the record. 2024-08-14: Huntington was among a group of banks and broker-dealers penalized by the SEC (an $81 million round covering U.S. Bank, KeyBank, Huntington and others) for off-channel business communications on personal devices/WhatsApp - recordkeeping violations, with admissions of the failures."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "HST": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Lodging REIT: own luxury and upper-upscale hotels, hand operations to Marriott, Hyatt and Ritz-Carlton under management agreements, collect hotel EBITDA less a large fixed cost base and heavy recurring FF&E capex. Very easy to explain, very hard to own - a nightly-repriced product against near-fixed costs."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Judged on asset quality the portfolio is close to irreplaceable: about 80 owned hotels concentrated in gateway urban CBDs and destination resorts, largest lodging REIT, blue-chip brand affiliations, investment-grade balance sheet. But the moat stops at the real estate - room rates are reset nightly and Host has no pricing power in a demand shock: RevPAR fell more than 20% in 2009 and the dividend was cut to $0.01 with FFO collapsing. Group/convention-dependent big-box assets are the most demand-elastic part of lodging."
+      },
+      {
+        "from": 2020,
+        "class": "NONE",
+        "note": "All of this was public BEFORE the 2020-06-30 anchor. Q1 2020 (reported 2020-05-07): total revenue and total RevPAR down 24.3% and 21%, comparable RevPAR down 23.3% with March room revenue down about $200 million YoY; 13 hotels had suspended operations by 2020-03-31 and management said about 20 hotels representing roughly 22% of rooms would still be suspended at 2020-06-30; April total RevPAR was guided to fall 90-95%. On 2020-06-19 the board suspended the regular quarterly dividend beginning with the Q2 payment (the $0.20 Q1 dividend had been paid 2020-04-15), preserving about $140 million in the quarter. Asset quality was unchanged - earnings power was not merely at risk, it had gone to roughly zero, so the durable-advantage class is NONE at this anchor."
+      }
+    ],
+    "gate3": [],
+    "gate5_broken_by": "2020-03"
+  },
+  "KEY": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Regional bank: fund with Ohio, upstate New York and Pacific Northwest deposits, lend mostly commercial and industrial plus commercial real estate, and add fee income from commercial mortgage servicing/agency origination and KeyBanc capital markets. Understandable; the C&I and CRE credit books are only visible in aggregate."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "A roughly $100 billion Cleveland-based deposit franchise with real density in Ohio and a differentiated commercial-mortgage/agency servicing platform, but a weak franchise record: large 2008-2010 losses, $2.5 billion of TARP taken 2008-11 and repaid 2011-03, and a persistent inability to earn its cost of capital."
+      },
+      {
+        "from": 2016,
+        "class": "NONE",
+        "note": "Sub-par economics plainly visible before the 2016-06-30 anchor. FY2015 (reported 2016-01-21) showed return on tangible common equity around 10% and an efficiency ratio in the mid-to-high 60s against a compressing NIM near 2.9% - a bank earning roughly its cost of equity in the best part of the credit cycle has no durable advantage. Capital allocation reinforced this: the First Niagara deal was announced 2015-10-30 (about $4.1 billion, cash and stock) and was immediately criticized for its tangible-book earn-back - Key guided about six years, critics said closer to ten, and activist HoldCo Asset Management later attacked the price paid. TIMING RELATIVE TO ANCHOR: at 2016-06-30 the deal was announced and shareholder-approved (vote 2016-03-23) but NOT closed - Fed approval came 2016-07-12 and closing was 2016-08-01, both AFTER the anchor. So at the anchor First Niagara is a pending commitment and a signal about management's growth options, not a result in the numbers; the earn-back and integration outcome are post-anchor facts."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2010-01",
+        "severity": "MINOR",
+        "note": "KeyBank was named a defendant in In Re: Checking Account Overdraft Litigation (MDL, S.D. Fla.), a putative national class action over overdraft ordering practices. Procedural history: the Eleventh Circuit vacated the order compelling arbitration on 2014-06-18, and the district court denied KeyBank's second renewed motion to compel arbitration on 2015-02-03, so the matter was live and unresolved at the 2016-06-30 anchor. Ordinary-course consumer litigation, no finding of wrongdoing."
+      },
+      {
+        "date": "2024-08",
+        "severity": "SERIOUS",
+        "note": "Post-anchor, dated for the record. 2024-08-14: KeyBank entities were among firms penalized in an $81 million SEC round for off-channel business communications (personal devices/WhatsApp) recordkeeping violations, with admissions of the failures."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "KIM": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Open-air shopping-center REIT: own grocery-anchored strip and mixed-use centers, sign multi-year leases with rent bumps and recoveries, and reinvest in redevelopment. Economics are rent per square foot against tenant occupancy cost, plus leasing and redevelopment capex - straightforward, with joint-venture structures the only real complexity."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Judged on asset quality: the largest owner of open-air, grocery-anchored centers in North America, concentrated in first-ring suburbs of the top US metros where new supply is effectively unbuildable, and anchored by essential-goods grocers rather than apparel. But the tenant base below the anchor is weak credit, e-commerce has pressured occupancy cost for a decade, and the 2009 dividend cut showed the rent stream is not bond-like. NARROW, not WIDE."
+      },
+      {
+        "from": 2020,
+        "class": "NARROW",
+        "note": "Severe COVID stress, all public BEFORE the 2020-06-30 anchor, but the asset-quality case held so the class does not fall to NONE. Q1 2020 results (reported 2020-05-07/08) disclosed April 2020 collections of only 68% of base rent, with 22% deferred and 10% uncollected. The board temporarily suspended the common dividend in 2020-05 (the $0.28 Q2 dividend had been paid in April). Pre-anchor tenant bankruptcies: Pier 1 Imports filed 2020-02-17 (11 Kimco leases), Modell's 2020-03-11 (8 leases), GNC 2020-06-23 (12 leases). Post-anchor, dated for the record: Ascena filed 2020-07-23 (14 leases); Q2 2020 (reported 2020-08-07) carried a $51.7 million uncollectible-receivables charge; collections recovered to 76% in June, 82% in July, 85% in August; Q3 occupancy 94.6% versus 96.4% a year earlier; the dividend was reinstated for Q3 2020 (declared 2020-09-01) at a reduced rate. Grocery anchors traded through the shutdown - stress, not a broken asset."
+      }
+    ],
+    "gate3": [],
+    "gate5_broken_by": null
+  }
+}

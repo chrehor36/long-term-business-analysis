@@ -1,0 +1,289 @@
+{
+  "LEN": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Buys land, builds houses, sells them at a gross margin, plus attached mortgage/title services and (until 2018) Rialto asset management. A generalist can read the unit economics off community count, deliveries, average selling price and gross margin; the difficulty is cyclicality, not opacity."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NONE",
+        "note": "Homebuilding is a price-taking commodity business with no customer captivity and no durable pricing power; demand is set by mortgage rates and credit availability. Lennar posted large losses through 2007-2011 and its homebuilding gross margins (~20-21%) track the peer group. Scale in land acquisition and national purchasing is a modest cost edge, not a moat."
+      },
+      {
+        "from": 2019,
+        "class": "NONE",
+        "note": "CalAtlantic merger (announced 2017-10-30, closed 2018-02-12, ~$9.3B) made Lennar the largest US homebuilder by revenue (~$20.6B FY2018) and delivered synergies above the initial $100M target toward a $380M FY2019 goal. Fully visible in FY2018 results (reported 2019-01-09) and FY2019 quarters: scale showed up as cost synergies, not as a margin premium over peers. Class unchanged."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2008-06",
+        "severity": "MINOR",
+        "note": "LandSource Communities Development (Lennar/CalPERS/MW Housing JV formed 2003) filed Chapter 11 on 2008-06-08; CalPERS wrote off roughly $970M-$1.2B. A California False Claims Act qui tam (Citizens Against Corporate Crime LLC v. Lennar), alleging inflated appraisals and misrepresentations that cost CalPERS ~$970M, was later blocked by a Delaware bankruptcy release, affirmed by the 3rd Circuit (opinion reported 2020-12), and cert denied 2021-06-07. Allegations were never adjudicated on the merits; graded MINOR because no finding of wrongdoing exists."
+      },
+      {
+        "date": "2009-01",
+        "severity": "MINOR",
+        "note": "Barry Minkow's Fraud Discovery Institute published reports in January 2009 accusing Lennar of a Ponzi-like scheme; the stock fell from ~$11.57 to ~$6.55. REVERSED AND DISCREDITED: Minkow had shorted the stock, pled guilty on 2011-03-30 to conspiring to manipulate Lennar's share price, was sentenced to five years and ordered to pay $583.5M restitution TO Lennar. Exculpatory for Lennar's management."
+      },
+      {
+        "date": "2009-07",
+        "severity": "MINOR",
+        "note": "Defective Chinese drywall litigation: as of 2009-07-10 Lennar disclosed 41 Florida state suits and two federal class actions from homeowners. Lennar remediated roughly 400 affected homes and itself sued the manufacturers, suppliers and installers. Ordinary-course construction-defect exposure, resolved through the MDL over 2010-2013."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "LLY": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Spend R&D, win a patent, price high for the exclusivity window, lose ~80-90% of the revenue to generics at loss of exclusivity. The accounting is legible even if individual trial outcomes are not forecastable, so this is uncertainty, not opacity."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Patent-protected franchises with global distribution and decades of high returns on capital: Zyprexa peaked near $5.0B/yr and Cymbalta near $5.1B (2013), on total revenue of ~$23-24B. Pricing power inside the patent window is close to absolute."
+      },
+      {
+        "from": 2012,
+        "class": "NARROW",
+        "note": "Zyprexa lost US exclusivity 2011-10; FY2011 revenue $24.3B fell to $22.6B in FY2012, visible in the January 2012 and January 2013 reports. The moat is a rolling series of expiring monopolies, not a permanent one, and Lilly's replacement pipeline was the weakest of the large caps -- the solanezumab Phase 3 failures were announced 2012-08 and the company had frozen salaries in anticipation of the cliff."
+      },
+      {
+        "from": 2014,
+        "class": "NARROW",
+        "note": "Cymbalta lost US exclusivity 2013-12 and Evista in 2014-03. Q1 2014 (reported 2014-04-24) revenue fell 16% to $4.68B with adjusted EPS $0.68 vs $1.14; full-year guidance was set at $19.4-20.0B against $23.1B in FY2013. Still NARROW rather than NONE: Humalog, Alimta, Trajenta and Japan/emerging-market growth held the base. POST-ANCHOR: Trulicity was approved 2014-09-18 and became the growth engine; do not let that colour the June 2014 read."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2005-12",
+        "severity": "DISQUALIFYING",
+        "note": "Lilly pled guilty to a misdemeanor Food, Drug and Cosmetic Act violation and paid $36M in December 2005 over off-label promotion of Evista for uses not approved by the FDA. Establishes that the later Zyprexa case was recidivism, not a one-off."
+      },
+      {
+        "date": "2009-01",
+        "severity": "DISQUALIFYING",
+        "note": "On 2009-01-15 Lilly agreed to pay $1.415B to resolve DOJ allegations of off-label promotion of Zyprexa, including a GUILTY PLEA to a misdemeanor FDCA charge and a $515M criminal fine -- at the time the largest criminal fine ever imposed on an individual corporation in any US prosecution. Lilly admitted promoting Zyprexa for dementia in the elderly between September 1999 and 2001-03-31, causing false claims to Medicaid, TRICARE and FEHBP. Systematic deception of prescribers and payers, with an admission. Five-year Corporate Integrity Agreement followed."
+      },
+      {
+        "date": "2012-12",
+        "severity": "DISQUALIFYING",
+        "note": "On 2012-12-20 the SEC charged Lilly with FCPA violations for improper payments by subsidiaries in Russia, Brazil, China and Poland from 1994 through 2009 (Lilly-Vostok routed millions to offshore entities for purported 'marketing services'). Lilly paid $29,398,734 (disgorgement $13.96M, prejudgment interest $6.74M, penalty $8.7M) WITHOUT admitting or denying. Graded DISQUALIFYING under the bribery/FCPA head; note the absence of an admission and that DOJ issued a declination (reported 2015-02)."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "LUV": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Sell seats: revenue per available seat mile against cost per available seat mile, times capacity. The airline model is transparent -- it is the economics that are hostile, not the disclosure."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "The best-in-class exception inside a bad industry: 47 consecutive profitable years (1973-2019), the lowest unit costs among US majors, a single 737 fleet type, point-to-point network, entrenched positions at Dallas Love, Houston Hobby, Chicago Midway and Baltimore, and the only US airline holding investment-grade ratings from all three agencies. NARROW not WIDE because airlines remain capital-intensive price-takers with no pricing power against a demand shock."
+      },
+      {
+        "from": 2020,
+        "class": "NONE",
+        "note": "Two dated shocks, both visible in reported results by early 2020. (1) The FAA grounded the 737 MAX on 2019-03-13 after two fatal crashes; Southwest owned 34 MAX aircraft, the largest fleet of the type, and had expected 75 by year-end. On 2020-01-23 Southwest disclosed the grounding cut FY2019 operating profit by $828M and net income by $167M; Q2 2019 alone was reduced ~$175M. Single-fleet economics became single-point-of-failure. (2) COVID: TSA throughput fell ~95% by April 2020 (public daily data) and Q1 2020 (reported 2020-04-28) produced Southwest's first operating loss in 11 years. Core cash burn ran ~$30M/day in April 2020 falling to ~$16M/day in June 2020, disclosed in 8-K investor updates during the quarter (e.g. 2020-05-19). Southwest raised ~$13.9B net in H1 2020 -- $10.0B of financings and sale-leasebacks, $2.2B of common stock (permanent dilution) and $1.6B of CARES Act Payroll Support -- and ended 2020-06-30 with $14.5B of cash and short-term investments. No cost advantage produces pricing power when demand is gone."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2008-03",
+        "severity": "SERIOUS",
+        "note": "FAA proposed a $10.2M civil penalty on 2008-03-06 for operating 46 aircraft on roughly 60,000 flights without required fuselage fatigue-crack inspections; FAA whistleblower inspectors testified before Congress in April 2008 that Southwest's compliance representations were unreliable. Settled for $7.5M on 2009-03-02. Safety-compliance misreporting to the regulator."
+      },
+      {
+        "date": "2015-07",
+        "severity": "SERIOUS",
+        "note": "DOJ opened an investigation in July 2015 into possible capacity collusion among the four largest US carriers; private class actions were filed from 2015-07 and consolidated in D.D.C. in 2015-10 (In re Domestic Airline Travel Antitrust Litigation). Southwest settled first, in January 2018, for $15M while denying wrongdoing, and agreed to cooperate against American, Delta and United. Pure competition-law matter, no admission and no alleged deception."
+      },
+      {
+        "date": "2018-04",
+        "severity": "MINOR",
+        "note": "Flight 1380 uncontained CFM56 fan-blade failure on 2018-04-17 killed one passenger -- the first US airline passenger fatality since 2009. NTSB's final report (2019-11-19) assigned cause to fan-blade inspection methodology at the engine manufacturer, not to Southwest maintenance. Accident, not misconduct."
+      },
+      {
+        "date": "2020-02",
+        "severity": "SERIOUS",
+        "note": "DOT Office of Inspector General report released 2020-02-11 after a near-two-year audit found the FAA had not effectively overseen Southwest's safety-risk management. Specific findings: the FAA learned in 2018 that Southwest 'regularly and frequently' transmitted incorrect aircraft weight-and-balance data to its pilots in violation of regulations; and the FAA's Certificate Management Office allowed 88 used 'Skyline' aircraft into service without a comprehensive conformity inspection, with the OIG finding more than 150,000 flights carrying 17.2 million passengers on aircraft in an unknown airworthiness state. Congressional statements followed on 2020-02-12. A regulatory finding of systematic non-compliance; graded SERIOUS rather than DISQUALIFYING because the report documents accepted low-risk justifications rather than proven deception."
+      },
+      {
+        "date": "2022-12",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR (exclude at a 2020-06-30 read). The December 2022 operational meltdown cancelled roughly 16,700 flights over ten days after crew-scheduling systems failed; DOT announced a $140M civil penalty settlement on 2023-12-18, the largest consumer-protection penalty in DOT history."
+      }
+    ],
+    "gate5_broken_by": "2020-04"
+  },
+  "MAT": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Designs, manufactures and markets toys under owned brands (Barbie, Hot Wheels, Fisher-Price, American Girl) and licensed properties, sold through a concentrated retail channel (Walmart, Target, Toys 'R' Us). Unit economics are legible: gross margin, advertising as a percent of sales, and licence royalties."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Barbie (1959) and Hot Wheels (1968) are among the most durable consumer franchises ever built; gross margins ran roughly 50-54%, and FY2013 was a record at $6.48B of net sales and $903.9M of net income with a long unbroken dividend record."
+      },
+      {
+        "from": 2015,
+        "class": "NARROW",
+        "note": "Three dated facts visible before the 2015-06-30 anchor. (1) On 2014-09-25 Hasbro announced it had won the Disney Princess and Frozen doll licences, ending a roughly 20-year Mattel relationship; the line was ~7% of Mattel's $6.28B FY2015 sales and about $400-500M of revenue, with the handover effective in 2016. (2) FY2014 results (reported 2015-01-30): net sales -7% to $6.02B, net income -45% to $498.9M, gross margin down 380 basis points, Barbie -16% for the year and -12% in the holiday quarter, with Barbie down in eleven consecutive quarters. (3) CEO Bryan Stockton was removed on 2015-01-26 (a later filing confirmed he was fired, not resigned) and Christopher Sinclair took over as interim CEO. Dividends paid in FY2014 (~$517M) exceeded net income."
+      },
+      {
+        "from": 2017,
+        "class": "NONE",
+        "note": "POST-ANCHOR for a 2015 read. The Disney handover hit in 2016: the girls category fell about 62% in Q1 2016. FY2017 net sales fell 11% to $4.88B with a net loss of roughly $1.05B; Toys 'R' Us filed Chapter 11 on 2017-09-18; the quarterly dividend was cut in February 2017 and eliminated in October 2017, and the credit rating was downgraded to non-investment grade in late 2017."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2007-08",
+        "severity": "SERIOUS",
+        "note": "August-September 2007 recalls of roughly 2 million toys (Big Bird, Elmo, Dora, Sarge, Barbie accessories, GeoTrax) for lead paint and loose-magnet hazards. CPSC announced a $2.3M civil penalty on 2009-06-05 -- the highest ever for CPSC-regulated product violations at the time -- alleging Mattel and Fisher-Price KNOWINGLY imported and sold children's toys violating the federal lead-paint ban: up to 900,000 non-compliant Mattel units (2006-09 to 2007-08) and up to 1.1 million Fisher-Price units (2006-07 to 2007-08). Settled; graded SERIOUS."
+      },
+      {
+        "date": "2019-04",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR. Fisher-Price recalled roughly 4.7 million Rock 'n Play Sleepers on 2019-04-12 after the product was linked to more than 30 infant deaths; a congressional subcommittee report in 2021 found the product had been marketed for overnight sleep without adequate safety validation."
+      },
+      {
+        "date": "2019-08",
+        "severity": "DISQUALIFYING",
+        "note": "POST-ANCHOR -- must not colour a 2015 read, but is the single most consequential later fact. On 2019-08-06 Mattel learned that PwC had received a whistleblower letter about its accounting for the Thomas & Friends asset, two days before a $250M corporate debt offering was to close. Mattel had understated a tax valuation allowance and overstated tax expense in 2017, forcing a ~$109M restatement in November 2019; the CFO departed. The SEC issued a cease-and-desist order on 2022-10-21 with a $3.5M civil penalty (no admission or denial) and separately charged the former PwC audit partner with improper professional conduct and independence violations."
+      }
+    ],
+    "gate5_broken_by": "2015-01"
+  },
+  "MO": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Cigarettes: a declining volume base (roughly -4% to -5% a year for the industry) more than offset by annual price increases, plus smokeless, wine, and a 10.2% economic interest in Anheuser-Busch InBev. Extremely simple economics, transparently disclosed."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Marlboro held roughly 43-44% US retail share in 2018 with Altria near 50% in total. The 1998 Master Settlement Agreement, by banning most advertising and imposing per-unit payments, entrenched the incumbents and foreclosed brand-building by new entrants -- a regulatory moat. Demonstrated pricing power: Q1 2019 (reported 2019-04-25) net revenue rose 3.2% to $5.4B and adjusted operating income grew even though domestic cigarette shipments fell an estimated 7% adjusted."
+      },
+      {
+        "from": 2019,
+        "class": "WIDE",
+        "note": "Still wide at the anchor, but the erosion rate is accelerating and is visible in reported results. Industry volume fell an estimated 4.5% in 2018 and about 5% in Q1 2019; Marlboro shipments fell 13.5% year over year in Q1 2019 (20,467M sticks vs 23,653M), partly inventory timing. Youth migration to vapour is the mechanism. Price/mix was still fully covering volume at 2019-06-30."
+      },
+      {
+        "from": 2020,
+        "class": "WIDE",
+        "note": "POST-ANCHOR. The JUUL impairments were a capital-allocation failure, not moat destruction: the core smokeable segment continued growing operating income on price. Distinguish the two carefully when reading later data."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "1998-11",
+        "severity": "SERIOUS",
+        "note": "Master Settlement Agreement signed 1998-11-23 with 46 states -- roughly $206B over 25 years plus permanent marketing restrictions -- resolving state Medicaid recoupment claims WITHOUT any admission of liability. Context: it followed the 1994 congressional testimony by tobacco chief executives denying that nicotine is addictive."
+      },
+      {
+        "date": "2006-08",
+        "severity": "DISQUALIFYING",
+        "note": "United States v. Philip Morris: on 2006-08-17 Judge Gladys Kessler issued a 1,683-page opinion holding Philip Morris/Altria and the other defendants liable under RICO for a decades-long scheme to defraud the public about the health effects of smoking, the addictiveness of nicotine, 'light'/low-tar claims, and marketing to children. The court held the First Amendment gave no protection because 'Defendants knew of their falsity at the time and made the statements with the intent to deceive.' AFFIRMED unanimously by a D.C. Circuit panel on 2009-05-22 (liability upheld; most remedies upheld; additional remedies sought by DOJ and public-health interveners denied); Supreme Court denied certiorari in June 2010. Court-ordered corrective statements began running in November 2017. A judicial finding of intentional deception, not a no-admission settlement."
+      },
+      {
+        "date": "2018-12",
+        "severity": "SERIOUS",
+        "note": "On 2018-12-20 Altria bought 35% of JUUL Labs (non-voting Class C-1 stock) for $12.8B. DISCONTINUITY FLAG: the conduct that drove JUUL's regulatory exposure -- youth-targeted marketing -- predated Altria's investment and occurred under JUUL's own management, with Altria holding non-voting shares. Dated public evidence available BEFORE the 2019-06-30 anchor: FDA inspected/seized documents at JUUL headquarters 2018-09-28; the Massachusetts AG opened an investigation in July 2018; the North Carolina AG sued JUUL on 2019-05-15; San Francisco voted in June 2019 to ban e-cigarette sales. Graded SERIOUS for Altria at the anchor."
+      },
+      {
+        "date": "2019-10",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR, all of it. Altria wrote down JUUL by $4.5B in Q3 2019 (announced 2019-10-31), a further $4.1B in Q4 2019 (announced 2020-01-30, taking total 2019 charges to $8.6B and implying a ~$12B JUUL valuation), and about $4.0B more in Q1 2020. Press reports on 2020-02-20 disclosed an SEC probe of the JUUL transaction. The FTC filed an administrative complaint on 2020-04-01 seeking to unwind the deal as anticompetitive; an ALJ dismissed it on 2022-02-24 and the FTC ended the matter in 2023 after Altria exchanged its non-voting shares. None of this was knowable at 2019-06-30."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "MOS": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Mines phosphate rock and potash and converts them into DAP/MAP and MOP sold by the tonne into a global market. Cost per tonne against realised price per tonne -- about as legible as a business gets."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NONE",
+        "note": "A pure price-taker in a globally traded commodity with no product differentiation and no customer captivity. DAP fell from its 2008 spike toward roughly $340/tonne by mid-2016; MOP fell from roughly $400/tonne in 2013 to around $200/tonne by mid-2016 after Uralkali publicly quit the Belarusian Potash Company marketing venture on 2013-07-30, ending the two-cartel pricing discipline that had held the potash market. Mosaic sells export potash through Canpotex, a DISCLOSED and legal Webb-Pomerene export association with PotashCorp and Agrium -- not a secret cartel and not a moat. Long-lived low-cost Florida phosphate rock reserves plus ammonia/sulphur integration give a cost position, which is not pricing power."
+      },
+      {
+        "from": 2016,
+        "class": "NONE",
+        "note": "Nothing changed the class; the cycle simply confirmed it. Realised DAP and MOP prices in the quarters reported through 2016-05-02 were down sharply year over year, potash segment margins compressed toward breakeven at higher-cost mines, and Mosaic curtailed higher-cost potash output. New low-cost supply was already under construction (K+S Bethune, EuroChem), so the price weakness was structural rather than purely cyclical. POST-ANCHOR: Mosaic cut its quarterly dividend roughly 60% in December 2016 and announced the acquisition of Vale Fertilizantes on 2016-12-19 (closed 2018-01-08)."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2013-01",
+        "severity": "SERIOUS",
+        "note": "Mosaic agreed in January 2013 to pay $43.75M to settle the consolidated potash antitrust class action (In re Potash Antitrust Litigation II / Minn-Chem, Inc. v. Agrium Inc., N.D. Ill.), pending since 2008, which alleged that Canadian, US, Russian and Belarusian potash suppliers ran a global cartel setting artificially high prices and restricting supply from 2003. Settled without admission of liability; Agrium separately paid $10M. Pure competition-law matter, no alleged deception of customers."
+      },
+      {
+        "date": "2015-10",
+        "severity": "SERIOUS",
+        "note": "On 2015-10-01 Mosaic Fertilizer settled with EPA, DOJ, Florida and Louisiana over RCRA hazardous-waste claims covering eight phosphate fertilizer facilities -- 60 billion pounds of hazardous waste, the largest quantity ever covered by a federal or state RCRA settlement, ending a case EPA had pursued for about a decade. The allegation was improper classification and disposal of hazardous acid wastes into phosphogypsum stacks. Total value roughly $2B, structured as a $630M initial financial-assurance trust growing toward $1.8B for long-term care and closure, plus corrective measures and civil penalties. Environmental non-compliance; no fraud alleged."
+      },
+      {
+        "date": "2016-09",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR (do not apply at a 2016-06-30 read). A sinkhole roughly 100 feet wide opened beneath the New Wales phosphogypsum stack at Mulberry, Florida on about 2016-08-27, draining approximately 215 million gallons of contaminated process water into the Floridan Aquifer. Mosaic notified Florida DEP and EPA but did not inform Polk County or the public until mid-September 2016, after a local TV investigation broke the story; a Mosaic vice-president apologised at a September 2016 county commission meeting without explaining the delay. Resident and shareholder suits followed. The disclosure delay -- not the geology -- is the governance fact."
+      }
+    ],
+    "gate5_broken_by": "2013-07"
+  },
+  "MPC": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Three legible pieces: refining (buy crude, sell products, earn the crack spread across ~1.8 million barrels/day of capacity), Speedway retail (roughly 2,730 company-owned convenience stores earning fuel and merchandise margin), and a midstream MLP, MPLX, earning fee-based pipeline, terminal and gas-processing revenue. Spread-driven and volatile, but not opaque."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Spun off from Marathon Oil on 2011-07-01. Refining itself has no pricing power -- the crack spread is set by the market on both sides -- but the asset base is hard to replicate: large Gulf Coast complexes at Garyville (~522 kbpd) and Galveston Bay (bought from BP, closed 2013-02-01), a dominant Midwest logistics position (Kentucky's own 2015 antitrust complaint alleged Marathon held 90-95% of the state's wholesale reformulated-gasoline supply), the Speedway retail network, and MPLX's fee-based midstream, materially enlarged by the MarkWest merger completed 2015-12-04. NARROW rather than NONE because roughly 40% of segment earnings came from retail and fee-based midstream rather than the crack spread."
+      },
+      {
+        "from": 2016,
+        "class": "NARROW",
+        "note": "The 2016 refining downcycle -- record US product inventories and sharply narrower crack spreads through H1 2016, visible in the Q1 2016 report on 2016-04-28 -- collapsed Refining & Marketing earnings while Speedway and MPLX held up. This is confirmatory rather than a re-rating: it demonstrates precisely where the durable earnings sit and that the refining core is a price-taker. Class unchanged."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2015-05",
+        "severity": "SERIOUS",
+        "note": "Kentucky Attorney General Jack Conway filed a federal antitrust suit against Marathon Petroleum on 2015-05-12 (W.D. Ky.) alleging abuse of a 90-95% share of Kentucky's wholesale reformulated-gasoline market -- notably exclusive contracts requiring independent retailers to buy 100% of their RFG from Marathon -- and claiming Louisville wholesale prices ran roughly 25 cents/gallon above comparable St. Louis. Kentucky sought more than $173.6M. Pure competition-law claim with no alleged deception. DISMISSED: in June 2020 Judge David J. Hale excluded the Commonwealth's only expert and granted summary judgment to Marathon on the federal antitrust claims, leaving state-law claims open for refiling."
+      },
+      {
+        "date": "2016-02",
+        "severity": "MINOR",
+        "note": "MarkWest Liberty Bluestone, an MPLX subsidiary, received an EPA Consent Agreement and Final Order on 2016-02-17 for Clean Air Act violations at the Sarsen gas-processing facility (Keystone Complex, Pennsylvania) found in a July 2012 inspection; it agreed in principle to a $95,000 penalty and leak-monitoring enhancements. Inherited from the MarkWest merger closed 2015-12-04, i.e. conduct under prior management."
+      },
+      {
+        "date": "2016-06",
+        "severity": "SERIOUS",
+        "note": "On 2016-06-09 EPA and DOJ announced the first amendment to the 2012 US v. Marathon Petroleum Clean Air Act consent decree: Marathon will spend about $319M installing flare gas recovery systems at refineries in Illinois, Kentucky, Louisiana, Michigan and Ohio, plus $15.55M on mitigation projects, and pay a civil penalty of $326,500. Calibration: the punitive component is trivial ($326,500) and the $319M is injunctive capital spending under an industry-wide EPA refinery enforcement initiative that swept up essentially every major US refiner; no deception alleged. Material by dollar size, so graded SERIOUS, but it is not evidence of a dishonest culture."
+      },
+      {
+        "date": "2019-07",
+        "severity": "SERIOUS",
+        "note": "Marathon paid Kentucky $22.5M in July 2019 to settle a suit originally filed in 2007 by then-Attorney General Greg Stumbo alleging that Marathon and its Speedway stations illegally raised pump prices after Hurricanes Katrina and Rita in 2005. Settled without admission. The suit was public and pending throughout the 2016 anchor date; only the resolution is post-anchor."
+      }
+    ],
+    "gate5_broken_by": null
+  }
+}

@@ -1,0 +1,61 @@
+==============================================================================
+Grand Canyon Education, Inc.  (LOPE)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.60%   10/09/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     159.80 USD   2026-10-09   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                 26.065M  as of 2026-07-28  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                                  26.234M  as of 2026-06-30  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)       54.265M  as of 2026-06-30  (CommonStockSharesIssued)
+  shares    26.1M      market cap 4.17B USD
+  share basis: dei cover-page count as of 2026-07-28 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-12-31      243.7     13.2      23.1       44.5       185.9       207.4
+    2024-12-31      290.0     14.2      27.8       37.2       238.5       248.0
+    2025-12-31      273.5     13.6      31.2       34.8       225.0       228.7
+          mean                                                216.5       228.0
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: capex basis in 2023, 2024, 2025
+  mean of the year-by-year lower: 216.5;  of the higher: 228.0  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 AllocatedShareBasedCompensationExpense; 2024 AllocatedShareBasedCompensationExpense; 2025 AllocatedShareBasedCompensationExpense
+  capex tag by year: 2023 PaymentsToAcquireProductiveAssets; 2024 PaymentsToAcquireProductiveAssets; 2025 PaymentsToAcquireProductiveAssets
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0001104659-26-017047, 0001558370-25-001150, 0001558370-24-001060
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 219.0  OE D&A 230.0   yield 5.26% (capex) 5.52% (D&A)
+  DIVERGENCE vs the 3-yr window: +1.2% on the lower of the two bases
+
+  1. THE YIELD                 capex basis  5.20%   D&A basis  5.47%   vs sovereign 5.60%
+  2. GROWTH THE PRICE ASSUMES   -9.1%  (at a 5.60% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN +2.34 (lower mean) .. +2.63 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables    goodwill intangibles     lt debt    retained
+    2016-12-31         1,092         319         774          46          10           3           -          67         651
+    2017-12-31         1,304         318         986         153          11           3           -          60         854
+    2018-12-31         1,324         110       1,214         120          47           3           -          23       1,082
+    2019-12-31         1,690         247       1,443         122          49         161         202         141       1,341
+    2020-12-31         1,845         270       1,574         246          62         161         194         108       1,595
+    2021-12-31         1,223         178       1,045         601          70         161         185           -       1,855
+    2022-12-31           833         195         638         120          77         161         177           -       2,040
+    2023-12-31           930         212         718         146          79         161         168           -       2,245
+    2024-12-31         1,018         235         784         325          83         161         160           -       2,471
+    2025-12-31           992         245         747         112          84         161         152           -       2,687
+    accessions: 0001104659-26-017047, 0001193125-17-046698, 0001193125-18-051923, 0001558370-19-000782, 0001558370-20-001013, 0001558370-21-001135, 0001558370-22-001269, 0001558370-23-001452, 0001558370-24-001060, 0001558370-25-001150
+    equity: StockholdersEquity (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+    lt debt: LongTermNotesPayable (2016, 2017, 2018); LongTermDebt (2019, 2020)
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

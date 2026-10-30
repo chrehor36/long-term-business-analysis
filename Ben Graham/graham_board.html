@@ -1,0 +1,125 @@
+<title>Graham Board — Five Cigar Butts</title>
+<style>
+  :root{
+    --paper:#f7f5ef; --ink:#23281f; --ink-soft:#5c6155; --rule:#cfcebe;
+    --ledger:#2e6b4f; --brass:#96742a; --bar-track:#e9e7db; --chip:#eceadd;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --paper:#161a17; --ink:#e8e6dc; --ink-soft:#a7ab9d; --rule:#3a4038;
+      --ledger:#6fb591; --brass:#c9a24e; --bar-track:#232823; --chip:#232823; }
+  }
+  :root[data-theme="dark"]{ --paper:#161a17; --ink:#e8e6dc; --ink-soft:#a7ab9d; --rule:#3a4038;
+    --ledger:#6fb591; --brass:#c9a24e; --bar-track:#232823; --chip:#232823; }
+  :root[data-theme="light"]{ --paper:#f7f5ef; --ink:#23281f; --ink-soft:#5c6155; --rule:#cfceb e;
+    --ledger:#2e6b4f; --brass:#96742a; --bar-track:#e9e7db; --chip:#eceadd; }
+  :root[data-theme="light"]{ --rule:#cfceb1; }
+  body{ background:var(--paper); color:var(--ink);
+    font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif;
+    margin:0; padding:2.2rem 1.2rem 3rem; line-height:1.55; }
+  .sheet{ max-width:880px; margin:0 auto; }
+  header{ border-bottom:3px double var(--rule); padding-bottom:1rem; margin-bottom:1.6rem; }
+  h1{ font-size:1.7rem; margin:0 0 .2rem; letter-spacing:.01em; text-wrap:balance; }
+  .sub{ color:var(--ink-soft); font-size:.92rem; margin:0; }
+  .sub b{ color:var(--ledger); font-weight:600; }
+  .rulebox{ display:flex; gap:1.4rem; flex-wrap:wrap; margin:1.1rem 0 1.8rem;
+    font-size:.9rem; color:var(--ink-soft); }
+  .rulebox span{ background:var(--chip); border:1px solid var(--rule);
+    padding:.3rem .7rem; border-radius:2px; }
+  .rulebox b{ color:var(--ink); font-weight:600; }
+  .row{ display:grid; grid-template-columns:5.2rem 1fr; gap:.35rem 1rem;
+    padding:1rem 0; border-bottom:1px solid var(--rule); align-items:baseline; }
+  .tkr{ font-family:ui-monospace,'Cascadia Mono',Consolas,monospace;
+    font-size:1.15rem; font-weight:700; color:var(--ledger); }
+  .biz{ font-size:.9rem; color:var(--ink-soft); grid-column:2; grid-row:1; }
+  .barwrap{ grid-column:1 / -1; display:grid;
+    grid-template-columns:6.4rem 1fr 8.6rem; gap:.8rem; align-items:center; }
+  .px,.target{ font-family:ui-monospace,'Cascadia Mono',Consolas,monospace;
+    font-variant-numeric:tabular-nums; font-size:.98rem; white-space:nowrap; }
+  .px{ text-align:right; }
+  .target{ color:var(--brass); font-weight:600; }
+  .track{ background:var(--bar-track); border-radius:2px; height:1.35rem;
+    position:relative; overflow:hidden; }
+  .fill{ position:absolute; inset:0 auto 0 0; background:var(--ledger);
+    border-radius:2px 0 0 2px; }
+  .gain{ position:absolute; top:0; bottom:0; display:flex; align-items:center;
+    font-family:ui-monospace,Consolas,monospace; font-size:.82rem; font-weight:700;
+    color:var(--paper); padding-left:.55rem; }
+  .stop{ grid-column:1 / -1; font-size:.83rem; color:var(--ink-soft); margin-top:.15rem; }
+  .stop b{ color:var(--ink); font-weight:600; }
+  footer{ margin-top:1.6rem; font-size:.82rem; color:var(--ink-soft);
+    border-top:1px solid var(--rule); padding-top:.9rem; }
+  footer p{ margin:.3rem 0; }
+</style>
+<div class="sheet">
+<header>
+  <h1>The Graham Board — Five Cigar Butts</h1>
+  <p class="sub">Statistically cheap, fair-not-wonderful businesses from the framework's own screens —
+  the names the Munger mandate rejected and Graham would have bought by the basket.
+  Prices <b>2026-07-17</b> (aggregator, flagged). Targets from each run file's conservative Book&nbsp;Two appraisal.</p>
+</header>
+
+<div class="rulebox">
+  <span>Sell rule: <b>gain target below, or +50%, whichever first</b></span>
+  <span>Time stop: <b>out by ~July 2028</b> regardless</span>
+  <span>Basket logic: <b>own several or none</b></span>
+</div>
+
+<div class="row">
+  <div class="tkr">CMCSA</div><div class="biz">Comcast — broadband/media mid-breakup; the project's own files label it a Graham special situation</div>
+  <div class="barwrap">
+    <div class="px">$24.28</div>
+    <div class="track"><div class="fill" style="width:70%"></div><div class="gain">+35%</div></div>
+    <div class="target">sell ≈ $32.75</div>
+  </div>
+  <div class="stop"><b>Broken if:</b> broadband sub losses re-accelerate past the FY2025 rate, or the NBCU/Sky separation is pulled.</div>
+</div>
+
+<div class="row">
+  <div class="tkr">CTSH</div><div class="biz">Cognizant — IT services at 53% of appraised value; AI/insourcing fear over-discounted</div>
+  <div class="barwrap">
+    <div class="px">$44.04</div>
+    <div class="track"><div class="fill" style="width:96%"></div><div class="gain">+48%</div></div>
+    <div class="target">sell ≈ $65.40</div>
+  </div>
+  <div class="stop"><b>Broken if:</b> revenue declines alongside disclosed client GCC-insourcing — the Gartner scenario arriving.</div>
+</div>
+
+<div class="row">
+  <div class="tkr">UHS</div><div class="biz">Universal Health Services — hospitals; clears its zero-growth appraisal with the widest margin of the batch</div>
+  <div class="barwrap">
+    <div class="px">$155.10</div>
+    <div class="track"><div class="fill" style="width:84%"></div><div class="gain">+42%</div></div>
+    <div class="target">sell ≈ $220.70</div>
+  </div>
+  <div class="stop"><b>Broken if:</b> adverse reimbursement ruling or the behavioral-health conduct history turns into an enforcement action.</div>
+</div>
+
+<div class="row">
+  <div class="tkr">VZ</div><div class="biz">Verizon — pays ~6% to wait; appraisal anchored to its own impairment year</div>
+  <div class="barwrap">
+    <div class="px">$44.34</div>
+    <div class="track"><div class="fill" style="width:82%"></div><div class="gain">+41%</div></div>
+    <div class="target">sell ≈ $62.50</div>
+  </div>
+  <div class="stop"><b>Broken if:</b> churn/ARPU deteriorate together while fixed-wireless &amp; cable-MVNO share gains continue.</div>
+</div>
+
+<div class="row">
+  <div class="tkr">SYF</div><div class="biz">Synchrony — private-label card lender; anchored to its own credit-cycle trough year</div>
+  <div class="barwrap">
+    <div class="px">$74.28</div>
+    <div class="track"><div class="fill" style="width:84%"></div><div class="gain">+42%</div></div>
+    <div class="target">sell ≈ $105.20</div>
+  </div>
+  <div class="stop"><b>Broken if:</b> a top-5 retail partner walks, or net charge-offs breach the FY2023 trough that anchors the appraisal.</div>
+</div>
+
+<footer>
+  <p><b>Method.</b> Each target = the run file's conservative Book Two intrinsic value (or max-buy line where nearer), converted per share
+  at today's cap — then capped at Graham's +50% heuristic. Bar length is scaled to the gain (+50% = full bar).</p>
+  <p><b>Discipline.</b> Graham's documented practice: sell at +50% or after two years, whichever comes first — the butt is deteriorating while you hold it.
+  He diversified across dozens; owning one or two means the "broken if" line replaces his diversification.</p>
+  <p><b>Already held:</b> EFOR (fka ASGN) — same treatment, +40–50% band or mid-2028, whichever first. None of this is entry permission
+  under the Roth mandate; these are labeled trades in the taxable account. Framework refs: run files of 2026-07-15/16.</p>
+</footer>
+</div>

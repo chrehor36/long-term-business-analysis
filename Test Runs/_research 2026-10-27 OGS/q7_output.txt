@@ -1,0 +1,29 @@
+year spend maint growsp OC_maint OC_all WC(incl Uri)
+2021 544.3 207.2 337.0 206.4 -130.6 -1963.4
+2022 656.5 216.4 440.1 221.7 -218.4 -157.6
+2023 728.7 249.6 479.0 231.2 -247.8 246.5
+2024 762.1 269.0 493.1 222.8 -270.2 -219.1
+2025 759.5 285.1 474.4 264.2 -210.2 -22.9
+avg 690.2 245.5 444.7 229.3 -215.4
+WC change over window incl Uri flows in OCF: -2116.6  net of Uri recoveries (OCF proceeds + KS bonds): -252.7  per year -50.5
+literal OCF-capex by year [-2030.9, 961.4, 272.9, -334.8, -128.4] avg -252.0
+shown growth OC_maint 2021->2025 CAGR 0.0636
+halves 214.08800000000002 243.53700000000003
+LT debt increase per year 160.1  excl term loan 110.1  cap share 0.4057  cap amount on avg growth spending 180.4
+sovereign: no-growth 4,318 ($68.70)  growth 4,185 ($66.59)
+range 66.59-68.70 width 1.032 price 78.36
+floor10: no-growth 2,293 ($36.48)  growth 1,176 ($18.71)
+FAIR (equity-only) $27.59
+return at price: no-growth 0.0466 growth 0.0481
+-- variants --
+cash tax (deferred tax added back): base 269.7  no-growth at rf $80.82
+credit excl term loan: growth case at rf $58.18
+all spending, no growth, with credit: annual -55.4  no credit -215.4
+working capital charged per year 50.5 -> base 178.8  no-growth $53.56
+eff tax 0.162  unlevered OC by year [257.0, 286.7, 327.9, 346.3, 384.0]  avg 320.4  growth 0.1056
+-- all-equity beside --
+shown unlevered 0.1056 r=0.0531 no-growth $45.93 growth $79.95 
+shown unlevered 0.1056 r=0.1000 no-growth $0.91 growth $-16.79  avg $-7.94
+equity series rate 0.0636 r=0.0531 no-growth $45.93 growth $35.08 
+equity series rate 0.0636 r=0.1000 no-growth $0.91 growth $-30.16  avg $-14.62
+ND 3146.5

@@ -1,0 +1,24 @@
+{
+ "ticker": "GWRS",
+ "name": "Global Water Resources",
+ "headline": "A small Arizona water and wastewater utility protected by exclusive service certificates.",
+ "what_short": "Regulated Arizona water and wastewater utility",
+ "what_it_does": "Global Water Resources runs 39 water, wastewater and recycled-water systems in Arizona, serving 68,577 active connections. All of its revenue ($55.8 million in 2025) is regulated by the Arizona Corporation Commission, and 87.3% of its connections are in one service area.",
+ "why_it_passed": [
+  "It holds an exclusive certificate to serve its territory, and no rival would pay to duplicate the pipes.",
+  "All revenue is regulated, so the next ten years of its business are easy to picture.",
+  "It found and disclosed on its own a rate-base error carried for fourteen years, which went against its own revenue, so honesty was not in doubt.",
+  "It has no share buybacks."
+ ],
+ "why_not_now": "A regulator caps what a utility may earn, so the price is far above what that capped return justifies. At $7.74 a share the price is above the top of the analysis's value range, and the company earned only about 4% on its capital against an allowed return more than twice that.",
+ "watch": [
+  "The regulator's staff once recommended a decrease and its largest rate case was withdrawn, so the regulatory climate is an open risk.",
+  "Cities have twice taken over a franchise by condemnation.",
+  "Management's ability was weighed against, and it has about $127 million of net debt and refundable advances of $155.7 million from builders."
+ ],
+ "value_low": -0.42,
+ "value_high": 4.57,
+ "utility": true,
+ "run_date": "2026-10-28",
+ "currency": "USD"
+}

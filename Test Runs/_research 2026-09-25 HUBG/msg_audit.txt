@@ -1,0 +1,5 @@
+HUBG: self-audit and register - FAIL at Q2 (OUT, on the business)
+
+Which statements each gate rests on; brief priors tested; brief errors (hubg_row.py was committed inside the unrelated 4f5af858); six own errors caught; three tooling defects reported (no Item 4.02 check in the screen or run.py).
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

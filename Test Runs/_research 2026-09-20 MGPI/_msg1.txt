@@ -1,0 +1,19 @@
+MGPI Step 0 and Q1 IN: the screen's cap/float imperative is wrong (both numbers right, 53% price fall between the dates), and the "probably a credit facility" 8-K is a $20M receivable carve-out from covenant EBITDA plus a 4.00x-to-4.50x leverage step-up
+
+Step 0 resolves all six briefed flags from the filings.
+
+(i) cap_flag: a THIRD branch. Float $423M at 2025-06-30 / $29.97 close = 14,114,782 non-affiliate shares against 21,292,736 outstanding, so the float is a genuine 66.3% subset (the MCFT branch) AND the 1.17x is entirely the price: $29.97 at the float date, ~$16.95 at the screen date, $14.13 on Friday. Neither number is wrong; the screen's "one of the two is wrong" is the error. Cap re-struck by hand at 21,414,076 x $14.13 = $303M from the Q2 2026 10-Q cover (0000835011-26-000103); the screen's $362M is 20% stale. Two classes verified: 437 preferred shares, $10 par, $4,370 of par in total, unlisted -- immaterial to cap, decisive at Q3 because those 437 shares elect five of nine directors.
+
+(ii) deal_note: the single Item 1.01 8-K (2026-08-07, 0000835011-26-000108) permits up to $20,000,000 of losses on receivables from specific customers to be added back to Consolidated EBITDA through 2027-12-31, and the company has exercised an Elevated Ratio Period raising the net leverage covenant from 4.00x to 4.50x for four quarters using a permitted-acquisition clause invoked for the Penelope EARNOUT. The filer states Q3 2026 is peak leverage. THIRD consecutive run where the screen's "open them only if something else is odd" would have missed the sharpest document in the file.
+
+(iii)/(iv) the two series reproduced exactly (5y capex-end mean $37.9M = oe_bottom 38; 3y D&A-end mean $73.3M = oe_top 73). The OCF step is 2020 to 2021 and it is the LUXCO MERGER, not a cycle. The 17 annual periods contain a fiscal-year change with the six months to 2011-12-31 missing from every series.
+
+(iv) PERIMETER: three different companies. No five-year window on one perimeter exists -- Luxco in, Penelope in, Atchison out gives FY2024 and FY2025 only. The BN shape.
+
+(v) acq_note CONFIRMED to the dollar and the largest understatement yet: the screen's $253M is the investing-cash line; the filings give $445,763k for Luxco (of which $296,279k in stock, 22.8% of the company) plus $215,438k for Penelope ($104,638k cash + the full $110,800k earnout, maximum achieved and paid H1 2026) = $661.2M, or 218% of the hand-struck cap. Seventh consecutive perimeter understatement.
+
+(vi) wc_note EMPTY was the tool blind spot the brief predicted. Reported OCF rose 45% from FY2023 to FY2025 ($83.8M to $121.5M) while operating cash flow BEFORE working capital FELL 42% ($163.4M to $95.3M). A shrinking business releases working capital. Barreled distillate is $301,665k, 78.8% of inventory; cumulative inventory build 2015 to H1 2026 is $273.8M; FY2026 capex guidance of ~$20M is BELOW D&A of $24.1M.
+
+All three of the brief's unverified recollections CONFIRMED (impairment, CEO change, production cut), two of them larger than briefed. Q1 IN.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

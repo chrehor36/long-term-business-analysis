@@ -1,0 +1,29 @@
+market cap 69,215; net debt 2026-06-30 52,316; NCI claim 2,820 (book 1,210); EV at price 124,351
+
+== cycle base (deferred fuel excluded): all-equity base 3,461, equity-only base 2,224; growth between halves all-equity 12.9%, equity-only 11.7%
+  (f) ALL-EQUITY: owner cash in year ten at shown 12.9% = 27.5% of sales grown at 6.8% vs highest filed share 23.8% -> CUT to sales growth
+  (f) EQUITY-ONLY: owner cash in year ten at shown 11.7% = 15.9% of sales grown at 6.8% vs highest filed share 17.4% -> not cut
+  ALL-EQUITY: no-growth    15.81/sh; growth-with-spending    28.20/sh  => range 15.81 to 28.20
+     expected return at price: no-growth 2.8%; growth case 3.7%
+     fair price (each end at 10%, averaged): -46.90/sh  [no-growth -37.70, growth -56.11]
+     maintenance-only growth case WITHOUT charging growth spending (not a case the convention allows; shown for scale): 94.34/sh
+  EQUITY-ONLY: no-growth    75.24/sh; growth-with-spending   116.31/sh  => range 75.24 to 116.31
+     expected return at price: no-growth 3.2%; growth case 5.1%
+     fair price (each end at 10%, averaged): 37.73/sh  [no-growth 40.86, growth 34.61]
+     maintenance-only growth case WITHOUT charging growth spending (not a case the convention allows; shown for scale): 182.46/sh
+
+== literal window: all-equity base 3,328, equity-only base 2,091; growth between halves all-equity 30.0%, equity-only 39.7%
+  (f) ALL-EQUITY: owner cash in year ten at shown 30.0% = 108.3% of sales grown at 6.8% vs highest filed share 23.8% -> CUT to sales growth
+  (f) EQUITY-ONLY: owner cash in year ten at shown 39.7% = 139.9% of sales grown at 6.8% vs highest filed share 17.4% -> CUT to sales growth
+  ALL-EQUITY: no-growth    11.32/sh; growth-with-spending    20.69/sh  => range 11.32 to 20.69
+     expected return at price: no-growth 2.7%; growth case 3.5%
+     fair price (each end at 10%, averaged): -50.02/sh  [no-growth -40.14, growth -59.90]
+     maintenance-only growth case WITHOUT charging growth spending (not a case the convention allows; shown for scale): 86.83/sh
+  EQUITY-ONLY: no-growth    70.75/sh; growth-with-spending    52.06/sh  => range 52.06 to 70.75
+     expected return at price: no-growth 3.0%; growth case 3.3%
+     fair price (each end at 10%, averaged): 22.22/sh  [no-growth 38.42, growth 6.03]
+     maintenance-only growth case WITHOUT charging growth spending (not a case the convention allows; shown for scale): 118.20/sh
+
+forwards settled beside: shares 589.4M, net debt 47,282
+  all-equity no-growth with forwards: 23.14/sh
+  NCI at book instead of price paid: all-equity no-growth 18.77/sh

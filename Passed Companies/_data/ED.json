@@ -1,0 +1,24 @@
+{
+ "ticker": "ED",
+ "name": "Con Edison",
+ "headline": "The regulated electricity, gas and steam delivery monopoly for New York City.",
+ "what_short": "Regulated electric, gas and steam utility (New York City)",
+ "what_it_does": "Con Edison's main utility delivers electricity to New York City (except part of Queens) and most of Westchester, gas to Manhattan, the Bronx and parts of Queens and Westchester, and steam in Manhattan. A smaller utility serves southeastern New York and northern New Jersey. Almost all the energy is bought wholesale and passed on at cost.",
+ "why_it_passed": [
+  "The main utility supplied 91% of five years of operating profit, and its territory is a legal franchise no rival may enter.",
+  "Its operating income rose from $2,460 million in 2021 to $2,812 million in 2025.",
+  "The regulated equity earned between 8.03% and 9.82% a year from 2017 to 2025, a steady return rather than a rich one.",
+  "It sold its renewable-energy businesses in 2023 and is now almost entirely a regulated delivery company."
+ ],
+ "why_not_now": "A regulator caps what this utility may earn, so the price is far above what that capped return justifies. At $112.26 a share the price is well above the analysis's value range of $14.35 to $61.04, and even the best case earns only 2.95% a year, against 5.43% on a 30-year US Treasury bond.",
+ "watch": [
+  "An income-tax audit and an open investigation into pipe welds are undecided, and a new rate plan could change the allowed return.",
+  "It must keep refinancing debt: long-term debt was $26.8 billion in mid-2026, and it plans up to $3.2 billion more in 2026.",
+  "All its business sits in one dense territory, where past accidents such as the 2014 East Harlem explosion have caused deaths."
+ ],
+ "value_low": 14.35,
+ "value_high": 61.04,
+ "utility": true,
+ "run_date": "2026-10-18",
+ "currency": "USD"
+}

@@ -1,0 +1,15 @@
+ year  preInt/preTax  allspend   EBITx    tax@23%   OC_ae_all  OC_ae_xPTC  OC_eq_all
+ 2018       2177        546      851       196       1362       1362        870
+ 2019       3173        837     1317       303       1986       1986       1591
+ 2020       3679       1572     1289       296       1746       1746       1374
+ 2021        250       1153     -579      -133       -817       -817      -1168
+ 2022       1037       1239     1318       303       -568       -568      -1144
+ 2023       6083       2145     2250       518       3344       3344       2732
+ 2024       5528       2211     3212       739       2478       1933       1605
+ 2025       5207       3256     3110       715       1123        903        130
+ avg 2021-2025: OC_ae_all    1112  OC_ae_xPTC     959  OC_eq_all     431
+ avg 2019-2025: OC_ae_all    1327  OC_ae_xPTC    1218  OC_eq_all     731
+ avg 2018-2025: OC_ae_all    1332  OC_ae_xPTC    1236  OC_eq_all     749
+ avg 2020-2024: OC_ae_all    1236  OC_ae_xPTC    1127  OC_eq_all     680
+ avg 2023-2025: OC_ae_all    2315  OC_ae_xPTC    2060  OC_eq_all    1489
+ purchases 2021-2025 (acq + NCI): 6836

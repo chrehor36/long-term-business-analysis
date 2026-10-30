@@ -1,0 +1,152 @@
+{
+ "rows": {
+  "2019": {
+   "ocf": 496.8,
+   "sbc_charge": 0.0,
+   "sbc_used": 0.0,
+   "dcl": null,
+   "net_capex": 437.6,
+   "acq": 0.0,
+   "da": 2678.2,
+   "oe_capex": 59.2,
+   "oe_da": -2181.4,
+   "oe_capex_charge_sbc": 59.2,
+   "oe_capex_less_acq": 59.2
+  },
+  "2020": {
+   "ocf": 1004.0,
+   "sbc_charge": 1.0,
+   "sbc_used": 1.0,
+   "dcl": -9.9,
+   "net_capex": 280.0,
+   "acq": 0.0,
+   "da": 2522.0,
+   "oe_capex": 732.9,
+   "oe_da": -1509.1,
+   "oe_capex_charge_sbc": 732.9,
+   "oe_capex_less_acq": 732.9
+  },
+  "2021": {
+   "ocf": 2839.0,
+   "sbc_charge": 223.0,
+   "sbc_used": 223.0,
+   "dcl": 1766.6,
+   "net_capex": 1684.0,
+   "acq": 0.0,
+   "da": 1618.0,
+   "oe_capex": -834.6,
+   "oe_da": -768.6,
+   "oe_capex_charge_sbc": -834.6,
+   "oe_capex_less_acq": -834.6
+  },
+  "2022": {
+   "ocf": 2624.0,
+   "sbc_charge": 181.0,
+   "sbc_used": 235.5,
+   "dcl": 16.7,
+   "net_capex": 2966.0,
+   "acq": 0.0,
+   "da": 1623.0,
+   "oe_capex": -594.2,
+   "oe_da": 748.8,
+   "oe_capex_charge_sbc": -539.7,
+   "oe_capex_less_acq": -594.2
+  },
+  "2023": {
+   "ocf": 2125.0,
+   "sbc_charge": 150.0,
+   "sbc_used": 213.8,
+   "dcl": 65.0,
+   "net_capex": 1661.0,
+   "acq": 0.0,
+   "da": 1451.0,
+   "oe_capex": 185.2,
+   "oe_da": 395.2,
+   "oe_capex_charge_sbc": 249.0,
+   "oe_capex_less_acq": 185.2
+  },
+  "2024": {
+   "ocf": 1722.0,
+   "sbc_charge": 186.0,
+   "sbc_used": 226.1,
+   "dcl": -399.0,
+   "net_capex": 615.0,
+   "acq": 69.0,
+   "da": 1568.0,
+   "oe_capex": 1279.9,
+   "oe_da": 326.9,
+   "oe_capex_charge_sbc": 1320.0,
+   "oe_capex_less_acq": 1210.9
+  },
+  "2025": {
+   "ocf": 1731.0,
+   "sbc_charge": 200.0,
+   "sbc_used": 305.5,
+   "dcl": -354.0,
+   "net_capex": 574.0,
+   "acq": 682.0,
+   "da": 1314.0,
+   "oe_capex": 1205.5,
+   "oe_da": 465.5,
+   "oe_capex_charge_sbc": 1311.0,
+   "oe_capex_less_acq": 523.5
+  },
+  "TTM 2026-06": {
+   "ocf": 1916,
+   "sbc_used": 234,
+   "dcl": -635,
+   "net_capex": 971,
+   "acq": 1103,
+   "da": 1245,
+   "oe_capex": 1346,
+   "oe_da": 1072,
+   "oe_capex_less_acq": 243
+  }
+ },
+ "windows": {
+  "5-yr 2021-2025": {
+   "oe_capex": 248.4,
+   "oe_da": 233.6,
+   "capex": 1500.0,
+   "acq": 150.2,
+   "oe_capex_less_acq": 98.2,
+   "da": 1514.8,
+   "sbc": 240.8,
+   "dcl": 219.1
+  },
+  "3-yr 2023-2025": {
+   "oe_capex": 890.2,
+   "oe_da": 395.9,
+   "capex": 950.0,
+   "acq": 250.3,
+   "oe_capex_less_acq": 639.9,
+   "da": 1444.3,
+   "sbc": 248.5,
+   "dcl": -229.3
+  },
+  "4-yr 2022-2025": {
+   "oe_capex": 519.1,
+   "oe_da": 484.1,
+   "capex": 1454.0,
+   "acq": 187.8,
+   "oe_capex_less_acq": 331.4,
+   "da": 1489.0,
+   "sbc": 245.2,
+   "dcl": -167.8
+  },
+  "6-yr 2020-2025 (display; pre-2021 D&A on 5-8 year lives)": {
+   "oe_capex": 329.1,
+   "oe_da": -56.9,
+   "capex": 1296.7,
+   "acq": 125.2,
+   "oe_capex_less_acq": 204.0,
+   "da": 1682.7,
+   "sbc": 200.8,
+   "dcl": 180.9
+  }
+ },
+ "no_strip_5yr": {
+  "capex": 467.4,
+  "da": 452.6
+ }
+}

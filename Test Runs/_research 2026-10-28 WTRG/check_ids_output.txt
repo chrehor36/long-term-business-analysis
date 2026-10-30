@@ -1,0 +1,4 @@
+FRAGMENT NOT IN ROW ['M1994-018'] :: growth in earnings is less than growth in rate base
+FRAGMENT NOT IN ROW ['M2002-030'] :: substantial operations in   Pennsylvania
+ids checked: 83 problems: 2
+Reviewed by hand: both flags are filing quotes attributed in the text to Item 1A and Item 7; the id that follows supports the next clause or sentence, not the filing words. No E-ids; all 83 ids resolve.

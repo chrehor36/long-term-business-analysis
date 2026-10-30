@@ -1,0 +1,33 @@
+FY   OCF    capex   D&A   acq   OC_all   OC_maint  growthcap
+2016 288619 114735 117635 1334 173884 170984 -2900
+2017 261152 90363 127642 127269 170789 133510 -37279
+2018 249343 89385 129932 162861 159958 119411 -40547
+2019 255667 118471 122653 362996 137196 133014 -4182
+2020 420861 139092 123423 157390 281769 297438 15669
+2021 323934 174149 132999 -9914 149785 190935 41150
+2022 210452 331440 142215 28435 -120988 68237 189225
+2023 407941 449299 150014 149328 -41358 257927 299285
+2024 428162 546578 163567 4544 -118416 264595 383011
+2025 410555 580140 172371 -1780 -169585 238184 407769
+
+window FY2021-25: avg OC all-spending -60,112; maint-only 203,976; maint after acq 169,853
+after-tax interest add-back 4,102; SBC deducted 1,800
+bases (all-equity): all-spending -57,811; maint-only organic 206,277; DEFAULT maint after acq 172,155
+growth spending above D&A, window avg 264,088; net purchases over window 170,613
+growth: total (maint after acq, end years) 4.55%; organic maint 5.68%; sales 7.37%
+
+TOP: no growth, maintenance only, acquisitions deducted (default)
+   EV@4.14% 4,158,322  per share 2,826 | EV@10% 1,721,545 per share 788
+BOTTOM: growth case, total growth credited, growth spending charged
+   EV@4.14% 3,956,492  per share 2,657 | EV@10% 728,495 per share -43
+beside: organic pair no growth (maint only, no acq)
+   EV@4.14% 4,982,540  per share 3,515 | EV@10% 2,062,771 per share 1,073
+beside: organic pair growth case
+   EV@4.14% 5,883,692  per share 4,269 | EV@10% 1,425,640 per share 540
+beside: literal window all-spending no growth
+   EV@4.14% -1,396,398  per share -1,820 | EV@10% -578,109 per share -1,136
+
+market cap 4,067,458; net debt 779,925; EV at price 4,847,383; shares 1,195,607,779
+yield on EV, default base 3.55%; maint organic 4.26%
+FAIR PRICE all-equity 372 yen/share = $1.17/ADS; equity-only 984 yen = $3.11/ADS
+price 3,402 yen = $10.74/ADS

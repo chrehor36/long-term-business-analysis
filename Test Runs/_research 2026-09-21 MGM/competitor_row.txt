@@ -1,0 +1,48 @@
+A. OPERATING MARGIN = OperatingIncomeLoss / Revenues, each filer's own 10-K/20-F
+ticker,2021,2022,2023,2024,2025
+MGM,23.5%,11.0%,11.7%,8.6%,5.7%
+LVS,-16.3%,-19.3%,22.3%,21.3%,21.6%
+WYNN,-10.5%,-2.7%,12.9%,15.9%,15.7%
+CZR,15.3%,16.1%,21.4%,20.5%,16.2%
+BYD,26.7%,27.6%,24.1%,23.6%,18.3%
+PENN,17.9%,15.2%,-10.8%,1.1%,-9.7%
+MLCO,-28.7%,-55.0%,1.7%,10.4%,11.6%
+
+B. RETURN ON THE REAL ESTATE USED, owned OR rented:
+   (OperatingIncomeLoss + OperatingLeaseCost) / (PP&E net + operating ROU asset)
+   built so an OWNER (LVS, WYNN, BYD, MLCO) and a TENANT (MGM) are on one scale
+ticker,2021,2022,2023,2024,2025
+MGM,12.1%,11.5%,14.2%,12.8%,11.2%
+LVS,-5.7%,-6.7%,20.2%,20.1%,24.2%
+WYNN,-4.1%,-0.9%,10.1%,13.8%,13.5%
+CZR,9.6%,11.4%,16.1%,14.9%,12.4%
+BYD,31.3%,35.2%,31.9%,31.8%,25.8%
+PENN,11.2%,17.4%,-8.9%,0.9%,-8.8%
+MLCO,-9.2%,-12.3%,1.5%,9.5%,12.0%
+
+C. REVENUE, $M
+ticker,2021,2022,2023,2024,2025
+MGM,9680,13127,16164,17241,17538
+LVS,4234,4110,10372,11298,13017
+WYNN,3764,3757,6532,7128,7138
+CZR,9570,10821,11528,11245,11486
+BYD,3370,3555,3738,3930,4092
+PENN,5905,6402,6363,6578,6961
+MLCO,2012,1350,3775,4638,5163
+
+D. OPERATING CASH FLOW LESS CAPEX, $M (a crude free-cash line, not owner earnings)
+ticker,2021,2022,2023,2024,2025
+MGM,883,991,1759,1212,1460
+LVS,-1071,-1595,2210,1637,1855
+WYNN,-513,-371,805,1006,692
+CZR,679,41,545,-221,497
+BYD,811,707,541,557,388
+PENN,652,615,,,
+MLCO,,,,,
+
+E. MGM, the lease block alone, from its own 10-K notes
+2021 op lease cost $871M  op lease liab (noncurrent) $11802M  ROU $11493M
+2022 op lease cost $1987M  op lease liab (noncurrent) $25149M  ROU $24531M
+2023 op lease cost $2307M  op lease liab (noncurrent) $25127M  ROU $24027M
+2024 op lease cost $2300M  op lease liab (noncurrent) $25076M  ROU $23532M
+2025 op lease cost $2290M  op lease liab (noncurrent) $24963M  ROU $23003M

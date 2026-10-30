@@ -1,0 +1,142 @@
+ 
+ XML
+ 11
+ R2.htm
+ IDEA: XBRL DOCUMENT
+ v3.25.2 
+ Offerings - Offering: 1
+ | 
+ Jun. 20, 2025
+ | 
+ Offering: | 
+ | 
+ Fee Previously Paid | 
+ false 
+ | 
+ Rule 457(r) | 
+ true 
+ | 
+ Security Type | 
+ Non-Convertible Debt 
+ | 
+ Security Class Title | 
+ Senior Debt Securities 
+ | 
+ Offering Note | 
+ (1) | 
+ An indeterminate amount of senior debt securities to be offered at indeterminate prices is being registered pursuant to this registration statement. The registrant is deferring payment of the registration fee pursuant to Rule 456(b) and is excluding this information in reliance on Rule 456(b) and Rule 457(r). The registrant will calculate the registration fee applicable to an offer of senior debt securities pursuant to this registration statement based on the fee payment rate in effect on the date of such fee payment. 
+ | 
+ | 
+ X | 
+ - References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_OfferingNote | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ dtr-types:textBlockItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - Definition The title of the class of securities being registered (for each class being registered).
+ + References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_OfferingSctyTitl | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:securityTitleItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - Definition Type of securities: "Asset-backed Securities", "ADRs/ADSs", "Debt", "Debt Convertible into Equity", "Equity", "Face Amount Certificates", "Limited Partnership Interests", "Mortgage Backed Securities", "Non-Convertible Debt", "Unallocated (Universal) Shelf", "Exchange Traded Vehicle Securities", "Other"
+ + References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ + Details 
+ Name: | 
+ ffd_OfferingSctyTp | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ ffd:securityTypeItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References No definition available.
+ + Details 
+ Name: | 
+ ffd_OfferingTable | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ xbrli:stringItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References No definition available.
+ + Details 
+ Name: | 
+ ffd_PrevslyPdFlg | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ xbrli:booleanItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - References Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ -Section 457
+ -Subsection r
+ + Details 
+ Name: | 
+ ffd_Rule457rFlg | 
+ Namespace Prefix: | 
+ ffd_ | 
+ Data Type: | 
+ xbrli:booleanItemType | 
+ Balance Type: | 
+ na | 
+ Period Type: | 
+ duration | 
+ | 
+ X | 
+ - Details 
+ Name: | 
+ ffd_OfferingAxis=1 | 
+ Namespace Prefix: | 
+ | 
+ Data Type: | 
+ na | 
+ Balance Type: | 
+ | 
+ Period Type: | 
+ | 
+ | 

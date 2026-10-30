@@ -1,0 +1,3 @@
+SPOT run: Step 0 - EUR sovereign 3.83% (ECB AAA SR_30Y, 2026-09-10, struck fresh); cap converted at the ECB reference rate 1.1592 USD/EUR (2026-09-11); no ADR, ordinary shares listed directly; beneficiary certificates carry no distribution or liquidation right (Articles 9.6), excluded; 20-F cover count is OUTSTANDING (issued 209,485,215 less treasury 3,652,688), the ERIC trap does not fire; 205,584,205 shares at 2026-06-30 (6-K 0001628280-26-052543); price $525.75, cap $108,086M = EUR 93,242M; skip reason tested: ten EUR IFRS years are in companyfacts, unpriceable only by the USD-unit and US-GAAP-name filters
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

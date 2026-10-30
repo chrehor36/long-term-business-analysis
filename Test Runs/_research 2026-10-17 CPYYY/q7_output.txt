@@ -1,0 +1,34 @@
+market cap GBPm 6952; adjusted net cash 30 Jun 2026 709; EV 6243
+
+== A all-equity, maintenance only (CENTRAL)
+ series [1184, 695, 2547, 1012, 554] avg 1198; growth -17.3% (end years)
+ range at 5.864%: whole 5649 to 20437; per share 137.6p to 457.7p; width 3.62x
+ ends at 10%: 4114 and 11984; FAIR PRICE 189.6p a share = $10.05 an ADS
+ implied return at the price: bottom case -20.3%, top case 19.2%
+
+== B all-equity, all spending (beside)
+ series [1184, 695, 2547, 908, -312] avg 1004; growth -31.8% (halves (series changes sign))
+ range at 5.864%: whole 2864 to 17985; per share 77.3p to 404.7p; width 6.28x
+ ends at 10%: 2052 and 10386; FAIR PRICE 150.0p a share = $7.95 an ADS
+ implied return at the price: bottom case -50.0%, top case 16.4%
+
+== C all-equity, maintenance only, depreciation variant (beside)
+ series [800, 386, 2364, 955, 668] avg 1035; growth -4.4% (end years)
+ range at 5.864%: whole 12516 to 17643; per share 286.3p to 397.3p; width 1.41x
+ ends at 10%: 7719 and 10346; FAIR PRICE 210.9p a share = $11.18 an ADS
+ implied return at the price: bottom case 12.7%, top case 16.6%
+
+== D equity-only, maintenance only (beside)
+ series [953, 539, 2508, 1030, 584] avg 1123; growth -11.5% (end years)
+ range at 5.864%: whole 7947 to 19147; per share 172.0p to 414.5p; width 2.41x
+ ends at 10%: 5365 and 11228; FAIR PRICE 179.6p a share = $9.52 an ADS
+ implied return at the price: bottom case -23.8%, top case 16.1%
+
+== E equity-only, all spending (beside)
+ series [953, 539, 2508, 926, -282] avg 929; growth -24.4% (halves (series changes sign))
+ range at 5.864%: whole 3639 to 16696; per share 78.8p to 361.4p; width 4.59x
+ ends at 10%: 2551 and 9630; FAIR PRICE 131.8p a share = $6.99 an ADS
+ implied return at the price: bottom case -50.0%, top case 13.7%
+
+== F beside: central basis, 2022 and 2023 left out, avg of 2021, 2024, 2025 = 917; growth 2021->2025 -17.3%
+ range 108.9p to 353.7p; fair 148.6p; implied bottom -24.3% top 14.7%

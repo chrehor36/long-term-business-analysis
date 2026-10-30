@@ -1,0 +1,36 @@
+# Q2 evidence. Unit production cost per Boe as each filer defines it (stated), and annual revenue / operating result in USD millions from XBRL companyfacts (latest-filed values), cross-read against the 10-K tables named.
+table,filer,year,value,definition,source
+cost,PED,2017,13.62,"Average Production Costs per Boe; excludes workover, marketing, ad valorem and severance taxes",10-K FY2019 0001654954-20-003503
+cost,PED,2018,19.77,same,10-K FY2019 0001654954-20-003503
+cost,PED,2019,15.32,same,10-K FY2019 0001654954-20-003503
+cost,PED,2020,13.09,same,10-K FY2022 0001654954-23-003759
+cost,PED,2021,13.44,same,10-K FY2022 0001654954-23-003759
+cost,PED,2022,13.12,same,10-K FY2022 0001654954-23-003759
+cost,PED,2023,8.98,"same, also excludes ARO settlements",10-K FY2025 0001654954-26-003098
+cost,PED,2024,10.36,same,10-K FY2025 0001654954-26-003098
+cost,PED,2025,11.62,same,10-K FY2025 0001654954-26-003098
+cost,PED,2026H1,13.72,"Direct lease operating expense 18,477 / 1,347,053 Boe (analyst's division)",10-Q Q2 2026 0001654954-26-007591
+cost,Acquired companies,2023,15.09,"Lease operating and workover expenses per Boe",DEFM14C 0001654954-26-000782
+cost,Acquired companies,2024,18.63,same,DEFM14C 0001654954-26-000782
+cost,SM Energy,2017,4.43,"Lease operating expense per BOE (transport, production and ad valorem taxes separate)",10-K FY2019 0000893538-20-000009
+cost,SM Energy,2018,4.74,same,10-K FY2019 0000893538-20-000009
+cost,SM Energy,2019,4.67,same,10-K FY2019 0000893538-20-000009
+cost,SM Energy,2020,3.97,same,10-K FY2022 0000893538-23-000014
+cost,SM Energy,2021,4.39,same,10-K FY2022 0000893538-23-000014
+cost,SM Energy,2022,5.03,same,10-K FY2022 0000893538-23-000014
+cost,SM Energy,2023,5.13,same,10-K FY2025 0000893538-26-000032
+cost,SM Energy,2024,5.11,same,10-K FY2025 0000893538-26-000032
+cost,SM Energy,2025,5.71,same,10-K FY2025 0000893538-26-000032
+cost,Civitas (Bonanza Creek to 2020),2017,9.28/8.20,"Average Production Costs per Boe, LOE plus gas plant and midstream opex, excl. ad valorem and severance; successor / predecessor periods",10-K FY2019 0001509589-20-000011
+cost,Civitas (Bonanza Creek to 2020),2018,7.11,same,10-K FY2019 0001509589-20-000011
+cost,Civitas (Bonanza Creek to 2020),2019,4.35,same,10-K FY2019 0001509589-20-000011
+cost,Civitas,2020,4.00,same,10-K FY2022 0001509589-23-000017
+cost,Civitas,2021,3.41,same,10-K FY2022 0001509589-23-000017
+cost,Civitas,2022,3.25,same,10-K FY2022 0001509589-23-000017
+cost,Civitas,2023,4.47,same,10-K FY2024 0001509589-25-000009
+cost,Civitas,2024,4.96,same,10-K FY2024 0001509589-25-000009
+cost,Evolution Petroleum (Chaveroo field only),FY2026,13.76,"Total lease operating costs per BOE, Chaveroo Field (shared with PED, PED operator)",10-K FY2026 0001104659-26-108258
+span,PED,2015-2025,"revenue 200.0; operating income -93.2; margin -46.6%; loss years 8 of 11",OperatingIncomeLoss / Revenues,companyfacts CIK 1141197
+span,SM Energy,2015-2025,"revenue 22887.3; operating income 2749.4; margin 12.0%; loss years 5 of 11",OperatingIncomeLoss / Revenues,companyfacts CIK 893538
+span,Civitas,2015-2024 ex 2017,"revenue 14704.0; pretax income 3156.8; margin 21.5%; loss years 2 of 9; Chapter 11 filed 2017-01-04","pretax income (operating income not tagged after 2018)",companyfacts CIK 1509589; 10-K FY2019
+span,Evolution Petroleum,FY2016-FY2026,"revenue 702.5; operating income 137.5; margin 19.6%; loss years 1 of 11",OperatingIncomeLoss / Revenues,companyfacts CIK 1006655

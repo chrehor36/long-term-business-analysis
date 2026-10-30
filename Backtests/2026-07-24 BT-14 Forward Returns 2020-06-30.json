@@ -1,0 +1,122 @@
+{
+ "anchor": "2020-06-30",
+ "years": 6.064339493497604,
+ "spy": {
+  "entry_date": "2020-06-30",
+  "entry_px": 283.9731750488281,
+  "exit_date": "2026-07-22",
+  "exit_px": 749.844970703125,
+  "total_return_x": 2.6405486031354615,
+  "cagr_pct": 17.364486131590205
+ },
+ "survivors": [
+  {
+   "ticker": "BKNG",
+   "entry_date": "2020-06-30",
+   "entry_px": 62.37,
+   "exit_date": "2026-07-22",
+   "exit_px": 180.35,
+   "total_return_x": 2.892,
+   "cagr_pct": 19.14
+  },
+  {
+   "ticker": "ORLY",
+   "entry_date": "2020-06-30",
+   "entry_px": 28.11,
+   "exit_date": "2026-07-24",
+   "exit_px": 87.4,
+   "total_return_x": 3.109,
+   "cagr_pct": 20.57
+  },
+  {
+   "ticker": "GOOG",
+   "entry_date": "2020-06-30",
+   "entry_px": 70.06,
+   "exit_date": "2026-07-24",
+   "exit_px": 319.09,
+   "total_return_x": 4.554,
+   "cagr_pct": 28.4
+  },
+  {
+   "ticker": "FOXA",
+   "entry_date": "2020-06-30",
+   "entry_px": 24.8,
+   "exit_date": "2026-07-24",
+   "exit_px": 55.31,
+   "total_return_x": 2.23,
+   "cagr_pct": 14.14
+  },
+  {
+   "ticker": "LRCX",
+   "entry_date": "2020-06-30",
+   "entry_px": 30.37,
+   "exit_date": "2026-07-22",
+   "exit_px": 319.65,
+   "total_return_x": 10.524,
+   "cagr_pct": 47.42
+  },
+  {
+   "ticker": "CME",
+   "entry_date": "2020-06-30",
+   "entry_px": 127.59,
+   "exit_date": "2026-07-24",
+   "exit_px": 255.31,
+   "total_return_x": 2.001,
+   "cagr_pct": 12.12
+  },
+  {
+   "ticker": "CMCSA",
+   "entry_date": "2020-06-30",
+   "entry_px": 30.47,
+   "exit_date": "2026-07-22",
+   "exit_px": 23.77,
+   "total_return_x": 0.78,
+   "cagr_pct": -4.01
+  },
+  {
+   "ticker": "AFL",
+   "entry_date": "2020-06-30",
+   "entry_px": 31.3,
+   "exit_date": "2026-07-24",
+   "exit_px": 125.6,
+   "total_return_x": 4.013,
+   "cagr_pct": 25.75
+  },
+  {
+   "ticker": "PNC",
+   "entry_date": "2020-06-30",
+   "entry_px": 83.98,
+   "exit_date": "2026-07-24",
+   "exit_px": 250.99,
+   "total_return_x": 2.989,
+   "cagr_pct": 19.79
+  },
+  {
+   "ticker": "CSX",
+   "entry_date": "2020-06-30",
+   "entry_px": 21.46,
+   "exit_date": "2026-07-22",
+   "exit_px": 49.97,
+   "total_return_x": 2.328,
+   "cagr_pct": 14.96
+  },
+  {
+   "ticker": "MA",
+   "entry_date": "2020-06-30",
+   "entry_px": 285.33,
+   "exit_date": "2026-07-24",
+   "exit_px": 539.66,
+   "total_return_x": 1.891,
+   "cagr_pct": 11.08
+  },
+  {
+   "ticker": "AAPL",
+   "entry_date": "2020-06-30",
+   "entry_px": 88.3,
+   "exit_date": "2026-07-24",
+   "exit_px": 333.02,
+   "total_return_x": 3.771,
+   "cagr_pct": 24.47
+  }
+ ]
+}

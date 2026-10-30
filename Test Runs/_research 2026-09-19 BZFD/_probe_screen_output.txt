@@ -1,0 +1,31 @@
+entity BuzzFeed, Inc.
+== CURRENT screen ==
+owner_earnings: {'5y_da': -44447800.0, '5y_capex': -36643400.0, '3y_da': -32563333.333333332, '3y_capex': -27598000.0}
+restatement_shift : (1.3404077022011989, datetime.date(2022, 12, 31))
+scale_shift : 1.7281905357432612
+acquisition_flag : (190118000.0, None, '')
+working_capital_flag : (datetime.date(2022, 12, 31), 'IncreaseDecreaseInContractWithCustomerLiability', 11.98324958123953, 'ONE LINE MADE THE CASH: ContractWithCustomerLiability moved 1198% of 2022 OCF. Operating cash is not owner earnings when one balance-sheet line produced it (DELL, INOD). Read the 2022 cash-flow statement and liquidity note.')
+da_discontinuity_flag : None
+capex_funding_flag : None
+stale_filer : (datetime.date(2025, 12, 31), 262, '')
+lease_capex_flag : None
+share_count_shift WITH ticker: None
+share_count_shift no ticker: None
+sbc_annual: {datetime.date(2019, 12, 31): 2813000.0, datetime.date(2020, 12, 31): 1189000.0, datetime.date(2021, 12, 31): 23565000.0, datetime.date(2022, 12, 31): 21605000.0, datetime.date(2023, 12, 31): 5579000.0, datetime.date(2024, 12, 31): 5531000.0, datetime.date(2025, 12, 31): 5820000.0}
+da_annual: {datetime.date(2019, 12, 31): 19450000.0, datetime.date(2020, 12, 31): 17486000.0, datetime.date(2021, 12, 31): 22860000.0, datetime.date(2022, 12, 31): 35073000.0, datetime.date(2023, 12, 31): 21941000.0, datetime.date(2024, 12, 31): 19146000.0, datetime.date(2025, 12, 31): 15828000.0}
+ocf: ({datetime.date(2019, 12, 31): -20243000.0, datetime.date(2020, 12, 31): 27553000.0, datetime.date(2021, 12, 31): -22043000.0, datetime.date(2022, 12, 31): 597000.0, datetime.date(2023, 12, 31): 589000.0, datetime.date(2024, 12, 31): -5686000.0, datetime.date(2025, 12, 31): -18748000.0}, 'discontinued-operations cash removed from OCF in 4 of 7 years ($53M total) - the XBRL total tag includes cash the continuing business will not earn again')
+capex annual: {datetime.date(2019, 12, 31): 423000.0, datetime.date(2020, 12, 31): 4708000.0, datetime.date(2021, 12, 31): 4983000.0, datetime.date(2022, 12, 31): 5424000.0, datetime.date(2023, 12, 31): 964000.0, datetime.date(2024, 12, 31): 691000.0, datetime.date(2025, 12, 31): 1958000.0}
+capital_acquired: ({datetime.date(2019, 12, 31): 8589000.0, datetime.date(2020, 12, 31): 14538000.0, datetime.date(2021, 12, 31): 16022000.0, datetime.date(2022, 12, 31): 17785000.0, datetime.date(2023, 12, 31): 14898000.0, datetime.date(2024, 12, 31): 12769000.0, datetime.date(2025, 12, 31): 14352000.0}, {})
+rev: {datetime.date(2019, 12, 31): 317923000.0, datetime.date(2020, 12, 31): 321324000.0, datetime.date(2021, 12, 31): 397564000.0, datetime.date(2022, 12, 31): 436674000.0, datetime.date(2023, 12, 31): 252677000.0, datetime.date(2024, 12, 31): 189887000.0, datetime.date(2025, 12, 31): 185266000.0}
+shares: None
+== a8bc84f on facts filed by 2026-09-01 ==
+share_count_shift : None
+scale_shift : 1.7281905357432612
+restatement_shift : (1.3404077022011989, datetime.date(2022, 12, 31))
+owner_earnings : {'5y_da': -45907600.0, '5y_capex': -25742000.0, '3y_da': -39791666.666666664, '3y_capex': -22024333.333333332}
+dei elements: ['EntityPublicFloat']
+dei EntityPublicFloat 2021-06-30 27600000 10-K 2022-03-30 CY2021Q2I
+dei EntityPublicFloat 2022-06-30 158200000 10-K 2023-03-16 CY2022Q2I
+dei EntityPublicFloat 2023-06-30 57100000 10-K 2024-03-29 CY2023Q2I
+dei EntityPublicFloat 2024-06-30 92400000 10-K 2025-03-14 CY2024Q2I
+dei EntityPublicFloat 2025-06-30 65300000 10-K 2026-03-16 CY2025Q2I

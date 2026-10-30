@@ -1,0 +1,24 @@
+{
+ "ticker": "WH",
+ "name": "Wyndham Hotels & Resorts",
+ "headline": "The world's largest budget hotel franchisor, collecting fees on 868,900 rooms with almost no capital.",
+ "what_short": "Franchisor of budget and midscale hotels",
+ "what_it_does": "Wyndham licenses 25 hotel brands to over 6,200 franchisees who own 8,389 hotels with 868,900 rooms, mostly in economy and midscale categories in smaller cities. A franchisee pays a royalty of about 5% of room revenue plus a 2% to 4% marketing and reservation fee, typically under long contracts. 77% of its royalty profit comes from the US.",
+ "why_it_passed": [
+  "It collects fees on a huge room base and puts in very little capital itself: property and equipment is only $104 million.",
+  "It earned 36% to 67% a year before tax on its tangible capital from 2021 to 2025, close to the best kind of business, which needs almost no money put in to grow.",
+  "Revenue is tied to rooms, room revenue per available room, and fee rate, all of which the company reports every year.",
+  "The analysis found management honest, and the franchise system still stands against three larger rivals."
+ ],
+ "why_not_now": "The analysis values the shares at $34.94 to $42.59 against a price of $73.42, well above the top of the range. A buyer at that price would expect only about 4.0% to 4.7% a year, below a 30-year US Treasury bond (5.56%).",
+ "watch": [
+  "It has lost ground to all three rivals the analysis compared it with, and it pays owners to sign (development advances of $343 million at the end of 2025) to keep winning rooms.",
+  "Debt is $2.7 billion, rated Ba1 / BB+, with about 95% of the term loan swapped to fixed rates and those swaps expiring in 2027 and 2028.",
+  "Online booking sites, AI assistants and alternative lodging are named threats, and a $160 million charge related to its Revo acquisition cut 2025 returns."
+ ],
+ "value_low": 34.94,
+ "value_high": 42.59,
+ "utility": false,
+ "run_date": "2026-10-14",
+ "currency": "USD"
+}

@@ -1,0 +1,20 @@
+year  OCFcont  D&Acont  capexAttr  netLTD  OE_maint  OE_all(no credit)
+2022 2671 2737 6678 3577 -195 -4136
+2023 5909 2875 8993 -2363 2909 -3209
+2024 4803 2639 9010 3253 2033 -4338
+2025 5361 2684 11412 7175 2587 -6141
+debt share 0.4693; capex attributable sum 36093; net LTD sum 11642; cap 16939; credit 11642
+mean OE maintenance-only 1834; mean OE all-spending with credit -1546 (credit at cap -221)
+growth spending 6290; equity-funded 3379 (at cap 2055)
+halves OE 1357 -> 2310: shown growth 30.5%; sales growth halves 4.55%, end-to-end 5.80%; max OE/sales 20.2%
+cap test: OE year 10 at shown growth 26208 vs sales year 10 25745: share 102% > 20.2% -> cut
+long rate: no-growth maintenance 33766 = $38.39; growth case 22992 = $26.14; growth case, credit at cap 33007 = $37.53
+ten percent: no-growth maintenance 18335 = $20.85; growth case 4272 = $4.86; growth case, credit at cap 12409 = $14.11
+FAIR (equity-only, central) = $12.85
+yield at price, maintenance no-growth: 3.28%  (market cap 55903)
+growth case expected return at the price: 3.22%
+all-spending equity-only owner cash at no growth (central credit): -1546; at cap -221
+ALL-EQUITY long rate: no-growth $4.14; growth $-21.20; (pre-interest base 3136, after-tax interest 1303, net debt 53128, pref 991)
+ALL-EQUITY ten percent: no-growth $-25.87; growth $-56.78; (pre-interest base 3136, after-tax interest 1303, net debt 53128, pref 991)
+LITERAL 2021-25: OE maintenance 1952 (no-growth $40.86); OE all-spending with credit -1313
+DEAL: NEE maintenance-only OE 5158; combined shares 2801.6M; per D share OE 2.031; no-growth at long rate $37.81; at ten percent $20.72; market value 0.8138 x 79.80 + 0.41 = $65.35

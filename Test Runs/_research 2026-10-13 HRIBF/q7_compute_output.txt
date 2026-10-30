@@ -1,0 +1,19 @@
+adj to all-equity by year {2021: 208, 2022: 66, 2023: -814, 2024: -1077, 2025: -935} avg -510
+all-spending after acq, equity         {2021: 21444, 2022: 20401, 2023: 3298, 2024: 18844, 2025: 23614} avg 17520 cagr 2.44%
+all-spending after acq, all-equity     {2021: 21652, 2022: 20467, 2023: 2484, 2024: 17767, 2025: 22679} avg 17010 cagr 1.17%
+maintenance-only, equity               {2021: 23953, 2022: 21573, 2023: 2793, 2024: 25638, 2025: 39073} avg 22606 cagr 13.01%
+maintenance-only, all-equity           {2021: 24161, 2022: 21639, 2023: 1979, 2024: 24561, 2025: 38138} avg 22096 cagr 12.09%
+sales cagr 10.39%
+max owner cash / sales: maint 0.117 allsp 0.096
+
+CENTRAL (all-equity): M0=22096 A0=17010 growth spend=5086 g=12.09%  net cash 96261
+  at JGB 4.134%: no-growth end ¥15,010  shown-growth end ¥35,052  ratio 2.58  avg ¥25,031
+  at 10%: no-growth end ¥7,549  shown-growth end ¥13,133  ratio 2.06  avg ¥10,341
+EQUITY-ONLY beside: M0=22606 A0=17520 g=13.01%
+  at JGB 4.134%: no-growth ¥13,013  growth ¥36,216  avg ¥24,615
+  at 10%: no-growth ¥5,380  growth ¥11,901  avg ¥8,640
+ALL-SPENDING literal beside at JGB: g=1.17% no-growth ¥12,082 growth ¥13,088
+ALL-SPENDING literal beside at 10%: g=1.17% no-growth ¥6,339 growth ¥6,672
+ten-year average owner cash (equity basis, before acq): 14883.1
+EV at price ¥1,010,167m; yield on M0 2.19%, on A0 1.68%
+ten-year growth needed for central growth case to earn 10% at the price: 23.1%/yr

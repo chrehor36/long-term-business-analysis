@@ -1,0 +1,278 @@
+{
+  "STT": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Custody bank: earns basis-point servicing/administration fees on ~$32T of assets under custody, asset-management fees at SSGA (SPDR ETFs), plus net interest income on client cash balances. The toll-booth economics are legible to a generalist even though the FX-trading, securities-lending and balance-sheet lines add complexity."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Global custody is a three-firm oligopoly (BNY Mellon, State Street, JPMorgan) with very high switching costs -- moving a fund complex's books and records is a multi-year project -- and scale economics in operations technology. SSGA has been a top-3 ETF sponsor since launching the SPDR S&P 500 in Jan 1993. Through 2014-2016 servicing fee revenue grew with markets and the AUC/A base was sticky."
+      },
+      {
+        "from": 2018,
+        "class": "NARROW",
+        "note": "Fee compression became visible in reported results rather than just commentary. SSGA was drawn into the ETF price war from 2017 (Oct 2017 cuts on the SPDR Portfolio low-cost lineup) as Vanguard and BlackRock took share; management repeatedly flagged servicing-fee-rate pressure on 2017 and 2018 calls. Fee revenue per dollar of AUC/A began a persistent decline."
+      },
+      {
+        "from": 2019,
+        "class": "NARROW",
+        "note": "Break confirmed in the numbers before the anchor. 4Q18 results (Jan 18, 2019) disclosed pricing headwinds and client losses and the stock fell sharply; 1Q19 results (Apr 19, 2019) showed total revenue down 4% YoY, servicing fees down ~12% YoY and investment management revenue down ~7%, with management attributing it to industry-wide pricing competition and lower client activity. The Charles River Development acquisition (announced Jul 20, 2018, closed Oct 1, 2018, $2.6B) was funded partly with equity/preferred and drew criticism for capital drain; it was the strategic answer to a shrinking core spread. Moat still real (switching costs intact) but pricing power visibly gone."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2009-10",
+        "severity": "DISQUALIFYING",
+        "note": "First public allegation of the FX scheme. California AG announced Oct 20, 2009 that the state had intervened in a sealed whistleblower suit alleging State Street had for years overcharged CalPERS and CalSTRS on foreign-currency trades by pricing them at or near the worst rate of the day and pocketing the spread while representing the trades as best-execution. Similar suits by other states and pension funds followed 2010-2011."
+      },
+      {
+        "date": "2014-01",
+        "severity": "DISQUALIFYING",
+        "note": "UK FCA fined State Street Bank Europe Ltd GBP 22.9m on Jan 31, 2014 (already discounted 30% for early settlement) for overcharging six transition-management clients -- Royal Mail Pension, Ireland's National Pension Reserve Fund, the Kuwait Investment Authority among them -- USD 20.2m between June 2010 and September 2011. The FCA found a DELIBERATE strategy to apply mark-ups on top of agreed fees that were 'not agreed by the clients and were deliberately concealed from them,' and said the firm acted with 'complete disregard' for client interests. Deception of customers, not an error."
+      },
+      {
+        "date": "2015-12",
+        "severity": "DISQUALIFYING",
+        "note": "On Dec 17, 2015 State Street self-disclosed that an internal review had found it had overbilled custody clients roughly $200m over 18 years for pass-through out-of-pocket expenses (postage, printing, secure messaging) and would repay with interest. Presented at the time as a self-found billing problem; later proceedings (2019, 2021) established it was an intentional, concealed mark-up scheme running 1998-2015."
+      },
+      {
+        "date": "2016-07",
+        "severity": "DISQUALIFYING",
+        "note": "Global FX settlement announced Jul 26, 2016 (SEC press release 2016-152): $382.4m total across SEC ($167.4m), DOJ and DOL, resolving charges that State Street misled custody clients about the prices it applied to indirect FX trades from 1998 to 2009, applying hidden mark-ups while representing best execution. Systematic deception of customers over more than a decade."
+      },
+      {
+        "date": "2017-01",
+        "severity": "DISQUALIFYING",
+        "note": "DOJ deferred prosecution agreement executed Jan 17-18, 2017 on a criminal information charging one count of conspiracy to commit securities and wire fraud: secret commissions applied to billions of dollars of transition-management securities trades. $32.3m criminal penalty plus an equal $32.3m to the SEC (~$64.6m total), with an independent compliance monitor. Criminal charge, deferred, not dismissed."
+      },
+      {
+        "date": "2018-06",
+        "severity": "DISQUALIFYING",
+        "note": "Individual accountability in the transition-management scheme: on Jun 26, 2018 a Boston federal jury convicted Ross McLellan, former president of State Street's US broker-dealer unit, on two counts of wire fraud, two of securities fraud and one conspiracy count. Sentenced to 18 months. NOT reversed -- the First Circuit UPHELD the convictions on May 20, 2020 (959 F.3d 442)."
+      },
+      {
+        "date": "2019-06",
+        "severity": "DISQUALIFYING",
+        "note": "Three days before the anchor. SEC order announced Jun 27, 2019 (press release 2019-114): State Street Bank and Trust to pay $88.78m ($48.78m disgorgement and prejudgment interest returned to affected funds, $40m civil penalty) for adding undisclosed mark-ups to client out-of-pocket expenses from 1998 to 2015, collecting ~$170m of which ~$110m came from a secret mark-up on SWIFT messaging charges. Clients had contracted to reimburse actual pass-through cost."
+      },
+      {
+        "date": "2021-05",
+        "severity": "DISQUALIFYING",
+        "note": "POST-ANCHOR. On May 13, 2021 State Street entered a SECOND deferred prosecution agreement with DOJ (two-year term, independent compliance monitor) and paid a $115m criminal penalty on a conspiracy-to-commit-wire-fraud information, admitting that from 1998 to 2015 executives conspired to add secret mark-ups to out-of-pocket expenses while telling clients they were pass-through, defrauding clients of more than $290m. This is a repeat criminal resolution within four years of the Jan 2017 DPA."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "STX": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Makes and sells hard disk drives to PC OEMs, enterprise/OEM and cloud data-center customers; economics are units shipped x average selling price against a heavy fixed cost of fabs, heads/media capacity and R&D, with gross margin in the high-20s in good years. Fully transparent to a generalist."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Industry consolidation gave real structural advantage: Seagate bought Samsung's HDD business (closed Dec 2011) and Western Digital bought Hitachi GST (closed Mar 2012), collapsing five suppliers into three and effectively two at scale. Capital intensity, head/media vertical integration and a large patent estate are genuine barriers. Post-Thailand-flood FY2012 was exceptional (revenue $14.9B, gross margin ~31%), and FY2013-FY2015 revenue held roughly $13.7B-$14.4B. But PC unit shipments had already been in decline since 2012 (IDC/Gartner reported the first annual PC decline in 2012 and further declines in 2013 and 2014), so the demand base was eroding under a consolidated supply structure."
+      },
+      {
+        "from": 2016,
+        "class": "NONE",
+        "note": "NAND/SSD substitution hit reported results, hard, in the fiscal year ending just before the anchor. Q1 FY16 (reported Oct 30, 2015): revenue $2.93B, ~-22% YoY. Q2 FY16 (reported Feb 1, 2016): revenue ~$2.99B, ~-19% YoY. Q3 FY16 (quarter ended Apr 1, 2016, reported Apr 29, 2016): revenue ~$2.60B, ~-21% YoY, with margins compressed and the client-compute HDD market shrinking outright as SSDs took the notebook and desktop boot-drive slot. Industry HDD unit shipments fell from ~650m/yr (2010) toward ~400m (2015) and ~350m (2016). Seagate committed to a restructuring cutting ~1,600 jobs (~3% of headcount) on Jun 27, 2016 -- three days before the anchor -- and then on Jul 11, 2016 (POST-ANCHOR, two weeks later) expanded it to ~6,500 jobs, ~14% of the workforce. FY2016 revenue came in at ~$11.2B vs ~$13.7B in FY2015. Consolidated supply cannot be a moat when the end market itself is being substituted away."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2016-02",
+        "severity": "MINOR",
+        "note": "Consumer class action filed Feb 2016 (Ginsberg v. Seagate Technology LLC, No. 5:16-cv-00612, N.D. Cal.) alleging Seagate concealed known defects causing its 3TB ST3000DM001 desktop drive (launched 2011) to fail far above the advertised sub-1% annualized rate; the claim rested largely on Backblaze data published from 2014 showing failure rates around 30% by early 2015. Ordinary-course product litigation on allegations; no regulator involved."
+      },
+      {
+        "date": "2016-03",
+        "severity": "MINOR",
+        "note": "Seagate disclosed in March 2016 that a phishing e-mail impersonating the CEO caused an employee to send W-2 data for current and former US employees to an outside party. Data-security lapse, ordinary course."
+      },
+      {
+        "date": "2023-04",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR by seven years. On Apr 19, 2023 Commerce/BIS announced a $300m settlement -- the largest standalone administrative penalty in BIS history -- finding Seagate shipped roughly $1.1B of hard drives (~7.4m units) to Huawei in more than 400 transactions after the Aug 17, 2020 foreign direct product rule cut Huawei off, while its two competitors stopped. Regulatory/export-control violation resolved by consent order and five-year audit requirement."
+      },
+      {
+        "date": "2023-07",
+        "severity": "MINOR",
+        "note": "POST-ANCHOR. Securities class action filed July 2023 alleging Seagate misrepresented its export-control compliance regarding Huawei shipments. Follow-on allegations only."
+      }
+    ],
+    "gate5_broken_by": "2016-04"
+  },
+  "TAP": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Brewer: sells beer by volume (hectoliters) at a net revenue per hectoliter, against fixed brewery and marketing costs; the levers -- volume, price/mix, input costs (barley, aluminium, freight) -- are all visible. One structural wrinkle a generalist must handle: at the anchor the largest US asset is a 42% equity-method interest in the MillerCoors LLC joint venture with SABMiller (58%), formed Jul 1, 2008, so consolidated revenue understates the US business and US profit arrives as a single equity-income line."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Real but bounded. Brand equity in Coors Light, Miller Lite, Molson Canadian and Carling; scale distribution protected by the US three-tier system; #2 US brewer position through the 42%-owned MillerCoors JV; #1 share in Canada and the UK. Pricing power is genuine but modest and volume-eroding: MillerCoors domestic sales-to-retail fell 1.3% in 2012 and 2.8% in 2013 while domestic net sales per hectoliter rose 3.4% in 2013 (2013 10-K) -- price/mix offsetting shrinking volume, not compounding it. Canada was visibly weaker: on Nov 7, 2013 (post-anchor) management disclosed high-single-digit Coors Light volume and share loss in Canada, surprising the street. Craft and imports had been taking share from domestic premium light since roughly 2010. The 3.5B StarBev acquisition (announced Apr 3, 2012, closed Jun 15-18, 2012) added Central/Eastern Europe (Staropramen) and leverage; brand-value write-downs on the Serbian and Czech businesses were taken in Q3 2013 (post-anchor)."
+      },
+      {
+        "from": 2020,
+        "class": "NONE",
+        "note": "POST-ANCHOR. The pricing-and-mix offset stopped covering volume decline. Molson Coors bought SABMiller's 58% of MillerCoors for $12B (announced Nov 11, 2015, closed Oct 11, 2016), taking full control but adding heavy debt just as US beer volumes turned structurally negative and hard seltzer took share from 2019. A 'revitalization plan' with restructuring was announced Oct 30, 2019; a $668m goodwill impairment was taken in Q4 2019 (disclosed Feb 2020) and ~$1.5B more in 2020. The 2023 Bud Light boycott handed Coors Light a large, competitor-driven share gain, but it was not durable: volumes resumed declining in 2024-2025 and the company recorded a $3.65B partial goodwill impairment plus ~$274m of intangible write-downs on Staropramen and Blue Run in late 2025. A brand portfolio in a shrinking category with no durable pricing power."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2013-01",
+        "severity": "MINOR",
+        "note": "Context, not a charge against Molson Coors. DOJ's Jan 31, 2013 complaint to block Anheuser-Busch InBev's acquisition of Grupo Modelo described a US beer market in which ABI announces annual price increases and MillerCoors typically follows with similar increases -- price leadership, characterized by DOJ as parallel conduct facilitated by concentration, not as an agreement. MillerCoors was not a defendant and no collusion was alleged against it."
+      },
+      {
+        "date": "2015-04",
+        "severity": "MINOR",
+        "note": "POST-ANCHOR. Consumer false-advertising class actions filed from April 2015 alleging MillerCoors marketed Blue Moon as a craft beer while concealing its corporate ownership. Largely dismissed. Ordinary-course consumer litigation."
+      },
+      {
+        "date": "2019-02",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR. On Feb 12, 2019 Molson Coors announced it would restate FY2016 and FY2017 financial statements and disclosed a material weakness in internal control over financial reporting: it had not designed effective controls over the income-tax effects of acquired partnership interests, mis-stating deferred tax liabilities arising from the Oct 2016 purchase of the remaining 58% of MillerCoors. FY2016 deferred tax liabilities and expense increased $399.1m (reducing net income); FY2017 decreased $151.4m (increasing net income). The stock fell more than 7%. Grading note: this was a self-identified, non-cash deferred-tax accounting error with an admitted control failure -- NOT an SEC enforcement action and no finding of manipulation. Shareholder suits and law-firm investigations followed (2019) without a regulator action."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "TDC": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Sells integrated massively-parallel data-warehouse systems (hardware plus database software) to very large enterprises, with attached consulting services and recurring maintenance/subscription revenue. Revenue splits cleanly into product versus services, and the product line is the one that signals demand. The Marketing Applications segment (Aprimo, acquired 2010) is a separate, smaller software business that muddies the mix but not the core."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "From the Oct 2007 spin-off from NCR through about 2012, Teradata was effectively the high-end enterprise data warehouse. Deeply embedded in the largest retailers, banks and telcos, with switching costs measured in years, and the incumbency renewed itself through capacity upgrades. Revenue grew to ~$2.665B (2012) with roughly 20% operating margins; the stock peaked near $80 in August 2012."
+      },
+      {
+        "from": 2014,
+        "class": "NARROW",
+        "note": "First visible cracks in reported results. Hadoop distributions (Cloudera, Hortonworks) and AWS Redshift (announced Nov 2012, generally available Feb 2013) began absorbing net-new analytic workloads at a fraction of Teradata's cost. Teradata lowered its full-year 2013 guidance to the low end of its 6-10% constant-currency growth range in August 2013 and again through the back half of 2013; 2013 revenue came in at ~$2.69B, essentially flat, with product revenue declining. In 2014, revenue was ~$2.73B (roughly +1%) with product revenue down ~7%, and Q2 2014 (reported Aug 2014) showed Americas revenue down 8%, with management attributing it explicitly to reduced large-capex purchases among the top-50 customers -- the very accounts the moat was built on. Teradata bought Hadapt and Revelytix (2014) and RainStor (Dec 2014) trying to buy into the substitute."
+      },
+      {
+        "from": 2016,
+        "class": "NONE",
+        "note": "POST-ANCHOR confirmation of what the pre-anchor trend implied. Q3 2015 (reported Nov 5, 2015) product revenue fell 18% YoY, with integrated data warehouse products the cause; operating income fell to $77m from $123m a year earlier. In November 2015 management announced a strategic review that led to divesting the Marketing Applications business (sold to Marlin Equity, closed Jul 2016) and a restructuring. Full-year 2015 revenue fell to ~$2.53B and 2016 to ~$2.32B. From 2012 to 2015 margins fell from roughly 16% to 9% and ROIC from roughly 33% to 14%. The switching-cost moat still held existing workloads but no longer captured growth -- which is the definition of a moat that no longer compounds."
+      }
+    ],
+    "gate3": [],
+    "gate5_broken_by": "2015-02"
+  },
+  "TEL": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Designs and manufactures electrical/electronic connectors and sensors sold into cars (~55-60% of sales), industrial equipment, aerospace/defense, medical and communications. Economics are legible: win a design slot on a multi-year vehicle or equipment program, ship a growing dollar content per unit against the customer's build volume, at roughly 33-34% gross margin, and concede annual price-downs of a few percent."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Genuine but limited. TE is the largest connector maker globally in a fragmented multi-billion-dollar market, with a catalog running to hundreds of thousands of part numbers, long qualification cycles, and design-in lock-in over 5-7 year auto programs. The secular tailwind -- content per vehicle rising with electrification, ADAS and data connectivity -- had been visible in reported results for years, with TE routinely outgrowing global auto production by several points. What caps it: components sold to powerful OEMs, contractual annual price erosion, and full exposure to the customer's cycle. No pricing power in the Buffett sense."
+      },
+      {
+        "from": 2019,
+        "class": "NARROW",
+        "note": "Class unchanged, but the cyclicality was on full display before the anchor and should not be mistaken for moat erosion. Global auto production turned down through 2018-2019, led by China; distributor destocking compounded it. TE lowered fiscal 2019 guidance on its Q1 FY19 report (Jan 23, 2019) and again on Q2 FY19 (Apr 24, 2019), citing auto production declines particularly in China and inventory destocking, and accelerated cost actions. Fiscal 2019 (ended Sep 27, 2019, reported Oct 2019, POST-ANCHOR) finished with sales down roughly 4-7% reported and organic, Transportation down on auto production, Commercial Transportation down double digits in every region, and adjusted EPS lower -- while Industrial (aerospace, defense, medical) still grew organically with margin expansion. Content-per-vehicle gains continued to outperform underlying auto builds, i.e. the competitive position held while the cycle turned."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2002-09",
+        "severity": "SERIOUS",
+        "note": "PREDECESSOR CONDUCT UNDER DIFFERENT MANAGEMENT -- flag the discontinuity. TE's business was Tyco International's electronics segment until it was spun off as Tyco Electronics on Jun 29, 2007 with its own board and management. Tyco International CEO Dennis Kozlowski and CFO Mark Swartz were indicted Sept 12, 2002 and convicted Jun 17, 2005 of looting the company; Tyco restated results and settled with the SEC. None of this is TE-management conduct, but it is the corporate lineage and the source of the tax exposures below."
+      },
+      {
+        "date": "2007-09",
+        "severity": "SERIOUS",
+        "note": "PREDECESSOR CONDUCT, inherited by contract -- flag the discontinuity. The IRS concluded its examination of Tyco International's 1997-2000 US federal returns during fiscal 2007 and issued Revenue Agent Reports asserting that intercompany loans originating 1997-2000 were not debt, disallowing roughly $2.7B of interest deductions, with a knock-on exposure to ~$6.6B of deductions in later years. The IRS also proposed CIVIL FRAUD PENALTIES against Tyco International arising from alleged actions of FORMER executives in connection with intercompany stock transfers in 1998-1999. Under the 2007 Tax Sharing Agreement, TE Connectivity, Tyco International and Covidien bear 31%, 27% and 42% of these pre-separation liabilities respectively. The IRS issued further notices disallowing approximately $2.86B of deductions in mid-2013 (TE 8-K, June 2013). The alleged fraud is that of pre-2007 Tyco executives, not of TE management; TE's exposure is a contractual share of the bill."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "TFC": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "ENTITY NOTE: at a 2019-06-30 anchor the ticker is BB&T Corporation; the merger of equals with SunTrust was announced Feb 7, 2019, received final regulatory approval Nov 19, 2019 and closed Dec 6, 2019, when BB&T renamed itself Truist Financial. BB&T's own model is a plain regional bank -- gather low-cost core deposits across the Southeast and Mid-Atlantic, lend to commercial, CRE, small business and consumer borrowers, earn the spread -- plus BB&T Insurance Holdings, one of the largest US insurance brokerages, contributing meaningful fee income. A generalist can follow it; the standard caveat for any bank is that credit quality inside the loan book is never fully observable from outside."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "A solid but not extraordinary deposit franchise: dense branch share in North Carolina, Virginia, Georgia and Florida, funding costs near peer-best, efficiency ratio in the high-50s (better than most regional peers), and a durable fee stream from the insurance brokerage. Credit culture was demonstrably better than average through 2008-2010 -- BB&T repaid its TARP investment in June 2009, among the first large banks to do so, and its crisis-era charge-offs ran below the regional peer group. Growth came from serial acquisition (Colonial Bank, FDIC-assisted Aug 2009; Susquehanna Bancshares, closed Aug 2015; National Penn, closed Apr 2016), which is scale purchased rather than earned. Not a moat in the durable-pricing-power sense; a cost-of-funds and underwriting advantage that must be re-earned every cycle."
+      },
+      {
+        "from": 2020,
+        "class": "NARROW",
+        "note": "POST-ANCHOR. On Dec 6, 2019 BB&T and SunTrust closed their all-stock merger of equals (announced Feb 7, 2019, ~$66B, 1.295 BB&T shares per SunTrust share) and became Truist -- the sixth-largest US bank with roughly $442B assets, $301B loans and $324B deposits. Scale increased; the moat class did not. Integration proved long and costly: core banking system conversions were not completed until 2022, and in Q4 2023 (announced January 2024) Truist recorded a $6.1B goodwill impairment substantially tied to the merged franchise. Larger deposit base, unchanged competitive advantage."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2013-09",
+        "severity": "SERIOUS",
+        "note": "On Sep 20, 2013 the US Court of Federal Claims (Salem Financial Inc. v. United States, Judge Thomas Wheeler) ruled for the government 'on all grounds,' holding that BB&T's STARS (Structured Trust Advantaged Repackaged Securities) transaction -- developed and marketed by Barclays and KPMG -- lacked economic substance, denying roughly $660m in claimed foreign tax credits and imposing about $112m in penalties. The court described the conduct of BB&T, Barclays, KPMG and Sidley Austin regarding STARS as 'nothing short of reprehensible' and the structure as circular, offsetting cash flows with no economic effect, unprofitable pre-tax. BB&T took a ~$250m charge in Sept 2013. The Federal Circuit affirmed the economic-substance holding in 2015 (partially modifying the treatment of certain components). Graded SERIOUS rather than DISQUALIFYING: BB&T litigated and lost a civil tax case; no fraud was charged and no admission was made. It sits close to the line, because the transaction was engineered to present the IRS with a form that did not match its substance."
+      },
+      {
+        "date": "2016-09",
+        "severity": "DISQUALIFYING",
+        "note": "On Sep 29, 2016 Branch Banking and Trust Company agreed to pay $83m to resolve False Claims Act allegations, and -- this is the key fact -- BB&T ADMITTED that it certified for FHA insurance mortgage loans that failed to meet federal underwriting requirements and that it did not comply with FHA quality-control requirements. The conduct spans Jan 1, 2006 to Sep 30, 2014, roughly eight years, i.e. systematic false certifications to a government insurer, not a one-off. $35.7m of the settlement went to HUD/FHA. Mitigating context: this was crisis-era mortgage-origination conduct under prior mortgage management, and a dozen large lenders reached materially similar FCA settlements in the same period; the amount is small relative to BB&T's earnings."
+      },
+      {
+        "date": "2018-02",
+        "severity": "MINOR",
+        "note": "A multi-day technology outage beginning Feb 22, 2018 left BB&T customers unable to access accounts, ATMs and online banking; BB&T waived fees. Operational failure, ordinary course, no regulatory action."
+      },
+      {
+        "date": "2014-06",
+        "severity": "SERIOUS",
+        "note": "MERGER-PARTNER CONDUCT UNDER DIFFERENT MANAGEMENT -- flag the discontinuity; this becomes part of the combined company only from Dec 6, 2019. On Jun 17, 2014 SunTrust Mortgage agreed to a ~$968m settlement with DOJ, HUD, the CFPB and 49 states over mortgage origination, servicing and foreclosure abuses, including improperly denying loan modifications and robo-signing-type practices, with roughly $500m in consumer relief and $418m to resolve FHA origination claims. SunTrust also entered a $320m agreement (July 2014) resolving a criminal investigation into its administration of the HAMP modification program, with a deferred outcome. None of this is BB&T-management conduct; it becomes the shareholder's problem only after the merger closes."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "TGNA": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Owns and operates local broadcast television stations -- roughly 47 stations in 39 markets after the KFMB acquisition (announced Nov 2017, closed Feb 2018) -- with two revenue streams: local and national spot advertising, sharply cyclical with a large political-year spike in even years, and retransmission consent fees collected from cable, satellite and virtual MVPD distributors. Costs are dominated by local news production and reverse compensation paid back to the Big Four networks. Simple, though the political-year sawtooth means no single year is representative."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "DISCONTINUITY FLAG: the entity at this anchor is not the historical Gannett. On Jun 29, 2015 Gannett Co. split in two -- the publishing business was spun off carrying the Gannett name and the broadcasting/digital parent renamed itself TEGNA. Pre-2015 financials describe a newspaper company and are not comparable. The moat is the FCC-licensed scarcity of Big Four network affiliations in a given DMA plus a local news operation that is genuinely hard to replicate, which together give real leverage in retransmission negotiations. What caps it: the audience base is shrinking, distributors are consolidating, and every dollar of gross retrans growth is partly clawed back by rising reverse compensation to the networks. US pay-TV subscribers peaked around 2014 near 100m and declined every year afterward."
+      },
+      {
+        "from": 2018,
+        "class": "NARROW",
+        "note": "The pure-play broadcaster only fully exists from mid-2017, and the anchor is the first clean look at it. Cars.com was spun off effective Jun 1, 2017 (record date May 31, 2017) and the majority stake in CareerBuilder was sold to Apollo/Ontario Teachers' in July 2017, stripping out the digital-marketplace earnings that had made the 2015-2016 numbers look different. Revenue fell from roughly $3.1B (2016) to ~$1.9B (2017) on those divestitures plus the odd-year absence of political advertising. What remains is a higher-margin, more concentrated, more cyclical broadcaster whose growth depends on retrans repricing outrunning subscriber losses -- which it still did through this period."
+      },
+      {
+        "from": 2024,
+        "class": "NONE",
+        "note": "POST-ANCHOR. The arithmetic that supported the retrans engine inverted: subscriber attrition reached high single digits annually, and net retransmission revenue (gross retrans less reverse comp) stopped growing. Revenue was ~$3.28B in 2022, ~$2.91B in 2023 and ~$2.98B in 2024 -- with the even-year political spikes doing more of the work each cycle. The Standard General acquisition attempt (announced Feb 22, 2022) collapsed on May 22, 2023 after the FCC designated it for hearing. Nexstar agreed to acquire TEGNA in August 2025, the clearest signal that scale consolidation, not standalone economics, is the endgame for the asset class."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2018-07",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR by weeks. Private antitrust class actions were filed from July 2018 and consolidated in October 2018 as In re Local TV Advertising Antitrust Litigation, MDL No. 2867 (N.D. Ill., Judge Virginia Kendall), naming TEGNA among roughly eleven broadcast groups. The claim is that since at least 2014 the defendants agreed to fix local spot advertising prices and exchanged competitively sensitive historical, current and forward-looking sales and pacing data. Graded SERIOUS as a pure competition-law matter with no alleged deception of customers about the product. Status: several co-defendants settled -- CBS, Fox and Cox for $48m combined -- while TEGNA had not settled as of the latest available record. Allegations, not findings."
+      },
+      {
+        "date": "2019-06",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR by a year. DOJ Antitrust Division filed a civil complaint and proposed consent decree against TEGNA in June 2019, in the second wave of an industry sweep; the first wave (Sinclair, Tribune, Raycom, Meredith, Griffin, Dreamcatcher) was announced Nov 6-13, 2018 with the Sinclair decree entered May 22, 2019, and the second wave covered CBS, Cox, Fox, Scripps and TEGNA. The conduct at issue is the exchange of pacing information among competing stations in the same local markets. The decrees bar further information sharing and require an antitrust compliance officer; they are settlements without admission of liability. Pure information-exchange competition case -- no deception element -- hence SERIOUS rather than DISQUALIFYING. Note that the DOJ investigation was already running in 2018 and was disclosed by industry participants before the anchor's fiscal-year-end reporting, but the first public enforcement filings came Nov 2018, after the Jun 30, 2018 anchor."
+      }
+    ],
+    "gate5_broken_by": null
+  }
+}

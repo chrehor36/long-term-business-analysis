@@ -1,0 +1,38 @@
+==============================================================================
+POWELL INDUSTRIES INC  (POWL)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.56%   09/28/2026   US Treasury daily par yield curve
+  price     187.23 USD   2026-09-28   (aggregator — live quote only)
+  shares    36.4M      market cap 6.82B USD
+  share basis: dei cover-page count as of 2026-08-03
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-09-30        183        5         9          8        169        170
+    2024-09-30        109        5         7         12         92         97
+    2025-09-30        168        5         7         13        150        156
+          mean                                                 137        141
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 70 .. 75   yield 1.03%..1.11%
+  DIVERGENCE vs the 3-yr window: -48.8% on the conservative end
+  ** The spread is part of the RANGE [E4-25], not a tiebreak.
+     "Working with a range of possibilities is the better approach."
+     Do NOT pick a window and defend it. If the combined range
+     (window spread x capex band) is too wide to reach a conclusion,
+     THAT IS THE CONCLUSION [E4-25]. A wide spread is also a Q4
+     finding about earnings reliability [E5-11]. **
+
+  1. THE YIELD                  2.01% ..  2.07%   vs sovereign 5.56%
+  2. GROWTH THE PRICE ASSUMES   11.5%  (at a 5.56% rate)
+  3. POINTS OVER THE SOVEREIGN -0.95 .. -0.89
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

@@ -1,0 +1,34 @@
+2021 {'asfiled': 1053.5, 'snps_unlev': 1054.3, 'anss': 368.3, 'combined': 1422.6}
+2022 {'asfiled': 1143.3, 'snps_unlev': 1137.6, 'anss': 451.9, 'combined': 1589.5}
+2023 {'asfiled': 950.4, 'snps_unlev': 922.2, 'anss': 491.6, 'combined': 1413.8}
+2024 {'asfiled': 591.5, 'snps_unlev': 640.4, 'anss': 478.2, 'combined': 1118.6}
+2025 {'asfiled': 455.8, 'snps_unlev': 789.8, 'anss': 338.7, 'combined': 1128.5}
+
+net debt 6,429.7; market cap 82,431; EV 88,860
+
+CENTRAL all-equity, combined companies' averages, purchases left out (serial acquirer: organic pair): base 1,334.6  growth -5.63%
+   no growth                    whole     25,040  per share    97.11
+   shown growth -5.6%           whole     16,013  per share    50.01
+   range per share 50.01 to 97.11  width 1.56x (whole)  price 430.14
+   fair price (each end at 10%, averaged) 25.28
+   expected return at price, no growth: 1.50%
+   expected return at price, shown growth -5.6%: 0.86%
+
+EQUITY-ONLY beside (after run-rate interest, against market value): base 1,047.9  growth -5.63%
+   no growth                    whole     19,660  per share   102.59
+   shown growth -5.6%           whole     12,572  per share    65.61
+   range per share 65.61 to 102.59  width 1.56x (whole)  price 430.14
+   fair price (each end at 10%, averaged) 46.19
+   expected return at price, no growth: 1.27%
+   expected return at price, shown growth -5.6%: 0.73%
+
+LITERAL as filed SNPS window, unadjusted (beside): base 838.9  growth -18.90%
+   no growth                    whole     15,739  per share    48.58
+   shown growth -18.9%          whole      3,756  per share   -13.95
+   range per share -13.95 to 48.58  width 4.19x (whole)  price 430.14
+   fair price (each end at 10%, averaged) -4.77
+   expected return at price, no growth: 0.94%
+   expected return at price, shown growth -18.9%: 0.12%
+
+DEFAULT PAIR beside: net purchases over window 16,768.8, 3,353.8 a year; owner cash before purchases 1,334.6 a year -> after purchases -2,019.1 (not positive; no range)
+serial-acquirer test: net purchases 16,769 vs half of owner cash before purchases over window 3,337

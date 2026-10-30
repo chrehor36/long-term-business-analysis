@@ -1,0 +1,32 @@
+CAP $M 39390
+float 2024 44846  f/inv 47.9%  inv/eq 2.20x  f/eq 1.05x
+float 2025 47239  f/inv 50.8%  inv/eq 2.26x  f/eq 1.15x
+equity check 2025 41139  6/30/26 40606  BVPS 76.44
+cost of float 2016  uw  -5605  avg net reserves  61074  cost +9.18%
+cost of float 2017  uw  -4481  avg net reserves  56615  cost +7.91%
+cost of float 2018  uw  -3137  avg net reserves  51817  cost +6.05%
+cost of float 2019  uw     89  avg net reserves  49686  cost -0.18%
+cost of float 2020  uw  -1024  avg net reserves  45356  cost +2.26%
+cost of float 2021  uw   1055  avg net reserves  43551  cost -2.42%
+cost of float 2022  uw   2048  avg net reserves  43439  cost -4.71%
+cost of float 2023  uw   2349  avg net reserves  41584  cost -5.65%
+cost of float 2024  uw   1917  avg net reserves  40123  cost -4.78%
+cost of float 2025  uw   2332  avg net reserves  40968  cost -5.69%
+10-yr cumulative UW -4457; cost +0.94%/yr
+5-yr 2021-25 UW 9701; cost -4.63%/yr
+CONVENTION-4 2025 cost -5.06%
+ROE GAAP 2023 8.6 / 2024 -3.2 / 2025 7.5 mean 4.3 ; core operating 9.6/9.1/11.1 mean 9.9
+buyback 2024 $6600M / 89M sh = $74.16 avg; 1.06x year-end BVPS, 1.20x core operating BVPS
+buyback 2025 $5800M / 73M sh = $79.45 avg; 1.04x year-end BVPS, 1.15x core operating BVPS
+buyback H1 2026 $1200M / 15M sh = $80.00 avg; 1.03x year-end BVPS, 1.07x core operating BVPS
+shares 12/31/23 688.8M -> 7/31/26 522.9M: -24.1%
+close 2020-12-31 37.86 (aggregator, split-free, close not adjclose) cap 32620; close 2025-12-31 85.55 cap 46043
+NI to common 2021-25 25820, dividends 5040, retained 20780; buybacks 23394
+[E3-54] mkt value change per $1 retained: 0.65 ; counting buybacks as distributions: -5.13
+BVPS 12/31/20 76.46 -> 12/31/25 76.44 ; price 37.86 -> 85.55 (+17.7%/yr)
+component 1 gross-of-float 80307  ($153.58/sh);  less float 47239 -> 33068 ($63.24/sh)
+component 2 2023: APTI-basis 1109 ; after restructuring/integration/pension/regulatory 654
+component 2 2024: APTI-basis 830 ; after restructuring/integration/pension/regulatory 28
+component 2 2025: APTI-basis 1562 ; after restructuring/integration/pension/regulatory 956
+yields on cap: APTI 2025 13.57%; APTI less restructuring etc 2025 12.03%; GAAP pre-tax cont ops 2025 9.85%, 3-yr mean 8.98%
+P/B 6/30/26 0.973 ; P/core op BV 1.012 ; P/adj tangible BV 1.044

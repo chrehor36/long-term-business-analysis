@@ -1,0 +1,15 @@
+net LTD raised by year [1568, -2305, 2613, -660, 2796] total 4012 ; cap (48.8 pct x spending) total 9184 -> credit 4012
+equity-only owner cash by year (net LTD credited in its year): [1616, -2802, 209, -2264, 980]
+CENTRAL equity-only mean: -452  per share -0.78  yield at price -1.68%
+variant, credit at the allowed share each year: [1372, 997, -633, 511, 664] mean 582 per share 1.01 yield 2.16%
+variant, depreciation for spending: [1459, 1189, -235, 1150, 1601] mean 1033 per share 1.78 yield 3.84%
+  halves (2021-22 vs 2024-25): 1324 -> 1376, growth 1.28%/yr
+central equity-only          value at sovereign -14.77/sh ; at 10% -7.81/sh ; return at price (perp+g approx) -1.68%
+cap variant                  value at sovereign 19.02/sh ; at 10% 10.06/sh ; return at price (perp+g approx) 2.16%
+dep variant no growth        value at sovereign 33.74/sh ; at 10% 17.85/sh ; return at price (perp+g approx) 3.84%
+dep variant halves growth    value at sovereign 37.39/sh ; at 10% 19.47/sh ; return at price (perp+g approx) 5.17%
+all-equity unlevered owner cash by year [905, 310, -1612, -765, -1027] mean -438
+net debt 2026-06-30 28920
+all-equity: value at sovereign -64.28/sh ; fair at 10% -57.55/sh
+equity-only fair price at 10% (central): -7.81/sh
+owner cash needed for 10% at the price: 2690/yr

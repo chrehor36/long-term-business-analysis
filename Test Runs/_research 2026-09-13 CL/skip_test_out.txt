@@ -1,0 +1,91 @@
+== (a) a8bc84f owner_earnings(): CAPEX_UNRESOLVED
+a8bc84f CAPX_TAGS ['PaymentsToAcquirePropertyPlantAndEquipment', 'PaymentsToAcquireProductiveAssets', 'PaymentsForCapitalImprovements']
+a8bc84f annual(OCF): {datetime.date(2018, 12, 31): 3056000000.0, datetime.date(2019, 12, 31): 3133000000.0, datetime.date(2020, 12, 31): 3719000000.0, datetime.date(2021, 12, 31): 3325000000.0, datetime.date(2022, 12, 31): 2556000000.0, datetime.date(2023, 12, 31): 3745000000.0, datetime.date(2024, 12, 31): 4107000000.0, datetime.date(2025, 12, 31): 4198000000.0}
+a8bc84f annual(SBC): {datetime.date(2018, 12, 31): 109000000.0, datetime.date(2019, 12, 31): 100000000.0, datetime.date(2020, 12, 31): 107000000.0, datetime.date(2021, 12, 31): 135000000.0, datetime.date(2022, 12, 31): 125000000.0, datetime.date(2023, 12, 31): 122000000.0, datetime.date(2024, 12, 31): 135000000.0, datetime.date(2025, 12, 31): 155000000.0}
+a8bc84f capital_acquired cash capex: {datetime.date(2015, 12, 31): 691000000.0, datetime.date(2016, 12, 31): 593000000.0, datetime.date(2017, 12, 31): 553000000.0, datetime.date(2018, 12, 31): 436000000.0, datetime.date(2019, 12, 31): 335000000.0, datetime.date(2020, 12, 31): 409000000.0, datetime.date(2021, 12, 31): 567000000.0, datetime.date(2022, 12, 31): 696000000.0}
+  a8bc84f annual([ PaymentsToAcquirePropertyPlantAndEquipment ]): {datetime.date(2011, 12, 31): 537000000.0, datetime.date(2012, 12, 31): 565000000.0, datetime.date(2013, 12, 31): 670000000.0, datetime.date(2014, 12, 31): 757000000.0, datetime.date(2015, 12, 31): 691000000.0, datetime.date(2016, 12, 31): 593000000.0, datetime.date(2017, 12, 31): 553000000.0, datetime.date(2018, 12, 31): 436000000.0, datetime.date(2019, 12, 31): 335000000.0, datetime.date(2020, 12, 31): 409000000.0, datetime.date(2021, 12, 31): 567000000.0, datetime.date(2022, 12, 31): 696000000.0}
+  a8bc84f annual([ PaymentsToAcquireProductiveAssets ]): {datetime.date(2014, 12, 31): 757000000.0, datetime.date(2015, 12, 31): 691000000.0, datetime.date(2016, 12, 31): 593000000.0, datetime.date(2017, 12, 31): 553000000.0, datetime.date(2018, 12, 31): 436000000.0, datetime.date(2019, 12, 31): 335000000.0, datetime.date(2020, 12, 31): 410000000.0, datetime.date(2021, 12, 31): 567000000.0, datetime.date(2022, 12, 31): 696000000.0, datetime.date(2023, 12, 31): 705000000.0, datetime.date(2024, 12, 31): 561000000.0, datetime.date(2025, 12, 31): 564000000.0}
+  a8bc84f annual([ PaymentsForCapitalImprovements ]): {}
+a8bc84f da_annual: {datetime.date(2018, 12, 31): 511000000.0, datetime.date(2019, 12, 31): 519000000.0, datetime.date(2020, 12, 31): 539000000.0, datetime.date(2021, 12, 31): 556000000.0, datetime.date(2022, 12, 31): 545000000.0, datetime.date(2023, 12, 31): 567000000.0, datetime.date(2024, 12, 31): 605000000.0, datetime.date(2025, 12, 31): 630000000.0}
+
+== (b) current owner_earnings(): {'5y_da': 2871200000.0, '5y_capex': 2833200000.0, '3y_da': 3278666666.6666665, '3y_capex': 3269333333.3333335}
+disc note: 
+2014-12-31 OCF 3298000000.0 SBC 131000000.0 CAPEX 757000000.0 DA 442000000.0
+2015-12-31 OCF 2949000000.0 SBC 125000000.0 CAPEX 691000000.0 DA 449000000.0
+2016-12-31 OCF 3141000000.0 SBC 123000000.0 CAPEX 593000000.0 DA 443000000.0
+2017-12-31 OCF 3054000000.0 SBC 127000000.0 CAPEX 553000000.0 DA 475000000.0
+2018-12-31 OCF 3056000000.0 SBC 109000000.0 CAPEX 436000000.0 DA 511000000.0
+2019-12-31 OCF 3133000000.0 SBC 100000000.0 CAPEX 335000000.0 DA 519000000.0
+2020-12-31 OCF 3719000000.0 SBC 107000000.0 CAPEX 409000000.0 DA 539000000.0
+2021-12-31 OCF 3325000000.0 SBC 135000000.0 CAPEX 567000000.0 DA 556000000.0
+2022-12-31 OCF 2556000000.0 SBC 125000000.0 CAPEX 696000000.0 DA 545000000.0
+2023-12-31 OCF 3745000000.0 SBC 122000000.0 CAPEX 705000000.0 DA 567000000.0
+2024-12-31 OCF 4107000000.0 SBC 135000000.0 CAPEX 561000000.0 DA 605000000.0
+2025-12-31 OCF 4198000000.0 SBC 155000000.0 CAPEX 564000000.0 DA 630000000.0
+working_capital_flag None
+acquisition_flag (1102000000.0, None, '')
+restatement_shift (1.0, datetime.date(2017, 12, 31))
+scale_shift 1.0829298157733622
+da_discontinuity_flag None
+capex_funding_flag None
+lease_capex_flag None
+share_count_shift 0.9757186512248942
+TAG AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment 17 ['2009-12-31'] ['2025-12-31']
+TAG AllocatedShareBasedCompensationExpense 18 ['2008-12-31'] ['2025-12-31']
+TAG DeferredTaxAssetsTaxDeferredExpenseCompensationAndBenefitsShareBasedCompensationCost 17 ['2009-12-31'] ['2025-12-31']
+TAG DepreciationDepletionAndAmortization 19 ['2007-12-31'] ['2025-12-31']
+TAG EffectiveIncomeTaxRateReconciliationShareBasedCompensationExcessTaxBenefitPercent 4 ['2016-12-31'] ['2019-12-31']
+TAG EmployeeServiceShareBasedCompensationCashReceivedFromExerciseOfStockOptions 3 ['2008-12-31'] ['2010-12-31']
+TAG EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense 18 ['2008-12-31'] ['2025-12-31']
+TAG EmployeeServiceShareBasedCompensationTaxBenefitRealizedFromExerciseOfStockOptions 8 ['2009-12-31'] ['2016-12-31']
+TAG EmployeeStockOwnershipPlanESOPCashContributionsToESOP 18 ['2008-12-31'] ['2025-12-31']
+TAG EmployeeStockOwnershipPlanESOPCompensationExpense 18 ['2008-12-31'] ['2025-12-31']
+TAG EmployeeStockOwnershipPlanESOPDebtStructureDirectLoanAmount 1 ['1989-12-31'] ['1989-12-31']
+TAG EmployeeStockOwnershipPlanESOPDividendsPaidToESOP 18 ['2008-12-31'] ['2025-12-31']
+TAG EmployeeStockOwnershipPlanESOPInterestPaymentsFromESOP 5 ['2008-12-31'] ['2012-12-31']
+TAG EmployeeStockOwnershipPlanESOPNumberOfAllocatedShares 15 ['2010-12-31'] ['2024-12-31']
+TAG EmployeeStockOwnershipPlanESOPNumberOfSuspenseShares 15 ['2010-12-31'] ['2024-12-31']
+TAG EmployeeStockOwnershipPlanESOPSharesInESOP 14 ['2012-12-31'] ['2025-12-31']
+TAG ExcessTaxBenefitFromShareBasedCompensationFinancingActivities 3 ['2008-12-31'] ['2010-12-31']
+TAG IncomeTaxReconciliationNondeductibleExpenseDepreciation 17 ['2008-12-31'] ['2024-12-31']
+TAG IncomeTaxReconciliationNondeductibleExpenseShareBasedCompensationCost 17 ['2008-12-31'] ['2024-12-31']
+TAG PaymentsToAcquireBusinessesNetOfCashAcquired 19 ['2007-12-31'] ['2025-12-31']
+TAG PaymentsToAcquireMarketableSecurities 18 ['2008-12-31'] ['2025-12-31']
+TAG PaymentsToAcquireProductiveAssets 19 ['2007-12-31'] ['2025-12-31']
+TAG PaymentsToAcquirePropertyPlantAndEquipment 12 ['2011-12-31'] ['2022-12-31']
+TAG SegmentReportingInformationDepreciationDepletionAndAmortizationExpense 3 ['2008-12-31'] ['2010-12-31']
+TAG ShareBasedCompensation 17 ['2009-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeitedInPeriod 8 ['2011-12-31'] ['2018-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeitedInPeriodWeightedAverageGrantDateFairValue 1 ['2011-12-31'] ['2011-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeituresWeightedAverageGrantDateFairValue 7 ['2012-12-31'] ['2018-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod 8 ['2011-12-31'] ['2018-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue 8 ['2011-12-31'] ['2018-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber 9 ['2010-12-31'] ['2018-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValue 9 ['2010-12-31'] ['2018-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriod 8 ['2011-12-31'] ['2018-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodTotalFairValue 3 ['2008-12-31'] ['2010-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodWeightedAverageGrantDateFairValue 8 ['2011-12-31'] ['2018-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsExpectedDividendRate 17 ['2009-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsExpectedTerm 3 ['2009-12-31'] ['2011-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsExpectedVolatilityRate 17 ['2009-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsRiskFreeInterestRate 17 ['2009-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableNumber 15 ['2011-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableWeightedAverageExercisePrice 15 ['2011-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableWeightedAverageRemainingContractualTerm 1 ['2011-12-31'] ['2011-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriodTotalIntrinsicValue 3 ['2008-12-31'] ['2010-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriodWeightedAverageExercisePrice 1 ['2011-12-31'] ['2011-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExpirationsInPeriod 5 ['2021-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresAndExpirationsInPeriod 10 ['2011-12-31'] ['2020-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresAndExpirationsInPeriodWeightedAverageExercisePrice 10 ['2011-12-31'] ['2020-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresInPeriod 5 ['2021-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriod 15 ['2011-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageExercisePrice 1 ['2011-12-31'] ['2011-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageGrantDateFairValue 17 ['2009-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingIntrinsicValue 15 ['2011-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingNumber 16 ['2010-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingWeightedAverageExercisePrice 16 ['2010-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsExercisesInPeriodWeightedAverageExercisePrice 14 ['2012-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsExpirationsInPeriodWeightedAverageExercisePrice 5 ['2021-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsForfeituresInPeriodWeightedAverageExercisePrice 5 ['2021-12-31'] ['2025-12-31']
+TAG ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageExercisePrice 14 ['2012-12-31'] ['2025-12-31']
+TAG StockIssuedDuringPeriodSharesShareBasedCompensation 17 ['2009-12-31'] ['2025-12-31']

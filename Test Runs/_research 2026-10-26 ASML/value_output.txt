@@ -1,0 +1,25 @@
+all spending {2021: 9787, 2022: 7098, 2023: 3112, 2024: 8911, 2025: 10825} mean 7947 growth 2.55%
+maintenance (D&A) {2021: 10257, 2022: 7834, 2023: 4569, 2024: 10075, 2025: 11430} mean 8833 growth 2.74%
+growth spending (capex+intangibles - D&A) average 886
+net cash 10037.5 (cash+STI 12735.1, debt 2697.6)
+market cap 547266, EV 537228
+
+== central: maintenance case base 8833 growth 2.74% growth spending yr1 886 yr10 1131
+  range at 3.62%: whole business 244006 to 300252; per share (all-equity, net cash added) 661 to 808; equity-only 635 to 782
+  width top/bottom 1.23
+  fair price (each end at 10%, averaged): all-equity EUR 272 (USD 304), equity-only EUR 246 (USD 275)
+  expected return at the price, no-growth case: 1.64%
+  expected return at the price, shown-growth case: 2.07%
+
+== beside: all-spending case base 7947 growth 2.55% growth spending yr1 0 yr10 0
+  range at 3.62%: whole business 219519 to 273014; per share (all-equity, net cash added) 598 to 737; equity-only 572 to 711
+  width top/bottom 1.24
+  fair price (each end at 10%, averaged): all-equity EUR 253 (USD 283), equity-only EUR 227 (USD 254)
+  expected return at the price, no-growth case: 1.48%
+  expected return at the price, shown-growth case: 1.87%
+sensitivity: maintenance base, 10.0% growth for ten years then flat -> expected return at the price 3.74%
+sensitivity: maintenance base, 15.1% growth for ten years then flat -> expected return at the price 5.34%
+sensitivity: maintenance base, 18.5% growth for ten years then flat -> expected return at the price 6.60%
+contract-liability build-up per year in the window 2756; maintenance base without it 6077
+  no-growth value without it 167879, per share 463
+price EUR 1424.80; Nasdaq equivalent at ECB 1.1193 = USD 1594.78

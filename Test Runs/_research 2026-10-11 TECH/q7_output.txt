@@ -1,0 +1,38 @@
+year   OC eq   OC all-eq   purchases   OC all-eq after purchases
+FY2022   238.2     246.4       25.0        221.4
+FY2023   176.9     183.2      315.4       -132.1
+FY2024   205.1     215.9      169.7         46.2
+FY2025   223.0     237.3       12.6        224.7
+FY2026   227.9     238.7       -4.6        243.3
+
+averages: all-equity before purchases 224.3; equity-only 214.2; purchases 103.6; capex 41.2; maint-only add 8.1
+after purchases: all-equity 120.7; equity-only 110.6
+
+series after purchases changes sign: [221.4, -132.1, 46.2, 224.7, 243.3]
+halves (FY22-23 vs FY25-26, 3 yrs apart): 44.6 -> 234.0, 73.7%/yr (absurd: cut by (f))
+sales growth FY2022->FY2026 2.39%/yr; owner cash before purchases -0.79%/yr
+filer organic sales growth FY2022-FY2026 compounded 5.43%/yr
+
+case                                                                             EV@5.6%   $/sh ae    EV@10%   $/sh ae $/sh eq@10
+bottom: purchases deducted, growth 2.39% (sales), purchases stop after yr 10        3964     25.69      1926     12.69     11.52
+purchases deducted, no growth, purchases stop after yr 10                           3228     21.00      1607     10.66      9.60
+top: no purchases, no growth, maintenance-only capex                                4150     26.87      2324     15.23     14.18
+no purchases, no growth, all capex                                                  4006     25.96      2243     14.72     13.66
+organic pair: no purchases, shown owner-cash growth -0.79%                          3762     24.40      2126     13.97     12.95
+most generous: no purchases, organic 5.43%, maintenance-only                        6388     41.15      3375     21.93     20.59
+
+RANGE (all-equity, at 5.60%): $25.69 to $26.87 a share; width 1.05 to 1; price $72.46
+equity-only range at 5.60%: $23.89 to $25.31
+FAIR PRICE (each end at 10%, averaged): all-equity $13.96; equity-only $12.85
+
+expected return at $72.46, by case (all-equity):
+  bottom: purchases deducted, growth 2.39% (sales), purchases stop after yr 10    2.25%
+  purchases deducted, no growth, purchases stop after yr 10                       1.83%
+  top: no purchases, no growth, maintenance-only capex                            2.06%
+  no purchases, no growth, all capex                                              1.99%
+  organic pair: no purchases, shown owner-cash growth -0.79%                      1.84%
+  most generous: no purchases, organic 5.43%, maintenance-only                    3.28%
+
+Wilson Wolf beside: equity-method share of income before basis amortization ~ (0.887 + 9.959) / 0.199 = 54.5 at 100%
+  if paid $324M (added to net debt), with $43.7M a year more: bottom $/sh 28.59 (was 25.69)
+  if paid $1000M (added to net debt), with $43.7M a year more: bottom $/sh 24.28 (was 25.69)

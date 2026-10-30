@@ -1,0 +1,76 @@
+==============================================================================
+Covista Inc.  (CVSA)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.66%   10/05/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     125.39 USD   2026-10-05   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                 34.039M  as of 2026-07-31  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                                  34.033M  as of 2026-06-30  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)       63.623M  as of 2015-06-30  (CommonStockSharesIssued)  STALE, not used
+  shares    34.0M      market cap 4.27B USD
+  share basis: dei cover-page count as of 2026-07-31 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2024-06-30      295.8     25.9      75.3       48.9       220.9       194.5
+    2025-06-30      337.9     41.6      51.9       50.3       246.0       244.4
+    2026-06-30      470.4     41.2      55.1       77.7       351.5       374.1
+          mean                                                272.8       271.0
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: D&A basis in 2024, 2025; capex basis in 2026
+  mean of the year-by-year lower: 263.5;  of the higher: 280.4  (lines 2 and 3 below use these)
+  SBC tag by year: 2024 ShareBasedCompensation; 2025 ShareBasedCompensation; 2026 ShareBasedCompensation
+  capex tag by year: 2024 PaymentsToAcquirePropertyPlantAndEquipment; 2025 PaymentsToAcquirePropertyPlantAndEquipment; 2026 PaymentsToAcquirePropertyPlantAndEquipment
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0001104659-26-092044, 0001558370-25-010780, 0001558370-24-011099
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex 185.4  OE D&A 146.8   yield 4.34% (capex) 3.44% (D&A)
+  DIVERGENCE vs the 3-yr window: -46.0% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis  6.39%   D&A basis  6.35%   vs sovereign 5.66%
+  2. GROWTH THE PRICE ASSUMES  -12.3%  (at a 5.66% rate, on the year-by-year lower mean)
+  3. POINTS OVER THE SOVEREIGN +3.30 (lower mean) .. +3.71 (higher mean)
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables    goodwill intangibles     lt debt    retained
+    2021-06-30         3,054       1,751       1,301         495          66         686         276       1,068       2,005
+    2022-06-30         3,029       1,524       1,505         347          79         961         874         839       2,323
+    2022-09-30             -           -           -         326           -           -           -           -           -
+    2022-12-31         2,844       1,335       1,509         206           -           -           -           -       2,336
+    2023-03-31             -           -           -         314           -           -           -           -           -
+    2023-06-30         2,811       1,353       1,457         274         100         961         812         695       2,404
+    2023-09-30             -           -           -         261           -           -           -           -           -
+    2024-06-30         2,741       1,372       1,369         219         124         961         777         649       2,541
+    2025-06-30         2,752       1,319       1,434         200         143         961         765         553       2,778
+    2026-06-30         3,013       1,567       1,446         406         167         961         754         658       3,029
+    accessions: 0001104659-26-092044, 0001558370-21-011957, 0001558370-22-013289, 0001558370-23-014509, 0001558370-24-011099, 0001558370-25-010780
+    equity: StockholdersEquity (2021, 2022, 2022, 2023, 2024, 2025, 2026)
+    lt debt: LongTermDebtNoncurrent (2021, 2022, 2023, 2024, 2025, 2026)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD millions; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        sum
+    2021-06-30           3     1,068      1,071
+    2022-06-30           0       839        839
+    2023-06-30           -       695        695*
+    2024-06-30           -       649        649*
+    2025-06-30           0       553        553
+    2026-06-30           5       658        663
+    d1 = us-gaap:LongTermDebtCurrent
+    d2 = us-gaap:LongTermDebtNoncurrent
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

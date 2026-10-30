@@ -1,0 +1,15 @@
+Fold ALKT: the 76th run and the 47th Q2 OUT - its closest rival's 10-K lists it as a substitute
+
+Queue entry at the head of COMPLETED (price $20.51, 106,941,980 shares from
+10-Q acc. 0001529274-26-000052, cap $2,193.4M, sovereign 5.35% 2026-09-11,
+FAIL at Q2); ALKT struck in the tier-3 roster; dated notes beside the SIGN
+CHANGE sub-class (the label measured operating cash, not owner earnings; ACVA
+is the last name under it). Narrative fold with refuted priors, five tooling
+defects (cap_flag compares two dates; D&A end includes acquired amortization;
+SBC max-rule double-counts cash-settled deal awards; deal_note cannot see 13D;
+level notes read different series) and three brief defects (stale E2-49
+tally; cap_flag framed as a wrong number; control facts in 13D not 8-K).
+Run file: substitute count corrected from eleven to ten, recorded in the
+self-audit. No alert, no PORTFOLIO row. check_framework.py PASS.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

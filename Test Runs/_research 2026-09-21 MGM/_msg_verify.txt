@@ -1,0 +1,12 @@
+MGM: the fold verifier, and its own case-sensitivity bug
+
+verify_fold.py reads all six fold steps back from disk independently: the register
+count and MGM's position in it, the roster line count, the narrative fold and its
+contents, the absence of any alerts.json band or PORTFOLIO.md row, the acceptance
+test, and the tree's cleanliness. It reported one FAIL on its first run and the
+fail was its own: it looked for a lowercase "shape #13" where the fold writes
+"Shape #13 THE TENANT". Fixed and re-run; all checks PASS. Recorded rather than
+quietly corrected, because a checker that returns a plausible wrong answer is the
+defect class this project keeps finding in its own tooling.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

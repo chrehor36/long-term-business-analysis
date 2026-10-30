@@ -1,0 +1,13 @@
+import sys, re, html
+raw=open(sys.argv[1],'rb').read().decode('utf-8','ignore')
+raw=re.sub(r'(?is)<(script|style).*?</\1>','',raw)
+raw=re.sub(r'(?is)<ix:header.*?</ix:header>','',raw)
+raw=re.sub(r'(?i)</(p|div|tr|br|h\d|li|table)>','\n',raw)
+raw=re.sub(r'(?i)<br\s*/?>','\n',raw)
+raw=re.sub(r'(?i)</t[dh]>',' | ',raw)
+t=re.sub(r'<[^>]+>','',raw)
+t=html.unescape(t).replace('\xa0',' ')
+t=re.sub(r'[ \t]+',' ',t)
+t=re.sub(r'\n\s*\n+','\n',t)
+open(sys.argv[2],'w',encoding='utf-8').write(t)
+print(sys.argv[2], len(t))

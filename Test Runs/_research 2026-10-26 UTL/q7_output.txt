@@ -1,0 +1,35 @@
+plant depreciation [52.7, 55.1, 59.6, 66.3, 72.4] avg 61.2
+owner cash after all spending incl acq [-8.6, -26.5, -35.9, -46.4, -217.5] avg -67.0
+owner cash after all capex, acq excl [-8.6, -26.5, -35.9, -46.4, -57.1] avg -34.9
+owner cash after maintenance (plant dep) [53.7, 40.5, 45.5, 57.2, 55.6] avg 50.5
+owner cash after maintenance (full D&A) [46.9, 33.0, 37.7, 47.4, 39.3] avg 40.9
+growth spending [62.3, 67.0, 81.4, 103.6, 112.7] avg 85.4
+book-tax variant (maint less deferred tax) 40.1
+shown growth end years 0.84%  halves(2021-22 vs 2024-25, 3 yrs apart) 6.16%
+revenue growth 2021-2025 3.16%
+LTD increase/yr 27.8; cap 48% x growth spend 41.0; credit 27.8
+base 50.5; growth spend net of credit 57.6; market cap 1005.8; net debt 946.8
+EQUITY-ONLY at sovereign: no-growth 947.3 ($51.95); growth case 560.4 ($30.73); width 1.69
+  at 10%: no-growth 504.9 ($27.69); growth 169.3 ($9.28); FAIR (avg) $18.48
+  implied return at price, no-growth case: 5.02%
+ALL-EQUITY: base 74.0; no-growth $24.21; growth $-7.31; at 10%: $-11.34, $-38.65; FAIR $-25.00
+equity-only, growth case all growth spending no credit: $18.74
+serial acquirer test: purchases 160.4 vs half owner cash before purchases 126.2
+literal all-spending avg incl acquisitions -67.0; excl acquisitions -34.9
+
+--- organic pair (serial acquirer convention) ---
+acquired after-tax contribution 2.5; organic 2025 owner cash 53.0; organic growth -0.33%
+CENTRAL equity-only organic: top no-growth $51.95; bottom growth-case $26.91; width 1.93; at 10%: $27.69, $7.91; FAIR $17.80
+  year-1 growth spending charged (net of credit) 57.6; year-10 55.9; credit year1 27.8 year10 27.0
+DEFAULT pair beside: base 18.4; no-growth $18.94; growth $-4.58; FAIR $0.38
+ALL-EQUITY organic beside: top $24.21; bottom $-12.88; FAIR $-26.00
+expected return at price, top case equity-only: 5.02% ; all-equity top: 3.79%
+owner cash/revenue 2025 10.4%; max share in window 11.6%
+
+--- water deal closed 2026-06-30 (after window): cash paid 42.1 + 0.6, credited at nothing ---
+central top $49.60; bottom $24.57; width 2.02; FAIR $15.45
+book-tax variant top $38.91; full D&A variant top $39.69
+expected return at price incl water debt, top case: 4.82%
+growth spending gross year1 85.4 year10 82.9
+AWC-MA beside: ~1.53/share on cash alone
+exact: ng 947.3 bot 490.8 ng10 504.9 bot10 144.2 fair 15.455

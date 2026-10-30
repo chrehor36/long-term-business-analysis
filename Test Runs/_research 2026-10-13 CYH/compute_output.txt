@@ -1,0 +1,38 @@
+year  levered(capex)  levered(D&A)  unlevered(capex)  unlevered(D&A)  margin unlev capex
+2021     -749         -820           -166           -236    -1.3%
+2022     -269         -388            357            238     2.9%
+2023     -461         -499            140            102     1.1%
+2024      -62         -188            494            368     3.9%
+2025      199          108            802            711     6.4%
+
+central 2022-25 (2021 aberrational) [capex]: unlevered avg 448, levered avg -148, unlevered margin 3.59%
+
+central 2022-25 (2021 aberrational) [da]: unlevered avg 355, levered avg -242, unlevered margin 2.84%
+
+literal 2021-25 [capex]: unlevered avg 325, levered avg -268, unlevered margin 2.61%
+
+literal 2021-25 [da]: unlevered avg 236, levered avg -357, unlevered margin 1.89%
+
+net debt (principal) 9621; base revenue 10885; shares 141.009357M; price 3.0; market cap 423
+EV at price 10044
+central 2022-25 (2021 aberrational)    capex as-is  cash    448  EV@sov    8003 per sh  -11.47 | EV@10%    4482 per sh  -36.45  | yield on EV at price  4.46%
+central 2022-25 (2021 aberrational)    capex scaled cash    391  EV@sov    6986 per sh  -18.69 | EV@10%    3912 per sh  -40.49  | yield on EV at price  3.90%
+central 2022-25 (2021 aberrational)    da    as-is  cash    355  EV@sov    6334 per sh  -23.31 | EV@10%    3547 per sh  -43.08  | yield on EV at price  3.53%
+central 2022-25 (2021 aberrational)    da    scaled cash    309  EV@sov    5526 per sh  -29.04 | EV@10%    3094 per sh  -46.28  | yield on EV at price  3.08%
+literal 2021-25                        capex as-is  cash    325  EV@sov    5812 per sh  -27.02 | EV@10%    3254 per sh  -45.15  | yield on EV at price  3.24%
+literal 2021-25                        capex scaled cash    284  EV@sov    5069 per sh  -32.28 | EV@10%    2838 per sh  -48.10  | yield on EV at price  2.83%
+literal 2021-25                        da    as-is  cash    236  EV@sov    4222 per sh  -38.29 | EV@10%    2364 per sh  -51.46  | yield on EV at price  2.35%
+literal 2021-25                        da    scaled cash    206  EV@sov    3677 per sh  -42.15 | EV@10%    2059 per sh  -53.63  | yield on EV at price  2.05%
+equity-only ('central 2022-25 (2021 aberrational)', 'capex'): levered avg -148 vs market cap 423 -> yield -35.0%
+equity-only ('central 2022-25 (2021 aberrational)', 'da'): levered avg -242 vs market cap 423 -> yield -57.1%
+equity-only ('literal 2021-25', 'capex'): levered avg -268 vs market cap 423 -> yield -63.4%
+equity-only ('literal 2021-25', 'da'): levered avg -357 vs market cap 423 -> yield -84.5%
+
+unlevered owner cash needed for 10% on EV at the price: 1004 (margin on base revenue 9.2%)
+best year margin scaled to base revenue: 699; EV@10% 6992; per sh -18.64; EV@sov per sh 20.32
+H1 2026 levered: OCF -209 - SBC 5 - capex 152 - acq 53 - NCI 90 = -509 ; interest paid 437
+
+shown growth of unlevered owner cash 2022-25: 30.9%/yr; ten years on 448 -> 6637 = 61% of base revenue (highest margin earned 6.4%): absurd, cut by (f)
+sales growth 2022-25 0.74%/yr; 2021-25 0.24%/yr
+central capex as-is    growth 0.74%: EV@sov 8485 per sh -8.06 | EV@10% 4711 per sh -34.82
+central capex scaled   growth 0.74%: EV@sov 7409 per sh -15.68 | EV@10% 4114 per sh -39.05

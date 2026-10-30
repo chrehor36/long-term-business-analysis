@@ -1,0 +1,16 @@
+2007 OCF    0.433  spend    2.242  owner cash   -1.809  OCF-D&A  -0.381  net income   3.422  revenue   33.476
+2008 OCF    3.038  spend    4.196  owner cash   -1.158  OCF-D&A   1.819  net income   3.357  revenue   43.785
+2009 OCF    0.384  spend    4.304  owner cash   -3.920  OCF-D&A  -1.065  net income  12.369  revenue   81.343
+2010 OCF   11.076  spend   56.109  owner cash  -45.033  OCF-D&A   9.435  net income  30.349  revenue  175.847
+2011 OCF    5.969  spend   23.496  owner cash  -17.527  OCF-D&A   3.003  net income  39.806  revenue  226.749
+5y sum owner cash -69.447  avg -13.889; 5y sum net income 89.302; 5y sum OCF 20.899
+depreciation variant avg 2.5623
+H1 2012 owner cash -2.494 (net income H1 2012 13.552)
+market cap $6,718.51; net cash 9.876M; EV -9.869M
+central, all spending no-growth @ 0.0206: business  -674.245M  per share -19.7773
+central, all spending no-growth @ 0.1000: business  -138.895M  per share  -3.8407
+depreciation variant no-growth @ 0.0206: business   124.382M  per share   3.9967
+depreciation variant no-growth @ 0.1000: business    25.623M  per share   1.0567
+  growth case capped at the discount rate 2.06% @2.06%: per share 4.7594; @10%: 1.1715
+  variant fair price (average of the two ends at 10%) 1.1141
+revenue CAGR 2007-2011 61.3%

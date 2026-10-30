@@ -1,0 +1,65 @@
+CALM fold: register entry 137, wave 7 name 5, FAIL at Q2 -- and the cap_flag is the screen's defect, not the company's
+
+The six fold steps for Cal-Maine Foods (CALM), wave 7 name 5.
+
+1. Register entry 137 in ## COMPLETED FROM THE QUEUE, with the price, the share
+   count and the cover accession it came from, the cap, the sovereign and the
+   PASS/FAIL line. The slice was counted with a line-start regex immediately
+   before insertion: 136 entries stood above, 137 after, exactly one added and
+   no ticker duplicated.
+2. Roster: CALM appended to Screens/_daily/_wave7_done.txt. The whole queue file
+   was searched for any other roster carrying CALM; there is none, and all four
+   occurrences of the ticker are inside the new register entry.
+3. Narrative fold into the PREPPED READING LIST.
+4. No band armed in tools/alerts.json and no PORTFOLIO.md row: the name failed on
+   the business, so the reversal condition is recorded in words instead.
+5. check_framework.py PASS before this commit; ledger_verbatim.py 311 rows,
+   254 EXACT, 56 ELISION_OK, 1 DECLARED_NOT_A_QUOTE.
+6. This commit, with a pathspec.
+
+SURVIVAL SHAPES: no row added, no number moved, count unchanged at 25. The table
+was counted with a line-start regex first (30 rows, maximum 30, next unused 31).
+Q4 was never opened, so the run names no death; its one reference to #13 THE
+TENANT is Q2 evidence and is deliberately NOT entered in that shape's instances
+column, following the PAGP precedent.
+
+WHAT THE RUN FOUND.
+
+Q2 OUT on [E3-03] criterion (2), from the registrant's own filing: shell eggs
+are priced off the independently quoted Urner Barry and USDA wholesale markets,
+in an industry the 10-K calls intensely competitive and highly fragmented, at
+prices it says are out of its own control. Walmart with Sam's Club is 30.0% of
+net sales.
+
+The [E2-58] exception was tested rather than assumed. Cal-Maine has the best
+claim in the industry to a wide and sustainable cost advantage and fails on its
+own [E2-01] series: sixteen-year mean ROE 16.6%, but -8.8% in FY2017 with
+operating cash flow of -$45.9M, +0.2% in FY2021, and a mean of 10.4% across the
+thirteen years that exclude the three supply-shock spikes.
+
+[E4-41] applied and the flag was right: conventional egg prices +99.7% in FY2025
+and -50.9% in FY2026 on flat volume, because 40.2 and 45.2 million commercial
+layer hens and pullets were depopulated by avian influenza in 2024 and 2025 --
+rivals' hens. Cal-Maine lost about 352,000 pullets.
+
+Competitor row from four registrants' own 10-Ks, same metric and window: CALM
+17.7%, PPC 15.8%, VITL 12.6%, TSN 11.0%, POST 9.3% -- all five with the same
+two-spike signature. The rest of the industry's top ten are private and file
+nothing.
+
+DEFECTS AND CORRECTIONS.
+
+- cap_flag is a defect in the screen and it is general. It compares a cap struck
+  at today's price against a float struck at the prior half-year end and calls
+  the gap arithmetically impossible. Here it was a 12.5% drawdown. Affiliates
+  hold about 3.6%; on the same date float is 96.2% of the screen's cap.
+- acq_note understated the perimeter: $667.3M over five years, 19.5% of cap, not
+  $643M. The screen missed the separately-tagged Van's Foods line.
+- newest_filing and newest_periodic of 2026-05-30 are both correct, not stale:
+  a May fiscal year end means the 10-K is the newest periodic filing.
+- wc_note did not fire on a 29.1% receivables swing, just under the measured 30%
+  threshold. Recorded as a near-miss, not proposed as a change.
+- CLAUDE.md still says the ledger is 267 rows; the file is 311. Recorded for the
+  second consecutive wave-7 fold and not edited.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

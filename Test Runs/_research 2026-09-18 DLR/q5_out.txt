@@ -1,0 +1,15 @@
+cap common 68182.9 cap incl third-party OP units 69411.0 business ex cash 67546.2
+central (c), five-year FY2021-25                               OE    337.4  yield  0.49%  vs sov -4.80 pts  g to 10%  9.51%
+central (c), three-year FY2023-25                              OE    382.9  yield  0.55%  vs sov -4.74 pts  g to 10%  9.45%
+central (c), FY2025                                            OE    550.7  yield  0.79%  vs sov -4.50 pts  g to 10%  9.21%
+central (c), TTM to 2026-06-30 (insurance-flattered)           OE    994.8  yield  1.43%  vs sov -3.86 pts  g to 10%  8.57%
+conservative (c), FY2025                                       OE    183.7  yield  0.26%  vs sov -5.03 pts  g to 10%  9.74%
+conservative (c), five-year                                    OE      2.7  yield  0.00%  vs sov -5.29 pts  g to 10% 10.00%
+display: company (c), FY2025                                   OE   1870.1  yield  2.69%  vs sov -2.60 pts  g to 10%  7.31%
+display: central FY2025 + five-year mean realised gains 809.9  OE   1360.6  yield  1.96%  vs sov -3.33 pts  g to 10%  8.04%
+display: AFFO FY2025 (company)                                 OE   2268.2  yield  3.27%  vs sov -2.02 pts  g to 10%  6.73%
+display: Core FFO FY2025 (company)                             OE   2557.8  yield  3.69%  vs sov -1.60 pts  g to 10%  6.31%
+value per share (common+units) = OE/(0.10-g):
+central FY2025 {3: 21.0, 5: 29.0, 7: 49.0, 8: 73.0}
+central five-year {3: 13.0, 5: 18.0, 7: 30.0, 8: 45.0}
+company (c) FY2025 {3: 71.0, 5: 99.0, 7: 165.0, 8: 248.0}

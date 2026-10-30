@@ -1,0 +1,84 @@
+==============================================================================
+OGE ENERGY CORP.  (OGE)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.33%   10/23/2026   US Treasury daily par yield curve
+  earnings currency: USD (the XBRL unit of the cash-flow series)
+  price     48.41 USD   2026-10-23   (aggregator — live quote only)
+  share counts filed (millions):
+    dei cover-page count                                206.374M  as of 2026-03-31  (EntityCommonStockSharesOutstanding)
+    balance-sheet count                                 206.100M  as of 2025-12-31  (CommonStockSharesOutstanding)
+    balance-sheet ISSUED count (includes treasury)      206.100M  as of 2025-12-31  (CommonStockSharesIssued)
+  shares    206.4M      market cap 9.99B USD
+  share basis: dei cover-page count as of 2026-03-31 (EntityCommonStockSharesOutstanding)
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex   (USD millions)
+  OCF tag: NetCashProvidedByUsedInOperatingActivities
+
+        FY end        OCF      SBC       D&A      capex    OE capex      OE D&A
+    2023-12-31      1,232       13       507      1,178          41         713
+    2024-12-31        813       12       540      1,091        -290         262
+    2025-12-31      1,137       14       560      1,054          69         563
+          mean                                                  -60         512
+  OE capex = OCF − SBC − capital spending;  OE D&A = OCF − SBC − depreciation and amortization.
+  lower of the two each year: capex basis in 2023, 2024, 2025
+  mean of the year-by-year lower: -60;  of the higher: 512  (lines 2 and 3 below use these)
+  SBC tag by year: 2023 ShareBasedCompensation; 2024 ShareBasedCompensation; 2025 ShareBasedCompensation
+  capex tag by year: 2023 PaymentsToAcquireProductiveAssets; 2024 PaymentsToAcquireProductiveAssets; 2025 PaymentsToAcquireProductiveAssets
+
+  STATEMENT LINES FROM THE FILINGS (calculation linkbase; transcription; USD millions)
+  read: 0001193125-26-055414, 0000950170-25-022560, 0000950170-24-017400
+  none in the window: no securities purchases or sales inside operating cash flow, no other
+  stock-pay line, no intangible, software or mine-development payment beside capex.
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE capex -261  OE D&A 273   yield -2.62% (capex) 2.73% (D&A)
+  DIVERGENCE vs the 3-yr window: -335.3% on the lower of the two bases
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                 capex basis -0.60%   D&A basis  5.13%   vs sovereign 5.33%
+  2. GROWTH THE PRICE ASSUMES  REFUSED - the lower owner-earnings mean
+     is at or below zero. A DCF on a non-positive base produces no
+     number; the negative bottom boundary IS the statement.
+  3. POINTS OVER THE SOVEREIGN REFUSED on the same ground at the lower mean; higher mean +2.54
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory     lt debt    retained
+    2016-12-31         9,940       6,496       3,444           0         173          80       2,406       2,367
+    2017-12-31        10,413       6,562       3,851          14         189          84       2,750       2,760
+    2018-12-31        10,749       6,744       4,005          94         175          58       2,897       2,906
+    2019-12-31        11,024       6,885       4,140           0         154          46       3,195       3,036
+    2020-12-31        10,719       7,087       3,632           1         158          36       3,494       2,545
+    2021-12-31        12,606       8,550       4,056           0         162          41       4,496       2,955
+    2022-12-31        12,545       8,131       4,413          88         250         109       3,549       3,291
+    2023-12-31        12,791       8,279       4,512           0         209         158       4,340       3,374
+    2024-12-31        13,716       9,075       4,641           1         241         148       5,021       3,476
+    2025-12-31        14,370       9,393       4,977           0         348         112       5,369       3,602
+    accessions: 0000950170-23-003858, 0000950170-24-017400, 0000950170-25-022560, 0001021635-17-000013, 0001021635-18-000015, 0001021635-19-000015, 0001021635-20-000016, 0001021635-21-000026, 0001021635-22-000037, 0001193125-26-055414
+    equity: StockholdersEquity (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+    lt debt: LongTermDebtNoncurrent (2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+
+    DEBT ON THE FACE OF THE BALANCE SHEET (USD millions; the lines the filings' calculation linkbase puts under liabilities)
+    year-end            d1        d2        d3        d4        sum
+    2016-12-31       3,063     2,406       236       225      5,930
+    2017-12-31       2,862     2,750       168       250      6,029
+    2018-12-31       2,977     2,897         0       250      6,124
+    2019-12-31       3,032     3,195       112         0      6,339
+    2020-12-31       2,895     3,494        95         0      6,485
+    2021-12-31       2,964     4,496       487         0      7,947
+    2022-12-31       2,780     3,549         0     1,000      7,329
+    2023-12-31       2,759     4,340       499         0      7,599
+    2024-12-31       2,824     5,021       469        32      8,347
+    2025-12-31       2,930     5,369       292         0      8,591
+    d1 = us-gaap:LiabilitiesOtherThanLongtermDebtNoncurrent
+    d2 = us-gaap:LongTermDebtNoncurrent
+    d3 = us-gaap:ShortTermBorrowings
+    d4 = us-gaap:LongTermDebtCurrent
+    sum = the lines tagged that year-end; '-' = not tagged under that element that year (read the statement);
+    * = a partial sum, some line untagged that year-end. Leases are not in it.
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

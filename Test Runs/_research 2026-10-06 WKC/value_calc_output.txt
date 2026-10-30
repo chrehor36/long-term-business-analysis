@@ -1,0 +1,52 @@
+year  OCF*   SBC  capex  D&A   OC(capex) OC(D&A) taxpaid  acq(net of divest)
+2010   -35.7   8.8  12.5  19.1     -57.0   -63.6   24.8    177.8
+2011  -142.5  11.0  19.5  40.5    -173.0  -194.0   51.1    122.7
+2012   145.8  14.1  28.5  36.7     103.2    95.0   26.5    217.8
+2013   264.3  16.7  82.7  44.7     164.9   202.9   34.6     76.9
+2014   141.2  15.8  50.2  59.4      75.2    66.0   40.8    230.6
+2015   447.5  17.0  51.0  63.4     379.5   367.1   44.0     96.9
+2016   205.2  19.2  36.1  82.3     149.9   103.7   37.5    430.8
+2017   205.2  21.2  54.0  86.0     130.0    98.0   50.8    120.7
+2018   187.3   8.3  72.3  81.5     106.7    97.5   85.3     21.3
+2019   228.8  23.6  80.9  87.4     124.3   117.8   82.9    -30.8
+2020   604.1   0.0  51.3  85.8     552.8   518.3   68.5   -131.0
+2021   173.2  19.6  39.2  81.0     114.4    72.6   39.0     12.1
+2022   138.5  17.6  78.6 107.8      42.3    13.1   66.6    643.9
+2023   271.3  24.2  87.6 104.5     159.5   142.6   61.3     67.3
+2024   259.9  28.1  68.2 106.4     163.6   125.4   60.6   -117.2
+2025   292.9  25.5  65.6  98.2     201.8   169.2   97.0    137.4
+5yr avg OC capex 136.3  D&A 104.6  tax 64.9
+16yr avg OC capex 139.9  D&A 120.7  tax 54.5
+sum OC capex 2238.1  net acquisitions 2077.2  per yr 129.8
+mcap 1863.5
+5yr capex basis                            g=+0.000 cash  136.3 value    2408M  $ 47.09/sh
+5yr capex basis                            g=-0.024 cash  136.3 value    1993M  $ 38.97/sh
+5yr D&A basis                              g=+0.000 cash  104.6 value    1848M  $ 36.12/sh
+5yr D&A basis                              g=-0.024 cash  104.6 value    1529M  $ 29.90/sh
+16yr capex basis                           g=+0.000 cash  139.9 value    2471M  $ 48.32/sh
+16yr capex basis                           g=-0.024 cash  139.9 value    2046M  $ 39.99/sh
+16yr D&A basis                             g=+0.000 cash  120.7 value    2133M  $ 41.70/sh
+16yr D&A basis                             g=-0.024 cash  120.7 value    1765M  $ 34.51/sh
+16yr acquisitions as standing-still cost   g=+0.000 cash   10.1 value     178M  $  3.47/sh
+16yr acquisitions as standing-still cost   g=-0.024 cash   10.1 value     147M  $  2.87/sh
+5yr capex    pretax cash  201.2 yield at price 10.80%  fair (10% pretax, g=0) $ 39.34  fair (g=-2.4%) $ 31.72  after-tax yield  7.32%
+5yr D&A      pretax cash  169.5 yield at price  9.09%  fair (10% pretax, g=0) $ 33.13  fair (g=-2.4%) $ 26.72  after-tax yield  5.61%
+16yr capex   pretax cash  194.3 yield at price 10.43%  fair (10% pretax, g=0) $ 37.99  fair (g=-2.4%) $ 30.64  after-tax yield  7.51%
+16yr D&A     pretax cash  175.2 yield at price  9.40%  fair (10% pretax, g=0) $ 34.25  fair (g=-2.4%) $ 27.62  after-tax yield  6.48%
+EV variant pre-tax pre-interest 306.8 EV at price 2474 yield 12.40% fair equity/share $48.06
+--- fair price = PV of PRE-TAX owner cash at 10% (price at which expected pre-tax return is ~10%), equity basis
+5yr capex   g=+0.000 fair $ 39.34
+5yr capex   g=-0.024 fair $ 33.50
+5yr D&A     g=+0.000 fair $ 33.13
+5yr D&A     g=-0.024 fair $ 28.21
+16yr capex  g=+0.000 fair $ 37.99
+16yr capex  g=-0.024 fair $ 32.35
+16yr D&A    g=+0.000 fair $ 34.25
+16yr D&A    g=-0.024 fair $ 29.16
+expected pre-tax return at $36.43, 5yr capex, g=+0.000: 10.80%
+expected pre-tax return at $36.43, 5yr D&A,   g=+0.000: 9.09%
+expected pre-tax return at $36.43, 5yr capex, g=-0.024: 9.15%
+expected pre-tax return at $36.43, 5yr D&A,   g=-0.024: 7.63%
+cheap = half of lowest standard case ($29.90): $14.95; pre-tax D&A-basis yield there 22.2%
+growth shown: OC 2012-15 avg 180.7 -> 2022-25 avg 141.8 : -2.40%/yr
+op income 2012-14 avg 263.5 -> 2022-24 avg 227.3 : -1.47%/yr

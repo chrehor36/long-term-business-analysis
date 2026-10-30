@@ -1,0 +1,242 @@
+[
+ {
+  "tk": "APH",
+  "fy": "2025-12-31",
+  "rev": 23094700000,
+  "gm": 0.3688162219037268,
+  "om": 0.2541102504037723,
+  "oi": 5868600000,
+  "nta": 15526800000,
+  "ronta": 0.37796583970940567,
+  "gw": 10575400000,
+  "ia": 1972300000,
+  "assets": 36236900000,
+  "liab": 22727200000,
+  "debt": 14564800000,
+  "src": {
+   "rev": "RevenueFromContractWithCustomerExcludingAssessedTax",
+   "oi": "OperatingIncomeLoss",
+   "filed": "2026-02-11"
+  }
+ },
+ {
+  "tk": "TEL",
+  "fy": "2025-09-26",
+  "rev": 17262000000,
+  "gm": 0.3521608156644653,
+  "om": 0.18601552543158384,
+  "oi": 3211000000,
+  "nta": 8219000000,
+  "ronta": 0.3906801314028471,
+  "gw": 7126000000,
+  "ia": 2227000000,
+  "assets": 25081000000,
+  "liab": 12351000000,
+  "debt": 4842000000,
+  "src": {
+   "rev": "RevenueFromContractWithCustomerExcludingAssessedTax",
+   "oi": "OperatingIncomeLoss",
+   "filed": "2025-11-10"
+  }
+ },
+ {
+  "tk": "VSH",
+  "fy": "2025-12-31",
+  "rev": 3069048000,
+  "gm": 0.19383307136284605,
+  "om": 0.018529524464915504,
+  "oi": 56868000,
+  "nta": 2780289000,
+  "ronta": 0.020453988775986958,
+  "gw": 180390000,
+  "ia": 78487000,
+  "assets": 4234160000,
+  "liab": 2145887000,
+  "debt": 950893000,
+  "src": {
+   "rev": "Revenues",
+   "oi": "OperatingIncomeLoss",
+   "filed": "2026-02-13"
+  }
+ },
+ {
+  "tk": "LFUS",
+  "fy": "2025-12-27",
+  "rev": 2386294000,
+  "gm": 0.37968624151089514,
+  "om": 0.015726477961223555,
+  "oi": 37528000,
+  "nta": 1422343000,
+  "ronta": 0.026384634367378333,
+  "gw": 1211411000,
+  "ia": 594907000,
+  "assets": 3956796000,
+  "liab": 1530762000,
+  "debt": 802627000,
+  "src": {
+   "rev": "RevenueFromContractWithCustomerIncludingAssessedTax",
+   "oi": "OperatingIncomeLoss",
+   "filed": "2026-02-19"
+  }
+ },
+ {
+  "tk": "AEIS",
+  "fy": "2025-12-31",
+  "rev": 1798800000,
+  "gm": 0.37658438959306206,
+  "om": 0.0933955970647098,
+  "oi": 168000000,
+  "nta": 2087100000,
+  "ronta": 0.08049446600546213,
+  "gw": 300800000,
+  "ia": 117700000,
+  "assets": 2545800000,
+  "liab": 1175200000,
+  "debt": 1135000000,
+  "src": {
+   "rev": "RevenueFromContractWithCustomerExcludingAssessedTax",
+   "oi": "OperatingIncomeLoss",
+   "filed": "2026-02-13"
+  }
+ },
+ {
+  "tk": "MEI",
+  "fy": "2026-05-02",
+  "rev": 1019200000,
+  "gm": 0.19839089481946626,
+  "om": 0.008634222919937205,
+  "oi": 8800000,
+  "nta": 610500000,
+  "ronta": 0.014414414414414415,
+  "gw": 174900000,
+  "ia": 217100000,
+  "assets": 1306100000,
+  "liab": 628600000,
+  "debt": 325000000,
+  "src": {
+   "rev": "RevenueFromContractWithCustomerExcludingAssessedTax",
+   "oi": "OperatingIncomeLoss",
+   "filed": "2026-06-24"
+  }
+ },
+ {
+  "tk": "SXI",
+  "fy": "2026-06-30",
+  "rev": 891597000,
+  "gm": 0.417264750778659,
+  "om": 0.21712051521034728,
+  "oi": 193584000,
+  "nta": null,
+  "ronta": null,
+  "gw": 581553000,
+  "ia": 141321000,
+  "assets": 1585708000,
+  "liab": null,
+  "debt": 517950000,
+  "src": {
+   "rev": "RevenueFromContractWithCustomerIncludingAssessedTax",
+   "oi": "OperatingIncomeLoss",
+   "filed": "2026-08-14"
+  }
+ },
+ {
+  "tk": "BELFB",
+  "fy": "2025-12-31",
+  "rev": 675455000,
+  "gm": 0.39146649295659963,
+  "om": 0.16432774944296807,
+  "oi": 110996000,
+  "nta": 283387000,
+  "ronta": 0.39167640011715427,
+  "gw": 214821000,
+  "ia": 217966000,
+  "assets": 935200000,
+  "liab": 416526000,
+  "debt": 197500000,
+  "src": {
+   "rev": "RevenueFromContractWithCustomerExcludingAssessedTax",
+   "oi": "OperatingIncomeLoss",
+   "filed": "2026-02-24"
+  }
+ },
+ {
+  "tk": "ALNT",
+  "fy": "2025-12-31",
+  "rev": 554478000,
+  "gm": 0.3277118298652065,
+  "om": 0.07932686238227667,
+  "oi": 43985000,
+  "nta": 259121000,
+  "ronta": 0.16974695219607827,
+  "gw": 134332000,
+  "ia": 88391000,
+  "assets": 577595000,
+  "liab": 276140000,
+  "debt": 180389000,
+  "src": {
+   "rev": "RevenueFromContractWithCustomerExcludingAssessedTax",
+   "oi": "OperatingIncomeLoss",
+   "filed": "2026-03-05"
+  }
+ },
+ {
+  "tk": "CTS",
+  "fy": "2025-12-31",
+  "rev": 541318000,
+  "gm": 0.3842953679722455,
+  "om": 0.15266811744667644,
+  "oi": 82642000,
+  "nta": 188613000,
+  "ronta": 0.43815643672493415,
+  "gw": 209611000,
+  "ia": 153562000,
+  "assets": 764311000,
+  "liab": 212525000,
+  "debt": 0,
+  "src": {
+   "rev": "Revenues",
+   "oi": "OperatingIncomeLoss",
+   "filed": "2026-02-24"
+  }
+ },
+ {
+  "tk": "VICR",
+  "fy": "2025-12-31",
+  "rev": 407701000,
+  "gm": 0.6363217161596366,
+  "om": 0.20070590947777905,
+  "oi": 81828000,
+  "nta": 711816000,
+  "ronta": 0.11495667419670252,
+  "gw": 0,
+  "ia": 0,
+  "assets": 785831000,
+  "liab": 74015000,
+  "debt": 0,
+  "src": {
+   "rev": "RevenueFromContractWithCustomerExcludingAssessedTax",
+   "oi": "OperatingIncomeLoss",
+   "filed": "2026-03-02"
+  }
+ },
+ {
+  "tk": "RFIL",
+  "fy": "2025-10-31",
+  "rev": 80586000,
+  "gm": 0.33176978631524084,
+  "om": 0.022150249422976696,
+  "oi": 1785000,
+  "nta": 24691000,
+  "ronta": 0.07229354825644972,
+  "gw": 8085000,
+  "ia": 10264000,
+  "assets": 73046000,
+  "liab": 37842000,
+  "debt": 7836000,
+  "src": {
+   "rev": "RevenueFromContractWithCustomerIncludingAssessedTax",
+   "oi": "OperatingIncomeLoss",
+   "filed": "2026-01-14"
+  }
+ }
+]

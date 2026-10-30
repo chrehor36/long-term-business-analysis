@@ -1,0 +1,17 @@
+{
+ "batch": "KSS re-run (the operator's request, 2026-10-23)",
+ "date": "2026-10-23",
+ "runs": [
+  {
+   "t": "KSS",
+   "name": "Kohl's Corporation; NYSE KSS, SEC CIK 0000885639, Wisconsin, fiscal year near January 31; department stores",
+   "file": "2026-10-23 Run - KSS Kohls.md",
+   "box": "OUT AT Q2; integrity facts recorded, not judged",
+   "rerun": true,
+   "entry": "A fresh blind run at the operator's request (\"run khols\"); the v5 run of 2026-10-05 (OUT at Q2) binds as written and was not shown to the analyst; the two agree. Interactive dispatch under the canonical brief, lock held by the main session. Price **$24.00** (2026-10-23, aggregator, flagged) x **113,376,000 shares** = cap **$2,721M**. Q1 IN (the variables readable over the cycle; the retail warning row carried to Q2). Q2 OUT, the castle shown open: net sales $19,204M (FY2015) to $14,775M (FY2025); comparable sales negative in 7 of 10 years; the one growing line Accessories, with Sephora's brand and a shared profit; credit-card and other revenue $752M against operating income $624M, the Capital One agreement ending 2030-03-31; ratings Baa2/BBB to B2/B+; against TJX, Ross and Burlington growing 6.7% to 8.5% a year over FY2016 to FY2025 while Kohl's shrank 2.6% a year. COMPUTATION, NOT A CLEARANCE: owner cash $766M all-equity a year (FY2021 to FY2025) against $1,292M (FY2016 to FY2020), a decline of 9.92% a year between the windows; range $32.94 to $102.23 a share all-equity; fair price $26.07 all-equity ($27.67 equity-only); beside, depreciation as maintenance $12.15 and the halves reading of (b) $50.13. Facts after the stop: net debt $2,891M with finance-lease and financing obligations $2.39B and operating leases $2.71B; the 2030 notes at 10% secured by eleven distribution centres; the CEO terminated for cause in April 2025 over an undisclosed vendor relationship (8-K 0001193125-25-109074); FY2025 bonus at 185.4% of target with sales down 4%. Framework gaps raised: specifics (a) and (b) collide on a declining series (the fair price $26.07 or $50.13); peak to peak not markable on a swinging owner-cash series. Dispatcher's check: check_framework PASS; 44 quoted fragments, no slip; template committed before the first fetch; price checked against the close; no large file tracked. Contamination declared (opening git status and commit subjects, other companies only), not used. No alert (OUT at Q2).",
+   "narr": "Re-run blind at the operator's request; agrees with 2026-10-05: a decade of lost volume to off-price rivals, the profit propped by a credit-card agreement that ends in 2030; OUT at Q2.",
+   "fair": null,
+   "fair_label": ""
+  }
+ ]
+}

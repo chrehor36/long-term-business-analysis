@@ -1,0 +1,32 @@
+year  OCF-SBC-capex  -acq  +aftertax int (all-equity)  share of sales
+2022   1187.6   1038.8   1111.8  0.142
+2023   1163.1   1116.7   1203.9  0.137
+2024   1542.0   1355.2   1430.9  0.149
+2025   1652.7   1419.8   1496.2  0.145
+2026   1753.1   1588.6   1669.3  0.148
+5-yr avg: equity-only 1303.8; all-equity 1382.4; all-equity before purchases 1538.3
+growth shown FY22->FY26: all-equity 0.1069; equity-only 0.1120; sales 0.0943
+net purchases 779.5 vs half owner cash before purchases 3649.3
+avg growth spending (capex-dep) 70.4; avg WC build 111.7; avg acq 155.9
+highest share of sales in window 0.149; FY2021 0.166
+cap test: year-10 owner cash 3819 vs sales 27748 share 0.138
+[sovereign] all-equity EV: no-growth 27,839  growth 71,881; per share less net debt 63.34 .. 174.26
+[sovereign] equity-only: per share 66.37 .. 179.48
+[at 10%] all-equity EV: no-growth 14,425  growth 32,635; per share less net debt 29.56 .. 75.42
+[at 10%] equity-only: per share 34.35 .. 80.98
+VALUE RANGE (central, all-equity) 63.34 to 174.26; width 2.75x; price 214.8
+FAIR PRICE all-equity 52.49; equity-only 57.66
+literal growth case (all spending, purchases forever) 147.79; literal no-growth 58.92
+EV at price 87,979; implied return growth case 0.0447; no-growth 0.0172
+maintenance-only all-equity by year [1291.4, 1432.2, 1464.0, 1640.5, 1994.4] avg 1564.5 growth 0.1148
+maintenance variant per share: no-growth 71.99; growth 174.26
+maintenance variant fair price 54.78
+UNF avg owner cash -8.0 (before purchases 66.2); cash paid 2804; shares issued 13.964M
+with deal: range 56.50 to 166.74
+with deal: fair price 45.36
+organic pair: growth 0.0911; range 66.33 to 157.23
+organic pair fair price 51.11; implied return at price, organic growth case 0.0407
+2018 pre-tax return on capital ex goodwill 0.370; incl goodwill 0.175
+2021 pre-tax return on capital ex goodwill 0.491; incl goodwill 0.242
+2026 pre-tax return on capital ex goodwill 0.698; incl goodwill 0.358
+incremental FY21->FY26 ex goodwill 1.340; incl goodwill 0.792

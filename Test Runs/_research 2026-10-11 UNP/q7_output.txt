@@ -1,0 +1,29 @@
+market cap 165,355  net debt 28,213  EV 193,568
+A equity all-spend {2021: 5902, 2022: 5552, 2023: 4601, 2024: 5729, 2025: 5321} mean 5421 cagr -2.56%
+U all-equity all-spend {2021: 6792, 2022: 6532, 2023: 5639, 2024: 6703, 2025: 6340} mean 6401 cagr -1.71%
+M all-equity maint-only {2021: 7319, 2022: 7116, 2023: 6303, 2024: 7203, 2025: 6957} mean 6980 cagr -1.26%
+AM equity maint-only {2021: 6429, 2022: 6136, 2023: 5265, 2024: 6229, 2025: 5938} mean 5999 cagr -1.97%
+effective tax rates {2021: 23.06, 2022: 22.86, 2023: 22.52, 2024: 23.28, 2025: 22.13}
+after-tax interest {2021: 890, 2022: 980, 2023: 1038, 2024: 974, 2025: 1019}
+AE top: maint-only, zero growth               base     6980 g   0.00%  value@5.6%    124639 -> $ 162.31/sh   @10%     69798 -> $  70.00/sh
+AE no-growth all-spend                        base     6401 g   0.00%  value@5.6%    114310 -> $ 144.93/sh   @10%     64014 -> $  60.26/sh
+AE bottom: all-spend at shown growth          base     6401 g  -1.71%  value@5.6%     99884 -> $ 120.64/sh   @10%     57082 -> $  48.59/sh
+EO top: maint-only, zero growth               base     5999 g   0.00%  value@5.6%    107132 -> $ 180.33/sh   @10%     59994 -> $ 100.99/sh
+EO no-growth all-spend                        base     5421 g   0.00%  value@5.6%     96804 -> $ 162.95/sh   @10%     54210 -> $  91.25/sh
+EO bottom: all-spend at shown growth          base     5421 g  -2.56%  value@5.6%     79098 -> $ 133.15/sh   @10%     45679 -> $  76.89/sh
+expected return at the price:
+  AE top: maint-only, zero growth                3.61%
+  AE no-growth all-spend                         3.31%
+  AE bottom: all-spend at shown growth           2.84%
+  EO top: maint-only, zero growth                3.63%
+  EO no-growth all-spend                         3.28%
+  EO bottom: all-spend at shown growth           2.61%
+cycle sensitivity (all-equity, ex finance leases): 2016-20 avg 5,364, 2021-25 avg 6,470, growth 3.82%/yr
+  shown-growth case at 3.82%: value 154,832 -> $213.14/sh ; @10% $92.45; return at price 4.53%
+revenue cagr 2021-25 2.97%
+FAIR all-equity: ($70.00 + $48.59)/2 = $59.30
+FAIR equity-only: ($100.99 + $76.89)/2 = $88.94
+NSC unlevered owner cash {2021: 3232, 2022: 2769, 2023: 1359, 2024: 2267, 2025: 2715} mean 2468
+combined no-growth        base 8,869 g 0.00% value 158,384 -> $115.58/sh ; @10% $30.46/sh
+combined shown growth     base 8,869 g -2.51% value 129,916 -> $80.81/sh ; @10% $13.71/sh
+combined net debt 63,760 shares 818.7M; NSC net debt 15,547

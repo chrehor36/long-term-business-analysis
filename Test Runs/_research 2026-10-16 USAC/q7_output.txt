@@ -1,0 +1,17 @@
+EV at price 6,556.7; J-W owner cash (own filed year) 48.2; interest on today's debt 193.6
+cycle base 2019-25 291.5 (+J-W 339.6); literal 2021-25 297.8 (+J-W 346.0)
+growth: cycle halves 0.88%/yr; literal end years 8.33%/yr; sales 2021-25 12.08%/yr
+CENTRAL (all-equity basis, cycle base, all spending deducted, J-W added at no growth on its own year):
+  no-growth end: owner cash 339.6, g 0.00% -> whole business 6,254 at 5.43% = $22.79/unit; at 10% 3,396 = $3.07/unit; expected return at the price 5.18%
+  shown-growth end (cycle halves): owner cash 339.6, g 0.88% -> whole business 6,708 at 5.43% = $25.93/unit; at 10% 3,604 = $4.51/unit; expected return at the price 5.55%
+  RANGE $22.79 to $25.93 against $24.88; FAIR (mean of the two ends at 10%) $3.79
+BESIDE: literal window 2021-2025 (first year a trough on the filer's description):
+  literal no-growth: owner cash 346.0, g 0.00% -> whole business 6,372 at 5.43% = $23.60/unit; at 10% 3,460 = $3.51/unit; expected return at the price 5.28%
+  literal shown growth (end years): owner cash 346.0, g 8.33% -> whole business 12,387 at 5.43% = $65.10/unit; at 10% 6,153 = $22.09/unit; expected return at the price 9.47%
+BESIDE: D&A variant (depreciation as the spending charge), cycle base:
+  D&A no-growth: owner cash 263.8, g 0.00% -> whole business 4,858 at 5.43% = $13.16/unit; at 10% 2,638 = $-2.15/unit; expected return at the price 4.02%
+BESIDE: equity-only (owner cash after interest on today's debt, against the market value of the units):
+  equity-only no-growth: 146.0 -> $18.55/unit at 5.43%, $10.07/unit at 10%; return at the price 4.05%
+  equity-only shown growth: 146.0 -> $19.89/unit at 5.43%, $10.69/unit at 10%; return at the price 4.35%
+  equity-only FAIR $10.38
+maintenance guess: 3,894,332 HP / 25 years x $1,240/HP = 193M a year; average total spending 2019-25 = 180M

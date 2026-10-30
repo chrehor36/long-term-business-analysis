@@ -1,0 +1,38 @@
+entity Lucid Group, Inc.
+== CURRENT screen ==
+owner_earnings: {'5y_capex': -3368775200.0, '3y_da': -3078589666.6666665, '3y_capex': -3676357000.0}
+restatement_shift : (1.0, datetime.date(2023, 12, 31))
+scale_shift : 22.432997676219983
+acquisition_flag : None
+working_capital_flag : None
+da_discontinuity_flag : None
+capex_funding_flag : None
+stale_filer : (datetime.date(2025, 12, 31), 262, '')
+lease_capex_flag : None
+share_count_shift WITH ticker: 1.3084700819596577
+share_count_shift no ticker: 0.13084700819596579
+sbc_annual: {datetime.date(2019, 12, 31): 7719000.0, datetime.date(2020, 12, 31): 4614000.0, datetime.date(2021, 12, 31): 516757000.0, datetime.date(2022, 12, 31): 423500000.0, datetime.date(2023, 12, 31): 257283000.0, datetime.date(2024, 12, 31): 285872000.0, datetime.date(2025, 12, 31): 271275000.0}
+da_annual: {datetime.date(2022, 12, 31): 186600000.0, datetime.date(2023, 12, 31): 233500000.0, datetime.date(2024, 12, 31): 295300000.0, datetime.date(2025, 12, 31): 451200000.0}
+ocf: ({datetime.date(2019, 12, 31): -235299000.0, datetime.date(2020, 12, 31): -570196000.0, datetime.date(2021, 12, 31): -1058133000.0, datetime.date(2022, 12, 31): -2226258000.0, datetime.date(2023, 12, 31): -2489753000.0, datetime.date(2024, 12, 31): -2019674000.0, datetime.date(2025, 12, 31): -2931912000.0}, '')
+capex annual: {datetime.date(2020, 12, 31): 459582000.0, datetime.date(2021, 12, 31): 421220000.0, datetime.date(2022, 12, 31): 1074852000.0, datetime.date(2023, 12, 31): 910644000.0, datetime.date(2024, 12, 31): 883841000.0, datetime.date(2025, 12, 31): 868158000.0, datetime.date(2019, 12, 31): 104290000.0}
+capital_acquired: ({datetime.date(2020, 12, 31): 459582000.0, datetime.date(2021, 12, 31): 430913000.0, datetime.date(2022, 12, 31): 1159244000.0, datetime.date(2023, 12, 31): 910644000.0, datetime.date(2024, 12, 31): 884903000.0, datetime.date(2025, 12, 31): 977755000.0, datetime.date(2019, 12, 31): 104290000.0}, {datetime.date(2021, 12, 31): 9693000.0, datetime.date(2022, 12, 31): 84392000.0, datetime.date(2023, 12, 31): 0.0, datetime.date(2024, 12, 31): 1062000.0, datetime.date(2025, 12, 31): 109597000.0})
+rev: {datetime.date(2022, 12, 31): 608181000.0, datetime.date(2023, 12, 31): 595271000.0, datetime.date(2024, 12, 31): 807832000.0, datetime.date(2025, 12, 31): 1353790000.0, datetime.date(2019, 12, 31): 4590000.0, datetime.date(2020, 12, 31): 3976000.0, datetime.date(2021, 12, 31): 27111000.0}
+shares: (datetime.date(2026, 7, 29), 394070176.0)
+== a8bc84f on facts filed by 2026-09-01 ==
+share_count_shift : 0.13084700819596579
+scale_shift : 1.6758311133998158
+restatement_shift : (1.0, datetime.date(2023, 12, 31))
+owner_earnings : {'5y_capex': -3368775200.0, '3y_da': -3078589666.6666665, '3y_capex': -3676357000.0}
+dei elements: ['EntityCommonStockSharesOutstanding', 'EntityPublicFloat']
+dei EntityCommonStockSharesOutstanding 2025-04-30 3050262035 10-Q 2025-05-06 CY2025Q1I
+dei EntityCommonStockSharesOutstanding 2025-07-30 3072494911 10-Q 2025-08-05 CY2025Q2I
+dei EntityCommonStockSharesOutstanding 2025-10-30 324168457 10-Q 2025-11-05 CY2025Q3I
+dei EntityCommonStockSharesOutstanding 2026-02-18 327684243 10-K 2026-02-24 
+dei EntityCommonStockSharesOutstanding 2026-04-29 390256808 10-Q 2026-05-05 CY2026Q1I
+dei EntityCommonStockSharesOutstanding 2026-07-29 394070176 10-Q 2026-08-04 CY2026Q2I
+dei EntityPublicFloat 2020-12-31 2072070000 10-K/A 2021-05-14 CY2020Q4I
+dei EntityPublicFloat 2021-06-30 5500000000 10-K 2022-02-28 CY2021Q2I
+dei EntityPublicFloat 2022-06-30 11300000000 10-K 2023-02-28 CY2022Q2I
+dei EntityPublicFloat 2023-06-30 6100000000 10-K 2024-02-27 CY2023Q2I
+dei EntityPublicFloat 2024-06-28 2400000000 10-K 2025-02-25 CY2024Q2I
+dei EntityPublicFloat 2025-06-30 2700000000 10-K 2026-02-24 CY2025Q2I

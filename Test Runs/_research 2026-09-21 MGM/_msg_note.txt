@@ -1,0 +1,11 @@
+MGM fold: record why the untracking needed a second commit
+
+Corrects one sentence in the MGM narrative fold. It said the deletions and the widened
+gitignore patterns were both in the fold commit; the patterns are in 43f0276 and the
+thirteen deletions are in 37aceb7, because `git commit -- <pathspec>` takes working-tree
+content rather than the index and therefore cannot record a deletion for a file that is
+still on disk - it re-added all thirteen. Written up as a gap in the fold's step 6 rather
+than glossed: a pathspec isolates your commit from other sessions, it does not isolate the
+repository from you, and it cannot express a deletion at all.
+
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>

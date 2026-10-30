@@ -1,0 +1,27 @@
+OE 210.2: yield 1.85%  vs bond -3.71 pts
+  perpetual growth the price needs at 10pct: 8.00%; at the bond 5.56pct: 3.64%
+  g 0.000: $ 13.82/share (equity  2166.7)
+  g 0.030: $ 20.14/share (equity  3157.6)
+  g 0.044: $ 25.40/share (equity  3983.4)
+  g 0.050: $ 28.56/share (equity  4478.9)
+  two-stage 0.065 x10y then 5%: $ 32.05
+  two-stage 0.080 x10y then 5%: $ 35.98
+  two-stage 0.100 x10y then 5%: $ 41.97
+OE 219.3: yield 1.93%  vs bond -3.63 pts
+  perpetual growth the price needs at 10pct: 7.92%; at the bond 5.56pct: 3.56%
+  g 0.000: $ 14.40/share (equity  2257.7)
+  g 0.030: $ 20.99/share (equity  3291.5)
+  g 0.044: $ 26.48/share (equity  4153.1)
+  g 0.050: $ 29.78/share (equity  4670.0)
+  two-stage 0.065 x10y then 5%: $ 33.42
+  two-stage 0.080 x10y then 5%: $ 37.52
+  two-stage 0.100 x10y then 5%: $ 43.76
+OE 210.2: ten-year growth then 5% needed at 10%: 17.1%
+OE 219.3: ten-year growth then 5% needed at 10%: 16.6%
+  expectancy OE 210.2 g 0.044: 6.33%
+  expectancy OE 210.2 g 0.048: 6.74%
+  expectancy OE 210.2 g 0.065: 8.47%
+  expectancy OE 219.3 g 0.044: 6.41%
+  expectancy OE 219.3 g 0.048: 6.82%
+  expectancy OE 219.3 g 0.065: 8.55%
+spread 0.4899999999999949 0.6757688594676514

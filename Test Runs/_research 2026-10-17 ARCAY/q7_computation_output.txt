@@ -1,0 +1,13 @@
+market cap 3,510.5  net debt 813.0  EV 4,323.5
+central low  (organic pair, no growth, all-equity): value 6,311  per share  64.52  | at 10%: 2,316 ->  17.64/sh | expected return at price (IRR vs EV 4,323):  5.36%
+central high (organic pair, 5.40% x10y, all-equity): value 9,986  per share 107.66  | at 10%: 3,356 ->  29.84/sh | expected return at price (IRR vs EV 4,323):  7.96%
+default low  (purchases deducted, no growth: 54.6 x10y then 231.6): value 4,851  per share  47.39  | at 10%: 1,228 ->   4.88/sh | expected return at price (IRR vs EV 4,323):  4.02%
+default high (total growth 5.62%, purchases 176.9/yr deducted x10y, then flat before purchases): value 8,714  per share  92.73  | at 10%: 2,321 ->  17.69/sh | expected return at price (IRR vs EV 4,323):  6.38%
+equity-only low (211.3 no growth): value 5,757 per share  67.57 | at 10%: 2,113 ->  24.80/sh | IRR vs market cap 3,510:  6.02%
+equity-only high (211.3 at 5.40%): value 9,111 per share 106.93 | at 10%: 3,062 ->  35.93/sh | IRR vs market cap 3,510:  8.84%
+
+CENTRAL RANGE per share: 64.52 to 107.66; width top/bottom 1.67
+FAIR PRICE (all-equity, central): 23.74 ; equity-only: 30.37
+DEFAULT PAIR beside: 47.39 to 92.73; fair 11.28
+net debt at 31 Dec 2025 (556) instead of 30 Jun 2026 (813) moves every all-equity per-share figure by 3.02
+owner cash yield at price: all-equity 5.36% ; equity 6.02%

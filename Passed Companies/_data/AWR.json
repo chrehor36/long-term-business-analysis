@@ -1,0 +1,24 @@
+{
+ "ticker": "AWR",
+ "name": "American States Water",
+ "headline": "A California water utility earning steady, regulator-approved returns, above those of its water-utility peers.",
+ "what_short": "California water utility, plus electric and military water",
+ "what_it_does": "American States Water supplies water to customers in southern California through its regulated Golden State Water subsidiary, which produces about 78% of sales. It also runs a small regulated electric utility in a wildfire-prone area and operates water systems on military bases under 50-year contracts.",
+ "why_it_passed": [
+  "Customers have no other supplier, so the business is a regulated local monopoly with foreseeable earnings.",
+  "Its return on shareholders' equity averaged about 13.5% over ten years, above all three comparable water companies (about 7.6% to 9.5%) and above its own allowed 10.06%.",
+  "The state regulator authorized $573.1M of capital spending for 2025 to 2027, so the capital base on which it earns keeps growing.",
+  "Its allowed return (7.93% on the capital base) is set in public proceedings, which makes the next ten years easy to follow."
+ ],
+ "why_not_now": "A regulator caps what this utility may earn, so the price is far above what that capped return justifies. The analysis values the shares at $49.86 to $54.71 against a price of $85.48. At that price the cash the business can pay out is only about 3.09% of the price, below the 5.30% a 30-year US Treasury bond pays.",
+ "watch": [
+  "Water utilities in California can be held liable for fire damage even when they are not at fault, and its electric business serves a high wildfire-risk area.",
+  "All regulated operations are in southern California, so one event such as an earthquake could affect the whole business.",
+  "About $106M is owed by the US government to its military-contract business."
+ ],
+ "value_low": 49.86,
+ "value_high": 54.71,
+ "utility": true,
+ "run_date": "2026-10-28",
+ "currency": "USD"
+}

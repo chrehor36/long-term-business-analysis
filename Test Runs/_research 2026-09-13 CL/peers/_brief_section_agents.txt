@@ -1,0 +1,102 @@
+BRIEF FOR A PEER-SECTION TRANSCRIPTION AGENT (Colgate-Palmolive competitor row)
+
+You are transcribing numbers and verbatim sentences from SEC filings that are ALREADY FETCHED and stripped to text in
+  C:\Users\chreh\OneDrive\Documents\BRK\Test Runs\_research 2026-09-13 CL\peers\
+so that someone else can judge whether Colgate-Palmolive has a competitive advantage. You do NOT judge. Do not
+conclude, rank, or describe any company as stronger, weaker, better, worse, premium, dominant, etc. Report what the
+filings say.
+
+HARD RULES
+- Write ONLY one file: peers\SECTION_<TICKER>.md for each ticker assigned to you. Do not edit, create or delete any
+  other file anywhere (you may create throwaway .py scripts inside peers\ named _scratch_<TICKER>_*.py). No git commands.
+- No network access is needed; everything is on disk. Do not fetch.
+- Do not use em dashes (the long dash character) anywhere in your prose. Use commas, colons, or restructure.
+- VERBATIM ONLY. Every quote must be copied exactly from the text file. Never fill a gap from memory or general
+  knowledge. If a figure is not in the documents, write "not disclosed in <document>" and state the search terms used.
+  If the text extraction mangles something (split words, cells run together, missing minus signs, footnote digits glued
+  onto numbers), FLAG it as an extraction artefact; do not silently fix it.
+- Use the grep helper:  python g.py "<file glob>" "<regex>" [context_lines] [max_hits]
+  and to print a line range: python g.py <file> --lines START END
+  (run from the peers folder with Bash: cd "/c/Users/chreh/OneDrive/Documents/BRK/Test Runs/_research 2026-09-13 CL/peers" && python g.py ...)
+- File list with form, period, filing date and accession numbers: peers\manifest_list.txt (and manifest.json).
+  File names: <T>_10K_FY<yyyy>_<period end>.txt, <T>_10KA_..., <T>_20F_FY<yyyy>_..., <T>_10Q_<period>.txt,
+  <T>_20F-filer_6K_H1-2026_... (half-year 6-K for UL and HLN).
+
+QUOTE FORMAT (a checker script will verify every quote is a substring of the named file after whitespace
+normalisation, so follow this exactly):
+- Prose quote: a line starting with "> " containing the exact text (you may start and end at sentence or clause
+  boundaries; no internal edits, no ellipses inside a quote; if you need two separate pieces, use two quote lines).
+  Immediately followed by a line:  Source: <exact file name> line <N>
+- Table row quote: put the row, exactly as it appears on the line (including the " | " cell separators), on a line
+  starting with "> " as well, followed by the Source line. Quote the column header row too, so the reader can tell
+  which column is which.
+- Parsed numbers go in normal markdown tables AFTER the quotes, with a "source line" column.
+
+WHAT TO COLLECT (for each fiscal year FY2021 through the newest filed fiscal year; use the annual filing that FIRST
+reports each year; where a later filing restates or re-presents that year differently, note both; plus the newest
+interim period file listed for the company, if any):
+
+1. ORGANIC SALES DECOMPOSITION as the company files it: organic growth and its components (volume or volume/mix;
+   price or price/mix or pricing; foreign exchange; acquisitions/divestitures), for the total company AND the
+   comparable segment(s) named in your assignment. Quote the sentence or table row verbatim, then a parsed table:
+   year | scope | reported net sales growth | organic | volume (as labelled) | price (as labelled) | mix (if separate) |
+   FX | acq/div | other | label wording used | source line.
+   Record the company's own label for each component (e.g. "volume/mix", "price/mix", "pricing", "Price", "Mix").
+2. GAAP OPERATING MARGIN: operating income (or the filed operating profit line; say its exact caption) / net sales,
+   total company, per year, computed by you from the income statement figures (quote the income statement rows for
+   net sales and operating income). Segment margin for the comparable segment where filed: quote the segment profit
+   line and its caption (e.g. "segment operating profit", "Earnings before income taxes", "Net earnings" for PG
+   segments, "adjusted operating income" for KVUE if that is the only segment measure) and compute segment profit /
+   segment net sales. State plainly which profit line was used and whether it is GAAP or a non-GAAP/segment measure.
+3. ADVERTISING EXPENSE as filed: dollar amount and % of net sales per year (compute % if not given; say which).
+   Search terms to use at minimum: advertis, marketing, "brand support", "media", "A&P", "BMI" (Unilever's brand and
+   marketing investment). Quote the note or MD&A sentence.
+4. GROSS MARGIN: gross profit / net sales per year (quote the lines; if gross profit is not a caption, quote net sales
+   and cost of products sold and compute). Also: WHERE THE COMPANY PUTS SHIPPING AND HANDLING (cost of sales vs
+   SG&A / selling / distribution costs). Search "shipping", "handling", "freight", "distribution costs",
+   "transportation". Quote the accounting-policy sentence, or write not disclosed with the search terms.
+6. VERBATIM COMPETITION AND CUSTOMER LANGUAGE from the NEWEST annual filing (10-K Item 1 / Item 1A; for a 20-F, the
+   equivalent business description and risk factors):
+   (a) search the full text of the newest annual filing for "Colgate" and for "Hill" (case-insensitive, and report
+       how many hits are the Hill's pet brand vs unrelated words like "Hillsboro" or a person's name); report the hit
+       counts and quote every sentence that names Colgate, Colgate-Palmolive or Hill's as a competitor or comparator.
+       Also report hit counts for "Colgate" across ALL of that company's annual filings on disk.
+   (b) sentences on private label / store brands / "own label" / "retailer brands" / "value brands".
+   (c) customer concentration: e.g. percentage of net sales to Walmart or the largest customer(s), per year where
+       the annual filings state it (quote each year; this one is worth doing for every year FY2021+).
+   (d) from the newest fiscal year's MD&A (and the interim filing): sentences about pricing actions, price
+       elasticity, consumer trade-down, promotional intensity / promotional spending / trade spending, or price
+       give-backs / price investments / price rollbacks.
+7. (PET COMPANIES ONLY: GIS, SJM, FRPT) sentences describing pet food channels (veterinary, pet specialty,
+   e-commerce, grocery, mass, club, "Food, Drug and Mass", FDM) and any sentence naming Hill's, Nestle Purina /
+   Purina, or Mars (search "Purina", "Nestl", "Mars", "Hill"). Note hit counts.
+
+SECTION FILE STRUCTURE (peers\SECTION_<T>.md):
+## <Company name> (<T>)
+### Documents used
+  table: file | form | fiscal period end | filing date | accession
+### 1. Organic sales decomposition
+### 2. GAAP operating margin (and segment margin)
+### 3. Advertising
+### 4. Gross margin and shipping/handling placement
+### 6. Competition and customer language
+### 7. Pet channels and named pet competitors   (pet companies only)
+### Summary row
+  one markdown table row, columns: FY window used | organic volume by year | price by year | GAAP operating margin
+  by year | advertising % of sales by year | gross margin by year   (numbers only, e.g. "FY22 +1.0 / FY23 -2.0 ...",
+  with the component label the company uses in brackets; "nd" for not disclosed)
+### Gaps, extraction problems and definition differences
+  - every figure not disclosed (with the search terms), every filing not available, every extraction artefact
+  - how the company DEFINES organic growth (quote the definition) and how it differs from Colgate's definition.
+    Colgate: organic sales = net sales growth excluding foreign exchange, acquisitions and divestments; components
+    "volume" and "net selling price". Note differences such as: a combined price/mix vs Colgate's separate volume and
+    price; volume incl. vs excl. acquisitions; exclusion of hyperinflationary markets (e.g. Argentina) or price
+    growth above 26% per year; 52/53-week year effects; fiscal year ends not on December 31.
+  - where shipping and handling sits (Colgate reports it in SG&A, so gross margins are not comparable to filers
+    that include it in cost of sales).
+
+Percentages: keep the sign convention of the filing and note it (parentheses = negative). When you compute a ratio,
+show numerator, denominator and result to one decimal place, and label it "computed".
+
+Keep going until every item is collected or recorded as a gap. When done, reply with a 5-line summary: file written,
+years covered, and the main gaps. Do not characterise any company.

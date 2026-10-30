@@ -1,0 +1,44 @@
+year  OCF    capex   PPP   D&A   int   sales | OC_all  OC_maint  growth_spend  OC_maint/sales
+2021    3914    3747   701  2253   845  15114 |    -534      960      1494     6.4%
+2022    3968    3624   606  2451  1505  17192 |    -263      910      1173     5.3%
+2023    4854    4139   755  2791  1936  19972 |     -39     1308      1348     6.6%
+2024    7405    8031   605  2677  1977  21726 |   -1231     4123      5354    19.0%
+2025    8361   13740   480  2209  2696  22213 |   -5860     5672     11532    25.5%
+5y avg: OC_all -1586  OC_maint 2595  growth spending 4180  interest paid 1792
+shown growth of OC_maint 2021-2025: 55.9%/yr; carried ten years gives 220,289, 379% of sales grown at the sales rate (highest seen 25.5%)
+sales growth 2021-2025: 10.1%/yr  -> specific (f): growth carried = sales growth
+LTD increase over window 23,034, per year 4,607; own LTD share of LT capital 2026-06-30 54.8%; cap 2,292; credit 2,292
+net debt 2026-06-30: borrowings 51,658 + PPP 3,322 + derivatives 2,294 - cash&investments 17,441 = 39,833
+
+== Equity-only basis (CENTRAL for a regulated utility): maintenance-only owner cash after interest ==
+  sovereign  no-growth R$  4.94  growth (g=10.1%, growth spending 4,180 less credit 2,292) R$  5.21
+  floor 10%  no-growth R$  7.38  growth (g=10.1%, growth spending 4,180 less credit 2,292) R$  9.96
+  RANGE at sovereign R$4.94 to R$5.21; FAIR PRICE (each end at 10%, averaged) R$8.67
+  growth spending charged: year one 4,180, year ten 9,941; credit year one 2,292, year ten 5,450
+
+== Equity-only, growth case with NO debt credit (beside) ==
+  sovereign  no-growth R$  4.94  growth R$  0.50
+  floor 10%  no-growth R$  7.38  growth R$  4.01
+
+== Equity-only, all spending charged (beside) ==
+  5y avg owner cash after all capital spending -1,586: negative; value not positive at any rate
+
+== All-equity basis (beside): maintenance owner cash before interest after tax, less net debt ==
+  sovereign  no-growth R$ -4.13  growth R$ -6.68
+  floor 10%  no-growth R$ -0.59  growth R$ -0.54
+  base 3,777; FAIR (10%) R$-0.56
+
+== Sensitivity, not a case of the convention: 2025 alone as the base (post-privatization tariff year) ==
+  sovereign  no-growth R$ 10.80  growth R$ 15.99
+  floor 10%  no-growth R$ 16.13  growth R$ 27.59
+
+== Floor test at the price ==
+  price R$25.53 x 3,517.3m = R$89,796m
+  no-growth, window base: owner cash yield on market value 2.9%
+  2025 alone: owner cash yield on market value 6.3%
+  growth case (central, with credit): expected return at the price 5.2%
+  growth case, 2025 base: expected return at the price 10.6%
+
+== More bases beside (sensitivity, not cases of the convention) ==
+  2024-2025 average: base 4,897; sovereign R$9.33 to R$13.27; at 10% R$13.92 / R$23.15; fair R$18.54; growth-case return at price 9.3%
+  trailing twelve months to 2026-06-30: base 5,209; sovereign R$9.92 to R$14.37; at 10% R$14.81 / R$24.94; fair R$19.88; growth-case return at price 9.8%

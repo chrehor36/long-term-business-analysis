@@ -1,0 +1,24 @@
+year  OCeq  OCae  ACQgs  WC   sales  OCae/sales
+2021 629 728 709 204 37589 1.94%
+2022 466 593 -5357 -606 44322 1.34%
+2023 922 1106 -170 1148 56017 1.97%
+2024 1277 1397 -1052 776 56752 2.46%
+2025 1589 1730 -48 954 56877 3.04%
+
+LITERAL WINDOW 2021-25 all-equity, acquisitions deducted: avg -73 (sign changes across the window)
+  no-growth value at sovereign: -1926 -> per share -21.79
+
+MERGER BASE 2023-25: OCae 1411, OCeq 1263, acquisitions -423
+  shown growth of owner cash 2023->25: 25.06%/yr; carried 10y -> 21.5% of sales vs highest filed 3.04%
+  growth carried (cap (f)): 0.76%/yr (sales growth 2023->25)
+
+  net debt 2026-06-30 (6515): RANGE all-equity EUR 76.73 - 79.58 per share; no-growth case 79.58, growth case 76.73
+     FAIR (each end at 10%, averaged) all-equity: EUR 17.09  [ends 19.60 / 14.58]
+
+  net debt 2025-12-31 (4204): RANGE all-equity EUR 82.70 - 85.55 per share; no-growth case 85.55, growth case 82.70
+     FAIR (each end at 10%, averaged) all-equity: EUR 23.05  [ends 25.57 / 20.54]
+
+  EQUITY-ONLY range EUR 82.75 - 86.28; fair 29.98
+  variant WITH working-capital releases 2023-25: base 2251; fair all-equity 39.34
+
+  price 40.3: market cap 15612m, EV 22127m; no-growth yield on EV 6.38%; growth case yield 4.46% (+0.76% growth)

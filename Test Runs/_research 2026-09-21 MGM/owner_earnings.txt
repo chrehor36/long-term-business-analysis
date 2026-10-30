@@ -1,0 +1,106 @@
+=== A. THE RAW SERIES, $M, newest-vintage annual facts, 10-K forms only ===
+year  OCF      capex    SBC    D&A     intang.amort  depr.only  taxpaid  pretax  NCI_income  distrib_to_NCI
+2008    753.0    781.8   36.3    778.2                            437.9                                    
+2009    587.9    136.8   36.6    689.3                            -53.9                                    
+2010    504.0    207.5   35.0    633.4          1.0      632.4   -330.2  -2216.0                           
+2011    675.1    301.2   39.7    817.1        181.0      636.1   -172.0   2831.6       120.3            3.8
+2012    909.4    422.8   39.6    927.7        321.0      606.7      7.0  -1734.2       150.8          206.8
+2013   1310.4    562.1   32.3    849.2        243.0      606.2      0.8     62.2       213.1          318.3
+2014   1130.7    872.0   37.3    815.8        232.0      583.8     42.3    410.9       277.1          386.7
+2015   1005.1   1466.8   42.9    819.9        199.0      620.9     11.8  -1046.2      -591.9          307.2
+2016   1534.0   2262.5   55.5    849.5        180.0      669.5     68.2   1257.6       135.4          103.4
+2017   2206.4   1864.1   62.5    993.5        173.0      820.5    181.7    960.8       136.1          170.4
+2018   1722.5   1486.8   70.2   1178.0        176.0     1002.0    -10.1    634.0       117.1          184.9
+2019   1810.4    739.0   88.8   1304.6        192.0     1112.6     28.5   2846.7       165.2          223.3
+2020  -1493.0    270.6  107.0   1210.6        194.0     1016.6      8.5  -1511.5      -287.2          286.4
+2021   1373.4    490.7   65.2   1150.6        197.0      953.6     43.0   1461.8       -46.0          324.2
+2022   1756.5    765.1   71.3   3482.1       2700.0      782.1     23.0    903.8     -1266.4          210.7
+2023   2690.8    931.8   73.6    814.1        103.0      711.1    344.0   1472.8       172.7          177.1
+2024   2362.5   1150.6   80.2    831.1        119.0      712.1    267.0   1117.1       318.1          188.6
+2025   2529.4   1068.9   90.5   1017.8        139.0      878.8    -34.6    280.8       315.0          169.2
+
+=== B. SBC COMPLETENESS CHECK (the BE / Boeing lesson) ===
+years with OCF and capex: 18 2008 .. 2025
+years where SBC does NOT resolve: NONE - SBC resolves for every year
+SBC undimensioned tag used: ShareBasedCompensation (cash-flow add-back)
+cross-check vs AllocatedShareBasedCompensationExpenseNetOfTax presence: True
+
+=== C. OWNER EARNINGS BY YEAR, BOTH (c) ENDS ===
+(c) LOW end  = D&A as filed            [E3-44] default
+(c) DEPR end = D&A less intangible amortisation (the renewal proxy that is not purchased-intangible runoff)
+(c) HIGH end = total capex as reported [E5-20] exception class
+year   OE(c=D&A)   OE(c=depr only)   OE(c=capex)
+2008      -61.5                 -65.0
+2009     -137.9                 414.5
+2010     -164.4     -163.4      261.5
+2011     -181.7       -0.7      334.2
+2012      -57.9      263.1      447.0
+2013      428.9      671.9      716.0
+2014      277.6      509.6      221.4
+2015      142.3      341.3     -504.6
+2016      629.0      809.0     -784.0
+2017     1150.4     1323.4      279.8
+2018      474.3      650.3      165.5
+2019      416.9      608.9      982.6
+2020    -2810.6    -2616.6    -1870.6
+2021      157.6      354.6      817.5
+2022    -1796.9      903.1      920.1
+2023     1803.0     1906.0     1685.4
+2024     1451.2     1570.2     1131.7
+2025     1421.1     1560.1     1370.0
+
+=== D. EVERY WINDOW, BOTH ENDS. [E4-25] and [E4-38]: publish every window ===
+window            n   mean OE(c=D&A)  mean OE(c=capex)  mean OE(c=depr only)
+2023-2025    3         1558.4            1395.7                1678.8
+2022-2025    4          719.6            1276.8                1484.9
+2021-2025    5          607.2            1184.9                1258.8
+2020-2025    6           37.6             675.7                 612.9
+2019-2025    7           91.8             719.5                 612.3
+2018-2025    8          139.6             650.3                 617.1
+2017-2025    9          251.9             609.1                 695.6
+2016-2025   10          289.6             469.8                 706.9
+2014-2025   12          276.3             367.9                 660.0
+2011-2025   15          233.7             394.1                 590.3
+2008-2025   18          174.5             362.4                 543.2
+
+=== E. WINDOWS THAT EXCLUDE 2020 AND 2021 (the disclosed judgment, [E2-23] multi-year) ===
+five pre-COVID years (2015-2019, n=5): c=D&A 562.6 | c=depr 746.6 | c=capex 27.9
+four post-reset years (2022-2025, n=4): c=D&A 719.6 | c=depr 1484.9 | c=capex 1276.8
+five-year default incl. 2021 (2021-2025, n=5): c=D&A 607.2 | c=depr 1258.8 | c=capex 1184.9
+three years since the lease set was complete (2023-2025, n=3): c=D&A 1558.4 | c=depr 1678.8 | c=capex 1395.7
+
+=== F. THE CASH-TAX TELL [E4-30]: cash taxes paid as a share of reported pretax ===
+2010 taxes paid   -330.2  pretax   -2216.0  =   14.9%
+2011 taxes paid   -172.0  pretax    2831.6  =   -6.1%
+2012 taxes paid      7.0  pretax   -1734.2  =   -0.4%
+2013 taxes paid      0.8  pretax      62.2  =    1.3%
+2014 taxes paid     42.3  pretax     410.9  =   10.3%
+2015 taxes paid     11.8  pretax   -1046.2  =   -1.1%
+2016 taxes paid     68.2  pretax    1257.6  =    5.4%
+2017 taxes paid    181.7  pretax     960.8  =   18.9%
+2018 taxes paid    -10.1  pretax     634.0  =   -1.6%
+2019 taxes paid     28.5  pretax    2846.7  =    1.0%
+2020 taxes paid      8.5  pretax   -1511.5  =   -0.6%
+2021 taxes paid     43.0  pretax    1461.8  =    2.9%
+2022 taxes paid     23.0  pretax     903.8  =    2.5%
+2023 taxes paid    344.0  pretax    1472.8  =   23.4%
+2024 taxes paid    267.0  pretax    1117.1  =   23.9%
+2025 taxes paid    -34.6  pretax     280.8  =  -12.3%
+
+=== G. THE MINORITY LEAK: what the consolidated OCF is NOT ===
+2019 NCI share of net income    165.2   cash distributed to NCI owners    223.3
+2020 NCI share of net income   -287.2   cash distributed to NCI owners    286.4
+2021 NCI share of net income    -46.0   cash distributed to NCI owners    324.2
+2022 NCI share of net income  -1266.4   cash distributed to NCI owners    210.7
+2023 NCI share of net income    172.7   cash distributed to NCI owners    177.1
+2024 NCI share of net income    318.1   cash distributed to NCI owners    188.6
+2025 NCI share of net income    315.0   cash distributed to NCI owners    169.2
+
+=== H. BUYBACKS AND THE SHARE COUNT ===
+2021 repurchases $  1753.5M   shares outstanding   453.8M
+2022 repurchases $  2775.2M   shares outstanding   379.1M
+2023 repurchases $  2291.9M   shares outstanding   326.6M
+2024 repurchases $  1357.9M   shares outstanding   294.4M
+2025 repurchases $  1228.3M   shares outstanding   258.3M
+total repurchases 2022-2025: $7653.3M
+share count 2021 -> 2025: 453.8M -> 258.3M

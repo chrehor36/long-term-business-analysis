@@ -1,0 +1,33 @@
+year      OCF   SBC  netcapex   D&A  OC_all  OC_maint  netLTD  yr-credit  OC_all+yrcredit
+2021   363.3   8.6    294.1  179.4    60.6    175.2     0.0       0.0      60.6
+2022   351.3  10.3    414.8  173.6   -73.8    167.5   193.6     193.6     119.8
+2023   267.0   9.6    584.6  199.9  -327.2     57.5   647.0     286.5     -40.7
+2024   594.4  11.7    925.6  228.1  -342.9    354.6   250.2     250.2     -92.7
+2025   601.8  12.5   1027.4  258.4  -441.9    327.2   380.1     380.1     -61.8
+averages: OC_all -225.0  OC_maint 216.4  netcapex 649.3  D&A 207.9
+window net LTD 1471.0, gross LTD 1770.0, cap (49% of net capex 3246.6) 1590.8
+central equity-only, all spending less window debt credit: 69.2 /yr
+  variant gross-debt credit: 93.1 ; variant yearly-capped credit: -2.9
+bottom: all spending less debt credit, no growth     base 69.2  value@5.29% 1307 = $22.60/sh ; @10% 692 = $11.96/sh
+top: maintenance-only (D&A), no growth               base 216.4  value@5.29% 4091 = $70.72/sh ; @10% 2164 = $37.41/sh
+sales growth 2021-2025 5.60%
+maintenance-only WITH sales growth (growth spending uncharged, shown only as a bound): $110.83/sh
+halves (yearly-credit series): first 90.2 second -77.2
+halves (maint series): first 171.3 second 340.9 ; CAGR 21-25 16.9%
+max share of sales of maint OC: 19.4%
+market cap $8217M; yield of central 0.84%, of maint-only 2.63%
+FAIR equity-only: bottom $11.96 top $37.41 -> fair $24.68
+net debt 3737 ; interest after tax 81.5
+all-equity bottom base -143.6 value@r per sh $-111.53 ; @10% per sh $-89.43
+all-equity top base 297.9 value@r per sh $32.73 ; @10% per sh $-13.12
+FAIR all-equity: $-51.28
+
+--- (e) maintenance central: growth case charges equity-funded growth spending against the growth it buys ---
+growth spending avg 441.4 ; equity-funded after window credit 147.2 ; 2025 equity-funded level 388.9
+rate 5.29%: no-growth $70.72/sh ; growth (avg equity growth spend) $91.45/sh ; growth (2025 level) $59.64/sh
+rate 10.00%: no-growth $37.41/sh ; growth (avg equity growth spend) $39.32/sh ; growth (2025 level) $13.64/sh
+FAIR equity-only (maint central): ($37.41 + $39.32)/2 = $38.36
+expected return at the price, growth case: 3.69% ; no-growth case: 2.63%
+ALL-EQUITY rate 5.29%: no-growth $32.73/sh ; growth $29.83/sh
+ALL-EQUITY rate 10.00%: no-growth $-13.12/sh ; growth $-35.86/sh
+FAIR all-equity: $-24.49

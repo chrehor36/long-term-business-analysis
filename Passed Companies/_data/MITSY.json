@@ -1,0 +1,24 @@
+{
+ "ticker": "MITSY",
+ "name": "Mitsui & Co.",
+ "headline": "A Japanese trading house whose low-cost Australian iron-ore mines earned excellent returns through the cycle.",
+ "what_short": "Japanese trading house with iron ore and gas",
+ "what_it_does": "Mitsui & Co. is a Japanese trading company with many businesses. The part that carries its profits is mineral and metal resources, led by low-cost iron ore from Australia's Pilbara region, and it also earns from gas and other resources.",
+ "why_it_passed": [
+  "Its iron ore is among the lowest-cost in the world, which protects it when prices fall.",
+  "Its returns across a full commodity cycle were excellent.",
+  "No doubt about honesty was found in the record the analysis read.",
+  "The volume and cost of its main mines are foreseeable, even though the price of ore is not."
+ ],
+ "why_not_now": "At ¥4,775 a share, the price sits near the top of the analysis's value range (¥2,723 to ¥4,796). The analysis found an expected return of only 2.8% to 4.9% a year, below the roughly 10% the analysis requires and below the 4.14% a 30-year Japanese government bond pays at the low end.",
+ "watch": [
+  "The price of ore and gas sets most of its cash, and no one in the business will forecast it.",
+  "The accounts feature an adjusted cash figure and guidance, and show recurring write-downs; the analysis weighed these against.",
+  "It carries about ¥4.46 trillion of net debt."
+ ],
+ "value_low": 2723,
+ "value_high": 4796,
+ "utility": false,
+ "run_date": "2026-10-12",
+ "currency": "JPY"
+}

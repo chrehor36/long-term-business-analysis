@@ -1,0 +1,24 @@
+{
+ "ticker": "CNP",
+ "name": "CenterPoint Energy",
+ "headline": "A regulated electric and gas delivery monopoly serving Houston, Indiana and Minnesota.",
+ "what_short": "Regulated electricity and gas utility (Texas, Indiana, Minnesota)",
+ "what_it_does": "CenterPoint is a utility holding company. Its Houston Electric business carries electricity to 2.86 million metered customers through the wires, while its Indiana business generates and sells power to 154,000 customers. Its gas utilities serve 4.03 million customers in Indiana, Minnesota and Texas, and Ohio until October 2026.",
+ "why_it_passed": [
+  "Electric is 58% of five years of operating income, and it works inside an exclusive territory where the wires have no competitor.",
+  "The gas business runs pipe networks nobody would duplicate and holds long-lived local franchises.",
+  "Operating income rose from $1,039 million in 2020 to $2,110 million in 2025, though the company invested heavily to get there.",
+  "Its regulators allow set returns on what it invests, for example 9.65% on equity for Houston Electric."
+ ],
+ "why_not_now": "A regulator caps what this utility may earn, so the price is far above what that capped return justifies. At $40.55 a share the price is about double the analysis's value range of $14.36 to $20.51, and the expected return is only 1.54% a year, against 5.43% on a 30-year US Treasury bond.",
+ "watch": [
+  "Debt is about two thirds of debt plus equity, close to the 67.5% cap in its credit facility, and $1.6 billion is due within a year.",
+  "One coastal grid carries the electric business, and storm costs have been recovered only by regulator-approved bond issues after the event.",
+  "There is an open complaint over the company's use of generation equipment for emergencies, personal-injury suits over Hurricane Beryl, and a customer-data incident in September 2026."
+ ],
+ "value_low": 14.36,
+ "value_high": 20.51,
+ "utility": true,
+ "run_date": "2026-10-18",
+ "currency": "USD"
+}

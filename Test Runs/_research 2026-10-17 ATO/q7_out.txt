@@ -1,0 +1,37 @@
+market cap 28,278.5  net debt 9,802.9  EV 38,081.5
+
+== ALL-EQUITY, 5-yr avg
+  no growth                                      value@5.43%     14,142 -> $   25.68/sh | value@10%     7,679 -> $  -12.57/sh | return at price  2.02%
+  growth B1 (avg spend, rho credited)            value@5.43%     25,970 -> $   95.67/sh | value@10%     6,890 -> $  -17.24/sh | return at price  4.30%
+  growth B2 (capped 5.43%, spend that buys it)   value@5.43%     17,385 -> $   44.87/sh | value@10%     7,611 -> $  -12.97/sh | return at price  2.86%
+
+== EQUITY-ONLY, 5-yr avg
+  no growth                                      value@5.43%     12,145 -> $   71.87/sh | value@10%     6,595 -> $   39.03/sh | return at price  2.33%
+  growth B1 (avg spend, rho credited)            value@5.43%     21,591 -> $  127.76/sh | value@10%     4,755 -> $   28.14/sh | return at price  4.67%
+  growth B2 (capped 5.43%, spend that buys it)   value@5.43%     14,576 -> $   86.26/sh | value@10%     6,254 -> $   37.01/sh | return at price  3.20%
+
+== ALL-EQUITY, FY2025 alone (beside)
+  no growth                                      value@5.43%     21,201 -> $   67.45/sh | value@10%    11,512 -> $   10.11/sh | return at price  3.02%
+  growth B1 (avg spend, rho credited)            value@5.43%     33,029 -> $  137.44/sh | value@10%    10,723 -> $    5.45/sh | return at price  4.96%
+  growth B2 (capped 5.43%, spend that buys it)   value@5.43%     26,063 -> $   96.22/sh | value@10%    11,410 -> $    9.51/sh | return at price  4.01%
+
+== EQUITY-ONLY, FY2025 alone (beside)
+  no growth                                      value@5.43%     18,703 -> $  110.68/sh | value@10%    10,156 -> $   60.10/sh | return at price  3.59%
+  growth B1 (avg spend, rho credited)            value@5.43%     28,149 -> $  166.57/sh | value@10%     8,316 -> $   49.21/sh | return at price  5.41%
+  growth B2 (capped 5.43%, spend that buys it)   value@5.43%     22,447 -> $  132.83/sh | value@10%     9,631 -> $   56.99/sh | return at price  4.54%
+
+beside: all spending, AE 5-yr avg: owner cash -1,371.3/yr -> no value on any rate
+
+beside: maint = 87% of capex (FY2025), AE: owner cash -1,212.4/yr -> no value on any rate
+
+forwards settled (beside): shares 175.117M, net debt 8,866.1
+  no growth AE @5.43%: $30.13/sh
+  B1 AE @5.43%: $97.67/sh
+  no growth AE @10%: $-6.78/sh
+  B1 AE @10%: $-11.28/sh
+
+owner cash needed to earn 10% at the price with no growth: AE 3,808  equity-only 2,828
+
+cash-tax variant, FY2025 alone, all-equity (beside):
+  no growth: value@10% 14,198 -> $26.01/sh; return at price 3.73%
+  growth B1: value@10% 13,409 -> $21.34/sh; return at price 5.42%

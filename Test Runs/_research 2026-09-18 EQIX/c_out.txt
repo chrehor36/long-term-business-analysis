@@ -1,0 +1,14 @@
+project $k per cabinet: {2020: 58.7, 2021: 61.3, 2022: 62.2, 2023: 80.0, 2024: 101.8, 2025: 126.2}
+acq share 0%, $k/cab 59: growth capex 8,081, non-growth (c) 1,854/yr
+acq share 0%, $k/cab 80: growth capex 9,843, non-growth (c) 1,502/yr
+acq share 0%, $k/cab 102: growth capex 11,605, non-growth (c) 1,150/yr
+acq share 15%, $k/cab 59: growth capex 7,360, non-growth (c) 1,998/yr
+acq share 15%, $k/cab 80: growth capex 8,858, non-growth (c) 1,699/yr
+acq share 15%, $k/cab 102: growth capex 10,355, non-growth (c) 1,399/yr
+
+FY2021-25: total capex+RE 17,353; capacity added 81,800 cabinets; land+CIP build-up 3,276
+(c) route 2 (capex minus growth), range 1,150 to 1,998 a year
+route 1 (D&A total) 5y mean 1,863; depreciation only 1,657
+company recurring 5y mean 228
+book gross plant ex land/CIP per cabinet $80.0k vs FY2025 project cost $126.2k -> ratio 1.58
+replacement-cost depreciation FY2025 = 1,866 x 1.58 = 2,943

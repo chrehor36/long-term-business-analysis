@@ -1,0 +1,38 @@
+==============================================================================
+CATERPILLAR INC  (CAT)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.49%   09/25/2026   US Treasury daily par yield curve
+  price     821.58 USD   2026-09-25   (aggregator — live quote only)
+  shares    459.7M      market cap 377.66B USD
+  share basis: dei cover-page count as of 2026-06-30
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-12-31     12,885      208     2,147      1,597     10,530     11,080
+    2024-12-31     12,035      223     2,159      1,988      9,653      9,824
+    2025-12-31     11,739      242     2,262      2,821      8,676      9,235
+          mean                                               9,620     10,046
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 7,771 .. 8,464   yield 2.06%..2.24%
+  DIVERGENCE vs the 3-yr window: -19.2% on the conservative end
+  ** The spread is part of the RANGE [E4-25], not a tiebreak.
+     "Working with a range of possibilities is the better approach."
+     Do NOT pick a window and defend it. If the combined range
+     (window spread x capex band) is too wide to reach a conclusion,
+     THAT IS THE CONCLUSION [E4-25]. A wide spread is also a Q4
+     finding about earnings reliability [E5-11]. **
+
+  1. THE YIELD                  2.55% ..  2.66%   vs sovereign 5.49%
+  2. GROWTH THE PRICE ASSUMES    5.5%  (at a 5.49% rate)
+  3. POINTS OVER THE SOVEREIGN -0.32 .. -0.20
+
+  THE FLOOR FIRST [E4-28]: below ~10% honest expectancy the name is quit on,
+  not ranked. What clears the floor ranks against the opportunity set [E4-21].
+
+  STILL OWED BEFORE Q5 OPENS:
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row [E3-28]

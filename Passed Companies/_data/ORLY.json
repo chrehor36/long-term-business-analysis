@@ -1,0 +1,24 @@
+{
+ "ticker": "ORLY",
+ "name": "O'Reilly Automotive",
+ "headline": "A low-cost auto parts chain that wins on same-day availability and has gained share against rivals.",
+ "what_short": "Auto parts retail chain, do-it-yourself and professional",
+ "what_it_does": "O'Reilly sells replacement parts, tools, supplies and accessories for cars and light trucks through 6,585 stores at the end of 2025, mostly in the United States, and also in Mexico and Canada. About half its sales go to do-it-yourself customers and half to professional repair shops. 32 distribution centers and 399 hub stores supply the stores, and more than 95% of stores get several same-day deliveries.",
+ "why_it_passed": [
+  "It earns very high returns on the capital it needs over a full cycle, and pricing held through the inflation of recent years.",
+  "It has gained volume and share against the field, while Advance Auto Parts has fallen to losses; only AutoZone matches it.",
+  "Its key variables, such as miles driven, are named by the company, measured and slow-moving.",
+  "A long record of buying back stock retired 62% of its shares at an average price of $20.32, and the analysis found no doubt about management's honesty."
+ ],
+ "why_not_now": "At $86.45 a share, inside the value range of $50.53 to $111.16 but about two-thirds of the way up, a buyer would earn about 5.3% a year, roughly the 5.60% of a 30-year US Treasury bond and about half the return the framework requires. On the cash the business produces today the yield is only 2.9% to 3.5%.",
+ "watch": [
+  "The capital added since 2022 has earned far less than the base business.",
+  "Part of its low capital need is money owed to suppliers, which the analysis flagged for the debt review.",
+  "It has run a buyback that is blind to price and partly funded by debt, at recent prices about twice the analysis's fair price, and the slow shift to electric vehicles is a long-term threat."
+ ],
+ "value_low": 50.53,
+ "value_high": 111.16,
+ "utility": false,
+ "run_date": "2026-10-10",
+ "currency": "USD"
+}

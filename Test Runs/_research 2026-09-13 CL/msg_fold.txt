@@ -1,0 +1,35 @@
+CL fold: register entry (97), WAVE 5 strike and dated note, narrative fold, shape #19 proposed,
+bands armed, PORTFOLIO row - Q1-Q4 IN, Q5 below the floor
+
+All six fold steps done.
+
+1. Register entry at the TOP of ## COMPLETED FROM THE QUEUE, above NVDA, in the NVDA form: the
+   verdict line naming the question that closed the file, the six commits, the price, the share
+   count and its accession, the cap, the sovereign, and the check_framework line. COUNTED FROM
+   THE HEADING TO ## THE WRITE-EARLY PROTOCOL ON LINES BEGINNING "- **": 97.
+2. python tools/check_framework.py: PASS, 0 phantom citations, 0 unlabelled numbers.
+3. CL struck in the WAVE 5 table (~~CL~~), with a dated note beside the table rather than any
+   edit to the row (operator rule 6). The note answers what kind of gap the label was: the AMZN
+   kind of tooling artefact, and the mechanism is now named exactly - the XBRL tag changed from
+   PaymentsToAcquirePropertyPlantAndEquipment (10-K years 2011-2022) to
+   PaymentsToAcquireProductiveAssets (2020-2025), and the capex line never left the face of the
+   statement. No early-year hole of the NVDA kind. [E5-20] asked separately on the filing and
+   answered NO: capex 1.15x depreciation and 1.01x D&A over 2016-2025, net PP&E $4,660M on
+   $20,382M of sales. (c) set at total capex anyway on [E4-47], evidenced by Latin America's own
+   1.35x. Of the four names now run from this row: ABNB a real presentation gap, AMZN no gap,
+   NVDA a tag gap plus a history gap, CL a tag gap only; the exception class has applied at AMZN
+   alone.
+4. Narrative fold appended to Screens/2026-08-31 PREPPED READING LIST (operator lists).md:
+   findings, six refuted or narrowed priors, five items new for the operator, and the tooling,
+   source and brief defects.
+5. Screens/SURVIVAL SHAPES - index.md: #19 THE SHELF added as PROPOSED, pending the operator -
+   the brand is owned but the route to the buyer is rented from a counterparty who stocks a
+   cheaper copy beside it, holds the buyer's data, and reprices the terms every year. The open
+   paragraph's count is updated from six proposals to seven.
+6. Bands armed and a PORTFOLIO row added, because the business cleared all four gates (the QLYS
+   ruling): CL-rerun-band at $75.61 and CL-floor-band at $50.77, each a prompt for a full v4.1
+   re-run and not a purchase, each void if a Q2 falsifier fires. The alerts file was appended
+   surgically after a first attempt reformatted the whole file was reverted with git checkout.
+   The PORTFOLIO row is UNRANKED and records that no position is held and none is proposed.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

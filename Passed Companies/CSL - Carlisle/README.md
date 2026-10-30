@@ -1,0 +1,40 @@
+# Carlisle (CSL)
+
+> **A leading maker of commercial roofing systems, earning a high return on little capital.**
+
+| | |
+|---|---|
+| **Price** | $345.21 (2026-10-28, market quote) |
+| **Our fair price** | $143.72 |
+| **Price would need to fall** | 58% |
+| **What we think it is worth** | $264.23 to $359.99 a share |
+| **Date analysed** | 2026-10-07 |
+| **Type** | Business |
+
+## What it does
+
+Carlisle makes commercial roofing membranes, insulation and architectural metal, sold mostly as warranted roofing systems (74% of 2025 revenue). It also makes waterproofing, air barriers, underlayments and spray foam (26%). Most commercial roofing demand comes from replacing old roofs, about 70% of that business.
+
+## Why it passed
+
+- It earned roughly 90% before tax on the operating capital it uses in 2025, a year the company called the bottom of the new-construction cycle.
+- Its roofing segment produced 88% of five-year operating profit and it is one of only four single-ply roofing makers.
+- Demand comes mainly from re-roofing, which has held near 70% of the roofing business for ten years.
+- 2025 operating income was $1.0 billion, and pre-tax earnings covered interest 13.1 times.
+
+## Why we are not buying at today's price
+
+The analysis values the shares at $264.23 to $359.99 and the price of $325.74 sits inside that range. But a buyer would earn about 5.45% a year at the middle of the range, below the 5.64% a 30-year US Treasury bond pays.
+
+## What to watch
+
+- Two distributors were about a third of 2025 revenue.
+- The analysis valued the business on its older, lower-margin record and did not credit the higher margins since 2022.
+- Asbestos claims from a discontinued line and an acquired roofing line, and roof warranties of 5 to 40 years with $372.3M of deferred revenue and no loss reserve.
+
+## The full analysis
+
+[2026-10-07 Run - CSL Carlisle.md](../../Test%20Runs/2026-10-07%20Run%20-%20CSL%20Carlisle.md), analysed 2026-10-07.
+
+---
+*The fair price is the price at which this business would earn about 10% a year for an owner, on the analysis's own numbers. Reaching it starts a fresh analysis; it is never a buy signal by itself. Not investment advice.*

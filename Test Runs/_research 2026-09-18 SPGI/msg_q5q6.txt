@@ -1,0 +1,53 @@
+SPGI run: Q5 FAIL on price - below the ~10% floor on every construction, and below the sovereign too
+
+The hard sequence is satisfied: Q1, Q2, Q3 and Q4 each returned IN, so Q5 is reportable rather
+than a computation.
+
+Price US$404.11 (2026-09-17 close, aggregator flagged) x 294,800,000 shares (10-Q cover,
+accession 0000064040-26-000045, as of 2026-07-24) x 1.0 = cap US$119,131.6M. Sovereign USD
+30-year 5.29%, US Treasury daily par yield curve, 09/17/2026.
+
+THE FLOOR FIRST [E4-28]. Honest pre-tax expectancy runs 8.54% to 9.82% across seven
+constructions - BELOW the floor on every one, including the single best twelve months this
+company has ever filed. On the central construction (three-year continuing mean, (c) at capex)
+it is 9.27%, short by 0.73 points. Not ranked; quit on.
+
+It fails the bond test as well. The bare owner-earnings yield is 2.44% to 3.72% against 5.29% -
+between 1.6 and 2.9 points BELOW the sovereign on every window and every perimeter. Multiples
+26.8x to 41.1x.
+
+What the price already assumes: 6.83%/yr of perpetual growth in owner earnings to reach the
+floor, 2.12%/yr merely to match the bond. What the business has done: +6.1%/yr per diluted share
+FY2019-FY2025 continuing, a rate that runs from a mid-cycle issuance year TO a boom year; and
++1.5%/yr on the comparable ex-Mobility perimeters four years apart across the merger. [E4-35] is
+not the binding constraint and is not misapplied; [E4-44] and [E2-63] are, and the ceiling is
+nameable - the operations already run on negative net tangible capital, so returns on operating
+capital cannot usefully rise.
+
+Value, in round numbers [E4-01]: roughly $185 to $330 a share on the central construction,
+widening to $150-$385 only if the D&A end and the trailing twelve months are taken as the two
+ends of one range with the full 6.1% growth granted at the top. The price is ABOVE THE WHOLE
+RANGE. Bar 2 returns the third outcome, not the middle one. Bar 1's end margin is deliberately
+NOT applied, because applying a margin to a price already above the undiscounted range is
+theatre.
+
+A cross-check that does not depend on my construction: the company's own FY2026 continuing GAAP
+EPS guidance of $16.35-$16.60 puts the quote at 24.5x this year's guided GAAP earnings.
+
+WINDAGE SPENT ONCE and counted: (c) at total capex rather than depreciation, about $41M a year.
+The NCI deduction is correctness, the working-capital figure is the filed one, and the 6.1%
+growth is granted at face value. [E4-41]'s normalisation for luck is satisfied by the WINDOW -
+the three-year mean already contains the 2023 issuance bust alongside the 2024-25 boom - so no
+second cycle deduction is taken; its size is recorded ($310M after tax) for anyone who wants it.
+
+Q6 pre-commits ten falsifiers: five on the business, of which the first voids Q2 outright (any
+enacted US, EU or UK rule regulating rating remuneration, mandating rotation, or removing a
+regulatory reference to ratings - the [E2-59] trigger and the condition on which criterion 3 was
+passed); three on management; two on survival, including CME exercising the $4,914M S&P Dow Jones
+Indices put that the filing excludes from its own contractual-obligations table. Next catalyst is
+the Q3 2026 report in late October - the FIRST filing to present Mobility as discontinued
+operations and reallocate the stranded costs, and the first clean read of the company being
+priced. Position size zero, and pre-committed as SIZED DOWN if it ever clears, because the
+[E5-08](2) flag is live.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>

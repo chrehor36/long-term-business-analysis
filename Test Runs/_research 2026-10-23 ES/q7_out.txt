@@ -1,0 +1,52 @@
+net LT debt raised 2021-25 12,025; debt share x all spending 9,808; credit = 9,808
+2021 OCF-SBC-pref+taxadj   1926.9 | all-spend  -1252.3 | all-spend+credit    337.3 | maint M   1375.4 | eq growth spend G   1038.1 | taxadj    0.0
+2022 OCF-SBC-pref+taxadj   2360.4 | all-spend  -1085.4 | all-spend+credit    637.5 | maint M   1763.3 | eq growth spend G   1125.8 | taxadj    0.0
+2023 OCF-SBC-pref+taxadj   1610.9 | all-spend  -2729.8 | all-spend+credit   -559.4 | maint M    958.0 | eq growth spend G   1517.4 | taxadj    0.0
+2024 OCF-SBC-pref+taxadj   1973.0 | all-spend  -2512.7 | all-spend+credit   -269.8 | maint M   1256.3 | eq growth spend G   1526.1 | taxadj -149.2
+2025 OCF-SBC-pref+taxadj   3944.5 | all-spend   -219.9 | all-spend+credit   1862.3 | maint M   3160.2 | eq growth spend G   1297.9 | taxadj -128.0
+5-yr avg: all-spend -1560.0  all-spend+credit 401.6  M 1702.6  G 1301.1
+M halves 1569 -> 2208: shown growth 12.1%/yr; sales growth 2021-25 8.3%/yr
+highest M/sales in window 23.3%; M at shown growth in yr10 / sales yr10 = 17.7%
+growth carried: 5.29% (cut to sales growth, never above the discount rate)
+
+literal window (no adjustments): M 1703 G 1301; equity add 0
+  at sovereign 5.29%: no-growth 85.45  growth 96.11  -> range 85.45 to 96.11
+  at 10% floor:       no-growth 45.20  growth 37.63  -> fair (avg) 41.41
+  expected return at $67.84 on the no-growth case: 6.66%
+  expected return at $67.84 on the growth case: 6.78%
+
+central: less Aquarion, less FERC ROE cut: M 1565 G 1242; equity add 1291
+  at sovereign 5.29%: no-growth 81.97  growth 90.55  -> range 81.97 to 90.55
+  at 10% floor:       no-growth 44.98  growth 37.05  -> fair (avg) 41.01
+  expected return at $67.84 on the no-growth case: 6.45%
+  expected return at $67.84 on the growth case: 6.55%
+
+beside, maintenance = filer's basic+aging share 85.7% of spending: M 545 G 222; sovereign 30.77/39.35; at 10% 17.89/19.56
+FERC refund high end less recorded, after 21%: 716M = $1.90/share
+all-equity at 5.29%: M 1518 G 2484 no-growth 0.38 growth -25.25  (net debt 27,988, pref 155.6, OSW 409.2)
+all-equity at 10.00%: M 1518 G 2484 no-growth -35.50 growth -70.10  (net debt 27,988, pref 155.6, OSW 409.2)
+market cap at 67.84: 25,554M
+
+--- growth variants on the central figures (M,G less Aquarion and ROE cut; equity add proceeds less OSW) ---
+g 12.06% (shown, halves of the window): sovereign no-growth 81.97 growth 162.15; at 10% 44.98 / 62.95; fair 53.96; return at price on growth case 9.54%
+g 8.26% (sales growth 2021-25 (= regulated non-GAAP NI growth 2021-25, 8.3%)): sovereign no-growth 81.97 growth 117.17; at 10% 44.98 / 46.71; fair 45.84; return at price on growth case 7.80%
+g 5.29% (at the discount rate): sovereign no-growth 81.97 growth 90.55; at 10% 44.98 / 37.05; fair 41.01; return at price on growth case 6.55%
+
+--- (a) cycle to cycle: prior five years 2016-2020 (OCF, SBC, depreciation from XBRL as filed; 10-K FY2020 cross-checked for 2018-20) ---
+M 2016-20 avg 1495 -> 2021-25 avg 1703: growth 2.63%/yr (includes the 2017 Aquarion and 2020 EGMA purchases, so it overstates organic growth)
+g 2.63%: sovereign no-growth 81.97 growth 71.73; at 10% 44.98 / 30.18; fair 37.58; return at price on growth case 5.52%
+
+--- all-equity beside at the central growth ---
+all-equity at 5.29%: no-growth 0.38 growth -39.13
+all-equity at 10.00%: no-growth -35.50 growth -73.51
+all-equity fair (avg at 10%): -54.51
+
+--- beside grid ---
+central (adjusted), cycle growth: g 2.63% | sovereign 81.97 / 71.73 | 10% 44.98 / 30.18 | fair 37.58 | return at price 6.45% / 5.52%
+literal window, cycle growth: g 2.63% | sovereign 85.45 / 75.47 | 10% 45.20 / 30.03 | fair 37.61 | return at price 6.66% / 5.72%
+literal window, halves growth: g 12.06% | sovereign 85.45 / 174.58 | 10% 45.20 / 66.23 | fair 55.72 | return at price 6.66% / 9.86%
+central, halves growth: g 12.06% | sovereign 81.97 / 162.15 | 10% 44.98 / 62.95 | fair 53.96 | return at price 6.45% / 9.54%
+central, sales growth: g 8.26% | sovereign 81.97 / 117.17 | 10% 44.98 / 46.71 | fair 45.84 | return at price 6.45% / 7.80%
+filer-category maintenance, cycle growth: g 2.63% | sovereign 30.77 / 32.08 | 10% 17.89 / 16.64 | fair 17.27 | return at price 2.25% / 2.60%
+central less FERC refund high end (after 21%): g 2.63% | sovereign 80.07 / 69.83 | 10% 43.07 / 28.28 | fair 35.68 | return at price 6.27% / 5.41%
+issuance prices: 2024 62.86076994495782 2025 65.27072282232002 Q2 2026 69.88555375652149

@@ -1,0 +1,69 @@
+
+---
+⛔ **The file closed at Q2 (OUT, on the business). Q3, Q4, Q5 and Q6 do not open and carry no verdicts.** What follows is recorded beneath the close, as the Clorox run did, so that the next reader finds the evidence without finding a verdict that was never reached.
+
+## RECORDED BENEATH THE CLOSE — NOT VERDICTS
+
+**Q3 material, read and not scored (the weight case is not declared because Q3 did not open).**
+- **Management change and strategic review**: 8-K of 2025-07-14 (`0000950157-25-000569`), Item 5.02: *"Thibaut Mongon has ceased to serve as Kenvue’s Chief Executive Officer, effective as of the Transition Date"*; Item 8.01: *"The Board had previously initiated a comprehensive review of strategic alternatives and has established a strategic review committee"*, advised by *"Centerview Partners and McKinsey & Company"*. The review ended in the Kimberly-Clark agreement of 2025-11-02. Kirk Perry is chief executive (the joint release of 2026-01-29).
+- **A disclosure correction**: the 2025 10-K's advertising note: *"The Advertising expenses disclosures for the fiscal twelve months ended December 29, 2024 and December 31, 2023 were adjusted to correct understatements of $ 234 million and $ 228 million, respectively"*, because of *"inconsistent classification of certain retail media spend"*; the filer calls them *"disclosure-only adjustments"*. Advertising as corrected: $1,577M (2023), $1,869M (2024), $1,836M (2025), 10-12% of sales. A prompt for [E4-22]'s first flag, not scored.
+- **The acetaminophen matters** (Step 0 and Q2): the Texas petition of October 2025 (*"alleging violations of the Texas Deceptive Trade Practices-Consumer Protection Act"* and the fraudulent-transfer statute), partly dismissed in November 2025 with an appeal filed; the FDA's label-change process; the company *"is unable to reasonably estimate either the likelihood or the magnitude of its potential liability"*. No conduct finding is made here.
+- **Buybacks**: $235M (2024) and $197M (2025) of treasury stock; stopped by the merger agreement (*"No shares have been repurchased subsequent to the execution of the Merger Agreement"*). Dividends $1,552M (2024) and $1,581M (2025) against owner earnings of $1.0-1.8bn in those years (below): the dividend exceeded 2024's owner earnings at both ends. Not scored.
+
+**Q4 material: owner earnings. COMPUTATION — NOT A CLEARANCE.** *(Q1-Q4 did not all close IN; no entry language attaches to any figure here [operator rule 3].)* `oe.py`, output `oe_out.txt`. Operating cash as filed, less stock compensation in full [E5-06], less (c) at two ends [E2-09, E3-44]: capex end (cash capex plus finance-lease additions, $109M in 2024 and $9M in 2025, from the lease note) and depreciation end (the segment note's depreciation, which excludes intangible amortization of $257-415M a year; the D&A caption is not maintenance [E2-43]). **No net-income proxy anywhere.** SBC resolves and is complete on the lines read: the only non-cash compensation line is *"Stock-based compensation"*; the 401(k) match is paid in cash (*"Total contributions attributable to the Company’s employees were $ 121 million"*, 2025); the J&J awards converted at separation carried *"an incremental cost of $ 283 million"* expensed inside that line through 2026.
+
+| year | basis | OCF | SBC | capex incl. finance leases | depreciation | OE capex end | OE depreciation end | perimeter-adjusted, capex / dep end |
+|---|---|---|---|---|---|---|---|---|
+| 2020 | J&J carve-out | 3,397 | 115 | 229 | 331 | 3,053 | 2,951 | 2,705 / 2,603 |
+| 2021 | J&J carve-out; **$3.2bn of US talc paid** | 334 | 141 | 295 | 317 | **−102** | −124 | 2,750 / 2,728 |
+| 2022 | J&J carve-out | 2,525 | 137 | 375 | 296 | 2,013 | 2,092 | 1,665 / 1,744 |
+| 2023 | mixed; payables and accruals **+1,454** | 3,168 | 188 | 469 | 305 | 2,511 | 2,675 | 2,340 / 2,504 |
+| 2024 | standalone; payables and accruals **−536** | 1,769 | 254 | 543 | 353 | 972 | 1,162 | 972 / 1,162 |
+| 2025 | standalone | 2,197 | 136 | 484 | 300 | 1,577 | 1,761 | 1,577 / 1,761 |
+
+*Perimeter adjustment, a disclosed judgment: the $3.2bn of 2021 talc payments added back (J&J kept US and Canada talc under the Separation Agreement; the tax effect of the payment is not separable from the filed cash taxes, so 2021 is overstated by it), and the carve-out years charged the standalone company's cash interest ($440M, less $224M actually paid in 2023) after a 21% US statutory tax.*
+
+- **Windows on the $34,189.8M cap:** 3y (2023-25) **$1,686.7-1,866.0M, 4.93-5.46%** as filed (4.77-5.29% adjusted); 4y $1,768.2-1,922.5M (5.17-5.62%); 5y (2021-25) **$1,394.2-1,513.2M, 4.08-4.43%** as filed (5.44-5.79% adjusted); 6y $1,670.7-1,752.8M (4.89-5.13%; adjusted 5.85-6.10%). **Combined range, every window and both ends, filed and adjusted: $1,394M to $2,084M, 4.1% to 6.1%**, against the 5.49% bond. The width is the perimeter and the 2023-2024 payables swing, not growth; operating earnings fell over the span (Q2).
+- **The screen's figures [E4-25].** **Both reproduce**: the bottom **$1,191M is the 5-year window with the whole D&A caption as (c)** ($1,191.2M), which puts $257-414M a year of intangible amortization (most of it Pfizer Consumer Health, bought by J&J in 2006) into maintenance capex; the top **$1,687M is the 3-year capex end including the finance-lease additions** ($1,686.7M). `yield_bottom` 3.24% is $1,191M on the stale $36,821M cap; `vs_sovereign` −2.11% reproduces only against 5.35% (−2.25% against today's 5.49% on its own figures); `growth_required` 6.76% is 10% less that yield. The screen could not see the 2020 carve-out year or the talc and interest perimeter.
+- **Staying power, read not scored [E5-11, E2-54]:** net debt about $7,370M; cash interest $440M in 2025 against operating cash of $2,197M less capex of $475M: about 4.9 times covered on [E2-54]'s form. No maturity in 2026 after the 2025 notes were repaid; commercial paper $1,405M at 2026-06-28.
+- **Named way it dies, as a signature WITHOUT a verdict**: **#19 THE SHELF** (`Screens/SURVIVAL SHAPES - index.md`): the brand is owned, the route to the buyer is rented from retailers who take 41% of sales through the top ten and stock their own label beside the brand at a lower price; the filer: *"our customers may respond to economic uncertainty by increasing pressure on our selling prices or increasing promotional activity for lower-priced or value offerings"*. Not entered as a Q4 death, because Q4 did not open.
+
+**Q5 material: the price is a merger spread.** At $17.80 KVUE trades 0.5% below the $17.90 of Kimberly-Clark consideration (Step 0). **No owner-earnings yield is used as a price verdict on this name**: the quote moves with Kimberly-Clark's shares, and the framework has nothing to say about the arbitrage (the ROKU precedent, which called such a quote an arbitrage in the corpus's parking-place category [E2-74], not a business purchase). No bands are armed: a name that failed at Q2 failed on the business, and a price alert on it would be a category error (the QLYS ruling).
+
+## Q6 — WHAT WOULD REVERSE THIS, IN WORDS (the QLYS ruling: no alert, no PORTFOLIO row)
+*Pre-committed before any position [E1-02]. For a name closed at Q2 these are the conditions under which the business question is reopened, each a filed document.*
+1. **If the merger closes** (expected in the fourth quarter of 2026; outside date 2026-11-02, extendable to 2027-05-03), KVUE ceases to exist as a security and this file is closed by the delisting, not by the framework. **The business then lives inside Kimberly-Clark**, and any future Kimberly-Clark run inherits this finding as a prior to be tested, not as a verdict: its Q2 must read the combined company's own unit series.
+2. **If the merger breaks** (the $1,136M termination fee is a fact about the break, not about the moat), the file reopens only on **filed units**: consolidated volume positive in two consecutive fiscal years in the 10-K's organic sales reconciliation **with value realization positive in the same years** [E4-55, E2-44], and Skin Health and Beauty volume positive in both.
+3. **Segment adjusted operating income above $3,989M** (the 2023 figure) in a 10-K, in nominal dollars [E4-47, E4-32].
+4. **A refiled private-label share for pain care or allergy care at or below its 2022 level** (19% and 27%), which would give Self Care's criterion (2) a direction.
+- **What would confirm the OUT**: a further impairment of a skin-care trade name; Pain Care falling below 10% of sales in the 10-Q category table after the acetaminophen label change; or value realization negative for the company in a full year.
+
+---
+## SELF-AUDIT
+- [x] Questions answered in order; **stopped at the first non-IN verdict** (Step 0; Q1 IN; Q2 OUT). Q3-Q6 carry no verdicts; material beneath the close is labelled as such and the valuation arithmetic is headed COMPUTATION — NOT A CLEARANCE.
+- [x] No question marked IN carries an "unverified" or "provisional" caveat (Q1 rests on the 10-K's own business description and statements).
+- [x] Every UNRESEARCHED verdict names the artifact (none issued). Every UNKNOWABLE verdict states what cannot be known (none issued; the [E4-04] perimeter close refused in writing at Q2).
+- [x] Step 0: the filing was read, with accession numbers (10-K 2025 `0001944048-26-000030`, 10-Q `0001944048-26-000142`, 10-Ks 2024 and 2023, the 424B4 `0001628280-23-015837`, the merger and vote 8-Ks); figures cross-checked (2025/2024/2023 operating cash, SBC, capex and D&A equal the tags; the D&A split read from the segment note).
+- [x] **The deal check was done before any price was used**: live merger, fixed ratio, voted, HSR expired, foreign approvals outstanding, expected close Q4 2026; the quote is a 0.5% spread and is reported as such.
+- [x] Owner earnings on a multi-year mean, both (c) ends, every window the filings allow, as filed and perimeter-adjusted, **no net-income proxy** (operator rule 5); shown as computation only.
+- [x] Competitor row filled (twelve; three named competitors not measurable, stated; the verdict does not rest on them).
+- [x] Sovereign for the earnings currency, from the issuing authority, dated (USD 5.49%, US Treasury par curve, 09/25/2026, struck fresh; the multi-currency limit stated).
+- [x] Prices dated; aggregator used for live quotes only and flagged (KVUE $17.80 and KMB $98.43, 2026-09-25, Yahoo chart endpoint).
+- [x] Value range, bar and windage: not applicable (Q5 did not open).
+- [x] Run committed to git (commits `8da03726` claim, `97ba28dd` Step 0 and Q1, `fd6ec145` Q2, then this section and the fold).
+- **Ledger ids** cited were read in `principle_ledger.csv` before citing, and are checked by `tools/check_framework.py` check 5.
+- **Other runs' figures used here are cited as theirs**: the peer cells of the competitor row (CL, PG, CHD, CLX runs) and the Clorox unit record. Kenvue's own cells were re-derived from Kenvue's filings.
+
+## REGISTER
+- Verdict: [ ] IN **[x] OUT (Q2, on the business, at the company level)** [ ] UNRESEARCHED [ ] UNKNOWABLE
+- One line: **FAIL at Q2 (OUT, ON THE BUSINESS).** J&J's former consumer-health arm, whose Self Care names (Tylenol, Zyrtec) show franchise evidence in the filer's own 2022 figures (private label about 19% and 27% of their categories) but whose company-level record since separation is value realization +10.7% with volume −6.1% over 2023-2025, negative every year, prices cut in 2025 with units still lost, segment profit down in nominal dollars, and dollar sales below J&J's consumer segment of 2009. At $17.80 the quote is a 0.5% spread on Kimberly-Clark's agreed consideration ($3.50 cash plus 0.14625 KMB shares), expected to close in the fourth quarter of 2026.
+- **Brief errors found (every brief has had one):**
+  1. **The screen's `deal_note` was blank; a merger agreement with Kimberly-Clark was signed on 2025-11-02 and is pending.** The brief said not to trust the blank, and it was right.
+  2. **The screen's cap is 7.7% stale** ($36,821M against $34,189.8M), and its `cap_flag` compared a cap and a float fourteen months apart; neither figure was wrong (the float ties to $20.88 on 2025-06-27).
+  3. **`wc_note` labels fiscal 2021 as "2022"** (the year ended 2022-01-02) **and names the wrong line**: payables were $330M of $334M, but the year's cash was unmade by $3.2bn of US talc payments inside accrued liabilities (−$2,977M), a liability J&J kept.
+  4. **`vs_sovereign` −2.11% was computed against 5.35%**, not today's 5.49%.
+  5. **`years_filed` 5**: six annual cash-flow statements were read (2020-2025), plus J&J's consumer segment sales back to 2009.
+  6. The brief called the 2022 swing an "AccountsPayable swing": in fiscal 2022 (ended 2023-01-01) payables moved $52M of $2,525M; the payables-and-accruals swings that move the windows are 2023 (+$1,454M) and 2024 (−$536M).
+- **Tooling, reported, not patched:** (a) the CL run's `peer_metrics.py` (reused by the PG and CHD rows) keys fiscal years by the calendar year of the end date, so Kenvue's 52/53-week years ending 2022-01-02 and 2023-01-01 collide with the following fiscal years and fiscal 2022's balance sheet is dropped (this run keyed by end date in `peers/kvrow.py`); (b) the screen's `deal_note` does not read Item 1.01 merger agreements where the registrant is the target (the ROKU finding of 2026-09-12, repeated here); (c) the screen's `wc_note` names the fiscal year by the end date's calendar year and reads only `IncreaseDecreaseInAccountsPayable`, not the accrued-liabilities line that carried the talc payments; (d) the screen's D&A end uses the whole D&A caption, which here carries $257-414M a year of acquired-intangible amortization. `tools/run.py` was not run (no figure here depends on it).
+- **If UNRESEARCHED — THE WORK ORDER:** not applicable.
+- **If UNKNOWABLE:** not applicable.

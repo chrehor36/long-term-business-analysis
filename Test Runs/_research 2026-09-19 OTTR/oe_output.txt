@@ -1,0 +1,62 @@
+(c) JUDGMENT, from the filed 2026-2030 capital plan, $ thousands per year
+  Electric renewal (Renewable Gen+Storage 645 + Distribution 268 + Other 153) / 5 = 213200
+  Manufacturing Platform 129 / 5                                          = 25800
+  (c) judgment total                                                      = 239000
+  Electric growth leg excluded from (c) (Transmission 855/5)              = 171000
+  consolidated D&A FY2025 for comparison                                  = 118107
+  ratio (c) judgment / D&A = 2.02x   <- [E5-20] the D&A end is INVALID for the utility
+
+AS FILED — owner earnings = mean OCF less mean SBC less (c)
+window         capex end   judgment   D&A end*
+3y 2023-25         94321     166605     297877   yields 2.57% / 4.54% / 8.12%
+4y 2022-25        123581     160827     295882   yields 3.37% / 4.38% / 8.06%
+5y 2021-25        109366     125729     263301   yields 2.98% / 3.43% / 7.17%
+6y 2020-25         63486      99214     240018   yields 1.73% / 2.70% / 6.54%
+7y 2019-25         50375      76480     220157   yields 1.37% / 2.08% / 6.00%
+TTM 6/30/26       -89516     160068     278994   yields -2.44% / 4.36% / 7.60%
+   TTM inputs: OCF 409317  SBC 10249  capex 488584  D&A 120074
+TTM adj          -163016      86568     205494   <- TTM LESS the $73.5m escrow actually paid
+
+AS-FILED BAND: -163016 to 297877   (-4.44% to 8.12% of a $3670m cap)
+
+PRE-BOOM PLASTICS BASELINE, 2017-2020 (four filed years, none touched by the boom)
+  mean operating margin  = 16.7%
+  mean operating income  = 32206
+  Plastics segment effective tax rate, FY2025 filed = 26.0%
+
+METHOD A - price actual revenue at the pre-boom margin (respects inflation and mix)
+METHOD B - hold the pre-boom DOLLAR income, scaled by the pounds index (ignores inflation)
+  2021  filed  132760  normA   63496  normB   32753   after-tax excess A   51227  B   73964
+  2022  filed  264578  normA   85589  normB   26538   after-tax excess A  132378  B  176052
+  2023  filed  254402  normA   69808  normB   22802   after-tax excess A  136523  B  171288
+  2024  filed  271905  normA   77392  normB   28985   after-tax excess A  143859  B  179660
+  2025  filed  231079  normA   70598  normB   31304   after-tax excess A  118690  B  147751
+
+WITHOUT THE PLASTICS BOOM — the same windows, boom excess removed after tax
+ method A
+   3y 2023-25        -38703      33581     164853   yields -1.05% / 0.91% / 4.49%
+   4y 2022-25         -9282      27965     163020   yields -0.25% / 0.76% / 4.44%
+   5y 2021-25         -7170       9193     146766   yields -0.20% / 0.25% / 4.00%
+   6y 2020-25        -33627       2101     142905   yields -0.92% / 0.06% / 3.89%
+   7y 2019-25        -32864      -6760     136918   yields -0.90% / -0.18% / 3.73%
+ method B
+   3y 2023-25        -71913        371     131644   yields -1.96% / 0.01% / 3.59%
+   4y 2022-25        -45107      -7861     127195   yields -1.23% / -0.21% / 3.47%
+   5y 2021-25        -40377     -24014     113558   yields -1.10% / -0.65% / 3.09%
+   6y 2020-25        -61300     -25572     115232   yields -1.67% / -0.70% / 3.14%
+   7y 2019-25        -56584     -30479     113198   yields -1.54% / -0.83% / 3.08%
+
+NORMALISED BAND: -71913 to 164853   (-1.96% to 4.49%)
+
+Market cap used: $3670.4m  = 41,985,580 x $87.42
+Sovereign 5.34%%; the [E4-28] floor is ~10%%.
+
+SBC checks: 18 filed years 2008-2025, every year present and non-zero.
+  FY2025 charge 9,119; fair value of vested awards 3.6m restricted + 5.5m performance = 9.1m.
+  SBC / FY2025 operating cash = 2.36%
+
+Staying power:
+  interest paid FY2025 45,701; OCF 385,985; capex 288,068
+  [E2-54] coverage: (OCF - capex) / interest paid = 2.14x
+  [E2-54] on the (c) judgment: (OCF - c) / interest = 3.22x
+  debt due <1yr 140,000 + interest 47,000 = 187,000 against cash 386,193

@@ -1,0 +1,72 @@
+== DLR
+2012 rev 1279.1 OI 366.1 DA 382.6 SchIII 8742.5 cost 8742.5 ppe nan (OI+DA)/avg 10.1
+2013 rev 1482.3 OI 381.8 DA 475.5 SchIII 9879.6 cost 9879.6 ppe nan (OI+DA)/avg 9.2
+2014 rev 1616.4 OI 258.7 DA 538.5 SchIII 9982.6 cost 9982.6 ppe nan (OI+DA)/avg 8.0
+2015 rev 1763.3 OI 401.9 DA 570.5 SchIII 10915.4 cost 10915.4 ppe nan (OI+DA)/avg 9.3
+2016 rev 2142.2 OI 497.3 DA 699.3 SchIII 11558.5 cost 11558.5 ppe nan (OI+DA)/avg 10.6
+2017 rev 2457.9 OI 451.3 DA 842.5 SchIII 16915.9 cost 16915.9 ppe nan (OI+DA)/avg 9.1
+2018 rev 3046.5 OI 549.8 DA 1186.9 SchIII 18839.9 cost 18839.9 ppe nan (OI+DA)/avg 9.7
+2019 rev 3209.2 OI 594.2 DA 1163.8 SchIII 16886.6 cost 16886.6 ppe nan (OI+DA)/avg 9.8
+2020 rev 3903.6 OI 557.5 DA 1366.4 SchIII 23143.0 cost 23143.0 ppe nan (OI+DA)/avg 9.6
+2021 rev 4427.9 OI 694.0 DA 1486.6 SchIII 23625.5 cost 23625.5 ppe nan (OI+DA)/avg 9.3
+2022 rev 4691.8 OI 590.0 DA 1577.9 SchIII 26136.1 cost 26136.1 ppe nan (OI+DA)/avg 8.7
+2023 rev 5477.1 OI 524.5 DA 1694.9 SchIII 27306.4 cost 27306.4 ppe nan (OI+DA)/avg 8.3
+2024 rev 5555.0 OI 471.9 DA 1771.8 SchIII 27559.0 cost 27559.0 ppe nan (OI+DA)/avg 8.2
+2025 rev 6112.7 OI 658.5 DA 1894.6 SchIII 31359.3 cost 31359.3 ppe nan (OI+DA)/avg 8.7
+== EQIX
+2012 rev 1895.7 OI 400.8 DA 389.5 SchIII 5220.4 cost nan ppe 5550.3 (OI+DA)/avg None
+2013 rev 2152.8 OI 460.9 DA 432.7 SchIII 6309.0 cost nan ppe 6614.1 (OI+DA)/avg 15.5
+2014 rev 2443.8 OI 509.3 DA 481.7 SchIII 7006.7 cost nan ppe 7388.6 (OI+DA)/avg 14.9
+2015 rev 2725.9 OI 567.3 DA 525.6 SchIII 7871.9 cost nan ppe 8395.6 (OI+DA)/avg 14.7
+2016 rev 3612.0 OI 618.7 DA 837.2 SchIII 9855.8 cost nan ppe 10650.9 (OI+DA)/avg 16.4
+2017 rev 4368.4 OI 809.0 DA 1042.5 SchIII 12947.7 cost nan ppe 13738.8 (OI+DA)/avg 16.2
+2018 rev 5071.7 OI 977.4 DA 1227.5 SchIII 15020.2 cost nan ppe 15996.6 (OI+DA)/avg 15.8
+2019 rev 5562.1 OI 1169.6 DA 1284.8 SchIII 16927.3 cost nan ppe 18087.2 (OI+DA)/avg 15.4
+2020 rev 5998.5 OI 1052.9 DA 1423.4 SchIII 20161.8 cost nan ppe 21679.4 (OI+DA)/avg 13.4
+2021 rev 6635.5 OI 1108.2 DA 1656.3 SchIII 21906.1 cost nan ppe 23702.9 (OI+DA)/avg 13.1
+2022 rev 7263.1 OI 1200.5 DA 1736.2 SchIII 23803.4 cost nan ppe 25982.5 (OI+DA)/avg 12.8
+2023 rev 8188.1 OI 1443.3 DA 1845.1 SchIII 26613.8 cost nan ppe 29201.8 (OI+DA)/avg 13.0
+2024 rev 8748.0 OI 1328.0 DA 2009.0 SchIII 27909.0 cost nan ppe 30723.0 (OI+DA)/avg 12.2
+2025 rev 9217.0 OI 1848.0 DA 2050.0 SchIII 33757.0 cost nan ppe 36972.0 (OI+DA)/avg 12.6
+== CONE
+2013 rev 263.5 OI 11.6 DA nan SchIII 1120.5 cost 1120.5 ppe nan (OI+DA)/avg nan
+2014 rev 330.9 OI 40.0 DA 118.0 SchIII 1378.4 cost 1378.4 ppe nan (OI+DA)/avg 12.6
+2015 rev 399.3 OI 22.8 DA 141.5 SchIII 1827.6 cost 1827.6 ppe nan (OI+DA)/avg 10.2
+2016 rev 529.1 OI 70.5 DA 183.9 SchIII 2601.6 cost 2601.6 ppe nan (OI+DA)/avg 11.5
+2017 rev 672.0 OI 24.1 DA 258.9 SchIII 3840.8 cost 3840.8 ppe nan (OI+DA)/avg 8.8
+2018 rev 821.4 OI 89.7 DA 334.1 SchIII 5347.5 cost 4426.2 ppe nan (OI+DA)/avg 9.2
+2019 rev 981.3 OI 67.0 DA 417.7 SchIII 6089.5 cost 4937.2 ppe nan (OI+DA)/avg 8.5
+2020 rev 1033.5 OI 40.1 DA 449.4 SchIII 7033.4 cost 5782.9 ppe nan (OI+DA)/avg 7.5
+2021 rev 1205.7 OI 39.3 DA 499.2 SchIII 7762.0 cost 6694.8 ppe nan (OI+DA)/avg 7.3
+== QTS
+2014 rev 217.8 OI 35.3 DA 58.3 SchIII 1177.6 cost 1177.6 ppe nan (OI+DA)/avg 9.0
+2015 rev 311.1 OI 36.0 DA 85.8 SchIII 1583.2 cost 1583.2 ppe nan (OI+DA)/avg 8.8
+2016 rev 402.4 OI 38.1 DA 124.8 SchIII 1964.9 cost 1964.9 ppe nan (OI+DA)/avg 9.2
+2017 rev 446.5 OI 42.1 DA 140.9 SchIII 2357.3 cost 2357.3 ppe nan (OI+DA)/avg 8.5
+2018 rev 450.5 OI 18.7 DA 149.9 SchIII 2812.9 cost 2812.9 ppe nan (OI+DA)/avg 6.5
+2019 rev 480.8 OI 61.2 DA 168.3 SchIII 3230.4 cost 3230.4 ppe nan (OI+DA)/avg 7.6
+2020 rev 539.4 OI 65.7 DA 199.9 SchIII 4033.1 cost 4033.1 ppe nan (OI+DA)/avg 7.3
+== COR
+2012 rev 123.4 OI 17.0 DA 64.3 SchIII 826.1 cost 826.1 ppe nan (OI+DA)/avg 10.4
+2013 rev 131.1 OI 34.7 DA 65.8 SchIII 1048.5 cost 1048.5 ppe nan (OI+DA)/avg 10.7
+2014 rev 149.3 OI 44.2 DA 80.7 SchIII 1146.5 cost nan ppe nan (OI+DA)/avg 11.4
+2015 rev 183.3 OI 64.1 DA 95.7 SchIII 1295.1 cost 1295.1 ppe nan (OI+DA)/avg 13.1
+2016 rev 400.4 OI 94.6 DA 108.7 SchIII 1643.6 cost 1643.6 ppe nan (OI+DA)/avg 13.8
+2017 rev 481.8 OI 124.8 DA 129.3 SchIII 1821.2 cost 1821.2 ppe nan (OI+DA)/avg 14.7
+2018 rev 544.4 OI 142.3 DA 141.6 SchIII 2083.2 cost 2083.2 ppe nan (OI+DA)/avg 14.5
+2019 rev 572.7 OI 140.8 DA 152.9 SchIII 2478.8 cost 2478.8 ppe nan (OI+DA)/avg 12.9
+2020 rev 606.8 OI 139.8 DA 168.9 SchIII 2697.7 cost 2697.7 ppe nan (OI+DA)/avg 11.9
+== SWCH
+2015 rev 265.9 OI 79.6 DA nan SchIII nan cost nan ppe nan (OI+DA)/avg None
+2016 rev 318.4 OI 51.1 DA nan SchIII nan cost nan ppe 1139.8 (OI+DA)/avg None
+2017 rev 378.3 OI 18.8 DA 89.1 SchIII nan cost nan ppe 1487.0 (OI+DA)/avg 8.2
+2018 rev 405.9 OI 54.7 DA 106.7 SchIII nan cost nan ppe 1760.6 (OI+DA)/avg 9.9
+2019 rev 462.3 OI 76.9 DA 119.9 SchIII nan cost nan ppe 2117.8 (OI+DA)/avg 10.2
+2020 rev 511.5 OI 95.4 DA 142.7 SchIII nan cost nan ppe 2437.3 (OI+DA)/avg 10.5
+2021 rev 592.0 OI 56.0 DA 172.6 SchIII nan cost nan ppe 3105.7 (OI+DA)/avg 8.2
+== DFT
+2012 rev 332.4 OI 111.9 DA 89.2 SchIII 2607.6 cost 2388.7 ppe nan (OI+DA)/avg 7.9
+2013 rev 375.1 OI 144.2 DA 93.1 SchIII 2799.0 cost 2496.9 ppe nan (OI+DA)/avg 8.8
+2014 rev 417.6 OI 162.9 DA 96.8 SchIII 3066.3 cost 2707.3 ppe nan (OI+DA)/avg 8.9
+2015 rev 452.4 OI 39.6 DA 104.0 SchIII 3132.1 cost 2831.1 ppe nan (OI+DA)/avg 4.6
+2016 rev 528.7 OI 211.9 DA 107.8 SchIII 3455.2 cost 3124.3 ppe nan (OI+DA)/avg 9.7

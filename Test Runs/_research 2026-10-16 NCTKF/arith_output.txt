@@ -1,0 +1,23 @@
+year  CFO  capex(ppe+int)  lease  NCIdiv  acq  OWNERCASH_all  maint_capex  OWNERCASH_maint  OI  OI/sales  ROE
+2016 27730 15394 0 14 778 11544 7422 20294 25982 10.6% 13.0%
+2017 23071 12193 0 264 8203 2411 8974 13833 29468 10.4% 15.9%
+2018 24165 21490 0 340 0 2335 10011 13814 21889 7.4% 12.1%
+2019 38433 14763 2477 674 0 20519 10616 24666 25320 8.7% 9.8%
+2020 34203 18697 2547 1215 0 11744 11183 19258 28533 10.2% 10.6%
+2021 36340 9299 2522 2928 746 20845 10744 20146 29669 9.9% 29.5%
+2022 7717 11368 2854 3101 0 -9606 11629 -9867 18654 6.0% 4.2%
+2023 11177 25599 3060 1563 9933 -28978 12409 -5855 16660 5.0% 5.5%
+2024 26650 28351 3424 1249 0 -6374 13045 8932 15012 4.6% 3.8%
+2025 32824 16015 3669 2610 0 10530 13589 12956 20956 6.8% 5.6%
+owner cash all-spending: ten-year avg 3497 | literal window 2021-25 -2717 | first half 2016-20 9711
+owner cash maintenance:  ten-year avg 11818 | literal window 2021-25 5262 | first half 2016-20 18373
+acquisitions ten-year 19660 owner cash before purchases ten-year 54630
+interest paid after tax, ten-year avg 233
+shares 115786577 net cash 46597 market cap 519650
+ALL-EQUITY range at 4.02%: bottom 1204 top 2991  width 2.49x
+EQUITY-ONLY range at 4.02%: bottom 751 top 2539
+yield at price on all-equity: top case 2.55% bottom case 0.79% (floor 10%)
+FAIR (all-equity) 1084  ends 1443 / 725 ; FAIR (equity-only) 661
+HDS net gains 66018 tax guess 20202 per year over ten 2020
+variant top (maint + HDS tax back) 3425; variant bottom 1638
+equity 2016->2025 147929 273466 OI 2016->2025 25982 20956

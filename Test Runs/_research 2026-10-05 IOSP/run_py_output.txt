@@ -1,0 +1,46 @@
+==============================================================================
+INNOSPEC INC.  (IOSP)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.63%   10/02/2026   US Treasury daily par yield curve
+  price     98.17 USD   2026-10-05   (aggregator — live quote only)
+  shares    24.6M      market cap 2.42B USD
+  share basis: dei cover-page count as of 2026-07-31
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2013-12-31         61        2        20         11         38         48
+    2014-12-31        106        3        29         22         75         82
+    2015-12-31        118        4        35         26         79         88
+          mean                                                  64         73
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 51 .. 58   yield 2.12%..2.42%
+  DIVERGENCE vs the 3-yr window: -20.1% on the conservative end
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                  2.65% ..  3.00%   vs sovereign 5.63%
+  2. GROWTH THE PRICE ASSUMES    5.7%  (at a 5.63% rate)
+  3. POINTS OVER THE SOVEREIGN -0.35 .. +0.02
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD millions; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory    goodwill intangibles     lt debt    retained
+    2017-12-31         1,410           -         794          90         244         210         362         163         203         605
+    2018-12-31         1,473           -         825         123         280         248         365         136         186         668
+    2019-12-31         1,469           -         918          76         292         245         363         114          59         756
+    2020-12-31         1,397           -         944         105         221         220         371          75           0         759
+    2021-12-31         1,571         538       1,032         142         284         278         364          58           -         823
+    2022-12-31         1,604         563       1,038         147         335         373         359          45           -         924
+    2023-12-31         1,707         558       1,147         204         360         300         399          57           -       1,028
+    2024-12-31         1,735         519       1,211         289         342         301         382          65           -       1,025
+    2025-07-31             -           -           -           -           -           -           2           -           -           -
+    2025-12-31         1,832         500       1,326         292         342         329         399          68           -       1,099
+    accessions: 0000950170-24-014960, 0000950170-25-022803, 0001193125-18-047390, 0001193125-19-044946, 0001193125-20-041516, 0001193125-21-046094, 0001193125-22-044144, 0001193125-23-044405, 0001193125-26-056502
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

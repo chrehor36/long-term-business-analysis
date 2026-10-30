@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <schemaVersion>X0202</schemaVersion>
+<headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Allen Family Digital, LLC -->
+          <cik>0002136301</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Class A Common Stock, $0.0001 par value per share</securitiesClassTitle>
+      <dateOfEvent>05/26/2026</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001828972</issuerCIK>
+        <issuerCusips>
+          <issuerCusipNumber>12430A300</issuerCusipNumber>
+        </issuerCusips>
+        <issuerName>BuzzFeed, Inc.</issuerName>
+        <address>
+          <com:street1>50 West 23rd Street, 6th Floor</com:street1>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10010</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Byron Allen Folks</personName>
+          <personPhoneNum>(310) 277-3500</personPhoneNum>
+          <personAddress>
+            <com:street1>9903 Santa Monica Bl.</com:street1>
+            <com:street2>#418</com:street2>
+            <com:city>Beverly Hills</com:city>
+            <com:stateOrCountry>CA</com:stateOrCountry>
+            <com:zipCode>90212</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002136301</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Allen Family Digital, LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>CA</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>40000000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>40000000.00</sharedDispositivePower>
+        <aggregateAmountOwned>40000000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>52.4</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Limited Liability Company</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002105544</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Byron Allen Folks</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>40000000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>40000000.00</sharedDispositivePower>
+        <aggregateAmountOwned>40000000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>52.4</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Common Stock, $0.0001 par value per share</securityTitle>
+        <issuerName>BuzzFeed, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>50 West 23rd Street, 6th Floor</com:street1>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10010</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Each of the following is hereinafter individually referred to as a "Reporting Person" and collectively as the "Reporting Persons." This Schedule 13D is filed on behalf of:
+
+Allen Family Digital, LLC ("AFD")
+Byron Allen Folks</filingPersonName>
+        <principalBusinessAddress>The principal office and business address of each of the Reporting Persons is 9903 Santa Monica Bl. #418, Beverly Hills, CA 90212.</principalBusinessAddress>
+        <principalJob>The principal business of Mr. Folks is serving as the Founder, Chairman and Chief Executive Officer of Allen Media Group. The principal business of AFD is investing in securities of the Issuer.</principalJob>
+        <hasBeenConvicted>During the last five years, none of the Reporting Persons has been convicted in any criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>During the last five years, none of the Reporting Persons was a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Mr. Folks is a citizen of the United States. AFD is organized under the laws of the State of California.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>On May 11, 2026, the Issuer entered into a Stock Purchase Agreement (as amended by that certain Amendment No. 1, dated May 22, 2026, the "Stock Purchase Agreement") with AFD, pursuant to which the Issuer agreed to issue and sell to AFD 40,000,000 shares of Class A Common Stock at a purchase price of $3.00 per share of Class A Common Stock, for aggregate consideration of $120.0 million (the "Transaction") comprised of (i) $20.0 million in cash to be paid to the Issuer at closing of the Transaction (the "Closing") and (ii) a five-year secured promissory note (the "Promissory Note") in the principal amount of $100.0 million. The Transaction closed on May 26, 2026 (the "Closing Date").</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Stock Purchase Agreement
+
+The description of the Stock Purchase Agreement in Item 3 is incorporated herein by reference. Pursuant to the Stock Purchase Agreement, the Issuer has agreed to file a registration statement with the Securities and Exchange Commission (the "SEC") within 60 days following any request by AFD for purposes of registering the resale of the shares of Class A Common Stock acquired in the Transaction (the "Registration Statement"), to use commercially reasonable efforts to have such Registration Statement declared effective as promptly as practicable after the filing, and to keep the Registration Statement effective until the earlier of the date that all registrable securities covered by the Registration Statement (i) have been sold thereunder or pursuant to Rule 144 of the Securities Act ("Rule 144") or (ii) may be sold without restriction under Rule 144 (including the volume and manner of sale limitations set forth in Rule 144).
+
+Promissory Note
+
+The Promissory Note bears interest at a rate of 5% per annum, with interest payable semi-annually on the last business day of each June and December. The Promissory Note matures on the fifth anniversary of the Closing Date. The Promissory Note is secured by a first priority security interest in 33.33 million shares of Class A common stock held by AFD. AFD may prepay all or any portion of the principal at any time without premium or penalty, subject to one business day's notice and a minimum prepayment amount of $1.0 million. Any material amendment, modification or waiver of the Promissory Note requires the approval of a majority of the disinterested directors on the Issuer's Board of Directors (the "Board").
+
+Director Appointment Agreement
+
+On May 11, 2026, the Issuer, AFD and Jonah Peretti, LLC entered into a Director Appointment Agreement (as amended by that certain Amendment No. 1, dated May 22, 2026, the "Director Appointment Agreement"), pursuant to which, effective as of the Closing Date, the Board will be expanded from four to nine directors. Pursuant to the Director Appointment Agreement, (A) AFD has the right (i) as of the Closing Date to appoint five directors and (ii) following the 2026 annual meeting of the Issuer's shareholders (the "2026 Annual Meeting") (x) to appoint one additional director (at such time Gregory Coleman shall resign), (y) to appoint two-thirds of the Board provided AFD beneficially owns 40% or more of the Issuer's then-outstanding Class A common stock and (z) to appoint a majority of the directors provided AFD beneficially owns less than 40% but equal to or more than 20% of the Issuer's then-outstanding Class A common stock and (B) Jonah Peretti, LLC has the right to appoint one director, who initially will be Mr. Peretti. Following the expiration of Mr. Peretti's current term as a Class I director of the Board and if the Issuer is required to have a majority of independent directors pursuant to applicable listing rules, Mr. Peretti's appointee will be independent. In addition, each of AFD and Jonah Peretti, LLC has agreed pursuant to the Director Appointment Agreement to vote all shares of the Issuer's Class A common stock beneficially owned by such party in favor of the other party's director nominees.
+
+The Director Appointment Agreement terminates (A) with respect to Jonah Peretti, LLC's director appointment rights, on the earlier of (i) such time as Mr. Peretti is no longer serving as an officer or director of the Issuer or any subsidiary of the Issuer due to his removal or termination for cause or voluntary resignation, (ii) such time as Mr. Peretti beneficially owns less than 60% of the Class A common stock beneficially owned by Mr. Peretti as of the Closing Date and (iii) such time as Mr. Peretti beneficially owns less than 0.2% of the total shares of the outstanding Class A common stock and (B) with respect to AFD's director appointment rights, at such time as AFD owns less than 5% of the then-outstanding Class A common stock.
+
+On the Closing Date, Mr. Folks was appointed as Chief Executive Officer of the Issuer, a Class I director and Chairman of the Board. In addition, the Board appointed Chris Malone, Eric Gould, Sydnie Karras and Terence Hill to serve as directors in accordance with the terms of the Director Appointment Agreement.
+
+The foregoing description of the Stock Purchase Agreement, the Promissory Note and the Director Appointment Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of such agreements, copies of which are filed as exhibits to this Schedule 13D and are incorporated herein by reference.
+
+General
+
+The Reporting Persons acquired the securities described in this Schedule 13D in connection with the Transaction, and they intend to review their investments in the Issuer on a continuing basis. Any actions the Reporting Persons might undertake will be dependent upon the Reporting Persons' review of numerous factors, including, but not limited to: an ongoing evaluation of the Issuer's business, financial condition, operations and prospects; price levels of the Issuer's securities; general market, industry and economic conditions; the relative attractiveness of alternative business and investment opportunities; and other future developments.
+
+The Reporting Persons may acquire additional securities of the Issuer, or retain or sell all or a portion of the securities then held, in the open market or in privately negotiated transactions. In addition, the Reporting Persons may engage in discussions with management, the Issuer's Board, and other securityholders of the Issuer and other relevant parties or encourage, cause or seek to cause the Issuer or such persons to consider or explore extraordinary corporate transactions, such as: a merger, reorganization or take-private transaction that could result in the de-listing or de-registration of the Class A Common Stock; security offerings and/or stock repurchases by the Issuer; sales or acquisitions of assets or businesses; changes to the capitalization or dividend policy of the Issuer; or other material changes to the Issuer's business or corporate structure, including changes in management or the composition of the Board.
+
+To facilitate their consideration of such matters, the Reporting Persons may retain consultants and advisors and may enter into discussions with potential sources of capital and other third parties. The Reporting Persons may exchange information with any such persons pursuant to appropriate confidentiality or similar agreements. The Reporting Persons will likely take some or all of the foregoing steps at preliminary stages in their consideration of various possible courses of action before forming any intention to pursue any particular plan or direction.
+
+Other than as described above, the Reporting Persons do not currently have any plans or proposals that relate to, or would result in, any of the matters listed in Items 4(a)-(j) of Schedule 13D, although the Reporting Persons may change their purpose or formulate different plans or proposals with respect thereto at any time.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The ownership information set forth herein represents beneficial ownership of the Class A Common Stock as of the date hereof, based upon 76,296,018 shares of Class A Common Stock outstanding following the Closing.
+
+AFD is the record holder of 40,000,000 shares of Class A Common Stock, representing approximately 52.4% of the outstanding Class A Common Stock. Byron Allen Folks is the sole member of AFD, and as a result, may be deemed to share beneficial ownership of the securities held of record by AFD.</percentageOfClassSecurities>
+        <numberOfShares>Sole power to vote or to direct the vote: 0
+Shared power to vote or to direct the vote: 40,000,000
+Sole power to dispose or to direct the disposition: 0
+Shared power to dispose or to direct the disposition: 40,000,000</numberOfShares>
+        <transactionDesc>Except as otherwise disclosed in Items 3 and 4 herein, during the past 60 days, none of the Reporting Persons has effected any transactions in the Class A Common Stock.</transactionDesc>
+        <listOfShareholders>None.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>The information in Item 4 is incorporated by reference herein.
+
+Except as set forth herein, none of the Reporting Persons has any contracts, arrangements, understandings or relationships (legal or otherwise) with any person with respect to any securities of the Issuer, including, but not limited to, any contracts, arrangements, understandings or relationships concerning the transfer or voting of such securities, finder's fees, joint ventures, loan or option arrangements, puts or calls, guarantees of profits, division of profits or losses, or the giving or withholding of proxies.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit 99.1: Joint Filing Agreement.
+
+Exhibit 99.2: Stock Purchase Agreement, dated May 11, 2026, between BuzzFeed, Inc. and Allen Family Digital, LLC (incorporated by reference to Exhibit 10.1 to the Issuer's Current Report on Form 8-K filed on May 11, 2026).
+
+Exhibit 99.3: Promissory Note (incorporated by reference to Exhibit 10.3 to the Issuer's Current Report on Form 8-K filed on May 26, 2026).
+
+Exhibit 99.4: Director Appointment Agreement, dated May 11, 2026, by and among BuzzFeed, Inc., Allen Family Digital, LLC, and Jonah Peretti, LLC (incorporated by reference to Exhibit 10.3 to the Issuer's Current Report on Form 8-K filed on May 11, 2026).
+
+Exhibit 99.5: Amendment No. 1 to the Stock Purchase Agreement, dated May 22, 2026, between BuzzFeed, Inc. and Allen Family Digital, LLC (incorporated by reference to Exhibit 10.1 to the Issuer's Current Report on Form 8-K filed on May 26, 2026).
+
+Exhibit 99.5: Amendment No. 1 to the Director Appointment Agreement, dated May 22, 2026, by and among BuzzFeed, Inc., Allen Family Digital, LLC, and Jonah Peretti. (incorporated by reference to Exhibit 10.2 to the Issuer's Current Report on Form 8-K filed on May 26, 2026).</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Allen Family Digital, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Byron Allen Folks</signature>
+          <title>Byron Allen Folks, Manager</title>
+          <date>05/29/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Byron Allen Folks</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Byron Allen Folks</signature>
+          <title>Byron Allen Folks</title>
+          <date>05/29/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>

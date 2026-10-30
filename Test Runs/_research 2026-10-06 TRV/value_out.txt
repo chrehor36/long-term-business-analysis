@@ -1,0 +1,27 @@
+float A2 80,870; float C1 (less premiums receivable and DAC) 64,775
+
+== component 1 net of C1 float (used): 103,800 - 64,775 = 39,025
+  low: underwriting at zero (C6), no growth                  C2 value    -7,544  total    31,481  per share $ 150.93
+  middle: developed average underwriting, no growth          C2 value    23,887  total    62,912  per share $ 301.63
+  top: developed average, 5.66% for ten years (strict cap)   C2 value    37,407  total    76,432  per share $ 366.45
+  rejected: 21.0% shown 2021-2025, uncapped                  C2 value   123,369  total   162,394  per share $ 778.59
+  range $151 to $366; width 2.43 to 1; price $360.7
+  bracket (C7): net worth 33,121; net worth + float A2 113,991
+  owner earnings after tax at no growth: C2 1352 + investment income on component 1 1,344 = 2,696; yield at the price 3.58% after tax (4.34% pre-tax)
+  floor 10% pre-tax = 8.26% after tax at 17.4%
+  cheap price (no growth meets the floor): $156
+  fair price (top case, 5.66% growth for ten years, meets the floor): $196
+  growth of component 2 for ten years that the price implies at 5.66%: 5.2% a year
+
+== component 1 net of A2 float (shown): 103,800 - 80,870 = 22,930
+  low: underwriting at zero (C6), no growth                  C2 value    -7,544  total    15,386  per share $  73.77
+  middle: developed average underwriting, no growth          C2 value    23,887  total    46,817  per share $ 224.46
+  top: developed average, 5.66% for ten years (strict cap)   C2 value    37,407  total    60,337  per share $ 289.28
+  rejected: 21.0% shown 2021-2025, uncapped                  C2 value   123,369  total   146,299  per share $ 701.42
+  range $74 to $289; width 3.92 to 1; price $360.7
+  bracket (C7): net worth 33,121; net worth + float A2 113,991
+  owner earnings after tax at no growth: C2 1352 + investment income on component 1 790 = 2,142; yield at the price 2.85% after tax (3.45% pre-tax)
+  floor 10% pre-tax = 8.26% after tax at 17.4%
+  cheap price (no growth meets the floor): $124
+  fair price (top case, 5.66% growth for ten years, meets the floor): $164
+  growth of component 2 for ten years that the price implies at 5.66%: 9.9% a year

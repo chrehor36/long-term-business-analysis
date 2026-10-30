@@ -1,0 +1,1276 @@
+================================================================================
+OCCIDENTAL PETROLEUM - THE ANADARKO ACQUISITION AND THE 2020 EXPERIENCE
+Findings from primary filings held locally in
+  /Test Runs/_research 2026-09-01 OXY/
+Compiled 2026-09-02.
+
+RULE APPLIED THROUGHOUT: every quotation below is VERBATIM from the named file.
+Every number names the file it came from. Where an item asked for was not in the
+files read, it is written "NOT FOUND in the files read" and nothing is supplied
+from memory.
+================================================================================
+
+
+================================================================================
+SECTION A - THE ANADARKO ACQUISITION (closed 2019-08-08)
+Source unless otherwise stated: FY2019.txt
+(Occidental FY2019 Form 10-K, accession 0000797468-20-000004, filed 2020-02-27)
+================================================================================
+
+--------------------------------------------------------------------------------
+A1. TOTAL PURCHASE CONSIDERATION AND ITS COMPOSITION
+--------------------------------------------------------------------------------
+
+The business-combination footnote is "NOTE 3 - THE ACQUISITION" in FY2019.txt.
+
+VERBATIM (FY2019.txt, Note 3):
+  "On May 9, 2019, Occidental entered into the Acquisition Agreement with
+  Anadarko. On August 8, 2019, Anadarko's stockholders voted to approve the
+  Acquisition and it was made effective the same day. The Acquisition added to
+  Occidental's oil and gas portfolio, primarily in the Permian Basin, DJ Basin
+  and Gulf of Mexico, and a controlling interest in WES."
+
+VERBATIM (FY2019.txt, Note 3):
+  "In exchange for each share of Anadarko common stock, Anadarko stockholders
+  received $59.00 in cash and 0.2934 of a share of Occidental common stock, plus
+  cash in lieu of any fractional share of Occidental common stock that otherwise
+  would have been issued, based on the average price of $46.31 per share of
+  Occidental common stock on the NYSE on August 8, 2019."
+
+VERBATIM (FY2019.txt, Note 3):
+  "The Acquisition constitutes a business combination and was accounted for
+  using the acquisition method of accounting. The following table presents the
+  Acquisition consideration paid to Anadarko stockholders as a result of the
+  Acquisition:"
+
+CONSIDERATION TABLE (FY2019.txt, Note 3; millions except per-share amounts;
+"As of August 8, 2019"):
+  Total shares of Anadarko common stock eligible for
+    Acquisition consideration                                        491.6
+  Cash consideration (per share of common stock and shares
+    underlying Anadarko stock-based awards eligible for
+    Acquisition consideration)                                     $ 59.00
+  Cash portion of Acquisition consideration                        $ 29,002
+  Exchange ratio (per share of Anadarko common stock)               0.2934
+  Total shares of Occidental common stock issued to
+    Anadarko stockholders                                             144
+  Average share price of Occidental common stock at
+    August 8, 2019                                                 $ 46.31
+  Stock portion of Acquisition consideration                       $  6,679
+  Acquisition consideration attributable to Anadarko
+    stock-based awards                                             $     23
+  TOTAL ACQUISITION CONSIDERATION                                  $ 35,704
+
+NOTE ON COMPOSITION. The $35,704 million is consideration PAID TO ANADARKO
+STOCKHOLDERS only. Assumed Anadarko debt is NOT part of that figure; it appears
+on the liabilities-assumed side of the allocation table. From the same footnote
+(FY2019.txt), the preliminary allocation reads:
+
+  Fair value of liabilities assumed:
+    Current liabilities                                            $  3,410
+    Liabilities of Africa Assets held for sale                        2,200
+    Long-term debt                                                   13,240   <= ASSUMED ANADARKO DEBT
+    Deferred income taxes                                             8,607
+    Asset retirement obligations                                      2,724
+    Pension and post-retirement obligations                           1,072
+    Non-current derivative liabilities                                1,280
+    Other long-term liabilities                                       2,323
+  Amount attributable to liabilities assumed                       $ 34,856
+  Net assets                                                       $ 29,460
+  Fair value of WES net assets acquired less noncontrolling
+    interests                                                      $  6,244
+  Total Acquisition consideration                                  $ 35,704
+
+  Fair value of assets acquired:
+    Current assets                                                 $  3,596
+    Africa Assets held for sale                                      10,616
+    Investments in unconsolidated entities                              194
+    Property, plant and equipment                                    49,074
+    Other assets                                                        836
+  Amount attributable to assets acquired                           $ 64,316
+
+A SEPARATE $7,407 million of WES long-term debt was assumed on top of the
+$13,240 million above. From the WES sub-table (FY2019.txt, Note 3):
+  Fair value of WES liabilities assumed:
+    Current liabilities                                            $    815
+    Long-term debt                                                    7,407   <= ASSUMED WES DEBT
+    Deferred income taxes                                             1,174
+    Asset retirement obligations                                        321
+    Other long-term liabilities                                        142
+  Amount attributable to liabilities assumed                       $  9,859
+  Net assets                                                       $ 11,139
+  Less: Fair value of noncontrolling interests in WES              $  4,895
+  Fair value of WES net assets acquired less noncontrolling
+    interests                                                      $  6,244
+
+  WES assets acquired (same sub-table): Current assets $499;
+  Investments in unconsolidated entities $2,425; PP&E $10,160;
+  Intangible assets - customer relationships $1,800; Goodwill $5,772;
+  Other assets $342; Amount attributable to assets acquired $20,998.
+
+SO, IN SUMMARY (all FY2019.txt):
+  Cash to Anadarko holders                     $29,002 million
+  OXY stock to Anadarko holders                $ 6,679 million (144 million shares @ $46.31)
+  Anadarko stock-based awards                  $    23 million
+  ------------------------------------------------------------
+  Total consideration                          $35,704 million
+  PLUS assumed Anadarko long-term debt         $13,240 million
+  PLUS assumed WES long-term debt              $ 7,407 million
+
+VERBATIM on what was bought (FY2019.txt, Note 3):
+  "With the completion of the Acquisition, Occidental acquired proved and
+  unproved properties of approximately $19.1 billion and $27.4 billion,
+  respectively, primarily associated with the Permian Basin, DJ Basin, Gulf of
+  Mexico and Powder River Basin. The remaining $2.5 billion in PP&E which
+  consists of non-oil and gas mineral interests and other real estate assets."
+
+VERBATIM on what it earned in the stub period (FY2019.txt, Note 3):
+  "From the date of the Acquisition through December 31, 2019, revenues and the
+  net loss attributable to common stockholders associated with the operations
+  acquired through the Acquisition totaled $4.2 billion and $1.7 billion,
+  respectively, which includes a charge as a result of recording Occidental's
+  investment in WES at fair value as of December 31, 2019 upon the loss of
+  control."
+
+
+--------------------------------------------------------------------------------
+A2. TOTAL DEBT AT 2018-12-31 vs 2019-12-31 (balance sheet, FY2019.txt)
+--------------------------------------------------------------------------------
+
+From the Consolidated Balance Sheets in FY2019.txt (millions):
+
+                                         2019-12-31      2018-12-31
+  Current maturities of long-term debt   $     51        $    116
+  Long-term debt, net                     38,537          10,201
+  ---------------------------------------------------------------
+  TOTAL DEBT                             $38,588         $10,317
+
+  INCREASE OVER THE YEAR:               $28,271 million
+
+  (Total current liabilities, same statement: $14,949 at 2019-12-31 vs
+  $7,412 at 2018-12-31.)
+
+Context on the funding, VERBATIM (FY2019.txt, Note 3):
+  "In connection with the Acquisition, Occidental issued $13.0 billion of new
+  senior unsecured notes, $8.8 billion of term loans (the Term Loans) and
+  100,000 shares of series A preferred stock (the Preferred Stock) with a
+  warrant to purchase 80 million shares of Occidental common stock at an
+  exercise price of $62.50 (the Warrant) for $10 billion. In addition,
+  Occidental increased its existing $3.0 billion revolving credit facility by
+  an additional $2.0 billion in commitments."
+
+Interest paid, VERBATIM (FY2019.txt, Supplemental Cash Flow Information):
+  "Interest paid totaled $911 million, $383 million and $351 million, net of
+  capitalized interest of $85 million, $46 million and $52 million, for the
+  years 2019, 2018 and 2017, respectively."
+
+
+--------------------------------------------------------------------------------
+A3. GOODWILL RECORDED, AND ITS SUBSEQUENT IMPAIRMENT
+--------------------------------------------------------------------------------
+
+RECORDED. VERBATIM (FY2019.txt, "GOODWILL" in Note 1):
+  "Occidental recognized goodwill of $5.8 billion associated with the
+  Acquisition. The goodwill was based on WES's publicly traded units and was
+  primarily associated with the relationship between Occidental and WES as well
+  as Occidental's tax basis in WES. Upon loss of control and application of the
+  equity method of accounting, $4.6 billion of goodwill was derecognized. The
+  remaining $1.2 billion in goodwill is assigned to the marketing and midstream
+  segment and is attributable to the deferred tax liability associated with the
+  investment in WES."
+
+  (The acquisition-date figure in the Note 3 WES sub-table is $5,772 million.)
+
+IMPAIRED IN FULL, Q1 2020. VERBATIM (FY2020.txt, "GOODWILL" in Note 17 - Fair
+Value Measurements):
+  "As of December 31, 2019, Occidental had $1.2 billion of goodwill related to
+  its ownership in WES, which was included in long-term receivables and other
+  assets, net. Significant declines in the market value of WES' publicly traded
+  units resulted in management's determination that, more likely than not, the
+  fair value of the reporting unit was significantly less than its carrying
+  value and the remaining $1.2 billion in goodwill was fully impaired in the
+  first quarter of 2020. The market value of WES' publicly traded units is
+  considered a Level 1 input."
+
+  ==> The entire $5.8 billion of goodwill was gone within about 8 months of the
+      close: $4.6 billion derecognized on the 2019-12-31 WES deconsolidation,
+      the remaining $1.2 billion written off in Q1 2020.
+
+
+--------------------------------------------------------------------------------
+A4. THE BERKSHIRE PREFERRED AND THE ACCOMPANYING WARRANT
+--------------------------------------------------------------------------------
+
+VERBATIM (FY2019.txt, "PREFERRED STOCK" in Note 13 - Stockholders' Equity):
+  "Occidental has authorized 50 million shares of preferred stock with a par
+  value of $1.00 per share. On August 8, 2019, in connection with the
+  Acquisition, Occidental issued 100,000 shares of series A preferred stock
+  (the Preferred Stock), having a face value of $100,000 per share and a
+  liquidation preference of $105,000 per share plus unpaid accrued dividends.
+  In connection with the preferred stock issuance, Occidental also issued the
+  Warrant. The holder of the Warrant and the Preferred Stock may redeem the
+  Preferred Stock as payment for the exercise price of the Warrant in lieu of
+  cash payment upon exercise. The Preferred Stock is redeemable at Occidental's
+  option after the 10th anniversary of issuance. Dividends on the Preferred
+  Stock will accrue on the face value at a rate per annum of 8 percent, but
+  will be paid only when, as, and if declared by Occidental's Board of
+  Directors. At any time, when such dividends have not been paid in full, the
+  unpaid amounts will accrue dividends, compounded quarterly, at a rate per
+  annum of 9 percent. Following the payment in full of any accrued but unpaid
+  dividends, the dividend rate will remain at 9 percent per annum. In January
+  2020, Occidental paid $200 million in Preferred Stock dividends. At December
+  31, 2019, Occidental had 100,000 shares of preferred stock issued and
+  outstanding, and none were outstanding in 2018 and 2017."
+
+THE WARRANT, VERBATIM (FY2019.txt, Note 3, quoted in full at A2 above):
+  "...100,000 shares of series A preferred stock (the Preferred Stock) with a
+  warrant to purchase 80 million shares of Occidental common stock at an
+  exercise price of $62.50 (the Warrant) for $10 billion."
+
+SO:
+  Face amount issued:  100,000 shares x $100,000 face = $10.0 billion (FY2019.txt)
+  Liquidation pref:    $105,000 per share plus unpaid accrued dividends (FY2019.txt)
+  Coupon:              8 percent per annum on face; 9 percent per annum if
+                       unpaid, compounded quarterly, and 9 percent thereafter
+                       (FY2019.txt)
+  Warrant:             80 million shares of OXY common at $62.50 strike (FY2019.txt)
+  Total package price: $10 billion for the preferred plus the warrant (FY2019.txt)
+
+Counterparty named in the exhibit index, VERBATIM (FY2019.txt, Exhibit list):
+  "Securities Purchase Agreement, dated April 30, 2019 between Occidental
+  Petroleum Corporation and Berkshire Hathaway Inc. (including forms of the
+  Certificate of Designations, Warrant and Registration Rights Agreement) (filed
+  as Exhibit 10.1 to the Current Report on Form 8-K of Occidental filed on
+  May 3, 2019, File No. 1-9210)."
+
+  Also listed (FY2019.txt): "Certificate of Designations with respect to the
+  Cumulative Perpetual Preferred Stock, Series A (filed as Exhibit 3.1 to the
+  Current Report on Form 8-K of Occidental filed on August 8, 2019, File
+  No. 1-9210)."
+
+  NOTE: the Certificate of Designations itself is NOT among the files read. Its
+  full terms (see Section C) could not be checked against the primary document.
+
+
+--------------------------------------------------------------------------------
+A5. CASH PAID TO ANADARKO SHAREHOLDERS AND OXY SHARES ISSUED
+--------------------------------------------------------------------------------
+
+CASH (FY2019.txt, Note 3 consideration table):
+  Cash portion of Acquisition consideration          $29,002 million
+  at $59.00 per Anadarko share on 491.6 million shares eligible.
+
+SHARES (FY2019.txt, Note 3 consideration table):
+  Total shares of Occidental common stock issued to
+  Anadarko stockholders                              144 million
+  at an average OXY price of $46.31 on 2019-08-08, = $6,679 million.
+
+The common stock rollforward in FY2019.txt gives a slightly larger issued count,
+because it includes a benefits-trust tranche. VERBATIM (FY2019.txt, Note 13):
+  Balance, December 31, 2018                          895,116 (thousands)
+  Issued in the ordinary course                         3,188
+  Issued as part of the Acquisition (a)               146,131
+  Balance, December 31, 2019                        1,044,435
+  "(a) Included approximately 2 million shares of common stock issued to a
+  benefits trust for former Anadarko employees treated as treasury stock at
+  December 31, 2019."
+
+Cash-flow corroboration (FY2020.txt, Consolidated Statements of Cash Flows,
+2019 column): "Purchase of businesses and assets, net" $(28,088) million in 2019.
+
+
+--------------------------------------------------------------------------------
+A6. THE WESTERN MIDSTREAM (WES) INTEREST ACQUIRED
+--------------------------------------------------------------------------------
+
+VERBATIM (FY2019.txt, "WES INVESTMENT" in Note 1):
+  "WES is a publicly traded limited partnership with its common units traded on
+  the New York Stock Exchange (NYSE) under the ticker symbol 'WES.' WES owns the
+  entire non-economic general partner interest and a 98% limited partner
+  interest in Western Midstream Operating, LP (WES Operating), a Delaware
+  limited partnership formed by Anadarko in 2007 to acquire, own, develop and
+  operate midstream assets. WES maintains its own capital structure that is
+  separate from Occidental, consisting of its own debt instruments and publicly
+  traded common units."
+
+VERBATIM (FY2019.txt, Note 1):
+  "From the Acquisition date through December 31, 2019, WES was determined to be
+  a VIE, and Occidental, through its ownership of the general partner interest
+  in WES, had the power to direct the activities that significantly affected the
+  economic performance of WES and the obligation to absorb losses or the right
+  to receive benefits that could be significant to WES. As such, Occidental was
+  considered the primary beneficiary and consolidated WES and its consolidated
+  subsidiaries from the date of the Acquisition to December 31, 2019. All
+  intercompany transactions were eliminated during the consolidated period.
+  Revenues of $1.1 billion, cost of sales of $500 million and operating cash
+  flows of $498 million from the date of the Acquisition to December 31, 2019
+  are attributable to WES and are included in Occidental's consolidated
+  financial statements. Net income from noncontrolling interest for the same
+  period relates to the 44.6% limited partner interest of WES owned by the
+  public."
+
+VERBATIM (FY2019.txt, Note 1, on the size of the stake at year-end 2019):
+  "As of December 31, 2019, Occidental has a 55.4% unit ownership in WES, which
+  consists of a 2% non-voting general partner unit interest and 54.5% of limited
+  partner unit interest. In addition, Occidental has a 2% non-voting limited
+  partner interest in WES Operating, which brings Occidental's total effective
+  economic interest in WES and its subsidiaries to 56.3%. During 2020,
+  Occidental intends to reduce its limited partner ownership interest in WES to
+  below 50%. Occidental's historical pro rata interest in the net assets of WES
+  was $1.9 billion, resulting in a basis difference of $3.2 billion primarily
+  associated with WES's equity method investments, PP&E, equity method goodwill
+  and intangible assets - customer relationships and subject to amortization
+  over their estimated average useful life."
+
+DECONSOLIDATED ON THE LAST DAY OF THE YEAR. VERBATIM (FY2019.txt, Note 1):
+  "As a result of the loss of control, Occidental derecognized all assets,
+  liabilities, and noncontrolling interest that were previously consolidated.
+  Occidental recognized, at fair value, an equity method investment of $5.1
+  billion based on the closing market price of WES as of December 31, 2019 and
+  recognized a loss of approximately $1 billion that is included in asset
+  impairments and other charges on the Statement of Operations. In future
+  periods, Occidental will recognize equity method earnings and dividends
+  received for its economic interest in WES."
+
+  Acquisition-date value of the WES stake acquired (FY2019.txt, Note 3):
+    Fair value of WES net assets acquired less noncontrolling
+    interests                                                    $6,244 million
+    Fair value of noncontrolling interests in WES                $4,895 million
+
+  The $6,244 million stake acquired in August 2019 was carried at $5.1 billion
+  by 2019-12-31 (FY2019.txt), then impaired to $1.9 billion by 2020-12-31
+  (FY2020.txt, Note 1: "As of December 31, 2020, Occidental's equity method
+  investment in WES was $1.9 billion").
+
+
+================================================================================
+SECTION B - THE 2020 EXPERIENCE
+================================================================================
+
+--------------------------------------------------------------------------------
+B7. FY2020 NET LOSS AND TOTAL PRE-TAX IMPAIRMENTS
+--------------------------------------------------------------------------------
+
+NET LOSS. From FY2020.txt (millions; 2020 / 2019 / 2018 columns):
+  Income (loss) from continuing operations           $(13,533) / $(507) / $4,131
+  Discontinued operations, net                         (1,298) /   (15) /     --
+  Net income (loss)                                   (14,831) /  (522) /  4,131
+  Less: Net loss attributable to noncontrolling
+    interests                                              -- /  (145) /     --
+  Less: Preferred stock dividends                        (844) /  (318) /     --
+  NET INCOME (LOSS) ATTRIBUTABLE TO
+    COMMON STOCKHOLDERS                              $(15,675) / $(985) / $4,131
+  Per share - basic                                   $(17.06) / $(1.22) / $5.40
+  Per share - diluted                                 $(17.06) / $(1.22) / $5.39
+
+  ==> FY2020 NET LOSS ATTRIBUTABLE TO COMMON STOCKHOLDERS: $(15,675) MILLION
+      (FY2020.txt)
+
+  By quarter (FY2020.txt, quarterly data, millions):
+    Q1 $(2,232)  Q2 $(8,353)  Q3 $(3,778)  Q4 $(1,312)
+  Basic loss per common share by quarter (FY2020.txt):
+    Q1 $(2.49)   Q2 $(9.12)   Q3 $(4.07)   Q4 $(1.41)
+
+TOTAL IMPAIRMENTS. Consolidated Statements of Operations line (FY2020.txt):
+  "Asset impairments and other charges   11,083   1,361   561"
+  (2020 / 2019 / 2018, millions - CONTINUING OPERATIONS)
+
+BREAKOUT BY CATEGORY, all VERBATIM from FY2020.txt:
+
+  (i) GOODWILL - Q1 2020, $1.2 billion:
+      "...the remaining $1.2 billion in goodwill was fully impaired in the first
+      quarter of 2020."
+
+  (ii) WES EQUITY INVESTMENT - Q3 2020, $2.7 billion:
+      "At the end of the third quarter 2020, Occidental recorded an
+      other-than-temporary impairment of $2.7 billion, as the fair value of
+      Occidental's investment in WES has remained significantly lower than its
+      book value for the majority of the nine months ended September 30, 2020.
+      Occidental concluded that the difference between the fair value and book
+      value of WES was not temporary, primarily given both the magnitude and the
+      duration that the fair value was below its book value."
+
+  (iii) LOSS FROM EQUITY INVESTMENT (WES's own goodwill write-off) - Q1 2020,
+      $236 million:
+      "In the first quarter 2020, Occidental recorded a loss from an equity
+      investment of $236 million primarily as a result of WES' write-off of its
+      goodwill."
+
+  (iv) OIL AND GAS PROPERTIES - Q2 2020, $8.6 billion:
+      "In the second quarter 2020, as a result of the expected prolonged period
+      of lower commodity prices brought on by the COVID-19 pandemic's impact on
+      oil demand, Occidental tested substantially all of its oil and gas assets
+      for impairment. Occidental recognized total pre-tax impairments to its oil
+      and gas proved and unproved properties of $8.6 billion, of which $6.4
+      billion is included in oil and gas segment results and $2.2 billion ($1.4
+      billion net of tax) related to Ghana is included in discontinued
+      operations."
+
+      Within that: "In the second quarter 2020, Occidental recorded proved
+      property pre-tax impairments of $1.2 billion primarily related to certain
+      assets for its domestic onshore and Gulf of Mexico assets and $0.9 billion
+      to adjust the Algeria oil and gas proved properties to their fair value."
+      and "Unproved property pre-tax impairments of $4.3 billion were primarily
+      related to domestic onshore unproved acreage."
+
+  (v) OIL AND GAS - Q1 2020, $581 million:
+      "In the first quarter 2020, Occidental's oil and gas segment recognized
+      pre-tax impairment and related charges of $581 million primarily related to
+      both proved and unproved oil and gas properties and a lower of cost or net
+      realizable value adjustment for crude inventory. Occidental recorded proved
+      property impairments of $293 million related to certain international
+      assets and the Gulf of Mexico. Occidental recorded unproved property
+      impairments, of approximately $241 million, primarily related to domestic
+      onshore undeveloped leases and offshore Gulf of Mexico where Occidental no
+      longer intends to pursue exploration, appraisal or development activities
+      primarily due to the reduction in near-term capital plans."
+
+  FY2020.txt also carries a nonrecurring fair-value table headed "millions | Total
+  Fair Value" listing, under "Asset impairments and other charges":
+      Goodwill                                     $1,153
+      Oil and gas properties - proved              $2,436
+      Oil and gas properties - unproved            $4,591
+      Oil and gas properties - discontinued ops    $2,191
+      WES equity investment                        $2,673
+  CAUTION: the column in that table is headed "Total Fair Value", so these are
+  the values the assets were measured TO, not unambiguously the charges taken.
+  The narrative quotes above are the reliable statement of the charges.
+
+  A FORWARD-LOOKING ADMISSION, VERBATIM (FY2020.txt):
+      "If there is a further worsening of the macroeconomic conditions and if
+      such worsened conditions are expected to be prolonged, Occidental's oil
+      and gas properties may be subject to further testing for impairment, which
+      could result in additional non-cash asset impairments. Such impairments
+      could be material to our financial statements."
+
+  LOSSES ON ASSET SALES ARE SEPARATE FROM IMPAIRMENTS. VERBATIM (FY2020.txt):
+      "The 2020 losses on sales of assets, net, is primarily comprised of $820
+      million related to the sale of certain non-core, largely non-operated
+      acreage in the Permian Basin, $440 million related to the sale of 4.5
+      million mineral acres and 1 million fee surface acres located in Wyoming,
+      Colorado and Utah, $353 million related to the sale of the Colombia
+      onshore assets and a loss of $46 million related to the WES note exchange."
+      (FY2021.txt reports "Gains (losses) on sale of assets, net" of
+      $192 / $(1,666) / $622 million for 2021 / 2020 / 2019.)
+
+
+--------------------------------------------------------------------------------
+B8. THE DIVIDEND SEQUENCE - THE $0.79 / $0.11 / $0.01 QUESTION
+--------------------------------------------------------------------------------
+
+VERDICT: THE INTERMEDIATE $0.11 CUT IS REAL AS AN ANNOUNCEMENT, BUT IT WAS NEVER
+PAID. The filings record an announced INTENTION on 2020-03-10 to cut from $0.79
+to $0.11 effective July 2020, which was superseded before it took effect by a
+further cut to $0.01. The dividends actually declared and paid went
+$0.79 -> $0.01, with no quarter at $0.11.
+
+THE $0.11 ANNOUNCEMENT. VERBATIM (Q1_2020.txt, in the list of liquidity actions):
+  "Announced the Board of Directors' intention on March 10, 2020 to reduce the
+  quarterly common stock dividend to $0.11 per share from $0.79 per share,
+  effective July 2020, subject to Board approval, which on an annualized basis
+  will reduce its dividend outlay by approximately $2.4 billion to enhance
+  Occidental's liquidity;"
+
+  Note the qualifiers in Occidental's own words: an "intention", "subject to
+  Board approval", and "effective July 2020" - i.e. a future quarter.
+
+THE $0.01 CUT THAT REPLACED IT. VERBATIM (Q2_2020.txt):
+  "Reduced the quarterly common stock dividend to $0.01 per share from $0.79 per
+  share, effective July 2020, which on an annualized basis will reduce its
+  dividend outlay by approximately $2.9 billion to enhance Occidental's
+  liquidity;"
+
+  And VERBATIM, the same sentence carried into the annual report (FY2020.txt):
+  "Reduced the quarterly common stock dividend to $0.01 per share from $0.79 per
+  share, effective July 2020, which on an annualized basis, will reduce its
+  common stock dividend outlay by approximately $2.9 billion;"
+
+  Observe that BOTH the Q2 10-Q and the FY2020 10-K describe the move as from
+  $0.79 to $0.01 - the $0.11 way-station is dropped from the narrative
+  entirely once it was superseded. It survives only in the Q1 10-Q.
+
+WHAT WAS ACTUALLY DECLARED, quarter by quarter. VERBATIM (FY2020.txt, quarterly
+financial data):
+  "Dividends per common share    $ 0.79    $ 0.01    $ 0.01    $ 0.01"
+   (Q1 2020, Q2 2020, Q3 2020, Q4 2020)
+  and for the prior year (FY2020.txt):
+  "Dividends per common share    $ 0.78    $ 0.78    $ 0.79    $ 0.79"
+   (Q1 2019, Q2 2019, Q3 2019, Q4 2019)
+
+  Full-year totals, from the Consolidated Statements of Equity (FY2020.txt):
+    "Dividends on common stock, $3.10 per share"   (2018)
+    "Dividends on common stock, $3.14 per share"   (2019)
+    "Dividends on common stock, $0.82 per share"   (2020)  = $(746) million
+  ($0.79 + $0.01 + $0.01 + $0.01 = $0.82. There is no $0.11 in the record.)
+
+  Corroboration in the 10-Qs:
+    Q1_2020.txt: "DIVIDENDS PER COMMON SHARE   $ 0.79 ... $ 0.78"
+                 "Dividends on common stock, $0.79 per share ... (719)"
+    Q2_2020.txt: "DIVIDENDS PER COMMON SHARE   $ 0.01 | $ 0.78 | $ 0.80 | $ 1.56"
+                 "Dividends on common stock, $0.01 per share ... (8)"
+                 "Dividends on common stock,$0.80 per share year to date ... (727)"
+
+WHAT THE MARCH 8-Ks ACTUALLY ARE - AN IMPORTANT CORRECTION:
+  8K_0313.txt (filed 2020-03-13) IS NOT A DIVIDEND CUT. It is the adoption of a
+  shareholder rights plan (a poison pill). The word "dividend" in it refers to
+  the distribution of rights, not to the common dividend. VERBATIM (8K_0313.txt):
+    "On March 12, 2020, the Board of Directors (the 'Board') of Occidental
+    Petroleum Corporation (the 'Company') declared a dividend of one preferred
+    share purchase right..."
+    "...at a price of $55.00 per one ten-thousandth of a share of Preferred
+    Stock (the 'Purchase Price'), subject to adjustment as provided in the
+    Rights Agreement (defined below)."
+    "On March 13, 2020, the Company issued a press release announcing the
+    adoption of the Rights Agreement and the declaration of the dividend of..."
+  Confirmed independently in the warrant prospectus, VERBATIM (424B2_warr.txt):
+    "On March 12, 2020, the Board approved, and we entered into, a limited
+    duration stockholder rights plan, which was approved by our stockholders at
+    our 2020 annual meeting of stockholders."
+
+  8K_0325.txt (filed 2020-03-25) IS NOT A DIVIDEND CUT EITHER. Its items are
+  "Item 1.01. Entry into a Material Definitive Agreement", "Item 5.02. Departure
+  of Directors or Certain Officers; Election of Directors; Appointment of Certain
+  Officers; Compensatory Arrangements of Certain...", "Item 5.03 Amendments to
+  Articles of Incorporation or Bylaws; Change in Fiscal Year.", "Item 7.01.
+  Regulation FD Disclosure." and "Item 9.01. Financial Statements and Exhibits."
+  The word "dividend" does not appear in a common-dividend sense anywhere in it.
+
+  A DEDICATED 8-K ANNOUNCING EITHER THE $0.11 OR THE $0.01 COMMON DIVIDEND CUT
+  IS **NOT FOUND in the files read**. The March 10, 2020 announcement is
+  evidenced here only by the Q1 2020 10-Q's own description of it. The other
+  8-Ks in the set (8K_0625, 8K_0625_ex, 8K_0713, 8K_0727, 8K_0803) contain no
+  common-dividend declaration; the only dividend declaration among them is a
+  PREFERRED one, VERBATIM (8K_0625.txt):
+    "Preferred Stock Dividend Declaration"
+    "On June 15, 2020, Occidental's Board of Directors declared a quarterly
+    dividend on Occidental's Cumulative Perpetual Preferred Stock,"
+
+  BOTTOM LINE FOR THE DECK/RUN FILE: it is accurate to say the dividend was cut
+  from $0.79 to $0.11 and then to $0.01 ONLY if "cut to $0.11" is described as an
+  announced intention that was overtaken within about three months. It is NOT
+  accurate to say a $0.11 dividend was ever paid. The paid sequence was
+  $0.79 (Q1 2020) then $0.01 (Q2, Q3, Q4 2020) - a 98.7% reduction in one step,
+  per FY2020.txt.
+
+
+--------------------------------------------------------------------------------
+B9. FINANCIAL CONDITION, DEBT REDUCTION, RATINGS, COVENANTS, GOING CONCERN
+--------------------------------------------------------------------------------
+
+LIQUIDITY / GOING-CONCERN-ADJACENT LANGUAGE. This is the closest the FY2020 10-K
+comes, and it stops well short of substantial-doubt language. VERBATIM
+(FY2020.txt, Liquidity and Capital Resources):
+  "At December 31, 2020, Occidental had approximately $2.0 billion in cash and
+  cash equivalents. A substantial majority of this cash is held and available for
+  use in the United States."
+  "Occidental's $5 billion RCF, available cash, continued access to capital
+  markets and positive operating cash flows will allow Occidental to meet its
+  short- and long-term purchase obligations, near-term debt maturities and other
+  liabilities."
+  "Occidental continues to pursue divestitures of certain assets and intends to
+  use the net proceeds from asset sales and free cash flow to repay its
+  nearer-term debt maturities, but the expected timing and final proceeds from
+  such asset sales are uncertain. Occidental currently expects its cash on hand
+  to be sufficient to meet its debt maturities, operating expenditures and other
+  obligations for the next 12 months from the date of this filing. However, given
+  the inherent uncertainty associated with the duration and severity of the
+  COVID-19 pandemic and its resulting impact on oil demand, Occidental may need
+  to raise capital to fund its operations and refinance debt maturities."
+
+  The same "may need to raise capital" sentence appears a second time in
+  FY2020.txt in the business/strategy discussion, there preceded by:
+  "As of December 31, 2020, Occidental had approximately $2.0 billion of cash and
+  cash equivalents on hand. As of the date of this filing, $5.0 billion of
+  borrowing capacity under its existing RCF, which matures in 2023."
+
+  ==> NO going-concern qualification and NO "substantial doubt" wording is
+      present. The hedge is the conditional "may need to raise capital to fund
+      its operations and refinance debt maturities."
+
+CREDIT-RATING DOWNGRADES. VERBATIM (FY2020.txt, "DEBT RATINGS"):
+  "In connection with the Senior Notes Offerings, Occidental's long-term debt
+  credit ratings were reviewed by the three major rating agencies. As of December
+  31, 2020, Occidental's long-term debt was rated BB by Fitch Ratings, Ba2 by
+  Moody's Investors Service and BB- by Standard and Poor's. Any additional
+  downgrade in credit ratings could impact Occidental's ability to access capital
+  markets and increase its cost of capital. In addition, given that Occidental's
+  current debt ratings are non-investment grade, Occidental may be requested, and
+  in some cases required, to provide collateral in the form of cash, letters of
+  credit, surety bonds or other acceptable support as financial assurance of its
+  performance and payment obligations under certain contractual arrangements such
+  as pipeline transportation contracts, environmental remediation obligations,
+  oil and gas purchase contracts and certain derivative instruments."
+
+  ==> All three agencies had OXY below investment grade at 2020-12-31
+      (FY2020.txt).
+
+RISK FACTOR ON INDEBTEDNESS. VERBATIM (FY2020.txt, Risk Factors, heading and
+text):
+  "Occidental's indebtedness may make it more vulnerable to economic downturns
+  and adverse developments in its business. Further downgrades in Occidental's
+  credit ratings or future increases in interest rates may negatively impact
+  Occidental's cost of, and ability to access the capital markets."
+  "Occidental's level of indebtedness could increase Occidental's vulnerability
+  to adverse changes in general economic and industry conditions, economic
+  downturns and adverse developments in its business and/or limit Occidental's
+  flexibility in planning for or reacting to changes in its business and the
+  industries in which it operates. From time to time, Occidental has relied on
+  access to the capital markets for funding, including in connection with the
+  Acquisition. There can be no assurance that additional debt or equity financing
+  will be available to Occidental in the future on acceptable terms, or at all.
+  Occidental's ability to obtain additional financing or refinancing will be
+  subject to a number of factors, including general economic and market
+  conditions, Occidental's performance, investor sentiment and its ability to
+  meet existing debt compliance requirements. If Occidental is unable to generate
+  sufficient funds from its operations to satisfy its capital requirements,
+  including its existing debt obligations, or to raise additional capital on
+  acceptable terms, Occidental's business could be adversely affected. As of
+  December 31, 2020, Occidental's long-term debt was rated BB by Fitch Ratings,
+  Ba2 by Moody's Investors Service and BB- by Standard and Poor's. Any additional
+  downgrade in the credit rating of Occidental could negatively impact its cost
+  of, and ability to access, capital and to effectively execute aspects of its
+  strategy and may require Occidental to provide cash collateral, letters of
+  credit or other forms of security under certain contractual agreements, which
+  would increase Occidental's operating costs and reduce liquidity. As a result,
+  further downgrades in Occidental's credit ratings could have a material adverse
+  impact on Occidental's financial condition, operating results or liquidity."
+
+THE COVENANT. VERBATIM (FY2020.txt, "DEBT ACTIVITY"):
+  "On March 23, 2020, Occidental amended the sole financial covenant in its RCF
+  by revising the definition of 'Total Capitalization' to exclude any non-cash
+  write-downs, impairments and related charges occurring after September 30,
+  2019. The amendments provide Occidental with additional flexibility in the
+  event of any such write-downs, impairments or other changes under the ratio of
+  Total Debt to Total Capitalization covenant."
+
+  Wider scope in the Q1 filing, VERBATIM (Q1_2020.txt):
+  "On March 23, 2020, Occidental amended the sole financial covenant in its
+  revolving credit facility (RCF) and Term Loan by revising the definition of
+  'Total Capitalization' within each agreement to exclude any non-cash
+  write-downs, impairments and related charges occurring after September 30,
+  2019. The amendments provide Occidental with additional flexibility in the
+  event of any such write-downs, impairments or other changes under the ratio of
+  Total Debt to Total Capitalization covenant."
+
+  And in Q2, VERBATIM (Q2_2020.txt):
+  "On March 23, 2020, Occidental amended the sole financial covenant in its
+  revolving credit facility (RCF) and variable rate bonds due 2021 by revising
+  the definition of 'Total Capitalization' within each agreement to exclude any
+  non-cash write-downs, impairments and related charges occurring after
+  September 30, 2019."
+
+  Compliance statement, VERBATIM (FY2020.txt):
+  "As of December 31, 2020, under the most restrictive covenants of its financing
+  agreements, Occidental had substantial capacity for additional unsecured
+  borrowings, the payment of cash dividends and other distributions on, or
+  acquisitions of, Occidental stock."
+
+  *** THE NUMERIC COVENANT LEVEL AND THE ACTUAL RATIO ARE **NOT FOUND in the
+  files read**. ***
+  I searched FY2019.txt, FY2020.txt, FY2021.txt, Q1_2020.txt, Q2_2020.txt,
+  Q3_2019.txt, all six 8-K text files and 424B2_warr.txt for "Total
+  Capitalization", "financial covenant", "debt to capitalization", "65%" and
+  "65 percent". No filing in this set states the maximum permitted ratio
+  (a specific percentage cap), and none states Occidental's actual Total Debt to
+  Total Capitalization ratio at any date. Occidental discloses only that the
+  covenant exists, that it is the SOLE financial covenant, that its denominator
+  was amended on 2020-03-23 to strip out post-2019-09-30 impairments, and that
+  the company had "substantial capacity" at year-end. If the level is needed, the
+  document that would resolve it is the credit agreement itself (the RCF
+  amendment filed as an exhibit), which is not in this file set.
+
+  NOTE THE SIGNIFICANCE OF THE AMENDMENT ITSELF: the covenant's denominator is
+  equity-based, and Occidental took $11.1 billion of impairments in 2020
+  (FY2020.txt). Amending the definition on 2020-03-23 - BEFORE the Q2 $8.6
+  billion oil and gas impairment - to exclude "non-cash write-downs, impairments
+  and related charges occurring after September 30, 2019" is the company
+  pre-emptively removing the mechanism by which those write-downs would have
+  eroded Total Capitalization and pushed the ratio toward its cap. The relief was
+  sought and obtained about ten days after the March 10 dividend announcement.
+
+DEBT REDUCTION - WHAT WAS DONE. VERBATIM (FY2020.txt, list of 2020 actions):
+  "Reduced its 2020 capital budget to $2.6 billion from a range of $5.2 billion
+  to $5.4 billion, a midpoint reduction of approximately 50%;"
+  "Made significant cuts to its 2020 operating and corporate costs. On an
+  annualized basis, Occidental has realized $1.5 billion of overhead savings and
+  over $900 million in operating cost savings, of which a majority is expected to
+  remain permanent in future years;"
+  "Entered into a new receivable securitization facility that provides additional
+  liquidity of up to $400 million;"
+  "Issued $7.0 billion in senior unsecured notes (the Senior Notes Offerings)
+  during 2020 to extend certain debt maturities in 2021-2023 to 2025-2031;"
+  "Since the Acquisition, completed significant asset divestitures for net
+  proceeds of approximately $8.2 billion;"
+  "Used the net proceeds from asset sales, cash on hand and Senior Notes
+  Offerings to retire or tender $6.0 billion of 2021, $2.7 billion of 2022 and
+  $264 million of 2023 maturities; and"
+  "Exchanged approximately 27.9 million WES common units to retire a $260 million
+  note payable to WES due 2038."
+
+  And VERBATIM (FY2021.txt), on the following year:
+  "Occidental recently completed its large scale asset divestiture program and
+  used the net proceeds from asset sales and free cash flow to repay near and
+  medium-term debt maturities. During 2021, through repayments and cash tenders
+  Occidental reduced its face value of borrowings by $6.7 billion from $35.2
+  billion as of December 31, 2020, to $28.5 billion as of December 31, 2021."
+
+  RCF was never drawn. VERBATIM (FY2020.txt): "Occidental has not drawn down any
+  amounts under the RCF. In 2020, Occidental paid average annual facility fees of
+  0.275% on the total commitment amount."
+
+
+--------------------------------------------------------------------------------
+B10. DIVESTITURES COMPLETED IN 2020 AND 2021 TO PAY DOWN DEBT
+--------------------------------------------------------------------------------
+
+2020 (all VERBATIM from FY2020.txt unless noted):
+
+  SOUTH AFRICA (January 2020, ~$100 million):
+    "Total and Occidental completed the sale of the Mozambique assets in
+    September 2019 for approximately $4.2 billion and the South Africa assets in
+    January 2020 for approximately $100 million."
+
+  WYOMING / COLORADO / UTAH LAND (closed October 2020, ~$1.0 billion net):
+    "In August 2020, Occidental entered into an agreement to sell approximately
+    4.5 million mineral acres and 1 million fee surface acres located in Wyoming,
+    Colorado and Utah for approximately $1.33 billion. The transaction closed in
+    October 2020 for net cash proceeds of approximately $1.0 billion, after
+    satisfying $329 million of liabilities associated with the sale of future
+    royalties. Occidental recorded a loss on sale of $440 million. The loss has
+    been presented within gains (losses) on sale of assets, net in the
+    Consolidated Statement of Operations. The net proceeds were utilized to pay
+    down a portion of the 2-year variable rate Term Loan due 2021."
+
+  COLOMBIA ONSHORE (closed December 2020):
+    "In October 2020, Occidental entered into an agreement to sell its onshore
+    oil and gas Colombia assets. The transaction closed in December 2020, and
+    Occidental recorded a loss on sale of approximately $353 million. The loss has
+    been presented within gains (losses) on sale of assets, net in the
+    Consolidated Statement of Operations. The net proceeds were used to pay down
+    near-term maturities."
+    Proceeds figure: NOT FOUND in the files read (only the $353 million loss is
+    disclosed).
+
+  NON-CORE PERMIAN ACREAGE (November and December 2020):
+    "In November 2020 and December 2020, Occidental divested of certain non-core,
+    largely non-operated proved and unproved acreage in the Permian for a loss of
+    approximately $820 million. The losses have been presented within gains
+    (losses) on sale of assets, net in the Consolidated Statement of Operations.
+    The net proceeds were used to pay down near-term maturities."
+    Proceeds figure: NOT FOUND in the files read (only the $820 million loss is
+    disclosed).
+
+  WES NOTE EXCHANGE (August 2020, non-cash):
+    "In August 2020, Occidental exchanged approximately 27.9 million WES common
+    units to retire a $260 million note payable to WES, resulting in a net loss of
+    $46 million, which includes a $76 million gain on debt extinguished associated
+    with an unamortized premium on the note payable to WES."
+
+  TOTAL 2020 PROCEEDS (FY2020.txt, Consolidated Statements of Cash Flows,
+  millions): "Proceeds from sale of assets and equity investments, net"
+      2020: 2,281      2019: 6,143      2018: 2,824
+  (FY2021.txt repeats: 2021: 1,624 | 2020: 2,281 | 2019: 6,143)
+
+  CUMULATIVE, VERBATIM (FY2020.txt): "Since the Acquisition, Occidental completed
+  the sale of significant non-core assets for net proceeds of approximately $8.2
+  billion." and, in the risk factors, "Since the Acquisition, Occidental has
+  realized $8.2 billion of after-tax net proceeds from significant asset
+  divestitures."
+
+2021 (all VERBATIM from FY2021.txt, Note 5 - Acquisitions, Divestitures and Other
+Transactions, and the discontinued-operations note):
+
+  DJ BASIN NON-OPERATED (March 2021, ~$280 million):
+    "In March 2021, Occidental completed the sale of certain non-operated assets
+    in the DJ Basin for net cash proceeds of approximately $280 million. The
+    difference in the assets' net book value and adjusted purchase price was
+    treated as a recovery of cost and normal retirement, which resulted in no gain
+    or loss being recognized."
+
+  PERMIAN NON-STRATEGIC (closed July 2021, ~$475 million):
+    "In June 2021, Occidental entered into an agreement to sell certain
+    non-strategic assets in the Permian Basin. The transaction closed in July 2021
+    for net cash proceeds of approximately $475 million. The difference in the
+    assets' net book value and adjusted purchase price was treated as a recovery
+    of cost and normal retirement, which resulted in no gain or loss being
+    recognized."
+
+  GHANA (October 2021, $750 million headline / $555 million net):
+    "In October 2021, Occidental closed the sale of its Ghana assets for $750
+    million and net proceeds of $555 million, after closing adjustments to reflect
+    an April 1, 2021 effective date. In addition, Occidental settled certain tax
+    claims related to historical operations in Ghana for $170 million. Prior to
+    the sale, 2021 operations in Ghana resulted in an after-tax loss of $31
+    million."
+    "In October 2021, Occidental closed the sale of its Ghana assets. See below
+    discussion on Discontinued Operations for additional information. This
+    divestiture completed Occidental's large-scale asset divestiture program."
+
+  WES LIMITED PARTNER UNITS (during 2021, ~$250 million):
+    "In 2021, Occidental sold 14 million limited partner units of WES for
+    proceeds of approximately $250 million, see Note 4 - Investments and
+    Related-Party Transactions."
+    Detail: "In December 2021, Occidental sold 2.5 million limited partner units
+    of WES for proceeds of approximately $50 million. In March 2021, Occidental
+    sold 11.5 million limited partner units for proceeds of approximately $200
+    million, resulting in a gain of $102 million."
+
+  PERMIAN NON-STRATEGIC, SIGNED 2021 / CLOSED 2022 (~$190 million):
+    "In November 2021, Occidental entered into an agreement to sell certain
+    non-strategic assets in the Permian Basin. The transaction closed in January
+    2022 for net cash proceeds of approximately $190 million. The assets and
+    liabilities, of which $72 million is related to PP&E, net and $7 million is
+    related to AROs, were presented as held for sale as of December 31, 2021."
+
+  A 2021 ACQUISITION, for completeness (FY2021.txt):
+    "In November 2021, Occidental acquired additional working interests in
+    certain assets in the Permian EOR business unit for a net purchase price of
+    approximately $285 million."
+
+  2019 SALES THAT FUNDED THE FIRST PAYDOWNS, for context (FY2019.txt):
+    Real estate, December 2019, $565 million: "In December 2019, Occidental
+    disposed of real estate assets for $565 million. Occidental utilized net
+    proceeds to pay down a portion of the Term Loans."
+    Ecopetrol Midland JV, November 2019: "Ecopetrol paid $750 million in cash at
+    closing and up to $750 million of carried capital in exchange for a 49%
+    interest in the new venture. Occidental recognized a gain of $563 million on
+    the sale."
+    Plains, September 2019: "In September 2019, Occidental sold its remaining
+    equity investment in Plains All American Pipeline, L.P. and Plains GP
+    Holdings, L.P. (together, Plains) for net proceeds of $646 million, which
+    resulted in a pre-tax gain of $114 million. The proceeds were used to pay down
+    a portion of the Term Loans."
+    Mozambique, September 2019, ~$4.2 billion (FY2020.txt, quoted above).
+
+
+--------------------------------------------------------------------------------
+B11. THE AUGUST 3, 2020 COMMON STOCK WARRANT DISTRIBUTION ($22.00 STRIKE)
+--------------------------------------------------------------------------------
+
+THE 8-K. VERBATIM (8K_0803.txt, "Item 8.01. Other Events."):
+  "On August 3, 2020, Occidental Petroleum Corporation (the 'Company')
+  distributed 114,734,500 warrants (the 'Warrants') to purchase an equivalent
+  number of shares (the 'Shares') of the Company's common stock, par value $0.20
+  per share (the 'Common Stock') to the holders of record of outstanding shares
+  of Common Stock as of the close of business on July 6, 2020 (the
+  'Distribution'). The Company will also issue an additional number of Warrants
+  pursuant to the Company's outstanding equity-based incentive awards in
+  connection with anti-dilution adjustments resulting from such Distribution.
+  Each Warrant represents the right to purchase from the Company one share of
+  Common Stock at an initial exercise price of $22.00 per share."
+
+  "In connection with the Distribution of the Warrants, the Company filed (i) a
+  prospectus supplement, dated August 3, 2020, pursuant to the Company's existing
+  effective shelf registration statement on Form S-3 (File No. 333-232928)
+  registering the offer and sale of up to 118,000,000 Shares to be issued upon
+  exercise of the Warrants under the Securities Act of 1933, as amended (the
+  'Securities Act') and (ii) a prospectus supplement, dated August 3, 2020,
+  pursuant to the Company's existing effective shelf registration statement on
+  Form S-3 (File No. 333-232928) registering the offer and sale of 3,000 Warrants
+  (the 'Tax Warrants') under the Securities Act, all or a portion of which will be
+  sold by Equiniti Trust Company, as Withholding Agent, to satisfy U.S. federal
+  income tax withholding obligations with respect to the Distribution."
+
+TERMS. VERBATIM (424B2_warr.txt, summary table):
+  NYSE Listing for the Warrants:  "OXY WS"
+  Aggregate number of Warrants issued: "Up to 118,000,000, including 114,734,500
+    issued as a distribution to holders of Common Stock, and an additional number
+    of Warrants to be issued as an adjustment pursuant to the Company's
+    outstanding equity awards."
+  Exercisability: "Each Warrant is exercisable for one share of Common Stock,
+    subject to adjustment."
+  Exercise Price: "$22.00 per share, subject to adjustment. The Warrants require
+    the payment of cash consideration."
+  Exercise Period: "The Warrants are generally exercisable at any time until 5:00
+    p.m., New York City time, on August 3, 2027 (or, if that date is not a
+    business day, the next business day), subject to the terms and conditions set
+    forth in the Warrant Agreement. In particular, the Warrants will be
+    exercisable only if a registration statement relating to the Common Stock
+    issuable upon exercise is effective and current."
+
+PURPOSE / USE OF PROCEEDS. VERBATIM (424B2_warr.txt, "USE OF PROCEEDS"):
+  "We will receive the proceeds from the sale by us of shares of our Common Stock
+  to holders of Warrants upon exercise of the relevant Warrants. In the event that
+  all of the Warrants are exercised by the holders thereof at the initial exercise
+  price of $22.00 per share, Occidental would receive proceeds of approximately
+  $2.60 billion. Holders of the Warrants are not obligated to exercise the
+  Warrants, and the Warrants might never be exercised. Accordingly, there is no
+  guarantee that Occidental will receive any proceeds related to the Warrants.
+  Occidental expects that it will use the proceeds from the exercise of the
+  Warrants, if any, for general corporate purposes."
+
+  ==> The stated purpose is only "general corporate purposes", and the filing is
+      explicit that the money may never arrive. NO statement tying the warrant
+      distribution to compensating shareholders for the dividend cut, or to any
+      specific debt paydown, is present. If such a rationale was given, it is
+      **NOT FOUND in the files read**.
+
+THE DECLARATION AND THE RATE. VERBATIM (FY2020.txt, "COMMON STOCK WARRANTS"):
+  "On June 26, 2020, the Board of Directors declared a distribution of warrants to
+  holders of Occidental common stock, at a rate of 0.125 warrants per share of
+  Occidental common stock (the Common Stock Warrants). Occidental issued
+  approximately 116 million Common Stock Warrants on August 3, 2020 to holders of
+  record of outstanding shares of Occidental's common stock as of the close of
+  business on July 6, 2020, and pursuant to Occidental's outstanding equity-based
+  incentive awards in connection with anti-dilution adjustments resulting from
+  such distribution. The Common Stock Warrants have an exercise price of $22.00
+  per share and will expire on August 3, 2027. The Common Stock Warrants are
+  listed on the New York Stock Exchange and trade under the symbol 'OXY WS'."
+  (FY2021.txt repeats this passage almost verbatim.)
+
+ACCOUNTING. VERBATIM (FY2021.txt):
+  "The Common Stock Warrants were measured at fair value on the declaration date
+  using the Black-Scholes option model and were classified as equity in
+  'Additional paid-in capital'."
+  In the FY2020.txt Consolidated Statements of Equity the 2020 row reads:
+  "Issuance of warrants on common stock | -- | -- | -- | 767 | (763) | -- | -- | 4"
+  i.e. $767 million to additional paid-in capital against $(763) million of
+  retained earnings - economically a distribution to shareholders that cost no
+  cash.
+  A separate 2020 equity row reads "Berkshire Warrants | -- | -- | -- | 103 |
+  -- | -- | -- | 103" (FY2020.txt), reflecting the anti-dilution adjustment to
+  the Berkshire warrant caused by the distribution.
+
+  Warrant holders get nothing in the meantime. VERBATIM (424B2_warr.txt):
+  "A holder of unexercised Warrants, in his or her capacity as such, is not
+  entitled to any rights of a holder of Common Stock, including, without
+  limitation, the right to vote or to receive dividends or other distributions."
+
+
+--------------------------------------------------------------------------------
+B12. PEAK TOTAL DEBT ACROSS FY2019 / FY2020 / FY2021
+--------------------------------------------------------------------------------
+
+Balance-sheet totals actually verified in these files (millions):
+
+  DATE          SOURCE FILE    CURRENT MAT.   LONG-TERM, NET      TOTAL
+  2018-12-31    FY2019.txt         116            10,201         10,317
+  2019-09-30    Q3_2019.txt         31        39,946 (OXY)
+                                             + 7,637 (WES)       47,614   <== PEAK
+  2019-12-31    FY2019.txt          51            38,537         38,588
+  2020-06-30    Q2_2020.txt      2,460            36,034         38,494
+  2020-12-31    FY2020.txt         440            35,745         36,185
+  2021-12-31    FY2021.txt         186            29,431         29,617
+
+  ==> PEAK TOTAL DEBT ON A CONSOLIDATED BALANCE SHEET: $47,614 MILLION AT
+      2019-09-30 (Q3_2019.txt), the first quarter-end after the Anadarko close.
+
+  IMPORTANT QUALIFICATION. At 2019-09-30 WES was still consolidated, so that
+  total includes $7,637 million of WES debt that sat inside WES's own separate
+  capital structure. Q3_2019.txt presents the two on separate balance-sheet
+  lines, "Long-term debt, net - Occidental" ($39,946) and "Long-term debt, net -
+  WES" ($7,637), and FY2019.txt states of WES: "WES maintains its own capital
+  structure that is separate from Occidental, consisting of its own debt
+  instruments and publicly traded common units."
+
+  EXCLUDING WES, the peak is $39,977 million at 2019-09-30
+  ($39,946 + $31, Q3_2019.txt), against $38,588 million at 2019-12-31
+  (FY2019.txt).
+
+  EITHER WAY: total debt went from $10,317 million at 2018-12-31 to a peak
+  around $40 billion (OXY-only) or $47.6 billion (consolidated) within about
+  eight weeks of the close, and took until 2021 year-end to come back to
+  $29,617 million (FY2021.txt) - still roughly 2.9x the pre-deal level.
+
+  FACE-VALUE BASIS, VERBATIM (FY2021.txt): "During 2021, through repayments and
+  cash tenders Occidental reduced its face value of borrowings by $6.7 billion
+  from $35.2 billion as of December 31, 2020, to $28.5 billion as of December 31,
+  2021."
+
+  FAIR VALUE OF THE DEBT, VERBATIM (FY2020.txt): "The estimated fair values of
+  Occidental's debt at December 31, 2020, and 2019, substantially all of which
+  were classified as Level 1, were approximately $33.8 billion and $38.8 billion,
+  respectively."
+
+
+--------------------------------------------------------------------------------
+B13. FY2020 CAPITAL EXPENDITURES AND PRODUCTION vs FY2019
+--------------------------------------------------------------------------------
+
+CAPITAL EXPENDITURES (FY2020.txt, cash-flow analysis table; millions):
+                            2020        2019        2018
+  Oil and gas             $(2,208)    $(5,512)    $(4,413)
+  Chemical                   (255)       (267)       (271)
+  Midstream and marketing     (50)       (461)       (216)
+  Corporate                   (22)       (127)        (75)
+  TOTAL                   $(2,535)    $(6,367)    $(4,975)
+
+  ==> FY2020 capex $2,535 million vs FY2019 $6,367 million: a cut of
+      $3,832 million, or roughly 60%. (FY2020.txt)
+
+  The budget decision, VERBATIM (FY2020.txt): "Reduced its 2020 capital budget to
+  $2.6 billion from a range of $5.2 billion to $5.4 billion, a midpoint reduction
+  of approximately 50%;"
+  And VERBATIM (FY2020.txt): "In 2020, oil and gas capital expenditures were
+  approximately $2.2 billion and primarily focused on Occidental's assets in the
+  Permian Basin, DJ Basin, Gulf of Mexico and Oman."
+
+PRODUCTION (FY2020.txt, "Production per Day, Ongoing Operations (Mboe/d)"):
+                                   2020    YoY      2019    YoY      2018
+  Permian Resources                 435    23%       355    66%       214
+  Permian EOR                       140    (9)%      154    --%       154
+  DJ Basin                          293   144%       120    N/A        --
+  Gulf of Mexico                    130   124%        58    N/A        --
+  Other Domestic                     39    44%        27   575%         4
+  Total United States             1,037    45%       714    92%       372
+  Latin America                      32    (6)%       34     6%        32
+  Algeria                            44    83%        24    N/A        --
+  Al Hosn Gas                        78    (5)%       82    12%        73
+  Dolphin                            44     5%        42     5%        40
+  Oman                               85    (4)%       89     3%        86
+  Total Middle East / Africa        251     6%       237    19%       199
+  Total Production from
+    Ongoing Operations            1,320    34%       985    63%       603
+  Operations exited or exiting       30   (32)%       44   (20)%       55
+  TOTAL PRODUCTION (Mboe/d)       1,350    31%     1,029    56%       658
+
+  ==> FY2020 TOTAL PRODUCTION 1,350 Mboe/d vs FY2019 1,029 Mboe/d (FY2020.txt).
+
+  VERBATIM (FY2020.txt): "Average daily production volumes from ongoing
+  operations increased in 2020 compared to 2019 primarily due to a full year of
+  production associated with the assets acquired from the Acquisition."
+
+  THE TELLING PAIR: production rose 31% while capex fell 60% (FY2020.txt). The
+  volume gain is the arithmetic of owning Anadarko for twelve months instead of
+  five, not of drilling more.
+
+
+--------------------------------------------------------------------------------
+B14. PREFERRED DIVIDENDS 2019 / 2020 / 2021, AND THE STOCK-SETTLED QUARTERS
+--------------------------------------------------------------------------------
+
+AMOUNTS (millions):
+  2019:  $318   (FY2020.txt income statement, "Less: Preferred stock dividends";
+                 FY2020.txt equity statement: "Dividends on preferred stock,
+                 $3,489 per share")
+  2020:  $844   (FY2020.txt income statement; FY2020.txt equity statement:
+                 "Dividends on preferred stock, $8,444 per share")
+  2021:  $800   (FY2021.txt, Note 14: "Occidental paid $200 million in preferred
+                 stock dividends in each quarter of 2021." = 4 x $200 million)
+
+  2020 by quarter (FY2020.txt, quarterly data, "Less: Preferred stock dividend"):
+    Q1 $(219)   Q2 $(222)   Q3 $(203)   Q4 $(200)
+  2019 by quarter (FY2020.txt, same table): Q1 -- | Q2 -- | Q3 $(118) | Q4 $(200)
+
+YES - TWO 2020 QUARTERS WERE PAID IN COMMON STOCK, NOT CASH.
+VERBATIM (FY2020.txt, Note 14 - Stockholders' Equity, "PREFERRED STOCK"):
+  "If preferred dividends are not paid in full, Occidental is prohibited from
+  paying dividends on common stock. In March and June 2020, the Board of Directors
+  elected to declare its quarterly dividend on the Preferred Stock in shares of
+  common stock. In accordance with the Certificate of Designations, the number of
+  shares issued was calculated based on 90 percent of the average of the volume
+  weighted average price over each of the 10 consecutive trading days following
+  the dividend declaration date. In April and July 2020, Occidental issued
+  approximately 17.3 million and 11.6 million shares, respectively, of common
+  stock to the holders of the Preferred Stock. In October 2020 and January 2021,
+  Occidental paid $200 million cash in Preferred Stock dividends for the Q3 and
+  Q4 dividends, respectively."
+
+VERBATIM (FY2020.txt, list of 2020 liquidity actions):
+  "Elected to pay the preferred stock dividend paid in the second and third
+  quarters of 2020 in the form of shares of common stock, in lieu of cash,
+  preserving $400 million of liquidity. Occidental elected to pay the dividend
+  paid in the fourth quarter in cash. The Board of Directors will continue to
+  assess market conditions and Occidental's financial condition on a quarterly
+  basis to determine whether the preferred stock dividend will be paid in shares
+  of stock, in cash or a combination of shares of common stock and cash;"
+
+  (NOTE A DISCREPANCY IN OCCIDENTAL'S OWN WORDS. The bullet above says "the
+  second and third quarters of 2020". Note 14 in the same FY2020.txt says the
+  elections were made "In March and June 2020" with shares issued "In April and
+  July 2020", and that Q3 and Q4 were paid in cash. Q1_2020.txt says: "Elected to
+  pay its quarterly dividend on the Series A preferred stock in the form of
+  shares of common stock, in lieu of cash, for the second quarter 2020, preserving
+  $200 million of liquidity." Q2_2020.txt says: "Elected to pay its quarterly
+  dividend on the Series A preferred stock in the form of shares of common stock,
+  in lieu of cash, for the first and second quarters of 2020, preserving $400
+  million of liquidity." The quarter LABELS are inconsistent across the filings;
+  the dated facts are consistent and are the ones to rely on: TWO payments,
+  elected in March and June 2020, settled in shares on 2020-04-15 and in July
+  2020, ~17.3 million and ~11.6 million shares, preserving $400 million of cash.)
+
+VERBATIM (Q1_2020.txt, giving the April date and the original share count):
+  "In March 2020, the Board of Directors elected to declare its quarterly dividend
+  on the Preferred Stock payable in April 2020 in shares of common stock. In
+  accordance with the Certificate of Designations, the number of shares issued was
+  calculated based on 90 percent of the average of the volume weighted average
+  price over each of the ten consecutive trading days following the dividend
+  declaration date. On April 15, 2020, Occidental issued approximately 17 million
+  shares of common stock to the holders of Preferred Stock as of March 31, 2020.
+  The shares of common stock associated with the April stock dividend and the
+  potential shares of common stock associated with the Warrants were excluded from
+  dilutive shares outstanding for the three months ended March 31, 2020, as they
+  would have been anti-dilutive."
+
+  ==> ~28.9 million common shares were issued to Berkshire across April and July
+      2020 in lieu of $400 million of cash (FY2020.txt), at a 10% discount to a
+      ten-day VWAP struck AFTER the declaration date. In the FY2020.txt equity
+      statement the 2020 preferred-dividend row reads:
+      "Dividends on preferred stock, $8,444 per share | -- | 6 | -- | 438 | (844)
+      | -- | -- | (400)" - i.e. $844 million charged, $438 million settled in
+      paid-in capital, $400 million of cash preserved.
+
+  THE BLOCKING PROVISION, VERBATIM (Q1_2020.txt, and repeated in FY2020.txt and
+  FY2021.txt): "If preferred dividends are not paid in full Occidental is
+  prohibited from paying dividends on common stock."
+
+
+--------------------------------------------------------------------------------
+B15. EQUITY ISSUANCE IN 2020
+--------------------------------------------------------------------------------
+
+THERE WAS NO PUBLIC CASH EQUITY OFFERING IN 2020 IN THESE FILINGS.
+
+Cash-flow line, VERBATIM (FY2020.txt, Consolidated Statements of Cash Flows,
+millions): "Proceeds from issuance of common and preferred stock | 134 | 10,028
+| 33"  (2020 / 2019 / 2018)
+  ==> $134 million in 2020, against $10,028 million in 2019 (which is the
+      Berkshire $10 billion preferred plus $28 million of ordinary issuance).
+
+Equity statement rows for 2020, VERBATIM (FY2020.txt):
+  "Issuance of common stock and other, net | -- | 1 | -- | 289 | -- | -- | -- | 290"
+  "Issuance of warrants on common stock | -- | -- | -- | 767 | (763) | -- | -- | 4"
+  "Berkshire Warrants | -- | -- | -- | 103 | -- | -- | -- | 103"
+  "Dividends on preferred stock, $8,444 per share | -- | 6 | -- | 438 | (844) | -- | -- | (400)"
+  "Purchases of treasury stock | -- | -- | (12) | -- | -- | -- | -- | (12)"
+
+SO THE 2020 SHARE ISSUANCE WAS, IN SUBSTANCE:
+  (a) ~17.3 million shares in April 2020 and ~11.6 million shares in July 2020 to
+      the preferred holder in lieu of $400 million cash (FY2020.txt);
+  (b) ~116 million Common Stock Warrants distributed 2020-08-03 at a $22.00
+      strike, which are potential future shares, not issued shares (FY2020.txt,
+      8K_0803.txt);
+  (c) ordinary-course issuance netting $290 million in the equity statement and
+      $134 million of cash proceeds (FY2020.txt);
+  (d) the benefits-trust shares, VERBATIM (FY2020.txt): "Included approximately 2
+      million shares of common stock issued to a benefits trust for former
+      Anadarko employees treated as treasury stock at December 31, 2019. These
+      shares were sold from the trust in the first quarter of 2020."
+
+NO SHARES WERE REPURCHASED. VERBATIM (FY2020.txt): "In 2020, no shares were
+purchased under the program. In 2019, 2.7 million shares were purchased at an
+average price of $66.94. In 2018, 16.9 million shares were purchased at an average
+price of $74.92."
+  (Worth noting alongside FY2019.txt: OXY bought back 2.7 million shares at
+  $66.94 during 2019, the year of the deal.)
+
+TOTAL EQUITY COLLAPSE, for scale (FY2020.txt, Consolidated Statements of Equity):
+  "Balance, December 31, 2019 ... $34,232"
+  "Balance, December 31, 2020 ... $18,573"
+  Retained earnings fell from $20,180 million to $2,996 million over 2020.
+
+
+================================================================================
+SECTION C - THE PREFERRED REDEMPTION TRIGGER
+================================================================================
+
+--------------------------------------------------------------------------------
+C16. THE MANDATORY-REDEMPTION OBLIGATION TIED TO COMMON DISTRIBUTIONS ABOVE
+     $4.00 PER SHARE ON A TRAILING-TWELVE-MONTH BASIS
+--------------------------------------------------------------------------------
+
+*** NOT FOUND in the files read. ***
+
+I searched every file named in the assignment for "$4.00", "4.00 per share",
+"trailing twelve", "trailing 12", "mandatorily redeem", "redemption obligation",
+and for "redeem"/"redemption" in proximity to "preferred", "distribution" and
+"common", across:
+  FY2019.txt, FY2020.txt, FY2021.txt, Q1_2020.txt, Q2_2020.txt, Q3_2019.txt,
+  424B2_warr.txt, 8K_0313.txt, 8K_0325.txt, 8K_0625.txt, 8K_0625_ex.txt,
+  8K_0713.txt, 8K_0727.txt, 8K_0803.txt.
+
+The ONLY hit on "$4.00" anywhere in the set is unrelated, VERBATIM (FY2019.txt):
+  "Marketing and midstream segment results, excluding items affecting
+  comparability, decreased in 2019 compared to 2018, primarily due to lower
+  marketing margins from the decrease in the Midland-to-Gulf Coast spreads by
+  approximately $4.00 per barrel and lower pipeline income due to the 2018 sales
+  of the Centurion pipeline and the Ingleside Crude Oil Terminal."
+
+WHAT THE FILINGS DO SAY ABOUT REDEMPTION - and it describes only an OPTIONAL
+redemption, with no trigger and no threshold. The sentence is materially
+identical in all three 10-Ks. VERBATIM (FY2021.txt, Note 14):
+  "In connection with the Acquisition, Occidental issued 100,000 shares of series
+  A preferred stock, having a face value of $100,000 per share and a liquidation
+  preference of $105,000 per share plus unpaid accrued dividends. In connection
+  with the preferred stock issuance, Occidental also issued the Warrant. The
+  holder of the Warrant and the preferred stock may redeem the preferred stock as
+  payment for the exercise price of the Warrant in lieu of cash payment upon
+  exercise. The preferred stock is redeemable at Occidental's option after the
+  10th anniversary of issuance. Dividends on the preferred stock will accrue on
+  the face value at a rate per annum of 8%, but will be paid only when, as and if
+  declared by Occidental's Board of Directors. At any time, when such dividends
+  have not been paid in full, the unpaid amounts will accrue dividends, compounded
+  quarterly, at a rate per annum of 9%. Following the payment in full of any
+  accrued but unpaid dividends, the dividend rate will remain at 9% per annum. If
+  preferred dividends are not paid in full, Occidental is prohibited from paying
+  dividends on common stock. Occidental paid $200 million in preferred stock
+  dividends in each quarter of 2021."
+
+  The FY2019.txt and FY2020.txt versions are quoted in full at A4 and B14 above.
+  All three say the same two things about redemption and NOTHING more:
+    (1) the holder may tender the preferred to pay the Warrant's exercise price;
+    (2) "The Preferred Stock is redeemable at Occidental's option after the 10th
+        anniversary of issuance."
+  Neither is a mandatory redemption, and neither references common-stock
+  distributions or any per-share threshold.
+
+THE DOCUMENT THAT WOULD RESOLVE IT - and it is not in this file set:
+  The CERTIFICATE OF DESIGNATIONS. FY2019.txt's exhibit index names it:
+  "Certificate of Designations with respect to the Cumulative Perpetual Preferred
+  Stock, Series A (filed as Exhibit 3.1 to the Current Report on Form 8-K of
+  Occidental filed on August 8, 2019, File No. 1-9210)."
+  and the underlying agreement: "Securities Purchase Agreement, dated April 30,
+  2019 between Occidental Petroleum Corporation and Berkshire Hathaway Inc.
+  (including forms of the Certificate of Designations, Warrant and Registration
+  Rights Agreement) (filed as Exhibit 10.1 to the Current Report on Form 8-K of
+  Occidental filed on May 3, 2019, File No. 1-9210)."
+  Both 10-Qs confirm the Certificate governs the mechanics: "In accordance with
+  the Certificate of Designations, the number of shares issued was calculated
+  based on 90 percent of the average of the volume weighted average price over
+  each of the ten consecutive trading days following the dividend declaration
+  date." (Q1_2020.txt)
+
+  ==> Under the framework's test, this is UNRESEARCHED, not UNKNOWABLE: the
+      document that would resolve it can be named exactly - Exhibit 3.1 to the
+      Form 8-K filed 2019-08-08, File No. 1-9210 - and it has simply not been
+      fetched. Any assertion about a $4.00 trailing-twelve-month distribution
+      trigger must NOT be sourced to the 10-Ks, 10-Qs, 8-Ks or the warrant
+      prospectus held locally, because none of them contains it.
+
+
+================================================================================
+SUMMARY OF THE THREE THINGS MOST LIKELY TO BE STATED WRONG
+================================================================================
+
+1. THE $0.11 DIVIDEND WAS ANNOUNCED, NEVER PAID. Q1_2020.txt records the
+   2020-03-10 "intention ... to reduce the quarterly common stock dividend to
+   $0.11 per share from $0.79 per share, effective July 2020, subject to Board
+   approval". It was superseded before it took effect. FY2020.txt's quarterly
+   table shows the paid sequence: $0.79, $0.01, $0.01, $0.01, totalling
+   "$0.82 per share" for the year. Do not claim a $0.11 dividend was paid.
+
+2. THE MARCH 2020 8-Ks ARE NOT DIVIDEND CUTS. 8K_0313.txt is the shareholder
+   rights plan (the "dividend" in it is one preferred share purchase right per
+   common share at a $55.00 purchase price). 8K_0325.txt is a material
+   definitive agreement plus director/bylaw changes. Neither announces a common
+   dividend cut. No 8-K in this set announces one.
+
+3. THE $4.00 MANDATORY-REDEMPTION TRIGGER IS NOT IN ANY FILE READ. The 10-Ks
+   describe only an optional redemption "at Occidental's option after the 10th
+   anniversary of issuance". The Certificate of Designations (Exhibit 3.1 to the
+   8-K filed 2019-08-08, File No. 1-9210) is the document that would settle it
+   and is not held locally.
+
+Two further items that were asked for and are absent:
+ - The NUMERIC LEVEL of the maximum Total Debt to Total Capitalization covenant,
+   and Occidental's actual ratio at any date: NOT FOUND in the files read. Only
+   the covenant's existence, its status as the sole financial covenant, the
+   2020-03-23 amendment excluding post-2019-09-30 impairments from Total
+   Capitalization, and a general "substantial capacity" statement are disclosed.
+ - Cash PROCEEDS for the Colombia sale and the Q4 2020 Permian acreage sales:
+   NOT FOUND in the files read. Only the losses on sale ($353 million and
+   ~$820 million respectively, FY2020.txt) are given.
+
+================================================================================
+END OF FINDINGS
+================================================================================

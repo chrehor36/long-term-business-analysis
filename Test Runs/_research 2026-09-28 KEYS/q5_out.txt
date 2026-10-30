@@ -1,0 +1,12 @@
+cap 61,654.1  organic mean 4.36%  compound 100
+organic compound 4.03%
+5y capex   OE   967.0 yield 1.57%  vs bond -3.92 pts  expectancy(+4.4%) 5.93%  g needed at floor 8.30%  | no-growth $/sh floor   56.8 bond  103.5 | floor g=org  105.2  floor g=5%  119.3
+5y dep     OE  1012.4 yield 1.64%  vs bond -3.85 pts  expectancy(+4.4%) 6.01%  g needed at floor 8.22%  | no-growth $/sh floor   59.5 bond  108.3 | floor g=org  110.1  floor g=5%  124.9
+3y capex   OE   985.3 yield 1.60%  vs bond -3.89 pts  expectancy(+4.4%) 5.96%  g needed at floor 8.27%  | no-growth $/sh floor   57.9 bond  105.4 | floor g=org  107.2  floor g=5%  121.5
+3y dep     OE  1019.3 yield 1.65%  vs bond -3.84 pts  expectancy(+4.4%) 6.02%  g needed at floor 8.21%  | no-growth $/sh floor   59.9 bond  109.1 | floor g=org  110.9  floor g=5%  125.7
+11y capex  OE   682.8 yield 1.11%  vs bond -4.38 pts  expectancy(+4.4%) 5.47%  g needed at floor 8.80%  | no-growth $/sh floor   40.1 bond   73.1 | floor g=org   74.3  floor g=5%   84.2
+11y dep    OE   709.2 yield 1.15%  vs bond -4.34 pts  expectancy(+4.4%) 5.51%  g needed at floor 8.75%  | no-growth $/sh floor   41.7 bond   75.9 | floor g=org   77.1  floor g=5%   87.5
+TTM capex  OE  1255.0 yield 2.04%  vs bond -3.45 pts  expectancy(+4.4%) 6.40%  g needed at floor 7.81%  | no-growth $/sh floor   73.7 bond  134.3 | floor g=org  136.5  floor g=5%  154.8
+TTM dep    OE  1240.0 yield 2.01%  vs bond -3.48 pts  expectancy(+4.4%) 6.37%  g needed at floor 7.83%  | no-growth $/sh floor   72.8 bond  132.7 | floor g=org  134.9  floor g=5%  153.0
+band 5y dep g=4.4% $110.11
+band TTM capex g=5.0% $154.81

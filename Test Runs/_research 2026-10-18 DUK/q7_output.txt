@@ -1,0 +1,53 @@
+sales growth 2021-2025 6.47%
+
+== M maintenance-only, no debt credit (central)
+  by year [2148, -413, 3372, 5562, 4373] mean 3008
+  debt credit by year 
+  shown growth 19.45% (end years); owner cash at yr10 / sales at yr10 = 33.9% vs highest share in window 18.5%
+  cut (f): carried at sales growth, not above the discount rate: 5.43%
+  range at sovereign: $71.06 to $109.64 a share (width 1.54x); vs price $121.47
+  return at the price: no-growth case 3.18%, growth case 4.94%
+  fair price (each end at 10%, averaged): $47.30
+
+== M+credit maintenance-only, debt credit to 47% of maintenance
+  by year [4810, 2333, 6231, 8579, 7994] mean 5989
+  debt credit by year 
+  shown growth 13.54% (end years); owner cash at yr10 / sales at yr10 = 40.7% vs highest share in window 28.5%
+  cut (f): carried at sales growth, not above the discount rate: 5.43%
+  range at sovereign: $141.47 to $218.28 a share (width 1.54x); vs price $121.47
+  return at the price: no-growth case 6.32%, growth case 9.26%
+  fair price (each end at 10%, averaged): $94.18
+
+== A all spending, net LT debt credited to 47% of capex
+  by year [1854, -595, 2143, 5300, 4292] mean 2599
+  debt credit by year [3758, 5342, 5291, 5599, 6239]
+  shown growth 23.35% (end years); owner cash at yr10 / sales at yr10 = 40.4% vs highest share in window 17.6%
+  cut (f): carried at sales growth, not above the discount rate: 5.43%
+  range at sovereign: $61.38 to $94.72 a share (width 1.54x); vs price $121.47
+  return at the price: no-growth case 2.74%, growth case 4.31%
+  fair price (each end at 10%, averaged): $40.86
+
+== A-oth same, less Other investing
+  by year [1521, -1239, 1344, 4291, 3213] mean 1826
+  debt credit by year [3758, 5342, 5291, 5599, 6239]
+  shown growth 20.56% (end years); owner cash at yr10 / sales at yr10 = 22.6% vs highest share in window 14.3%
+  cut (f): carried at sales growth, not above the discount rate: 5.43%
+  range at sovereign: $43.13 to $66.55 a share (width 1.54x); vs price $121.47
+  return at the price: no-growth case 1.93%, growth case 3.09%
+  fair price (each end at 10%, averaged): $28.71
+
+== A0 all spending, no credit (literal)
+  by year [-1904, -5937, -3148, -299, -1947] mean -2647
+  debt credit by year [3758, 5342, 5291, 5599, 6239]
+  mean not positive: no value
+
+== ALL-EQUITY BESIDE, net debt 92565
+maintenance-only unlevered by year [3924, 1452, 5650, 8156, 7209] mean 5278
+  growth shown 16.42 (end years), carried 5.43%; range $5.95 to $73.65; fair $-35.73
+all spending unlevered by year [-128, -4072, -870, 2295, 889] mean -377
+  not positive
+
+market cap 94710 net LT debt raised by year [3758, 7478, 5291, 5599, 6239]
+
+== M tax-adjusted beside: by year [1625, -936, 2821, 4481, 3127] mean 2224 shown growth 17.78 end years carried 5.43%
+  range $54.88 to $83.39; returns at price 2.39% / 3.79%; fair $37.09

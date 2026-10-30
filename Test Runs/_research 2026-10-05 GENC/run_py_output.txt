@@ -1,0 +1,49 @@
+==============================================================================
+GENCOR INDUSTRIES INC  (GENC)   —  ARITHMETIC ONLY, NOT A VERDICT
+==============================================================================
+  sovereign USD   5.63%   10/02/2026   US Treasury daily par yield curve
+  price     17.64 USD   2026-10-05   (aggregator — live quote only)
+  shares    14.7M      market cap 0.26B USD
+  share basis: WeightedAverageNumberOfDilutedSharesOutstanding + WeightedAverageNumberOfSharesOutstandingBasic - a WEIGHTED AVERAGE, not a cover-page count
+  ** A weighted average is an EPS denominator, not a share count.
+     For a multi-class filer it is denominated in ONE class. Verify:
+     python Screens/cover_shares.py GENC **
+
+  OWNER EARNINGS   mean of 3 years of (OCF − SBC) − maintenance capex
+  OCF tag: NetCashProvidedByUsedInOperatingActivities + NetCashProvidedByUsedInOperatingActivitiesContinuingOperations
+
+        FY end        OCF      SBC       D&A      capex      OE lo      OE hi
+    2023-09-30         10        0         3          3          7          7
+    2024-09-30          9        0         3          1          7          8
+    2025-09-30          3        0         2          2          1          1
+          mean                                                   5          6
+
+  THE OTHER WINDOW (5-yr, 5 yrs of data)   OE 0 .. 1   yield 0.18%..0.49%
+  DIVERGENCE vs the 3-yr window: -90.8% on the conservative end
+  ** The spread between the windows is part of the range, not a tiebreak;
+     do not pick a window and defend it. **
+
+  1. THE YIELD                  1.90% ..  2.19%   vs sovereign 5.63%
+  2. GROWTH THE PRICE ASSUMES   13.3%  (at a 5.63% rate)
+  3. POINTS OVER THE SOVEREIGN -1.13 .. -0.83
+
+  BALANCE SHEETS, 10 fiscal year-ends (USD thousands; first-filed XBRL vintage, transcription only; read the filed statements)
+    year-end          assets liabilities      equity        cash receivables   inventory     lt debt    retained
+    2016-09-30       128,712       8,507     120,205      18,219       1,110      11,634           0     107,881
+    2017-09-30       142,893      13,975     128,918      22,933       1,184      16,687           0     116,299
+    2018-09-30       153,023      10,844     142,179       8,012         993      18,214           0     128,863
+    2019-09-30       165,372       9,857     155,515      10,302       1,603      25,366           0     141,897
+    2020-09-30       171,094       9,874     161,220      35,584       1,992      27,090           0     147,428
+    2021-09-30       179,462      12,173     167,289      23,232       2,622      41,888           0     153,233
+    2022-09-30       179,313      12,396     166,917       9,581       2,996      55,815           0     152,861
+    2023-09-30       195,748      14,165     181,583      17,031       2,467      71,527           0     167,527
+    2024-09-30       208,121      11,980     196,141      25,482       1,980      63,762           0     182,085
+    2025-09-30       222,596      10,794     211,802      26,587       3,130      53,503           0     197,746
+    accessions: 0001193125-16-783228, 0001193125-17-362916, 0001193125-18-348654, 0001193125-19-310985, 0001193125-20-320959, 0001193125-21-361338, 0001193125-22-306498, 0001193125-23-294347, 0001193125-25-150836, 0001193125-25-312742
+
+  STILL OWED BEFORE THE VALUE QUESTION OPENS:
+    - read the balance sheets over the years above BEFORE the income account (v5 Q4)
+    - read the filing: MD&A, cash-flow detail lines, footnotes; record accession no.
+    - cross-check one figure above against the filed statement
+    - say where in the capex band maintenance sits, and why, citing the filing
+    - fill the competitor row from the competitors' own filings

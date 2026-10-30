@@ -1,0 +1,284 @@
+{
+  "CVS": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Two understandable businesses at the 2018-06-30 anchor (pre-Aetna close): ~9,800 retail drugstores earning a spread on dispensed scripts plus front-store merchandise, and Caremark, a top-3 PBM earning administrative fees, retained rebates and mail/specialty margin. PBM rebate and spread economics are opaque in disclosure but the drivers (script volume, generic dispensing rate, reimbursement per script) are explainable to a generalist."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Scale-based, not franchise-based. Caremark (merged with CVS 2007) sat in a three-firm PBM oligopoly (ESRX, CVS, UNH/OptumRx) with high stated client retention and buying scale versus manufacturers; retail side had the largest US store count and roughly a quarter of US script share, plus regulatory/licensing barriers. Offsetting: drug retailing is commoditized, PBM contracts are rebid every ~3 years, and the payer, not the pharmacy, controls network access."
+      },
+      {
+        "from": 2017,
+        "class": "NARROW",
+        "note": "Moat visibly narrowed, class unchanged. 2016-08: Walgreens announced a strategic alliance with Prime Therapeutics (22M Blue Cross/Blue Shield lives) and CVS cut 2016 EPS guidance on network losses. 2016-09/12: CVS was dropped from the Tricare retail network effective 2016-12-01 (~9.4M members steered to Walgreens). 2016-11-08: CVS cut its 2017 outlook, quantifying roughly 40M prescriptions lost, disproportionately profitable ones. These flowed through 2017 reported results alongside negative front-store comps and reimbursement pressure, demonstrating that CVS could not defend its own script base against payer network design. 2017-12-03: CVS agreed to acquire Aetna for ~$69B (closed 2018-11-28, post-anchor) -- an explicit admission that standalone retail-pharmacy/PBM economics needed vertical integration to be defended. 2018-06-28, two days before the anchor: Amazon announced the PillPack acquisition; CVS fell ~8% and CVS/WBA/RAD lost ~$11B of combined market value in a day."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2010-10",
+        "severity": "SERIOUS",
+        "note": "2010-10-14: CVS agreed to pay $77.6M ($75M civil penalty, then the largest ever under the Controlled Substances Act, plus $2.6M forfeited profits) and accepted responsibility for illegally selling pseudoephedrine to methamphetamine traffickers, primarily in Los Angeles, Orange and Clark counties. The government agreed not to bring criminal charges; CVS agreed to a three-year compliance-and-ethics program. Compliance failure with acceptance of responsibility, not adjudicated deception."
+      },
+      {
+        "date": "2014-04",
+        "severity": "DISQUALIFYING",
+        "note": "2014-04-08: SEC charged CVS Caremark with misleading investors and committing accounting violations; CVS paid $20M, neither admitting nor denying. The SEC alleged CVS failed to disclose, during a $1.5B September 2009 bond offering, that it had lost significant Medicare Part D and PBM contract revenue (disclosed 2009-11-05, stock -20% that day), and that CVS changed the purchase accounting for the Longs Drugs acquisition -- writing $189M of personal property down to $0 and reversing $49M of previously recorded depreciation -- without disclosing it, which lifted Q3 2009 earnings past analyst estimates while the company was announcing bad news. Substance of the charge is accounting manipulation and investor deception. DISCONTINUITY: conduct was 2009 under CEO Tom Ryan; Larry Merlo became CEO in March 2011 and led the company at the 2018 anchor."
+      },
+      {
+        "date": "2015-05",
+        "severity": "SERIOUS",
+        "note": "2015-05: CVS paid a $22M civil penalty (M.D. Fla.) and admitted that pharmacists at two Sanford, Florida stores knowingly filled thousands of prescriptions for oxycodone and other painkillers lacking a legitimate medical purpose during 2010-2011; DEA said the two stores ordered 1-2 million oxycodone pills a year, ~27x the national average. Admission of knowing illegal dispensing."
+      },
+      {
+        "date": "2016-02",
+        "severity": "SERIOUS",
+        "note": "Repeat pattern of Controlled Substances Act settlements in the years immediately before the anchor: 2016-02-12, $8M (D. Md.) for dispensing controlled substances on prescriptions not issued for a legitimate medical purpose; 2016-10-20, $600,000; 2017-07-11, $5M (E.D. Cal.); 2018-06-28, $1.5M -- two days before the anchor; 2015-08, $450,000 (D.R.I.). Individually small, but the recurrence across districts is the relevant integrity signal at 2018-06-30."
+      },
+      {
+        "date": "2018-11",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR. 2018-11-19: Florida sued CVS and Walgreens over their role in the opioid crisis, opening the wave of state/municipal dispensing suits. 2022-11: CVS agreed to pay ~$5B over 10 years to settle state, municipal and tribal opioid claims. 2024-12-18: DOJ filed a nationwide complaint alleging CVS knowingly dispensed unlawful controlled-substance prescriptions in violation of the CSA and False Claims Act, alleging staffing/compensation metrics that 'emphasized speed over safety'; contested by CVS. 2025-08: a court entered a ~$290M FCA judgment against Caremark ($95M trebled plus penalties) over Medicare Part D drug-price misreporting, from a 2014 qui tam by an Aetna actuary."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "EMR": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "A diversified industrial: process-automation instruments, valves and control systems (Rosemount, Fisher, DeltaV) sold into refineries, chemical and power plants, plus industrial automation, climate/HVAC components, tools and data-center power. Unit economics are ordinary manufacturing -- engineered hardware at high gross margin, with a large aftermarket/service tail on an installed base."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "WIDE",
+        "note": "Process Management is the source: distributed control systems and field instrumentation are specified into multi-decade plant designs, are validated against safety and regulatory standards, and are expensive and risky to rip out, so replacement demand and service annuities recur. Emerson held #1 or #2 share across most of its product categories and Process Management ran segment margins near 19-20%. Corroborated by an unusually long consistency record -- Emerson had raised its dividend every year for 58 consecutive years by 2015, spanning multiple industrial recessions."
+      },
+      {
+        "from": 2016,
+        "class": "NARROW",
+        "note": "What changed and when it showed: the oil-price collapse that began late 2014 revealed that the wide-moat segment was concentrated in energy capex, not diversified across process industries. Reported 2015-05-05 (Q2 FY2015) and 2015-08 (Q3 FY2015): underlying declines from oil and gas weakness after a strong Q1. FY2015 results reported 2015-11: net sales -9%, underlying -2%, hit by lower oil prices, a global slowdown in industrial capital spending, emerging-market weakness and dollar strength. Separately, on 2015-06-30 -- the anchor date itself -- Emerson announced it would spin off Network Power and explore sale of power generation, motors/drives and residential storage, conceding that a large share of the portfolio had no defensible position; Network Power was ultimately sold to Platinum Equity for $4B on 2016-12-01, well below the capital sunk into building it. The durable moat is real but confined to process automation, not the consolidated company."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "1990-05",
+        "severity": "SERIOUS",
+        "note": "1990-05: Emerson's Electronics & Space Corp subsidiary pleaded guilty to four counts of making false statements to the federal government -- submitting false and inflated cost and price data on US military contracts between 1983 and 1987 -- and Emerson paid $14M in civil settlement plus criminal fines. Conduct is dishonesty in substance, but DISCONTINUITY: it is 25 years before the 2015 anchor, at a defense subsidiary, under the Chuck Knight management era; David Farr had been CEO since 2000 with no comparable finding since. Graded SERIOUS rather than disqualifying on remoteness and management change."
+      },
+      {
+        "date": "2018-04",
+        "severity": "SERIOUS",
+        "note": "POST-ANCHOR (filed 2015, tried 2018). A federal jury in N.D. Cal. found that Emerson Network Power misused BladeRoom Group's confidential modular data-center design information obtained under an NDA during acquisition talks, awarding ~$30M ($10M lost profits, $20M unjust enrichment); with interest and fees the figure rose to roughly $77M. Partially revisited on appeal -- the Ninth Circuit ruled on the case on 2021-08-30. Misappropriation under an NDA is a candor problem, dated after the 2015-06-30 anchor."
+      },
+      {
+        "date": "2021-01",
+        "severity": "MINOR",
+        "note": "POST-ANCHOR. FTC consent order (In the Matter of Emerson Electric and Pentair) requiring divestiture of a switchbox business to Crane Co. to clear Emerson's $3.15B Pentair acquisition -- an ordinary merger-remedy matter, no deception alleged. Emerson also carries continuing ordinary-course asbestos product-liability litigation through subsidiaries including Fisher Controls and Crosby Valve (e.g., an adverse Rhode Island verdict in 2017)."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "ETN": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Power management across four understandable franchises: electrical components and systems (breakers, switchgear, UPS, wiring devices), hydraulics (pumps, valves, hose), aerospace fuel and hydraulic systems, and vehicle drivetrain including heavy-duty truck transmissions. Sells engineered hardware through distributors and OEMs; economics are unit volume times price times a manufacturing margin, with an aftermarket tail."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "The defensible franchise is Electrical: products are specified into building and utility designs, must carry UL/IEC and code approvals, are sold through entrenched distributor relationships, and generate long-tail service and replacement demand. Hydraulics, Vehicle and (to a lesser degree) Aerospace are cyclical, OEM-dependent and share-contested. Eaton is a serial acquirer -- the $13B Cooper Industries deal closed 2012-11-30 and was structured with an Irish domicile that dropped the effective tax rate toward the low teens, materially lifting reported EPS without any improvement in operating economics; investors should not read that step-up as moat."
+      },
+      {
+        "from": 2016,
+        "class": "NARROW",
+        "note": "Class unchanged but the source of the moat became visible in results. Revenue fell from $22.6B (2014) to $20.9B (2015, reported 2016-02) to $19.7B (2016, reported 2017-02) -- roughly -13% over two years -- driven almost entirely by Hydraulics, Vehicle and energy-exposed end markets, while Electrical segment revenue held far better and Electrical margins expanded. In 2017 management opened a public strategic review of the Hydraulics, Vehicle and Lighting portfolios. Read correctly, this confirms that the durable business is Electrical and that roughly 40% of the company was cyclical, low-moat content."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2009-10",
+        "severity": "SERIOUS",
+        "note": "2009-10-08: after a four-week liability trial in D. Del., a jury returned a verdict against Eaton in ZF Meritor LLC v. Eaton Corp., finding Eaton engaged in anticompetitive de facto partial exclusive dealing in North American heavy-duty truck transmissions (market-share-conditioned discounts with the four truck OEMs). Filed October 2006. Pure competition-law matter with no deception alleged. 2011-08-19: final judgment of liability entered but zero damages awarded. 2012-09-28: the Third Circuit affirmed denial of Eaton's JMOL, letting the liability verdict stand. 2014-06-23: Eaton agreed to pay Meritor $500M, paid 2014-07-16 (plaintiffs had claimed $800M, $2.4B trebled)."
+      },
+      {
+        "date": "2010-01",
+        "severity": "DISQUALIFYING",
+        "note": "2010-01-06: Judge Yerger of the Hinds County (Mississippi) Circuit Court imposed a joint and several sanction of $1,560,642.83 against Eaton and three of its attorneys for intentional discovery violations. The core finding: Eaton had executed a consulting agreement with former Frisby employee Milan Georgeff on 2003-01-28, then on 2005-02-25 served a misleading interrogatory response describing it as merely a 'strictly limited indemnity'; the true agreement surfaced only on 2005-11-02 in parallel North Carolina litigation. Deliberate misrepresentation to a court."
+      },
+      {
+        "date": "2010-12",
+        "severity": "DISQUALIFYING",
+        "note": "2010-12-22: the Hinds County Circuit Court dismissed WITH PREJUDICE all of Eaton's trade-secret claims against Frisby Aerospace (later Triumph Actuation Systems) as a sanction for 'improper ex parte and fraudulent contacts' -- fraud on the court. Eaton had sued in 2004 alleging six engineers who left for Frisby stole aircraft hydraulic pump and motor trade secrets from its Jackson, Mississippi plant. On 2006-12-01 Eaton's Mississippi counsel recommended retaining former Hinds County District Attorney Ed Peters, describing him as 'the closest possible associate of Judge DeLaughter' -- the presiding judge. A special master's report of 2010-08-11 made the underlying findings of fact. Judge Bobby DeLaughter was separately indicted 2009-02-12, pleaded guilty 2009-07-30 to obstruction (lying to the FBI about his conversations with Peters) and was sentenced to 18 months on 2009-11-13; Peters received immunity. Triumph's counterclaims further alleged Eaton gave false information to prosecutors to procure criminal charges against the engineers it had accused."
+      },
+      {
+        "date": "2013-11",
+        "severity": "DISQUALIFYING",
+        "note": "2013-11-21: the Mississippi Supreme Court, unanimously, affirmed BOTH the $1.56M discovery sanction and the dismissal with prejudice (Eaton Corp. v. Frisby, 133 So.3d 735). Critically, it found 'clear and convincing evidence' that Eaton's own corporate officers knew Peters was making improper ex parte communications for Eaton's benefit, citing internal emails discussing Peters securing trial dates and postponing a sanctions ruling. This is not a rogue-outside-counsel finding -- it is an appellate court holding that corporate officers knew. NOT reduced or reversed on any later appeal."
+      },
+      {
+        "date": "2014-06",
+        "severity": "DISQUALIFYING",
+        "note": "2014-06-18: Eaton signed a $147.5M settlement resolving all remaining Triumph claims -- $135.3M to Triumph Group plus $12.2M into a fund for the six engineers Eaton had originally accused. Combined with the $500M Meritor payment three weeks later, Eaton paid out roughly $650M in mid-2014 across the two matters. All of the above is public well before the 2018-06-30 anchor."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "FCX": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Copper, gold and molybdenum mining -- unit economics reduce to ore grade, strip ratio and net cash cost per pound against a world price the company does not set. The oil and gas segment added in mid-2013 (deepwater Gulf of Mexico, onshore California) is a second, differently driven commodity business with its own reserve and finding-cost accounting, which complicates the story but does not make it opaque."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NONE",
+        "note": "Pure price taker in a globally traded commodity, with no pricing power, no switching costs and no customer captivity. FCX's only genuine advantage is asset quality -- Grasberg in Papua, Indonesia, whose gold byproduct credits historically made it one of the lowest net-cash-cost copper mines on earth -- but an ore body is an asset advantage, not a durable competitive moat, it depletes, and it is not reproducible as a management skill. Earnings swing with copper: revenue ~$20.9B and net income ~$4.6B in 2011 versus ~$20.9B and ~$2.7B in 2013 on the same top line."
+      },
+      {
+        "from": 2014,
+        "class": "NONE",
+        "note": "Weakened further, visible before the anchor. (a) Sovereign risk crystallized: Indonesia's raw-ore export ban and progressive export duty took effect 2014-01-12, halting FCX concentrate exports from Grasberg for roughly six months and costing close to $1B of revenue in a twelve-week span; Jakarta was simultaneously demanding conversion from the Contract of Work to a special license carrying higher taxes and royalties, divestment to 51% Indonesian ownership, domestic smelter construction, and surrender of international arbitration rights. An MoU restoring exports was reached 2014-07-25, just after the anchor. (b) Capital allocation: on 2012-12-05 FCX announced ~$9B of acquisitions (Plains Exploration & Production for $6.9B and McMoRan Exploration for $2.1B, ~$20B including assumed debt); FCX shares fell 16% that day -- its worst day since 2008 -- while PXP rose 23% and MMR rose 87%. The market priced the deals as a transfer from FCX shareholders on day one. Deals closed 2013-05-31 and 2013-06-03."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2005-12",
+        "severity": "SERIOUS",
+        "note": "2005-12-27: The New York Times, using company records, reported FCX paid nearly $20M between 1998 and 2004 directly to Indonesian military and police generals, colonels, majors and captains as well as to units. Payments to individual officers were illegal for those officers to accept under Indonesian law; the payments were disclosed to the SEC and drew FCPA scrutiny. No FCPA enforcement action was ever brought and the company characterized the payments as reimbursement for security in a remote operating area. Graded SERIOUS rather than disqualifying because it was never charged or adjudicated, but direct cash to named individual officers is bribery-adjacent conduct on the record before the anchor."
+      },
+      {
+        "date": "2012-12",
+        "severity": "SERIOUS",
+        "note": "RELATED-PARTY SELF-DEALING ALLEGATIONS. The December 2012 PXP/MMR acquisitions were conflicted on their face: FCX chairman James R. Moffett was co-founder and chairman of McMoRan Exploration, FCX CEO Richard Adkerson was co-chairman of MMR, directors and financial advisers overlapped across the three companies, and FCX's largest shareholders publicly attacked the deal. Derivative and stockholder suits followed in Delaware Chancery from December 2012 (In re Freeport-McMoRan Copper & Gold Inc. Derivative Litigation, No. 8145-VCN; In re Plains Exploration & Production Company Stockholder Litigation, where the Chancery Court denied a preliminary injunction). RESOLUTION, POST-ANCHOR: settlement announced 2015-01-15 for $137.5M -- then the largest derivative settlement in Delaware history -- funded $115M by D&O insurers and $22.5M by FCX, approved by the Chancery Court 2015-04-07, with proceeds net of fees paid out to shareholders as a special dividend. Not an admission, but the size is the finding."
+      },
+      {
+        "date": "2013-05",
+        "severity": "MINOR",
+        "note": "2013-05: the roof of a non-operational underground training tunnel collapsed at Grasberg, killing 28 workers and injuring 10; operations were suspended for roughly six weeks. Further fatalities followed in September 2014. Graded MINOR on this scale because it is a safety and operating-culture failure rather than a dishonesty finding, but it is material context for a business whose single most valuable asset sits in a jurisdiction where the operator's social license is contested."
+      },
+      {
+        "date": "2015-11",
+        "severity": "MINOR",
+        "note": "POST-ANCHOR, and FCX is the solicited party rather than the wrongdoer. 2015-11: the 'Papa minta saham' recordings became public in Indonesia, in which House Speaker Setya Novanto was heard soliciting shares in FCX's Indonesian unit in connection with the contract extension; the recording was made by FCX Indonesia's own chief executive. Novanto was forced to resign the speakership. Included for completeness on the Indonesian political-risk thread."
+      }
+    ],
+    "gate5_broken_by": "2015-01"
+  },
+  "GD": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Four legible segments: Aerospace (Gulfstream large-cabin business jets plus jet services), Marine Systems (Electric Boat nuclear submarines, Bath Iron Works destroyers, NASSCO), Combat Systems (Abrams, Stryker, munitions) and Technologies (GDIT federal IT services and mission systems). Long-dated cost-plus and fixed-price government contracts with a disclosed backlog make forward revenue unusually visible for an industrial."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Genuinely protected where the barriers are physical and political: Electric Boat is one of only two US yards able to build nuclear submarines (with HII Newport News), and the Virginia- and Columbia-class programs are decades-long national-priority commitments; the Abrams line at Lima, Ohio is sole-source; Gulfstream carries a top-two large-cabin brand with a captive global service network and high customer switching cost. Offsetting and preventing a WIDE rating: the customer is a monopsony that sets allowable margins, Gulfstream is deeply cyclical, and federal IT services is a recompete-driven, price-shopped business with no durable advantage."
+      },
+      {
+        "from": 2018,
+        "class": "NARROW",
+        "note": "Mix shifted toward the weakest-moat segment. GD announced the CSRA acquisition on 2018-02-11 and closed it 2018-04-03 for $9.7B including ~$2.8B of assumed debt, folding it into GDIT and taking pro-forma net debt to roughly $10.5B -- making Technologies, the segment with the shortest contract lives and the lowest barriers, the largest by revenue. Visible in reported results from 2018 onward: Technologies showed flat-to-declining organic revenue through 2019 on recompetes, award protests and delayed federal procurements, while the protected marine and combat franchises carried growth. Additional operating evidence at the anchor: COVID-19 travel restrictions blocked 13 completed Gulfstream deliveries in Q1 2020 (reported 2020-04-29, net 11 deliveries lost after pulling two forward), and 4,300 IAM Local S6 machinists struck Bath Iron Works from 2020-06-22 -- eight days before the anchor -- over expanded use of subcontractors (ratified a new contract 2020-08-23, post-anchor)."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "1985-01",
+        "severity": "SERIOUS",
+        "note": "DISCONTINUITY FLAG -- historically remote, entirely different management. GD was the central corporate subject of the 1980s defense-procurement scandals: Navy suspension of divisions from new contract awards and penalties over improperly billed overhead, congressional investigations of fraud, waste and abuse (see the July 1985 CRS report on GD specifically), and a related federal indictment concerning the DIVAD/Sgt York program that was subsequently dismissed in 1987. This predates the anchor by 35 years and multiple complete management turnovers (William Anders' 1991 restructuring, then Chabraja, Hewson-era peers, Novakovic and Phebe Novakovic as CEO from 2013). Recorded for the record, not as a live character finding at 2020."
+      },
+      {
+        "date": "2015-01",
+        "severity": "SERIOUS",
+        "note": "Disclosed in GD's own filings: in 2015 Electric Boat received a civil investigative demand from DOJ over potential False Claims Act violations concerning failures of its quality system with respect to allegedly non-conforming parts purchased from a supplier. In 2016 GD learned it was a defendant in a sealed qui tam action, and the Navy's Suspending and Debarring Official issued a SHOW CAUSE LETTER demanding Electric Boat answer concerns about its oversight and management of subcontractor and supplier quality assurance -- a debarment-adjacent step against the crown-jewel franchise. LATER REDUCED/REVERSED: in Q3 2019 DOJ declined to intervene and the relator's complaint was unsealed (investigation stated to be continuing); the relator filed a second amended complaint in Q4 2020; the district court dismissed the complaint WITH PREJUDICE in Q3 2021; and the Eleventh Circuit affirmed the dismissal with prejudice on 2023-08-17 (84Partners, LLC v. General Dynamics Electric Boat). At the 2020-06-30 anchor the matter was live and unresolved with DOJ's investigation open."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "GILD": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Sells small-molecule antivirals -- an HIV franchise built on the tenofovir backbone and a hepatitis C franchise -- at near-zero marginal cost under patent protection. Unit economics are net price times treated patients, with the whole edifice resting on patent life and payer willingness to pay. The one non-obvious feature is easy to state: a hepatitis C therapy is a 12-week cure, so it depletes its own market rather than creating an annuity."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "The moat is HIV, not hepatitis C. Gilead's tenofovir backbone anchored the majority of first-line US regimens with roughly 80% share, defended by treatment-guideline entrenchment, physician and patient inertia on a lifelong therapy where switching carries clinical risk, and successive lifecycle patents (Viread to Truvada to Complera/Stribild to the TAF-based Genvoya/Descovy to Biktarvy). NARROW rather than WIDE because every element is time-limited by patent expiry rather than by customer captivity, and payers, not Gilead, ultimately set net price."
+      },
+      {
+        "from": 2016,
+        "class": "NARROW",
+        "note": "Class unchanged, but the revenue base underneath it began collapsing and this was visible in reported results before mid-2016. Sovaldi and Harvoni peaked at roughly $19.1B combined in 2015. Q1 2016 results (reported 2016-04-28) already showed hepatitis C revenue declining year over year; Harvoni US net product sales fell to ~$1.5B in Q2 2016 from ~$2.8B in Q2 2015. Full-year HCV: ~$14.8B in 2016, ~$9.1B in 2017 (Harvoni alone -52% year over year), and on 2017-02/2018-02 guidance calls management guided 2018 HCV to just $3.5-4.0B, roughly 60% below 2017. Two independent causes, both dated: the prevalent treatable patient pool depleted after the 2015 warehouse of patients was cured, and competition crushed net price -- Merck's Zepatier (approved 2016-01) and, decisively, AbbVie's pan-genotypic Mavyret (approved 2017-08) at a far lower list price. Consolidated revenue fell $32.6B (2015) to $30.4B (2016) to $26.1B (2017) to $22.1B (2018)."
+      },
+      {
+        "from": 2019,
+        "class": "NARROW",
+        "note": "By the anchor the composition has fully inverted and the surviving moat is visible in results. Reported 2019-02 (FY2018) and through 2019: the HIV franchise grew to roughly $14.6B, up about 12%, with Biktarvy -- approved 2018-02 -- becoming the fastest HIV product launch on record in the US, while HCV shrank to a small residual. Total revenue stabilized at ~$22.4B in 2019 versus $22.1B in 2018. Offsetting: the $11.9B Kite Pharma acquisition (announced 2017-08) disappointed -- Yescarta produced only $264M in 2018 and $456M in 2019 against the price paid, and Gilead later took an $820M charge on a Kite anti-BCMA program. Leadership turned over: CEO John Milligan's departure was announced 2018-07 and Daniel O'Day (ex-Roche Pharma) became CEO on 2019-03-01, four months before the anchor -- a new and unproven capital allocator at the anchor date."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2015-12",
+        "severity": "MINOR",
+        "note": "2015-12-01: Senate Finance Committee ranking members Wyden and Grassley released an 18-month investigation concluding that Gilead set Sovaldi's price -- $1,000 per pill, $84,000 per course -- at the level it believed would maximize revenue, with internal documents showing that access and affordability were secondary considerations; the report noted Medicaid programs spent over $1B in 2014 yet treated only about 2.4% of roughly 700,000 infected enrollees. No legal action followed. Graded MINOR because it produced no settlement or regulatory sanction, but it is a direct, documented character finding on how management weighed patients against revenue."
+      },
+      {
+        "date": "2017-02",
+        "severity": "SERIOUS",
+        "note": "Gilead was swept into the DOJ's industry-wide investigation of pharmaceutical co-pay charities, disclosing the subpoena in its SEC filings by early 2017. RESOLUTION, POST-ANCHOR: on 2020-09-23 Gilead agreed to pay $97M to resolve False Claims Act allegations that from 2007 through 2010 it used the Caring Voice Coalition as a conduit to pay Medicare co-pays for its own pulmonary-arterial-hypertension drug Letairis -- funding a fund that covered co-pays only for Letairis and not competing medicines, while routinely obtaining data from the foundation to calibrate how much to pay. Settled without admission; the effect alleged is defeating the co-pay's cost-control purpose while billing Medicare for the full price."
+      },
+      {
+        "date": "2018-05",
+        "severity": "MINOR",
+        "note": "2018-05: California HIV patients filed personal-injury and class-action suits alleging Gilead knew tenofovir disoproxil fumarate (TDF) carried bone and kidney toxicity, and that it deliberately shelved the safer tenofovir alafenamide (TAF) so as to run out TDF's patent life before switching patients. Graded MINOR at the 2019-06-30 anchor because it was unadjudicated private mass-tort litigation that Gilead contested; the allegation itself is serious in kind. LATER DEVELOPMENT: in 2024-02 a California appellate ruling allowed the novel negligence theory -- a duty to develop the safer successor drug -- to proceed, keeping the litigation alive."
+      },
+      {
+        "date": "2019-05",
+        "severity": "SERIOUS",
+        "note": "2019-05, one month before the anchor: consolidated antitrust class actions were filed in N.D. Cal. (In re HIV Antitrust Litigation) alleging Gilead paid Teva roughly $1B in a 2014 reverse payment to keep generic Truvada and Atripla off the market, and that Gilead imposed 'no-generics' restraints in its combination-pill collaborations with Bristol-Myers Squibb and Janssen; plaintiffs sought about $3.6B. Pure competition-law matter, no deception alleged. LATER LARGELY REVERSED IN GILEAD'S FAVOR: in 2023 a jury unanimously cleared Gilead and Teva of the pay-for-delay claims; separately, in 2023-05 Gilead funded a $246.75M settlement with direct-purchaser and retailer plaintiffs (CVS, Rite Aid, Walgreens) covering purchases from February 2018 to November 2022."
+      }
+    ],
+    "gate5_broken_by": null
+  },
+  "GRMN": {
+    "gate1": {
+      "verdict": "PASS",
+      "note": "Designs, manufactures and sells GPS-enabled devices across five reported segments -- automotive/mobile, outdoor, fitness, marine and aviation. Vertically integrated manufacturing in Taiwan; unit economics are straightforward consumer and certified-avionics hardware: units times ASP at a gross margin in the low-to-mid 50s, with heavy R&D and no meaningful recurring revenue at this date."
+    },
+    "gate2": [
+      {
+        "from": null,
+        "class": "NARROW",
+        "note": "Two real but unequal sources. Aviation is the durable one: panel-mount and integrated flight decks require FAA/EASA certification, are designed into airframe OEM programs with multi-year qualification cycles, and generate long aftermarket and upgrade tails -- a genuine regulatory and switching-cost moat. Elsewhere the advantage is operational rather than structural: vertical integration (Garmin owns its manufacturing, unusual among consumer-electronics firms) sustained gross margins above 50% and a debt-free, large net-cash balance sheet. The consumer personal-navigation-device position was a share lead, not a defensible franchise."
+      },
+      {
+        "from": 2010,
+        "class": "NARROW",
+        "note": "Class holds only because of the segments that were NOT the biggest one; the largest segment's moat was destroyed on a datable day. 2009-10-28: Google announced free turn-by-turn Google Maps Navigation for Android; Garmin fell more than 16% the following day to $30.85 and TomTom fell ~29%. 2010-01-21: Nokia made Ovi Maps navigation free. The substitution then showed up in reported results continuously: total revenue $3.49B (2008) to $2.95B (2009) to $2.69B (2010), with price cuts already visible by December 2009; automotive/mobile fell from 58% of revenue in 2011 to 55% in 2012 and to ~50% by Q2 2013 on North American and European PND unit declines. 2012 total revenue $2.72B, -2%; Q1 2013 revenue $532M, -4% versus $557M. OFFSETTING AND VISIBLE AT THE ANCHOR: outdoor grew ~11% and fitness ~8% in 2012, and aviation grew, so the mix was migrating from the segment with no moat toward the segments that had one -- which is why the company, unlike TomTom, was not broken. Garmin also initiated a $300M repurchase in February 2013 against a large net-cash position."
+      }
+    ],
+    "gate3": [
+      {
+        "date": "2010-08",
+        "severity": "MINOR",
+        "note": "2010-08-26: Garmin voluntarily recalled roughly 1.25 million nuvi personal navigation devices over a battery overheating and fire hazard traced to a third-party battery supplier within a defined date-code range and a specific circuit-board design. Fewer than 10 incidents had been reported, with no injuries and no property damage; Garmin described it as an abundance of caution. Read as a positive integrity signal -- proactive disclosure ahead of harm, not a concealment finding."
+      },
+      {
+        "date": "2012-08",
+        "severity": "MINOR",
+        "note": "Ordinary-course patent litigation. Complaint filed 2012-07-24 by Technology Properties Limited, Phoenix Digital Solutions and Patriot Scientific against 24 companies including Garmin entities over US Patent 5,809,336; the ITC instituted a Section 337 investigation 2012-08-21. RESOLVED IN GARMIN'S FAVOR, just after the anchor: on 2013-09-06 the ITC administrative law judge issued an initial determination of no Section 337 violation by any Garmin company."
+      },
+      {
+        "date": "2013-08",
+        "severity": "MINOR",
+        "note": "POST-ANCHOR by weeks. Meyers v. Garmin International, Inc. (D. Kan., No. 13-CV-2416), a putative consumer class action alleging lithium-ion batteries in certain Garmin personal navigation devices were prone to premature failure. Garmin prevailed on summary judgment (announced 2016). No fraud, accounting, bribery, antitrust or regulatory-enforcement matter of any kind was found for Garmin in the years preceding the 2013-06-30 anchor."
+      }
+    ],
+    "gate5_broken_by": null
+  }
+}

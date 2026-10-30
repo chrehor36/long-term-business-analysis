@@ -1,0 +1,54 @@
+﻿MASTER QUEUE 2026-09-01   717 tickers ever listed, 155 already run, 652 candidates
+
+tick        capM   yield  growth  spread  industry
+OPFI         602  44.40% -34.40%     21%  Finance Services [FIN]
+WRLD         885  29.47% -19.47%      1%  Personal Credit Institut [FIN]
+PAGP       5,535  28.03% -18.03%     34%  Pipe Lines (No Natural G
+SNFCA        199  22.12% -12.12%     91%  Finance Services [FIN]
+CASH       1,689  19.62%  -9.62%     18%  National Commercial Bank [FIN]
+CUBB         740  17.28%  -7.28%     83%  State Commercial Banks [FIN]
+UVE        1,208  15.18%  -5.18%     19%  Fire, Marine & Casualty  [FIN]
+LEG        1,257  15.15%  -5.15%     42%  Household Furniture
+SIG        3,198  13.23%  -3.23%     42%  Retail-Jewelry Stores
+SMPL         967  13.23%  -3.23%     25%  Food and Kindred Product
+CALM       3,763  13.04%  -3.04%     25%  Agricultural Prod-Livest
+HESM       5,078  12.81%  -2.81%     12%  Crude Petroleum & Natura
+EMBC         286  12.37%  -2.37%    411%  Surgical & Medical Instr
+ESNT       6,129  11.91%  -1.91%     10%  Surety Insurance [FIN]
+L         22,432  11.69%  -1.69%      8%  Fire, Marine & Casualty  [FIN]
+CIA          198  11.68%  -1.68%     43%  Life Insurance [FIN]
+FC           231  11.57%  -1.57%     18%  Services-Management Serv
+BRBR       1,243  11.15%  -1.15%     47%  Food and Kindred Product
+CE         4,861  10.74%  -0.74%     88%  Plastic Material, Synth 
+MGPI         362  10.48%  -0.48%     93%  Wholesale-Beer, Wine & D
+GM        75,136  10.34%  -0.34%     54%  Motor Vehicles & Passeng
+MKL       22,268  10.30%  -0.30%      8%  Fire, Marine & Casualty  [FIN]
+MCFT         389  10.05%  -0.05%     29%  Ship & Boat Building & R
+BLMN         903  10.01%  -0.01%     96%  Retail-Eating  Places
+F         51,810  10.01%  -0.01%     53%  Motor Vehicles & Passeng
+APOG         787   9.72%   0.28%     38%  Glass Products, Made of 
+KBH        3,217   9.61%   0.39%     68%  Operative Builders
+MNRO         397   9.36%   0.64%    188%  Services-Automotive Repa
+CRTO         865   9.05%   0.95%     73%  Services-Advertising Age
+OPHC         110   8.88%   1.12%     28%  National Commercial Bank [FIN]
+CINF      26,389   8.78%   1.22%     12%  Fire, Marine & Casualty  [FIN]
+FCAP         207   8.62%   1.38%      2%  Savings Institution, Fed [FIN]
+PCB          390   8.62%   1.38%     19%  State Commercial Banks [FIN]
+PEBO       1,428   8.47%   1.53%      6%  State Commercial Banks [FIN]
+FHB        3,077   8.19%   1.81%     26%  State Commercial Banks [FIN]
+MNSB         179   7.99%   2.01%     88%  State Commercial Banks [FIN]
+SBSI         952   7.95%   2.05%     55%  State Commercial Banks [FIN]
+PEBK         239   7.80%   2.20%     13%  State Commercial Banks [FIN]
+MNSBP        184   7.77%   2.23%     88%  State Commercial Banks [FIN]
+BELFB        541   7.44%   2.56%     73%  Electronic Coils, Transf
+OVLY         288   7.43%   2.57%     26%  State Commercial Banks [FIN]
+MPLX      59,767   7.38%   2.62%      2%  Pipe Lines (No Natural G
+HBCP         548   7.28%   2.72%     11%  Savings Institutions, No [FIN]
+HWBK         271   7.28%   2.72%     11%  National Commercial Bank [FIN]
+UVSP       1,149   6.92%   3.08%      8%  State Commercial Banks [FIN]
+
+379 priced. TIER 1 (<=6% growth, non-financial, unrun): 62
+  PAGP, LEG, SIG, SMPL, CALM, HESM, EMBC, FC, BRBR, CE, MGPI, GM, MCFT, BLMN, F, APOG, KBH, MNRO, CRTO, BELFB, MPLX, ADM, IIIN, OXY, USNA, SGC, JAKK, CRC, AEO, MGM, KR, PLAB, AGCO, PII, GPI, EXP, CLX, ICFI, CVS, PINS, DG, CRUS, NKE, AATC, MHH, CAH, NATH, WS, DMC, UAL, QCOM, TTSH, DKS, PG, ULTA, HUBG, USPH, JKHY, ABBV, CTS, BDC, PPG
+
+skipped 273: ABUS(perimeter 3.6x), ACRE(capex unresolved [E5-20]), ADC(capex unresolved [E5-20]), ADP(capex unresolved [E5-20]), AEAE(capex unresolved [E5-20]), AEHR(perimeter 3.1x), AEP(capex unresolved [E5-20]), AEVA(perimeter 2.2x), AFCG(capex unresolved [E5-20]), AGNT(perimeter 2.1x), AHCO(perimeter 2.3x), AIRC(not an SEC registrant), AIV(perimeter 2.5x), ALE(not an SEC registrant), ALEC(perimeter 9.8x), ALH(<5 filed years), ALMU(perimeter 5.1x), ALX(capex unresolved [E5-20])
+WROTE c:\Users\chreh\OneDrive\Documents\BRK\Screens\2026-09-01 MASTER RUN QUEUE.csv

@@ -1,0 +1,24 @@
+{
+ "ticker": "DUK",
+ "name": "Duke Energy",
+ "headline": "One of the largest US electric utilities, with a regulated monopoly across the Carolinas, Florida and the Midwest.",
+ "what_short": "Regulated electric and gas utility",
+ "what_it_does": "Duke Energy runs regulated electric utilities in the Carolinas, Florida, Indiana, Ohio and Kentucky serving about 8.7 million customers, with about 55,713 MW of generating capacity. It also runs regulated gas utilities that served about 1.8 million customers before it sold its Tennessee business.",
+ "why_it_passed": [
+  "It is a monopoly by law in its service areas, and the terms regulators have allowed in its states have held within a stated band.",
+  "Its earnings come from a regulated return on a planned and filed asset base, so the next ten years are easy to picture.",
+  "The accounts, special items and regulatory accounts reconcile, and no dishonesty was found.",
+  "It has a filed ten-year capital plan, so its future spending is written down."
+ ],
+ "why_not_now": "A regulator caps what Duke may earn, so the price is far above what that capped return justifies. At $121.47 a share the price is above the top of the analysis's value range ($71.06 to $109.64), and the expected return of 3.18% to 4.94% a year is below even a 30-year US Treasury bond (5.43%).",
+ "watch": [
+  "It has about $92.6 billion of net debt, and it recently issued $2 billion of equity-unit notes.",
+  "Its return on book equity was the lowest of four comparable utilities over the decade, partly because of large goodwill and past special charges (a cancelled pipeline, coal ash, 2024 South Carolina write-downs).",
+  "Management's ability was weighed against, and each price rise needs a regulatory rate case."
+ ],
+ "value_low": 71.06,
+ "value_high": 109.64,
+ "utility": true,
+ "run_date": "2026-10-18",
+ "currency": "USD"
+}

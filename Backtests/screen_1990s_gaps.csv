@@ -1,0 +1,49 @@
+ticker,reason
+ABT,INSUFFICIENT_NI_HISTORY (0 yrs in 1989-1993 window)
+ADSK,INSUFFICIENT_NI_HISTORY (0 yrs in 1989-1993 window)
+AIG,NO_SHARES_DATA
+AVY,INSUFFICIENT_NI_HISTORY (0 yrs in 1989-1993 window)
+BCR,NO_PRICE
+BIG,INSUFFICIENT_NI_HISTORY (0 yrs in 1989-1993 window)
+CA,NO_PRICE
+CERN,NO_PRICE
+CMA,NO_PRICE
+DOC,PRICE_SANITY_FAIL (implied P/E 2.1x -- likely an unrecorded stock split Yahoo's cached events are missing)
+EFX,NO_SHARES_DATA
+EMC,NO_PRICE
+ES,NO_SHARES_DATA
+F,INSUFFICIENT_NI_HISTORY (2 yrs in 1989-1993 window)
+FDO,NO_PRICE
+FRX,INSUFFICIENT_NI_HISTORY (0 yrs in 1989-1993 window)
+FTR,NO_PRICE
+GPS,PRICE_SANITY_FAIL (implied P/E 1.8x -- likely an unrecorded stock split Yahoo's cached events are missing)
+HNZ,NO_PRICE
+IBM,PRICE_SANITY_FAIL (implied P/E 2.6x -- likely an unrecorded stock split Yahoo's cached events are missing)
+IGT,NO_PRICE
+IPG,NO_PRICE
+JEF,PRICE_SANITY_FAIL (implied P/E 1.9x -- likely an unrecorded stock split Yahoo's cached events are missing)
+JOY,INSUFFICIENT_NI_HISTORY (2 yrs in 1989-1993 window)
+K,NO_PRICE
+KR,INSUFFICIENT_NI_HISTORY (0 yrs in 1989-1993 window)
+LHX,INSUFFICIENT_NI_HISTORY (0 yrs in 1989-1993 window)
+LM,INSUFFICIENT_NI_HISTORY (0 yrs in 1989-1993 window)
+M,INSUFFICIENT_NI_HISTORY (0 yrs in 1989-1993 window)
+MO,PRICE_SANITY_FAIL (implied P/E 0.6x -- likely an unrecorded stock split Yahoo's cached events are missing)
+MRO,NO_PRICE
+OI,INSUFFICIENT_NI_HISTORY (0 yrs in 1989-1993 window)
+PCL,NO_PRICE
+PCP,NO_PRICE
+PEP,INSUFFICIENT_NI_HISTORY (2 yrs in 1989-1993 window)
+PLL,NO_PRICE
+PNW,PRICE_SANITY_FAIL (implied P/E 2.6x -- likely an unrecorded stock split Yahoo's cached events are missing)
+S,NO_PRICE
+SCG,NO_SHARES_DATA
+SCHW,NO_SHARES_DATA
+STI,NO_PRICE
+STJ,NO_PRICE
+SWN,NO_PRICE
+TEG,NO_SHARES_DATA
+TIF,NO_PRICE
+VAR,NO_PRICE
+VIAB,NO_PRICE
+WELL,PRICE_SANITY_FAIL (implied P/E 1.4x -- likely an unrecorded stock split Yahoo's cached events are missing)

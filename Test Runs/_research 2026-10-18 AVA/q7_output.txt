@@ -1,0 +1,28 @@
+COMPUTATION, NOT A CLEARANCE (operator rule 3): computed before Q1 to Q4 closed; no entry language.
+equity all-spending          [-177.3, -337, -60, -8, -110] mean -138.5
+equity maintenance (D&A)     [30.4, -138, 174, 251, 171] mean 97.7
+after-tax interest           [77.9, 84.5, 104.3, 111.4, 113.8] mean 98.4
+all-equity all-spending      [-99.4, -252.5, 44.3, 103.4, 3.8] mean -40.1
+all-equity maintenance       [108.3, -53.5, 278.3, 362.4, 284.8] mean 196.1
+growth capex (capex-D&A)     [207.7, 199, 234, 259, 281] mean 236.1
+sales CAGR 2021-25 8.09 %
+all-equity maintenance halves 27.4 323.6 implied annual over 3 yrs 127.7
+equity maintenance halves -53.8 211.0 implied annual over 3 yrs meaningless (first half negative)
+--- discount 0.0543
+sales g 8.09 % growth case EV 4170  (growth capex flat: 5099 )  per share 9.97 21.07
+rate-base g 4.86 % growth case EV 3032  (growth capex flat: 3539 )  per share -3.61 2.44
+no-growth maintenance EV 3611 per share 3.29
+equity-only no-growth 1799 per share 21.48
+equity-only growth (sales g) 716 per share 8.54
+--- discount 0.1
+sales g 8.09 % growth case EV 1281  (growth capex flat: 1977 )  per share -24.53 -16.22
+rate-base g 4.86 % growth case EV 904  (growth capex flat: 1286 )  per share -29.02 -24.47
+no-growth maintenance EV 1961 per share -16.41
+equity-only no-growth 977 per share 11.66
+equity-only growth (sales g) -439 per share -5.24
+mkt cap 3071 EV 6406
+all-equity maintenance yield at price 3.06 %; equity maintenance yield 3.18 %
+IRR no-growth all-equity 3.06
+IRR growth case all-equity (sales g) 4.13
+IRR growth case all-equity (rate base g) 3.32
+IRR growth case equity (sales g) 3.19

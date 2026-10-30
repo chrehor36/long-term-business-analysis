@@ -1,0 +1,43 @@
+year  OCF   capex   D&A  allspend_AE  maint_AE  allspend_EO  maint_EO  revenue  EBIT
+2019  1058.5   457.0  336.8      571.5     691.7      388.8     509.0   3943.5   748.7
+2020   954.1   699.7  290.3      225.3     634.7       56.6     466.1   3263.5   -43.2
+2021   543.8  1035.3  277.8     -528.2     229.3     -712.0      45.5   3760.5   341.9
+2022   853.8  1074.8  273.1     -255.4     546.3     -446.6     355.0   5681.8  1045.9
+2023   840.2   788.7  301.7      284.6     771.5       95.7     582.7   5215.1   914.1
+2024  1622.2   765.4  313.1      875.2    1327.5      679.4    1131.8   4224.8   395.3
+2025  1319.7   499.1  387.4      740.8     852.4      578.7     690.4   4662.7  1011.3
+
+window 2021-25: all-spend AE 223.4  maint AE 745.4  all-spend EO 39.1  maint EO 561.1
+cycle 2019-24: all-spend AE 195.5  maint AE 700.2  all-spend EO 10.3  maint EO 515.0
+
+shown growth 2019->2024 (maint AE): 13.93%; owner cash in yr10 at that rate 2579 vs sales ~4663; highest share of sales earned 31.4%
+sales growth 2019->2024: 1.39%
+
+market cap US$M 6003.7; net debt 3509.0; EV 9512.7
+cycle maint AE (central): base 700.2; EV range 13236-14794; equity 9727-11285; per ADS 7.03-8.16; fair EV 7348; fair equity 3839; fair per share 0.05550 per ADS 2.77
+window maint AE: base 745.4; EV range 14091-15750; equity 10582-12241; per ADS 7.65-8.85; fair EV 7822; fair equity 4313; fair per share 0.06236 per ADS 3.12
+cycle all-spend AE: base 195.5; EV range 3695-4131; equity 186-622; per ADS 0.13-0.45; fair EV 2051; fair equity -1458; fair per share -0.02107 per ADS -1.05
+window all-spend AE: base 223.4; EV range 4223-4720; equity 714-1211; per ADS 0.52-0.88; fair EV 2344; fair equity -1165; fair per share -0.01684 per ADS -0.84
+cycle maint EO: base 515.0; equity range 9736-10882; per ADS 7.04-7.87; fair equity 5405; per share 0.07814; per ADS 3.91
+cycle all-spend EO: base 10.3; equity range 195-218; per ADS 0.14-0.16; fair equity 108; per share 0.00157; per ADS 0.08
+
+expected return at the price, central base: no growth 7.36%; growth case 8.14%
+expected return at the price, window maint base: no growth 7.84%; growth case 8.65%
+
+year  CE  EBIT  EBIT-after-27%/CE  underlying
+2019    8348     749    6.5%    6.5%
+2020    8607     -43   -0.4%    7.3%
+2021    7726     342    3.2%    3.2%
+2022    8353    1046    9.1%    9.1%
+2023    9066     914    7.4%    7.4%
+2024    8890     395    3.2%    8.6%
+2025    9018    1011    8.2%    8.2%
+
+growth spending, cycle average (capex less D&A): 504.7
+AE central: growth worth 1559 vs its cost 3843 at the sovereign; range (inverted) bottom 10952 top 13236 -> equity 7443 to 9727; per share 0.1076-0.1406; per ADS 5.38-7.03; width 1.31x; at 10%: top 7002 growth 4592; fair 5797 -> equity 2288; per share 0.03308; per ADS 1.65
+   expected return at the price: top case 7.36%
+EO beside: growth worth 1147 vs its cost 3843 at the sovereign; range (inverted) bottom 7039 top 9736 -> equity 7039 to 9736; per share 0.1018-0.1408; per ADS 5.09-7.04; width 1.38x; at 10%: top 5150 growth 2558; fair 3854 -> equity 3854; per share 0.05572; per ADS 2.79
+   expected return at the price: top case 8.58%
+
+window 2021-25 (e): growth spending 522.0; range equity 8267 to 10582; per ADS 5.98-7.65; fair per share 0.03917; per ADS 1.96
+2018 owner cash: all-spend 645.8; maint 779.1; cycle 2018-24 maint avg 711.4; all-spend avg 259.8

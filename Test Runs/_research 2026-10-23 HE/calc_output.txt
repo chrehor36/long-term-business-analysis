@@ -1,0 +1,22 @@
+2021 est: other OCF -21.0, other capex 9.5 -> OCF 252.2 capex 301.5 SBC 6.56
+2021 OCF 252.2 capex 301.5 SBC 6.56 pref 1.89 lease 0.00 -> owner cash all-capex -57.8
+2022 OCF 333.7 capex 339.3 SBC 7.45 pref 1.89 lease 0.85 -> owner cash all-capex -15.8
+2023 OCF 443.4 capex 442.7 SBC 6.78 pref 1.89 lease 3.52 -> owner cash all-capex -11.5
+2024 OCF 428.1 capex 344.3 SBC 3.59 pref 1.89 lease 4.68 -> owner cash all-capex 73.7
+2025 OCF 391.1 capex 341.2 SBC 3.43 pref 1.89 lease 10.37 -> owner cash all-capex 34.2
+avg all-capex, 5y 4.5; 4y 2022-25 20.1
+debt raised 5y 622 cap(52%) 920 credit/yr 124.4; 4y 507 cap 763 credit/yr 126.8
+CENTRAL equity-only owner cash 5y 128.9; cycle base 2022-25 146.9; maintenance-only (capex at depreciation, no credit) 2022-25 131.7
+settlement after-tax PV at 0.0529: 990.2; at 10%: 930.6; ASB stake+proceeds 98.4
+central 5y     g=0.00: value $  8.95/sh at sovereign; $  2.65/sh at 10%
+central 5y     g=0.02: value $ 11.40/sh at sovereign; $  3.73/sh at 10%
+cycle base 4y  g=0.00: value $ 10.91/sh at sovereign; $  3.68/sh at 10%
+cycle base 4y  g=0.02: value $ 13.71/sh at sovereign; $  4.92/sh at 10%
+maint-only     g=0.00: value $  9.25/sh at sovereign; $  2.81/sh at 10%
+maint-only     g=0.02: value $ 11.76/sh at sovereign; $  3.92/sh at 10%
+yield at price central: 5.37% (mkt cap 1511)
+yield at price cycle: 6.11% (mkt cap 1511)
+yield at price maint: 5.48% (mkt cap 1511)
+growth for 10 yrs needed for central to earn 10% at price: 8.6%/yr
+all-equity at 0.0529: owner cash 108.3, EV 2047, net debt 2428 + settlement 990 -> $-7.94/sh
+all-equity at 0.1: owner cash 108.3, EV 1083, net debt 2428 + settlement 931 -> $-13.18/sh

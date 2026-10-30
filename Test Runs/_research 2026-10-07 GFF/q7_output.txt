@@ -1,0 +1,17 @@
+FY2023       equity-basis owner cash   262.2   all-equity basis   334.9
+FY2024       equity-basis owner cash   231.5   all-equity basis   304.8
+FY2025       equity-basis owner cash   241.9   all-equity basis   309.5
+TTM 2026-06  equity-basis owner cash   230.3   all-equity basis   293.8
+base (FY2023-25 mean): equity 245.2, all-equity 316.4; growth shown FY2023->FY2025: -3.95% / -3.86%
+net debt 983.5 (06-30 1164.4 less Australasia cash 180.9); AMES claims at carrying 350.1
+ALL-EQUITY (central): whole-business range 4,141 to 5,610 (width 1.35 to 1)
+   per share 69.70 to 102.14; midpoint 85.92; FAIR PRICE (midpoint stream at 10%) 40.23; with AMES claims at carrying +7.73/sh -> range 77.43 to 109.87, fair 47.96
+   expected return at $94.51 on the midpoint stream: 5.21%
+EQUITY-ONLY (beside): whole-business range 3,187 to 4,348 (width 1.36 to 1)
+   per share 70.36 to 95.99; midpoint 83.17; FAIR PRICE (midpoint stream at 10%) 47.88; with AMES claims at carrying +7.73/sh -> range 78.09 to 103.72, fair 55.61
+   expected return at $94.51 on the midpoint stream: 4.94%
+literal five-year window (consolidated incl. AMES, run.py, after interest): owner cash 177.6; no-growth equity value 3,149; per share 69.52 (equity-only basis)
+growth spending above depreciation: {'FY2023': 10.5, 'FY2024': 28.7, 'FY2025': 17.8}
+maintenance-only base: all-equity 335.4, equity 264.2
+ALL-EQUITY (central, spec e): per share 69.70 to 109.58 (width 1.44 to 1 whole-business); midpoint 89.64; FAIR 42.32 (claims at carrying: 50.05); expected return at price on midpoint stream 5.40%
+EQUITY-ONLY (beside, spec e): per share 70.36 to 103.42 (width 1.47 to 1 whole-business); midpoint 86.89; FAIR 49.98 (claims at carrying: 57.71); expected return at price on midpoint stream 5.17%

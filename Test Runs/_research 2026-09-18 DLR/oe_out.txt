@@ -1,0 +1,16 @@
+year  base  plantdep  OE_company(c)  OE_central  OE_conservative  OE_allcapex  gains  OEc/unit
+2016 810.0 518.7 None 291.3 87.8 51.9 169.9 None
+2017 934.0 595.0 None 339.0 124.6 -216.6 40.4 None
+2018 1276.8 770.3 None 506.5 267.1 -48.4 80.0 None
+2019 1403.9 809.5 None 594.4 349.4 -33.0 335.1 None
+2020 1555.4 1010.5 1344.7 544.9 271.1 -508.7 316.9 2.01
+2021 1572.3 1223.7 1355.2 348.6 44.4 -948.5 1380.8 1.2
+2022 1514.3 1324.6 1247.8 189.7 -128.9 -1128.8 176.8 0.65
+2023 1474.2 1442.9 1147.2 31.3 -304.2 -2051.4 900.5 0.1
+2024 2098.2 1531.4 1792.5 566.8 218.6 -733.5 595.8 1.72
+2025 2214.0 1663.3 1870.1 550.7 183.7 -967.2 995.6 1.59
+5y FY2021-25 company 1482.6 central 337.4 conservative 2.7 all-capex -1165.9 gains mean 809.9
+3y FY2023-25 company 1603.3 central 382.9 conservative 32.7 all-capex -1250.7 gains mean 830.6
+10y FY2016-25 company n/a central 396.3 conservative 111.3 all-capex -658.4 gains mean 499.2
+TTM ocf 2967.0 sbc 102.2 da 1997.0 base(ex pref 40.7, nci ~63.6) 2760.5 central (intangibles at FY2025 231.3) 994.8
+UPLIFT 1.143 IMP mean 129.4

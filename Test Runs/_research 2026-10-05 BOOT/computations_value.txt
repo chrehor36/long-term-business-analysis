@@ -1,0 +1,20 @@
+A all capex (5-yr mean FY22-26): C=35.3  no-growth     627M $  20.7/sh   capped growth (g=r=5.63%)     980M $  32.4/sh  ratio 1.56
+B depreciation variant (5-yr mean): C=110.6  no-growth    1964M $  64.9/sh   capped growth (g=r=5.63%)    3070M $ 101.4/sh  ratio 1.56
+M maintenance judgment (5-yr mean): C=118.7  no-growth    2108M $  69.6/sh   capped growth (g=r=5.63%)    3295M $ 108.8/sh  ratio 1.56
+NI 5-yr mean (reference only): C=183.4  no-growth    3258M $ 107.6/sh   capped growth (g=r=5.63%)    5092M $ 168.1/sh  ratio 1.56
+
+fair price at 10% IRR: C=110.6 g=0.000:    1106M $  36.5/sh;  at 7.5%: $  48.7/sh;  IRR at price:  2.96%
+fair price at 10% IRR: C=118.7 g=0.000:    1187M $  39.2/sh;  at 7.5%: $  52.3/sh;  IRR at price:  3.18%
+fair price at 10% IRR: C=110.6 g=0.056:    1628M $  53.8/sh;  at 7.5%: $  74.1/sh;  IRR at price:  4.69%
+fair price at 10% IRR: C=118.7 g=0.056:    1748M $  57.7/sh;  at 7.5%: $  79.5/sh;  IRR at price:  5.01%
+fair price at 10% IRR: C=110.6 g=0.041:    1464M $  48.4/sh;  at 7.5%: $  66.0/sh;  IRR at price:  4.17%
+fair price at 10% IRR: C=118.7 g=0.041:    1572M $  51.9/sh;  at 7.5%: $  70.9/sh;  IRR at price:  4.46%
+fair price at 10% IRR: C=110.6 g=0.109:    2357M $  77.8/sh;  at 7.5%: $ 110.0/sh;  IRR at price:  6.80%
+fair price at 10% IRR: C=118.7 g=0.109:    2530M $  83.5/sh;  at 7.5%: $ 118.1/sh;  IRR at price:  7.22%
+
+C=35.3 g=10.9% for 10y then 0 at 5.63%: 1486M $49.1/sh
+C=110.6 g=10.9% for 10y then 0 at 5.63%: 4656M $153.8/sh
+cheap (no growth, 10% on B): 1105.9999999999998 36.51991735536098
+market cap 3738.05829492
+NI FY26 yield 6.043244438081579  B FY26 yield 5.620565101553518  B mean yield 2.9587553556964257
+B growth FY22-26 0.41708885444494337  NI growth FY22-26 0.040945017578596365  sales FY22-26 0.10933072166197833  NI FY21-26 0.3062489585143422

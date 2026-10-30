@@ -1,0 +1,27 @@
+year          2021     2022     2023     2024     2025   avg
+oc_all      1032.7    987.6   1132.7   1713.1   1586.2   1290.5
+oc_mnt       958.7    948.6   1108.7   1720.1   1645.2   1276.3
+dep          204.0    188.0    210.0    200.0    201.0    200.6
+ati          135.7    139.6    164.7    152.1    167.2    151.9
+acq_net      534.0    190.0    420.0    191.0   2492.0    765.4
+etr [0.233, 0.249, 0.245, 0.243, 0.257]
+g_org 0.0878  g_sales 0.0931  g_total_ownercash(mnt) 0.1445
+price 287.32 shares 168.910851 mcap 48531 net_debt 5901 EV 54432
+base maintenance 1276.3; all-spending 1290.5; avg net purchases 765.4; highest owner-cash share of sales 0.166
+cap test organic: share at year 10 0.135 (sales at the same organic rate) vs highest 0.166
+cap test total: owner cash at total growth 0.1445 vs sales at 0.0931: share at year 10 0.213
+default-pair growth carried: 0.0931 (cut to sales growth)
+org_mnt_nog  value@0.0543     23504  per share   104.21 | value@10%     12763 | expected return at EV 0.0234
+org_mnt_g    value@0.0543     47370  per share   245.51 | value@10%     23431 | expected return at EV 0.0480
+org_all_nog  value@0.0543     23765  per share   105.76 | value@10%     12905 | expected return at EV 0.0237
+org_all_g    value@0.0543     47897  per share   248.63 | value@10%     23692 | expected return at EV 0.0484
+def_nog      value@0.0543     23504  per share   104.21 | value@10%     12763 | expected return at EV 0.0234
+def_g        value@0.0543     39997  per share   201.86 | value@10%     16918 | expected return at EV 0.0428
+FAIR all-equity organic maintenance (central): 72.20
+FAIR all-equity organic all-spending: 73.40
+FAIR all-equity default pair: 52.92
+equity-only base 1124.4; range per share @R 122.59 to 247.07; FAIR equity-only 94.39; expected return at market cap 0.0232 / 0.0474
+RANGE central (organic, maintenance) per share: 104.21 to 245.51; width 2.36x; price 287.32
+RANGE all-spending beside: 105.76 to 248.63
+RANGE default pair beside: 104.21 to 201.86
+owner cash needed (base, growing at organic rate) for 10% at EV: 2965 vs base 1276

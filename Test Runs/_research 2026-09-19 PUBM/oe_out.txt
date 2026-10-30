@@ -1,0 +1,22 @@
+year        OCF    SBC capSBC  grant  capex    D&A  AR+AP  OEcapex  OE D&A  OEgrant  OE exWC SBC/OCF
+FY2021     88.7   14.1    0.9   33.9   39.4   23.1    0.9     34.3    51.5     15.4     33.4    15.9
+FY2022     87.2   20.6    1.5   45.9   48.9   34.2    5.4     16.2    32.3     -7.6     10.8    23.7
+FY2023     81.1   28.9    2.5   52.9   28.3   44.8    4.0     21.5     7.5     -0.1     17.5    35.6
+FY2024     73.4   37.7    3.1   54.2   38.5   45.4  -11.2     -5.9    -9.6    -19.3      5.4    51.3
+FY2025     81.1   38.4    3.5   38.2   34.9   43.8   24.2      4.4    -1.1      4.4    -19.8    47.3
+5y FY2021-25 capex end 14.1 | D&A end 16.1 | larger of charge/grant -1.4 | capex end ex AR/AP swing 9.5 | capex end with cash acquisitions 8.5
+3y FY2023-25 capex end 6.7 | D&A end -1.1 | larger of charge/grant -5.0 | capex end ex AR/AP swing 1.0 | capex end with cash acquisitions 6.7
+5y SBC/OCF 33.9%  3y 44.5%
+5y capex (cash) 189.9 vs D&A 191.2 ; hardware capex vs hardware depreciation FY2023-25: 42.5 vs 72.3
+TTM to 2026-06-30: OCF 88.0 SBC 35.7 capSBC 3.5 capex 34.0 D&A 40.2 AR+AP 20.2 -> OE capex end 14.8, D&A end 12.1, capex end ex swing -5.4
+H1 2026 RSU grant value 22.9 (options 485K granted at a $6.29 weighted exercise price; FV not in the 10-Q)
+TTM OE at H1 2026 RSU grant run-rate (x2) instead of charge: 8.2
+cap $M 799.4 ; cash+securities 137.5 ; EV 661.9
+  5y larger measure    OE   -1.4 -> yield on cap -0.18%, on EV -0.22%
+  5y capex end         OE   14.1 -> yield on cap  1.76%, on EV  2.13%
+  5y D&A end           OE   16.1 -> yield on cap  2.02%, on EV  2.44%
+  3y capex end         OE    6.7 -> yield on cap  0.83%, on EV  1.01%
+  3y D&A end           OE   -1.1 -> yield on cap -0.13%, on EV -0.16%
+  TTM capex end        OE   14.8 -> yield on cap  1.85%, on EV  2.23%
+  TTM D&A end          OE   12.1 -> yield on cap  1.51%, on EV  1.83%
+OE needed for 10% on cap: 80 ; on EV: 66 ; for 5.34% on cap: 43

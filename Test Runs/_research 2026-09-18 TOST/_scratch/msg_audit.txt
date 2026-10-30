@@ -1,0 +1,10 @@
+TOST run: self-audit, eight defects in the brief, register line
+
+Four corrections to the first session's Q1 on the record. Brief defects: warrant repurchase is
+FY2024 not FY2025; the quoted capex series mixes software-excluded and software-included years;
+capitalised SBC is $12M, not the $1M gap inferred; the customer cash is payroll float and
+restricted cash is Toast's own collateral; $62M of the $91M credit-loss expense is Toast Capital;
+NCR Voyix omitted and Olo (deregistered 2025-09-23) included; the 2026 loans held for investment
+missed. Tooling notes on price() and the capex two-paths split, not fixed.
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
